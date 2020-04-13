@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small copa solar panel", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "copa", "amount": 12}, {"item": "wuronium", "amount": 4}, {"item": "qykyzo", "amount": 7}], "research": "copa-factory", "powerProduction": 1.2154269204071895, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qiditinium power node", "description": "...", "size": 2, "health": 444, "requirements": [{"item": "qiditinium", "amount": 14}, {"item": "kyxiwi", "amount": 8}, {"item": "kyqedu", "amount": 9}], "research": "qiditinium-factory", "maxNodes": 35, "laserRange": 20, "category": "power"}

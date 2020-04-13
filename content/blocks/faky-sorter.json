@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "faky sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "faky", "amount": 4}, {"item": "besu", "amount": 5}], "research": "faky-conveyor", "category": "distribution", "invert": false}

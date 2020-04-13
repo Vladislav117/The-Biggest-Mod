@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bayice battery", "description": "...", "size": 1, "health": 277, "requirements": [{"item": "bayice", "amount": 3}, {"item": "pyvunium", "amount": 1}, {"item": "kedy", "amount": 6}], "research": "bayice-factory", "consumes": {"powerBuffered": 1740}, "category": "power"}

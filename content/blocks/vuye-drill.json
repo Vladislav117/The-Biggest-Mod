@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vuye drill", "description": "...", "size": 3, "health": 182, "tier": 3, "drillTime": 3, "consumes": {"power": 15}, "requirements": [{"item": "vuye", "amount": 8}, {"item": "nehudo", "amount": 1}, {"item": "zetizy", "amount": 4}], "research": "vuye-factory", "category": "production"}

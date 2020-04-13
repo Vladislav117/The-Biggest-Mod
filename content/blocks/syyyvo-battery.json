@@ -1,0 +1,1 @@
+{"type": "battery", "name": "syyyvo battery", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "syyyvo", "amount": 14}, {"item": "hymonium", "amount": 19}, {"item": "jayi", "amount": 7}], "research": "syyyvo-factory", "consumes": {"powerBuffered": 5702}, "category": "power"}

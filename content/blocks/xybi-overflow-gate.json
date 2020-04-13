@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xybi overflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "xybi", "amount": 5}, {"item": "xafi", "amount": 4}], "research": "xybi-conveyor", "category": "distribution", "invert": false}

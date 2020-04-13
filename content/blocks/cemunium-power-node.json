@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cemunium power node", "description": "...", "size": 2, "health": 313, "requirements": [{"item": "cemunium", "amount": 5}, {"item": "gymypa", "amount": 13}, {"item": "siga", "amount": 2}], "research": "cemunium-factory", "maxNodes": 46, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "liyu conduit", "description": "...", "health": 114, "requirements": [{"item": "liyu", "amount": 6}, {"item": "pocunium", "amount": 8}, {"item": "cazewy", "amount": 9}], "liquidCapacity": 30, "liquidPressure": 8, "research": "liyu-factory", "category": "liquid"}

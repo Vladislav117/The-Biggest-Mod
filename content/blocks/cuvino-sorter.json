@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cuvino sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "cuvino", "amount": 4}, {"item": "mufosinium", "amount": 1}], "research": "cuvino-conveyor", "category": "distribution", "invert": false}

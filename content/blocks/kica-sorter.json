@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kica sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "kica", "amount": 4}, {"item": "kufi", "amount": 2}], "research": "kica-conveyor", "category": "distribution", "invert": false}

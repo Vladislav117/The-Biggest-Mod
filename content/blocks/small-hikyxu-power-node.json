@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hikyxu power node", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "hikyxu", "amount": 9}, {"item": "boryvi", "amount": 4}, {"item": "xymywi", "amount": 8}], "research": "hikyxu-factory", "maxNodes": 29, "laserRange": 5, "category": "power"}

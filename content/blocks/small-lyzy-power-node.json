@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lyzy power node", "description": "...", "size": 1, "health": 183, "requirements": [{"item": "lyzy", "amount": 1}, {"item": "myyu", "amount": 6}, {"item": "gogajy", "amount": 4}], "research": "lyzy-factory", "maxNodes": 6, "laserRange": 16, "category": "power"}

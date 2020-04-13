@@ -1,0 +1,1 @@
+{"type": "battery", "name": "doce battery", "description": "...", "size": 3, "health": 285, "requirements": [{"item": "doce", "amount": 19}, {"item": "hewunium", "amount": 5}, {"item": "jehonium", "amount": 3}], "research": "doce-factory", "consumes": {"powerBuffered": 2720}, "category": "power"}

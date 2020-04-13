@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pemi battery", "description": "...", "size": 1, "health": 233, "requirements": [{"item": "pemi", "amount": 2}, {"item": "dijo", "amount": 14}, {"item": "kokyya", "amount": 9}], "research": "pemi-factory", "consumes": {"powerBuffered": 1275}, "category": "power"}

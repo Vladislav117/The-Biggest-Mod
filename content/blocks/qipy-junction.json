@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qipy junction", "description": "...", "health": 20, "speed": 7, "capacity": 1, "size": 1, "requirements": [{"item": "qipy", "amount": 5}, {"item": "zohura", "amount": 4}], "research": "qipy-conveyor", "category": "distribution"}

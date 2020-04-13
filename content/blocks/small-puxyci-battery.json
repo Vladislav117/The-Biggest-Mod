@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small puxyci battery", "description": "...", "size": 1, "health": 116, "requirements": [{"item": "puxyci", "amount": 16}, {"item": "geco", "amount": 11}, {"item": "yicejanium", "amount": 7}], "research": "puxyci-factory", "consumes": {"powerBuffered": 719}, "category": "power"}

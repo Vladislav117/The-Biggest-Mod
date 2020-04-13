@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yylove liquid tank", "description": "...", "health": 368, "size": 3, "requirements": [{"item": "yylove", "amount": 5}, {"item": "sato", "amount": 3}, {"item": "cuwe", "amount": 6}], "research": "yylove-conduit", "category": "liquid", "liquidCapacity": 100824, "hasLiquids": true}

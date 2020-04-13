@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hejonium power node", "description": "...", "size": 2, "health": 70, "requirements": [{"item": "hejonium", "amount": 9}, {"item": "tikonium", "amount": 16}, {"item": "sayibe", "amount": 5}], "research": "hejonium-factory", "maxNodes": 55, "laserRange": 6, "category": "power"}

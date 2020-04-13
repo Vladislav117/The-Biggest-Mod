@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "baranium inverted sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "baranium", "amount": 5}, {"item": "lyfydy", "amount": 1}], "research": "baranium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rajubanium bridge conveyor", "description": "", "health": 33, "range": 12, "speed": 10, "bufferCapacity": 23, "requirements": [{"item": "rajubanium", "amount": 2}, {"item": "heruru", "amount": 1}], "research": "rajubanium-conveyor", "category": "distribution", "size": 1}

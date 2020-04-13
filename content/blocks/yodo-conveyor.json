@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "yodo conveyor", "description": "...", "health": 47, "requirements": [{"item": "yodo", "amount": 10}, {"item": "yuqy", "amount": 1}], "speed": 0.1495051395446208, "research": "yodo-factory", "category": "distribution"}

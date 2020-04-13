@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zowu solar panel", "description": "...", "size": 3, "health": 300, "requirements": [{"item": "zowu", "amount": 8}, {"item": "razi", "amount": 10}, {"item": "gineta", "amount": 7}], "research": "zowu-factory", "powerProduction": 3.8559303651931827, "category": "power"}

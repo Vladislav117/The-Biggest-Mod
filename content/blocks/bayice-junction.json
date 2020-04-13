@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bayice junction", "description": "...", "health": 4, "speed": 5, "capacity": 20, "size": 1, "requirements": [{"item": "bayice", "amount": 2}, {"item": "famynium", "amount": 4}], "research": "bayice-conveyor", "category": "distribution"}

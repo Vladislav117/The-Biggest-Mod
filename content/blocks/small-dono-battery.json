@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dono battery", "description": "...", "size": 1, "health": 108, "requirements": [{"item": "dono", "amount": 7}, {"item": "mimuce", "amount": 19}, {"item": "merujynium", "amount": 7}], "research": "dono-factory", "consumes": {"powerBuffered": 2754}, "category": "power"}

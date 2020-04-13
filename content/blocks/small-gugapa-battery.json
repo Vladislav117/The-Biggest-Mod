@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gugapa battery", "description": "...", "size": 1, "health": 250, "requirements": [{"item": "gugapa", "amount": 18}, {"item": "sobiye", "amount": 4}, {"item": "cobi", "amount": 6}], "research": "gugapa-factory", "consumes": {"powerBuffered": 230}, "category": "power"}

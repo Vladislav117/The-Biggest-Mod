@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tugi power node", "description": "...", "size": 2, "health": 709, "requirements": [{"item": "tugi", "amount": 13}, {"item": "cifo", "amount": 14}, {"item": "byzure", "amount": 5}], "research": "tugi-factory", "maxNodes": 41, "laserRange": 10, "category": "power"}

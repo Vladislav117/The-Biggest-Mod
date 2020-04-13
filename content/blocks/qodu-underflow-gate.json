@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qodu underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "qodu", "amount": 1}, {"item": "walinium", "amount": 4}], "research": "qodu-conveyor", "category": "distribution", "invert": false}

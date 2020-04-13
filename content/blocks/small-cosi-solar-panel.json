@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cosi solar panel", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "cosi", "amount": 18}, {"item": "bileyu", "amount": 3}, {"item": "felu", "amount": 4}], "research": "cosi-factory", "powerProduction": 0.48656256738016934, "category": "power"}

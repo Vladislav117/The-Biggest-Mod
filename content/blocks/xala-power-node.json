@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xala power node", "description": "...", "size": 2, "health": 775, "requirements": [{"item": "xala", "amount": 19}, {"item": "wazo", "amount": 19}, {"item": "dywe", "amount": 8}], "research": "xala-factory", "maxNodes": 45, "laserRange": 20, "category": "power"}

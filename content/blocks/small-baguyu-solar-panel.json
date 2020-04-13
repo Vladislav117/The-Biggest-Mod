@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small baguyu solar panel", "description": "...", "size": 1, "health": 164, "requirements": [{"item": "baguyu", "amount": 8}, {"item": "birynium", "amount": 16}, {"item": "vakarinium", "amount": 9}], "research": "baguyu-factory", "powerProduction": 10.0386979100986, "category": "power"}

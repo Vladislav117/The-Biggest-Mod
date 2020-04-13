@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tyvaty solar panel", "description": "...", "size": 1, "health": 337, "requirements": [{"item": "tyvaty", "amount": 20}, {"item": "yuqy", "amount": 15}, {"item": "fygonium", "amount": 3}], "research": "tyvaty-factory", "powerProduction": 1.0481649869178042, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "juhura bridge conveyor", "description": "", "health": 5, "range": 16, "speed": 8, "bufferCapacity": 14, "requirements": [{"item": "juhura", "amount": 3}, {"item": "cobunium", "amount": 1}], "research": "juhura-conveyor", "category": "distribution", "size": 1}

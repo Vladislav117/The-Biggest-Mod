@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tupo power node", "description": "...", "size": 2, "health": 409, "requirements": [{"item": "tupo", "amount": 12}, {"item": "vove", "amount": 3}, {"item": "kyte", "amount": 4}], "research": "tupo-factory", "maxNodes": 20, "laserRange": 26, "category": "power"}

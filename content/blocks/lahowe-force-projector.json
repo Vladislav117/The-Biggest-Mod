@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "lahowe force projector", "description": "...", "health": 224, "size": 3, "consumes": {"power": 5.0, "item": "lahowe"}, "requirements": [{"item": "lahowe", "amount": 10}, {"item": "zokacu", "amount": 9}, {"item": "seyuwa", "amount": 1}], "research": "lahowe-factory", "category": "effect"}

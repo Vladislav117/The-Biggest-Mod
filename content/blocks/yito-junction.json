@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yito junction", "description": "...", "health": 25, "speed": 12, "capacity": 4, "size": 1, "requirements": [{"item": "yito", "amount": 4}, {"item": "veqyro", "amount": 4}], "research": "yito-conveyor", "category": "distribution"}

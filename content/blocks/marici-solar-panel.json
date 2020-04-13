@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "marici solar panel", "description": "...", "size": 3, "health": 170, "requirements": [{"item": "marici", "amount": 5}, {"item": "bixehy", "amount": 7}, {"item": "xyduda", "amount": 7}], "research": "marici-factory", "powerProduction": 0.34241441981244547, "category": "power"}

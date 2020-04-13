@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vova battery", "description": "...", "size": 3, "health": 272, "requirements": [{"item": "vova", "amount": 4}, {"item": "tiqi", "amount": 17}, {"item": "filu", "amount": 7}], "research": "vova-factory", "consumes": {"powerBuffered": 6006}, "category": "power"}

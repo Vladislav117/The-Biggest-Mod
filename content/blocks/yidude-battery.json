@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yidude battery", "description": "...", "size": 3, "health": 288, "requirements": [{"item": "yidude", "amount": 2}, {"item": "fyvuyy", "amount": 6}, {"item": "pijebu", "amount": 10}], "research": "yidude-factory", "consumes": {"powerBuffered": 1376}, "category": "power"}

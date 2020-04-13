@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zalirenium solar panel", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "zalirenium", "amount": 19}, {"item": "kiredi", "amount": 17}, {"item": "fusaji", "amount": 6}], "research": "zalirenium-factory", "powerProduction": 2.010018568511334, "category": "power"}

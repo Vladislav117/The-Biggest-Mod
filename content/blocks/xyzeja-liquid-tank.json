@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xyzeja liquid tank", "description": "...", "health": 212, "size": 3, "requirements": [{"item": "xyzeja", "amount": 2}, {"item": "kosonium", "amount": 10}, {"item": "qerobu", "amount": 3}], "research": "xyzeja-conduit", "category": "liquid", "liquidCapacity": 103851, "hasLiquids": true}

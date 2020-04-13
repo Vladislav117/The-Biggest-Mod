@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bevy inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "bevy", "amount": 4}, {"item": "furica", "amount": 3}], "research": "bevy-conveyor", "category": "distribution", "invert": true}

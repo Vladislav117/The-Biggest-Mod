@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ximy battery", "description": "...", "size": 3, "health": 372, "requirements": [{"item": "ximy", "amount": 16}, {"item": "vewi", "amount": 18}, {"item": "butuhi", "amount": 6}], "research": "ximy-factory", "consumes": {"powerBuffered": 835}, "category": "power"}

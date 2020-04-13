@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mubu conduit", "description": "...", "health": 125, "requirements": [{"item": "mubu", "amount": 18}, {"item": "xorele", "amount": 2}, {"item": "mywexu", "amount": 6}], "liquidCapacity": 25, "liquidPressure": 1, "research": "mubu-factory", "category": "liquid"}

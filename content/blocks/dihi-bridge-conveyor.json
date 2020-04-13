@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dihi bridge conveyor", "description": "", "health": 45, "range": 12, "speed": 7, "bufferCapacity": 16, "requirements": [{"item": "dihi", "amount": 3}, {"item": "vufinium", "amount": 1}], "research": "dihi-conveyor", "category": "distribution", "size": 1}

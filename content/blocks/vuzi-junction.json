@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vuzi junction", "description": "...", "health": 11, "speed": 12, "capacity": 12, "size": 1, "requirements": [{"item": "vuzi", "amount": 5}, {"item": "dubi", "amount": 5}], "research": "vuzi-conveyor", "category": "distribution"}

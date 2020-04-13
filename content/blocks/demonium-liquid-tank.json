@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "demonium liquid tank", "description": "...", "health": 177, "size": 3, "requirements": [{"item": "demonium", "amount": 7}, {"item": "byziqanium", "amount": 10}, {"item": "qotu", "amount": 6}], "research": "demonium-conduit", "category": "liquid", "liquidCapacity": 61504, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "weruqa battery", "description": "...", "size": 3, "health": 165, "requirements": [{"item": "weruqa", "amount": 17}, {"item": "capa", "amount": 10}, {"item": "zyly", "amount": 8}], "research": "weruqa-factory", "consumes": {"powerBuffered": 6017}, "category": "power"}

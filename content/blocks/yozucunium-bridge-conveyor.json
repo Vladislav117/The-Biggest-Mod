@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yozucunium bridge conveyor", "description": "", "health": 21, "range": 8, "speed": 17, "bufferCapacity": 1, "requirements": [{"item": "yozucunium", "amount": 5}, {"item": "ruxa", "amount": 4}], "research": "yozucunium-conveyor", "category": "distribution", "size": 1}

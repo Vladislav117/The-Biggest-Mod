@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "duvadi solar panel", "description": "...", "size": 3, "health": 291, "requirements": [{"item": "duvadi", "amount": 20}, {"item": "mynufu", "amount": 3}, {"item": "byja", "amount": 10}], "research": "duvadi-factory", "powerProduction": 0.08412803663394319, "category": "power"}

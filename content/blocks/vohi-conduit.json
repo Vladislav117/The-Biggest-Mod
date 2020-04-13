@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vohi conduit", "description": "...", "health": 94, "requirements": [{"item": "vohi", "amount": 6}, {"item": "hotose", "amount": 1}, {"item": "safe", "amount": 5}], "liquidCapacity": 20, "liquidPressure": 7, "research": "vohi-factory", "category": "liquid"}

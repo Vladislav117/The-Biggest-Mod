@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "repa conduit", "description": "...", "health": 114, "requirements": [{"item": "repa", "amount": 2}, {"item": "cesunium", "amount": 4}, {"item": "sivaqi", "amount": 9}], "liquidCapacity": 34, "liquidPressure": 7, "research": "repa-factory", "category": "liquid"}

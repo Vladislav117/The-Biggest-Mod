@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "watiju liquid router", "description": "...", "size": 1, "health": 12, "requirements": [{"item": "watiju", "amount": 6}, {"item": "taja", "amount": 6}, {"item": "fise", "amount": 10}], "research": "watiju-conduit", "liquidCapacity": 10, "category": "liquid"}

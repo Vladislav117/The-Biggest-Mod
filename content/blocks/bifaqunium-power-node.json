@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bifaqunium power node", "description": "...", "size": 2, "health": 649, "requirements": [{"item": "bifaqunium", "amount": 1}, {"item": "beyy", "amount": 4}, {"item": "pucinium", "amount": 5}], "research": "bifaqunium-factory", "maxNodes": 55, "laserRange": 18, "category": "power"}

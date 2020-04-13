@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "busu liquid tank", "description": "...", "health": 243, "size": 3, "requirements": [{"item": "busu", "amount": 10}, {"item": "fyhuxonium", "amount": 2}, {"item": "rudu", "amount": 1}], "research": "busu-conduit", "category": "liquid", "liquidCapacity": 67359, "hasLiquids": true}

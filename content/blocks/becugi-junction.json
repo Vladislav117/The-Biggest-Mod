@@ -1,0 +1,1 @@
+{"type": "junction", "name": "becugi junction", "description": "...", "health": 10, "speed": 8, "capacity": 19, "size": 1, "requirements": [{"item": "becugi", "amount": 5}, {"item": "qalo", "amount": 4}], "research": "becugi-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "solumo liquid router", "description": "...", "size": 1, "health": 91, "requirements": [{"item": "solumo", "amount": 19}, {"item": "gizomanium", "amount": 8}, {"item": "laso", "amount": 7}], "research": "solumo-conduit", "liquidCapacity": 10, "category": "liquid"}

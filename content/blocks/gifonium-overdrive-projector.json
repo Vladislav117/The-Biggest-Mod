@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "gifonium overdrive projector", "description": "...", "health": 114, "consumes": {"power": 3.0, "item": "gifonium"}, "size": 2, "requirements": [{"item": "gifonium", "amount": 5}, {"item": "rovaqa", "amount": 12}, {"item": "sato", "amount": 2}], "research": "gifonium-factory", "category": "effect"}

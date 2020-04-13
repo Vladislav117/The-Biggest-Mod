@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qidibe power node", "description": "...", "size": 2, "health": 430, "requirements": [{"item": "qidibe", "amount": 16}, {"item": "vahy", "amount": 11}, {"item": "kyqedu", "amount": 10}], "research": "qidibe-factory", "maxNodes": 52, "laserRange": 16, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tole solar panel", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "tole", "amount": 13}, {"item": "yudu", "amount": 9}, {"item": "hayy", "amount": 6}], "research": "tole-factory", "powerProduction": 0.7588188092742717, "category": "power"}

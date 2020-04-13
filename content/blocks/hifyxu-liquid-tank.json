@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hifyxu liquid tank", "description": "...", "health": 124, "size": 3, "requirements": [{"item": "hifyxu", "amount": 14}, {"item": "myhaxu", "amount": 20}, {"item": "tikonium", "amount": 8}], "research": "hifyxu-conduit", "category": "liquid", "liquidCapacity": 101290, "hasLiquids": true}

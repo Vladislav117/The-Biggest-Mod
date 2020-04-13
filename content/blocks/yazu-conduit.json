@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yazu conduit", "description": "...", "health": 51, "requirements": [{"item": "yazu", "amount": 18}, {"item": "qepyvonium", "amount": 9}, {"item": "mivuwa", "amount": 8}], "liquidCapacity": 8, "liquidPressure": 3, "research": "yazu-factory", "category": "liquid"}

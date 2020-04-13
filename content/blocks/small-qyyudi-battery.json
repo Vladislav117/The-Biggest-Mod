@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qyyudi battery", "description": "...", "size": 1, "health": 353, "requirements": [{"item": "qyyudi", "amount": 10}, {"item": "hofa", "amount": 9}, {"item": "xecy", "amount": 10}], "research": "qyyudi-factory", "consumes": {"powerBuffered": 206}, "category": "power"}

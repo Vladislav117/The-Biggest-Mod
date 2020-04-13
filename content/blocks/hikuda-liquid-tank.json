@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hikuda liquid tank", "description": "...", "health": 632, "size": 3, "requirements": [{"item": "hikuda", "amount": 2}, {"item": "fasaze", "amount": 11}, {"item": "ryte", "amount": 4}], "research": "hikuda-conduit", "category": "liquid", "liquidCapacity": 89775, "hasLiquids": true}

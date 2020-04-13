@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qevije battery", "description": "...", "size": 1, "health": 367, "requirements": [{"item": "qevije", "amount": 19}, {"item": "coqinium", "amount": 11}, {"item": "yedyte", "amount": 8}], "research": "qevije-factory", "consumes": {"powerBuffered": 589}, "category": "power"}

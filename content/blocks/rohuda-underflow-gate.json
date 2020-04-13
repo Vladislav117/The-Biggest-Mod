@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rohuda underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "rohuda", "amount": 5}, {"item": "xovunium", "amount": 4}], "research": "rohuda-conveyor", "category": "distribution", "invert": false}

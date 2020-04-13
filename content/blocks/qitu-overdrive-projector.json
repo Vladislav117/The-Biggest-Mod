@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "qitu overdrive projector", "description": "...", "health": 86, "consumes": {"power": 3.0, "item": "qitu"}, "size": 2, "requirements": [{"item": "qitu", "amount": 10}, {"item": "dekyzu", "amount": 1}, {"item": "pyqynium", "amount": 10}], "research": "qitu-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ryte conduit", "description": "...", "health": 196, "requirements": [{"item": "ryte", "amount": 11}, {"item": "fogodo", "amount": 11}, {"item": "yupo", "amount": 5}], "liquidCapacity": 11, "liquidPressure": 1, "research": "ryte-factory", "category": "liquid"}

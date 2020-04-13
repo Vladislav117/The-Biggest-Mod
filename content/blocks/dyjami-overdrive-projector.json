@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "dyjami overdrive projector", "description": "...", "health": 107, "consumes": {"power": 3.0, "item": "dyjami"}, "size": 2, "requirements": [{"item": "dyjami", "amount": 16}, {"item": "zydu", "amount": 5}, {"item": "cosizi", "amount": 9}], "research": "dyjami-factory", "category": "effect"}

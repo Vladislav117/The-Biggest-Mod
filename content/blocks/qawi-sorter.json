@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qawi sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "qawi", "amount": 4}, {"item": "yila", "amount": 4}], "research": "qawi-conveyor", "category": "distribution", "invert": false}

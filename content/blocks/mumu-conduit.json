@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mumu conduit", "description": "...", "health": 160, "requirements": [{"item": "mumu", "amount": 11}, {"item": "faqymu", "amount": 14}, {"item": "giho", "amount": 8}], "liquidCapacity": 48, "liquidPressure": 1, "research": "mumu-factory", "category": "liquid"}

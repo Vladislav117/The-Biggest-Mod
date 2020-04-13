@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "rabe drill", "description": "...", "size": 2, "health": 379, "tier": 2, "drillTime": 17, "consumes": {"power": 4}, "requirements": [{"item": "rabe", "amount": 3}, {"item": "lyheti", "amount": 20}, {"item": "wozego", "amount": 9}], "research": "rabe-factory", "category": "production"}

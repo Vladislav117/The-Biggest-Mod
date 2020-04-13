@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "voky force projector", "description": "...", "health": 225, "size": 3, "consumes": {"power": 5.0, "item": "voky"}, "requirements": [{"item": "voky", "amount": 17}, {"item": "reyezy", "amount": 18}, {"item": "qewo", "amount": 4}], "research": "voky-factory", "category": "effect"}

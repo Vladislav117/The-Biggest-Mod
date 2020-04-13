@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small maqini solar panel", "description": "...", "size": 1, "health": 252, "requirements": [{"item": "maqini", "amount": 10}, {"item": "qepyvonium", "amount": 1}, {"item": "rutylo", "amount": 4}], "research": "maqini-factory", "powerProduction": 2.137512980794153, "category": "power"}

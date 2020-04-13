@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nevelunium bridge conveyor", "description": "", "health": 21, "range": 10, "speed": 15, "bufferCapacity": 1, "requirements": [{"item": "nevelunium", "amount": 4}, {"item": "sygadu", "amount": 4}], "research": "nevelunium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fumena bridge conveyor", "description": "", "health": 19, "range": 3, "speed": 3, "bufferCapacity": 2, "requirements": [{"item": "fumena", "amount": 4}, {"item": "geyico", "amount": 5}], "research": "fumena-conveyor", "category": "distribution", "size": 1}

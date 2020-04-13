@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yevu liquid tank", "description": "...", "health": 658, "size": 3, "requirements": [{"item": "yevu", "amount": 13}, {"item": "kokyya", "amount": 1}, {"item": "cepaty", "amount": 5}], "research": "yevu-conduit", "category": "liquid", "liquidCapacity": 25605, "hasLiquids": true}

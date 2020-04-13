@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "teya power node", "description": "...", "size": 2, "health": 354, "requirements": [{"item": "teya", "amount": 6}, {"item": "dimysynium", "amount": 13}, {"item": "pyhisy", "amount": 8}], "research": "teya-factory", "maxNodes": 33, "laserRange": 12, "category": "power"}

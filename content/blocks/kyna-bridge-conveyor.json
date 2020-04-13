@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kyna bridge conveyor", "description": "", "health": 3, "range": 19, "speed": 4, "bufferCapacity": 11, "requirements": [{"item": "kyna", "amount": 1}, {"item": "xinodunium", "amount": 5}], "research": "kyna-conveyor", "category": "distribution", "size": 1}

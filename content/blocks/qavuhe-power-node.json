@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qavuhe power node", "description": "...", "size": 2, "health": 661, "requirements": [{"item": "qavuhe", "amount": 14}, {"item": "rakuhy", "amount": 5}, {"item": "vurypo", "amount": 4}], "research": "qavuhe-factory", "maxNodes": 12, "laserRange": 7, "category": "power"}

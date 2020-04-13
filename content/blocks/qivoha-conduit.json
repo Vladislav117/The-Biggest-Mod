@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qivoha conduit", "description": "...", "health": 75, "requirements": [{"item": "qivoha", "amount": 8}, {"item": "tove", "amount": 11}, {"item": "siga", "amount": 3}], "liquidCapacity": 9, "liquidPressure": 9, "research": "qivoha-factory", "category": "liquid"}

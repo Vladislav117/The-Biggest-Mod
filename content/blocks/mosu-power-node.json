@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mosu power node", "description": "...", "size": 2, "health": 629, "requirements": [{"item": "mosu", "amount": 16}, {"item": "fayenium", "amount": 12}, {"item": "cezany", "amount": 5}], "research": "mosu-factory", "maxNodes": 13, "laserRange": 19, "category": "power"}

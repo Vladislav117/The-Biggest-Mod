@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zyly conduit", "description": "...", "health": 132, "requirements": [{"item": "zyly", "amount": 9}, {"item": "wita", "amount": 20}, {"item": "humidu", "amount": 1}], "liquidCapacity": 50, "liquidPressure": 1, "research": "zyly-factory", "category": "liquid"}

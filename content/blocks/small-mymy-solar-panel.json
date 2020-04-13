@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mymy solar panel", "description": "...", "size": 1, "health": 310, "requirements": [{"item": "mymy", "amount": 10}, {"item": "mewy", "amount": 8}, {"item": "nabu", "amount": 6}], "research": "mymy-factory", "powerProduction": 8.084981907941351, "category": "power"}

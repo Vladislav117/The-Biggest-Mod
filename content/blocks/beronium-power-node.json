@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "beronium power node", "description": "...", "size": 2, "health": 468, "requirements": [{"item": "beronium", "amount": 5}, {"item": "vosamo", "amount": 13}, {"item": "dihomu", "amount": 4}], "research": "beronium-factory", "maxNodes": 41, "laserRange": 12, "category": "power"}

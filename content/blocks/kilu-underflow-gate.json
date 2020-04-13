@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kilu underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "kilu", "amount": 1}, {"item": "haqu", "amount": 4}], "research": "kilu-conveyor", "category": "distribution", "invert": false}

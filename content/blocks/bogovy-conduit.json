@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bogovy conduit", "description": "...", "health": 83, "requirements": [{"item": "bogovy", "amount": 3}, {"item": "cyyo", "amount": 14}, {"item": "xynice", "amount": 3}], "liquidCapacity": 7, "liquidPressure": 0, "research": "bogovy-factory", "category": "liquid"}

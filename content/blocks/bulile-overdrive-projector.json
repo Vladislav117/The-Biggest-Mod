@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "bulile overdrive projector", "description": "...", "health": 102, "consumes": {"power": 3.0, "item": "bulile"}, "size": 2, "requirements": [{"item": "bulile", "amount": 1}, {"item": "tuma", "amount": 1}, {"item": "huro", "amount": 6}], "research": "bulile-factory", "category": "effect"}

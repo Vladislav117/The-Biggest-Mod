@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tigocenium power node", "description": "...", "size": 2, "health": 706, "requirements": [{"item": "tigocenium", "amount": 4}, {"item": "julynium", "amount": 1}, {"item": "xekocanium", "amount": 6}], "research": "tigocenium-factory", "maxNodes": 12, "laserRange": 22, "category": "power"}

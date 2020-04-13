@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xepe overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "xepe", "amount": 5}, {"item": "jymi", "amount": 5}], "research": "xepe-conveyor", "category": "distribution", "invert": false}

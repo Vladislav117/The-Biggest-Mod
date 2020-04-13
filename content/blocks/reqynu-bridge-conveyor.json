@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "reqynu bridge conveyor", "description": "", "health": 6, "range": 16, "speed": 10, "bufferCapacity": 13, "requirements": [{"item": "reqynu", "amount": 5}, {"item": "judu", "amount": 5}], "research": "reqynu-conveyor", "category": "distribution", "size": 1}

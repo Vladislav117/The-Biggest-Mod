@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "depy power node", "description": "...", "size": 2, "health": 181, "requirements": [{"item": "depy", "amount": 17}, {"item": "zobopanium", "amount": 17}, {"item": "waninium", "amount": 6}], "research": "depy-factory", "maxNodes": 17, "laserRange": 5, "category": "power"}

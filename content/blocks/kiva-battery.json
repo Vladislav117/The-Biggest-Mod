@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kiva battery", "description": "...", "size": 3, "health": 156, "requirements": [{"item": "kiva", "amount": 1}, {"item": "pusu", "amount": 17}, {"item": "tuqe", "amount": 9}], "research": "kiva-factory", "consumes": {"powerBuffered": 4582}, "category": "power"}

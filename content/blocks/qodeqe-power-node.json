@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qodeqe power node", "description": "...", "size": 2, "health": 640, "requirements": [{"item": "qodeqe", "amount": 10}, {"item": "balyvo", "amount": 13}, {"item": "qoly", "amount": 6}], "research": "qodeqe-factory", "maxNodes": 57, "laserRange": 19, "category": "power"}

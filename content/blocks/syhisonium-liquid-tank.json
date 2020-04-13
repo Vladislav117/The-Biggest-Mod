@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "syhisonium liquid tank", "description": "...", "health": 390, "size": 3, "requirements": [{"item": "syhisonium", "amount": 15}, {"item": "taja", "amount": 7}, {"item": "qiyare", "amount": 8}], "research": "syhisonium-conduit", "category": "liquid", "liquidCapacity": 24735, "hasLiquids": true}

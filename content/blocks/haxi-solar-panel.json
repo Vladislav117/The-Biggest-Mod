@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "haxi solar panel", "description": "...", "size": 3, "health": 339, "requirements": [{"item": "haxi", "amount": 7}, {"item": "mizu", "amount": 11}, {"item": "cosizi", "amount": 5}], "research": "haxi-factory", "powerProduction": 0.3544697416497096, "category": "power"}

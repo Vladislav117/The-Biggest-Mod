@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "copa drill", "description": "...", "size": 4, "health": 143, "tier": 2, "drillTime": 9, "consumes": {"power": 10}, "requirements": [{"item": "copa", "amount": 8}, {"item": "cimahy", "amount": 5}, {"item": "cenunium", "amount": 2}], "research": "copa-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pego power node", "description": "...", "size": 2, "health": 708, "requirements": [{"item": "pego", "amount": 12}, {"item": "cyyenium", "amount": 19}, {"item": "jaki", "amount": 8}], "research": "pego-factory", "maxNodes": 24, "laserRange": 23, "category": "power"}

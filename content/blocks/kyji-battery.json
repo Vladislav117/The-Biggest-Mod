@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kyji battery", "description": "...", "size": 3, "health": 23, "requirements": [{"item": "kyji", "amount": 8}, {"item": "beqa", "amount": 7}, {"item": "furymu", "amount": 5}], "research": "kyji-factory", "consumes": {"powerBuffered": 4789}, "category": "power"}

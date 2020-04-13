@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small noxy solar panel", "description": "...", "size": 1, "health": 109, "requirements": [{"item": "noxy", "amount": 7}, {"item": "huwydy", "amount": 20}, {"item": "tagawe", "amount": 10}], "research": "noxy-factory", "powerProduction": 3.4191785614212846, "category": "power"}

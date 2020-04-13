@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lido liquid router", "description": "...", "size": 1, "health": 25, "requirements": [{"item": "lido", "amount": 5}, {"item": "fyfe", "amount": 17}, {"item": "pavanium", "amount": 4}], "research": "lido-conduit", "liquidCapacity": 10, "category": "liquid"}

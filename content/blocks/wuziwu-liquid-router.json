@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wuziwu liquid router", "description": "...", "size": 1, "health": 30, "requirements": [{"item": "wuziwu", "amount": 2}, {"item": "fuma", "amount": 12}, {"item": "hewi", "amount": 8}], "research": "wuziwu-conduit", "liquidCapacity": 10, "category": "liquid"}

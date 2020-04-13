@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wywonium solar panel", "description": "...", "size": 1, "health": 375, "requirements": [{"item": "wywonium", "amount": 19}, {"item": "caxoni", "amount": 8}, {"item": "felu", "amount": 2}], "research": "wywonium-factory", "powerProduction": 0.9731383235573732, "category": "power"}

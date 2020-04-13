@@ -1,0 +1,1 @@
+{"type": "router", "name": "kozysa router", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "kozysa", "amount": 1}], "research": "kozysa-conveyor", "category": "distribution"}

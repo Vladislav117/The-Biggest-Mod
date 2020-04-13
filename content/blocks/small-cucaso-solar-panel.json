@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cucaso solar panel", "description": "...", "size": 1, "health": 209, "requirements": [{"item": "cucaso", "amount": 10}, {"item": "mivuwa", "amount": 10}, {"item": "sofowo", "amount": 7}], "research": "cucaso-factory", "powerProduction": 0.21354338636438322, "category": "power"}

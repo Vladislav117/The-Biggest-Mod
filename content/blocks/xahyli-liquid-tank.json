@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xahyli liquid tank", "description": "...", "health": 417, "size": 3, "requirements": [{"item": "xahyli", "amount": 2}, {"item": "nuxy", "amount": 4}, {"item": "jonyci", "amount": 7}], "research": "xahyli-conduit", "category": "liquid", "liquidCapacity": 50879, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tomufa battery", "description": "...", "size": 1, "health": 176, "requirements": [{"item": "tomufa", "amount": 6}, {"item": "gacy", "amount": 1}, {"item": "vohiyynium", "amount": 7}], "research": "tomufa-factory", "consumes": {"powerBuffered": 2512}, "category": "power"}

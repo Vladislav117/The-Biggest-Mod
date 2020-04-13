@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kovi liquid tank", "description": "...", "health": 485, "size": 3, "requirements": [{"item": "kovi", "amount": 16}, {"item": "yyti", "amount": 20}, {"item": "xyzeja", "amount": 10}], "research": "kovi-conduit", "category": "liquid", "liquidCapacity": 88260, "hasLiquids": true}

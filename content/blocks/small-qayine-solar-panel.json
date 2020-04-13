@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qayine solar panel", "description": "...", "size": 1, "health": 275, "requirements": [{"item": "qayine", "amount": 12}, {"item": "kawo", "amount": 8}, {"item": "duqu", "amount": 9}], "research": "qayine-factory", "powerProduction": 4.510844729725666, "category": "power"}

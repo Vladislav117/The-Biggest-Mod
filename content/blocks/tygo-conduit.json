@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tygo conduit", "description": "...", "health": 86, "requirements": [{"item": "tygo", "amount": 16}, {"item": "wuna", "amount": 5}, {"item": "dyri", "amount": 4}], "liquidCapacity": 26, "liquidPressure": 8, "research": "tygo-factory", "category": "liquid"}

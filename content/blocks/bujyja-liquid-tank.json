@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bujyja liquid tank", "description": "...", "health": 611, "size": 3, "requirements": [{"item": "bujyja", "amount": 19}, {"item": "lacu", "amount": 11}, {"item": "tihoyanium", "amount": 2}], "research": "bujyja-conduit", "category": "liquid", "liquidCapacity": 57791, "hasLiquids": true}

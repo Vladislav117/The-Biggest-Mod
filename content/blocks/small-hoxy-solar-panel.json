@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hoxy solar panel", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "hoxy", "amount": 12}, {"item": "vawa", "amount": 9}, {"item": "vevi", "amount": 8}], "research": "hoxy-factory", "powerProduction": 4.434679572386466, "category": "power"}

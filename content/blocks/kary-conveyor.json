@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "kary conveyor", "description": "...", "health": 80, "requirements": [{"item": "kary", "amount": 3}, {"item": "mygenium", "amount": 1}], "speed": 0.02911424717672556, "research": "kary-factory", "category": "distribution"}

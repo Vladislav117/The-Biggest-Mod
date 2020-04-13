@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fejenium liquid tank", "description": "...", "health": 411, "size": 3, "requirements": [{"item": "fejenium", "amount": 20}, {"item": "diyajy", "amount": 10}, {"item": "caho", "amount": 6}], "research": "fejenium-conduit", "category": "liquid", "liquidCapacity": 98514, "hasLiquids": true}

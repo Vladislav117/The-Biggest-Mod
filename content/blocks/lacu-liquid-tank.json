@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lacu liquid tank", "description": "...", "health": 295, "size": 3, "requirements": [{"item": "lacu", "amount": 19}, {"item": "kywowa", "amount": 18}, {"item": "kyxiwi", "amount": 1}], "research": "lacu-conduit", "category": "liquid", "liquidCapacity": 90445, "hasLiquids": true}

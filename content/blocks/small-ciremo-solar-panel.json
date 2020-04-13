@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ciremo solar panel", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "ciremo", "amount": 18}, {"item": "quda", "amount": 3}, {"item": "puri", "amount": 4}], "research": "ciremo-factory", "powerProduction": 1.6965228754137573, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "bomedi force projector", "description": "...", "health": 233, "size": 3, "consumes": {"power": 5.0, "item": "bomedi"}, "requirements": [{"item": "bomedi", "amount": 11}, {"item": "wicapy", "amount": 15}, {"item": "lyruvanium", "amount": 1}], "research": "bomedi-factory", "category": "effect"}

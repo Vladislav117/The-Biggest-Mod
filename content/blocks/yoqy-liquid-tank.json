@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yoqy liquid tank", "description": "...", "health": 403, "size": 3, "requirements": [{"item": "yoqy", "amount": 19}, {"item": "yupo", "amount": 20}, {"item": "viqamo", "amount": 6}], "research": "yoqy-conduit", "category": "liquid", "liquidCapacity": 52345, "hasLiquids": true}

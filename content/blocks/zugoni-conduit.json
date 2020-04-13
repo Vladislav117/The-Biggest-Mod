@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zugoni conduit", "description": "...", "health": 174, "requirements": [{"item": "zugoni", "amount": 4}, {"item": "byfa", "amount": 7}, {"item": "kurecanium", "amount": 8}], "liquidCapacity": 13, "liquidPressure": 9, "research": "zugoni-factory", "category": "liquid"}

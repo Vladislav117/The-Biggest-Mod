@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wizisa junction", "description": "...", "health": 10, "speed": 9, "capacity": 20, "size": 1, "requirements": [{"item": "wizisa", "amount": 3}, {"item": "gineta", "amount": 5}], "research": "wizisa-conveyor", "category": "distribution"}

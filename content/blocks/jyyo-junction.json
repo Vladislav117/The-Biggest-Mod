@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jyyo junction", "description": "...", "health": 2, "speed": 8, "capacity": 14, "size": 1, "requirements": [{"item": "jyyo", "amount": 4}, {"item": "mapanium", "amount": 4}], "research": "jyyo-conveyor", "category": "distribution"}

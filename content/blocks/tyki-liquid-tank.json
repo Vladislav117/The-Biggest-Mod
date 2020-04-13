@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tyki liquid tank", "description": "...", "health": 536, "size": 3, "requirements": [{"item": "tyki", "amount": 16}, {"item": "depy", "amount": 16}, {"item": "hozanium", "amount": 9}], "research": "tyki-conduit", "category": "liquid", "liquidCapacity": 90140, "hasLiquids": true}

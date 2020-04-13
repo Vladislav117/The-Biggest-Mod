@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cimahy solar panel", "description": "...", "size": 3, "health": 217, "requirements": [{"item": "cimahy", "amount": 12}, {"item": "seleme", "amount": 8}, {"item": "zumyze", "amount": 3}], "research": "cimahy-factory", "powerProduction": 1.3294537153784598, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "felu liquid router", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "felu", "amount": 19}, {"item": "cucaso", "amount": 13}, {"item": "gytegy", "amount": 8}], "research": "felu-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tavu inverted sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "tavu", "amount": 5}, {"item": "qayanium", "amount": 3}], "research": "tavu-conveyor", "category": "distribution", "invert": true}

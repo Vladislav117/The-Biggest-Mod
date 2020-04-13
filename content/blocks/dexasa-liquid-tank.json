@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dexasa liquid tank", "description": "...", "health": 201, "size": 3, "requirements": [{"item": "dexasa", "amount": 3}, {"item": "voky", "amount": 20}, {"item": "hybobenium", "amount": 2}], "research": "dexasa-conduit", "category": "liquid", "liquidCapacity": 7314, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "juba underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "juba", "amount": 3}, {"item": "baguyu", "amount": 4}], "research": "juba-conveyor", "category": "distribution", "invert": false}

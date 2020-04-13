@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "heso liquid tank", "description": "...", "health": 421, "size": 3, "requirements": [{"item": "heso", "amount": 20}, {"item": "hakenium", "amount": 20}, {"item": "dekeko", "amount": 4}], "research": "heso-conduit", "category": "liquid", "liquidCapacity": 74952, "hasLiquids": true}

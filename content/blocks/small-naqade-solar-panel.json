@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small naqade solar panel", "description": "...", "size": 1, "health": 357, "requirements": [{"item": "naqade", "amount": 12}, {"item": "qykyzo", "amount": 2}, {"item": "nyquto", "amount": 1}], "research": "naqade-factory", "powerProduction": 3.5368247014402936, "category": "power"}

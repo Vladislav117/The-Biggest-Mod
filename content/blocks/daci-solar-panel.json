@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "daci solar panel", "description": "...", "size": 3, "health": 90, "requirements": [{"item": "daci", "amount": 14}, {"item": "vapova", "amount": 20}, {"item": "rine", "amount": 8}], "research": "daci-factory", "powerProduction": 0.12609130232736582, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wifa liquid tank", "description": "...", "health": 336, "size": 3, "requirements": [{"item": "wifa", "amount": 18}, {"item": "sopage", "amount": 16}, {"item": "qavuhe", "amount": 8}], "research": "wifa-conduit", "category": "liquid", "liquidCapacity": 78465, "hasLiquids": true}

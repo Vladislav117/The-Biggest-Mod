@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yyze inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "yyze", "amount": 1}, {"item": "wylanium", "amount": 4}], "research": "yyze-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tiqeti junction", "description": "...", "health": 44, "speed": 18, "capacity": 8, "size": 1, "requirements": [{"item": "tiqeti", "amount": 1}, {"item": "betesa", "amount": 1}], "research": "tiqeti-conveyor", "category": "distribution"}

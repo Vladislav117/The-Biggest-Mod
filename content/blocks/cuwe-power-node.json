@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cuwe power node", "description": "...", "size": 2, "health": 229, "requirements": [{"item": "cuwe", "amount": 19}, {"item": "kery", "amount": 15}, {"item": "rudy", "amount": 1}], "research": "cuwe-factory", "maxNodes": 59, "laserRange": 10, "category": "power"}

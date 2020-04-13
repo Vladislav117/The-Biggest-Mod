@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "naku drill", "description": "...", "size": 2, "health": 213, "tier": 3, "drillTime": 3, "consumes": {"power": 20}, "requirements": [{"item": "naku", "amount": 9}, {"item": "zufo", "amount": 10}, {"item": "jywupa", "amount": 4}], "research": "naku-factory", "category": "production"}

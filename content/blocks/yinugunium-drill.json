@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yinugunium drill", "description": "...", "size": 2, "health": 282, "tier": 3, "drillTime": 9, "consumes": {"power": 16}, "requirements": [{"item": "yinugunium", "amount": 11}, {"item": "jozu", "amount": 18}, {"item": "gevu", "amount": 2}], "research": "yinugunium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cokyro liquid tank", "description": "...", "health": 298, "size": 3, "requirements": [{"item": "cokyro", "amount": 2}, {"item": "faba", "amount": 12}, {"item": "majo", "amount": 3}], "research": "cokyro-conduit", "category": "liquid", "liquidCapacity": 1532, "hasLiquids": true}

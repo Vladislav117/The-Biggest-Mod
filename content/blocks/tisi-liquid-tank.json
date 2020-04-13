@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tisi liquid tank", "description": "...", "health": 578, "size": 3, "requirements": [{"item": "tisi", "amount": 15}, {"item": "dukyfe", "amount": 18}, {"item": "lelybe", "amount": 8}], "research": "tisi-conduit", "category": "liquid", "liquidCapacity": 78031, "hasLiquids": true}

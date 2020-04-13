@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fixe battery", "description": "...", "size": 3, "health": 328, "requirements": [{"item": "fixe", "amount": 15}, {"item": "vewi", "amount": 20}, {"item": "fixe", "amount": 3}], "research": "fixe-factory", "consumes": {"powerBuffered": 1810}, "category": "power"}

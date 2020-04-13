@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "heso conduit", "description": "...", "health": 50, "requirements": [{"item": "heso", "amount": 18}, {"item": "wita", "amount": 18}, {"item": "holipu", "amount": 2}], "liquidCapacity": 21, "liquidPressure": 0, "research": "heso-factory", "category": "liquid"}

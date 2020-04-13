@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "pucy force projector", "description": "...", "health": 223, "size": 3, "consumes": {"power": 5.0, "item": "pucy"}, "requirements": [{"item": "pucy", "amount": 2}, {"item": "kyqu", "amount": 4}, {"item": "nunanunium", "amount": 1}], "research": "pucy-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hoqade power node", "description": "...", "size": 2, "health": 116, "requirements": [{"item": "hoqade", "amount": 3}, {"item": "kurecanium", "amount": 12}, {"item": "hoqade", "amount": 5}], "research": "hoqade-factory", "maxNodes": 36, "laserRange": 5, "category": "power"}

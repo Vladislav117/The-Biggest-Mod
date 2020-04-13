@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gyqekunium battery", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "gyqekunium", "amount": 9}, {"item": "luki", "amount": 19}, {"item": "visuco", "amount": 8}], "research": "gyqekunium-factory", "consumes": {"powerBuffered": 8640}, "category": "power"}

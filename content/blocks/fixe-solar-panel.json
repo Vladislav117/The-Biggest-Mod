@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fixe solar panel", "description": "...", "size": 3, "health": 57, "requirements": [{"item": "fixe", "amount": 20}, {"item": "lejara", "amount": 7}, {"item": "cuvino", "amount": 7}], "research": "fixe-factory", "powerProduction": 2.1210601040518764, "category": "power"}

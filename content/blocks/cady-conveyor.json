@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "cady conveyor", "description": "...", "health": 260, "requirements": [{"item": "cady", "amount": 8}, {"item": "mafihy", "amount": 10}], "speed": 0.07667349466883233, "research": "cady-factory", "category": "distribution"}

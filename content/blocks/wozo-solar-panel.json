@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wozo solar panel", "description": "...", "size": 3, "health": 33, "requirements": [{"item": "wozo", "amount": 12}, {"item": "galy", "amount": 13}, {"item": "miro", "amount": 10}], "research": "wozo-factory", "powerProduction": 0.7232053453533032, "category": "power"}

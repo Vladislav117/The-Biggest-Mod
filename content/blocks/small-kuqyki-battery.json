@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kuqyki battery", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "kuqyki", "amount": 4}, {"item": "yesolonium", "amount": 8}, {"item": "jiyifynium", "amount": 7}], "research": "kuqyki-factory", "consumes": {"powerBuffered": 755}, "category": "power"}

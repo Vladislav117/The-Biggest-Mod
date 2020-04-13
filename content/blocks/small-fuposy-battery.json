@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fuposy battery", "description": "...", "size": 1, "health": 141, "requirements": [{"item": "fuposy", "amount": 19}, {"item": "nyboye", "amount": 10}, {"item": "lejara", "amount": 6}], "research": "fuposy-factory", "consumes": {"powerBuffered": 2516}, "category": "power"}

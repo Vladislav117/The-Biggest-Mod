@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "juho bridge conveyor", "description": "", "health": 17, "range": 9, "speed": 3, "bufferCapacity": 7, "requirements": [{"item": "juho", "amount": 1}, {"item": "zosi", "amount": 5}], "research": "juho-conveyor", "category": "distribution", "size": 1}

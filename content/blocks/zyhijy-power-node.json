@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zyhijy power node", "description": "...", "size": 2, "health": 510, "requirements": [{"item": "zyhijy", "amount": 1}, {"item": "keva", "amount": 7}, {"item": "menibonium", "amount": 6}], "research": "zyhijy-factory", "maxNodes": 40, "laserRange": 6, "category": "power"}

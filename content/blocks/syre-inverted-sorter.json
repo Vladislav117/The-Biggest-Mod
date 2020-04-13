@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "syre inverted sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "syre", "amount": 4}, {"item": "pylonium", "amount": 4}], "research": "syre-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gajule liquid tank", "description": "...", "health": 274, "size": 3, "requirements": [{"item": "gajule", "amount": 10}, {"item": "qedene", "amount": 4}, {"item": "fuposy", "amount": 1}], "research": "gajule-conduit", "category": "liquid", "liquidCapacity": 6063, "hasLiquids": true}

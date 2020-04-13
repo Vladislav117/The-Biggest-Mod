@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kije battery", "description": "...", "size": 3, "health": 118, "requirements": [{"item": "kije", "amount": 19}, {"item": "doce", "amount": 16}, {"item": "sanely", "amount": 8}], "research": "kije-factory", "consumes": {"powerBuffered": 4404}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small syfy solar panel", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "syfy", "amount": 15}, {"item": "dufekunium", "amount": 2}, {"item": "sobu", "amount": 2}], "research": "syfy-factory", "powerProduction": 0.7777279274064914, "category": "power"}

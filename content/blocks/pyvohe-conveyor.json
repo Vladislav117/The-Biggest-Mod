@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pyvohe conveyor", "description": "...", "health": 162, "requirements": [{"item": "pyvohe", "amount": 3}, {"item": "mixy", "amount": 7}], "speed": 0.2354571045482246, "research": "pyvohe-factory", "category": "distribution"}

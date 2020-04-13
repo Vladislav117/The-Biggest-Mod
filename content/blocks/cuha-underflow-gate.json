@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cuha underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "cuha", "amount": 5}, {"item": "direme", "amount": 4}], "research": "cuha-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mavi liquid tank", "description": "...", "health": 308, "size": 3, "requirements": [{"item": "mavi", "amount": 3}, {"item": "kefy", "amount": 20}, {"item": "surge-alloy", "amount": 6}], "research": "mavi-conduit", "category": "liquid", "liquidCapacity": 35969, "hasLiquids": true}

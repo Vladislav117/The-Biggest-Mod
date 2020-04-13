@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "haviyunium overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "haviyunium", "amount": 1}, {"item": "puxyci", "amount": 2}], "research": "haviyunium-conveyor", "category": "distribution", "invert": false}

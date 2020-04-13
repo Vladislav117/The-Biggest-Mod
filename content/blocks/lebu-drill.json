@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lebu drill", "description": "...", "size": 4, "health": 167, "tier": 2, "drillTime": 2, "consumes": {"power": 11}, "requirements": [{"item": "lebu", "amount": 4}, {"item": "gyhecu", "amount": 9}, {"item": "dyme", "amount": 8}], "research": "lebu-factory", "category": "production"}

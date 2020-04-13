@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cobunium sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "cobunium", "amount": 3}, {"item": "rukycu", "amount": 4}], "research": "cobunium-conveyor", "category": "distribution", "invert": false}

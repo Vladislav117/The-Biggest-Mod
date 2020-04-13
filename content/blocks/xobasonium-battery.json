@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xobasonium battery", "description": "...", "size": 3, "health": 41, "requirements": [{"item": "xobasonium", "amount": 15}, {"item": "bube", "amount": 17}, {"item": "yuly", "amount": 8}], "research": "xobasonium-factory", "consumes": {"powerBuffered": 9486}, "category": "power"}

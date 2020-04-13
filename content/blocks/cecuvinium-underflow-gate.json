@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cecuvinium underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "cecuvinium", "amount": 3}, {"item": "lyva", "amount": 2}], "research": "cecuvinium-conveyor", "category": "distribution", "invert": false}

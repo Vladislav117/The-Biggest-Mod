@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rape bridge conveyor", "description": "", "health": 3, "range": 17, "speed": 18, "bufferCapacity": 4, "requirements": [{"item": "rape", "amount": 5}, {"item": "myyu", "amount": 3}], "research": "rape-conveyor", "category": "distribution", "size": 1}

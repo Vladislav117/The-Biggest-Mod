@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "miyaxanium solar panel", "description": "...", "size": 3, "health": 334, "requirements": [{"item": "miyaxanium", "amount": 12}, {"item": "neronium", "amount": 8}, {"item": "ryfo", "amount": 5}], "research": "miyaxanium-factory", "powerProduction": 3.2867055622993324, "category": "power"}

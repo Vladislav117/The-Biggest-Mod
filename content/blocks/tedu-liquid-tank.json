@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tedu liquid tank", "description": "...", "health": 652, "size": 3, "requirements": [{"item": "tedu", "amount": 18}, {"item": "naconium", "amount": 16}, {"item": "pyhune", "amount": 5}], "research": "tedu-conduit", "category": "liquid", "liquidCapacity": 5186, "hasLiquids": true}

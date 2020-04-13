@@ -1,0 +1,1 @@
+{"type": "battery", "name": "betuto battery", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "betuto", "amount": 11}, {"item": "cejuru", "amount": 3}, {"item": "qyxyci", "amount": 6}], "research": "betuto-factory", "consumes": {"powerBuffered": 3866}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small quzu power node", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "quzu", "amount": 12}, {"item": "xymaxu", "amount": 7}, {"item": "diyajy", "amount": 7}], "research": "quzu-factory", "maxNodes": 4, "laserRange": 17, "category": "power"}

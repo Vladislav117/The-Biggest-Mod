@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "taxidy underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "taxidy", "amount": 4}, {"item": "wypa", "amount": 4}], "research": "taxidy-conveyor", "category": "distribution", "invert": false}

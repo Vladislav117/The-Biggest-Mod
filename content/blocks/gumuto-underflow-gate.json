@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gumuto underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "gumuto", "amount": 4}, {"item": "kavequ", "amount": 5}], "research": "gumuto-conveyor", "category": "distribution", "invert": false}

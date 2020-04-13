@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cutodu solar panel", "description": "...", "size": 1, "health": 357, "requirements": [{"item": "cutodu", "amount": 11}, {"item": "rohivonium", "amount": 20}, {"item": "cuje", "amount": 9}], "research": "cutodu-factory", "powerProduction": 0.1890161868117473, "category": "power"}

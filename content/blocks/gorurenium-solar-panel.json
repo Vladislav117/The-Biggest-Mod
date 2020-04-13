@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gorurenium solar panel", "description": "...", "size": 3, "health": 82, "requirements": [{"item": "gorurenium", "amount": 14}, {"item": "hofaju", "amount": 6}, {"item": "vevudinium", "amount": 1}], "research": "gorurenium-factory", "powerProduction": 1.213656928176679, "category": "power"}

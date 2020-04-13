@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zikeve solar panel", "description": "...", "size": 3, "health": 300, "requirements": [{"item": "zikeve", "amount": 19}, {"item": "wiraby", "amount": 7}, {"item": "taja", "amount": 5}], "research": "zikeve-factory", "powerProduction": 0.14991590443726993, "category": "power"}

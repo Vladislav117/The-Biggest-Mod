@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yape liquid tank", "description": "...", "health": 640, "size": 3, "requirements": [{"item": "yape", "amount": 13}, {"item": "puzonium", "amount": 6}, {"item": "sokezy", "amount": 10}], "research": "yape-conduit", "category": "liquid", "liquidCapacity": 17732, "hasLiquids": true}

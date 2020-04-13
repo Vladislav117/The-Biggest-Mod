@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nigunium liquid tank", "description": "...", "health": 623, "size": 3, "requirements": [{"item": "nigunium", "amount": 20}, {"item": "yijotu", "amount": 12}, {"item": "bofazy", "amount": 1}], "research": "nigunium-conduit", "category": "liquid", "liquidCapacity": 26317, "hasLiquids": true}

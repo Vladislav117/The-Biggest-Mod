@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "movibi power node", "description": "...", "size": 2, "health": 669, "requirements": [{"item": "movibi", "amount": 11}, {"item": "pydudanium", "amount": 8}, {"item": "lyceca", "amount": 10}], "research": "movibi-factory", "maxNodes": 50, "laserRange": 30, "category": "power"}

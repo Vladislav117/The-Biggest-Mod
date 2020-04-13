@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dedaka bridge conveyor", "description": "", "health": 4, "range": 19, "speed": 18, "bufferCapacity": 1, "requirements": [{"item": "dedaka", "amount": 5}, {"item": "virema", "amount": 5}], "research": "dedaka-conveyor", "category": "distribution", "size": 1}

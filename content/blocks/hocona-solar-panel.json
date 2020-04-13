@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hocona solar panel", "description": "...", "size": 3, "health": 343, "requirements": [{"item": "hocona", "amount": 14}, {"item": "peyyha", "amount": 15}, {"item": "sewazo", "amount": 6}], "research": "hocona-factory", "powerProduction": 0.28835282064103024, "category": "power"}

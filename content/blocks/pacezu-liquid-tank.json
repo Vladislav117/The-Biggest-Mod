@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pacezu liquid tank", "description": "...", "health": 272, "size": 3, "requirements": [{"item": "pacezu", "amount": 7}, {"item": "vaso", "amount": 17}, {"item": "horyve", "amount": 8}], "research": "pacezu-conduit", "category": "liquid", "liquidCapacity": 80997, "hasLiquids": true}

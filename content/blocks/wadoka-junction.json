@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wadoka junction", "description": "...", "health": 23, "speed": 19, "capacity": 12, "size": 1, "requirements": [{"item": "wadoka", "amount": 3}, {"item": "migube", "amount": 3}], "research": "wadoka-conveyor", "category": "distribution"}

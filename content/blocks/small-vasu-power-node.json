@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vasu power node", "description": "...", "size": 1, "health": 286, "requirements": [{"item": "vasu", "amount": 5}, {"item": "zygebynium", "amount": 1}, {"item": "fikunium", "amount": 9}], "research": "vasu-factory", "maxNodes": 16, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sifiwa inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "sifiwa", "amount": 2}, {"item": "budo", "amount": 5}], "research": "sifiwa-conveyor", "category": "distribution", "invert": true}

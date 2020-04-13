@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "potesonium solar panel", "description": "...", "size": 3, "health": 151, "requirements": [{"item": "potesonium", "amount": 12}, {"item": "qeka", "amount": 19}, {"item": "leyoqo", "amount": 8}], "research": "potesonium-factory", "powerProduction": 0.4428090174022102, "category": "power"}

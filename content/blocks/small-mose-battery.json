@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mose battery", "description": "...", "size": 1, "health": 209, "requirements": [{"item": "mose", "amount": 10}, {"item": "cyjonium", "amount": 5}, {"item": "yiqynium", "amount": 10}], "research": "mose-factory", "consumes": {"powerBuffered": 589}, "category": "power"}

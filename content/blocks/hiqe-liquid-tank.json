@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hiqe liquid tank", "description": "...", "health": 615, "size": 3, "requirements": [{"item": "hiqe", "amount": 11}, {"item": "jago", "amount": 15}, {"item": "zada", "amount": 7}], "research": "hiqe-conduit", "category": "liquid", "liquidCapacity": 33559, "hasLiquids": true}

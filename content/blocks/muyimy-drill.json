@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "muyimy drill", "description": "...", "size": 2, "health": 216, "tier": 1, "drillTime": 9, "consumes": {"power": 8}, "requirements": [{"item": "muyimy", "amount": 4}, {"item": "zawyjy", "amount": 9}, {"item": "milu", "amount": 5}], "research": "muyimy-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vuvonium solar panel", "description": "...", "size": 3, "health": 25, "requirements": [{"item": "vuvonium", "amount": 19}, {"item": "yajawa", "amount": 9}, {"item": "koqyyo", "amount": 10}], "research": "vuvonium-factory", "powerProduction": 1.2396173927069494, "category": "power"}

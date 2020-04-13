@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wozego battery", "description": "...", "size": 3, "health": 281, "requirements": [{"item": "wozego", "amount": 6}, {"item": "wigyre", "amount": 13}, {"item": "qano", "amount": 3}], "research": "wozego-factory", "consumes": {"powerBuffered": 5057}, "category": "power"}

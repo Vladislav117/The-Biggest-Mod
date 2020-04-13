@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qova bridge conveyor", "description": "", "health": 30, "range": 9, "speed": 11, "bufferCapacity": 9, "requirements": [{"item": "qova", "amount": 2}, {"item": "jafa", "amount": 4}], "research": "qova-conveyor", "category": "distribution", "size": 1}

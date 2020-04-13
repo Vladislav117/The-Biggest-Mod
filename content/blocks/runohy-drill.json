@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "runohy drill", "description": "...", "size": 3, "health": 215, "tier": 1, "drillTime": 10, "consumes": {"power": 17}, "requirements": [{"item": "runohy", "amount": 2}, {"item": "viwahe", "amount": 17}, {"item": "pedy", "amount": 5}], "research": "runohy-factory", "category": "production"}

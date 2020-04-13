@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rufi liquid tank", "description": "...", "health": 212, "size": 3, "requirements": [{"item": "rufi", "amount": 11}, {"item": "bejominium", "amount": 15}, {"item": "yamyri", "amount": 8}], "research": "rufi-conduit", "category": "liquid", "liquidCapacity": 63962, "hasLiquids": true}

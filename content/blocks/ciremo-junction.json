@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ciremo junction", "description": "...", "health": 26, "speed": 13, "capacity": 4, "size": 1, "requirements": [{"item": "ciremo", "amount": 3}, {"item": "vuhu", "amount": 5}], "research": "ciremo-conveyor", "category": "distribution"}

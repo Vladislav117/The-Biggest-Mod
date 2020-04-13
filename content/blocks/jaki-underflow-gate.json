@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jaki underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "jaki", "amount": 2}, {"item": "hiqeyi", "amount": 3}], "research": "jaki-conveyor", "category": "distribution", "invert": false}

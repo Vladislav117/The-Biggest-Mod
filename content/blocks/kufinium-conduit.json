@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kufinium conduit", "description": "...", "health": 152, "requirements": [{"item": "kufinium", "amount": 7}, {"item": "tezila", "amount": 15}, {"item": "hunadanium", "amount": 2}], "liquidCapacity": 5, "liquidPressure": 9, "research": "kufinium-factory", "category": "liquid"}

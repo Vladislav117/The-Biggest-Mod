@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yicavu power node", "description": "...", "size": 2, "health": 407, "requirements": [{"item": "yicavu", "amount": 10}, {"item": "siceku", "amount": 18}, {"item": "lapydy", "amount": 2}], "research": "yicavu-factory", "maxNodes": 30, "laserRange": 11, "category": "power"}

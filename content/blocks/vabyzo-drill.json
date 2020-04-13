@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vabyzo drill", "description": "...", "size": 3, "health": 404, "tier": 1, "drillTime": 10, "consumes": {"power": 18}, "requirements": [{"item": "vabyzo", "amount": 18}, {"item": "xywege", "amount": 12}, {"item": "dowy", "amount": 5}], "research": "vabyzo-factory", "category": "production"}

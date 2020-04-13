@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kofynium junction", "description": "...", "health": 12, "speed": 18, "capacity": 3, "size": 1, "requirements": [{"item": "kofynium", "amount": 1}, {"item": "vuxi", "amount": 2}], "research": "kofynium-conveyor", "category": "distribution"}

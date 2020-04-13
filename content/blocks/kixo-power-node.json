@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kixo power node", "description": "...", "size": 2, "health": 499, "requirements": [{"item": "kixo", "amount": 1}, {"item": "soronium", "amount": 13}, {"item": "naku", "amount": 4}], "research": "kixo-factory", "maxNodes": 15, "laserRange": 21, "category": "power"}

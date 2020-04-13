@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vipe power node", "description": "...", "size": 2, "health": 64, "requirements": [{"item": "vipe", "amount": 2}, {"item": "dyzo", "amount": 18}, {"item": "bimi", "amount": 4}], "research": "vipe-factory", "maxNodes": 14, "laserRange": 19, "category": "power"}

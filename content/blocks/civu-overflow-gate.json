@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "civu overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "civu", "amount": 4}, {"item": "tusico", "amount": 2}], "research": "civu-conveyor", "category": "distribution", "invert": false}

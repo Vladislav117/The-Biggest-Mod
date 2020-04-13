@@ -1,0 +1,1 @@
+{"type": "junction", "name": "padi junction", "description": "...", "health": 13, "speed": 15, "capacity": 4, "size": 1, "requirements": [{"item": "padi", "amount": 1}, {"item": "hiqeyi", "amount": 3}], "research": "padi-conveyor", "category": "distribution"}

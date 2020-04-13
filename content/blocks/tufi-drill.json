@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tufi drill", "description": "...", "size": 2, "health": 101, "tier": 4, "drillTime": 3, "consumes": {"power": 3}, "requirements": [{"item": "tufi", "amount": 20}, {"item": "nufuponium", "amount": 9}, {"item": "luzini", "amount": 2}], "research": "tufi-factory", "category": "production"}

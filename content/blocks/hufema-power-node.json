@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hufema power node", "description": "...", "size": 2, "health": 692, "requirements": [{"item": "hufema", "amount": 11}, {"item": "mygo", "amount": 17}, {"item": "hymonium", "amount": 4}], "research": "hufema-factory", "maxNodes": 13, "laserRange": 27, "category": "power"}

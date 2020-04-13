@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vuzesenium junction", "description": "...", "health": 11, "speed": 7, "capacity": 19, "size": 1, "requirements": [{"item": "vuzesenium", "amount": 2}, {"item": "ziwa", "amount": 5}], "research": "vuzesenium-conveyor", "category": "distribution"}

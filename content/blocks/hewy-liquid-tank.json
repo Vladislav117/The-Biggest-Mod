@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hewy liquid tank", "description": "...", "health": 123, "size": 3, "requirements": [{"item": "hewy", "amount": 18}, {"item": "dicaku", "amount": 4}, {"item": "takyhonium", "amount": 7}], "research": "hewy-conduit", "category": "liquid", "liquidCapacity": 28062, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small casodenium solar panel", "description": "...", "size": 1, "health": 388, "requirements": [{"item": "casodenium", "amount": 2}, {"item": "byqi", "amount": 13}, {"item": "bocu", "amount": 10}], "research": "casodenium-factory", "powerProduction": 8.756444708354257, "category": "power"}

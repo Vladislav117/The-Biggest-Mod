@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nexojo bridge conveyor", "description": "", "health": 14, "range": 11, "speed": 9, "bufferCapacity": 11, "requirements": [{"item": "nexojo", "amount": 4}, {"item": "hyqyno", "amount": 5}], "research": "nexojo-conveyor", "category": "distribution", "size": 1}

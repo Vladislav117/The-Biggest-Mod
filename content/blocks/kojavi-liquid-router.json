@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kojavi liquid router", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "kojavi", "amount": 6}, {"item": "rovaqa", "amount": 14}, {"item": "vuhu", "amount": 9}], "research": "kojavi-conduit", "liquidCapacity": 10, "category": "liquid"}

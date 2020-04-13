@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bidu solar panel", "description": "...", "size": 1, "health": 117, "requirements": [{"item": "bidu", "amount": 19}, {"item": "towyti", "amount": 17}, {"item": "zufo", "amount": 5}], "research": "bidu-factory", "powerProduction": 5.954014516442858, "category": "power"}

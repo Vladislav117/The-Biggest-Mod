@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rupuvu power node", "description": "...", "size": 2, "health": 227, "requirements": [{"item": "rupuvu", "amount": 5}, {"item": "sokima", "amount": 7}, {"item": "gypupe", "amount": 2}], "research": "rupuvu-factory", "maxNodes": 52, "laserRange": 26, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zada battery", "description": "...", "size": 3, "health": 68, "requirements": [{"item": "zada", "amount": 19}, {"item": "docinium", "amount": 7}, {"item": "lynaly", "amount": 9}], "research": "zada-factory", "consumes": {"powerBuffered": 8756}, "category": "power"}

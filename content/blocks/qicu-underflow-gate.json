@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qicu underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "qicu", "amount": 2}, {"item": "xylu", "amount": 2}], "research": "qicu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kypy overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "kypy", "amount": 3}, {"item": "laho", "amount": 4}], "research": "kypy-conveyor", "category": "distribution", "invert": false}

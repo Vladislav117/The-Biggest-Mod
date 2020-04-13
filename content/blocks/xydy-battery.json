@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xydy battery", "description": "...", "size": 3, "health": 343, "requirements": [{"item": "xydy", "amount": 12}, {"item": "miyoqu", "amount": 5}, {"item": "fexenium", "amount": 1}], "research": "xydy-factory", "consumes": {"powerBuffered": 2570}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kute underflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "kute", "amount": 3}, {"item": "vayixo", "amount": 1}], "research": "kute-conveyor", "category": "distribution", "invert": false}

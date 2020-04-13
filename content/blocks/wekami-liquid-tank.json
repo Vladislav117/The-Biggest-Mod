@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wekami liquid tank", "description": "...", "health": 502, "size": 3, "requirements": [{"item": "wekami", "amount": 6}, {"item": "yexowy", "amount": 14}, {"item": "fizy", "amount": 5}], "research": "wekami-conduit", "category": "liquid", "liquidCapacity": 14276, "hasLiquids": true}

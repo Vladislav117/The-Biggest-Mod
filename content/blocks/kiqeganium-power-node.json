@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kiqeganium power node", "description": "...", "size": 2, "health": 753, "requirements": [{"item": "kiqeganium", "amount": 17}, {"item": "lilyro", "amount": 5}, {"item": "litilenium", "amount": 10}], "research": "kiqeganium-factory", "maxNodes": 47, "laserRange": 5, "category": "power"}

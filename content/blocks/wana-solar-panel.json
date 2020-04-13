@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wana solar panel", "description": "...", "size": 3, "health": 288, "requirements": [{"item": "wana", "amount": 12}, {"item": "dejoqonium", "amount": 6}, {"item": "surge-alloy", "amount": 9}], "research": "wana-factory", "powerProduction": 0.011361613377665654, "category": "power"}

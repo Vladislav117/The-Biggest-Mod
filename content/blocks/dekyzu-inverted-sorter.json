@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dekyzu inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "dekyzu", "amount": 2}, {"item": "rymyfanium", "amount": 2}], "research": "dekyzu-conveyor", "category": "distribution", "invert": true}

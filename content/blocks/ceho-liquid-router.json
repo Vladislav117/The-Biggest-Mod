@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ceho liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "ceho", "amount": 12}, {"item": "qivi", "amount": 6}, {"item": "sobiye", "amount": 6}], "research": "ceho-conduit", "liquidCapacity": 10, "category": "liquid"}

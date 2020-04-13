@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cefi solar panel", "description": "...", "size": 3, "health": 141, "requirements": [{"item": "cefi", "amount": 3}, {"item": "vapa", "amount": 19}, {"item": "vuguqy", "amount": 7}], "research": "cefi-factory", "powerProduction": 0.39031641896325264, "category": "power"}

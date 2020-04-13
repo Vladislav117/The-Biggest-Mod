@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jejypu inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "jejypu", "amount": 1}, {"item": "bejominium", "amount": 5}], "research": "jejypu-conveyor", "category": "distribution", "invert": true}

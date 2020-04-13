@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cihihenium drill", "description": "...", "size": 2, "health": 344, "tier": 2, "drillTime": 4, "consumes": {"power": 15}, "requirements": [{"item": "cihihenium", "amount": 13}, {"item": "nota", "amount": 11}, {"item": "luyoyinium", "amount": 2}], "research": "cihihenium-factory", "category": "production"}

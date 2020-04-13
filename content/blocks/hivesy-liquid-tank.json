@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hivesy liquid tank", "description": "...", "health": 289, "size": 3, "requirements": [{"item": "hivesy", "amount": 2}, {"item": "betesa", "amount": 10}, {"item": "tezila", "amount": 8}], "research": "hivesy-conduit", "category": "liquid", "liquidCapacity": 78905, "hasLiquids": true}

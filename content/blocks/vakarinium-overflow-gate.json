@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vakarinium overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "vakarinium", "amount": 5}, {"item": "maku", "amount": 3}], "research": "vakarinium-conveyor", "category": "distribution", "invert": false}

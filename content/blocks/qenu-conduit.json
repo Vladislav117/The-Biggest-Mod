@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qenu conduit", "description": "...", "health": 27, "requirements": [{"item": "qenu", "amount": 12}, {"item": "hywinium", "amount": 6}, {"item": "dabi", "amount": 10}], "liquidCapacity": 36, "liquidPressure": 4, "research": "qenu-factory", "category": "liquid"}

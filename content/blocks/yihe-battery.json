@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yihe battery", "description": "...", "size": 3, "health": 252, "requirements": [{"item": "yihe", "amount": 13}, {"item": "yuvynium", "amount": 8}, {"item": "zivoginium", "amount": 8}], "research": "yihe-factory", "consumes": {"powerBuffered": 3091}, "category": "power"}

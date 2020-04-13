@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cayy liquid tank", "description": "...", "health": 638, "size": 3, "requirements": [{"item": "cayy", "amount": 9}, {"item": "mupa", "amount": 20}, {"item": "duto", "amount": 8}], "research": "cayy-conduit", "category": "liquid", "liquidCapacity": 26182, "hasLiquids": true}

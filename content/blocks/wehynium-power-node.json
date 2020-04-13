@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wehynium power node", "description": "...", "size": 2, "health": 280, "requirements": [{"item": "wehynium", "amount": 9}, {"item": "qaxaqa", "amount": 17}, {"item": "qiyare", "amount": 9}], "research": "wehynium-factory", "maxNodes": 45, "laserRange": 17, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tisi battery", "description": "...", "size": 3, "health": 263, "requirements": [{"item": "tisi", "amount": 2}, {"item": "kovu", "amount": 9}, {"item": "bybity", "amount": 4}], "research": "tisi-factory", "consumes": {"powerBuffered": 9934}, "category": "power"}

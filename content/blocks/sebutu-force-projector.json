@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "sebutu force projector", "description": "...", "health": 176, "size": 3, "consumes": {"power": 5.0, "item": "sebutu"}, "requirements": [{"item": "sebutu", "amount": 10}, {"item": "dawe", "amount": 2}, {"item": "vufinium", "amount": 10}], "research": "sebutu-factory", "category": "effect"}

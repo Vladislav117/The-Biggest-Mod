@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xoteyi junction", "description": "...", "health": 38, "speed": 17, "capacity": 13, "size": 1, "requirements": [{"item": "xoteyi", "amount": 4}, {"item": "kejowynium", "amount": 1}], "research": "xoteyi-conveyor", "category": "distribution"}

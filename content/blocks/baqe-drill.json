@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "baqe drill", "description": "...", "size": 2, "health": 316, "tier": 2, "drillTime": 2, "consumes": {"power": 4}, "requirements": [{"item": "baqe", "amount": 7}, {"item": "nunanunium", "amount": 10}, {"item": "nefuxa", "amount": 5}], "research": "baqe-factory", "category": "production"}

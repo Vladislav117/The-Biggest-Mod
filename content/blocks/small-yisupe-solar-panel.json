@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yisupe solar panel", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "yisupe", "amount": 14}, {"item": "lyfydy", "amount": 2}, {"item": "ceyuwy", "amount": 10}], "research": "yisupe-factory", "powerProduction": 0.22839198062677796, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zyma junction", "description": "...", "health": 28, "speed": 4, "capacity": 5, "size": 1, "requirements": [{"item": "zyma", "amount": 5}, {"item": "nezenium", "amount": 2}], "research": "zyma-conveyor", "category": "distribution"}

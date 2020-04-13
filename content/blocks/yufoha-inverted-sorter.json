@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yufoha inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "yufoha", "amount": 1}, {"item": "cojonium", "amount": 5}], "research": "yufoha-conveyor", "category": "distribution", "invert": true}

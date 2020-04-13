@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "goku power node", "description": "...", "size": 2, "health": 179, "requirements": [{"item": "goku", "amount": 20}, {"item": "syjilanium", "amount": 12}, {"item": "zypiqi", "amount": 8}], "research": "goku-factory", "maxNodes": 58, "laserRange": 23, "category": "power"}

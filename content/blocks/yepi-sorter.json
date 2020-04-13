@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yepi sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "yepi", "amount": 1}, {"item": "dagepanium", "amount": 3}], "research": "yepi-conveyor", "category": "distribution", "invert": false}

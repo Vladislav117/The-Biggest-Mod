@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kyxiwi junction", "description": "...", "health": 39, "speed": 10, "capacity": 18, "size": 1, "requirements": [{"item": "kyxiwi", "amount": 3}, {"item": "bexa", "amount": 5}], "research": "kyxiwi-conveyor", "category": "distribution"}

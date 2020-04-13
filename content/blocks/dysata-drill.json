@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "dysata drill", "description": "...", "size": 2, "health": 395, "tier": 1, "drillTime": 13, "consumes": {"power": 19}, "requirements": [{"item": "dysata", "amount": 3}, {"item": "pamufo", "amount": 16}, {"item": "dowy", "amount": 5}], "research": "dysata-factory", "category": "production"}

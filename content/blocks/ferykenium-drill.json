@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "ferykenium drill", "description": "...", "size": 3, "health": 165, "tier": 4, "drillTime": 2, "consumes": {"power": 2}, "requirements": [{"item": "ferykenium", "amount": 12}, {"item": "xykyto", "amount": 16}, {"item": "foriso", "amount": 9}], "research": "ferykenium-factory", "category": "production"}

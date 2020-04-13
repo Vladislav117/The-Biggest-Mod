@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "defa bridge conveyor", "description": "", "health": 50, "range": 17, "speed": 12, "bufferCapacity": 15, "requirements": [{"item": "defa", "amount": 4}, {"item": "robyto", "amount": 1}], "research": "defa-conveyor", "category": "distribution", "size": 1}

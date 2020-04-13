@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small poxa power node", "description": "...", "size": 1, "health": 109, "requirements": [{"item": "poxa", "amount": 7}, {"item": "wucu", "amount": 17}, {"item": "zore", "amount": 7}], "research": "poxa-factory", "maxNodes": 14, "laserRange": 7, "category": "power"}

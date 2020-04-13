@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fasaze solar panel", "description": "...", "size": 3, "health": 391, "requirements": [{"item": "fasaze", "amount": 19}, {"item": "dowa", "amount": 1}, {"item": "qeconium", "amount": 7}], "research": "fasaze-factory", "powerProduction": 1.6340491623597977, "category": "power"}

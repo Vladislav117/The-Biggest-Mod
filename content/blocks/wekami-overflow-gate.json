@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wekami overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "wekami", "amount": 1}, {"item": "julynium", "amount": 5}], "research": "wekami-conveyor", "category": "distribution", "invert": false}

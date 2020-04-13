@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yewininium power node", "description": "...", "size": 1, "health": 310, "requirements": [{"item": "yewininium", "amount": 9}, {"item": "hugevinium", "amount": 2}, {"item": "xujo", "amount": 4}], "research": "yewininium-factory", "maxNodes": 6, "laserRange": 9, "category": "power"}

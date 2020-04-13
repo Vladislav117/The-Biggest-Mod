@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cayy power node", "description": "...", "size": 1, "health": 229, "requirements": [{"item": "cayy", "amount": 9}, {"item": "zonufu", "amount": 12}, {"item": "rahasunium", "amount": 2}], "research": "cayy-factory", "maxNodes": 11, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "niri liquid router", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "niri", "amount": 7}, {"item": "hogyse", "amount": 2}, {"item": "byyu", "amount": 4}], "research": "niri-conduit", "liquidCapacity": 10, "category": "liquid"}

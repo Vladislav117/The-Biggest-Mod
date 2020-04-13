@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vatohunium power node", "description": "...", "size": 2, "health": 686, "requirements": [{"item": "vatohunium", "amount": 1}, {"item": "xevenium", "amount": 18}, {"item": "kyya", "amount": 4}], "research": "vatohunium-factory", "maxNodes": 37, "laserRange": 10, "category": "power"}

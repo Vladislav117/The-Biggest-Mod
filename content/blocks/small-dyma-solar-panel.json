@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dyma solar panel", "description": "...", "size": 1, "health": 285, "requirements": [{"item": "dyma", "amount": 14}, {"item": "cyqunium", "amount": 19}, {"item": "hugevinium", "amount": 9}], "research": "dyma-factory", "powerProduction": 4.031949145097809, "category": "power"}

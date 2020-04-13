@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rupuvu battery", "description": "...", "size": 3, "health": 161, "requirements": [{"item": "rupuvu", "amount": 1}, {"item": "zafuqo", "amount": 2}, {"item": "hugevinium", "amount": 7}], "research": "rupuvu-factory", "consumes": {"powerBuffered": 9027}, "category": "power"}

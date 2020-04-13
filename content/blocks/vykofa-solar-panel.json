@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vykofa solar panel", "description": "...", "size": 3, "health": 63, "requirements": [{"item": "vykofa", "amount": 3}, {"item": "byxo", "amount": 15}, {"item": "miqomy", "amount": 7}], "research": "vykofa-factory", "powerProduction": 2.4665565235411537, "category": "power"}

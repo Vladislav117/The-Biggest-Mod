@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "giku solar panel", "description": "...", "size": 3, "health": 203, "requirements": [{"item": "giku", "amount": 9}, {"item": "mikyzy", "amount": 4}, {"item": "nejesu", "amount": 7}], "research": "giku-factory", "powerProduction": 4.044703874023671, "category": "power"}

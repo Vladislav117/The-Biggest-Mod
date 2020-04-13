@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xydy battery", "description": "...", "size": 1, "health": 341, "requirements": [{"item": "xydy", "amount": 1}, {"item": "jeqidynium", "amount": 18}, {"item": "wasebanium", "amount": 2}], "research": "xydy-factory", "consumes": {"powerBuffered": 458}, "category": "power"}

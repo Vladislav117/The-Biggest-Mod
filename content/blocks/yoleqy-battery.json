@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yoleqy battery", "description": "...", "size": 3, "health": 49, "requirements": [{"item": "yoleqy", "amount": 1}, {"item": "lymo", "amount": 7}, {"item": "cobunium", "amount": 3}], "research": "yoleqy-factory", "consumes": {"powerBuffered": 355}, "category": "power"}

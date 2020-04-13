@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kypofu power node", "description": "...", "size": 2, "health": 721, "requirements": [{"item": "kypofu", "amount": 4}, {"item": "qiqo", "amount": 12}, {"item": "tipi", "amount": 1}], "research": "kypofu-factory", "maxNodes": 49, "laserRange": 5, "category": "power"}

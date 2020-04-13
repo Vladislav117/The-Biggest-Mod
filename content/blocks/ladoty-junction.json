@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ladoty junction", "description": "...", "health": 12, "speed": 7, "capacity": 11, "size": 1, "requirements": [{"item": "ladoty", "amount": 1}, {"item": "puli", "amount": 1}], "research": "ladoty-conveyor", "category": "distribution"}

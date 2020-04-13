@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tohi power node", "description": "...", "size": 2, "health": 24, "requirements": [{"item": "tohi", "amount": 15}, {"item": "zytukenium", "amount": 10}, {"item": "miqomy", "amount": 7}], "research": "tohi-factory", "maxNodes": 25, "laserRange": 15, "category": "power"}

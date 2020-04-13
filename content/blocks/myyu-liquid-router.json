@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "myyu liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "myyu", "amount": 20}, {"item": "kavequ", "amount": 6}, {"item": "hiki", "amount": 8}], "research": "myyu-conduit", "liquidCapacity": 10, "category": "liquid"}

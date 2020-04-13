@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qaranium liquid tank", "description": "...", "health": 311, "size": 3, "requirements": [{"item": "qaranium", "amount": 16}, {"item": "xodali", "amount": 1}, {"item": "vedapa", "amount": 4}], "research": "qaranium-conduit", "category": "liquid", "liquidCapacity": 18595, "hasLiquids": true}

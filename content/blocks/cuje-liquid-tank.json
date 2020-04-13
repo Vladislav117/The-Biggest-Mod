@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuje liquid tank", "description": "...", "health": 346, "size": 3, "requirements": [{"item": "cuje", "amount": 1}, {"item": "qegade", "amount": 3}, {"item": "lyzecinium", "amount": 6}], "research": "cuje-conduit", "category": "liquid", "liquidCapacity": 48054, "hasLiquids": true}

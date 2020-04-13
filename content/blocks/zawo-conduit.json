@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zawo conduit", "description": "...", "health": 55, "requirements": [{"item": "zawo", "amount": 5}, {"item": "docyya", "amount": 14}, {"item": "juyy", "amount": 2}], "liquidCapacity": 49, "liquidPressure": 0, "research": "zawo-factory", "category": "liquid"}

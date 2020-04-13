@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gepyna solar panel", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "gepyna", "amount": 9}, {"item": "simiwi", "amount": 6}, {"item": "luyoyinium", "amount": 8}], "research": "gepyna-factory", "powerProduction": 1.057601740561735, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hotonium battery", "description": "...", "size": 3, "health": 23, "requirements": [{"item": "hotonium", "amount": 10}, {"item": "bogovy", "amount": 20}, {"item": "favunium", "amount": 4}], "research": "hotonium-factory", "consumes": {"powerBuffered": 5142}, "category": "power"}

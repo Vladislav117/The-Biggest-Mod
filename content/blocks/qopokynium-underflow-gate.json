@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qopokynium underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "qopokynium", "amount": 3}, {"item": "fisa", "amount": 3}], "research": "qopokynium-conveyor", "category": "distribution", "invert": false}

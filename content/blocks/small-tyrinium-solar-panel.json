@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tyrinium solar panel", "description": "...", "size": 1, "health": 106, "requirements": [{"item": "tyrinium", "amount": 14}, {"item": "xeponium", "amount": 20}, {"item": "gapihe", "amount": 8}], "research": "tyrinium-factory", "powerProduction": 2.36483968800921, "category": "power"}

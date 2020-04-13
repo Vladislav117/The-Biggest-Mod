@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "weruqa power node", "description": "...", "size": 2, "health": 793, "requirements": [{"item": "weruqa", "amount": 16}, {"item": "xocu", "amount": 15}, {"item": "wavoli", "amount": 7}], "research": "weruqa-factory", "maxNodes": 49, "laserRange": 29, "category": "power"}

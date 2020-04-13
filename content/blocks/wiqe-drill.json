@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wiqe drill", "description": "...", "size": 2, "health": 297, "tier": 3, "drillTime": 13, "consumes": {"power": 8}, "requirements": [{"item": "wiqe", "amount": 6}, {"item": "ryheco", "amount": 19}, {"item": "hisucy", "amount": 1}], "research": "wiqe-factory", "category": "production"}

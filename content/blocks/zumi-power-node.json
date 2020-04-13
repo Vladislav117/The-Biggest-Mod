@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zumi power node", "description": "...", "size": 2, "health": 558, "requirements": [{"item": "zumi", "amount": 10}, {"item": "coxufe", "amount": 9}, {"item": "fegy", "amount": 5}], "research": "zumi-factory", "maxNodes": 38, "laserRange": 22, "category": "power"}

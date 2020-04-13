@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wozo battery", "description": "...", "size": 1, "health": 334, "requirements": [{"item": "wozo", "amount": 20}, {"item": "depy", "amount": 14}, {"item": "gadanium", "amount": 10}], "research": "wozo-factory", "consumes": {"powerBuffered": 1779}, "category": "power"}

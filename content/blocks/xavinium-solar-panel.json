@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xavinium solar panel", "description": "...", "size": 3, "health": 261, "requirements": [{"item": "xavinium", "amount": 2}, {"item": "kubi", "amount": 9}, {"item": "kilu", "amount": 2}], "research": "xavinium-factory", "powerProduction": 3.4682955353167224, "category": "power"}

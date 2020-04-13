@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "tefaco overdrive projector", "description": "...", "health": 69, "consumes": {"power": 3.0, "item": "tefaco"}, "size": 2, "requirements": [{"item": "tefaco", "amount": 14}, {"item": "qokike", "amount": 4}, {"item": "graphite", "amount": 9}], "research": "tefaco-factory", "category": "effect"}

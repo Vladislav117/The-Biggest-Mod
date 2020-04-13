@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "myruhy bridge conveyor", "description": "", "health": 44, "range": 20, "speed": 13, "bufferCapacity": 22, "requirements": [{"item": "myruhy", "amount": 3}, {"item": "qysacy", "amount": 2}], "research": "myruhy-conveyor", "category": "distribution", "size": 1}

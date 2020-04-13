@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tynipu solar panel", "description": "...", "size": 3, "health": 190, "requirements": [{"item": "tynipu", "amount": 13}, {"item": "vove", "amount": 2}, {"item": "jimi", "amount": 1}], "research": "tynipu-factory", "powerProduction": 0.40105783126216976, "category": "power"}

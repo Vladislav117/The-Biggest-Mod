@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yodo liquid router", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "yodo", "amount": 1}, {"item": "rybiho", "amount": 3}, {"item": "sebobe", "amount": 4}], "research": "yodo-conduit", "liquidCapacity": 10, "category": "liquid"}

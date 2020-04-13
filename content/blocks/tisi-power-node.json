@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tisi power node", "description": "...", "size": 2, "health": 784, "requirements": [{"item": "tisi", "amount": 1}, {"item": "hurula", "amount": 7}, {"item": "gykenium", "amount": 5}], "research": "tisi-factory", "maxNodes": 40, "laserRange": 8, "category": "power"}

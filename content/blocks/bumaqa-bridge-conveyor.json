@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bumaqa bridge conveyor", "description": "", "health": 16, "range": 5, "speed": 16, "bufferCapacity": 1, "requirements": [{"item": "bumaqa", "amount": 4}, {"item": "xylidinium", "amount": 5}], "research": "bumaqa-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zayuzi battery", "description": "...", "size": 1, "health": 237, "requirements": [{"item": "zayuzi", "amount": 2}, {"item": "betesa", "amount": 4}, {"item": "fole", "amount": 2}], "research": "zayuzi-factory", "consumes": {"powerBuffered": 2524}, "category": "power"}

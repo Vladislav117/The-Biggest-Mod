@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ruqe liquid tank", "description": "...", "health": 122, "size": 3, "requirements": [{"item": "ruqe", "amount": 8}, {"item": "kiyavu", "amount": 20}, {"item": "jogi", "amount": 9}], "research": "ruqe-conduit", "category": "liquid", "liquidCapacity": 15679, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fokinium power node", "description": "...", "size": 1, "health": 159, "requirements": [{"item": "fokinium", "amount": 19}, {"item": "nivifu", "amount": 11}, {"item": "vytuxe", "amount": 10}], "research": "fokinium-factory", "maxNodes": 7, "laserRange": 8, "category": "power"}

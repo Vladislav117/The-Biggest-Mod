@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cetajenium battery", "description": "...", "size": 3, "health": 298, "requirements": [{"item": "cetajenium", "amount": 16}, {"item": "jofisi", "amount": 6}, {"item": "fyte", "amount": 3}], "research": "cetajenium-factory", "consumes": {"powerBuffered": 8235}, "category": "power"}

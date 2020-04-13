@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "duyari inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "duyari", "amount": 4}, {"item": "towyti", "amount": 4}], "research": "duyari-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wekonium power node", "description": "...", "size": 2, "health": 560, "requirements": [{"item": "wekonium", "amount": 6}, {"item": "bogovy", "amount": 1}, {"item": "gydarynium", "amount": 8}], "research": "wekonium-factory", "maxNodes": 52, "laserRange": 19, "category": "power"}

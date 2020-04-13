@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xafeku overflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "xafeku", "amount": 1}, {"item": "hakenium", "amount": 1}], "research": "xafeku-conveyor", "category": "distribution", "invert": false}

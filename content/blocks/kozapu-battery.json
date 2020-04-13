@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kozapu battery", "description": "...", "size": 3, "health": 70, "requirements": [{"item": "kozapu", "amount": 3}, {"item": "wizacy", "amount": 12}, {"item": "yicejanium", "amount": 6}], "research": "kozapu-factory", "consumes": {"powerBuffered": 9837}, "category": "power"}

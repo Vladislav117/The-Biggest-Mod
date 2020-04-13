@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yuly bridge conveyor", "description": "", "health": 6, "range": 8, "speed": 18, "bufferCapacity": 1, "requirements": [{"item": "yuly", "amount": 1}, {"item": "mapibi", "amount": 2}], "research": "yuly-conveyor", "category": "distribution", "size": 1}

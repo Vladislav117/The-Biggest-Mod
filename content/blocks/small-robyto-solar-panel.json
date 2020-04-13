@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small robyto solar panel", "description": "...", "size": 1, "health": 119, "requirements": [{"item": "robyto", "amount": 10}, {"item": "dijo", "amount": 9}, {"item": "robyto", "amount": 6}], "research": "robyto-factory", "powerProduction": 0.9980462142823744, "category": "power"}

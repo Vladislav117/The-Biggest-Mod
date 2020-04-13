@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "qegy conveyor", "description": "...", "health": 75, "requirements": [{"item": "qegy", "amount": 3}, {"item": "gimy", "amount": 1}], "speed": 0.001009676102421142, "research": "qegy-factory", "category": "distribution"}

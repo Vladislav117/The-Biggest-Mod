@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "waje overflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "waje", "amount": 1}, {"item": "qyryyunium", "amount": 1}], "research": "waje-conveyor", "category": "distribution", "invert": false}

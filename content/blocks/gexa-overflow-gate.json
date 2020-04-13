@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gexa overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "gexa", "amount": 1}, {"item": "nuve", "amount": 1}], "research": "gexa-conveyor", "category": "distribution", "invert": false}

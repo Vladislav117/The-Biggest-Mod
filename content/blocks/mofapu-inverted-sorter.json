@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mofapu inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "mofapu", "amount": 2}, {"item": "muti", "amount": 1}], "research": "mofapu-conveyor", "category": "distribution", "invert": true}

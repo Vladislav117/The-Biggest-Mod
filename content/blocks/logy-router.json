@@ -1,0 +1,1 @@
+{"type": "router", "name": "logy router", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "logy", "amount": 6}], "research": "logy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vakarinium underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "vakarinium", "amount": 1}, {"item": "titanium", "amount": 5}], "research": "vakarinium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kipe conduit", "description": "...", "health": 169, "requirements": [{"item": "kipe", "amount": 5}, {"item": "saleru", "amount": 1}, {"item": "tegizunium", "amount": 6}], "liquidCapacity": 44, "liquidPressure": 8, "research": "kipe-factory", "category": "liquid"}

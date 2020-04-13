@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small povewo power node", "description": "...", "size": 1, "health": 201, "requirements": [{"item": "povewo", "amount": 15}, {"item": "tijixi", "amount": 1}, {"item": "kuwy", "amount": 10}], "research": "povewo-factory", "maxNodes": 25, "laserRange": 10, "category": "power"}

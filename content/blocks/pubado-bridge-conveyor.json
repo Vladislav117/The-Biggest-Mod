@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pubado bridge conveyor", "description": "", "health": 47, "range": 12, "speed": 18, "bufferCapacity": 11, "requirements": [{"item": "pubado", "amount": 3}, {"item": "betesa", "amount": 5}], "research": "pubado-conveyor", "category": "distribution", "size": 1}

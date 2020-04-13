@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xafeku inverted sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "xafeku", "amount": 2}, {"item": "cavyjo", "amount": 5}], "research": "xafeku-conveyor", "category": "distribution", "invert": true}

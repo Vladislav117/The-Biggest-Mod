@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yitari conduit", "description": "...", "health": 98, "requirements": [{"item": "yitari", "amount": 12}, {"item": "nulyfo", "amount": 8}, {"item": "qiqole", "amount": 5}], "liquidCapacity": 30, "liquidPressure": 8, "research": "yitari-factory", "category": "liquid"}

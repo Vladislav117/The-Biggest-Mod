@@ -1,0 +1,1 @@
+{"type": "battery", "name": "syqi battery", "description": "...", "size": 3, "health": 384, "requirements": [{"item": "syqi", "amount": 19}, {"item": "laqu", "amount": 19}, {"item": "vema", "amount": 1}], "research": "syqi-factory", "consumes": {"powerBuffered": 6332}, "category": "power"}

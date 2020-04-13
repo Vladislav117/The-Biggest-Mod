@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "reminium drill", "description": "...", "size": 2, "health": 235, "tier": 4, "drillTime": 13, "consumes": {"power": 5}, "requirements": [{"item": "reminium", "amount": 5}, {"item": "mygyyy", "amount": 15}, {"item": "caqohanium", "amount": 7}], "research": "reminium-factory", "category": "production"}

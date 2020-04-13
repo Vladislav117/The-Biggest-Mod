@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zenuwunium solar panel", "description": "...", "size": 1, "health": 266, "requirements": [{"item": "zenuwunium", "amount": 5}, {"item": "pubado", "amount": 16}, {"item": "sihynium", "amount": 9}], "research": "zenuwunium-factory", "powerProduction": 8.931539207934732, "category": "power"}

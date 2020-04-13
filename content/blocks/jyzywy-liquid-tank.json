@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jyzywy liquid tank", "description": "...", "health": 506, "size": 3, "requirements": [{"item": "jyzywy", "amount": 12}, {"item": "jyluba", "amount": 4}, {"item": "kyqedu", "amount": 2}], "research": "jyzywy-conduit", "category": "liquid", "liquidCapacity": 93371, "hasLiquids": true}

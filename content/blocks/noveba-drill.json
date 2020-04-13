@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "noveba drill", "description": "...", "size": 2, "health": 205, "tier": 1, "drillTime": 6, "consumes": {"power": 19}, "requirements": [{"item": "noveba", "amount": 15}, {"item": "fyziro", "amount": 18}, {"item": "xysu", "amount": 1}], "research": "noveba-factory", "category": "production"}

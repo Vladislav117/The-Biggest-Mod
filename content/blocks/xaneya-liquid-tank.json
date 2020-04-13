@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xaneya liquid tank", "description": "...", "health": 500, "size": 3, "requirements": [{"item": "xaneya", "amount": 18}, {"item": "higyhy", "amount": 18}, {"item": "pagu", "amount": 5}], "research": "xaneya-conduit", "category": "liquid", "liquidCapacity": 37577, "hasLiquids": true}

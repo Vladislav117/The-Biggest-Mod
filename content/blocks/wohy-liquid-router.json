@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wohy liquid router", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "wohy", "amount": 3}, {"item": "yikynium", "amount": 6}, {"item": "pyqynium", "amount": 7}], "research": "wohy-conduit", "liquidCapacity": 10, "category": "liquid"}

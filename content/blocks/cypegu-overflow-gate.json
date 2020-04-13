@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cypegu overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "cypegu", "amount": 1}, {"item": "dalire", "amount": 5}], "research": "cypegu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dyjitonium liquid tank", "description": "...", "health": 390, "size": 3, "requirements": [{"item": "dyjitonium", "amount": 7}, {"item": "fygo", "amount": 2}, {"item": "liba", "amount": 3}], "research": "dyjitonium-conduit", "category": "liquid", "liquidCapacity": 103604, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kiyuta junction", "description": "...", "health": 46, "speed": 3, "capacity": 6, "size": 1, "requirements": [{"item": "kiyuta", "amount": 5}, {"item": "pymu", "amount": 1}], "research": "kiyuta-conveyor", "category": "distribution"}

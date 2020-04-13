@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "genohu liquid tank", "description": "...", "health": 587, "size": 3, "requirements": [{"item": "genohu", "amount": 15}, {"item": "lahy", "amount": 7}, {"item": "faruna", "amount": 4}], "research": "genohu-conduit", "category": "liquid", "liquidCapacity": 36936, "hasLiquids": true}

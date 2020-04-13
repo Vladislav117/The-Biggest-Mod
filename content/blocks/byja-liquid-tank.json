@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "byja liquid tank", "description": "...", "health": 512, "size": 3, "requirements": [{"item": "byja", "amount": 18}, {"item": "jytubinium", "amount": 9}, {"item": "gidu", "amount": 5}], "research": "byja-conduit", "category": "liquid", "liquidCapacity": 10782, "hasLiquids": true}

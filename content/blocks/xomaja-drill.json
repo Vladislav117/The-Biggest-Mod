@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xomaja drill", "description": "...", "size": 4, "health": 228, "tier": 2, "drillTime": 17, "consumes": {"power": 13}, "requirements": [{"item": "xomaja", "amount": 12}, {"item": "gypupe", "amount": 6}, {"item": "neletanium", "amount": 5}], "research": "xomaja-factory", "category": "production"}

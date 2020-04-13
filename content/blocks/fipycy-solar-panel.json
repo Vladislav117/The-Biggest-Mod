@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fipycy solar panel", "description": "...", "size": 3, "health": 236, "requirements": [{"item": "fipycy", "amount": 16}, {"item": "feyyqe", "amount": 1}, {"item": "gomi", "amount": 2}], "research": "fipycy-factory", "powerProduction": 3.6034307113653328, "category": "power"}

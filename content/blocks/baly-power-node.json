@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "baly power node", "description": "...", "size": 2, "health": 706, "requirements": [{"item": "baly", "amount": 4}, {"item": "syjo", "amount": 11}, {"item": "pyvunium", "amount": 5}], "research": "baly-factory", "maxNodes": 49, "laserRange": 12, "category": "power"}

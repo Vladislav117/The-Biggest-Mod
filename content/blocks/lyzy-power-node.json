@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lyzy power node", "description": "...", "size": 2, "health": 238, "requirements": [{"item": "lyzy", "amount": 3}, {"item": "siceku", "amount": 18}, {"item": "hugevinium", "amount": 6}], "research": "lyzy-factory", "maxNodes": 38, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xejo solar panel", "description": "...", "size": 1, "health": 195, "requirements": [{"item": "xejo", "amount": 4}, {"item": "yunu", "amount": 18}, {"item": "kyweru", "amount": 10}], "research": "xejo-factory", "powerProduction": 0.0053920613307839454, "category": "power"}

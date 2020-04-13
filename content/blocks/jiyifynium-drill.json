@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jiyifynium drill", "description": "...", "size": 3, "health": 201, "tier": 3, "drillTime": 2, "consumes": {"power": 16}, "requirements": [{"item": "jiyifynium", "amount": 13}, {"item": "vewi", "amount": 1}, {"item": "yodary", "amount": 10}], "research": "jiyifynium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fixunium conduit", "description": "...", "health": 121, "requirements": [{"item": "fixunium", "amount": 2}, {"item": "vypeha", "amount": 18}, {"item": "fizunium", "amount": 4}], "liquidCapacity": 2, "liquidPressure": 0, "research": "fixunium-factory", "category": "liquid"}

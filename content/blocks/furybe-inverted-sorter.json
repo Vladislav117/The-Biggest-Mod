@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "furybe inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "furybe", "amount": 1}, {"item": "fasaze", "amount": 1}], "research": "furybe-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "puzi power node", "description": "...", "size": 2, "health": 583, "requirements": [{"item": "puzi", "amount": 10}, {"item": "koqyyo", "amount": 2}, {"item": "jyyo", "amount": 5}], "research": "puzi-factory", "maxNodes": 49, "laserRange": 26, "category": "power"}

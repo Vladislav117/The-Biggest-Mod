@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pukalunium liquid tank", "description": "...", "health": 496, "size": 3, "requirements": [{"item": "pukalunium", "amount": 20}, {"item": "bitaba", "amount": 6}, {"item": "fesixa", "amount": 1}], "research": "pukalunium-conduit", "category": "liquid", "liquidCapacity": 85400, "hasLiquids": true}

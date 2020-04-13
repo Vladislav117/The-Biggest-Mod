@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "siyake drill", "description": "...", "size": 2, "health": 178, "tier": 1, "drillTime": 12, "consumes": {"power": 3}, "requirements": [{"item": "siyake", "amount": 5}, {"item": "jogi", "amount": 12}, {"item": "yexe", "amount": 1}], "research": "siyake-factory", "category": "production"}

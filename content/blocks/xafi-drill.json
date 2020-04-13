@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xafi drill", "description": "...", "size": 2, "health": 270, "tier": 2, "drillTime": 10, "consumes": {"power": 10}, "requirements": [{"item": "xafi", "amount": 2}, {"item": "zese", "amount": 8}, {"item": "tuxu", "amount": 5}], "research": "xafi-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bily power node", "description": "...", "size": 2, "health": 698, "requirements": [{"item": "bily", "amount": 15}, {"item": "ceri", "amount": 3}, {"item": "zereka", "amount": 5}], "research": "bily-factory", "maxNodes": 41, "laserRange": 10, "category": "power"}

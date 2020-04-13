@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "weju overdrive projector", "description": "...", "health": 73, "consumes": {"power": 3.0, "item": "weju"}, "size": 2, "requirements": [{"item": "weju", "amount": 16}, {"item": "ragoku", "amount": 17}, {"item": "zoyinium", "amount": 8}], "research": "weju-factory", "category": "effect"}

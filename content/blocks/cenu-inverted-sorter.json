@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cenu inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "cenu", "amount": 5}, {"item": "lelybe", "amount": 2}], "research": "cenu-conveyor", "category": "distribution", "invert": true}

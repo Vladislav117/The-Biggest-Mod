@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cizenium power node", "description": "...", "size": 2, "health": 222, "requirements": [{"item": "cizenium", "amount": 5}, {"item": "dikygonium", "amount": 14}, {"item": "sixo", "amount": 6}], "research": "cizenium-factory", "maxNodes": 47, "laserRange": 26, "category": "power"}

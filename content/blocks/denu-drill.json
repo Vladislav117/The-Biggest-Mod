@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "denu drill", "description": "...", "size": 3, "health": 325, "tier": 3, "drillTime": 2, "consumes": {"power": 3}, "requirements": [{"item": "denu", "amount": 12}, {"item": "surge-alloy", "amount": 20}, {"item": "wabaru", "amount": 2}], "research": "denu-factory", "category": "production"}

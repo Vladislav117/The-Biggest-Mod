@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qatu underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "qatu", "amount": 2}, {"item": "tatupo", "amount": 5}], "research": "qatu-conveyor", "category": "distribution", "invert": false}

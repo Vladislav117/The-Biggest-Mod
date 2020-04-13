@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small puzi solar panel", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "puzi", "amount": 13}, {"item": "mebo", "amount": 17}, {"item": "jodezu", "amount": 6}], "research": "puzi-factory", "powerProduction": 1.2930773709110361, "category": "power"}

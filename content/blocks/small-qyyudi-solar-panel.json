@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qyyudi solar panel", "description": "...", "size": 1, "health": 390, "requirements": [{"item": "qyyudi", "amount": 16}, {"item": "potesonium", "amount": 10}, {"item": "marici", "amount": 4}], "research": "qyyudi-factory", "powerProduction": 1.468309522719742, "category": "power"}

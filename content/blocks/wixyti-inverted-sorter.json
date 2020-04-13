@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wixyti inverted sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "wixyti", "amount": 5}, {"item": "paqupy", "amount": 1}], "research": "wixyti-conveyor", "category": "distribution", "invert": true}

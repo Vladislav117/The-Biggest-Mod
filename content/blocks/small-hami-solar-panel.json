@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hami solar panel", "description": "...", "size": 1, "health": 131, "requirements": [{"item": "hami", "amount": 14}, {"item": "povo", "amount": 4}, {"item": "dysata", "amount": 8}], "research": "hami-factory", "powerProduction": 0.10503243641681018, "category": "power"}

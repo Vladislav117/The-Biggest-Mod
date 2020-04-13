@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nefanium underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "nefanium", "amount": 4}, {"item": "lucohi", "amount": 1}], "research": "nefanium-conveyor", "category": "distribution", "invert": false}

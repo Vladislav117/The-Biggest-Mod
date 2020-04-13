@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bide underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "bide", "amount": 2}, {"item": "kegiqi", "amount": 2}], "research": "bide-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "maqini power node", "description": "...", "size": 2, "health": 274, "requirements": [{"item": "maqini", "amount": 4}, {"item": "tavu", "amount": 2}, {"item": "cozuja", "amount": 4}], "research": "maqini-factory", "maxNodes": 52, "laserRange": 7, "category": "power"}

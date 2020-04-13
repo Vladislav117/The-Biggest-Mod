@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yudesinium battery", "description": "...", "size": 3, "health": 307, "requirements": [{"item": "yudesinium", "amount": 12}, {"item": "tise", "amount": 12}, {"item": "fogodo", "amount": 9}], "research": "yudesinium-factory", "consumes": {"powerBuffered": 9190}, "category": "power"}

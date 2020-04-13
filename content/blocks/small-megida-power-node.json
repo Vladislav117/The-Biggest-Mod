@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small megida power node", "description": "...", "size": 1, "health": 234, "requirements": [{"item": "megida", "amount": 10}, {"item": "joqopy", "amount": 5}, {"item": "linu", "amount": 4}], "research": "megida-factory", "maxNodes": 19, "laserRange": 17, "category": "power"}

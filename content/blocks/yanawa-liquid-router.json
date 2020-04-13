@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yanawa liquid router", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "yanawa", "amount": 5}, {"item": "gypunium", "amount": 15}, {"item": "roja", "amount": 2}], "research": "yanawa-conduit", "liquidCapacity": 10, "category": "liquid"}

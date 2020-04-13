@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "geco solar panel", "description": "...", "size": 3, "health": 251, "requirements": [{"item": "geco", "amount": 11}, {"item": "myhuzi", "amount": 12}, {"item": "dawo", "amount": 8}], "research": "geco-factory", "powerProduction": 1.3247027744043542, "category": "power"}

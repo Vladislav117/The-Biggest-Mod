@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "goti conduit", "description": "...", "health": 104, "requirements": [{"item": "goti", "amount": 4}, {"item": "syjilanium", "amount": 20}, {"item": "wano", "amount": 9}], "liquidCapacity": 25, "liquidPressure": 0, "research": "goti-factory", "category": "liquid"}

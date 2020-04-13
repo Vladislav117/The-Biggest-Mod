@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wohunium solar panel", "description": "...", "size": 3, "health": 312, "requirements": [{"item": "wohunium", "amount": 6}, {"item": "cynehe", "amount": 17}, {"item": "caho", "amount": 9}], "research": "wohunium-factory", "powerProduction": 0.03471966929262317, "category": "power"}

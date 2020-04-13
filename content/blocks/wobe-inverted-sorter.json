@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wobe inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "wobe", "amount": 2}, {"item": "zyhijy", "amount": 4}], "research": "wobe-conveyor", "category": "distribution", "invert": true}

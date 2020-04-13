@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fizycinium underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "fizycinium", "amount": 5}, {"item": "doge", "amount": 1}], "research": "fizycinium-conveyor", "category": "distribution", "invert": false}

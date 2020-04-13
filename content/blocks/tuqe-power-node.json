@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tuqe power node", "description": "...", "size": 2, "health": 592, "requirements": [{"item": "tuqe", "amount": 10}, {"item": "xece", "amount": 3}, {"item": "piga", "amount": 8}], "research": "tuqe-factory", "maxNodes": 58, "laserRange": 21, "category": "power"}

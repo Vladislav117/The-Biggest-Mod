@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "paso liquid tank", "description": "...", "health": 547, "size": 3, "requirements": [{"item": "paso", "amount": 13}, {"item": "xysu", "amount": 13}, {"item": "betesa", "amount": 5}], "research": "paso-conduit", "category": "liquid", "liquidCapacity": 107418, "hasLiquids": true}

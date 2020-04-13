@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jerenium power node", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "jerenium", "amount": 6}, {"item": "kura", "amount": 15}, {"item": "jikesi", "amount": 6}], "research": "jerenium-factory", "maxNodes": 12, "laserRange": 4, "category": "power"}

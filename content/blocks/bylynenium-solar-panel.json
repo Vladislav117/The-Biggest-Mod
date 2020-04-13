@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bylynenium solar panel", "description": "...", "size": 3, "health": 251, "requirements": [{"item": "bylynenium", "amount": 13}, {"item": "yaky", "amount": 4}, {"item": "josixu", "amount": 2}], "research": "bylynenium-factory", "powerProduction": 0.7284535296544246, "category": "power"}

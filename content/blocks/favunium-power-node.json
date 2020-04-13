@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "favunium power node", "description": "...", "size": 2, "health": 626, "requirements": [{"item": "favunium", "amount": 7}, {"item": "jodezu", "amount": 4}, {"item": "jywupa", "amount": 4}], "research": "favunium-factory", "maxNodes": 52, "laserRange": 26, "category": "power"}

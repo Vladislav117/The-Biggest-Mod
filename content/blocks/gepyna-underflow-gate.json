@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gepyna underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "gepyna", "amount": 4}, {"item": "sadime", "amount": 3}], "research": "gepyna-conveyor", "category": "distribution", "invert": false}

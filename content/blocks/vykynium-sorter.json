@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vykynium sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "vykynium", "amount": 5}, {"item": "baranium", "amount": 1}], "research": "vykynium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small geciha battery", "description": "...", "size": 1, "health": 320, "requirements": [{"item": "geciha", "amount": 19}, {"item": "vihy", "amount": 8}, {"item": "soronium", "amount": 2}], "research": "geciha-factory", "consumes": {"powerBuffered": 2321}, "category": "power"}

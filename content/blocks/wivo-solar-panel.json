@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wivo solar panel", "description": "...", "size": 3, "health": 160, "requirements": [{"item": "wivo", "amount": 8}, {"item": "kagopy", "amount": 6}, {"item": "gupyfi", "amount": 9}], "research": "wivo-factory", "powerProduction": 0.1301864050323598, "category": "power"}

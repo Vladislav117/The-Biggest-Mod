@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mijinium liquid tank", "description": "...", "health": 389, "size": 3, "requirements": [{"item": "mijinium", "amount": 16}, {"item": "vatecy", "amount": 8}, {"item": "kica", "amount": 1}], "research": "mijinium-conduit", "category": "liquid", "liquidCapacity": 58479, "hasLiquids": true}

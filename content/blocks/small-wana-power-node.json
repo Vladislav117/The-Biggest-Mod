@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wana power node", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "wana", "amount": 10}, {"item": "mylenium", "amount": 17}, {"item": "yydy", "amount": 9}], "research": "wana-factory", "maxNodes": 13, "laserRange": 14, "category": "power"}

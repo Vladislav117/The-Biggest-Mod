@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nacefa liquid tank", "description": "...", "health": 260, "size": 3, "requirements": [{"item": "nacefa", "amount": 4}, {"item": "yicenium", "amount": 1}, {"item": "jupiqynium", "amount": 9}], "research": "nacefa-conduit", "category": "liquid", "liquidCapacity": 39269, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "neminium liquid tank", "description": "...", "health": 521, "size": 3, "requirements": [{"item": "neminium", "amount": 18}, {"item": "wigyre", "amount": 15}, {"item": "myyu", "amount": 10}], "research": "neminium-conduit", "category": "liquid", "liquidCapacity": 76013, "hasLiquids": true}

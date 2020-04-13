@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zivo overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "zivo", "amount": 5}, {"item": "plastanium", "amount": 3}], "research": "zivo-conveyor", "category": "distribution", "invert": false}

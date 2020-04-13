@@ -1,0 +1,1 @@
+{"type": "junction", "name": "botynium junction", "description": "...", "health": 1, "speed": 18, "capacity": 18, "size": 1, "requirements": [{"item": "botynium", "amount": 2}, {"item": "moki", "amount": 5}], "research": "botynium-conveyor", "category": "distribution"}

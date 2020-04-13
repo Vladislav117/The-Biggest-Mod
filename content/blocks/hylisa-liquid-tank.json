@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hylisa liquid tank", "description": "...", "health": 622, "size": 3, "requirements": [{"item": "hylisa", "amount": 16}, {"item": "horyve", "amount": 4}, {"item": "minuna", "amount": 3}], "research": "hylisa-conduit", "category": "liquid", "liquidCapacity": 22952, "hasLiquids": true}

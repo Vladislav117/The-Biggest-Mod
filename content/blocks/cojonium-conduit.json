@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cojonium conduit", "description": "...", "health": 103, "requirements": [{"item": "cojonium", "amount": 13}, {"item": "tizusa", "amount": 16}, {"item": "tysihu", "amount": 3}], "liquidCapacity": 12, "liquidPressure": 2, "research": "cojonium-factory", "category": "liquid"}

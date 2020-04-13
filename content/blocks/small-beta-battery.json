@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small beta battery", "description": "...", "size": 1, "health": 165, "requirements": [{"item": "beta", "amount": 18}, {"item": "hyzafenium", "amount": 20}, {"item": "mymapi", "amount": 8}], "research": "beta-factory", "consumes": {"powerBuffered": 251}, "category": "power"}

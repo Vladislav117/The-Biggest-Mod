@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xaya liquid tank", "description": "...", "health": 176, "size": 3, "requirements": [{"item": "xaya", "amount": 3}, {"item": "wicy", "amount": 2}, {"item": "hylisa", "amount": 5}], "research": "xaya-conduit", "category": "liquid", "liquidCapacity": 4685, "hasLiquids": true}

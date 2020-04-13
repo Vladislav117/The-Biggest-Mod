@@ -1,0 +1,1 @@
+{"type": "junction", "name": "waka junction", "description": "...", "health": 31, "speed": 10, "capacity": 1, "size": 1, "requirements": [{"item": "waka", "amount": 5}, {"item": "vuciby", "amount": 1}], "research": "waka-conveyor", "category": "distribution"}

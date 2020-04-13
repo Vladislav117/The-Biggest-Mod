@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vaqeca power node", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "vaqeca", "amount": 5}, {"item": "qihy", "amount": 6}, {"item": "velewo", "amount": 2}], "research": "vaqeca-factory", "maxNodes": 19, "laserRange": 3, "category": "power"}

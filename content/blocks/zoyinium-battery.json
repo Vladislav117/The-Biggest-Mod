@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zoyinium battery", "description": "...", "size": 3, "health": 107, "requirements": [{"item": "zoyinium", "amount": 13}, {"item": "xype", "amount": 12}, {"item": "qylino", "amount": 4}], "research": "zoyinium-factory", "consumes": {"powerBuffered": 455}, "category": "power"}

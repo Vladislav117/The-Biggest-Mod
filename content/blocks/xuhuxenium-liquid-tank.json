@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xuhuxenium liquid tank", "description": "...", "health": 601, "size": 3, "requirements": [{"item": "xuhuxenium", "amount": 18}, {"item": "tagawe", "amount": 13}, {"item": "ryjo", "amount": 2}], "research": "xuhuxenium-conduit", "category": "liquid", "liquidCapacity": 91694, "hasLiquids": true}

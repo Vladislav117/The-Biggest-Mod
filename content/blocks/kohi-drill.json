@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kohi drill", "description": "...", "size": 2, "health": 344, "tier": 3, "drillTime": 4, "consumes": {"power": 15}, "requirements": [{"item": "kohi", "amount": 17}, {"item": "bapi", "amount": 20}, {"item": "siwi", "amount": 4}], "research": "kohi-factory", "category": "production"}

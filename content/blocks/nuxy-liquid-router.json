@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nuxy liquid router", "description": "...", "size": 1, "health": 98, "requirements": [{"item": "nuxy", "amount": 16}, {"item": "kubi", "amount": 6}, {"item": "minu", "amount": 2}], "research": "nuxy-conduit", "liquidCapacity": 10, "category": "liquid"}

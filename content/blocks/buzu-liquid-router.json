@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "buzu liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "buzu", "amount": 20}, {"item": "soyase", "amount": 5}, {"item": "fabese", "amount": 8}], "research": "buzu-conduit", "liquidCapacity": 10, "category": "liquid"}

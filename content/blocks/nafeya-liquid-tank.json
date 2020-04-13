@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nafeya liquid tank", "description": "...", "health": 414, "size": 3, "requirements": [{"item": "nafeya", "amount": 3}, {"item": "gypupe", "amount": 8}, {"item": "beniyi", "amount": 1}], "research": "nafeya-conduit", "category": "liquid", "liquidCapacity": 72483, "hasLiquids": true}

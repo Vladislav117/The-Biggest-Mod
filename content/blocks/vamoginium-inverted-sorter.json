@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vamoginium inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "vamoginium", "amount": 1}, {"item": "jihu", "amount": 3}], "research": "vamoginium-conveyor", "category": "distribution", "invert": true}

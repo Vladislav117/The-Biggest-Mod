@@ -1,0 +1,1 @@
+{"type": "junction", "name": "renove junction", "description": "...", "health": 29, "speed": 7, "capacity": 7, "size": 1, "requirements": [{"item": "renove", "amount": 3}, {"item": "xaqi", "amount": 2}], "research": "renove-conveyor", "category": "distribution"}

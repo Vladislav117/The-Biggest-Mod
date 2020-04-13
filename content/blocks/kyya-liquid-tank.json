@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyya liquid tank", "description": "...", "health": 567, "size": 3, "requirements": [{"item": "kyya", "amount": 10}, {"item": "syxidonium", "amount": 2}, {"item": "wasu", "amount": 6}], "research": "kyya-conduit", "category": "liquid", "liquidCapacity": 13781, "hasLiquids": true}

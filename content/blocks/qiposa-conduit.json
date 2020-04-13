@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qiposa conduit", "description": "...", "health": 153, "requirements": [{"item": "qiposa", "amount": 13}, {"item": "jepumi", "amount": 11}, {"item": "nytina", "amount": 9}], "liquidCapacity": 28, "liquidPressure": 2, "research": "qiposa-factory", "category": "liquid"}

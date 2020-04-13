@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "give conveyor", "description": "...", "health": 91, "requirements": [{"item": "give", "amount": 3}, {"item": "dife", "amount": 7}], "speed": 0.20294524338611586, "research": "give-factory", "category": "distribution"}

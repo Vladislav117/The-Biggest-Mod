@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "roje liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "roje", "amount": 4}, {"item": "nepysi", "amount": 11}, {"item": "madosy", "amount": 1}], "research": "roje-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "typi underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "typi", "amount": 1}, {"item": "jodezu", "amount": 2}], "research": "typi-conveyor", "category": "distribution", "invert": false}

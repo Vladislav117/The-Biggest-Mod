@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "boko liquid tank", "description": "...", "health": 462, "size": 3, "requirements": [{"item": "boko", "amount": 10}, {"item": "macurenium", "amount": 5}, {"item": "vigyqinium", "amount": 1}], "research": "boko-conduit", "category": "liquid", "liquidCapacity": 93785, "hasLiquids": true}

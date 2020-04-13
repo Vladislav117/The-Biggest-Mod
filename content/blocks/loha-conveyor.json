@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "loha conveyor", "description": "...", "health": 224, "requirements": [{"item": "loha", "amount": 4}, {"item": "zufy", "amount": 8}], "speed": 0.2698790095140684, "research": "loha-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ruvabynium battery", "description": "...", "size": 3, "health": 318, "requirements": [{"item": "ruvabynium", "amount": 16}, {"item": "niho", "amount": 19}, {"item": "qopaye", "amount": 2}], "research": "ruvabynium-factory", "consumes": {"powerBuffered": 4257}, "category": "power"}

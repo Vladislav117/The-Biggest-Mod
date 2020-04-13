@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lavi solar panel", "description": "...", "size": 1, "health": 367, "requirements": [{"item": "lavi", "amount": 9}, {"item": "duqu", "amount": 12}, {"item": "qano", "amount": 5}], "research": "lavi-factory", "powerProduction": 1.3592023080604712, "category": "power"}

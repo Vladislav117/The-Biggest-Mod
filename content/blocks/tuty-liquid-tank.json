@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tuty liquid tank", "description": "...", "health": 369, "size": 3, "requirements": [{"item": "tuty", "amount": 4}, {"item": "bejominium", "amount": 3}, {"item": "jetu", "amount": 8}], "research": "tuty-conduit", "category": "liquid", "liquidCapacity": 102002, "hasLiquids": true}

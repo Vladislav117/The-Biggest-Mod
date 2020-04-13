@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "risi liquid router", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "risi", "amount": 20}, {"item": "yidugonium", "amount": 4}, {"item": "teyigu", "amount": 6}], "research": "risi-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qovy inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "qovy", "amount": 2}, {"item": "mefymanium", "amount": 4}], "research": "qovy-conveyor", "category": "distribution", "invert": true}

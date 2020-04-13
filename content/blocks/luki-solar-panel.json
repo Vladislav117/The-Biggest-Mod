@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "luki solar panel", "description": "...", "size": 3, "health": 250, "requirements": [{"item": "luki", "amount": 16}, {"item": "nehudo", "amount": 17}, {"item": "zada", "amount": 4}], "research": "luki-factory", "powerProduction": 0.3078902749290445, "category": "power"}

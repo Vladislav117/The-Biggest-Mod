@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jumi liquid tank", "description": "...", "health": 222, "size": 3, "requirements": [{"item": "jumi", "amount": 7}, {"item": "huxe", "amount": 17}, {"item": "panuwe", "amount": 8}], "research": "jumi-conduit", "category": "liquid", "liquidCapacity": 26073, "hasLiquids": true}

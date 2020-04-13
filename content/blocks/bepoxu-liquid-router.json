@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bepoxu liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "bepoxu", "amount": 8}, {"item": "lyjenium", "amount": 18}, {"item": "buro", "amount": 8}], "research": "bepoxu-conduit", "liquidCapacity": 10, "category": "liquid"}

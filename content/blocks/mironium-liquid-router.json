@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mironium liquid router", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "mironium", "amount": 7}, {"item": "wupa", "amount": 8}, {"item": "qusepu", "amount": 7}], "research": "mironium-conduit", "liquidCapacity": 10, "category": "liquid"}

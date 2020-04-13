@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zada power node", "description": "...", "size": 2, "health": 155, "requirements": [{"item": "zada", "amount": 5}, {"item": "yisupe", "amount": 7}, {"item": "danitu", "amount": 2}], "research": "zada-factory", "maxNodes": 12, "laserRange": 9, "category": "power"}

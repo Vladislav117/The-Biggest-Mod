@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tumybi solar panel", "description": "...", "size": 3, "health": 370, "requirements": [{"item": "tumybi", "amount": 20}, {"item": "kelyqi", "amount": 10}, {"item": "ruxyye", "amount": 2}], "research": "tumybi-factory", "powerProduction": 5.745899779329584, "category": "power"}

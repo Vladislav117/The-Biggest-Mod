@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dukyfe liquid tank", "description": "...", "health": 318, "size": 3, "requirements": [{"item": "dukyfe", "amount": 4}, {"item": "viqamo", "amount": 10}, {"item": "siqefo", "amount": 6}], "research": "dukyfe-conduit", "category": "liquid", "liquidCapacity": 108940, "hasLiquids": true}

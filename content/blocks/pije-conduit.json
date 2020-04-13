@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pije conduit", "description": "...", "health": 73, "requirements": [{"item": "pije", "amount": 3}, {"item": "jidy", "amount": 17}, {"item": "monobu", "amount": 9}], "liquidCapacity": 26, "liquidPressure": 10, "research": "pije-factory", "category": "liquid"}

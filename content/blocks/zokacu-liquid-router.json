@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zokacu liquid router", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "zokacu", "amount": 3}, {"item": "silicon", "amount": 4}, {"item": "mapibi", "amount": 2}], "research": "zokacu-conduit", "liquidCapacity": 10, "category": "liquid"}

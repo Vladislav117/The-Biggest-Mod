@@ -1,0 +1,1 @@
+{"type": "router", "name": "wulu router", "description": "...", "health": 120, "size": 1, "requirements": [{"item": "wulu", "amount": 5}], "research": "wulu-conveyor", "category": "distribution"}

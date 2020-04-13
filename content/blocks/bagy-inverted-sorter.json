@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bagy inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "bagy", "amount": 2}, {"item": "kyco", "amount": 5}], "research": "bagy-conveyor", "category": "distribution", "invert": true}

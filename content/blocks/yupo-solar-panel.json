@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yupo solar panel", "description": "...", "size": 3, "health": 238, "requirements": [{"item": "yupo", "amount": 3}, {"item": "tire", "amount": 15}, {"item": "wiba", "amount": 9}], "research": "yupo-factory", "powerProduction": 0.11556188908566875, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fopo power node", "description": "...", "size": 2, "health": 464, "requirements": [{"item": "fopo", "amount": 7}, {"item": "bywazy", "amount": 8}, {"item": "deqo", "amount": 3}], "research": "fopo-factory", "maxNodes": 37, "laserRange": 10, "category": "power"}

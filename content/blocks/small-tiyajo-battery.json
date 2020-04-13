@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tiyajo battery", "description": "...", "size": 1, "health": 233, "requirements": [{"item": "tiyajo", "amount": 7}, {"item": "xydume", "amount": 7}, {"item": "syjilanium", "amount": 8}], "research": "tiyajo-factory", "consumes": {"powerBuffered": 1424}, "category": "power"}

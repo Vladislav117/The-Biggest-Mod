@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hiba battery", "description": "...", "size": 3, "health": 212, "requirements": [{"item": "hiba", "amount": 14}, {"item": "xiga", "amount": 2}, {"item": "fise", "amount": 9}], "research": "hiba-factory", "consumes": {"powerBuffered": 7647}, "category": "power"}

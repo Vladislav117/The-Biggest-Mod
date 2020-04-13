@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small divimenium battery", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "divimenium", "amount": 16}, {"item": "rukycu", "amount": 8}, {"item": "cezany", "amount": 4}], "research": "divimenium-factory", "consumes": {"powerBuffered": 2395}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "macixy power node", "description": "...", "size": 2, "health": 715, "requirements": [{"item": "macixy", "amount": 20}, {"item": "qicinium", "amount": 16}, {"item": "sohusu", "amount": 8}], "research": "macixy-factory", "maxNodes": 12, "laserRange": 16, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "woyu liquid tank", "description": "...", "health": 157, "size": 3, "requirements": [{"item": "woyu", "amount": 5}, {"item": "wace", "amount": 12}, {"item": "sytafe", "amount": 9}], "research": "woyu-conduit", "category": "liquid", "liquidCapacity": 100372, "hasLiquids": true}

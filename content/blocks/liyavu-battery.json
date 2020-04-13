@@ -1,0 +1,1 @@
+{"type": "battery", "name": "liyavu battery", "description": "...", "size": 3, "health": 21, "requirements": [{"item": "liyavu", "amount": 16}, {"item": "bazidu", "amount": 19}, {"item": "nebiwy", "amount": 10}], "research": "liyavu-factory", "consumes": {"powerBuffered": 5480}, "category": "power"}

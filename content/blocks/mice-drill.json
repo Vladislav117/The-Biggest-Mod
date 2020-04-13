@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mice drill", "description": "...", "size": 2, "health": 155, "tier": 1, "drillTime": 3, "consumes": {"power": 6}, "requirements": [{"item": "mice", "amount": 17}, {"item": "guvoja", "amount": 2}, {"item": "buru", "amount": 5}], "research": "mice-factory", "category": "production"}

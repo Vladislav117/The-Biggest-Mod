@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vinizy solar panel", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "vinizy", "amount": 13}, {"item": "hypi", "amount": 1}, {"item": "pijebu", "amount": 5}], "research": "vinizy-factory", "powerProduction": 0.0013011597446653236, "category": "power"}

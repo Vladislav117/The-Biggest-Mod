@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zimabe solar panel", "description": "...", "size": 1, "health": 139, "requirements": [{"item": "zimabe", "amount": 11}, {"item": "wuvonium", "amount": 15}, {"item": "qavuhe", "amount": 2}], "research": "zimabe-factory", "powerProduction": 3.0515375390590074, "category": "power"}

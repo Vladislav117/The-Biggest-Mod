@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hohisi solar panel", "description": "...", "size": 3, "health": 133, "requirements": [{"item": "hohisi", "amount": 1}, {"item": "sara", "amount": 15}, {"item": "lyvewenium", "amount": 9}], "research": "hohisi-factory", "powerProduction": 0.08283183275314504, "category": "power"}

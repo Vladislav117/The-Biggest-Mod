@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yuhusi inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "yuhusi", "amount": 1}, {"item": "byfa", "amount": 5}], "research": "yuhusi-conveyor", "category": "distribution", "invert": true}

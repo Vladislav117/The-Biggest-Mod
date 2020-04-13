@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "venuki underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "venuki", "amount": 1}, {"item": "mygo", "amount": 1}], "research": "venuki-conveyor", "category": "distribution", "invert": false}

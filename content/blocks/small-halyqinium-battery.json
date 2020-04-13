@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small halyqinium battery", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "halyqinium", "amount": 5}, {"item": "gomuko", "amount": 18}, {"item": "danitu", "amount": 6}], "research": "halyqinium-factory", "consumes": {"powerBuffered": 460}, "category": "power"}

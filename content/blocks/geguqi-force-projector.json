@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "geguqi force projector", "description": "...", "health": 229, "size": 3, "consumes": {"power": 5.0, "item": "geguqi"}, "requirements": [{"item": "geguqi", "amount": 12}, {"item": "monu", "amount": 10}, {"item": "tewo", "amount": 9}], "research": "geguqi-factory", "category": "effect"}

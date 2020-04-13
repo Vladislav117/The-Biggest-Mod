@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sayo solar panel", "description": "...", "size": 3, "health": 184, "requirements": [{"item": "sayo", "amount": 9}, {"item": "pezale", "amount": 5}, {"item": "bole", "amount": 5}], "research": "sayo-factory", "powerProduction": 1.7197900514767674, "category": "power"}

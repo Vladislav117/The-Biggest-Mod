@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "voqapy drill", "description": "...", "size": 3, "health": 213, "tier": 2, "drillTime": 20, "consumes": {"power": 1}, "requirements": [{"item": "voqapy", "amount": 5}, {"item": "botynium", "amount": 10}, {"item": "qiri", "amount": 1}], "research": "voqapy-factory", "category": "production"}

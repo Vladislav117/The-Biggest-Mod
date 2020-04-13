@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nixaxe liquid router", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "nixaxe", "amount": 5}, {"item": "qukaha", "amount": 19}, {"item": "lesoni", "amount": 6}], "research": "nixaxe-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "turode drill", "description": "...", "size": 2, "health": 295, "tier": 1, "drillTime": 10, "consumes": {"power": 7}, "requirements": [{"item": "turode", "amount": 20}, {"item": "vosamo", "amount": 13}, {"item": "wisi", "amount": 2}], "research": "turode-factory", "category": "production"}

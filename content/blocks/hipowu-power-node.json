@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hipowu power node", "description": "...", "size": 2, "health": 422, "requirements": [{"item": "hipowu", "amount": 12}, {"item": "lybazanium", "amount": 14}, {"item": "jebewe", "amount": 8}], "research": "hipowu-factory", "maxNodes": 17, "laserRange": 18, "category": "power"}

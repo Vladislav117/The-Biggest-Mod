@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wequky liquid tank", "description": "...", "health": 623, "size": 3, "requirements": [{"item": "wequky", "amount": 19}, {"item": "rivy", "amount": 3}, {"item": "layi", "amount": 6}], "research": "wequky-conduit", "category": "liquid", "liquidCapacity": 57294, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "yepi conveyor", "description": "...", "health": 100, "requirements": [{"item": "yepi", "amount": 5}, {"item": "sokima", "amount": 4}], "speed": 0.4805627865710844, "research": "yepi-factory", "category": "distribution"}

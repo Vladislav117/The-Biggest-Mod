@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "liny sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "liny", "amount": 1}, {"item": "genane", "amount": 1}], "research": "liny-conveyor", "category": "distribution", "invert": false}

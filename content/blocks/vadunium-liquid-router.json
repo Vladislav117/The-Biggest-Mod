@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vadunium liquid router", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "vadunium", "amount": 20}, {"item": "layyzynium", "amount": 5}, {"item": "sepo", "amount": 10}], "research": "vadunium-conduit", "liquidCapacity": 10, "category": "liquid"}

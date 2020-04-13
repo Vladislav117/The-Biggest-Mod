@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "yypedonium overdrive projector", "description": "...", "health": 108, "consumes": {"power": 3.0, "item": "yypedonium"}, "size": 2, "requirements": [{"item": "yypedonium", "amount": 11}, {"item": "sofowo", "amount": 3}, {"item": "geke", "amount": 6}], "research": "yypedonium-factory", "category": "effect"}

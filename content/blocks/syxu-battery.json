@@ -1,0 +1,1 @@
+{"type": "battery", "name": "syxu battery", "description": "...", "size": 3, "health": 369, "requirements": [{"item": "syxu", "amount": 13}, {"item": "yomema", "amount": 10}, {"item": "yytiye", "amount": 9}], "research": "syxu-factory", "consumes": {"powerBuffered": 1106}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lopelu sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "lopelu", "amount": 2}, {"item": "wadefenium", "amount": 2}], "research": "lopelu-conveyor", "category": "distribution", "invert": false}

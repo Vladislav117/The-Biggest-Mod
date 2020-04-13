@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tanexo conduit", "description": "...", "health": 173, "requirements": [{"item": "tanexo", "amount": 5}, {"item": "cudy", "amount": 15}, {"item": "kide", "amount": 2}], "liquidCapacity": 19, "liquidPressure": 9, "research": "tanexo-factory", "category": "liquid"}

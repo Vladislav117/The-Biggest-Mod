@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bopu junction", "description": "...", "health": 47, "speed": 19, "capacity": 19, "size": 1, "requirements": [{"item": "bopu", "amount": 3}, {"item": "fikunium", "amount": 2}], "research": "bopu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tyjy battery", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "tyjy", "amount": 19}, {"item": "heso", "amount": 15}, {"item": "pemo", "amount": 5}], "research": "tyjy-factory", "consumes": {"powerBuffered": 1363}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bymenium battery", "description": "...", "size": 1, "health": 77, "requirements": [{"item": "bymenium", "amount": 4}, {"item": "zekaru", "amount": 7}, {"item": "padopu", "amount": 7}], "research": "bymenium-factory", "consumes": {"powerBuffered": 473}, "category": "power"}

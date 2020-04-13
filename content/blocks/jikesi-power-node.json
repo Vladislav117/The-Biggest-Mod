@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jikesi power node", "description": "...", "size": 2, "health": 370, "requirements": [{"item": "jikesi", "amount": 8}, {"item": "tuma", "amount": 2}, {"item": "cudy", "amount": 10}], "research": "jikesi-factory", "maxNodes": 12, "laserRange": 7, "category": "power"}

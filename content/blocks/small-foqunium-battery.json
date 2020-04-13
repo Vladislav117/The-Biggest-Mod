@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small foqunium battery", "description": "...", "size": 1, "health": 210, "requirements": [{"item": "foqunium", "amount": 7}, {"item": "direme", "amount": 7}, {"item": "totunenium", "amount": 5}], "research": "foqunium-factory", "consumes": {"powerBuffered": 2811}, "category": "power"}

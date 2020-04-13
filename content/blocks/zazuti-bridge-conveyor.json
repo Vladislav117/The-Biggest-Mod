@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zazuti bridge conveyor", "description": "", "health": 18, "range": 9, "speed": 20, "bufferCapacity": 21, "requirements": [{"item": "zazuti", "amount": 3}, {"item": "jylovo", "amount": 1}], "research": "zazuti-conveyor", "category": "distribution", "size": 1}

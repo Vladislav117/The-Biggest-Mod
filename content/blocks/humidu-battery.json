@@ -1,0 +1,1 @@
+{"type": "battery", "name": "humidu battery", "description": "...", "size": 3, "health": 223, "requirements": [{"item": "humidu", "amount": 8}, {"item": "gawazy", "amount": 16}, {"item": "vodynium", "amount": 7}], "research": "humidu-factory", "consumes": {"powerBuffered": 3154}, "category": "power"}

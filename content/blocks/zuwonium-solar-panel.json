@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zuwonium solar panel", "description": "...", "size": 3, "health": 44, "requirements": [{"item": "zuwonium", "amount": 6}, {"item": "mafy", "amount": 4}, {"item": "zagy", "amount": 6}], "research": "zuwonium-factory", "powerProduction": 8.66683199140623, "category": "power"}

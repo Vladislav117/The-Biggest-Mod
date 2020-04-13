@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dehadenium conduit", "description": "...", "health": 103, "requirements": [{"item": "dehadenium", "amount": 19}, {"item": "lojy", "amount": 1}, {"item": "rege", "amount": 7}], "liquidCapacity": 25, "liquidPressure": 0, "research": "dehadenium-factory", "category": "liquid"}

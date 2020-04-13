@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wofu battery", "description": "...", "size": 1, "health": 317, "requirements": [{"item": "wofu", "amount": 3}, {"item": "qatu", "amount": 15}, {"item": "kebyge", "amount": 9}], "research": "wofu-factory", "consumes": {"powerBuffered": 1003}, "category": "power"}

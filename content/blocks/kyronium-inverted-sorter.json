@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kyronium inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "kyronium", "amount": 2}, {"item": "nesi", "amount": 2}], "research": "kyronium-conveyor", "category": "distribution", "invert": true}

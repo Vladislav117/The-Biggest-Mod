@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dodypu overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "dodypu", "amount": 3}, {"item": "kyronium", "amount": 3}], "research": "dodypu-conveyor", "category": "distribution", "invert": false}

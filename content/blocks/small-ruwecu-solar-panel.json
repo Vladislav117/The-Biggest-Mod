@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ruwecu solar panel", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "ruwecu", "amount": 4}, {"item": "lekewy", "amount": 13}, {"item": "nimi", "amount": 9}], "research": "ruwecu-factory", "powerProduction": 2.5459976557405213, "category": "power"}

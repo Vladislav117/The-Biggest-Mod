@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zotonium battery", "description": "...", "size": 3, "health": 263, "requirements": [{"item": "zotonium", "amount": 18}, {"item": "kani", "amount": 10}, {"item": "goqanium", "amount": 6}], "research": "zotonium-factory", "consumes": {"powerBuffered": 8287}, "category": "power"}

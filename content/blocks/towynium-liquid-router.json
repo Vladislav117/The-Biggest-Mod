@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "towynium liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "towynium", "amount": 9}, {"item": "cohifa", "amount": 14}, {"item": "dere", "amount": 4}], "research": "towynium-conduit", "liquidCapacity": 10, "category": "liquid"}

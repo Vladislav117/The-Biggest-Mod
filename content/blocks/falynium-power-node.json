@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "falynium power node", "description": "...", "size": 2, "health": 145, "requirements": [{"item": "falynium", "amount": 1}, {"item": "fyhynium", "amount": 9}, {"item": "sexinium", "amount": 10}], "research": "falynium-factory", "maxNodes": 60, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qiditinium liquid tank", "description": "...", "health": 221, "size": 3, "requirements": [{"item": "qiditinium", "amount": 6}, {"item": "jone", "amount": 1}, {"item": "myzu", "amount": 9}], "research": "qiditinium-conduit", "category": "liquid", "liquidCapacity": 87161, "hasLiquids": true}

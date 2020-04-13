@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "lehanium overdrive projector", "description": "...", "health": 91, "consumes": {"power": 3.0, "item": "lehanium"}, "size": 2, "requirements": [{"item": "lehanium", "amount": 20}, {"item": "neda", "amount": 14}, {"item": "nyboye", "amount": 1}], "research": "lehanium-factory", "category": "effect"}

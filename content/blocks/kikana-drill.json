@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kikana drill", "description": "...", "size": 4, "health": 218, "tier": 1, "drillTime": 15, "consumes": {"power": 1}, "requirements": [{"item": "kikana", "amount": 17}, {"item": "panapo", "amount": 8}, {"item": "fadakynium", "amount": 8}], "research": "kikana-factory", "category": "production"}

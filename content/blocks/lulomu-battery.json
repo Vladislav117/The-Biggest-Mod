@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lulomu battery", "description": "...", "size": 3, "health": 142, "requirements": [{"item": "lulomu", "amount": 17}, {"item": "tuzy", "amount": 14}, {"item": "bufywy", "amount": 6}], "research": "lulomu-factory", "consumes": {"powerBuffered": 6049}, "category": "power"}

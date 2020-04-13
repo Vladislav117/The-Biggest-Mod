@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sirila overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "sirila", "amount": 2}, {"item": "simy", "amount": 2}], "research": "sirila-conveyor", "category": "distribution", "invert": false}

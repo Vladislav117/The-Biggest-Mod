@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "papununium solar panel", "description": "...", "size": 3, "health": 65, "requirements": [{"item": "papununium", "amount": 6}, {"item": "tuxu", "amount": 7}, {"item": "muremi", "amount": 4}], "research": "papununium-factory", "powerProduction": 0.3003120937279653, "category": "power"}

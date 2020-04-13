@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bipanium liquid router", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "bipanium", "amount": 14}, {"item": "webebu", "amount": 18}, {"item": "hewy", "amount": 8}], "research": "bipanium-conduit", "liquidCapacity": 10, "category": "liquid"}

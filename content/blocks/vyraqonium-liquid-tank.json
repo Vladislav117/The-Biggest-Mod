@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vyraqonium liquid tank", "description": "...", "health": 514, "size": 3, "requirements": [{"item": "vyraqonium", "amount": 5}, {"item": "xaceti", "amount": 11}, {"item": "yolyzu", "amount": 1}], "research": "vyraqonium-conduit", "category": "liquid", "liquidCapacity": 69921, "hasLiquids": true}

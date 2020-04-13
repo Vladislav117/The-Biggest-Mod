@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pujole liquid tank", "description": "...", "health": 641, "size": 3, "requirements": [{"item": "pujole", "amount": 15}, {"item": "cuqolu", "amount": 14}, {"item": "huxe", "amount": 10}], "research": "pujole-conduit", "category": "liquid", "liquidCapacity": 21355, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "riyo power node", "description": "...", "size": 2, "health": 499, "requirements": [{"item": "riyo", "amount": 3}, {"item": "lynulo", "amount": 4}, {"item": "mynufu", "amount": 7}], "research": "riyo-factory", "maxNodes": 26, "laserRange": 12, "category": "power"}

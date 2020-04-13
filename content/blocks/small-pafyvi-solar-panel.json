@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pafyvi solar panel", "description": "...", "size": 1, "health": 332, "requirements": [{"item": "pafyvi", "amount": 6}, {"item": "bise", "amount": 9}, {"item": "beniyi", "amount": 10}], "research": "pafyvi-factory", "powerProduction": 3.143354609813778, "category": "power"}

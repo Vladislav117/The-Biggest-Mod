@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cafazu solar panel", "description": "...", "size": 3, "health": 54, "requirements": [{"item": "cafazu", "amount": 1}, {"item": "vole", "amount": 19}, {"item": "mucige", "amount": 1}], "research": "cafazu-factory", "powerProduction": 8.159672898108862, "category": "power"}

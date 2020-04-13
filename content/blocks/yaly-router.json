@@ -1,0 +1,1 @@
+{"type": "router", "name": "yaly router", "description": "...", "health": 192, "size": 1, "requirements": [{"item": "yaly", "amount": 8}], "research": "yaly-conveyor", "category": "distribution"}

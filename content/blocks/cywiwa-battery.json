@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cywiwa battery", "description": "...", "size": 3, "health": 70, "requirements": [{"item": "cywiwa", "amount": 17}, {"item": "bacone", "amount": 18}, {"item": "mudo", "amount": 9}], "research": "cywiwa-factory", "consumes": {"powerBuffered": 7891}, "category": "power"}

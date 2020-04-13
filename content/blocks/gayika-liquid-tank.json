@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gayika liquid tank", "description": "...", "health": 531, "size": 3, "requirements": [{"item": "gayika", "amount": 13}, {"item": "wutigo", "amount": 6}, {"item": "mylenium", "amount": 4}], "research": "gayika-conduit", "category": "liquid", "liquidCapacity": 77397, "hasLiquids": true}

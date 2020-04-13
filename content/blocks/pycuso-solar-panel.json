@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pycuso solar panel", "description": "...", "size": 3, "health": 215, "requirements": [{"item": "pycuso", "amount": 7}, {"item": "sekele", "amount": 1}, {"item": "qiye", "amount": 7}], "research": "pycuso-factory", "powerProduction": 0.032035788302343535, "category": "power"}

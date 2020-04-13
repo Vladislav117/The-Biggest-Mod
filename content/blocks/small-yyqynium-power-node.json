@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yyqynium power node", "description": "...", "size": 1, "health": 209, "requirements": [{"item": "yyqynium", "amount": 8}, {"item": "lymy", "amount": 19}, {"item": "jypanium", "amount": 1}], "research": "yyqynium-factory", "maxNodes": 5, "laserRange": 17, "category": "power"}

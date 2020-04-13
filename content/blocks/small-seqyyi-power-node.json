@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small seqyyi power node", "description": "...", "size": 1, "health": 200, "requirements": [{"item": "seqyyi", "amount": 15}, {"item": "pubado", "amount": 6}, {"item": "juyy", "amount": 6}], "research": "seqyyi-factory", "maxNodes": 6, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vikasynium drill", "description": "...", "size": 2, "health": 355, "tier": 1, "drillTime": 19, "consumes": {"power": 4}, "requirements": [{"item": "vikasynium", "amount": 3}, {"item": "vate", "amount": 10}, {"item": "zafuqo", "amount": 8}], "research": "vikasynium-factory", "category": "production"}

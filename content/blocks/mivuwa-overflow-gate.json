@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mivuwa overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "mivuwa", "amount": 2}, {"item": "bihu", "amount": 2}], "research": "mivuwa-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qiqo liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "qiqo", "amount": 7}, {"item": "fusi", "amount": 17}, {"item": "fopo", "amount": 1}], "research": "qiqo-conduit", "liquidCapacity": 10, "category": "liquid"}

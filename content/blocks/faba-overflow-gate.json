@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "faba overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "faba", "amount": 1}, {"item": "jytubinium", "amount": 2}], "research": "faba-conveyor", "category": "distribution", "invert": false}

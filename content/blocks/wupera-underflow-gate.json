@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wupera underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "wupera", "amount": 3}, {"item": "leyoqo", "amount": 5}], "research": "wupera-conveyor", "category": "distribution", "invert": false}

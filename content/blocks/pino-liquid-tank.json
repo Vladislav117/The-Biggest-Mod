@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pino liquid tank", "description": "...", "health": 160, "size": 3, "requirements": [{"item": "pino", "amount": 20}, {"item": "nitonium", "amount": 19}, {"item": "pohyva", "amount": 4}], "research": "pino-conduit", "category": "liquid", "liquidCapacity": 19318, "hasLiquids": true}

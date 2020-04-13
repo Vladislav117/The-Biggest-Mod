@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pubado power node", "description": "...", "size": 2, "health": 585, "requirements": [{"item": "pubado", "amount": 17}, {"item": "dyzo", "amount": 14}, {"item": "yytiye", "amount": 3}], "research": "pubado-factory", "maxNodes": 34, "laserRange": 24, "category": "power"}

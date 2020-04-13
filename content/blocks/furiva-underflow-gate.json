@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "furiva underflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "furiva", "amount": 3}, {"item": "socata", "amount": 1}], "research": "furiva-conveyor", "category": "distribution", "invert": false}

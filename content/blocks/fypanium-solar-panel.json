@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fypanium solar panel", "description": "...", "size": 3, "health": 255, "requirements": [{"item": "fypanium", "amount": 18}, {"item": "qiquli", "amount": 8}, {"item": "dewe", "amount": 8}], "research": "fypanium-factory", "powerProduction": 1.304867512934377, "category": "power"}

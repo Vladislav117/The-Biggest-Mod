@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "husu liquid tank", "description": "...", "health": 626, "size": 3, "requirements": [{"item": "husu", "amount": 20}, {"item": "mehenium", "amount": 19}, {"item": "lyty", "amount": 10}], "research": "husu-conduit", "category": "liquid", "liquidCapacity": 24790, "hasLiquids": true}

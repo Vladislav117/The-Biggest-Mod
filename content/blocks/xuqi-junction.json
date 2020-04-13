@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xuqi junction", "description": "...", "health": 14, "speed": 19, "capacity": 19, "size": 1, "requirements": [{"item": "xuqi", "amount": 2}, {"item": "tebi", "amount": 1}], "research": "xuqi-conveyor", "category": "distribution"}

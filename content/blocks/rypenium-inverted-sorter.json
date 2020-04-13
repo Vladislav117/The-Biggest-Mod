@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rypenium inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "rypenium", "amount": 2}, {"item": "yalaka", "amount": 5}], "research": "rypenium-conveyor", "category": "distribution", "invert": true}

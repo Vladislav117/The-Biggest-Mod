@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small letohy battery", "description": "...", "size": 1, "health": 295, "requirements": [{"item": "letohy", "amount": 13}, {"item": "bocu", "amount": 12}, {"item": "netonium", "amount": 1}], "research": "letohy-factory", "consumes": {"powerBuffered": 1900}, "category": "power"}

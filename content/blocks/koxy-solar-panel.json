@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "koxy solar panel", "description": "...", "size": 3, "health": 292, "requirements": [{"item": "koxy", "amount": 14}, {"item": "cidenium", "amount": 14}, {"item": "soqohynium", "amount": 8}], "research": "koxy-factory", "powerProduction": 1.3351004498884098, "category": "power"}

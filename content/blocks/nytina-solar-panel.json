@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nytina solar panel", "description": "...", "size": 3, "health": 32, "requirements": [{"item": "nytina", "amount": 15}, {"item": "ryte", "amount": 11}, {"item": "pyto", "amount": 5}], "research": "nytina-factory", "powerProduction": 0.007586417415493753, "category": "power"}

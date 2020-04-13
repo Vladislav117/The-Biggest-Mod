@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gifonium bridge conveyor", "description": "", "health": 50, "range": 8, "speed": 6, "bufferCapacity": 13, "requirements": [{"item": "gifonium", "amount": 2}, {"item": "qiti", "amount": 2}], "research": "gifonium-conveyor", "category": "distribution", "size": 1}

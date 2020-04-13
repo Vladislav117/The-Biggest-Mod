@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lero liquid router", "description": "...", "size": 1, "health": 91, "requirements": [{"item": "lero", "amount": 13}, {"item": "ropa", "amount": 8}, {"item": "cyru", "amount": 4}], "research": "lero-conduit", "liquidCapacity": 10, "category": "liquid"}

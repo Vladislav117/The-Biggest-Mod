@@ -1,0 +1,1 @@
+{"type": "router", "name": "ratapu router", "description": "...", "health": 60, "size": 1, "requirements": [{"item": "ratapu", "amount": 4}], "research": "ratapu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hufema underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "hufema", "amount": 1}, {"item": "vove", "amount": 2}], "research": "hufema-conveyor", "category": "distribution", "invert": false}

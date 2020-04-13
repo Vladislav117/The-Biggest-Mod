@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nixykanium power node", "description": "...", "size": 2, "health": 494, "requirements": [{"item": "nixykanium", "amount": 7}, {"item": "hozivi", "amount": 13}, {"item": "kudohi", "amount": 2}], "research": "nixykanium-factory", "maxNodes": 32, "laserRange": 7, "category": "power"}

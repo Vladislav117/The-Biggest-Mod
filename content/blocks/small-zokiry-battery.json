@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zokiry battery", "description": "...", "size": 1, "health": 24, "requirements": [{"item": "zokiry", "amount": 19}, {"item": "gyza", "amount": 16}, {"item": "saleru", "amount": 10}], "research": "zokiry-factory", "consumes": {"powerBuffered": 1826}, "category": "power"}

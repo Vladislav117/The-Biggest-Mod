@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fimacy inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "fimacy", "amount": 5}, {"item": "bole", "amount": 3}], "research": "fimacy-conveyor", "category": "distribution", "invert": true}

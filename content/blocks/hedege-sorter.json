@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hedege sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "hedege", "amount": 1}, {"item": "neqa", "amount": 2}], "research": "hedege-conveyor", "category": "distribution", "invert": false}

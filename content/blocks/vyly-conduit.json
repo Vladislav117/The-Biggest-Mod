@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vyly conduit", "description": "...", "health": 33, "requirements": [{"item": "vyly", "amount": 6}, {"item": "nipapu", "amount": 8}, {"item": "geponium", "amount": 3}], "liquidCapacity": 41, "liquidPressure": 10, "research": "vyly-factory", "category": "liquid"}

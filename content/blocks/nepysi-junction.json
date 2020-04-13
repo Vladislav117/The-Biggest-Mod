@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nepysi junction", "description": "...", "health": 5, "speed": 8, "capacity": 10, "size": 1, "requirements": [{"item": "nepysi", "amount": 3}, {"item": "rehyce", "amount": 1}], "research": "nepysi-conveyor", "category": "distribution"}

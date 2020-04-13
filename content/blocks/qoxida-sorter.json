@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qoxida sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "qoxida", "amount": 1}, {"item": "kide", "amount": 2}], "research": "qoxida-conveyor", "category": "distribution", "invert": false}

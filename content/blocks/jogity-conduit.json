@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jogity conduit", "description": "...", "health": 163, "requirements": [{"item": "jogity", "amount": 8}, {"item": "syyyvo", "amount": 2}, {"item": "semy", "amount": 3}], "liquidCapacity": 50, "liquidPressure": 6, "research": "jogity-factory", "category": "liquid"}

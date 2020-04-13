@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zayuzi solar panel", "description": "...", "size": 3, "health": 66, "requirements": [{"item": "zayuzi", "amount": 1}, {"item": "masa", "amount": 12}, {"item": "hozanium", "amount": 4}], "research": "zayuzi-factory", "powerProduction": 2.8683176945073163, "category": "power"}

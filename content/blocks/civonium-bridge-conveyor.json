@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "civonium bridge conveyor", "description": "", "health": 46, "range": 16, "speed": 2, "bufferCapacity": 22, "requirements": [{"item": "civonium", "amount": 2}, {"item": "ruzagi", "amount": 1}], "research": "civonium-conveyor", "category": "distribution", "size": 1}

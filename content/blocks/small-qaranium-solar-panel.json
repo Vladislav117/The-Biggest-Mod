@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qaranium solar panel", "description": "...", "size": 1, "health": 222, "requirements": [{"item": "qaranium", "amount": 11}, {"item": "vivunium", "amount": 12}, {"item": "xece", "amount": 6}], "research": "qaranium-factory", "powerProduction": 1.10223737772985, "category": "power"}

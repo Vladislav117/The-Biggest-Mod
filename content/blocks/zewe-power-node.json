@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zewe power node", "description": "...", "size": 2, "health": 619, "requirements": [{"item": "zewe", "amount": 4}, {"item": "jepinium", "amount": 16}, {"item": "xabuci", "amount": 3}], "research": "zewe-factory", "maxNodes": 15, "laserRange": 15, "category": "power"}

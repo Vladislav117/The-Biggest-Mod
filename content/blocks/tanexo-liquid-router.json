@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tanexo liquid router", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "tanexo", "amount": 2}, {"item": "moro", "amount": 8}, {"item": "hivesy", "amount": 4}], "research": "tanexo-conduit", "liquidCapacity": 10, "category": "liquid"}

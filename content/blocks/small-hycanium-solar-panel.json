@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hycanium solar panel", "description": "...", "size": 1, "health": 216, "requirements": [{"item": "hycanium", "amount": 11}, {"item": "lihinium", "amount": 13}, {"item": "siyake", "amount": 7}], "research": "hycanium-factory", "powerProduction": 1.1651220834551044, "category": "power"}

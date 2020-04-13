@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mafe liquid tank", "description": "...", "health": 668, "size": 3, "requirements": [{"item": "mafe", "amount": 7}, {"item": "dyqasy", "amount": 10}, {"item": "fazame", "amount": 8}], "research": "mafe-conduit", "category": "liquid", "liquidCapacity": 111235, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gahe power node", "description": "...", "size": 2, "health": 648, "requirements": [{"item": "gahe", "amount": 15}, {"item": "vezaya", "amount": 17}, {"item": "bogovy", "amount": 2}], "research": "gahe-factory", "maxNodes": 17, "laserRange": 27, "category": "power"}

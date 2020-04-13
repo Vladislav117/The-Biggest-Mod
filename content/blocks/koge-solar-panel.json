@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "koge solar panel", "description": "...", "size": 3, "health": 251, "requirements": [{"item": "koge", "amount": 3}, {"item": "vomo", "amount": 11}, {"item": "zyly", "amount": 10}], "research": "koge-factory", "powerProduction": 1.1533407577113037, "category": "power"}

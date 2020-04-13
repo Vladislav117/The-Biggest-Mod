@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zadyle solar panel", "description": "...", "size": 3, "health": 88, "requirements": [{"item": "zadyle", "amount": 1}, {"item": "bylo", "amount": 8}, {"item": "jubuxa", "amount": 9}], "research": "zadyle-factory", "powerProduction": 5.587424258109541, "category": "power"}

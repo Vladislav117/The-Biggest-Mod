@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sony liquid tank", "description": "...", "health": 137, "size": 3, "requirements": [{"item": "sony", "amount": 6}, {"item": "deyy", "amount": 14}, {"item": "tebebe", "amount": 6}], "research": "sony-conduit", "category": "liquid", "liquidCapacity": 43355, "hasLiquids": true}

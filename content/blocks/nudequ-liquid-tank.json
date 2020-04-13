@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nudequ liquid tank", "description": "...", "health": 608, "size": 3, "requirements": [{"item": "nudequ", "amount": 1}, {"item": "kywowa", "amount": 14}, {"item": "dakyse", "amount": 5}], "research": "nudequ-conduit", "category": "liquid", "liquidCapacity": 72733, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rupuvu junction", "description": "...", "health": 14, "speed": 2, "capacity": 19, "size": 1, "requirements": [{"item": "rupuvu", "amount": 4}, {"item": "fiyuju", "amount": 4}], "research": "rupuvu-conveyor", "category": "distribution"}

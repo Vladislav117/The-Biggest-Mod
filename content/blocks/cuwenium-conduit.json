@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cuwenium conduit", "description": "...", "health": 128, "requirements": [{"item": "cuwenium", "amount": 11}, {"item": "fygo", "amount": 2}, {"item": "mowygu", "amount": 6}], "liquidCapacity": 46, "liquidPressure": 9, "research": "cuwenium-factory", "category": "liquid"}

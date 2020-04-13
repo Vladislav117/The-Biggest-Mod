@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "giqonium sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "giqonium", "amount": 5}, {"item": "byre", "amount": 3}], "research": "giqonium-conveyor", "category": "distribution", "invert": false}

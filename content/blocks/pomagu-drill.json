@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pomagu drill", "description": "...", "size": 4, "health": 256, "tier": 4, "drillTime": 18, "consumes": {"power": 10}, "requirements": [{"item": "pomagu", "amount": 16}, {"item": "kawo", "amount": 10}, {"item": "lynulo", "amount": 1}], "research": "pomagu-factory", "category": "production"}

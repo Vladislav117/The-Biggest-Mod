@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mejo power node", "description": "...", "size": 1, "health": 360, "requirements": [{"item": "mejo", "amount": 6}, {"item": "lamuya", "amount": 4}, {"item": "qegynium", "amount": 10}], "research": "mejo-factory", "maxNodes": 9, "laserRange": 16, "category": "power"}

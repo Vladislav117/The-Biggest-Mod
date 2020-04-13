@@ -1,0 +1,1 @@
+{"type": "junction", "name": "daxyse junction", "description": "...", "health": 15, "speed": 14, "capacity": 15, "size": 1, "requirements": [{"item": "daxyse", "amount": 4}, {"item": "lygynium", "amount": 1}], "research": "daxyse-conveyor", "category": "distribution"}

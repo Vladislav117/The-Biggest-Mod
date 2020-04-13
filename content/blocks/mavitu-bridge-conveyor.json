@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mavitu bridge conveyor", "description": "", "health": 16, "range": 15, "speed": 13, "bufferCapacity": 21, "requirements": [{"item": "mavitu", "amount": 3}, {"item": "zoyasi", "amount": 1}], "research": "mavitu-conveyor", "category": "distribution", "size": 1}

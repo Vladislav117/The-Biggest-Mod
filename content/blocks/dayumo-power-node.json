@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dayumo power node", "description": "...", "size": 2, "health": 239, "requirements": [{"item": "dayumo", "amount": 5}, {"item": "hono", "amount": 1}, {"item": "mufosinium", "amount": 4}], "research": "dayumo-factory", "maxNodes": 54, "laserRange": 24, "category": "power"}

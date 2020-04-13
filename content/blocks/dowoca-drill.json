@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "dowoca drill", "description": "...", "size": 4, "health": 250, "tier": 3, "drillTime": 13, "consumes": {"power": 11}, "requirements": [{"item": "dowoca", "amount": 19}, {"item": "gotomy", "amount": 3}, {"item": "yidugonium", "amount": 7}], "research": "dowoca-factory", "category": "production"}

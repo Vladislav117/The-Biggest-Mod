@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "guma underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "guma", "amount": 5}, {"item": "reqoxu", "amount": 3}], "research": "guma-conveyor", "category": "distribution", "invert": false}

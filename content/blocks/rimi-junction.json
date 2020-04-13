@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rimi junction", "description": "...", "health": 37, "speed": 7, "capacity": 10, "size": 1, "requirements": [{"item": "rimi", "amount": 2}, {"item": "kagopy", "amount": 5}], "research": "rimi-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nigaya liquid tank", "description": "...", "health": 453, "size": 3, "requirements": [{"item": "nigaya", "amount": 6}, {"item": "mifynium", "amount": 5}, {"item": "nytodunium", "amount": 3}], "research": "nigaya-conduit", "category": "liquid", "liquidCapacity": 4658, "hasLiquids": true}

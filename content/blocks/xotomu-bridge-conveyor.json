@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xotomu bridge conveyor", "description": "", "health": 25, "range": 12, "speed": 8, "bufferCapacity": 25, "requirements": [{"item": "xotomu", "amount": 3}, {"item": "wygaki", "amount": 5}], "research": "xotomu-conveyor", "category": "distribution", "size": 1}

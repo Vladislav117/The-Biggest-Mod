@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "raky liquid router", "description": "...", "size": 1, "health": 91, "requirements": [{"item": "raky", "amount": 15}, {"item": "dyguzu", "amount": 15}, {"item": "yanu", "amount": 6}], "research": "raky-conduit", "liquidCapacity": 10, "category": "liquid"}

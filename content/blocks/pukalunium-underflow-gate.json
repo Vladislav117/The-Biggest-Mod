@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pukalunium underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "pukalunium", "amount": 4}, {"item": "cywiwa", "amount": 5}], "research": "pukalunium-conveyor", "category": "distribution", "invert": false}

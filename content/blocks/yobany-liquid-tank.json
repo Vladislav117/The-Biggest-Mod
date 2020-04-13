@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yobany liquid tank", "description": "...", "health": 625, "size": 3, "requirements": [{"item": "yobany", "amount": 4}, {"item": "sydeka", "amount": 20}, {"item": "mygi", "amount": 4}], "research": "yobany-conduit", "category": "liquid", "liquidCapacity": 52247, "hasLiquids": true}

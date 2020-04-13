@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qepu liquid router", "description": "...", "size": 1, "health": 67, "requirements": [{"item": "qepu", "amount": 2}, {"item": "panuwe", "amount": 17}, {"item": "dipewanium", "amount": 10}], "research": "qepu-conduit", "liquidCapacity": 10, "category": "liquid"}

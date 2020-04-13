@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "reno power node", "description": "...", "size": 2, "health": 223, "requirements": [{"item": "reno", "amount": 15}, {"item": "bedagy", "amount": 3}, {"item": "ropiki", "amount": 10}], "research": "reno-factory", "maxNodes": 58, "laserRange": 6, "category": "power"}

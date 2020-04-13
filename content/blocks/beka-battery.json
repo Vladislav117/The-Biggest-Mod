@@ -1,0 +1,1 @@
+{"type": "battery", "name": "beka battery", "description": "...", "size": 3, "health": 237, "requirements": [{"item": "beka", "amount": 4}, {"item": "xonanium", "amount": 5}, {"item": "hufu", "amount": 2}], "research": "beka-factory", "consumes": {"powerBuffered": 2784}, "category": "power"}

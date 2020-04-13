@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ravyku liquid tank", "description": "...", "health": 503, "size": 3, "requirements": [{"item": "ravyku", "amount": 8}, {"item": "wuqosenium", "amount": 6}, {"item": "kefy", "amount": 4}], "research": "ravyku-conduit", "category": "liquid", "liquidCapacity": 6790, "hasLiquids": true}

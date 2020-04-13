@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kuyome battery", "description": "...", "size": 3, "health": 78, "requirements": [{"item": "kuyome", "amount": 15}, {"item": "cyxibe", "amount": 5}, {"item": "xiga", "amount": 7}], "research": "kuyome-factory", "consumes": {"powerBuffered": 9342}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rezi power node", "description": "...", "size": 1, "health": 305, "requirements": [{"item": "rezi", "amount": 16}, {"item": "hikuda", "amount": 12}, {"item": "tefipi", "amount": 9}], "research": "rezi-factory", "maxNodes": 25, "laserRange": 10, "category": "power"}

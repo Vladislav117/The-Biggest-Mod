@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "femoconium drill", "description": "...", "size": 2, "health": 388, "tier": 1, "drillTime": 7, "consumes": {"power": 2}, "requirements": [{"item": "femoconium", "amount": 5}, {"item": "lisaca", "amount": 16}, {"item": "kozypi", "amount": 8}], "research": "femoconium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ceciba junction", "description": "...", "health": 30, "speed": 4, "capacity": 17, "size": 1, "requirements": [{"item": "ceciba", "amount": 3}, {"item": "bybity", "amount": 5}], "research": "ceciba-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qepisu drill", "description": "...", "size": 3, "health": 336, "tier": 3, "drillTime": 3, "consumes": {"power": 14}, "requirements": [{"item": "qepisu", "amount": 16}, {"item": "wemenium", "amount": 15}, {"item": "rose", "amount": 9}], "research": "qepisu-factory", "category": "production"}

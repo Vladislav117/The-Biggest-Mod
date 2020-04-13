@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dacira junction", "description": "...", "health": 21, "speed": 13, "capacity": 9, "size": 1, "requirements": [{"item": "dacira", "amount": 1}, {"item": "wiqe", "amount": 4}], "research": "dacira-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lumasunium solar panel", "description": "...", "size": 1, "health": 359, "requirements": [{"item": "lumasunium", "amount": 9}, {"item": "zyluci", "amount": 4}, {"item": "hitiva", "amount": 4}], "research": "lumasunium-factory", "powerProduction": 0.05668417243900012, "category": "power"}

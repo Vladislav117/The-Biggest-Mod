@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zori solar panel", "description": "...", "size": 3, "health": 338, "requirements": [{"item": "zori", "amount": 5}, {"item": "moje", "amount": 3}, {"item": "koci", "amount": 1}], "research": "zori-factory", "powerProduction": 14.913089014298691, "category": "power"}

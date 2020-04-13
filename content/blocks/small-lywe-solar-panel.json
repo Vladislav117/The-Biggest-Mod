@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lywe solar panel", "description": "...", "size": 1, "health": 362, "requirements": [{"item": "lywe", "amount": 6}, {"item": "yigonenium", "amount": 4}, {"item": "hitori", "amount": 7}], "research": "lywe-factory", "powerProduction": 2.653301836746438, "category": "power"}

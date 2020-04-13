@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yicavu liquid tank", "description": "...", "health": 488, "size": 3, "requirements": [{"item": "yicavu", "amount": 7}, {"item": "yebyte", "amount": 10}, {"item": "zityyanium", "amount": 9}], "research": "yicavu-conduit", "category": "liquid", "liquidCapacity": 25821, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nisynu solar panel", "description": "...", "size": 3, "health": 245, "requirements": [{"item": "nisynu", "amount": 6}, {"item": "vatuxanium", "amount": 5}, {"item": "johu", "amount": 10}], "research": "nisynu-factory", "powerProduction": 5.277857225476631, "category": "power"}

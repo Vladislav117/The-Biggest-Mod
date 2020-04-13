@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cuse conduit", "description": "...", "health": 84, "requirements": [{"item": "cuse", "amount": 5}, {"item": "xinodunium", "amount": 10}, {"item": "xyco", "amount": 3}], "liquidCapacity": 47, "liquidPressure": 5, "research": "cuse-factory", "category": "liquid"}

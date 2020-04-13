@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sawy conduit", "description": "...", "health": 195, "requirements": [{"item": "sawy", "amount": 2}, {"item": "beyo", "amount": 8}, {"item": "nitonium", "amount": 8}], "liquidCapacity": 8, "liquidPressure": 5, "research": "sawy-factory", "category": "liquid"}

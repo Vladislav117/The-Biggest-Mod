@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rale solar panel", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "rale", "amount": 16}, {"item": "yocoke", "amount": 9}, {"item": "rysi", "amount": 9}], "research": "rale-factory", "powerProduction": 0.0678301050046132, "category": "power"}

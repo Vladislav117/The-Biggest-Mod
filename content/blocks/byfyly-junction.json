@@ -1,0 +1,1 @@
+{"type": "junction", "name": "byfyly junction", "description": "...", "health": 48, "speed": 9, "capacity": 8, "size": 1, "requirements": [{"item": "byfyly", "amount": 3}, {"item": "qepisu", "amount": 5}], "research": "byfyly-conveyor", "category": "distribution"}

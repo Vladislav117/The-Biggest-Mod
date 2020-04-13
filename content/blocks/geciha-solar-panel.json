@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "geciha solar panel", "description": "...", "size": 3, "health": 71, "requirements": [{"item": "geciha", "amount": 10}, {"item": "dayumo", "amount": 13}, {"item": "panapo", "amount": 6}], "research": "geciha-factory", "powerProduction": 0.21819384432178626, "category": "power"}

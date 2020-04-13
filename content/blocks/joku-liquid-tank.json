@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "joku liquid tank", "description": "...", "health": 303, "size": 3, "requirements": [{"item": "joku", "amount": 15}, {"item": "yepy", "amount": 16}, {"item": "mifi", "amount": 9}], "research": "joku-conduit", "category": "liquid", "liquidCapacity": 74923, "hasLiquids": true}

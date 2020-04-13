@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rezi solar panel", "description": "...", "size": 1, "health": 137, "requirements": [{"item": "rezi", "amount": 18}, {"item": "wuniso", "amount": 15}, {"item": "xuzu", "amount": 2}], "research": "rezi-factory", "powerProduction": 0.02079327617459503, "category": "power"}

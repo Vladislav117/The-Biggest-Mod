@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mojeminium drill", "description": "...", "size": 2, "health": 409, "tier": 3, "drillTime": 3, "consumes": {"power": 7}, "requirements": [{"item": "mojeminium", "amount": 19}, {"item": "numy", "amount": 20}, {"item": "jypanium", "amount": 1}], "research": "mojeminium-factory", "category": "production"}

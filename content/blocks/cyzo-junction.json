@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cyzo junction", "description": "...", "health": 16, "speed": 19, "capacity": 14, "size": 1, "requirements": [{"item": "cyzo", "amount": 4}, {"item": "tajapi", "amount": 2}], "research": "cyzo-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dega conduit", "description": "...", "health": 160, "requirements": [{"item": "dega", "amount": 16}, {"item": "rymeyinium", "amount": 7}, {"item": "gyduyi", "amount": 1}], "liquidCapacity": 27, "liquidPressure": 2, "research": "dega-factory", "category": "liquid"}

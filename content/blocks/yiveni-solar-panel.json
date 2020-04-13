@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yiveni solar panel", "description": "...", "size": 3, "health": 290, "requirements": [{"item": "yiveni", "amount": 10}, {"item": "kute", "amount": 14}, {"item": "hayy", "amount": 9}], "research": "yiveni-factory", "powerProduction": 9.962097211216784, "category": "power"}

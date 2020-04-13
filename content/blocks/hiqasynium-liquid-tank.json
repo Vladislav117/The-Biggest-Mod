@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hiqasynium liquid tank", "description": "...", "health": 186, "size": 3, "requirements": [{"item": "hiqasynium", "amount": 19}, {"item": "voya", "amount": 17}, {"item": "thorium", "amount": 4}], "research": "hiqasynium-conduit", "category": "liquid", "liquidCapacity": 37977, "hasLiquids": true}

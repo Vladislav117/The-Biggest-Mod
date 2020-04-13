@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bexa drill", "description": "...", "size": 3, "health": 221, "tier": 1, "drillTime": 12, "consumes": {"power": 17}, "requirements": [{"item": "bexa", "amount": 11}, {"item": "qyha", "amount": 20}, {"item": "yuly", "amount": 6}], "research": "bexa-factory", "category": "production"}

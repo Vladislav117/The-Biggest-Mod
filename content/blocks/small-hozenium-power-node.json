@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hozenium power node", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "hozenium", "amount": 6}, {"item": "cujyda", "amount": 11}, {"item": "woyu", "amount": 1}], "research": "hozenium-factory", "maxNodes": 20, "laserRange": 6, "category": "power"}

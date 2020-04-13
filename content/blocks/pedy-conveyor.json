@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pedy conveyor", "description": "...", "health": 20, "requirements": [{"item": "pedy", "amount": 4}, {"item": "hugevinium", "amount": 6}], "speed": 0.09505118907671212, "research": "pedy-factory", "category": "distribution"}

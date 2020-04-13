@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xepe battery", "description": "...", "size": 1, "health": 103, "requirements": [{"item": "xepe", "amount": 3}, {"item": "soronium", "amount": 1}, {"item": "zivo", "amount": 10}], "research": "xepe-factory", "consumes": {"powerBuffered": 2192}, "category": "power"}

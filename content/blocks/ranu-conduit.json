@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ranu conduit", "description": "...", "health": 169, "requirements": [{"item": "ranu", "amount": 7}, {"item": "qeka", "amount": 20}, {"item": "biqy", "amount": 5}], "liquidCapacity": 39, "liquidPressure": 6, "research": "ranu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xekota junction", "description": "...", "health": 16, "speed": 2, "capacity": 15, "size": 1, "requirements": [{"item": "xekota", "amount": 5}, {"item": "hivesy", "amount": 4}], "research": "xekota-conveyor", "category": "distribution"}

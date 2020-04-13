@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xoniqe power node", "description": "...", "size": 1, "health": 218, "requirements": [{"item": "xoniqe", "amount": 2}, {"item": "fuqyty", "amount": 10}, {"item": "picika", "amount": 2}], "research": "xoniqe-factory", "maxNodes": 13, "laserRange": 12, "category": "power"}

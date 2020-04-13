@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wediyu solar panel", "description": "...", "size": 3, "health": 207, "requirements": [{"item": "wediyu", "amount": 8}, {"item": "vove", "amount": 8}, {"item": "hysobe", "amount": 9}], "research": "wediyu-factory", "powerProduction": 0.006964442793418438, "category": "power"}

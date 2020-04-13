@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dedunium battery", "description": "...", "size": 1, "health": 246, "requirements": [{"item": "dedunium", "amount": 8}, {"item": "cyzu", "amount": 3}, {"item": "vevudinium", "amount": 8}], "research": "dedunium-factory", "consumes": {"powerBuffered": 1609}, "category": "power"}

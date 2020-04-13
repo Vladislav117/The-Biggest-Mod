@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rapenium solar panel", "description": "...", "size": 3, "health": 346, "requirements": [{"item": "rapenium", "amount": 9}, {"item": "vuciby", "amount": 1}, {"item": "dyju", "amount": 8}], "research": "rapenium-factory", "powerProduction": 0.2894453252914809, "category": "power"}

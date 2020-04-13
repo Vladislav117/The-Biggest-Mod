@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fomo battery", "description": "...", "size": 3, "health": 176, "requirements": [{"item": "fomo", "amount": 3}, {"item": "byxo", "amount": 18}, {"item": "pacezu", "amount": 8}], "research": "fomo-factory", "consumes": {"powerBuffered": 2283}, "category": "power"}

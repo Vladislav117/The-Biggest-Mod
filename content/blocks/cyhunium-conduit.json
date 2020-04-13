@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cyhunium conduit", "description": "...", "health": 85, "requirements": [{"item": "cyhunium", "amount": 5}, {"item": "duyi", "amount": 13}, {"item": "surenium", "amount": 9}], "liquidCapacity": 16, "liquidPressure": 10, "research": "cyhunium-factory", "category": "liquid"}

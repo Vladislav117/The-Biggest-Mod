@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sevinium power node", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "sevinium", "amount": 16}, {"item": "hemumonium", "amount": 9}, {"item": "seleme", "amount": 2}], "research": "sevinium-factory", "maxNodes": 29, "laserRange": 4, "category": "power"}

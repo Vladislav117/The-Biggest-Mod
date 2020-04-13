@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wuxorunium liquid tank", "description": "...", "health": 659, "size": 3, "requirements": [{"item": "wuxorunium", "amount": 6}, {"item": "kuyome", "amount": 9}, {"item": "qigine", "amount": 6}], "research": "wuxorunium-conduit", "category": "liquid", "liquidCapacity": 17734, "hasLiquids": true}

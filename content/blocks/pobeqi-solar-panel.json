@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pobeqi solar panel", "description": "...", "size": 3, "health": 123, "requirements": [{"item": "pobeqi", "amount": 19}, {"item": "nupu", "amount": 20}, {"item": "pero", "amount": 1}], "research": "pobeqi-factory", "powerProduction": 1.030879029213145, "category": "power"}

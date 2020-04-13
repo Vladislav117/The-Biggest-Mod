@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mika battery", "description": "...", "size": 3, "health": 148, "requirements": [{"item": "mika", "amount": 18}, {"item": "rine", "amount": 17}, {"item": "marynium", "amount": 4}], "research": "mika-factory", "consumes": {"powerBuffered": 2541}, "category": "power"}

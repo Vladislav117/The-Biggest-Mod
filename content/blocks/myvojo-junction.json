@@ -1,0 +1,1 @@
+{"type": "junction", "name": "myvojo junction", "description": "...", "health": 4, "speed": 5, "capacity": 4, "size": 1, "requirements": [{"item": "myvojo", "amount": 2}, {"item": "nivefu", "amount": 2}], "research": "myvojo-conveyor", "category": "distribution"}

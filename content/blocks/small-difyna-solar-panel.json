@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small difyna solar panel", "description": "...", "size": 1, "health": 13, "requirements": [{"item": "difyna", "amount": 3}, {"item": "qyry", "amount": 18}, {"item": "yitu", "amount": 1}], "research": "difyna-factory", "powerProduction": 0.2503636942280324, "category": "power"}

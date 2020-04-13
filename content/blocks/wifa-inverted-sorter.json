@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wifa inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "wifa", "amount": 4}, {"item": "tayi", "amount": 5}], "research": "wifa-conveyor", "category": "distribution", "invert": true}

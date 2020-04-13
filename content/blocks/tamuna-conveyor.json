@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "tamuna conveyor", "description": "...", "health": 255, "requirements": [{"item": "tamuna", "amount": 10}, {"item": "gypunium", "amount": 3}], "speed": 0.30623603928542603, "research": "tamuna-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "soguve power node", "description": "...", "size": 2, "health": 610, "requirements": [{"item": "soguve", "amount": 4}, {"item": "kuku", "amount": 16}, {"item": "rebifo", "amount": 8}], "research": "soguve-factory", "maxNodes": 40, "laserRange": 10, "category": "power"}

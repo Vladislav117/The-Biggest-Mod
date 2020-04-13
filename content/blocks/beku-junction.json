@@ -1,0 +1,1 @@
+{"type": "junction", "name": "beku junction", "description": "...", "health": 33, "speed": 19, "capacity": 8, "size": 1, "requirements": [{"item": "beku", "amount": 1}, {"item": "pala", "amount": 5}], "research": "beku-conveyor", "category": "distribution"}

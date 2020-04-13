@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vidibanium conduit", "description": "...", "health": 120, "requirements": [{"item": "vidibanium", "amount": 16}, {"item": "kani", "amount": 18}, {"item": "xiyy", "amount": 2}], "liquidCapacity": 44, "liquidPressure": 7, "research": "vidibanium-factory", "category": "liquid"}

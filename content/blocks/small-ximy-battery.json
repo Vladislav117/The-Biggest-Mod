@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ximy battery", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "ximy", "amount": 4}, {"item": "nytu", "amount": 3}, {"item": "jylovo", "amount": 9}], "research": "ximy-factory", "consumes": {"powerBuffered": 1491}, "category": "power"}

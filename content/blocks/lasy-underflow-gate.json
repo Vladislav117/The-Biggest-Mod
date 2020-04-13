@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lasy underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "lasy", "amount": 4}, {"item": "relaqo", "amount": 2}], "research": "lasy-conveyor", "category": "distribution", "invert": false}

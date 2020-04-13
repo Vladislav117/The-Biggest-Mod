@@ -1,0 +1,1 @@
+{"type": "battery", "name": "piny battery", "description": "...", "size": 3, "health": 386, "requirements": [{"item": "piny", "amount": 17}, {"item": "xavinium", "amount": 4}, {"item": "dymu", "amount": 6}], "research": "piny-factory", "consumes": {"powerBuffered": 6612}, "category": "power"}

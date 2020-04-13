@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pagu battery", "description": "...", "size": 3, "health": 300, "requirements": [{"item": "pagu", "amount": 9}, {"item": "valetynium", "amount": 5}, {"item": "noninium", "amount": 8}], "research": "pagu-factory", "consumes": {"powerBuffered": 6598}, "category": "power"}

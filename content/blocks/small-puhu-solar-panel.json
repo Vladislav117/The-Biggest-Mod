@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small puhu solar panel", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "puhu", "amount": 9}, {"item": "xecoky", "amount": 18}, {"item": "dyju", "amount": 9}], "research": "puhu-factory", "powerProduction": 1.3487832751324063, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "byfyge force projector", "description": "...", "health": 233, "size": 3, "consumes": {"power": 5.0, "item": "byfyge"}, "requirements": [{"item": "byfyge", "amount": 3}, {"item": "bebofo", "amount": 12}, {"item": "rymeyinium", "amount": 10}], "research": "byfyge-factory", "category": "effect"}

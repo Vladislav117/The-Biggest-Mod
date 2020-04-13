@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gecoma liquid router", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "gecoma", "amount": 13}, {"item": "vivunium", "amount": 3}, {"item": "zygomy", "amount": 1}], "research": "gecoma-conduit", "liquidCapacity": 10, "category": "liquid"}

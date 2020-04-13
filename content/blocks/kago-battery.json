@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kago battery", "description": "...", "size": 3, "health": 76, "requirements": [{"item": "kago", "amount": 7}, {"item": "ranyzi", "amount": 15}, {"item": "qosedi", "amount": 3}], "research": "kago-factory", "consumes": {"powerBuffered": 9836}, "category": "power"}

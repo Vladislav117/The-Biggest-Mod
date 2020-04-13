@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small papo power node", "description": "...", "size": 1, "health": 182, "requirements": [{"item": "papo", "amount": 18}, {"item": "wapalu", "amount": 2}, {"item": "metaglass", "amount": 7}], "research": "papo-factory", "maxNodes": 19, "laserRange": 12, "category": "power"}

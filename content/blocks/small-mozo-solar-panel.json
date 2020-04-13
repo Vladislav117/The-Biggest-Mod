@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mozo solar panel", "description": "...", "size": 1, "health": 147, "requirements": [{"item": "mozo", "amount": 12}, {"item": "meke", "amount": 12}, {"item": "kelurynium", "amount": 8}], "research": "mozo-factory", "powerProduction": 3.6669086786138454, "category": "power"}

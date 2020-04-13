@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "heso liquid router", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "heso", "amount": 9}, {"item": "xoquge", "amount": 7}, {"item": "xapu", "amount": 3}], "research": "heso-conduit", "liquidCapacity": 10, "category": "liquid"}

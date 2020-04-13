@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bino liquid tank", "description": "...", "health": 539, "size": 3, "requirements": [{"item": "bino", "amount": 19}, {"item": "cigapo", "amount": 16}, {"item": "teza", "amount": 2}], "research": "bino-conduit", "category": "liquid", "liquidCapacity": 48665, "hasLiquids": true}

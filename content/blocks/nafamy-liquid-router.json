@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nafamy liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "nafamy", "amount": 15}, {"item": "zucanium", "amount": 11}, {"item": "mixy", "amount": 5}], "research": "nafamy-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bedagy liquid router", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "bedagy", "amount": 14}, {"item": "cogy", "amount": 14}, {"item": "heso", "amount": 4}], "research": "bedagy-conduit", "liquidCapacity": 10, "category": "liquid"}

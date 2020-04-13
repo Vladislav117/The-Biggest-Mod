@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fyte battery", "description": "...", "size": 3, "health": 399, "requirements": [{"item": "fyte", "amount": 9}, {"item": "fasaze", "amount": 1}, {"item": "vakaco", "amount": 7}], "research": "fyte-factory", "consumes": {"powerBuffered": 6945}, "category": "power"}

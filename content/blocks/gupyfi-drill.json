@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gupyfi drill", "description": "...", "size": 2, "health": 105, "tier": 3, "drillTime": 14, "consumes": {"power": 15}, "requirements": [{"item": "gupyfi", "amount": 5}, {"item": "yibufe", "amount": 20}, {"item": "pubado", "amount": 2}], "research": "gupyfi-factory", "category": "production"}

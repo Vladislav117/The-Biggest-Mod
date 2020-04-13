@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "teko liquid tank", "description": "...", "health": 136, "size": 3, "requirements": [{"item": "teko", "amount": 14}, {"item": "dowa", "amount": 16}, {"item": "nezexe", "amount": 4}], "research": "teko-conduit", "category": "liquid", "liquidCapacity": 73471, "hasLiquids": true}

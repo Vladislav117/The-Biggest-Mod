@@ -1,0 +1,1 @@
+{"type": "battery", "name": "roteca battery", "description": "...", "size": 3, "health": 25, "requirements": [{"item": "roteca", "amount": 9}, {"item": "webebu", "amount": 9}, {"item": "wevo", "amount": 8}], "research": "roteca-factory", "consumes": {"powerBuffered": 3029}, "category": "power"}

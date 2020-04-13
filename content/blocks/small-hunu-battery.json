@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hunu battery", "description": "...", "size": 1, "health": 121, "requirements": [{"item": "hunu", "amount": 10}, {"item": "xavayu", "amount": 2}, {"item": "siyenium", "amount": 10}], "research": "hunu-factory", "consumes": {"powerBuffered": 2127}, "category": "power"}

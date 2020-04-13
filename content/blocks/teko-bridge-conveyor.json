@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "teko bridge conveyor", "description": "", "health": 7, "range": 2, "speed": 19, "bufferCapacity": 8, "requirements": [{"item": "teko", "amount": 3}, {"item": "xonanium", "amount": 3}], "research": "teko-conveyor", "category": "distribution", "size": 1}

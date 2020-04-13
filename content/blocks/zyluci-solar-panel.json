@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zyluci solar panel", "description": "...", "size": 3, "health": 341, "requirements": [{"item": "zyluci", "amount": 4}, {"item": "vevati", "amount": 15}, {"item": "fifyru", "amount": 10}], "research": "zyluci-factory", "powerProduction": 2.1425077946234783, "category": "power"}

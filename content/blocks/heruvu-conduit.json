@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "heruvu conduit", "description": "...", "health": 96, "requirements": [{"item": "heruvu", "amount": 14}, {"item": "rybiho", "amount": 7}, {"item": "nogu", "amount": 9}], "liquidCapacity": 45, "liquidPressure": 6, "research": "heruvu-factory", "category": "liquid"}

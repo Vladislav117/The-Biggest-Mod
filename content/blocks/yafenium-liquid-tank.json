@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yafenium liquid tank", "description": "...", "health": 519, "size": 3, "requirements": [{"item": "yafenium", "amount": 3}, {"item": "kawo", "amount": 3}, {"item": "xini", "amount": 6}], "research": "yafenium-conduit", "category": "liquid", "liquidCapacity": 16638, "hasLiquids": true}

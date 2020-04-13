@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tugu drill", "description": "...", "size": 2, "health": 109, "tier": 4, "drillTime": 1, "consumes": {"power": 13}, "requirements": [{"item": "tugu", "amount": 12}, {"item": "cozuja", "amount": 1}, {"item": "zokacu", "amount": 3}], "research": "tugu-factory", "category": "production"}

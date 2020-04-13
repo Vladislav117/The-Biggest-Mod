@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jyfare solar panel", "description": "...", "size": 3, "health": 108, "requirements": [{"item": "jyfare", "amount": 2}, {"item": "hyru", "amount": 17}, {"item": "pafyvi", "amount": 1}], "research": "jyfare-factory", "powerProduction": 3.9638491993137146, "category": "power"}

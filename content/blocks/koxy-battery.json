@@ -1,0 +1,1 @@
+{"type": "battery", "name": "koxy battery", "description": "...", "size": 3, "health": 69, "requirements": [{"item": "koxy", "amount": 16}, {"item": "goxize", "amount": 8}, {"item": "byqymo", "amount": 9}], "research": "koxy-factory", "consumes": {"powerBuffered": 1167}, "category": "power"}

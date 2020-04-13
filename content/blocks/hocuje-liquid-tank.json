@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hocuje liquid tank", "description": "...", "health": 487, "size": 3, "requirements": [{"item": "hocuje", "amount": 4}, {"item": "nehudo", "amount": 10}, {"item": "zokacu", "amount": 5}], "research": "hocuje-conduit", "category": "liquid", "liquidCapacity": 17357, "hasLiquids": true}

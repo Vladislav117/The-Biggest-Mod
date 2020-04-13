@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sycexi overflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "sycexi", "amount": 1}, {"item": "kokonium", "amount": 2}], "research": "sycexi-conveyor", "category": "distribution", "invert": false}

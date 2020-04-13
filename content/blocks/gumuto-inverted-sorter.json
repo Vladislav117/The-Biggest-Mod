@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gumuto inverted sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "gumuto", "amount": 3}, {"item": "pobeqi", "amount": 2}], "research": "gumuto-conveyor", "category": "distribution", "invert": true}

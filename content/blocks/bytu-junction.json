@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bytu junction", "description": "...", "health": 12, "speed": 15, "capacity": 12, "size": 1, "requirements": [{"item": "bytu", "amount": 3}, {"item": "cefi", "amount": 5}], "research": "bytu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "walorunium power node", "description": "...", "size": 2, "health": 757, "requirements": [{"item": "walorunium", "amount": 5}, {"item": "kovu", "amount": 15}, {"item": "tuwe", "amount": 8}], "research": "walorunium-factory", "maxNodes": 17, "laserRange": 20, "category": "power"}

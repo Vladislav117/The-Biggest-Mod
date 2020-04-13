@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "moki bridge conveyor", "description": "", "health": 41, "range": 12, "speed": 17, "bufferCapacity": 16, "requirements": [{"item": "moki", "amount": 3}, {"item": "dakyse", "amount": 5}], "research": "moki-conveyor", "category": "distribution", "size": 1}

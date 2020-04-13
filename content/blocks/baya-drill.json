@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "baya drill", "description": "...", "size": 4, "health": 420, "tier": 1, "drillTime": 2, "consumes": {"power": 3}, "requirements": [{"item": "baya", "amount": 19}, {"item": "kumapo", "amount": 2}, {"item": "visuco", "amount": 9}], "research": "baya-factory", "category": "production"}

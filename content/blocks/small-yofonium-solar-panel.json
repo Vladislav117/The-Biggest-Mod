@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yofonium solar panel", "description": "...", "size": 1, "health": 307, "requirements": [{"item": "yofonium", "amount": 2}, {"item": "kuwunium", "amount": 16}, {"item": "nulyfo", "amount": 6}], "research": "yofonium-factory", "powerProduction": 7.737599480622416, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gijuva inverted sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "gijuva", "amount": 4}, {"item": "syve", "amount": 3}], "research": "gijuva-conveyor", "category": "distribution", "invert": true}

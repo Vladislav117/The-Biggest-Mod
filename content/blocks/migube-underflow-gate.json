@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "migube underflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "migube", "amount": 2}, {"item": "cymaca", "amount": 5}], "research": "migube-conveyor", "category": "distribution", "invert": false}

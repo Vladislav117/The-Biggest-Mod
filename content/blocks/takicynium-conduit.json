@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "takicynium conduit", "description": "...", "health": 60, "requirements": [{"item": "takicynium", "amount": 18}, {"item": "cysobe", "amount": 6}, {"item": "pixuhynium", "amount": 5}], "liquidCapacity": 18, "liquidPressure": 7, "research": "takicynium-factory", "category": "liquid"}

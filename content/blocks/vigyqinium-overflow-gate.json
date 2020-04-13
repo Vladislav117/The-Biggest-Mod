@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vigyqinium overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "vigyqinium", "amount": 2}, {"item": "zazinium", "amount": 2}], "research": "vigyqinium-conveyor", "category": "distribution", "invert": false}

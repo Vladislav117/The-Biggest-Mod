@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "renove underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "renove", "amount": 5}, {"item": "masa", "amount": 1}], "research": "renove-conveyor", "category": "distribution", "invert": false}

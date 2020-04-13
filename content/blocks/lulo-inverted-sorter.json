@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lulo inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "lulo", "amount": 3}, {"item": "syqelu", "amount": 3}], "research": "lulo-conveyor", "category": "distribution", "invert": true}

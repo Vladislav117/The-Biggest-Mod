@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small besu solar panel", "description": "...", "size": 1, "health": 289, "requirements": [{"item": "besu", "amount": 13}, {"item": "rosiqe", "amount": 12}, {"item": "lyru", "amount": 8}], "research": "besu-factory", "powerProduction": 9.811801596568769, "category": "power"}

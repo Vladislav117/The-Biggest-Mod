@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fiyuju drill", "description": "...", "size": 2, "health": 151, "tier": 1, "drillTime": 6, "consumes": {"power": 2}, "requirements": [{"item": "fiyuju", "amount": 10}, {"item": "rypenium", "amount": 4}, {"item": "nevyle", "amount": 6}], "research": "fiyuju-factory", "category": "production"}

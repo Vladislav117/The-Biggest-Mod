@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vekile underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "vekile", "amount": 4}, {"item": "fesixa", "amount": 2}], "research": "vekile-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lyvewenium bridge conveyor", "description": "", "health": 30, "range": 11, "speed": 3, "bufferCapacity": 19, "requirements": [{"item": "lyvewenium", "amount": 2}, {"item": "hetuxo", "amount": 1}], "research": "lyvewenium-conveyor", "category": "distribution", "size": 1}

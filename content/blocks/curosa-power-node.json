@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "curosa power node", "description": "...", "size": 2, "health": 443, "requirements": [{"item": "curosa", "amount": 5}, {"item": "yoqy", "amount": 2}, {"item": "nigucy", "amount": 5}], "research": "curosa-factory", "maxNodes": 26, "laserRange": 12, "category": "power"}

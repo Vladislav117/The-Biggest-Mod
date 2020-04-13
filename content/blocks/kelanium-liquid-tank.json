@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kelanium liquid tank", "description": "...", "health": 650, "size": 3, "requirements": [{"item": "kelanium", "amount": 13}, {"item": "deco", "amount": 7}, {"item": "tagawe", "amount": 9}], "research": "kelanium-conduit", "category": "liquid", "liquidCapacity": 27893, "hasLiquids": true}

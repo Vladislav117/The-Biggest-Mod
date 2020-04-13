@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lizenium power node", "description": "...", "size": 2, "health": 536, "requirements": [{"item": "lizenium", "amount": 8}, {"item": "paziyanium", "amount": 1}, {"item": "qulape", "amount": 2}], "research": "lizenium-factory", "maxNodes": 16, "laserRange": 17, "category": "power"}

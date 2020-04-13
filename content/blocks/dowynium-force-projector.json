@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "dowynium force projector", "description": "...", "health": 149, "size": 3, "consumes": {"power": 5.0, "item": "dowynium"}, "requirements": [{"item": "dowynium", "amount": 14}, {"item": "felu", "amount": 12}, {"item": "nifego", "amount": 7}], "research": "dowynium-factory", "category": "effect"}

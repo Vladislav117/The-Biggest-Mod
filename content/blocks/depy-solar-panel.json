@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "depy solar panel", "description": "...", "size": 3, "health": 18, "requirements": [{"item": "depy", "amount": 13}, {"item": "jayi", "amount": 16}, {"item": "numuwanium", "amount": 1}], "research": "depy-factory", "powerProduction": 0.24621556441473547, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vapo underflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "vapo", "amount": 1}, {"item": "lyceca", "amount": 4}], "research": "vapo-conveyor", "category": "distribution", "invert": false}

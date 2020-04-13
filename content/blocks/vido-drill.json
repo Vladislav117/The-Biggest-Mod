@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vido drill", "description": "...", "size": 2, "health": 259, "tier": 4, "drillTime": 20, "consumes": {"power": 9}, "requirements": [{"item": "vido", "amount": 5}, {"item": "yoqije", "amount": 3}, {"item": "vabeda", "amount": 5}], "research": "vido-factory", "category": "production"}

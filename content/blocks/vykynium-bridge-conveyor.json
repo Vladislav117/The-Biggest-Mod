@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vykynium bridge conveyor", "description": "", "health": 45, "range": 6, "speed": 11, "bufferCapacity": 13, "requirements": [{"item": "vykynium", "amount": 3}, {"item": "cafe", "amount": 5}], "research": "vykynium-conveyor", "category": "distribution", "size": 1}

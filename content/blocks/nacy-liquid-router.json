@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nacy liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "nacy", "amount": 16}, {"item": "jafi", "amount": 11}, {"item": "gydycu", "amount": 5}], "research": "nacy-conduit", "liquidCapacity": 10, "category": "liquid"}

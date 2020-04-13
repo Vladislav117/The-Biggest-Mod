@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sixo solar panel", "description": "...", "size": 3, "health": 273, "requirements": [{"item": "sixo", "amount": 10}, {"item": "wety", "amount": 10}, {"item": "mymynium", "amount": 10}], "research": "sixo-factory", "powerProduction": 10.138823338966905, "category": "power"}

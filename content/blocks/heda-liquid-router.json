@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "heda liquid router", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "heda", "amount": 1}, {"item": "zatire", "amount": 13}, {"item": "hyfeho", "amount": 2}], "research": "heda-conduit", "liquidCapacity": 10, "category": "liquid"}

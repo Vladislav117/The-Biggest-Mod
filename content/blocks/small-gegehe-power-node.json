@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gegehe power node", "description": "...", "size": 1, "health": 178, "requirements": [{"item": "gegehe", "amount": 13}, {"item": "syminium", "amount": 16}, {"item": "komaqynium", "amount": 4}], "research": "gegehe-factory", "maxNodes": 12, "laserRange": 3, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wabenium solar panel", "description": "...", "size": 1, "health": 226, "requirements": [{"item": "wabenium", "amount": 18}, {"item": "yifity", "amount": 4}, {"item": "gayi", "amount": 10}], "research": "wabenium-factory", "powerProduction": 3.070951809948237, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yyjuhy bridge conveyor", "description": "", "health": 37, "range": 1, "speed": 17, "bufferCapacity": 21, "requirements": [{"item": "yyjuhy", "amount": 4}, {"item": "puzihanium", "amount": 4}], "research": "yyjuhy-conveyor", "category": "distribution", "size": 1}

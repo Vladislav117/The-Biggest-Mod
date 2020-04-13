@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yezaku power node", "description": "...", "size": 2, "health": 463, "requirements": [{"item": "yezaku", "amount": 10}, {"item": "qayy", "amount": 18}, {"item": "xepe", "amount": 8}], "research": "yezaku-factory", "maxNodes": 20, "laserRange": 29, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xavayu power node", "description": "...", "size": 2, "health": 582, "requirements": [{"item": "xavayu", "amount": 17}, {"item": "puzonium", "amount": 7}, {"item": "nazyfa", "amount": 4}], "research": "xavayu-factory", "maxNodes": 24, "laserRange": 8, "category": "power"}

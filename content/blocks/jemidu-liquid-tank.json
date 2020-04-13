@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jemidu liquid tank", "description": "...", "health": 483, "size": 3, "requirements": [{"item": "jemidu", "amount": 17}, {"item": "wycenu", "amount": 17}, {"item": "wohy", "amount": 8}], "research": "jemidu-conduit", "category": "liquid", "liquidCapacity": 90871, "hasLiquids": true}

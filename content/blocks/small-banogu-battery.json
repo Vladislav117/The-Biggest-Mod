@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small banogu battery", "description": "...", "size": 1, "health": 269, "requirements": [{"item": "banogu", "amount": 5}, {"item": "syminium", "amount": 13}, {"item": "koty", "amount": 10}], "research": "banogu-factory", "consumes": {"powerBuffered": 333}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pyjorenium power node", "description": "...", "size": 1, "health": 188, "requirements": [{"item": "pyjorenium", "amount": 11}, {"item": "naxihe", "amount": 7}, {"item": "naqade", "amount": 9}], "research": "pyjorenium-factory", "maxNodes": 15, "laserRange": 7, "category": "power"}

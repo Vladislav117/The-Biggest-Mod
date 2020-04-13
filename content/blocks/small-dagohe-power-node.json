@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dagohe power node", "description": "...", "size": 1, "health": 188, "requirements": [{"item": "dagohe", "amount": 5}, {"item": "yoqaja", "amount": 11}, {"item": "wovazo", "amount": 2}], "research": "dagohe-factory", "maxNodes": 19, "laserRange": 16, "category": "power"}

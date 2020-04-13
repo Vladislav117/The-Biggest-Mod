@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mejo liquid router", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "mejo", "amount": 4}, {"item": "dakoyi", "amount": 10}, {"item": "lavi", "amount": 8}], "research": "mejo-conduit", "liquidCapacity": 10, "category": "liquid"}

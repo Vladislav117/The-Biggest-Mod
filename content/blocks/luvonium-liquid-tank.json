@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "luvonium liquid tank", "description": "...", "health": 400, "size": 3, "requirements": [{"item": "luvonium", "amount": 12}, {"item": "wozego", "amount": 5}, {"item": "macurenium", "amount": 9}], "research": "luvonium-conduit", "category": "liquid", "liquidCapacity": 29032, "hasLiquids": true}

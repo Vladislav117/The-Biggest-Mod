@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sibutu battery", "description": "...", "size": 3, "health": 152, "requirements": [{"item": "sibutu", "amount": 15}, {"item": "riwe", "amount": 14}, {"item": "zety", "amount": 5}], "research": "sibutu-factory", "consumes": {"powerBuffered": 9979}, "category": "power"}

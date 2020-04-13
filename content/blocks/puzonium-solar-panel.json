@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "puzonium solar panel", "description": "...", "size": 3, "health": 70, "requirements": [{"item": "puzonium", "amount": 12}, {"item": "vove", "amount": 14}, {"item": "niqy", "amount": 6}], "research": "puzonium-factory", "powerProduction": 5.062775742738067, "category": "power"}

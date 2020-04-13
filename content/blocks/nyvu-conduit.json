@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nyvu conduit", "description": "...", "health": 58, "requirements": [{"item": "nyvu", "amount": 9}, {"item": "xyge", "amount": 10}, {"item": "zoyinium", "amount": 4}], "liquidCapacity": 16, "liquidPressure": 5, "research": "nyvu-factory", "category": "liquid"}

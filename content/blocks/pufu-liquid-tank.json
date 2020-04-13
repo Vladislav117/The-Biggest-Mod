@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pufu liquid tank", "description": "...", "health": 626, "size": 3, "requirements": [{"item": "pufu", "amount": 13}, {"item": "qiyo", "amount": 11}, {"item": "naku", "amount": 9}], "research": "pufu-conduit", "category": "liquid", "liquidCapacity": 22698, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yifi liquid tank", "description": "...", "health": 259, "size": 3, "requirements": [{"item": "yifi", "amount": 5}, {"item": "puzi", "amount": 11}, {"item": "hipowu", "amount": 8}], "research": "yifi-conduit", "category": "liquid", "liquidCapacity": 29343, "hasLiquids": true}

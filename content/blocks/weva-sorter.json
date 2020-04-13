@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "weva sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "weva", "amount": 5}, {"item": "nytu", "amount": 1}], "research": "weva-conveyor", "category": "distribution", "invert": false}

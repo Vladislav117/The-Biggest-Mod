@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jaxi liquid tank", "description": "...", "health": 522, "size": 3, "requirements": [{"item": "jaxi", "amount": 1}, {"item": "kiye", "amount": 10}, {"item": "befe", "amount": 10}], "research": "jaxi-conduit", "category": "liquid", "liquidCapacity": 27232, "hasLiquids": true}

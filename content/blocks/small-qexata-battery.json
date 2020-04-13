@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qexata battery", "description": "...", "size": 1, "health": 250, "requirements": [{"item": "qexata", "amount": 15}, {"item": "qayanium", "amount": 5}, {"item": "fykemi", "amount": 6}], "research": "qexata-factory", "consumes": {"powerBuffered": 2819}, "category": "power"}

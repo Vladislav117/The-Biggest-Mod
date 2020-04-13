@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xebili conduit", "description": "...", "health": 37, "requirements": [{"item": "xebili", "amount": 17}, {"item": "tuzy", "amount": 9}, {"item": "yupo", "amount": 4}], "liquidCapacity": 5, "liquidPressure": 6, "research": "xebili-factory", "category": "liquid"}

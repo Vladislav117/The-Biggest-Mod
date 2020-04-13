@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xehi battery", "description": "...", "size": 1, "health": 108, "requirements": [{"item": "xehi", "amount": 11}, {"item": "xocu", "amount": 10}, {"item": "nunaby", "amount": 9}], "research": "xehi-factory", "consumes": {"powerBuffered": 551}, "category": "power"}

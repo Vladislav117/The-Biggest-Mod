@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nyli solar panel", "description": "...", "size": 3, "health": 297, "requirements": [{"item": "nyli", "amount": 18}, {"item": "nufaye", "amount": 9}, {"item": "zivoginium", "amount": 9}], "research": "nyli-factory", "powerProduction": 0.06860581411271835, "category": "power"}

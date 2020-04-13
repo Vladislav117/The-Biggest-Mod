@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mapa conduit", "description": "...", "health": 173, "requirements": [{"item": "mapa", "amount": 16}, {"item": "zenuwunium", "amount": 8}, {"item": "pocunium", "amount": 4}], "liquidCapacity": 38, "liquidPressure": 5, "research": "mapa-factory", "category": "liquid"}

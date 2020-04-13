@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vovu drill", "description": "...", "size": 2, "health": 255, "tier": 1, "drillTime": 14, "consumes": {"power": 16}, "requirements": [{"item": "vovu", "amount": 17}, {"item": "naxihe", "amount": 7}, {"item": "fosu", "amount": 1}], "research": "vovu-factory", "category": "production"}

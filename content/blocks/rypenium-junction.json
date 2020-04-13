@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rypenium junction", "description": "...", "health": 45, "speed": 18, "capacity": 6, "size": 1, "requirements": [{"item": "rypenium", "amount": 5}, {"item": "hazi", "amount": 4}], "research": "rypenium-conveyor", "category": "distribution"}

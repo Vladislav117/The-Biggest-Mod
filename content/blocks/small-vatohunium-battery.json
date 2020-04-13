@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vatohunium battery", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "vatohunium", "amount": 6}, {"item": "fica", "amount": 1}, {"item": "hasu", "amount": 7}], "research": "vatohunium-factory", "consumes": {"powerBuffered": 910}, "category": "power"}

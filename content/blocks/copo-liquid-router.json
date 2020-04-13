@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "copo liquid router", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "copo", "amount": 2}, {"item": "kupanium", "amount": 15}, {"item": "kanuya", "amount": 9}], "research": "copo-conduit", "liquidCapacity": 10, "category": "liquid"}

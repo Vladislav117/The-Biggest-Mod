@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "fezo conveyor", "description": "...", "health": 150, "requirements": [{"item": "fezo", "amount": 2}, {"item": "bipanium", "amount": 4}], "speed": 0.31619819179050407, "research": "fezo-factory", "category": "distribution"}

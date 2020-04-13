@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "life conveyor", "description": "...", "health": 115, "requirements": [{"item": "life", "amount": 2}, {"item": "niqy", "amount": 8}], "speed": 0.005862099180693248, "research": "life-factory", "category": "distribution"}

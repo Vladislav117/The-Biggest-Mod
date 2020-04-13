@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "socata liquid tank", "description": "...", "health": 122, "size": 3, "requirements": [{"item": "socata", "amount": 15}, {"item": "vesy", "amount": 5}, {"item": "fizunium", "amount": 5}], "research": "socata-conduit", "category": "liquid", "liquidCapacity": 67147, "hasLiquids": true}

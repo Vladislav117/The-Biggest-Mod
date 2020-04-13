@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xicopo solar panel", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "xicopo", "amount": 10}, {"item": "labila", "amount": 14}, {"item": "zigije", "amount": 1}], "research": "xicopo-factory", "powerProduction": 6.655148419026089, "category": "power"}

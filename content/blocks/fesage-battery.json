@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fesage battery", "description": "...", "size": 3, "health": 96, "requirements": [{"item": "fesage", "amount": 13}, {"item": "wajese", "amount": 7}, {"item": "tuzy", "amount": 7}], "research": "fesage-factory", "consumes": {"powerBuffered": 7249}, "category": "power"}

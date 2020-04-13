@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wywelu junction", "description": "...", "health": 5, "speed": 12, "capacity": 16, "size": 1, "requirements": [{"item": "wywelu", "amount": 1}, {"item": "nixyli", "amount": 1}], "research": "wywelu-conveyor", "category": "distribution"}

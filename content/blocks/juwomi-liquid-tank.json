@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "juwomi liquid tank", "description": "...", "health": 554, "size": 3, "requirements": [{"item": "juwomi", "amount": 1}, {"item": "cudy", "amount": 6}, {"item": "cyxibe", "amount": 4}], "research": "juwomi-conduit", "category": "liquid", "liquidCapacity": 99394, "hasLiquids": true}

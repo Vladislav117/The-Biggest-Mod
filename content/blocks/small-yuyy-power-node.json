@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yuyy power node", "description": "...", "size": 1, "health": 207, "requirements": [{"item": "yuyy", "amount": 10}, {"item": "case", "amount": 8}, {"item": "wabaru", "amount": 1}], "research": "yuyy-factory", "maxNodes": 22, "laserRange": 24, "category": "power"}

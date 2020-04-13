@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lyxa battery", "description": "...", "size": 1, "health": 396, "requirements": [{"item": "lyxa", "amount": 17}, {"item": "pijebu", "amount": 18}, {"item": "nigucy", "amount": 7}], "research": "lyxa-factory", "consumes": {"powerBuffered": 1738}, "category": "power"}

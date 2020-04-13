@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hukebi battery", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "hukebi", "amount": 13}, {"item": "zoxi", "amount": 16}, {"item": "suyi", "amount": 9}], "research": "hukebi-factory", "consumes": {"powerBuffered": 2376}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "viwahe drill", "description": "...", "size": 2, "health": 320, "tier": 1, "drillTime": 3, "consumes": {"power": 3}, "requirements": [{"item": "viwahe", "amount": 16}, {"item": "sara", "amount": 5}, {"item": "mawanium", "amount": 8}], "research": "viwahe-factory", "category": "production"}

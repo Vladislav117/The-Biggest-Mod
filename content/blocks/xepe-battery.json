@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xepe battery", "description": "...", "size": 3, "health": 364, "requirements": [{"item": "xepe", "amount": 8}, {"item": "niqy", "amount": 11}, {"item": "yipobe", "amount": 9}], "research": "xepe-factory", "consumes": {"powerBuffered": 8803}, "category": "power"}

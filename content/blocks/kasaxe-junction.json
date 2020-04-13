@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kasaxe junction", "description": "...", "health": 42, "speed": 20, "capacity": 16, "size": 1, "requirements": [{"item": "kasaxe", "amount": 4}, {"item": "citygo", "amount": 1}], "research": "kasaxe-conveyor", "category": "distribution"}

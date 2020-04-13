@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small piqo power node", "description": "...", "size": 1, "health": 149, "requirements": [{"item": "piqo", "amount": 15}, {"item": "fyqy", "amount": 8}, {"item": "cudo", "amount": 4}], "research": "piqo-factory", "maxNodes": 19, "laserRange": 18, "category": "power"}

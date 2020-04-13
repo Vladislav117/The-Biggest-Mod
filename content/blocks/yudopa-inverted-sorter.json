@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yudopa inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "yudopa", "amount": 4}, {"item": "ziwo", "amount": 2}], "research": "yudopa-conveyor", "category": "distribution", "invert": true}

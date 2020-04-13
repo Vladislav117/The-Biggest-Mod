@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wajese liquid tank", "description": "...", "health": 277, "size": 3, "requirements": [{"item": "wajese", "amount": 7}, {"item": "leriki", "amount": 9}, {"item": "fytuve", "amount": 10}], "research": "wajese-conduit", "category": "liquid", "liquidCapacity": 87584, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dyye underflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "dyye", "amount": 2}, {"item": "tefaco", "amount": 3}], "research": "dyye-conveyor", "category": "distribution", "invert": false}

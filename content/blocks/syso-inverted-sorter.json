@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "syso inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "syso", "amount": 2}, {"item": "wuronium", "amount": 1}], "research": "syso-conveyor", "category": "distribution", "invert": true}

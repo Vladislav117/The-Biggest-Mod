@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "hayu conveyor", "description": "...", "health": 184, "requirements": [{"item": "hayu", "amount": 10}, {"item": "paso", "amount": 10}], "speed": 0.17123829036447963, "research": "hayu-factory", "category": "distribution"}

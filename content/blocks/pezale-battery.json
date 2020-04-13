@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pezale battery", "description": "...", "size": 3, "health": 168, "requirements": [{"item": "pezale", "amount": 8}, {"item": "plastanium", "amount": 13}, {"item": "xeye", "amount": 8}], "research": "pezale-factory", "consumes": {"powerBuffered": 3674}, "category": "power"}

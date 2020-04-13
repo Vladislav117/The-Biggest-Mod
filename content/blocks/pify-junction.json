@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pify junction", "description": "...", "health": 10, "speed": 18, "capacity": 4, "size": 1, "requirements": [{"item": "pify", "amount": 4}, {"item": "gomuko", "amount": 2}], "research": "pify-conveyor", "category": "distribution"}

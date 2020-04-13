@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "soda conveyor", "description": "...", "health": 273, "requirements": [{"item": "soda", "amount": 9}, {"item": "movanium", "amount": 1}], "speed": 0.38490532444042175, "research": "soda-factory", "category": "distribution"}

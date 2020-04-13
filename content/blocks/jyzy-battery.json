@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jyzy battery", "description": "...", "size": 3, "health": 190, "requirements": [{"item": "jyzy", "amount": 1}, {"item": "capa", "amount": 20}, {"item": "yowiminium", "amount": 7}], "research": "jyzy-factory", "consumes": {"powerBuffered": 3100}, "category": "power"}

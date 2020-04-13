@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gajule bridge conveyor", "description": "", "health": 41, "range": 14, "speed": 15, "bufferCapacity": 18, "requirements": [{"item": "gajule", "amount": 5}, {"item": "nogocynium", "amount": 3}], "research": "gajule-conveyor", "category": "distribution", "size": 1}

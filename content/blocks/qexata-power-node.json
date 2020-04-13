@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qexata power node", "description": "...", "size": 2, "health": 261, "requirements": [{"item": "qexata", "amount": 11}, {"item": "ryte", "amount": 12}, {"item": "qudy", "amount": 2}], "research": "qexata-factory", "maxNodes": 18, "laserRange": 19, "category": "power"}

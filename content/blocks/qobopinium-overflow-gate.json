@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qobopinium overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "qobopinium", "amount": 2}, {"item": "ruwucynium", "amount": 2}], "research": "qobopinium-conveyor", "category": "distribution", "invert": false}

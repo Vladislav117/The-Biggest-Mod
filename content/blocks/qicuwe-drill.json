@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qicuwe drill", "description": "...", "size": 3, "health": 367, "tier": 3, "drillTime": 5, "consumes": {"power": 5}, "requirements": [{"item": "qicuwe", "amount": 10}, {"item": "yuwo", "amount": 13}, {"item": "yohu", "amount": 3}], "research": "qicuwe-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "meti liquid router", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "meti", "amount": 15}, {"item": "cejuru", "amount": 20}, {"item": "sodyly", "amount": 3}], "research": "meti-conduit", "liquidCapacity": 10, "category": "liquid"}

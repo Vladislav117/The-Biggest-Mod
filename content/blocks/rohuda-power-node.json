@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rohuda power node", "description": "...", "size": 2, "health": 564, "requirements": [{"item": "rohuda", "amount": 1}, {"item": "cihihenium", "amount": 14}, {"item": "tugi", "amount": 4}], "research": "rohuda-factory", "maxNodes": 24, "laserRange": 30, "category": "power"}

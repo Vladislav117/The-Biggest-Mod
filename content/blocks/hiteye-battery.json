@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hiteye battery", "description": "...", "size": 3, "health": 177, "requirements": [{"item": "hiteye", "amount": 10}, {"item": "vudoca", "amount": 16}, {"item": "tatupo", "amount": 7}], "research": "hiteye-factory", "consumes": {"powerBuffered": 5551}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "watiju overdrive projector", "description": "...", "health": 86, "consumes": {"power": 3.0, "item": "watiju"}, "size": 2, "requirements": [{"item": "watiju", "amount": 2}, {"item": "sebypa", "amount": 2}, {"item": "zoqivanium", "amount": 5}], "research": "watiju-factory", "category": "effect"}

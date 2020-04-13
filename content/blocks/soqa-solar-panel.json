@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "soqa solar panel", "description": "...", "size": 3, "health": 59, "requirements": [{"item": "soqa", "amount": 15}, {"item": "tabi", "amount": 12}, {"item": "wasebanium", "amount": 4}], "research": "soqa-factory", "powerProduction": 5.028677747778726, "category": "power"}

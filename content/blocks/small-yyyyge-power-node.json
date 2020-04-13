@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yyyyge power node", "description": "...", "size": 1, "health": 219, "requirements": [{"item": "yyyyge", "amount": 2}, {"item": "xeye", "amount": 5}, {"item": "zemy", "amount": 7}], "research": "yyyyge-factory", "maxNodes": 25, "laserRange": 17, "category": "power"}

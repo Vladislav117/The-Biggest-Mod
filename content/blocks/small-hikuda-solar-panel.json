@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hikuda solar panel", "description": "...", "size": 1, "health": 141, "requirements": [{"item": "hikuda", "amount": 17}, {"item": "siwobanium", "amount": 11}, {"item": "teyonium", "amount": 9}], "research": "hikuda-factory", "powerProduction": 1.8664872097849543, "category": "power"}

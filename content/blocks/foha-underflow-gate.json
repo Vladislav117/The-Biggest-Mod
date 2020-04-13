@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "foha underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "foha", "amount": 5}, {"item": "vuyenium", "amount": 2}], "research": "foha-conveyor", "category": "distribution", "invert": false}

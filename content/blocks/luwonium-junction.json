@@ -1,0 +1,1 @@
+{"type": "junction", "name": "luwonium junction", "description": "...", "health": 39, "speed": 15, "capacity": 3, "size": 1, "requirements": [{"item": "luwonium", "amount": 2}, {"item": "duly", "amount": 2}], "research": "luwonium-conveyor", "category": "distribution"}

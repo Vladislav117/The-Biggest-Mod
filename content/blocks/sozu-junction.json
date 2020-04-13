@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sozu junction", "description": "...", "health": 3, "speed": 20, "capacity": 2, "size": 1, "requirements": [{"item": "sozu", "amount": 2}, {"item": "fobige", "amount": 4}], "research": "sozu-conveyor", "category": "distribution"}

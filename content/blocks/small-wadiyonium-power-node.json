@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wadiyonium power node", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "wadiyonium", "amount": 5}, {"item": "xebunium", "amount": 5}, {"item": "rovaqa", "amount": 10}], "research": "wadiyonium-factory", "maxNodes": 9, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rixolu inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "rixolu", "amount": 1}, {"item": "qari", "amount": 4}], "research": "rixolu-conveyor", "category": "distribution", "invert": true}

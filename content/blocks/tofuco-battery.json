@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tofuco battery", "description": "...", "size": 3, "health": 241, "requirements": [{"item": "tofuco", "amount": 6}, {"item": "huxi", "amount": 2}, {"item": "xebunium", "amount": 5}], "research": "tofuco-factory", "consumes": {"powerBuffered": 7302}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rape inverted sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "rape", "amount": 5}, {"item": "yoleqy", "amount": 5}], "research": "rape-conveyor", "category": "distribution", "invert": true}

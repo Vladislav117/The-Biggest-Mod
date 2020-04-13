@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "baboxi inverted sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "baboxi", "amount": 2}, {"item": "mecyronium", "amount": 5}], "research": "baboxi-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qurehy overflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "qurehy", "amount": 3}, {"item": "hagunium", "amount": 1}], "research": "qurehy-conveyor", "category": "distribution", "invert": false}

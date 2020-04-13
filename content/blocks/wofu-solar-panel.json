@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wofu solar panel", "description": "...", "size": 3, "health": 181, "requirements": [{"item": "wofu", "amount": 7}, {"item": "qoseve", "amount": 14}, {"item": "mase", "amount": 2}], "research": "wofu-factory", "powerProduction": 0.02053789717716491, "category": "power"}

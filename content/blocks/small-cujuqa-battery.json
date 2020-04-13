@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cujuqa battery", "description": "...", "size": 1, "health": 177, "requirements": [{"item": "cujuqa", "amount": 4}, {"item": "socyhi", "amount": 5}, {"item": "liwafa", "amount": 8}], "research": "cujuqa-factory", "consumes": {"powerBuffered": 738}, "category": "power"}

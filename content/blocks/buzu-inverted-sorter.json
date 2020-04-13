@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "buzu inverted sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "buzu", "amount": 4}, {"item": "mynesa", "amount": 4}], "research": "buzu-conveyor", "category": "distribution", "invert": true}

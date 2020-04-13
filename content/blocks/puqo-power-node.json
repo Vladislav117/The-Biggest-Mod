@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "puqo power node", "description": "...", "size": 2, "health": 588, "requirements": [{"item": "puqo", "amount": 19}, {"item": "mete", "amount": 3}, {"item": "kyvanium", "amount": 10}], "research": "puqo-factory", "maxNodes": 46, "laserRange": 18, "category": "power"}

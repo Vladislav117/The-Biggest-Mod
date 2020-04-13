@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "deco overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "deco", "amount": 3}, {"item": "jevufu", "amount": 2}], "research": "deco-conveyor", "category": "distribution", "invert": false}

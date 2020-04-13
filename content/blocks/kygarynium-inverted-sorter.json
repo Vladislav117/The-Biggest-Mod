@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kygarynium inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "kygarynium", "amount": 4}, {"item": "rymojanium", "amount": 5}], "research": "kygarynium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wuqipenium overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "wuqipenium", "amount": 2}, {"item": "bybity", "amount": 3}], "research": "wuqipenium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fohebi power node", "description": "...", "size": 1, "health": 192, "requirements": [{"item": "fohebi", "amount": 7}, {"item": "vadoda", "amount": 6}, {"item": "dewira", "amount": 3}], "research": "fohebi-factory", "maxNodes": 13, "laserRange": 11, "category": "power"}

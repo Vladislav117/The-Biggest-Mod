@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kegi solar panel", "description": "...", "size": 3, "health": 63, "requirements": [{"item": "kegi", "amount": 8}, {"item": "sedowe", "amount": 3}, {"item": "cuzyko", "amount": 5}], "research": "kegi-factory", "powerProduction": 3.5632116989027343, "category": "power"}

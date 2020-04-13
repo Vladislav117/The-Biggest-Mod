@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yedyte power node", "description": "...", "size": 2, "health": 748, "requirements": [{"item": "yedyte", "amount": 17}, {"item": "jomoka", "amount": 17}, {"item": "sywuze", "amount": 6}], "research": "yedyte-factory", "maxNodes": 32, "laserRange": 23, "category": "power"}

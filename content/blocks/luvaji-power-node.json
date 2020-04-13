@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "luvaji power node", "description": "...", "size": 2, "health": 431, "requirements": [{"item": "luvaji", "amount": 18}, {"item": "litilenium", "amount": 14}, {"item": "yoqije", "amount": 6}], "research": "luvaji-factory", "maxNodes": 18, "laserRange": 30, "category": "power"}

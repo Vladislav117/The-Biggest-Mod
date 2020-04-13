@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tufo conduit", "description": "...", "health": 28, "requirements": [{"item": "tufo", "amount": 4}, {"item": "hetyjo", "amount": 15}, {"item": "nifonium", "amount": 9}], "liquidCapacity": 36, "liquidPressure": 0, "research": "tufo-factory", "category": "liquid"}

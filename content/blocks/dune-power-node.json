@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dune power node", "description": "...", "size": 2, "health": 293, "requirements": [{"item": "dune", "amount": 2}, {"item": "heso", "amount": 16}, {"item": "ruvudo", "amount": 6}], "research": "dune-factory", "maxNodes": 36, "laserRange": 22, "category": "power"}

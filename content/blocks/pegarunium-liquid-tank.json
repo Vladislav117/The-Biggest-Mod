@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pegarunium liquid tank", "description": "...", "health": 510, "size": 3, "requirements": [{"item": "pegarunium", "amount": 5}, {"item": "zilida", "amount": 11}, {"item": "zefu", "amount": 6}], "research": "pegarunium-conduit", "category": "liquid", "liquidCapacity": 22399, "hasLiquids": true}

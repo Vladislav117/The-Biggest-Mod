@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hotose inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "hotose", "amount": 5}, {"item": "woqyfu", "amount": 5}], "research": "hotose-conveyor", "category": "distribution", "invert": true}

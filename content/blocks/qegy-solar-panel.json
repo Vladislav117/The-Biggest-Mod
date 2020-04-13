@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qegy solar panel", "description": "...", "size": 3, "health": 400, "requirements": [{"item": "qegy", "amount": 9}, {"item": "zoxi", "amount": 19}, {"item": "cedonium", "amount": 8}], "research": "qegy-factory", "powerProduction": 4.0377377807975785, "category": "power"}

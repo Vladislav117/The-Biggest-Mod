@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jide bridge conveyor", "description": "", "health": 43, "range": 7, "speed": 5, "bufferCapacity": 13, "requirements": [{"item": "jide", "amount": 5}, {"item": "womanium", "amount": 4}], "research": "jide-conveyor", "category": "distribution", "size": 1}

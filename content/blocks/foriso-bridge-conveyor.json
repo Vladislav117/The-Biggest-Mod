@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "foriso bridge conveyor", "description": "", "health": 22, "range": 20, "speed": 19, "bufferCapacity": 6, "requirements": [{"item": "foriso", "amount": 3}, {"item": "ruryjynium", "amount": 4}], "research": "foriso-conveyor", "category": "distribution", "size": 1}

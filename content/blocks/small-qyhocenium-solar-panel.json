@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qyhocenium solar panel", "description": "...", "size": 1, "health": 245, "requirements": [{"item": "qyhocenium", "amount": 5}, {"item": "lepe", "amount": 6}, {"item": "zigije", "amount": 8}], "research": "qyhocenium-factory", "powerProduction": 2.748788732548719, "category": "power"}

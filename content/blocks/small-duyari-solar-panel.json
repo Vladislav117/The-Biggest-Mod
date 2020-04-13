@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small duyari solar panel", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "duyari", "amount": 3}, {"item": "kazo", "amount": 19}, {"item": "cuha", "amount": 5}], "research": "duyari-factory", "powerProduction": 0.4475975125112018, "category": "power"}

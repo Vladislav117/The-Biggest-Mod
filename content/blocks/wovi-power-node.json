@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wovi power node", "description": "...", "size": 2, "health": 737, "requirements": [{"item": "wovi", "amount": 9}, {"item": "yofopy", "amount": 1}, {"item": "nedofinium", "amount": 10}], "research": "wovi-factory", "maxNodes": 14, "laserRange": 28, "category": "power"}

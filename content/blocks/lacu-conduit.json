@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lacu conduit", "description": "...", "health": 134, "requirements": [{"item": "lacu", "amount": 18}, {"item": "jihanium", "amount": 14}, {"item": "wore", "amount": 10}], "liquidCapacity": 30, "liquidPressure": 7, "research": "lacu-factory", "category": "liquid"}

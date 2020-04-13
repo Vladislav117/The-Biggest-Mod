@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xydy power node", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "xydy", "amount": 13}, {"item": "wyra", "amount": 14}, {"item": "movanium", "amount": 7}], "research": "xydy-factory", "maxNodes": 5, "laserRange": 14, "category": "power"}

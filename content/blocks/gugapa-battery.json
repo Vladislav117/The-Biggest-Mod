@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gugapa battery", "description": "...", "size": 3, "health": 196, "requirements": [{"item": "gugapa", "amount": 6}, {"item": "cobigu", "amount": 15}, {"item": "dagohe", "amount": 6}], "research": "gugapa-factory", "consumes": {"powerBuffered": 9712}, "category": "power"}

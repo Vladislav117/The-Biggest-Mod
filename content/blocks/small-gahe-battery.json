@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gahe battery", "description": "...", "size": 1, "health": 158, "requirements": [{"item": "gahe", "amount": 6}, {"item": "zatire", "amount": 2}, {"item": "nujunium", "amount": 2}], "research": "gahe-factory", "consumes": {"powerBuffered": 2597}, "category": "power"}

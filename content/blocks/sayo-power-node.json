@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sayo power node", "description": "...", "size": 2, "health": 459, "requirements": [{"item": "sayo", "amount": 6}, {"item": "xebili", "amount": 10}, {"item": "yifity", "amount": 7}], "research": "sayo-factory", "maxNodes": 31, "laserRange": 21, "category": "power"}

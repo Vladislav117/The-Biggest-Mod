@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yywy drill", "description": "...", "size": 2, "health": 113, "tier": 2, "drillTime": 3, "consumes": {"power": 6}, "requirements": [{"item": "yywy", "amount": 4}, {"item": "qepusenium", "amount": 16}, {"item": "mawanium", "amount": 6}], "research": "yywy-factory", "category": "production"}

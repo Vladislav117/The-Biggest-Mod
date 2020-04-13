@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yupo battery", "description": "...", "size": 1, "health": 118, "requirements": [{"item": "yupo", "amount": 8}, {"item": "yupo", "amount": 8}, {"item": "wiba", "amount": 5}], "research": "yupo-factory", "consumes": {"powerBuffered": 309}, "category": "power"}

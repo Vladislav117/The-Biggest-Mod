@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tise liquid router", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "tise", "amount": 4}, {"item": "duqu", "amount": 8}, {"item": "daryki", "amount": 6}], "research": "tise-conduit", "liquidCapacity": 10, "category": "liquid"}

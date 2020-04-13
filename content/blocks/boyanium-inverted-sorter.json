@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "boyanium inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "boyanium", "amount": 5}, {"item": "temi", "amount": 3}], "research": "boyanium-conveyor", "category": "distribution", "invert": true}

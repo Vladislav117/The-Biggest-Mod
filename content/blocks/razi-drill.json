@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "razi drill", "description": "...", "size": 3, "health": 385, "tier": 1, "drillTime": 19, "consumes": {"power": 8}, "requirements": [{"item": "razi", "amount": 10}, {"item": "kovi", "amount": 4}, {"item": "kypofu", "amount": 4}], "research": "razi-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hylisa battery", "description": "...", "size": 3, "health": 351, "requirements": [{"item": "hylisa", "amount": 14}, {"item": "zityyanium", "amount": 19}, {"item": "xizejinium", "amount": 2}], "research": "hylisa-factory", "consumes": {"powerBuffered": 7395}, "category": "power"}

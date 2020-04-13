@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mobipo power node", "description": "...", "size": 2, "health": 567, "requirements": [{"item": "mobipo", "amount": 19}, {"item": "tudinium", "amount": 20}, {"item": "cimahy", "amount": 1}], "research": "mobipo-factory", "maxNodes": 30, "laserRange": 5, "category": "power"}

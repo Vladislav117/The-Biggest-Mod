@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lobojenium inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "lobojenium", "amount": 2}, {"item": "nota", "amount": 1}], "research": "lobojenium-conveyor", "category": "distribution", "invert": true}

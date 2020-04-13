@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fapufi junction", "description": "...", "health": 40, "speed": 3, "capacity": 20, "size": 1, "requirements": [{"item": "fapufi", "amount": 4}, {"item": "novimo", "amount": 2}], "research": "fapufi-conveyor", "category": "distribution"}

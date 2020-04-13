@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fure liquid tank", "description": "...", "health": 285, "size": 3, "requirements": [{"item": "fure", "amount": 10}, {"item": "bilyvanium", "amount": 6}, {"item": "nybinium", "amount": 3}], "research": "fure-conduit", "category": "liquid", "liquidCapacity": 61116, "hasLiquids": true}

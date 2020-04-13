@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small veniga battery", "description": "...", "size": 1, "health": 12, "requirements": [{"item": "veniga", "amount": 8}, {"item": "fenulanium", "amount": 12}, {"item": "qyry", "amount": 10}], "research": "veniga-factory", "consumes": {"powerBuffered": 2884}, "category": "power"}

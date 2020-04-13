@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tate liquid tank", "description": "...", "health": 130, "size": 3, "requirements": [{"item": "tate", "amount": 15}, {"item": "gifonium", "amount": 4}, {"item": "qubyra", "amount": 10}], "research": "tate-conduit", "category": "liquid", "liquidCapacity": 61447, "hasLiquids": true}

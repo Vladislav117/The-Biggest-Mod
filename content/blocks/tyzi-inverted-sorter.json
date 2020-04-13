@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tyzi inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "tyzi", "amount": 5}, {"item": "nogocynium", "amount": 5}], "research": "tyzi-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tyki power node", "description": "...", "size": 2, "health": 392, "requirements": [{"item": "tyki", "amount": 12}, {"item": "dyhyzy", "amount": 20}, {"item": "yihyxi", "amount": 1}], "research": "tyki-factory", "maxNodes": 55, "laserRange": 18, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small veru solar panel", "description": "...", "size": 1, "health": 197, "requirements": [{"item": "veru", "amount": 7}, {"item": "vevudinium", "amount": 5}, {"item": "lepe", "amount": 5}], "research": "veru-factory", "powerProduction": 10.636874417066602, "category": "power"}

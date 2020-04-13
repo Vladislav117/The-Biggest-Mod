@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vysuga battery", "description": "...", "size": 1, "health": 383, "requirements": [{"item": "vysuga", "amount": 4}, {"item": "siceku", "amount": 7}, {"item": "moye", "amount": 2}], "research": "vysuga-factory", "consumes": {"powerBuffered": 2707}, "category": "power"}

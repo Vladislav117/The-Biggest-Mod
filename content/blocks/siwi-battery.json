@@ -1,0 +1,1 @@
+{"type": "battery", "name": "siwi battery", "description": "...", "size": 3, "health": 337, "requirements": [{"item": "siwi", "amount": 11}, {"item": "lepe", "amount": 12}, {"item": "cokigo", "amount": 8}], "research": "siwi-factory", "consumes": {"powerBuffered": 1918}, "category": "power"}

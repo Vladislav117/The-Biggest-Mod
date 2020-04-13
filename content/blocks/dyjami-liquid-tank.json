@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dyjami liquid tank", "description": "...", "health": 575, "size": 3, "requirements": [{"item": "dyjami", "amount": 6}, {"item": "velewo", "amount": 17}, {"item": "jeyanium", "amount": 1}], "research": "dyjami-conduit", "category": "liquid", "liquidCapacity": 32647, "hasLiquids": true}

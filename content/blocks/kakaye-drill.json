@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kakaye drill", "description": "...", "size": 3, "health": 177, "tier": 2, "drillTime": 17, "consumes": {"power": 11}, "requirements": [{"item": "kakaye", "amount": 15}, {"item": "wycumu", "amount": 2}, {"item": "picika", "amount": 8}], "research": "kakaye-factory", "category": "production"}

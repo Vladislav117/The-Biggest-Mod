@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nyli battery", "description": "...", "size": 3, "health": 57, "requirements": [{"item": "nyli", "amount": 1}, {"item": "nota", "amount": 18}, {"item": "judu", "amount": 1}], "research": "nyli-factory", "consumes": {"powerBuffered": 1534}, "category": "power"}

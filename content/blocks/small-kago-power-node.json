@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kago power node", "description": "...", "size": 1, "health": 174, "requirements": [{"item": "kago", "amount": 12}, {"item": "fuwo", "amount": 3}, {"item": "sonydu", "amount": 10}], "research": "kago-factory", "maxNodes": 18, "laserRange": 18, "category": "power"}

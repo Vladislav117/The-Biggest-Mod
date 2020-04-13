@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "homu conduit", "description": "...", "health": 113, "requirements": [{"item": "homu", "amount": 20}, {"item": "vaso", "amount": 9}, {"item": "vego", "amount": 8}], "liquidCapacity": 39, "liquidPressure": 0, "research": "homu-factory", "category": "liquid"}

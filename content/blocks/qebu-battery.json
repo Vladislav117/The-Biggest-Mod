@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qebu battery", "description": "...", "size": 3, "health": 60, "requirements": [{"item": "qebu", "amount": 15}, {"item": "joky", "amount": 14}, {"item": "lufe", "amount": 7}], "research": "qebu-factory", "consumes": {"powerBuffered": 8238}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lijanium solar panel", "description": "...", "size": 1, "health": 345, "requirements": [{"item": "lijanium", "amount": 20}, {"item": "vodico", "amount": 15}, {"item": "xofa", "amount": 2}], "research": "lijanium-factory", "powerProduction": 0.09784028098325957, "category": "power"}

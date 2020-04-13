@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rafikanium underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "rafikanium", "amount": 5}, {"item": "sylumo", "amount": 4}], "research": "rafikanium-conveyor", "category": "distribution", "invert": false}

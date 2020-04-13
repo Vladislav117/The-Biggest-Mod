@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small juqaqi solar panel", "description": "...", "size": 1, "health": 141, "requirements": [{"item": "juqaqi", "amount": 1}, {"item": "lyjenium", "amount": 2}, {"item": "tebi", "amount": 8}], "research": "juqaqi-factory", "powerProduction": 1.4548757611684455, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xilo bridge conveyor", "description": "", "health": 37, "range": 18, "speed": 18, "bufferCapacity": 18, "requirements": [{"item": "xilo", "amount": 1}, {"item": "lemoqa", "amount": 4}], "research": "xilo-conveyor", "category": "distribution", "size": 1}

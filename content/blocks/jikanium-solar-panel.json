@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jikanium solar panel", "description": "...", "size": 3, "health": 213, "requirements": [{"item": "jikanium", "amount": 11}, {"item": "wesyko", "amount": 6}, {"item": "vufinium", "amount": 10}], "research": "jikanium-factory", "powerProduction": 0.13399477291030157, "category": "power"}

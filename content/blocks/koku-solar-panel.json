@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "koku solar panel", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "koku", "amount": 9}, {"item": "qegu", "amount": 1}, {"item": "poviye", "amount": 8}], "research": "koku-factory", "powerProduction": 3.1417290247561573, "category": "power"}

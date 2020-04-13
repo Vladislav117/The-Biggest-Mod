@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small falo solar panel", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "falo", "amount": 2}, {"item": "nyma", "amount": 17}, {"item": "qopaye", "amount": 7}], "research": "falo-factory", "powerProduction": 0.8404830733337373, "category": "power"}

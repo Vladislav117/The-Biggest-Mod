@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nexojo underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "nexojo", "amount": 2}, {"item": "layi", "amount": 4}], "research": "nexojo-conveyor", "category": "distribution", "invert": false}

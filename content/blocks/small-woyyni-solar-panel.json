@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small woyyni solar panel", "description": "...", "size": 1, "health": 249, "requirements": [{"item": "woyyni", "amount": 15}, {"item": "hoze", "amount": 16}, {"item": "jyreki", "amount": 3}], "research": "woyyni-factory", "powerProduction": 0.5446040376912377, "category": "power"}

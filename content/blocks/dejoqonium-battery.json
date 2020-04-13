@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dejoqonium battery", "description": "...", "size": 3, "health": 242, "requirements": [{"item": "dejoqonium", "amount": 16}, {"item": "fogodo", "amount": 12}, {"item": "lyru", "amount": 7}], "research": "dejoqonium-factory", "consumes": {"powerBuffered": 826}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zyzo power node", "description": "...", "size": 2, "health": 515, "requirements": [{"item": "zyzo", "amount": 14}, {"item": "xype", "amount": 16}, {"item": "zeqonium", "amount": 10}], "research": "zyzo-factory", "maxNodes": 35, "laserRange": 6, "category": "power"}

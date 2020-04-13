@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cifo conduit", "description": "...", "health": 139, "requirements": [{"item": "cifo", "amount": 5}, {"item": "hysobe", "amount": 12}, {"item": "mefymanium", "amount": 4}], "liquidCapacity": 14, "liquidPressure": 9, "research": "cifo-factory", "category": "liquid"}

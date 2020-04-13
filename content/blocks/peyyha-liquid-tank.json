@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "peyyha liquid tank", "description": "...", "health": 578, "size": 3, "requirements": [{"item": "peyyha", "amount": 15}, {"item": "puli", "amount": 8}, {"item": "halyqinium", "amount": 3}], "research": "peyyha-conduit", "category": "liquid", "liquidCapacity": 1919, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qiri solar panel", "description": "...", "size": 3, "health": 157, "requirements": [{"item": "qiri", "amount": 9}, {"item": "xeza", "amount": 3}, {"item": "vosamo", "amount": 9}], "research": "qiri-factory", "powerProduction": 0.3214750746735737, "category": "power"}

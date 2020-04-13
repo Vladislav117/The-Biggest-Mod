@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jumozo inverted sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "jumozo", "amount": 5}, {"item": "miluze", "amount": 3}], "research": "jumozo-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kivuzi battery", "description": "...", "size": 3, "health": 232, "requirements": [{"item": "kivuzi", "amount": 4}, {"item": "magu", "amount": 6}, {"item": "bumaqa", "amount": 9}], "research": "kivuzi-factory", "consumes": {"powerBuffered": 8904}, "category": "power"}

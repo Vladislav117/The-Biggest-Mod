@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small huxydi power node", "description": "...", "size": 1, "health": 366, "requirements": [{"item": "huxydi", "amount": 15}, {"item": "decifonium", "amount": 9}, {"item": "xyfi", "amount": 10}], "research": "huxydi-factory", "maxNodes": 27, "laserRange": 20, "category": "power"}

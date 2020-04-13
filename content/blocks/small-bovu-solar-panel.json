@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bovu solar panel", "description": "...", "size": 1, "health": 246, "requirements": [{"item": "bovu", "amount": 10}, {"item": "ryhi", "amount": 13}, {"item": "cavyjo", "amount": 4}], "research": "bovu-factory", "powerProduction": 0.5384928961139914, "category": "power"}

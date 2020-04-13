@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small daziha battery", "description": "...", "size": 1, "health": 290, "requirements": [{"item": "daziha", "amount": 9}, {"item": "qegiqe", "amount": 6}, {"item": "pigydinium", "amount": 2}], "research": "daziha-factory", "consumes": {"powerBuffered": 2007}, "category": "power"}

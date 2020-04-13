@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xedorinium liquid tank", "description": "...", "health": 466, "size": 3, "requirements": [{"item": "xedorinium", "amount": 20}, {"item": "bilyvanium", "amount": 1}, {"item": "lyru", "amount": 9}], "research": "xedorinium-conduit", "category": "liquid", "liquidCapacity": 25385, "hasLiquids": true}

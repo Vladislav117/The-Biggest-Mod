@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tisanium solar panel", "description": "...", "size": 1, "health": 275, "requirements": [{"item": "tisanium", "amount": 20}, {"item": "hudolo", "amount": 16}, {"item": "nijuto", "amount": 8}], "research": "tisanium-factory", "powerProduction": 0.7207603984063367, "category": "power"}

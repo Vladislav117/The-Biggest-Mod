@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small darunium power node", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "darunium", "amount": 14}, {"item": "kohi", "amount": 9}, {"item": "nitinium", "amount": 2}], "research": "darunium-factory", "maxNodes": 15, "laserRange": 22, "category": "power"}

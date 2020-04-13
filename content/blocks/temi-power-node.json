@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "temi power node", "description": "...", "size": 2, "health": 655, "requirements": [{"item": "temi", "amount": 14}, {"item": "qepusenium", "amount": 8}, {"item": "mityya", "amount": 1}], "research": "temi-factory", "maxNodes": 12, "laserRange": 6, "category": "power"}

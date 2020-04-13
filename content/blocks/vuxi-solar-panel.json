@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vuxi solar panel", "description": "...", "size": 3, "health": 109, "requirements": [{"item": "vuxi", "amount": 12}, {"item": "lora", "amount": 9}, {"item": "ryqaje", "amount": 5}], "research": "vuxi-factory", "powerProduction": 3.7493878200379163, "category": "power"}

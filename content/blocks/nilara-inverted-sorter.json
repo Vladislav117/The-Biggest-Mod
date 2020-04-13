@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nilara inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "nilara", "amount": 5}, {"item": "jyxexi", "amount": 1}], "research": "nilara-conveyor", "category": "distribution", "invert": true}

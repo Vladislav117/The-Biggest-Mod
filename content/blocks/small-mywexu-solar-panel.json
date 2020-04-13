@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mywexu solar panel", "description": "...", "size": 1, "health": 180, "requirements": [{"item": "mywexu", "amount": 18}, {"item": "vykofa", "amount": 10}, {"item": "jylovo", "amount": 4}], "research": "mywexu-factory", "powerProduction": 3.6613576566139714, "category": "power"}

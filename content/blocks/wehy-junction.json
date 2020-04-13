@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wehy junction", "description": "...", "health": 22, "speed": 1, "capacity": 5, "size": 1, "requirements": [{"item": "wehy", "amount": 5}, {"item": "nuso", "amount": 5}], "research": "wehy-conveyor", "category": "distribution"}

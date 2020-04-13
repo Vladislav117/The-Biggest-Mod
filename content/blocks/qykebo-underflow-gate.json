@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qykebo underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "qykebo", "amount": 1}, {"item": "zefu", "amount": 2}], "research": "qykebo-conveyor", "category": "distribution", "invert": false}

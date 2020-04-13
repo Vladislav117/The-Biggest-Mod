@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "doge liquid tank", "description": "...", "health": 471, "size": 3, "requirements": [{"item": "doge", "amount": 20}, {"item": "xyfynium", "amount": 4}, {"item": "yodo", "amount": 3}], "research": "doge-conduit", "category": "liquid", "liquidCapacity": 70114, "hasLiquids": true}

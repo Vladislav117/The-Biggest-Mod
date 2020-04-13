@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pygi liquid router", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "pygi", "amount": 18}, {"item": "lafetu", "amount": 2}, {"item": "jayycu", "amount": 2}], "research": "pygi-conduit", "liquidCapacity": 10, "category": "liquid"}

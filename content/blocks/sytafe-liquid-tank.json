@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sytafe liquid tank", "description": "...", "health": 461, "size": 3, "requirements": [{"item": "sytafe", "amount": 14}, {"item": "mefymanium", "amount": 11}, {"item": "silicon", "amount": 10}], "research": "sytafe-conduit", "category": "liquid", "liquidCapacity": 60604, "hasLiquids": true}

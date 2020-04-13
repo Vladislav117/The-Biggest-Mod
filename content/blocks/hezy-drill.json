@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hezy drill", "description": "...", "size": 4, "health": 102, "tier": 1, "drillTime": 17, "consumes": {"power": 18}, "requirements": [{"item": "hezy", "amount": 18}, {"item": "fyqexo", "amount": 4}, {"item": "qaya", "amount": 2}], "research": "hezy-factory", "category": "production"}

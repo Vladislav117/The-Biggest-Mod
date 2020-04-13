@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ryheco power node", "description": "...", "size": 2, "health": 311, "requirements": [{"item": "ryheco", "amount": 20}, {"item": "ruryjynium", "amount": 16}, {"item": "makonium", "amount": 5}], "research": "ryheco-factory", "maxNodes": 14, "laserRange": 30, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xedo sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "xedo", "amount": 4}, {"item": "tanexo", "amount": 1}], "research": "xedo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wofu liquid router", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "wofu", "amount": 13}, {"item": "bocu", "amount": 16}, {"item": "gomaly", "amount": 5}], "research": "wofu-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lory power node", "description": "...", "size": 1, "health": 370, "requirements": [{"item": "lory", "amount": 18}, {"item": "jevufu", "amount": 20}, {"item": "puqege", "amount": 1}], "research": "lory-factory", "maxNodes": 22, "laserRange": 24, "category": "power"}

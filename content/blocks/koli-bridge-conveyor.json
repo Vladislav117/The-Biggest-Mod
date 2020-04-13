@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "koli bridge conveyor", "description": "", "health": 32, "range": 18, "speed": 3, "bufferCapacity": 14, "requirements": [{"item": "koli", "amount": 4}, {"item": "vemame", "amount": 2}], "research": "koli-conveyor", "category": "distribution", "size": 1}

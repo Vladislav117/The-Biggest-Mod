@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gada liquid router", "description": "...", "size": 1, "health": 35, "requirements": [{"item": "gada", "amount": 9}, {"item": "yezaku", "amount": 10}, {"item": "nevyle", "amount": 6}], "research": "gada-conduit", "liquidCapacity": 10, "category": "liquid"}

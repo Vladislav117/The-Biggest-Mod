@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qegynium drill", "description": "...", "size": 2, "health": 450, "tier": 4, "drillTime": 20, "consumes": {"power": 15}, "requirements": [{"item": "qegynium", "amount": 10}, {"item": "miqomy", "amount": 2}, {"item": "fifyru", "amount": 2}], "research": "qegynium-factory", "category": "production"}

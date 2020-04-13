@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xuxevunium solar panel", "description": "...", "size": 3, "health": 47, "requirements": [{"item": "xuxevunium", "amount": 19}, {"item": "give", "amount": 17}, {"item": "zexinium", "amount": 6}], "research": "xuxevunium-factory", "powerProduction": 3.584331996790277, "category": "power"}

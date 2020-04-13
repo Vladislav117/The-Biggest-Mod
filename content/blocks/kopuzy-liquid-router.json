@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kopuzy liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "kopuzy", "amount": 5}, {"item": "cumo", "amount": 7}, {"item": "gybi", "amount": 10}], "research": "kopuzy-conduit", "liquidCapacity": 10, "category": "liquid"}

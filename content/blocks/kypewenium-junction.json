@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kypewenium junction", "description": "...", "health": 35, "speed": 3, "capacity": 15, "size": 1, "requirements": [{"item": "kypewenium", "amount": 4}, {"item": "gawazy", "amount": 5}], "research": "kypewenium-conveyor", "category": "distribution"}

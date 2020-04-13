@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dugy solar panel", "description": "...", "size": 3, "health": 247, "requirements": [{"item": "dugy", "amount": 15}, {"item": "fupymi", "amount": 8}, {"item": "cygyya", "amount": 5}], "research": "dugy-factory", "powerProduction": 1.2781832174056431, "category": "power"}

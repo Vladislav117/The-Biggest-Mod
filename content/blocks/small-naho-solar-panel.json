@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small naho solar panel", "description": "...", "size": 1, "health": 132, "requirements": [{"item": "naho", "amount": 15}, {"item": "walinium", "amount": 11}, {"item": "devo", "amount": 6}], "research": "naho-factory", "powerProduction": 13.656814903036132, "category": "power"}

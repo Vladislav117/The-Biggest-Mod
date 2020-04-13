@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "heda liquid tank", "description": "...", "health": 410, "size": 3, "requirements": [{"item": "heda", "amount": 9}, {"item": "fulyzynium", "amount": 9}, {"item": "huro", "amount": 8}], "research": "heda-conduit", "category": "liquid", "liquidCapacity": 109712, "hasLiquids": true}

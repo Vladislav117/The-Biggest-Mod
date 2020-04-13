@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lynaly bridge conveyor", "description": "", "health": 37, "range": 7, "speed": 6, "bufferCapacity": 18, "requirements": [{"item": "lynaly", "amount": 1}, {"item": "nejesu", "amount": 4}], "research": "lynaly-conveyor", "category": "distribution", "size": 1}

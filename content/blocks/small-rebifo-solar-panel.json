@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rebifo solar panel", "description": "...", "size": 1, "health": 301, "requirements": [{"item": "rebifo", "amount": 11}, {"item": "qyhoqa", "amount": 12}, {"item": "fusaji", "amount": 6}], "research": "rebifo-factory", "powerProduction": 0.010537281952351247, "category": "power"}

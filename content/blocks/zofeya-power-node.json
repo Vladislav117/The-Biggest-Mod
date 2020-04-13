@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zofeya power node", "description": "...", "size": 2, "health": 391, "requirements": [{"item": "zofeya", "amount": 7}, {"item": "humidu", "amount": 3}, {"item": "hixu", "amount": 4}], "research": "zofeya-factory", "maxNodes": 52, "laserRange": 5, "category": "power"}

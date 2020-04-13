@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "neqose overdrive projector", "description": "...", "health": 50, "consumes": {"power": 3.0, "item": "neqose"}, "size": 2, "requirements": [{"item": "neqose", "amount": 18}, {"item": "qekaye", "amount": 3}, {"item": "jupygu", "amount": 1}], "research": "neqose-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyfoqi liquid tank", "description": "...", "health": 123, "size": 3, "requirements": [{"item": "kyfoqi", "amount": 3}, {"item": "xekafu", "amount": 1}, {"item": "jytubinium", "amount": 1}], "research": "kyfoqi-conduit", "category": "liquid", "liquidCapacity": 64373, "hasLiquids": true}

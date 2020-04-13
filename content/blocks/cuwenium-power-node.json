@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cuwenium power node", "description": "...", "size": 2, "health": 504, "requirements": [{"item": "cuwenium", "amount": 11}, {"item": "naku", "amount": 1}, {"item": "mygenium", "amount": 8}], "research": "cuwenium-factory", "maxNodes": 42, "laserRange": 19, "category": "power"}

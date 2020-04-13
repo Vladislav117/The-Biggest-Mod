@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ziwa underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "ziwa", "amount": 3}, {"item": "joky", "amount": 5}], "research": "ziwa-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sokima inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "sokima", "amount": 1}, {"item": "ruzagi", "amount": 5}], "research": "sokima-conveyor", "category": "distribution", "invert": true}

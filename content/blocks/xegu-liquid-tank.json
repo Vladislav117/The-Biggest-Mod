@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xegu liquid tank", "description": "...", "health": 443, "size": 3, "requirements": [{"item": "xegu", "amount": 6}, {"item": "mivoky", "amount": 15}, {"item": "yeku", "amount": 10}], "research": "xegu-conduit", "category": "liquid", "liquidCapacity": 66977, "hasLiquids": true}

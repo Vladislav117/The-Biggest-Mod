@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gyge underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "gyge", "amount": 5}, {"item": "ribuge", "amount": 5}], "research": "gyge-conveyor", "category": "distribution", "invert": false}

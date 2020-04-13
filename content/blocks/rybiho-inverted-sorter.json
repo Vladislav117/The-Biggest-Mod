@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rybiho inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "rybiho", "amount": 5}, {"item": "pygu", "amount": 4}], "research": "rybiho-conveyor", "category": "distribution", "invert": true}

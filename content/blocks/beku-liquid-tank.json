@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "beku liquid tank", "description": "...", "health": 128, "size": 3, "requirements": [{"item": "beku", "amount": 20}, {"item": "yyku", "amount": 14}, {"item": "hohisi", "amount": 10}], "research": "beku-conduit", "category": "liquid", "liquidCapacity": 19112, "hasLiquids": true}

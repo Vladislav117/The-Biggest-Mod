@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ryve power node", "description": "...", "size": 2, "health": 736, "requirements": [{"item": "ryve", "amount": 11}, {"item": "sebobe", "amount": 3}, {"item": "tiwyna", "amount": 10}], "research": "ryve-factory", "maxNodes": 22, "laserRange": 22, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cahi underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "cahi", "amount": 2}, {"item": "vipinium", "amount": 4}], "research": "cahi-conveyor", "category": "distribution", "invert": false}

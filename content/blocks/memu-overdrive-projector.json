@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "memu overdrive projector", "description": "...", "health": 70, "consumes": {"power": 3.0, "item": "memu"}, "size": 2, "requirements": [{"item": "memu", "amount": 1}, {"item": "wypa", "amount": 14}, {"item": "fadakynium", "amount": 5}], "research": "memu-factory", "category": "effect"}

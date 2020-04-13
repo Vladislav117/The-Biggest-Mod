@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "muvelanium liquid tank", "description": "...", "health": 505, "size": 3, "requirements": [{"item": "muvelanium", "amount": 15}, {"item": "zixysinium", "amount": 2}, {"item": "vavaqi", "amount": 7}], "research": "muvelanium-conduit", "category": "liquid", "liquidCapacity": 119405, "hasLiquids": true}

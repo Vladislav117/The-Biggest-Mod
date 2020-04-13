@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "niho force projector", "description": "...", "health": 169, "size": 3, "consumes": {"power": 5.0, "item": "niho"}, "requirements": [{"item": "niho", "amount": 11}, {"item": "furiva", "amount": 18}, {"item": "vipoja", "amount": 4}], "research": "niho-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nileru solar panel", "description": "...", "size": 3, "health": 297, "requirements": [{"item": "nileru", "amount": 13}, {"item": "totiji", "amount": 2}, {"item": "peloronium", "amount": 1}], "research": "nileru-factory", "powerProduction": 3.2384010530747043, "category": "power"}

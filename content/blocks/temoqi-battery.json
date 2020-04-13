@@ -1,0 +1,1 @@
+{"type": "battery", "name": "temoqi battery", "description": "...", "size": 3, "health": 15, "requirements": [{"item": "temoqi", "amount": 4}, {"item": "liyu", "amount": 18}, {"item": "zoxa", "amount": 4}], "research": "temoqi-factory", "consumes": {"powerBuffered": 9709}, "category": "power"}

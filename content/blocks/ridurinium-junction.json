@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ridurinium junction", "description": "...", "health": 27, "speed": 11, "capacity": 2, "size": 1, "requirements": [{"item": "ridurinium", "amount": 4}, {"item": "rewunium", "amount": 4}], "research": "ridurinium-conveyor", "category": "distribution"}

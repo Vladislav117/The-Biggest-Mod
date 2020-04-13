@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "venuki overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "venuki", "amount": 3}, {"item": "giho", "amount": 5}], "research": "venuki-conveyor", "category": "distribution", "invert": false}

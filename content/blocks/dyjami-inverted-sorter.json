@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dyjami inverted sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "dyjami", "amount": 2}, {"item": "dabi", "amount": 2}], "research": "dyjami-conveyor", "category": "distribution", "invert": true}

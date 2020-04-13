@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wybenium inverted sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "wybenium", "amount": 4}, {"item": "webebu", "amount": 2}], "research": "wybenium-conveyor", "category": "distribution", "invert": true}

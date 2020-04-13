@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wuna underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "wuna", "amount": 5}, {"item": "piyovy", "amount": 2}], "research": "wuna-conveyor", "category": "distribution", "invert": false}

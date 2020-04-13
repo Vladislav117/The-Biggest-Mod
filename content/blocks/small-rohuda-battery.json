@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rohuda battery", "description": "...", "size": 1, "health": 200, "requirements": [{"item": "rohuda", "amount": 17}, {"item": "gyjaku", "amount": 3}, {"item": "jytubinium", "amount": 4}], "research": "rohuda-factory", "consumes": {"powerBuffered": 2834}, "category": "power"}

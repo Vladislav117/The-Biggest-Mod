@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sinawenium power node", "description": "...", "size": 2, "health": 747, "requirements": [{"item": "sinawenium", "amount": 6}, {"item": "watiju", "amount": 5}, {"item": "qiqo", "amount": 6}], "research": "sinawenium-factory", "maxNodes": 35, "laserRange": 14, "category": "power"}

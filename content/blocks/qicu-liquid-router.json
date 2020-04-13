@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qicu liquid router", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "qicu", "amount": 19}, {"item": "rutylo", "amount": 8}, {"item": "hyte", "amount": 4}], "research": "qicu-conduit", "liquidCapacity": 10, "category": "liquid"}

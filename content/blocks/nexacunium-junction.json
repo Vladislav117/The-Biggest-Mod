@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nexacunium junction", "description": "...", "health": 16, "speed": 9, "capacity": 16, "size": 1, "requirements": [{"item": "nexacunium", "amount": 1}, {"item": "cixe", "amount": 5}], "research": "nexacunium-conveyor", "category": "distribution"}

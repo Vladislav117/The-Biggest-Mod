@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small weju solar panel", "description": "...", "size": 1, "health": 213, "requirements": [{"item": "weju", "amount": 11}, {"item": "zawyjy", "amount": 15}, {"item": "mido", "amount": 2}], "research": "weju-factory", "powerProduction": 0.33225521088082816, "category": "power"}

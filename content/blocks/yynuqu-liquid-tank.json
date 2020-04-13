@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yynuqu liquid tank", "description": "...", "health": 165, "size": 3, "requirements": [{"item": "yynuqu", "amount": 4}, {"item": "jytubinium", "amount": 19}, {"item": "hiqeyi", "amount": 1}], "research": "yynuqu-conduit", "category": "liquid", "liquidCapacity": 60677, "hasLiquids": true}

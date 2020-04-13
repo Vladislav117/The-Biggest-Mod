@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "huci liquid tank", "description": "...", "health": 538, "size": 3, "requirements": [{"item": "huci", "amount": 11}, {"item": "vevati", "amount": 7}, {"item": "xydy", "amount": 4}], "research": "huci-conduit", "category": "liquid", "liquidCapacity": 108851, "hasLiquids": true}

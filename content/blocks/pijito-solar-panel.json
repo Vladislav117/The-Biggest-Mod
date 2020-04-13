@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pijito solar panel", "description": "...", "size": 3, "health": 33, "requirements": [{"item": "pijito", "amount": 13}, {"item": "gybu", "amount": 15}, {"item": "waka", "amount": 2}], "research": "pijito-factory", "powerProduction": 0.12348784943832164, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hytoly drill", "description": "...", "size": 3, "health": 436, "tier": 3, "drillTime": 9, "consumes": {"power": 2}, "requirements": [{"item": "hytoly", "amount": 7}, {"item": "nigucy", "amount": 9}, {"item": "makajo", "amount": 3}], "research": "hytoly-factory", "category": "production"}

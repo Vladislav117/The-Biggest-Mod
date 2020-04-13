@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wohunium conduit", "description": "...", "health": 105, "requirements": [{"item": "wohunium", "amount": 18}, {"item": "redo", "amount": 5}, {"item": "tobaqy", "amount": 4}], "liquidCapacity": 8, "liquidPressure": 1, "research": "wohunium-factory", "category": "liquid"}

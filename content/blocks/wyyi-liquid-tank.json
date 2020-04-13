@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wyyi liquid tank", "description": "...", "health": 568, "size": 3, "requirements": [{"item": "wyyi", "amount": 12}, {"item": "kule", "amount": 17}, {"item": "giho", "amount": 4}], "research": "wyyi-conduit", "category": "liquid", "liquidCapacity": 103392, "hasLiquids": true}

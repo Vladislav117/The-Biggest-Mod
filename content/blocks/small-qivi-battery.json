@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qivi battery", "description": "...", "size": 1, "health": 303, "requirements": [{"item": "qivi", "amount": 15}, {"item": "gyduyi", "amount": 11}, {"item": "kani", "amount": 10}], "research": "qivi-factory", "consumes": {"powerBuffered": 1639}, "category": "power"}

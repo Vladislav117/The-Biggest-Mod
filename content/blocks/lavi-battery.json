@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lavi battery", "description": "...", "size": 3, "health": 386, "requirements": [{"item": "lavi", "amount": 1}, {"item": "cidenium", "amount": 19}, {"item": "mibunium", "amount": 4}], "research": "lavi-factory", "consumes": {"powerBuffered": 4632}, "category": "power"}

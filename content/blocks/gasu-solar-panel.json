@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gasu solar panel", "description": "...", "size": 3, "health": 66, "requirements": [{"item": "gasu", "amount": 18}, {"item": "jihanium", "amount": 3}, {"item": "lyzy", "amount": 3}], "research": "gasu-factory", "powerProduction": 0.03466247045214621, "category": "power"}

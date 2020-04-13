@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "byficy underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "byficy", "amount": 1}, {"item": "donysenium", "amount": 1}], "research": "byficy-conveyor", "category": "distribution", "invert": false}

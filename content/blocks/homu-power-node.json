@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "homu power node", "description": "...", "size": 2, "health": 44, "requirements": [{"item": "homu", "amount": 10}, {"item": "roky", "amount": 13}, {"item": "dugi", "amount": 6}], "research": "homu-factory", "maxNodes": 39, "laserRange": 9, "category": "power"}

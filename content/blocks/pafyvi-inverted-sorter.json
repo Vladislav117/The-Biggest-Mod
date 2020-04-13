@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pafyvi inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "pafyvi", "amount": 3}, {"item": "tanaxi", "amount": 1}], "research": "pafyvi-conveyor", "category": "distribution", "invert": true}

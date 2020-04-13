@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jere conduit", "description": "...", "health": 39, "requirements": [{"item": "jere", "amount": 8}, {"item": "luta", "amount": 10}, {"item": "vykynium", "amount": 8}], "liquidCapacity": 31, "liquidPressure": 8, "research": "jere-factory", "category": "liquid"}

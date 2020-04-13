@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pyce power node", "description": "...", "size": 2, "health": 131, "requirements": [{"item": "pyce", "amount": 7}, {"item": "hiki", "amount": 19}, {"item": "phase-fabric", "amount": 8}], "research": "pyce-factory", "maxNodes": 45, "laserRange": 11, "category": "power"}

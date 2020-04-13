@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tepe battery", "description": "...", "size": 1, "health": 375, "requirements": [{"item": "tepe", "amount": 18}, {"item": "liny", "amount": 14}, {"item": "rape", "amount": 6}], "research": "tepe-factory", "consumes": {"powerBuffered": 252}, "category": "power"}

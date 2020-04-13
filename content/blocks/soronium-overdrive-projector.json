@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "soronium overdrive projector", "description": "...", "health": 71, "consumes": {"power": 3.0, "item": "soronium"}, "size": 2, "requirements": [{"item": "soronium", "amount": 17}, {"item": "yikynium", "amount": 6}, {"item": "nynoyu", "amount": 8}], "research": "soronium-factory", "category": "effect"}

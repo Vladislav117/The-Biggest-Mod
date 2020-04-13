@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qenu liquid router", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "qenu", "amount": 17}, {"item": "vuxi", "amount": 19}, {"item": "sayo", "amount": 2}], "research": "qenu-conduit", "liquidCapacity": 10, "category": "liquid"}

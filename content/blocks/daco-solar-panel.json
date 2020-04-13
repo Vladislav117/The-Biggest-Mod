@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "daco solar panel", "description": "...", "size": 3, "health": 335, "requirements": [{"item": "daco", "amount": 1}, {"item": "zekenium", "amount": 13}, {"item": "baguyu", "amount": 4}], "research": "daco-factory", "powerProduction": 0.703349534431622, "category": "power"}

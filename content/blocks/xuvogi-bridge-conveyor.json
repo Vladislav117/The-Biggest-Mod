@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xuvogi bridge conveyor", "description": "", "health": 11, "range": 13, "speed": 9, "bufferCapacity": 1, "requirements": [{"item": "xuvogi", "amount": 5}, {"item": "hogazanium", "amount": 3}], "research": "xuvogi-conveyor", "category": "distribution", "size": 1}

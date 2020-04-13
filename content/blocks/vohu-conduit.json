@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vohu conduit", "description": "...", "health": 68, "requirements": [{"item": "vohu", "amount": 2}, {"item": "wovi", "amount": 1}, {"item": "dubi", "amount": 7}], "liquidCapacity": 42, "liquidPressure": 1, "research": "vohu-factory", "category": "liquid"}

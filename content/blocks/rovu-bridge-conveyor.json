@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rovu bridge conveyor", "description": "", "health": 42, "range": 12, "speed": 18, "bufferCapacity": 6, "requirements": [{"item": "rovu", "amount": 3}, {"item": "cifo", "amount": 1}], "research": "rovu-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mabyra battery", "description": "...", "size": 3, "health": 292, "requirements": [{"item": "mabyra", "amount": 5}, {"item": "sedowe", "amount": 1}, {"item": "kizywanium", "amount": 7}], "research": "mabyra-factory", "consumes": {"powerBuffered": 826}, "category": "power"}

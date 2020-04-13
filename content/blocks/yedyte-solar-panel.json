@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yedyte solar panel", "description": "...", "size": 3, "health": 364, "requirements": [{"item": "yedyte", "amount": 7}, {"item": "ryzyzi", "amount": 17}, {"item": "rajubanium", "amount": 8}], "research": "yedyte-factory", "powerProduction": 5.059879698279498, "category": "power"}

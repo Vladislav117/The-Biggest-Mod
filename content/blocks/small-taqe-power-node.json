@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small taqe power node", "description": "...", "size": 1, "health": 115, "requirements": [{"item": "taqe", "amount": 12}, {"item": "sexinium", "amount": 13}, {"item": "mapanium", "amount": 1}], "research": "taqe-factory", "maxNodes": 11, "laserRange": 5, "category": "power"}

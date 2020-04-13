@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jege battery", "description": "...", "size": 3, "health": 299, "requirements": [{"item": "jege", "amount": 4}, {"item": "bosuvynium", "amount": 11}, {"item": "dakiqu", "amount": 5}], "research": "jege-factory", "consumes": {"powerBuffered": 5908}, "category": "power"}

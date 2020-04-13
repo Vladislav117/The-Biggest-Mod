@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hifu power node", "description": "...", "size": 2, "health": 61, "requirements": [{"item": "hifu", "amount": 7}, {"item": "miluze", "amount": 5}, {"item": "pyqaso", "amount": 5}], "research": "hifu-factory", "maxNodes": 57, "laserRange": 23, "category": "power"}

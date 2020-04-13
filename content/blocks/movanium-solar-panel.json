@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "movanium solar panel", "description": "...", "size": 3, "health": 370, "requirements": [{"item": "movanium", "amount": 17}, {"item": "maku", "amount": 2}, {"item": "ceciba", "amount": 10}], "research": "movanium-factory", "powerProduction": 11.296268380853022, "category": "power"}

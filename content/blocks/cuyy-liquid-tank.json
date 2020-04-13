@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuyy liquid tank", "description": "...", "health": 565, "size": 3, "requirements": [{"item": "cuyy", "amount": 17}, {"item": "ravyku", "amount": 20}, {"item": "yeby", "amount": 8}], "research": "cuyy-conduit", "category": "liquid", "liquidCapacity": 87099, "hasLiquids": true}

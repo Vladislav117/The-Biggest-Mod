@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "getolu drill", "description": "...", "size": 3, "health": 255, "tier": 2, "drillTime": 19, "consumes": {"power": 1}, "requirements": [{"item": "getolu", "amount": 8}, {"item": "hugive", "amount": 2}, {"item": "sosi", "amount": 7}], "research": "getolu-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lubaco conduit", "description": "...", "health": 66, "requirements": [{"item": "lubaco", "amount": 19}, {"item": "minuna", "amount": 4}, {"item": "moro", "amount": 7}], "liquidCapacity": 30, "liquidPressure": 4, "research": "lubaco-factory", "category": "liquid"}

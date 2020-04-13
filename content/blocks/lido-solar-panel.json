@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lido solar panel", "description": "...", "size": 3, "health": 224, "requirements": [{"item": "lido", "amount": 16}, {"item": "cafe", "amount": 17}, {"item": "sozi", "amount": 9}], "research": "lido-factory", "powerProduction": 0.2508122633780327, "category": "power"}

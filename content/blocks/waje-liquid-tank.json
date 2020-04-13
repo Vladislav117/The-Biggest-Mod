@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "waje liquid tank", "description": "...", "health": 412, "size": 3, "requirements": [{"item": "waje", "amount": 19}, {"item": "feqy", "amount": 17}, {"item": "dywo", "amount": 3}], "research": "waje-conduit", "category": "liquid", "liquidCapacity": 47247, "hasLiquids": true}

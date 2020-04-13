@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jepumi junction", "description": "...", "health": 7, "speed": 20, "capacity": 7, "size": 1, "requirements": [{"item": "jepumi", "amount": 1}, {"item": "yupo", "amount": 1}], "research": "jepumi-conveyor", "category": "distribution"}

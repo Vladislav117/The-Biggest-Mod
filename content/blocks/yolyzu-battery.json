@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yolyzu battery", "description": "...", "size": 3, "health": 242, "requirements": [{"item": "yolyzu", "amount": 7}, {"item": "degesy", "amount": 2}, {"item": "fyziro", "amount": 2}], "research": "yolyzu-factory", "consumes": {"powerBuffered": 5130}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yytusa junction", "description": "...", "health": 19, "speed": 9, "capacity": 13, "size": 1, "requirements": [{"item": "yytusa", "amount": 4}, {"item": "zyhaxo", "amount": 1}], "research": "yytusa-conveyor", "category": "distribution"}

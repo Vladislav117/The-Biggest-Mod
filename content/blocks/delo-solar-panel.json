@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "delo solar panel", "description": "...", "size": 3, "health": 351, "requirements": [{"item": "delo", "amount": 11}, {"item": "nymyginium", "amount": 4}, {"item": "qera", "amount": 3}], "research": "delo-factory", "powerProduction": 3.2070494779522587, "category": "power"}

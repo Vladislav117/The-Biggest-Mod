@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pamo underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "pamo", "amount": 2}, {"item": "lify", "amount": 2}], "research": "pamo-conveyor", "category": "distribution", "invert": false}

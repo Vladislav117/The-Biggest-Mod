@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xafeku bridge conveyor", "description": "", "health": 48, "range": 5, "speed": 3, "bufferCapacity": 7, "requirements": [{"item": "xafeku", "amount": 3}, {"item": "lyra", "amount": 2}], "research": "xafeku-conveyor", "category": "distribution", "size": 1}

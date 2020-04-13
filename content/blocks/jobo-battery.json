@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jobo battery", "description": "...", "size": 3, "health": 236, "requirements": [{"item": "jobo", "amount": 4}, {"item": "zowu", "amount": 16}, {"item": "yyva", "amount": 2}], "research": "jobo-factory", "consumes": {"powerBuffered": 4892}, "category": "power"}

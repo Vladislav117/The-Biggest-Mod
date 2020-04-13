@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vasu battery", "description": "...", "size": 3, "health": 179, "requirements": [{"item": "vasu", "amount": 16}, {"item": "xehy", "amount": 3}, {"item": "tydeja", "amount": 3}], "research": "vasu-factory", "consumes": {"powerBuffered": 3594}, "category": "power"}

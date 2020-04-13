@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "baguyu solar panel", "description": "...", "size": 3, "health": 307, "requirements": [{"item": "baguyu", "amount": 10}, {"item": "hudolo", "amount": 8}, {"item": "qujunium", "amount": 6}], "research": "baguyu-factory", "powerProduction": 0.902626660174718, "category": "power"}

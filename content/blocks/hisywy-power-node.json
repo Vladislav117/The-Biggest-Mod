@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hisywy power node", "description": "...", "size": 2, "health": 557, "requirements": [{"item": "hisywy", "amount": 14}, {"item": "kozypi", "amount": 8}, {"item": "ruwysu", "amount": 9}], "research": "hisywy-factory", "maxNodes": 39, "laserRange": 19, "category": "power"}

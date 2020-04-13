@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rocihy liquid tank", "description": "...", "health": 123, "size": 3, "requirements": [{"item": "rocihy", "amount": 6}, {"item": "huwydy", "amount": 10}, {"item": "lowapo", "amount": 7}], "research": "rocihy-conduit", "category": "liquid", "liquidCapacity": 51927, "hasLiquids": true}

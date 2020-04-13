@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bacone drill", "description": "...", "size": 2, "health": 278, "tier": 1, "drillTime": 18, "consumes": {"power": 12}, "requirements": [{"item": "bacone", "amount": 13}, {"item": "rutylo", "amount": 12}, {"item": "nayevynium", "amount": 4}], "research": "bacone-factory", "category": "production"}

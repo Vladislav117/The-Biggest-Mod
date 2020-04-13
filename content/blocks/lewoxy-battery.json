@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lewoxy battery", "description": "...", "size": 3, "health": 359, "requirements": [{"item": "lewoxy", "amount": 6}, {"item": "kaqa", "amount": 9}, {"item": "qimu", "amount": 3}], "research": "lewoxy-factory", "consumes": {"powerBuffered": 7879}, "category": "power"}

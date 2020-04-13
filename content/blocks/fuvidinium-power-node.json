@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fuvidinium power node", "description": "...", "size": 2, "health": 596, "requirements": [{"item": "fuvidinium", "amount": 9}, {"item": "bore", "amount": 3}, {"item": "suvi", "amount": 3}], "research": "fuvidinium-factory", "maxNodes": 58, "laserRange": 9, "category": "power"}

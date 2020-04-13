@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pymu junction", "description": "...", "health": 16, "speed": 4, "capacity": 18, "size": 1, "requirements": [{"item": "pymu", "amount": 1}, {"item": "hymonium", "amount": 5}], "research": "pymu-conveyor", "category": "distribution"}

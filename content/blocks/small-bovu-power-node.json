@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bovu power node", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "bovu", "amount": 7}, {"item": "begerynium", "amount": 9}, {"item": "moxi", "amount": 9}], "research": "bovu-factory", "maxNodes": 19, "laserRange": 18, "category": "power"}

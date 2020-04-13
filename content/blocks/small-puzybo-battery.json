@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small puzybo battery", "description": "...", "size": 1, "health": 390, "requirements": [{"item": "puzybo", "amount": 15}, {"item": "wulyso", "amount": 13}, {"item": "qyha", "amount": 10}], "research": "puzybo-factory", "consumes": {"powerBuffered": 2389}, "category": "power"}

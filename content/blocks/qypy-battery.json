@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qypy battery", "description": "...", "size": 3, "health": 103, "requirements": [{"item": "qypy", "amount": 14}, {"item": "hetuxo", "amount": 6}, {"item": "riro", "amount": 1}], "research": "qypy-factory", "consumes": {"powerBuffered": 2722}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gyporu inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "gyporu", "amount": 3}, {"item": "xoquge", "amount": 4}], "research": "gyporu-conveyor", "category": "distribution", "invert": true}

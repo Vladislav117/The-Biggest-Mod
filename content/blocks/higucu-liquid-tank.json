@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "higucu liquid tank", "description": "...", "health": 415, "size": 3, "requirements": [{"item": "higucu", "amount": 3}, {"item": "hewunium", "amount": 2}, {"item": "makajo", "amount": 3}], "research": "higucu-conduit", "category": "liquid", "liquidCapacity": 108245, "hasLiquids": true}

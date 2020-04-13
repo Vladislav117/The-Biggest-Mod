@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "diro conveyor", "description": "...", "health": 241, "requirements": [{"item": "diro", "amount": 6}, {"item": "pypy", "amount": 9}], "speed": 0.04235854099733055, "research": "diro-factory", "category": "distribution"}

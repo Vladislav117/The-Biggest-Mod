@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lolu bridge conveyor", "description": "", "health": 23, "range": 15, "speed": 13, "bufferCapacity": 7, "requirements": [{"item": "lolu", "amount": 2}, {"item": "hihunium", "amount": 2}], "research": "lolu-conveyor", "category": "distribution", "size": 1}

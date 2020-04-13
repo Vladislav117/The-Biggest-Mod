@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xilo underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "xilo", "amount": 1}, {"item": "fuji", "amount": 2}], "research": "xilo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small difu battery", "description": "...", "size": 1, "health": 153, "requirements": [{"item": "difu", "amount": 5}, {"item": "qiregynium", "amount": 6}, {"item": "fenu", "amount": 5}], "research": "difu-factory", "consumes": {"powerBuffered": 2438}, "category": "power"}

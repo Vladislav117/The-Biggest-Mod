@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mafapu sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "mafapu", "amount": 4}, {"item": "jepinium", "amount": 4}], "research": "mafapu-conveyor", "category": "distribution", "invert": false}

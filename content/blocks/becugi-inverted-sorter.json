@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "becugi inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "becugi", "amount": 1}, {"item": "wobuyu", "amount": 4}], "research": "becugi-conveyor", "category": "distribution", "invert": true}

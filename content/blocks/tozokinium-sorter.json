@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tozokinium sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "tozokinium", "amount": 3}, {"item": "seyuwa", "amount": 1}], "research": "tozokinium-conveyor", "category": "distribution", "invert": false}

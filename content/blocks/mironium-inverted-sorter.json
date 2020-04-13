@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mironium inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "mironium", "amount": 5}, {"item": "hyju", "amount": 4}], "research": "mironium-conveyor", "category": "distribution", "invert": true}

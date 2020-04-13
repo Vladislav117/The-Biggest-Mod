@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nudady inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "nudady", "amount": 4}, {"item": "cycu", "amount": 2}], "research": "nudady-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yisi solar panel", "description": "...", "size": 3, "health": 31, "requirements": [{"item": "yisi", "amount": 7}, {"item": "famynium", "amount": 11}, {"item": "qusy", "amount": 6}], "research": "yisi-factory", "powerProduction": 0.0919486090042342, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wulu liquid tank", "description": "...", "health": 353, "size": 3, "requirements": [{"item": "wulu", "amount": 13}, {"item": "hyna", "amount": 8}, {"item": "niqy", "amount": 2}], "research": "wulu-conduit", "category": "liquid", "liquidCapacity": 24555, "hasLiquids": true}

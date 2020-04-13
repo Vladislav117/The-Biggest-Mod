@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nimynium liquid tank", "description": "...", "health": 477, "size": 3, "requirements": [{"item": "nimynium", "amount": 15}, {"item": "nefuxa", "amount": 16}, {"item": "cupo", "amount": 7}], "research": "nimynium-conduit", "category": "liquid", "liquidCapacity": 33367, "hasLiquids": true}

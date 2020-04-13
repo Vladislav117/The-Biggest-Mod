@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nigynium power node", "description": "...", "size": 1, "health": 367, "requirements": [{"item": "nigynium", "amount": 17}, {"item": "syre", "amount": 18}, {"item": "wezu", "amount": 7}], "research": "nigynium-factory", "maxNodes": 26, "laserRange": 13, "category": "power"}

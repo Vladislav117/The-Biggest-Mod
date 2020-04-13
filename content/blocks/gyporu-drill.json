@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gyporu drill", "description": "...", "size": 2, "health": 394, "tier": 1, "drillTime": 6, "consumes": {"power": 15}, "requirements": [{"item": "gyporu", "amount": 20}, {"item": "gotomy", "amount": 17}, {"item": "cokigo", "amount": 4}], "research": "gyporu-factory", "category": "production"}

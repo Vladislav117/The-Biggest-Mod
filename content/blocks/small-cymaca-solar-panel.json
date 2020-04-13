@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cymaca solar panel", "description": "...", "size": 1, "health": 301, "requirements": [{"item": "cymaca", "amount": 12}, {"item": "silicon", "amount": 16}, {"item": "kubi", "amount": 2}], "research": "cymaca-factory", "powerProduction": 4.004416767355804, "category": "power"}

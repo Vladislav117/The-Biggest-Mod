@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kobocunium overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "kobocunium", "amount": 3}, {"item": "jeqidynium", "amount": 3}], "research": "kobocunium-conveyor", "category": "distribution", "invert": false}

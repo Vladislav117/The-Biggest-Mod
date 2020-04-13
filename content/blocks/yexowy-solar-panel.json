@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yexowy solar panel", "description": "...", "size": 3, "health": 235, "requirements": [{"item": "yexowy", "amount": 20}, {"item": "silicon", "amount": 4}, {"item": "migube", "amount": 7}], "research": "yexowy-factory", "powerProduction": 1.0156988946636498, "category": "power"}

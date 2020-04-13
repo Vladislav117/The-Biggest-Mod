@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pagopy conduit", "description": "...", "health": 27, "requirements": [{"item": "pagopy", "amount": 4}, {"item": "fygunium", "amount": 6}, {"item": "pucy", "amount": 5}], "liquidCapacity": 39, "liquidPressure": 8, "research": "pagopy-factory", "category": "liquid"}

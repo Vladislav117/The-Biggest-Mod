@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "libequnium liquid router", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "libequnium", "amount": 11}, {"item": "melula", "amount": 17}, {"item": "gokohunium", "amount": 1}], "research": "libequnium-conduit", "liquidCapacity": 10, "category": "liquid"}

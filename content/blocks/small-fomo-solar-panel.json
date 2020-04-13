@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fomo solar panel", "description": "...", "size": 1, "health": 360, "requirements": [{"item": "fomo", "amount": 18}, {"item": "pygu", "amount": 13}, {"item": "rovu", "amount": 4}], "research": "fomo-factory", "powerProduction": 2.147729415762029, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lynaly junction", "description": "...", "health": 11, "speed": 1, "capacity": 8, "size": 1, "requirements": [{"item": "lynaly", "amount": 1}, {"item": "yywy", "amount": 1}], "research": "lynaly-conveyor", "category": "distribution"}

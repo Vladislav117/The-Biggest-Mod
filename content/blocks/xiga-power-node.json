@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xiga power node", "description": "...", "size": 2, "health": 46, "requirements": [{"item": "xiga", "amount": 7}, {"item": "byhonium", "amount": 13}, {"item": "fusaji", "amount": 4}], "research": "xiga-factory", "maxNodes": 30, "laserRange": 7, "category": "power"}

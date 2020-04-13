@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "loho liquid tank", "description": "...", "health": 371, "size": 3, "requirements": [{"item": "loho", "amount": 11}, {"item": "jupygu", "amount": 17}, {"item": "jadyte", "amount": 4}], "research": "loho-conduit", "category": "liquid", "liquidCapacity": 12754, "hasLiquids": true}

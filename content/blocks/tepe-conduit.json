@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tepe conduit", "description": "...", "health": 110, "requirements": [{"item": "tepe", "amount": 8}, {"item": "pyce", "amount": 15}, {"item": "lexo", "amount": 6}], "liquidCapacity": 2, "liquidPressure": 10, "research": "tepe-factory", "category": "liquid"}

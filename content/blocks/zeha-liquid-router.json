@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zeha liquid router", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "zeha", "amount": 2}, {"item": "qokenium", "amount": 16}, {"item": "lowapo", "amount": 7}], "research": "zeha-conduit", "liquidCapacity": 10, "category": "liquid"}

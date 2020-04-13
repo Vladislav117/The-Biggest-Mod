@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tyno liquid tank", "description": "...", "health": 536, "size": 3, "requirements": [{"item": "tyno", "amount": 3}, {"item": "zokacu", "amount": 11}, {"item": "xutire", "amount": 3}], "research": "tyno-conduit", "category": "liquid", "liquidCapacity": 16418, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xaxe solar panel", "description": "...", "size": 3, "health": 70, "requirements": [{"item": "xaxe", "amount": 1}, {"item": "jahezu", "amount": 14}, {"item": "wiqa", "amount": 8}], "research": "xaxe-factory", "powerProduction": 4.64668017900141, "category": "power"}

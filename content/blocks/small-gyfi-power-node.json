@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gyfi power node", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "gyfi", "amount": 20}, {"item": "hyna", "amount": 10}, {"item": "pyzanium", "amount": 6}], "research": "gyfi-factory", "maxNodes": 12, "laserRange": 4, "category": "power"}

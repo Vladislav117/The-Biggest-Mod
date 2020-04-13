@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "qymanium force projector", "description": "...", "health": 197, "size": 3, "consumes": {"power": 5.0, "item": "qymanium"}, "requirements": [{"item": "qymanium", "amount": 14}, {"item": "ledome", "amount": 20}, {"item": "hixe", "amount": 10}], "research": "qymanium-factory", "category": "effect"}

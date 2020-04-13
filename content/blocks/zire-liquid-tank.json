@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zire liquid tank", "description": "...", "health": 652, "size": 3, "requirements": [{"item": "zire", "amount": 16}, {"item": "bomiry", "amount": 4}, {"item": "mityya", "amount": 8}], "research": "zire-conduit", "category": "liquid", "liquidCapacity": 80625, "hasLiquids": true}

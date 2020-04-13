@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qera conduit", "description": "...", "health": 157, "requirements": [{"item": "qera", "amount": 14}, {"item": "yuno", "amount": 11}, {"item": "birynium", "amount": 8}], "liquidCapacity": 15, "liquidPressure": 1, "research": "qera-factory", "category": "liquid"}

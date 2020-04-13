@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "zenuwunium force projector", "description": "...", "health": 236, "size": 3, "consumes": {"power": 5.0, "item": "zenuwunium"}, "requirements": [{"item": "zenuwunium", "amount": 18}, {"item": "wigyre", "amount": 10}, {"item": "gago", "amount": 3}], "research": "zenuwunium-factory", "category": "effect"}

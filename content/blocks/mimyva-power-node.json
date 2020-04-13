@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mimyva power node", "description": "...", "size": 2, "health": 337, "requirements": [{"item": "mimyva", "amount": 8}, {"item": "nejunium", "amount": 7}, {"item": "memu", "amount": 7}], "research": "mimyva-factory", "maxNodes": 25, "laserRange": 15, "category": "power"}

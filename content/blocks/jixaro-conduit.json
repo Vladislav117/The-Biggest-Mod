@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jixaro conduit", "description": "...", "health": 45, "requirements": [{"item": "jixaro", "amount": 11}, {"item": "liku", "amount": 14}, {"item": "nunaby", "amount": 3}], "liquidCapacity": 27, "liquidPressure": 3, "research": "jixaro-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zori battery", "description": "...", "size": 1, "health": 378, "requirements": [{"item": "zori", "amount": 9}, {"item": "qasysi", "amount": 15}, {"item": "xysu", "amount": 2}], "research": "zori-factory", "consumes": {"powerBuffered": 1241}, "category": "power"}

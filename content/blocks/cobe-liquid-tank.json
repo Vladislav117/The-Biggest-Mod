@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cobe liquid tank", "description": "...", "health": 415, "size": 3, "requirements": [{"item": "cobe", "amount": 1}, {"item": "qukeso", "amount": 19}, {"item": "yezaku", "amount": 2}], "research": "cobe-conduit", "category": "liquid", "liquidCapacity": 73428, "hasLiquids": true}

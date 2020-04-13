@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pucinium bridge conveyor", "description": "", "health": 23, "range": 18, "speed": 1, "bufferCapacity": 10, "requirements": [{"item": "pucinium", "amount": 4}, {"item": "rine", "amount": 3}], "research": "pucinium-conveyor", "category": "distribution", "size": 1}

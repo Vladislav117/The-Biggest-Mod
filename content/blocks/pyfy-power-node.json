@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pyfy power node", "description": "...", "size": 2, "health": 238, "requirements": [{"item": "pyfy", "amount": 3}, {"item": "mapyxa", "amount": 1}, {"item": "vole", "amount": 6}], "research": "pyfy-factory", "maxNodes": 50, "laserRange": 15, "category": "power"}

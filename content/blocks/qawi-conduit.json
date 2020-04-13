@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qawi conduit", "description": "...", "health": 99, "requirements": [{"item": "qawi", "amount": 16}, {"item": "yirere", "amount": 6}, {"item": "mylenium", "amount": 10}], "liquidCapacity": 28, "liquidPressure": 6, "research": "qawi-factory", "category": "liquid"}

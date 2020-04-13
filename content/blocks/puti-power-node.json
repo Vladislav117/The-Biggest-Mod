@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "puti power node", "description": "...", "size": 2, "health": 689, "requirements": [{"item": "puti", "amount": 13}, {"item": "xudujy", "amount": 3}, {"item": "moro", "amount": 2}], "research": "puti-factory", "maxNodes": 43, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuhyrunium liquid tank", "description": "...", "health": 591, "size": 3, "requirements": [{"item": "cuhyrunium", "amount": 1}, {"item": "payo", "amount": 9}, {"item": "piyovy", "amount": 8}], "research": "cuhyrunium-conduit", "category": "liquid", "liquidCapacity": 1887, "hasLiquids": true}

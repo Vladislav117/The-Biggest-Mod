@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rohuda battery", "description": "...", "size": 3, "health": 66, "requirements": [{"item": "rohuda", "amount": 18}, {"item": "mebu", "amount": 10}, {"item": "fimynium", "amount": 3}], "research": "rohuda-factory", "consumes": {"powerBuffered": 5754}, "category": "power"}

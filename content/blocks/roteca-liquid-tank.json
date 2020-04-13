@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "roteca liquid tank", "description": "...", "health": 500, "size": 3, "requirements": [{"item": "roteca", "amount": 15}, {"item": "fybaze", "amount": 17}, {"item": "teyigu", "amount": 2}], "research": "roteca-conduit", "category": "liquid", "liquidCapacity": 105965, "hasLiquids": true}

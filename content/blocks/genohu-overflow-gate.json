@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "genohu overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "genohu", "amount": 3}, {"item": "tedu", "amount": 5}], "research": "genohu-conveyor", "category": "distribution", "invert": false}

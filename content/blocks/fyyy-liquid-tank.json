@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyyy liquid tank", "description": "...", "health": 594, "size": 3, "requirements": [{"item": "fyyy", "amount": 1}, {"item": "rutiri", "amount": 2}, {"item": "kufuvunium", "amount": 4}], "research": "fyyy-conduit", "category": "liquid", "liquidCapacity": 104833, "hasLiquids": true}

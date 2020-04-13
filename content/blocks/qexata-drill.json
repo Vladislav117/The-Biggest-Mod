@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qexata drill", "description": "...", "size": 3, "health": 157, "tier": 4, "drillTime": 13, "consumes": {"power": 12}, "requirements": [{"item": "qexata", "amount": 5}, {"item": "ridu", "amount": 12}, {"item": "lyzecinium", "amount": 7}], "research": "qexata-factory", "category": "production"}

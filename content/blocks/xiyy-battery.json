@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xiyy battery", "description": "...", "size": 3, "health": 301, "requirements": [{"item": "xiyy", "amount": 12}, {"item": "hikana", "amount": 12}, {"item": "fikunium", "amount": 6}], "research": "xiyy-factory", "consumes": {"powerBuffered": 5857}, "category": "power"}

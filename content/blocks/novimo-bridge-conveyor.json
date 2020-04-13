@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "novimo bridge conveyor", "description": "", "health": 42, "range": 11, "speed": 8, "bufferCapacity": 19, "requirements": [{"item": "novimo", "amount": 3}, {"item": "rahy", "amount": 4}], "research": "novimo-conveyor", "category": "distribution", "size": 1}

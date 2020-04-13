@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wafy liquid router", "description": "...", "size": 1, "health": 73, "requirements": [{"item": "wafy", "amount": 13}, {"item": "pebi", "amount": 3}, {"item": "mygi", "amount": 5}], "research": "wafy-conduit", "liquidCapacity": 10, "category": "liquid"}

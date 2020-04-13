@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pagu bridge conveyor", "description": "", "health": 23, "range": 13, "speed": 4, "bufferCapacity": 19, "requirements": [{"item": "pagu", "amount": 5}, {"item": "hihuly", "amount": 1}], "research": "pagu-conveyor", "category": "distribution", "size": 1}

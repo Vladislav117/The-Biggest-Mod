@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hunynium liquid tank", "description": "...", "health": 543, "size": 3, "requirements": [{"item": "hunynium", "amount": 12}, {"item": "jozu", "amount": 20}, {"item": "nyvifo", "amount": 2}], "research": "hunynium-conduit", "category": "liquid", "liquidCapacity": 83508, "hasLiquids": true}

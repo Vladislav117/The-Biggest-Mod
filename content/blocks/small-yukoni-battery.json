@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yukoni battery", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "yukoni", "amount": 19}, {"item": "pubado", "amount": 1}, {"item": "vupofy", "amount": 8}], "research": "yukoni-factory", "consumes": {"powerBuffered": 2613}, "category": "power"}

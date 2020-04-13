@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zagaza battery", "description": "...", "size": 3, "health": 22, "requirements": [{"item": "zagaza", "amount": 13}, {"item": "rabu", "amount": 19}, {"item": "rosiqe", "amount": 6}], "research": "zagaza-factory", "consumes": {"powerBuffered": 4897}, "category": "power"}

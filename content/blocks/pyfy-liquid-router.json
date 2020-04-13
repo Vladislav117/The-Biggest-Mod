@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pyfy liquid router", "description": "...", "size": 1, "health": 21, "requirements": [{"item": "pyfy", "amount": 13}, {"item": "rovu", "amount": 16}, {"item": "nypenium", "amount": 2}], "research": "pyfy-conduit", "liquidCapacity": 10, "category": "liquid"}

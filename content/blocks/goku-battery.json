@@ -1,0 +1,1 @@
+{"type": "battery", "name": "goku battery", "description": "...", "size": 3, "health": 261, "requirements": [{"item": "goku", "amount": 11}, {"item": "saze", "amount": 1}, {"item": "wyfanium", "amount": 1}], "research": "goku-factory", "consumes": {"powerBuffered": 2387}, "category": "power"}

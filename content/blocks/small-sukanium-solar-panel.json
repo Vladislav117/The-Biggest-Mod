@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sukanium solar panel", "description": "...", "size": 1, "health": 210, "requirements": [{"item": "sukanium", "amount": 18}, {"item": "dyxuhu", "amount": 12}, {"item": "zodo", "amount": 7}], "research": "sukanium-factory", "powerProduction": 0.9147152210012122, "category": "power"}

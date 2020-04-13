@@ -1,0 +1,1 @@
+{"type": "battery", "name": "veba battery", "description": "...", "size": 3, "health": 81, "requirements": [{"item": "veba", "amount": 16}, {"item": "daxury", "amount": 19}, {"item": "caxoni", "amount": 3}], "research": "veba-factory", "consumes": {"powerBuffered": 5275}, "category": "power"}

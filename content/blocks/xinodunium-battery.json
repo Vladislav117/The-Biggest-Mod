@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xinodunium battery", "description": "...", "size": 3, "health": 296, "requirements": [{"item": "xinodunium", "amount": 8}, {"item": "wiba", "amount": 8}, {"item": "yijotu", "amount": 7}], "research": "xinodunium-factory", "consumes": {"powerBuffered": 9428}, "category": "power"}

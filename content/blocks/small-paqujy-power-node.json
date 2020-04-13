@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small paqujy power node", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "paqujy", "amount": 1}, {"item": "qiwu", "amount": 19}, {"item": "nesi", "amount": 1}], "research": "paqujy-factory", "maxNodes": 4, "laserRange": 13, "category": "power"}

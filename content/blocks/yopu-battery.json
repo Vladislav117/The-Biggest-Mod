@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yopu battery", "description": "...", "size": 3, "health": 103, "requirements": [{"item": "yopu", "amount": 7}, {"item": "tyvaty", "amount": 16}, {"item": "vyvuqy", "amount": 6}], "research": "yopu-factory", "consumes": {"powerBuffered": 3799}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small koge power node", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "koge", "amount": 20}, {"item": "fixunium", "amount": 6}, {"item": "guliyu", "amount": 1}], "research": "koge-factory", "maxNodes": 7, "laserRange": 9, "category": "power"}

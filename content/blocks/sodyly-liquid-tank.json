@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sodyly liquid tank", "description": "...", "health": 430, "size": 3, "requirements": [{"item": "sodyly", "amount": 16}, {"item": "nyviqe", "amount": 6}, {"item": "zyqita", "amount": 8}], "research": "sodyly-conduit", "category": "liquid", "liquidCapacity": 100034, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bylynenium solar panel", "description": "...", "size": 1, "health": 192, "requirements": [{"item": "bylynenium", "amount": 1}, {"item": "wabi", "amount": 20}, {"item": "siru", "amount": 7}], "research": "bylynenium-factory", "powerProduction": 1.4249715828196294, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small baly battery", "description": "...", "size": 1, "health": 286, "requirements": [{"item": "baly", "amount": 10}, {"item": "mowygu", "amount": 20}, {"item": "dyzeky", "amount": 9}], "research": "baly-factory", "consumes": {"powerBuffered": 1334}, "category": "power"}

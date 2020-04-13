@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bugyta battery", "description": "...", "size": 3, "health": 205, "requirements": [{"item": "bugyta", "amount": 6}, {"item": "hona", "amount": 5}, {"item": "zymi", "amount": 6}], "research": "bugyta-factory", "consumes": {"powerBuffered": 3161}, "category": "power"}

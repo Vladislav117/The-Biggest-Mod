@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cefi power node", "description": "...", "size": 2, "health": 278, "requirements": [{"item": "cefi", "amount": 10}, {"item": "jihu", "amount": 6}, {"item": "jyma", "amount": 3}], "research": "cefi-factory", "maxNodes": 52, "laserRange": 6, "category": "power"}

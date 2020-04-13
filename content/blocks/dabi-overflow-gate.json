@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dabi overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "dabi", "amount": 4}, {"item": "cygyya", "amount": 4}], "research": "dabi-conveyor", "category": "distribution", "invert": false}

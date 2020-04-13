@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kuvinium liquid tank", "description": "...", "health": 344, "size": 3, "requirements": [{"item": "kuvinium", "amount": 16}, {"item": "haxi", "amount": 17}, {"item": "xejo", "amount": 5}], "research": "kuvinium-conduit", "category": "liquid", "liquidCapacity": 19388, "hasLiquids": true}

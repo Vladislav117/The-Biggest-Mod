@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dyqo junction", "description": "...", "health": 12, "speed": 10, "capacity": 13, "size": 1, "requirements": [{"item": "dyqo", "amount": 5}, {"item": "kagopy", "amount": 5}], "research": "dyqo-conveyor", "category": "distribution"}

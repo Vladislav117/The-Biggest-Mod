@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kawo junction", "description": "...", "health": 15, "speed": 9, "capacity": 18, "size": 1, "requirements": [{"item": "kawo", "amount": 5}, {"item": "zuwydy", "amount": 4}], "research": "kawo-conveyor", "category": "distribution"}

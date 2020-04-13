@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hyqyno liquid tank", "description": "...", "health": 543, "size": 3, "requirements": [{"item": "hyqyno", "amount": 9}, {"item": "kepusy", "amount": 9}, {"item": "wajese", "amount": 1}], "research": "hyqyno-conduit", "category": "liquid", "liquidCapacity": 72789, "hasLiquids": true}

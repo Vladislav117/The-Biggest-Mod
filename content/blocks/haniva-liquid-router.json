@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "haniva liquid router", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "haniva", "amount": 9}, {"item": "kuteme", "amount": 16}, {"item": "cuwa", "amount": 10}], "research": "haniva-conduit", "liquidCapacity": 10, "category": "liquid"}

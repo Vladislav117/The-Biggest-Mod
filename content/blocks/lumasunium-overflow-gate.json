@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lumasunium overflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "lumasunium", "amount": 4}, {"item": "sylyxy", "amount": 5}], "research": "lumasunium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pukalunium junction", "description": "...", "health": 48, "speed": 3, "capacity": 9, "size": 1, "requirements": [{"item": "pukalunium", "amount": 5}, {"item": "lasy", "amount": 2}], "research": "pukalunium-conveyor", "category": "distribution"}

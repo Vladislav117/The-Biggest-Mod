@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xinunium conduit", "description": "...", "health": 123, "requirements": [{"item": "xinunium", "amount": 13}, {"item": "ropa", "amount": 6}, {"item": "rysi", "amount": 5}], "liquidCapacity": 27, "liquidPressure": 5, "research": "xinunium-factory", "category": "liquid"}

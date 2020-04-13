@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "myxo liquid tank", "description": "...", "health": 369, "size": 3, "requirements": [{"item": "myxo", "amount": 4}, {"item": "hyla", "amount": 20}, {"item": "ragoku", "amount": 10}], "research": "myxo-conduit", "category": "liquid", "liquidCapacity": 56432, "hasLiquids": true}

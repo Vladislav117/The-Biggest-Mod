@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wino battery", "description": "...", "size": 1, "health": 101, "requirements": [{"item": "wino", "amount": 1}, {"item": "siyenium", "amount": 3}, {"item": "lahydo", "amount": 5}], "research": "wino-factory", "consumes": {"powerBuffered": 808}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nabopy liquid router", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "nabopy", "amount": 17}, {"item": "roma", "amount": 10}, {"item": "pala", "amount": 7}], "research": "nabopy-conduit", "liquidCapacity": 10, "category": "liquid"}

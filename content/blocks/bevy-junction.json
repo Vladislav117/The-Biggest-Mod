@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bevy junction", "description": "...", "health": 27, "speed": 1, "capacity": 5, "size": 1, "requirements": [{"item": "bevy", "amount": 4}, {"item": "vigyqinium", "amount": 5}], "research": "bevy-conveyor", "category": "distribution"}

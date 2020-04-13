@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gyhecu liquid tank", "description": "...", "health": 134, "size": 3, "requirements": [{"item": "gyhecu", "amount": 17}, {"item": "ruvudo", "amount": 13}, {"item": "duqu", "amount": 1}], "research": "gyhecu-conduit", "category": "liquid", "liquidCapacity": 26448, "hasLiquids": true}

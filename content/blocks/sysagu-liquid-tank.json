@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sysagu liquid tank", "description": "...", "health": 352, "size": 3, "requirements": [{"item": "sysagu", "amount": 12}, {"item": "dugi", "amount": 18}, {"item": "jyzywy", "amount": 6}], "research": "sysagu-conduit", "category": "liquid", "liquidCapacity": 85233, "hasLiquids": true}

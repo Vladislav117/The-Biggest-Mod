@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cidenium sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "cidenium", "amount": 4}, {"item": "liqohy", "amount": 4}], "research": "cidenium-conveyor", "category": "distribution", "invert": false}

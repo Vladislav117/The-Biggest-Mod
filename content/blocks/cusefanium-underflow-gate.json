@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cusefanium underflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "cusefanium", "amount": 1}, {"item": "dakiqu", "amount": 1}], "research": "cusefanium-conveyor", "category": "distribution", "invert": false}

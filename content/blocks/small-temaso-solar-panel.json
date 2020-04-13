@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small temaso solar panel", "description": "...", "size": 1, "health": 311, "requirements": [{"item": "temaso", "amount": 9}, {"item": "moje", "amount": 20}, {"item": "pyzanium", "amount": 9}], "research": "temaso-factory", "powerProduction": 1.1376703777945774, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small banogu solar panel", "description": "...", "size": 1, "health": 159, "requirements": [{"item": "banogu", "amount": 9}, {"item": "rizu", "amount": 19}, {"item": "tuma", "amount": 6}], "research": "banogu-factory", "powerProduction": 0.2528016638644031, "category": "power"}

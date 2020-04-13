@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nesi power node", "description": "...", "size": 1, "health": 293, "requirements": [{"item": "nesi", "amount": 4}, {"item": "poxy", "amount": 9}, {"item": "juwyso", "amount": 1}], "research": "nesi-factory", "maxNodes": 9, "laserRange": 16, "category": "power"}

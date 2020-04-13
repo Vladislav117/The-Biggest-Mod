@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mofapu bridge conveyor", "description": "", "health": 7, "range": 13, "speed": 14, "bufferCapacity": 7, "requirements": [{"item": "mofapu", "amount": 5}, {"item": "zydu", "amount": 5}], "research": "mofapu-conveyor", "category": "distribution", "size": 1}

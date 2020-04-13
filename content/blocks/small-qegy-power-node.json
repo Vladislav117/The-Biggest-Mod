@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qegy power node", "description": "...", "size": 1, "health": 400, "requirements": [{"item": "qegy", "amount": 9}, {"item": "syxe", "amount": 9}, {"item": "roma", "amount": 7}], "research": "qegy-factory", "maxNodes": 2, "laserRange": 20, "category": "power"}

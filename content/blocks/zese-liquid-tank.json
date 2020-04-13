@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zese liquid tank", "description": "...", "health": 639, "size": 3, "requirements": [{"item": "zese", "amount": 13}, {"item": "gyporu", "amount": 4}, {"item": "lipo", "amount": 7}], "research": "zese-conduit", "category": "liquid", "liquidCapacity": 42631, "hasLiquids": true}

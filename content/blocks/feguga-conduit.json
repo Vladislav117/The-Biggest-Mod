@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "feguga conduit", "description": "...", "health": 120, "requirements": [{"item": "feguga", "amount": 7}, {"item": "pamyka", "amount": 9}, {"item": "musebo", "amount": 9}], "liquidCapacity": 26, "liquidPressure": 9, "research": "feguga-factory", "category": "liquid"}

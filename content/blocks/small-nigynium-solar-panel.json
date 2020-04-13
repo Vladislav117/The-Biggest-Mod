@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nigynium solar panel", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "nigynium", "amount": 20}, {"item": "hetyjo", "amount": 20}, {"item": "fodu", "amount": 8}], "research": "nigynium-factory", "powerProduction": 2.9614487174044637, "category": "power"}

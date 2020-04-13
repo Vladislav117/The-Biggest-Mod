@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rafikanium battery", "description": "...", "size": 3, "health": 169, "requirements": [{"item": "rafikanium", "amount": 16}, {"item": "yocoke", "amount": 3}, {"item": "lehanium", "amount": 7}], "research": "rafikanium-factory", "consumes": {"powerBuffered": 8321}, "category": "power"}

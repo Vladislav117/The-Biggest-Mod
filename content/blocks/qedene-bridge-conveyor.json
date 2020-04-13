@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qedene bridge conveyor", "description": "", "health": 38, "range": 12, "speed": 4, "bufferCapacity": 6, "requirements": [{"item": "qedene", "amount": 3}, {"item": "napunium", "amount": 4}], "research": "qedene-conveyor", "category": "distribution", "size": 1}

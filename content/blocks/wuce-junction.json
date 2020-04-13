@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wuce junction", "description": "...", "health": 29, "speed": 1, "capacity": 7, "size": 1, "requirements": [{"item": "wuce", "amount": 5}, {"item": "vatohunium", "amount": 2}], "research": "wuce-conveyor", "category": "distribution"}

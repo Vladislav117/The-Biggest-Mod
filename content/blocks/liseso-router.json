@@ -1,0 +1,1 @@
+{"type": "router", "name": "liseso router", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "liseso", "amount": 3}], "research": "liseso-conveyor", "category": "distribution"}

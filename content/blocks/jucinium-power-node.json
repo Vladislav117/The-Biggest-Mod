@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jucinium power node", "description": "...", "size": 2, "health": 268, "requirements": [{"item": "jucinium", "amount": 9}, {"item": "qavuhe", "amount": 9}, {"item": "pymu", "amount": 10}], "research": "jucinium-factory", "maxNodes": 43, "laserRange": 25, "category": "power"}

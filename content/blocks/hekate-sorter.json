@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hekate sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "hekate", "amount": 1}, {"item": "cujori", "amount": 1}], "research": "hekate-conveyor", "category": "distribution", "invert": false}

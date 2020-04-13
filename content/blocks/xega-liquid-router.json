@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xega liquid router", "description": "...", "size": 1, "health": 46, "requirements": [{"item": "xega", "amount": 17}, {"item": "lygynium", "amount": 15}, {"item": "tyno", "amount": 1}], "research": "xega-conduit", "liquidCapacity": 10, "category": "liquid"}

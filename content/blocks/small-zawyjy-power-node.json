@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zawyjy power node", "description": "...", "size": 1, "health": 210, "requirements": [{"item": "zawyjy", "amount": 4}, {"item": "jimi", "amount": 2}, {"item": "yanawa", "amount": 7}], "research": "zawyjy-factory", "maxNodes": 22, "laserRange": 21, "category": "power"}

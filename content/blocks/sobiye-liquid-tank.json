@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sobiye liquid tank", "description": "...", "health": 405, "size": 3, "requirements": [{"item": "sobiye", "amount": 11}, {"item": "nigucy", "amount": 5}, {"item": "kufi", "amount": 8}], "research": "sobiye-conduit", "category": "liquid", "liquidCapacity": 89581, "hasLiquids": true}

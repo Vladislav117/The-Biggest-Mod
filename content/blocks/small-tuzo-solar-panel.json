@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tuzo solar panel", "description": "...", "size": 1, "health": 116, "requirements": [{"item": "tuzo", "amount": 9}, {"item": "dalire", "amount": 10}, {"item": "faba", "amount": 1}], "research": "tuzo-factory", "powerProduction": 5.743196553266433, "category": "power"}

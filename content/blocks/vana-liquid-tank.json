@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vana liquid tank", "description": "...", "health": 650, "size": 3, "requirements": [{"item": "vana", "amount": 1}, {"item": "cepi", "amount": 3}, {"item": "hudolo", "amount": 7}], "research": "vana-conduit", "category": "liquid", "liquidCapacity": 33882, "hasLiquids": true}

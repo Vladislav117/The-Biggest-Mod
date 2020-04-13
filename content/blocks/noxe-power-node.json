@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "noxe power node", "description": "...", "size": 2, "health": 451, "requirements": [{"item": "noxe", "amount": 19}, {"item": "tysuly", "amount": 11}, {"item": "wogugenium", "amount": 9}], "research": "noxe-factory", "maxNodes": 30, "laserRange": 6, "category": "power"}

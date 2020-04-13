@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bogovy solar panel", "description": "...", "size": 3, "health": 343, "requirements": [{"item": "bogovy", "amount": 5}, {"item": "zywave", "amount": 12}, {"item": "dekaga", "amount": 10}], "research": "bogovy-factory", "powerProduction": 0.6201473518282195, "category": "power"}

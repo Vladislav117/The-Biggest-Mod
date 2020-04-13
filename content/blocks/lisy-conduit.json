@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lisy conduit", "description": "...", "health": 86, "requirements": [{"item": "lisy", "amount": 17}, {"item": "lyzecinium", "amount": 13}, {"item": "voky", "amount": 1}], "liquidCapacity": 30, "liquidPressure": 1, "research": "lisy-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ryloxi underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "ryloxi", "amount": 2}, {"item": "mava", "amount": 2}], "research": "ryloxi-conveyor", "category": "distribution", "invert": false}

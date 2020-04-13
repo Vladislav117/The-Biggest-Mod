@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nacymenium liquid router", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "nacymenium", "amount": 2}, {"item": "boko", "amount": 13}, {"item": "vipybi", "amount": 9}], "research": "nacymenium-conduit", "liquidCapacity": 10, "category": "liquid"}

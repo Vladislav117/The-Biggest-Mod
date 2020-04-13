@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jywupa power node", "description": "...", "size": 2, "health": 513, "requirements": [{"item": "jywupa", "amount": 1}, {"item": "kubi", "amount": 10}, {"item": "copper", "amount": 2}], "research": "jywupa-factory", "maxNodes": 13, "laserRange": 19, "category": "power"}

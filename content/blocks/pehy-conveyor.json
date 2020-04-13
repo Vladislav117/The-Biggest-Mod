@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pehy conveyor", "description": "...", "health": 320, "requirements": [{"item": "pehy", "amount": 5}, {"item": "wizacy", "amount": 3}], "speed": 0.2807254302239914, "research": "pehy-factory", "category": "distribution"}

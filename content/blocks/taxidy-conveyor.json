@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "taxidy conveyor", "description": "...", "health": 211, "requirements": [{"item": "taxidy", "amount": 3}, {"item": "jewa", "amount": 6}], "speed": 0.30735121183774916, "research": "taxidy-factory", "category": "distribution"}

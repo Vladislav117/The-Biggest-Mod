@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zadyle power node", "description": "...", "size": 2, "health": 689, "requirements": [{"item": "zadyle", "amount": 14}, {"item": "zawyjy", "amount": 14}, {"item": "fogu", "amount": 4}], "research": "zadyle-factory", "maxNodes": 42, "laserRange": 13, "category": "power"}

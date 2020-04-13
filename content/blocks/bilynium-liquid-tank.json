@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bilynium liquid tank", "description": "...", "health": 553, "size": 3, "requirements": [{"item": "bilynium", "amount": 1}, {"item": "tupo", "amount": 5}, {"item": "zuvy", "amount": 7}], "research": "bilynium-conduit", "category": "liquid", "liquidCapacity": 56522, "hasLiquids": true}

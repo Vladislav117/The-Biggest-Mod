@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yila junction", "description": "...", "health": 13, "speed": 19, "capacity": 2, "size": 1, "requirements": [{"item": "yila", "amount": 3}, {"item": "hewy", "amount": 5}], "research": "yila-conveyor", "category": "distribution"}

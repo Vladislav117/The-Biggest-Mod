@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gumyra bridge conveyor", "description": "", "health": 24, "range": 2, "speed": 12, "bufferCapacity": 10, "requirements": [{"item": "gumyra", "amount": 4}, {"item": "fyvuyy", "amount": 5}], "research": "gumyra-conveyor", "category": "distribution", "size": 1}

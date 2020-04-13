@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tole liquid tank", "description": "...", "health": 154, "size": 3, "requirements": [{"item": "tole", "amount": 12}, {"item": "rebugunium", "amount": 14}, {"item": "xugo", "amount": 8}], "research": "tole-conduit", "category": "liquid", "liquidCapacity": 34019, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "beronium conduit", "description": "...", "health": 48, "requirements": [{"item": "beronium", "amount": 4}, {"item": "xinodunium", "amount": 15}, {"item": "xevenium", "amount": 8}], "liquidCapacity": 45, "liquidPressure": 7, "research": "beronium-factory", "category": "liquid"}

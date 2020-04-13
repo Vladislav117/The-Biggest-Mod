@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hiwinium power node", "description": "...", "size": 1, "health": 221, "requirements": [{"item": "hiwinium", "amount": 8}, {"item": "nogi", "amount": 11}, {"item": "roxila", "amount": 9}], "research": "hiwinium-factory", "maxNodes": 22, "laserRange": 13, "category": "power"}

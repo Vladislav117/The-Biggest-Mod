@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small citygo solar panel", "description": "...", "size": 1, "health": 118, "requirements": [{"item": "citygo", "amount": 9}, {"item": "lyheti", "amount": 17}, {"item": "nyyihy", "amount": 10}], "research": "citygo-factory", "powerProduction": 0.35272076135858893, "category": "power"}

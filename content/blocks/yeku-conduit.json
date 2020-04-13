@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yeku conduit", "description": "...", "health": 123, "requirements": [{"item": "yeku", "amount": 7}, {"item": "hurula", "amount": 4}, {"item": "siwi", "amount": 1}], "liquidCapacity": 49, "liquidPressure": 2, "research": "yeku-factory", "category": "liquid"}

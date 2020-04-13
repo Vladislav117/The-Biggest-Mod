@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zixysinium liquid tank", "description": "...", "health": 322, "size": 3, "requirements": [{"item": "zixysinium", "amount": 20}, {"item": "tuma", "amount": 18}, {"item": "ribuge", "amount": 9}], "research": "zixysinium-conduit", "category": "liquid", "liquidCapacity": 63252, "hasLiquids": true}

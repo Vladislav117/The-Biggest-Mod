@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pudogi sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "pudogi", "amount": 5}, {"item": "hyla", "amount": 1}], "research": "pudogi-conveyor", "category": "distribution", "invert": false}

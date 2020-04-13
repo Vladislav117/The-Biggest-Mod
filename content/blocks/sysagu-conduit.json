@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sysagu conduit", "description": "...", "health": 153, "requirements": [{"item": "sysagu", "amount": 20}, {"item": "veco", "amount": 14}, {"item": "bomiry", "amount": 8}], "liquidCapacity": 13, "liquidPressure": 2, "research": "sysagu-factory", "category": "liquid"}

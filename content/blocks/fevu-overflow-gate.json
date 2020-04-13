@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fevu overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "fevu", "amount": 1}, {"item": "wekami", "amount": 5}], "research": "fevu-conveyor", "category": "distribution", "invert": false}

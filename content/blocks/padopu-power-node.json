@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "padopu power node", "description": "...", "size": 2, "health": 582, "requirements": [{"item": "padopu", "amount": 18}, {"item": "wace", "amount": 8}, {"item": "gotomy", "amount": 1}], "research": "padopu-factory", "maxNodes": 45, "laserRange": 20, "category": "power"}

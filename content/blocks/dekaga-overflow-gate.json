@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dekaga overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "dekaga", "amount": 1}, {"item": "cuse", "amount": 3}], "research": "dekaga-conveyor", "category": "distribution", "invert": false}

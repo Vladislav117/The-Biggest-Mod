@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lype power node", "description": "...", "size": 2, "health": 137, "requirements": [{"item": "lype", "amount": 20}, {"item": "lyvewenium", "amount": 7}, {"item": "jaga", "amount": 2}], "research": "lype-factory", "maxNodes": 17, "laserRange": 12, "category": "power"}

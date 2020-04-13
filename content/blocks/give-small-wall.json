@@ -1,0 +1,1 @@
+{"type": "Wall", "name": "give small wall", "description": "...", "health": 63, "size": 1, "requirements": [{"item": "give", "amount": 8}], "research": "give-factory", "category": "defense"}

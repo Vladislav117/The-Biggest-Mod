@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dysojonium power node", "description": "...", "size": 1, "health": 233, "requirements": [{"item": "dysojonium", "amount": 13}, {"item": "mibyzo", "amount": 10}, {"item": "qeriza", "amount": 4}], "research": "dysojonium-factory", "maxNodes": 9, "laserRange": 15, "category": "power"}

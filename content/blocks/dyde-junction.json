@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dyde junction", "description": "...", "health": 47, "speed": 8, "capacity": 10, "size": 1, "requirements": [{"item": "dyde", "amount": 4}, {"item": "lyheti", "amount": 3}], "research": "dyde-conveyor", "category": "distribution"}

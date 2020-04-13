@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fimacy bridge conveyor", "description": "", "health": 37, "range": 1, "speed": 12, "bufferCapacity": 8, "requirements": [{"item": "fimacy", "amount": 3}, {"item": "xyzeja", "amount": 4}], "research": "fimacy-conveyor", "category": "distribution", "size": 1}

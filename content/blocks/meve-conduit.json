@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "meve conduit", "description": "...", "health": 21, "requirements": [{"item": "meve", "amount": 3}, {"item": "kipybi", "amount": 14}, {"item": "vewavu", "amount": 1}], "liquidCapacity": 33, "liquidPressure": 2, "research": "meve-factory", "category": "liquid"}

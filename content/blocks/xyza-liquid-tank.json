@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xyza liquid tank", "description": "...", "health": 247, "size": 3, "requirements": [{"item": "xyza", "amount": 11}, {"item": "hyqyno", "amount": 13}, {"item": "xavinium", "amount": 10}], "research": "xyza-conduit", "category": "liquid", "liquidCapacity": 93317, "hasLiquids": true}

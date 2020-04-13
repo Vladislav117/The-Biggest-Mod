@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rigo liquid tank", "description": "...", "health": 526, "size": 3, "requirements": [{"item": "rigo", "amount": 16}, {"item": "fupymi", "amount": 9}, {"item": "dihomu", "amount": 1}], "research": "rigo-conduit", "category": "liquid", "liquidCapacity": 14824, "hasLiquids": true}

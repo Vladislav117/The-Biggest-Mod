@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mafy overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "mafy", "amount": 2}, {"item": "colu", "amount": 5}], "research": "mafy-conveyor", "category": "distribution", "invert": false}

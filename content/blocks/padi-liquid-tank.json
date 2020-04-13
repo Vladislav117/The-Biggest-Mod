@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "padi liquid tank", "description": "...", "health": 627, "size": 3, "requirements": [{"item": "padi", "amount": 7}, {"item": "gytegy", "amount": 8}, {"item": "migy", "amount": 2}], "research": "padi-conduit", "category": "liquid", "liquidCapacity": 32556, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pezuxonium sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "pezuxonium", "amount": 2}, {"item": "kujodo", "amount": 1}], "research": "pezuxonium-conveyor", "category": "distribution", "invert": false}

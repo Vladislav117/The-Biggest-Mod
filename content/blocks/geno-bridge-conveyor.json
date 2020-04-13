@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "geno bridge conveyor", "description": "", "health": 11, "range": 14, "speed": 16, "bufferCapacity": 21, "requirements": [{"item": "geno", "amount": 5}, {"item": "bytu", "amount": 3}], "research": "geno-conveyor", "category": "distribution", "size": 1}

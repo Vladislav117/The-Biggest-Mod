@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nuci solar panel", "description": "...", "size": 1, "health": 182, "requirements": [{"item": "nuci", "amount": 17}, {"item": "reyezy", "amount": 9}, {"item": "pyce", "amount": 8}], "research": "nuci-factory", "powerProduction": 6.0645907905499215, "category": "power"}

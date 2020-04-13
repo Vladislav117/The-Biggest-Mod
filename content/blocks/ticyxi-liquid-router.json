@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ticyxi liquid router", "description": "...", "size": 1, "health": 25, "requirements": [{"item": "ticyxi", "amount": 6}, {"item": "ruwecu", "amount": 10}, {"item": "kypy", "amount": 10}], "research": "ticyxi-conduit", "liquidCapacity": 10, "category": "liquid"}

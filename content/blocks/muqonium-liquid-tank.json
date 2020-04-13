@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "muqonium liquid tank", "description": "...", "health": 170, "size": 3, "requirements": [{"item": "muqonium", "amount": 16}, {"item": "dekaga", "amount": 4}, {"item": "nyyonium", "amount": 7}], "research": "muqonium-conduit", "category": "liquid", "liquidCapacity": 76407, "hasLiquids": true}

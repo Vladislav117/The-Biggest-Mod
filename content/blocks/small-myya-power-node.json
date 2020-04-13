@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small myya power node", "description": "...", "size": 1, "health": 241, "requirements": [{"item": "myya", "amount": 4}, {"item": "byyi", "amount": 11}, {"item": "rizu", "amount": 7}], "research": "myya-factory", "maxNodes": 17, "laserRange": 23, "category": "power"}

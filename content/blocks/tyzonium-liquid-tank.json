@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tyzonium liquid tank", "description": "...", "health": 590, "size": 3, "requirements": [{"item": "tyzonium", "amount": 11}, {"item": "sofowo", "amount": 17}, {"item": "kurecanium", "amount": 4}], "research": "tyzonium-conduit", "category": "liquid", "liquidCapacity": 47441, "hasLiquids": true}

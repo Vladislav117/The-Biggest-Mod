@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cesunium power node", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "cesunium", "amount": 11}, {"item": "yyba", "amount": 15}, {"item": "kexaja", "amount": 7}], "research": "cesunium-factory", "maxNodes": 3, "laserRange": 12, "category": "power"}

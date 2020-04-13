@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zigije solar panel", "description": "...", "size": 3, "health": 18, "requirements": [{"item": "zigije", "amount": 1}, {"item": "jatyjenium", "amount": 12}, {"item": "lipupy", "amount": 5}], "research": "zigije-factory", "powerProduction": 1.564158905187794, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "diro liquid tank", "description": "...", "health": 120, "size": 3, "requirements": [{"item": "diro", "amount": 2}, {"item": "puli", "amount": 2}, {"item": "gogajy", "amount": 1}], "research": "diro-conduit", "category": "liquid", "liquidCapacity": 97739, "hasLiquids": true}

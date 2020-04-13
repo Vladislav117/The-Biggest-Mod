@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "delu conduit", "description": "...", "health": 81, "requirements": [{"item": "delu", "amount": 15}, {"item": "luzini", "amount": 8}, {"item": "favunium", "amount": 6}], "liquidCapacity": 42, "liquidPressure": 3, "research": "delu-factory", "category": "liquid"}

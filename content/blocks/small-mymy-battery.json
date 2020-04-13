@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mymy battery", "description": "...", "size": 1, "health": 225, "requirements": [{"item": "mymy", "amount": 3}, {"item": "zuvuze", "amount": 18}, {"item": "zyrufu", "amount": 5}], "research": "mymy-factory", "consumes": {"powerBuffered": 1259}, "category": "power"}

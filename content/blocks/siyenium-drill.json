@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "siyenium drill", "description": "...", "size": 3, "health": 118, "tier": 1, "drillTime": 14, "consumes": {"power": 20}, "requirements": [{"item": "siyenium", "amount": 16}, {"item": "cobunium", "amount": 3}, {"item": "qayanium", "amount": 2}], "research": "siyenium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jaryqanium battery", "description": "...", "size": 1, "health": 266, "requirements": [{"item": "jaryqanium", "amount": 19}, {"item": "fizy", "amount": 12}, {"item": "liqy", "amount": 1}], "research": "jaryqanium-factory", "consumes": {"powerBuffered": 979}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "subece drill", "description": "...", "size": 2, "health": 354, "tier": 3, "drillTime": 19, "consumes": {"power": 14}, "requirements": [{"item": "subece", "amount": 1}, {"item": "hycywi", "amount": 11}, {"item": "lype", "amount": 10}], "research": "subece-factory", "category": "production"}

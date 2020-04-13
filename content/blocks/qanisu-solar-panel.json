@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qanisu solar panel", "description": "...", "size": 3, "health": 223, "requirements": [{"item": "qanisu", "amount": 7}, {"item": "lasige", "amount": 1}, {"item": "qukeso", "amount": 10}], "research": "qanisu-factory", "powerProduction": 0.6971629821695667, "category": "power"}

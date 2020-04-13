@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kuju liquid tank", "description": "...", "health": 320, "size": 3, "requirements": [{"item": "kuju", "amount": 16}, {"item": "myyu", "amount": 18}, {"item": "wita", "amount": 6}], "research": "kuju-conduit", "category": "liquid", "liquidCapacity": 55614, "hasLiquids": true}

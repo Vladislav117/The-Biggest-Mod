@@ -1,0 +1,1 @@
+{"type": "battery", "name": "giyabinium battery", "description": "...", "size": 3, "health": 93, "requirements": [{"item": "giyabinium", "amount": 1}, {"item": "peyyha", "amount": 11}, {"item": "wofiny", "amount": 8}], "research": "giyabinium-factory", "consumes": {"powerBuffered": 7635}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "doge liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "doge", "amount": 5}, {"item": "wigyre", "amount": 16}, {"item": "kyka", "amount": 4}], "research": "doge-conduit", "liquidCapacity": 10, "category": "liquid"}

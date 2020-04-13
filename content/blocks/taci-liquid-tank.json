@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "taci liquid tank", "description": "...", "health": 399, "size": 3, "requirements": [{"item": "taci", "amount": 1}, {"item": "kexaja", "amount": 4}, {"item": "tulotu", "amount": 2}], "research": "taci-conduit", "category": "liquid", "liquidCapacity": 76403, "hasLiquids": true}

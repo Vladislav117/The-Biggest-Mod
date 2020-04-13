@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dalire inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "dalire", "amount": 2}, {"item": "qusy", "amount": 3}], "research": "dalire-conveyor", "category": "distribution", "invert": true}

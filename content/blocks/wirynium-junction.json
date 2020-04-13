@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wirynium junction", "description": "...", "health": 7, "speed": 7, "capacity": 12, "size": 1, "requirements": [{"item": "wirynium", "amount": 4}, {"item": "cyta", "amount": 5}], "research": "wirynium-conveyor", "category": "distribution"}

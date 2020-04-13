@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mepysynium sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "mepysynium", "amount": 1}, {"item": "xebili", "amount": 5}], "research": "mepysynium-conveyor", "category": "distribution", "invert": false}

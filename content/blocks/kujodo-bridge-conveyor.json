@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kujodo bridge conveyor", "description": "", "health": 38, "range": 20, "speed": 17, "bufferCapacity": 15, "requirements": [{"item": "kujodo", "amount": 3}, {"item": "tadeja", "amount": 4}], "research": "kujodo-conveyor", "category": "distribution", "size": 1}

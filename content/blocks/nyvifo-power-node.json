@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nyvifo power node", "description": "...", "size": 2, "health": 681, "requirements": [{"item": "nyvifo", "amount": 8}, {"item": "paziyanium", "amount": 17}, {"item": "tanexo", "amount": 6}], "research": "nyvifo-factory", "maxNodes": 55, "laserRange": 19, "category": "power"}

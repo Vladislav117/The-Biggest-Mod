@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tuyo inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "tuyo", "amount": 2}, {"item": "vogonium", "amount": 1}], "research": "tuyo-conveyor", "category": "distribution", "invert": true}

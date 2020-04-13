@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "josixu overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "josixu", "amount": 5}, {"item": "yegy", "amount": 3}], "research": "josixu-conveyor", "category": "distribution", "invert": false}

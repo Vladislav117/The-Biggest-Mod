@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ximy power node", "description": "...", "size": 1, "health": 180, "requirements": [{"item": "ximy", "amount": 16}, {"item": "kica", "amount": 9}, {"item": "siqefo", "amount": 9}], "research": "ximy-factory", "maxNodes": 26, "laserRange": 6, "category": "power"}

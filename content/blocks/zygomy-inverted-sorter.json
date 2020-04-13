@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zygomy inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "zygomy", "amount": 5}, {"item": "huro", "amount": 1}], "research": "zygomy-conveyor", "category": "distribution", "invert": true}

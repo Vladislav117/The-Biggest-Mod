@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wehube underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "wehube", "amount": 4}, {"item": "sesico", "amount": 1}], "research": "wehube-conveyor", "category": "distribution", "invert": false}

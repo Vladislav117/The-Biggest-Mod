@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ticyxi liquid tank", "description": "...", "health": 413, "size": 3, "requirements": [{"item": "ticyxi", "amount": 18}, {"item": "taja", "amount": 2}, {"item": "zixysinium", "amount": 4}], "research": "ticyxi-conduit", "category": "liquid", "liquidCapacity": 78020, "hasLiquids": true}

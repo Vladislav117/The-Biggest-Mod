@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "holy liquid tank", "description": "...", "health": 159, "size": 3, "requirements": [{"item": "holy", "amount": 6}, {"item": "wapo", "amount": 13}, {"item": "gacy", "amount": 7}], "research": "holy-conduit", "category": "liquid", "liquidCapacity": 30219, "hasLiquids": true}

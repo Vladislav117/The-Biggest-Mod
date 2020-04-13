@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nileru battery", "description": "...", "size": 3, "health": 395, "requirements": [{"item": "nileru", "amount": 3}, {"item": "jede", "amount": 13}, {"item": "dyzo", "amount": 7}], "research": "nileru-factory", "consumes": {"powerBuffered": 7978}, "category": "power"}

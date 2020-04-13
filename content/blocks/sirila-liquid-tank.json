@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sirila liquid tank", "description": "...", "health": 212, "size": 3, "requirements": [{"item": "sirila", "amount": 13}, {"item": "peyahe", "amount": 7}, {"item": "xugo", "amount": 5}], "research": "sirila-conduit", "category": "liquid", "liquidCapacity": 94947, "hasLiquids": true}

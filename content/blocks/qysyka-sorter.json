@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qysyka sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "qysyka", "amount": 2}, {"item": "weka", "amount": 1}], "research": "qysyka-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zapu conduit", "description": "...", "health": 146, "requirements": [{"item": "zapu", "amount": 18}, {"item": "zoyinium", "amount": 4}, {"item": "pyvunium", "amount": 8}], "liquidCapacity": 44, "liquidPressure": 0, "research": "zapu-factory", "category": "liquid"}

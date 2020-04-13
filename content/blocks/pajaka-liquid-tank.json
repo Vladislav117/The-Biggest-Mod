@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pajaka liquid tank", "description": "...", "health": 124, "size": 3, "requirements": [{"item": "pajaka", "amount": 10}, {"item": "nepysi", "amount": 15}, {"item": "xodofu", "amount": 2}], "research": "pajaka-conduit", "category": "liquid", "liquidCapacity": 67863, "hasLiquids": true}

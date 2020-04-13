@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ziti battery", "description": "...", "size": 3, "health": 217, "requirements": [{"item": "ziti", "amount": 4}, {"item": "gahy", "amount": 9}, {"item": "kubi", "amount": 5}], "research": "ziti-factory", "consumes": {"powerBuffered": 590}, "category": "power"}

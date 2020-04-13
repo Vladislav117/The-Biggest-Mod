@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cypegu inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "cypegu", "amount": 3}, {"item": "nirenium", "amount": 4}], "research": "cypegu-conveyor", "category": "distribution", "invert": true}

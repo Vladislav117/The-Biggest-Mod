@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gafy solar panel", "description": "...", "size": 3, "health": 29, "requirements": [{"item": "gafy", "amount": 8}, {"item": "wobuyu", "amount": 12}, {"item": "rakuhy", "amount": 4}], "research": "gafy-factory", "powerProduction": 1.866685446144692, "category": "power"}

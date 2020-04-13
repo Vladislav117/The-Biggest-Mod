@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "vekile conveyor", "description": "...", "health": 322, "requirements": [{"item": "vekile", "amount": 7}, {"item": "gidu", "amount": 10}], "speed": 0.20241178932843662, "research": "vekile-factory", "category": "distribution"}

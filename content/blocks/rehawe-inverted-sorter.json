@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rehawe inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "rehawe", "amount": 5}, {"item": "qobenium", "amount": 2}], "research": "rehawe-conveyor", "category": "distribution", "invert": true}

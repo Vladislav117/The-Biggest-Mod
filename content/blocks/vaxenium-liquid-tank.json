@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vaxenium liquid tank", "description": "...", "health": 370, "size": 3, "requirements": [{"item": "vaxenium", "amount": 7}, {"item": "loda", "amount": 6}, {"item": "nupydo", "amount": 7}], "research": "vaxenium-conduit", "category": "liquid", "liquidCapacity": 100027, "hasLiquids": true}

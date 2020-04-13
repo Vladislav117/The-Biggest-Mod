@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small potesonium power node", "description": "...", "size": 1, "health": 313, "requirements": [{"item": "potesonium", "amount": 10}, {"item": "pyxoxanium", "amount": 3}, {"item": "lyceca", "amount": 1}], "research": "potesonium-factory", "maxNodes": 17, "laserRange": 7, "category": "power"}

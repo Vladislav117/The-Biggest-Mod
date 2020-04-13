@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bide sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "bide", "amount": 3}, {"item": "nehudo", "amount": 4}], "research": "bide-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "caxoni battery", "description": "...", "size": 3, "health": 349, "requirements": [{"item": "caxoni", "amount": 2}, {"item": "dugi", "amount": 19}, {"item": "byfa", "amount": 7}], "research": "caxoni-factory", "consumes": {"powerBuffered": 8100}, "category": "power"}

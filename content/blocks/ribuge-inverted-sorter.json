@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ribuge inverted sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "ribuge", "amount": 3}, {"item": "feqy", "amount": 5}], "research": "ribuge-conveyor", "category": "distribution", "invert": true}

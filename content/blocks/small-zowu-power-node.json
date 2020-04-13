@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zowu power node", "description": "...", "size": 1, "health": 265, "requirements": [{"item": "zowu", "amount": 7}, {"item": "donuba", "amount": 9}, {"item": "wumuge", "amount": 6}], "research": "zowu-factory", "maxNodes": 22, "laserRange": 13, "category": "power"}

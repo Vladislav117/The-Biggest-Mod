@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xaryqo battery", "description": "...", "size": 3, "health": 42, "requirements": [{"item": "xaryqo", "amount": 9}, {"item": "foli", "amount": 20}, {"item": "gurikinium", "amount": 1}], "research": "xaryqo-factory", "consumes": {"powerBuffered": 8370}, "category": "power"}

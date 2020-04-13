@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qosedi liquid router", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "qosedi", "amount": 12}, {"item": "zocumo", "amount": 15}, {"item": "soronium", "amount": 6}], "research": "qosedi-conduit", "liquidCapacity": 10, "category": "liquid"}

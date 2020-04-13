@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yigonenium battery", "description": "...", "size": 3, "health": 377, "requirements": [{"item": "yigonenium", "amount": 19}, {"item": "pohyva", "amount": 18}, {"item": "siyenium", "amount": 3}], "research": "yigonenium-factory", "consumes": {"powerBuffered": 4822}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tyqowy drill", "description": "...", "size": 2, "health": 229, "tier": 2, "drillTime": 19, "consumes": {"power": 3}, "requirements": [{"item": "tyqowy", "amount": 19}, {"item": "hotose", "amount": 12}, {"item": "mufosinium", "amount": 8}], "research": "tyqowy-factory", "category": "production"}

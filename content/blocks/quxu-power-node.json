@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "quxu power node", "description": "...", "size": 2, "health": 455, "requirements": [{"item": "quxu", "amount": 2}, {"item": "wuyu", "amount": 3}, {"item": "nurynium", "amount": 1}], "research": "quxu-factory", "maxNodes": 16, "laserRange": 6, "category": "power"}

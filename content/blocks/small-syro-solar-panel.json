@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small syro solar panel", "description": "...", "size": 1, "health": 142, "requirements": [{"item": "syro", "amount": 7}, {"item": "mibyzo", "amount": 20}, {"item": "dogequ", "amount": 5}], "research": "syro-factory", "powerProduction": 0.19751512902241963, "category": "power"}

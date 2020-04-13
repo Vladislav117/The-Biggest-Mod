@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "geqanium liquid router", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "geqanium", "amount": 2}, {"item": "yucy", "amount": 20}, {"item": "nagu", "amount": 8}], "research": "geqanium-conduit", "liquidCapacity": 10, "category": "liquid"}

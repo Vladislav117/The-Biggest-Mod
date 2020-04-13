@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zeyo underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "zeyo", "amount": 3}, {"item": "titanium", "amount": 2}], "research": "zeyo-conveyor", "category": "distribution", "invert": false}

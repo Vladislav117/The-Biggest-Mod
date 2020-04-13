@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cumo solar panel", "description": "...", "size": 3, "health": 356, "requirements": [{"item": "cumo", "amount": 8}, {"item": "qoseji", "amount": 5}, {"item": "kyfahu", "amount": 7}], "research": "cumo-factory", "powerProduction": 5.379858163577934, "category": "power"}

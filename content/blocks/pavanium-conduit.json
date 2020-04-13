@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pavanium conduit", "description": "...", "health": 115, "requirements": [{"item": "pavanium", "amount": 17}, {"item": "gypunium", "amount": 17}, {"item": "kyqu", "amount": 3}], "liquidCapacity": 16, "liquidPressure": 8, "research": "pavanium-factory", "category": "liquid"}

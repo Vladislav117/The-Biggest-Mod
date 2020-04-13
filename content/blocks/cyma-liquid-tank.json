@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cyma liquid tank", "description": "...", "health": 428, "size": 3, "requirements": [{"item": "cyma", "amount": 9}, {"item": "ryhi", "amount": 16}, {"item": "qyha", "amount": 10}], "research": "cyma-conduit", "category": "liquid", "liquidCapacity": 69921, "hasLiquids": true}

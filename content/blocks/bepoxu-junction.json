@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bepoxu junction", "description": "...", "health": 49, "speed": 8, "capacity": 14, "size": 1, "requirements": [{"item": "bepoxu", "amount": 1}, {"item": "hiyyga", "amount": 5}], "research": "bepoxu-conveyor", "category": "distribution"}

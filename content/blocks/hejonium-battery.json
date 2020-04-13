@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hejonium battery", "description": "...", "size": 3, "health": 164, "requirements": [{"item": "hejonium", "amount": 10}, {"item": "make", "amount": 20}, {"item": "vewavu", "amount": 8}], "research": "hejonium-factory", "consumes": {"powerBuffered": 416}, "category": "power"}

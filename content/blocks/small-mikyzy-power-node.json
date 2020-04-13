@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mikyzy power node", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "mikyzy", "amount": 17}, {"item": "geco", "amount": 7}, {"item": "keze", "amount": 6}], "research": "mikyzy-factory", "maxNodes": 28, "laserRange": 12, "category": "power"}

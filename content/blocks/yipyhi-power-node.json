@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yipyhi power node", "description": "...", "size": 2, "health": 753, "requirements": [{"item": "yipyhi", "amount": 2}, {"item": "naquhonium", "amount": 18}, {"item": "mujuly", "amount": 1}], "research": "yipyhi-factory", "maxNodes": 22, "laserRange": 30, "category": "power"}

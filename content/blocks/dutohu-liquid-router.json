@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dutohu liquid router", "description": "...", "size": 1, "health": 18, "requirements": [{"item": "dutohu", "amount": 13}, {"item": "kiva", "amount": 4}, {"item": "veco", "amount": 2}], "research": "dutohu-conduit", "liquidCapacity": 10, "category": "liquid"}

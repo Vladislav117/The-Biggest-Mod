@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cumo bridge conveyor", "description": "", "health": 30, "range": 15, "speed": 15, "bufferCapacity": 21, "requirements": [{"item": "cumo", "amount": 3}, {"item": "rutylo", "amount": 3}], "research": "cumo-conveyor", "category": "distribution", "size": 1}

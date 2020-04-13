@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "falynium inverted sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "falynium", "amount": 4}, {"item": "ruzagi", "amount": 1}], "research": "falynium-conveyor", "category": "distribution", "invert": true}

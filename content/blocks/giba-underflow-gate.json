@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "giba underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "giba", "amount": 1}, {"item": "zyrufu", "amount": 2}], "research": "giba-conveyor", "category": "distribution", "invert": false}

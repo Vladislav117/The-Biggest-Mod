@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nepiky power node", "description": "...", "size": 2, "health": 62, "requirements": [{"item": "nepiky", "amount": 2}, {"item": "pucy", "amount": 15}, {"item": "mironium", "amount": 4}], "research": "nepiky-factory", "maxNodes": 59, "laserRange": 29, "category": "power"}

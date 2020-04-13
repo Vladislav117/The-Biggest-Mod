@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fexenium junction", "description": "...", "health": 30, "speed": 14, "capacity": 7, "size": 1, "requirements": [{"item": "fexenium", "amount": 4}, {"item": "sebobe", "amount": 4}], "research": "fexenium-conveyor", "category": "distribution"}

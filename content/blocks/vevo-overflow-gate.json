@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vevo overflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "vevo", "amount": 3}, {"item": "yigonenium", "amount": 2}], "research": "vevo-conveyor", "category": "distribution", "invert": false}

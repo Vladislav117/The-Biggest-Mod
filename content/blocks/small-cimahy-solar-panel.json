@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cimahy solar panel", "description": "...", "size": 1, "health": 165, "requirements": [{"item": "cimahy", "amount": 20}, {"item": "hikuda", "amount": 4}, {"item": "bulanium", "amount": 10}], "research": "cimahy-factory", "powerProduction": 0.052255887742682146, "category": "power"}

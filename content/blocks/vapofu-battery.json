@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vapofu battery", "description": "...", "size": 3, "health": 72, "requirements": [{"item": "vapofu", "amount": 3}, {"item": "rycara", "amount": 7}, {"item": "copper", "amount": 10}], "research": "vapofu-factory", "consumes": {"powerBuffered": 7919}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yolyzu drill", "description": "...", "size": 2, "health": 156, "tier": 3, "drillTime": 2, "consumes": {"power": 15}, "requirements": [{"item": "yolyzu", "amount": 18}, {"item": "qubyzi", "amount": 3}, {"item": "yeyunonium", "amount": 5}], "research": "yolyzu-factory", "category": "production"}

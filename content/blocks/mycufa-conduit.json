@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mycufa conduit", "description": "...", "health": 114, "requirements": [{"item": "mycufa", "amount": 5}, {"item": "gotomy", "amount": 9}, {"item": "mywexu", "amount": 5}], "liquidCapacity": 36, "liquidPressure": 8, "research": "mycufa-factory", "category": "liquid"}

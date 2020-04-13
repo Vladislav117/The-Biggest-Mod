@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hakenium battery", "description": "...", "size": 3, "health": 318, "requirements": [{"item": "hakenium", "amount": 12}, {"item": "jylovo", "amount": 11}, {"item": "ryqaje", "amount": 10}], "research": "hakenium-factory", "consumes": {"powerBuffered": 8882}, "category": "power"}

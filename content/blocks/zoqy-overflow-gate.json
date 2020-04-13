@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zoqy overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "zoqy", "amount": 2}, {"item": "sibewe", "amount": 4}], "research": "zoqy-conveyor", "category": "distribution", "invert": false}

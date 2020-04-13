@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qegy battery", "description": "...", "size": 3, "health": 153, "requirements": [{"item": "qegy", "amount": 13}, {"item": "lotacu", "amount": 8}, {"item": "xeponium", "amount": 2}], "research": "qegy-factory", "consumes": {"powerBuffered": 2433}, "category": "power"}

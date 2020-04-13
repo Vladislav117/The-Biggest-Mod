@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nixony solar panel", "description": "...", "size": 3, "health": 391, "requirements": [{"item": "nixony", "amount": 2}, {"item": "viwiwinium", "amount": 7}, {"item": "vuhu", "amount": 9}], "research": "nixony-factory", "powerProduction": 0.4717748548009875, "category": "power"}

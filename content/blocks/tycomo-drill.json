@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tycomo drill", "description": "...", "size": 3, "health": 175, "tier": 3, "drillTime": 10, "consumes": {"power": 16}, "requirements": [{"item": "tycomo", "amount": 5}, {"item": "zyhebe", "amount": 3}, {"item": "hamo", "amount": 2}], "research": "tycomo-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "laduhu drill", "description": "...", "size": 2, "health": 351, "tier": 2, "drillTime": 1, "consumes": {"power": 13}, "requirements": [{"item": "laduhu", "amount": 7}, {"item": "xodali", "amount": 3}, {"item": "qyryyunium", "amount": 7}], "research": "laduhu-factory", "category": "production"}

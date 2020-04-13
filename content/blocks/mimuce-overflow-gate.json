@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mimuce overflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "mimuce", "amount": 2}, {"item": "zija", "amount": 5}], "research": "mimuce-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gahe solar panel", "description": "...", "size": 1, "health": 254, "requirements": [{"item": "gahe", "amount": 7}, {"item": "diro", "amount": 14}, {"item": "kyfahu", "amount": 1}], "research": "gahe-factory", "powerProduction": 8.51871108181979, "category": "power"}

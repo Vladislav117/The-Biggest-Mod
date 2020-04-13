@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "guda power node", "description": "...", "size": 2, "health": 605, "requirements": [{"item": "guda", "amount": 6}, {"item": "wusupy", "amount": 10}, {"item": "tivo", "amount": 8}], "research": "guda-factory", "maxNodes": 40, "laserRange": 21, "category": "power"}

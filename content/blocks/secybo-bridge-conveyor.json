@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "secybo bridge conveyor", "description": "", "health": 49, "range": 13, "speed": 11, "bufferCapacity": 16, "requirements": [{"item": "secybo", "amount": 5}, {"item": "rypenium", "amount": 5}], "research": "secybo-conveyor", "category": "distribution", "size": 1}

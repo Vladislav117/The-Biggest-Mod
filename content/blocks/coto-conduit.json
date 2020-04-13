@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "coto conduit", "description": "...", "health": 31, "requirements": [{"item": "coto", "amount": 17}, {"item": "rigiro", "amount": 16}, {"item": "goduji", "amount": 8}], "liquidCapacity": 22, "liquidPressure": 8, "research": "coto-factory", "category": "liquid"}

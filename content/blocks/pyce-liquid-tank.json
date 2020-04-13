@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pyce liquid tank", "description": "...", "health": 295, "size": 3, "requirements": [{"item": "pyce", "amount": 17}, {"item": "bybity", "amount": 9}, {"item": "yexowy", "amount": 8}], "research": "pyce-conduit", "category": "liquid", "liquidCapacity": 18370, "hasLiquids": true}

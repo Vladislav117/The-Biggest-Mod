@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hytuki underflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "hytuki", "amount": 5}, {"item": "qano", "amount": 5}], "research": "hytuki-conveyor", "category": "distribution", "invert": false}

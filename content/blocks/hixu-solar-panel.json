@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hixu solar panel", "description": "...", "size": 3, "health": 121, "requirements": [{"item": "hixu", "amount": 2}, {"item": "qokenium", "amount": 20}, {"item": "xexumi", "amount": 5}], "research": "hixu-factory", "powerProduction": 0.11252721631650847, "category": "power"}

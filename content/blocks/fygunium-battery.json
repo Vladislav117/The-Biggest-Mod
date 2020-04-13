@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fygunium battery", "description": "...", "size": 3, "health": 212, "requirements": [{"item": "fygunium", "amount": 13}, {"item": "jylovo", "amount": 17}, {"item": "lead", "amount": 8}], "research": "fygunium-factory", "consumes": {"powerBuffered": 9259}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tycuru drill", "description": "...", "size": 3, "health": 315, "tier": 1, "drillTime": 5, "consumes": {"power": 14}, "requirements": [{"item": "tycuru", "amount": 8}, {"item": "jyhoninium", "amount": 2}, {"item": "wiyeda", "amount": 9}], "research": "tycuru-factory", "category": "production"}

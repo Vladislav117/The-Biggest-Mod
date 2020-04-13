@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gemoco overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "gemoco", "amount": 4}, {"item": "ticija", "amount": 1}], "research": "gemoco-conveyor", "category": "distribution", "invert": false}

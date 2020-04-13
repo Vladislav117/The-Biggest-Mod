@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qewo conduit", "description": "...", "health": 180, "requirements": [{"item": "qewo", "amount": 17}, {"item": "socata", "amount": 16}, {"item": "bubu", "amount": 5}], "liquidCapacity": 35, "liquidPressure": 5, "research": "qewo-factory", "category": "liquid"}

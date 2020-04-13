@@ -1,0 +1,1 @@
+{"type": "junction", "name": "temu junction", "description": "...", "health": 48, "speed": 3, "capacity": 12, "size": 1, "requirements": [{"item": "temu", "amount": 5}, {"item": "joqopy", "amount": 2}], "research": "temu-conveyor", "category": "distribution"}

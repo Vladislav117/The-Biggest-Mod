@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qihy overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "qihy", "amount": 3}, {"item": "latycu", "amount": 1}], "research": "qihy-conveyor", "category": "distribution", "invert": false}

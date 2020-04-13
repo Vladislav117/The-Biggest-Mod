@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nimynium inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "nimynium", "amount": 4}, {"item": "qykebo", "amount": 3}], "research": "nimynium-conveyor", "category": "distribution", "invert": true}

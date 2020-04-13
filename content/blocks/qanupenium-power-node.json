@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qanupenium power node", "description": "...", "size": 2, "health": 122, "requirements": [{"item": "qanupenium", "amount": 13}, {"item": "bedi", "amount": 4}, {"item": "fapufi", "amount": 5}], "research": "qanupenium-factory", "maxNodes": 28, "laserRange": 6, "category": "power"}

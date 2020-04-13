@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xexumi solar panel", "description": "...", "size": 3, "health": 51, "requirements": [{"item": "xexumi", "amount": 4}, {"item": "lead", "amount": 1}, {"item": "phase-fabric", "amount": 7}], "research": "xexumi-factory", "powerProduction": 0.3625626753543699, "category": "power"}

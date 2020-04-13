@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zolosi bridge conveyor", "description": "", "health": 50, "range": 5, "speed": 1, "bufferCapacity": 15, "requirements": [{"item": "zolosi", "amount": 4}, {"item": "myci", "amount": 5}], "research": "zolosi-conveyor", "category": "distribution", "size": 1}

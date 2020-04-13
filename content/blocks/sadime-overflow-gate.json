@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sadime overflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "sadime", "amount": 1}, {"item": "takyhonium", "amount": 2}], "research": "sadime-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "miqomy power node", "description": "...", "size": 2, "health": 557, "requirements": [{"item": "miqomy", "amount": 18}, {"item": "cevu", "amount": 16}, {"item": "yeli", "amount": 10}], "research": "miqomy-factory", "maxNodes": 24, "laserRange": 28, "category": "power"}

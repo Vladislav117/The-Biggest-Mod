@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vana battery", "description": "...", "size": 1, "health": 261, "requirements": [{"item": "vana", "amount": 5}, {"item": "bezy", "amount": 9}, {"item": "qeka", "amount": 4}], "research": "vana-factory", "consumes": {"powerBuffered": 250}, "category": "power"}

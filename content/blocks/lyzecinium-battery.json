@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lyzecinium battery", "description": "...", "size": 3, "health": 114, "requirements": [{"item": "lyzecinium", "amount": 10}, {"item": "cudo", "amount": 14}, {"item": "kawo", "amount": 6}], "research": "lyzecinium-factory", "consumes": {"powerBuffered": 6527}, "category": "power"}

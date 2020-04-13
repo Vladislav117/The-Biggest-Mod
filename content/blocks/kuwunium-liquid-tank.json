@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kuwunium liquid tank", "description": "...", "health": 610, "size": 3, "requirements": [{"item": "kuwunium", "amount": 15}, {"item": "mesa", "amount": 18}, {"item": "ryqaje", "amount": 1}], "research": "kuwunium-conduit", "category": "liquid", "liquidCapacity": 116594, "hasLiquids": true}

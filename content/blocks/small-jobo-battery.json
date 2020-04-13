@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jobo battery", "description": "...", "size": 1, "health": 187, "requirements": [{"item": "jobo", "amount": 9}, {"item": "xapu", "amount": 14}, {"item": "fuposy", "amount": 6}], "research": "jobo-factory", "consumes": {"powerBuffered": 1801}, "category": "power"}

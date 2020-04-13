@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qedydy inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "qedydy", "amount": 4}, {"item": "riwi", "amount": 5}], "research": "qedydy-conveyor", "category": "distribution", "invert": true}

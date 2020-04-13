@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wobuyu bridge conveyor", "description": "", "health": 45, "range": 19, "speed": 16, "bufferCapacity": 15, "requirements": [{"item": "wobuyu", "amount": 5}, {"item": "mufosinium", "amount": 1}], "research": "wobuyu-conveyor", "category": "distribution", "size": 1}

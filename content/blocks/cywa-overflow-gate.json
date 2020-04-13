@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cywa overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "cywa", "amount": 1}, {"item": "doya", "amount": 5}], "research": "cywa-conveyor", "category": "distribution", "invert": false}

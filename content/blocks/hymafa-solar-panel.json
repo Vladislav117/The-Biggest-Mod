@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hymafa solar panel", "description": "...", "size": 3, "health": 335, "requirements": [{"item": "hymafa", "amount": 2}, {"item": "wasebanium", "amount": 18}, {"item": "vuzoha", "amount": 8}], "research": "hymafa-factory", "powerProduction": 1.568589773064737, "category": "power"}

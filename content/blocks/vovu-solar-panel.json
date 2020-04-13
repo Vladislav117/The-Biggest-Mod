@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vovu solar panel", "description": "...", "size": 3, "health": 280, "requirements": [{"item": "vovu", "amount": 11}, {"item": "xabuci", "amount": 10}, {"item": "qicy", "amount": 9}], "research": "vovu-factory", "powerProduction": 0.018401683908662095, "category": "power"}

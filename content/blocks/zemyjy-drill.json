@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zemyjy drill", "description": "...", "size": 2, "health": 347, "tier": 4, "drillTime": 20, "consumes": {"power": 3}, "requirements": [{"item": "zemyjy", "amount": 11}, {"item": "xilu", "amount": 13}, {"item": "yiqynium", "amount": 9}], "research": "zemyjy-factory", "category": "production"}

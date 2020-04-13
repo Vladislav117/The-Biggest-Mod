@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yeku battery", "description": "...", "size": 1, "health": 138, "requirements": [{"item": "yeku", "amount": 17}, {"item": "sofowo", "amount": 4}, {"item": "cizi", "amount": 7}], "research": "yeku-factory", "consumes": {"powerBuffered": 688}, "category": "power"}

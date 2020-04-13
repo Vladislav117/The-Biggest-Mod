@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tozuza liquid tank", "description": "...", "health": 559, "size": 3, "requirements": [{"item": "tozuza", "amount": 11}, {"item": "lipo", "amount": 16}, {"item": "reju", "amount": 10}], "research": "tozuza-conduit", "category": "liquid", "liquidCapacity": 112419, "hasLiquids": true}

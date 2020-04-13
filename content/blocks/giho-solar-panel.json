@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "giho solar panel", "description": "...", "size": 3, "health": 175, "requirements": [{"item": "giho", "amount": 13}, {"item": "xutire", "amount": 16}, {"item": "vove", "amount": 1}], "research": "giho-factory", "powerProduction": 0.8257926069105797, "category": "power"}

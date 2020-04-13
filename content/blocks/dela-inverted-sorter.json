@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dela inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "dela", "amount": 2}, {"item": "jyzywy", "amount": 4}], "research": "dela-conveyor", "category": "distribution", "invert": true}

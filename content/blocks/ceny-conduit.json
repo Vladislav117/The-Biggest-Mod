@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ceny conduit", "description": "...", "health": 96, "requirements": [{"item": "ceny", "amount": 10}, {"item": "jytubinium", "amount": 10}, {"item": "fyyu", "amount": 8}], "liquidCapacity": 21, "liquidPressure": 5, "research": "ceny-factory", "category": "liquid"}

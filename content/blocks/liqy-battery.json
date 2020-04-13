@@ -1,0 +1,1 @@
+{"type": "battery", "name": "liqy battery", "description": "...", "size": 3, "health": 263, "requirements": [{"item": "liqy", "amount": 17}, {"item": "suyi", "amount": 10}, {"item": "puzonium", "amount": 5}], "research": "liqy-factory", "consumes": {"powerBuffered": 2129}, "category": "power"}

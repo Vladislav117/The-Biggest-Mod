@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ciginium conduit", "description": "...", "health": 30, "requirements": [{"item": "ciginium", "amount": 17}, {"item": "boseho", "amount": 10}, {"item": "reduty", "amount": 5}], "liquidCapacity": 24, "liquidPressure": 9, "research": "ciginium-factory", "category": "liquid"}

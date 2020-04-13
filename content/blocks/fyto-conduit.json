@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fyto conduit", "description": "...", "health": 109, "requirements": [{"item": "fyto", "amount": 6}, {"item": "zilida", "amount": 15}, {"item": "fawa", "amount": 9}], "liquidCapacity": 40, "liquidPressure": 1, "research": "fyto-factory", "category": "liquid"}

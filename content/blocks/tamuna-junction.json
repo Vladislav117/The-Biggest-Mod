@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tamuna junction", "description": "...", "health": 33, "speed": 18, "capacity": 9, "size": 1, "requirements": [{"item": "tamuna", "amount": 1}, {"item": "wadoka", "amount": 1}], "research": "tamuna-conveyor", "category": "distribution"}

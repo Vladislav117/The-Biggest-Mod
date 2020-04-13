@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "garuza solar panel", "description": "...", "size": 3, "health": 380, "requirements": [{"item": "garuza", "amount": 2}, {"item": "soronium", "amount": 20}, {"item": "qaxaqa", "amount": 8}], "research": "garuza-factory", "powerProduction": 11.908720457282012, "category": "power"}

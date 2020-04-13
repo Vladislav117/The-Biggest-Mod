@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hudo battery", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "hudo", "amount": 17}, {"item": "holipu", "amount": 9}, {"item": "heso", "amount": 9}], "research": "hudo-factory", "consumes": {"powerBuffered": 1975}, "category": "power"}

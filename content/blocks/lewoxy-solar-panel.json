@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lewoxy solar panel", "description": "...", "size": 3, "health": 180, "requirements": [{"item": "lewoxy", "amount": 1}, {"item": "yalaka", "amount": 7}, {"item": "xymaxu", "amount": 8}], "research": "lewoxy-factory", "powerProduction": 1.6007301383799855, "category": "power"}

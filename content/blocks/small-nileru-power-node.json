@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nileru power node", "description": "...", "size": 1, "health": 324, "requirements": [{"item": "nileru", "amount": 9}, {"item": "cupyvu", "amount": 7}, {"item": "sipynium", "amount": 2}], "research": "nileru-factory", "maxNodes": 5, "laserRange": 17, "category": "power"}

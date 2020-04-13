@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tyqowy power node", "description": "...", "size": 2, "health": 627, "requirements": [{"item": "tyqowy", "amount": 12}, {"item": "guliyu", "amount": 20}, {"item": "citygo", "amount": 1}], "research": "tyqowy-factory", "maxNodes": 57, "laserRange": 21, "category": "power"}

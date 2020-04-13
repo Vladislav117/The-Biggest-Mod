@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xihu liquid router", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "xihu", "amount": 9}, {"item": "lugepa", "amount": 18}, {"item": "vezo", "amount": 4}], "research": "xihu-conduit", "liquidCapacity": 10, "category": "liquid"}

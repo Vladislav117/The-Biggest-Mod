@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sozi battery", "description": "...", "size": 1, "health": 215, "requirements": [{"item": "sozi", "amount": 15}, {"item": "pero", "amount": 7}, {"item": "rumigonium", "amount": 9}], "research": "sozi-factory", "consumes": {"powerBuffered": 995}, "category": "power"}

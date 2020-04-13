@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "taxanium conduit", "description": "...", "health": 62, "requirements": [{"item": "taxanium", "amount": 13}, {"item": "fykemi", "amount": 5}, {"item": "cibu", "amount": 4}], "liquidCapacity": 33, "liquidPressure": 2, "research": "taxanium-factory", "category": "liquid"}

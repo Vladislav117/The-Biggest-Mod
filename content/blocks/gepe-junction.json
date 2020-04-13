@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gepe junction", "description": "...", "health": 18, "speed": 19, "capacity": 16, "size": 1, "requirements": [{"item": "gepe", "amount": 4}, {"item": "yywy", "amount": 5}], "research": "gepe-conveyor", "category": "distribution"}

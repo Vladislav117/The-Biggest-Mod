@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tuyo solar panel", "description": "...", "size": 3, "health": 246, "requirements": [{"item": "tuyo", "amount": 3}, {"item": "kagopy", "amount": 19}, {"item": "lyhi", "amount": 7}], "research": "tuyo-factory", "powerProduction": 6.536564593814657, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "loqy junction", "description": "...", "health": 37, "speed": 12, "capacity": 9, "size": 1, "requirements": [{"item": "loqy", "amount": 1}, {"item": "rocihy", "amount": 3}], "research": "loqy-conveyor", "category": "distribution"}

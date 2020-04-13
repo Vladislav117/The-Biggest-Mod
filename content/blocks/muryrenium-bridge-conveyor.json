@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "muryrenium bridge conveyor", "description": "", "health": 39, "range": 1, "speed": 16, "bufferCapacity": 14, "requirements": [{"item": "muryrenium", "amount": 5}, {"item": "xuserynium", "amount": 1}], "research": "muryrenium-conveyor", "category": "distribution", "size": 1}

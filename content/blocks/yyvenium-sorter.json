@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yyvenium sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "yyvenium", "amount": 5}, {"item": "tedu", "amount": 2}], "research": "yyvenium-conveyor", "category": "distribution", "invert": false}

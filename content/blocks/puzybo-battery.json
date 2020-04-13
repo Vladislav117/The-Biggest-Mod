@@ -1,0 +1,1 @@
+{"type": "battery", "name": "puzybo battery", "description": "...", "size": 3, "health": 30, "requirements": [{"item": "puzybo", "amount": 7}, {"item": "fuda", "amount": 9}, {"item": "hasu", "amount": 1}], "research": "puzybo-factory", "consumes": {"powerBuffered": 1441}, "category": "power"}

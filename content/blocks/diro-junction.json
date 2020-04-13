@@ -1,0 +1,1 @@
+{"type": "junction", "name": "diro junction", "description": "...", "health": 20, "speed": 2, "capacity": 12, "size": 1, "requirements": [{"item": "diro", "amount": 5}, {"item": "qimose", "amount": 4}], "research": "diro-conveyor", "category": "distribution"}

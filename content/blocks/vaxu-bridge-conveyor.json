@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vaxu bridge conveyor", "description": "", "health": 30, "range": 8, "speed": 2, "bufferCapacity": 19, "requirements": [{"item": "vaxu", "amount": 1}, {"item": "naxynium", "amount": 5}], "research": "vaxu-conveyor", "category": "distribution", "size": 1}

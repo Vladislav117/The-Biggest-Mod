@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lavysunium liquid tank", "description": "...", "health": 348, "size": 3, "requirements": [{"item": "lavysunium", "amount": 1}, {"item": "qiqike", "amount": 18}, {"item": "yofopy", "amount": 10}], "research": "lavysunium-conduit", "category": "liquid", "liquidCapacity": 100229, "hasLiquids": true}

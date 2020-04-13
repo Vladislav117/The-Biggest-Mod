@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qoviganium inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "qoviganium", "amount": 3}, {"item": "zuhisu", "amount": 1}], "research": "qoviganium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "router", "name": "vedapa router", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "vedapa", "amount": 10}], "research": "vedapa-conveyor", "category": "distribution"}

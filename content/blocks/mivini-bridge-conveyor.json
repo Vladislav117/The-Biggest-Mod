@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mivini bridge conveyor", "description": "", "health": 2, "range": 19, "speed": 14, "bufferCapacity": 23, "requirements": [{"item": "mivini", "amount": 2}, {"item": "hudolo", "amount": 4}], "research": "mivini-conveyor", "category": "distribution", "size": 1}

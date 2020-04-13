@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "dazi drill", "description": "...", "size": 3, "health": 419, "tier": 3, "drillTime": 3, "consumes": {"power": 3}, "requirements": [{"item": "dazi", "amount": 15}, {"item": "vohiyynium", "amount": 5}, {"item": "fofoco", "amount": 9}], "research": "dazi-factory", "category": "production"}

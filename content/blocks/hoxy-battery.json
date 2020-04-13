@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hoxy battery", "description": "...", "size": 3, "health": 79, "requirements": [{"item": "hoxy", "amount": 12}, {"item": "jazu", "amount": 11}, {"item": "nogu", "amount": 2}], "research": "hoxy-factory", "consumes": {"powerBuffered": 5757}, "category": "power"}

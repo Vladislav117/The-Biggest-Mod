@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small haluqo power node", "description": "...", "size": 1, "health": 257, "requirements": [{"item": "haluqo", "amount": 10}, {"item": "kovu", "amount": 14}, {"item": "surenium", "amount": 2}], "research": "haluqo-factory", "maxNodes": 6, "laserRange": 7, "category": "power"}

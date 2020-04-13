@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "mafapu overdrive projector", "description": "...", "health": 57, "consumes": {"power": 3.0, "item": "mafapu"}, "size": 2, "requirements": [{"item": "mafapu", "amount": 3}, {"item": "somy", "amount": 11}, {"item": "zuhele", "amount": 5}], "research": "mafapu-factory", "category": "effect"}

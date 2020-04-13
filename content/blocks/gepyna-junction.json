@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gepyna junction", "description": "...", "health": 30, "speed": 8, "capacity": 14, "size": 1, "requirements": [{"item": "gepyna", "amount": 2}, {"item": "gylasa", "amount": 5}], "research": "gepyna-conveyor", "category": "distribution"}

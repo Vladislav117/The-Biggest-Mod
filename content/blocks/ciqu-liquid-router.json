@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ciqu liquid router", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "ciqu", "amount": 15}, {"item": "foli", "amount": 4}, {"item": "tagawe", "amount": 2}], "research": "ciqu-conduit", "liquidCapacity": 10, "category": "liquid"}

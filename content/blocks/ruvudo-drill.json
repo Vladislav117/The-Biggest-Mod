@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "ruvudo drill", "description": "...", "size": 3, "health": 126, "tier": 1, "drillTime": 1, "consumes": {"power": 2}, "requirements": [{"item": "ruvudo", "amount": 19}, {"item": "nejesu", "amount": 2}, {"item": "syxidonium", "amount": 7}], "research": "ruvudo-factory", "category": "production"}

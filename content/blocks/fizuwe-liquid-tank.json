@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fizuwe liquid tank", "description": "...", "health": 633, "size": 3, "requirements": [{"item": "fizuwe", "amount": 15}, {"item": "wicy", "amount": 13}, {"item": "noninium", "amount": 9}], "research": "fizuwe-conduit", "category": "liquid", "liquidCapacity": 15629, "hasLiquids": true}

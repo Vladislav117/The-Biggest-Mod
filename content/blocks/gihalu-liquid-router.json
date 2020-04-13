@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gihalu liquid router", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "gihalu", "amount": 18}, {"item": "sygoqu", "amount": 14}, {"item": "mehenium", "amount": 6}], "research": "gihalu-conduit", "liquidCapacity": 10, "category": "liquid"}

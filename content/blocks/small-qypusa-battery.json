@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qypusa battery", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "qypusa", "amount": 14}, {"item": "goduji", "amount": 19}, {"item": "mofapu", "amount": 8}], "research": "qypusa-factory", "consumes": {"powerBuffered": 2048}, "category": "power"}

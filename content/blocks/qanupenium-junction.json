@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qanupenium junction", "description": "...", "health": 28, "speed": 8, "capacity": 13, "size": 1, "requirements": [{"item": "qanupenium", "amount": 3}, {"item": "betesa", "amount": 4}], "research": "qanupenium-conveyor", "category": "distribution"}

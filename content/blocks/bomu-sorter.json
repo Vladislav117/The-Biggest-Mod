@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bomu sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "bomu", "amount": 2}, {"item": "pami", "amount": 2}], "research": "bomu-conveyor", "category": "distribution", "invert": false}

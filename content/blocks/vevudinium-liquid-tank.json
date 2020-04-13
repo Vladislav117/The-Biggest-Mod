@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vevudinium liquid tank", "description": "...", "health": 503, "size": 3, "requirements": [{"item": "vevudinium", "amount": 10}, {"item": "daqy", "amount": 18}, {"item": "bywazy", "amount": 8}], "research": "vevudinium-conduit", "category": "liquid", "liquidCapacity": 31722, "hasLiquids": true}

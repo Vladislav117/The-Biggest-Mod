@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "moye liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "moye", "amount": 7}, {"item": "hotose", "amount": 12}, {"item": "mozy", "amount": 10}], "research": "moye-conduit", "liquidCapacity": 10, "category": "liquid"}

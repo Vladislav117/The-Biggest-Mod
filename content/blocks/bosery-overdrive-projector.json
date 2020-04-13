@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "bosery overdrive projector", "description": "...", "health": 114, "consumes": {"power": 3.0, "item": "bosery"}, "size": 2, "requirements": [{"item": "bosery", "amount": 4}, {"item": "kufuvunium", "amount": 1}, {"item": "kizywanium", "amount": 4}], "research": "bosery-factory", "category": "effect"}

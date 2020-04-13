@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jyta power node", "description": "...", "size": 2, "health": 517, "requirements": [{"item": "jyta", "amount": 18}, {"item": "dalire", "amount": 19}, {"item": "siqefo", "amount": 8}], "research": "jyta-factory", "maxNodes": 49, "laserRange": 21, "category": "power"}

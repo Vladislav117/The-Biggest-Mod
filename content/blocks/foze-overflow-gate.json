@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "foze overflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "foze", "amount": 5}, {"item": "nihu", "amount": 1}], "research": "foze-conveyor", "category": "distribution", "invert": false}

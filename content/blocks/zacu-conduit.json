@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zacu conduit", "description": "...", "health": 37, "requirements": [{"item": "zacu", "amount": 17}, {"item": "wicy", "amount": 5}, {"item": "loqa", "amount": 9}], "liquidCapacity": 11, "liquidPressure": 4, "research": "zacu-factory", "category": "liquid"}

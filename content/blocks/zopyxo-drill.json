@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zopyxo drill", "description": "...", "size": 4, "health": 431, "tier": 3, "drillTime": 7, "consumes": {"power": 7}, "requirements": [{"item": "zopyxo", "amount": 2}, {"item": "lufe", "amount": 10}, {"item": "vevati", "amount": 5}], "research": "zopyxo-factory", "category": "production"}

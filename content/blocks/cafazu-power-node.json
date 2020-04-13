@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cafazu power node", "description": "...", "size": 2, "health": 357, "requirements": [{"item": "cafazu", "amount": 6}, {"item": "botynium", "amount": 9}, {"item": "kewawa", "amount": 5}], "research": "cafazu-factory", "maxNodes": 19, "laserRange": 28, "category": "power"}

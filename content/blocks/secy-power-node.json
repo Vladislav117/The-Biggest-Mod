@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "secy power node", "description": "...", "size": 2, "health": 557, "requirements": [{"item": "secy", "amount": 3}, {"item": "hegyzi", "amount": 1}, {"item": "fucyra", "amount": 4}], "research": "secy-factory", "maxNodes": 33, "laserRange": 6, "category": "power"}

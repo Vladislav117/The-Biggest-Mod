@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bywobu inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "bywobu", "amount": 5}, {"item": "wicy", "amount": 2}], "research": "bywobu-conveyor", "category": "distribution", "invert": true}

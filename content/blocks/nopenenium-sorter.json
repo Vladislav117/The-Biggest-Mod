@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nopenenium sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "nopenenium", "amount": 1}, {"item": "fusi", "amount": 1}], "research": "nopenenium-conveyor", "category": "distribution", "invert": false}

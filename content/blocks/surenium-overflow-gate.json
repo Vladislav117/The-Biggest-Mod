@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "surenium overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "surenium", "amount": 4}, {"item": "vodico", "amount": 1}], "research": "surenium-conveyor", "category": "distribution", "invert": false}

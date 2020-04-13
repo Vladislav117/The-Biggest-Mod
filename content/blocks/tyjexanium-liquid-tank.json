@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tyjexanium liquid tank", "description": "...", "health": 389, "size": 3, "requirements": [{"item": "tyjexanium", "amount": 20}, {"item": "tire", "amount": 7}, {"item": "suzu", "amount": 10}], "research": "tyjexanium-conduit", "category": "liquid", "liquidCapacity": 84477, "hasLiquids": true}

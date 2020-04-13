@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "refoty power node", "description": "...", "size": 2, "health": 679, "requirements": [{"item": "refoty", "amount": 7}, {"item": "gecu", "amount": 1}, {"item": "muti", "amount": 4}], "research": "refoty-factory", "maxNodes": 55, "laserRange": 27, "category": "power"}

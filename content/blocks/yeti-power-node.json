@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yeti power node", "description": "...", "size": 2, "health": 129, "requirements": [{"item": "yeti", "amount": 19}, {"item": "baqo", "amount": 13}, {"item": "fikexonium", "amount": 1}], "research": "yeti-factory", "maxNodes": 30, "laserRange": 9, "category": "power"}

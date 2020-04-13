@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "codaxe liquid tank", "description": "...", "health": 219, "size": 3, "requirements": [{"item": "codaxe", "amount": 7}, {"item": "wiba", "amount": 9}, {"item": "wace", "amount": 3}], "research": "codaxe-conduit", "category": "liquid", "liquidCapacity": 94214, "hasLiquids": true}

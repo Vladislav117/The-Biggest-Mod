@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nabu drill", "description": "...", "size": 2, "health": 306, "tier": 2, "drillTime": 19, "consumes": {"power": 6}, "requirements": [{"item": "nabu", "amount": 11}, {"item": "tisanium", "amount": 17}, {"item": "tadeja", "amount": 2}], "research": "nabu-factory", "category": "production"}

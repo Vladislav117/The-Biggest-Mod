@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kura battery", "description": "...", "size": 3, "health": 44, "requirements": [{"item": "kura", "amount": 15}, {"item": "gula", "amount": 9}, {"item": "tegizunium", "amount": 7}], "research": "kura-factory", "consumes": {"powerBuffered": 2325}, "category": "power"}

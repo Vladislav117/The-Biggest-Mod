@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hekika drill", "description": "...", "size": 2, "health": 347, "tier": 4, "drillTime": 18, "consumes": {"power": 19}, "requirements": [{"item": "hekika", "amount": 11}, {"item": "waha", "amount": 4}, {"item": "focewu", "amount": 8}], "research": "hekika-factory", "category": "production"}

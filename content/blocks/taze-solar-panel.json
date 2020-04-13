@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "taze solar panel", "description": "...", "size": 3, "health": 12, "requirements": [{"item": "taze", "amount": 10}, {"item": "zigije", "amount": 7}, {"item": "qaje", "amount": 4}], "research": "taze-factory", "powerProduction": 0.2647714355846087, "category": "power"}

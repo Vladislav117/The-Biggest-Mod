@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nehudo bridge conveyor", "description": "", "health": 2, "range": 18, "speed": 3, "bufferCapacity": 3, "requirements": [{"item": "nehudo", "amount": 5}, {"item": "baqo", "amount": 2}], "research": "nehudo-conveyor", "category": "distribution", "size": 1}

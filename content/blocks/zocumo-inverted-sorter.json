@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zocumo inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "zocumo", "amount": 1}, {"item": "duvadi", "amount": 1}], "research": "zocumo-conveyor", "category": "distribution", "invert": true}

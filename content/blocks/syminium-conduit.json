@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "syminium conduit", "description": "...", "health": 77, "requirements": [{"item": "syminium", "amount": 7}, {"item": "cidenium", "amount": 16}, {"item": "zanuja", "amount": 6}], "liquidCapacity": 42, "liquidPressure": 9, "research": "syminium-factory", "category": "liquid"}

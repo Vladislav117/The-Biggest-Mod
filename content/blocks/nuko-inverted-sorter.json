@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nuko inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "nuko", "amount": 4}, {"item": "qudy", "amount": 4}], "research": "nuko-conveyor", "category": "distribution", "invert": true}

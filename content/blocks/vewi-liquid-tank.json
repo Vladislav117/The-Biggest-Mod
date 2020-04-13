@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vewi liquid tank", "description": "...", "health": 491, "size": 3, "requirements": [{"item": "vewi", "amount": 4}, {"item": "xuricy", "amount": 17}, {"item": "xinodunium", "amount": 2}], "research": "vewi-conduit", "category": "liquid", "liquidCapacity": 89776, "hasLiquids": true}

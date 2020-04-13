@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hosa underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "hosa", "amount": 2}, {"item": "yify", "amount": 1}], "research": "hosa-conveyor", "category": "distribution", "invert": false}

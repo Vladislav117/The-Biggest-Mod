@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hyryhinium overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "hyryhinium", "amount": 3}, {"item": "gifu", "amount": 4}], "research": "hyryhinium-conveyor", "category": "distribution", "invert": false}

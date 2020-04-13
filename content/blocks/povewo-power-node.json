@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "povewo power node", "description": "...", "size": 2, "health": 551, "requirements": [{"item": "povewo", "amount": 2}, {"item": "zygebynium", "amount": 9}, {"item": "yobabynium", "amount": 3}], "research": "povewo-factory", "maxNodes": 54, "laserRange": 6, "category": "power"}

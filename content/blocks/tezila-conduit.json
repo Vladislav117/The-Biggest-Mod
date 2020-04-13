@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tezila conduit", "description": "...", "health": 127, "requirements": [{"item": "tezila", "amount": 13}, {"item": "syteja", "amount": 6}, {"item": "kurecanium", "amount": 1}], "liquidCapacity": 31, "liquidPressure": 8, "research": "tezila-factory", "category": "liquid"}

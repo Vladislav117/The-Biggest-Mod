@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "huru inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "huru", "amount": 1}, {"item": "gide", "amount": 4}], "research": "huru-conveyor", "category": "distribution", "invert": true}

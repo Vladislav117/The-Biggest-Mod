@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fupymi overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "fupymi", "amount": 3}, {"item": "rukycu", "amount": 4}], "research": "fupymi-conveyor", "category": "distribution", "invert": false}

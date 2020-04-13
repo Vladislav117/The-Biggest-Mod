@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lyceca sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "lyceca", "amount": 4}, {"item": "sacigi", "amount": 5}], "research": "lyceca-conveyor", "category": "distribution", "invert": false}

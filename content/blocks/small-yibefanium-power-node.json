@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yibefanium power node", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "yibefanium", "amount": 17}, {"item": "bedi", "amount": 20}, {"item": "sebeso", "amount": 1}], "research": "yibefanium-factory", "maxNodes": 29, "laserRange": 24, "category": "power"}

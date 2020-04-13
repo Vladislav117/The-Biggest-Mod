@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bopurunium solar panel", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "bopurunium", "amount": 3}, {"item": "cizi", "amount": 11}, {"item": "docyya", "amount": 4}], "research": "bopurunium-factory", "powerProduction": 4.746070896227316, "category": "power"}

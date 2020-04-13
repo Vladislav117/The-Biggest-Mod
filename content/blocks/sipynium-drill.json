@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sipynium drill", "description": "...", "size": 3, "health": 226, "tier": 2, "drillTime": 19, "consumes": {"power": 17}, "requirements": [{"item": "sipynium", "amount": 7}, {"item": "coqinium", "amount": 15}, {"item": "jumonium", "amount": 6}], "research": "sipynium-factory", "category": "production"}

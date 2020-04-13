@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "siwobanium sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "siwobanium", "amount": 5}, {"item": "naronium", "amount": 2}], "research": "siwobanium-conveyor", "category": "distribution", "invert": false}

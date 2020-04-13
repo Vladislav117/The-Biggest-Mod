@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fegy liquid router", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "fegy", "amount": 16}, {"item": "rabe", "amount": 5}, {"item": "qaho", "amount": 9}], "research": "fegy-conduit", "liquidCapacity": 10, "category": "liquid"}

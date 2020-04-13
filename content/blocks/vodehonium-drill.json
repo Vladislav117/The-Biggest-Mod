@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vodehonium drill", "description": "...", "size": 2, "health": 269, "tier": 4, "drillTime": 8, "consumes": {"power": 16}, "requirements": [{"item": "vodehonium", "amount": 15}, {"item": "jazipynium", "amount": 7}, {"item": "cizi", "amount": 7}], "research": "vodehonium-factory", "category": "production"}

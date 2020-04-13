@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "panapo liquid router", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "panapo", "amount": 17}, {"item": "karu", "amount": 15}, {"item": "bato", "amount": 4}], "research": "panapo-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rubahonium power node", "description": "...", "size": 2, "health": 163, "requirements": [{"item": "rubahonium", "amount": 16}, {"item": "wafy", "amount": 15}, {"item": "xega", "amount": 5}], "research": "rubahonium-factory", "maxNodes": 49, "laserRange": 9, "category": "power"}

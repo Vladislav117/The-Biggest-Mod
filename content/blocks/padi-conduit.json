@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "padi conduit", "description": "...", "health": 179, "requirements": [{"item": "padi", "amount": 7}, {"item": "jymi", "amount": 14}, {"item": "goti", "amount": 4}], "liquidCapacity": 28, "liquidPressure": 8, "research": "padi-factory", "category": "liquid"}

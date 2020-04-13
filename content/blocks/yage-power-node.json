@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yage power node", "description": "...", "size": 2, "health": 320, "requirements": [{"item": "yage", "amount": 1}, {"item": "yijotu", "amount": 17}, {"item": "qeze", "amount": 1}], "research": "yage-factory", "maxNodes": 46, "laserRange": 5, "category": "power"}

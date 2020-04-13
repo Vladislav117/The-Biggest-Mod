@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qanupenium solar panel", "description": "...", "size": 3, "health": 223, "requirements": [{"item": "qanupenium", "amount": 3}, {"item": "duto", "amount": 16}, {"item": "syso", "amount": 10}], "research": "qanupenium-factory", "powerProduction": 1.5368820181531146, "category": "power"}

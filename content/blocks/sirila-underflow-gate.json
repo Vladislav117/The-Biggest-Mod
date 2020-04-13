@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sirila underflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "sirila", "amount": 5}, {"item": "zefapynium", "amount": 4}], "research": "sirila-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qovy underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "qovy", "amount": 3}, {"item": "nepysi", "amount": 5}], "research": "qovy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small macixy solar panel", "description": "...", "size": 1, "health": 142, "requirements": [{"item": "macixy", "amount": 20}, {"item": "subece", "amount": 15}, {"item": "lowapo", "amount": 6}], "research": "macixy-factory", "powerProduction": 4.928799478735164, "category": "power"}

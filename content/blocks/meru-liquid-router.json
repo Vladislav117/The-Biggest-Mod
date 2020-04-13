@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "meru liquid router", "description": "...", "size": 1, "health": 93, "requirements": [{"item": "meru", "amount": 11}, {"item": "pavanium", "amount": 10}, {"item": "tire", "amount": 9}], "research": "meru-conduit", "liquidCapacity": 10, "category": "liquid"}

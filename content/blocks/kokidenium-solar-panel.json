@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kokidenium solar panel", "description": "...", "size": 3, "health": 166, "requirements": [{"item": "kokidenium", "amount": 20}, {"item": "qicu", "amount": 16}, {"item": "kofynium", "amount": 8}], "research": "kokidenium-factory", "powerProduction": 0.021190896019520754, "category": "power"}

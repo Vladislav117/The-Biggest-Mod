@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "yewoxa overdrive projector", "description": "...", "health": 104, "consumes": {"power": 3.0, "item": "yewoxa"}, "size": 2, "requirements": [{"item": "yewoxa", "amount": 1}, {"item": "surenium", "amount": 8}, {"item": "wano", "amount": 10}], "research": "yewoxa-factory", "category": "effect"}

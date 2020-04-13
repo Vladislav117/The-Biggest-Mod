@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zyhyne battery", "description": "...", "size": 3, "health": 352, "requirements": [{"item": "zyhyne", "amount": 18}, {"item": "madosy", "amount": 9}, {"item": "hocode", "amount": 1}], "research": "zyhyne-factory", "consumes": {"powerBuffered": 9314}, "category": "power"}

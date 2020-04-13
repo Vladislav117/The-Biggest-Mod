@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "peny inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "peny", "amount": 2}, {"item": "geqanium", "amount": 4}], "research": "peny-conveyor", "category": "distribution", "invert": true}

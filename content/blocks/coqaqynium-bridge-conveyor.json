@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "coqaqynium bridge conveyor", "description": "", "health": 36, "range": 3, "speed": 12, "bufferCapacity": 17, "requirements": [{"item": "coqaqynium", "amount": 1}, {"item": "wajese", "amount": 3}], "research": "coqaqynium-conveyor", "category": "distribution", "size": 1}

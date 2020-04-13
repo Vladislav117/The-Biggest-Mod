@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vubedi solar panel", "description": "...", "size": 1, "health": 139, "requirements": [{"item": "vubedi", "amount": 9}, {"item": "nifenium", "amount": 1}, {"item": "xegu", "amount": 5}], "research": "vubedi-factory", "powerProduction": 6.2843408996396395, "category": "power"}

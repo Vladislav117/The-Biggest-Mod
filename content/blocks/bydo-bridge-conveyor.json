@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bydo bridge conveyor", "description": "", "health": 38, "range": 4, "speed": 9, "bufferCapacity": 15, "requirements": [{"item": "bydo", "amount": 5}, {"item": "morila", "amount": 4}], "research": "bydo-conveyor", "category": "distribution", "size": 1}

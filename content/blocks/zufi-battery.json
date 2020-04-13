@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zufi battery", "description": "...", "size": 3, "health": 261, "requirements": [{"item": "zufi", "amount": 18}, {"item": "yypefa", "amount": 5}, {"item": "wybenium", "amount": 9}], "research": "zufi-factory", "consumes": {"powerBuffered": 907}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qakynunium battery", "description": "...", "size": 3, "health": 36, "requirements": [{"item": "qakynunium", "amount": 8}, {"item": "gifonium", "amount": 8}, {"item": "lisaca", "amount": 1}], "research": "qakynunium-factory", "consumes": {"powerBuffered": 626}, "category": "power"}

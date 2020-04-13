@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vule power node", "description": "...", "size": 2, "health": 731, "requirements": [{"item": "vule", "amount": 18}, {"item": "fydyvenium", "amount": 1}, {"item": "filo", "amount": 1}], "research": "vule-factory", "maxNodes": 51, "laserRange": 9, "category": "power"}

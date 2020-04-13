@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jofu liquid tank", "description": "...", "health": 337, "size": 3, "requirements": [{"item": "jofu", "amount": 8}, {"item": "muremi", "amount": 12}, {"item": "kawo", "amount": 3}], "research": "jofu-conduit", "category": "liquid", "liquidCapacity": 19419, "hasLiquids": true}

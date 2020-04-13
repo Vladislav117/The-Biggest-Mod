@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ryxaro battery", "description": "...", "size": 1, "health": 181, "requirements": [{"item": "ryxaro", "amount": 5}, {"item": "sewa", "amount": 13}, {"item": "vurewe", "amount": 7}], "research": "ryxaro-factory", "consumes": {"powerBuffered": 2890}, "category": "power"}

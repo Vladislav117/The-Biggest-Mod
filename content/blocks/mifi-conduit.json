@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mifi conduit", "description": "...", "health": 44, "requirements": [{"item": "mifi", "amount": 8}, {"item": "wupoxy", "amount": 19}, {"item": "lilyro", "amount": 9}], "liquidCapacity": 7, "liquidPressure": 2, "research": "mifi-factory", "category": "liquid"}

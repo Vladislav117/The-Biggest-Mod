@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zodu conduit", "description": "...", "health": 180, "requirements": [{"item": "zodu", "amount": 4}, {"item": "noxoqanium", "amount": 14}, {"item": "qeno", "amount": 10}], "liquidCapacity": 42, "liquidPressure": 8, "research": "zodu-factory", "category": "liquid"}

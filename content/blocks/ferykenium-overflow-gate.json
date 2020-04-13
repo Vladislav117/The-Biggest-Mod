@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ferykenium overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "ferykenium", "amount": 4}, {"item": "dipewanium", "amount": 2}], "research": "ferykenium-conveyor", "category": "distribution", "invert": false}

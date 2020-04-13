@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "yyjuhy force projector", "description": "...", "health": 241, "size": 3, "consumes": {"power": 5.0, "item": "yyjuhy"}, "requirements": [{"item": "yyjuhy", "amount": 20}, {"item": "bybity", "amount": 13}, {"item": "jihanium", "amount": 1}], "research": "yyjuhy-factory", "category": "effect"}

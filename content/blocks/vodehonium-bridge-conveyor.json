@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vodehonium bridge conveyor", "description": "", "health": 10, "range": 5, "speed": 11, "bufferCapacity": 2, "requirements": [{"item": "vodehonium", "amount": 4}, {"item": "plastanium", "amount": 3}], "research": "vodehonium-conveyor", "category": "distribution", "size": 1}

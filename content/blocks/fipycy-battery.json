@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fipycy battery", "description": "...", "size": 3, "health": 360, "requirements": [{"item": "fipycy", "amount": 10}, {"item": "neloto", "amount": 14}, {"item": "qube", "amount": 6}], "research": "fipycy-factory", "consumes": {"powerBuffered": 8764}, "category": "power"}

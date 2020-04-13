@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cobunium junction", "description": "...", "health": 10, "speed": 7, "capacity": 18, "size": 1, "requirements": [{"item": "cobunium", "amount": 3}, {"item": "nayevynium", "amount": 5}], "research": "cobunium-conveyor", "category": "distribution"}

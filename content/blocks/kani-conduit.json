@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kani conduit", "description": "...", "health": 160, "requirements": [{"item": "kani", "amount": 14}, {"item": "bajenium", "amount": 19}, {"item": "mylenium", "amount": 2}], "liquidCapacity": 25, "liquidPressure": 8, "research": "kani-factory", "category": "liquid"}

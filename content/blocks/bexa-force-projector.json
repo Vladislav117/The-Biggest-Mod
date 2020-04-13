@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "bexa force projector", "description": "...", "health": 240, "size": 3, "consumes": {"power": 5.0, "item": "bexa"}, "requirements": [{"item": "bexa", "amount": 10}, {"item": "kecufi", "amount": 1}, {"item": "tire", "amount": 9}], "research": "bexa-factory", "category": "effect"}

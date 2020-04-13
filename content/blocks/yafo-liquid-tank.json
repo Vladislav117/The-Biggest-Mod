@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yafo liquid tank", "description": "...", "health": 329, "size": 3, "requirements": [{"item": "yafo", "amount": 5}, {"item": "jylovo", "amount": 10}, {"item": "xoginium", "amount": 6}], "research": "yafo-conduit", "category": "liquid", "liquidCapacity": 101548, "hasLiquids": true}

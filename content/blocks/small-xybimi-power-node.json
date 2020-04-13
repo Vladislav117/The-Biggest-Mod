@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xybimi power node", "description": "...", "size": 1, "health": 151, "requirements": [{"item": "xybimi", "amount": 15}, {"item": "suca", "amount": 16}, {"item": "kiduka", "amount": 8}], "research": "xybimi-factory", "maxNodes": 16, "laserRange": 4, "category": "power"}

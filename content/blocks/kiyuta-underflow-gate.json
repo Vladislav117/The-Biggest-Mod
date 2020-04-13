@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kiyuta underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "kiyuta", "amount": 4}, {"item": "rutiri", "amount": 2}], "research": "kiyuta-conveyor", "category": "distribution", "invert": false}

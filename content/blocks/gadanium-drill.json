@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gadanium drill", "description": "...", "size": 4, "health": 198, "tier": 3, "drillTime": 14, "consumes": {"power": 11}, "requirements": [{"item": "gadanium", "amount": 20}, {"item": "lyruvanium", "amount": 7}, {"item": "dogequ", "amount": 5}], "research": "gadanium-factory", "category": "production"}

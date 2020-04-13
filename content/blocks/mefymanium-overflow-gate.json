@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mefymanium overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "mefymanium", "amount": 4}, {"item": "vewavu", "amount": 5}], "research": "mefymanium-conveyor", "category": "distribution", "invert": false}

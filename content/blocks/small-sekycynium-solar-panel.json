@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sekycynium solar panel", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "sekycynium", "amount": 6}, {"item": "syjo", "amount": 15}, {"item": "xafeku", "amount": 7}], "research": "sekycynium-factory", "powerProduction": 5.861570554616853, "category": "power"}

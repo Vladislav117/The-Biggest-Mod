@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wixyti bridge conveyor", "description": "", "health": 11, "range": 10, "speed": 16, "bufferCapacity": 8, "requirements": [{"item": "wixyti", "amount": 5}, {"item": "lymo", "amount": 2}], "research": "wixyti-conveyor", "category": "distribution", "size": 1}

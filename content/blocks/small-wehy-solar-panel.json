@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wehy solar panel", "description": "...", "size": 1, "health": 224, "requirements": [{"item": "wehy", "amount": 4}, {"item": "muqanium", "amount": 14}, {"item": "mijinium", "amount": 7}], "research": "wehy-factory", "powerProduction": 0.9317563078912363, "category": "power"}

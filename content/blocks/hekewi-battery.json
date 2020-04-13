@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hekewi battery", "description": "...", "size": 3, "health": 234, "requirements": [{"item": "hekewi", "amount": 3}, {"item": "goriwi", "amount": 7}, {"item": "dywusunium", "amount": 1}], "research": "hekewi-factory", "consumes": {"powerBuffered": 6716}, "category": "power"}

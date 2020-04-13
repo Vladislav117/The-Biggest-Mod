@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ryloxi battery", "description": "...", "size": 3, "health": 251, "requirements": [{"item": "ryloxi", "amount": 6}, {"item": "poquko", "amount": 14}, {"item": "wisi", "amount": 9}], "research": "ryloxi-factory", "consumes": {"powerBuffered": 8868}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "syxy battery", "description": "...", "size": 3, "health": 209, "requirements": [{"item": "syxy", "amount": 15}, {"item": "hudo", "amount": 16}, {"item": "fusyle", "amount": 5}], "research": "syxy-factory", "consumes": {"powerBuffered": 801}, "category": "power"}

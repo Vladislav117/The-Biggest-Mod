@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ruke power node", "description": "...", "size": 2, "health": 675, "requirements": [{"item": "ruke", "amount": 3}, {"item": "xycaqunium", "amount": 3}, {"item": "xuze", "amount": 10}], "research": "ruke-factory", "maxNodes": 36, "laserRange": 27, "category": "power"}

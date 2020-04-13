@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "locycanium underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "locycanium", "amount": 3}, {"item": "soki", "amount": 2}], "research": "locycanium-conveyor", "category": "distribution", "invert": false}

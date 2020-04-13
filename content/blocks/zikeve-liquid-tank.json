@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zikeve liquid tank", "description": "...", "health": 439, "size": 3, "requirements": [{"item": "zikeve", "amount": 11}, {"item": "cevu", "amount": 5}, {"item": "bito", "amount": 8}], "research": "zikeve-conduit", "category": "liquid", "liquidCapacity": 118338, "hasLiquids": true}

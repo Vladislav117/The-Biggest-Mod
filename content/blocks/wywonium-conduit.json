@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wywonium conduit", "description": "...", "health": 64, "requirements": [{"item": "wywonium", "amount": 19}, {"item": "nuzivo", "amount": 10}, {"item": "lucohi", "amount": 4}], "liquidCapacity": 23, "liquidPressure": 7, "research": "wywonium-factory", "category": "liquid"}

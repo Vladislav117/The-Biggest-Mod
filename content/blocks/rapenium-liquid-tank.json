@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rapenium liquid tank", "description": "...", "health": 437, "size": 3, "requirements": [{"item": "rapenium", "amount": 8}, {"item": "lexo", "amount": 4}, {"item": "xywege", "amount": 6}], "research": "rapenium-conduit", "category": "liquid", "liquidCapacity": 89829, "hasLiquids": true}

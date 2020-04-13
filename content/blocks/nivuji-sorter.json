@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nivuji sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "nivuji", "amount": 2}, {"item": "zuce", "amount": 4}], "research": "nivuji-conveyor", "category": "distribution", "invert": false}

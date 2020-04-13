@@ -1,0 +1,1 @@
+{"type": "battery", "name": "noriwe battery", "description": "...", "size": 3, "health": 12, "requirements": [{"item": "noriwe", "amount": 12}, {"item": "cifewy", "amount": 2}, {"item": "yuzeninium", "amount": 2}], "research": "noriwe-factory", "consumes": {"powerBuffered": 4314}, "category": "power"}

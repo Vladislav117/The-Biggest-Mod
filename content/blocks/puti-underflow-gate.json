@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "puti underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "puti", "amount": 2}, {"item": "zufi", "amount": 5}], "research": "puti-conveyor", "category": "distribution", "invert": false}

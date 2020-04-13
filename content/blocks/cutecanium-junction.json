@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cutecanium junction", "description": "...", "health": 37, "speed": 7, "capacity": 13, "size": 1, "requirements": [{"item": "cutecanium", "amount": 1}, {"item": "neda", "amount": 2}], "research": "cutecanium-conveyor", "category": "distribution"}

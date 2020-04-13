@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tavanium power node", "description": "...", "size": 1, "health": 210, "requirements": [{"item": "tavanium", "amount": 4}, {"item": "gomaly", "amount": 15}, {"item": "jydi", "amount": 9}], "research": "tavanium-factory", "maxNodes": 10, "laserRange": 4, "category": "power"}

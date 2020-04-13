@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yayunium battery", "description": "...", "size": 1, "health": 102, "requirements": [{"item": "yayunium", "amount": 4}, {"item": "nyyihy", "amount": 10}, {"item": "redo", "amount": 1}], "research": "yayunium-factory", "consumes": {"powerBuffered": 829}, "category": "power"}

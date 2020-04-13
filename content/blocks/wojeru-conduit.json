@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wojeru conduit", "description": "...", "health": 65, "requirements": [{"item": "wojeru", "amount": 1}, {"item": "puma", "amount": 2}, {"item": "xafeku", "amount": 3}], "liquidCapacity": 49, "liquidPressure": 1, "research": "wojeru-factory", "category": "liquid"}

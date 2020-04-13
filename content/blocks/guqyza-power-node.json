@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "guqyza power node", "description": "...", "size": 2, "health": 293, "requirements": [{"item": "guqyza", "amount": 6}, {"item": "nicyfi", "amount": 18}, {"item": "rukonium", "amount": 2}], "research": "guqyza-factory", "maxNodes": 20, "laserRange": 30, "category": "power"}

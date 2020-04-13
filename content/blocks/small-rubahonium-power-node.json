@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rubahonium power node", "description": "...", "size": 1, "health": 247, "requirements": [{"item": "rubahonium", "amount": 10}, {"item": "qubyra", "amount": 10}, {"item": "garuza", "amount": 10}], "research": "rubahonium-factory", "maxNodes": 29, "laserRange": 17, "category": "power"}

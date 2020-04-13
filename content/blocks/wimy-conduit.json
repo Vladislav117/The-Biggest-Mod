@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wimy conduit", "description": "...", "health": 102, "requirements": [{"item": "wimy", "amount": 6}, {"item": "tise", "amount": 3}, {"item": "hypyye", "amount": 8}], "liquidCapacity": 50, "liquidPressure": 6, "research": "wimy-factory", "category": "liquid"}

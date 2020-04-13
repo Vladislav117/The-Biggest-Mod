@@ -1,0 +1,1 @@
+{"type": "Wall", "name": "pyga small wall", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "pyga", "amount": 8}], "research": "pyga-factory", "category": "defense"}

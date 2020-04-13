@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bysotunium solar panel", "description": "...", "size": 3, "health": 117, "requirements": [{"item": "bysotunium", "amount": 2}, {"item": "rebifo", "amount": 2}, {"item": "piwoci", "amount": 2}], "research": "bysotunium-factory", "powerProduction": 0.352963277382394, "category": "power"}

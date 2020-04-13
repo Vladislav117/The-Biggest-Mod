@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fisi drill", "description": "...", "size": 4, "health": 229, "tier": 3, "drillTime": 5, "consumes": {"power": 8}, "requirements": [{"item": "fisi", "amount": 12}, {"item": "cydeyy", "amount": 6}, {"item": "voky", "amount": 1}], "research": "fisi-factory", "category": "production"}

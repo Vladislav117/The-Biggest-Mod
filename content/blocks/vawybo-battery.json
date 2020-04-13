@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vawybo battery", "description": "...", "size": 3, "health": 398, "requirements": [{"item": "vawybo", "amount": 6}, {"item": "zyru", "amount": 5}, {"item": "lilonium", "amount": 2}], "research": "vawybo-factory", "consumes": {"powerBuffered": 3411}, "category": "power"}

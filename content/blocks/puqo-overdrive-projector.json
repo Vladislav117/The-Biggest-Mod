@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "puqo overdrive projector", "description": "...", "health": 76, "consumes": {"power": 3.0, "item": "puqo"}, "size": 2, "requirements": [{"item": "puqo", "amount": 18}, {"item": "wifu", "amount": 19}, {"item": "diyajy", "amount": 2}], "research": "puqo-factory", "category": "effect"}

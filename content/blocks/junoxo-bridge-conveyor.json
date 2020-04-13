@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "junoxo bridge conveyor", "description": "", "health": 11, "range": 11, "speed": 18, "bufferCapacity": 17, "requirements": [{"item": "junoxo", "amount": 3}, {"item": "tydeja", "amount": 3}], "research": "junoxo-conveyor", "category": "distribution", "size": 1}

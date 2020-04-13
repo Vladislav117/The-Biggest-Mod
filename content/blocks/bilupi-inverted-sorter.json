@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bilupi inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "bilupi", "amount": 2}, {"item": "xuze", "amount": 3}], "research": "bilupi-conveyor", "category": "distribution", "invert": true}

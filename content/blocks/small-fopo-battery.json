@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fopo battery", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "fopo", "amount": 15}, {"item": "kituhinium", "amount": 6}, {"item": "lyva", "amount": 4}], "research": "fopo-factory", "consumes": {"powerBuffered": 255}, "category": "power"}

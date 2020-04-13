@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tudinium overflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "tudinium", "amount": 4}, {"item": "sidu", "amount": 5}], "research": "tudinium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bevy battery", "description": "...", "size": 1, "health": 168, "requirements": [{"item": "bevy", "amount": 1}, {"item": "nivifu", "amount": 8}, {"item": "syfy", "amount": 9}], "research": "bevy-factory", "consumes": {"powerBuffered": 2294}, "category": "power"}

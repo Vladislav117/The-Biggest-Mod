@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "syxidonium inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "syxidonium", "amount": 2}, {"item": "kubi", "amount": 3}], "research": "syxidonium-conveyor", "category": "distribution", "invert": true}

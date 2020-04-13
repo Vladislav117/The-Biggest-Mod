@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xojinium battery", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "xojinium", "amount": 9}, {"item": "jyzywy", "amount": 10}, {"item": "cuba", "amount": 10}], "research": "xojinium-factory", "consumes": {"powerBuffered": 2958}, "category": "power"}

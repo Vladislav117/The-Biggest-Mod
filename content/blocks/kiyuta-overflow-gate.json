@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kiyuta overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "kiyuta", "amount": 5}, {"item": "kedymi", "amount": 3}], "research": "kiyuta-conveyor", "category": "distribution", "invert": false}

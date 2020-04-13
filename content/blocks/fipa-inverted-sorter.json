@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fipa inverted sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "fipa", "amount": 2}, {"item": "qivi", "amount": 2}], "research": "fipa-conveyor", "category": "distribution", "invert": true}

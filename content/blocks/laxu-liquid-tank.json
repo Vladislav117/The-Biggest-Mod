@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "laxu liquid tank", "description": "...", "health": 284, "size": 3, "requirements": [{"item": "laxu", "amount": 12}, {"item": "gogajy", "amount": 9}, {"item": "surge-alloy", "amount": 3}], "research": "laxu-conduit", "category": "liquid", "liquidCapacity": 72467, "hasLiquids": true}

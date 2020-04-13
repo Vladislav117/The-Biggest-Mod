@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yoqowa liquid router", "description": "...", "size": 1, "health": 85, "requirements": [{"item": "yoqowa", "amount": 18}, {"item": "zywave", "amount": 18}, {"item": "civonium", "amount": 7}], "research": "yoqowa-conduit", "liquidCapacity": 10, "category": "liquid"}

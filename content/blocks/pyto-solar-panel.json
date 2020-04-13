@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pyto solar panel", "description": "...", "size": 3, "health": 272, "requirements": [{"item": "pyto", "amount": 9}, {"item": "haqu", "amount": 15}, {"item": "pikoqi", "amount": 6}], "research": "pyto-factory", "powerProduction": 1.7389979926054369, "category": "power"}

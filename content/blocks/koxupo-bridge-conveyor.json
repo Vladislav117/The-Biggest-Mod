@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "koxupo bridge conveyor", "description": "", "health": 25, "range": 6, "speed": 8, "bufferCapacity": 25, "requirements": [{"item": "koxupo", "amount": 5}, {"item": "daziha", "amount": 4}], "research": "koxupo-conveyor", "category": "distribution", "size": 1}

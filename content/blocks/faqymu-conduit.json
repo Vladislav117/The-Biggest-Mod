@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "faqymu conduit", "description": "...", "health": 140, "requirements": [{"item": "faqymu", "amount": 19}, {"item": "kubi", "amount": 7}, {"item": "hoqade", "amount": 5}], "liquidCapacity": 22, "liquidPressure": 6, "research": "faqymu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vaxide battery", "description": "...", "size": 3, "health": 229, "requirements": [{"item": "vaxide", "amount": 4}, {"item": "dugy", "amount": 6}, {"item": "foqego", "amount": 9}], "research": "vaxide-factory", "consumes": {"powerBuffered": 8448}, "category": "power"}

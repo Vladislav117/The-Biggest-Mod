@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fari solar panel", "description": "...", "size": 1, "health": 195, "requirements": [{"item": "fari", "amount": 1}, {"item": "muni", "amount": 15}, {"item": "xexocunium", "amount": 2}], "research": "fari-factory", "powerProduction": 2.018384223846692, "category": "power"}

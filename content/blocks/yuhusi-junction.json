@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yuhusi junction", "description": "...", "health": 31, "speed": 14, "capacity": 13, "size": 1, "requirements": [{"item": "yuhusi", "amount": 4}, {"item": "gobaxu", "amount": 1}], "research": "yuhusi-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jygu solar panel", "description": "...", "size": 3, "health": 134, "requirements": [{"item": "jygu", "amount": 6}, {"item": "begerynium", "amount": 16}, {"item": "lesoxonium", "amount": 3}], "research": "jygu-factory", "powerProduction": 0.5034465320337183, "category": "power"}

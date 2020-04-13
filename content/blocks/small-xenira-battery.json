@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xenira battery", "description": "...", "size": 1, "health": 206, "requirements": [{"item": "xenira", "amount": 18}, {"item": "lowapo", "amount": 10}, {"item": "jehonium", "amount": 4}], "research": "xenira-factory", "consumes": {"powerBuffered": 807}, "category": "power"}

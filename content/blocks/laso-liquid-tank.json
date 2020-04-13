@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "laso liquid tank", "description": "...", "health": 406, "size": 3, "requirements": [{"item": "laso", "amount": 4}, {"item": "nytina", "amount": 1}, {"item": "qari", "amount": 7}], "research": "laso-conduit", "category": "liquid", "liquidCapacity": 13157, "hasLiquids": true}

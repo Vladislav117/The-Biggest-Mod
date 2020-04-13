@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vego conduit", "description": "...", "health": 49, "requirements": [{"item": "vego", "amount": 18}, {"item": "zuzequ", "amount": 14}, {"item": "thorium", "amount": 5}], "liquidCapacity": 5, "liquidPressure": 3, "research": "vego-factory", "category": "liquid"}

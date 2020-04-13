@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tizusa liquid tank", "description": "...", "health": 234, "size": 3, "requirements": [{"item": "tizusa", "amount": 12}, {"item": "yalaka", "amount": 6}, {"item": "hunaci", "amount": 7}], "research": "tizusa-conduit", "category": "liquid", "liquidCapacity": 7086, "hasLiquids": true}

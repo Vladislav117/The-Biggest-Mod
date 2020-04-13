@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "heruvu solar panel", "description": "...", "size": 3, "health": 199, "requirements": [{"item": "heruvu", "amount": 18}, {"item": "beniyi", "amount": 13}, {"item": "ceyuwy", "amount": 9}], "research": "heruvu-factory", "powerProduction": 0.039665450186404924, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pyfy solar panel", "description": "...", "size": 3, "health": 187, "requirements": [{"item": "pyfy", "amount": 5}, {"item": "xikexi", "amount": 2}, {"item": "qeyanium", "amount": 3}], "research": "pyfy-factory", "powerProduction": 2.802720535359207, "category": "power"}

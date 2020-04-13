@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pagopy liquid tank", "description": "...", "health": 168, "size": 3, "requirements": [{"item": "pagopy", "amount": 15}, {"item": "mizu", "amount": 14}, {"item": "vyka", "amount": 10}], "research": "pagopy-conduit", "category": "liquid", "liquidCapacity": 7889, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zedunium battery", "description": "...", "size": 3, "health": 302, "requirements": [{"item": "zedunium", "amount": 15}, {"item": "lead", "amount": 4}, {"item": "liqohy", "amount": 9}], "research": "zedunium-factory", "consumes": {"powerBuffered": 5761}, "category": "power"}

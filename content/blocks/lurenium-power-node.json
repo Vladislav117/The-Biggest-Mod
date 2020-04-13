@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lurenium power node", "description": "...", "size": 2, "health": 429, "requirements": [{"item": "lurenium", "amount": 16}, {"item": "xiqe", "amount": 19}, {"item": "bomynium", "amount": 5}], "research": "lurenium-factory", "maxNodes": 30, "laserRange": 19, "category": "power"}

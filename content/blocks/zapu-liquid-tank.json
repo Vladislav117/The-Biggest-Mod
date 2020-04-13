@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zapu liquid tank", "description": "...", "health": 268, "size": 3, "requirements": [{"item": "zapu", "amount": 14}, {"item": "giha", "amount": 15}, {"item": "ruteqa", "amount": 9}], "research": "zapu-conduit", "category": "liquid", "liquidCapacity": 42267, "hasLiquids": true}

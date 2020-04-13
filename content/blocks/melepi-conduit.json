@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "melepi conduit", "description": "...", "health": 38, "requirements": [{"item": "melepi", "amount": 4}, {"item": "lumasunium", "amount": 19}, {"item": "geke", "amount": 9}], "liquidCapacity": 49, "liquidPressure": 1, "research": "melepi-factory", "category": "liquid"}

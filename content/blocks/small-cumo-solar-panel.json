@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cumo solar panel", "description": "...", "size": 1, "health": 320, "requirements": [{"item": "cumo", "amount": 18}, {"item": "mase", "amount": 18}, {"item": "gozagy", "amount": 2}], "research": "cumo-factory", "powerProduction": 5.331577540480292, "category": "power"}

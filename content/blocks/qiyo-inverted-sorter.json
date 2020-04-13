@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qiyo inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "qiyo", "amount": 2}, {"item": "kanuya", "amount": 5}], "research": "qiyo-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kypy power node", "description": "...", "size": 2, "health": 336, "requirements": [{"item": "kypy", "amount": 17}, {"item": "jyti", "amount": 17}, {"item": "geka", "amount": 7}], "research": "kypy-factory", "maxNodes": 41, "laserRange": 23, "category": "power"}

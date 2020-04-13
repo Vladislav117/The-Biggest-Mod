@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wojeru junction", "description": "...", "health": 27, "speed": 3, "capacity": 10, "size": 1, "requirements": [{"item": "wojeru", "amount": 3}, {"item": "tyqi", "amount": 1}], "research": "wojeru-conveyor", "category": "distribution"}

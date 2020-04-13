@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jihanium sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "jihanium", "amount": 3}, {"item": "nimy", "amount": 1}], "research": "jihanium-conveyor", "category": "distribution", "invert": false}

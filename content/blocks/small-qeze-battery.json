@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qeze battery", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "qeze", "amount": 9}, {"item": "bapi", "amount": 16}, {"item": "tusico", "amount": 7}], "research": "qeze-factory", "consumes": {"powerBuffered": 2462}, "category": "power"}

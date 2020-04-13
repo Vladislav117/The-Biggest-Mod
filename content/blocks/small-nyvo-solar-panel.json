@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nyvo solar panel", "description": "...", "size": 1, "health": 166, "requirements": [{"item": "nyvo", "amount": 9}, {"item": "yobito", "amount": 13}, {"item": "qipo", "amount": 10}], "research": "nyvo-factory", "powerProduction": 0.30193741660699597, "category": "power"}

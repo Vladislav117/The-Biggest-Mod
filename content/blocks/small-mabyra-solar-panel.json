@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mabyra solar panel", "description": "...", "size": 1, "health": 370, "requirements": [{"item": "mabyra", "amount": 3}, {"item": "qipy", "amount": 1}, {"item": "dyguzu", "amount": 2}], "research": "mabyra-factory", "powerProduction": 0.7512255048806347, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nilara junction", "description": "...", "health": 31, "speed": 11, "capacity": 10, "size": 1, "requirements": [{"item": "nilara", "amount": 5}, {"item": "karu", "amount": 2}], "research": "nilara-conveyor", "category": "distribution"}

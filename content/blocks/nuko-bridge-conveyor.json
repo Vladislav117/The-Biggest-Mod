@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nuko bridge conveyor", "description": "", "health": 45, "range": 4, "speed": 2, "bufferCapacity": 8, "requirements": [{"item": "nuko", "amount": 3}, {"item": "viqamo", "amount": 5}], "research": "nuko-conveyor", "category": "distribution", "size": 1}

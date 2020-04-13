@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "higucu conduit", "description": "...", "health": 146, "requirements": [{"item": "higucu", "amount": 7}, {"item": "naku", "amount": 7}, {"item": "weweco", "amount": 9}], "liquidCapacity": 50, "liquidPressure": 1, "research": "higucu-factory", "category": "liquid"}

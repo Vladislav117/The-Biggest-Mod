@@ -1,0 +1,1 @@
+{"type": "router", "name": "cuvino router", "description": "...", "health": 102, "size": 1, "requirements": [{"item": "cuvino", "amount": 2}], "research": "cuvino-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wazy power node", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "wazy", "amount": 20}, {"item": "dugi", "amount": 20}, {"item": "lyhi", "amount": 7}], "research": "wazy-factory", "maxNodes": 6, "laserRange": 14, "category": "power"}

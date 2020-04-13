@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yedyte sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "yedyte", "amount": 4}, {"item": "ciqi", "amount": 2}], "research": "yedyte-conveyor", "category": "distribution", "invert": false}

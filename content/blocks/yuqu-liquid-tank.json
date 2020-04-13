@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yuqu liquid tank", "description": "...", "health": 363, "size": 3, "requirements": [{"item": "yuqu", "amount": 8}, {"item": "wupoxy", "amount": 18}, {"item": "mytati", "amount": 7}], "research": "yuqu-conduit", "category": "liquid", "liquidCapacity": 78283, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "koci conduit", "description": "...", "health": 89, "requirements": [{"item": "koci", "amount": 10}, {"item": "lepe", "amount": 8}, {"item": "cyyenium", "amount": 3}], "liquidCapacity": 13, "liquidPressure": 6, "research": "koci-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "siqenium overdrive projector", "description": "...", "health": 53, "consumes": {"power": 3.0, "item": "siqenium"}, "size": 2, "requirements": [{"item": "siqenium", "amount": 1}, {"item": "sonydu", "amount": 6}, {"item": "koku", "amount": 3}], "research": "siqenium-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "vate overdrive projector", "description": "...", "health": 65, "consumes": {"power": 3.0, "item": "vate"}, "size": 2, "requirements": [{"item": "vate", "amount": 7}, {"item": "xyfynium", "amount": 16}, {"item": "puzybo", "amount": 6}], "research": "vate-factory", "category": "effect"}

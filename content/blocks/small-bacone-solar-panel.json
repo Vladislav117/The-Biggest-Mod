@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bacone solar panel", "description": "...", "size": 1, "health": 108, "requirements": [{"item": "bacone", "amount": 6}, {"item": "lymo", "amount": 17}, {"item": "nimawo", "amount": 5}], "research": "bacone-factory", "powerProduction": 0.8135834942938379, "category": "power"}

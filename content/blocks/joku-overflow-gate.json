@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "joku overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "joku", "amount": 2}, {"item": "fino", "amount": 4}], "research": "joku-conveyor", "category": "distribution", "invert": false}

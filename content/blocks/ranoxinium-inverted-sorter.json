@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ranoxinium inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "ranoxinium", "amount": 3}, {"item": "jyma", "amount": 5}], "research": "ranoxinium-conveyor", "category": "distribution", "invert": true}

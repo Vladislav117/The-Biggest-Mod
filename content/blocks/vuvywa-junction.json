@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vuvywa junction", "description": "...", "health": 15, "speed": 3, "capacity": 10, "size": 1, "requirements": [{"item": "vuvywa", "amount": 4}, {"item": "yyle", "amount": 3}], "research": "vuvywa-conveyor", "category": "distribution"}

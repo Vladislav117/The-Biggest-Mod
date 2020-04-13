@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "miqomy conduit", "description": "...", "health": 78, "requirements": [{"item": "miqomy", "amount": 20}, {"item": "hedi", "amount": 15}, {"item": "takyhonium", "amount": 9}], "liquidCapacity": 26, "liquidPressure": 2, "research": "miqomy-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vate power node", "description": "...", "size": 2, "health": 100, "requirements": [{"item": "vate", "amount": 20}, {"item": "vywene", "amount": 17}, {"item": "xutire", "amount": 1}], "research": "vate-factory", "maxNodes": 13, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yycoqe battery", "description": "...", "size": 3, "health": 266, "requirements": [{"item": "yycoqe", "amount": 15}, {"item": "hypo", "amount": 5}, {"item": "wevaze", "amount": 4}], "research": "yycoqe-factory", "consumes": {"powerBuffered": 7751}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yito power node", "description": "...", "size": 1, "health": 184, "requirements": [{"item": "yito", "amount": 10}, {"item": "dyguzu", "amount": 20}, {"item": "fytuve", "amount": 7}], "research": "yito-factory", "maxNodes": 11, "laserRange": 7, "category": "power"}

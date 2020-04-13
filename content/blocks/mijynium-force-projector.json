@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "mijynium force projector", "description": "...", "health": 174, "size": 3, "consumes": {"power": 5.0, "item": "mijynium"}, "requirements": [{"item": "mijynium", "amount": 4}, {"item": "sywuze", "amount": 7}, {"item": "zivo", "amount": 6}], "research": "mijynium-factory", "category": "effect"}

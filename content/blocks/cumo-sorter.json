@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cumo sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "cumo", "amount": 1}, {"item": "cabyzo", "amount": 5}], "research": "cumo-conveyor", "category": "distribution", "invert": false}

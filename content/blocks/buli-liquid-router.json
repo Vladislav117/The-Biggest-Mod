@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "buli liquid router", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "buli", "amount": 14}, {"item": "pygu", "amount": 16}, {"item": "yuby", "amount": 2}], "research": "buli-conduit", "liquidCapacity": 10, "category": "liquid"}

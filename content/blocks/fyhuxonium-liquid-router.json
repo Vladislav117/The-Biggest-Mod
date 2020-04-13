@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fyhuxonium liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "fyhuxonium", "amount": 13}, {"item": "nyyonium", "amount": 2}, {"item": "direme", "amount": 4}], "research": "fyhuxonium-conduit", "liquidCapacity": 10, "category": "liquid"}

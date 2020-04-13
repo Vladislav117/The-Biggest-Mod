@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "leqe drill", "description": "...", "size": 2, "health": 432, "tier": 3, "drillTime": 6, "consumes": {"power": 14}, "requirements": [{"item": "leqe", "amount": 2}, {"item": "yemy", "amount": 5}, {"item": "huro", "amount": 1}], "research": "leqe-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kuwy drill", "description": "...", "size": 2, "health": 147, "tier": 2, "drillTime": 16, "consumes": {"power": 19}, "requirements": [{"item": "kuwy", "amount": 14}, {"item": "pozilonium", "amount": 7}, {"item": "beniyi", "amount": 7}], "research": "kuwy-factory", "category": "production"}

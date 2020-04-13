@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kuza liquid tank", "description": "...", "health": 643, "size": 3, "requirements": [{"item": "kuza", "amount": 14}, {"item": "kyna", "amount": 15}, {"item": "rale", "amount": 9}], "research": "kuza-conduit", "category": "liquid", "liquidCapacity": 23071, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gylasa inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "gylasa", "amount": 5}, {"item": "lovy", "amount": 1}], "research": "gylasa-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "soni inverted sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "soni", "amount": 4}, {"item": "tobu", "amount": 2}], "research": "soni-conveyor", "category": "distribution", "invert": true}

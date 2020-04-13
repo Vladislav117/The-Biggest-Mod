@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zaba bridge conveyor", "description": "", "health": 1, "range": 12, "speed": 5, "bufferCapacity": 8, "requirements": [{"item": "zaba", "amount": 5}, {"item": "covikinium", "amount": 1}], "research": "zaba-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xafeku liquid tank", "description": "...", "health": 160, "size": 3, "requirements": [{"item": "xafeku", "amount": 2}, {"item": "suta", "amount": 20}, {"item": "kozypi", "amount": 7}], "research": "xafeku-conduit", "category": "liquid", "liquidCapacity": 112600, "hasLiquids": true}

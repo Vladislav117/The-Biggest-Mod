@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hisoye sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "hisoye", "amount": 1}, {"item": "puri", "amount": 5}], "research": "hisoye-conveyor", "category": "distribution", "invert": false}

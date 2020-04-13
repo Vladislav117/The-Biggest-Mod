@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sisitonium battery", "description": "...", "size": 3, "health": 380, "requirements": [{"item": "sisitonium", "amount": 10}, {"item": "qexata", "amount": 10}, {"item": "paba", "amount": 8}], "research": "sisitonium-factory", "consumes": {"powerBuffered": 4965}, "category": "power"}

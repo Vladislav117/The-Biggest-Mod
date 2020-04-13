@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qybasinium junction", "description": "...", "health": 48, "speed": 17, "capacity": 1, "size": 1, "requirements": [{"item": "qybasinium", "amount": 3}, {"item": "xobasonium", "amount": 2}], "research": "qybasinium-conveyor", "category": "distribution"}

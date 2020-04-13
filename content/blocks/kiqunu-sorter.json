@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kiqunu sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "kiqunu", "amount": 5}, {"item": "myzu", "amount": 1}], "research": "kiqunu-conveyor", "category": "distribution", "invert": false}

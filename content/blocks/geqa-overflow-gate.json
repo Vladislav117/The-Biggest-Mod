@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "geqa overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "geqa", "amount": 5}, {"item": "tomufa", "amount": 4}], "research": "geqa-conveyor", "category": "distribution", "invert": false}

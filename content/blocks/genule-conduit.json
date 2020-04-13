@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "genule conduit", "description": "...", "health": 140, "requirements": [{"item": "genule", "amount": 16}, {"item": "ruqype", "amount": 9}, {"item": "gydycu", "amount": 6}], "liquidCapacity": 25, "liquidPressure": 4, "research": "genule-factory", "category": "liquid"}

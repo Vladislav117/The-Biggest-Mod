@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dakiqu battery", "description": "...", "size": 3, "health": 312, "requirements": [{"item": "dakiqu", "amount": 10}, {"item": "cuso", "amount": 20}, {"item": "qeconium", "amount": 10}], "research": "dakiqu-factory", "consumes": {"powerBuffered": 6430}, "category": "power"}

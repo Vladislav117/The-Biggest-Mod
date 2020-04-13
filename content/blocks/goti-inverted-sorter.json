@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "goti inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "goti", "amount": 4}, {"item": "ryqaje", "amount": 2}], "research": "goti-conveyor", "category": "distribution", "invert": true}

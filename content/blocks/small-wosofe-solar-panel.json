@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wosofe solar panel", "description": "...", "size": 1, "health": 256, "requirements": [{"item": "wosofe", "amount": 14}, {"item": "nyma", "amount": 9}, {"item": "qewo", "amount": 2}], "research": "wosofe-factory", "powerProduction": 0.5455108069231152, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vyroca power node", "description": "...", "size": 2, "health": 143, "requirements": [{"item": "vyroca", "amount": 15}, {"item": "xebili", "amount": 15}, {"item": "nedanium", "amount": 1}], "research": "vyroca-factory", "maxNodes": 60, "laserRange": 21, "category": "power"}

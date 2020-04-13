@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "netonium liquid tank", "description": "...", "health": 285, "size": 3, "requirements": [{"item": "netonium", "amount": 18}, {"item": "yewininium", "amount": 16}, {"item": "sybo", "amount": 3}], "research": "netonium-conduit", "category": "liquid", "liquidCapacity": 5974, "hasLiquids": true}

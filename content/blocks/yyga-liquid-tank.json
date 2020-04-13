@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yyga liquid tank", "description": "...", "health": 300, "size": 3, "requirements": [{"item": "yyga", "amount": 11}, {"item": "nimawo", "amount": 4}, {"item": "qyha", "amount": 9}], "research": "yyga-conduit", "category": "liquid", "liquidCapacity": 69523, "hasLiquids": true}

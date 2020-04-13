@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yuno inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "yuno", "amount": 2}, {"item": "widydo", "amount": 3}], "research": "yuno-conveyor", "category": "distribution", "invert": true}

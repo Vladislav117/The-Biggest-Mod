@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vodehonium junction", "description": "...", "health": 43, "speed": 18, "capacity": 11, "size": 1, "requirements": [{"item": "vodehonium", "amount": 4}, {"item": "qivi", "amount": 3}], "research": "vodehonium-conveyor", "category": "distribution"}

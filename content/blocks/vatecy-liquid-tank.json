@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vatecy liquid tank", "description": "...", "health": 425, "size": 3, "requirements": [{"item": "vatecy", "amount": 16}, {"item": "hayy", "amount": 18}, {"item": "kima", "amount": 3}], "research": "vatecy-conduit", "category": "liquid", "liquidCapacity": 19155, "hasLiquids": true}

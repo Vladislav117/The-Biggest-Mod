@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lequ drill", "description": "...", "size": 2, "health": 257, "tier": 1, "drillTime": 20, "consumes": {"power": 13}, "requirements": [{"item": "lequ", "amount": 7}, {"item": "juge", "amount": 5}, {"item": "laxu", "amount": 7}], "research": "lequ-factory", "category": "production"}

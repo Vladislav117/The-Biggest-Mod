@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "judeconium sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "judeconium", "amount": 1}, {"item": "qobopinium", "amount": 2}], "research": "judeconium-conveyor", "category": "distribution", "invert": false}

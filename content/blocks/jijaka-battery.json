@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jijaka battery", "description": "...", "size": 3, "health": 86, "requirements": [{"item": "jijaka", "amount": 13}, {"item": "gakapa", "amount": 16}, {"item": "kyronium", "amount": 2}], "research": "jijaka-factory", "consumes": {"powerBuffered": 9026}, "category": "power"}

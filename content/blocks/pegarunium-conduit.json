@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pegarunium conduit", "description": "...", "health": 148, "requirements": [{"item": "pegarunium", "amount": 3}, {"item": "yixy", "amount": 4}, {"item": "yuyy", "amount": 9}], "liquidCapacity": 11, "liquidPressure": 1, "research": "pegarunium-factory", "category": "liquid"}

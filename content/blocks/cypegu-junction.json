@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cypegu junction", "description": "...", "health": 24, "speed": 5, "capacity": 19, "size": 1, "requirements": [{"item": "cypegu", "amount": 4}, {"item": "qeraxu", "amount": 4}], "research": "cypegu-conveyor", "category": "distribution"}

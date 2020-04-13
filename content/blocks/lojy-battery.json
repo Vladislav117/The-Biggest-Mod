@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lojy battery", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "lojy", "amount": 19}, {"item": "zida", "amount": 10}, {"item": "goduji", "amount": 2}], "research": "lojy-factory", "consumes": {"powerBuffered": 2059}, "category": "power"}

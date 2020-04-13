@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mabe bridge conveyor", "description": "", "health": 50, "range": 13, "speed": 15, "bufferCapacity": 11, "requirements": [{"item": "mabe", "amount": 3}, {"item": "vezafa", "amount": 5}], "research": "mabe-conveyor", "category": "distribution", "size": 1}

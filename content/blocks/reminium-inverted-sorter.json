@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "reminium inverted sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "reminium", "amount": 4}, {"item": "falu", "amount": 3}], "research": "reminium-conveyor", "category": "distribution", "invert": true}

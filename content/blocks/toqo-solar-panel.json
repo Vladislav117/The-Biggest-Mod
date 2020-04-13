@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "toqo solar panel", "description": "...", "size": 3, "health": 238, "requirements": [{"item": "toqo", "amount": 16}, {"item": "veru", "amount": 1}, {"item": "ciremo", "amount": 8}], "research": "toqo-factory", "powerProduction": 2.5073218296761577, "category": "power"}

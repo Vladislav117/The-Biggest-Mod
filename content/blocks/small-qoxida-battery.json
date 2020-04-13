@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qoxida battery", "description": "...", "size": 1, "health": 260, "requirements": [{"item": "qoxida", "amount": 14}, {"item": "yowiminium", "amount": 5}, {"item": "qayanium", "amount": 8}], "research": "qoxida-factory", "consumes": {"powerBuffered": 1041}, "category": "power"}

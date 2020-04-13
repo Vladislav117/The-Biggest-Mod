@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sifony inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "sifony", "amount": 1}, {"item": "hajo", "amount": 5}], "research": "sifony-conveyor", "category": "distribution", "invert": true}

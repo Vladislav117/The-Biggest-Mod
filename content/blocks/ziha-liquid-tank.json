@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ziha liquid tank", "description": "...", "health": 418, "size": 3, "requirements": [{"item": "ziha", "amount": 3}, {"item": "bipanium", "amount": 4}, {"item": "dutenium", "amount": 6}], "research": "ziha-conduit", "category": "liquid", "liquidCapacity": 62062, "hasLiquids": true}

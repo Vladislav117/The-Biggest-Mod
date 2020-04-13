@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gypunium solar panel", "description": "...", "size": 3, "health": 245, "requirements": [{"item": "gypunium", "amount": 20}, {"item": "silicon", "amount": 1}, {"item": "surge-alloy", "amount": 5}], "research": "gypunium-factory", "powerProduction": 0.00033208464992913423, "category": "power"}

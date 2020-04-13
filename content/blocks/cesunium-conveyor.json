@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "cesunium conveyor", "description": "...", "health": 32, "requirements": [{"item": "cesunium", "amount": 7}, {"item": "mytati", "amount": 10}], "speed": 0.47411327980313545, "research": "cesunium-factory", "category": "distribution"}

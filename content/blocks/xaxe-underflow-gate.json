@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xaxe underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "xaxe", "amount": 5}, {"item": "cywiwa", "amount": 4}], "research": "xaxe-conveyor", "category": "distribution", "invert": false}

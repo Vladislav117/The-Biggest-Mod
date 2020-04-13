@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small togo solar panel", "description": "...", "size": 1, "health": 181, "requirements": [{"item": "togo", "amount": 16}, {"item": "pykeby", "amount": 15}, {"item": "cuhynu", "amount": 9}], "research": "togo-factory", "powerProduction": 6.470633185620873, "category": "power"}

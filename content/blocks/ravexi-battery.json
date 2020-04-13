@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ravexi battery", "description": "...", "size": 3, "health": 346, "requirements": [{"item": "ravexi", "amount": 17}, {"item": "zuxygo", "amount": 13}, {"item": "wylobo", "amount": 6}], "research": "ravexi-factory", "consumes": {"powerBuffered": 458}, "category": "power"}

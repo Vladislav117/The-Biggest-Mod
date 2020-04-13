@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vere liquid tank", "description": "...", "health": 461, "size": 3, "requirements": [{"item": "vere", "amount": 20}, {"item": "yuwo", "amount": 10}, {"item": "qipy", "amount": 8}], "research": "vere-conduit", "category": "liquid", "liquidCapacity": 103051, "hasLiquids": true}

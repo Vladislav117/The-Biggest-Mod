@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tumo power node", "description": "...", "size": 1, "health": 217, "requirements": [{"item": "tumo", "amount": 10}, {"item": "suyi", "amount": 6}, {"item": "toti", "amount": 2}], "research": "tumo-factory", "maxNodes": 18, "laserRange": 14, "category": "power"}

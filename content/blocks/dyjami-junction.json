@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dyjami junction", "description": "...", "health": 50, "speed": 12, "capacity": 2, "size": 1, "requirements": [{"item": "dyjami", "amount": 2}, {"item": "qafy", "amount": 3}], "research": "dyjami-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small syhisonium solar panel", "description": "...", "size": 1, "health": 389, "requirements": [{"item": "syhisonium", "amount": 5}, {"item": "vekile", "amount": 11}, {"item": "qasysi", "amount": 6}], "research": "syhisonium-factory", "powerProduction": 1.700283774084934, "category": "power"}

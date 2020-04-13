@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xayulu power node", "description": "...", "size": 2, "health": 376, "requirements": [{"item": "xayulu", "amount": 15}, {"item": "ruqe", "amount": 18}, {"item": "valabi", "amount": 2}], "research": "xayulu-factory", "maxNodes": 21, "laserRange": 22, "category": "power"}

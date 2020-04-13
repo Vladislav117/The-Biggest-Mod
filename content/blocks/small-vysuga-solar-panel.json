@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vysuga solar panel", "description": "...", "size": 1, "health": 384, "requirements": [{"item": "vysuga", "amount": 18}, {"item": "dymu", "amount": 3}, {"item": "puti", "amount": 7}], "research": "vysuga-factory", "powerProduction": 0.8847398821244903, "category": "power"}

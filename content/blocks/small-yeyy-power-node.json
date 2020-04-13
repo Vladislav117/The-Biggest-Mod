@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yeyy power node", "description": "...", "size": 1, "health": 323, "requirements": [{"item": "yeyy", "amount": 8}, {"item": "gytegy", "amount": 4}, {"item": "kaqyla", "amount": 5}], "research": "yeyy-factory", "maxNodes": 26, "laserRange": 22, "category": "power"}

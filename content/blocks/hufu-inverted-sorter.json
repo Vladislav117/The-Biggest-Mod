@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hufu inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "hufu", "amount": 2}, {"item": "rehyce", "amount": 2}], "research": "hufu-conveyor", "category": "distribution", "invert": true}

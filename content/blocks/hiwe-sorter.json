@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hiwe sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "hiwe", "amount": 5}, {"item": "plastanium", "amount": 2}], "research": "hiwe-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qyry solar panel", "description": "...", "size": 3, "health": 113, "requirements": [{"item": "qyry", "amount": 16}, {"item": "kelurynium", "amount": 16}, {"item": "sacigi", "amount": 10}], "research": "qyry-factory", "powerProduction": 2.9723415480701476, "category": "power"}

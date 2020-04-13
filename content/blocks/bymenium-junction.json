@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bymenium junction", "description": "...", "health": 38, "speed": 5, "capacity": 7, "size": 1, "requirements": [{"item": "bymenium", "amount": 5}, {"item": "zuwonium", "amount": 3}], "research": "bymenium-conveyor", "category": "distribution"}

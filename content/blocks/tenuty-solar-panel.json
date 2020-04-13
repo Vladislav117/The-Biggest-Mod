@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tenuty solar panel", "description": "...", "size": 3, "health": 346, "requirements": [{"item": "tenuty", "amount": 13}, {"item": "piga", "amount": 14}, {"item": "dune", "amount": 3}], "research": "tenuty-factory", "powerProduction": 0.5295844718500015, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "qoti conveyor", "description": "...", "health": 28, "requirements": [{"item": "qoti", "amount": 1}, {"item": "zese", "amount": 10}], "speed": 0.19269652013441563, "research": "qoti-factory", "category": "distribution"}

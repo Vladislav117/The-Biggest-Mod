@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hylisa power node", "description": "...", "size": 2, "health": 337, "requirements": [{"item": "hylisa", "amount": 8}, {"item": "jogi", "amount": 19}, {"item": "xinodunium", "amount": 1}], "research": "hylisa-factory", "maxNodes": 14, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lopiso drill", "description": "...", "size": 2, "health": 364, "tier": 3, "drillTime": 4, "consumes": {"power": 19}, "requirements": [{"item": "lopiso", "amount": 9}, {"item": "tedu", "amount": 7}, {"item": "kojiqonium", "amount": 4}], "research": "lopiso-factory", "category": "production"}

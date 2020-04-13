@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "weca liquid tank", "description": "...", "health": 229, "size": 3, "requirements": [{"item": "weca", "amount": 10}, {"item": "nolo", "amount": 4}, {"item": "coka", "amount": 1}], "research": "weca-conduit", "category": "liquid", "liquidCapacity": 118233, "hasLiquids": true}

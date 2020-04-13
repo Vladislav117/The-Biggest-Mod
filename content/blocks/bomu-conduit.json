@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bomu conduit", "description": "...", "health": 162, "requirements": [{"item": "bomu", "amount": 9}, {"item": "koty", "amount": 8}, {"item": "vevati", "amount": 10}], "liquidCapacity": 2, "liquidPressure": 2, "research": "bomu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mepysynium liquid tank", "description": "...", "health": 231, "size": 3, "requirements": [{"item": "mepysynium", "amount": 1}, {"item": "kowonium", "amount": 17}, {"item": "baje", "amount": 8}], "research": "mepysynium-conduit", "category": "liquid", "liquidCapacity": 87811, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hitiva solar panel", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "hitiva", "amount": 13}, {"item": "yytiye", "amount": 15}, {"item": "wuronium", "amount": 8}], "research": "hitiva-factory", "powerProduction": 0.15026306139045384, "category": "power"}

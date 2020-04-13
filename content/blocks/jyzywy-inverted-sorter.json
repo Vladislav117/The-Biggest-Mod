@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jyzywy inverted sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "jyzywy", "amount": 5}, {"item": "qudy", "amount": 1}], "research": "jyzywy-conveyor", "category": "distribution", "invert": true}

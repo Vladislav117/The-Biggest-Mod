@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kago solar panel", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "kago", "amount": 17}, {"item": "nidenium", "amount": 11}, {"item": "jigu", "amount": 10}], "research": "kago-factory", "powerProduction": 9.556790972142531, "category": "power"}

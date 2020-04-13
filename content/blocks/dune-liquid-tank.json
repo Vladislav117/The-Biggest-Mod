@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dune liquid tank", "description": "...", "health": 352, "size": 3, "requirements": [{"item": "dune", "amount": 11}, {"item": "bivucunium", "amount": 5}, {"item": "jogi", "amount": 1}], "research": "dune-conduit", "category": "liquid", "liquidCapacity": 52358, "hasLiquids": true}

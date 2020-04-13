@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wymywynium junction", "description": "...", "health": 23, "speed": 4, "capacity": 1, "size": 1, "requirements": [{"item": "wymywynium", "amount": 4}, {"item": "hujenium", "amount": 5}], "research": "wymywynium-conveyor", "category": "distribution"}

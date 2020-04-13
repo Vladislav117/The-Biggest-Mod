@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yukoni liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "yukoni", "amount": 10}, {"item": "pomagu", "amount": 5}, {"item": "nota", "amount": 9}], "research": "yukoni-conduit", "liquidCapacity": 10, "category": "liquid"}

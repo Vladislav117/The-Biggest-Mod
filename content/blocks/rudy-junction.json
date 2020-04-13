@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rudy junction", "description": "...", "health": 8, "speed": 17, "capacity": 11, "size": 1, "requirements": [{"item": "rudy", "amount": 3}, {"item": "hysobe", "amount": 4}], "research": "rudy-conveyor", "category": "distribution"}

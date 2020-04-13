@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kiye liquid tank", "description": "...", "health": 572, "size": 3, "requirements": [{"item": "kiye", "amount": 15}, {"item": "yeli", "amount": 3}, {"item": "zese", "amount": 5}], "research": "kiye-conduit", "category": "liquid", "liquidCapacity": 22048, "hasLiquids": true}

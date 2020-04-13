@@ -1,0 +1,1 @@
+{"type": "battery", "name": "padopu battery", "description": "...", "size": 3, "health": 202, "requirements": [{"item": "padopu", "amount": 7}, {"item": "ruteqa", "amount": 20}, {"item": "feyyqe", "amount": 6}], "research": "padopu-factory", "consumes": {"powerBuffered": 1777}, "category": "power"}

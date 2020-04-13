@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hufema conduit", "description": "...", "health": 20, "requirements": [{"item": "hufema", "amount": 10}, {"item": "cymaca", "amount": 3}, {"item": "dyzeky", "amount": 9}], "liquidCapacity": 36, "liquidPressure": 0, "research": "hufema-factory", "category": "liquid"}

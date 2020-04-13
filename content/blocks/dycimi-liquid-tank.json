@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dycimi liquid tank", "description": "...", "health": 420, "size": 3, "requirements": [{"item": "dycimi", "amount": 10}, {"item": "kyna", "amount": 9}, {"item": "besu", "amount": 7}], "research": "dycimi-conduit", "category": "liquid", "liquidCapacity": 10642, "hasLiquids": true}

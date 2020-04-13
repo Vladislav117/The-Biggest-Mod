@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuvanium liquid tank", "description": "...", "health": 597, "size": 3, "requirements": [{"item": "cuvanium", "amount": 2}, {"item": "zuzu", "amount": 7}, {"item": "nunaby", "amount": 10}], "research": "cuvanium-conduit", "category": "liquid", "liquidCapacity": 46830, "hasLiquids": true}

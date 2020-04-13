@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fifyru bridge conveyor", "description": "", "health": 37, "range": 16, "speed": 5, "bufferCapacity": 17, "requirements": [{"item": "fifyru", "amount": 2}, {"item": "sore", "amount": 2}], "research": "fifyru-conveyor", "category": "distribution", "size": 1}

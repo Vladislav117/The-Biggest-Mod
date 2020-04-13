@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ryho underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "ryho", "amount": 3}, {"item": "lapydy", "amount": 3}], "research": "ryho-conveyor", "category": "distribution", "invert": false}

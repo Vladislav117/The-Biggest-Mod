@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "rapenium liquid router", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "rapenium", "amount": 4}, {"item": "pynebi", "amount": 19}, {"item": "bisy", "amount": 5}], "research": "rapenium-conduit", "liquidCapacity": 10, "category": "liquid"}

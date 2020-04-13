@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cypi bridge conveyor", "description": "", "health": 18, "range": 3, "speed": 6, "bufferCapacity": 21, "requirements": [{"item": "cypi", "amount": 5}, {"item": "nupu", "amount": 4}], "research": "cypi-conveyor", "category": "distribution", "size": 1}

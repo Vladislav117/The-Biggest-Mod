@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yuny junction", "description": "...", "health": 6, "speed": 7, "capacity": 12, "size": 1, "requirements": [{"item": "yuny", "amount": 2}, {"item": "cenunium", "amount": 2}], "research": "yuny-conveyor", "category": "distribution"}

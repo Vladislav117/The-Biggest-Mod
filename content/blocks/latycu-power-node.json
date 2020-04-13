@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "latycu power node", "description": "...", "size": 2, "health": 390, "requirements": [{"item": "latycu", "amount": 10}, {"item": "gozefynium", "amount": 15}, {"item": "cozaxo", "amount": 6}], "research": "latycu-factory", "maxNodes": 50, "laserRange": 18, "category": "power"}

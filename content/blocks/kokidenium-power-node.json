@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kokidenium power node", "description": "...", "size": 2, "health": 377, "requirements": [{"item": "kokidenium", "amount": 10}, {"item": "waxonium", "amount": 19}, {"item": "pify", "amount": 3}], "research": "kokidenium-factory", "maxNodes": 18, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yisupe battery", "description": "...", "size": 1, "health": 388, "requirements": [{"item": "yisupe", "amount": 7}, {"item": "bihu", "amount": 1}, {"item": "dyzeky", "amount": 1}], "research": "yisupe-factory", "consumes": {"powerBuffered": 247}, "category": "power"}

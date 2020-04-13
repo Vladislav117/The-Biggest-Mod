@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wehy bridge conveyor", "description": "", "health": 13, "range": 9, "speed": 5, "bufferCapacity": 7, "requirements": [{"item": "wehy", "amount": 5}, {"item": "mapibi", "amount": 4}], "research": "wehy-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wipori liquid tank", "description": "...", "health": 503, "size": 3, "requirements": [{"item": "wipori", "amount": 10}, {"item": "daxury", "amount": 6}, {"item": "bexebu", "amount": 1}], "research": "wipori-conduit", "category": "liquid", "liquidCapacity": 27039, "hasLiquids": true}

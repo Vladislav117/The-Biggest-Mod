@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "watiju conduit", "description": "...", "health": 195, "requirements": [{"item": "watiju", "amount": 19}, {"item": "xyfynium", "amount": 2}, {"item": "voya", "amount": 1}], "liquidCapacity": 34, "liquidPressure": 7, "research": "watiju-factory", "category": "liquid"}

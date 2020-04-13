@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kubi conduit", "description": "...", "health": 98, "requirements": [{"item": "kubi", "amount": 1}, {"item": "copper", "amount": 19}, {"item": "kubi", "amount": 10}], "liquidCapacity": 43, "liquidPressure": 2, "research": "kubi-factory", "category": "liquid"}

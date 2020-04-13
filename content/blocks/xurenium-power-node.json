@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xurenium power node", "description": "...", "size": 2, "health": 409, "requirements": [{"item": "xurenium", "amount": 4}, {"item": "xuze", "amount": 12}, {"item": "daqy", "amount": 8}], "research": "xurenium-factory", "maxNodes": 33, "laserRange": 9, "category": "power"}

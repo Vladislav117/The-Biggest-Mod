@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cowi battery", "description": "...", "size": 1, "health": 106, "requirements": [{"item": "cowi", "amount": 10}, {"item": "kipiyenium", "amount": 12}, {"item": "rivy", "amount": 9}], "research": "cowi-factory", "consumes": {"powerBuffered": 514}, "category": "power"}

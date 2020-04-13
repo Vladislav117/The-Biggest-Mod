@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vabu battery", "description": "...", "size": 3, "health": 136, "requirements": [{"item": "vabu", "amount": 13}, {"item": "yidugonium", "amount": 2}, {"item": "labila", "amount": 8}], "research": "vabu-factory", "consumes": {"powerBuffered": 9909}, "category": "power"}

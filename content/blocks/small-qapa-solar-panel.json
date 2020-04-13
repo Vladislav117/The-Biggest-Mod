@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qapa solar panel", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "qapa", "amount": 13}, {"item": "higucu", "amount": 2}, {"item": "vahy", "amount": 2}], "research": "qapa-factory", "powerProduction": 2.9648986626969, "category": "power"}

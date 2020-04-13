@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vatuxanium conduit", "description": "...", "health": 192, "requirements": [{"item": "vatuxanium", "amount": 14}, {"item": "belynium", "amount": 13}, {"item": "nileru", "amount": 2}], "liquidCapacity": 5, "liquidPressure": 9, "research": "vatuxanium-factory", "category": "liquid"}

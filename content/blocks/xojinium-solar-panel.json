@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xojinium solar panel", "description": "...", "size": 3, "health": 36, "requirements": [{"item": "xojinium", "amount": 20}, {"item": "yocoke", "amount": 14}, {"item": "fuyoja", "amount": 1}], "research": "xojinium-factory", "powerProduction": 0.22564218738316155, "category": "power"}

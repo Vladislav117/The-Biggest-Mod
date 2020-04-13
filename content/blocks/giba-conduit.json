@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "giba conduit", "description": "...", "health": 179, "requirements": [{"item": "giba", "amount": 16}, {"item": "vatohunium", "amount": 10}, {"item": "pyhune", "amount": 6}], "liquidCapacity": 40, "liquidPressure": 9, "research": "giba-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nipi underflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "nipi", "amount": 2}, {"item": "tovyme", "amount": 1}], "research": "nipi-conveyor", "category": "distribution", "invert": false}

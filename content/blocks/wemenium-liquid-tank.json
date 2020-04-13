@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wemenium liquid tank", "description": "...", "health": 382, "size": 3, "requirements": [{"item": "wemenium", "amount": 2}, {"item": "paky", "amount": 2}, {"item": "bogovy", "amount": 7}], "research": "wemenium-conduit", "category": "liquid", "liquidCapacity": 56678, "hasLiquids": true}

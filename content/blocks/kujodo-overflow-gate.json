@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kujodo overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "kujodo", "amount": 2}, {"item": "padopu", "amount": 3}], "research": "kujodo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kyfe underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "kyfe", "amount": 5}, {"item": "xyge", "amount": 2}], "research": "kyfe-conveyor", "category": "distribution", "invert": false}

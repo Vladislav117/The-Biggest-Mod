@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sidu inverted sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "sidu", "amount": 5}, {"item": "hitiva", "amount": 4}], "research": "sidu-conveyor", "category": "distribution", "invert": true}

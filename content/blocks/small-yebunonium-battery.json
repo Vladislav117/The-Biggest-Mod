@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yebunonium battery", "description": "...", "size": 1, "health": 344, "requirements": [{"item": "yebunonium", "amount": 19}, {"item": "gyfeca", "amount": 20}, {"item": "wareginium", "amount": 4}], "research": "yebunonium-factory", "consumes": {"powerBuffered": 337}, "category": "power"}

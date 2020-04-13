@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "copa power node", "description": "...", "size": 2, "health": 378, "requirements": [{"item": "copa", "amount": 20}, {"item": "yype", "amount": 12}, {"item": "kilu", "amount": 3}], "research": "copa-factory", "maxNodes": 18, "laserRange": 10, "category": "power"}

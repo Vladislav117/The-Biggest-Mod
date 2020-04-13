@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sehopa liquid router", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "sehopa", "amount": 1}, {"item": "xybi", "amount": 15}, {"item": "kagopy", "amount": 1}], "research": "sehopa-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gakipy bridge conveyor", "description": "", "health": 27, "range": 17, "speed": 17, "bufferCapacity": 14, "requirements": [{"item": "gakipy", "amount": 2}, {"item": "sebobe", "amount": 4}], "research": "gakipy-conveyor", "category": "distribution", "size": 1}

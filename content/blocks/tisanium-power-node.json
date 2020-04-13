@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tisanium power node", "description": "...", "size": 2, "health": 444, "requirements": [{"item": "tisanium", "amount": 19}, {"item": "tydy", "amount": 20}, {"item": "coxufe", "amount": 10}], "research": "tisanium-factory", "maxNodes": 57, "laserRange": 24, "category": "power"}

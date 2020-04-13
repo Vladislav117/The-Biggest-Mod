@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vyre power node", "description": "...", "size": 2, "health": 647, "requirements": [{"item": "vyre", "amount": 15}, {"item": "roca", "amount": 10}, {"item": "xevanium", "amount": 8}], "research": "vyre-factory", "maxNodes": 48, "laserRange": 22, "category": "power"}

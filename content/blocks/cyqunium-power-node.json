@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cyqunium power node", "description": "...", "size": 2, "health": 683, "requirements": [{"item": "cyqunium", "amount": 8}, {"item": "boqi", "amount": 15}, {"item": "vodo", "amount": 2}], "research": "cyqunium-factory", "maxNodes": 46, "laserRange": 18, "category": "power"}

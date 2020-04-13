@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pedy bridge conveyor", "description": "", "health": 17, "range": 7, "speed": 14, "bufferCapacity": 23, "requirements": [{"item": "pedy", "amount": 4}, {"item": "pozilonium", "amount": 2}], "research": "pedy-conveyor", "category": "distribution", "size": 1}

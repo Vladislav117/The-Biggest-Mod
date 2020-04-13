@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fica battery", "description": "...", "size": 3, "health": 113, "requirements": [{"item": "fica", "amount": 1}, {"item": "rymyva", "amount": 2}, {"item": "pymu", "amount": 2}], "research": "fica-factory", "consumes": {"powerBuffered": 8486}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "renove overflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "renove", "amount": 3}, {"item": "zopyxo", "amount": 1}], "research": "renove-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hajo liquid tank", "description": "...", "health": 598, "size": 3, "requirements": [{"item": "hajo", "amount": 9}, {"item": "motaty", "amount": 16}, {"item": "qudeya", "amount": 4}], "research": "hajo-conduit", "category": "liquid", "liquidCapacity": 51704, "hasLiquids": true}

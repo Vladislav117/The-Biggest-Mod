@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "daxury underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "daxury", "amount": 5}, {"item": "wyfanium", "amount": 3}], "research": "daxury-conveyor", "category": "distribution", "invert": false}

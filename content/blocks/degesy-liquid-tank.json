@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "degesy liquid tank", "description": "...", "health": 504, "size": 3, "requirements": [{"item": "degesy", "amount": 3}, {"item": "xujo", "amount": 1}, {"item": "vakarinium", "amount": 5}], "research": "degesy-conduit", "category": "liquid", "liquidCapacity": 3582, "hasLiquids": true}

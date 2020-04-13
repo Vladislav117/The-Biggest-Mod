@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zyganium solar panel", "description": "...", "size": 3, "health": 144, "requirements": [{"item": "zyganium", "amount": 5}, {"item": "kepusy", "amount": 13}, {"item": "tise", "amount": 10}], "research": "zyganium-factory", "powerProduction": 1.4297600070335847, "category": "power"}

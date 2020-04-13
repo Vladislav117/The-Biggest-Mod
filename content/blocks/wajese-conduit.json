@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wajese conduit", "description": "...", "health": 118, "requirements": [{"item": "wajese", "amount": 5}, {"item": "byyu", "amount": 3}, {"item": "tatavo", "amount": 8}], "liquidCapacity": 40, "liquidPressure": 4, "research": "wajese-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fare liquid tank", "description": "...", "health": 537, "size": 3, "requirements": [{"item": "fare", "amount": 8}, {"item": "nedybu", "amount": 19}, {"item": "zyhyne", "amount": 9}], "research": "fare-conduit", "category": "liquid", "liquidCapacity": 67353, "hasLiquids": true}

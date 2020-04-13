@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "peguca bridge conveyor", "description": "", "health": 16, "range": 1, "speed": 7, "bufferCapacity": 2, "requirements": [{"item": "peguca", "amount": 1}, {"item": "rusiqy", "amount": 4}], "research": "peguca-conveyor", "category": "distribution", "size": 1}

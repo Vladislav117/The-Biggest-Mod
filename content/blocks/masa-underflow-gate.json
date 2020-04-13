@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "masa underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "masa", "amount": 5}, {"item": "wiyuho", "amount": 5}], "research": "masa-conveyor", "category": "distribution", "invert": false}

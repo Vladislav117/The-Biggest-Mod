@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fuho underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "fuho", "amount": 1}, {"item": "jafi", "amount": 1}], "research": "fuho-conveyor", "category": "distribution", "invert": false}

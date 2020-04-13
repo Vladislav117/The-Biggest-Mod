@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yufava liquid tank", "description": "...", "health": 168, "size": 3, "requirements": [{"item": "yufava", "amount": 19}, {"item": "zoyyqynium", "amount": 15}, {"item": "sibewe", "amount": 9}], "research": "yufava-conduit", "category": "liquid", "liquidCapacity": 87824, "hasLiquids": true}

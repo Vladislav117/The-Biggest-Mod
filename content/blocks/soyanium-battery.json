@@ -1,0 +1,1 @@
+{"type": "battery", "name": "soyanium battery", "description": "...", "size": 3, "health": 134, "requirements": [{"item": "soyanium", "amount": 9}, {"item": "yixy", "amount": 19}, {"item": "zugoni", "amount": 8}], "research": "soyanium-factory", "consumes": {"powerBuffered": 3922}, "category": "power"}

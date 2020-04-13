@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kuye battery", "description": "...", "size": 1, "health": 262, "requirements": [{"item": "kuye", "amount": 19}, {"item": "wano", "amount": 13}, {"item": "hedege", "amount": 6}], "research": "kuye-factory", "consumes": {"powerBuffered": 2027}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dukyfe inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "dukyfe", "amount": 3}, {"item": "besu", "amount": 3}], "research": "dukyfe-conveyor", "category": "distribution", "invert": true}

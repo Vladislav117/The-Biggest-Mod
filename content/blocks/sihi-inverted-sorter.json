@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sihi inverted sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "sihi", "amount": 4}, {"item": "hofaju", "amount": 3}], "research": "sihi-conveyor", "category": "distribution", "invert": true}

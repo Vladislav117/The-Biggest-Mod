@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "joseva conduit", "description": "...", "health": 177, "requirements": [{"item": "joseva", "amount": 20}, {"item": "rizinium", "amount": 13}, {"item": "lewanium", "amount": 6}], "liquidCapacity": 45, "liquidPressure": 1, "research": "joseva-factory", "category": "liquid"}

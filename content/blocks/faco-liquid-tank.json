@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "faco liquid tank", "description": "...", "health": 569, "size": 3, "requirements": [{"item": "faco", "amount": 2}, {"item": "fyyu", "amount": 15}, {"item": "mutevi", "amount": 1}], "research": "faco-conduit", "category": "liquid", "liquidCapacity": 4586, "hasLiquids": true}

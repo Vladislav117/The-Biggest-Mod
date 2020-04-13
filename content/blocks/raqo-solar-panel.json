@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "raqo solar panel", "description": "...", "size": 3, "health": 290, "requirements": [{"item": "raqo", "amount": 10}, {"item": "genane", "amount": 17}, {"item": "yywa", "amount": 9}], "research": "raqo-factory", "powerProduction": 2.268962476995621, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hosa bridge conveyor", "description": "", "health": 17, "range": 15, "speed": 12, "bufferCapacity": 18, "requirements": [{"item": "hosa", "amount": 2}, {"item": "secuqunium", "amount": 3}], "research": "hosa-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jatyjenium liquid tank", "description": "...", "health": 519, "size": 3, "requirements": [{"item": "jatyjenium", "amount": 10}, {"item": "kilu", "amount": 11}, {"item": "colu", "amount": 4}], "research": "jatyjenium-conduit", "category": "liquid", "liquidCapacity": 57072, "hasLiquids": true}

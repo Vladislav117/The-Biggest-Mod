@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "bexa overdrive projector", "description": "...", "health": 106, "consumes": {"power": 3.0, "item": "bexa"}, "size": 2, "requirements": [{"item": "bexa", "amount": 5}, {"item": "velewo", "amount": 8}, {"item": "kegiqi", "amount": 4}], "research": "bexa-factory", "category": "effect"}

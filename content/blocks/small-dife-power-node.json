@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dife power node", "description": "...", "size": 1, "health": 212, "requirements": [{"item": "dife", "amount": 6}, {"item": "hysobe", "amount": 16}, {"item": "huwydy", "amount": 10}], "research": "dife-factory", "maxNodes": 3, "laserRange": 8, "category": "power"}

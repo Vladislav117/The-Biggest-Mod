@@ -1,0 +1,1 @@
+{"type": "junction", "name": "risusy junction", "description": "...", "health": 36, "speed": 11, "capacity": 2, "size": 1, "requirements": [{"item": "risusy", "amount": 1}, {"item": "xekocanium", "amount": 1}], "research": "risusy-conveyor", "category": "distribution"}

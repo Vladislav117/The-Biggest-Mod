@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tekywa sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "tekywa", "amount": 1}, {"item": "lydoze", "amount": 1}], "research": "tekywa-conveyor", "category": "distribution", "invert": false}

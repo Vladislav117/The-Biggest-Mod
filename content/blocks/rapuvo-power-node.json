@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rapuvo power node", "description": "...", "size": 2, "health": 331, "requirements": [{"item": "rapuvo", "amount": 17}, {"item": "qyxyci", "amount": 16}, {"item": "juge", "amount": 5}], "research": "rapuvo-factory", "maxNodes": 42, "laserRange": 6, "category": "power"}

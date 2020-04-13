@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xidunium bridge conveyor", "description": "", "health": 35, "range": 8, "speed": 20, "bufferCapacity": 23, "requirements": [{"item": "xidunium", "amount": 4}, {"item": "vivunium", "amount": 3}], "research": "xidunium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bevy underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "bevy", "amount": 1}, {"item": "wylanium", "amount": 3}], "research": "bevy-conveyor", "category": "distribution", "invert": false}

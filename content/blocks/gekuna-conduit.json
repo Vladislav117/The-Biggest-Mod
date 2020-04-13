@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gekuna conduit", "description": "...", "health": 143, "requirements": [{"item": "gekuna", "amount": 18}, {"item": "yuyicenium", "amount": 9}, {"item": "wumuge", "amount": 8}], "liquidCapacity": 26, "liquidPressure": 4, "research": "gekuna-factory", "category": "liquid"}

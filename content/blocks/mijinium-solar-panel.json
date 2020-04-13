@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mijinium solar panel", "description": "...", "size": 3, "health": 320, "requirements": [{"item": "mijinium", "amount": 2}, {"item": "yybinium", "amount": 11}, {"item": "niki", "amount": 4}], "research": "mijinium-factory", "powerProduction": 1.140110438527784, "category": "power"}

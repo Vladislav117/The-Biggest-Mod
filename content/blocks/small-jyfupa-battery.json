@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jyfupa battery", "description": "...", "size": 1, "health": 353, "requirements": [{"item": "jyfupa", "amount": 11}, {"item": "vidibanium", "amount": 8}, {"item": "bimi", "amount": 4}], "research": "jyfupa-factory", "consumes": {"powerBuffered": 1718}, "category": "power"}

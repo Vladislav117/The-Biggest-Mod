@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zacu junction", "description": "...", "health": 42, "speed": 19, "capacity": 19, "size": 1, "requirements": [{"item": "zacu", "amount": 1}, {"item": "dyzinium", "amount": 4}], "research": "zacu-conveyor", "category": "distribution"}

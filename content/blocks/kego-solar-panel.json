@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kego solar panel", "description": "...", "size": 3, "health": 187, "requirements": [{"item": "kego", "amount": 3}, {"item": "mafy", "amount": 16}, {"item": "gusavunium", "amount": 4}], "research": "kego-factory", "powerProduction": 0.3341541083930893, "category": "power"}

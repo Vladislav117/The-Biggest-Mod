@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small daci battery", "description": "...", "size": 1, "health": 314, "requirements": [{"item": "daci", "amount": 14}, {"item": "husu", "amount": 6}, {"item": "tyno", "amount": 7}], "research": "daci-factory", "consumes": {"powerBuffered": 767}, "category": "power"}

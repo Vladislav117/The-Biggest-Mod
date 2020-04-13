@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qiri solar panel", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "qiri", "amount": 17}, {"item": "gymypa", "amount": 13}, {"item": "yedyte", "amount": 2}], "research": "qiri-factory", "powerProduction": 1.541275515658601, "category": "power"}

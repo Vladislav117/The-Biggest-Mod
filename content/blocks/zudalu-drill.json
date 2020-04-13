@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zudalu drill", "description": "...", "size": 4, "health": 322, "tier": 4, "drillTime": 10, "consumes": {"power": 10}, "requirements": [{"item": "zudalu", "amount": 2}, {"item": "nupydo", "amount": 13}, {"item": "vuponium", "amount": 7}], "research": "zudalu-factory", "category": "production"}

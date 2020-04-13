@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jixaro solar panel", "description": "...", "size": 3, "health": 250, "requirements": [{"item": "jixaro", "amount": 3}, {"item": "qelyqe", "amount": 11}, {"item": "fifyru", "amount": 9}], "research": "jixaro-factory", "powerProduction": 2.217811096809171, "category": "power"}

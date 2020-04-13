@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "demu overflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "demu", "amount": 3}, {"item": "qipo", "amount": 4}], "research": "demu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gahe conduit", "description": "...", "health": 64, "requirements": [{"item": "gahe", "amount": 14}, {"item": "kipyzonium", "amount": 15}, {"item": "tosuzy", "amount": 4}], "liquidCapacity": 3, "liquidPressure": 0, "research": "gahe-factory", "category": "liquid"}

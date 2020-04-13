@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fulanium battery", "description": "...", "size": 1, "health": 279, "requirements": [{"item": "fulanium", "amount": 13}, {"item": "wedu", "amount": 1}, {"item": "movenium", "amount": 5}], "research": "fulanium-factory", "consumes": {"powerBuffered": 640}, "category": "power"}

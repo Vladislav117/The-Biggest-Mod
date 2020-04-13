@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jubuxa underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "jubuxa", "amount": 5}, {"item": "niqy", "amount": 3}], "research": "jubuxa-conveyor", "category": "distribution", "invert": false}

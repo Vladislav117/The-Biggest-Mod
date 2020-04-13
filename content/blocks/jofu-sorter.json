@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jofu sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "jofu", "amount": 4}, {"item": "lymo", "amount": 5}], "research": "jofu-conveyor", "category": "distribution", "invert": false}

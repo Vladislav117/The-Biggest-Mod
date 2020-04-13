@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "liyavu sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "liyavu", "amount": 5}, {"item": "jane", "amount": 1}], "research": "liyavu-conveyor", "category": "distribution", "invert": false}

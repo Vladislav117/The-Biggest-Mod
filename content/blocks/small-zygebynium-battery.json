@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zygebynium battery", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "zygebynium", "amount": 13}, {"item": "litilenium", "amount": 12}, {"item": "felu", "amount": 4}], "research": "zygebynium-factory", "consumes": {"powerBuffered": 2163}, "category": "power"}

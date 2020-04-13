@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "roca drill", "description": "...", "size": 3, "health": 287, "tier": 4, "drillTime": 1, "consumes": {"power": 20}, "requirements": [{"item": "roca", "amount": 1}, {"item": "lymy", "amount": 13}, {"item": "meva", "amount": 8}], "research": "roca-factory", "category": "production"}

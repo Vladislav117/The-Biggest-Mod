@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ryxaro power node", "description": "...", "size": 2, "health": 131, "requirements": [{"item": "ryxaro", "amount": 16}, {"item": "qoseji", "amount": 19}, {"item": "pucy", "amount": 7}], "research": "ryxaro-factory", "maxNodes": 41, "laserRange": 8, "category": "power"}

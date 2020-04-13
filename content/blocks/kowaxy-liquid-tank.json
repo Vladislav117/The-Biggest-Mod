@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kowaxy liquid tank", "description": "...", "health": 668, "size": 3, "requirements": [{"item": "kowaxy", "amount": 20}, {"item": "qyhoqa", "amount": 13}, {"item": "samy", "amount": 9}], "research": "kowaxy-conduit", "category": "liquid", "liquidCapacity": 106188, "hasLiquids": true}

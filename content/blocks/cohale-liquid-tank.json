@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cohale liquid tank", "description": "...", "health": 307, "size": 3, "requirements": [{"item": "cohale", "amount": 12}, {"item": "nyvifo", "amount": 3}, {"item": "pibu", "amount": 2}], "research": "cohale-conduit", "category": "liquid", "liquidCapacity": 59959, "hasLiquids": true}

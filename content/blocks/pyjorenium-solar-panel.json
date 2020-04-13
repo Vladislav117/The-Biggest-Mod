@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pyjorenium solar panel", "description": "...", "size": 3, "health": 285, "requirements": [{"item": "pyjorenium", "amount": 10}, {"item": "yuhy", "amount": 2}, {"item": "mijynium", "amount": 10}], "research": "pyjorenium-factory", "powerProduction": 3.72998443267082, "category": "power"}

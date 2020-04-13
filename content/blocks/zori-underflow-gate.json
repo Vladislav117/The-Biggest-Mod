@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zori underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "zori", "amount": 2}, {"item": "qyhi", "amount": 2}], "research": "zori-conveyor", "category": "distribution", "invert": false}

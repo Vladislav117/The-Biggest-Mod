@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mewe battery", "description": "...", "size": 1, "health": 371, "requirements": [{"item": "mewe", "amount": 20}, {"item": "hagi", "amount": 10}, {"item": "xybi", "amount": 9}], "research": "mewe-factory", "consumes": {"powerBuffered": 2597}, "category": "power"}

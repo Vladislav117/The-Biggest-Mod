@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cogy bridge conveyor", "description": "", "health": 16, "range": 6, "speed": 8, "bufferCapacity": 17, "requirements": [{"item": "cogy", "amount": 2}, {"item": "yejicunium", "amount": 3}], "research": "cogy-conveyor", "category": "distribution", "size": 1}

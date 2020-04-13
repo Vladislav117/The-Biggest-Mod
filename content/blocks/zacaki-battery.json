@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zacaki battery", "description": "...", "size": 3, "health": 168, "requirements": [{"item": "zacaki", "amount": 5}, {"item": "ryma", "amount": 20}, {"item": "fyhynium", "amount": 3}], "research": "zacaki-factory", "consumes": {"powerBuffered": 7008}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tuty conduit", "description": "...", "health": 200, "requirements": [{"item": "tuty", "amount": 15}, {"item": "celaji", "amount": 4}, {"item": "mywa", "amount": 10}], "liquidCapacity": 5, "liquidPressure": 2, "research": "tuty-factory", "category": "liquid"}

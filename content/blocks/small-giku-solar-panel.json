@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small giku solar panel", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "giku", "amount": 16}, {"item": "vaqo", "amount": 7}, {"item": "fyma", "amount": 1}], "research": "giku-factory", "powerProduction": 2.2535985166829784, "category": "power"}

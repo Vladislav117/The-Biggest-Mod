@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qycozi liquid tank", "description": "...", "health": 523, "size": 3, "requirements": [{"item": "qycozi", "amount": 17}, {"item": "yywy", "amount": 18}, {"item": "sewitunium", "amount": 1}], "research": "qycozi-conduit", "category": "liquid", "liquidCapacity": 87748, "hasLiquids": true}

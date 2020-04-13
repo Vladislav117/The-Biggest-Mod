@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xihu solar panel", "description": "...", "size": 3, "health": 394, "requirements": [{"item": "xihu", "amount": 17}, {"item": "yiru", "amount": 11}, {"item": "qihy", "amount": 4}], "research": "xihu-factory", "powerProduction": 0.1443222508302468, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rudinium underflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "rudinium", "amount": 3}, {"item": "kepo", "amount": 2}], "research": "rudinium-conveyor", "category": "distribution", "invert": false}

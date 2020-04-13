@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qefa solar panel", "description": "...", "size": 3, "health": 289, "requirements": [{"item": "qefa", "amount": 17}, {"item": "lyva", "amount": 7}, {"item": "ruteqa", "amount": 6}], "research": "qefa-factory", "powerProduction": 3.9665014220470334, "category": "power"}

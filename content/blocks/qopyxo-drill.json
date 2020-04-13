@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qopyxo drill", "description": "...", "size": 4, "health": 255, "tier": 1, "drillTime": 19, "consumes": {"power": 1}, "requirements": [{"item": "qopyxo", "amount": 15}, {"item": "jexanium", "amount": 7}, {"item": "vawybo", "amount": 9}], "research": "qopyxo-factory", "category": "production"}

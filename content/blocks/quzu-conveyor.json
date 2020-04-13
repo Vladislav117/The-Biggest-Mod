@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "quzu conveyor", "description": "...", "health": 257, "requirements": [{"item": "quzu", "amount": 10}, {"item": "mava", "amount": 8}], "speed": 0.14868489598982454, "research": "quzu-factory", "category": "distribution"}

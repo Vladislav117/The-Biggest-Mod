@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "buli underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "buli", "amount": 1}, {"item": "veru", "amount": 4}], "research": "buli-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "saciwy liquid tank", "description": "...", "health": 563, "size": 3, "requirements": [{"item": "saciwy", "amount": 10}, {"item": "reyyma", "amount": 20}, {"item": "yytiro", "amount": 10}], "research": "saciwy-conduit", "category": "liquid", "liquidCapacity": 74015, "hasLiquids": true}

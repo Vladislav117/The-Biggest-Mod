@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pyrynium overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "pyrynium", "amount": 4}, {"item": "mapanium", "amount": 4}], "research": "pyrynium-conveyor", "category": "distribution", "invert": false}

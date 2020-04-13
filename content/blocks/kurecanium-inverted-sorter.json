@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kurecanium inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "kurecanium", "amount": 5}, {"item": "kyte", "amount": 5}], "research": "kurecanium-conveyor", "category": "distribution", "invert": true}

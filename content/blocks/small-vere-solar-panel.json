@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vere solar panel", "description": "...", "size": 1, "health": 159, "requirements": [{"item": "vere", "amount": 20}, {"item": "sayaminium", "amount": 13}, {"item": "tise", "amount": 4}], "research": "vere-factory", "powerProduction": 3.338787536803122, "category": "power"}

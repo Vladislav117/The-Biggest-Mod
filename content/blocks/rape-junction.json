@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rape junction", "description": "...", "health": 29, "speed": 13, "capacity": 14, "size": 1, "requirements": [{"item": "rape", "amount": 2}, {"item": "jugubu", "amount": 4}], "research": "rape-conveyor", "category": "distribution"}

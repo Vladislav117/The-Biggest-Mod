@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yeci battery", "description": "...", "size": 3, "health": 159, "requirements": [{"item": "yeci", "amount": 3}, {"item": "fukapinium", "amount": 2}, {"item": "taci", "amount": 7}], "research": "yeci-factory", "consumes": {"powerBuffered": 7257}, "category": "power"}

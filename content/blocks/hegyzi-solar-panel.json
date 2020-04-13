@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hegyzi solar panel", "description": "...", "size": 3, "health": 33, "requirements": [{"item": "hegyzi", "amount": 18}, {"item": "xybimi", "amount": 2}, {"item": "gapihe", "amount": 9}], "research": "hegyzi-factory", "powerProduction": 9.633448029257979, "category": "power"}

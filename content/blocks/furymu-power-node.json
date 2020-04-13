@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "furymu power node", "description": "...", "size": 2, "health": 323, "requirements": [{"item": "furymu", "amount": 6}, {"item": "yijotu", "amount": 8}, {"item": "sojile", "amount": 7}], "research": "furymu-factory", "maxNodes": 32, "laserRange": 8, "category": "power"}

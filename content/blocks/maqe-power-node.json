@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "maqe power node", "description": "...", "size": 2, "health": 555, "requirements": [{"item": "maqe", "amount": 18}, {"item": "maku", "amount": 3}, {"item": "rateju", "amount": 10}], "research": "maqe-factory", "maxNodes": 57, "laserRange": 5, "category": "power"}

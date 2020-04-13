@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pyyecu overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "pyyecu", "amount": 3}, {"item": "pyga", "amount": 2}], "research": "pyyecu-conveyor", "category": "distribution", "invert": false}

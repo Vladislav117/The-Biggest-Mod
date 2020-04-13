@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pajaka sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "pajaka", "amount": 1}, {"item": "qusy", "amount": 2}], "research": "pajaka-conveyor", "category": "distribution", "invert": false}

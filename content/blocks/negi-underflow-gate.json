@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "negi underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "negi", "amount": 2}, {"item": "bamubu", "amount": 4}], "research": "negi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nyqepinium underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "nyqepinium", "amount": 4}, {"item": "nitonium", "amount": 3}], "research": "nyqepinium-conveyor", "category": "distribution", "invert": false}

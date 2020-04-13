@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rudy battery", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "rudy", "amount": 18}, {"item": "rymojanium", "amount": 18}, {"item": "miyoqu", "amount": 1}], "research": "rudy-factory", "consumes": {"powerBuffered": 2438}, "category": "power"}

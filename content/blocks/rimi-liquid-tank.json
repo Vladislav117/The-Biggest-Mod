@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rimi liquid tank", "description": "...", "health": 131, "size": 3, "requirements": [{"item": "rimi", "amount": 5}, {"item": "hyju", "amount": 16}, {"item": "dyqasy", "amount": 3}], "research": "rimi-conduit", "category": "liquid", "liquidCapacity": 68637, "hasLiquids": true}

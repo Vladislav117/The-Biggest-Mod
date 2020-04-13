@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lowe conduit", "description": "...", "health": 126, "requirements": [{"item": "lowe", "amount": 16}, {"item": "befy", "amount": 14}, {"item": "goti", "amount": 3}], "liquidCapacity": 22, "liquidPressure": 9, "research": "lowe-factory", "category": "liquid"}

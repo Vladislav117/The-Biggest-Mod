@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vysu junction", "description": "...", "health": 10, "speed": 9, "capacity": 11, "size": 1, "requirements": [{"item": "vysu", "amount": 1}, {"item": "zupisy", "amount": 1}], "research": "vysu-conveyor", "category": "distribution"}

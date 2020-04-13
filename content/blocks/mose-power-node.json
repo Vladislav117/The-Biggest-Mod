@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mose power node", "description": "...", "size": 2, "health": 782, "requirements": [{"item": "mose", "amount": 19}, {"item": "kesyginium", "amount": 7}, {"item": "keby", "amount": 7}], "research": "mose-factory", "maxNodes": 14, "laserRange": 22, "category": "power"}

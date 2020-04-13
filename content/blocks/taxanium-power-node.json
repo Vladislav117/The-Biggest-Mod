@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "taxanium power node", "description": "...", "size": 2, "health": 179, "requirements": [{"item": "taxanium", "amount": 6}, {"item": "sukedu", "amount": 11}, {"item": "pufu", "amount": 2}], "research": "taxanium-factory", "maxNodes": 53, "laserRange": 9, "category": "power"}

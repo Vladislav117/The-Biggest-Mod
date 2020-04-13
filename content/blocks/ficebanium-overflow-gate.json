@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ficebanium overflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "ficebanium", "amount": 2}, {"item": "lesy", "amount": 5}], "research": "ficebanium-conveyor", "category": "distribution", "invert": false}

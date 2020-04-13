@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zadajo sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "zadajo", "amount": 3}, {"item": "dara", "amount": 5}], "research": "zadajo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cujyda junction", "description": "...", "health": 15, "speed": 2, "capacity": 18, "size": 1, "requirements": [{"item": "cujyda", "amount": 4}, {"item": "mepunium", "amount": 4}], "research": "cujyda-conveyor", "category": "distribution"}

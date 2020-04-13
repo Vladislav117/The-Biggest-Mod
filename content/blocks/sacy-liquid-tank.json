@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sacy liquid tank", "description": "...", "health": 502, "size": 3, "requirements": [{"item": "sacy", "amount": 20}, {"item": "mygenium", "amount": 13}, {"item": "mizu", "amount": 5}], "research": "sacy-conduit", "category": "liquid", "liquidCapacity": 25254, "hasLiquids": true}

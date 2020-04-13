@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kabovonium liquid tank", "description": "...", "health": 371, "size": 3, "requirements": [{"item": "kabovonium", "amount": 17}, {"item": "hexu", "amount": 7}, {"item": "myyu", "amount": 4}], "research": "kabovonium-conduit", "category": "liquid", "liquidCapacity": 9971, "hasLiquids": true}

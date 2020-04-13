@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nezajynium power node", "description": "...", "size": 2, "health": 774, "requirements": [{"item": "nezajynium", "amount": 2}, {"item": "lexo", "amount": 15}, {"item": "cedonium", "amount": 9}], "research": "nezajynium-factory", "maxNodes": 27, "laserRange": 17, "category": "power"}

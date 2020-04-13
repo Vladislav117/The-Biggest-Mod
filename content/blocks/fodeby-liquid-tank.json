@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fodeby liquid tank", "description": "...", "health": 126, "size": 3, "requirements": [{"item": "fodeby", "amount": 15}, {"item": "syxe", "amount": 3}, {"item": "fyrywe", "amount": 7}], "research": "fodeby-conduit", "category": "liquid", "liquidCapacity": 75430, "hasLiquids": true}

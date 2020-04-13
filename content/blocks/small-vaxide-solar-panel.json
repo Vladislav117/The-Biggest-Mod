@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vaxide solar panel", "description": "...", "size": 1, "health": 379, "requirements": [{"item": "vaxide", "amount": 19}, {"item": "puty", "amount": 10}, {"item": "kazo", "amount": 10}], "research": "vaxide-factory", "powerProduction": 0.25308373994901084, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qamo conduit", "description": "...", "health": 156, "requirements": [{"item": "qamo", "amount": 14}, {"item": "julynium", "amount": 12}, {"item": "qovy", "amount": 1}], "liquidCapacity": 8, "liquidPressure": 1, "research": "qamo-factory", "category": "liquid"}

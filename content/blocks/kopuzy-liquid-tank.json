@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kopuzy liquid tank", "description": "...", "health": 427, "size": 3, "requirements": [{"item": "kopuzy", "amount": 16}, {"item": "kyte", "amount": 10}, {"item": "gybeya", "amount": 1}], "research": "kopuzy-conduit", "category": "liquid", "liquidCapacity": 20122, "hasLiquids": true}

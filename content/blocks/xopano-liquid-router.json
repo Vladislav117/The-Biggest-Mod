@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xopano liquid router", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "xopano", "amount": 13}, {"item": "rymojanium", "amount": 12}, {"item": "nytodunium", "amount": 5}], "research": "xopano-conduit", "liquidCapacity": 10, "category": "liquid"}

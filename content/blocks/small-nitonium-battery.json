@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nitonium battery", "description": "...", "size": 1, "health": 197, "requirements": [{"item": "nitonium", "amount": 12}, {"item": "cokigo", "amount": 8}, {"item": "movanium", "amount": 4}], "research": "nitonium-factory", "consumes": {"powerBuffered": 846}, "category": "power"}

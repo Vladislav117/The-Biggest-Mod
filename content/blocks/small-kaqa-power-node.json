@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kaqa power node", "description": "...", "size": 1, "health": 167, "requirements": [{"item": "kaqa", "amount": 9}, {"item": "myhuzi", "amount": 16}, {"item": "nufaye", "amount": 9}], "research": "kaqa-factory", "maxNodes": 29, "laserRange": 11, "category": "power"}

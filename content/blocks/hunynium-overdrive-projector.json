@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "hunynium overdrive projector", "description": "...", "health": 104, "consumes": {"power": 3.0, "item": "hunynium"}, "size": 2, "requirements": [{"item": "hunynium", "amount": 14}, {"item": "xuzy", "amount": 19}, {"item": "syjo", "amount": 6}], "research": "hunynium-factory", "category": "effect"}

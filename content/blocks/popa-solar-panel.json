@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "popa solar panel", "description": "...", "size": 3, "health": 212, "requirements": [{"item": "popa", "amount": 4}, {"item": "yytiro", "amount": 16}, {"item": "qiqike", "amount": 9}], "research": "popa-factory", "powerProduction": 0.0025000110979199993, "category": "power"}

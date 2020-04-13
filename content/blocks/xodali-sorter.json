@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xodali sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "xodali", "amount": 3}, {"item": "xuve", "amount": 3}], "research": "xodali-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bymyye power node", "description": "...", "size": 2, "health": 643, "requirements": [{"item": "bymyye", "amount": 4}, {"item": "taja", "amount": 16}, {"item": "vosamo", "amount": 5}], "research": "bymyye-factory", "maxNodes": 19, "laserRange": 7, "category": "power"}

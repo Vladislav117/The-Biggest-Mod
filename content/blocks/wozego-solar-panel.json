@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wozego solar panel", "description": "...", "size": 3, "health": 313, "requirements": [{"item": "wozego", "amount": 9}, {"item": "lynulo", "amount": 10}, {"item": "mehenium", "amount": 4}], "research": "wozego-factory", "powerProduction": 0.1433051962658647, "category": "power"}

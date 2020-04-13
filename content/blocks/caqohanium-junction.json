@@ -1,0 +1,1 @@
+{"type": "junction", "name": "caqohanium junction", "description": "...", "health": 2, "speed": 13, "capacity": 14, "size": 1, "requirements": [{"item": "caqohanium", "amount": 4}, {"item": "vevati", "amount": 1}], "research": "caqohanium-conveyor", "category": "distribution"}

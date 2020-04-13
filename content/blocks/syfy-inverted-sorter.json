@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "syfy inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "syfy", "amount": 4}, {"item": "ryzote", "amount": 2}], "research": "syfy-conveyor", "category": "distribution", "invert": true}

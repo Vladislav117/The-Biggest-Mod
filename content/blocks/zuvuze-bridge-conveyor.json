@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zuvuze bridge conveyor", "description": "", "health": 31, "range": 12, "speed": 2, "bufferCapacity": 17, "requirements": [{"item": "zuvuze", "amount": 2}, {"item": "dowy", "amount": 2}], "research": "zuvuze-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small joky power node", "description": "...", "size": 1, "health": 256, "requirements": [{"item": "joky", "amount": 15}, {"item": "xikogo", "amount": 5}, {"item": "qudy", "amount": 4}], "research": "joky-factory", "maxNodes": 29, "laserRange": 9, "category": "power"}

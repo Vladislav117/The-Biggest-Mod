@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wynune inverted sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "wynune", "amount": 4}, {"item": "gykenium", "amount": 4}], "research": "wynune-conveyor", "category": "distribution", "invert": true}

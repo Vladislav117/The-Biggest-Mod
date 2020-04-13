@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "seyi drill", "description": "...", "size": 3, "health": 301, "tier": 1, "drillTime": 15, "consumes": {"power": 15}, "requirements": [{"item": "seyi", "amount": 18}, {"item": "pohyva", "amount": 15}, {"item": "sebobe", "amount": 1}], "research": "seyi-factory", "category": "production"}

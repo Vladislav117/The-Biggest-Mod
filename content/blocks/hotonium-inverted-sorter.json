@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hotonium inverted sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "hotonium", "amount": 1}, {"item": "diqa", "amount": 2}], "research": "hotonium-conveyor", "category": "distribution", "invert": true}

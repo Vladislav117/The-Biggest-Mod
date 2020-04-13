@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "baranium conveyor", "description": "...", "health": 100, "requirements": [{"item": "baranium", "amount": 7}, {"item": "qovy", "amount": 1}], "speed": 0.3028496262183656, "research": "baranium-factory", "category": "distribution"}

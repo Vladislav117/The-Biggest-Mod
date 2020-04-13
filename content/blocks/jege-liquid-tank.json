@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jege liquid tank", "description": "...", "health": 291, "size": 3, "requirements": [{"item": "jege", "amount": 6}, {"item": "juyude", "amount": 2}, {"item": "xedy", "amount": 3}], "research": "jege-conduit", "category": "liquid", "liquidCapacity": 18189, "hasLiquids": true}

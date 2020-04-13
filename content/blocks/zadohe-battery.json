@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zadohe battery", "description": "...", "size": 3, "health": 82, "requirements": [{"item": "zadohe", "amount": 2}, {"item": "zeva", "amount": 4}, {"item": "zatire", "amount": 1}], "research": "zadohe-factory", "consumes": {"powerBuffered": 6042}, "category": "power"}

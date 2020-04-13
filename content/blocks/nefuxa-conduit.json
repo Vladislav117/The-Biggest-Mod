@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nefuxa conduit", "description": "...", "health": 138, "requirements": [{"item": "nefuxa", "amount": 4}, {"item": "karu", "amount": 18}, {"item": "wisi", "amount": 3}], "liquidCapacity": 20, "liquidPressure": 8, "research": "nefuxa-factory", "category": "liquid"}

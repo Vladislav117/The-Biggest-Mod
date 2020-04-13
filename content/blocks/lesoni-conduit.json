@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lesoni conduit", "description": "...", "health": 72, "requirements": [{"item": "lesoni", "amount": 10}, {"item": "kyco", "amount": 18}, {"item": "befy", "amount": 4}], "liquidCapacity": 10, "liquidPressure": 10, "research": "lesoni-factory", "category": "liquid"}

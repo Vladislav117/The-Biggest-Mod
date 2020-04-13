@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wykanium battery", "description": "...", "size": 3, "health": 294, "requirements": [{"item": "wykanium", "amount": 3}, {"item": "tydy", "amount": 10}, {"item": "vanuhenium", "amount": 2}], "research": "wykanium-factory", "consumes": {"powerBuffered": 1502}, "category": "power"}

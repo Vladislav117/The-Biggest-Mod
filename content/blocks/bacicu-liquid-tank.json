@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bacicu liquid tank", "description": "...", "health": 127, "size": 3, "requirements": [{"item": "bacicu", "amount": 19}, {"item": "wycumu", "amount": 9}, {"item": "lihinium", "amount": 2}], "research": "bacicu-conduit", "category": "liquid", "liquidCapacity": 79211, "hasLiquids": true}

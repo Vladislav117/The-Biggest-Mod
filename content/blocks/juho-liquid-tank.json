@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "juho liquid tank", "description": "...", "health": 138, "size": 3, "requirements": [{"item": "juho", "amount": 5}, {"item": "xyza", "amount": 11}, {"item": "jeyanium", "amount": 6}], "research": "juho-conduit", "category": "liquid", "liquidCapacity": 3778, "hasLiquids": true}

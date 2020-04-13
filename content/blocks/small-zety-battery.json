@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zety battery", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "zety", "amount": 19}, {"item": "foqunium", "amount": 6}, {"item": "hyfeho", "amount": 7}], "research": "zety-factory", "consumes": {"powerBuffered": 2276}, "category": "power"}

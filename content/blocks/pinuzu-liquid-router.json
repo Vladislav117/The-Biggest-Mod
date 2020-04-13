@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pinuzu liquid router", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "pinuzu", "amount": 15}, {"item": "vewi", "amount": 17}, {"item": "kuxy", "amount": 8}], "research": "pinuzu-conduit", "liquidCapacity": 10, "category": "liquid"}

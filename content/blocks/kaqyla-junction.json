@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kaqyla junction", "description": "...", "health": 26, "speed": 16, "capacity": 5, "size": 1, "requirements": [{"item": "kaqyla", "amount": 4}, {"item": "peloronium", "amount": 5}], "research": "kaqyla-conveyor", "category": "distribution"}

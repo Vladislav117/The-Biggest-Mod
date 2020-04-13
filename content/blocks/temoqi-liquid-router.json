@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "temoqi liquid router", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "temoqi", "amount": 9}, {"item": "giqonium", "amount": 9}, {"item": "kyqu", "amount": 9}], "research": "temoqi-conduit", "liquidCapacity": 10, "category": "liquid"}

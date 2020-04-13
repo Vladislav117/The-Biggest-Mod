@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kuvycu liquid tank", "description": "...", "health": 138, "size": 3, "requirements": [{"item": "kuvycu", "amount": 7}, {"item": "pipohy", "amount": 18}, {"item": "rahasunium", "amount": 8}], "research": "kuvycu-conduit", "category": "liquid", "liquidCapacity": 90284, "hasLiquids": true}

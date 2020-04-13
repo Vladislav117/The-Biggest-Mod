@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kije drill", "description": "...", "size": 2, "health": 357, "tier": 3, "drillTime": 3, "consumes": {"power": 3}, "requirements": [{"item": "kije", "amount": 3}, {"item": "wivo", "amount": 20}, {"item": "diqa", "amount": 9}], "research": "kije-factory", "category": "production"}

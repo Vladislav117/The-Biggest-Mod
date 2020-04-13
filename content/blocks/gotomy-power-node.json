@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gotomy power node", "description": "...", "size": 2, "health": 213, "requirements": [{"item": "gotomy", "amount": 8}, {"item": "titanium", "amount": 1}, {"item": "ceciba", "amount": 4}], "research": "gotomy-factory", "maxNodes": 27, "laserRange": 5, "category": "power"}

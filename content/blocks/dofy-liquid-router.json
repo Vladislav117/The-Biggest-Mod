@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dofy liquid router", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "dofy", "amount": 2}, {"item": "gotomy", "amount": 8}, {"item": "jucinium", "amount": 6}], "research": "dofy-conduit", "liquidCapacity": 10, "category": "liquid"}

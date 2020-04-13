@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vosamo solar panel", "description": "...", "size": 1, "health": 147, "requirements": [{"item": "vosamo", "amount": 18}, {"item": "kegiqi", "amount": 15}, {"item": "xydume", "amount": 5}], "research": "vosamo-factory", "powerProduction": 0.75620322941111, "category": "power"}

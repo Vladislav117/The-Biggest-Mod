@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tasanium battery", "description": "...", "size": 1, "health": 170, "requirements": [{"item": "tasanium", "amount": 7}, {"item": "cypamy", "amount": 9}, {"item": "gytegy", "amount": 1}], "research": "tasanium-factory", "consumes": {"powerBuffered": 1043}, "category": "power"}

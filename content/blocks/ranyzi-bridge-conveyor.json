@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ranyzi bridge conveyor", "description": "", "health": 18, "range": 14, "speed": 11, "bufferCapacity": 21, "requirements": [{"item": "ranyzi", "amount": 5}, {"item": "byqymo", "amount": 5}], "research": "ranyzi-conveyor", "category": "distribution", "size": 1}

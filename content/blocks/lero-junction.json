@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lero junction", "description": "...", "health": 6, "speed": 16, "capacity": 17, "size": 1, "requirements": [{"item": "lero", "amount": 1}, {"item": "kezunium", "amount": 5}], "research": "lero-conveyor", "category": "distribution"}

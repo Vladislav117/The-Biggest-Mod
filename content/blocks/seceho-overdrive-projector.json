@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "seceho overdrive projector", "description": "...", "health": 53, "consumes": {"power": 3.0, "item": "seceho"}, "size": 2, "requirements": [{"item": "seceho", "amount": 10}, {"item": "kepa", "amount": 8}, {"item": "yexe", "amount": 2}], "research": "seceho-factory", "category": "effect"}

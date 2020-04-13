@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "geno overflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "geno", "amount": 1}, {"item": "dygi", "amount": 2}], "research": "geno-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xove conduit", "description": "...", "health": 180, "requirements": [{"item": "xove", "amount": 2}, {"item": "qoxida", "amount": 4}, {"item": "veco", "amount": 9}], "liquidCapacity": 28, "liquidPressure": 0, "research": "xove-factory", "category": "liquid"}

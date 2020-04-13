@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kavenium conduit", "description": "...", "health": 164, "requirements": [{"item": "kavenium", "amount": 11}, {"item": "wisi", "amount": 3}, {"item": "wykonium", "amount": 2}], "liquidCapacity": 14, "liquidPressure": 9, "research": "kavenium-factory", "category": "liquid"}

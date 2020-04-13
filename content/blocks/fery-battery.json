@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fery battery", "description": "...", "size": 3, "health": 236, "requirements": [{"item": "fery", "amount": 13}, {"item": "wusa", "amount": 5}, {"item": "kyje", "amount": 1}], "research": "fery-factory", "consumes": {"powerBuffered": 7784}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "maqa junction", "description": "...", "health": 28, "speed": 5, "capacity": 8, "size": 1, "requirements": [{"item": "maqa", "amount": 2}, {"item": "filu", "amount": 4}], "research": "maqa-conveyor", "category": "distribution"}

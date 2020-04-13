@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lifuvinium battery", "description": "...", "size": 1, "health": 172, "requirements": [{"item": "lifuvinium", "amount": 9}, {"item": "vuciby", "amount": 14}, {"item": "vyqosi", "amount": 8}], "research": "lifuvinium-factory", "consumes": {"powerBuffered": 1896}, "category": "power"}

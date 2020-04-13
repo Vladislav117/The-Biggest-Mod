@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xymywi battery", "description": "...", "size": 1, "health": 63, "requirements": [{"item": "xymywi", "amount": 17}, {"item": "yuly", "amount": 14}, {"item": "redo", "amount": 9}], "research": "xymywi-factory", "consumes": {"powerBuffered": 2916}, "category": "power"}

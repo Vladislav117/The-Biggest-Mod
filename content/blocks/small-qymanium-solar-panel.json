@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qymanium solar panel", "description": "...", "size": 1, "health": 91, "requirements": [{"item": "qymanium", "amount": 16}, {"item": "vevevi", "amount": 8}, {"item": "labonium", "amount": 7}], "research": "qymanium-factory", "powerProduction": 3.6991087060028063, "category": "power"}

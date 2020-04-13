@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "melula drill", "description": "...", "size": 2, "health": 418, "tier": 3, "drillTime": 9, "consumes": {"power": 1}, "requirements": [{"item": "melula", "amount": 18}, {"item": "viqamo", "amount": 6}, {"item": "myhuzi", "amount": 5}], "research": "melula-factory", "category": "production"}

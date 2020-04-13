@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pusunium liquid tank", "description": "...", "health": 489, "size": 3, "requirements": [{"item": "pusunium", "amount": 8}, {"item": "tasinium", "amount": 4}, {"item": "fygino", "amount": 6}], "research": "pusunium-conduit", "category": "liquid", "liquidCapacity": 118332, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small docyya battery", "description": "...", "size": 1, "health": 335, "requirements": [{"item": "docyya", "amount": 2}, {"item": "dyzo", "amount": 18}, {"item": "vuhu", "amount": 9}], "research": "docyya-factory", "consumes": {"powerBuffered": 472}, "category": "power"}

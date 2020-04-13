@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yedyte junction", "description": "...", "health": 25, "speed": 20, "capacity": 14, "size": 1, "requirements": [{"item": "yedyte", "amount": 3}, {"item": "xevenium", "amount": 5}], "research": "yedyte-conveyor", "category": "distribution"}

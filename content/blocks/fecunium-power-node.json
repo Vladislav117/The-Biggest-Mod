@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fecunium power node", "description": "...", "size": 2, "health": 705, "requirements": [{"item": "fecunium", "amount": 11}, {"item": "hebe", "amount": 2}, {"item": "dala", "amount": 3}], "research": "fecunium-factory", "maxNodes": 20, "laserRange": 27, "category": "power"}

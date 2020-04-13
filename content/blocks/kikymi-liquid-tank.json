@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kikymi liquid tank", "description": "...", "health": 538, "size": 3, "requirements": [{"item": "kikymi", "amount": 10}, {"item": "garyda", "amount": 6}, {"item": "yypuqynium", "amount": 1}], "research": "kikymi-conduit", "category": "liquid", "liquidCapacity": 105168, "hasLiquids": true}

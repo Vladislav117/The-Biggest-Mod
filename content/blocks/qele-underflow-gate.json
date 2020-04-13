@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qele underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "qele", "amount": 3}, {"item": "linu", "amount": 1}], "research": "qele-conveyor", "category": "distribution", "invert": false}

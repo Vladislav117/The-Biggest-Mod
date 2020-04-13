@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zokiry power node", "description": "...", "size": 2, "health": 550, "requirements": [{"item": "zokiry", "amount": 11}, {"item": "rizu", "amount": 19}, {"item": "raso", "amount": 8}], "research": "zokiry-factory", "maxNodes": 12, "laserRange": 19, "category": "power"}

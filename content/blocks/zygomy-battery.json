@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zygomy battery", "description": "...", "size": 3, "health": 76, "requirements": [{"item": "zygomy", "amount": 11}, {"item": "ryjo", "amount": 4}, {"item": "faba", "amount": 10}], "research": "zygomy-factory", "consumes": {"powerBuffered": 9633}, "category": "power"}

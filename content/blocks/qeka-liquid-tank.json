@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qeka liquid tank", "description": "...", "health": 386, "size": 3, "requirements": [{"item": "qeka", "amount": 12}, {"item": "gogajy", "amount": 10}, {"item": "nayevynium", "amount": 3}], "research": "qeka-conduit", "category": "liquid", "liquidCapacity": 33817, "hasLiquids": true}

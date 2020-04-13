@@ -1,0 +1,1 @@
+{"type": "router", "name": "faba router", "description": "...", "health": 100, "size": 1, "requirements": [{"item": "faba", "amount": 3}], "research": "faba-conveyor", "category": "distribution"}

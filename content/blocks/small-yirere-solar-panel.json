@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yirere solar panel", "description": "...", "size": 1, "health": 156, "requirements": [{"item": "yirere", "amount": 2}, {"item": "pamyka", "amount": 7}, {"item": "zihy", "amount": 4}], "research": "yirere-factory", "powerProduction": 0.9190169543549412, "category": "power"}

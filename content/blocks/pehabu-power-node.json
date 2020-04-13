@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pehabu power node", "description": "...", "size": 2, "health": 374, "requirements": [{"item": "pehabu", "amount": 4}, {"item": "rizinium", "amount": 1}, {"item": "fete", "amount": 6}], "research": "pehabu-factory", "maxNodes": 58, "laserRange": 17, "category": "power"}

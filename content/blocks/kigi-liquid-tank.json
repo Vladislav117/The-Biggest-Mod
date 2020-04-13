@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kigi liquid tank", "description": "...", "health": 447, "size": 3, "requirements": [{"item": "kigi", "amount": 7}, {"item": "ninu", "amount": 2}, {"item": "hidifynium", "amount": 4}], "research": "kigi-conduit", "category": "liquid", "liquidCapacity": 24232, "hasLiquids": true}

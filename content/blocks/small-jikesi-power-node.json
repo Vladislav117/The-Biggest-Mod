@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jikesi power node", "description": "...", "size": 1, "health": 238, "requirements": [{"item": "jikesi", "amount": 18}, {"item": "sapymanium", "amount": 16}, {"item": "kawo", "amount": 7}], "research": "jikesi-factory", "maxNodes": 7, "laserRange": 12, "category": "power"}

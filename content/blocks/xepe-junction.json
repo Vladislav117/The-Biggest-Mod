@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xepe junction", "description": "...", "health": 36, "speed": 9, "capacity": 13, "size": 1, "requirements": [{"item": "xepe", "amount": 1}, {"item": "higy", "amount": 4}], "research": "xepe-conveyor", "category": "distribution"}

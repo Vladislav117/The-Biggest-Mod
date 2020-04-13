@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cazewy drill", "description": "...", "size": 2, "health": 385, "tier": 1, "drillTime": 3, "consumes": {"power": 18}, "requirements": [{"item": "cazewy", "amount": 15}, {"item": "femoconium", "amount": 12}, {"item": "yavyra", "amount": 4}], "research": "cazewy-factory", "category": "production"}

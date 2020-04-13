@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "poviye solar panel", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "poviye", "amount": 13}, {"item": "xadyyo", "amount": 12}, {"item": "yylonium", "amount": 10}], "research": "poviye-factory", "powerProduction": 0.14525349095057752, "category": "power"}

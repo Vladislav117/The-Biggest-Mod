@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zedunium battery", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "zedunium", "amount": 6}, {"item": "dimysynium", "amount": 18}, {"item": "laranium", "amount": 8}], "research": "zedunium-factory", "consumes": {"powerBuffered": 597}, "category": "power"}

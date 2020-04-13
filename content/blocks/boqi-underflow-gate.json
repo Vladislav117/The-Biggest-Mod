@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "boqi underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "boqi", "amount": 3}, {"item": "nuko", "amount": 2}], "research": "boqi-conveyor", "category": "distribution", "invert": false}

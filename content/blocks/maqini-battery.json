@@ -1,0 +1,1 @@
+{"type": "battery", "name": "maqini battery", "description": "...", "size": 3, "health": 141, "requirements": [{"item": "maqini", "amount": 14}, {"item": "bedi", "amount": 11}, {"item": "qylino", "amount": 1}], "research": "maqini-factory", "consumes": {"powerBuffered": 5963}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nuso power node", "description": "...", "size": 2, "health": 133, "requirements": [{"item": "nuso", "amount": 6}, {"item": "metaglass", "amount": 1}, {"item": "kubi", "amount": 6}], "research": "nuso-factory", "maxNodes": 52, "laserRange": 22, "category": "power"}

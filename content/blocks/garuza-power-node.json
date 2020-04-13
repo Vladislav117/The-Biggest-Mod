@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "garuza power node", "description": "...", "size": 2, "health": 51, "requirements": [{"item": "garuza", "amount": 4}, {"item": "medeno", "amount": 11}, {"item": "liki", "amount": 5}], "research": "garuza-factory", "maxNodes": 36, "laserRange": 17, "category": "power"}

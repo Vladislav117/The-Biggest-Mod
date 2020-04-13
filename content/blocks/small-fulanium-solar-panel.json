@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fulanium solar panel", "description": "...", "size": 1, "health": 97, "requirements": [{"item": "fulanium", "amount": 14}, {"item": "byhonium", "amount": 9}, {"item": "pemo", "amount": 7}], "research": "fulanium-factory", "powerProduction": 0.011041905448304324, "category": "power"}

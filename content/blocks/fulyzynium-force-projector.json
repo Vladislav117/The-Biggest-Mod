@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "fulyzynium force projector", "description": "...", "health": 239, "size": 3, "consumes": {"power": 5.0, "item": "fulyzynium"}, "requirements": [{"item": "fulyzynium", "amount": 9}, {"item": "garyda", "amount": 5}, {"item": "mawanium", "amount": 5}], "research": "fulyzynium-factory", "category": "effect"}

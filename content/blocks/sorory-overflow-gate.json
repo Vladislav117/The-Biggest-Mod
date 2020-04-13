@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sorory overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "sorory", "amount": 1}, {"item": "befunium", "amount": 3}], "research": "sorory-conveyor", "category": "distribution", "invert": false}

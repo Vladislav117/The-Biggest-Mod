@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "giyu power node", "description": "...", "size": 2, "health": 47, "requirements": [{"item": "giyu", "amount": 7}, {"item": "yinuze", "amount": 6}, {"item": "subece", "amount": 7}], "research": "giyu-factory", "maxNodes": 14, "laserRange": 12, "category": "power"}

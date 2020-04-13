@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vasu power node", "description": "...", "size": 2, "health": 212, "requirements": [{"item": "vasu", "amount": 20}, {"item": "yirere", "amount": 12}, {"item": "sysagu", "amount": 6}], "research": "vasu-factory", "maxNodes": 14, "laserRange": 21, "category": "power"}

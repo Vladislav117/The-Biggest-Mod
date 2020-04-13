@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sozi inverted sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "sozi", "amount": 5}, {"item": "furazinium", "amount": 4}], "research": "sozi-conveyor", "category": "distribution", "invert": true}

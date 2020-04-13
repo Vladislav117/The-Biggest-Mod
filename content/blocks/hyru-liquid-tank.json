@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hyru liquid tank", "description": "...", "health": 469, "size": 3, "requirements": [{"item": "hyru", "amount": 3}, {"item": "guwinium", "amount": 16}, {"item": "qeka", "amount": 1}], "research": "hyru-conduit", "category": "liquid", "liquidCapacity": 85776, "hasLiquids": true}

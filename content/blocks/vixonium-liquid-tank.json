@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vixonium liquid tank", "description": "...", "health": 449, "size": 3, "requirements": [{"item": "vixonium", "amount": 1}, {"item": "qeje", "amount": 3}, {"item": "luwetu", "amount": 6}], "research": "vixonium-conduit", "category": "liquid", "liquidCapacity": 19534, "hasLiquids": true}

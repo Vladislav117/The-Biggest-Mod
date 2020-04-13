@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sumura battery", "description": "...", "size": 3, "health": 278, "requirements": [{"item": "sumura", "amount": 12}, {"item": "fami", "amount": 11}, {"item": "tasusynium", "amount": 2}], "research": "sumura-factory", "consumes": {"powerBuffered": 7746}, "category": "power"}

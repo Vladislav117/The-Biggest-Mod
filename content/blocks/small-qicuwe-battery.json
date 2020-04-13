@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qicuwe battery", "description": "...", "size": 1, "health": 85, "requirements": [{"item": "qicuwe", "amount": 7}, {"item": "qyyudi", "amount": 20}, {"item": "noqewy", "amount": 4}], "research": "qicuwe-factory", "consumes": {"powerBuffered": 2169}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wiyuho junction", "description": "...", "health": 32, "speed": 16, "capacity": 4, "size": 1, "requirements": [{"item": "wiyuho", "amount": 3}, {"item": "betesa", "amount": 1}], "research": "wiyuho-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sagenium overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "sagenium", "amount": 2}, {"item": "lowocanium", "amount": 3}], "research": "sagenium-conveyor", "category": "distribution", "invert": false}

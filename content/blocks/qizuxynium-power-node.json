@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qizuxynium power node", "description": "...", "size": 2, "health": 796, "requirements": [{"item": "qizuxynium", "amount": 12}, {"item": "hegyzi", "amount": 5}, {"item": "puta", "amount": 6}], "research": "qizuxynium-factory", "maxNodes": 11, "laserRange": 8, "category": "power"}

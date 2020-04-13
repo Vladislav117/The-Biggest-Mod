@@ -1,0 +1,1 @@
+{"type": "battery", "name": "juwynium battery", "description": "...", "size": 3, "health": 309, "requirements": [{"item": "juwynium", "amount": 11}, {"item": "zoyyqynium", "amount": 7}, {"item": "jytubinium", "amount": 10}], "research": "juwynium-factory", "consumes": {"powerBuffered": 5888}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wadiyonium power node", "description": "...", "size": 2, "health": 779, "requirements": [{"item": "wadiyonium", "amount": 15}, {"item": "diwyci", "amount": 18}, {"item": "pego", "amount": 2}], "research": "wadiyonium-factory", "maxNodes": 27, "laserRange": 13, "category": "power"}

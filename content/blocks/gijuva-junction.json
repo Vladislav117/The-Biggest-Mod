@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gijuva junction", "description": "...", "health": 31, "speed": 13, "capacity": 4, "size": 1, "requirements": [{"item": "gijuva", "amount": 3}, {"item": "kyka", "amount": 5}], "research": "gijuva-conveyor", "category": "distribution"}

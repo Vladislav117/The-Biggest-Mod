@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hybobenium bridge conveyor", "description": "", "health": 39, "range": 7, "speed": 7, "bufferCapacity": 17, "requirements": [{"item": "hybobenium", "amount": 5}, {"item": "kurecanium", "amount": 5}], "research": "hybobenium-conveyor", "category": "distribution", "size": 1}

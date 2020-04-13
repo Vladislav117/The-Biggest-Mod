@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dyzo conduit", "description": "...", "health": 199, "requirements": [{"item": "dyzo", "amount": 16}, {"item": "depyya", "amount": 17}, {"item": "tire", "amount": 8}], "liquidCapacity": 8, "liquidPressure": 9, "research": "dyzo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nity liquid router", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "nity", "amount": 1}, {"item": "seyo", "amount": 1}, {"item": "susi", "amount": 8}], "research": "nity-conduit", "liquidCapacity": 10, "category": "liquid"}

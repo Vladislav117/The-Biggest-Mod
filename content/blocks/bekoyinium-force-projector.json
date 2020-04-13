@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "bekoyinium force projector", "description": "...", "health": 203, "size": 3, "consumes": {"power": 5.0, "item": "bekoyinium"}, "requirements": [{"item": "bekoyinium", "amount": 15}, {"item": "pyhisy", "amount": 7}, {"item": "limo", "amount": 5}], "research": "bekoyinium-factory", "category": "effect"}

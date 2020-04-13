@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hegyzi power node", "description": "...", "size": 2, "health": 90, "requirements": [{"item": "hegyzi", "amount": 1}, {"item": "yybo", "amount": 20}, {"item": "jyhoninium", "amount": 9}], "research": "hegyzi-factory", "maxNodes": 20, "laserRange": 19, "category": "power"}

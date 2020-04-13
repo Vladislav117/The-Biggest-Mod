@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wadiyonium solar panel", "description": "...", "size": 1, "health": 187, "requirements": [{"item": "wadiyonium", "amount": 5}, {"item": "vomo", "amount": 3}, {"item": "ruwy", "amount": 6}], "research": "wadiyonium-factory", "powerProduction": 0.4525710698955472, "category": "power"}

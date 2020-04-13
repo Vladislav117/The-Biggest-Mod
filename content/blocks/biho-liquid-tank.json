@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "biho liquid tank", "description": "...", "health": 504, "size": 3, "requirements": [{"item": "biho", "amount": 2}, {"item": "liryfa", "amount": 18}, {"item": "lyheti", "amount": 3}], "research": "biho-conduit", "category": "liquid", "liquidCapacity": 58890, "hasLiquids": true}

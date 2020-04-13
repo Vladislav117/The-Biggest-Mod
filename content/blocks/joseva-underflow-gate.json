@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "joseva underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "joseva", "amount": 2}, {"item": "qoly", "amount": 3}], "research": "joseva-conveyor", "category": "distribution", "invert": false}

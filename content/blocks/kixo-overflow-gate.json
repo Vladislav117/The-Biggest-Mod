@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kixo overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "kixo", "amount": 4}, {"item": "zoxi", "amount": 3}], "research": "kixo-conveyor", "category": "distribution", "invert": false}

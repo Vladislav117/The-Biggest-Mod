@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pagopy solar panel", "description": "...", "size": 3, "health": 29, "requirements": [{"item": "pagopy", "amount": 19}, {"item": "ryxunium", "amount": 8}, {"item": "mawanium", "amount": 8}], "research": "pagopy-factory", "powerProduction": 2.2171226953800494, "category": "power"}

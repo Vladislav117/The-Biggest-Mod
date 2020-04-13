@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jihaconium liquid tank", "description": "...", "health": 312, "size": 3, "requirements": [{"item": "jihaconium", "amount": 10}, {"item": "sukedu", "amount": 18}, {"item": "leyoqo", "amount": 10}], "research": "jihaconium-conduit", "category": "liquid", "liquidCapacity": 66007, "hasLiquids": true}

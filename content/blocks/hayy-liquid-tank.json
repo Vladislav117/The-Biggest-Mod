@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hayy liquid tank", "description": "...", "health": 474, "size": 3, "requirements": [{"item": "hayy", "amount": 5}, {"item": "riro", "amount": 16}, {"item": "padopu", "amount": 4}], "research": "hayy-conduit", "category": "liquid", "liquidCapacity": 3921, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kuqi overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "kuqi", "amount": 5}, {"item": "miwaye", "amount": 2}], "research": "kuqi-conveyor", "category": "distribution", "invert": false}

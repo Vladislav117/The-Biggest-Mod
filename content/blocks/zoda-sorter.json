@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zoda sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "zoda", "amount": 1}, {"item": "yytiro", "amount": 5}], "research": "zoda-conveyor", "category": "distribution", "invert": false}

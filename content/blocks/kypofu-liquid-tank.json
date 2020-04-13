@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kypofu liquid tank", "description": "...", "health": 320, "size": 3, "requirements": [{"item": "kypofu", "amount": 12}, {"item": "samivi", "amount": 10}, {"item": "figu", "amount": 7}], "research": "kypofu-conduit", "category": "liquid", "liquidCapacity": 2851, "hasLiquids": true}

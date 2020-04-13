@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ratapu sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "ratapu", "amount": 1}, {"item": "syxy", "amount": 3}], "research": "ratapu-conveyor", "category": "distribution", "invert": false}

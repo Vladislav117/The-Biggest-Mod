@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vere solar panel", "description": "...", "size": 3, "health": 41, "requirements": [{"item": "vere", "amount": 16}, {"item": "bide", "amount": 7}, {"item": "tyqylo", "amount": 4}], "research": "vere-factory", "powerProduction": 0.7039328091584176, "category": "power"}

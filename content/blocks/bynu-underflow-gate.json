@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bynu underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "bynu", "amount": 1}, {"item": "zyhijy", "amount": 2}], "research": "bynu-conveyor", "category": "distribution", "invert": false}

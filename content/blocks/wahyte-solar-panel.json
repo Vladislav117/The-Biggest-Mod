@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wahyte solar panel", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "wahyte", "amount": 19}, {"item": "puhu", "amount": 12}, {"item": "giba", "amount": 5}], "research": "wahyte-factory", "powerProduction": 0.8003269768540348, "category": "power"}

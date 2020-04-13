@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xaxe battery", "description": "...", "size": 1, "health": 303, "requirements": [{"item": "xaxe", "amount": 2}, {"item": "tere", "amount": 6}, {"item": "jeyiqy", "amount": 10}], "research": "xaxe-factory", "consumes": {"powerBuffered": 1983}, "category": "power"}

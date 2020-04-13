@@ -1,0 +1,1 @@
+{"type": "router", "name": "vodico router", "description": "...", "health": 101, "size": 1, "requirements": [{"item": "vodico", "amount": 2}], "research": "vodico-conveyor", "category": "distribution"}

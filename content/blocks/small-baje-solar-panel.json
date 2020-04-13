@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small baje solar panel", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "baje", "amount": 14}, {"item": "jetu", "amount": 8}, {"item": "hexu", "amount": 7}], "research": "baje-factory", "powerProduction": 3.441406855262525, "category": "power"}

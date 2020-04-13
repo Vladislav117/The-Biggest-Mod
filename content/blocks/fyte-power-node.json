@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fyte power node", "description": "...", "size": 2, "health": 81, "requirements": [{"item": "fyte", "amount": 3}, {"item": "nilo", "amount": 14}, {"item": "kixihinium", "amount": 9}], "research": "fyte-factory", "maxNodes": 45, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "juqinium power node", "description": "...", "size": 2, "health": 278, "requirements": [{"item": "juqinium", "amount": 1}, {"item": "denu", "amount": 12}, {"item": "vayixo", "amount": 7}], "research": "juqinium-factory", "maxNodes": 55, "laserRange": 5, "category": "power"}

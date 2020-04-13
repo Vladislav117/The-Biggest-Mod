@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rale power node", "description": "...", "size": 2, "health": 361, "requirements": [{"item": "rale", "amount": 19}, {"item": "tozokinium", "amount": 3}, {"item": "loqa", "amount": 9}], "research": "rale-factory", "maxNodes": 17, "laserRange": 24, "category": "power"}

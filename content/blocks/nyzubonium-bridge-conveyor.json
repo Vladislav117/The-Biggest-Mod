@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nyzubonium bridge conveyor", "description": "", "health": 23, "range": 3, "speed": 4, "bufferCapacity": 11, "requirements": [{"item": "nyzubonium", "amount": 1}, {"item": "junoxo", "amount": 5}], "research": "nyzubonium-conveyor", "category": "distribution", "size": 1}

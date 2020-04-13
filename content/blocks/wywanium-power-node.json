@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wywanium power node", "description": "...", "size": 2, "health": 462, "requirements": [{"item": "wywanium", "amount": 14}, {"item": "xasinium", "amount": 5}, {"item": "xavinium", "amount": 9}], "research": "wywanium-factory", "maxNodes": 30, "laserRange": 16, "category": "power"}

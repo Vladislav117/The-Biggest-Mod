@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "puti overflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "puti", "amount": 1}, {"item": "tomufa", "amount": 5}], "research": "puti-conveyor", "category": "distribution", "invert": false}

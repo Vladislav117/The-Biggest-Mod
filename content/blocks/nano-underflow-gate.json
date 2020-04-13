@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nano underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "nano", "amount": 1}, {"item": "vanuhenium", "amount": 5}], "research": "nano-conveyor", "category": "distribution", "invert": false}

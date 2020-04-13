@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zozo liquid router", "description": "...", "size": 1, "health": 30, "requirements": [{"item": "zozo", "amount": 9}, {"item": "fure", "amount": 15}, {"item": "vega", "amount": 5}], "research": "zozo-conduit", "liquidCapacity": 10, "category": "liquid"}

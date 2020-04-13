@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zida power node", "description": "...", "size": 2, "health": 572, "requirements": [{"item": "zida", "amount": 17}, {"item": "sygoqu", "amount": 6}, {"item": "tusico", "amount": 1}], "research": "zida-factory", "maxNodes": 48, "laserRange": 17, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "daci overflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "daci", "amount": 5}, {"item": "tozile", "amount": 2}], "research": "daci-conveyor", "category": "distribution", "invert": false}

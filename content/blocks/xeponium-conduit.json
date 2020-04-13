@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xeponium conduit", "description": "...", "health": 164, "requirements": [{"item": "xeponium", "amount": 8}, {"item": "gifu", "amount": 10}, {"item": "lynaly", "amount": 6}], "liquidCapacity": 25, "liquidPressure": 0, "research": "xeponium-factory", "category": "liquid"}

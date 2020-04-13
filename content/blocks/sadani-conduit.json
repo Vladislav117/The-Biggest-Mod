@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sadani conduit", "description": "...", "health": 72, "requirements": [{"item": "sadani", "amount": 9}, {"item": "qexata", "amount": 17}, {"item": "pijewu", "amount": 3}], "liquidCapacity": 9, "liquidPressure": 4, "research": "sadani-factory", "category": "liquid"}

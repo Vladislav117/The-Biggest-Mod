@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gylananium solar panel", "description": "...", "size": 3, "health": 31, "requirements": [{"item": "gylananium", "amount": 10}, {"item": "wepo", "amount": 15}, {"item": "rabu", "amount": 7}], "research": "gylananium-factory", "powerProduction": 1.6856701942038002, "category": "power"}

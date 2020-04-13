@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wygaki solar panel", "description": "...", "size": 3, "health": 241, "requirements": [{"item": "wygaki", "amount": 4}, {"item": "luwetu", "amount": 16}, {"item": "zeqonium", "amount": 3}], "research": "wygaki-factory", "powerProduction": 11.574633041528596, "category": "power"}

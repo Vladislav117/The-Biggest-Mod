@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "syve inverted sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "syve", "amount": 3}, {"item": "fipa", "amount": 1}], "research": "syve-conveyor", "category": "distribution", "invert": true}

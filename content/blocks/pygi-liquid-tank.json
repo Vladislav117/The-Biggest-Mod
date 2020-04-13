@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pygi liquid tank", "description": "...", "health": 480, "size": 3, "requirements": [{"item": "pygi", "amount": 8}, {"item": "tavuwy", "amount": 14}, {"item": "tupase", "amount": 7}], "research": "pygi-conduit", "category": "liquid", "liquidCapacity": 88254, "hasLiquids": true}

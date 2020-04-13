@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gepyna power node", "description": "...", "size": 1, "health": 137, "requirements": [{"item": "gepyna", "amount": 4}, {"item": "hexuqe", "amount": 5}, {"item": "mujenium", "amount": 7}], "research": "gepyna-factory", "maxNodes": 27, "laserRange": 25, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nylo battery", "description": "...", "size": 3, "health": 385, "requirements": [{"item": "nylo", "amount": 6}, {"item": "sewa", "amount": 5}, {"item": "pyfa", "amount": 2}], "research": "nylo-factory", "consumes": {"powerBuffered": 9551}, "category": "power"}

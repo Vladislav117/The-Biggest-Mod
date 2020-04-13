@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cykayu drill", "description": "...", "size": 2, "health": 206, "tier": 2, "drillTime": 4, "consumes": {"power": 6}, "requirements": [{"item": "cykayu", "amount": 7}, {"item": "rexo", "amount": 8}, {"item": "laho", "amount": 5}], "research": "cykayu-factory", "category": "production"}

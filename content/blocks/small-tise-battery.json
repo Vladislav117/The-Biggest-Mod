@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tise battery", "description": "...", "size": 1, "health": 226, "requirements": [{"item": "tise", "amount": 10}, {"item": "kurecanium", "amount": 6}, {"item": "laho", "amount": 2}], "research": "tise-factory", "consumes": {"powerBuffered": 2899}, "category": "power"}

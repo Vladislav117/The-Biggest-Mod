@@ -1,0 +1,1 @@
+{"type": "junction", "name": "locycanium junction", "description": "...", "health": 12, "speed": 7, "capacity": 13, "size": 1, "requirements": [{"item": "locycanium", "amount": 3}, {"item": "motaty", "amount": 3}], "research": "locycanium-conveyor", "category": "distribution"}

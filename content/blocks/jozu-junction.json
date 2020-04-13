@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jozu junction", "description": "...", "health": 44, "speed": 17, "capacity": 4, "size": 1, "requirements": [{"item": "jozu", "amount": 3}, {"item": "xype", "amount": 5}], "research": "jozu-conveyor", "category": "distribution"}

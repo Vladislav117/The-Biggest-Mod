@@ -1,0 +1,1 @@
+{"type": "battery", "name": "simiwi battery", "description": "...", "size": 3, "health": 303, "requirements": [{"item": "simiwi", "amount": 1}, {"item": "pygu", "amount": 13}, {"item": "goqanium", "amount": 6}], "research": "simiwi-factory", "consumes": {"powerBuffered": 7552}, "category": "power"}

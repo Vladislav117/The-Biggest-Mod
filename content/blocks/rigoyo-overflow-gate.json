@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rigoyo overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "rigoyo", "amount": 3}, {"item": "minoxa", "amount": 2}], "research": "rigoyo-conveyor", "category": "distribution", "invert": false}

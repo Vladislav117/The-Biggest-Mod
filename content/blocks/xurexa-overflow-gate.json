@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xurexa overflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "xurexa", "amount": 2}, {"item": "docinium", "amount": 5}], "research": "xurexa-conveyor", "category": "distribution", "invert": false}

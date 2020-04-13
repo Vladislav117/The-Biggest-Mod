@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jixaro underflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "jixaro", "amount": 5}, {"item": "diwi", "amount": 2}], "research": "jixaro-conveyor", "category": "distribution", "invert": false}

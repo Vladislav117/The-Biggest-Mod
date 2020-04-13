@@ -1,0 +1,1 @@
+{"type": "battery", "name": "walorunium battery", "description": "...", "size": 3, "health": 106, "requirements": [{"item": "walorunium", "amount": 11}, {"item": "zufo", "amount": 12}, {"item": "valetynium", "amount": 1}], "research": "walorunium-factory", "consumes": {"powerBuffered": 6998}, "category": "power"}

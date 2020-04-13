@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ruke battery", "description": "...", "size": 3, "health": 206, "requirements": [{"item": "ruke", "amount": 3}, {"item": "rukonium", "amount": 9}, {"item": "movenium", "amount": 7}], "research": "ruke-factory", "consumes": {"powerBuffered": 4598}, "category": "power"}

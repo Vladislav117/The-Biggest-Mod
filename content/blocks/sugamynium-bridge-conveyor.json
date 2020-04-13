@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sugamynium bridge conveyor", "description": "", "health": 23, "range": 10, "speed": 17, "bufferCapacity": 25, "requirements": [{"item": "sugamynium", "amount": 1}, {"item": "wana", "amount": 4}], "research": "sugamynium-conveyor", "category": "distribution", "size": 1}

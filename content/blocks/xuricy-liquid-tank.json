@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xuricy liquid tank", "description": "...", "health": 131, "size": 3, "requirements": [{"item": "xuricy", "amount": 15}, {"item": "bybity", "amount": 6}, {"item": "giha", "amount": 9}], "research": "xuricy-conduit", "category": "liquid", "liquidCapacity": 92995, "hasLiquids": true}

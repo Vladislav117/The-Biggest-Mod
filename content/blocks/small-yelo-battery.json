@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yelo battery", "description": "...", "size": 1, "health": 390, "requirements": [{"item": "yelo", "amount": 3}, {"item": "xyko", "amount": 14}, {"item": "yuwo", "amount": 8}], "research": "yelo-factory", "consumes": {"powerBuffered": 1434}, "category": "power"}

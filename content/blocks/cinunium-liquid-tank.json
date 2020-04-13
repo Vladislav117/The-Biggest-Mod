@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cinunium liquid tank", "description": "...", "health": 487, "size": 3, "requirements": [{"item": "cinunium", "amount": 15}, {"item": "puwasy", "amount": 12}, {"item": "viqamo", "amount": 10}], "research": "cinunium-conduit", "category": "liquid", "liquidCapacity": 113962, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yubyqi power node", "description": "...", "size": 2, "health": 755, "requirements": [{"item": "yubyqi", "amount": 14}, {"item": "qyyalo", "amount": 13}, {"item": "kide", "amount": 6}], "research": "yubyqi-factory", "maxNodes": 17, "laserRange": 21, "category": "power"}

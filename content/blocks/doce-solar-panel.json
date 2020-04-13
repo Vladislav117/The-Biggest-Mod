@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "doce solar panel", "description": "...", "size": 3, "health": 20, "requirements": [{"item": "doce", "amount": 13}, {"item": "xuve", "amount": 12}, {"item": "docyya", "amount": 4}], "research": "doce-factory", "powerProduction": 3.6898067210607897, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xucybe overflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "xucybe", "amount": 5}, {"item": "yyvenium", "amount": 4}], "research": "xucybe-conveyor", "category": "distribution", "invert": false}

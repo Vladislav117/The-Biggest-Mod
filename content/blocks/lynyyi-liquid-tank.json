@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lynyyi liquid tank", "description": "...", "health": 366, "size": 3, "requirements": [{"item": "lynyyi", "amount": 20}, {"item": "mumu", "amount": 11}, {"item": "noconium", "amount": 8}], "research": "lynyyi-conduit", "category": "liquid", "liquidCapacity": 65405, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cafy liquid tank", "description": "...", "health": 562, "size": 3, "requirements": [{"item": "cafy", "amount": 13}, {"item": "julynium", "amount": 7}, {"item": "vurypo", "amount": 6}], "research": "cafy-conduit", "category": "liquid", "liquidCapacity": 104771, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dafuse power node", "description": "...", "size": 2, "health": 758, "requirements": [{"item": "dafuse", "amount": 12}, {"item": "cuse", "amount": 1}, {"item": "xyxevynium", "amount": 5}], "research": "dafuse-factory", "maxNodes": 16, "laserRange": 15, "category": "power"}

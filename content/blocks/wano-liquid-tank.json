@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wano liquid tank", "description": "...", "health": 200, "size": 3, "requirements": [{"item": "wano", "amount": 10}, {"item": "jeqidynium", "amount": 4}, {"item": "hoqade", "amount": 1}], "research": "wano-conduit", "category": "liquid", "liquidCapacity": 58341, "hasLiquids": true}

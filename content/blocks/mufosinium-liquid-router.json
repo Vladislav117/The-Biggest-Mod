@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mufosinium liquid router", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "mufosinium", "amount": 12}, {"item": "kavequ", "amount": 13}, {"item": "hufema", "amount": 1}], "research": "mufosinium-conduit", "liquidCapacity": 10, "category": "liquid"}

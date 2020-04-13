@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qivoha inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "qivoha", "amount": 2}, {"item": "vapo", "amount": 1}], "research": "qivoha-conveyor", "category": "distribution", "invert": true}

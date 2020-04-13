@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wewaya battery", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "wewaya", "amount": 18}, {"item": "boryvi", "amount": 9}, {"item": "rime", "amount": 4}], "research": "wewaya-factory", "consumes": {"powerBuffered": 1751}, "category": "power"}

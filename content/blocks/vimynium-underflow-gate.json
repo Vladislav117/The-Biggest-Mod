@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vimynium underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "vimynium", "amount": 5}, {"item": "yodo", "amount": 4}], "research": "vimynium-conveyor", "category": "distribution", "invert": false}

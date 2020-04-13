@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yuhy liquid tank", "description": "...", "health": 641, "size": 3, "requirements": [{"item": "yuhy", "amount": 8}, {"item": "rylyki", "amount": 1}, {"item": "mebo", "amount": 10}], "research": "yuhy-conduit", "category": "liquid", "liquidCapacity": 73192, "hasLiquids": true}

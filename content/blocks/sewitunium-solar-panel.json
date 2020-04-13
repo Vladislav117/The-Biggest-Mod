@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sewitunium solar panel", "description": "...", "size": 3, "health": 297, "requirements": [{"item": "sewitunium", "amount": 5}, {"item": "tuqe", "amount": 9}, {"item": "geke", "amount": 2}], "research": "sewitunium-factory", "powerProduction": 2.033957252703672, "category": "power"}

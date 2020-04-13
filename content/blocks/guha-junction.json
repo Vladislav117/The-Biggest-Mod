@@ -1,0 +1,1 @@
+{"type": "junction", "name": "guha junction", "description": "...", "health": 3, "speed": 11, "capacity": 8, "size": 1, "requirements": [{"item": "guha", "amount": 1}, {"item": "rajubanium", "amount": 4}], "research": "guha-conveyor", "category": "distribution"}

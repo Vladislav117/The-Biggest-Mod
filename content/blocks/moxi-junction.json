@@ -1,0 +1,1 @@
+{"type": "junction", "name": "moxi junction", "description": "...", "health": 33, "speed": 13, "capacity": 19, "size": 1, "requirements": [{"item": "moxi", "amount": 1}, {"item": "fesixa", "amount": 4}], "research": "moxi-conveyor", "category": "distribution"}

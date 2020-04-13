@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xasahu overflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "xasahu", "amount": 2}, {"item": "mimuce", "amount": 1}], "research": "xasahu-conveyor", "category": "distribution", "invert": false}

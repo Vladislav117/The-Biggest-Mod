@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vucazy solar panel", "description": "...", "size": 3, "health": 131, "requirements": [{"item": "vucazy", "amount": 19}, {"item": "yynatu", "amount": 12}, {"item": "hayy", "amount": 9}], "research": "vucazy-factory", "powerProduction": 0.3126858500929217, "category": "power"}

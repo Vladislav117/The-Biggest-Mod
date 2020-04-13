@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small peloronium solar panel", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "peloronium", "amount": 1}, {"item": "pubado", "amount": 6}, {"item": "vevudinium", "amount": 2}], "research": "peloronium-factory", "powerProduction": 1.183293844261733, "category": "power"}

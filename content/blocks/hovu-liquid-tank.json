@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hovu liquid tank", "description": "...", "health": 237, "size": 3, "requirements": [{"item": "hovu", "amount": 18}, {"item": "ferykenium", "amount": 15}, {"item": "xega", "amount": 5}], "research": "hovu-conduit", "category": "liquid", "liquidCapacity": 72466, "hasLiquids": true}

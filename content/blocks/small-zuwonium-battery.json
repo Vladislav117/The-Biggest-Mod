@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zuwonium battery", "description": "...", "size": 1, "health": 266, "requirements": [{"item": "zuwonium", "amount": 7}, {"item": "jomoka", "amount": 15}, {"item": "xemynium", "amount": 5}], "research": "zuwonium-factory", "consumes": {"powerBuffered": 2402}, "category": "power"}

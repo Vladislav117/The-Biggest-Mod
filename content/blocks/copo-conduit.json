@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "copo conduit", "description": "...", "health": 58, "requirements": [{"item": "copo", "amount": 7}, {"item": "fulasa", "amount": 4}, {"item": "yigiku", "amount": 4}], "liquidCapacity": 33, "liquidPressure": 3, "research": "copo-factory", "category": "liquid"}

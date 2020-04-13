@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vapova liquid router", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "vapova", "amount": 6}, {"item": "vadoda", "amount": 14}, {"item": "samy", "amount": 2}], "research": "vapova-conduit", "liquidCapacity": 10, "category": "liquid"}

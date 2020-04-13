@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xuhuxenium drill", "description": "...", "size": 3, "health": 155, "tier": 1, "drillTime": 2, "consumes": {"power": 9}, "requirements": [{"item": "xuhuxenium", "amount": 20}, {"item": "melula", "amount": 3}, {"item": "daye", "amount": 3}], "research": "xuhuxenium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "myyave sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "myyave", "amount": 4}, {"item": "goqanium", "amount": 2}], "research": "myyave-conveyor", "category": "distribution", "invert": false}

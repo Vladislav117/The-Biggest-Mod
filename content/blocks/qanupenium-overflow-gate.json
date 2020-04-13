@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qanupenium overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "qanupenium", "amount": 4}, {"item": "pizi", "amount": 3}], "research": "qanupenium-conveyor", "category": "distribution", "invert": false}

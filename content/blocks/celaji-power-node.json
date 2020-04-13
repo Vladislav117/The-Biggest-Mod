@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "celaji power node", "description": "...", "size": 2, "health": 149, "requirements": [{"item": "celaji", "amount": 15}, {"item": "sebypa", "amount": 17}, {"item": "zywave", "amount": 3}], "research": "celaji-factory", "maxNodes": 22, "laserRange": 8, "category": "power"}

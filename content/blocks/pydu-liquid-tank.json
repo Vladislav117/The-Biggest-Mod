@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pydu liquid tank", "description": "...", "health": 370, "size": 3, "requirements": [{"item": "pydu", "amount": 17}, {"item": "titanium", "amount": 19}, {"item": "mexa", "amount": 2}], "research": "pydu-conduit", "category": "liquid", "liquidCapacity": 58105, "hasLiquids": true}

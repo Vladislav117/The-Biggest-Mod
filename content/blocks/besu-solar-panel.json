@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "besu solar panel", "description": "...", "size": 3, "health": 65, "requirements": [{"item": "besu", "amount": 18}, {"item": "hiki", "amount": 7}, {"item": "plastanium", "amount": 1}], "research": "besu-factory", "powerProduction": 1.3745738035872426, "category": "power"}

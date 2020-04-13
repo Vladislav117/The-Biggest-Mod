@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "muza conduit", "description": "...", "health": 132, "requirements": [{"item": "muza", "amount": 20}, {"item": "cydyby", "amount": 5}, {"item": "nary", "amount": 6}], "liquidCapacity": 49, "liquidPressure": 8, "research": "muza-factory", "category": "liquid"}

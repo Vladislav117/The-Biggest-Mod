@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "webebu power node", "description": "...", "size": 2, "health": 107, "requirements": [{"item": "webebu", "amount": 5}, {"item": "yyko", "amount": 12}, {"item": "julynium", "amount": 5}], "research": "webebu-factory", "maxNodes": 15, "laserRange": 10, "category": "power"}

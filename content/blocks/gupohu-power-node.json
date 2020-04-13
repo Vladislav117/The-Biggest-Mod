@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gupohu power node", "description": "...", "size": 2, "health": 479, "requirements": [{"item": "gupohu", "amount": 11}, {"item": "nerymi", "amount": 4}, {"item": "sycexi", "amount": 4}], "research": "gupohu-factory", "maxNodes": 15, "laserRange": 15, "category": "power"}

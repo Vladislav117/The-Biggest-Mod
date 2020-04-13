@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kibanium liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "kibanium", "amount": 5}, {"item": "qawi", "amount": 5}, {"item": "mose", "amount": 9}], "research": "kibanium-conduit", "liquidCapacity": 10, "category": "liquid"}

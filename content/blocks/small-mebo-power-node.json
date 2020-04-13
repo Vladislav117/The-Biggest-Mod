@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mebo power node", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "mebo", "amount": 5}, {"item": "detadynium", "amount": 7}, {"item": "qepusenium", "amount": 4}], "research": "mebo-factory", "maxNodes": 4, "laserRange": 7, "category": "power"}

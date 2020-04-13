@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cuda power node", "description": "...", "size": 2, "health": 747, "requirements": [{"item": "cuda", "amount": 4}, {"item": "kuwo", "amount": 13}, {"item": "reqoxu", "amount": 1}], "research": "cuda-factory", "maxNodes": 54, "laserRange": 19, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bujyja solar panel", "description": "...", "size": 3, "health": 173, "requirements": [{"item": "bujyja", "amount": 16}, {"item": "piquvi", "amount": 19}, {"item": "qegu", "amount": 8}], "research": "bujyja-factory", "powerProduction": 5.981561723662734, "category": "power"}

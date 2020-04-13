@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xutire drill", "description": "...", "size": 2, "health": 169, "tier": 3, "drillTime": 15, "consumes": {"power": 9}, "requirements": [{"item": "xutire", "amount": 16}, {"item": "heqywanium", "amount": 6}, {"item": "jywupa", "amount": 10}], "research": "xutire-factory", "category": "production"}

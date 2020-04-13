@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kabovonium solar panel", "description": "...", "size": 1, "health": 321, "requirements": [{"item": "kabovonium", "amount": 18}, {"item": "kotinium", "amount": 1}, {"item": "pypy", "amount": 10}], "research": "kabovonium-factory", "powerProduction": 2.8538340620521008, "category": "power"}

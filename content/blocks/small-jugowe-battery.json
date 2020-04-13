@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jugowe battery", "description": "...", "size": 1, "health": 189, "requirements": [{"item": "jugowe", "amount": 19}, {"item": "zoqy", "amount": 15}, {"item": "zowi", "amount": 7}], "research": "jugowe-factory", "consumes": {"powerBuffered": 2475}, "category": "power"}

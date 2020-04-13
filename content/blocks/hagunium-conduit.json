@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hagunium conduit", "description": "...", "health": 163, "requirements": [{"item": "hagunium", "amount": 1}, {"item": "hyla", "amount": 9}, {"item": "qady", "amount": 10}], "liquidCapacity": 11, "liquidPressure": 2, "research": "hagunium-factory", "category": "liquid"}

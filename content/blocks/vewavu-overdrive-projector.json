@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "vewavu overdrive projector", "description": "...", "health": 85, "consumes": {"power": 3.0, "item": "vewavu"}, "size": 2, "requirements": [{"item": "vewavu", "amount": 10}, {"item": "vewavu", "amount": 1}, {"item": "plastanium", "amount": 8}], "research": "vewavu-factory", "category": "effect"}

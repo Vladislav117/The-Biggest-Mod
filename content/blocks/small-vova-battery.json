@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vova battery", "description": "...", "size": 1, "health": 241, "requirements": [{"item": "vova", "amount": 20}, {"item": "vyde", "amount": 5}, {"item": "pocunium", "amount": 6}], "research": "vova-factory", "consumes": {"powerBuffered": 1533}, "category": "power"}

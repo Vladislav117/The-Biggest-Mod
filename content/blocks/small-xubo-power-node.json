@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xubo power node", "description": "...", "size": 1, "health": 67, "requirements": [{"item": "xubo", "amount": 15}, {"item": "roca", "amount": 2}, {"item": "dyxuhu", "amount": 7}], "research": "xubo-factory", "maxNodes": 3, "laserRange": 17, "category": "power"}

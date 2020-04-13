@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lubaco power node", "description": "...", "size": 2, "health": 613, "requirements": [{"item": "lubaco", "amount": 10}, {"item": "huro", "amount": 20}, {"item": "qeriza", "amount": 1}], "research": "lubaco-factory", "maxNodes": 11, "laserRange": 19, "category": "power"}

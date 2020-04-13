@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small liyavu power node", "description": "...", "size": 1, "health": 308, "requirements": [{"item": "liyavu", "amount": 8}, {"item": "hycywi", "amount": 13}, {"item": "kayody", "amount": 9}], "research": "liyavu-factory", "maxNodes": 20, "laserRange": 14, "category": "power"}

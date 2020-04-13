@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cetobu liquid router", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "cetobu", "amount": 18}, {"item": "beyasonium", "amount": 2}, {"item": "cimafinium", "amount": 1}], "research": "cetobu-conduit", "liquidCapacity": 10, "category": "liquid"}

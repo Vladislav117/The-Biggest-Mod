@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "piny power node", "description": "...", "size": 2, "health": 38, "requirements": [{"item": "piny", "amount": 20}, {"item": "riro", "amount": 17}, {"item": "tasynium", "amount": 5}], "research": "piny-factory", "maxNodes": 47, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nyvu liquid tank", "description": "...", "health": 555, "size": 3, "requirements": [{"item": "nyvu", "amount": 17}, {"item": "kituhinium", "amount": 19}, {"item": "qevije", "amount": 6}], "research": "nyvu-conduit", "category": "liquid", "liquidCapacity": 80927, "hasLiquids": true}

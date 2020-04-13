@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xybi junction", "description": "...", "health": 41, "speed": 2, "capacity": 15, "size": 1, "requirements": [{"item": "xybi", "amount": 1}, {"item": "wawu", "amount": 1}], "research": "xybi-conveyor", "category": "distribution"}

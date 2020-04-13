@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bopu bridge conveyor", "description": "", "health": 41, "range": 1, "speed": 16, "bufferCapacity": 12, "requirements": [{"item": "bopu", "amount": 3}, {"item": "yedyte", "amount": 3}], "research": "bopu-conveyor", "category": "distribution", "size": 1}

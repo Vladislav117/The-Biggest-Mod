@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "soma liquid router", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "soma", "amount": 12}, {"item": "xuserynium", "amount": 4}, {"item": "fuposy", "amount": 4}], "research": "soma-conduit", "liquidCapacity": 10, "category": "liquid"}

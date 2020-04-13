@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vuyiyo liquid tank", "description": "...", "health": 485, "size": 3, "requirements": [{"item": "vuyiyo", "amount": 17}, {"item": "hedi", "amount": 5}, {"item": "siyenium", "amount": 10}], "research": "vuyiyo-conduit", "category": "liquid", "liquidCapacity": 12995, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hyvyje battery", "description": "...", "size": 1, "health": 335, "requirements": [{"item": "hyvyje", "amount": 14}, {"item": "xafi", "amount": 1}, {"item": "mijynium", "amount": 5}], "research": "hyvyje-factory", "consumes": {"powerBuffered": 1918}, "category": "power"}

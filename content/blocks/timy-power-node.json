@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "timy power node", "description": "...", "size": 2, "health": 138, "requirements": [{"item": "timy", "amount": 5}, {"item": "fuhixunium", "amount": 5}, {"item": "qiloka", "amount": 5}], "research": "timy-factory", "maxNodes": 14, "laserRange": 15, "category": "power"}

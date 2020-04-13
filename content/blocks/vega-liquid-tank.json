@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vega liquid tank", "description": "...", "health": 166, "size": 3, "requirements": [{"item": "vega", "amount": 14}, {"item": "vego", "amount": 1}, {"item": "kyma", "amount": 8}], "research": "vega-conduit", "category": "liquid", "liquidCapacity": 94428, "hasLiquids": true}

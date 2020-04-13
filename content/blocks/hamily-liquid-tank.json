@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hamily liquid tank", "description": "...", "health": 139, "size": 3, "requirements": [{"item": "hamily", "amount": 6}, {"item": "zigije", "amount": 1}, {"item": "keby", "amount": 3}], "research": "hamily-conduit", "category": "liquid", "liquidCapacity": 91266, "hasLiquids": true}

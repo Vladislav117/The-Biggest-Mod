@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wupera sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "wupera", "amount": 4}, {"item": "dewira", "amount": 5}], "research": "wupera-conveyor", "category": "distribution", "invert": false}

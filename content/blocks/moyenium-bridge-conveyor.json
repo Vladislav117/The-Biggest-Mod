@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "moyenium bridge conveyor", "description": "", "health": 6, "range": 16, "speed": 17, "bufferCapacity": 4, "requirements": [{"item": "moyenium", "amount": 5}, {"item": "hisa", "amount": 3}], "research": "moyenium-conveyor", "category": "distribution", "size": 1}

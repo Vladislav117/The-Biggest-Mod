@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kelurynium underflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "kelurynium", "amount": 4}, {"item": "cavuyi", "amount": 2}], "research": "kelurynium-conveyor", "category": "distribution", "invert": false}

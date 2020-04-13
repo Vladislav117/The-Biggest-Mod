@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kufi liquid router", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "kufi", "amount": 15}, {"item": "kilu", "amount": 4}, {"item": "sore", "amount": 10}], "research": "kufi-conduit", "liquidCapacity": 10, "category": "liquid"}

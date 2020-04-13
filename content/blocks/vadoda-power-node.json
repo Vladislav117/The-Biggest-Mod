@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vadoda power node", "description": "...", "size": 2, "health": 474, "requirements": [{"item": "vadoda", "amount": 6}, {"item": "copper", "amount": 8}, {"item": "lyru", "amount": 5}], "research": "vadoda-factory", "maxNodes": 12, "laserRange": 21, "category": "power"}

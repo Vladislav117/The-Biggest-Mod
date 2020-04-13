@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mewy conduit", "description": "...", "health": 88, "requirements": [{"item": "mewy", "amount": 7}, {"item": "siposi", "amount": 10}, {"item": "dina", "amount": 3}], "liquidCapacity": 30, "liquidPressure": 7, "research": "mewy-factory", "category": "liquid"}

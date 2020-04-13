@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "roxujo underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "roxujo", "amount": 4}, {"item": "nupu", "amount": 4}], "research": "roxujo-conveyor", "category": "distribution", "invert": false}

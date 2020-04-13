@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yize battery", "description": "...", "size": 3, "health": 263, "requirements": [{"item": "yize", "amount": 6}, {"item": "sojile", "amount": 14}, {"item": "yewuvi", "amount": 4}], "research": "yize-factory", "consumes": {"powerBuffered": 8349}, "category": "power"}

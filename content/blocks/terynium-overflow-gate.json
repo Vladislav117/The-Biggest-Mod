@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "terynium overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "terynium", "amount": 4}, {"item": "jikesi", "amount": 3}], "research": "terynium-conveyor", "category": "distribution", "invert": false}

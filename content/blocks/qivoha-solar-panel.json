@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qivoha solar panel", "description": "...", "size": 3, "health": 354, "requirements": [{"item": "qivoha", "amount": 12}, {"item": "jevufu", "amount": 2}, {"item": "zuhisu", "amount": 10}], "research": "qivoha-factory", "powerProduction": 0.3630630007651413, "category": "power"}

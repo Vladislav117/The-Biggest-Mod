@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qenu underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "qenu", "amount": 3}, {"item": "tify", "amount": 1}], "research": "qenu-conveyor", "category": "distribution", "invert": false}

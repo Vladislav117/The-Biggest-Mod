@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "niqe power node", "description": "...", "size": 2, "health": 104, "requirements": [{"item": "niqe", "amount": 10}, {"item": "wykanium", "amount": 8}, {"item": "gone", "amount": 5}], "research": "niqe-factory", "maxNodes": 58, "laserRange": 17, "category": "power"}

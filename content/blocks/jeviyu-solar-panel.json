@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jeviyu solar panel", "description": "...", "size": 3, "health": 354, "requirements": [{"item": "jeviyu", "amount": 9}, {"item": "kiredi", "amount": 18}, {"item": "wivo", "amount": 4}], "research": "jeviyu-factory", "powerProduction": 2.654432633516617, "category": "power"}

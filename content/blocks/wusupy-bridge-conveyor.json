@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wusupy bridge conveyor", "description": "", "health": 18, "range": 1, "speed": 11, "bufferCapacity": 14, "requirements": [{"item": "wusupy", "amount": 4}, {"item": "tefaco", "amount": 2}], "research": "wusupy-conveyor", "category": "distribution", "size": 1}

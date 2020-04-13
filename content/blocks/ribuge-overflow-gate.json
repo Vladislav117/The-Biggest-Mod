@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ribuge overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "ribuge", "amount": 1}, {"item": "zoyinium", "amount": 1}], "research": "ribuge-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small giza battery", "description": "...", "size": 1, "health": 135, "requirements": [{"item": "giza", "amount": 1}, {"item": "myci", "amount": 1}, {"item": "bixehy", "amount": 4}], "research": "giza-factory", "consumes": {"powerBuffered": 1524}, "category": "power"}

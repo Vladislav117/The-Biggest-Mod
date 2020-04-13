@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "mewe force projector", "description": "...", "health": 143, "size": 3, "consumes": {"power": 5.0, "item": "mewe"}, "requirements": [{"item": "mewe", "amount": 6}, {"item": "dycimi", "amount": 4}, {"item": "birynium", "amount": 6}], "research": "mewe-factory", "category": "effect"}

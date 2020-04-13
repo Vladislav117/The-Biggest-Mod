@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vucazy power node", "description": "...", "size": 2, "health": 506, "requirements": [{"item": "vucazy", "amount": 1}, {"item": "mywa", "amount": 16}, {"item": "lawa", "amount": 10}], "research": "vucazy-factory", "maxNodes": 24, "laserRange": 19, "category": "power"}

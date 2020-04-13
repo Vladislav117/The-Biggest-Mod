@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "koqoze liquid tank", "description": "...", "health": 352, "size": 3, "requirements": [{"item": "koqoze", "amount": 3}, {"item": "cuse", "amount": 13}, {"item": "xuve", "amount": 4}], "research": "koqoze-conduit", "category": "liquid", "liquidCapacity": 35691, "hasLiquids": true}

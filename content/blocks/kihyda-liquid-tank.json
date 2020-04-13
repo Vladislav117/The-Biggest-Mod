@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kihyda liquid tank", "description": "...", "health": 469, "size": 3, "requirements": [{"item": "kihyda", "amount": 15}, {"item": "tolo", "amount": 18}, {"item": "gotepy", "amount": 2}], "research": "kihyda-conduit", "category": "liquid", "liquidCapacity": 63376, "hasLiquids": true}

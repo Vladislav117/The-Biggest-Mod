@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "huky conduit", "description": "...", "health": 82, "requirements": [{"item": "huky", "amount": 8}, {"item": "kosonium", "amount": 10}, {"item": "tupo", "amount": 10}], "liquidCapacity": 50, "liquidPressure": 9, "research": "huky-factory", "category": "liquid"}

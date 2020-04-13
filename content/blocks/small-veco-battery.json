@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small veco battery", "description": "...", "size": 1, "health": 107, "requirements": [{"item": "veco", "amount": 19}, {"item": "nehudo", "amount": 19}, {"item": "yytiye", "amount": 9}], "research": "veco-factory", "consumes": {"powerBuffered": 2429}, "category": "power"}

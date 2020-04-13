@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mivini overflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "mivini", "amount": 1}, {"item": "xoquge", "amount": 4}], "research": "mivini-conveyor", "category": "distribution", "invert": false}

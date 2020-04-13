@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vepuge battery", "description": "...", "size": 1, "health": 328, "requirements": [{"item": "vepuge", "amount": 3}, {"item": "nidujo", "amount": 19}, {"item": "yydaqe", "amount": 7}], "research": "vepuge-factory", "consumes": {"powerBuffered": 2832}, "category": "power"}

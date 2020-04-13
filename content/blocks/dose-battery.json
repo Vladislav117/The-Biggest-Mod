@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dose battery", "description": "...", "size": 3, "health": 270, "requirements": [{"item": "dose", "amount": 18}, {"item": "goti", "amount": 4}, {"item": "wuna", "amount": 1}], "research": "dose-factory", "consumes": {"powerBuffered": 9389}, "category": "power"}

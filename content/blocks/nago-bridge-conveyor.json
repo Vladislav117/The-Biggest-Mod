@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nago bridge conveyor", "description": "", "health": 28, "range": 16, "speed": 7, "bufferCapacity": 23, "requirements": [{"item": "nago", "amount": 1}, {"item": "vudaxy", "amount": 5}], "research": "nago-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lunido underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "lunido", "amount": 2}, {"item": "bybity", "amount": 4}], "research": "lunido-conveyor", "category": "distribution", "invert": false}

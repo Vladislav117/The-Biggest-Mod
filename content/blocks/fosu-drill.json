@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fosu drill", "description": "...", "size": 3, "health": 376, "tier": 2, "drillTime": 6, "consumes": {"power": 20}, "requirements": [{"item": "fosu", "amount": 4}, {"item": "sepo", "amount": 15}, {"item": "pygu", "amount": 1}], "research": "fosu-factory", "category": "production"}

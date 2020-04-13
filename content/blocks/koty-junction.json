@@ -1,0 +1,1 @@
+{"type": "junction", "name": "koty junction", "description": "...", "health": 46, "speed": 17, "capacity": 16, "size": 1, "requirements": [{"item": "koty", "amount": 2}, {"item": "kyqu", "amount": 4}], "research": "koty-conveyor", "category": "distribution"}

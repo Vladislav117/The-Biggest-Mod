@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mizu battery", "description": "...", "size": 3, "health": 206, "requirements": [{"item": "mizu", "amount": 6}, {"item": "jylovo", "amount": 4}, {"item": "codaxe", "amount": 8}], "research": "mizu-factory", "consumes": {"powerBuffered": 5449}, "category": "power"}

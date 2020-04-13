@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "liyu inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "liyu", "amount": 1}, {"item": "kide", "amount": 2}], "research": "liyu-conveyor", "category": "distribution", "invert": true}

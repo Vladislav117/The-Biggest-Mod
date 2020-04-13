@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gyri conduit", "description": "...", "health": 189, "requirements": [{"item": "gyri", "amount": 15}, {"item": "byveta", "amount": 18}, {"item": "ciqu", "amount": 4}], "liquidCapacity": 1, "liquidPressure": 0, "research": "gyri-factory", "category": "liquid"}

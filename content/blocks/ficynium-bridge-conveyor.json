@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ficynium bridge conveyor", "description": "", "health": 47, "range": 18, "speed": 15, "bufferCapacity": 20, "requirements": [{"item": "ficynium", "amount": 3}, {"item": "dowoca", "amount": 1}], "research": "ficynium-conveyor", "category": "distribution", "size": 1}

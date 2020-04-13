@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qaty power node", "description": "...", "size": 2, "health": 756, "requirements": [{"item": "qaty", "amount": 10}, {"item": "zereka", "amount": 5}, {"item": "mowygu", "amount": 6}], "research": "qaty-factory", "maxNodes": 47, "laserRange": 26, "category": "power"}

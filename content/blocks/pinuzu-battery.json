@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pinuzu battery", "description": "...", "size": 3, "health": 124, "requirements": [{"item": "pinuzu", "amount": 6}, {"item": "gomi", "amount": 5}, {"item": "dyziqanium", "amount": 8}], "research": "pinuzu-factory", "consumes": {"powerBuffered": 4020}, "category": "power"}

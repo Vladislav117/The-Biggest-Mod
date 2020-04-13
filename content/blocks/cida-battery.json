@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cida battery", "description": "...", "size": 3, "health": 309, "requirements": [{"item": "cida", "amount": 6}, {"item": "yyxafo", "amount": 16}, {"item": "buyogenium", "amount": 10}], "research": "cida-factory", "consumes": {"powerBuffered": 4604}, "category": "power"}

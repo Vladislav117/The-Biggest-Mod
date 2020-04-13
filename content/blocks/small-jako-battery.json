@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jako battery", "description": "...", "size": 1, "health": 11, "requirements": [{"item": "jako", "amount": 7}, {"item": "cozaxo", "amount": 11}, {"item": "hycywi", "amount": 4}], "research": "jako-factory", "consumes": {"powerBuffered": 2501}, "category": "power"}

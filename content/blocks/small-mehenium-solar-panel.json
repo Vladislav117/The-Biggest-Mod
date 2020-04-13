@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mehenium solar panel", "description": "...", "size": 1, "health": 284, "requirements": [{"item": "mehenium", "amount": 11}, {"item": "silicon", "amount": 10}, {"item": "vevudinium", "amount": 3}], "research": "mehenium-factory", "powerProduction": 0.20400731939742425, "category": "power"}

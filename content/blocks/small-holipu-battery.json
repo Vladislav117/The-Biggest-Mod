@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small holipu battery", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "holipu", "amount": 15}, {"item": "gineta", "amount": 4}, {"item": "seca", "amount": 6}], "research": "holipu-factory", "consumes": {"powerBuffered": 1054}, "category": "power"}

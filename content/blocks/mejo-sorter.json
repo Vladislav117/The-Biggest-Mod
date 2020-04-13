@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mejo sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "mejo", "amount": 2}, {"item": "puta", "amount": 2}], "research": "mejo-conveyor", "category": "distribution", "invert": false}

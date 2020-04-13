@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "baly conduit", "description": "...", "health": 166, "requirements": [{"item": "baly", "amount": 9}, {"item": "fasi", "amount": 1}, {"item": "lilyro", "amount": 2}], "liquidCapacity": 39, "liquidPressure": 1, "research": "baly-factory", "category": "liquid"}

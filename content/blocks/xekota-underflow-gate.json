@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xekota underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "xekota", "amount": 5}, {"item": "vewavu", "amount": 2}], "research": "xekota-conveyor", "category": "distribution", "invert": false}

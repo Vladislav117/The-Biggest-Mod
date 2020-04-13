@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "haxi inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "haxi", "amount": 4}, {"item": "cokigo", "amount": 3}], "research": "haxi-conveyor", "category": "distribution", "invert": true}

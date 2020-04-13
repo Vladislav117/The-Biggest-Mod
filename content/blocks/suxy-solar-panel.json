@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "suxy solar panel", "description": "...", "size": 3, "health": 84, "requirements": [{"item": "suxy", "amount": 1}, {"item": "zyhebe", "amount": 14}, {"item": "garuza", "amount": 1}], "research": "suxy-factory", "powerProduction": 2.7396450244678703, "category": "power"}

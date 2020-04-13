@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cobe battery", "description": "...", "size": 3, "health": 347, "requirements": [{"item": "cobe", "amount": 15}, {"item": "yybo", "amount": 15}, {"item": "vatuxanium", "amount": 1}], "research": "cobe-factory", "consumes": {"powerBuffered": 6494}, "category": "power"}

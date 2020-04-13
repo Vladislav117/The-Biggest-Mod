@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qyfowa junction", "description": "...", "health": 2, "speed": 3, "capacity": 13, "size": 1, "requirements": [{"item": "qyfowa", "amount": 5}, {"item": "difu", "amount": 1}], "research": "qyfowa-conveyor", "category": "distribution"}

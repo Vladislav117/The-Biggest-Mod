@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pubado sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "pubado", "amount": 2}, {"item": "pyce", "amount": 2}], "research": "pubado-conveyor", "category": "distribution", "invert": false}

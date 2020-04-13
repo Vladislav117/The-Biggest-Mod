@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nacefa liquid router", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "nacefa", "amount": 15}, {"item": "pywy", "amount": 19}, {"item": "karogi", "amount": 10}], "research": "nacefa-conduit", "liquidCapacity": 10, "category": "liquid"}

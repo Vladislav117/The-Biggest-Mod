@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "muho solar panel", "description": "...", "size": 3, "health": 199, "requirements": [{"item": "muho", "amount": 11}, {"item": "somufu", "amount": 6}, {"item": "xexocunium", "amount": 5}], "research": "muho-factory", "powerProduction": 0.018710187429951262, "category": "power"}

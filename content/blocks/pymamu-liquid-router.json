@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pymamu liquid router", "description": "...", "size": 1, "health": 26, "requirements": [{"item": "pymamu", "amount": 4}, {"item": "zilanium", "amount": 14}, {"item": "rahu", "amount": 10}], "research": "pymamu-conduit", "liquidCapacity": 10, "category": "liquid"}

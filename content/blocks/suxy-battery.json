@@ -1,0 +1,1 @@
+{"type": "battery", "name": "suxy battery", "description": "...", "size": 3, "health": 123, "requirements": [{"item": "suxy", "amount": 9}, {"item": "yyja", "amount": 20}, {"item": "voqapy", "amount": 6}], "research": "suxy-factory", "consumes": {"powerBuffered": 5195}, "category": "power"}

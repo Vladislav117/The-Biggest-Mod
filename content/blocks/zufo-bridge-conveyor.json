@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zufo bridge conveyor", "description": "", "health": 24, "range": 13, "speed": 6, "bufferCapacity": 5, "requirements": [{"item": "zufo", "amount": 3}, {"item": "tatavo", "amount": 1}], "research": "zufo-conveyor", "category": "distribution", "size": 1}

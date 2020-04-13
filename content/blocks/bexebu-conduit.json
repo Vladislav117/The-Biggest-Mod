@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bexebu conduit", "description": "...", "health": 67, "requirements": [{"item": "bexebu", "amount": 5}, {"item": "yaxuda", "amount": 7}, {"item": "venuki", "amount": 8}], "liquidCapacity": 45, "liquidPressure": 6, "research": "bexebu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small weruqa solar panel", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "weruqa", "amount": 13}, {"item": "yopepa", "amount": 17}, {"item": "noveba", "amount": 9}], "research": "weruqa-factory", "powerProduction": 4.515463755866496, "category": "power"}

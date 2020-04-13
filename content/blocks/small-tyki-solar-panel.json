@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tyki solar panel", "description": "...", "size": 1, "health": 385, "requirements": [{"item": "tyki", "amount": 1}, {"item": "piny", "amount": 17}, {"item": "covaco", "amount": 1}], "research": "tyki-factory", "powerProduction": 2.0064547583908663, "category": "power"}

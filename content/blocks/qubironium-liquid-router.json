@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qubironium liquid router", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "qubironium", "amount": 9}, {"item": "lyfydy", "amount": 11}, {"item": "yape", "amount": 1}], "research": "qubironium-conduit", "liquidCapacity": 10, "category": "liquid"}

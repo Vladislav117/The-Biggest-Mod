@@ -1,0 +1,1 @@
+{"type": "router", "name": "jepumi router", "description": "...", "health": 101, "size": 1, "requirements": [{"item": "jepumi", "amount": 4}], "research": "jepumi-conveyor", "category": "distribution"}

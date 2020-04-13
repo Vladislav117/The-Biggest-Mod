@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wasebanium battery", "description": "...", "size": 1, "health": 150, "requirements": [{"item": "wasebanium", "amount": 6}, {"item": "jodezu", "amount": 4}, {"item": "qovy", "amount": 5}], "research": "wasebanium-factory", "consumes": {"powerBuffered": 2987}, "category": "power"}

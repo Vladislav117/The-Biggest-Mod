@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sylupa conduit", "description": "...", "health": 103, "requirements": [{"item": "sylupa", "amount": 7}, {"item": "mote", "amount": 16}, {"item": "vatohunium", "amount": 6}], "liquidCapacity": 5, "liquidPressure": 6, "research": "sylupa-factory", "category": "liquid"}

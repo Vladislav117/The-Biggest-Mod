@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gysawa underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "gysawa", "amount": 5}, {"item": "kuteme", "amount": 5}], "research": "gysawa-conveyor", "category": "distribution", "invert": false}

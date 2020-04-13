@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tolo conduit", "description": "...", "health": 42, "requirements": [{"item": "tolo", "amount": 11}, {"item": "howu", "amount": 10}, {"item": "qosedi", "amount": 10}], "liquidCapacity": 5, "liquidPressure": 5, "research": "tolo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "fukoqe force projector", "description": "...", "health": 236, "size": 3, "consumes": {"power": 5.0, "item": "fukoqe"}, "requirements": [{"item": "fukoqe", "amount": 13}, {"item": "hutave", "amount": 9}, {"item": "facebi", "amount": 1}], "research": "fukoqe-factory", "category": "effect"}

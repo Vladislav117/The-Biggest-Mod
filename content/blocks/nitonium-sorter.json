@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nitonium sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "nitonium", "amount": 3}, {"item": "faba", "amount": 3}], "research": "nitonium-conveyor", "category": "distribution", "invert": false}

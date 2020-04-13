@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gohi power node", "description": "...", "size": 2, "health": 769, "requirements": [{"item": "gohi", "amount": 15}, {"item": "xoge", "amount": 10}, {"item": "julynium", "amount": 8}], "research": "gohi-factory", "maxNodes": 25, "laserRange": 11, "category": "power"}

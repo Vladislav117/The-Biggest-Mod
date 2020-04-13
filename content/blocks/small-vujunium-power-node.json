@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vujunium power node", "description": "...", "size": 1, "health": 389, "requirements": [{"item": "vujunium", "amount": 2}, {"item": "temoqi", "amount": 14}, {"item": "penabi", "amount": 10}], "research": "vujunium-factory", "maxNodes": 9, "laserRange": 4, "category": "power"}

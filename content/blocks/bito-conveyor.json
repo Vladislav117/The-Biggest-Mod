@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "bito conveyor", "description": "...", "health": 100, "requirements": [{"item": "bito", "amount": 5}, {"item": "rudinium", "amount": 7}], "speed": 0.4306729061311214, "research": "bito-factory", "category": "distribution"}

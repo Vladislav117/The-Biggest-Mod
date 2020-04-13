@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "furyqu drill", "description": "...", "size": 2, "health": 201, "tier": 1, "drillTime": 1, "consumes": {"power": 9}, "requirements": [{"item": "furyqu", "amount": 10}, {"item": "sozu", "amount": 12}, {"item": "pyvunium", "amount": 5}], "research": "furyqu-factory", "category": "production"}

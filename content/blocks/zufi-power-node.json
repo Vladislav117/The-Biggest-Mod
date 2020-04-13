@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zufi power node", "description": "...", "size": 2, "health": 664, "requirements": [{"item": "zufi", "amount": 7}, {"item": "carani", "amount": 7}, {"item": "tuwe", "amount": 5}], "research": "zufi-factory", "maxNodes": 21, "laserRange": 16, "category": "power"}

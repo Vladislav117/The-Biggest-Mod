@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cyru conduit", "description": "...", "health": 81, "requirements": [{"item": "cyru", "amount": 5}, {"item": "qimose", "amount": 19}, {"item": "jiyomonium", "amount": 10}], "liquidCapacity": 23, "liquidPressure": 8, "research": "cyru-factory", "category": "liquid"}

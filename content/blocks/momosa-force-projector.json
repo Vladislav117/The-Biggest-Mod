@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "momosa force projector", "description": "...", "health": 242, "size": 3, "consumes": {"power": 5.0, "item": "momosa"}, "requirements": [{"item": "momosa", "amount": 10}, {"item": "pudoki", "amount": 19}, {"item": "qeka", "amount": 7}], "research": "momosa-factory", "category": "effect"}

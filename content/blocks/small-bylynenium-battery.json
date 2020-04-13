@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bylynenium battery", "description": "...", "size": 1, "health": 175, "requirements": [{"item": "bylynenium", "amount": 11}, {"item": "wifu", "amount": 1}, {"item": "fuda", "amount": 8}], "research": "bylynenium-factory", "consumes": {"powerBuffered": 2533}, "category": "power"}

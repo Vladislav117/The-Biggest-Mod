@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small peqo power node", "description": "...", "size": 1, "health": 25, "requirements": [{"item": "peqo", "amount": 15}, {"item": "yyba", "amount": 5}, {"item": "tybunium", "amount": 9}], "research": "peqo-factory", "maxNodes": 20, "laserRange": 7, "category": "power"}

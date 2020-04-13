@@ -1,0 +1,1 @@
+{"type": "battery", "name": "japo battery", "description": "...", "size": 3, "health": 365, "requirements": [{"item": "japo", "amount": 14}, {"item": "vymoha", "amount": 2}, {"item": "yisupe", "amount": 8}], "research": "japo-factory", "consumes": {"powerBuffered": 551}, "category": "power"}

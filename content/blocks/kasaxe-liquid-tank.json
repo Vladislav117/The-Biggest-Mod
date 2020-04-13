@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kasaxe liquid tank", "description": "...", "health": 273, "size": 3, "requirements": [{"item": "kasaxe", "amount": 2}, {"item": "labonium", "amount": 17}, {"item": "zufi", "amount": 10}], "research": "kasaxe-conduit", "category": "liquid", "liquidCapacity": 68407, "hasLiquids": true}

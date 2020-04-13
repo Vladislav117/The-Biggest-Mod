@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bywazy liquid tank", "description": "...", "health": 431, "size": 3, "requirements": [{"item": "bywazy", "amount": 4}, {"item": "zivo", "amount": 20}, {"item": "kavequ", "amount": 10}], "research": "bywazy-conduit", "category": "liquid", "liquidCapacity": 118799, "hasLiquids": true}

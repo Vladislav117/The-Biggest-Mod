@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qusy conduit", "description": "...", "health": 125, "requirements": [{"item": "qusy", "amount": 15}, {"item": "kety", "amount": 1}, {"item": "xinodunium", "amount": 10}], "liquidCapacity": 20, "liquidPressure": 5, "research": "qusy-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kosizi solar panel", "description": "...", "size": 3, "health": 214, "requirements": [{"item": "kosizi", "amount": 1}, {"item": "nora", "amount": 19}, {"item": "nago", "amount": 3}], "research": "kosizi-factory", "powerProduction": 0.037940984922459384, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zedo liquid router", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "zedo", "amount": 11}, {"item": "yihe", "amount": 17}, {"item": "bogovy", "amount": 9}], "research": "zedo-conduit", "liquidCapacity": 10, "category": "liquid"}

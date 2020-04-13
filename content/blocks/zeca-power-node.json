@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zeca power node", "description": "...", "size": 2, "health": 170, "requirements": [{"item": "zeca", "amount": 5}, {"item": "vamoginium", "amount": 6}, {"item": "firyjo", "amount": 7}], "research": "zeca-factory", "maxNodes": 33, "laserRange": 19, "category": "power"}

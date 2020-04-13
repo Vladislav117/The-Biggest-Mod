@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yedyte inverted sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "yedyte", "amount": 3}, {"item": "hoqade", "amount": 3}], "research": "yedyte-conveyor", "category": "distribution", "invert": true}

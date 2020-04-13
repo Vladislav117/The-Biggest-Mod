@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "sewa conveyor", "description": "...", "health": 146, "requirements": [{"item": "sewa", "amount": 6}, {"item": "paky", "amount": 10}], "speed": 0.2432899439890988, "research": "sewa-factory", "category": "distribution"}

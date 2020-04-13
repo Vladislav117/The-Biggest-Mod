@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vodo solar panel", "description": "...", "size": 3, "health": 311, "requirements": [{"item": "vodo", "amount": 13}, {"item": "nujunium", "amount": 20}, {"item": "faruna", "amount": 9}], "research": "vodo-factory", "powerProduction": 0.18462301467978115, "category": "power"}

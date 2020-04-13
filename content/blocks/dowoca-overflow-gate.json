@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dowoca overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "dowoca", "amount": 3}, {"item": "soki", "amount": 5}], "research": "dowoca-conveyor", "category": "distribution", "invert": false}

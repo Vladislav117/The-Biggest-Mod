@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jupygu liquid router", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "jupygu", "amount": 18}, {"item": "phase-fabric", "amount": 15}, {"item": "lahy", "amount": 6}], "research": "jupygu-conduit", "liquidCapacity": 10, "category": "liquid"}

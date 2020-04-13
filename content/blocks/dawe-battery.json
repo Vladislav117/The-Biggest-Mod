@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dawe battery", "description": "...", "size": 3, "health": 52, "requirements": [{"item": "dawe", "amount": 17}, {"item": "forebu", "amount": 11}, {"item": "vayixo", "amount": 10}], "research": "dawe-factory", "consumes": {"powerBuffered": 808}, "category": "power"}

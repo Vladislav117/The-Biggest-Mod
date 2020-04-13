@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "huci conduit", "description": "...", "health": 161, "requirements": [{"item": "huci", "amount": 15}, {"item": "hihunium", "amount": 6}, {"item": "fupymi", "amount": 7}], "liquidCapacity": 17, "liquidPressure": 0, "research": "huci-factory", "category": "liquid"}

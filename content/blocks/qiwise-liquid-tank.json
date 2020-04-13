@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qiwise liquid tank", "description": "...", "health": 200, "size": 3, "requirements": [{"item": "qiwise", "amount": 13}, {"item": "milosi", "amount": 11}, {"item": "qysavunium", "amount": 7}], "research": "qiwise-conduit", "category": "liquid", "liquidCapacity": 26543, "hasLiquids": true}

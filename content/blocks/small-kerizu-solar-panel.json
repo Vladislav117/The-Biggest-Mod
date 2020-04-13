@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kerizu solar panel", "description": "...", "size": 1, "health": 107, "requirements": [{"item": "kerizu", "amount": 7}, {"item": "newenium", "amount": 16}, {"item": "zivoginium", "amount": 6}], "research": "kerizu-factory", "powerProduction": 4.297499141772748, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bydo inverted sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "bydo", "amount": 3}, {"item": "femoconium", "amount": 5}], "research": "bydo-conveyor", "category": "distribution", "invert": true}

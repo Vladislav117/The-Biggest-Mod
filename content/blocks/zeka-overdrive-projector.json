@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "zeka overdrive projector", "description": "...", "health": 109, "consumes": {"power": 3.0, "item": "zeka"}, "size": 2, "requirements": [{"item": "zeka", "amount": 17}, {"item": "huxonium", "amount": 8}, {"item": "mofapu", "amount": 6}], "research": "zeka-factory", "category": "effect"}

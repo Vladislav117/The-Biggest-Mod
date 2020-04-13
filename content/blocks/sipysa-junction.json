@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sipysa junction", "description": "...", "health": 7, "speed": 16, "capacity": 10, "size": 1, "requirements": [{"item": "sipysa", "amount": 5}, {"item": "lulo", "amount": 3}], "research": "sipysa-conveyor", "category": "distribution"}

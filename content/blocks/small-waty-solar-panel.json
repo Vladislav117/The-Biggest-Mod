@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small waty solar panel", "description": "...", "size": 1, "health": 297, "requirements": [{"item": "waty", "amount": 12}, {"item": "powidu", "amount": 10}, {"item": "lavysunium", "amount": 8}], "research": "waty-factory", "powerProduction": 0.09498094334861117, "category": "power"}

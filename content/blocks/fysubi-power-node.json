@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fysubi power node", "description": "...", "size": 2, "health": 218, "requirements": [{"item": "fysubi", "amount": 13}, {"item": "pify", "amount": 16}, {"item": "favunium", "amount": 2}], "research": "fysubi-factory", "maxNodes": 33, "laserRange": 15, "category": "power"}

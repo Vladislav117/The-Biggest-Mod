@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wymosy solar panel", "description": "...", "size": 3, "health": 374, "requirements": [{"item": "wymosy", "amount": 13}, {"item": "hocona", "amount": 12}, {"item": "hotose", "amount": 9}], "research": "wymosy-factory", "powerProduction": 13.523698378835876, "category": "power"}

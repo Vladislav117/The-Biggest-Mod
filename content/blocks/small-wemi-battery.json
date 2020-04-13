@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wemi battery", "description": "...", "size": 1, "health": 294, "requirements": [{"item": "wemi", "amount": 9}, {"item": "xegonium", "amount": 2}, {"item": "lifuvinium", "amount": 10}], "research": "wemi-factory", "consumes": {"powerBuffered": 2342}, "category": "power"}

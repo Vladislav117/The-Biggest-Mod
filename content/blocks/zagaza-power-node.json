@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zagaza power node", "description": "...", "size": 2, "health": 533, "requirements": [{"item": "zagaza", "amount": 15}, {"item": "cizi", "amount": 12}, {"item": "coto", "amount": 9}], "research": "zagaza-factory", "maxNodes": 47, "laserRange": 9, "category": "power"}

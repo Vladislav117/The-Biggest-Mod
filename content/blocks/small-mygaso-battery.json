@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mygaso battery", "description": "...", "size": 1, "health": 278, "requirements": [{"item": "mygaso", "amount": 4}, {"item": "moje", "amount": 5}, {"item": "fifyru", "amount": 5}], "research": "mygaso-factory", "consumes": {"powerBuffered": 1049}, "category": "power"}

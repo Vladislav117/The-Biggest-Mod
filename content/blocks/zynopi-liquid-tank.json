@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zynopi liquid tank", "description": "...", "health": 454, "size": 3, "requirements": [{"item": "zynopi", "amount": 19}, {"item": "vege", "amount": 20}, {"item": "vabeda", "amount": 2}], "research": "zynopi-conduit", "category": "liquid", "liquidCapacity": 44293, "hasLiquids": true}

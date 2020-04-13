@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vomo battery", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "vomo", "amount": 11}, {"item": "kyka", "amount": 11}, {"item": "mynesa", "amount": 1}], "research": "vomo-factory", "consumes": {"powerBuffered": 1887}, "category": "power"}

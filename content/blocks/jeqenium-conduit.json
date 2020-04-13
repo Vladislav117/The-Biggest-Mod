@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jeqenium conduit", "description": "...", "health": 60, "requirements": [{"item": "jeqenium", "amount": 13}, {"item": "kurecanium", "amount": 15}, {"item": "qari", "amount": 7}], "liquidCapacity": 28, "liquidPressure": 1, "research": "jeqenium-factory", "category": "liquid"}

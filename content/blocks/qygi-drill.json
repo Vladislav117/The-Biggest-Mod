@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qygi drill", "description": "...", "size": 4, "health": 155, "tier": 1, "drillTime": 18, "consumes": {"power": 9}, "requirements": [{"item": "qygi", "amount": 18}, {"item": "syteja", "amount": 12}, {"item": "yixo", "amount": 5}], "research": "qygi-factory", "category": "production"}

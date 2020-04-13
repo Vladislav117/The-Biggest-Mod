@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jetuwe power node", "description": "...", "size": 1, "health": 103, "requirements": [{"item": "jetuwe", "amount": 2}, {"item": "hamily", "amount": 16}, {"item": "zyluci", "amount": 1}], "research": "jetuwe-factory", "maxNodes": 10, "laserRange": 25, "category": "power"}

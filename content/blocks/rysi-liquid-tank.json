@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rysi liquid tank", "description": "...", "health": 157, "size": 3, "requirements": [{"item": "rysi", "amount": 19}, {"item": "birynium", "amount": 20}, {"item": "pyto", "amount": 8}], "research": "rysi-conduit", "category": "liquid", "liquidCapacity": 82503, "hasLiquids": true}

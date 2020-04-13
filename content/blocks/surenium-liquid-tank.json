@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "surenium liquid tank", "description": "...", "health": 575, "size": 3, "requirements": [{"item": "surenium", "amount": 3}, {"item": "nuko", "amount": 12}, {"item": "kide", "amount": 9}], "research": "surenium-conduit", "category": "liquid", "liquidCapacity": 117751, "hasLiquids": true}

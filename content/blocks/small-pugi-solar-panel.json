@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pugi solar panel", "description": "...", "size": 1, "health": 284, "requirements": [{"item": "pugi", "amount": 17}, {"item": "yize", "amount": 12}, {"item": "zele", "amount": 3}], "research": "pugi-factory", "powerProduction": 0.4491883772665898, "category": "power"}

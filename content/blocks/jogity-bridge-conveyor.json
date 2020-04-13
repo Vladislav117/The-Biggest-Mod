@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jogity bridge conveyor", "description": "", "health": 13, "range": 9, "speed": 3, "bufferCapacity": 10, "requirements": [{"item": "jogity", "amount": 1}, {"item": "rucu", "amount": 4}], "research": "jogity-conveyor", "category": "distribution", "size": 1}

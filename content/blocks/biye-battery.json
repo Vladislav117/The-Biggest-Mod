@@ -1,0 +1,1 @@
+{"type": "battery", "name": "biye battery", "description": "...", "size": 3, "health": 151, "requirements": [{"item": "biye", "amount": 8}, {"item": "mehenium", "amount": 4}, {"item": "lepe", "amount": 8}], "research": "biye-factory", "consumes": {"powerBuffered": 5822}, "category": "power"}

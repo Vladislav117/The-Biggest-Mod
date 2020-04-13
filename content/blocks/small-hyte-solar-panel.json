@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hyte solar panel", "description": "...", "size": 1, "health": 130, "requirements": [{"item": "hyte", "amount": 2}, {"item": "bivucunium", "amount": 17}, {"item": "holy", "amount": 10}], "research": "hyte-factory", "powerProduction": 0.8025532414255938, "category": "power"}

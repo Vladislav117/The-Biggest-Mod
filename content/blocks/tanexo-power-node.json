@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tanexo power node", "description": "...", "size": 2, "health": 784, "requirements": [{"item": "tanexo", "amount": 20}, {"item": "locu", "amount": 6}, {"item": "kyqedu", "amount": 2}], "research": "tanexo-factory", "maxNodes": 34, "laserRange": 11, "category": "power"}

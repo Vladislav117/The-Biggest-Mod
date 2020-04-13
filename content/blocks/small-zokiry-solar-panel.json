@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zokiry solar panel", "description": "...", "size": 1, "health": 312, "requirements": [{"item": "zokiry", "amount": 10}, {"item": "hobo", "amount": 20}, {"item": "zyzofo", "amount": 4}], "research": "zokiry-factory", "powerProduction": 2.7695743074332686, "category": "power"}

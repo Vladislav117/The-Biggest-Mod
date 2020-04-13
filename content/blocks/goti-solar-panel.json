@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "goti solar panel", "description": "...", "size": 3, "health": 181, "requirements": [{"item": "goti", "amount": 11}, {"item": "najy", "amount": 16}, {"item": "kipyzonium", "amount": 10}], "research": "goti-factory", "powerProduction": 0.06187758629295185, "category": "power"}

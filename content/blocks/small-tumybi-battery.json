@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tumybi battery", "description": "...", "size": 1, "health": 190, "requirements": [{"item": "tumybi", "amount": 16}, {"item": "kary", "amount": 20}, {"item": "higyhy", "amount": 2}], "research": "tumybi-factory", "consumes": {"powerBuffered": 1363}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kite battery", "description": "...", "size": 3, "health": 111, "requirements": [{"item": "kite", "amount": 17}, {"item": "xoge", "amount": 7}, {"item": "pigagunium", "amount": 10}], "research": "kite-factory", "consumes": {"powerBuffered": 5571}, "category": "power"}

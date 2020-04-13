@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bajafa battery", "description": "...", "size": 3, "health": 300, "requirements": [{"item": "bajafa", "amount": 15}, {"item": "porafa", "amount": 16}, {"item": "nawyli", "amount": 5}], "research": "bajafa-factory", "consumes": {"powerBuffered": 9891}, "category": "power"}

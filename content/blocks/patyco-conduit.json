@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "patyco conduit", "description": "...", "health": 91, "requirements": [{"item": "patyco", "amount": 17}, {"item": "boqi", "amount": 8}, {"item": "vivunium", "amount": 7}], "liquidCapacity": 22, "liquidPressure": 0, "research": "patyco-factory", "category": "liquid"}

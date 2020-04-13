@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nukino overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "nukino", "amount": 3}, {"item": "pyrynium", "amount": 2}], "research": "nukino-conveyor", "category": "distribution", "invert": false}

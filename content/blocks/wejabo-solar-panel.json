@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wejabo solar panel", "description": "...", "size": 3, "health": 123, "requirements": [{"item": "wejabo", "amount": 8}, {"item": "jigame", "amount": 2}, {"item": "pypy", "amount": 3}], "research": "wejabo-factory", "powerProduction": 0.15361390677671827, "category": "power"}

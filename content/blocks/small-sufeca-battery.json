@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sufeca battery", "description": "...", "size": 1, "health": 209, "requirements": [{"item": "sufeca", "amount": 13}, {"item": "wadefenium", "amount": 12}, {"item": "havano", "amount": 10}], "research": "sufeca-factory", "consumes": {"powerBuffered": 2673}, "category": "power"}

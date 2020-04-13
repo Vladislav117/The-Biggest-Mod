@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xafeku liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "xafeku", "amount": 4}, {"item": "motaty", "amount": 5}, {"item": "guliyu", "amount": 5}], "research": "xafeku-conduit", "liquidCapacity": 10, "category": "liquid"}

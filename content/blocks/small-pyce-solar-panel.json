@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pyce solar panel", "description": "...", "size": 1, "health": 284, "requirements": [{"item": "pyce", "amount": 7}, {"item": "silicon", "amount": 12}, {"item": "nayevynium", "amount": 1}], "research": "pyce-factory", "powerProduction": 0.13323933319335396, "category": "power"}

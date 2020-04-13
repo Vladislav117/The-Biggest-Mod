@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "faba sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "faba", "amount": 1}, {"item": "zuva", "amount": 1}], "research": "faba-conveyor", "category": "distribution", "invert": false}

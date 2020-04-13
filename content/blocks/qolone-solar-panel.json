@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qolone solar panel", "description": "...", "size": 3, "health": 234, "requirements": [{"item": "qolone", "amount": 2}, {"item": "civonium", "amount": 16}, {"item": "lavi", "amount": 5}], "research": "qolone-factory", "powerProduction": 1.1742410653137751, "category": "power"}

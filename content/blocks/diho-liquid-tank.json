@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "diho liquid tank", "description": "...", "health": 137, "size": 3, "requirements": [{"item": "diho", "amount": 12}, {"item": "kima", "amount": 19}, {"item": "vima", "amount": 9}], "research": "diho-conduit", "category": "liquid", "liquidCapacity": 7366, "hasLiquids": true}

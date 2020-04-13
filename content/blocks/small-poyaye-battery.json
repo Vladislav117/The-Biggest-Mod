@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small poyaye battery", "description": "...", "size": 1, "health": 379, "requirements": [{"item": "poyaye", "amount": 6}, {"item": "nijuto", "amount": 19}, {"item": "jewa", "amount": 2}], "research": "poyaye-factory", "consumes": {"powerBuffered": 1526}, "category": "power"}

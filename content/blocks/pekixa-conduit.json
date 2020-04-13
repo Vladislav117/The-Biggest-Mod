@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pekixa conduit", "description": "...", "health": 120, "requirements": [{"item": "pekixa", "amount": 10}, {"item": "koku", "amount": 14}, {"item": "gopy", "amount": 5}], "liquidCapacity": 26, "liquidPressure": 0, "research": "pekixa-factory", "category": "liquid"}

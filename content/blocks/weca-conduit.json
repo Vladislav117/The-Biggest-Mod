@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "weca conduit", "description": "...", "health": 165, "requirements": [{"item": "weca", "amount": 2}, {"item": "zube", "amount": 12}, {"item": "mutevi", "amount": 7}], "liquidCapacity": 45, "liquidPressure": 1, "research": "weca-factory", "category": "liquid"}

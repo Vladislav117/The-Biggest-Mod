@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qoly battery", "description": "...", "size": 3, "health": 301, "requirements": [{"item": "qoly", "amount": 5}, {"item": "locycanium", "amount": 19}, {"item": "potesonium", "amount": 5}], "research": "qoly-factory", "consumes": {"powerBuffered": 4892}, "category": "power"}

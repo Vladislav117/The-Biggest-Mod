@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tajyku sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "tajyku", "amount": 2}, {"item": "tynipu", "amount": 4}], "research": "tajyku-conveyor", "category": "distribution", "invert": false}

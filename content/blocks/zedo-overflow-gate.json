@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zedo overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "zedo", "amount": 3}, {"item": "rita", "amount": 1}], "research": "zedo-conveyor", "category": "distribution", "invert": false}

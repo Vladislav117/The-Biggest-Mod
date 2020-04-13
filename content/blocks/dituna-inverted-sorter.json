@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dituna inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "dituna", "amount": 2}, {"item": "giho", "amount": 4}], "research": "dituna-conveyor", "category": "distribution", "invert": true}

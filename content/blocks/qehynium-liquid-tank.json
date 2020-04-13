@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qehynium liquid tank", "description": "...", "health": 237, "size": 3, "requirements": [{"item": "qehynium", "amount": 4}, {"item": "jalenium", "amount": 13}, {"item": "hudo", "amount": 8}], "research": "qehynium-conduit", "category": "liquid", "liquidCapacity": 41742, "hasLiquids": true}

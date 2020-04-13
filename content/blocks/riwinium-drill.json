@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "riwinium drill", "description": "...", "size": 4, "health": 260, "tier": 2, "drillTime": 19, "consumes": {"power": 20}, "requirements": [{"item": "riwinium", "amount": 2}, {"item": "qepumu", "amount": 18}, {"item": "zixysinium", "amount": 9}], "research": "riwinium-factory", "category": "production"}

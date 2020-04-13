@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vabenium battery", "description": "...", "size": 3, "health": 352, "requirements": [{"item": "vabenium", "amount": 6}, {"item": "jymi", "amount": 19}, {"item": "cuso", "amount": 5}], "research": "vabenium-factory", "consumes": {"powerBuffered": 1828}, "category": "power"}

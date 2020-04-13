@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nyci solar panel", "description": "...", "size": 3, "health": 372, "requirements": [{"item": "nyci", "amount": 9}, {"item": "vojenium", "amount": 14}, {"item": "tofe", "amount": 5}], "research": "nyci-factory", "powerProduction": 5.430984368999921, "category": "power"}

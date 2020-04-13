@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xala battery", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "xala", "amount": 12}, {"item": "yudu", "amount": 9}, {"item": "velany", "amount": 5}], "research": "xala-factory", "consumes": {"powerBuffered": 1353}, "category": "power"}

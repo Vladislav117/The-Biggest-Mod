@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "delo conduit", "description": "...", "health": 157, "requirements": [{"item": "delo", "amount": 5}, {"item": "tydy", "amount": 13}, {"item": "fizy", "amount": 7}], "liquidCapacity": 36, "liquidPressure": 0, "research": "delo-factory", "category": "liquid"}

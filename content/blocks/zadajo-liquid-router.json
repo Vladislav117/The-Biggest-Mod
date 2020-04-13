@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zadajo liquid router", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "zadajo", "amount": 9}, {"item": "hufema", "amount": 6}, {"item": "birynium", "amount": 7}], "research": "zadajo-conduit", "liquidCapacity": 10, "category": "liquid"}

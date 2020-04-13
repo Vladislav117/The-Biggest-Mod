@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sacy power node", "description": "...", "size": 2, "health": 656, "requirements": [{"item": "sacy", "amount": 8}, {"item": "tebebe", "amount": 12}, {"item": "nyvexo", "amount": 3}], "research": "sacy-factory", "maxNodes": 29, "laserRange": 5, "category": "power"}

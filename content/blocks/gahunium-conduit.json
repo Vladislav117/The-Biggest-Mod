@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gahunium conduit", "description": "...", "health": 67, "requirements": [{"item": "gahunium", "amount": 15}, {"item": "syre", "amount": 2}, {"item": "togi", "amount": 10}], "liquidCapacity": 48, "liquidPressure": 7, "research": "gahunium-factory", "category": "liquid"}

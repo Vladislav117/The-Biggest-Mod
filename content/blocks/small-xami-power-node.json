@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xami power node", "description": "...", "size": 1, "health": 399, "requirements": [{"item": "xami", "amount": 15}, {"item": "nepysi", "amount": 14}, {"item": "nyvexo", "amount": 8}], "research": "xami-factory", "maxNodes": 14, "laserRange": 24, "category": "power"}

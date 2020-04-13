@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tewe solar panel", "description": "...", "size": 3, "health": 313, "requirements": [{"item": "tewe", "amount": 2}, {"item": "qizi", "amount": 2}, {"item": "ninu", "amount": 10}], "research": "tewe-factory", "powerProduction": 0.03518379988829494, "category": "power"}

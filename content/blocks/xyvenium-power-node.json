@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xyvenium power node", "description": "...", "size": 2, "health": 561, "requirements": [{"item": "xyvenium", "amount": 14}, {"item": "tiyexenium", "amount": 12}, {"item": "laqu", "amount": 1}], "research": "xyvenium-factory", "maxNodes": 26, "laserRange": 10, "category": "power"}

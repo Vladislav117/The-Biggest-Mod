@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "liseso overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "liseso", "amount": 4}, {"item": "hunu", "amount": 4}], "research": "liseso-conveyor", "category": "distribution", "invert": false}

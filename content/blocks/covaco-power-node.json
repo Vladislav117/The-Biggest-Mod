@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "covaco power node", "description": "...", "size": 2, "health": 711, "requirements": [{"item": "covaco", "amount": 15}, {"item": "kakaye", "amount": 3}, {"item": "wuronium", "amount": 1}], "research": "covaco-factory", "maxNodes": 36, "laserRange": 20, "category": "power"}

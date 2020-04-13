@@ -1,0 +1,1 @@
+{"type": "battery", "name": "budo battery", "description": "...", "size": 3, "health": 394, "requirements": [{"item": "budo", "amount": 19}, {"item": "ciwiwa", "amount": 12}, {"item": "wadefenium", "amount": 8}], "research": "budo-factory", "consumes": {"powerBuffered": 7680}, "category": "power"}

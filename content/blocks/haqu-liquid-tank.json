@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "haqu liquid tank", "description": "...", "health": 597, "size": 3, "requirements": [{"item": "haqu", "amount": 10}, {"item": "jylovo", "amount": 2}, {"item": "ceyuwy", "amount": 4}], "research": "haqu-conduit", "category": "liquid", "liquidCapacity": 47993, "hasLiquids": true}

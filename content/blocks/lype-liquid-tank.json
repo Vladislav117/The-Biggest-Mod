@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lype liquid tank", "description": "...", "health": 440, "size": 3, "requirements": [{"item": "lype", "amount": 16}, {"item": "ravyku", "amount": 14}, {"item": "yexe", "amount": 10}], "research": "lype-conduit", "category": "liquid", "liquidCapacity": 69926, "hasLiquids": true}

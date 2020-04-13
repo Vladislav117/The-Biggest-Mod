@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "foky liquid router", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "foky", "amount": 13}, {"item": "migube", "amount": 10}, {"item": "qipy", "amount": 9}], "research": "foky-conduit", "liquidCapacity": 10, "category": "liquid"}

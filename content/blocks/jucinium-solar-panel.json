@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jucinium solar panel", "description": "...", "size": 3, "health": 340, "requirements": [{"item": "jucinium", "amount": 15}, {"item": "fyfe", "amount": 19}, {"item": "kokonium", "amount": 5}], "research": "jucinium-factory", "powerProduction": 0.26027134473626345, "category": "power"}

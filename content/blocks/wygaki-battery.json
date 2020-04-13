@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wygaki battery", "description": "...", "size": 3, "health": 146, "requirements": [{"item": "wygaki", "amount": 18}, {"item": "rajubanium", "amount": 11}, {"item": "byhonium", "amount": 2}], "research": "wygaki-factory", "consumes": {"powerBuffered": 9127}, "category": "power"}

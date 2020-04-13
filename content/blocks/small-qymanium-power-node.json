@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qymanium power node", "description": "...", "size": 1, "health": 239, "requirements": [{"item": "qymanium", "amount": 2}, {"item": "vocopy", "amount": 6}, {"item": "xycaqunium", "amount": 2}], "research": "qymanium-factory", "maxNodes": 28, "laserRange": 20, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lynaly underflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "lynaly", "amount": 1}, {"item": "kosonium", "amount": 5}], "research": "lynaly-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lymy conduit", "description": "...", "health": 56, "requirements": [{"item": "lymy", "amount": 5}, {"item": "qowepa", "amount": 16}, {"item": "ridu", "amount": 10}], "liquidCapacity": 42, "liquidPressure": 7, "research": "lymy-factory", "category": "liquid"}

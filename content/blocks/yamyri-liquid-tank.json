@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yamyri liquid tank", "description": "...", "health": 207, "size": 3, "requirements": [{"item": "yamyri", "amount": 11}, {"item": "yuly", "amount": 16}, {"item": "wabaru", "amount": 4}], "research": "yamyri-conduit", "category": "liquid", "liquidCapacity": 79047, "hasLiquids": true}

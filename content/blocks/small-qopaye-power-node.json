@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qopaye power node", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "qopaye", "amount": 7}, {"item": "zoqivanium", "amount": 5}, {"item": "yeku", "amount": 7}], "research": "qopaye-factory", "maxNodes": 28, "laserRange": 25, "category": "power"}

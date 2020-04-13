@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hixe inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "hixe", "amount": 3}, {"item": "nafeya", "amount": 1}], "research": "hixe-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fajygi battery", "description": "...", "size": 3, "health": 17, "requirements": [{"item": "fajygi", "amount": 9}, {"item": "dogo", "amount": 20}, {"item": "risa", "amount": 7}], "research": "fajygi-factory", "consumes": {"powerBuffered": 8274}, "category": "power"}

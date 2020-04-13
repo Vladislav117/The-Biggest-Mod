@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "musonium bridge conveyor", "description": "", "health": 21, "range": 3, "speed": 6, "bufferCapacity": 21, "requirements": [{"item": "musonium", "amount": 3}, {"item": "wiwo", "amount": 1}], "research": "musonium-conveyor", "category": "distribution", "size": 1}

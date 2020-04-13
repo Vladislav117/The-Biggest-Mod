@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "robyto underflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "robyto", "amount": 4}, {"item": "womisa", "amount": 2}], "research": "robyto-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zumi junction", "description": "...", "health": 33, "speed": 9, "capacity": 18, "size": 1, "requirements": [{"item": "zumi", "amount": 3}, {"item": "zehonium", "amount": 5}], "research": "zumi-conveyor", "category": "distribution"}

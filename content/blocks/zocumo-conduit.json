@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zocumo conduit", "description": "...", "health": 131, "requirements": [{"item": "zocumo", "amount": 5}, {"item": "kery", "amount": 6}, {"item": "byro", "amount": 8}], "liquidCapacity": 39, "liquidPressure": 4, "research": "zocumo-factory", "category": "liquid"}

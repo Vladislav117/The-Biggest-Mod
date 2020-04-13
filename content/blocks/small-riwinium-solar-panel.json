@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small riwinium solar panel", "description": "...", "size": 1, "health": 98, "requirements": [{"item": "riwinium", "amount": 4}, {"item": "civu", "amount": 12}, {"item": "dequqi", "amount": 7}], "research": "riwinium-factory", "powerProduction": 3.0986542831827304, "category": "power"}

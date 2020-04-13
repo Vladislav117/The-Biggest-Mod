@@ -1,0 +1,1 @@
+{"type": "junction", "name": "colu junction", "description": "...", "health": 3, "speed": 5, "capacity": 19, "size": 1, "requirements": [{"item": "colu", "amount": 3}, {"item": "jywupa", "amount": 2}], "research": "colu-conveyor", "category": "distribution"}

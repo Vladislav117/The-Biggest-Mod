@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dife solar panel", "description": "...", "size": 1, "health": 231, "requirements": [{"item": "dife", "amount": 5}, {"item": "boqi", "amount": 9}, {"item": "pawasunium", "amount": 9}], "research": "dife-factory", "powerProduction": 2.228279530199157, "category": "power"}

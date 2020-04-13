@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yile inverted sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "yile", "amount": 2}, {"item": "luwonium", "amount": 5}], "research": "yile-conveyor", "category": "distribution", "invert": true}

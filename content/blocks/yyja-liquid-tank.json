@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yyja liquid tank", "description": "...", "health": 530, "size": 3, "requirements": [{"item": "yyja", "amount": 13}, {"item": "qidibe", "amount": 6}, {"item": "fyfoni", "amount": 1}], "research": "yyja-conduit", "category": "liquid", "liquidCapacity": 28830, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "bosery force projector", "description": "...", "health": 247, "size": 3, "consumes": {"power": 5.0, "item": "bosery"}, "requirements": [{"item": "bosery", "amount": 14}, {"item": "kelurynium", "amount": 6}, {"item": "pygu", "amount": 4}], "research": "bosery-factory", "category": "effect"}

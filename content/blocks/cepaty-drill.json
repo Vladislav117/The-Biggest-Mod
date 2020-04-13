@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cepaty drill", "description": "...", "size": 3, "health": 337, "tier": 2, "drillTime": 4, "consumes": {"power": 14}, "requirements": [{"item": "cepaty", "amount": 1}, {"item": "bolo", "amount": 12}, {"item": "cupyvu", "amount": 2}], "research": "cepaty-factory", "category": "production"}

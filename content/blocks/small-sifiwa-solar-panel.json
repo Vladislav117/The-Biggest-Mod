@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sifiwa solar panel", "description": "...", "size": 1, "health": 94, "requirements": [{"item": "sifiwa", "amount": 17}, {"item": "cigita", "amount": 7}, {"item": "netito", "amount": 10}], "research": "sifiwa-factory", "powerProduction": 11.754147735664239, "category": "power"}

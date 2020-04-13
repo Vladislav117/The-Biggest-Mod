@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hiki underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "hiki", "amount": 5}, {"item": "ryte", "amount": 3}], "research": "hiki-conveyor", "category": "distribution", "invert": false}

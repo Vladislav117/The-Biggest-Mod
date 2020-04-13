@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yyba liquid tank", "description": "...", "health": 407, "size": 3, "requirements": [{"item": "yyba", "amount": 3}, {"item": "tugu", "amount": 12}, {"item": "fusi", "amount": 6}], "research": "yyba-conduit", "category": "liquid", "liquidCapacity": 57264, "hasLiquids": true}

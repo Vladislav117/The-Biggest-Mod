@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lavi power node", "description": "...", "size": 1, "health": 382, "requirements": [{"item": "lavi", "amount": 15}, {"item": "qyfe", "amount": 2}, {"item": "fexenium", "amount": 7}], "research": "lavi-factory", "maxNodes": 25, "laserRange": 20, "category": "power"}

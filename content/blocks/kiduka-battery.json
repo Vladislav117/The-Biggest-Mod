@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kiduka battery", "description": "...", "size": 3, "health": 76, "requirements": [{"item": "kiduka", "amount": 17}, {"item": "yebyte", "amount": 10}, {"item": "yebyte", "amount": 5}], "research": "kiduka-factory", "consumes": {"powerBuffered": 2263}, "category": "power"}

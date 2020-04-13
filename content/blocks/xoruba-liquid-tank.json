@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xoruba liquid tank", "description": "...", "health": 226, "size": 3, "requirements": [{"item": "xoruba", "amount": 1}, {"item": "pyrogonium", "amount": 9}, {"item": "tezila", "amount": 4}], "research": "xoruba-conduit", "category": "liquid", "liquidCapacity": 65903, "hasLiquids": true}

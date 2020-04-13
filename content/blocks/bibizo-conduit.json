@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bibizo conduit", "description": "...", "health": 38, "requirements": [{"item": "bibizo", "amount": 18}, {"item": "pupe", "amount": 15}, {"item": "cyxazi", "amount": 5}], "liquidCapacity": 3, "liquidPressure": 7, "research": "bibizo-factory", "category": "liquid"}

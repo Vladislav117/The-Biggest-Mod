@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yilynium liquid tank", "description": "...", "health": 617, "size": 3, "requirements": [{"item": "yilynium", "amount": 11}, {"item": "lewana", "amount": 9}, {"item": "nirenium", "amount": 2}], "research": "yilynium-conduit", "category": "liquid", "liquidCapacity": 116662, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "beweya liquid router", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "beweya", "amount": 12}, {"item": "nytina", "amount": 15}, {"item": "yanu", "amount": 6}], "research": "beweya-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fuwo liquid router", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "fuwo", "amount": 9}, {"item": "boko", "amount": 1}, {"item": "yazu", "amount": 10}], "research": "fuwo-conduit", "liquidCapacity": 10, "category": "liquid"}

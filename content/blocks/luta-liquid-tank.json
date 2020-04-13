@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "luta liquid tank", "description": "...", "health": 148, "size": 3, "requirements": [{"item": "luta", "amount": 20}, {"item": "kiye", "amount": 14}, {"item": "liki", "amount": 4}], "research": "luta-conduit", "category": "liquid", "liquidCapacity": 84613, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dejoqonium solar panel", "description": "...", "size": 3, "health": 377, "requirements": [{"item": "dejoqonium", "amount": 8}, {"item": "thorium", "amount": 12}, {"item": "viqamo", "amount": 7}], "research": "dejoqonium-factory", "powerProduction": 9.722012538202181, "category": "power"}

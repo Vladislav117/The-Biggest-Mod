@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rogoly conduit", "description": "...", "health": 200, "requirements": [{"item": "rogoly", "amount": 16}, {"item": "hakenium", "amount": 11}, {"item": "kavequ", "amount": 6}], "liquidCapacity": 28, "liquidPressure": 5, "research": "rogoly-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cifo liquid router", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "cifo", "amount": 3}, {"item": "zyzofo", "amount": 19}, {"item": "dejoqonium", "amount": 6}], "research": "cifo-conduit", "liquidCapacity": 10, "category": "liquid"}

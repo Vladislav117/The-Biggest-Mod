@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fivejo conduit", "description": "...", "health": 100, "requirements": [{"item": "fivejo", "amount": 3}, {"item": "covifinium", "amount": 17}, {"item": "gakapa", "amount": 9}], "liquidCapacity": 50, "liquidPressure": 2, "research": "fivejo-factory", "category": "liquid"}

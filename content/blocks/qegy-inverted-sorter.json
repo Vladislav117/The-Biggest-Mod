@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qegy inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "qegy", "amount": 2}, {"item": "myyu", "amount": 1}], "research": "qegy-conveyor", "category": "distribution", "invert": true}

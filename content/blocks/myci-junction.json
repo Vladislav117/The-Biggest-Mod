@@ -1,0 +1,1 @@
+{"type": "junction", "name": "myci junction", "description": "...", "health": 48, "speed": 3, "capacity": 11, "size": 1, "requirements": [{"item": "myci", "amount": 4}, {"item": "velewo", "amount": 1}], "research": "myci-conveyor", "category": "distribution"}

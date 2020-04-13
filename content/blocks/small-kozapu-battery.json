@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kozapu battery", "description": "...", "size": 1, "health": 191, "requirements": [{"item": "kozapu", "amount": 20}, {"item": "hiqeyi", "amount": 4}, {"item": "nudady", "amount": 8}], "research": "kozapu-factory", "consumes": {"powerBuffered": 315}, "category": "power"}

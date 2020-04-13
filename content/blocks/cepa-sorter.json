@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cepa sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "cepa", "amount": 5}, {"item": "jusybynium", "amount": 1}], "research": "cepa-conveyor", "category": "distribution", "invert": false}

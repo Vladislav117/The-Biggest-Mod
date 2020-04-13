@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rudu liquid tank", "description": "...", "health": 475, "size": 3, "requirements": [{"item": "rudu", "amount": 14}, {"item": "panuwe", "amount": 4}, {"item": "bofe", "amount": 7}], "research": "rudu-conduit", "category": "liquid", "liquidCapacity": 98467, "hasLiquids": true}

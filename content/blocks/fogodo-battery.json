@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fogodo battery", "description": "...", "size": 3, "health": 117, "requirements": [{"item": "fogodo", "amount": 1}, {"item": "copper", "amount": 2}, {"item": "kubi", "amount": 8}], "research": "fogodo-factory", "consumes": {"powerBuffered": 8925}, "category": "power"}

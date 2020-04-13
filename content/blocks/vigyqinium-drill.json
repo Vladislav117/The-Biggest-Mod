@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vigyqinium drill", "description": "...", "size": 2, "health": 193, "tier": 1, "drillTime": 6, "consumes": {"power": 3}, "requirements": [{"item": "vigyqinium", "amount": 1}, {"item": "kyqedu", "amount": 9}, {"item": "kuyome", "amount": 2}], "research": "vigyqinium-factory", "category": "production"}

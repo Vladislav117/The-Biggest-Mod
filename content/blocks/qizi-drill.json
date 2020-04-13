@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qizi drill", "description": "...", "size": 4, "health": 149, "tier": 1, "drillTime": 15, "consumes": {"power": 4}, "requirements": [{"item": "qizi", "amount": 9}, {"item": "yejeqinium", "amount": 10}, {"item": "kyjyxo", "amount": 8}], "research": "qizi-factory", "category": "production"}

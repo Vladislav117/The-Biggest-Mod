@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dekyzu power node", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "dekyzu", "amount": 2}, {"item": "qady", "amount": 8}, {"item": "nuxy", "amount": 10}], "research": "dekyzu-factory", "maxNodes": 22, "laserRange": 23, "category": "power"}

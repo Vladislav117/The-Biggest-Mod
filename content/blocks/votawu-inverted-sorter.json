@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "votawu inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "votawu", "amount": 1}, {"item": "tesolo", "amount": 4}], "research": "votawu-conveyor", "category": "distribution", "invert": true}

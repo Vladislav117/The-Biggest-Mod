@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cowuse battery", "description": "...", "size": 1, "health": 162, "requirements": [{"item": "cowuse", "amount": 20}, {"item": "qacu", "amount": 12}, {"item": "miwaye", "amount": 4}], "research": "cowuse-factory", "consumes": {"powerBuffered": 1622}, "category": "power"}

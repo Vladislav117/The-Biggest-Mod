@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zefapynium junction", "description": "...", "health": 8, "speed": 11, "capacity": 16, "size": 1, "requirements": [{"item": "zefapynium", "amount": 5}, {"item": "cobunium", "amount": 3}], "research": "zefapynium-conveyor", "category": "distribution"}

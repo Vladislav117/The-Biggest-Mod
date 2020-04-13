@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xurenium solar panel", "description": "...", "size": 3, "health": 75, "requirements": [{"item": "xurenium", "amount": 6}, {"item": "birynium", "amount": 9}, {"item": "maku", "amount": 8}], "research": "xurenium-factory", "powerProduction": 0.6003914415214444, "category": "power"}

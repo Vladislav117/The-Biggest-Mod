@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "noxy liquid router", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "noxy", "amount": 9}, {"item": "tiyajo", "amount": 4}, {"item": "rabe", "amount": 5}], "research": "noxy-conduit", "liquidCapacity": 10, "category": "liquid"}

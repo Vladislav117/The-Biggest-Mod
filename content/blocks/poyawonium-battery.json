@@ -1,0 +1,1 @@
+{"type": "battery", "name": "poyawonium battery", "description": "...", "size": 3, "health": 177, "requirements": [{"item": "poyawonium", "amount": 6}, {"item": "sonydu", "amount": 11}, {"item": "sofowo", "amount": 10}], "research": "poyawonium-factory", "consumes": {"powerBuffered": 9134}, "category": "power"}

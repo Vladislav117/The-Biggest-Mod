@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lypoje junction", "description": "...", "health": 35, "speed": 7, "capacity": 17, "size": 1, "requirements": [{"item": "lypoje", "amount": 3}, {"item": "wadefenium", "amount": 3}], "research": "lypoje-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zube drill", "description": "...", "size": 2, "health": 381, "tier": 3, "drillTime": 16, "consumes": {"power": 2}, "requirements": [{"item": "zube", "amount": 5}, {"item": "horyve", "amount": 8}, {"item": "vahy", "amount": 7}], "research": "zube-factory", "category": "production"}

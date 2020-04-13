@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kike power node", "description": "...", "size": 2, "health": 68, "requirements": [{"item": "kike", "amount": 2}, {"item": "ficebanium", "amount": 12}, {"item": "nahixi", "amount": 7}], "research": "kike-factory", "maxNodes": 59, "laserRange": 23, "category": "power"}

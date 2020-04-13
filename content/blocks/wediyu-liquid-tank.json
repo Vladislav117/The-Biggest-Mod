@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wediyu liquid tank", "description": "...", "health": 198, "size": 3, "requirements": [{"item": "wediyu", "amount": 1}, {"item": "nigucy", "amount": 2}, {"item": "pafyvi", "amount": 10}], "research": "wediyu-conduit", "category": "liquid", "liquidCapacity": 85909, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bajenium battery", "description": "...", "size": 1, "health": 204, "requirements": [{"item": "bajenium", "amount": 20}, {"item": "mefymanium", "amount": 2}, {"item": "kyte", "amount": 5}], "research": "bajenium-factory", "consumes": {"powerBuffered": 1867}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small juzydu solar panel", "description": "...", "size": 1, "health": 238, "requirements": [{"item": "juzydu", "amount": 19}, {"item": "latycu", "amount": 4}, {"item": "yejeqinium", "amount": 8}], "research": "juzydu-factory", "powerProduction": 0.5548785092834456, "category": "power"}

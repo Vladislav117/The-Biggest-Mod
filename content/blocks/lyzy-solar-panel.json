@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lyzy solar panel", "description": "...", "size": 3, "health": 22, "requirements": [{"item": "lyzy", "amount": 3}, {"item": "xebili", "amount": 20}, {"item": "dyme", "amount": 1}], "research": "lyzy-factory", "powerProduction": 0.3673502416178113, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nukino battery", "description": "...", "size": 3, "health": 317, "requirements": [{"item": "nukino", "amount": 15}, {"item": "valetynium", "amount": 10}, {"item": "syqy", "amount": 4}], "research": "nukino-factory", "consumes": {"powerBuffered": 2351}, "category": "power"}

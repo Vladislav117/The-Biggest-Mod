@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "puti inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "puti", "amount": 5}, {"item": "ranoxinium", "amount": 1}], "research": "puti-conveyor", "category": "distribution", "invert": true}

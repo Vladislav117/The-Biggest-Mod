@@ -1,0 +1,1 @@
+{"type": "junction", "name": "suhynium junction", "description": "...", "health": 25, "speed": 1, "capacity": 4, "size": 1, "requirements": [{"item": "suhynium", "amount": 4}, {"item": "seqynium", "amount": 3}], "research": "suhynium-conveyor", "category": "distribution"}

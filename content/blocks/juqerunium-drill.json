@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "juqerunium drill", "description": "...", "size": 4, "health": 316, "tier": 2, "drillTime": 2, "consumes": {"power": 10}, "requirements": [{"item": "juqerunium", "amount": 11}, {"item": "bisifu", "amount": 8}, {"item": "wujifi", "amount": 5}], "research": "juqerunium-factory", "category": "production"}

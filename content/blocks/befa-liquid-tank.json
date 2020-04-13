@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "befa liquid tank", "description": "...", "health": 544, "size": 3, "requirements": [{"item": "befa", "amount": 18}, {"item": "dugugo", "amount": 17}, {"item": "quxyqe", "amount": 6}], "research": "befa-conduit", "category": "liquid", "liquidCapacity": 39986, "hasLiquids": true}

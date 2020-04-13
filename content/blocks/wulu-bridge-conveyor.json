@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wulu bridge conveyor", "description": "", "health": 23, "range": 10, "speed": 7, "bufferCapacity": 18, "requirements": [{"item": "wulu", "amount": 5}, {"item": "nihy", "amount": 2}], "research": "wulu-conveyor", "category": "distribution", "size": 1}

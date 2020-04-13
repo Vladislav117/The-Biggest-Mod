@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gokohunium battery", "description": "...", "size": 1, "health": 248, "requirements": [{"item": "gokohunium", "amount": 4}, {"item": "vipu", "amount": 2}, {"item": "reqynu", "amount": 1}], "research": "gokohunium-factory", "consumes": {"powerBuffered": 1482}, "category": "power"}

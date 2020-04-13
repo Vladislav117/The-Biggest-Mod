@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zadi conduit", "description": "...", "health": 179, "requirements": [{"item": "zadi", "amount": 7}, {"item": "fegy", "amount": 11}, {"item": "xusunium", "amount": 8}], "liquidCapacity": 15, "liquidPressure": 3, "research": "zadi-factory", "category": "liquid"}

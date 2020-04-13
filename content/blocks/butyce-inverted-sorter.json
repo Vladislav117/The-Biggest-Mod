@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "butyce inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "butyce", "amount": 3}, {"item": "noninium", "amount": 1}], "research": "butyce-conveyor", "category": "distribution", "invert": true}

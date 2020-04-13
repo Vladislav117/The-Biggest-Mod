@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bomiry underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "bomiry", "amount": 3}, {"item": "yebyte", "amount": 1}], "research": "bomiry-conveyor", "category": "distribution", "invert": false}

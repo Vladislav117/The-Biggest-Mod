@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lywu power node", "description": "...", "size": 1, "health": 371, "requirements": [{"item": "lywu", "amount": 5}, {"item": "wadiyonium", "amount": 1}, {"item": "povo", "amount": 5}], "research": "lywu-factory", "maxNodes": 15, "laserRange": 6, "category": "power"}

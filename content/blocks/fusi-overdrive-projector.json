@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "fusi overdrive projector", "description": "...", "health": 77, "consumes": {"power": 3.0, "item": "fusi"}, "size": 2, "requirements": [{"item": "fusi", "amount": 13}, {"item": "vevati", "amount": 7}, {"item": "byveta", "amount": 5}], "research": "fusi-factory", "category": "effect"}

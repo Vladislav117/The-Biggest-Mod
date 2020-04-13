@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nyryfenium liquid tank", "description": "...", "health": 513, "size": 3, "requirements": [{"item": "nyryfenium", "amount": 12}, {"item": "luvigu", "amount": 15}, {"item": "cosa", "amount": 1}], "research": "nyryfenium-conduit", "category": "liquid", "liquidCapacity": 19864, "hasLiquids": true}

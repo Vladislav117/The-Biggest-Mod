@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ficynium liquid router", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "ficynium", "amount": 9}, {"item": "nifonium", "amount": 16}, {"item": "woce", "amount": 5}], "research": "ficynium-conduit", "liquidCapacity": 10, "category": "liquid"}

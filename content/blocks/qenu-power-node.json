@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qenu power node", "description": "...", "size": 2, "health": 93, "requirements": [{"item": "qenu", "amount": 1}, {"item": "gobaxu", "amount": 9}, {"item": "mapibi", "amount": 7}], "research": "qenu-factory", "maxNodes": 57, "laserRange": 23, "category": "power"}

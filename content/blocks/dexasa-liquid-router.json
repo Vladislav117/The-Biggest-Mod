@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dexasa liquid router", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "dexasa", "amount": 18}, {"item": "qiseho", "amount": 15}, {"item": "rovo", "amount": 2}], "research": "dexasa-conduit", "liquidCapacity": 10, "category": "liquid"}

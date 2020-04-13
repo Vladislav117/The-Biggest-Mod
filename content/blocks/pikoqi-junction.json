@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pikoqi junction", "description": "...", "health": 10, "speed": 10, "capacity": 18, "size": 1, "requirements": [{"item": "pikoqi", "amount": 4}, {"item": "ryte", "amount": 4}], "research": "pikoqi-conveyor", "category": "distribution"}

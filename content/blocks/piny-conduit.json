@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "piny conduit", "description": "...", "health": 192, "requirements": [{"item": "piny", "amount": 5}, {"item": "simy", "amount": 1}, {"item": "vewi", "amount": 9}], "liquidCapacity": 7, "liquidPressure": 5, "research": "piny-factory", "category": "liquid"}

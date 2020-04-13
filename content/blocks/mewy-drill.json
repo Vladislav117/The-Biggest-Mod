@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mewy drill", "description": "...", "size": 2, "health": 131, "tier": 4, "drillTime": 17, "consumes": {"power": 10}, "requirements": [{"item": "mewy", "amount": 11}, {"item": "gyfi", "amount": 7}, {"item": "hojanium", "amount": 2}], "research": "mewy-factory", "category": "production"}

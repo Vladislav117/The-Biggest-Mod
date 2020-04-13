@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lebu liquid router", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "lebu", "amount": 14}, {"item": "boqi", "amount": 7}, {"item": "motaty", "amount": 7}], "research": "lebu-conduit", "liquidCapacity": 10, "category": "liquid"}

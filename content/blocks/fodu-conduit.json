@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fodu conduit", "description": "...", "health": 127, "requirements": [{"item": "fodu", "amount": 3}, {"item": "cyxazi", "amount": 9}, {"item": "jodezu", "amount": 10}], "liquidCapacity": 13, "liquidPressure": 5, "research": "fodu-factory", "category": "liquid"}

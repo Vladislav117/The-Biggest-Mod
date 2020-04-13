@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zawo drill", "description": "...", "size": 4, "health": 207, "tier": 1, "drillTime": 17, "consumes": {"power": 7}, "requirements": [{"item": "zawo", "amount": 3}, {"item": "qiloka", "amount": 6}, {"item": "dase", "amount": 6}], "research": "zawo-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gylace power node", "description": "...", "size": 2, "health": 616, "requirements": [{"item": "gylace", "amount": 15}, {"item": "xaxe", "amount": 15}, {"item": "kysonium", "amount": 10}], "research": "gylace-factory", "maxNodes": 55, "laserRange": 6, "category": "power"}

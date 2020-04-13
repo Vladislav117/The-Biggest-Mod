@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nyyonium underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "nyyonium", "amount": 1}, {"item": "gurikinium", "amount": 4}], "research": "nyyonium-conveyor", "category": "distribution", "invert": false}

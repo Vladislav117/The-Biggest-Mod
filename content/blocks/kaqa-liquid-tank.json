@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kaqa liquid tank", "description": "...", "health": 482, "size": 3, "requirements": [{"item": "kaqa", "amount": 20}, {"item": "colu", "amount": 6}, {"item": "bapu", "amount": 1}], "research": "kaqa-conduit", "category": "liquid", "liquidCapacity": 7846, "hasLiquids": true}

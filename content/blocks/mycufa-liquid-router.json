@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mycufa liquid router", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "mycufa", "amount": 19}, {"item": "wiraby", "amount": 16}, {"item": "lunurinium", "amount": 4}], "research": "mycufa-conduit", "liquidCapacity": 10, "category": "liquid"}

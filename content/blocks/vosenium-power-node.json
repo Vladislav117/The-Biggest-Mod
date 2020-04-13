@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vosenium power node", "description": "...", "size": 2, "health": 231, "requirements": [{"item": "vosenium", "amount": 20}, {"item": "yyga", "amount": 15}, {"item": "kebyge", "amount": 6}], "research": "vosenium-factory", "maxNodes": 41, "laserRange": 21, "category": "power"}

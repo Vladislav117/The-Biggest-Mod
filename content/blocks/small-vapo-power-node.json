@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vapo power node", "description": "...", "size": 1, "health": 322, "requirements": [{"item": "vapo", "amount": 18}, {"item": "hebohy", "amount": 11}, {"item": "hufema", "amount": 9}], "research": "vapo-factory", "maxNodes": 19, "laserRange": 13, "category": "power"}

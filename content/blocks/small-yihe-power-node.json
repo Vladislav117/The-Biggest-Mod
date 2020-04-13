@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yihe power node", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "yihe", "amount": 13}, {"item": "byja", "amount": 17}, {"item": "yicavu", "amount": 10}], "research": "yihe-factory", "maxNodes": 23, "laserRange": 3, "category": "power"}

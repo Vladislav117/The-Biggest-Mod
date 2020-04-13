@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fuyoja junction", "description": "...", "health": 26, "speed": 20, "capacity": 9, "size": 1, "requirements": [{"item": "fuyoja", "amount": 5}, {"item": "zyqita", "amount": 4}], "research": "fuyoja-conveyor", "category": "distribution"}

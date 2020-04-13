@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "huxydi solar panel", "description": "...", "size": 3, "health": 384, "requirements": [{"item": "huxydi", "amount": 17}, {"item": "rixolu", "amount": 5}, {"item": "body", "amount": 4}], "research": "huxydi-factory", "powerProduction": 0.23346622072656673, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xexumi battery", "description": "...", "size": 3, "health": 381, "requirements": [{"item": "xexumi", "amount": 10}, {"item": "gineta", "amount": 11}, {"item": "depyya", "amount": 9}], "research": "xexumi-factory", "consumes": {"powerBuffered": 221}, "category": "power"}

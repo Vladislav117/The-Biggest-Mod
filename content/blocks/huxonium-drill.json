@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "huxonium drill", "description": "...", "size": 3, "health": 175, "tier": 2, "drillTime": 6, "consumes": {"power": 14}, "requirements": [{"item": "huxonium", "amount": 9}, {"item": "yukoni", "amount": 5}, {"item": "miyoqu", "amount": 7}], "research": "huxonium-factory", "category": "production"}

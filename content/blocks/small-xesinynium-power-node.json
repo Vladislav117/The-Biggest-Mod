@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xesinynium power node", "description": "...", "size": 1, "health": 318, "requirements": [{"item": "xesinynium", "amount": 1}, {"item": "mada", "amount": 15}, {"item": "vapova", "amount": 4}], "research": "xesinynium-factory", "maxNodes": 27, "laserRange": 25, "category": "power"}

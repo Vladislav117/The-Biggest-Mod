@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vufinium overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "vufinium", "amount": 3}, {"item": "sekele", "amount": 1}], "research": "vufinium-conveyor", "category": "distribution", "invert": false}

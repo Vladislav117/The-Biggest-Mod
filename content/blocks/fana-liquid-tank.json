@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fana liquid tank", "description": "...", "health": 476, "size": 3, "requirements": [{"item": "fana", "amount": 7}, {"item": "dyda", "amount": 14}, {"item": "kowonium", "amount": 10}], "research": "fana-conduit", "category": "liquid", "liquidCapacity": 57788, "hasLiquids": true}

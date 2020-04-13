@@ -1,0 +1,1 @@
+{"type": "junction", "name": "foze junction", "description": "...", "health": 19, "speed": 5, "capacity": 12, "size": 1, "requirements": [{"item": "foze", "amount": 2}, {"item": "gagyya", "amount": 5}], "research": "foze-conveyor", "category": "distribution"}

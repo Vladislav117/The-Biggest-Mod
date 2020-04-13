@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "liwu underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "liwu", "amount": 2}, {"item": "roqeki", "amount": 1}], "research": "liwu-conveyor", "category": "distribution", "invert": false}

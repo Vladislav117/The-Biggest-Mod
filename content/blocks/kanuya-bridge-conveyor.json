@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kanuya bridge conveyor", "description": "", "health": 29, "range": 11, "speed": 5, "bufferCapacity": 15, "requirements": [{"item": "kanuya", "amount": 4}, {"item": "qudeya", "amount": 2}], "research": "kanuya-conveyor", "category": "distribution", "size": 1}

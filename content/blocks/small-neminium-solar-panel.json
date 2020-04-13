@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small neminium solar panel", "description": "...", "size": 1, "health": 217, "requirements": [{"item": "neminium", "amount": 9}, {"item": "nuko", "amount": 13}, {"item": "rexa", "amount": 3}], "research": "neminium-factory", "powerProduction": 2.013920510568868, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "guhile underflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "guhile", "amount": 2}, {"item": "danitu", "amount": 4}], "research": "guhile-conveyor", "category": "distribution", "invert": false}

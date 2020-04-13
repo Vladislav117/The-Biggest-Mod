@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "naziha liquid router", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "naziha", "amount": 6}, {"item": "vuzesenium", "amount": 16}, {"item": "seleme", "amount": 6}], "research": "naziha-conduit", "liquidCapacity": 10, "category": "liquid"}

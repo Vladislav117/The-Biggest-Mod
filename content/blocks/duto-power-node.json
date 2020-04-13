@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "duto power node", "description": "...", "size": 2, "health": 141, "requirements": [{"item": "duto", "amount": 1}, {"item": "lahowe", "amount": 9}, {"item": "suminium", "amount": 10}], "research": "duto-factory", "maxNodes": 56, "laserRange": 6, "category": "power"}

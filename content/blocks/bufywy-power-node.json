@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bufywy power node", "description": "...", "size": 2, "health": 567, "requirements": [{"item": "bufywy", "amount": 20}, {"item": "widydo", "amount": 2}, {"item": "dukyfe", "amount": 4}], "research": "bufywy-factory", "maxNodes": 30, "laserRange": 7, "category": "power"}

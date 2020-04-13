@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cuzyko power node", "description": "...", "size": 1, "health": 110, "requirements": [{"item": "cuzyko", "amount": 9}, {"item": "sebypa", "amount": 5}, {"item": "yeku", "amount": 2}], "research": "cuzyko-factory", "maxNodes": 16, "laserRange": 18, "category": "power"}

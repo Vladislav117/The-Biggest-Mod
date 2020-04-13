@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small luvaji battery", "description": "...", "size": 1, "health": 187, "requirements": [{"item": "luvaji", "amount": 20}, {"item": "xadunium", "amount": 5}, {"item": "nitonium", "amount": 5}], "research": "luvaji-factory", "consumes": {"powerBuffered": 2132}, "category": "power"}

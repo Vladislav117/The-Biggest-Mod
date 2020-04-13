@@ -1,0 +1,1 @@
+{"type": "router", "name": "nexojo router", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "nexojo", "amount": 4}], "research": "nexojo-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tygunium liquid router", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "tygunium", "amount": 20}, {"item": "pyci", "amount": 4}, {"item": "fenulanium", "amount": 5}], "research": "tygunium-conduit", "liquidCapacity": 10, "category": "liquid"}

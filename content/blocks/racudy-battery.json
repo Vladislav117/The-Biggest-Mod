@@ -1,0 +1,1 @@
+{"type": "battery", "name": "racudy battery", "description": "...", "size": 3, "health": 147, "requirements": [{"item": "racudy", "amount": 10}, {"item": "zynenium", "amount": 2}, {"item": "rupuvu", "amount": 5}], "research": "racudy-factory", "consumes": {"powerBuffered": 9538}, "category": "power"}

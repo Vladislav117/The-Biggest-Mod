@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sirila junction", "description": "...", "health": 13, "speed": 12, "capacity": 11, "size": 1, "requirements": [{"item": "sirila", "amount": 2}, {"item": "coka", "amount": 5}], "research": "sirila-conveyor", "category": "distribution"}

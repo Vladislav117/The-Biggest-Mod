@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rily battery", "description": "...", "size": 3, "health": 213, "requirements": [{"item": "rily", "amount": 1}, {"item": "zyhebe", "amount": 7}, {"item": "loceli", "amount": 5}], "research": "rily-factory", "consumes": {"powerBuffered": 1253}, "category": "power"}

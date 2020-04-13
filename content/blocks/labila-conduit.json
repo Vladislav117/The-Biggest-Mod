@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "labila conduit", "description": "...", "health": 85, "requirements": [{"item": "labila", "amount": 8}, {"item": "vego", "amount": 19}, {"item": "kegiqi", "amount": 9}], "liquidCapacity": 20, "liquidPressure": 5, "research": "labila-factory", "category": "liquid"}

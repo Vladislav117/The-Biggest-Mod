@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mifi power node", "description": "...", "size": 2, "health": 46, "requirements": [{"item": "mifi", "amount": 8}, {"item": "ruzagi", "amount": 9}, {"item": "kiqeganium", "amount": 9}], "research": "mifi-factory", "maxNodes": 30, "laserRange": 15, "category": "power"}

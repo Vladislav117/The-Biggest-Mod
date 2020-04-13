@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xehi battery", "description": "...", "size": 3, "health": 379, "requirements": [{"item": "xehi", "amount": 15}, {"item": "tayi", "amount": 16}, {"item": "fici", "amount": 5}], "research": "xehi-factory", "consumes": {"powerBuffered": 4906}, "category": "power"}

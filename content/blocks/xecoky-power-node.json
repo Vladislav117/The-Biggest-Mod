@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xecoky power node", "description": "...", "size": 2, "health": 211, "requirements": [{"item": "xecoky", "amount": 10}, {"item": "koty", "amount": 9}, {"item": "hicoxo", "amount": 8}], "research": "xecoky-factory", "maxNodes": 22, "laserRange": 25, "category": "power"}

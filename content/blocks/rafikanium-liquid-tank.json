@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rafikanium liquid tank", "description": "...", "health": 122, "size": 3, "requirements": [{"item": "rafikanium", "amount": 20}, {"item": "peny", "amount": 6}, {"item": "copo", "amount": 6}], "research": "rafikanium-conduit", "category": "liquid", "liquidCapacity": 34335, "hasLiquids": true}

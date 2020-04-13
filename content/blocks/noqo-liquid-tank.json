@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "noqo liquid tank", "description": "...", "health": 643, "size": 3, "requirements": [{"item": "noqo", "amount": 7}, {"item": "kufi", "amount": 4}, {"item": "garoqanium", "amount": 8}], "research": "noqo-conduit", "category": "liquid", "liquidCapacity": 62382, "hasLiquids": true}

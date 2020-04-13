@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qireru solar panel", "description": "...", "size": 3, "health": 292, "requirements": [{"item": "qireru", "amount": 20}, {"item": "noriwe", "amount": 7}, {"item": "xeru", "amount": 10}], "research": "qireru-factory", "powerProduction": 0.11897402275388397, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lubaco battery", "description": "...", "size": 1, "health": 371, "requirements": [{"item": "lubaco", "amount": 16}, {"item": "qegiqe", "amount": 18}, {"item": "lewanium", "amount": 5}], "research": "lubaco-factory", "consumes": {"powerBuffered": 825}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qycozi junction", "description": "...", "health": 15, "speed": 15, "capacity": 2, "size": 1, "requirements": [{"item": "qycozi", "amount": 1}, {"item": "yypunium", "amount": 4}], "research": "qycozi-conveyor", "category": "distribution"}

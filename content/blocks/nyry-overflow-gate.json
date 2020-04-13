@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nyry overflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "nyry", "amount": 3}, {"item": "hosa", "amount": 2}], "research": "nyry-conveyor", "category": "distribution", "invert": false}

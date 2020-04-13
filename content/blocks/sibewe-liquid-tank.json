@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sibewe liquid tank", "description": "...", "health": 309, "size": 3, "requirements": [{"item": "sibewe", "amount": 6}, {"item": "mylenium", "amount": 9}, {"item": "nifego", "amount": 4}], "research": "sibewe-conduit", "category": "liquid", "liquidCapacity": 4467, "hasLiquids": true}

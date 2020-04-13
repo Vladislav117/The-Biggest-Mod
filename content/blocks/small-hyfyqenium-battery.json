@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hyfyqenium battery", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "hyfyqenium", "amount": 10}, {"item": "nifenium", "amount": 18}, {"item": "niyy", "amount": 5}], "research": "hyfyqenium-factory", "consumes": {"powerBuffered": 2391}, "category": "power"}

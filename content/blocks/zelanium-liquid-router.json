@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zelanium liquid router", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "zelanium", "amount": 10}, {"item": "bileyu", "amount": 5}, {"item": "loqy", "amount": 9}], "research": "zelanium-conduit", "liquidCapacity": 10, "category": "liquid"}

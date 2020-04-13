@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jane conduit", "description": "...", "health": 43, "requirements": [{"item": "jane", "amount": 3}, {"item": "kepo", "amount": 19}, {"item": "cuhynenium", "amount": 8}], "liquidCapacity": 14, "liquidPressure": 3, "research": "jane-factory", "category": "liquid"}

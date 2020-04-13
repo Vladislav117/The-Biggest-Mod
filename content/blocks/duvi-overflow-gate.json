@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "duvi overflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "duvi", "amount": 4}, {"item": "cudy", "amount": 5}], "research": "duvi-conveyor", "category": "distribution", "invert": false}

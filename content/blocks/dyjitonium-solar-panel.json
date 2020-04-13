@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dyjitonium solar panel", "description": "...", "size": 3, "health": 206, "requirements": [{"item": "dyjitonium", "amount": 17}, {"item": "getolu", "amount": 19}, {"item": "boni", "amount": 5}], "research": "dyjitonium-factory", "powerProduction": 0.0811472432804527, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "maya overdrive projector", "description": "...", "health": 88, "consumes": {"power": 3.0, "item": "maya"}, "size": 2, "requirements": [{"item": "maya", "amount": 3}, {"item": "kyte", "amount": 18}, {"item": "syteja", "amount": 1}], "research": "maya-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kupele liquid tank", "description": "...", "health": 487, "size": 3, "requirements": [{"item": "kupele", "amount": 13}, {"item": "kufuvunium", "amount": 4}, {"item": "yiwonium", "amount": 9}], "research": "kupele-conduit", "category": "liquid", "liquidCapacity": 32820, "hasLiquids": true}

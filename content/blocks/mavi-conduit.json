@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mavi conduit", "description": "...", "health": 153, "requirements": [{"item": "mavi", "amount": 14}, {"item": "voje", "amount": 2}, {"item": "bajenium", "amount": 5}], "liquidCapacity": 38, "liquidPressure": 0, "research": "mavi-factory", "category": "liquid"}

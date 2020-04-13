@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gebi solar panel", "description": "...", "size": 1, "health": 191, "requirements": [{"item": "gebi", "amount": 4}, {"item": "goxize", "amount": 13}, {"item": "dowoca", "amount": 10}], "research": "gebi-factory", "powerProduction": 2.297131838181507, "category": "power"}

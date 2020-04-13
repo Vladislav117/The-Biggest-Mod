@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vipu conduit", "description": "...", "health": 162, "requirements": [{"item": "vipu", "amount": 10}, {"item": "tiwyna", "amount": 20}, {"item": "pegycy", "amount": 9}], "liquidCapacity": 25, "liquidPressure": 2, "research": "vipu-factory", "category": "liquid"}

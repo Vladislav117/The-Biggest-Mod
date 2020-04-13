@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wosefanium solar panel", "description": "...", "size": 3, "health": 390, "requirements": [{"item": "wosefanium", "amount": 15}, {"item": "koyazi", "amount": 17}, {"item": "syqi", "amount": 4}], "research": "wosefanium-factory", "powerProduction": 0.3677884808741975, "category": "power"}

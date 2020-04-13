@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xesu sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "xesu", "amount": 2}, {"item": "bafo", "amount": 4}], "research": "xesu-conveyor", "category": "distribution", "invert": false}

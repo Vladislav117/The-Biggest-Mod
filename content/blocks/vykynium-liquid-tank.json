@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vykynium liquid tank", "description": "...", "health": 314, "size": 3, "requirements": [{"item": "vykynium", "amount": 6}, {"item": "mygo", "amount": 1}, {"item": "yyko", "amount": 9}], "research": "vykynium-conduit", "category": "liquid", "liquidCapacity": 30402, "hasLiquids": true}

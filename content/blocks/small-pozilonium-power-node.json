@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pozilonium power node", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "pozilonium", "amount": 2}, {"item": "tymy", "amount": 5}, {"item": "noqewy", "amount": 1}], "research": "pozilonium-factory", "maxNodes": 22, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zijedu conduit", "description": "...", "health": 29, "requirements": [{"item": "zijedu", "amount": 20}, {"item": "veniga", "amount": 14}, {"item": "vezaya", "amount": 1}], "liquidCapacity": 8, "liquidPressure": 4, "research": "zijedu-factory", "category": "liquid"}

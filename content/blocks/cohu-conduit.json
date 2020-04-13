@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cohu conduit", "description": "...", "health": 86, "requirements": [{"item": "cohu", "amount": 18}, {"item": "miwaye", "amount": 19}, {"item": "fysubi", "amount": 8}], "liquidCapacity": 17, "liquidPressure": 5, "research": "cohu-factory", "category": "liquid"}

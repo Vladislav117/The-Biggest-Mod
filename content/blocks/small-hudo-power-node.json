@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hudo power node", "description": "...", "size": 1, "health": 97, "requirements": [{"item": "hudo", "amount": 18}, {"item": "dojove", "amount": 8}, {"item": "minu", "amount": 2}], "research": "hudo-factory", "maxNodes": 27, "laserRange": 18, "category": "power"}

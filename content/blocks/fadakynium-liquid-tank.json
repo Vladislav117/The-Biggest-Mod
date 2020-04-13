@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fadakynium liquid tank", "description": "...", "health": 444, "size": 3, "requirements": [{"item": "fadakynium", "amount": 3}, {"item": "tyno", "amount": 5}, {"item": "jakate", "amount": 4}], "research": "fadakynium-conduit", "category": "liquid", "liquidCapacity": 65584, "hasLiquids": true}

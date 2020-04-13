@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mujuly inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "mujuly", "amount": 2}, {"item": "foqunium", "amount": 1}], "research": "mujuly-conveyor", "category": "distribution", "invert": true}

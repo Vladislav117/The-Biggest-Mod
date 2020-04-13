@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "votawu drill", "description": "...", "size": 2, "health": 356, "tier": 3, "drillTime": 16, "consumes": {"power": 9}, "requirements": [{"item": "votawu", "amount": 3}, {"item": "byxo", "amount": 13}, {"item": "wykonium", "amount": 1}], "research": "votawu-factory", "category": "production"}

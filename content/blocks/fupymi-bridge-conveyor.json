@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fupymi bridge conveyor", "description": "", "health": 6, "range": 18, "speed": 20, "bufferCapacity": 1, "requirements": [{"item": "fupymi", "amount": 5}, {"item": "ceri", "amount": 3}], "research": "fupymi-conveyor", "category": "distribution", "size": 1}

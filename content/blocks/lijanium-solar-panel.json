@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lijanium solar panel", "description": "...", "size": 3, "health": 390, "requirements": [{"item": "lijanium", "amount": 4}, {"item": "xyfynium", "amount": 19}, {"item": "siwobanium", "amount": 3}], "research": "lijanium-factory", "powerProduction": 0.5018345884831936, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bocu battery", "description": "...", "size": 3, "health": 194, "requirements": [{"item": "bocu", "amount": 7}, {"item": "keze", "amount": 6}, {"item": "naxihe", "amount": 3}], "research": "bocu-factory", "consumes": {"powerBuffered": 3240}, "category": "power"}

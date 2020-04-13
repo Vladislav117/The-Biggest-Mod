@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sony conduit", "description": "...", "health": 75, "requirements": [{"item": "sony", "amount": 6}, {"item": "nowahy", "amount": 15}, {"item": "jigu", "amount": 6}], "liquidCapacity": 28, "liquidPressure": 2, "research": "sony-factory", "category": "liquid"}

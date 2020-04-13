@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "baje power node", "description": "...", "size": 2, "health": 747, "requirements": [{"item": "baje", "amount": 19}, {"item": "mebu", "amount": 8}, {"item": "cybuby", "amount": 2}], "research": "baje-factory", "maxNodes": 11, "laserRange": 21, "category": "power"}

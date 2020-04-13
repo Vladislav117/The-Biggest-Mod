@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small syqi battery", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "syqi", "amount": 2}, {"item": "numy", "amount": 11}, {"item": "hiwe", "amount": 4}], "research": "syqi-factory", "consumes": {"powerBuffered": 1878}, "category": "power"}

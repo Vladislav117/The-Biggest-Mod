@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gavepy liquid tank", "description": "...", "health": 281, "size": 3, "requirements": [{"item": "gavepy", "amount": 15}, {"item": "lyjenium", "amount": 5}, {"item": "deriye", "amount": 2}], "research": "gavepy-conduit", "category": "liquid", "liquidCapacity": 89966, "hasLiquids": true}

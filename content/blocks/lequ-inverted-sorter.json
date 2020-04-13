@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lequ inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "lequ", "amount": 2}, {"item": "beniyi", "amount": 5}], "research": "lequ-conveyor", "category": "distribution", "invert": true}

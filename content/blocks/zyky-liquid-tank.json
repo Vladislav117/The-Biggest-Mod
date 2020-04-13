@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyky liquid tank", "description": "...", "health": 367, "size": 3, "requirements": [{"item": "zyky", "amount": 7}, {"item": "rikylu", "amount": 9}, {"item": "guqyza", "amount": 5}], "research": "zyky-conduit", "category": "liquid", "liquidCapacity": 3244, "hasLiquids": true}

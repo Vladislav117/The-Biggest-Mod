@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lunurinium junction", "description": "...", "health": 38, "speed": 10, "capacity": 6, "size": 1, "requirements": [{"item": "lunurinium", "amount": 3}, {"item": "mujenium", "amount": 1}], "research": "lunurinium-conveyor", "category": "distribution"}

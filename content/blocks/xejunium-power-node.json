@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xejunium power node", "description": "...", "size": 2, "health": 499, "requirements": [{"item": "xejunium", "amount": 10}, {"item": "pydi", "amount": 9}, {"item": "zokacu", "amount": 1}], "research": "xejunium-factory", "maxNodes": 46, "laserRange": 18, "category": "power"}

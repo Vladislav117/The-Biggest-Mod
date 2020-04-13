@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sylupa power node", "description": "...", "size": 2, "health": 549, "requirements": [{"item": "sylupa", "amount": 17}, {"item": "tasusynium", "amount": 10}, {"item": "dyjitonium", "amount": 10}], "research": "sylupa-factory", "maxNodes": 20, "laserRange": 7, "category": "power"}

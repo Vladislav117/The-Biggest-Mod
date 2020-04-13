@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mupa drill", "description": "...", "size": 3, "health": 280, "tier": 4, "drillTime": 4, "consumes": {"power": 16}, "requirements": [{"item": "mupa", "amount": 18}, {"item": "jiyifynium", "amount": 20}, {"item": "fabese", "amount": 4}], "research": "mupa-factory", "category": "production"}

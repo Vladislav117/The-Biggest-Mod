@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "surenium inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "surenium", "amount": 2}, {"item": "mivuwa", "amount": 3}], "research": "surenium-conveyor", "category": "distribution", "invert": true}

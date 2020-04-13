@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gayywe bridge conveyor", "description": "", "health": 36, "range": 11, "speed": 2, "bufferCapacity": 5, "requirements": [{"item": "gayywe", "amount": 1}, {"item": "vodehonium", "amount": 3}], "research": "gayywe-conveyor", "category": "distribution", "size": 1}

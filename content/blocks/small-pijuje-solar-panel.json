@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pijuje solar panel", "description": "...", "size": 1, "health": 370, "requirements": [{"item": "pijuje", "amount": 1}, {"item": "zija", "amount": 9}, {"item": "wuna", "amount": 10}], "research": "pijuje-factory", "powerProduction": 0.6150827569226895, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nolo underflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "nolo", "amount": 3}, {"item": "fizunium", "amount": 1}], "research": "nolo-conveyor", "category": "distribution", "invert": false}

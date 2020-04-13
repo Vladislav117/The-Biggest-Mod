@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jehonium liquid tank", "description": "...", "health": 625, "size": 3, "requirements": [{"item": "jehonium", "amount": 20}, {"item": "zucanium", "amount": 6}, {"item": "hozivi", "amount": 6}], "research": "jehonium-conduit", "category": "liquid", "liquidCapacity": 106848, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qera liquid tank", "description": "...", "health": 484, "size": 3, "requirements": [{"item": "qera", "amount": 7}, {"item": "mufosinium", "amount": 16}, {"item": "fogodo", "amount": 5}], "research": "qera-conduit", "category": "liquid", "liquidCapacity": 100646, "hasLiquids": true}

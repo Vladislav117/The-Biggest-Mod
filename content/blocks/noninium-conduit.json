@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "noninium conduit", "description": "...", "health": 25, "requirements": [{"item": "noninium", "amount": 11}, {"item": "bileyu", "amount": 15}, {"item": "yaly", "amount": 1}], "liquidCapacity": 39, "liquidPressure": 2, "research": "noninium-factory", "category": "liquid"}

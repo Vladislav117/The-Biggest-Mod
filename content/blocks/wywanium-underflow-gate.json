@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wywanium underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "wywanium", "amount": 4}, {"item": "paqupy", "amount": 3}], "research": "wywanium-conveyor", "category": "distribution", "invert": false}

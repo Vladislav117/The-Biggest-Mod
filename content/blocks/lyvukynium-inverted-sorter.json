@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lyvukynium inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "lyvukynium", "amount": 1}, {"item": "naku", "amount": 5}], "research": "lyvukynium-conveyor", "category": "distribution", "invert": true}

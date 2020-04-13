@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "life sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "life", "amount": 4}, {"item": "beqeyenium", "amount": 1}], "research": "life-conveyor", "category": "distribution", "invert": false}

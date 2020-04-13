@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mygenium battery", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "mygenium", "amount": 8}, {"item": "rixyqu", "amount": 11}, {"item": "bapi", "amount": 5}], "research": "mygenium-factory", "consumes": {"powerBuffered": 2424}, "category": "power"}

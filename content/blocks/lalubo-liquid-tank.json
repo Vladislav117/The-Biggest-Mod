@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lalubo liquid tank", "description": "...", "health": 185, "size": 3, "requirements": [{"item": "lalubo", "amount": 3}, {"item": "sibewe", "amount": 16}, {"item": "nunaby", "amount": 5}], "research": "lalubo-conduit", "category": "liquid", "liquidCapacity": 13565, "hasLiquids": true}

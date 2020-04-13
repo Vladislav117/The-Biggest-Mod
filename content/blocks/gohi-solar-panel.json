@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gohi solar panel", "description": "...", "size": 3, "health": 53, "requirements": [{"item": "gohi", "amount": 15}, {"item": "masoxo", "amount": 8}, {"item": "povo", "amount": 6}], "research": "gohi-factory", "powerProduction": 7.263205206454985, "category": "power"}

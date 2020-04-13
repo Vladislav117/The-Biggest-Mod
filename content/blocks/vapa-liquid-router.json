@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vapa liquid router", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "vapa", "amount": 2}, {"item": "duqu", "amount": 8}, {"item": "lowocanium", "amount": 9}], "research": "vapa-conduit", "liquidCapacity": 10, "category": "liquid"}

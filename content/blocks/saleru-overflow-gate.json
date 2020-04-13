@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "saleru overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "saleru", "amount": 3}, {"item": "duly", "amount": 2}], "research": "saleru-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "demu conveyor", "description": "...", "health": 312, "requirements": [{"item": "demu", "amount": 3}, {"item": "focewu", "amount": 10}], "speed": 0.36943048027853953, "research": "demu-factory", "category": "distribution"}

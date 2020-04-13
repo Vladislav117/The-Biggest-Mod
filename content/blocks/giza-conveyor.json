@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "giza conveyor", "description": "...", "health": 117, "requirements": [{"item": "giza", "amount": 3}, {"item": "pawusy", "amount": 6}], "speed": 0.42343677745006475, "research": "giza-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ciqi power node", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "ciqi", "amount": 4}, {"item": "sore", "amount": 3}, {"item": "jylovo", "amount": 5}], "research": "ciqi-factory", "maxNodes": 5, "laserRange": 16, "category": "power"}

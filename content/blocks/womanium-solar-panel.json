@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "womanium solar panel", "description": "...", "size": 3, "health": 369, "requirements": [{"item": "womanium", "amount": 4}, {"item": "wumuge", "amount": 6}, {"item": "tadeja", "amount": 2}], "research": "womanium-factory", "powerProduction": 0.7425903057396472, "category": "power"}

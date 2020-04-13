@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sumura solar panel", "description": "...", "size": 1, "health": 326, "requirements": [{"item": "sumura", "amount": 11}, {"item": "dohiye", "amount": 14}, {"item": "gipalinium", "amount": 4}], "research": "sumura-factory", "powerProduction": 5.230834408492354, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "wiyuho force projector", "description": "...", "health": 146, "size": 3, "consumes": {"power": 5.0, "item": "wiyuho"}, "requirements": [{"item": "wiyuho", "amount": 16}, {"item": "mapibi", "amount": 6}, {"item": "hedi", "amount": 10}], "research": "wiyuho-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kovewinium junction", "description": "...", "health": 22, "speed": 16, "capacity": 17, "size": 1, "requirements": [{"item": "kovewinium", "amount": 1}, {"item": "rivezo", "amount": 4}], "research": "kovewinium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vytuxe liquid tank", "description": "...", "health": 158, "size": 3, "requirements": [{"item": "vytuxe", "amount": 5}, {"item": "potesonium", "amount": 14}, {"item": "yebyte", "amount": 10}], "research": "vytuxe-conduit", "category": "liquid", "liquidCapacity": 4930, "hasLiquids": true}

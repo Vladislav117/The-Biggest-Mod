@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "runohy liquid tank", "description": "...", "health": 301, "size": 3, "requirements": [{"item": "runohy", "amount": 15}, {"item": "kuza", "amount": 1}, {"item": "lifuvinium", "amount": 8}], "research": "runohy-conduit", "category": "liquid", "liquidCapacity": 103320, "hasLiquids": true}

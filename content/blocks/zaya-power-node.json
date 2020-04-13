@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zaya power node", "description": "...", "size": 2, "health": 755, "requirements": [{"item": "zaya", "amount": 12}, {"item": "xuze", "amount": 5}, {"item": "xoruba", "amount": 9}], "research": "zaya-factory", "maxNodes": 35, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "faqymu solar panel", "description": "...", "size": 3, "health": 250, "requirements": [{"item": "faqymu", "amount": 5}, {"item": "jywupa", "amount": 16}, {"item": "syteja", "amount": 3}], "research": "faqymu-factory", "powerProduction": 10.793911037779447, "category": "power"}

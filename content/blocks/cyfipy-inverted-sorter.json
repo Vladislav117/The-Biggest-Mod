@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cyfipy inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "cyfipy", "amount": 2}, {"item": "ryxaro", "amount": 2}], "research": "cyfipy-conveyor", "category": "distribution", "invert": true}

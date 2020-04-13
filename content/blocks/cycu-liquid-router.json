@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cycu liquid router", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "cycu", "amount": 2}, {"item": "dara", "amount": 9}, {"item": "vapa", "amount": 9}], "research": "cycu-conduit", "liquidCapacity": 10, "category": "liquid"}

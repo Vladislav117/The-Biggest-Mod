@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fyjy junction", "description": "...", "health": 4, "speed": 4, "capacity": 6, "size": 1, "requirements": [{"item": "fyjy", "amount": 1}, {"item": "bato", "amount": 4}], "research": "fyjy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zufi inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "zufi", "amount": 5}, {"item": "zoyasi", "amount": 5}], "research": "zufi-conveyor", "category": "distribution", "invert": true}

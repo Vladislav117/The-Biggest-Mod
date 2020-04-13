@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "syyyvo drill", "description": "...", "size": 4, "health": 222, "tier": 4, "drillTime": 20, "consumes": {"power": 13}, "requirements": [{"item": "syyyvo", "amount": 8}, {"item": "vuzesenium", "amount": 10}, {"item": "yukoni", "amount": 2}], "research": "syyyvo-factory", "category": "production"}

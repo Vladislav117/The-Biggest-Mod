@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gotepy conduit", "description": "...", "health": 127, "requirements": [{"item": "gotepy", "amount": 17}, {"item": "xyduda", "amount": 4}, {"item": "norydo", "amount": 5}], "liquidCapacity": 4, "liquidPressure": 6, "research": "gotepy-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "docyya battery", "description": "...", "size": 3, "health": 146, "requirements": [{"item": "docyya", "amount": 7}, {"item": "miry", "amount": 20}, {"item": "yoqy", "amount": 2}], "research": "docyya-factory", "consumes": {"powerBuffered": 2572}, "category": "power"}

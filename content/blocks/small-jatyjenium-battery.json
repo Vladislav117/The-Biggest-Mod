@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jatyjenium battery", "description": "...", "size": 1, "health": 106, "requirements": [{"item": "jatyjenium", "amount": 16}, {"item": "xuricy", "amount": 12}, {"item": "nuci", "amount": 5}], "research": "jatyjenium-factory", "consumes": {"powerBuffered": 2865}, "category": "power"}

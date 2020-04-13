@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nesi solar panel", "description": "...", "size": 3, "health": 61, "requirements": [{"item": "nesi", "amount": 19}, {"item": "pyzemu", "amount": 9}, {"item": "woce", "amount": 3}], "research": "nesi-factory", "powerProduction": 4.601597132182518, "category": "power"}

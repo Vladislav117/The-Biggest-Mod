@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gyfi solar panel", "description": "...", "size": 1, "health": 262, "requirements": [{"item": "gyfi", "amount": 14}, {"item": "woze", "amount": 17}, {"item": "biciti", "amount": 9}], "research": "gyfi-factory", "powerProduction": 4.53317931169284, "category": "power"}

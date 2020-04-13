@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vekile bridge conveyor", "description": "", "health": 37, "range": 7, "speed": 4, "bufferCapacity": 21, "requirements": [{"item": "vekile", "amount": 5}, {"item": "rumigonium", "amount": 3}], "research": "vekile-conveyor", "category": "distribution", "size": 1}

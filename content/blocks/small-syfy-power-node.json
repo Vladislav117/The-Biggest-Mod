@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small syfy power node", "description": "...", "size": 1, "health": 397, "requirements": [{"item": "syfy", "amount": 5}, {"item": "rilo", "amount": 8}, {"item": "pudogi", "amount": 8}], "research": "syfy-factory", "maxNodes": 7, "laserRange": 15, "category": "power"}

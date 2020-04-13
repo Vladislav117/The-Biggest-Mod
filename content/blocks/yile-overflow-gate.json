@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yile overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "yile", "amount": 5}, {"item": "kawo", "amount": 3}], "research": "yile-conveyor", "category": "distribution", "invert": false}

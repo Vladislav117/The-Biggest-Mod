@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wycenu battery", "description": "...", "size": 3, "health": 131, "requirements": [{"item": "wycenu", "amount": 11}, {"item": "dihomu", "amount": 5}, {"item": "qeriza", "amount": 7}], "research": "wycenu-factory", "consumes": {"powerBuffered": 8581}, "category": "power"}

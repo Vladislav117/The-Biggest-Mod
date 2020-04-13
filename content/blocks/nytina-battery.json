@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nytina battery", "description": "...", "size": 3, "health": 43, "requirements": [{"item": "nytina", "amount": 9}, {"item": "jomoka", "amount": 6}, {"item": "jaweki", "amount": 10}], "research": "nytina-factory", "consumes": {"powerBuffered": 2595}, "category": "power"}

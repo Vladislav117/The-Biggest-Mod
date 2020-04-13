@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hewy solar panel", "description": "...", "size": 3, "health": 334, "requirements": [{"item": "hewy", "amount": 2}, {"item": "yupo", "amount": 5}, {"item": "vosixe", "amount": 3}], "research": "hewy-factory", "powerProduction": 0.0008431269030162575, "category": "power"}

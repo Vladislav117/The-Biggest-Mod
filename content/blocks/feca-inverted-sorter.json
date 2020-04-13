@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "feca inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "feca", "amount": 4}, {"item": "xedorinium", "amount": 2}], "research": "feca-conveyor", "category": "distribution", "invert": true}

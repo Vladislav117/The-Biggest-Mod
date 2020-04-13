@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "newenium conduit", "description": "...", "health": 162, "requirements": [{"item": "newenium", "amount": 1}, {"item": "quge", "amount": 18}, {"item": "gahunium", "amount": 5}], "liquidCapacity": 36, "liquidPressure": 10, "research": "newenium-factory", "category": "liquid"}

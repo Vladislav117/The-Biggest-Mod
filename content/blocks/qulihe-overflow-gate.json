@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qulihe overflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "qulihe", "amount": 4}, {"item": "cogy", "amount": 1}], "research": "qulihe-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dakiqu battery", "description": "...", "size": 1, "health": 261, "requirements": [{"item": "dakiqu", "amount": 11}, {"item": "jaju", "amount": 15}, {"item": "tewo", "amount": 4}], "research": "dakiqu-factory", "consumes": {"powerBuffered": 1035}, "category": "power"}

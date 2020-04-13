@@ -1,0 +1,1 @@
+{"type": "battery", "name": "garuza battery", "description": "...", "size": 3, "health": 335, "requirements": [{"item": "garuza", "amount": 17}, {"item": "nipohu", "amount": 15}, {"item": "zesaqy", "amount": 6}], "research": "garuza-factory", "consumes": {"powerBuffered": 9511}, "category": "power"}

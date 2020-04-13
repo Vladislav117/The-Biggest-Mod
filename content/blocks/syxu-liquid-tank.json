@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "syxu liquid tank", "description": "...", "health": 251, "size": 3, "requirements": [{"item": "syxu", "amount": 18}, {"item": "ravexi", "amount": 2}, {"item": "wejabo", "amount": 10}], "research": "syxu-conduit", "category": "liquid", "liquidCapacity": 58415, "hasLiquids": true}

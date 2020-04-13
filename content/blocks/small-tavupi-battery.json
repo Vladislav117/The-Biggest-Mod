@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tavupi battery", "description": "...", "size": 1, "health": 131, "requirements": [{"item": "tavupi", "amount": 1}, {"item": "plastanium", "amount": 5}, {"item": "lyva", "amount": 1}], "research": "tavupi-factory", "consumes": {"powerBuffered": 1085}, "category": "power"}

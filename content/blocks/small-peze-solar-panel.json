@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small peze solar panel", "description": "...", "size": 1, "health": 67, "requirements": [{"item": "peze", "amount": 6}, {"item": "pikoqi", "amount": 2}, {"item": "takyhonium", "amount": 6}], "research": "peze-factory", "powerProduction": 0.6752291803175184, "category": "power"}

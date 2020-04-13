@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small keqiny solar panel", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "keqiny", "amount": 3}, {"item": "tupo", "amount": 13}, {"item": "jalenium", "amount": 8}], "research": "keqiny-factory", "powerProduction": 4.317823673078079, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jylovo liquid tank", "description": "...", "health": 155, "size": 3, "requirements": [{"item": "jylovo", "amount": 13}, {"item": "gizomanium", "amount": 4}, {"item": "wiba", "amount": 4}], "research": "jylovo-conduit", "category": "liquid", "liquidCapacity": 88326, "hasLiquids": true}

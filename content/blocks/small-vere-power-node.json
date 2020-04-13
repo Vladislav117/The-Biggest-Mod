@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vere power node", "description": "...", "size": 1, "health": 123, "requirements": [{"item": "vere", "amount": 2}, {"item": "cysobe", "amount": 17}, {"item": "kupele", "amount": 8}], "research": "vere-factory", "maxNodes": 25, "laserRange": 10, "category": "power"}

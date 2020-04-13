@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kegiqi solar panel", "description": "...", "size": 3, "health": 93, "requirements": [{"item": "kegiqi", "amount": 20}, {"item": "vadoda", "amount": 19}, {"item": "vygu", "amount": 1}], "research": "kegiqi-factory", "powerProduction": 0.8198846122773749, "category": "power"}

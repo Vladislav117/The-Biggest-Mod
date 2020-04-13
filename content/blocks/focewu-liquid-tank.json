@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "focewu liquid tank", "description": "...", "health": 280, "size": 3, "requirements": [{"item": "focewu", "amount": 16}, {"item": "huqiby", "amount": 1}, {"item": "wevo", "amount": 3}], "research": "focewu-conduit", "category": "liquid", "liquidCapacity": 30310, "hasLiquids": true}

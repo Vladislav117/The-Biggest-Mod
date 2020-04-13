@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kymu liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "kymu", "amount": 5}, {"item": "tyqylo", "amount": 8}, {"item": "gapa", "amount": 6}], "research": "kymu-conduit", "liquidCapacity": 10, "category": "liquid"}

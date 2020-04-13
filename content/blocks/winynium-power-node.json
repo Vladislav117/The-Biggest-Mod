@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "winynium power node", "description": "...", "size": 2, "health": 748, "requirements": [{"item": "winynium", "amount": 2}, {"item": "nybu", "amount": 9}, {"item": "foqa", "amount": 4}], "research": "winynium-factory", "maxNodes": 37, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qakynunium bridge conveyor", "description": "", "health": 9, "range": 1, "speed": 3, "bufferCapacity": 17, "requirements": [{"item": "qakynunium", "amount": 3}, {"item": "gecoma", "amount": 4}], "research": "qakynunium-conveyor", "category": "distribution", "size": 1}

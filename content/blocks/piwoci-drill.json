@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "piwoci drill", "description": "...", "size": 3, "health": 139, "tier": 2, "drillTime": 8, "consumes": {"power": 7}, "requirements": [{"item": "piwoci", "amount": 9}, {"item": "liba", "amount": 15}, {"item": "byqipu", "amount": 6}], "research": "piwoci-factory", "category": "production"}

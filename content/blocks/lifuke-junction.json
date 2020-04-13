@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lifuke junction", "description": "...", "health": 8, "speed": 7, "capacity": 2, "size": 1, "requirements": [{"item": "lifuke", "amount": 4}, {"item": "puzonium", "amount": 4}], "research": "lifuke-conveyor", "category": "distribution"}

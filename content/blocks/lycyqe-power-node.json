@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lycyqe power node", "description": "...", "size": 2, "health": 149, "requirements": [{"item": "lycyqe", "amount": 19}, {"item": "xidunium", "amount": 18}, {"item": "sipynium", "amount": 6}], "research": "lycyqe-factory", "maxNodes": 29, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pami solar panel", "description": "...", "size": 1, "health": 193, "requirements": [{"item": "pami", "amount": 11}, {"item": "dihomu", "amount": 6}, {"item": "kejowynium", "amount": 2}], "research": "pami-factory", "powerProduction": 0.1915829647264455, "category": "power"}

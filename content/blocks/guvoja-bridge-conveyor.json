@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "guvoja bridge conveyor", "description": "", "health": 40, "range": 17, "speed": 15, "bufferCapacity": 25, "requirements": [{"item": "guvoja", "amount": 5}, {"item": "yisupe", "amount": 2}], "research": "guvoja-conveyor", "category": "distribution", "size": 1}

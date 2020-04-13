@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sidibu battery", "description": "...", "size": 1, "health": 204, "requirements": [{"item": "sidibu", "amount": 6}, {"item": "desadu", "amount": 5}, {"item": "qiqi", "amount": 9}], "research": "sidibu-factory", "consumes": {"powerBuffered": 2531}, "category": "power"}

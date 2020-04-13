@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "redo power node", "description": "...", "size": 2, "health": 141, "requirements": [{"item": "redo", "amount": 12}, {"item": "joluxinium", "amount": 10}, {"item": "denu", "amount": 2}], "research": "redo-factory", "maxNodes": 19, "laserRange": 26, "category": "power"}

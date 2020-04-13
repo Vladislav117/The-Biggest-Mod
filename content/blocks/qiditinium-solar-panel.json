@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qiditinium solar panel", "description": "...", "size": 3, "health": 370, "requirements": [{"item": "qiditinium", "amount": 7}, {"item": "xopano", "amount": 15}, {"item": "bivucunium", "amount": 1}], "research": "qiditinium-factory", "powerProduction": 0.007614432254182337, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rabe junction", "description": "...", "health": 16, "speed": 16, "capacity": 5, "size": 1, "requirements": [{"item": "rabe", "amount": 1}, {"item": "xinodunium", "amount": 4}], "research": "rabe-conveyor", "category": "distribution"}

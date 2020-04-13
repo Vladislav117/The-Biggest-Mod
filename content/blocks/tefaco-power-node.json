@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tefaco power node", "description": "...", "size": 2, "health": 199, "requirements": [{"item": "tefaco", "amount": 1}, {"item": "zuzequ", "amount": 5}, {"item": "zeha", "amount": 10}], "research": "tefaco-factory", "maxNodes": 15, "laserRange": 19, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qowa bridge conveyor", "description": "", "health": 4, "range": 12, "speed": 16, "bufferCapacity": 16, "requirements": [{"item": "qowa", "amount": 3}, {"item": "codaxe", "amount": 1}], "research": "qowa-conveyor", "category": "distribution", "size": 1}

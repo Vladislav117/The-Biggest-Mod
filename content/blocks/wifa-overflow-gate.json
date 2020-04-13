@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wifa overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "wifa", "amount": 1}, {"item": "nawyli", "amount": 5}], "research": "wifa-conveyor", "category": "distribution", "invert": false}

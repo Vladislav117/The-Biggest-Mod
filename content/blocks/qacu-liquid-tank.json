@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qacu liquid tank", "description": "...", "health": 163, "size": 3, "requirements": [{"item": "qacu", "amount": 18}, {"item": "dycimi", "amount": 13}, {"item": "mefymanium", "amount": 5}], "research": "qacu-conduit", "category": "liquid", "liquidCapacity": 23855, "hasLiquids": true}

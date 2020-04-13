@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tozokinium liquid tank", "description": "...", "health": 627, "size": 3, "requirements": [{"item": "tozokinium", "amount": 16}, {"item": "cixe", "amount": 1}, {"item": "syteja", "amount": 9}], "research": "tozokinium-conduit", "category": "liquid", "liquidCapacity": 88885, "hasLiquids": true}

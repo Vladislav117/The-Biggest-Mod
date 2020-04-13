@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wupa liquid tank", "description": "...", "health": 498, "size": 3, "requirements": [{"item": "wupa", "amount": 15}, {"item": "qeriza", "amount": 14}, {"item": "fuda", "amount": 4}], "research": "wupa-conduit", "category": "liquid", "liquidCapacity": 1392, "hasLiquids": true}

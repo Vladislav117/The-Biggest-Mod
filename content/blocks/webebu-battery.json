@@ -1,0 +1,1 @@
+{"type": "battery", "name": "webebu battery", "description": "...", "size": 3, "health": 255, "requirements": [{"item": "webebu", "amount": 11}, {"item": "sibewe", "amount": 16}, {"item": "sohusu", "amount": 6}], "research": "webebu-factory", "consumes": {"powerBuffered": 7768}, "category": "power"}

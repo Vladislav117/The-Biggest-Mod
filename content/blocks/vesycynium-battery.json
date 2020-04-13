@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vesycynium battery", "description": "...", "size": 3, "health": 180, "requirements": [{"item": "vesycynium", "amount": 16}, {"item": "bysyqa", "amount": 6}, {"item": "gokiyi", "amount": 8}], "research": "vesycynium-factory", "consumes": {"powerBuffered": 2175}, "category": "power"}

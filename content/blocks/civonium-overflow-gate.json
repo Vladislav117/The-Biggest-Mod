@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "civonium overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "civonium", "amount": 5}, {"item": "mebu", "amount": 4}], "research": "civonium-conveyor", "category": "distribution", "invert": false}

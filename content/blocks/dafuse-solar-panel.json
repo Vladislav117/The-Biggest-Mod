@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dafuse solar panel", "description": "...", "size": 3, "health": 354, "requirements": [{"item": "dafuse", "amount": 19}, {"item": "qytoqa", "amount": 20}, {"item": "tyjy", "amount": 2}], "research": "dafuse-factory", "powerProduction": 0.11419669120007749, "category": "power"}

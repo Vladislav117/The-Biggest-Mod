@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vewu underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "vewu", "amount": 5}, {"item": "luvonium", "amount": 1}], "research": "vewu-conveyor", "category": "distribution", "invert": false}

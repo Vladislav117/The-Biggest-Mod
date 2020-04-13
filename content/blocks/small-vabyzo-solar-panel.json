@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vabyzo solar panel", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "vabyzo", "amount": 13}, {"item": "ziha", "amount": 6}, {"item": "syhisonium", "amount": 8}], "research": "vabyzo-factory", "powerProduction": 1.192399749132197, "category": "power"}

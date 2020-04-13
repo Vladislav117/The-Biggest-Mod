@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "boyanium liquid tank", "description": "...", "health": 223, "size": 3, "requirements": [{"item": "boyanium", "amount": 13}, {"item": "suta", "amount": 2}, {"item": "yofonium", "amount": 5}], "research": "boyanium-conduit", "category": "liquid", "liquidCapacity": 92719, "hasLiquids": true}

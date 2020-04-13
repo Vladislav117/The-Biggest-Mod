@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gahe power node", "description": "...", "size": 1, "health": 119, "requirements": [{"item": "gahe", "amount": 8}, {"item": "hofa", "amount": 17}, {"item": "ryzote", "amount": 4}], "research": "gahe-factory", "maxNodes": 19, "laserRange": 3, "category": "power"}

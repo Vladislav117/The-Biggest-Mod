@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyhove liquid tank", "description": "...", "health": 261, "size": 3, "requirements": [{"item": "zyhove", "amount": 20}, {"item": "dogequ", "amount": 16}, {"item": "baguyu", "amount": 6}], "research": "zyhove-conduit", "category": "liquid", "liquidCapacity": 63195, "hasLiquids": true}

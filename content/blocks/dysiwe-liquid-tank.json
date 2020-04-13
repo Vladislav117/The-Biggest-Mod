@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dysiwe liquid tank", "description": "...", "health": 629, "size": 3, "requirements": [{"item": "dysiwe", "amount": 1}, {"item": "tise", "amount": 6}, {"item": "zipeye", "amount": 6}], "research": "dysiwe-conduit", "category": "liquid", "liquidCapacity": 84105, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "dunesy overdrive projector", "description": "...", "health": 64, "consumes": {"power": 3.0, "item": "dunesy"}, "size": 2, "requirements": [{"item": "dunesy", "amount": 2}, {"item": "padopu", "amount": 7}, {"item": "xehy", "amount": 4}], "research": "dunesy-factory", "category": "effect"}

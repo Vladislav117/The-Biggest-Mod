@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lowapo battery", "description": "...", "size": 1, "health": 248, "requirements": [{"item": "lowapo", "amount": 8}, {"item": "kyqedu", "amount": 13}, {"item": "gupyfi", "amount": 7}], "research": "lowapo-factory", "consumes": {"powerBuffered": 1573}, "category": "power"}

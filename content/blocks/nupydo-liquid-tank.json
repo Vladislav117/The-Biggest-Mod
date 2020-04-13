@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nupydo liquid tank", "description": "...", "health": 154, "size": 3, "requirements": [{"item": "nupydo", "amount": 3}, {"item": "wyme", "amount": 20}, {"item": "vemame", "amount": 10}], "research": "nupydo-conduit", "category": "liquid", "liquidCapacity": 20090, "hasLiquids": true}

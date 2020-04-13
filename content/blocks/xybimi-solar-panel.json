@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xybimi solar panel", "description": "...", "size": 3, "health": 14, "requirements": [{"item": "xybimi", "amount": 13}, {"item": "laso", "amount": 5}, {"item": "lyna", "amount": 7}], "research": "xybimi-factory", "powerProduction": 0.2501341563174168, "category": "power"}

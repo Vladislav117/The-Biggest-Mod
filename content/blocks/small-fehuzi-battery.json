@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fehuzi battery", "description": "...", "size": 1, "health": 130, "requirements": [{"item": "fehuzi", "amount": 10}, {"item": "huru", "amount": 6}, {"item": "byqy", "amount": 9}], "research": "fehuzi-factory", "consumes": {"powerBuffered": 266}, "category": "power"}

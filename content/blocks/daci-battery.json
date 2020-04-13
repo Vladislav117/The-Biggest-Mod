@@ -1,0 +1,1 @@
+{"type": "battery", "name": "daci battery", "description": "...", "size": 3, "health": 160, "requirements": [{"item": "daci", "amount": 8}, {"item": "gacunium", "amount": 1}, {"item": "yyno", "amount": 1}], "research": "daci-factory", "consumes": {"powerBuffered": 9776}, "category": "power"}

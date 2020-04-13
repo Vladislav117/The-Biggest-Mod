@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wediyu solar panel", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "wediyu", "amount": 9}, {"item": "kyfe", "amount": 1}, {"item": "vybygynium", "amount": 8}], "research": "wediyu-factory", "powerProduction": 0.01926826355280497, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gedo battery", "description": "...", "size": 3, "health": 283, "requirements": [{"item": "gedo", "amount": 10}, {"item": "buco", "amount": 7}, {"item": "cyzu", "amount": 1}], "research": "gedo-factory", "consumes": {"powerBuffered": 5517}, "category": "power"}

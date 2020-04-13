@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "sylote overdrive projector", "description": "...", "health": 117, "consumes": {"power": 3.0, "item": "sylote"}, "size": 2, "requirements": [{"item": "sylote", "amount": 18}, {"item": "gado", "amount": 17}, {"item": "saqe", "amount": 8}], "research": "sylote-factory", "category": "effect"}

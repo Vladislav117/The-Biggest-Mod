@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small judeconium solar panel", "description": "...", "size": 1, "health": 385, "requirements": [{"item": "judeconium", "amount": 11}, {"item": "quyina", "amount": 9}, {"item": "lyva", "amount": 4}], "research": "judeconium-factory", "powerProduction": 10.25498693767314, "category": "power"}

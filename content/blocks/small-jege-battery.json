@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jege battery", "description": "...", "size": 1, "health": 209, "requirements": [{"item": "jege", "amount": 14}, {"item": "kujodo", "amount": 7}, {"item": "soni", "amount": 6}], "research": "jege-factory", "consumes": {"powerBuffered": 2615}, "category": "power"}

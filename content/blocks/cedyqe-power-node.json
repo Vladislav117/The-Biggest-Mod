@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cedyqe power node", "description": "...", "size": 2, "health": 336, "requirements": [{"item": "cedyqe", "amount": 18}, {"item": "symeca", "amount": 15}, {"item": "vyjoti", "amount": 9}], "research": "cedyqe-factory", "maxNodes": 52, "laserRange": 8, "category": "power"}

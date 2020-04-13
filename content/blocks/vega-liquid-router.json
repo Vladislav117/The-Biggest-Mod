@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vega liquid router", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "vega", "amount": 6}, {"item": "hiwenium", "amount": 5}, {"item": "yytiye", "amount": 9}], "research": "vega-conduit", "liquidCapacity": 10, "category": "liquid"}

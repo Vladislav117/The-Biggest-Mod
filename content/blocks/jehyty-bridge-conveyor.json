@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jehyty bridge conveyor", "description": "", "health": 30, "range": 16, "speed": 7, "bufferCapacity": 14, "requirements": [{"item": "jehyty", "amount": 4}, {"item": "taze", "amount": 1}], "research": "jehyty-conveyor", "category": "distribution", "size": 1}

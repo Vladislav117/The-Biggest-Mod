@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "milosi sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "milosi", "amount": 5}, {"item": "nudo", "amount": 4}], "research": "milosi-conveyor", "category": "distribution", "invert": false}

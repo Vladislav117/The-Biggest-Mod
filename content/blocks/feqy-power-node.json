@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "feqy power node", "description": "...", "size": 2, "health": 614, "requirements": [{"item": "feqy", "amount": 13}, {"item": "zoyasi", "amount": 1}, {"item": "mizu", "amount": 8}], "research": "feqy-factory", "maxNodes": 27, "laserRange": 5, "category": "power"}

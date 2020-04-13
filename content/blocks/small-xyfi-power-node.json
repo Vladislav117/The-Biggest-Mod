@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xyfi power node", "description": "...", "size": 1, "health": 382, "requirements": [{"item": "xyfi", "amount": 18}, {"item": "jima", "amount": 11}, {"item": "yyjy", "amount": 4}], "research": "xyfi-factory", "maxNodes": 27, "laserRange": 18, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "giza power node", "description": "...", "size": 2, "health": 110, "requirements": [{"item": "giza", "amount": 2}, {"item": "gepyna", "amount": 20}, {"item": "gyfahanium", "amount": 6}], "research": "giza-factory", "maxNodes": 30, "laserRange": 19, "category": "power"}

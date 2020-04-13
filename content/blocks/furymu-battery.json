@@ -1,0 +1,1 @@
+{"type": "battery", "name": "furymu battery", "description": "...", "size": 3, "health": 101, "requirements": [{"item": "furymu", "amount": 3}, {"item": "kipe", "amount": 5}, {"item": "mawo", "amount": 4}], "research": "furymu-factory", "consumes": {"powerBuffered": 9126}, "category": "power"}

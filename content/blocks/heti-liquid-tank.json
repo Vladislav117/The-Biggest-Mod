@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "heti liquid tank", "description": "...", "health": 577, "size": 3, "requirements": [{"item": "heti", "amount": 2}, {"item": "bobu", "amount": 1}, {"item": "nejunium", "amount": 1}], "research": "heti-conduit", "category": "liquid", "liquidCapacity": 26010, "hasLiquids": true}

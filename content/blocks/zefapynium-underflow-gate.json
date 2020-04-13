@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zefapynium underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "zefapynium", "amount": 3}, {"item": "daco", "amount": 1}], "research": "zefapynium-conveyor", "category": "distribution", "invert": false}

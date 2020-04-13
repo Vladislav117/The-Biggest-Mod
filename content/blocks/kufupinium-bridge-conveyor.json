@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kufupinium bridge conveyor", "description": "", "health": 21, "range": 11, "speed": 19, "bufferCapacity": 14, "requirements": [{"item": "kufupinium", "amount": 1}, {"item": "yemy", "amount": 4}], "research": "kufupinium-conveyor", "category": "distribution", "size": 1}

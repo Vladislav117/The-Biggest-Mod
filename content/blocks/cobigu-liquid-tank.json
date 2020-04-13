@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cobigu liquid tank", "description": "...", "health": 152, "size": 3, "requirements": [{"item": "cobigu", "amount": 8}, {"item": "qubyra", "amount": 6}, {"item": "nyviqe", "amount": 1}], "research": "cobigu-conduit", "category": "liquid", "liquidCapacity": 62094, "hasLiquids": true}

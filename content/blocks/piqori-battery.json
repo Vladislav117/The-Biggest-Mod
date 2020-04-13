@@ -1,0 +1,1 @@
+{"type": "battery", "name": "piqori battery", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "piqori", "amount": 9}, {"item": "qokenium", "amount": 17}, {"item": "lumasunium", "amount": 2}], "research": "piqori-factory", "consumes": {"powerBuffered": 9431}, "category": "power"}

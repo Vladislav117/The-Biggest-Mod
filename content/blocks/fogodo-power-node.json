@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fogodo power node", "description": "...", "size": 2, "health": 554, "requirements": [{"item": "fogodo", "amount": 5}, {"item": "thorium", "amount": 2}, {"item": "surge-alloy", "amount": 2}], "research": "fogodo-factory", "maxNodes": 53, "laserRange": 27, "category": "power"}

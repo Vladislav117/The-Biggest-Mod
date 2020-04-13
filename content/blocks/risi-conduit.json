@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "risi conduit", "description": "...", "health": 108, "requirements": [{"item": "risi", "amount": 14}, {"item": "vasu", "amount": 2}, {"item": "ruzagi", "amount": 3}], "liquidCapacity": 14, "liquidPressure": 7, "research": "risi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "muvy drill", "description": "...", "size": 4, "health": 426, "tier": 1, "drillTime": 18, "consumes": {"power": 5}, "requirements": [{"item": "muvy", "amount": 7}, {"item": "heqywanium", "amount": 14}, {"item": "xavinium", "amount": 8}], "research": "muvy-factory", "category": "production"}

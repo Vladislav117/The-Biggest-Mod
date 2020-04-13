@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zaxynium power node", "description": "...", "size": 2, "health": 75, "requirements": [{"item": "zaxynium", "amount": 3}, {"item": "potesonium", "amount": 1}, {"item": "jyzywy", "amount": 6}], "research": "zaxynium-factory", "maxNodes": 40, "laserRange": 15, "category": "power"}

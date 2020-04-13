@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cizenium conduit", "description": "...", "health": 66, "requirements": [{"item": "cizenium", "amount": 2}, {"item": "fykemi", "amount": 11}, {"item": "jaxi", "amount": 9}], "liquidCapacity": 36, "liquidPressure": 9, "research": "cizenium-factory", "category": "liquid"}

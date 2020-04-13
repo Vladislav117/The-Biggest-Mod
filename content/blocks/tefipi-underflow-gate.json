@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tefipi underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "tefipi", "amount": 1}, {"item": "jatyjenium", "amount": 2}], "research": "tefipi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small famuqunium power node", "description": "...", "size": 1, "health": 286, "requirements": [{"item": "famuqunium", "amount": 3}, {"item": "vema", "amount": 2}, {"item": "bayavo", "amount": 9}], "research": "famuqunium-factory", "maxNodes": 2, "laserRange": 16, "category": "power"}

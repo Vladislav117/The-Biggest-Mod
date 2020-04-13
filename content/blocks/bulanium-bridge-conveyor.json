@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bulanium bridge conveyor", "description": "", "health": 42, "range": 18, "speed": 7, "bufferCapacity": 4, "requirements": [{"item": "bulanium", "amount": 5}, {"item": "nuzivo", "amount": 3}], "research": "bulanium-conveyor", "category": "distribution", "size": 1}

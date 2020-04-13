@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hytuki power node", "description": "...", "size": 1, "health": 245, "requirements": [{"item": "hytuki", "amount": 20}, {"item": "lapydy", "amount": 1}, {"item": "baqo", "amount": 8}], "research": "hytuki-factory", "maxNodes": 27, "laserRange": 5, "category": "power"}

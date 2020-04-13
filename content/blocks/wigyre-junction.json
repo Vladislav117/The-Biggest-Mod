@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wigyre junction", "description": "...", "health": 15, "speed": 18, "capacity": 11, "size": 1, "requirements": [{"item": "wigyre", "amount": 4}, {"item": "zivo", "amount": 4}], "research": "wigyre-conveyor", "category": "distribution"}

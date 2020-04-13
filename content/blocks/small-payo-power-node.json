@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small payo power node", "description": "...", "size": 1, "health": 240, "requirements": [{"item": "payo", "amount": 16}, {"item": "walinium", "amount": 10}, {"item": "socyhi", "amount": 7}], "research": "payo-factory", "maxNodes": 7, "laserRange": 17, "category": "power"}

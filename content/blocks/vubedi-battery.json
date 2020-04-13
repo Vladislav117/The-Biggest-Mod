@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vubedi battery", "description": "...", "size": 3, "health": 132, "requirements": [{"item": "vubedi", "amount": 1}, {"item": "jigame", "amount": 13}, {"item": "zese", "amount": 8}], "research": "vubedi-factory", "consumes": {"powerBuffered": 4003}, "category": "power"}

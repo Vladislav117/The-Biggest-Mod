@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "womisa sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "womisa", "amount": 3}, {"item": "foji", "amount": 1}], "research": "womisa-conveyor", "category": "distribution", "invert": false}

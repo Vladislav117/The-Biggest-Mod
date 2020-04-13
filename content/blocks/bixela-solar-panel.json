@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bixela solar panel", "description": "...", "size": 3, "health": 189, "requirements": [{"item": "bixela", "amount": 18}, {"item": "gepe", "amount": 18}, {"item": "zygomy", "amount": 8}], "research": "bixela-factory", "powerProduction": 0.10179244570055965, "category": "power"}

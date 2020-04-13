@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hopyca inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "hopyca", "amount": 2}, {"item": "jayycu", "amount": 1}], "research": "hopyca-conveyor", "category": "distribution", "invert": true}

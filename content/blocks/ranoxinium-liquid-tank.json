@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ranoxinium liquid tank", "description": "...", "health": 391, "size": 3, "requirements": [{"item": "ranoxinium", "amount": 6}, {"item": "tabo", "amount": 8}, {"item": "qykyzo", "amount": 8}], "research": "ranoxinium-conduit", "category": "liquid", "liquidCapacity": 13891, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lelybe conduit", "description": "...", "health": 95, "requirements": [{"item": "lelybe", "amount": 13}, {"item": "qawi", "amount": 11}, {"item": "yexowy", "amount": 2}], "liquidCapacity": 7, "liquidPressure": 10, "research": "lelybe-factory", "category": "liquid"}

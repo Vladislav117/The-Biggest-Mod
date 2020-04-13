@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sado underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "sado", "amount": 2}, {"item": "mymapi", "amount": 3}], "research": "sado-conveyor", "category": "distribution", "invert": false}

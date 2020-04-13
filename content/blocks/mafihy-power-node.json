@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mafihy power node", "description": "...", "size": 2, "health": 535, "requirements": [{"item": "mafihy", "amount": 4}, {"item": "nepysi", "amount": 9}, {"item": "jygowu", "amount": 2}], "research": "mafihy-factory", "maxNodes": 43, "laserRange": 16, "category": "power"}

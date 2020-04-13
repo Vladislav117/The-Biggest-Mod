@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qivi power node", "description": "...", "size": 1, "health": 346, "requirements": [{"item": "qivi", "amount": 14}, {"item": "locu", "amount": 16}, {"item": "mavitu", "amount": 5}], "research": "qivi-factory", "maxNodes": 8, "laserRange": 16, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vezafa battery", "description": "...", "size": 1, "health": 231, "requirements": [{"item": "vezafa", "amount": 6}, {"item": "gahy", "amount": 16}, {"item": "qera", "amount": 7}], "research": "vezafa-factory", "consumes": {"powerBuffered": 1814}, "category": "power"}

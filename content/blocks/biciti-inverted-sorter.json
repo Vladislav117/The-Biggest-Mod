@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "biciti inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "biciti", "amount": 5}, {"item": "fufyyu", "amount": 1}], "research": "biciti-conveyor", "category": "distribution", "invert": true}

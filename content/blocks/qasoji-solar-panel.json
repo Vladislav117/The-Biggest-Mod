@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qasoji solar panel", "description": "...", "size": 3, "health": 353, "requirements": [{"item": "qasoji", "amount": 20}, {"item": "viva", "amount": 3}, {"item": "hihunium", "amount": 4}], "research": "qasoji-factory", "powerProduction": 0.10925004590934315, "category": "power"}

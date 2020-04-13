@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gihalu power node", "description": "...", "size": 2, "health": 559, "requirements": [{"item": "gihalu", "amount": 6}, {"item": "gagyya", "amount": 13}, {"item": "kyqedu", "amount": 10}], "research": "gihalu-factory", "maxNodes": 15, "laserRange": 14, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "papo power node", "description": "...", "size": 2, "health": 201, "requirements": [{"item": "papo", "amount": 5}, {"item": "monu", "amount": 1}, {"item": "yifity", "amount": 2}], "research": "papo-factory", "maxNodes": 29, "laserRange": 7, "category": "power"}

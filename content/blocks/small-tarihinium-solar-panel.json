@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tarihinium solar panel", "description": "...", "size": 1, "health": 400, "requirements": [{"item": "tarihinium", "amount": 7}, {"item": "gabu", "amount": 3}, {"item": "yihe", "amount": 1}], "research": "tarihinium-factory", "powerProduction": 4.081770710977662, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lygynium power node", "description": "...", "size": 1, "health": 111, "requirements": [{"item": "lygynium", "amount": 15}, {"item": "byyu", "amount": 16}, {"item": "gado", "amount": 7}], "research": "lygynium-factory", "maxNodes": 8, "laserRange": 7, "category": "power"}

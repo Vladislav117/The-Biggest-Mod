@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mynufu sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "mynufu", "amount": 5}, {"item": "siceku", "amount": 3}], "research": "mynufu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fyyy liquid router", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "fyyy", "amount": 9}, {"item": "qoti", "amount": 11}, {"item": "gupohu", "amount": 1}], "research": "fyyy-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "monobu conduit", "description": "...", "health": 45, "requirements": [{"item": "monobu", "amount": 16}, {"item": "ziti", "amount": 7}, {"item": "cuxenium", "amount": 6}], "liquidCapacity": 38, "liquidPressure": 9, "research": "monobu-factory", "category": "liquid"}

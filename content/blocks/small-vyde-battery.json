@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vyde battery", "description": "...", "size": 1, "health": 255, "requirements": [{"item": "vyde", "amount": 1}, {"item": "hivesy", "amount": 5}, {"item": "fosu", "amount": 1}], "research": "vyde-factory", "consumes": {"powerBuffered": 549}, "category": "power"}

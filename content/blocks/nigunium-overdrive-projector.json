@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "nigunium overdrive projector", "description": "...", "health": 61, "consumes": {"power": 3.0, "item": "nigunium"}, "size": 2, "requirements": [{"item": "nigunium", "amount": 18}, {"item": "heby", "amount": 19}, {"item": "cejy", "amount": 7}], "research": "nigunium-factory", "category": "effect"}

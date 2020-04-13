@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mapanium power node", "description": "...", "size": 2, "health": 443, "requirements": [{"item": "mapanium", "amount": 11}, {"item": "qamo", "amount": 11}, {"item": "fusyle", "amount": 3}], "research": "mapanium-factory", "maxNodes": 40, "laserRange": 11, "category": "power"}

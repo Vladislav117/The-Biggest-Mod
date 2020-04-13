@@ -1,0 +1,1 @@
+{"type": "junction", "name": "budefu junction", "description": "...", "health": 19, "speed": 8, "capacity": 17, "size": 1, "requirements": [{"item": "budefu", "amount": 5}, {"item": "zofiqo", "amount": 5}], "research": "budefu-conveyor", "category": "distribution"}

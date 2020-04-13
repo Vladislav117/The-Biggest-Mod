@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cybamy junction", "description": "...", "health": 11, "speed": 2, "capacity": 18, "size": 1, "requirements": [{"item": "cybamy", "amount": 4}, {"item": "nixigunium", "amount": 4}], "research": "cybamy-conveyor", "category": "distribution"}

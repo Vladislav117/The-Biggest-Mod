@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kaye solar panel", "description": "...", "size": 3, "health": 48, "requirements": [{"item": "kaye", "amount": 16}, {"item": "hisa", "amount": 4}, {"item": "kaniyy", "amount": 9}], "research": "kaye-factory", "powerProduction": 0.23861093547794993, "category": "power"}

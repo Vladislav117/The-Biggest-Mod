@@ -1,0 +1,1 @@
+{"type": "battery", "name": "torufonium battery", "description": "...", "size": 3, "health": 248, "requirements": [{"item": "torufonium", "amount": 5}, {"item": "minu", "amount": 20}, {"item": "yesolonium", "amount": 9}], "research": "torufonium-factory", "consumes": {"powerBuffered": 9451}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hyjape power node", "description": "...", "size": 1, "health": 296, "requirements": [{"item": "hyjape", "amount": 17}, {"item": "rogoly", "amount": 11}, {"item": "lunurinium", "amount": 1}], "research": "hyjape-factory", "maxNodes": 20, "laserRange": 6, "category": "power"}

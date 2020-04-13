@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nezyno bridge conveyor", "description": "", "health": 45, "range": 15, "speed": 10, "bufferCapacity": 17, "requirements": [{"item": "nezyno", "amount": 2}, {"item": "rigoyo", "amount": 5}], "research": "nezyno-conveyor", "category": "distribution", "size": 1}

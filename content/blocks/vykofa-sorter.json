@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vykofa sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "vykofa", "amount": 2}, {"item": "tuzy", "amount": 1}], "research": "vykofa-conveyor", "category": "distribution", "invert": false}

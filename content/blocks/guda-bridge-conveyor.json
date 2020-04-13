@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "guda bridge conveyor", "description": "", "health": 16, "range": 10, "speed": 19, "bufferCapacity": 17, "requirements": [{"item": "guda", "amount": 2}, {"item": "vibi", "amount": 3}], "research": "guda-conveyor", "category": "distribution", "size": 1}

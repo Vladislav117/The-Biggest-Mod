@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small koci solar panel", "description": "...", "size": 1, "health": 244, "requirements": [{"item": "koci", "amount": 10}, {"item": "suminium", "amount": 11}, {"item": "geponium", "amount": 4}], "research": "koci-factory", "powerProduction": 0.477778060852757, "category": "power"}

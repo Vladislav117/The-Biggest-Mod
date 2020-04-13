@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yujaqe junction", "description": "...", "health": 42, "speed": 13, "capacity": 20, "size": 1, "requirements": [{"item": "yujaqe", "amount": 2}, {"item": "kezunium", "amount": 4}], "research": "yujaqe-conveyor", "category": "distribution"}

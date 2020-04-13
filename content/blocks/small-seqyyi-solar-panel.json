@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small seqyyi solar panel", "description": "...", "size": 1, "health": 35, "requirements": [{"item": "seqyyi", "amount": 2}, {"item": "hybobenium", "amount": 16}, {"item": "jaga", "amount": 10}], "research": "seqyyi-factory", "powerProduction": 1.1618005027568412, "category": "power"}

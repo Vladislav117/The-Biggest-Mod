@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qehynium power node", "description": "...", "size": 2, "health": 531, "requirements": [{"item": "qehynium", "amount": 3}, {"item": "dekyzu", "amount": 17}, {"item": "sivaqi", "amount": 8}], "research": "qehynium-factory", "maxNodes": 12, "laserRange": 12, "category": "power"}

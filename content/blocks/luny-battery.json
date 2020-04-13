@@ -1,0 +1,1 @@
+{"type": "battery", "name": "luny battery", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "luny", "amount": 6}, {"item": "sudu", "amount": 18}, {"item": "lowocanium", "amount": 2}], "research": "luny-factory", "consumes": {"powerBuffered": 7505}, "category": "power"}

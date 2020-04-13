@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "diho solar panel", "description": "...", "size": 3, "health": 255, "requirements": [{"item": "diho", "amount": 11}, {"item": "piga", "amount": 8}, {"item": "duyi", "amount": 5}], "research": "diho-factory", "powerProduction": 0.8707721215459273, "category": "power"}

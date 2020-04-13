@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pudogi bridge conveyor", "description": "", "health": 31, "range": 4, "speed": 14, "bufferCapacity": 24, "requirements": [{"item": "pudogi", "amount": 2}, {"item": "nitinium", "amount": 2}], "research": "pudogi-conveyor", "category": "distribution", "size": 1}

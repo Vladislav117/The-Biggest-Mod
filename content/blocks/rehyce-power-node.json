@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rehyce power node", "description": "...", "size": 2, "health": 86, "requirements": [{"item": "rehyce", "amount": 5}, {"item": "yocoke", "amount": 5}, {"item": "gydarynium", "amount": 9}], "research": "rehyce-factory", "maxNodes": 58, "laserRange": 20, "category": "power"}

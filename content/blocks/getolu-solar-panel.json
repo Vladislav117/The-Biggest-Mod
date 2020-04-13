@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "getolu solar panel", "description": "...", "size": 3, "health": 344, "requirements": [{"item": "getolu", "amount": 3}, {"item": "foho", "amount": 19}, {"item": "cowi", "amount": 3}], "research": "getolu-factory", "powerProduction": 0.003960343093816226, "category": "power"}

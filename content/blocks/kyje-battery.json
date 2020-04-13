@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kyje battery", "description": "...", "size": 3, "health": 375, "requirements": [{"item": "kyje", "amount": 11}, {"item": "pyge", "amount": 20}, {"item": "cifo", "amount": 2}], "research": "kyje-factory", "consumes": {"powerBuffered": 6563}, "category": "power"}

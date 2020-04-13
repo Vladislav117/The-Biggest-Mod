@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small duwo solar panel", "description": "...", "size": 1, "health": 281, "requirements": [{"item": "duwo", "amount": 16}, {"item": "vywene", "amount": 15}, {"item": "tiqeti", "amount": 2}], "research": "duwo-factory", "powerProduction": 2.1753826029690417, "category": "power"}

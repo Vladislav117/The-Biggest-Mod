@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jelu power node", "description": "...", "size": 2, "health": 427, "requirements": [{"item": "jelu", "amount": 3}, {"item": "teyigu", "amount": 11}, {"item": "wija", "amount": 2}], "research": "jelu-factory", "maxNodes": 27, "laserRange": 17, "category": "power"}

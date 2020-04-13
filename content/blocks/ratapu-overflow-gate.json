@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ratapu overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "ratapu", "amount": 1}, {"item": "yibufe", "amount": 4}], "research": "ratapu-conveyor", "category": "distribution", "invert": false}

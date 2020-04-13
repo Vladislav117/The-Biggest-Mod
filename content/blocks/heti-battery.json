@@ -1,0 +1,1 @@
+{"type": "battery", "name": "heti battery", "description": "...", "size": 3, "health": 325, "requirements": [{"item": "heti", "amount": 17}, {"item": "vurewe", "amount": 14}, {"item": "xevenium", "amount": 1}], "research": "heti-factory", "consumes": {"powerBuffered": 8112}, "category": "power"}

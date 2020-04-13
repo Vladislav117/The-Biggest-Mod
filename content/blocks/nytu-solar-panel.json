@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nytu solar panel", "description": "...", "size": 3, "health": 382, "requirements": [{"item": "nytu", "amount": 19}, {"item": "gonu", "amount": 2}, {"item": "rateju", "amount": 9}], "research": "nytu-factory", "powerProduction": 0.380673292166219, "category": "power"}

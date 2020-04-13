@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nuto power node", "description": "...", "size": 2, "health": 742, "requirements": [{"item": "nuto", "amount": 9}, {"item": "werexo", "amount": 5}, {"item": "sytafe", "amount": 8}], "research": "nuto-factory", "maxNodes": 60, "laserRange": 6, "category": "power"}

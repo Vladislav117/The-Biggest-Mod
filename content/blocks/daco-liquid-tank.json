@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "daco liquid tank", "description": "...", "health": 265, "size": 3, "requirements": [{"item": "daco", "amount": 14}, {"item": "zaqe", "amount": 8}, {"item": "hagunium", "amount": 1}], "research": "daco-conduit", "category": "liquid", "liquidCapacity": 10259, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "noxoginium bridge conveyor", "description": "", "health": 6, "range": 9, "speed": 16, "bufferCapacity": 25, "requirements": [{"item": "noxoginium", "amount": 3}, {"item": "kozypi", "amount": 2}], "research": "noxoginium-conveyor", "category": "distribution", "size": 1}

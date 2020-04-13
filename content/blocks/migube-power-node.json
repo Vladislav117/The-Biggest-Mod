@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "migube power node", "description": "...", "size": 2, "health": 531, "requirements": [{"item": "migube", "amount": 4}, {"item": "surge-alloy", "amount": 15}, {"item": "betesa", "amount": 10}], "research": "migube-factory", "maxNodes": 50, "laserRange": 21, "category": "power"}

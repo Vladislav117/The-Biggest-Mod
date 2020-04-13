@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "holanium conduit", "description": "...", "health": 100, "requirements": [{"item": "holanium", "amount": 4}, {"item": "lyxeta", "amount": 1}, {"item": "famynium", "amount": 5}], "liquidCapacity": 47, "liquidPressure": 6, "research": "holanium-factory", "category": "liquid"}

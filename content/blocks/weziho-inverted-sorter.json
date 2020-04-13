@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "weziho inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "weziho", "amount": 2}, {"item": "mynufu", "amount": 4}], "research": "weziho-conveyor", "category": "distribution", "invert": true}

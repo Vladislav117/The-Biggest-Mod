@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "poce drill", "description": "...", "size": 4, "health": 323, "tier": 3, "drillTime": 17, "consumes": {"power": 7}, "requirements": [{"item": "poce", "amount": 8}, {"item": "toni", "amount": 1}, {"item": "rahasunium", "amount": 10}], "research": "poce-factory", "category": "production"}

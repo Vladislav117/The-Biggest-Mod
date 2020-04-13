@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small noqewy power node", "description": "...", "size": 1, "health": 183, "requirements": [{"item": "noqewy", "amount": 6}, {"item": "laho", "amount": 10}, {"item": "cavuyi", "amount": 6}], "research": "noqewy-factory", "maxNodes": 28, "laserRange": 21, "category": "power"}

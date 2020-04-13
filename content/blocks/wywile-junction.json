@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wywile junction", "description": "...", "health": 17, "speed": 2, "capacity": 10, "size": 1, "requirements": [{"item": "wywile", "amount": 2}, {"item": "gacy", "amount": 4}], "research": "wywile-conveyor", "category": "distribution"}

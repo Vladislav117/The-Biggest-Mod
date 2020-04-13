@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "porabonium underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "porabonium", "amount": 1}, {"item": "siyake", "amount": 3}], "research": "porabonium-conveyor", "category": "distribution", "invert": false}

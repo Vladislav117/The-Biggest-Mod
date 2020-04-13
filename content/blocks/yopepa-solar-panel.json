@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yopepa solar panel", "description": "...", "size": 3, "health": 97, "requirements": [{"item": "yopepa", "amount": 4}, {"item": "yomema", "amount": 1}, {"item": "rakuhy", "amount": 6}], "research": "yopepa-factory", "powerProduction": 0.095432432125954, "category": "power"}

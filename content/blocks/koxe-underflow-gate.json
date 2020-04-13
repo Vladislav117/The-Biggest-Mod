@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "koxe underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "koxe", "amount": 3}, {"item": "qefa", "amount": 4}], "research": "koxe-conveyor", "category": "distribution", "invert": false}

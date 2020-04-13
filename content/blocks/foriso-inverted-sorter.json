@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "foriso inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "foriso", "amount": 5}, {"item": "rebanium", "amount": 5}], "research": "foriso-conveyor", "category": "distribution", "invert": true}

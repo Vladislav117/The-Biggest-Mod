@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kije power node", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "kije", "amount": 14}, {"item": "woze", "amount": 4}, {"item": "vuyi", "amount": 10}], "research": "kije-factory", "maxNodes": 20, "laserRange": 3, "category": "power"}

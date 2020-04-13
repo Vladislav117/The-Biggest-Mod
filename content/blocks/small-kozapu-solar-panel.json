@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kozapu solar panel", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "kozapu", "amount": 13}, {"item": "vuzesenium", "amount": 11}, {"item": "wupixonium", "amount": 4}], "research": "kozapu-factory", "powerProduction": 4.1669716857153665, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wiqa drill", "description": "...", "size": 2, "health": 274, "tier": 3, "drillTime": 17, "consumes": {"power": 10}, "requirements": [{"item": "wiqa", "amount": 13}, {"item": "puzybo", "amount": 5}, {"item": "bywazy", "amount": 6}], "research": "wiqa-factory", "category": "production"}

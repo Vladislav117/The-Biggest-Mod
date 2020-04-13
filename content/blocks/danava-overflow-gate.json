@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "danava overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "danava", "amount": 4}, {"item": "kozivo", "amount": 4}], "research": "danava-conveyor", "category": "distribution", "invert": false}

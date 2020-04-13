@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tayi bridge conveyor", "description": "", "health": 14, "range": 12, "speed": 8, "bufferCapacity": 16, "requirements": [{"item": "tayi", "amount": 2}, {"item": "depyya", "amount": 4}], "research": "tayi-conveyor", "category": "distribution", "size": 1}

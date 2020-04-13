@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "rixolu drill", "description": "...", "size": 2, "health": 287, "tier": 3, "drillTime": 10, "consumes": {"power": 2}, "requirements": [{"item": "rixolu", "amount": 3}, {"item": "pivojunium", "amount": 18}, {"item": "fyye", "amount": 7}], "research": "rixolu-factory", "category": "production"}

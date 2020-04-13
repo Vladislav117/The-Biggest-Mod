@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "genohu inverted sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "genohu", "amount": 1}, {"item": "kuyome", "amount": 1}], "research": "genohu-conveyor", "category": "distribution", "invert": true}

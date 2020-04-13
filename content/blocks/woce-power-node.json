@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "woce power node", "description": "...", "size": 2, "health": 376, "requirements": [{"item": "woce", "amount": 2}, {"item": "hobo", "amount": 3}, {"item": "gado", "amount": 4}], "research": "woce-factory", "maxNodes": 58, "laserRange": 25, "category": "power"}

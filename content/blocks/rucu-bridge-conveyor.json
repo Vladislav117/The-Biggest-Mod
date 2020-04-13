@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rucu bridge conveyor", "description": "", "health": 42, "range": 11, "speed": 5, "bufferCapacity": 15, "requirements": [{"item": "rucu", "amount": 4}, {"item": "deco", "amount": 5}], "research": "rucu-conveyor", "category": "distribution", "size": 1}

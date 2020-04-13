@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "damo conduit", "description": "...", "health": 101, "requirements": [{"item": "damo", "amount": 6}, {"item": "yiweyu", "amount": 15}, {"item": "keqiny", "amount": 5}], "liquidCapacity": 42, "liquidPressure": 1, "research": "damo-factory", "category": "liquid"}

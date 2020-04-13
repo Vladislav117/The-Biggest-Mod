@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tuxu battery", "description": "...", "size": 1, "health": 93, "requirements": [{"item": "tuxu", "amount": 18}, {"item": "sore", "amount": 3}, {"item": "copper", "amount": 4}], "research": "tuxu-factory", "consumes": {"powerBuffered": 2308}, "category": "power"}

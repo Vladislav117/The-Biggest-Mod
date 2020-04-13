@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "racudy solar panel", "description": "...", "size": 3, "health": 31, "requirements": [{"item": "racudy", "amount": 3}, {"item": "byjy", "amount": 9}, {"item": "rale", "amount": 7}], "research": "racudy-factory", "powerProduction": 0.06555005911586899, "category": "power"}

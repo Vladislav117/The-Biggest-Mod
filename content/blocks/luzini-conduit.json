@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "luzini conduit", "description": "...", "health": 81, "requirements": [{"item": "luzini", "amount": 2}, {"item": "hogyse", "amount": 12}, {"item": "bohexi", "amount": 8}], "liquidCapacity": 1, "liquidPressure": 7, "research": "luzini-factory", "category": "liquid"}

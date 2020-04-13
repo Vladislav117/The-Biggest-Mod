@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "riwi inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "riwi", "amount": 2}, {"item": "hofi", "amount": 1}], "research": "riwi-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "juge bridge conveyor", "description": "", "health": 44, "range": 17, "speed": 12, "bufferCapacity": 22, "requirements": [{"item": "juge", "amount": 5}, {"item": "dugi", "amount": 2}], "research": "juge-conveyor", "category": "distribution", "size": 1}

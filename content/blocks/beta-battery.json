@@ -1,0 +1,1 @@
+{"type": "battery", "name": "beta battery", "description": "...", "size": 3, "health": 131, "requirements": [{"item": "beta", "amount": 17}, {"item": "kikymi", "amount": 20}, {"item": "nago", "amount": 10}], "research": "beta-factory", "consumes": {"powerBuffered": 8858}, "category": "power"}

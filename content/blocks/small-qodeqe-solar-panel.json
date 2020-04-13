@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qodeqe solar panel", "description": "...", "size": 1, "health": 390, "requirements": [{"item": "qodeqe", "amount": 14}, {"item": "cyru", "amount": 5}, {"item": "biny", "amount": 7}], "research": "qodeqe-factory", "powerProduction": 2.041110531171114, "category": "power"}

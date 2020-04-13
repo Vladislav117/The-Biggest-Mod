@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jyzy battery", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "jyzy", "amount": 11}, {"item": "vipinium", "amount": 1}, {"item": "jupygu", "amount": 6}], "research": "jyzy-factory", "consumes": {"powerBuffered": 2938}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jomoka solar panel", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "jomoka", "amount": 13}, {"item": "fogodo", "amount": 13}, {"item": "vakyxinium", "amount": 10}], "research": "jomoka-factory", "powerProduction": 0.869057889369342, "category": "power"}

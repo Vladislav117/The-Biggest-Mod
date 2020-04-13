@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pafyvi power node", "description": "...", "size": 1, "health": 279, "requirements": [{"item": "pafyvi", "amount": 11}, {"item": "nuso", "amount": 5}, {"item": "mucige", "amount": 10}], "research": "pafyvi-factory", "maxNodes": 4, "laserRange": 25, "category": "power"}

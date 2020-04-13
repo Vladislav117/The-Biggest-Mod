@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ragezunium power node", "description": "...", "size": 2, "health": 514, "requirements": [{"item": "ragezunium", "amount": 6}, {"item": "cokigo", "amount": 6}, {"item": "zywave", "amount": 10}], "research": "ragezunium-factory", "maxNodes": 41, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sylyxy power node", "description": "...", "size": 2, "health": 124, "requirements": [{"item": "sylyxy", "amount": 3}, {"item": "yocoke", "amount": 12}, {"item": "puli", "amount": 7}], "research": "sylyxy-factory", "maxNodes": 34, "laserRange": 24, "category": "power"}

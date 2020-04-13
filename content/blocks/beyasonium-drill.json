@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "beyasonium drill", "description": "...", "size": 2, "health": 251, "tier": 3, "drillTime": 10, "consumes": {"power": 2}, "requirements": [{"item": "beyasonium", "amount": 8}, {"item": "xebu", "amount": 14}, {"item": "ribuge", "amount": 1}], "research": "beyasonium-factory", "category": "production"}

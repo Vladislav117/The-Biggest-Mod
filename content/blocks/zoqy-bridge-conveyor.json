@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zoqy bridge conveyor", "description": "", "health": 48, "range": 15, "speed": 8, "bufferCapacity": 16, "requirements": [{"item": "zoqy", "amount": 3}, {"item": "kipybi", "amount": 3}], "research": "zoqy-conveyor", "category": "distribution", "size": 1}

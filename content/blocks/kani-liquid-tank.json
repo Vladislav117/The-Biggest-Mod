@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kani liquid tank", "description": "...", "health": 548, "size": 3, "requirements": [{"item": "kani", "amount": 2}, {"item": "cyyenium", "amount": 9}, {"item": "fogodo", "amount": 2}], "research": "kani-conduit", "category": "liquid", "liquidCapacity": 25610, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nimi battery", "description": "...", "size": 1, "health": 208, "requirements": [{"item": "nimi", "amount": 6}, {"item": "copper", "amount": 20}, {"item": "zese", "amount": 6}], "research": "nimi-factory", "consumes": {"powerBuffered": 1053}, "category": "power"}

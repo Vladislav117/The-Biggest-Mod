@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tavupi sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "tavupi", "amount": 4}, {"item": "pygu", "amount": 2}], "research": "tavupi-conveyor", "category": "distribution", "invert": false}

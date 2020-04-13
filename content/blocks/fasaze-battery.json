@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fasaze battery", "description": "...", "size": 3, "health": 327, "requirements": [{"item": "fasaze", "amount": 15}, {"item": "hitiva", "amount": 1}, {"item": "vema", "amount": 8}], "research": "fasaze-factory", "consumes": {"powerBuffered": 8750}, "category": "power"}

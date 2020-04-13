@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zumi battery", "description": "...", "size": 3, "health": 383, "requirements": [{"item": "zumi", "amount": 10}, {"item": "jazu", "amount": 11}, {"item": "felizenium", "amount": 10}], "research": "zumi-factory", "consumes": {"powerBuffered": 7966}, "category": "power"}

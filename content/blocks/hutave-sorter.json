@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hutave sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "hutave", "amount": 4}, {"item": "zukolunium", "amount": 4}], "research": "hutave-conveyor", "category": "distribution", "invert": false}

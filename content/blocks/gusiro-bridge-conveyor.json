@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gusiro bridge conveyor", "description": "", "health": 18, "range": 10, "speed": 19, "bufferCapacity": 25, "requirements": [{"item": "gusiro", "amount": 4}, {"item": "movanium", "amount": 4}], "research": "gusiro-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vido power node", "description": "...", "size": 2, "health": 493, "requirements": [{"item": "vido", "amount": 17}, {"item": "ryhenium", "amount": 14}, {"item": "nypenium", "amount": 6}], "research": "vido-factory", "maxNodes": 12, "laserRange": 7, "category": "power"}

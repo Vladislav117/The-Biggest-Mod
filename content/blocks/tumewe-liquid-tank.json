@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tumewe liquid tank", "description": "...", "health": 569, "size": 3, "requirements": [{"item": "tumewe", "amount": 3}, {"item": "xogo", "amount": 20}, {"item": "jexanium", "amount": 2}], "research": "tumewe-conduit", "category": "liquid", "liquidCapacity": 31425, "hasLiquids": true}

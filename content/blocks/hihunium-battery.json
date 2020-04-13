@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hihunium battery", "description": "...", "size": 3, "health": 42, "requirements": [{"item": "hihunium", "amount": 8}, {"item": "yytiye", "amount": 1}, {"item": "surge-alloy", "amount": 9}], "research": "hihunium-factory", "consumes": {"powerBuffered": 2832}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xadunium battery", "description": "...", "size": 3, "health": 116, "requirements": [{"item": "xadunium", "amount": 8}, {"item": "qari", "amount": 14}, {"item": "fulyzynium", "amount": 9}], "research": "xadunium-factory", "consumes": {"powerBuffered": 6349}, "category": "power"}

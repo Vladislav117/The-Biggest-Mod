@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "picika inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "picika", "amount": 1}, {"item": "liba", "amount": 3}], "research": "picika-conveyor", "category": "distribution", "invert": true}

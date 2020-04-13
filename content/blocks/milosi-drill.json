@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "milosi drill", "description": "...", "size": 3, "health": 146, "tier": 4, "drillTime": 15, "consumes": {"power": 4}, "requirements": [{"item": "milosi", "amount": 14}, {"item": "fepiva", "amount": 15}, {"item": "gymypa", "amount": 6}], "research": "milosi-factory", "category": "production"}

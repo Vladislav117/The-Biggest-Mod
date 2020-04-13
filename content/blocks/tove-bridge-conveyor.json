@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tove bridge conveyor", "description": "", "health": 43, "range": 18, "speed": 19, "bufferCapacity": 3, "requirements": [{"item": "tove", "amount": 1}, {"item": "xyduda", "amount": 2}], "research": "tove-conveyor", "category": "distribution", "size": 1}

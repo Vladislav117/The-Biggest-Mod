@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ryte sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "ryte", "amount": 5}, {"item": "lyheti", "amount": 3}], "research": "ryte-conveyor", "category": "distribution", "invert": false}

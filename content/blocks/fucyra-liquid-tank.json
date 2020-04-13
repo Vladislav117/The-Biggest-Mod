@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fucyra liquid tank", "description": "...", "health": 347, "size": 3, "requirements": [{"item": "fucyra", "amount": 11}, {"item": "raru", "amount": 6}, {"item": "makonium", "amount": 7}], "research": "fucyra-conduit", "category": "liquid", "liquidCapacity": 116451, "hasLiquids": true}

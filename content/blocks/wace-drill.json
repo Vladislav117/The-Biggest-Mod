@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wace drill", "description": "...", "size": 3, "health": 115, "tier": 1, "drillTime": 20, "consumes": {"power": 11}, "requirements": [{"item": "wace", "amount": 10}, {"item": "rosiqe", "amount": 4}, {"item": "tezila", "amount": 4}], "research": "wace-factory", "category": "production"}

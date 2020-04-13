@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "povazu liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "povazu", "amount": 20}, {"item": "tizusa", "amount": 19}, {"item": "nayayi", "amount": 6}], "research": "povazu-conduit", "liquidCapacity": 10, "category": "liquid"}

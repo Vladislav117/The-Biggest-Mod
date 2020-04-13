@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "savi solar panel", "description": "...", "size": 3, "health": 19, "requirements": [{"item": "savi", "amount": 15}, {"item": "ruji", "amount": 12}, {"item": "xyfynium", "amount": 4}], "research": "savi-factory", "powerProduction": 0.5899526074145356, "category": "power"}

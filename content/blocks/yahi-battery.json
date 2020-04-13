@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yahi battery", "description": "...", "size": 3, "health": 13, "requirements": [{"item": "yahi", "amount": 2}, {"item": "sacy", "amount": 18}, {"item": "myyu", "amount": 10}], "research": "yahi-factory", "consumes": {"powerBuffered": 5544}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "danitu overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "danitu", "amount": 1}, {"item": "loqa", "amount": 1}], "research": "danitu-conveyor", "category": "distribution", "invert": false}

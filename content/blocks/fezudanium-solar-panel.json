@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fezudanium solar panel", "description": "...", "size": 3, "health": 33, "requirements": [{"item": "fezudanium", "amount": 7}, {"item": "vevati", "amount": 1}, {"item": "hyqyno", "amount": 5}], "research": "fezudanium-factory", "powerProduction": 1.920414282167625, "category": "power"}

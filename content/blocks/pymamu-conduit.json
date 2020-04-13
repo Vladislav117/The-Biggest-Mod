@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pymamu conduit", "description": "...", "health": 50, "requirements": [{"item": "pymamu", "amount": 4}, {"item": "sehy", "amount": 11}, {"item": "maqini", "amount": 8}], "liquidCapacity": 23, "liquidPressure": 5, "research": "pymamu-factory", "category": "liquid"}

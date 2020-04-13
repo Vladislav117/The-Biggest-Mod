@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nyry drill", "description": "...", "size": 2, "health": 264, "tier": 4, "drillTime": 3, "consumes": {"power": 10}, "requirements": [{"item": "nyry", "amount": 18}, {"item": "wopawi", "amount": 14}, {"item": "tynipu", "amount": 1}], "research": "nyry-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hagunium liquid router", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "hagunium", "amount": 12}, {"item": "harugenium", "amount": 18}, {"item": "fuda", "amount": 2}], "research": "hagunium-conduit", "liquidCapacity": 10, "category": "liquid"}

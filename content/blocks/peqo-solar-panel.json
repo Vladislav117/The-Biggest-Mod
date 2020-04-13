@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "peqo solar panel", "description": "...", "size": 3, "health": 187, "requirements": [{"item": "peqo", "amount": 8}, {"item": "pudore", "amount": 13}, {"item": "feca", "amount": 6}], "research": "peqo-factory", "powerProduction": 2.606371956573505, "category": "power"}

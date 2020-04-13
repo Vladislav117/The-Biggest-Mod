@@ -1,0 +1,1 @@
+{"type": "battery", "name": "divimenium battery", "description": "...", "size": 3, "health": 62, "requirements": [{"item": "divimenium", "amount": 5}, {"item": "nuko", "amount": 19}, {"item": "tisi", "amount": 7}], "research": "divimenium-factory", "consumes": {"powerBuffered": 6847}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vocazu battery", "description": "...", "size": 3, "health": 384, "requirements": [{"item": "vocazu", "amount": 7}, {"item": "dywo", "amount": 1}, {"item": "gidu", "amount": 3}], "research": "vocazu-factory", "consumes": {"powerBuffered": 4369}, "category": "power"}

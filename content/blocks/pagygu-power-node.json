@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pagygu power node", "description": "...", "size": 2, "health": 405, "requirements": [{"item": "pagygu", "amount": 12}, {"item": "jega", "amount": 9}, {"item": "lopiso", "amount": 6}], "research": "pagygu-factory", "maxNodes": 18, "laserRange": 12, "category": "power"}

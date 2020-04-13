@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yevu battery", "description": "...", "size": 3, "health": 23, "requirements": [{"item": "yevu", "amount": 17}, {"item": "puta", "amount": 17}, {"item": "yudu", "amount": 3}], "research": "yevu-factory", "consumes": {"powerBuffered": 7680}, "category": "power"}

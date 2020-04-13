@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dibu battery", "description": "...", "size": 3, "health": 255, "requirements": [{"item": "dibu", "amount": 14}, {"item": "pynydanium", "amount": 9}, {"item": "huwydy", "amount": 8}], "research": "dibu-factory", "consumes": {"powerBuffered": 1988}, "category": "power"}

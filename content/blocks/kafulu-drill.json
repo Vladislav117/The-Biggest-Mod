@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kafulu drill", "description": "...", "size": 2, "health": 404, "tier": 2, "drillTime": 17, "consumes": {"power": 11}, "requirements": [{"item": "kafulu", "amount": 1}, {"item": "litilenium", "amount": 12}, {"item": "julynium", "amount": 10}], "research": "kafulu-factory", "category": "production"}

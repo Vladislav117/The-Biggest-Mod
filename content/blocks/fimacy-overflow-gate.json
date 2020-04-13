@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fimacy overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "fimacy", "amount": 4}, {"item": "tydeja", "amount": 2}], "research": "fimacy-conveyor", "category": "distribution", "invert": false}

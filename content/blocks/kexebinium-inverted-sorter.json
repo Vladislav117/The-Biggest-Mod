@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kexebinium inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "kexebinium", "amount": 5}, {"item": "qudy", "amount": 2}], "research": "kexebinium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kekipa solar panel", "description": "...", "size": 3, "health": 278, "requirements": [{"item": "kekipa", "amount": 9}, {"item": "zowenium", "amount": 2}, {"item": "hayy", "amount": 1}], "research": "kekipa-factory", "powerProduction": 8.391638924440201, "category": "power"}

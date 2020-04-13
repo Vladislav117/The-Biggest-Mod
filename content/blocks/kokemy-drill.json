@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kokemy drill", "description": "...", "size": 2, "health": 366, "tier": 2, "drillTime": 7, "consumes": {"power": 8}, "requirements": [{"item": "kokemy", "amount": 19}, {"item": "fikyyy", "amount": 12}, {"item": "myhuzi", "amount": 10}], "research": "kokemy-factory", "category": "production"}

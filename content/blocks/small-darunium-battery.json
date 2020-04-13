@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small darunium battery", "description": "...", "size": 1, "health": 197, "requirements": [{"item": "darunium", "amount": 12}, {"item": "teneyy", "amount": 20}, {"item": "fexaja", "amount": 7}], "research": "darunium-factory", "consumes": {"powerBuffered": 2395}, "category": "power"}

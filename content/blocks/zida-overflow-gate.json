@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zida overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "zida", "amount": 4}, {"item": "xuricy", "amount": 2}], "research": "zida-conveyor", "category": "distribution", "invert": false}

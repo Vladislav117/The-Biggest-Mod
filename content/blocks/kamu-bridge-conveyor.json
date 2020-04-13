@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kamu bridge conveyor", "description": "", "health": 40, "range": 12, "speed": 4, "bufferCapacity": 16, "requirements": [{"item": "kamu", "amount": 5}, {"item": "siyake", "amount": 5}], "research": "kamu-conveyor", "category": "distribution", "size": 1}

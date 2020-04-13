@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "buquza conduit", "description": "...", "health": 29, "requirements": [{"item": "buquza", "amount": 5}, {"item": "movenium", "amount": 16}, {"item": "hitiva", "amount": 9}], "liquidCapacity": 50, "liquidPressure": 10, "research": "buquza-factory", "category": "liquid"}

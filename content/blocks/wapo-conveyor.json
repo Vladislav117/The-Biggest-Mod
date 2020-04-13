@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "wapo conveyor", "description": "...", "health": 287, "requirements": [{"item": "wapo", "amount": 3}, {"item": "lewanium", "amount": 8}], "speed": 0.32545970804530167, "research": "wapo-factory", "category": "distribution"}

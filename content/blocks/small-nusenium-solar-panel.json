@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nusenium solar panel", "description": "...", "size": 1, "health": 161, "requirements": [{"item": "nusenium", "amount": 18}, {"item": "faba", "amount": 15}, {"item": "wivo", "amount": 6}], "research": "nusenium-factory", "powerProduction": 2.8109055455279, "category": "power"}

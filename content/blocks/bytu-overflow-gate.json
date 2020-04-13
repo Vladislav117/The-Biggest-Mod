@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bytu overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "bytu", "amount": 2}, {"item": "miqomy", "amount": 4}], "research": "bytu-conveyor", "category": "distribution", "invert": false}

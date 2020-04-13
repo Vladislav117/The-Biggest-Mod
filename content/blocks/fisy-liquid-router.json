@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fisy liquid router", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "fisy", "amount": 1}, {"item": "wasebanium", "amount": 12}, {"item": "powidu", "amount": 10}], "research": "fisy-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hedege bridge conveyor", "description": "", "health": 26, "range": 12, "speed": 11, "bufferCapacity": 25, "requirements": [{"item": "hedege", "amount": 5}, {"item": "cify", "amount": 2}], "research": "hedege-conveyor", "category": "distribution", "size": 1}

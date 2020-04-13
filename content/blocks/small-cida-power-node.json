@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cida power node", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "cida", "amount": 15}, {"item": "litilenium", "amount": 1}, {"item": "totunenium", "amount": 10}], "research": "cida-factory", "maxNodes": 3, "laserRange": 7, "category": "power"}

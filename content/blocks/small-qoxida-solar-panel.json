@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qoxida solar panel", "description": "...", "size": 1, "health": 244, "requirements": [{"item": "qoxida", "amount": 17}, {"item": "fulyzynium", "amount": 6}, {"item": "wumuge", "amount": 6}], "research": "qoxida-factory", "powerProduction": 1.6762840821477147, "category": "power"}

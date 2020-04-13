@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "holanium liquid tank", "description": "...", "health": 586, "size": 3, "requirements": [{"item": "holanium", "amount": 18}, {"item": "qipo", "amount": 15}, {"item": "jenenium", "amount": 10}], "research": "holanium-conduit", "category": "liquid", "liquidCapacity": 31710, "hasLiquids": true}

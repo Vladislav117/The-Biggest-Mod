@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "baly solar panel", "description": "...", "size": 3, "health": 321, "requirements": [{"item": "baly", "amount": 16}, {"item": "dyjami", "amount": 9}, {"item": "fufyyu", "amount": 10}], "research": "baly-factory", "powerProduction": 3.480315744136594, "category": "power"}

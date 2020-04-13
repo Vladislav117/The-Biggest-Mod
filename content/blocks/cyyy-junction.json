@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cyyy junction", "description": "...", "health": 50, "speed": 4, "capacity": 9, "size": 1, "requirements": [{"item": "cyyy", "amount": 5}, {"item": "vosixe", "amount": 4}], "research": "cyyy-conveyor", "category": "distribution"}

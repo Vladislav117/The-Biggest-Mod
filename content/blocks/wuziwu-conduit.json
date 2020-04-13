@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wuziwu conduit", "description": "...", "health": 45, "requirements": [{"item": "wuziwu", "amount": 4}, {"item": "duvadi", "amount": 9}, {"item": "qyxyci", "amount": 5}], "liquidCapacity": 16, "liquidPressure": 6, "research": "wuziwu-factory", "category": "liquid"}

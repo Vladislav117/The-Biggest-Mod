@@ -1,0 +1,1 @@
+{"type": "battery", "name": "topiyynium battery", "description": "...", "size": 3, "health": 138, "requirements": [{"item": "topiyynium", "amount": 5}, {"item": "tybegi", "amount": 12}, {"item": "rose", "amount": 4}], "research": "topiyynium-factory", "consumes": {"powerBuffered": 6831}, "category": "power"}

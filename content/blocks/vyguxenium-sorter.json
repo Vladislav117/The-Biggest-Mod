@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vyguxenium sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "vyguxenium", "amount": 3}, {"item": "bayury", "amount": 3}], "research": "vyguxenium-conveyor", "category": "distribution", "invert": false}

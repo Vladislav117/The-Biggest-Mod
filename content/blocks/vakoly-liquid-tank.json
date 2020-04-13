@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vakoly liquid tank", "description": "...", "health": 468, "size": 3, "requirements": [{"item": "vakoly", "amount": 8}, {"item": "hyna", "amount": 2}, {"item": "vytuxe", "amount": 8}], "research": "vakoly-conduit", "category": "liquid", "liquidCapacity": 34508, "hasLiquids": true}

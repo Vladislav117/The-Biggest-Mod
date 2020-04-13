@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nixigunium power node", "description": "...", "size": 2, "health": 251, "requirements": [{"item": "nixigunium", "amount": 7}, {"item": "feyyqe", "amount": 20}, {"item": "dituna", "amount": 5}], "research": "nixigunium-factory", "maxNodes": 28, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yofonium battery", "description": "...", "size": 3, "health": 21, "requirements": [{"item": "yofonium", "amount": 16}, {"item": "xaky", "amount": 5}, {"item": "geyico", "amount": 6}], "research": "yofonium-factory", "consumes": {"powerBuffered": 4628}, "category": "power"}

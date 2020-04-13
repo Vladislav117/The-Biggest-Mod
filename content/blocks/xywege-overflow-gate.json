@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xywege overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "xywege", "amount": 5}, {"item": "kofynium", "amount": 5}], "research": "xywege-conveyor", "category": "distribution", "invert": false}

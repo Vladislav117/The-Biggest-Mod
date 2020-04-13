@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "rixolu liquid router", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "rixolu", "amount": 13}, {"item": "qiyo", "amount": 7}, {"item": "kamo", "amount": 1}], "research": "rixolu-conduit", "liquidCapacity": 10, "category": "liquid"}

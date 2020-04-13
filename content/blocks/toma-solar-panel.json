@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "toma solar panel", "description": "...", "size": 3, "health": 96, "requirements": [{"item": "toma", "amount": 7}, {"item": "lora", "amount": 10}, {"item": "sopage", "amount": 10}], "research": "toma-factory", "powerProduction": 0.5231113653875175, "category": "power"}

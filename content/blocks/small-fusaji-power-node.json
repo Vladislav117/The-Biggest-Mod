@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fusaji power node", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "fusaji", "amount": 14}, {"item": "phase-fabric", "amount": 20}, {"item": "xexumi", "amount": 1}], "research": "fusaji-factory", "maxNodes": 2, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "fana force projector", "description": "...", "health": 147, "size": 3, "consumes": {"power": 5.0, "item": "fana"}, "requirements": [{"item": "fana", "amount": 17}, {"item": "sohe", "amount": 1}, {"item": "wareginium", "amount": 4}], "research": "fana-factory", "category": "effect"}

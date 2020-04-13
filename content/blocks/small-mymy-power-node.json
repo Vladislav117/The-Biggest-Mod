@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mymy power node", "description": "...", "size": 1, "health": 191, "requirements": [{"item": "mymy", "amount": 4}, {"item": "gayika", "amount": 5}, {"item": "maveju", "amount": 9}], "research": "mymy-factory", "maxNodes": 27, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xexumi liquid tank", "description": "...", "health": 660, "size": 3, "requirements": [{"item": "xexumi", "amount": 5}, {"item": "sacigi", "amount": 1}, {"item": "gypunium", "amount": 1}], "research": "xexumi-conduit", "category": "liquid", "liquidCapacity": 65113, "hasLiquids": true}

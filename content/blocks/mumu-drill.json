@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mumu drill", "description": "...", "size": 3, "health": 368, "tier": 1, "drillTime": 14, "consumes": {"power": 13}, "requirements": [{"item": "mumu", "amount": 9}, {"item": "fifyru", "amount": 9}, {"item": "yuqy", "amount": 9}], "research": "mumu-factory", "category": "production"}

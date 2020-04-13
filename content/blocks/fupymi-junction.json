@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fupymi junction", "description": "...", "health": 12, "speed": 11, "capacity": 7, "size": 1, "requirements": [{"item": "fupymi", "amount": 5}, {"item": "laho", "amount": 5}], "research": "fupymi-conveyor", "category": "distribution"}

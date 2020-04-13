@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yybinium power node", "description": "...", "size": 2, "health": 544, "requirements": [{"item": "yybinium", "amount": 11}, {"item": "marici", "amount": 16}, {"item": "qipo", "amount": 9}], "research": "yybinium-factory", "maxNodes": 17, "laserRange": 17, "category": "power"}

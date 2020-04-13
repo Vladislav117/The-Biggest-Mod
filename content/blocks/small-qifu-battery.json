@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qifu battery", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "qifu", "amount": 10}, {"item": "ziha", "amount": 17}, {"item": "kygarynium", "amount": 6}], "research": "qifu-factory", "consumes": {"powerBuffered": 700}, "category": "power"}

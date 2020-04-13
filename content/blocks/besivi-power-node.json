@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "besivi power node", "description": "...", "size": 2, "health": 39, "requirements": [{"item": "besivi", "amount": 13}, {"item": "ceyuwy", "amount": 2}, {"item": "rateju", "amount": 8}], "research": "besivi-factory", "maxNodes": 42, "laserRange": 17, "category": "power"}

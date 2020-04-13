@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hago solar panel", "description": "...", "size": 1, "health": 355, "requirements": [{"item": "hago", "amount": 4}, {"item": "tobaye", "amount": 10}, {"item": "sadime", "amount": 1}], "research": "hago-factory", "powerProduction": 1.3485546902878491, "category": "power"}

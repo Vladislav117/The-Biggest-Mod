@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rolunium solar panel", "description": "...", "size": 3, "health": 250, "requirements": [{"item": "rolunium", "amount": 14}, {"item": "dyku", "amount": 14}, {"item": "cedonium", "amount": 8}], "research": "rolunium-factory", "powerProduction": 4.492028558910753, "category": "power"}

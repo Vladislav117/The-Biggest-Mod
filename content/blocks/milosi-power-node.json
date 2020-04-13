@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "milosi power node", "description": "...", "size": 2, "health": 171, "requirements": [{"item": "milosi", "amount": 12}, {"item": "giha", "amount": 15}, {"item": "dekeko", "amount": 2}], "research": "milosi-factory", "maxNodes": 58, "laserRange": 22, "category": "power"}

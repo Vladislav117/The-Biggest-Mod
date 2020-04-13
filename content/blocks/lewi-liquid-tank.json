@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lewi liquid tank", "description": "...", "health": 660, "size": 3, "requirements": [{"item": "lewi", "amount": 1}, {"item": "kixy", "amount": 4}, {"item": "ruwysu", "amount": 6}], "research": "lewi-conduit", "category": "liquid", "liquidCapacity": 15339, "hasLiquids": true}

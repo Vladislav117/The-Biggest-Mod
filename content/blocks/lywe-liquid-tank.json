@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lywe liquid tank", "description": "...", "health": 339, "size": 3, "requirements": [{"item": "lywe", "amount": 17}, {"item": "ruzeru", "amount": 14}, {"item": "waninium", "amount": 3}], "research": "lywe-conduit", "category": "liquid", "liquidCapacity": 23129, "hasLiquids": true}

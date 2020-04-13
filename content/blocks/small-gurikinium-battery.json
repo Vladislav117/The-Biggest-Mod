@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gurikinium battery", "description": "...", "size": 1, "health": 380, "requirements": [{"item": "gurikinium", "amount": 19}, {"item": "cydeyy", "amount": 19}, {"item": "lyheti", "amount": 2}], "research": "gurikinium-factory", "consumes": {"powerBuffered": 2710}, "category": "power"}

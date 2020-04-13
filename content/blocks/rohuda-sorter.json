@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rohuda sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "rohuda", "amount": 5}, {"item": "hedege", "amount": 1}], "research": "rohuda-conveyor", "category": "distribution", "invert": false}

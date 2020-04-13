@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qusepu battery", "description": "...", "size": 3, "health": 353, "requirements": [{"item": "qusepu", "amount": 16}, {"item": "ciwiwa", "amount": 8}, {"item": "qimose", "amount": 1}], "research": "qusepu-factory", "consumes": {"powerBuffered": 2599}, "category": "power"}

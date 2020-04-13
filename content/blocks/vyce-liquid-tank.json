@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vyce liquid tank", "description": "...", "health": 121, "size": 3, "requirements": [{"item": "vyce", "amount": 12}, {"item": "pymu", "amount": 9}, {"item": "kani", "amount": 9}], "research": "vyce-conduit", "category": "liquid", "liquidCapacity": 59037, "hasLiquids": true}

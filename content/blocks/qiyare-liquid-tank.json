@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qiyare liquid tank", "description": "...", "health": 438, "size": 3, "requirements": [{"item": "qiyare", "amount": 12}, {"item": "yila", "amount": 5}, {"item": "qiti", "amount": 9}], "research": "qiyare-conduit", "category": "liquid", "liquidCapacity": 117680, "hasLiquids": true}

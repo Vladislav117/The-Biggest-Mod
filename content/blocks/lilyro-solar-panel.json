@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lilyro solar panel", "description": "...", "size": 3, "health": 144, "requirements": [{"item": "lilyro", "amount": 11}, {"item": "cizi", "amount": 7}, {"item": "qacu", "amount": 7}], "research": "lilyro-factory", "powerProduction": 1.7558005344515948, "category": "power"}

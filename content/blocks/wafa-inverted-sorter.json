@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wafa inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "wafa", "amount": 3}, {"item": "vocazu", "amount": 2}], "research": "wafa-conveyor", "category": "distribution", "invert": true}

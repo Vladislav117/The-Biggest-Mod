@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yybo power node", "description": "...", "size": 2, "health": 747, "requirements": [{"item": "yybo", "amount": 13}, {"item": "yegy", "amount": 7}, {"item": "zaba", "amount": 8}], "research": "yybo-factory", "maxNodes": 53, "laserRange": 30, "category": "power"}

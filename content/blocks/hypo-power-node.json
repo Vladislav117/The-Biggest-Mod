@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hypo power node", "description": "...", "size": 2, "health": 799, "requirements": [{"item": "hypo", "amount": 1}, {"item": "sarijynium", "amount": 5}, {"item": "ninenium", "amount": 2}], "research": "hypo-factory", "maxNodes": 40, "laserRange": 15, "category": "power"}

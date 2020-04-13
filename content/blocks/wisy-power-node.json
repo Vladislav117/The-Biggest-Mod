@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wisy power node", "description": "...", "size": 2, "health": 727, "requirements": [{"item": "wisy", "amount": 11}, {"item": "koyiwi", "amount": 13}, {"item": "vosixe", "amount": 10}], "research": "wisy-factory", "maxNodes": 50, "laserRange": 15, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "niqe liquid tank", "description": "...", "health": 221, "size": 3, "requirements": [{"item": "niqe", "amount": 7}, {"item": "guha", "amount": 11}, {"item": "poyawonium", "amount": 8}], "research": "niqe-conduit", "category": "liquid", "liquidCapacity": 22115, "hasLiquids": true}

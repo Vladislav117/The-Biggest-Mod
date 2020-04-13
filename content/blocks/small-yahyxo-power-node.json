@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yahyxo power node", "description": "...", "size": 1, "health": 342, "requirements": [{"item": "yahyxo", "amount": 18}, {"item": "muqonium", "amount": 4}, {"item": "jywupa", "amount": 1}], "research": "yahyxo-factory", "maxNodes": 30, "laserRange": 15, "category": "power"}

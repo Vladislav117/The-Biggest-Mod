@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wyhuya overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "wyhuya", "amount": 3}, {"item": "hozivi", "amount": 3}], "research": "wyhuya-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fyhahu liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "fyhahu", "amount": 3}, {"item": "sivaqi", "amount": 9}, {"item": "vevi", "amount": 10}], "research": "fyhahu-conduit", "liquidCapacity": 10, "category": "liquid"}

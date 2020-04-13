@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tygoqa solar panel", "description": "...", "size": 3, "health": 22, "requirements": [{"item": "tygoqa", "amount": 4}, {"item": "mivuwa", "amount": 16}, {"item": "vayera", "amount": 9}], "research": "tygoqa-factory", "powerProduction": 0.8808232917622418, "category": "power"}

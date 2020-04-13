@@ -1,0 +1,1 @@
+{"type": "battery", "name": "getolu battery", "description": "...", "size": 3, "health": 107, "requirements": [{"item": "getolu", "amount": 13}, {"item": "quca", "amount": 17}, {"item": "gumyra", "amount": 1}], "research": "getolu-factory", "consumes": {"powerBuffered": 8603}, "category": "power"}

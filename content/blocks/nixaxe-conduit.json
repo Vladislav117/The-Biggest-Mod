@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nixaxe conduit", "description": "...", "health": 166, "requirements": [{"item": "nixaxe", "amount": 14}, {"item": "ranu", "amount": 16}, {"item": "jenenium", "amount": 5}], "liquidCapacity": 7, "liquidPressure": 0, "research": "nixaxe-factory", "category": "liquid"}

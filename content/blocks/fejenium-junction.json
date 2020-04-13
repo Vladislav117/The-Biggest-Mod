@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fejenium junction", "description": "...", "health": 12, "speed": 10, "capacity": 15, "size": 1, "requirements": [{"item": "fejenium", "amount": 5}, {"item": "xycaqunium", "amount": 2}], "research": "fejenium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small feqy power node", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "feqy", "amount": 14}, {"item": "wace", "amount": 11}, {"item": "vedapa", "amount": 1}], "research": "feqy-factory", "maxNodes": 18, "laserRange": 4, "category": "power"}

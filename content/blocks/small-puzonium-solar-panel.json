@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small puzonium solar panel", "description": "...", "size": 1, "health": 193, "requirements": [{"item": "puzonium", "amount": 18}, {"item": "syjilanium", "amount": 1}, {"item": "gonu", "amount": 10}], "research": "puzonium-factory", "powerProduction": 0.3016384161814057, "category": "power"}

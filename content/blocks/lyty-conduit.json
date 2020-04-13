@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lyty conduit", "description": "...", "health": 25, "requirements": [{"item": "lyty", "amount": 5}, {"item": "zyluci", "amount": 6}, {"item": "sokima", "amount": 9}], "liquidCapacity": 7, "liquidPressure": 10, "research": "lyty-factory", "category": "liquid"}

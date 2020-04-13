@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lygynium battery", "description": "...", "size": 1, "health": 102, "requirements": [{"item": "lygynium", "amount": 13}, {"item": "yydaqe", "amount": 12}, {"item": "lyru", "amount": 5}], "research": "lygynium-factory", "consumes": {"powerBuffered": 2698}, "category": "power"}

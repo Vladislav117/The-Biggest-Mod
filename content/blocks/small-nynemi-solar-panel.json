@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nynemi solar panel", "description": "...", "size": 1, "health": 181, "requirements": [{"item": "nynemi", "amount": 1}, {"item": "jiry", "amount": 4}, {"item": "hula", "amount": 5}], "research": "nynemi-factory", "powerProduction": 5.2017323533962605, "category": "power"}

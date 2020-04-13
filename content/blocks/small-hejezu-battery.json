@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hejezu battery", "description": "...", "size": 1, "health": 274, "requirements": [{"item": "hejezu", "amount": 1}, {"item": "sokezy", "amount": 20}, {"item": "vize", "amount": 4}], "research": "hejezu-factory", "consumes": {"powerBuffered": 1186}, "category": "power"}

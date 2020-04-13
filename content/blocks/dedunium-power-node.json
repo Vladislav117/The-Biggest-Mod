@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dedunium power node", "description": "...", "size": 2, "health": 68, "requirements": [{"item": "dedunium", "amount": 2}, {"item": "qiseho", "amount": 20}, {"item": "qegiqe", "amount": 9}], "research": "dedunium-factory", "maxNodes": 53, "laserRange": 15, "category": "power"}

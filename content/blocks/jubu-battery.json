@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jubu battery", "description": "...", "size": 3, "health": 222, "requirements": [{"item": "jubu", "amount": 8}, {"item": "yyti", "amount": 14}, {"item": "temyfu", "amount": 6}], "research": "jubu-factory", "consumes": {"powerBuffered": 413}, "category": "power"}

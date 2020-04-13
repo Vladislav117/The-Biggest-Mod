@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sysoki solar panel", "description": "...", "size": 3, "health": 345, "requirements": [{"item": "sysoki", "amount": 2}, {"item": "poxi", "amount": 2}, {"item": "ruqe", "amount": 4}], "research": "sysoki-factory", "powerProduction": 2.795237749571642, "category": "power"}

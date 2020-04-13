@@ -1,0 +1,1 @@
+{"type": "battery", "name": "niyoxi battery", "description": "...", "size": 3, "health": 36, "requirements": [{"item": "niyoxi", "amount": 7}, {"item": "lolu", "amount": 6}, {"item": "qegu", "amount": 3}], "research": "niyoxi-factory", "consumes": {"powerBuffered": 8625}, "category": "power"}

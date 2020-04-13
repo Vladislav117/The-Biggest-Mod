@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fusaji inverted sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "fusaji", "amount": 5}, {"item": "gurikinium", "amount": 2}], "research": "fusaji-conveyor", "category": "distribution", "invert": true}

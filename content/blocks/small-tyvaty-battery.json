@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tyvaty battery", "description": "...", "size": 1, "health": 120, "requirements": [{"item": "tyvaty", "amount": 15}, {"item": "zehonium", "amount": 6}, {"item": "pumy", "amount": 2}], "research": "tyvaty-factory", "consumes": {"powerBuffered": 1568}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gyfa underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "gyfa", "amount": 3}, {"item": "tahysonium", "amount": 3}], "research": "gyfa-conveyor", "category": "distribution", "invert": false}

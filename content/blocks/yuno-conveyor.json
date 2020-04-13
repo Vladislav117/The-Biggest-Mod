@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "yuno conveyor", "description": "...", "health": 230, "requirements": [{"item": "yuno", "amount": 8}, {"item": "rukonium", "amount": 8}], "speed": 0.023620487593970008, "research": "yuno-factory", "category": "distribution"}

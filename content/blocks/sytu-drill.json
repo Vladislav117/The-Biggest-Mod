@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sytu drill", "description": "...", "size": 2, "health": 192, "tier": 4, "drillTime": 9, "consumes": {"power": 16}, "requirements": [{"item": "sytu", "amount": 17}, {"item": "mefymanium", "amount": 10}, {"item": "dagepanium", "amount": 7}], "research": "sytu-factory", "category": "production"}

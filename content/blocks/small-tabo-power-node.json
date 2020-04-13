@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tabo power node", "description": "...", "size": 1, "health": 362, "requirements": [{"item": "tabo", "amount": 15}, {"item": "maqe", "amount": 6}, {"item": "sarijynium", "amount": 1}], "research": "tabo-factory", "maxNodes": 24, "laserRange": 7, "category": "power"}

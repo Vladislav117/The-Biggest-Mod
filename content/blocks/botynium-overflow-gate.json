@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "botynium overflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "botynium", "amount": 5}, {"item": "lane", "amount": 3}], "research": "botynium-conveyor", "category": "distribution", "invert": false}

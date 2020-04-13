@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kedymi battery", "description": "...", "size": 3, "health": 88, "requirements": [{"item": "kedymi", "amount": 1}, {"item": "plastanium", "amount": 15}, {"item": "kuwo", "amount": 2}], "research": "kedymi-factory", "consumes": {"powerBuffered": 3616}, "category": "power"}

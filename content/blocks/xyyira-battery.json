@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xyyira battery", "description": "...", "size": 3, "health": 12, "requirements": [{"item": "xyyira", "amount": 20}, {"item": "viqamo", "amount": 20}, {"item": "tymy", "amount": 1}], "research": "xyyira-factory", "consumes": {"powerBuffered": 3565}, "category": "power"}

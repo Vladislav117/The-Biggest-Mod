@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nurynium junction", "description": "...", "health": 43, "speed": 8, "capacity": 1, "size": 1, "requirements": [{"item": "nurynium", "amount": 1}, {"item": "veqyro", "amount": 4}], "research": "nurynium-conveyor", "category": "distribution"}

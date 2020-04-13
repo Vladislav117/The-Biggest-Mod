@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yicenium junction", "description": "...", "health": 26, "speed": 13, "capacity": 19, "size": 1, "requirements": [{"item": "yicenium", "amount": 4}, {"item": "gina", "amount": 2}], "research": "yicenium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lory power node", "description": "...", "size": 2, "health": 490, "requirements": [{"item": "lory", "amount": 2}, {"item": "momosa", "amount": 14}, {"item": "locycanium", "amount": 8}], "research": "lory-factory", "maxNodes": 12, "laserRange": 26, "category": "power"}

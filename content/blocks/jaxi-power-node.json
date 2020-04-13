@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jaxi power node", "description": "...", "size": 2, "health": 768, "requirements": [{"item": "jaxi", "amount": 9}, {"item": "keze", "amount": 11}, {"item": "fahi", "amount": 4}], "research": "jaxi-factory", "maxNodes": 47, "laserRange": 15, "category": "power"}

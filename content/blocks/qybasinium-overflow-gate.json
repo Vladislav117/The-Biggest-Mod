@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qybasinium overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "qybasinium", "amount": 2}, {"item": "tozenium", "amount": 3}], "research": "qybasinium-conveyor", "category": "distribution", "invert": false}

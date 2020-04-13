@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "helojanium conduit", "description": "...", "health": 195, "requirements": [{"item": "helojanium", "amount": 17}, {"item": "byzure", "amount": 17}, {"item": "hitiva", "amount": 5}], "liquidCapacity": 32, "liquidPressure": 6, "research": "helojanium-factory", "category": "liquid"}

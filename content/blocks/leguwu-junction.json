@@ -1,0 +1,1 @@
+{"type": "junction", "name": "leguwu junction", "description": "...", "health": 14, "speed": 15, "capacity": 14, "size": 1, "requirements": [{"item": "leguwu", "amount": 5}, {"item": "jowijonium", "amount": 2}], "research": "leguwu-conveyor", "category": "distribution"}

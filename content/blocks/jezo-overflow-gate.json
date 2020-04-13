@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jezo overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "jezo", "amount": 5}, {"item": "dagepanium", "amount": 1}], "research": "jezo-conveyor", "category": "distribution", "invert": false}

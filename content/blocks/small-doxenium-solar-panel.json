@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small doxenium solar panel", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "doxenium", "amount": 9}, {"item": "tykyfo", "amount": 2}, {"item": "zawyjy", "amount": 1}], "research": "doxenium-factory", "powerProduction": 0.1771796345034068, "category": "power"}

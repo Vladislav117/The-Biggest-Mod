@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tuzy power node", "description": "...", "size": 2, "health": 764, "requirements": [{"item": "tuzy", "amount": 18}, {"item": "xype", "amount": 1}, {"item": "venuki", "amount": 4}], "research": "tuzy-factory", "maxNodes": 56, "laserRange": 7, "category": "power"}

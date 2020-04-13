@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tisanium solar panel", "description": "...", "size": 3, "health": 260, "requirements": [{"item": "tisanium", "amount": 14}, {"item": "sivaqi", "amount": 6}, {"item": "sytafe", "amount": 5}], "research": "tisanium-factory", "powerProduction": 0.31305426562409766, "category": "power"}

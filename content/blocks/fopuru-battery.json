@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fopuru battery", "description": "...", "size": 3, "health": 126, "requirements": [{"item": "fopuru", "amount": 19}, {"item": "dexasa", "amount": 9}, {"item": "yyxafo", "amount": 5}], "research": "fopuru-factory", "consumes": {"powerBuffered": 5184}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hyfeho power node", "description": "...", "size": 1, "health": 351, "requirements": [{"item": "hyfeho", "amount": 12}, {"item": "kyte", "amount": 12}, {"item": "yupo", "amount": 7}], "research": "hyfeho-factory", "maxNodes": 10, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pudogi overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "pudogi", "amount": 1}, {"item": "cavyjo", "amount": 3}], "research": "pudogi-conveyor", "category": "distribution", "invert": false}

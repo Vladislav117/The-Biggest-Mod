@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qyhare power node", "description": "...", "size": 2, "health": 26, "requirements": [{"item": "qyhare", "amount": 9}, {"item": "woro", "amount": 16}, {"item": "biqa", "amount": 7}], "research": "qyhare-factory", "maxNodes": 30, "laserRange": 16, "category": "power"}

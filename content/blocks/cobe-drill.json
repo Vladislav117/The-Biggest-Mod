@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cobe drill", "description": "...", "size": 3, "health": 339, "tier": 2, "drillTime": 10, "consumes": {"power": 5}, "requirements": [{"item": "cobe", "amount": 18}, {"item": "xedo", "amount": 20}, {"item": "syjilanium", "amount": 4}], "research": "cobe-factory", "category": "production"}

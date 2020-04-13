@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ryve battery", "description": "...", "size": 1, "health": 194, "requirements": [{"item": "ryve", "amount": 17}, {"item": "zele", "amount": 19}, {"item": "hymonium", "amount": 10}], "research": "ryve-factory", "consumes": {"powerBuffered": 2169}, "category": "power"}

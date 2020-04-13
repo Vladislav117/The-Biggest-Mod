@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xedo bridge conveyor", "description": "", "health": 40, "range": 15, "speed": 15, "bufferCapacity": 24, "requirements": [{"item": "xedo", "amount": 5}, {"item": "gacy", "amount": 1}], "research": "xedo-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ruve liquid tank", "description": "...", "health": 280, "size": 3, "requirements": [{"item": "ruve", "amount": 6}, {"item": "yafenium", "amount": 4}, {"item": "zesi", "amount": 5}], "research": "ruve-conduit", "category": "liquid", "liquidCapacity": 56682, "hasLiquids": true}

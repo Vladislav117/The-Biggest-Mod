@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "majo bridge conveyor", "description": "", "health": 15, "range": 5, "speed": 3, "bufferCapacity": 22, "requirements": [{"item": "majo", "amount": 3}, {"item": "detadynium", "amount": 2}], "research": "majo-conveyor", "category": "distribution", "size": 1}

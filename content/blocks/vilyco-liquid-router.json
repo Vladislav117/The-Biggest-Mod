@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vilyco liquid router", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "vilyco", "amount": 20}, {"item": "qiti", "amount": 9}, {"item": "wevo", "amount": 7}], "research": "vilyco-conduit", "liquidCapacity": 10, "category": "liquid"}

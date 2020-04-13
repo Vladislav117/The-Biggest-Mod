@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tomufa solar panel", "description": "...", "size": 3, "health": 250, "requirements": [{"item": "tomufa", "amount": 13}, {"item": "garyda", "amount": 13}, {"item": "giha", "amount": 8}], "research": "tomufa-factory", "powerProduction": 1.6217613200581855, "category": "power"}

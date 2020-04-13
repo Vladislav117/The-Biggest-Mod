@@ -1,0 +1,1 @@
+{"type": "junction", "name": "povygy junction", "description": "...", "health": 27, "speed": 20, "capacity": 11, "size": 1, "requirements": [{"item": "povygy", "amount": 4}, {"item": "zydinium", "amount": 3}], "research": "povygy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kimicy solar panel", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "kimicy", "amount": 6}, {"item": "dyme", "amount": 11}, {"item": "pihybo", "amount": 1}], "research": "kimicy-factory", "powerProduction": 2.74999714993378, "category": "power"}

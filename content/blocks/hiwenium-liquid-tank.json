@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hiwenium liquid tank", "description": "...", "health": 133, "size": 3, "requirements": [{"item": "hiwenium", "amount": 15}, {"item": "yoqy", "amount": 10}, {"item": "vygu", "amount": 6}], "research": "hiwenium-conduit", "category": "liquid", "liquidCapacity": 20671, "hasLiquids": true}

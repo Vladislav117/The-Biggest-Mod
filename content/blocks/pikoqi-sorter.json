@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pikoqi sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "pikoqi", "amount": 5}, {"item": "cymaca", "amount": 2}], "research": "pikoqi-conveyor", "category": "distribution", "invert": false}

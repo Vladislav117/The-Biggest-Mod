@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dyri battery", "description": "...", "size": 1, "health": 118, "requirements": [{"item": "dyri", "amount": 16}, {"item": "neminium", "amount": 18}, {"item": "yila", "amount": 2}], "research": "dyri-factory", "consumes": {"powerBuffered": 707}, "category": "power"}

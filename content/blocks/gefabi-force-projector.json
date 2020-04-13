@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "gefabi force projector", "description": "...", "health": 214, "size": 3, "consumes": {"power": 5.0, "item": "gefabi"}, "requirements": [{"item": "gefabi", "amount": 9}, {"item": "yiweyu", "amount": 19}, {"item": "vekile", "amount": 9}], "research": "gefabi-factory", "category": "effect"}

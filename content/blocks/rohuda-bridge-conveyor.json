@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rohuda bridge conveyor", "description": "", "health": 7, "range": 20, "speed": 20, "bufferCapacity": 22, "requirements": [{"item": "rohuda", "amount": 2}, {"item": "jorydy", "amount": 2}], "research": "rohuda-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kynesi conduit", "description": "...", "health": 135, "requirements": [{"item": "kynesi", "amount": 15}, {"item": "pigagunium", "amount": 5}, {"item": "xuryvy", "amount": 6}], "liquidCapacity": 21, "liquidPressure": 2, "research": "kynesi-factory", "category": "liquid"}

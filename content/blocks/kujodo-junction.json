@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kujodo junction", "description": "...", "health": 18, "speed": 1, "capacity": 18, "size": 1, "requirements": [{"item": "kujodo", "amount": 3}, {"item": "gyzuqo", "amount": 5}], "research": "kujodo-conveyor", "category": "distribution"}

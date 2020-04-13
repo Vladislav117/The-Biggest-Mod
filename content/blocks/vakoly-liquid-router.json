@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vakoly liquid router", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "vakoly", "amount": 7}, {"item": "guliyu", "amount": 12}, {"item": "logy", "amount": 8}], "research": "vakoly-conduit", "liquidCapacity": 10, "category": "liquid"}

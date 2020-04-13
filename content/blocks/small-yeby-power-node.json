@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yeby power node", "description": "...", "size": 1, "health": 356, "requirements": [{"item": "yeby", "amount": 12}, {"item": "dyju", "amount": 13}, {"item": "neletanium", "amount": 9}], "research": "yeby-factory", "maxNodes": 26, "laserRange": 22, "category": "power"}

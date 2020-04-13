@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "puqo underflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "puqo", "amount": 5}, {"item": "sahylu", "amount": 4}], "research": "puqo-conveyor", "category": "distribution", "invert": false}

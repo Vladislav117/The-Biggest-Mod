@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gevewu battery", "description": "...", "size": 1, "health": 296, "requirements": [{"item": "gevewu", "amount": 3}, {"item": "rahy", "amount": 18}, {"item": "movanium", "amount": 9}], "research": "gevewu-factory", "consumes": {"powerBuffered": 1275}, "category": "power"}

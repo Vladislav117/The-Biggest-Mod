@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dohyhanium power node", "description": "...", "size": 1, "health": 148, "requirements": [{"item": "dohyhanium", "amount": 9}, {"item": "gexa", "amount": 10}, {"item": "dipewanium", "amount": 4}], "research": "dohyhanium-factory", "maxNodes": 30, "laserRange": 19, "category": "power"}

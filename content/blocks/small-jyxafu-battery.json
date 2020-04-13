@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jyxafu battery", "description": "...", "size": 1, "health": 244, "requirements": [{"item": "jyxafu", "amount": 14}, {"item": "rivy", "amount": 12}, {"item": "xysu", "amount": 4}], "research": "jyxafu-factory", "consumes": {"powerBuffered": 1161}, "category": "power"}

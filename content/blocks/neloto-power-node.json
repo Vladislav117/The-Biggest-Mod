@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "neloto power node", "description": "...", "size": 2, "health": 685, "requirements": [{"item": "neloto", "amount": 16}, {"item": "fyfoni", "amount": 9}, {"item": "nifego", "amount": 10}], "research": "neloto-factory", "maxNodes": 44, "laserRange": 21, "category": "power"}

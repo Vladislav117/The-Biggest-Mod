@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tuxu battery", "description": "...", "size": 3, "health": 286, "requirements": [{"item": "tuxu", "amount": 18}, {"item": "syteja", "amount": 13}, {"item": "hymonium", "amount": 7}], "research": "tuxu-factory", "consumes": {"powerBuffered": 4566}, "category": "power"}

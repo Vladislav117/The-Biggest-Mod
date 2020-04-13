@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "juwomi overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "juwomi", "amount": 1}, {"item": "tymy", "amount": 3}], "research": "juwomi-conveyor", "category": "distribution", "invert": false}

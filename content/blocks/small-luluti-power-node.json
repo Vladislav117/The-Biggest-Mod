@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small luluti power node", "description": "...", "size": 1, "health": 248, "requirements": [{"item": "luluti", "amount": 2}, {"item": "jumy", "amount": 11}, {"item": "kyyuny", "amount": 2}], "research": "luluti-factory", "maxNodes": 23, "laserRange": 21, "category": "power"}

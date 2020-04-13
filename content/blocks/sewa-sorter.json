@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sewa sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "sewa", "amount": 3}, {"item": "dutenium", "amount": 1}], "research": "sewa-conveyor", "category": "distribution", "invert": false}

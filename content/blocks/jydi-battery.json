@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jydi battery", "description": "...", "size": 3, "health": 335, "requirements": [{"item": "jydi", "amount": 9}, {"item": "xini", "amount": 7}, {"item": "liqohy", "amount": 8}], "research": "jydi-factory", "consumes": {"powerBuffered": 6627}, "category": "power"}

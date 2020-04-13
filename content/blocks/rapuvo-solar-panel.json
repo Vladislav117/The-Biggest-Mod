@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rapuvo solar panel", "description": "...", "size": 3, "health": 58, "requirements": [{"item": "rapuvo", "amount": 11}, {"item": "qetyginium", "amount": 16}, {"item": "piwu", "amount": 10}], "research": "rapuvo-factory", "powerProduction": 0.06459710979212704, "category": "power"}

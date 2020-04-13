@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bise overflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "bise", "amount": 5}, {"item": "wecoci", "amount": 3}], "research": "bise-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tuzy junction", "description": "...", "health": 29, "speed": 3, "capacity": 13, "size": 1, "requirements": [{"item": "tuzy", "amount": 2}, {"item": "bajenium", "amount": 2}], "research": "tuzy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "locycanium solar panel", "description": "...", "size": 3, "health": 77, "requirements": [{"item": "locycanium", "amount": 4}, {"item": "vojenium", "amount": 11}, {"item": "mehenium", "amount": 8}], "research": "locycanium-factory", "powerProduction": 2.355104153343966, "category": "power"}

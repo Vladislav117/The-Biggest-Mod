@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vipu liquid tank", "description": "...", "health": 216, "size": 3, "requirements": [{"item": "vipu", "amount": 2}, {"item": "fexenium", "amount": 19}, {"item": "besu", "amount": 6}], "research": "vipu-conduit", "category": "liquid", "liquidCapacity": 99959, "hasLiquids": true}

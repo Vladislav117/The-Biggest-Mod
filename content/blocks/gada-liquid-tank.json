@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gada liquid tank", "description": "...", "health": 464, "size": 3, "requirements": [{"item": "gada", "amount": 12}, {"item": "cosi", "amount": 16}, {"item": "qivohe", "amount": 1}], "research": "gada-conduit", "category": "liquid", "liquidCapacity": 109441, "hasLiquids": true}

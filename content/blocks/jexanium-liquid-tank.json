@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jexanium liquid tank", "description": "...", "health": 602, "size": 3, "requirements": [{"item": "jexanium", "amount": 10}, {"item": "dakiqu", "amount": 8}, {"item": "negi", "amount": 10}], "research": "jexanium-conduit", "category": "liquid", "liquidCapacity": 119464, "hasLiquids": true}

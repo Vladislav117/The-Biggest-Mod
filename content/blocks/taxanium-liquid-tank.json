@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "taxanium liquid tank", "description": "...", "health": 523, "size": 3, "requirements": [{"item": "taxanium", "amount": 18}, {"item": "lynyyi", "amount": 2}, {"item": "tybunium", "amount": 5}], "research": "taxanium-conduit", "category": "liquid", "liquidCapacity": 74045, "hasLiquids": true}

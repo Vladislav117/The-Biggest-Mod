@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hotose bridge conveyor", "description": "", "health": 11, "range": 5, "speed": 11, "bufferCapacity": 24, "requirements": [{"item": "hotose", "amount": 4}, {"item": "picika", "amount": 1}], "research": "hotose-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yudafa battery", "description": "...", "size": 3, "health": 248, "requirements": [{"item": "yudafa", "amount": 18}, {"item": "vocazu", "amount": 4}, {"item": "ryhi", "amount": 2}], "research": "yudafa-factory", "consumes": {"powerBuffered": 8716}, "category": "power"}

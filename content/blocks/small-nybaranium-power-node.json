@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nybaranium power node", "description": "...", "size": 1, "health": 225, "requirements": [{"item": "nybaranium", "amount": 1}, {"item": "yynuqu", "amount": 19}, {"item": "kurecanium", "amount": 4}], "research": "nybaranium-factory", "maxNodes": 11, "laserRange": 3, "category": "power"}

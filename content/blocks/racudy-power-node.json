@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "racudy power node", "description": "...", "size": 2, "health": 371, "requirements": [{"item": "racudy", "amount": 12}, {"item": "xaxe", "amount": 15}, {"item": "yeku", "amount": 9}], "research": "racudy-factory", "maxNodes": 24, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lobojenium junction", "description": "...", "health": 7, "speed": 10, "capacity": 11, "size": 1, "requirements": [{"item": "lobojenium", "amount": 4}, {"item": "jojene", "amount": 1}], "research": "lobojenium-conveyor", "category": "distribution"}

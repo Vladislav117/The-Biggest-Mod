@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vini power node", "description": "...", "size": 2, "health": 85, "requirements": [{"item": "vini", "amount": 16}, {"item": "yuvynium", "amount": 11}, {"item": "vanuhenium", "amount": 6}], "research": "vini-factory", "maxNodes": 60, "laserRange": 30, "category": "power"}

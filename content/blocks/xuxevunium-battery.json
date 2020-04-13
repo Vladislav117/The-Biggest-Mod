@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xuxevunium battery", "description": "...", "size": 3, "health": 156, "requirements": [{"item": "xuxevunium", "amount": 2}, {"item": "yogocu", "amount": 16}, {"item": "lopelu", "amount": 3}], "research": "xuxevunium-factory", "consumes": {"powerBuffered": 8758}, "category": "power"}

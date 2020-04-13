@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xicopo drill", "description": "...", "size": 3, "health": 168, "tier": 4, "drillTime": 4, "consumes": {"power": 16}, "requirements": [{"item": "xicopo", "amount": 7}, {"item": "kamo", "amount": 2}, {"item": "qyha", "amount": 1}], "research": "xicopo-factory", "category": "production"}

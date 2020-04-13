@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tiqa bridge conveyor", "description": "", "health": 1, "range": 9, "speed": 15, "bufferCapacity": 17, "requirements": [{"item": "tiqa", "amount": 1}, {"item": "xedo", "amount": 1}], "research": "tiqa-conveyor", "category": "distribution", "size": 1}

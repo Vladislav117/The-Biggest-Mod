@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jahunium sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "jahunium", "amount": 4}, {"item": "wulyso", "amount": 3}], "research": "jahunium-conveyor", "category": "distribution", "invert": false}

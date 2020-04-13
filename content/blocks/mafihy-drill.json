@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mafihy drill", "description": "...", "size": 2, "health": 127, "tier": 1, "drillTime": 2, "consumes": {"power": 18}, "requirements": [{"item": "mafihy", "amount": 13}, {"item": "puwasy", "amount": 4}, {"item": "qivi", "amount": 9}], "research": "mafihy-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gomola drill", "description": "...", "size": 2, "health": 154, "tier": 1, "drillTime": 17, "consumes": {"power": 1}, "requirements": [{"item": "gomola", "amount": 17}, {"item": "sadani", "amount": 3}, {"item": "lijanium", "amount": 7}], "research": "gomola-factory", "category": "production"}

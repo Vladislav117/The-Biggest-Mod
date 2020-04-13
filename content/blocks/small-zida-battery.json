@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zida battery", "description": "...", "size": 1, "health": 192, "requirements": [{"item": "zida", "amount": 5}, {"item": "qoly", "amount": 2}, {"item": "zoyasi", "amount": 4}], "research": "zida-factory", "consumes": {"powerBuffered": 546}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "genane force projector", "description": "...", "health": 250, "size": 3, "consumes": {"power": 5.0, "item": "genane"}, "requirements": [{"item": "genane", "amount": 18}, {"item": "vygu", "amount": 6}, {"item": "sytafe", "amount": 3}], "research": "genane-factory", "category": "effect"}

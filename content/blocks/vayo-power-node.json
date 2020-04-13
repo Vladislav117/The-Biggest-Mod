@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vayo power node", "description": "...", "size": 2, "health": 62, "requirements": [{"item": "vayo", "amount": 6}, {"item": "sipynium", "amount": 11}, {"item": "doluka", "amount": 3}], "research": "vayo-factory", "maxNodes": 44, "laserRange": 9, "category": "power"}

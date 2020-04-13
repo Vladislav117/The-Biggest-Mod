@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zexuza solar panel", "description": "...", "size": 1, "health": 278, "requirements": [{"item": "zexuza", "amount": 13}, {"item": "paboya", "amount": 5}, {"item": "fokinium", "amount": 10}], "research": "zexuza-factory", "powerProduction": 1.7153172672562123, "category": "power"}

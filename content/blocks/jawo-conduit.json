@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jawo conduit", "description": "...", "health": 95, "requirements": [{"item": "jawo", "amount": 10}, {"item": "xofa", "amount": 9}, {"item": "jylovo", "amount": 7}], "liquidCapacity": 31, "liquidPressure": 1, "research": "jawo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zobopanium inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "zobopanium", "amount": 4}, {"item": "sulu", "amount": 5}], "research": "zobopanium-conveyor", "category": "distribution", "invert": true}

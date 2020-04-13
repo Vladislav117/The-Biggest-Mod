@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "famo liquid tank", "description": "...", "health": 634, "size": 3, "requirements": [{"item": "famo", "amount": 4}, {"item": "zydu", "amount": 17}, {"item": "qupu", "amount": 7}], "research": "famo-conduit", "category": "liquid", "liquidCapacity": 70456, "hasLiquids": true}

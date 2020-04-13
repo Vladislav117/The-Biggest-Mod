@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qetyginium solar panel", "description": "...", "size": 3, "health": 275, "requirements": [{"item": "qetyginium", "amount": 4}, {"item": "wareginium", "amount": 4}, {"item": "fahi", "amount": 8}], "research": "qetyginium-factory", "powerProduction": 0.07721222318256662, "category": "power"}

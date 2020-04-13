@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pino inverted sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "pino", "amount": 4}, {"item": "cokigo", "amount": 4}], "research": "pino-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jicefu battery", "description": "...", "size": 3, "health": 181, "requirements": [{"item": "jicefu", "amount": 20}, {"item": "favunium", "amount": 2}, {"item": "cuhynenium", "amount": 4}], "research": "jicefu-factory", "consumes": {"powerBuffered": 8161}, "category": "power"}

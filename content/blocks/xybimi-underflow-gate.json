@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xybimi underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "xybimi", "amount": 1}, {"item": "futaxunium", "amount": 1}], "research": "xybimi-conveyor", "category": "distribution", "invert": false}

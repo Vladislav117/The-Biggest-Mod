@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qicuwe power node", "description": "...", "size": 2, "health": 116, "requirements": [{"item": "qicuwe", "amount": 20}, {"item": "fybaze", "amount": 10}, {"item": "quda", "amount": 8}], "research": "qicuwe-factory", "maxNodes": 56, "laserRange": 6, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bayice solar panel", "description": "...", "size": 3, "health": 271, "requirements": [{"item": "bayice", "amount": 18}, {"item": "rufi", "amount": 19}, {"item": "zanuja", "amount": 2}], "research": "bayice-factory", "powerProduction": 1.143546479825069, "category": "power"}

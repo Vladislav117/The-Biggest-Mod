@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wopawi liquid tank", "description": "...", "health": 168, "size": 3, "requirements": [{"item": "wopawi", "amount": 14}, {"item": "yemy", "amount": 17}, {"item": "wapo", "amount": 2}], "research": "wopawi-conduit", "category": "liquid", "liquidCapacity": 80351, "hasLiquids": true}

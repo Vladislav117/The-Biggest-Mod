@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cemunium solar panel", "description": "...", "size": 3, "health": 218, "requirements": [{"item": "cemunium", "amount": 14}, {"item": "nijunium", "amount": 15}, {"item": "vodico", "amount": 6}], "research": "cemunium-factory", "powerProduction": 1.9387714486987417, "category": "power"}

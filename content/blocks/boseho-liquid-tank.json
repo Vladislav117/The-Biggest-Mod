@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "boseho liquid tank", "description": "...", "health": 571, "size": 3, "requirements": [{"item": "boseho", "amount": 10}, {"item": "xuze", "amount": 11}, {"item": "myvava", "amount": 7}], "research": "boseho-conduit", "category": "liquid", "liquidCapacity": 2135, "hasLiquids": true}

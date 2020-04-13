@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small finu solar panel", "description": "...", "size": 1, "health": 246, "requirements": [{"item": "finu", "amount": 5}, {"item": "vemame", "amount": 15}, {"item": "qigybynium", "amount": 6}], "research": "finu-factory", "powerProduction": 0.09273169609580731, "category": "power"}

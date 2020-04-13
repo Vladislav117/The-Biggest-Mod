@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nihy battery", "description": "...", "size": 3, "health": 220, "requirements": [{"item": "nihy", "amount": 18}, {"item": "cupedi", "amount": 12}, {"item": "yynuqu", "amount": 9}], "research": "nihy-factory", "consumes": {"powerBuffered": 8797}, "category": "power"}

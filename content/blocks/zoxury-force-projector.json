@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "zoxury force projector", "description": "...", "health": 175, "size": 3, "consumes": {"power": 5.0, "item": "zoxury"}, "requirements": [{"item": "zoxury", "amount": 4}, {"item": "kijyzi", "amount": 6}, {"item": "labonium", "amount": 2}], "research": "zoxury-factory", "category": "effect"}

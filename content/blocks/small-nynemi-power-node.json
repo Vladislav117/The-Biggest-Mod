@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nynemi power node", "description": "...", "size": 1, "health": 128, "requirements": [{"item": "nynemi", "amount": 20}, {"item": "wekami", "amount": 20}, {"item": "jiyomonium", "amount": 9}], "research": "nynemi-factory", "maxNodes": 30, "laserRange": 17, "category": "power"}

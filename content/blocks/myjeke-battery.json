@@ -1,0 +1,1 @@
+{"type": "battery", "name": "myjeke battery", "description": "...", "size": 3, "health": 154, "requirements": [{"item": "myjeke", "amount": 14}, {"item": "xadunium", "amount": 8}, {"item": "cuvino", "amount": 1}], "research": "myjeke-factory", "consumes": {"powerBuffered": 3358}, "category": "power"}

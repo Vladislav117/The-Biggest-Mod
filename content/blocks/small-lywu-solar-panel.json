@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lywu solar panel", "description": "...", "size": 1, "health": 194, "requirements": [{"item": "lywu", "amount": 7}, {"item": "padi", "amount": 11}, {"item": "cyyy", "amount": 2}], "research": "lywu-factory", "powerProduction": 2.3730283833774317, "category": "power"}

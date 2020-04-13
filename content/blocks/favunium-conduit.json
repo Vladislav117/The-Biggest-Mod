@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "favunium conduit", "description": "...", "health": 30, "requirements": [{"item": "favunium", "amount": 2}, {"item": "yijotu", "amount": 3}, {"item": "xexumi", "amount": 3}], "liquidCapacity": 46, "liquidPressure": 0, "research": "favunium-factory", "category": "liquid"}

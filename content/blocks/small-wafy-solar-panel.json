@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wafy solar panel", "description": "...", "size": 1, "health": 18, "requirements": [{"item": "wafy", "amount": 17}, {"item": "xaya", "amount": 5}, {"item": "vesy", "amount": 7}], "research": "wafy-factory", "powerProduction": 8.128313621309482, "category": "power"}

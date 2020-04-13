@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kivomo liquid tank", "description": "...", "health": 633, "size": 3, "requirements": [{"item": "kivomo", "amount": 2}, {"item": "tify", "amount": 16}, {"item": "sojile", "amount": 3}], "research": "kivomo-conduit", "category": "liquid", "liquidCapacity": 114955, "hasLiquids": true}

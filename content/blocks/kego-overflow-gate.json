@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kego overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "kego", "amount": 2}, {"item": "mepysynium", "amount": 2}], "research": "kego-conveyor", "category": "distribution", "invert": false}

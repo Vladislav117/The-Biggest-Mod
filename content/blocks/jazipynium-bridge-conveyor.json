@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jazipynium bridge conveyor", "description": "", "health": 11, "range": 10, "speed": 7, "bufferCapacity": 14, "requirements": [{"item": "jazipynium", "amount": 3}, {"item": "vocazu", "amount": 1}], "research": "jazipynium-conveyor", "category": "distribution", "size": 1}

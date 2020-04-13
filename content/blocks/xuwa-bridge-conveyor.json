@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xuwa bridge conveyor", "description": "", "health": 27, "range": 5, "speed": 11, "bufferCapacity": 6, "requirements": [{"item": "xuwa", "amount": 5}, {"item": "rebugunium", "amount": 4}], "research": "xuwa-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "misu conduit", "description": "...", "health": 143, "requirements": [{"item": "misu", "amount": 15}, {"item": "haxi", "amount": 5}, {"item": "kujodo", "amount": 5}], "liquidCapacity": 46, "liquidPressure": 9, "research": "misu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nazyfa power node", "description": "...", "size": 2, "health": 340, "requirements": [{"item": "nazyfa", "amount": 6}, {"item": "kuyome", "amount": 14}, {"item": "zoju", "amount": 10}], "research": "nazyfa-factory", "maxNodes": 56, "laserRange": 11, "category": "power"}

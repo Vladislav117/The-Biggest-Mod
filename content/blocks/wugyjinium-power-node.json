@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wugyjinium power node", "description": "...", "size": 2, "health": 559, "requirements": [{"item": "wugyjinium", "amount": 13}, {"item": "vayixo", "amount": 15}, {"item": "hyla", "amount": 5}], "research": "wugyjinium-factory", "maxNodes": 32, "laserRange": 17, "category": "power"}

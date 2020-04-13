@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cupo conduit", "description": "...", "health": 60, "requirements": [{"item": "cupo", "amount": 13}, {"item": "lyzy", "amount": 10}, {"item": "qera", "amount": 1}], "liquidCapacity": 24, "liquidPressure": 2, "research": "cupo-factory", "category": "liquid"}

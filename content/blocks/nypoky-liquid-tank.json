@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nypoky liquid tank", "description": "...", "health": 458, "size": 3, "requirements": [{"item": "nypoky", "amount": 11}, {"item": "cuwe", "amount": 13}, {"item": "qayanium", "amount": 3}], "research": "nypoky-conduit", "category": "liquid", "liquidCapacity": 116579, "hasLiquids": true}

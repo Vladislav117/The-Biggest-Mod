@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ryheco solar panel", "description": "...", "size": 3, "health": 196, "requirements": [{"item": "ryheco", "amount": 20}, {"item": "peze", "amount": 2}, {"item": "hisoye", "amount": 4}], "research": "ryheco-factory", "powerProduction": 0.11892541883287677, "category": "power"}

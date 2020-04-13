@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qiwise power node", "description": "...", "size": 2, "health": 653, "requirements": [{"item": "qiwise", "amount": 1}, {"item": "jetu", "amount": 12}, {"item": "teza", "amount": 9}], "research": "qiwise-factory", "maxNodes": 39, "laserRange": 10, "category": "power"}

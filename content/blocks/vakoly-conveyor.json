@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "vakoly conveyor", "description": "...", "health": 176, "requirements": [{"item": "vakoly", "amount": 5}, {"item": "nipapu", "amount": 9}], "speed": 0.2124468257881098, "research": "vakoly-factory", "category": "distribution"}

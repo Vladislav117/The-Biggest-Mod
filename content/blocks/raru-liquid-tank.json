@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "raru liquid tank", "description": "...", "health": 270, "size": 3, "requirements": [{"item": "raru", "amount": 6}, {"item": "rajubanium", "amount": 1}, {"item": "sarijynium", "amount": 7}], "research": "raru-conduit", "category": "liquid", "liquidCapacity": 23968, "hasLiquids": true}

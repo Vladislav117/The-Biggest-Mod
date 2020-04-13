@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vaxa underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "vaxa", "amount": 4}, {"item": "qivohe", "amount": 5}], "research": "vaxa-conveyor", "category": "distribution", "invert": false}

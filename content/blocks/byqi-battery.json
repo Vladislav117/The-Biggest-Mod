@@ -1,0 +1,1 @@
+{"type": "battery", "name": "byqi battery", "description": "...", "size": 3, "health": 356, "requirements": [{"item": "byqi", "amount": 18}, {"item": "wuvonium", "amount": 7}, {"item": "kufuvunium", "amount": 2}], "research": "byqi-factory", "consumes": {"powerBuffered": 3167}, "category": "power"}

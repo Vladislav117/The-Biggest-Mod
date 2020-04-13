@@ -1,0 +1,1 @@
+{"type": "battery", "name": "taze battery", "description": "...", "size": 3, "health": 241, "requirements": [{"item": "taze", "amount": 15}, {"item": "lidinium", "amount": 18}, {"item": "vocile", "amount": 9}], "research": "taze-factory", "consumes": {"powerBuffered": 3423}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "goti power node", "description": "...", "size": 2, "health": 456, "requirements": [{"item": "goti", "amount": 18}, {"item": "sofowo", "amount": 17}, {"item": "qovy", "amount": 8}], "research": "goti-factory", "maxNodes": 39, "laserRange": 16, "category": "power"}

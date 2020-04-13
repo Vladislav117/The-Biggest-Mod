@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tobu liquid tank", "description": "...", "health": 603, "size": 3, "requirements": [{"item": "tobu", "amount": 4}, {"item": "gihalu", "amount": 15}, {"item": "winyjo", "amount": 8}], "research": "tobu-conduit", "category": "liquid", "liquidCapacity": 101392, "hasLiquids": true}

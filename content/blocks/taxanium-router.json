@@ -1,0 +1,1 @@
+{"type": "router", "name": "taxanium router", "description": "...", "health": 174, "size": 1, "requirements": [{"item": "taxanium", "amount": 8}], "research": "taxanium-conveyor", "category": "distribution"}

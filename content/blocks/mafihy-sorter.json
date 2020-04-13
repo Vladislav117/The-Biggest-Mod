@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mafihy sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "mafihy", "amount": 1}, {"item": "xuzy", "amount": 5}], "research": "mafihy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tewe underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "tewe", "amount": 4}, {"item": "tobu", "amount": 1}], "research": "tewe-conveyor", "category": "distribution", "invert": false}

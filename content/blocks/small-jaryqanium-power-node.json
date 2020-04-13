@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jaryqanium power node", "description": "...", "size": 1, "health": 183, "requirements": [{"item": "jaryqanium", "amount": 7}, {"item": "vapa", "amount": 10}, {"item": "rysenium", "amount": 6}], "research": "jaryqanium-factory", "maxNodes": 4, "laserRange": 12, "category": "power"}

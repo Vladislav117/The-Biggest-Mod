@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sowy overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "sowy", "amount": 4}, {"item": "nitinium", "amount": 2}], "research": "sowy-conveyor", "category": "distribution", "invert": false}

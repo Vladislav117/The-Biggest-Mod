@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "maqa overflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "maqa", "amount": 1}, {"item": "wutigo", "amount": 5}], "research": "maqa-conveyor", "category": "distribution", "invert": false}

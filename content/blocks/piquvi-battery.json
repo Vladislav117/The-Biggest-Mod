@@ -1,0 +1,1 @@
+{"type": "battery", "name": "piquvi battery", "description": "...", "size": 3, "health": 105, "requirements": [{"item": "piquvi", "amount": 1}, {"item": "mifynium", "amount": 13}, {"item": "rodi", "amount": 2}], "research": "piquvi-factory", "consumes": {"powerBuffered": 600}, "category": "power"}

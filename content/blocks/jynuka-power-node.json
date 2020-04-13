@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jynuka power node", "description": "...", "size": 2, "health": 784, "requirements": [{"item": "jynuka", "amount": 20}, {"item": "renyyy", "amount": 2}, {"item": "cahi", "amount": 2}], "research": "jynuka-factory", "maxNodes": 60, "laserRange": 6, "category": "power"}

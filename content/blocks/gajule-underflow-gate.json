@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gajule underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "gajule", "amount": 5}, {"item": "yoxyzo", "amount": 3}], "research": "gajule-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pohyva drill", "description": "...", "size": 2, "health": 229, "tier": 4, "drillTime": 17, "consumes": {"power": 6}, "requirements": [{"item": "pohyva", "amount": 19}, {"item": "jaweki", "amount": 10}, {"item": "haqu", "amount": 3}], "research": "pohyva-factory", "category": "production"}

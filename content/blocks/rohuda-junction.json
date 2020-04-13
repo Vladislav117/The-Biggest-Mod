@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rohuda junction", "description": "...", "health": 34, "speed": 18, "capacity": 6, "size": 1, "requirements": [{"item": "rohuda", "amount": 2}, {"item": "cyri", "amount": 4}], "research": "rohuda-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "foze inverted sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "foze", "amount": 5}, {"item": "qudeya", "amount": 5}], "research": "foze-conveyor", "category": "distribution", "invert": true}

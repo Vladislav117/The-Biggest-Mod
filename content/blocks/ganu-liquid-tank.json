@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ganu liquid tank", "description": "...", "health": 639, "size": 3, "requirements": [{"item": "ganu", "amount": 11}, {"item": "sumu", "amount": 18}, {"item": "besivi", "amount": 7}], "research": "ganu-conduit", "category": "liquid", "liquidCapacity": 118410, "hasLiquids": true}

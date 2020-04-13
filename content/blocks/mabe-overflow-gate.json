@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mabe overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "mabe", "amount": 1}, {"item": "yukoni", "amount": 1}], "research": "mabe-conveyor", "category": "distribution", "invert": false}

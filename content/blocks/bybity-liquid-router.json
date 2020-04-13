@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bybity liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "bybity", "amount": 17}, {"item": "mefymanium", "amount": 11}, {"item": "tezila", "amount": 1}], "research": "bybity-conduit", "liquidCapacity": 10, "category": "liquid"}

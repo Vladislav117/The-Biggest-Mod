@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rovo conduit", "description": "...", "health": 84, "requirements": [{"item": "rovo", "amount": 8}, {"item": "lahydo", "amount": 2}, {"item": "jayaye", "amount": 3}], "liquidCapacity": 24, "liquidPressure": 6, "research": "rovo-factory", "category": "liquid"}

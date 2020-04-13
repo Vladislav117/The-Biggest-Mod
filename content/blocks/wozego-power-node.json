@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wozego power node", "description": "...", "size": 2, "health": 504, "requirements": [{"item": "wozego", "amount": 14}, {"item": "xurenium", "amount": 12}, {"item": "sexinium", "amount": 5}], "research": "wozego-factory", "maxNodes": 58, "laserRange": 21, "category": "power"}

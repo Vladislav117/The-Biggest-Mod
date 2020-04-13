@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nefanium conduit", "description": "...", "health": 188, "requirements": [{"item": "nefanium", "amount": 11}, {"item": "cymaca", "amount": 13}, {"item": "mygo", "amount": 5}], "liquidCapacity": 17, "liquidPressure": 10, "research": "nefanium-factory", "category": "liquid"}

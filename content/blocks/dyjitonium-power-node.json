@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dyjitonium power node", "description": "...", "size": 2, "health": 607, "requirements": [{"item": "dyjitonium", "amount": 5}, {"item": "kuteme", "amount": 14}, {"item": "cujori", "amount": 1}], "research": "dyjitonium-factory", "maxNodes": 32, "laserRange": 20, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dela liquid tank", "description": "...", "health": 363, "size": 3, "requirements": [{"item": "dela", "amount": 13}, {"item": "tyso", "amount": 5}, {"item": "rucoxenium", "amount": 3}], "research": "dela-conduit", "category": "liquid", "liquidCapacity": 81309, "hasLiquids": true}

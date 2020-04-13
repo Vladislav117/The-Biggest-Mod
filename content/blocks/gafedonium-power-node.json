@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gafedonium power node", "description": "...", "size": 2, "health": 406, "requirements": [{"item": "gafedonium", "amount": 7}, {"item": "dere", "amount": 1}, {"item": "kesyginium", "amount": 6}], "research": "gafedonium-factory", "maxNodes": 36, "laserRange": 22, "category": "power"}

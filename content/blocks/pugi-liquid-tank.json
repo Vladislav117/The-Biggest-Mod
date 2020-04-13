@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pugi liquid tank", "description": "...", "health": 280, "size": 3, "requirements": [{"item": "pugi", "amount": 19}, {"item": "tyzonium", "amount": 14}, {"item": "sukiji", "amount": 9}], "research": "pugi-conduit", "category": "liquid", "liquidCapacity": 32661, "hasLiquids": true}

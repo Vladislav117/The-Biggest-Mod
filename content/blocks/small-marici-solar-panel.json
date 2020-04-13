@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small marici solar panel", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "marici", "amount": 17}, {"item": "vosixe", "amount": 12}, {"item": "jywupa", "amount": 10}], "research": "marici-factory", "powerProduction": 13.263290112937288, "category": "power"}

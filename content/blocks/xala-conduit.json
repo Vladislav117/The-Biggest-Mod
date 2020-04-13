@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xala conduit", "description": "...", "health": 98, "requirements": [{"item": "xala", "amount": 10}, {"item": "dyhyzy", "amount": 20}, {"item": "yafenium", "amount": 4}], "liquidCapacity": 3, "liquidPressure": 2, "research": "xala-factory", "category": "liquid"}

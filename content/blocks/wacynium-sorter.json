@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wacynium sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "wacynium", "amount": 2}, {"item": "qyry", "amount": 1}], "research": "wacynium-conveyor", "category": "distribution", "invert": false}

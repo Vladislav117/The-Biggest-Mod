@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vinizy battery", "description": "...", "size": 1, "health": 211, "requirements": [{"item": "vinizy", "amount": 4}, {"item": "lunido", "amount": 16}, {"item": "zexi", "amount": 6}], "research": "vinizy-factory", "consumes": {"powerBuffered": 2433}, "category": "power"}

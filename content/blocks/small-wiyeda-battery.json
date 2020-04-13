@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wiyeda battery", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "wiyeda", "amount": 7}, {"item": "lilyro", "amount": 10}, {"item": "leviye", "amount": 2}], "research": "wiyeda-factory", "consumes": {"powerBuffered": 218}, "category": "power"}

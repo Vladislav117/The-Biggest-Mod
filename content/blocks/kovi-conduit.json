@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kovi conduit", "description": "...", "health": 34, "requirements": [{"item": "kovi", "amount": 13}, {"item": "vivunium", "amount": 6}, {"item": "kuwo", "amount": 4}], "liquidCapacity": 37, "liquidPressure": 6, "research": "kovi-factory", "category": "liquid"}

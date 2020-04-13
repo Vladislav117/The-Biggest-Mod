@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dejoqonium power node", "description": "...", "size": 1, "health": 328, "requirements": [{"item": "dejoqonium", "amount": 6}, {"item": "dejoqonium", "amount": 8}, {"item": "phase-fabric", "amount": 1}], "research": "dejoqonium-factory", "maxNodes": 4, "laserRange": 8, "category": "power"}

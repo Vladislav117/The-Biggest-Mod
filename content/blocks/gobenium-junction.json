@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gobenium junction", "description": "...", "health": 22, "speed": 9, "capacity": 17, "size": 1, "requirements": [{"item": "gobenium", "amount": 2}, {"item": "yyko", "amount": 5}], "research": "gobenium-conveyor", "category": "distribution"}

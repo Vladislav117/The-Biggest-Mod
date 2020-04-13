@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuso liquid tank", "description": "...", "health": 563, "size": 3, "requirements": [{"item": "cuso", "amount": 18}, {"item": "favunium", "amount": 20}, {"item": "thorium", "amount": 5}], "research": "cuso-conduit", "category": "liquid", "liquidCapacity": 70845, "hasLiquids": true}

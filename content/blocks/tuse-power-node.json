@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tuse power node", "description": "...", "size": 2, "health": 335, "requirements": [{"item": "tuse", "amount": 20}, {"item": "zoqa", "amount": 3}, {"item": "myvedi", "amount": 1}], "research": "tuse-factory", "maxNodes": 20, "laserRange": 8, "category": "power"}

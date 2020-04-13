@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fejenium conduit", "description": "...", "health": 188, "requirements": [{"item": "fejenium", "amount": 13}, {"item": "byyu", "amount": 1}, {"item": "wekonium", "amount": 9}], "liquidCapacity": 15, "liquidPressure": 1, "research": "fejenium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xejo battery", "description": "...", "size": 1, "health": 398, "requirements": [{"item": "xejo", "amount": 8}, {"item": "takyhonium", "amount": 11}, {"item": "hurula", "amount": 7}], "research": "xejo-factory", "consumes": {"powerBuffered": 2993}, "category": "power"}

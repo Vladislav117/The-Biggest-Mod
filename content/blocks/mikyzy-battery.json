@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mikyzy battery", "description": "...", "size": 3, "health": 218, "requirements": [{"item": "mikyzy", "amount": 14}, {"item": "zemyca", "amount": 20}, {"item": "niba", "amount": 3}], "research": "mikyzy-factory", "consumes": {"powerBuffered": 2381}, "category": "power"}

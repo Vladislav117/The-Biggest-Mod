@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "giyafynium inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "giyafynium", "amount": 3}, {"item": "hozanium", "amount": 3}], "research": "giyafynium-conveyor", "category": "distribution", "invert": true}

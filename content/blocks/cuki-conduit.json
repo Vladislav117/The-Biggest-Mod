@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cuki conduit", "description": "...", "health": 134, "requirements": [{"item": "cuki", "amount": 16}, {"item": "pozilonium", "amount": 9}, {"item": "pivojunium", "amount": 8}], "liquidCapacity": 48, "liquidPressure": 4, "research": "cuki-factory", "category": "liquid"}

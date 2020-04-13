@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jisy liquid tank", "description": "...", "health": 584, "size": 3, "requirements": [{"item": "jisy", "amount": 5}, {"item": "cupo", "amount": 3}, {"item": "teneyy", "amount": 10}], "research": "jisy-conduit", "category": "liquid", "liquidCapacity": 37373, "hasLiquids": true}

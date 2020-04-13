@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "hakenium conveyor", "description": "...", "health": 23, "requirements": [{"item": "hakenium", "amount": 6}, {"item": "julynium", "amount": 6}], "speed": 0.4068364198311207, "research": "hakenium-factory", "category": "distribution"}

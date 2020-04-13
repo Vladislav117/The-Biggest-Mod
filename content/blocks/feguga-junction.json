@@ -1,0 +1,1 @@
+{"type": "junction", "name": "feguga junction", "description": "...", "health": 12, "speed": 20, "capacity": 7, "size": 1, "requirements": [{"item": "feguga", "amount": 5}, {"item": "dugy", "amount": 2}], "research": "feguga-conveyor", "category": "distribution"}

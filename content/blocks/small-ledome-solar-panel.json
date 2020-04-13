@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ledome solar panel", "description": "...", "size": 1, "health": 301, "requirements": [{"item": "ledome", "amount": 19}, {"item": "xeza", "amount": 10}, {"item": "mytati", "amount": 8}], "research": "ledome-factory", "powerProduction": 0.7798293743182554, "category": "power"}

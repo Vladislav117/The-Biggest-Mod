@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nymopu overflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "nymopu", "amount": 2}, {"item": "hyte", "amount": 4}], "research": "nymopu-conveyor", "category": "distribution", "invert": false}

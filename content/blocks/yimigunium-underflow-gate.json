@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yimigunium underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "yimigunium", "amount": 4}, {"item": "quyina", "amount": 2}], "research": "yimigunium-conveyor", "category": "distribution", "invert": false}

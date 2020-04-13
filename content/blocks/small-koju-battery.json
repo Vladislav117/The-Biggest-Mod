@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small koju battery", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "koju", "amount": 7}, {"item": "netonium", "amount": 4}, {"item": "ciqi", "amount": 1}], "research": "koju-factory", "consumes": {"powerBuffered": 1885}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vakoly solar panel", "description": "...", "size": 3, "health": 49, "requirements": [{"item": "vakoly", "amount": 16}, {"item": "piny", "amount": 10}, {"item": "ruqako", "amount": 10}], "research": "vakoly-factory", "powerProduction": 0.09646280555786758, "category": "power"}

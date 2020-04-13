@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zufi solar panel", "description": "...", "size": 1, "health": 177, "requirements": [{"item": "zufi", "amount": 18}, {"item": "ravynium", "amount": 6}, {"item": "sybo", "amount": 2}], "research": "zufi-factory", "powerProduction": 1.6331916728467049, "category": "power"}

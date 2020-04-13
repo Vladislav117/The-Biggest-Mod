@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sirogi sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "sirogi", "amount": 5}, {"item": "yudu", "amount": 4}], "research": "sirogi-conveyor", "category": "distribution", "invert": false}

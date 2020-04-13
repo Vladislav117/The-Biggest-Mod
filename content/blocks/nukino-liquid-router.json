@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nukino liquid router", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "nukino", "amount": 3}, {"item": "gihalu", "amount": 4}, {"item": "nynoyu", "amount": 9}], "research": "nukino-conduit", "liquidCapacity": 10, "category": "liquid"}

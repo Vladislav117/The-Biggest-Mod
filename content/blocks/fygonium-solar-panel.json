@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fygonium solar panel", "description": "...", "size": 3, "health": 23, "requirements": [{"item": "fygonium", "amount": 14}, {"item": "jywupa", "amount": 20}, {"item": "jigame", "amount": 8}], "research": "fygonium-factory", "powerProduction": 11.762411788679227, "category": "power"}

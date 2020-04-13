@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dayumo solar panel", "description": "...", "size": 3, "health": 375, "requirements": [{"item": "dayumo", "amount": 19}, {"item": "temi", "amount": 7}, {"item": "nusenium", "amount": 5}], "research": "dayumo-factory", "powerProduction": 0.5547919038950095, "category": "power"}

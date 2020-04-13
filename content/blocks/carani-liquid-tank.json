@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "carani liquid tank", "description": "...", "health": 248, "size": 3, "requirements": [{"item": "carani", "amount": 12}, {"item": "cuso", "amount": 3}, {"item": "ciqi", "amount": 6}], "research": "carani-conduit", "category": "liquid", "liquidCapacity": 5413, "hasLiquids": true}

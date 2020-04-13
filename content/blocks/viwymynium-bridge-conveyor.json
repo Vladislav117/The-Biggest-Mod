@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "viwymynium bridge conveyor", "description": "", "health": 35, "range": 14, "speed": 2, "bufferCapacity": 21, "requirements": [{"item": "viwymynium", "amount": 4}, {"item": "joqopy", "amount": 1}], "research": "viwymynium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zofeya liquid tank", "description": "...", "health": 412, "size": 3, "requirements": [{"item": "zofeya", "amount": 15}, {"item": "peze", "amount": 19}, {"item": "dijo", "amount": 8}], "research": "zofeya-conduit", "category": "liquid", "liquidCapacity": 52720, "hasLiquids": true}

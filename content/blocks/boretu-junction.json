@@ -1,0 +1,1 @@
+{"type": "junction", "name": "boretu junction", "description": "...", "health": 36, "speed": 17, "capacity": 17, "size": 1, "requirements": [{"item": "boretu", "amount": 2}, {"item": "pele", "amount": 4}], "research": "boretu-conveyor", "category": "distribution"}

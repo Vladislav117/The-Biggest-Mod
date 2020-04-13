@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cenu liquid tank", "description": "...", "health": 204, "size": 3, "requirements": [{"item": "cenu", "amount": 5}, {"item": "qaty", "amount": 4}, {"item": "wojenium", "amount": 4}], "research": "cenu-conduit", "category": "liquid", "liquidCapacity": 43418, "hasLiquids": true}

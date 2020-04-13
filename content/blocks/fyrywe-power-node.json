@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fyrywe power node", "description": "...", "size": 2, "health": 387, "requirements": [{"item": "fyrywe", "amount": 14}, {"item": "zuvuze", "amount": 7}, {"item": "ceho", "amount": 7}], "research": "fyrywe-factory", "maxNodes": 43, "laserRange": 30, "category": "power"}

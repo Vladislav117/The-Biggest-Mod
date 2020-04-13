@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hewupenium battery", "description": "...", "size": 3, "health": 41, "requirements": [{"item": "hewupenium", "amount": 2}, {"item": "cavuyi", "amount": 7}, {"item": "cejuru", "amount": 10}], "research": "hewupenium-factory", "consumes": {"powerBuffered": 6392}, "category": "power"}

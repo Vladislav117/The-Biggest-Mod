@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wipori overflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "wipori", "amount": 5}, {"item": "harugenium", "amount": 1}], "research": "wipori-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qiqo solar panel", "description": "...", "size": 3, "health": 113, "requirements": [{"item": "qiqo", "amount": 17}, {"item": "miqomy", "amount": 17}, {"item": "daryki", "amount": 9}], "research": "qiqo-factory", "powerProduction": 0.06878722168603392, "category": "power"}

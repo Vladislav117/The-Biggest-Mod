@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hebe solar panel", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "hebe", "amount": 3}, {"item": "macixy", "amount": 11}, {"item": "xemynium", "amount": 6}], "research": "hebe-factory", "powerProduction": 2.741885261765547, "category": "power"}

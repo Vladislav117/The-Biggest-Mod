@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qawi battery", "description": "...", "size": 3, "health": 256, "requirements": [{"item": "qawi", "amount": 15}, {"item": "xavinium", "amount": 14}, {"item": "monu", "amount": 2}], "research": "qawi-factory", "consumes": {"powerBuffered": 8134}, "category": "power"}

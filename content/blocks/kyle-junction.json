@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kyle junction", "description": "...", "health": 20, "speed": 7, "capacity": 16, "size": 1, "requirements": [{"item": "kyle", "amount": 4}, {"item": "donysenium", "amount": 1}], "research": "kyle-conveyor", "category": "distribution"}

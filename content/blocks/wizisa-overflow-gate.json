@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wizisa overflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "wizisa", "amount": 4}, {"item": "besu", "amount": 4}], "research": "wizisa-conveyor", "category": "distribution", "invert": false}

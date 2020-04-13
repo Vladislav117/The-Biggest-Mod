@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xihu power node", "description": "...", "size": 2, "health": 303, "requirements": [{"item": "xihu", "amount": 20}, {"item": "pedy", "amount": 7}, {"item": "qopaye", "amount": 9}], "research": "xihu-factory", "maxNodes": 16, "laserRange": 24, "category": "power"}

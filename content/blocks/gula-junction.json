@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gula junction", "description": "...", "health": 26, "speed": 16, "capacity": 19, "size": 1, "requirements": [{"item": "gula", "amount": 4}, {"item": "fure", "amount": 2}], "research": "gula-conveyor", "category": "distribution"}

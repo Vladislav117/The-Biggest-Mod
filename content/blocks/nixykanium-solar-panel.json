@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nixykanium solar panel", "description": "...", "size": 3, "health": 283, "requirements": [{"item": "nixykanium", "amount": 10}, {"item": "boqi", "amount": 3}, {"item": "mote", "amount": 5}], "research": "nixykanium-factory", "powerProduction": 0.26361522108788443, "category": "power"}

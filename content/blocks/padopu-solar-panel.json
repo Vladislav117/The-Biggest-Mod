@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "padopu solar panel", "description": "...", "size": 3, "health": 251, "requirements": [{"item": "padopu", "amount": 1}, {"item": "furazinium", "amount": 17}, {"item": "mepunium", "amount": 5}], "research": "padopu-factory", "powerProduction": 3.1754068453424744, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wupoxy inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "wupoxy", "amount": 3}, {"item": "goti", "amount": 5}], "research": "wupoxy-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "minoxa liquid tank", "description": "...", "health": 177, "size": 3, "requirements": [{"item": "minoxa", "amount": 13}, {"item": "duvadi", "amount": 15}, {"item": "neby", "amount": 1}], "research": "minoxa-conduit", "category": "liquid", "liquidCapacity": 88203, "hasLiquids": true}

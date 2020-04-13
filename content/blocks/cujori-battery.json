@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cujori battery", "description": "...", "size": 3, "health": 48, "requirements": [{"item": "cujori", "amount": 12}, {"item": "muremi", "amount": 13}, {"item": "qigine", "amount": 4}], "research": "cujori-factory", "consumes": {"powerBuffered": 2452}, "category": "power"}

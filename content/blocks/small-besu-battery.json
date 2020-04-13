@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small besu battery", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "besu", "amount": 20}, {"item": "xynice", "amount": 3}, {"item": "viqamo", "amount": 6}], "research": "besu-factory", "consumes": {"powerBuffered": 1958}, "category": "power"}

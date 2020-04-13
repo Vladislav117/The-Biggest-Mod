@@ -1,0 +1,1 @@
+{"type": "battery", "name": "roky battery", "description": "...", "size": 3, "health": 134, "requirements": [{"item": "roky", "amount": 13}, {"item": "tiwyna", "amount": 4}, {"item": "haxi", "amount": 9}], "research": "roky-factory", "consumes": {"powerBuffered": 9622}, "category": "power"}

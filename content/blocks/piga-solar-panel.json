@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "piga solar panel", "description": "...", "size": 3, "health": 234, "requirements": [{"item": "piga", "amount": 15}, {"item": "rutiri", "amount": 12}, {"item": "gizomanium", "amount": 2}], "research": "piga-factory", "powerProduction": 1.937531293918058, "category": "power"}

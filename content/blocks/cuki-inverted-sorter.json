@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cuki inverted sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "cuki", "amount": 5}, {"item": "cuki", "amount": 2}], "research": "cuki-conveyor", "category": "distribution", "invert": true}

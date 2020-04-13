@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "caye inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "caye", "amount": 4}, {"item": "fyte", "amount": 1}], "research": "caye-conveyor", "category": "distribution", "invert": true}

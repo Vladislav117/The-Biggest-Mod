@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ribuge underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "ribuge", "amount": 1}, {"item": "monu", "amount": 4}], "research": "ribuge-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zaqenium power node", "description": "...", "size": 1, "health": 224, "requirements": [{"item": "zaqenium", "amount": 17}, {"item": "movibi", "amount": 6}, {"item": "hetyjo", "amount": 10}], "research": "zaqenium-factory", "maxNodes": 16, "laserRange": 22, "category": "power"}

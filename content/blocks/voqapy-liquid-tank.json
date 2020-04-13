@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "voqapy liquid tank", "description": "...", "health": 236, "size": 3, "requirements": [{"item": "voqapy", "amount": 5}, {"item": "zydu", "amount": 8}, {"item": "hezinium", "amount": 6}], "research": "voqapy-conduit", "category": "liquid", "liquidCapacity": 59259, "hasLiquids": true}

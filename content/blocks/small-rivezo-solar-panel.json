@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rivezo solar panel", "description": "...", "size": 1, "health": 236, "requirements": [{"item": "rivezo", "amount": 19}, {"item": "dituna", "amount": 9}, {"item": "botynium", "amount": 9}], "research": "rivezo-factory", "powerProduction": 4.350037396758441, "category": "power"}

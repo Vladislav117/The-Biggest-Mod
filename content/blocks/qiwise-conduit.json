@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qiwise conduit", "description": "...", "health": 89, "requirements": [{"item": "qiwise", "amount": 14}, {"item": "nagu", "amount": 19}, {"item": "turuky", "amount": 9}], "liquidCapacity": 20, "liquidPressure": 3, "research": "qiwise-factory", "category": "liquid"}

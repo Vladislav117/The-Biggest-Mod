@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vodynium underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "vodynium", "amount": 1}, {"item": "ryte", "amount": 3}], "research": "vodynium-conveyor", "category": "distribution", "invert": false}

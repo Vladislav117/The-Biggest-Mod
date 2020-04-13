@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tewo conduit", "description": "...", "health": 120, "requirements": [{"item": "tewo", "amount": 12}, {"item": "zija", "amount": 1}, {"item": "plastanium", "amount": 2}], "liquidCapacity": 29, "liquidPressure": 7, "research": "tewo-factory", "category": "liquid"}

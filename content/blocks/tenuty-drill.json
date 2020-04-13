@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tenuty drill", "description": "...", "size": 2, "health": 193, "tier": 1, "drillTime": 7, "consumes": {"power": 11}, "requirements": [{"item": "tenuty", "amount": 15}, {"item": "yisupe", "amount": 14}, {"item": "qovy", "amount": 6}], "research": "tenuty-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zyjyqenium drill", "description": "...", "size": 4, "health": 350, "tier": 3, "drillTime": 3, "consumes": {"power": 11}, "requirements": [{"item": "zyjyqenium", "amount": 15}, {"item": "waje", "amount": 11}, {"item": "wutize", "amount": 7}], "research": "zyjyqenium-factory", "category": "production"}

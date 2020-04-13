@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cucaso conduit", "description": "...", "health": 117, "requirements": [{"item": "cucaso", "amount": 8}, {"item": "yijotu", "amount": 5}, {"item": "xejo", "amount": 10}], "liquidCapacity": 24, "liquidPressure": 1, "research": "cucaso-factory", "category": "liquid"}

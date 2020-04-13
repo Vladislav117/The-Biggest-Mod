@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vety solar panel", "description": "...", "size": 3, "health": 21, "requirements": [{"item": "vety", "amount": 12}, {"item": "jepumi", "amount": 7}, {"item": "fasi", "amount": 10}], "research": "vety-factory", "powerProduction": 2.6780749544487334, "category": "power"}

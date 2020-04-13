@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nybaranium battery", "description": "...", "size": 3, "health": 305, "requirements": [{"item": "nybaranium", "amount": 11}, {"item": "yikynium", "amount": 12}, {"item": "dojynium", "amount": 6}], "research": "nybaranium-factory", "consumes": {"powerBuffered": 8110}, "category": "power"}

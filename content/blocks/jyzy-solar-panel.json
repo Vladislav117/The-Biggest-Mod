@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jyzy solar panel", "description": "...", "size": 3, "health": 162, "requirements": [{"item": "jyzy", "amount": 4}, {"item": "gaxunium", "amount": 10}, {"item": "cymaca", "amount": 3}], "research": "jyzy-factory", "powerProduction": 0.7379110163663686, "category": "power"}

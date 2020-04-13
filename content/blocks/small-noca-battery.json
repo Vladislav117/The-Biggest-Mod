@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small noca battery", "description": "...", "size": 1, "health": 387, "requirements": [{"item": "noca", "amount": 6}, {"item": "qusy", "amount": 14}, {"item": "locycanium", "amount": 8}], "research": "noca-factory", "consumes": {"powerBuffered": 1112}, "category": "power"}

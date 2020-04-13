@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qifu power node", "description": "...", "size": 2, "health": 430, "requirements": [{"item": "qifu", "amount": 12}, {"item": "baxy", "amount": 13}, {"item": "hisoye", "amount": 4}], "research": "qifu-factory", "maxNodes": 11, "laserRange": 27, "category": "power"}

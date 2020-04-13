@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wygy junction", "description": "...", "health": 33, "speed": 19, "capacity": 19, "size": 1, "requirements": [{"item": "wygy", "amount": 4}, {"item": "hihunium", "amount": 4}], "research": "wygy-conveyor", "category": "distribution"}

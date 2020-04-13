@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "doce power node", "description": "...", "size": 2, "health": 295, "requirements": [{"item": "doce", "amount": 12}, {"item": "viqamo", "amount": 9}, {"item": "pele", "amount": 9}], "research": "doce-factory", "maxNodes": 54, "laserRange": 5, "category": "power"}

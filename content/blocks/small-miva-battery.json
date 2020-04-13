@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small miva battery", "description": "...", "size": 1, "health": 356, "requirements": [{"item": "miva", "amount": 1}, {"item": "difyyi", "amount": 18}, {"item": "xepe", "amount": 1}], "research": "miva-factory", "consumes": {"powerBuffered": 1602}, "category": "power"}

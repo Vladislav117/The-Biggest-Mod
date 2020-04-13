@@ -1,0 +1,1 @@
+{"type": "router", "name": "piwoci router", "description": "...", "health": 85, "size": 1, "requirements": [{"item": "piwoci", "amount": 1}], "research": "piwoci-conveyor", "category": "distribution"}

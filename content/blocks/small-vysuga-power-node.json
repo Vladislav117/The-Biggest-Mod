@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vysuga power node", "description": "...", "size": 1, "health": 168, "requirements": [{"item": "vysuga", "amount": 8}, {"item": "zyhijy", "amount": 12}, {"item": "zilanium", "amount": 9}], "research": "vysuga-factory", "maxNodes": 2, "laserRange": 10, "category": "power"}

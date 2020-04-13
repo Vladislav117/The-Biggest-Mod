@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mifi solar panel", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "mifi", "amount": 4}, {"item": "yuvynium", "amount": 7}, {"item": "wisy", "amount": 7}], "research": "mifi-factory", "powerProduction": 3.045397015232724, "category": "power"}

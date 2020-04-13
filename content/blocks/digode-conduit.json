@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "digode conduit", "description": "...", "health": 139, "requirements": [{"item": "digode", "amount": 5}, {"item": "xafi", "amount": 8}, {"item": "lypynium", "amount": 4}], "liquidCapacity": 29, "liquidPressure": 7, "research": "digode-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pizi conduit", "description": "...", "health": 178, "requirements": [{"item": "pizi", "amount": 10}, {"item": "nevyle", "amount": 17}, {"item": "momosa", "amount": 8}], "liquidCapacity": 3, "liquidPressure": 9, "research": "pizi-factory", "category": "liquid"}

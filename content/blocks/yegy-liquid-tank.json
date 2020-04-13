@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yegy liquid tank", "description": "...", "health": 290, "size": 3, "requirements": [{"item": "yegy", "amount": 12}, {"item": "puye", "amount": 15}, {"item": "cuse", "amount": 9}], "research": "yegy-conduit", "category": "liquid", "liquidCapacity": 69076, "hasLiquids": true}

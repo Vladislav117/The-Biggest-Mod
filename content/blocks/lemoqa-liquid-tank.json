@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lemoqa liquid tank", "description": "...", "health": 468, "size": 3, "requirements": [{"item": "lemoqa", "amount": 13}, {"item": "fepiva", "amount": 1}, {"item": "xikogo", "amount": 6}], "research": "lemoqa-conduit", "category": "liquid", "liquidCapacity": 69810, "hasLiquids": true}

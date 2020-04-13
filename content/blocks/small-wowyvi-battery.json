@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wowyvi battery", "description": "...", "size": 1, "health": 218, "requirements": [{"item": "wowyvi", "amount": 17}, {"item": "xepiqi", "amount": 10}, {"item": "sayibe", "amount": 10}], "research": "wowyvi-factory", "consumes": {"powerBuffered": 1014}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hypotinium solar panel", "description": "...", "size": 3, "health": 19, "requirements": [{"item": "hypotinium", "amount": 6}, {"item": "kawo", "amount": 4}, {"item": "gonehy", "amount": 3}], "research": "hypotinium-factory", "powerProduction": 0.3459405963612411, "category": "power"}

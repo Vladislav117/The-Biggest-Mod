@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qupu solar panel", "description": "...", "size": 3, "health": 105, "requirements": [{"item": "qupu", "amount": 8}, {"item": "mido", "amount": 14}, {"item": "vakaco", "amount": 6}], "research": "qupu-factory", "powerProduction": 4.444862062546373, "category": "power"}

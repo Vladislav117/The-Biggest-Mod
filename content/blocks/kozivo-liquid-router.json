@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kozivo liquid router", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "kozivo", "amount": 18}, {"item": "pikoqi", "amount": 20}, {"item": "zywave", "amount": 10}], "research": "kozivo-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xylipe overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "xylipe", "amount": 4}, {"item": "muqonium", "amount": 2}], "research": "xylipe-conveyor", "category": "distribution", "invert": false}

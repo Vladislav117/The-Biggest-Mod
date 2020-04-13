@@ -1,0 +1,1 @@
+{"type": "battery", "name": "guda battery", "description": "...", "size": 3, "health": 353, "requirements": [{"item": "guda", "amount": 9}, {"item": "kazo", "amount": 11}, {"item": "fanaka", "amount": 4}], "research": "guda-factory", "consumes": {"powerBuffered": 6983}, "category": "power"}

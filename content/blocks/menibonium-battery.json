@@ -1,0 +1,1 @@
+{"type": "battery", "name": "menibonium battery", "description": "...", "size": 3, "health": 209, "requirements": [{"item": "menibonium", "amount": 15}, {"item": "temu", "amount": 8}, {"item": "rilo", "amount": 6}], "research": "menibonium-factory", "consumes": {"powerBuffered": 9536}, "category": "power"}

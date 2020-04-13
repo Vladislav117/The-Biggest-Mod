@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wofu power node", "description": "...", "size": 1, "health": 162, "requirements": [{"item": "wofu", "amount": 14}, {"item": "tate", "amount": 3}, {"item": "qavuhe", "amount": 5}], "research": "wofu-factory", "maxNodes": 21, "laserRange": 7, "category": "power"}

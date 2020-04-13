@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "teyipu inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "teyipu", "amount": 3}, {"item": "nitonium", "amount": 3}], "research": "teyipu-conveyor", "category": "distribution", "invert": true}

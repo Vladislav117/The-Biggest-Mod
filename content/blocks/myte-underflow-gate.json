@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "myte underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "myte", "amount": 1}, {"item": "hakenium", "amount": 3}], "research": "myte-conveyor", "category": "distribution", "invert": false}

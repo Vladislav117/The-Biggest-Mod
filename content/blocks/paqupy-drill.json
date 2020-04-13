@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "paqupy drill", "description": "...", "size": 2, "health": 339, "tier": 3, "drillTime": 5, "consumes": {"power": 5}, "requirements": [{"item": "paqupy", "amount": 20}, {"item": "bily", "amount": 3}, {"item": "cyma", "amount": 2}], "research": "paqupy-factory", "category": "production"}

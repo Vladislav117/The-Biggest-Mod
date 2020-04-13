@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sohe underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "sohe", "amount": 4}, {"item": "nyvexo", "amount": 5}], "research": "sohe-conveyor", "category": "distribution", "invert": false}

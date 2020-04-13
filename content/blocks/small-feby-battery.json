@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small feby battery", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "feby", "amount": 8}, {"item": "qafy", "amount": 14}, {"item": "kery", "amount": 6}], "research": "feby-factory", "consumes": {"powerBuffered": 494}, "category": "power"}

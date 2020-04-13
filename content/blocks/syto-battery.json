@@ -1,0 +1,1 @@
+{"type": "battery", "name": "syto battery", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "syto", "amount": 17}, {"item": "zywave", "amount": 17}, {"item": "hasoye", "amount": 5}], "research": "syto-factory", "consumes": {"powerBuffered": 8953}, "category": "power"}

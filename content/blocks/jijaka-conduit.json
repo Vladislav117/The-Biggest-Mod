@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jijaka conduit", "description": "...", "health": 200, "requirements": [{"item": "jijaka", "amount": 1}, {"item": "tubide", "amount": 12}, {"item": "kedymi", "amount": 10}], "liquidCapacity": 36, "liquidPressure": 2, "research": "jijaka-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fawa underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "fawa", "amount": 2}, {"item": "qamo", "amount": 3}], "research": "fawa-conveyor", "category": "distribution", "invert": false}

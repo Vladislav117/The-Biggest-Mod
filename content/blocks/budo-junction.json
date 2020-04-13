@@ -1,0 +1,1 @@
+{"type": "junction", "name": "budo junction", "description": "...", "health": 20, "speed": 17, "capacity": 12, "size": 1, "requirements": [{"item": "budo", "amount": 3}, {"item": "leqe", "amount": 1}], "research": "budo-conveyor", "category": "distribution"}

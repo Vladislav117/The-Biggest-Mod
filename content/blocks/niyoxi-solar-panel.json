@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "niyoxi solar panel", "description": "...", "size": 3, "health": 107, "requirements": [{"item": "niyoxi", "amount": 8}, {"item": "sekele", "amount": 8}, {"item": "gydexy", "amount": 7}], "research": "niyoxi-factory", "powerProduction": 0.06125253215567969, "category": "power"}

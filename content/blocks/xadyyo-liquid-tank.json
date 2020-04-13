@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xadyyo liquid tank", "description": "...", "health": 545, "size": 3, "requirements": [{"item": "xadyyo", "amount": 13}, {"item": "bofe", "amount": 12}, {"item": "ticija", "amount": 2}], "research": "xadyyo-conduit", "category": "liquid", "liquidCapacity": 115929, "hasLiquids": true}

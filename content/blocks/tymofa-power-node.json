@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tymofa power node", "description": "...", "size": 2, "health": 739, "requirements": [{"item": "tymofa", "amount": 8}, {"item": "bexa", "amount": 6}, {"item": "tivu", "amount": 1}], "research": "tymofa-factory", "maxNodes": 43, "laserRange": 29, "category": "power"}

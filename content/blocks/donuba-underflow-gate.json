@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "donuba underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "donuba", "amount": 1}, {"item": "pyqynium", "amount": 5}], "research": "donuba-conveyor", "category": "distribution", "invert": false}

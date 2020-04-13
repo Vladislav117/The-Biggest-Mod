@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "beyasonium conduit", "description": "...", "health": 40, "requirements": [{"item": "beyasonium", "amount": 15}, {"item": "divi", "amount": 10}, {"item": "civonium", "amount": 2}], "liquidCapacity": 34, "liquidPressure": 4, "research": "beyasonium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xeta overflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "xeta", "amount": 5}, {"item": "tusytu", "amount": 4}], "research": "xeta-conveyor", "category": "distribution", "invert": false}

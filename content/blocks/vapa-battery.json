@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vapa battery", "description": "...", "size": 3, "health": 80, "requirements": [{"item": "vapa", "amount": 2}, {"item": "lymo", "amount": 8}, {"item": "kipybi", "amount": 6}], "research": "vapa-factory", "consumes": {"powerBuffered": 7084}, "category": "power"}

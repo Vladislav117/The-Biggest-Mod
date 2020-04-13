@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dyjitonium battery", "description": "...", "size": 3, "health": 179, "requirements": [{"item": "dyjitonium", "amount": 9}, {"item": "kipiyenium", "amount": 15}, {"item": "jyly", "amount": 2}], "research": "dyjitonium-factory", "consumes": {"powerBuffered": 8973}, "category": "power"}

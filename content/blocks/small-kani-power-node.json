@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kani power node", "description": "...", "size": 1, "health": 243, "requirements": [{"item": "kani", "amount": 3}, {"item": "mapibi", "amount": 17}, {"item": "wuqosenium", "amount": 7}], "research": "kani-factory", "maxNodes": 12, "laserRange": 8, "category": "power"}

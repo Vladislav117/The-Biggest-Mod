@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small helojanium battery", "description": "...", "size": 1, "health": 301, "requirements": [{"item": "helojanium", "amount": 9}, {"item": "fezudanium", "amount": 10}, {"item": "suvi", "amount": 8}], "research": "helojanium-factory", "consumes": {"powerBuffered": 1111}, "category": "power"}

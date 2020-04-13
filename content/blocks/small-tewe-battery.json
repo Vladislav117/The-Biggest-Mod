@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tewe battery", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "tewe", "amount": 13}, {"item": "togi", "amount": 16}, {"item": "jone", "amount": 2}], "research": "tewe-factory", "consumes": {"powerBuffered": 293}, "category": "power"}

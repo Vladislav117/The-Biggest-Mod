@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "sadani force projector", "description": "...", "health": 112, "size": 3, "consumes": {"power": 5.0, "item": "sadani"}, "requirements": [{"item": "sadani", "amount": 5}, {"item": "xuzy", "amount": 20}, {"item": "mygenium", "amount": 1}], "research": "sadani-factory", "category": "effect"}

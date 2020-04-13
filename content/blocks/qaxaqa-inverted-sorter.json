@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qaxaqa inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "qaxaqa", "amount": 5}, {"item": "jypanium", "amount": 2}], "research": "qaxaqa-conveyor", "category": "distribution", "invert": true}

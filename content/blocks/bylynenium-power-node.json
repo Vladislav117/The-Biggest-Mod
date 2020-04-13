@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bylynenium power node", "description": "...", "size": 2, "health": 360, "requirements": [{"item": "bylynenium", "amount": 5}, {"item": "zaxynium", "amount": 8}, {"item": "gaqite", "amount": 5}], "research": "bylynenium-factory", "maxNodes": 51, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ruxyye bridge conveyor", "description": "", "health": 17, "range": 9, "speed": 15, "bufferCapacity": 12, "requirements": [{"item": "ruxyye", "amount": 5}, {"item": "kica", "amount": 1}], "research": "ruxyye-conveyor", "category": "distribution", "size": 1}

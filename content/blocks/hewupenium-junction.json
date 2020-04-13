@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hewupenium junction", "description": "...", "health": 2, "speed": 6, "capacity": 9, "size": 1, "requirements": [{"item": "hewupenium", "amount": 2}, {"item": "wucu", "amount": 2}], "research": "hewupenium-conveyor", "category": "distribution"}

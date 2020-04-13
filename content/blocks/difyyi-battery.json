@@ -1,0 +1,1 @@
+{"type": "battery", "name": "difyyi battery", "description": "...", "size": 3, "health": 195, "requirements": [{"item": "difyyi", "amount": 3}, {"item": "tyqi", "amount": 9}, {"item": "lijanium", "amount": 5}], "research": "difyyi-factory", "consumes": {"powerBuffered": 5572}, "category": "power"}

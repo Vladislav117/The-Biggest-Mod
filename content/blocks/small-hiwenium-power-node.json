@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hiwenium power node", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "hiwenium", "amount": 9}, {"item": "jylovo", "amount": 18}, {"item": "xekota", "amount": 5}], "research": "hiwenium-factory", "maxNodes": 29, "laserRange": 12, "category": "power"}

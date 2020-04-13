@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dibu liquid tank", "description": "...", "health": 278, "size": 3, "requirements": [{"item": "dibu", "amount": 4}, {"item": "kixihinium", "amount": 18}, {"item": "mabe", "amount": 4}], "research": "dibu-conduit", "category": "liquid", "liquidCapacity": 59098, "hasLiquids": true}

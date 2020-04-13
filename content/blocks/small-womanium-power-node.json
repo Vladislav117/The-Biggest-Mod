@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small womanium power node", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "womanium", "amount": 19}, {"item": "fegy", "amount": 4}, {"item": "tiwyna", "amount": 6}], "research": "womanium-factory", "maxNodes": 27, "laserRange": 17, "category": "power"}

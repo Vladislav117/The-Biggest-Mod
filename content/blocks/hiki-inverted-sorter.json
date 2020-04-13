@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hiki inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "hiki", "amount": 2}, {"item": "hufema", "amount": 1}], "research": "hiki-conveyor", "category": "distribution", "invert": true}

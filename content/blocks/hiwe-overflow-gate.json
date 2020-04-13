@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hiwe overflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "hiwe", "amount": 1}, {"item": "rosiqe", "amount": 3}], "research": "hiwe-conveyor", "category": "distribution", "invert": false}

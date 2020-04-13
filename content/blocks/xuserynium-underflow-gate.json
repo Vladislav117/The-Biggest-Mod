@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xuserynium underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "xuserynium", "amount": 2}, {"item": "xydy", "amount": 5}], "research": "xuserynium-conveyor", "category": "distribution", "invert": false}

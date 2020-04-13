@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dafuse battery", "description": "...", "size": 3, "health": 215, "requirements": [{"item": "dafuse", "amount": 18}, {"item": "qybasinium", "amount": 1}, {"item": "vabeda", "amount": 1}], "research": "dafuse-factory", "consumes": {"powerBuffered": 2190}, "category": "power"}

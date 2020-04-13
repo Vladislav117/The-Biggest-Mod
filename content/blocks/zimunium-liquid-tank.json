@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zimunium liquid tank", "description": "...", "health": 399, "size": 3, "requirements": [{"item": "zimunium", "amount": 19}, {"item": "kyqu", "amount": 11}, {"item": "ticyxi", "amount": 4}], "research": "zimunium-conduit", "category": "liquid", "liquidCapacity": 116859, "hasLiquids": true}

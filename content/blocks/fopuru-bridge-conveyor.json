@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fopuru bridge conveyor", "description": "", "health": 13, "range": 17, "speed": 8, "bufferCapacity": 8, "requirements": [{"item": "fopuru", "amount": 5}, {"item": "lacu", "amount": 2}], "research": "fopuru-conveyor", "category": "distribution", "size": 1}

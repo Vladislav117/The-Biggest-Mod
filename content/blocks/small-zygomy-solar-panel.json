@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zygomy solar panel", "description": "...", "size": 1, "health": 114, "requirements": [{"item": "zygomy", "amount": 4}, {"item": "colu", "amount": 19}, {"item": "padopu", "amount": 1}], "research": "zygomy-factory", "powerProduction": 2.559520000694533, "category": "power"}

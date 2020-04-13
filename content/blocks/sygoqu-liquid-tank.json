@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sygoqu liquid tank", "description": "...", "health": 637, "size": 3, "requirements": [{"item": "sygoqu", "amount": 5}, {"item": "jogi", "amount": 17}, {"item": "cafe", "amount": 3}], "research": "sygoqu-conduit", "category": "liquid", "liquidCapacity": 6624, "hasLiquids": true}

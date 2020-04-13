@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "roro liquid tank", "description": "...", "health": 265, "size": 3, "requirements": [{"item": "roro", "amount": 13}, {"item": "cupedi", "amount": 10}, {"item": "wekami", "amount": 8}], "research": "roro-conduit", "category": "liquid", "liquidCapacity": 38801, "hasLiquids": true}

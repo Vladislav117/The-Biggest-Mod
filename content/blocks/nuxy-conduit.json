@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nuxy conduit", "description": "...", "health": 101, "requirements": [{"item": "nuxy", "amount": 2}, {"item": "deqo", "amount": 18}, {"item": "cuba", "amount": 2}], "liquidCapacity": 22, "liquidPressure": 10, "research": "nuxy-factory", "category": "liquid"}

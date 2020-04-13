@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "beronium solar panel", "description": "...", "size": 3, "health": 114, "requirements": [{"item": "beronium", "amount": 15}, {"item": "yifity", "amount": 18}, {"item": "mepunium", "amount": 5}], "research": "beronium-factory", "powerProduction": 8.098950204461799, "category": "power"}

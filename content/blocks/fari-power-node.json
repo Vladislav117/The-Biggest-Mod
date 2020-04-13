@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fari power node", "description": "...", "size": 2, "health": 180, "requirements": [{"item": "fari", "amount": 4}, {"item": "saqe", "amount": 4}, {"item": "lymo", "amount": 10}], "research": "fari-factory", "maxNodes": 34, "laserRange": 22, "category": "power"}

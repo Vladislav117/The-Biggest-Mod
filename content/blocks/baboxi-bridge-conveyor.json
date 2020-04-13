@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "baboxi bridge conveyor", "description": "", "health": 30, "range": 3, "speed": 20, "bufferCapacity": 8, "requirements": [{"item": "baboxi", "amount": 2}, {"item": "ropiki", "amount": 5}], "research": "baboxi-conveyor", "category": "distribution", "size": 1}

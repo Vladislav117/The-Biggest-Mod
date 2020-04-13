@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nixyli liquid tank", "description": "...", "health": 437, "size": 3, "requirements": [{"item": "nixyli", "amount": 19}, {"item": "byveta", "amount": 9}, {"item": "soqa", "amount": 7}], "research": "nixyli-conduit", "category": "liquid", "liquidCapacity": 110012, "hasLiquids": true}

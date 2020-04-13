@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nowahy power node", "description": "...", "size": 2, "health": 86, "requirements": [{"item": "nowahy", "amount": 20}, {"item": "nybaranium", "amount": 4}, {"item": "pawusy", "amount": 3}], "research": "nowahy-factory", "maxNodes": 40, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "fuyanium conveyor", "description": "...", "health": 110, "requirements": [{"item": "fuyanium", "amount": 7}, {"item": "nuci", "amount": 4}], "speed": 0.3317578485078559, "research": "fuyanium-factory", "category": "distribution"}

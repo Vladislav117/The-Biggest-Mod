@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small veco power node", "description": "...", "size": 1, "health": 228, "requirements": [{"item": "veco", "amount": 20}, {"item": "reju", "amount": 7}, {"item": "mumu", "amount": 10}], "research": "veco-factory", "maxNodes": 4, "laserRange": 16, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "toku liquid router", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "toku", "amount": 6}, {"item": "huxonium", "amount": 14}, {"item": "qypy", "amount": 8}], "research": "toku-conduit", "liquidCapacity": 10, "category": "liquid"}

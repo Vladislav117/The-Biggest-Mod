@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "geguqi overdrive projector", "description": "...", "health": 66, "consumes": {"power": 3.0, "item": "geguqi"}, "size": 2, "requirements": [{"item": "geguqi", "amount": 17}, {"item": "lapydy", "amount": 7}, {"item": "yisupe", "amount": 1}], "research": "geguqi-factory", "category": "effect"}

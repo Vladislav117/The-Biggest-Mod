@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qatu liquid tank", "description": "...", "health": 455, "size": 3, "requirements": [{"item": "qatu", "amount": 15}, {"item": "tify", "amount": 11}, {"item": "muti", "amount": 1}], "research": "qatu-conduit", "category": "liquid", "liquidCapacity": 100158, "hasLiquids": true}

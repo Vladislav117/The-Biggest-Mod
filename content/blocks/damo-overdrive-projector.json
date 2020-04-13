@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "damo overdrive projector", "description": "...", "health": 67, "consumes": {"power": 3.0, "item": "damo"}, "size": 2, "requirements": [{"item": "damo", "amount": 1}, {"item": "miqomy", "amount": 19}, {"item": "wocu", "amount": 4}], "research": "damo-factory", "category": "effect"}

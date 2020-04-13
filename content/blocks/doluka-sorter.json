@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "doluka sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "doluka", "amount": 4}, {"item": "yupo", "amount": 3}], "research": "doluka-conveyor", "category": "distribution", "invert": false}

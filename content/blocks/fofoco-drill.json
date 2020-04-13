@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fofoco drill", "description": "...", "size": 2, "health": 131, "tier": 2, "drillTime": 9, "consumes": {"power": 18}, "requirements": [{"item": "fofoco", "amount": 16}, {"item": "vedapa", "amount": 6}, {"item": "zymi", "amount": 7}], "research": "fofoco-factory", "category": "production"}

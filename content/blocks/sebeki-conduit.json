@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sebeki conduit", "description": "...", "health": 56, "requirements": [{"item": "sebeki", "amount": 12}, {"item": "yomema", "amount": 1}, {"item": "zuva", "amount": 3}], "liquidCapacity": 10, "liquidPressure": 2, "research": "sebeki-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lypynium liquid router", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "lypynium", "amount": 5}, {"item": "qypy", "amount": 3}, {"item": "kakaye", "amount": 5}], "research": "lypynium-conduit", "liquidCapacity": 10, "category": "liquid"}

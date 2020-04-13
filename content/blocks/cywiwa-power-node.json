@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cywiwa power node", "description": "...", "size": 2, "health": 161, "requirements": [{"item": "cywiwa", "amount": 20}, {"item": "xuryvy", "amount": 8}, {"item": "qysavunium", "amount": 8}], "research": "cywiwa-factory", "maxNodes": 40, "laserRange": 23, "category": "power"}

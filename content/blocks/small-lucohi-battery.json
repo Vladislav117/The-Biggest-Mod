@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lucohi battery", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "lucohi", "amount": 13}, {"item": "fesixa", "amount": 3}, {"item": "vapo", "amount": 7}], "research": "lucohi-factory", "consumes": {"powerBuffered": 1320}, "category": "power"}

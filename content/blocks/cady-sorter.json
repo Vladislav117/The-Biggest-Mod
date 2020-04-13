@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cady sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "cady", "amount": 4}, {"item": "lahydo", "amount": 1}], "research": "cady-conveyor", "category": "distribution", "invert": false}

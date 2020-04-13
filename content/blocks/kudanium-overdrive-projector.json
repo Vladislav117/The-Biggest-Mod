@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "kudanium overdrive projector", "description": "...", "health": 105, "consumes": {"power": 3.0, "item": "kudanium"}, "size": 2, "requirements": [{"item": "kudanium", "amount": 3}, {"item": "yexowy", "amount": 2}, {"item": "daqy", "amount": 8}], "research": "kudanium-factory", "category": "effect"}

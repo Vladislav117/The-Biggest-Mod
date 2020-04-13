@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ruve conduit", "description": "...", "health": 24, "requirements": [{"item": "ruve", "amount": 9}, {"item": "rypenium", "amount": 10}, {"item": "xyyira", "amount": 6}], "liquidCapacity": 24, "liquidPressure": 8, "research": "ruve-factory", "category": "liquid"}

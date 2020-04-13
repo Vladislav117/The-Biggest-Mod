@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tenelenium battery", "description": "...", "size": 1, "health": 385, "requirements": [{"item": "tenelenium", "amount": 19}, {"item": "letohy", "amount": 4}, {"item": "yusica", "amount": 2}], "research": "tenelenium-factory", "consumes": {"powerBuffered": 1524}, "category": "power"}

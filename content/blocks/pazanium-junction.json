@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pazanium junction", "description": "...", "health": 41, "speed": 1, "capacity": 14, "size": 1, "requirements": [{"item": "pazanium", "amount": 5}, {"item": "qyhi", "amount": 1}], "research": "pazanium-conveyor", "category": "distribution"}

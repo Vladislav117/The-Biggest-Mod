@@ -1,0 +1,1 @@
+{"type": "battery", "name": "koge battery", "description": "...", "size": 3, "health": 76, "requirements": [{"item": "koge", "amount": 12}, {"item": "giyabinium", "amount": 17}, {"item": "gylananium", "amount": 5}], "research": "koge-factory", "consumes": {"powerBuffered": 2356}, "category": "power"}

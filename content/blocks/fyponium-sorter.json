@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fyponium sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "fyponium", "amount": 3}, {"item": "donysenium", "amount": 5}], "research": "fyponium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sylupa solar panel", "description": "...", "size": 3, "health": 286, "requirements": [{"item": "sylupa", "amount": 3}, {"item": "myra", "amount": 20}, {"item": "cifo", "amount": 4}], "research": "sylupa-factory", "powerProduction": 2.6461470634170245, "category": "power"}

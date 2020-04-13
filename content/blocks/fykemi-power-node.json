@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fykemi power node", "description": "...", "size": 2, "health": 371, "requirements": [{"item": "fykemi", "amount": 13}, {"item": "dyzo", "amount": 12}, {"item": "cozuja", "amount": 3}], "research": "fykemi-factory", "maxNodes": 19, "laserRange": 12, "category": "power"}

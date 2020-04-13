@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dono liquid tank", "description": "...", "health": 175, "size": 3, "requirements": [{"item": "dono", "amount": 2}, {"item": "cesunium", "amount": 10}, {"item": "yofopy", "amount": 6}], "research": "dono-conduit", "category": "liquid", "liquidCapacity": 77293, "hasLiquids": true}

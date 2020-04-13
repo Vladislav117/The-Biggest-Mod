@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pufu battery", "description": "...", "size": 3, "health": 379, "requirements": [{"item": "pufu", "amount": 16}, {"item": "maqe", "amount": 2}, {"item": "civonium", "amount": 4}], "research": "pufu-factory", "consumes": {"powerBuffered": 2819}, "category": "power"}

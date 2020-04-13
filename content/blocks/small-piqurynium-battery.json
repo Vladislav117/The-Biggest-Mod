@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small piqurynium battery", "description": "...", "size": 1, "health": 375, "requirements": [{"item": "piqurynium", "amount": 4}, {"item": "cida", "amount": 2}, {"item": "dara", "amount": 10}], "research": "piqurynium-factory", "consumes": {"powerBuffered": 234}, "category": "power"}

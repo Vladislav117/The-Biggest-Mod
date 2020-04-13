@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yejeqinium power node", "description": "...", "size": 2, "health": 766, "requirements": [{"item": "yejeqinium", "amount": 6}, {"item": "pylonium", "amount": 10}, {"item": "hymonium", "amount": 6}], "research": "yejeqinium-factory", "maxNodes": 50, "laserRange": 7, "category": "power"}

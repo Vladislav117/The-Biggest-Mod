@@ -1,0 +1,1 @@
+{"type": "battery", "name": "byhonium battery", "description": "...", "size": 3, "health": 18, "requirements": [{"item": "byhonium", "amount": 19}, {"item": "lynulo", "amount": 15}, {"item": "copper", "amount": 3}], "research": "byhonium-factory", "consumes": {"powerBuffered": 4272}, "category": "power"}

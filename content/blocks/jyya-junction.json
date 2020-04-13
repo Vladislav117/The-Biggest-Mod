@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jyya junction", "description": "...", "health": 29, "speed": 5, "capacity": 14, "size": 1, "requirements": [{"item": "jyya", "amount": 4}, {"item": "tajapi", "amount": 5}], "research": "jyya-conveyor", "category": "distribution"}

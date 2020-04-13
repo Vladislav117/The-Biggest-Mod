@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "haniva power node", "description": "...", "size": 2, "health": 518, "requirements": [{"item": "haniva", "amount": 15}, {"item": "nayevynium", "amount": 10}, {"item": "moro", "amount": 3}], "research": "haniva-factory", "maxNodes": 51, "laserRange": 29, "category": "power"}

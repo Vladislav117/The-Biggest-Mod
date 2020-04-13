@@ -1,0 +1,1 @@
+{"type": "battery", "name": "boretu battery", "description": "...", "size": 3, "health": 213, "requirements": [{"item": "boretu", "amount": 2}, {"item": "qylino", "amount": 20}, {"item": "vakarinium", "amount": 4}], "research": "boretu-factory", "consumes": {"powerBuffered": 3530}, "category": "power"}

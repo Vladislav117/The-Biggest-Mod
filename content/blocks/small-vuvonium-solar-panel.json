@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vuvonium solar panel", "description": "...", "size": 1, "health": 368, "requirements": [{"item": "vuvonium", "amount": 14}, {"item": "weka", "amount": 20}, {"item": "medeno", "amount": 9}], "research": "vuvonium-factory", "powerProduction": 0.36016402037085393, "category": "power"}

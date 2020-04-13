@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "qiyo conveyor", "description": "...", "health": 339, "requirements": [{"item": "qiyo", "amount": 3}, {"item": "vakaco", "amount": 9}], "speed": 0.401973377647815, "research": "qiyo-factory", "category": "distribution"}

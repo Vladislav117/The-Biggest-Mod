@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jupygu battery", "description": "...", "size": 3, "health": 268, "requirements": [{"item": "jupygu", "amount": 14}, {"item": "tobaye", "amount": 16}, {"item": "nuxy", "amount": 9}], "research": "jupygu-factory", "consumes": {"powerBuffered": 4788}, "category": "power"}

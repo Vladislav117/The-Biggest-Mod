@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "timy conduit", "description": "...", "health": 139, "requirements": [{"item": "timy", "amount": 13}, {"item": "velany", "amount": 3}, {"item": "hobunium", "amount": 7}], "liquidCapacity": 43, "liquidPressure": 5, "research": "timy-factory", "category": "liquid"}

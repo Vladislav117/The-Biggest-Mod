@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zimabe conduit", "description": "...", "health": 125, "requirements": [{"item": "zimabe", "amount": 14}, {"item": "tugu", "amount": 12}, {"item": "ziwa", "amount": 8}], "liquidCapacity": 39, "liquidPressure": 3, "research": "zimabe-factory", "category": "liquid"}

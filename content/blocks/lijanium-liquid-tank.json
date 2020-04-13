@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lijanium liquid tank", "description": "...", "health": 296, "size": 3, "requirements": [{"item": "lijanium", "amount": 3}, {"item": "rymyfanium", "amount": 15}, {"item": "vywy", "amount": 3}], "research": "lijanium-conduit", "category": "liquid", "liquidCapacity": 30503, "hasLiquids": true}

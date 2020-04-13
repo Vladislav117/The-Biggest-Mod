@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "maty inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "maty", "amount": 4}, {"item": "nedybu", "amount": 5}], "research": "maty-conveyor", "category": "distribution", "invert": true}

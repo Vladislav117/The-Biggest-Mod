@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sigu solar panel", "description": "...", "size": 1, "health": 360, "requirements": [{"item": "sigu", "amount": 1}, {"item": "jaju", "amount": 8}, {"item": "wovazo", "amount": 7}], "research": "sigu-factory", "powerProduction": 1.6994432952156142, "category": "power"}

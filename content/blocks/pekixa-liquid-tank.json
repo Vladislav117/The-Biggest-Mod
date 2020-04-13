@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pekixa liquid tank", "description": "...", "health": 301, "size": 3, "requirements": [{"item": "pekixa", "amount": 10}, {"item": "zupisy", "amount": 17}, {"item": "pawasunium", "amount": 4}], "research": "pekixa-conduit", "category": "liquid", "liquidCapacity": 108323, "hasLiquids": true}

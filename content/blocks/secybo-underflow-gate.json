@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "secybo underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "secybo", "amount": 5}, {"item": "pino", "amount": 2}], "research": "secybo-conveyor", "category": "distribution", "invert": false}

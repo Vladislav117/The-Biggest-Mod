@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "caze force projector", "description": "...", "health": 243, "size": 3, "consumes": {"power": 5.0, "item": "caze"}, "requirements": [{"item": "caze", "amount": 14}, {"item": "wogugenium", "amount": 10}, {"item": "yusona", "amount": 8}], "research": "caze-factory", "category": "effect"}

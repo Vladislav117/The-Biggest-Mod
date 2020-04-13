@@ -1,0 +1,1 @@
+{"type": "junction", "name": "byqy junction", "description": "...", "health": 7, "speed": 1, "capacity": 15, "size": 1, "requirements": [{"item": "byqy", "amount": 3}, {"item": "wupira", "amount": 4}], "research": "byqy-conveyor", "category": "distribution"}

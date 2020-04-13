@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yeci solar panel", "description": "...", "size": 3, "health": 206, "requirements": [{"item": "yeci", "amount": 6}, {"item": "buzidinium", "amount": 5}, {"item": "kura", "amount": 10}], "research": "yeci-factory", "powerProduction": 0.5861802729320928, "category": "power"}

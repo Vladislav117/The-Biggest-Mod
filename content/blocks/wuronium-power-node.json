@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wuronium power node", "description": "...", "size": 2, "health": 332, "requirements": [{"item": "wuronium", "amount": 1}, {"item": "zyqita", "amount": 3}, {"item": "yape", "amount": 5}], "research": "wuronium-factory", "maxNodes": 18, "laserRange": 17, "category": "power"}

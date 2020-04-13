@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qotile battery", "description": "...", "size": 1, "health": 21, "requirements": [{"item": "qotile", "amount": 4}, {"item": "yyba", "amount": 3}, {"item": "buru", "amount": 6}], "research": "qotile-factory", "consumes": {"powerBuffered": 2407}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zawyjy battery", "description": "...", "size": 1, "health": 284, "requirements": [{"item": "zawyjy", "amount": 2}, {"item": "paso", "amount": 11}, {"item": "gyfeca", "amount": 8}], "research": "zawyjy-factory", "consumes": {"powerBuffered": 2418}, "category": "power"}

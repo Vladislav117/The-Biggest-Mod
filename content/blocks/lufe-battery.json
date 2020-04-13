@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lufe battery", "description": "...", "size": 3, "health": 81, "requirements": [{"item": "lufe", "amount": 17}, {"item": "yalaka", "amount": 18}, {"item": "kecufi", "amount": 2}], "research": "lufe-factory", "consumes": {"powerBuffered": 4131}, "category": "power"}

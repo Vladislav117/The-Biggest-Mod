@@ -1,0 +1,1 @@
+{"type": "junction", "name": "quge junction", "description": "...", "health": 1, "speed": 5, "capacity": 14, "size": 1, "requirements": [{"item": "quge", "amount": 4}, {"item": "xuryvy", "amount": 2}], "research": "quge-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hyte battery", "description": "...", "size": 3, "health": 277, "requirements": [{"item": "hyte", "amount": 12}, {"item": "viwymynium", "amount": 5}, {"item": "yyti", "amount": 10}], "research": "hyte-factory", "consumes": {"powerBuffered": 7785}, "category": "power"}

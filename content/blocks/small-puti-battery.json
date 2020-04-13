@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small puti battery", "description": "...", "size": 1, "health": 169, "requirements": [{"item": "puti", "amount": 13}, {"item": "sihynium", "amount": 15}, {"item": "horyve", "amount": 9}], "research": "puti-factory", "consumes": {"powerBuffered": 1428}, "category": "power"}

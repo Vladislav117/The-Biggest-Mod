@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hamo power node", "description": "...", "size": 1, "health": 369, "requirements": [{"item": "hamo", "amount": 2}, {"item": "celaji", "amount": 17}, {"item": "muhi", "amount": 10}], "research": "hamo-factory", "maxNodes": 2, "laserRange": 16, "category": "power"}

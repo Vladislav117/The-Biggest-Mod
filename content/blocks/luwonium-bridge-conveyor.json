@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "luwonium bridge conveyor", "description": "", "health": 26, "range": 17, "speed": 17, "bufferCapacity": 7, "requirements": [{"item": "luwonium", "amount": 4}, {"item": "vuhu", "amount": 3}], "research": "luwonium-conveyor", "category": "distribution", "size": 1}

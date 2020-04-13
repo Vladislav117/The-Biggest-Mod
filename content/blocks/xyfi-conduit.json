@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xyfi conduit", "description": "...", "health": 195, "requirements": [{"item": "xyfi", "amount": 14}, {"item": "meru", "amount": 2}, {"item": "bajenium", "amount": 2}], "liquidCapacity": 3, "liquidPressure": 0, "research": "xyfi-factory", "category": "liquid"}

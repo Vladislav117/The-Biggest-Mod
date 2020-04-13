@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "daziha overflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "daziha", "amount": 5}, {"item": "fenu", "amount": 5}], "research": "daziha-conveyor", "category": "distribution", "invert": false}

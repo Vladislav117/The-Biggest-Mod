@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "poyawonium bridge conveyor", "description": "", "health": 49, "range": 18, "speed": 13, "bufferCapacity": 21, "requirements": [{"item": "poyawonium", "amount": 4}, {"item": "tydy", "amount": 3}], "research": "poyawonium-conveyor", "category": "distribution", "size": 1}

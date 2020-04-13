@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small femoconium battery", "description": "...", "size": 1, "health": 166, "requirements": [{"item": "femoconium", "amount": 1}, {"item": "wibasi", "amount": 6}, {"item": "kezunium", "amount": 9}], "research": "femoconium-factory", "consumes": {"powerBuffered": 2664}, "category": "power"}

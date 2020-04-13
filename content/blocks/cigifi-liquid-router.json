@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cigifi liquid router", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "cigifi", "amount": 7}, {"item": "latycu", "amount": 18}, {"item": "bajenium", "amount": 7}], "research": "cigifi-conduit", "liquidCapacity": 10, "category": "liquid"}

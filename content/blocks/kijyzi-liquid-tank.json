@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kijyzi liquid tank", "description": "...", "health": 540, "size": 3, "requirements": [{"item": "kijyzi", "amount": 4}, {"item": "yudesinium", "amount": 8}, {"item": "cyma", "amount": 4}], "research": "kijyzi-conduit", "category": "liquid", "liquidCapacity": 38581, "hasLiquids": true}

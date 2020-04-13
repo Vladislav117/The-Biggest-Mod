@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wyra inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "wyra", "amount": 2}, {"item": "gozefynium", "amount": 1}], "research": "wyra-conveyor", "category": "distribution", "invert": true}

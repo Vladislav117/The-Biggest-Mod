@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lobojenium overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "lobojenium", "amount": 4}, {"item": "vatupy", "amount": 5}], "research": "lobojenium-conveyor", "category": "distribution", "invert": false}

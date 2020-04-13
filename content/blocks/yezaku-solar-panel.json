@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yezaku solar panel", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "yezaku", "amount": 20}, {"item": "lejara", "amount": 19}, {"item": "tile", "amount": 2}], "research": "yezaku-factory", "powerProduction": 0.9949043749251217, "category": "power"}

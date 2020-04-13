@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "yocenium conveyor", "description": "...", "health": 240, "requirements": [{"item": "yocenium", "amount": 4}, {"item": "lype", "amount": 6}], "speed": 0.27452647637548305, "research": "yocenium-factory", "category": "distribution"}

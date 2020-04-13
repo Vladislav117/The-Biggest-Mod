@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sumura drill", "description": "...", "size": 2, "health": 201, "tier": 4, "drillTime": 18, "consumes": {"power": 16}, "requirements": [{"item": "sumura", "amount": 19}, {"item": "birynium", "amount": 19}, {"item": "balyvo", "amount": 3}], "research": "sumura-factory", "category": "production"}

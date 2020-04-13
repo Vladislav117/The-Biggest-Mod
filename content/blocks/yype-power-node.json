@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yype power node", "description": "...", "size": 2, "health": 26, "requirements": [{"item": "yype", "amount": 16}, {"item": "hiqeyi", "amount": 16}, {"item": "beqeyenium", "amount": 4}], "research": "yype-factory", "maxNodes": 40, "laserRange": 6, "category": "power"}

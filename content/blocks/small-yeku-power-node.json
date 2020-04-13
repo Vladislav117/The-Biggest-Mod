@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yeku power node", "description": "...", "size": 1, "health": 236, "requirements": [{"item": "yeku", "amount": 5}, {"item": "kiredi", "amount": 13}, {"item": "giho", "amount": 7}], "research": "yeku-factory", "maxNodes": 8, "laserRange": 7, "category": "power"}

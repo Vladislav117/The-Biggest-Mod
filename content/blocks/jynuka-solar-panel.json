@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jynuka solar panel", "description": "...", "size": 3, "health": 326, "requirements": [{"item": "jynuka", "amount": 10}, {"item": "detadynium", "amount": 7}, {"item": "wojenium", "amount": 3}], "research": "jynuka-factory", "powerProduction": 0.10979020111072636, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wehube battery", "description": "...", "size": 3, "health": 221, "requirements": [{"item": "wehube", "amount": 11}, {"item": "kabovonium", "amount": 19}, {"item": "hasoye", "amount": 3}], "research": "wehube-factory", "consumes": {"powerBuffered": 6407}, "category": "power"}

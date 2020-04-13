@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "juby conveyor", "description": "...", "health": 136, "requirements": [{"item": "juby", "amount": 10}, {"item": "nilo", "amount": 8}], "speed": 0.30073933692575744, "research": "juby-factory", "category": "distribution"}

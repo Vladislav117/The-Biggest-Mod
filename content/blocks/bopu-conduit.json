@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bopu conduit", "description": "...", "health": 98, "requirements": [{"item": "bopu", "amount": 14}, {"item": "cosi", "amount": 4}, {"item": "xusunium", "amount": 9}], "liquidCapacity": 8, "liquidPressure": 3, "research": "bopu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qeca liquid tank", "description": "...", "health": 307, "size": 3, "requirements": [{"item": "qeca", "amount": 2}, {"item": "zoxi", "amount": 12}, {"item": "zotonium", "amount": 9}], "research": "qeca-conduit", "category": "liquid", "liquidCapacity": 102719, "hasLiquids": true}

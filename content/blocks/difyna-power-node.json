@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "difyna power node", "description": "...", "size": 2, "health": 325, "requirements": [{"item": "difyna", "amount": 15}, {"item": "lojy", "amount": 10}, {"item": "wahape", "amount": 8}], "research": "difyna-factory", "maxNodes": 59, "laserRange": 25, "category": "power"}

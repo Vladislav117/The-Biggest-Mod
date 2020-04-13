@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qipy bridge conveyor", "description": "", "health": 3, "range": 13, "speed": 14, "bufferCapacity": 22, "requirements": [{"item": "qipy", "amount": 5}, {"item": "gobenium", "amount": 4}], "research": "qipy-conveyor", "category": "distribution", "size": 1}

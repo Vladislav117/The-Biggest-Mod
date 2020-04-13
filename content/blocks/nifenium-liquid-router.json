@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nifenium liquid router", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "nifenium", "amount": 19}, {"item": "huxo", "amount": 15}, {"item": "fesixa", "amount": 10}], "research": "nifenium-conduit", "liquidCapacity": 10, "category": "liquid"}

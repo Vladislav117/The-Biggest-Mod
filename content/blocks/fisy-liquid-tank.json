@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fisy liquid tank", "description": "...", "health": 200, "size": 3, "requirements": [{"item": "fisy", "amount": 11}, {"item": "kymu", "amount": 1}, {"item": "mafe", "amount": 8}], "research": "fisy-conduit", "category": "liquid", "liquidCapacity": 19788, "hasLiquids": true}

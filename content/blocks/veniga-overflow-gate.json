@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "veniga overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "veniga", "amount": 4}, {"item": "hamily", "amount": 5}], "research": "veniga-conveyor", "category": "distribution", "invert": false}

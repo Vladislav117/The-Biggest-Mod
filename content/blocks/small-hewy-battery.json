@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hewy battery", "description": "...", "size": 1, "health": 63, "requirements": [{"item": "hewy", "amount": 18}, {"item": "yunu", "amount": 6}, {"item": "xydy", "amount": 5}], "research": "hewy-factory", "consumes": {"powerBuffered": 409}, "category": "power"}

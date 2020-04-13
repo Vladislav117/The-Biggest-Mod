@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gone power node", "description": "...", "size": 1, "health": 151, "requirements": [{"item": "gone", "amount": 9}, {"item": "nimyla", "amount": 16}, {"item": "raru", "amount": 8}], "research": "gone-factory", "maxNodes": 17, "laserRange": 14, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nitonium solar panel", "description": "...", "size": 3, "health": 215, "requirements": [{"item": "nitonium", "amount": 14}, {"item": "sibewe", "amount": 20}, {"item": "puye", "amount": 8}], "research": "nitonium-factory", "powerProduction": 0.2744799188385004, "category": "power"}

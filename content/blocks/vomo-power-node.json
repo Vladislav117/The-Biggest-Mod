@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vomo power node", "description": "...", "size": 2, "health": 587, "requirements": [{"item": "vomo", "amount": 14}, {"item": "qykebo", "amount": 14}, {"item": "firyjo", "amount": 6}], "research": "vomo-factory", "maxNodes": 29, "laserRange": 9, "category": "power"}

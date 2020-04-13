@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yebunonium solar panel", "description": "...", "size": 1, "health": 13, "requirements": [{"item": "yebunonium", "amount": 7}, {"item": "vuyi", "amount": 16}, {"item": "yyyyge", "amount": 1}], "research": "yebunonium-factory", "powerProduction": 0.8140840028533256, "category": "power"}

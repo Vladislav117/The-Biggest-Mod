@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pyto power node", "description": "...", "size": 2, "health": 660, "requirements": [{"item": "pyto", "amount": 11}, {"item": "nuso", "amount": 9}, {"item": "lynulo", "amount": 5}], "research": "pyto-factory", "maxNodes": 20, "laserRange": 14, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sebeso bridge conveyor", "description": "", "health": 14, "range": 12, "speed": 14, "bufferCapacity": 17, "requirements": [{"item": "sebeso", "amount": 4}, {"item": "xugo", "amount": 1}], "research": "sebeso-conveyor", "category": "distribution", "size": 1}

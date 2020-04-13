@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mose drill", "description": "...", "size": 2, "health": 198, "tier": 2, "drillTime": 1, "consumes": {"power": 13}, "requirements": [{"item": "mose", "amount": 5}, {"item": "bajenium", "amount": 10}, {"item": "qofepa", "amount": 6}], "research": "mose-factory", "category": "production"}

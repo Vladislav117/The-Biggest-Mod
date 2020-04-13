@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yupo power node", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "yupo", "amount": 12}, {"item": "lead", "amount": 12}, {"item": "nejesu", "amount": 2}], "research": "yupo-factory", "maxNodes": 21, "laserRange": 8, "category": "power"}

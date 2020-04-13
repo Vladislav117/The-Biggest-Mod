@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kikymi conduit", "description": "...", "health": 159, "requirements": [{"item": "kikymi", "amount": 10}, {"item": "hotose", "amount": 16}, {"item": "qiri", "amount": 10}], "liquidCapacity": 45, "liquidPressure": 2, "research": "kikymi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rudy sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "rudy", "amount": 4}, {"item": "kywowa", "amount": 4}], "research": "rudy-conveyor", "category": "distribution", "invert": false}

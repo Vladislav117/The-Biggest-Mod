@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nilo battery", "description": "...", "size": 1, "health": 183, "requirements": [{"item": "nilo", "amount": 14}, {"item": "homu", "amount": 8}, {"item": "huci", "amount": 4}], "research": "nilo-factory", "consumes": {"powerBuffered": 2865}, "category": "power"}

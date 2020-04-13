@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jyreki power node", "description": "...", "size": 2, "health": 629, "requirements": [{"item": "jyreki", "amount": 19}, {"item": "yyga", "amount": 10}, {"item": "xegonium", "amount": 4}], "research": "jyreki-factory", "maxNodes": 40, "laserRange": 25, "category": "power"}

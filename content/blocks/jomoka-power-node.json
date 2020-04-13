@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jomoka power node", "description": "...", "size": 2, "health": 786, "requirements": [{"item": "jomoka", "amount": 16}, {"item": "kyte", "amount": 9}, {"item": "sytafe", "amount": 10}], "research": "jomoka-factory", "maxNodes": 32, "laserRange": 30, "category": "power"}

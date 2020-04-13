@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vytuxe battery", "description": "...", "size": 1, "health": 357, "requirements": [{"item": "vytuxe", "amount": 5}, {"item": "zuwydy", "amount": 7}, {"item": "dewira", "amount": 8}], "research": "vytuxe-factory", "consumes": {"powerBuffered": 2605}, "category": "power"}

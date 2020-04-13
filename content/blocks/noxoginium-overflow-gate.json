@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "noxoginium overflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "noxoginium", "amount": 2}, {"item": "hotonium", "amount": 4}], "research": "noxoginium-conveyor", "category": "distribution", "invert": false}

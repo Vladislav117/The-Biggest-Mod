@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zuvy liquid tank", "description": "...", "health": 543, "size": 3, "requirements": [{"item": "zuvy", "amount": 12}, {"item": "zuwydy", "amount": 3}, {"item": "nynoyu", "amount": 6}], "research": "zuvy-conduit", "category": "liquid", "liquidCapacity": 18001, "hasLiquids": true}

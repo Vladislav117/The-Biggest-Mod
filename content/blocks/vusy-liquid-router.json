@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vusy liquid router", "description": "...", "size": 1, "health": 35, "requirements": [{"item": "vusy", "amount": 15}, {"item": "carani", "amount": 13}, {"item": "yifity", "amount": 5}], "research": "vusy-conduit", "liquidCapacity": 10, "category": "liquid"}

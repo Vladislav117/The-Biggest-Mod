@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wywanium solar panel", "description": "...", "size": 3, "health": 84, "requirements": [{"item": "wywanium", "amount": 8}, {"item": "pigagunium", "amount": 15}, {"item": "libequnium", "amount": 2}], "research": "wywanium-factory", "powerProduction": 3.3481852534419314, "category": "power"}

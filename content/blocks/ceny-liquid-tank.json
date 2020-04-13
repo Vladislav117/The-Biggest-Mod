@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ceny liquid tank", "description": "...", "health": 185, "size": 3, "requirements": [{"item": "ceny", "amount": 6}, {"item": "cuvino", "amount": 14}, {"item": "cymaca", "amount": 5}], "research": "ceny-conduit", "category": "liquid", "liquidCapacity": 5453, "hasLiquids": true}

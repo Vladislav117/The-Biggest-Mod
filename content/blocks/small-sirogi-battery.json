@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sirogi battery", "description": "...", "size": 1, "health": 340, "requirements": [{"item": "sirogi", "amount": 12}, {"item": "ceciba", "amount": 4}, {"item": "gifonium", "amount": 10}], "research": "sirogi-factory", "consumes": {"powerBuffered": 1192}, "category": "power"}

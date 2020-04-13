@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "juvaci underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "juvaci", "amount": 4}, {"item": "nyyonium", "amount": 3}], "research": "juvaci-conveyor", "category": "distribution", "invert": false}

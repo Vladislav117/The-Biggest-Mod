@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mifynium overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "mifynium", "amount": 5}, {"item": "jazu", "amount": 5}], "research": "mifynium-conveyor", "category": "distribution", "invert": false}

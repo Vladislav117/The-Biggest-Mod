@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "madosy liquid tank", "description": "...", "health": 325, "size": 3, "requirements": [{"item": "madosy", "amount": 1}, {"item": "nuci", "amount": 20}, {"item": "gymypa", "amount": 9}], "research": "madosy-conduit", "category": "liquid", "liquidCapacity": 117861, "hasLiquids": true}

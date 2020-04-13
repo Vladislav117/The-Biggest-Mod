@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "doxuri liquid tank", "description": "...", "health": 191, "size": 3, "requirements": [{"item": "doxuri", "amount": 7}, {"item": "mygyyy", "amount": 6}, {"item": "wozego", "amount": 10}], "research": "doxuri-conduit", "category": "liquid", "liquidCapacity": 77838, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ryloxi conduit", "description": "...", "health": 70, "requirements": [{"item": "ryloxi", "amount": 8}, {"item": "siyenium", "amount": 20}, {"item": "jeqidynium", "amount": 2}], "liquidCapacity": 48, "liquidPressure": 5, "research": "ryloxi-factory", "category": "liquid"}

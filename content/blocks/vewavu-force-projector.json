@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "vewavu force projector", "description": "...", "health": 196, "size": 3, "consumes": {"power": 5.0, "item": "vewavu"}, "requirements": [{"item": "vewavu", "amount": 12}, {"item": "silicon", "amount": 1}, {"item": "kubi", "amount": 8}], "research": "vewavu-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bemu conduit", "description": "...", "health": 172, "requirements": [{"item": "bemu", "amount": 6}, {"item": "seda", "amount": 10}, {"item": "kygarynium", "amount": 10}], "liquidCapacity": 39, "liquidPressure": 1, "research": "bemu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "todenium overflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "todenium", "amount": 1}, {"item": "hisucy", "amount": 2}], "research": "todenium-conveyor", "category": "distribution", "invert": false}

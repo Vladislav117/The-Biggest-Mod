@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nogosy battery", "description": "...", "size": 1, "health": 373, "requirements": [{"item": "nogosy", "amount": 4}, {"item": "sapymanium", "amount": 17}, {"item": "ceny", "amount": 1}], "research": "nogosy-factory", "consumes": {"powerBuffered": 2866}, "category": "power"}

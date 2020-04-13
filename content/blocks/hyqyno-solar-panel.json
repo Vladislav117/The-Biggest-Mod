@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hyqyno solar panel", "description": "...", "size": 3, "health": 273, "requirements": [{"item": "hyqyno", "amount": 10}, {"item": "padopu", "amount": 18}, {"item": "sidu", "amount": 2}], "research": "hyqyno-factory", "powerProduction": 0.1723750510661307, "category": "power"}

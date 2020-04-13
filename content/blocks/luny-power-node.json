@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "luny power node", "description": "...", "size": 2, "health": 465, "requirements": [{"item": "luny", "amount": 8}, {"item": "ciremo", "amount": 6}, {"item": "vevevi", "amount": 2}], "research": "luny-factory", "maxNodes": 42, "laserRange": 14, "category": "power"}

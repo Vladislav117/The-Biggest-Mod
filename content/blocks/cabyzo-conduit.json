@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cabyzo conduit", "description": "...", "health": 57, "requirements": [{"item": "cabyzo", "amount": 15}, {"item": "nimi", "amount": 14}, {"item": "pufere", "amount": 9}], "liquidCapacity": 24, "liquidPressure": 3, "research": "cabyzo-factory", "category": "liquid"}

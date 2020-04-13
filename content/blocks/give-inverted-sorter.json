@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "give inverted sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "give", "amount": 3}, {"item": "syqyki", "amount": 5}], "research": "give-conveyor", "category": "distribution", "invert": true}

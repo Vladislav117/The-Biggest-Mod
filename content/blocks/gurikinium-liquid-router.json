@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gurikinium liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "gurikinium", "amount": 14}, {"item": "pikoqi", "amount": 17}, {"item": "zija", "amount": 2}], "research": "gurikinium-conduit", "liquidCapacity": 10, "category": "liquid"}

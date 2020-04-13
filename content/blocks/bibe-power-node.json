@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bibe power node", "description": "...", "size": 2, "health": 444, "requirements": [{"item": "bibe", "amount": 14}, {"item": "fanaka", "amount": 6}, {"item": "jigobanium", "amount": 2}], "research": "bibe-factory", "maxNodes": 25, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pukalunium inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "pukalunium", "amount": 5}, {"item": "fahu", "amount": 1}], "research": "pukalunium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kamu junction", "description": "...", "health": 40, "speed": 19, "capacity": 14, "size": 1, "requirements": [{"item": "kamu", "amount": 5}, {"item": "koyazi", "amount": 4}], "research": "kamu-conveyor", "category": "distribution"}

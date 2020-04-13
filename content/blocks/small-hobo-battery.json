@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hobo battery", "description": "...", "size": 1, "health": 397, "requirements": [{"item": "hobo", "amount": 6}, {"item": "wapo", "amount": 12}, {"item": "niyi", "amount": 6}], "research": "hobo-factory", "consumes": {"powerBuffered": 1501}, "category": "power"}

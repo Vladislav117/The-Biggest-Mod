@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "taqe liquid tank", "description": "...", "health": 290, "size": 3, "requirements": [{"item": "taqe", "amount": 20}, {"item": "qykebo", "amount": 11}, {"item": "ryfo", "amount": 10}], "research": "taqe-conduit", "category": "liquid", "liquidCapacity": 91731, "hasLiquids": true}

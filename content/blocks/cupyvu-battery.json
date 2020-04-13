@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cupyvu battery", "description": "...", "size": 3, "health": 163, "requirements": [{"item": "cupyvu", "amount": 3}, {"item": "hono", "amount": 7}, {"item": "fure", "amount": 9}], "research": "cupyvu-factory", "consumes": {"powerBuffered": 7084}, "category": "power"}

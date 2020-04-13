@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bohexi liquid tank", "description": "...", "health": 566, "size": 3, "requirements": [{"item": "bohexi", "amount": 9}, {"item": "lowocanium", "amount": 13}, {"item": "sibewe", "amount": 5}], "research": "bohexi-conduit", "category": "liquid", "liquidCapacity": 18006, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "refoty liquid tank", "description": "...", "health": 640, "size": 3, "requirements": [{"item": "refoty", "amount": 7}, {"item": "huci", "amount": 17}, {"item": "ceze", "amount": 8}], "research": "refoty-conduit", "category": "liquid", "liquidCapacity": 55918, "hasLiquids": true}

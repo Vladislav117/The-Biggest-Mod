@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xuxevunium power node", "description": "...", "size": 2, "health": 122, "requirements": [{"item": "xuxevunium", "amount": 15}, {"item": "xyqehe", "amount": 10}, {"item": "jisaconium", "amount": 1}], "research": "xuxevunium-factory", "maxNodes": 20, "laserRange": 16, "category": "power"}

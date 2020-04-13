@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "maqufu power node", "description": "...", "size": 2, "health": 649, "requirements": [{"item": "maqufu", "amount": 13}, {"item": "nulyfo", "amount": 18}, {"item": "focatu", "amount": 8}], "research": "maqufu-factory", "maxNodes": 30, "laserRange": 24, "category": "power"}

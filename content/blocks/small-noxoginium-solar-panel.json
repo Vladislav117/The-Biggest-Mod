@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small noxoginium solar panel", "description": "...", "size": 1, "health": 119, "requirements": [{"item": "noxoginium", "amount": 10}, {"item": "neqose", "amount": 15}, {"item": "dohiye", "amount": 7}], "research": "noxoginium-factory", "powerProduction": 5.890043727877392, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rymojanium power node", "description": "...", "size": 2, "health": 556, "requirements": [{"item": "rymojanium", "amount": 17}, {"item": "kavequ", "amount": 19}, {"item": "syteja", "amount": 9}], "research": "rymojanium-factory", "maxNodes": 52, "laserRange": 11, "category": "power"}

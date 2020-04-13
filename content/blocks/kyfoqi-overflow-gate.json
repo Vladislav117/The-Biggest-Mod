@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kyfoqi overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "kyfoqi", "amount": 3}, {"item": "yidako", "amount": 3}], "research": "kyfoqi-conveyor", "category": "distribution", "invert": false}

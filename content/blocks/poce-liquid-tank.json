@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "poce liquid tank", "description": "...", "health": 464, "size": 3, "requirements": [{"item": "poce", "amount": 18}, {"item": "diyajy", "amount": 6}, {"item": "piro", "amount": 4}], "research": "poce-conduit", "category": "liquid", "liquidCapacity": 13302, "hasLiquids": true}

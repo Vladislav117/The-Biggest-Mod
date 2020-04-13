@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nynemi battery", "description": "...", "size": 1, "health": 360, "requirements": [{"item": "nynemi", "amount": 9}, {"item": "gyfeca", "amount": 4}, {"item": "diwi", "amount": 9}], "research": "nynemi-factory", "consumes": {"powerBuffered": 2624}, "category": "power"}

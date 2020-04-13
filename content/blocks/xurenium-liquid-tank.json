@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xurenium liquid tank", "description": "...", "health": 502, "size": 3, "requirements": [{"item": "xurenium", "amount": 13}, {"item": "birynium", "amount": 4}, {"item": "jihu", "amount": 8}], "research": "xurenium-conduit", "category": "liquid", "liquidCapacity": 92095, "hasLiquids": true}

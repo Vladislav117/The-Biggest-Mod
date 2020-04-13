@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kekipa power node", "description": "...", "size": 1, "health": 351, "requirements": [{"item": "kekipa", "amount": 14}, {"item": "waha", "amount": 12}, {"item": "pacezu", "amount": 8}], "research": "kekipa-factory", "maxNodes": 8, "laserRange": 10, "category": "power"}

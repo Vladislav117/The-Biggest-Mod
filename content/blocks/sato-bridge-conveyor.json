@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sato bridge conveyor", "description": "", "health": 24, "range": 8, "speed": 6, "bufferCapacity": 6, "requirements": [{"item": "sato", "amount": 5}, {"item": "qokenium", "amount": 1}], "research": "sato-conveyor", "category": "distribution", "size": 1}

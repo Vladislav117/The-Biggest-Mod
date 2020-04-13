@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "myci bridge conveyor", "description": "", "health": 22, "range": 16, "speed": 8, "bufferCapacity": 12, "requirements": [{"item": "myci", "amount": 4}, {"item": "hukebi", "amount": 5}], "research": "myci-conveyor", "category": "distribution", "size": 1}

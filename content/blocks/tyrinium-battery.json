@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tyrinium battery", "description": "...", "size": 3, "health": 31, "requirements": [{"item": "tyrinium", "amount": 16}, {"item": "ropiki", "amount": 13}, {"item": "seyuwa", "amount": 4}], "research": "tyrinium-factory", "consumes": {"powerBuffered": 5878}, "category": "power"}

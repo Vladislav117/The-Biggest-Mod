@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qopyxo battery", "description": "...", "size": 1, "health": 176, "requirements": [{"item": "qopyxo", "amount": 15}, {"item": "kixo", "amount": 8}, {"item": "vuponium", "amount": 8}], "research": "qopyxo-factory", "consumes": {"powerBuffered": 1133}, "category": "power"}

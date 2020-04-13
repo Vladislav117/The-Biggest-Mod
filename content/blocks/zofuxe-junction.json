@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zofuxe junction", "description": "...", "health": 7, "speed": 4, "capacity": 6, "size": 1, "requirements": [{"item": "zofuxe", "amount": 2}, {"item": "sehy", "amount": 4}], "research": "zofuxe-conveyor", "category": "distribution"}

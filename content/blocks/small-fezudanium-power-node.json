@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fezudanium power node", "description": "...", "size": 1, "health": 250, "requirements": [{"item": "fezudanium", "amount": 4}, {"item": "wore", "amount": 12}, {"item": "zokoya", "amount": 10}], "research": "fezudanium-factory", "maxNodes": 28, "laserRange": 7, "category": "power"}

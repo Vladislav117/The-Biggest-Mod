@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "huyijo conduit", "description": "...", "health": 191, "requirements": [{"item": "huyijo", "amount": 10}, {"item": "mivini", "amount": 15}, {"item": "siposi", "amount": 7}], "liquidCapacity": 15, "liquidPressure": 5, "research": "huyijo-factory", "category": "liquid"}

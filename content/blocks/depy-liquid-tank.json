@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "depy liquid tank", "description": "...", "health": 238, "size": 3, "requirements": [{"item": "depy", "amount": 4}, {"item": "sewa", "amount": 7}, {"item": "zupisy", "amount": 6}], "research": "depy-conduit", "category": "liquid", "liquidCapacity": 69499, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jekeda liquid tank", "description": "...", "health": 426, "size": 3, "requirements": [{"item": "jekeda", "amount": 3}, {"item": "danava", "amount": 19}, {"item": "wesyko", "amount": 2}], "research": "jekeda-conduit", "category": "liquid", "liquidCapacity": 103419, "hasLiquids": true}

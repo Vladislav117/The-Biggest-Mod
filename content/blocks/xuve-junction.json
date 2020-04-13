@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xuve junction", "description": "...", "health": 26, "speed": 19, "capacity": 2, "size": 1, "requirements": [{"item": "xuve", "amount": 5}, {"item": "qigine", "amount": 3}], "research": "xuve-conveyor", "category": "distribution"}

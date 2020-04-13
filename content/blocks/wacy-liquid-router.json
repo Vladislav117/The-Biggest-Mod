@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wacy liquid router", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "wacy", "amount": 18}, {"item": "ryloxi", "amount": 6}, {"item": "nytodunium", "amount": 7}], "research": "wacy-conduit", "liquidCapacity": 10, "category": "liquid"}

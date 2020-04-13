@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nezyno underflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "nezyno", "amount": 2}, {"item": "jenenium", "amount": 4}], "research": "nezyno-conveyor", "category": "distribution", "invert": false}

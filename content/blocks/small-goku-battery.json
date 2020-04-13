@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small goku battery", "description": "...", "size": 1, "health": 218, "requirements": [{"item": "goku", "amount": 11}, {"item": "jeyanium", "amount": 14}, {"item": "kilu", "amount": 9}], "research": "goku-factory", "consumes": {"powerBuffered": 1396}, "category": "power"}

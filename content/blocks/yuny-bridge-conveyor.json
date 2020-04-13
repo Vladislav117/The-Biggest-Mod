@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yuny bridge conveyor", "description": "", "health": 25, "range": 14, "speed": 4, "bufferCapacity": 7, "requirements": [{"item": "yuny", "amount": 2}, {"item": "vego", "amount": 4}], "research": "yuny-conveyor", "category": "distribution", "size": 1}

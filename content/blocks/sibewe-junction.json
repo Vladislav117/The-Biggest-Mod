@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sibewe junction", "description": "...", "health": 16, "speed": 2, "capacity": 19, "size": 1, "requirements": [{"item": "sibewe", "amount": 5}, {"item": "byfa", "amount": 5}], "research": "sibewe-conveyor", "category": "distribution"}

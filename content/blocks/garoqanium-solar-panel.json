@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "garoqanium solar panel", "description": "...", "size": 3, "health": 288, "requirements": [{"item": "garoqanium", "amount": 12}, {"item": "larina", "amount": 4}, {"item": "beyuxy", "amount": 3}], "research": "garoqanium-factory", "powerProduction": 0.504937597343332, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "haqu conveyor", "description": "...", "health": 151, "requirements": [{"item": "haqu", "amount": 10}, {"item": "lyru", "amount": 5}], "speed": 0.30886656264291734, "research": "haqu-factory", "category": "distribution"}

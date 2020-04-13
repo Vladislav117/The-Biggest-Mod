@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gorenium power node", "description": "...", "size": 2, "health": 699, "requirements": [{"item": "gorenium", "amount": 8}, {"item": "nuxy", "amount": 4}, {"item": "jazu", "amount": 3}], "research": "gorenium-factory", "maxNodes": 31, "laserRange": 7, "category": "power"}

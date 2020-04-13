@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kamu underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "kamu", "amount": 4}, {"item": "lacu", "amount": 4}], "research": "kamu-conveyor", "category": "distribution", "invert": false}

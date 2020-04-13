@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zaya battery", "description": "...", "size": 1, "health": 394, "requirements": [{"item": "zaya", "amount": 12}, {"item": "noyayu", "amount": 18}, {"item": "pumy", "amount": 4}], "research": "zaya-factory", "consumes": {"powerBuffered": 869}, "category": "power"}

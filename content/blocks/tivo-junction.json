@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tivo junction", "description": "...", "health": 32, "speed": 14, "capacity": 19, "size": 1, "requirements": [{"item": "tivo", "amount": 1}, {"item": "qypusa", "amount": 4}], "research": "tivo-conveyor", "category": "distribution"}

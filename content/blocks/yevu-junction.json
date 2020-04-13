@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yevu junction", "description": "...", "health": 45, "speed": 12, "capacity": 7, "size": 1, "requirements": [{"item": "yevu", "amount": 4}, {"item": "ravi", "amount": 5}], "research": "yevu-conveyor", "category": "distribution"}

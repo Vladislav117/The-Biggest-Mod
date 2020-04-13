@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lufe power node", "description": "...", "size": 2, "health": 314, "requirements": [{"item": "lufe", "amount": 9}, {"item": "muby", "amount": 9}, {"item": "joky", "amount": 8}], "research": "lufe-factory", "maxNodes": 45, "laserRange": 27, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cydyby power node", "description": "...", "size": 2, "health": 225, "requirements": [{"item": "cydyby", "amount": 20}, {"item": "bepoxu", "amount": 15}, {"item": "xopy", "amount": 5}], "research": "cydyby-factory", "maxNodes": 50, "laserRange": 7, "category": "power"}

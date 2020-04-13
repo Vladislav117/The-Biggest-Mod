@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pydudanium liquid tank", "description": "...", "health": 521, "size": 3, "requirements": [{"item": "pydudanium", "amount": 17}, {"item": "diqa", "amount": 8}, {"item": "syjilanium", "amount": 1}], "research": "pydudanium-conduit", "category": "liquid", "liquidCapacity": 38344, "hasLiquids": true}

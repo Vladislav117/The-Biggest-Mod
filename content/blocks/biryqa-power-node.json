@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "biryqa power node", "description": "...", "size": 2, "health": 35, "requirements": [{"item": "biryqa", "amount": 20}, {"item": "buqi", "amount": 19}, {"item": "cepi", "amount": 1}], "research": "biryqa-factory", "maxNodes": 14, "laserRange": 24, "category": "power"}

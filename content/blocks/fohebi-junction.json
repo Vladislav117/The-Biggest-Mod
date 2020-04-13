@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fohebi junction", "description": "...", "health": 50, "speed": 3, "capacity": 18, "size": 1, "requirements": [{"item": "fohebi", "amount": 4}, {"item": "fizy", "amount": 1}], "research": "fohebi-conveyor", "category": "distribution"}

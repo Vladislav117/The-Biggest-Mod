@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gypunium battery", "description": "...", "size": 3, "health": 218, "requirements": [{"item": "gypunium", "amount": 13}, {"item": "bybity", "amount": 8}, {"item": "metaglass", "amount": 4}], "research": "gypunium-factory", "consumes": {"powerBuffered": 2998}, "category": "power"}

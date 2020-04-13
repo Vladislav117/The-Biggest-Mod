@@ -1,0 +1,1 @@
+{"type": "battery", "name": "riyo battery", "description": "...", "size": 3, "health": 247, "requirements": [{"item": "riyo", "amount": 11}, {"item": "ceqo", "amount": 14}, {"item": "boqi", "amount": 2}], "research": "riyo-factory", "consumes": {"powerBuffered": 3623}, "category": "power"}

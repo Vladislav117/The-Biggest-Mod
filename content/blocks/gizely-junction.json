@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gizely junction", "description": "...", "health": 14, "speed": 7, "capacity": 2, "size": 1, "requirements": [{"item": "gizely", "amount": 4}, {"item": "fikexonium", "amount": 5}], "research": "gizely-conveyor", "category": "distribution"}

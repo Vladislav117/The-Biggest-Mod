@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gecu liquid tank", "description": "...", "health": 476, "size": 3, "requirements": [{"item": "gecu", "amount": 19}, {"item": "keqaqe", "amount": 14}, {"item": "bileyu", "amount": 5}], "research": "gecu-conduit", "category": "liquid", "liquidCapacity": 36494, "hasLiquids": true}

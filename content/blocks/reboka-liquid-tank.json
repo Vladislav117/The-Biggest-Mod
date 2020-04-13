@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "reboka liquid tank", "description": "...", "health": 663, "size": 3, "requirements": [{"item": "reboka", "amount": 4}, {"item": "gypupe", "amount": 12}, {"item": "bily", "amount": 3}], "research": "reboka-conduit", "category": "liquid", "liquidCapacity": 52999, "hasLiquids": true}

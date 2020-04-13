@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ryfy solar panel", "description": "...", "size": 1, "health": 133, "requirements": [{"item": "ryfy", "amount": 3}, {"item": "rymyfanium", "amount": 7}, {"item": "zadajo", "amount": 10}], "research": "ryfy-factory", "powerProduction": 0.010452098775984554, "category": "power"}

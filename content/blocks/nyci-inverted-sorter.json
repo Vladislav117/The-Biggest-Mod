@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nyci inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "nyci", "amount": 3}, {"item": "qojinium", "amount": 3}], "research": "nyci-conveyor", "category": "distribution", "invert": true}

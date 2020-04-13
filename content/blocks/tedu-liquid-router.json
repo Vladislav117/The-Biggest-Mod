@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tedu liquid router", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "tedu", "amount": 9}, {"item": "momosa", "amount": 5}, {"item": "deqo", "amount": 9}], "research": "tedu-conduit", "liquidCapacity": 10, "category": "liquid"}

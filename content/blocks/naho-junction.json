@@ -1,0 +1,1 @@
+{"type": "junction", "name": "naho junction", "description": "...", "health": 23, "speed": 16, "capacity": 8, "size": 1, "requirements": [{"item": "naho", "amount": 2}, {"item": "buhoci", "amount": 4}], "research": "naho-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "syxidonium battery", "description": "...", "size": 3, "health": 21, "requirements": [{"item": "syxidonium", "amount": 17}, {"item": "lead", "amount": 11}, {"item": "syxidonium", "amount": 10}], "research": "syxidonium-factory", "consumes": {"powerBuffered": 6013}, "category": "power"}

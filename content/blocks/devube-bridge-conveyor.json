@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "devube bridge conveyor", "description": "", "health": 42, "range": 10, "speed": 15, "bufferCapacity": 12, "requirements": [{"item": "devube", "amount": 2}, {"item": "qera", "amount": 3}], "research": "devube-conveyor", "category": "distribution", "size": 1}

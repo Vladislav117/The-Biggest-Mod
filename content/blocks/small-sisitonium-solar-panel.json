@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sisitonium solar panel", "description": "...", "size": 1, "health": 397, "requirements": [{"item": "sisitonium", "amount": 5}, {"item": "seleme", "amount": 7}, {"item": "docyya", "amount": 7}], "research": "sisitonium-factory", "powerProduction": 1.0766796537200585, "category": "power"}

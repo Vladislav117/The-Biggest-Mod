@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yybinium battery", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "yybinium", "amount": 12}, {"item": "hebe", "amount": 3}, {"item": "miqomy", "amount": 4}], "research": "yybinium-factory", "consumes": {"powerBuffered": 2682}, "category": "power"}

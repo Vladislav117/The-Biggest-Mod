@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "koqoze drill", "description": "...", "size": 4, "health": 252, "tier": 1, "drillTime": 16, "consumes": {"power": 5}, "requirements": [{"item": "koqoze", "amount": 4}, {"item": "qiti", "amount": 14}, {"item": "maya", "amount": 7}], "research": "koqoze-factory", "category": "production"}

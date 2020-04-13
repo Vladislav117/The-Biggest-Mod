@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zada conduit", "description": "...", "health": 192, "requirements": [{"item": "zada", "amount": 6}, {"item": "hobo", "amount": 10}, {"item": "qivi", "amount": 6}], "liquidCapacity": 12, "liquidPressure": 10, "research": "zada-factory", "category": "liquid"}

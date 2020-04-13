@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wusupy junction", "description": "...", "health": 42, "speed": 3, "capacity": 6, "size": 1, "requirements": [{"item": "wusupy", "amount": 2}, {"item": "cyyikynium", "amount": 2}], "research": "wusupy-conveyor", "category": "distribution"}

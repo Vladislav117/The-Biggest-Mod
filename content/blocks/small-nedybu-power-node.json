@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nedybu power node", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "nedybu", "amount": 18}, {"item": "xoruba", "amount": 8}, {"item": "zoxi", "amount": 7}], "research": "nedybu-factory", "maxNodes": 12, "laserRange": 22, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "latycu overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "latycu", "amount": 4}, {"item": "lora", "amount": 4}], "research": "latycu-conveyor", "category": "distribution", "invert": false}

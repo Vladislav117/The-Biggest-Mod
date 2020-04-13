@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jikanium battery", "description": "...", "size": 3, "health": 330, "requirements": [{"item": "jikanium", "amount": 4}, {"item": "lavi", "amount": 12}, {"item": "weju", "amount": 3}], "research": "jikanium-factory", "consumes": {"powerBuffered": 7477}, "category": "power"}

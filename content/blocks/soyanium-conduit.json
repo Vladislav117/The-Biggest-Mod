@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "soyanium conduit", "description": "...", "health": 75, "requirements": [{"item": "soyanium", "amount": 16}, {"item": "besu", "amount": 16}, {"item": "mapibi", "amount": 8}], "liquidCapacity": 25, "liquidPressure": 2, "research": "soyanium-factory", "category": "liquid"}

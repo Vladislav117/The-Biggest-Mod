@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "visuco liquid tank", "description": "...", "health": 189, "size": 3, "requirements": [{"item": "visuco", "amount": 12}, {"item": "miyoqu", "amount": 15}, {"item": "macurenium", "amount": 4}], "research": "visuco-conduit", "category": "liquid", "liquidCapacity": 109570, "hasLiquids": true}

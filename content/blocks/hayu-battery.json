@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hayu battery", "description": "...", "size": 3, "health": 23, "requirements": [{"item": "hayu", "amount": 10}, {"item": "dibu", "amount": 13}, {"item": "qaty", "amount": 8}], "research": "hayu-factory", "consumes": {"powerBuffered": 3669}, "category": "power"}

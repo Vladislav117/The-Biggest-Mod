@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sexinium battery", "description": "...", "size": 1, "health": 399, "requirements": [{"item": "sexinium", "amount": 10}, {"item": "kilu", "amount": 1}, {"item": "qigine", "amount": 10}], "research": "sexinium-factory", "consumes": {"powerBuffered": 2684}, "category": "power"}

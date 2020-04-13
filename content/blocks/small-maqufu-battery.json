@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small maqufu battery", "description": "...", "size": 1, "health": 218, "requirements": [{"item": "maqufu", "amount": 8}, {"item": "yopepa", "amount": 14}, {"item": "nulyfo", "amount": 9}], "research": "maqufu-factory", "consumes": {"powerBuffered": 1605}, "category": "power"}

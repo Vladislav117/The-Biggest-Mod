@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qudy underflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "qudy", "amount": 5}, {"item": "metaglass", "amount": 4}], "research": "qudy-conveyor", "category": "distribution", "invert": false}

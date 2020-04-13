@@ -1,0 +1,1 @@
+{"type": "junction", "name": "peje junction", "description": "...", "health": 37, "speed": 8, "capacity": 16, "size": 1, "requirements": [{"item": "peje", "amount": 2}, {"item": "lesyha", "amount": 5}], "research": "peje-conveyor", "category": "distribution"}

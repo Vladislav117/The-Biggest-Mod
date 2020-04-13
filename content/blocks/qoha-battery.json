@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qoha battery", "description": "...", "size": 3, "health": 125, "requirements": [{"item": "qoha", "amount": 2}, {"item": "pacezu", "amount": 9}, {"item": "fizuwe", "amount": 5}], "research": "qoha-factory", "consumes": {"powerBuffered": 5502}, "category": "power"}

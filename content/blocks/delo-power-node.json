@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "delo power node", "description": "...", "size": 2, "health": 714, "requirements": [{"item": "delo", "amount": 6}, {"item": "liqunium", "amount": 3}, {"item": "lyzy", "amount": 10}], "research": "delo-factory", "maxNodes": 60, "laserRange": 15, "category": "power"}

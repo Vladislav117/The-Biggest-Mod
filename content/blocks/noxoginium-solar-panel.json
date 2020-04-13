@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "noxoginium solar panel", "description": "...", "size": 3, "health": 215, "requirements": [{"item": "noxoginium", "amount": 18}, {"item": "tiqeti", "amount": 19}, {"item": "ryma", "amount": 9}], "research": "noxoginium-factory", "powerProduction": 8.673131855281081, "category": "power"}

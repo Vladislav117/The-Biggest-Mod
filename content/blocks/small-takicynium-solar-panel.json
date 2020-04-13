@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small takicynium solar panel", "description": "...", "size": 1, "health": 207, "requirements": [{"item": "takicynium", "amount": 3}, {"item": "tobu", "amount": 9}, {"item": "kype", "amount": 2}], "research": "takicynium-factory", "powerProduction": 14.087121785814075, "category": "power"}

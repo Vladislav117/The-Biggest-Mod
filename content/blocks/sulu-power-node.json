@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sulu power node", "description": "...", "size": 2, "health": 679, "requirements": [{"item": "sulu", "amount": 16}, {"item": "duwo", "amount": 3}, {"item": "jazy", "amount": 8}], "research": "sulu-factory", "maxNodes": 49, "laserRange": 11, "category": "power"}

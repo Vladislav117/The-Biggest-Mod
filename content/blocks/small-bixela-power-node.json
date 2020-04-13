@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bixela power node", "description": "...", "size": 1, "health": 353, "requirements": [{"item": "bixela", "amount": 4}, {"item": "mabyce", "amount": 14}, {"item": "busu", "amount": 6}], "research": "bixela-factory", "maxNodes": 3, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bujyja power node", "description": "...", "size": 1, "health": 322, "requirements": [{"item": "bujyja", "amount": 13}, {"item": "pibyxenium", "amount": 6}, {"item": "winyjo", "amount": 8}], "research": "bujyja-factory", "maxNodes": 19, "laserRange": 4, "category": "power"}

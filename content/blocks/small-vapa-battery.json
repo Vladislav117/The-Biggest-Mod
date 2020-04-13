@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vapa battery", "description": "...", "size": 1, "health": 180, "requirements": [{"item": "vapa", "amount": 5}, {"item": "zehonium", "amount": 1}, {"item": "wuqosenium", "amount": 5}], "research": "vapa-factory", "consumes": {"powerBuffered": 2889}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "muzu bridge conveyor", "description": "", "health": 14, "range": 12, "speed": 12, "bufferCapacity": 25, "requirements": [{"item": "muzu", "amount": 4}, {"item": "xyzu", "amount": 4}], "research": "muzu-conveyor", "category": "distribution", "size": 1}

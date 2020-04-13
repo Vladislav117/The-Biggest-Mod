@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ridurinium liquid tank", "description": "...", "health": 511, "size": 3, "requirements": [{"item": "ridurinium", "amount": 1}, {"item": "wicowi", "amount": 11}, {"item": "zore", "amount": 5}], "research": "ridurinium-conduit", "category": "liquid", "liquidCapacity": 20306, "hasLiquids": true}

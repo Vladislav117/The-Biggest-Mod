@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xuryvy power node", "description": "...", "size": 1, "health": 310, "requirements": [{"item": "xuryvy", "amount": 20}, {"item": "wuqosenium", "amount": 9}, {"item": "nitonium", "amount": 2}], "research": "xuryvy-factory", "maxNodes": 5, "laserRange": 18, "category": "power"}

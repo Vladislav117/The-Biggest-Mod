@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cazefu liquid router", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "cazefu", "amount": 18}, {"item": "zywave", "amount": 13}, {"item": "pubado", "amount": 9}], "research": "cazefu-conduit", "liquidCapacity": 10, "category": "liquid"}

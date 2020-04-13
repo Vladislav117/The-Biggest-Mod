@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small payo solar panel", "description": "...", "size": 1, "health": 338, "requirements": [{"item": "payo", "amount": 3}, {"item": "hogazanium", "amount": 1}, {"item": "yudafa", "amount": 5}], "research": "payo-factory", "powerProduction": 0.2128656640607359, "category": "power"}

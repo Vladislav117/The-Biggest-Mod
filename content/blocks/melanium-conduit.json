@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "melanium conduit", "description": "...", "health": 50, "requirements": [{"item": "melanium", "amount": 4}, {"item": "jepinium", "amount": 6}, {"item": "xebu", "amount": 7}], "liquidCapacity": 17, "liquidPressure": 1, "research": "melanium-factory", "category": "liquid"}

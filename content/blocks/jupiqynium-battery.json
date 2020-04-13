@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jupiqynium battery", "description": "...", "size": 3, "health": 58, "requirements": [{"item": "jupiqynium", "amount": 3}, {"item": "soronium", "amount": 13}, {"item": "fypizy", "amount": 10}], "research": "jupiqynium-factory", "consumes": {"powerBuffered": 6743}, "category": "power"}

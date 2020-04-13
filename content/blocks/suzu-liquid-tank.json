@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "suzu liquid tank", "description": "...", "health": 607, "size": 3, "requirements": [{"item": "suzu", "amount": 13}, {"item": "tezila", "amount": 6}, {"item": "deqohu", "amount": 3}], "research": "suzu-conduit", "category": "liquid", "liquidCapacity": 36929, "hasLiquids": true}

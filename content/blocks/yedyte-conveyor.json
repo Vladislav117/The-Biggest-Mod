@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "yedyte conveyor", "description": "...", "health": 333, "requirements": [{"item": "yedyte", "amount": 8}, {"item": "yocoke", "amount": 2}], "speed": 0.30456845432088836, "research": "yedyte-factory", "category": "distribution"}

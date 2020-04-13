@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jihu liquid router", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "jihu", "amount": 18}, {"item": "silicon", "amount": 19}, {"item": "zyqita", "amount": 8}], "research": "jihu-conduit", "liquidCapacity": 10, "category": "liquid"}

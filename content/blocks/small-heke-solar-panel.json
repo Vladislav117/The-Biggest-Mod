@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small heke solar panel", "description": "...", "size": 1, "health": 118, "requirements": [{"item": "heke", "amount": 11}, {"item": "bebofo", "amount": 10}, {"item": "tivy", "amount": 7}], "research": "heke-factory", "powerProduction": 5.837493459882013, "category": "power"}

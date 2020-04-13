@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cecuvinium junction", "description": "...", "health": 16, "speed": 20, "capacity": 19, "size": 1, "requirements": [{"item": "cecuvinium", "amount": 3}, {"item": "zereka", "amount": 1}], "research": "cecuvinium-conveyor", "category": "distribution"}

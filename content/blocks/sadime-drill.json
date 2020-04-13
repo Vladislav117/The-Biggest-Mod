@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sadime drill", "description": "...", "size": 2, "health": 137, "tier": 4, "drillTime": 16, "consumes": {"power": 19}, "requirements": [{"item": "sadime", "amount": 6}, {"item": "kaye", "amount": 16}, {"item": "puqege", "amount": 1}], "research": "sadime-factory", "category": "production"}

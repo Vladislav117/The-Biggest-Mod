@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hajybe power node", "description": "...", "size": 2, "health": 590, "requirements": [{"item": "hajybe", "amount": 15}, {"item": "furazinium", "amount": 15}, {"item": "saxa", "amount": 8}], "research": "hajybe-factory", "maxNodes": 18, "laserRange": 23, "category": "power"}

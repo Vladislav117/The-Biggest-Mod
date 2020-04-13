@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "piny solar panel", "description": "...", "size": 3, "health": 142, "requirements": [{"item": "piny", "amount": 14}, {"item": "wyra", "amount": 2}, {"item": "xuve", "amount": 7}], "research": "piny-factory", "powerProduction": 3.9429856162562698, "category": "power"}

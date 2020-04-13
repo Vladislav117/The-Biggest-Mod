@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tygoqa power node", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "tygoqa", "amount": 7}, {"item": "ridu", "amount": 2}, {"item": "yudafa", "amount": 7}], "research": "tygoqa-factory", "maxNodes": 21, "laserRange": 16, "category": "power"}

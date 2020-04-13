@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bajenium solar panel", "description": "...", "size": 1, "health": 274, "requirements": [{"item": "bajenium", "amount": 1}, {"item": "graphite", "amount": 4}, {"item": "syteja", "amount": 10}], "research": "bajenium-factory", "powerProduction": 3.9738375509601456, "category": "power"}

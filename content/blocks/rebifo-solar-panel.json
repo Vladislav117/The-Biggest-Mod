@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rebifo solar panel", "description": "...", "size": 3, "health": 359, "requirements": [{"item": "rebifo", "amount": 6}, {"item": "segi", "amount": 2}, {"item": "yupo", "amount": 7}], "research": "rebifo-factory", "powerProduction": 0.6720381051480869, "category": "power"}

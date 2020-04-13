@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zolosi underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "zolosi", "amount": 5}, {"item": "deco", "amount": 1}], "research": "zolosi-conveyor", "category": "distribution", "invert": false}

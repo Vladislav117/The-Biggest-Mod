@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zome liquid tank", "description": "...", "health": 583, "size": 3, "requirements": [{"item": "zome", "amount": 12}, {"item": "rozy", "amount": 7}, {"item": "kaye", "amount": 7}], "research": "zome-conduit", "category": "liquid", "liquidCapacity": 22647, "hasLiquids": true}

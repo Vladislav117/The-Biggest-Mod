@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nilo power node", "description": "...", "size": 1, "health": 176, "requirements": [{"item": "nilo", "amount": 18}, {"item": "wasu", "amount": 9}, {"item": "ryjy", "amount": 8}], "research": "nilo-factory", "maxNodes": 28, "laserRange": 20, "category": "power"}

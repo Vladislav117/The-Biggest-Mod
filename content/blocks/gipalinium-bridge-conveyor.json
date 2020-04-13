@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gipalinium bridge conveyor", "description": "", "health": 16, "range": 19, "speed": 10, "bufferCapacity": 23, "requirements": [{"item": "gipalinium", "amount": 3}, {"item": "yoqije", "amount": 1}], "research": "gipalinium-conveyor", "category": "distribution", "size": 1}

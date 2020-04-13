@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tefipi junction", "description": "...", "health": 41, "speed": 10, "capacity": 11, "size": 1, "requirements": [{"item": "tefipi", "amount": 1}, {"item": "lebu", "amount": 4}], "research": "tefipi-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gyfeca drill", "description": "...", "size": 2, "health": 112, "tier": 3, "drillTime": 16, "consumes": {"power": 13}, "requirements": [{"item": "gyfeca", "amount": 20}, {"item": "togygi", "amount": 2}, {"item": "pyto", "amount": 9}], "research": "gyfeca-factory", "category": "production"}

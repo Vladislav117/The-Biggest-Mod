@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small riwinium battery", "description": "...", "size": 1, "health": 251, "requirements": [{"item": "riwinium", "amount": 13}, {"item": "qujuyi", "amount": 4}, {"item": "dysiwe", "amount": 4}], "research": "riwinium-factory", "consumes": {"powerBuffered": 792}, "category": "power"}

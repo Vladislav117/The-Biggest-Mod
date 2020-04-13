@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "viwafy inverted sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "viwafy", "amount": 4}, {"item": "dyju", "amount": 2}], "research": "viwafy-conveyor", "category": "distribution", "invert": true}

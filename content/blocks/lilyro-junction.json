@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lilyro junction", "description": "...", "health": 5, "speed": 9, "capacity": 13, "size": 1, "requirements": [{"item": "lilyro", "amount": 3}, {"item": "pele", "amount": 3}], "research": "lilyro-conveyor", "category": "distribution"}

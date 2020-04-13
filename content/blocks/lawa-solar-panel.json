@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lawa solar panel", "description": "...", "size": 3, "health": 344, "requirements": [{"item": "lawa", "amount": 15}, {"item": "winyjo", "amount": 20}, {"item": "wohy", "amount": 8}], "research": "lawa-factory", "powerProduction": 0.19599192603064564, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xuzukinium liquid tank", "description": "...", "health": 605, "size": 3, "requirements": [{"item": "xuzukinium", "amount": 16}, {"item": "gonu", "amount": 14}, {"item": "pudoki", "amount": 10}], "research": "xuzukinium-conduit", "category": "liquid", "liquidCapacity": 58194, "hasLiquids": true}

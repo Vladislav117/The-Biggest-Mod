@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cafy conduit", "description": "...", "health": 160, "requirements": [{"item": "cafy", "amount": 15}, {"item": "soki", "amount": 17}, {"item": "rukonium", "amount": 8}], "liquidCapacity": 45, "liquidPressure": 0, "research": "cafy-factory", "category": "liquid"}

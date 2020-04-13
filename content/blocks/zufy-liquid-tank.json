@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zufy liquid tank", "description": "...", "health": 414, "size": 3, "requirements": [{"item": "zufy", "amount": 5}, {"item": "zareba", "amount": 13}, {"item": "mynizo", "amount": 6}], "research": "zufy-conduit", "category": "liquid", "liquidCapacity": 44728, "hasLiquids": true}

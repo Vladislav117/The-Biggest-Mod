@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bexebu liquid tank", "description": "...", "health": 206, "size": 3, "requirements": [{"item": "bexebu", "amount": 5}, {"item": "jeviyu", "amount": 19}, {"item": "ceyi", "amount": 6}], "research": "bexebu-conduit", "category": "liquid", "liquidCapacity": 66586, "hasLiquids": true}

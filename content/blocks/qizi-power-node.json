@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qizi power node", "description": "...", "size": 2, "health": 82, "requirements": [{"item": "qizi", "amount": 17}, {"item": "qiwise", "amount": 3}, {"item": "sysone", "amount": 3}], "research": "qizi-factory", "maxNodes": 53, "laserRange": 29, "category": "power"}

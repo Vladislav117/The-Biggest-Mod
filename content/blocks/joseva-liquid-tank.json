@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "joseva liquid tank", "description": "...", "health": 598, "size": 3, "requirements": [{"item": "joseva", "amount": 19}, {"item": "roqeki", "amount": 9}, {"item": "tagawe", "amount": 6}], "research": "joseva-conduit", "category": "liquid", "liquidCapacity": 75013, "hasLiquids": true}

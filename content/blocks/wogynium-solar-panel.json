@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wogynium solar panel", "description": "...", "size": 3, "health": 240, "requirements": [{"item": "wogynium", "amount": 8}, {"item": "mapa", "amount": 20}, {"item": "loxemenium", "amount": 6}], "research": "wogynium-factory", "powerProduction": 0.4778354244235056, "category": "power"}

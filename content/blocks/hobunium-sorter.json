@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hobunium sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "hobunium", "amount": 2}, {"item": "cygyya", "amount": 2}], "research": "hobunium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kikanium power node", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "kikanium", "amount": 16}, {"item": "hotonium", "amount": 3}, {"item": "fexaja", "amount": 9}], "research": "kikanium-factory", "maxNodes": 9, "laserRange": 6, "category": "power"}

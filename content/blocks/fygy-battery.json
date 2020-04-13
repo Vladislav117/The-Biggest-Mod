@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fygy battery", "description": "...", "size": 3, "health": 87, "requirements": [{"item": "fygy", "amount": 4}, {"item": "yemo", "amount": 7}, {"item": "tuma", "amount": 9}], "research": "fygy-factory", "consumes": {"powerBuffered": 8388}, "category": "power"}

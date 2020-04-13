@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "peguca drill", "description": "...", "size": 2, "health": 290, "tier": 2, "drillTime": 3, "consumes": {"power": 17}, "requirements": [{"item": "peguca", "amount": 4}, {"item": "byqo", "amount": 9}, {"item": "hudolo", "amount": 6}], "research": "peguca-factory", "category": "production"}

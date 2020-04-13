@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dina bridge conveyor", "description": "", "health": 50, "range": 20, "speed": 3, "bufferCapacity": 15, "requirements": [{"item": "dina", "amount": 1}, {"item": "pawynium", "amount": 2}], "research": "dina-conveyor", "category": "distribution", "size": 1}

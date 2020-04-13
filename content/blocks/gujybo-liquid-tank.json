@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gujybo liquid tank", "description": "...", "health": 470, "size": 3, "requirements": [{"item": "gujybo", "amount": 5}, {"item": "ravyku", "amount": 14}, {"item": "nuno", "amount": 8}], "research": "gujybo-conduit", "category": "liquid", "liquidCapacity": 41404, "hasLiquids": true}

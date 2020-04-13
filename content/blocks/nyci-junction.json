@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nyci junction", "description": "...", "health": 41, "speed": 13, "capacity": 15, "size": 1, "requirements": [{"item": "nyci", "amount": 3}, {"item": "gemoco", "amount": 1}], "research": "nyci-conveyor", "category": "distribution"}

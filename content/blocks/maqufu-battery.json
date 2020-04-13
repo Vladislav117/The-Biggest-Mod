@@ -1,0 +1,1 @@
+{"type": "battery", "name": "maqufu battery", "description": "...", "size": 3, "health": 312, "requirements": [{"item": "maqufu", "amount": 13}, {"item": "jihu", "amount": 14}, {"item": "tomufa", "amount": 8}], "research": "maqufu-factory", "consumes": {"powerBuffered": 10000}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mapoya sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "mapoya", "amount": 4}, {"item": "nuso", "amount": 5}], "research": "mapoya-conveyor", "category": "distribution", "invert": false}

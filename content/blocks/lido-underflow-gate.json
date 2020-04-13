@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lido underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "lido", "amount": 1}, {"item": "kuteme", "amount": 5}], "research": "lido-conveyor", "category": "distribution", "invert": false}

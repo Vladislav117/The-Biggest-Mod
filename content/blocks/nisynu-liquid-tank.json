@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nisynu liquid tank", "description": "...", "health": 587, "size": 3, "requirements": [{"item": "nisynu", "amount": 2}, {"item": "muyimy", "amount": 7}, {"item": "salojanium", "amount": 7}], "research": "nisynu-conduit", "category": "liquid", "liquidCapacity": 102738, "hasLiquids": true}

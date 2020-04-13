@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jatyjenium solar panel", "description": "...", "size": 3, "health": 265, "requirements": [{"item": "jatyjenium", "amount": 2}, {"item": "fifyru", "amount": 11}, {"item": "vedapa", "amount": 9}], "research": "jatyjenium-factory", "powerProduction": 0.6770814791096061, "category": "power"}

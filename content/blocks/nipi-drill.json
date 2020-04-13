@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nipi drill", "description": "...", "size": 3, "health": 120, "tier": 1, "drillTime": 8, "consumes": {"power": 5}, "requirements": [{"item": "nipi", "amount": 2}, {"item": "tibu", "amount": 7}, {"item": "padi", "amount": 10}], "research": "nipi-factory", "category": "production"}

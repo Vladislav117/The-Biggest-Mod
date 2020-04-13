@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small guhile solar panel", "description": "...", "size": 1, "health": 163, "requirements": [{"item": "guhile", "amount": 6}, {"item": "donysenium", "amount": 12}, {"item": "myyu", "amount": 10}], "research": "guhile-factory", "powerProduction": 1.7593326834257734, "category": "power"}

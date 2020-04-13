@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zoyinium power node", "description": "...", "size": 2, "health": 723, "requirements": [{"item": "zoyinium", "amount": 4}, {"item": "qafy", "amount": 15}, {"item": "nogosy", "amount": 3}], "research": "zoyinium-factory", "maxNodes": 37, "laserRange": 29, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "womisa overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "womisa", "amount": 3}, {"item": "dewira", "amount": 4}], "research": "womisa-conveyor", "category": "distribution", "invert": false}

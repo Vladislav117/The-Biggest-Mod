@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wedo drill", "description": "...", "size": 4, "health": 282, "tier": 2, "drillTime": 5, "consumes": {"power": 19}, "requirements": [{"item": "wedo", "amount": 4}, {"item": "jenu", "amount": 4}, {"item": "sivaqi", "amount": 9}], "research": "wedo-factory", "category": "production"}

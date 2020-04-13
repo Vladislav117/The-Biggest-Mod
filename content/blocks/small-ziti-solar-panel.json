@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ziti solar panel", "description": "...", "size": 1, "health": 368, "requirements": [{"item": "ziti", "amount": 8}, {"item": "jaju", "amount": 16}, {"item": "wobuyu", "amount": 8}], "research": "ziti-factory", "powerProduction": 1.6076006897915383, "category": "power"}

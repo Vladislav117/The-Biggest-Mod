@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vevo sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "vevo", "amount": 1}, {"item": "tuxalu", "amount": 2}], "research": "vevo-conveyor", "category": "distribution", "invert": false}

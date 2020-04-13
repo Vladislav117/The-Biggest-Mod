@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zigije power node", "description": "...", "size": 2, "health": 136, "requirements": [{"item": "zigije", "amount": 7}, {"item": "tymy", "amount": 16}, {"item": "bony", "amount": 9}], "research": "zigije-factory", "maxNodes": 47, "laserRange": 10, "category": "power"}

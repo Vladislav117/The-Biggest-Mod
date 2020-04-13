@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qiwu solar panel", "description": "...", "size": 3, "health": 316, "requirements": [{"item": "qiwu", "amount": 3}, {"item": "sukanium", "amount": 4}, {"item": "coka", "amount": 10}], "research": "qiwu-factory", "powerProduction": 0.7454016325016108, "category": "power"}

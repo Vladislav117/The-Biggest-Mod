@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "puqege liquid tank", "description": "...", "health": 435, "size": 3, "requirements": [{"item": "puqege", "amount": 2}, {"item": "puhide", "amount": 7}, {"item": "hotonium", "amount": 4}], "research": "puqege-conduit", "category": "liquid", "liquidCapacity": 109976, "hasLiquids": true}

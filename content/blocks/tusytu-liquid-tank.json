@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tusytu liquid tank", "description": "...", "health": 516, "size": 3, "requirements": [{"item": "tusytu", "amount": 3}, {"item": "qyhoqa", "amount": 6}, {"item": "ragoku", "amount": 1}], "research": "tusytu-conduit", "category": "liquid", "liquidCapacity": 34769, "hasLiquids": true}

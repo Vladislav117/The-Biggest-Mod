@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kawo battery", "description": "...", "size": 1, "health": 346, "requirements": [{"item": "kawo", "amount": 14}, {"item": "wuqosenium", "amount": 3}, {"item": "tezila", "amount": 9}], "research": "kawo-factory", "consumes": {"powerBuffered": 1027}, "category": "power"}

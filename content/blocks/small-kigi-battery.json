@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kigi battery", "description": "...", "size": 1, "health": 166, "requirements": [{"item": "kigi", "amount": 13}, {"item": "vega", "amount": 3}, {"item": "vuna", "amount": 1}], "research": "kigi-factory", "consumes": {"powerBuffered": 1407}, "category": "power"}

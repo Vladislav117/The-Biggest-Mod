@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nota liquid tank", "description": "...", "health": 551, "size": 3, "requirements": [{"item": "nota", "amount": 11}, {"item": "labila", "amount": 4}, {"item": "veqyro", "amount": 2}], "research": "nota-conduit", "category": "liquid", "liquidCapacity": 66884, "hasLiquids": true}

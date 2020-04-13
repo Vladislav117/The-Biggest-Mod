@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rape overflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "rape", "amount": 3}, {"item": "movenium", "amount": 5}], "research": "rape-conveyor", "category": "distribution", "invert": false}

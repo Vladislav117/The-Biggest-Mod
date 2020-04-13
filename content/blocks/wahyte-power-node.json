@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wahyte power node", "description": "...", "size": 2, "health": 290, "requirements": [{"item": "wahyte", "amount": 16}, {"item": "sebeki", "amount": 10}, {"item": "kepa", "amount": 4}], "research": "wahyte-factory", "maxNodes": 48, "laserRange": 19, "category": "power"}

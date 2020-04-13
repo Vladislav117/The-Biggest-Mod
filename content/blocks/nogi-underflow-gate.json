@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nogi underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "nogi", "amount": 3}, {"item": "vesy", "amount": 4}], "research": "nogi-conveyor", "category": "distribution", "invert": false}

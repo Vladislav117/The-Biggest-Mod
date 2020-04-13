@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jayycu solar panel", "description": "...", "size": 1, "health": 312, "requirements": [{"item": "jayycu", "amount": 1}, {"item": "pyge", "amount": 13}, {"item": "ticija", "amount": 1}], "research": "jayycu-factory", "powerProduction": 0.38735914322709536, "category": "power"}

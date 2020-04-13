@@ -1,0 +1,1 @@
+{"type": "battery", "name": "netonium battery", "description": "...", "size": 3, "health": 344, "requirements": [{"item": "netonium", "amount": 9}, {"item": "fepiva", "amount": 18}, {"item": "geka", "amount": 7}], "research": "netonium-factory", "consumes": {"powerBuffered": 6831}, "category": "power"}

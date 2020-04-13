@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kuqi liquid tank", "description": "...", "health": 557, "size": 3, "requirements": [{"item": "kuqi", "amount": 13}, {"item": "gahy", "amount": 10}, {"item": "movenium", "amount": 9}], "research": "kuqi-conduit", "category": "liquid", "liquidCapacity": 107669, "hasLiquids": true}

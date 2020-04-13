@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xurenium battery", "description": "...", "size": 3, "health": 292, "requirements": [{"item": "xurenium", "amount": 12}, {"item": "xedorinium", "amount": 20}, {"item": "jomoka", "amount": 10}], "research": "xurenium-factory", "consumes": {"powerBuffered": 2346}, "category": "power"}

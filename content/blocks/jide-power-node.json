@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jide power node", "description": "...", "size": 2, "health": 15, "requirements": [{"item": "jide", "amount": 17}, {"item": "pucinium", "amount": 14}, {"item": "xafy", "amount": 1}], "research": "jide-factory", "maxNodes": 12, "laserRange": 30, "category": "power"}

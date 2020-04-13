@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jove conduit", "description": "...", "health": 29, "requirements": [{"item": "jove", "amount": 4}, {"item": "waninium", "amount": 4}, {"item": "zire", "amount": 7}], "liquidCapacity": 50, "liquidPressure": 9, "research": "jove-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zuvivynium drill", "description": "...", "size": 2, "health": 179, "tier": 2, "drillTime": 18, "consumes": {"power": 16}, "requirements": [{"item": "zuvivynium", "amount": 20}, {"item": "zufenium", "amount": 6}, {"item": "xocu", "amount": 8}], "research": "zuvivynium-factory", "category": "production"}

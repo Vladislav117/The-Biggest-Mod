@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yujaqe solar panel", "description": "...", "size": 1, "health": 29, "requirements": [{"item": "yujaqe", "amount": 1}, {"item": "lacu", "amount": 7}, {"item": "juzu", "amount": 1}], "research": "yujaqe-factory", "powerProduction": 1.1641222793024661, "category": "power"}

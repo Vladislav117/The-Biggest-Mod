@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small juzydu battery", "description": "...", "size": 1, "health": 297, "requirements": [{"item": "juzydu", "amount": 16}, {"item": "sevo", "amount": 17}, {"item": "kivuzi", "amount": 4}], "research": "juzydu-factory", "consumes": {"powerBuffered": 1538}, "category": "power"}

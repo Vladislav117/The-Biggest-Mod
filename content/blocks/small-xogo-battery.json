@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xogo battery", "description": "...", "size": 1, "health": 152, "requirements": [{"item": "xogo", "amount": 14}, {"item": "nydinium", "amount": 1}, {"item": "zufenium", "amount": 8}], "research": "xogo-factory", "consumes": {"powerBuffered": 1441}, "category": "power"}

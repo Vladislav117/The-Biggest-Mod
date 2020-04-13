@@ -1,0 +1,1 @@
+{"type": "Wall", "name": "pyrafanium wall", "description": "...", "health": 700, "size": 2, "requirements": [{"item": "pyrafanium", "amount": 20}], "research": "pyrafanium-factory", "category": "defense"}

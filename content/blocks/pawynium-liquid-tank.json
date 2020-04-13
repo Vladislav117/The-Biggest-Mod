@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pawynium liquid tank", "description": "...", "health": 365, "size": 3, "requirements": [{"item": "pawynium", "amount": 11}, {"item": "gevu", "amount": 3}, {"item": "biciti", "amount": 5}], "research": "pawynium-conduit", "category": "liquid", "liquidCapacity": 80016, "hasLiquids": true}

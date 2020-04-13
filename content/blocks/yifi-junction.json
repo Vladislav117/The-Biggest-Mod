@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yifi junction", "description": "...", "health": 47, "speed": 8, "capacity": 7, "size": 1, "requirements": [{"item": "yifi", "amount": 3}, {"item": "lokybe", "amount": 4}], "research": "yifi-conveyor", "category": "distribution"}

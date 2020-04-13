@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kibatu conduit", "description": "...", "health": 81, "requirements": [{"item": "kibatu", "amount": 7}, {"item": "nudequ", "amount": 20}, {"item": "goti", "amount": 8}], "liquidCapacity": 16, "liquidPressure": 1, "research": "kibatu-factory", "category": "liquid"}

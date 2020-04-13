@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "maqufu sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "maqufu", "amount": 3}, {"item": "nyboye", "amount": 3}], "research": "maqufu-conveyor", "category": "distribution", "invert": false}

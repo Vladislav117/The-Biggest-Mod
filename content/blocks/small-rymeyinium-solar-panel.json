@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rymeyinium solar panel", "description": "...", "size": 1, "health": 301, "requirements": [{"item": "rymeyinium", "amount": 13}, {"item": "watiju", "amount": 8}, {"item": "bimi", "amount": 1}], "research": "rymeyinium-factory", "powerProduction": 0.0009016080230477087, "category": "power"}

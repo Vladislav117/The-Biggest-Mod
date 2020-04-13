@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small myya battery", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "myya", "amount": 18}, {"item": "yusica", "amount": 18}, {"item": "qusy", "amount": 4}], "research": "myya-factory", "consumes": {"powerBuffered": 428}, "category": "power"}

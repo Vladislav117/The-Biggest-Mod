@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qoha power node", "description": "...", "size": 1, "health": 199, "requirements": [{"item": "qoha", "amount": 5}, {"item": "zywave", "amount": 18}, {"item": "zuwydy", "amount": 4}], "research": "qoha-factory", "maxNodes": 17, "laserRange": 18, "category": "power"}

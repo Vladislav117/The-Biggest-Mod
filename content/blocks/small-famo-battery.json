@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small famo battery", "description": "...", "size": 1, "health": 199, "requirements": [{"item": "famo", "amount": 14}, {"item": "yujaqe", "amount": 12}, {"item": "jaweki", "amount": 9}], "research": "famo-factory", "consumes": {"powerBuffered": 2858}, "category": "power"}

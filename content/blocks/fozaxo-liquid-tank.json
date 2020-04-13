@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fozaxo liquid tank", "description": "...", "health": 169, "size": 3, "requirements": [{"item": "fozaxo", "amount": 12}, {"item": "kypofu", "amount": 8}, {"item": "kuqi", "amount": 5}], "research": "fozaxo-conduit", "category": "liquid", "liquidCapacity": 81187, "hasLiquids": true}

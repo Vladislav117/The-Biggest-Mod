@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kizywanium power node", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "kizywanium", "amount": 16}, {"item": "kyte", "amount": 10}, {"item": "yihe", "amount": 10}], "research": "kizywanium-factory", "maxNodes": 26, "laserRange": 14, "category": "power"}

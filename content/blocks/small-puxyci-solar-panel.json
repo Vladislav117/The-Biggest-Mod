@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small puxyci solar panel", "description": "...", "size": 1, "health": 234, "requirements": [{"item": "puxyci", "amount": 14}, {"item": "hysobe", "amount": 2}, {"item": "meke", "amount": 1}], "research": "puxyci-factory", "powerProduction": 0.1962915396412756, "category": "power"}

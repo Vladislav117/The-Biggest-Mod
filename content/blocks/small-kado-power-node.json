@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kado power node", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "kado", "amount": 15}, {"item": "fykemi", "amount": 16}, {"item": "wuniso", "amount": 8}], "research": "kado-factory", "maxNodes": 30, "laserRange": 23, "category": "power"}

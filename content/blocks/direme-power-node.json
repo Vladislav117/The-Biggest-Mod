@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "direme power node", "description": "...", "size": 2, "health": 753, "requirements": [{"item": "direme", "amount": 1}, {"item": "jylovo", "amount": 8}, {"item": "xydy", "amount": 10}], "research": "direme-factory", "maxNodes": 60, "laserRange": 12, "category": "power"}

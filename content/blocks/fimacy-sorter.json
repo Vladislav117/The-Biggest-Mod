@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fimacy sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "fimacy", "amount": 3}, {"item": "lifuke", "amount": 2}], "research": "fimacy-conveyor", "category": "distribution", "invert": false}

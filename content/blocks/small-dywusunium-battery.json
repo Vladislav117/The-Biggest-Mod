@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dywusunium battery", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "dywusunium", "amount": 2}, {"item": "qigine", "amount": 1}, {"item": "ryheco", "amount": 4}], "research": "dywusunium-factory", "consumes": {"powerBuffered": 1899}, "category": "power"}

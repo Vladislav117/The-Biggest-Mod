@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sixo solar panel", "description": "...", "size": 1, "health": 263, "requirements": [{"item": "sixo", "amount": 20}, {"item": "dase", "amount": 10}, {"item": "tewo", "amount": 10}], "research": "sixo-factory", "powerProduction": 4.473777256480276, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cypi overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "cypi", "amount": 1}, {"item": "labonium", "amount": 2}], "research": "cypi-conveyor", "category": "distribution", "invert": false}

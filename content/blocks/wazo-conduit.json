@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wazo conduit", "description": "...", "health": 44, "requirements": [{"item": "wazo", "amount": 1}, {"item": "wadoka", "amount": 6}, {"item": "yemy", "amount": 6}], "liquidCapacity": 15, "liquidPressure": 3, "research": "wazo-factory", "category": "liquid"}

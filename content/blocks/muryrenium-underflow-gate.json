@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "muryrenium underflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "muryrenium", "amount": 2}, {"item": "sipi", "amount": 1}], "research": "muryrenium-conveyor", "category": "distribution", "invert": false}

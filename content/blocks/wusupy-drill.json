@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wusupy drill", "description": "...", "size": 2, "health": 201, "tier": 2, "drillTime": 4, "consumes": {"power": 4}, "requirements": [{"item": "wusupy", "amount": 1}, {"item": "tebi", "amount": 7}, {"item": "jerenium", "amount": 4}], "research": "wusupy-factory", "category": "production"}

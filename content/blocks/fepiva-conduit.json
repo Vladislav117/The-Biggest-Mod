@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fepiva conduit", "description": "...", "health": 167, "requirements": [{"item": "fepiva", "amount": 11}, {"item": "manihe", "amount": 8}, {"item": "nujunium", "amount": 7}], "liquidCapacity": 21, "liquidPressure": 9, "research": "fepiva-factory", "category": "liquid"}

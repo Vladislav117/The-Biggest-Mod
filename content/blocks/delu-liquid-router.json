@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "delu liquid router", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "delu", "amount": 20}, {"item": "venuki", "amount": 7}, {"item": "rugu", "amount": 2}], "research": "delu-conduit", "liquidCapacity": 10, "category": "liquid"}

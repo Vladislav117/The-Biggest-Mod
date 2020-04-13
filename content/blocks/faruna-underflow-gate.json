@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "faruna underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "faruna", "amount": 2}, {"item": "jywupa", "amount": 2}], "research": "faruna-conveyor", "category": "distribution", "invert": false}

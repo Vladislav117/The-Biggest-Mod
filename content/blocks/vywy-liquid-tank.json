@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vywy liquid tank", "description": "...", "health": 415, "size": 3, "requirements": [{"item": "vywy", "amount": 2}, {"item": "tomufa", "amount": 5}, {"item": "jogi", "amount": 8}], "research": "vywy-conduit", "category": "liquid", "liquidCapacity": 21835, "hasLiquids": true}

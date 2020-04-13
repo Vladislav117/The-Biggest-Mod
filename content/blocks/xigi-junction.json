@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xigi junction", "description": "...", "health": 32, "speed": 17, "capacity": 2, "size": 1, "requirements": [{"item": "xigi", "amount": 4}, {"item": "rehodunium", "amount": 2}], "research": "xigi-conveyor", "category": "distribution"}

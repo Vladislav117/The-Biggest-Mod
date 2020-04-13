@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yafenium battery", "description": "...", "size": 3, "health": 218, "requirements": [{"item": "yafenium", "amount": 4}, {"item": "wohunium", "amount": 19}, {"item": "kelurynium", "amount": 7}], "research": "yafenium-factory", "consumes": {"powerBuffered": 1672}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hojinium conduit", "description": "...", "health": 143, "requirements": [{"item": "hojinium", "amount": 11}, {"item": "xidunium", "amount": 13}, {"item": "hoxy", "amount": 9}], "liquidCapacity": 2, "liquidPressure": 3, "research": "hojinium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dina junction", "description": "...", "health": 16, "speed": 16, "capacity": 20, "size": 1, "requirements": [{"item": "dina", "amount": 2}, {"item": "xyru", "amount": 1}], "research": "dina-conveyor", "category": "distribution"}

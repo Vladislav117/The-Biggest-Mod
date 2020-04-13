@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qenu battery", "description": "...", "size": 3, "health": 31, "requirements": [{"item": "qenu", "amount": 3}, {"item": "xydume", "amount": 8}, {"item": "zazinium", "amount": 3}], "research": "qenu-factory", "consumes": {"powerBuffered": 6283}, "category": "power"}

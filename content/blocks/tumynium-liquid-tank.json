@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tumynium liquid tank", "description": "...", "health": 611, "size": 3, "requirements": [{"item": "tumynium", "amount": 5}, {"item": "qocynium", "amount": 9}, {"item": "kozivo", "amount": 10}], "research": "tumynium-conduit", "category": "liquid", "liquidCapacity": 56970, "hasLiquids": true}

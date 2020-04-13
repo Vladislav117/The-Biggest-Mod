@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cetemy solar panel", "description": "...", "size": 3, "health": 46, "requirements": [{"item": "cetemy", "amount": 14}, {"item": "myhaxu", "amount": 14}, {"item": "rexo", "amount": 5}], "research": "cetemy-factory", "powerProduction": 0.442897104000123, "category": "power"}

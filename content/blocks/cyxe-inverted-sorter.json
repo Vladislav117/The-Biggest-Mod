@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cyxe inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "cyxe", "amount": 5}, {"item": "cukoby", "amount": 1}], "research": "cyxe-conveyor", "category": "distribution", "invert": true}

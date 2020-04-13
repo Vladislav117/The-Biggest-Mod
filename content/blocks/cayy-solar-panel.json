@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cayy solar panel", "description": "...", "size": 3, "health": 173, "requirements": [{"item": "cayy", "amount": 12}, {"item": "mafe", "amount": 18}, {"item": "kudanium", "amount": 6}], "research": "cayy-factory", "powerProduction": 2.169015522511079, "category": "power"}

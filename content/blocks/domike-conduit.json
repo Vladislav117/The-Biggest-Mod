@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "domike conduit", "description": "...", "health": 82, "requirements": [{"item": "domike", "amount": 10}, {"item": "vewi", "amount": 16}, {"item": "pesy", "amount": 7}], "liquidCapacity": 25, "liquidPressure": 0, "research": "domike-factory", "category": "liquid"}

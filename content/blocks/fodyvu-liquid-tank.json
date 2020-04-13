@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fodyvu liquid tank", "description": "...", "health": 629, "size": 3, "requirements": [{"item": "fodyvu", "amount": 2}, {"item": "nudady", "amount": 4}, {"item": "nikoru", "amount": 4}], "research": "fodyvu-conduit", "category": "liquid", "liquidCapacity": 50140, "hasLiquids": true}

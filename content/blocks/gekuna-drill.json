@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gekuna drill", "description": "...", "size": 3, "health": 382, "tier": 4, "drillTime": 5, "consumes": {"power": 11}, "requirements": [{"item": "gekuna", "amount": 15}, {"item": "piwu", "amount": 8}, {"item": "mubu", "amount": 10}], "research": "gekuna-factory", "category": "production"}

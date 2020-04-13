@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "surenium bridge conveyor", "description": "", "health": 45, "range": 1, "speed": 16, "bufferCapacity": 12, "requirements": [{"item": "surenium", "amount": 1}, {"item": "lead", "amount": 4}], "research": "surenium-conveyor", "category": "distribution", "size": 1}

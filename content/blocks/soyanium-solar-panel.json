@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "soyanium solar panel", "description": "...", "size": 3, "health": 89, "requirements": [{"item": "soyanium", "amount": 11}, {"item": "pydi", "amount": 12}, {"item": "fulanium", "amount": 5}], "research": "soyanium-factory", "powerProduction": 1.5938908391512063, "category": "power"}

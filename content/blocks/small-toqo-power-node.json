@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small toqo power node", "description": "...", "size": 1, "health": 138, "requirements": [{"item": "toqo", "amount": 19}, {"item": "wisy", "amount": 4}, {"item": "cogy", "amount": 2}], "research": "toqo-factory", "maxNodes": 3, "laserRange": 10, "category": "power"}

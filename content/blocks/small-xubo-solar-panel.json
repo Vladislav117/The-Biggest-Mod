@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xubo solar panel", "description": "...", "size": 1, "health": 142, "requirements": [{"item": "xubo", "amount": 8}, {"item": "zilobynium", "amount": 17}, {"item": "fogodo", "amount": 6}], "research": "xubo-factory", "powerProduction": 2.3555783851891543, "category": "power"}

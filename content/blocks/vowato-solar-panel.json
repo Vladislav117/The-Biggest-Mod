@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vowato solar panel", "description": "...", "size": 3, "health": 101, "requirements": [{"item": "vowato", "amount": 4}, {"item": "movanium", "amount": 9}, {"item": "mavi", "amount": 10}], "research": "vowato-factory", "powerProduction": 1.7978397215876978, "category": "power"}

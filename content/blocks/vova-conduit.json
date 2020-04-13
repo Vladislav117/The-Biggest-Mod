@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vova conduit", "description": "...", "health": 178, "requirements": [{"item": "vova", "amount": 5}, {"item": "meyo", "amount": 3}, {"item": "xegonium", "amount": 9}], "liquidCapacity": 11, "liquidPressure": 5, "research": "vova-factory", "category": "liquid"}

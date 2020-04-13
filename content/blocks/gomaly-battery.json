@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gomaly battery", "description": "...", "size": 3, "health": 66, "requirements": [{"item": "gomaly", "amount": 19}, {"item": "cecuvinium", "amount": 4}, {"item": "puwasy", "amount": 3}], "research": "gomaly-factory", "consumes": {"powerBuffered": 8277}, "category": "power"}

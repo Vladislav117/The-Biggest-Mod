@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pagygu solar panel", "description": "...", "size": 3, "health": 79, "requirements": [{"item": "pagygu", "amount": 3}, {"item": "fuyanium", "amount": 1}, {"item": "neronium", "amount": 9}], "research": "pagygu-factory", "powerProduction": 3.3011057162537387, "category": "power"}

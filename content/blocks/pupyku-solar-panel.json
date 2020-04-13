@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pupyku solar panel", "description": "...", "size": 3, "health": 230, "requirements": [{"item": "pupyku", "amount": 12}, {"item": "yunu", "amount": 19}, {"item": "furazinium", "amount": 10}], "research": "pupyku-factory", "powerProduction": 2.3367909441977996, "category": "power"}

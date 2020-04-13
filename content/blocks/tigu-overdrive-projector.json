@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "tigu overdrive projector", "description": "...", "health": 53, "consumes": {"power": 3.0, "item": "tigu"}, "size": 2, "requirements": [{"item": "tigu", "amount": 7}, {"item": "luzinium", "amount": 18}, {"item": "qepyvonium", "amount": 8}], "research": "tigu-factory", "category": "effect"}

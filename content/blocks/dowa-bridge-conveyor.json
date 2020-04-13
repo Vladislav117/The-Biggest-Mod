@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dowa bridge conveyor", "description": "", "health": 11, "range": 18, "speed": 11, "bufferCapacity": 4, "requirements": [{"item": "dowa", "amount": 1}, {"item": "heda", "amount": 5}], "research": "dowa-conveyor", "category": "distribution", "size": 1}

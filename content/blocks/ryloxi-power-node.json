@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ryloxi power node", "description": "...", "size": 2, "health": 630, "requirements": [{"item": "ryloxi", "amount": 3}, {"item": "syso", "amount": 19}, {"item": "hetyjo", "amount": 4}], "research": "ryloxi-factory", "maxNodes": 15, "laserRange": 17, "category": "power"}

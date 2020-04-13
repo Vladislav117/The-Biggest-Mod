@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ruqe battery", "description": "...", "size": 3, "health": 68, "requirements": [{"item": "ruqe", "amount": 8}, {"item": "bimi", "amount": 11}, {"item": "hufema", "amount": 8}], "research": "ruqe-factory", "consumes": {"powerBuffered": 7103}, "category": "power"}

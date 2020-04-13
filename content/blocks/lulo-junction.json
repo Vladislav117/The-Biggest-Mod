@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lulo junction", "description": "...", "health": 2, "speed": 12, "capacity": 19, "size": 1, "requirements": [{"item": "lulo", "amount": 4}, {"item": "togonium", "amount": 5}], "research": "lulo-conveyor", "category": "distribution"}

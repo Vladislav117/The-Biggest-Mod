@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sebypa liquid tank", "description": "...", "health": 280, "size": 3, "requirements": [{"item": "sebypa", "amount": 13}, {"item": "zufo", "amount": 2}, {"item": "xydume", "amount": 7}], "research": "sebypa-conduit", "category": "liquid", "liquidCapacity": 99582, "hasLiquids": true}

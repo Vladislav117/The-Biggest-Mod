@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "somufu power node", "description": "...", "size": 2, "health": 626, "requirements": [{"item": "somufu", "amount": 20}, {"item": "patyco", "amount": 5}, {"item": "byyu", "amount": 3}], "research": "somufu-factory", "maxNodes": 27, "laserRange": 25, "category": "power"}

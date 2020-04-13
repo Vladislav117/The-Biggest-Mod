@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mehenium underflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "mehenium", "amount": 2}, {"item": "gypunium", "amount": 5}], "research": "mehenium-conveyor", "category": "distribution", "invert": false}

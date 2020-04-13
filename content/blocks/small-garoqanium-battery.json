@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small garoqanium battery", "description": "...", "size": 1, "health": 220, "requirements": [{"item": "garoqanium", "amount": 16}, {"item": "rybiho", "amount": 6}, {"item": "nuko", "amount": 8}], "research": "garoqanium-factory", "consumes": {"powerBuffered": 2621}, "category": "power"}

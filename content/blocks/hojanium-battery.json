@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hojanium battery", "description": "...", "size": 3, "health": 200, "requirements": [{"item": "hojanium", "amount": 8}, {"item": "lyseju", "amount": 4}, {"item": "metadu", "amount": 3}], "research": "hojanium-factory", "consumes": {"powerBuffered": 2601}, "category": "power"}

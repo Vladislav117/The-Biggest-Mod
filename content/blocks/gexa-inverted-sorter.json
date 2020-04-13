@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gexa inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "gexa", "amount": 5}, {"item": "qyyalo", "amount": 4}], "research": "gexa-conveyor", "category": "distribution", "invert": true}

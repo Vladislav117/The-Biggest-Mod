@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small loceli solar panel", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "loceli", "amount": 2}, {"item": "zoqy", "amount": 18}, {"item": "kyrafinium", "amount": 3}], "research": "loceli-factory", "powerProduction": 1.6611073977489674, "category": "power"}

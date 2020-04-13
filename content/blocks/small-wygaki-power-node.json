@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wygaki power node", "description": "...", "size": 1, "health": 374, "requirements": [{"item": "wygaki", "amount": 14}, {"item": "yudafa", "amount": 6}, {"item": "neloto", "amount": 8}], "research": "wygaki-factory", "maxNodes": 4, "laserRange": 20, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lafily underflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "lafily", "amount": 4}, {"item": "wybenium", "amount": 2}], "research": "lafily-conveyor", "category": "distribution", "invert": false}

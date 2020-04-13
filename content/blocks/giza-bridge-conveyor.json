@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "giza bridge conveyor", "description": "", "health": 25, "range": 15, "speed": 17, "bufferCapacity": 3, "requirements": [{"item": "giza", "amount": 2}, {"item": "siwi", "amount": 4}], "research": "giza-conveyor", "category": "distribution", "size": 1}

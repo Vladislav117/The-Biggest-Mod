@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lipo battery", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "lipo", "amount": 8}, {"item": "tuxu", "amount": 19}, {"item": "fogodo", "amount": 2}], "research": "lipo-factory", "consumes": {"powerBuffered": 1434}, "category": "power"}

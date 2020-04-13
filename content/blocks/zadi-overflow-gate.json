@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zadi overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "zadi", "amount": 1}, {"item": "hewunium", "amount": 4}], "research": "zadi-conveyor", "category": "distribution", "invert": false}

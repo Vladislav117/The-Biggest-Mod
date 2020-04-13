@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mivini battery", "description": "...", "size": 3, "health": 227, "requirements": [{"item": "mivini", "amount": 5}, {"item": "pijewu", "amount": 10}, {"item": "qaty", "amount": 6}], "research": "mivini-factory", "consumes": {"powerBuffered": 7973}, "category": "power"}

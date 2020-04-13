@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vosuxynium power node", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "vosuxynium", "amount": 10}, {"item": "rebanium", "amount": 11}, {"item": "seda", "amount": 9}], "research": "vosuxynium-factory", "maxNodes": 26, "laserRange": 24, "category": "power"}

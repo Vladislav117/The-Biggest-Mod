@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sagenium inverted sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "sagenium", "amount": 5}, {"item": "xycowy", "amount": 1}], "research": "sagenium-conveyor", "category": "distribution", "invert": true}

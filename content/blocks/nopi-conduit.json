@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nopi conduit", "description": "...", "health": 51, "requirements": [{"item": "nopi", "amount": 1}, {"item": "qoseji", "amount": 16}, {"item": "jikesi", "amount": 9}], "liquidCapacity": 39, "liquidPressure": 8, "research": "nopi-factory", "category": "liquid"}

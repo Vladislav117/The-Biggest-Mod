@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lunido junction", "description": "...", "health": 2, "speed": 19, "capacity": 12, "size": 1, "requirements": [{"item": "lunido", "amount": 5}, {"item": "kywowa", "amount": 5}], "research": "lunido-conveyor", "category": "distribution"}

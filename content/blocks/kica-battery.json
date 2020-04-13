@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kica battery", "description": "...", "size": 3, "health": 194, "requirements": [{"item": "kica", "amount": 9}, {"item": "toni", "amount": 14}, {"item": "yyko", "amount": 2}], "research": "kica-factory", "consumes": {"powerBuffered": 2088}, "category": "power"}

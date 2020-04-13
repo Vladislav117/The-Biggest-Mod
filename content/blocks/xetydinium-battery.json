@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xetydinium battery", "description": "...", "size": 3, "health": 369, "requirements": [{"item": "xetydinium", "amount": 12}, {"item": "fica", "amount": 12}, {"item": "cida", "amount": 1}], "research": "xetydinium-factory", "consumes": {"powerBuffered": 2427}, "category": "power"}

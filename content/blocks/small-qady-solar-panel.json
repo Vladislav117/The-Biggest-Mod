@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qady solar panel", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "qady", "amount": 10}, {"item": "rajubanium", "amount": 7}, {"item": "cokigo", "amount": 1}], "research": "qady-factory", "powerProduction": 3.3790072025720925, "category": "power"}

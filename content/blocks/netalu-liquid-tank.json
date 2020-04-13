@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "netalu liquid tank", "description": "...", "health": 170, "size": 3, "requirements": [{"item": "netalu", "amount": 7}, {"item": "dose", "amount": 4}, {"item": "pyrynium", "amount": 1}], "research": "netalu-conduit", "category": "liquid", "liquidCapacity": 95742, "hasLiquids": true}

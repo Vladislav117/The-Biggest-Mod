@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "temaso inverted sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "temaso", "amount": 3}, {"item": "nufaye", "amount": 3}], "research": "temaso-conveyor", "category": "distribution", "invert": true}

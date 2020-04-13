@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "walorunium bridge conveyor", "description": "", "health": 12, "range": 1, "speed": 2, "bufferCapacity": 22, "requirements": [{"item": "walorunium", "amount": 4}, {"item": "lofypy", "amount": 1}], "research": "walorunium-conveyor", "category": "distribution", "size": 1}

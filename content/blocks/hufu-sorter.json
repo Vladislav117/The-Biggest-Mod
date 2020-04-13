@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hufu sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "hufu", "amount": 5}, {"item": "mygi", "amount": 2}], "research": "hufu-conveyor", "category": "distribution", "invert": false}

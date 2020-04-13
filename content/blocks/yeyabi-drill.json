@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yeyabi drill", "description": "...", "size": 4, "health": 440, "tier": 2, "drillTime": 7, "consumes": {"power": 5}, "requirements": [{"item": "yeyabi", "amount": 11}, {"item": "juzydu", "amount": 19}, {"item": "dugugo", "amount": 8}], "research": "yeyabi-factory", "category": "production"}

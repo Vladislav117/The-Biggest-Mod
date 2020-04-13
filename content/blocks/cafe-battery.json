@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cafe battery", "description": "...", "size": 3, "health": 22, "requirements": [{"item": "cafe", "amount": 20}, {"item": "juwyso", "amount": 1}, {"item": "xinodunium", "amount": 4}], "research": "cafe-factory", "consumes": {"powerBuffered": 5459}, "category": "power"}

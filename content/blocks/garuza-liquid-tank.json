@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "garuza liquid tank", "description": "...", "health": 164, "size": 3, "requirements": [{"item": "garuza", "amount": 3}, {"item": "pufere", "amount": 12}, {"item": "hozanium", "amount": 10}], "research": "garuza-conduit", "category": "liquid", "liquidCapacity": 38405, "hasLiquids": true}

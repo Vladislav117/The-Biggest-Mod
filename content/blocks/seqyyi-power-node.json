@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "seqyyi power node", "description": "...", "size": 2, "health": 404, "requirements": [{"item": "seqyyi", "amount": 11}, {"item": "luvonium", "amount": 20}, {"item": "nezexe", "amount": 9}], "research": "seqyyi-factory", "maxNodes": 27, "laserRange": 18, "category": "power"}

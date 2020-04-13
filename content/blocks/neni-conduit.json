@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "neni conduit", "description": "...", "health": 30, "requirements": [{"item": "neni", "amount": 4}, {"item": "gyporu", "amount": 19}, {"item": "hylonium", "amount": 3}], "liquidCapacity": 47, "liquidPressure": 6, "research": "neni-factory", "category": "liquid"}

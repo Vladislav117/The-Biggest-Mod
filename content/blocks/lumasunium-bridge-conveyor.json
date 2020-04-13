@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lumasunium bridge conveyor", "description": "", "health": 46, "range": 18, "speed": 3, "bufferCapacity": 7, "requirements": [{"item": "lumasunium", "amount": 5}, {"item": "giyaju", "amount": 4}], "research": "lumasunium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "liseso junction", "description": "...", "health": 8, "speed": 12, "capacity": 6, "size": 1, "requirements": [{"item": "liseso", "amount": 1}, {"item": "nito", "amount": 5}], "research": "liseso-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zokoya solar panel", "description": "...", "size": 1, "health": 372, "requirements": [{"item": "zokoya", "amount": 5}, {"item": "wino", "amount": 6}, {"item": "huky", "amount": 8}], "research": "zokoya-factory", "powerProduction": 8.583285704084815, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kanuya drill", "description": "...", "size": 2, "health": 435, "tier": 4, "drillTime": 9, "consumes": {"power": 11}, "requirements": [{"item": "kanuya", "amount": 6}, {"item": "gizomanium", "amount": 11}, {"item": "jayi", "amount": 3}], "research": "kanuya-factory", "category": "production"}

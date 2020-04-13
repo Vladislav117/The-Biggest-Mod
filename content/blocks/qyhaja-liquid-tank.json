@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qyhaja liquid tank", "description": "...", "health": 656, "size": 3, "requirements": [{"item": "qyhaja", "amount": 13}, {"item": "riwe", "amount": 18}, {"item": "dowa", "amount": 1}], "research": "qyhaja-conduit", "category": "liquid", "liquidCapacity": 117088, "hasLiquids": true}

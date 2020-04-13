@@ -1,0 +1,1 @@
+{"type": "junction", "name": "subece junction", "description": "...", "health": 34, "speed": 5, "capacity": 3, "size": 1, "requirements": [{"item": "subece", "amount": 1}, {"item": "yynylo", "amount": 5}], "research": "subece-conveyor", "category": "distribution"}

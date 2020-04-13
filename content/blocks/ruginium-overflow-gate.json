@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ruginium overflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "ruginium", "amount": 1}, {"item": "zotonium", "amount": 2}], "research": "ruginium-conveyor", "category": "distribution", "invert": false}

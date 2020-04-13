@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xejo solar panel", "description": "...", "size": 3, "health": 305, "requirements": [{"item": "xejo", "amount": 6}, {"item": "fytuve", "amount": 13}, {"item": "vewavu", "amount": 2}], "research": "xejo-factory", "powerProduction": 0.026149480014342415, "category": "power"}

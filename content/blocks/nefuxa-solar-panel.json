@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nefuxa solar panel", "description": "...", "size": 3, "health": 252, "requirements": [{"item": "nefuxa", "amount": 5}, {"item": "tozenium", "amount": 3}, {"item": "vapoqanium", "amount": 5}], "research": "nefuxa-factory", "powerProduction": 0.3699941155626119, "category": "power"}

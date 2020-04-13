@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xejunium solar panel", "description": "...", "size": 3, "health": 118, "requirements": [{"item": "xejunium", "amount": 16}, {"item": "tifi", "amount": 18}, {"item": "bamubu", "amount": 7}], "research": "xejunium-factory", "powerProduction": 0.02245115007263363, "category": "power"}

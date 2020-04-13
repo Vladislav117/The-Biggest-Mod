@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ryma solar panel", "description": "...", "size": 1, "health": 393, "requirements": [{"item": "ryma", "amount": 20}, {"item": "nybaranium", "amount": 18}, {"item": "gyfeca", "amount": 5}], "research": "ryma-factory", "powerProduction": 0.86333248419469, "category": "power"}

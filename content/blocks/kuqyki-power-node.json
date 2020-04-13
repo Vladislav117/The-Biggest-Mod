@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kuqyki power node", "description": "...", "size": 2, "health": 450, "requirements": [{"item": "kuqyki", "amount": 15}, {"item": "fyhuxonium", "amount": 10}, {"item": "mipage", "amount": 6}], "research": "kuqyki-factory", "maxNodes": 14, "laserRange": 19, "category": "power"}

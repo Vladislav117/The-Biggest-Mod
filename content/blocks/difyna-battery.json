@@ -1,0 +1,1 @@
+{"type": "battery", "name": "difyna battery", "description": "...", "size": 3, "health": 230, "requirements": [{"item": "difyna", "amount": 5}, {"item": "tatavo", "amount": 12}, {"item": "juqerunium", "amount": 6}], "research": "difyna-factory", "consumes": {"powerBuffered": 8792}, "category": "power"}

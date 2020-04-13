@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kowonium battery", "description": "...", "size": 3, "health": 373, "requirements": [{"item": "kowonium", "amount": 13}, {"item": "kejinium", "amount": 10}, {"item": "hixe", "amount": 3}], "research": "kowonium-factory", "consumes": {"powerBuffered": 6781}, "category": "power"}

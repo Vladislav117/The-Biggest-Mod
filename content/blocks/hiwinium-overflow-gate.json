@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hiwinium overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "hiwinium", "amount": 5}, {"item": "qyjysu", "amount": 3}], "research": "hiwinium-conveyor", "category": "distribution", "invert": false}

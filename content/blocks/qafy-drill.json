@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qafy drill", "description": "...", "size": 2, "health": 302, "tier": 4, "drillTime": 15, "consumes": {"power": 7}, "requirements": [{"item": "qafy", "amount": 20}, {"item": "jaju", "amount": 7}, {"item": "pamyka", "amount": 3}], "research": "qafy-factory", "category": "production"}

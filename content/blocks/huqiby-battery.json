@@ -1,0 +1,1 @@
+{"type": "battery", "name": "huqiby battery", "description": "...", "size": 3, "health": 211, "requirements": [{"item": "huqiby", "amount": 18}, {"item": "bube", "amount": 15}, {"item": "ruvudo", "amount": 7}], "research": "huqiby-factory", "consumes": {"powerBuffered": 3854}, "category": "power"}

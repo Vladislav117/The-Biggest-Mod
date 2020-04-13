@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gunery battery", "description": "...", "size": 3, "health": 333, "requirements": [{"item": "gunery", "amount": 12}, {"item": "qycu", "amount": 13}, {"item": "xivi", "amount": 1}], "research": "gunery-factory", "consumes": {"powerBuffered": 8379}, "category": "power"}

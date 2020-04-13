@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yeti power node", "description": "...", "size": 1, "health": 130, "requirements": [{"item": "yeti", "amount": 19}, {"item": "deqo", "amount": 5}, {"item": "nirenium", "amount": 7}], "research": "yeti-factory", "maxNodes": 12, "laserRange": 5, "category": "power"}

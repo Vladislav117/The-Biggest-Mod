@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zazinium liquid tank", "description": "...", "health": 656, "size": 3, "requirements": [{"item": "zazinium", "amount": 2}, {"item": "velewo", "amount": 4}, {"item": "toni", "amount": 9}], "research": "zazinium-conduit", "category": "liquid", "liquidCapacity": 82995, "hasLiquids": true}

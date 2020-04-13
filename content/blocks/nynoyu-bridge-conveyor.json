@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nynoyu bridge conveyor", "description": "", "health": 38, "range": 9, "speed": 2, "bufferCapacity": 2, "requirements": [{"item": "nynoyu", "amount": 5}, {"item": "sytafe", "amount": 2}], "research": "nynoyu-conveyor", "category": "distribution", "size": 1}

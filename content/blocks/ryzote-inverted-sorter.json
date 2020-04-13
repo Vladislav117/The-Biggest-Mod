@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ryzote inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "ryzote", "amount": 1}, {"item": "cuwa", "amount": 4}], "research": "ryzote-conveyor", "category": "distribution", "invert": true}

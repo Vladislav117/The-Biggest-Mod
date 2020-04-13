@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ruwecu solar panel", "description": "...", "size": 3, "health": 255, "requirements": [{"item": "ruwecu", "amount": 20}, {"item": "syro", "amount": 18}, {"item": "myyave", "amount": 9}], "research": "ruwecu-factory", "powerProduction": 0.6583188798915731, "category": "power"}

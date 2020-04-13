@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lokybe bridge conveyor", "description": "", "health": 47, "range": 20, "speed": 20, "bufferCapacity": 17, "requirements": [{"item": "lokybe", "amount": 1}, {"item": "kaniyy", "amount": 1}], "research": "lokybe-conveyor", "category": "distribution", "size": 1}

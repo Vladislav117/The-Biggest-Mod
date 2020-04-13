@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bily battery", "description": "...", "size": 3, "health": 63, "requirements": [{"item": "bily", "amount": 12}, {"item": "rudy", "amount": 5}, {"item": "nixigunium", "amount": 2}], "research": "bily-factory", "consumes": {"powerBuffered": 4316}, "category": "power"}

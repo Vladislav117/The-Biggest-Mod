@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gylananium underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "gylananium", "amount": 4}, {"item": "nataki", "amount": 1}], "research": "gylananium-conveyor", "category": "distribution", "invert": false}

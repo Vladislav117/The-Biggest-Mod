@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vypeha overflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "vypeha", "amount": 2}, {"item": "yebyte", "amount": 3}], "research": "vypeha-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kedymi power node", "description": "...", "size": 2, "health": 63, "requirements": [{"item": "kedymi", "amount": 5}, {"item": "qykyzo", "amount": 5}, {"item": "zyhijy", "amount": 10}], "research": "kedymi-factory", "maxNodes": 22, "laserRange": 28, "category": "power"}

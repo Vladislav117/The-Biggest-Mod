@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "difu drill", "description": "...", "size": 3, "health": 200, "tier": 3, "drillTime": 4, "consumes": {"power": 18}, "requirements": [{"item": "difu", "amount": 16}, {"item": "cyxibe", "amount": 1}, {"item": "nyvo", "amount": 8}], "research": "difu-factory", "category": "production"}

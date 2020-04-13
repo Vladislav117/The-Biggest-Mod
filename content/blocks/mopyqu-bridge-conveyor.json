@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mopyqu bridge conveyor", "description": "", "health": 39, "range": 1, "speed": 19, "bufferCapacity": 3, "requirements": [{"item": "mopyqu", "amount": 2}, {"item": "mabifunium", "amount": 2}], "research": "mopyqu-conveyor", "category": "distribution", "size": 1}

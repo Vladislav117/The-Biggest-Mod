@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nisynu battery", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "nisynu", "amount": 4}, {"item": "nezexe", "amount": 1}, {"item": "mimyva", "amount": 5}], "research": "nisynu-factory", "consumes": {"powerBuffered": 6099}, "category": "power"}

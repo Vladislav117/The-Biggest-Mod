@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "rucu liquid router", "description": "...", "size": 1, "health": 63, "requirements": [{"item": "rucu", "amount": 8}, {"item": "tudinium", "amount": 14}, {"item": "muse", "amount": 5}], "research": "rucu-conduit", "liquidCapacity": 10, "category": "liquid"}

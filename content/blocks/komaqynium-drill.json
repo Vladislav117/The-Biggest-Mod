@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "komaqynium drill", "description": "...", "size": 4, "health": 340, "tier": 3, "drillTime": 6, "consumes": {"power": 20}, "requirements": [{"item": "komaqynium", "amount": 18}, {"item": "cinunium", "amount": 4}, {"item": "nusenium", "amount": 10}], "research": "komaqynium-factory", "category": "production"}

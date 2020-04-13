@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bipanium solar panel", "description": "...", "size": 3, "health": 300, "requirements": [{"item": "bipanium", "amount": 18}, {"item": "yisupe", "amount": 16}, {"item": "pyvunium", "amount": 2}], "research": "bipanium-factory", "powerProduction": 0.0923544577569208, "category": "power"}

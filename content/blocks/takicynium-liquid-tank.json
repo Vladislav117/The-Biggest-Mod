@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "takicynium liquid tank", "description": "...", "health": 144, "size": 3, "requirements": [{"item": "takicynium", "amount": 8}, {"item": "ruxa", "amount": 9}, {"item": "fahu", "amount": 5}], "research": "takicynium-conduit", "category": "liquid", "liquidCapacity": 22505, "hasLiquids": true}

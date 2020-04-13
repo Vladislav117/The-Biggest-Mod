@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qimose solar panel", "description": "...", "size": 3, "health": 374, "requirements": [{"item": "qimose", "amount": 16}, {"item": "lynulo", "amount": 19}, {"item": "yipobe", "amount": 10}], "research": "qimose-factory", "powerProduction": 2.5500034715856406, "category": "power"}

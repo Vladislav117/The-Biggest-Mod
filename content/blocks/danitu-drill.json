@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "danitu drill", "description": "...", "size": 3, "health": 124, "tier": 4, "drillTime": 3, "consumes": {"power": 16}, "requirements": [{"item": "danitu", "amount": 15}, {"item": "gytegy", "amount": 10}, {"item": "cozaxo", "amount": 9}], "research": "danitu-factory", "category": "production"}

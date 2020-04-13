@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kuxanium liquid router", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "kuxanium", "amount": 2}, {"item": "wiyeda", "amount": 10}, {"item": "hyqyno", "amount": 5}], "research": "kuxanium-conduit", "liquidCapacity": 10, "category": "liquid"}

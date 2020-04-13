@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kifizanium liquid tank", "description": "...", "health": 154, "size": 3, "requirements": [{"item": "kifizanium", "amount": 17}, {"item": "xebunium", "amount": 13}, {"item": "jypi", "amount": 5}], "research": "kifizanium-conduit", "category": "liquid", "liquidCapacity": 44794, "hasLiquids": true}

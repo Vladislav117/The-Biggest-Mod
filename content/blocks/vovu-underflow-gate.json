@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vovu underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "vovu", "amount": 2}, {"item": "fuji", "amount": 4}], "research": "vovu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tumo solar panel", "description": "...", "size": 3, "health": 171, "requirements": [{"item": "tumo", "amount": 2}, {"item": "vixonium", "amount": 12}, {"item": "holepinium", "amount": 4}], "research": "tumo-factory", "powerProduction": 0.34050966440559954, "category": "power"}

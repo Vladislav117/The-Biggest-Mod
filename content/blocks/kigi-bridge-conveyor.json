@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kigi bridge conveyor", "description": "", "health": 23, "range": 12, "speed": 11, "bufferCapacity": 15, "requirements": [{"item": "kigi", "amount": 5}, {"item": "terixe", "amount": 3}], "research": "kigi-conveyor", "category": "distribution", "size": 1}

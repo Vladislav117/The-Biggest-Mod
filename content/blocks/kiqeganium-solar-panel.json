@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kiqeganium solar panel", "description": "...", "size": 3, "health": 105, "requirements": [{"item": "kiqeganium", "amount": 9}, {"item": "qivi", "amount": 6}, {"item": "hybobenium", "amount": 8}], "research": "kiqeganium-factory", "powerProduction": 7.538411678031413, "category": "power"}

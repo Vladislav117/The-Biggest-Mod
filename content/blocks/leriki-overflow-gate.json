@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "leriki overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "leriki", "amount": 3}, {"item": "birynium", "amount": 2}], "research": "leriki-conveyor", "category": "distribution", "invert": false}

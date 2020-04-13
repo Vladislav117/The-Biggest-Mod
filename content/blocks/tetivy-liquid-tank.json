@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tetivy liquid tank", "description": "...", "health": 140, "size": 3, "requirements": [{"item": "tetivy", "amount": 16}, {"item": "dawe", "amount": 6}, {"item": "wumuge", "amount": 3}], "research": "tetivy-conduit", "category": "liquid", "liquidCapacity": 33147, "hasLiquids": true}

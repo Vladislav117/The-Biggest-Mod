@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dimizy sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "dimizy", "amount": 1}, {"item": "puzanium", "amount": 5}], "research": "dimizy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "damo power node", "description": "...", "size": 2, "health": 499, "requirements": [{"item": "damo", "amount": 19}, {"item": "dojynium", "amount": 17}, {"item": "vima", "amount": 2}], "research": "damo-factory", "maxNodes": 17, "laserRange": 22, "category": "power"}

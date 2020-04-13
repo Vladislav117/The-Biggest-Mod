@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nevyle battery", "description": "...", "size": 1, "health": 147, "requirements": [{"item": "nevyle", "amount": 14}, {"item": "sytafe", "amount": 20}, {"item": "muby", "amount": 1}], "research": "nevyle-factory", "consumes": {"powerBuffered": 716}, "category": "power"}

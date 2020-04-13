@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "virema overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "virema", "amount": 2}, {"item": "yuwo", "amount": 4}], "research": "virema-conveyor", "category": "distribution", "invert": false}

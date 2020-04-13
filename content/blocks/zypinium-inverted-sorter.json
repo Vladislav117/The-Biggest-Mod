@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zypinium inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "zypinium", "amount": 5}, {"item": "baly", "amount": 2}], "research": "zypinium-conveyor", "category": "distribution", "invert": true}

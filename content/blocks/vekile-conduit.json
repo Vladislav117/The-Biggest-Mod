@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vekile conduit", "description": "...", "health": 66, "requirements": [{"item": "vekile", "amount": 20}, {"item": "yihe", "amount": 13}, {"item": "heruvu", "amount": 2}], "liquidCapacity": 37, "liquidPressure": 2, "research": "vekile-factory", "category": "liquid"}

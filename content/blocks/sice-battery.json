@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sice battery", "description": "...", "size": 3, "health": 338, "requirements": [{"item": "sice", "amount": 17}, {"item": "vevudinium", "amount": 1}, {"item": "moje", "amount": 5}], "research": "sice-factory", "consumes": {"powerBuffered": 6142}, "category": "power"}

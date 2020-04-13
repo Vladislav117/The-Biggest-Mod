@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "heruvu liquid tank", "description": "...", "health": 406, "size": 3, "requirements": [{"item": "heruvu", "amount": 9}, {"item": "mofapu", "amount": 14}, {"item": "puzybo", "amount": 4}], "research": "heruvu-conduit", "category": "liquid", "liquidCapacity": 115210, "hasLiquids": true}

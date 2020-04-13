@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "felizenium overdrive projector", "description": "...", "health": 104, "consumes": {"power": 3.0, "item": "felizenium"}, "size": 2, "requirements": [{"item": "felizenium", "amount": 20}, {"item": "jayycu", "amount": 8}, {"item": "gahunium", "amount": 10}], "research": "felizenium-factory", "category": "effect"}

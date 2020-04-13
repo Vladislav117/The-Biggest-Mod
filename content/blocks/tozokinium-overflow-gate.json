@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tozokinium overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "tozokinium", "amount": 1}, {"item": "yijotu", "amount": 5}], "research": "tozokinium-conveyor", "category": "distribution", "invert": false}

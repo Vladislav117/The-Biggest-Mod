@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wojeru inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "wojeru", "amount": 1}, {"item": "nahixi", "amount": 1}], "research": "wojeru-conveyor", "category": "distribution", "invert": true}

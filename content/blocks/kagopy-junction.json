@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kagopy junction", "description": "...", "health": 15, "speed": 2, "capacity": 15, "size": 1, "requirements": [{"item": "kagopy", "amount": 5}, {"item": "cuba", "amount": 4}], "research": "kagopy-conveyor", "category": "distribution"}

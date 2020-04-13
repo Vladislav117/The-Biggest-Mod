@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xeke battery", "description": "...", "size": 3, "health": 232, "requirements": [{"item": "xeke", "amount": 20}, {"item": "pawasunium", "amount": 7}, {"item": "gadocy", "amount": 6}], "research": "xeke-factory", "consumes": {"powerBuffered": 2253}, "category": "power"}

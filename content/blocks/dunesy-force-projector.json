@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "dunesy force projector", "description": "...", "health": 154, "size": 3, "consumes": {"power": 5.0, "item": "dunesy"}, "requirements": [{"item": "dunesy", "amount": 7}, {"item": "luzini", "amount": 15}, {"item": "xoquge", "amount": 2}], "research": "dunesy-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small syso battery", "description": "...", "size": 1, "health": 194, "requirements": [{"item": "syso", "amount": 14}, {"item": "sofowo", "amount": 9}, {"item": "neda", "amount": 6}], "research": "syso-factory", "consumes": {"powerBuffered": 2543}, "category": "power"}

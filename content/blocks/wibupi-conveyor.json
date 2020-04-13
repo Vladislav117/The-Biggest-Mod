@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "wibupi conveyor", "description": "...", "health": 308, "requirements": [{"item": "wibupi", "amount": 2}, {"item": "zareba", "amount": 3}], "speed": 0.4789935705234449, "research": "wibupi-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nopenenium overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "nopenenium", "amount": 5}, {"item": "siqefo", "amount": 3}], "research": "nopenenium-conveyor", "category": "distribution", "invert": false}

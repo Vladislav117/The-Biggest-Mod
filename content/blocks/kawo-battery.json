@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kawo battery", "description": "...", "size": 3, "health": 353, "requirements": [{"item": "kawo", "amount": 18}, {"item": "gineta", "amount": 5}, {"item": "lyceca", "amount": 1}], "research": "kawo-factory", "consumes": {"powerBuffered": 7559}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yoxuxe battery", "description": "...", "size": 1, "health": 302, "requirements": [{"item": "yoxuxe", "amount": 1}, {"item": "rysi", "amount": 2}, {"item": "lahowe", "amount": 7}], "research": "yoxuxe-factory", "consumes": {"powerBuffered": 2296}, "category": "power"}

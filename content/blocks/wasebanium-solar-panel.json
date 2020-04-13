@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wasebanium solar panel", "description": "...", "size": 3, "health": 162, "requirements": [{"item": "wasebanium", "amount": 17}, {"item": "kica", "amount": 20}, {"item": "wozego", "amount": 3}], "research": "wasebanium-factory", "powerProduction": 0.07613946672811002, "category": "power"}

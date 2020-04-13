@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zesaqy drill", "description": "...", "size": 3, "health": 313, "tier": 4, "drillTime": 7, "consumes": {"power": 19}, "requirements": [{"item": "zesaqy", "amount": 20}, {"item": "sumu", "amount": 13}, {"item": "nezexe", "amount": 5}], "research": "zesaqy-factory", "category": "production"}

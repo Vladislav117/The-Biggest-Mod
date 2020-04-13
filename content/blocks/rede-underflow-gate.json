@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rede underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "rede", "amount": 2}, {"item": "minoxa", "amount": 2}], "research": "rede-conveyor", "category": "distribution", "invert": false}

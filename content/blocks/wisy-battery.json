@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wisy battery", "description": "...", "size": 3, "health": 235, "requirements": [{"item": "wisy", "amount": 11}, {"item": "mylenium", "amount": 15}, {"item": "gydarynium", "amount": 8}], "research": "wisy-factory", "consumes": {"powerBuffered": 9852}, "category": "power"}

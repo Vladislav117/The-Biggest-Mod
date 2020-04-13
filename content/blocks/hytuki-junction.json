@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hytuki junction", "description": "...", "health": 13, "speed": 4, "capacity": 20, "size": 1, "requirements": [{"item": "hytuki", "amount": 2}, {"item": "vybygynium", "amount": 5}], "research": "hytuki-conveyor", "category": "distribution"}

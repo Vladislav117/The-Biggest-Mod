@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nenu junction", "description": "...", "health": 49, "speed": 4, "capacity": 6, "size": 1, "requirements": [{"item": "nenu", "amount": 5}, {"item": "vycici", "amount": 2}], "research": "nenu-conveyor", "category": "distribution"}

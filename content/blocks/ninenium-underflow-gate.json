@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ninenium underflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "ninenium", "amount": 3}, {"item": "hunaci", "amount": 1}], "research": "ninenium-conveyor", "category": "distribution", "invert": false}

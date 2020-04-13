@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xami power node", "description": "...", "size": 2, "health": 363, "requirements": [{"item": "xami", "amount": 5}, {"item": "siwobanium", "amount": 6}, {"item": "mymysynium", "amount": 8}], "research": "xami-factory", "maxNodes": 49, "laserRange": 21, "category": "power"}

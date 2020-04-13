@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qiqe liquid router", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "qiqe", "amount": 6}, {"item": "mepunium", "amount": 14}, {"item": "hyru", "amount": 2}], "research": "qiqe-conduit", "liquidCapacity": 10, "category": "liquid"}

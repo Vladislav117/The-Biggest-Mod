@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cumo power node", "description": "...", "size": 2, "health": 493, "requirements": [{"item": "cumo", "amount": 17}, {"item": "hebohy", "amount": 12}, {"item": "qaranium", "amount": 6}], "research": "cumo-factory", "maxNodes": 54, "laserRange": 6, "category": "power"}

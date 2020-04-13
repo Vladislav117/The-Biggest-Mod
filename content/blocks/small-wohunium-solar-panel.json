@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wohunium solar panel", "description": "...", "size": 1, "health": 12, "requirements": [{"item": "wohunium", "amount": 5}, {"item": "hyxy", "amount": 10}, {"item": "vakoly", "amount": 7}], "research": "wohunium-factory", "powerProduction": 0.8064691923507977, "category": "power"}

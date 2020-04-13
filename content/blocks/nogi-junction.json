@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nogi junction", "description": "...", "health": 7, "speed": 3, "capacity": 19, "size": 1, "requirements": [{"item": "nogi", "amount": 1}, {"item": "puzonium", "amount": 5}], "research": "nogi-conveyor", "category": "distribution"}

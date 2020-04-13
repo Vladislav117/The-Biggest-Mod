@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xove overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "xove", "amount": 4}, {"item": "vakyxinium", "amount": 5}], "research": "xove-conveyor", "category": "distribution", "invert": false}

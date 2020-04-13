@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sokezy underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "sokezy", "amount": 4}, {"item": "ruteqa", "amount": 2}], "research": "sokezy-conveyor", "category": "distribution", "invert": false}

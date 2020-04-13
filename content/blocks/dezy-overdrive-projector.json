@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "dezy overdrive projector", "description": "...", "health": 62, "consumes": {"power": 3.0, "item": "dezy"}, "size": 2, "requirements": [{"item": "dezy", "amount": 7}, {"item": "kozivo", "amount": 4}, {"item": "yesolonium", "amount": 6}], "research": "dezy-factory", "category": "effect"}

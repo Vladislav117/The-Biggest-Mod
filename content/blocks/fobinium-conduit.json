@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fobinium conduit", "description": "...", "health": 195, "requirements": [{"item": "fobinium", "amount": 18}, {"item": "pigydinium", "amount": 19}, {"item": "pihybo", "amount": 9}], "liquidCapacity": 2, "liquidPressure": 6, "research": "fobinium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zuqo solar panel", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "zuqo", "amount": 4}, {"item": "vezafa", "amount": 19}, {"item": "fulasa", "amount": 10}], "research": "zuqo-factory", "powerProduction": 3.1083347611759673, "category": "power"}

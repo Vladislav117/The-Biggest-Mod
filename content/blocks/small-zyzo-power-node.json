@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zyzo power node", "description": "...", "size": 1, "health": 197, "requirements": [{"item": "zyzo", "amount": 17}, {"item": "zuce", "amount": 18}, {"item": "tivy", "amount": 1}], "research": "zyzo-factory", "maxNodes": 7, "laserRange": 25, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jomoka battery", "description": "...", "size": 1, "health": 351, "requirements": [{"item": "jomoka", "amount": 13}, {"item": "puye", "amount": 18}, {"item": "xutire", "amount": 1}], "research": "jomoka-factory", "consumes": {"powerBuffered": 1965}, "category": "power"}

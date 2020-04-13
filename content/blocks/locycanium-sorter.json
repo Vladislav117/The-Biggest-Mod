@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "locycanium sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "locycanium", "amount": 4}, {"item": "dagepanium", "amount": 1}], "research": "locycanium-conveyor", "category": "distribution", "invert": false}

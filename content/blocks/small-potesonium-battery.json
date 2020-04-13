@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small potesonium battery", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "potesonium", "amount": 14}, {"item": "tuxu", "amount": 7}, {"item": "kawo", "amount": 9}], "research": "potesonium-factory", "consumes": {"powerBuffered": 423}, "category": "power"}

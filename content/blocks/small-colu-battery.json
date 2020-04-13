@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small colu battery", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "colu", "amount": 4}, {"item": "nuci", "amount": 16}, {"item": "zivo", "amount": 6}], "research": "colu-factory", "consumes": {"powerBuffered": 2002}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tanexo bridge conveyor", "description": "", "health": 14, "range": 14, "speed": 15, "bufferCapacity": 16, "requirements": [{"item": "tanexo", "amount": 3}, {"item": "mynufu", "amount": 4}], "research": "tanexo-conveyor", "category": "distribution", "size": 1}

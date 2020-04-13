@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zadi solar panel", "description": "...", "size": 1, "health": 270, "requirements": [{"item": "zadi", "amount": 2}, {"item": "hyxunium", "amount": 7}, {"item": "copper", "amount": 3}], "research": "zadi-factory", "powerProduction": 0.6903217991675534, "category": "power"}

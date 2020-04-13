@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lycyqe battery", "description": "...", "size": 3, "health": 283, "requirements": [{"item": "lycyqe", "amount": 6}, {"item": "fisy", "amount": 8}, {"item": "lepe", "amount": 2}], "research": "lycyqe-factory", "consumes": {"powerBuffered": 981}, "category": "power"}

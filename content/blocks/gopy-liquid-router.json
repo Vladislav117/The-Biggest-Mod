@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gopy liquid router", "description": "...", "size": 1, "health": 73, "requirements": [{"item": "gopy", "amount": 20}, {"item": "taze", "amount": 8}, {"item": "hakenium", "amount": 10}], "research": "gopy-conduit", "liquidCapacity": 10, "category": "liquid"}

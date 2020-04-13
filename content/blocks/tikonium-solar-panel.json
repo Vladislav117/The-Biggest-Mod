@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tikonium solar panel", "description": "...", "size": 3, "health": 261, "requirements": [{"item": "tikonium", "amount": 10}, {"item": "qiri", "amount": 20}, {"item": "lobu", "amount": 6}], "research": "tikonium-factory", "powerProduction": 0.09706304773897248, "category": "power"}

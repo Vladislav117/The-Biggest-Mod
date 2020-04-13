@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mivoky conduit", "description": "...", "health": 173, "requirements": [{"item": "mivoky", "amount": 16}, {"item": "higy", "amount": 9}, {"item": "mizu", "amount": 6}], "liquidCapacity": 45, "liquidPressure": 7, "research": "mivoky-factory", "category": "liquid"}

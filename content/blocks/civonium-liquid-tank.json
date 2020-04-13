@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "civonium liquid tank", "description": "...", "health": 315, "size": 3, "requirements": [{"item": "civonium", "amount": 1}, {"item": "qobu", "amount": 9}, {"item": "pele", "amount": 5}], "research": "civonium-conduit", "category": "liquid", "liquidCapacity": 9646, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zyhyne solar panel", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "zyhyne", "amount": 2}, {"item": "fifyru", "amount": 3}, {"item": "wiyuho", "amount": 4}], "research": "zyhyne-factory", "powerProduction": 1.1181966112949886, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wuronium solar panel", "description": "...", "size": 3, "health": 254, "requirements": [{"item": "wuronium", "amount": 16}, {"item": "dizuqo", "amount": 17}, {"item": "dowoca", "amount": 9}], "research": "wuronium-factory", "powerProduction": 0.003869350558103877, "category": "power"}

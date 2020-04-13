@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qaranium solar panel", "description": "...", "size": 3, "health": 170, "requirements": [{"item": "qaranium", "amount": 19}, {"item": "napunium", "amount": 2}, {"item": "fesixa", "amount": 10}], "research": "qaranium-factory", "powerProduction": 2.22472986544034, "category": "power"}

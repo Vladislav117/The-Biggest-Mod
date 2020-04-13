@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kabovonium solar panel", "description": "...", "size": 3, "health": 134, "requirements": [{"item": "kabovonium", "amount": 12}, {"item": "pynebi", "amount": 17}, {"item": "homu", "amount": 5}], "research": "kabovonium-factory", "powerProduction": 0.6242086907697219, "category": "power"}

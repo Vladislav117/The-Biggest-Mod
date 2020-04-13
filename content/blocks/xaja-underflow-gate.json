@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xaja underflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "xaja", "amount": 2}, {"item": "qode", "amount": 4}], "research": "xaja-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cydofunium liquid tank", "description": "...", "health": 659, "size": 3, "requirements": [{"item": "cydofunium", "amount": 10}, {"item": "lahowe", "amount": 10}, {"item": "cuba", "amount": 9}], "research": "cydofunium-conduit", "category": "liquid", "liquidCapacity": 28221, "hasLiquids": true}

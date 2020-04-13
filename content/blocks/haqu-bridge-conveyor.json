@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "haqu bridge conveyor", "description": "", "health": 12, "range": 11, "speed": 2, "bufferCapacity": 7, "requirements": [{"item": "haqu", "amount": 2}, {"item": "mapibi", "amount": 5}], "research": "haqu-conveyor", "category": "distribution", "size": 1}

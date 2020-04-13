@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tycomo battery", "description": "...", "size": 3, "health": 249, "requirements": [{"item": "tycomo", "amount": 20}, {"item": "hono", "amount": 2}, {"item": "fusaji", "amount": 1}], "research": "tycomo-factory", "consumes": {"powerBuffered": 1464}, "category": "power"}

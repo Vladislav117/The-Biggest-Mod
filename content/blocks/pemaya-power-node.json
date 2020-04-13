@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pemaya power node", "description": "...", "size": 2, "health": 286, "requirements": [{"item": "pemaya", "amount": 15}, {"item": "mopyqu", "amount": 2}, {"item": "mizu", "amount": 1}], "research": "pemaya-factory", "maxNodes": 41, "laserRange": 21, "category": "power"}

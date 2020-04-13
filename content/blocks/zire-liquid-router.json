@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zire liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "zire", "amount": 5}, {"item": "keze", "amount": 20}, {"item": "ninu", "amount": 2}], "research": "zire-conduit", "liquidCapacity": 10, "category": "liquid"}

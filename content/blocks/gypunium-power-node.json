@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gypunium power node", "description": "...", "size": 2, "health": 13, "requirements": [{"item": "gypunium", "amount": 4}, {"item": "zuzequ", "amount": 9}, {"item": "titanium", "amount": 5}], "research": "gypunium-factory", "maxNodes": 47, "laserRange": 20, "category": "power"}

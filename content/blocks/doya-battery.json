@@ -1,0 +1,1 @@
+{"type": "battery", "name": "doya battery", "description": "...", "size": 3, "health": 213, "requirements": [{"item": "doya", "amount": 12}, {"item": "nevyle", "amount": 8}, {"item": "yirere", "amount": 7}], "research": "doya-factory", "consumes": {"powerBuffered": 6309}, "category": "power"}

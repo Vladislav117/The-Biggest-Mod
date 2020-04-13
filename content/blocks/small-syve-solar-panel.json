@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small syve solar panel", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "syve", "amount": 14}, {"item": "nerymi", "amount": 4}, {"item": "pixuhynium", "amount": 6}], "research": "syve-factory", "powerProduction": 2.1019260373242474, "category": "power"}

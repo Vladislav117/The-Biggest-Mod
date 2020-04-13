@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yywy inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "yywy", "amount": 1}, {"item": "lora", "amount": 5}], "research": "yywy-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rehodunium underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "rehodunium", "amount": 2}, {"item": "jyluba", "amount": 1}], "research": "rehodunium-conveyor", "category": "distribution", "invert": false}

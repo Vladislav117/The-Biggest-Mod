@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zucy liquid tank", "description": "...", "health": 422, "size": 3, "requirements": [{"item": "zucy", "amount": 2}, {"item": "geguqi", "amount": 7}, {"item": "wobuyu", "amount": 3}], "research": "zucy-conduit", "category": "liquid", "liquidCapacity": 70233, "hasLiquids": true}

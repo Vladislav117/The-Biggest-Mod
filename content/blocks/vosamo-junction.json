@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vosamo junction", "description": "...", "health": 7, "speed": 5, "capacity": 12, "size": 1, "requirements": [{"item": "vosamo", "amount": 4}, {"item": "xapu", "amount": 4}], "research": "vosamo-conveyor", "category": "distribution"}

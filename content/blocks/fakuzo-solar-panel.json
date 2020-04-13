@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fakuzo solar panel", "description": "...", "size": 3, "health": 13, "requirements": [{"item": "fakuzo", "amount": 15}, {"item": "rutylo", "amount": 6}, {"item": "huwydy", "amount": 9}], "research": "fakuzo-factory", "powerProduction": 13.39254012513597, "category": "power"}

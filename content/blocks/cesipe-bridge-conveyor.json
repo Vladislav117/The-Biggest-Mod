@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cesipe bridge conveyor", "description": "", "health": 46, "range": 18, "speed": 7, "bufferCapacity": 2, "requirements": [{"item": "cesipe", "amount": 1}, {"item": "pikoqi", "amount": 4}], "research": "cesipe-conveyor", "category": "distribution", "size": 1}

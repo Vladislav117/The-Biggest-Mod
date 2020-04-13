@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tedi conduit", "description": "...", "health": 74, "requirements": [{"item": "tedi", "amount": 15}, {"item": "zele", "amount": 8}, {"item": "fyfoni", "amount": 6}], "liquidCapacity": 20, "liquidPressure": 9, "research": "tedi-factory", "category": "liquid"}

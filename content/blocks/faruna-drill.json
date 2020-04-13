@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "faruna drill", "description": "...", "size": 4, "health": 394, "tier": 1, "drillTime": 18, "consumes": {"power": 1}, "requirements": [{"item": "faruna", "amount": 20}, {"item": "caho", "amount": 13}, {"item": "fizy", "amount": 9}], "research": "faruna-factory", "category": "production"}

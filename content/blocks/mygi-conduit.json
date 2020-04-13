@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mygi conduit", "description": "...", "health": 42, "requirements": [{"item": "mygi", "amount": 14}, {"item": "pobeqi", "amount": 18}, {"item": "melepi", "amount": 2}], "liquidCapacity": 40, "liquidPressure": 3, "research": "mygi-factory", "category": "liquid"}

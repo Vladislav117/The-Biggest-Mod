@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "geja underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "geja", "amount": 3}, {"item": "pigydinium", "amount": 4}], "research": "geja-conveyor", "category": "distribution", "invert": false}

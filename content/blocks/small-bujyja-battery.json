@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bujyja battery", "description": "...", "size": 1, "health": 244, "requirements": [{"item": "bujyja", "amount": 5}, {"item": "wedu", "amount": 12}, {"item": "nylo", "amount": 4}], "research": "bujyja-factory", "consumes": {"powerBuffered": 2034}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lohe inverted sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "lohe", "amount": 1}, {"item": "yowiminium", "amount": 5}], "research": "lohe-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rybu conduit", "description": "...", "health": 106, "requirements": [{"item": "rybu", "amount": 3}, {"item": "pijuje", "amount": 2}, {"item": "buyogenium", "amount": 6}], "liquidCapacity": 19, "liquidPressure": 1, "research": "rybu-factory", "category": "liquid"}

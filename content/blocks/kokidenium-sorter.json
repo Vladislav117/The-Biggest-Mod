@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kokidenium sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "kokidenium", "amount": 1}, {"item": "dewira", "amount": 2}], "research": "kokidenium-conveyor", "category": "distribution", "invert": false}

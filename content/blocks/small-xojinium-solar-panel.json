@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xojinium solar panel", "description": "...", "size": 1, "health": 398, "requirements": [{"item": "xojinium", "amount": 12}, {"item": "sywuze", "amount": 1}, {"item": "hyxy", "amount": 1}], "research": "xojinium-factory", "powerProduction": 0.15435026242500516, "category": "power"}

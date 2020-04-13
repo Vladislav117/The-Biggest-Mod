@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gasu solar panel", "description": "...", "size": 1, "health": 340, "requirements": [{"item": "gasu", "amount": 9}, {"item": "vykofa", "amount": 10}, {"item": "wekami", "amount": 3}], "research": "gasu-factory", "powerProduction": 0.4720189880135939, "category": "power"}

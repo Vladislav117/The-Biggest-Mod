@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mozo liquid tank", "description": "...", "health": 129, "size": 3, "requirements": [{"item": "mozo", "amount": 7}, {"item": "vojenium", "amount": 4}, {"item": "cywynium", "amount": 9}], "research": "mozo-conduit", "category": "liquid", "liquidCapacity": 30097, "hasLiquids": true}

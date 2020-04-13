@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cojonium junction", "description": "...", "health": 12, "speed": 15, "capacity": 11, "size": 1, "requirements": [{"item": "cojonium", "amount": 4}, {"item": "dibehe", "amount": 1}], "research": "cojonium-conveyor", "category": "distribution"}

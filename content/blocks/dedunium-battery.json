@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dedunium battery", "description": "...", "size": 3, "health": 196, "requirements": [{"item": "dedunium", "amount": 13}, {"item": "woro", "amount": 1}, {"item": "sirila", "amount": 5}], "research": "dedunium-factory", "consumes": {"powerBuffered": 7508}, "category": "power"}

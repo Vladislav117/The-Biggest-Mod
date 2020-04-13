@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jepumi power node", "description": "...", "size": 2, "health": 54, "requirements": [{"item": "jepumi", "amount": 4}, {"item": "cobunium", "amount": 18}, {"item": "byhonium", "amount": 10}], "research": "jepumi-factory", "maxNodes": 57, "laserRange": 6, "category": "power"}

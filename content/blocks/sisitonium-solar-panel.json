@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sisitonium solar panel", "description": "...", "size": 3, "health": 356, "requirements": [{"item": "sisitonium", "amount": 20}, {"item": "zonufu", "amount": 8}, {"item": "vinizy", "amount": 7}], "research": "sisitonium-factory", "powerProduction": 0.23244020377670363, "category": "power"}

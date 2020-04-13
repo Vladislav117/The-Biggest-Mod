@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fygo liquid router", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "fygo", "amount": 11}, {"item": "logybi", "amount": 8}, {"item": "suta", "amount": 5}], "research": "fygo-conduit", "liquidCapacity": 10, "category": "liquid"}

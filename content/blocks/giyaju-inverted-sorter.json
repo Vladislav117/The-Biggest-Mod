@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "giyaju inverted sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "giyaju", "amount": 4}, {"item": "ruvudo", "amount": 4}], "research": "giyaju-conveyor", "category": "distribution", "invert": true}

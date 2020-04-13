@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bibu battery", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "bibu", "amount": 16}, {"item": "bovumy", "amount": 12}, {"item": "zacu", "amount": 9}], "research": "bibu-factory", "consumes": {"powerBuffered": 1791}, "category": "power"}

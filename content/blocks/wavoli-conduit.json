@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wavoli conduit", "description": "...", "health": 76, "requirements": [{"item": "wavoli", "amount": 5}, {"item": "thorium", "amount": 15}, {"item": "wavoli", "amount": 3}], "liquidCapacity": 46, "liquidPressure": 10, "research": "wavoli-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "betuto solar panel", "description": "...", "size": 3, "health": 38, "requirements": [{"item": "betuto", "amount": 7}, {"item": "ketanium", "amount": 18}, {"item": "biqy", "amount": 9}], "research": "betuto-factory", "powerProduction": 1.5997723635494014, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "giba junction", "description": "...", "health": 32, "speed": 2, "capacity": 14, "size": 1, "requirements": [{"item": "giba", "amount": 5}, {"item": "qudeya", "amount": 4}], "research": "giba-conveyor", "category": "distribution"}

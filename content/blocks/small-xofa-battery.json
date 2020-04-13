@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xofa battery", "description": "...", "size": 1, "health": 271, "requirements": [{"item": "xofa", "amount": 6}, {"item": "rukycu", "amount": 1}, {"item": "vivunium", "amount": 7}], "research": "xofa-factory", "consumes": {"powerBuffered": 2968}, "category": "power"}

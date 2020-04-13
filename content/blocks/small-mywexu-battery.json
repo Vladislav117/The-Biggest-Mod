@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mywexu battery", "description": "...", "size": 1, "health": 285, "requirements": [{"item": "mywexu", "amount": 14}, {"item": "hiwasi", "amount": 14}, {"item": "nifa", "amount": 6}], "research": "mywexu-factory", "consumes": {"powerBuffered": 1252}, "category": "power"}

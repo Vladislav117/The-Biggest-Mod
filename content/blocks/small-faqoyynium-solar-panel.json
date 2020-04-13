@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small faqoyynium solar panel", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "faqoyynium", "amount": 14}, {"item": "foji", "amount": 8}, {"item": "rogoly", "amount": 3}], "research": "faqoyynium-factory", "powerProduction": 0.038284795643117805, "category": "power"}

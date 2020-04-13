@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yidako power node", "description": "...", "size": 1, "health": 102, "requirements": [{"item": "yidako", "amount": 17}, {"item": "kiye", "amount": 15}, {"item": "zemy", "amount": 1}], "research": "yidako-factory", "maxNodes": 23, "laserRange": 18, "category": "power"}

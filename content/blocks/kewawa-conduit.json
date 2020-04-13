@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kewawa conduit", "description": "...", "health": 40, "requirements": [{"item": "kewawa", "amount": 20}, {"item": "pegycy", "amount": 14}, {"item": "civu", "amount": 2}], "liquidCapacity": 9, "liquidPressure": 10, "research": "kewawa-factory", "category": "liquid"}

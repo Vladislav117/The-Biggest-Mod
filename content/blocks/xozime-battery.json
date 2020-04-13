@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xozime battery", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "xozime", "amount": 12}, {"item": "hasu", "amount": 4}, {"item": "veqyro", "amount": 7}], "research": "xozime-factory", "consumes": {"powerBuffered": 470}, "category": "power"}

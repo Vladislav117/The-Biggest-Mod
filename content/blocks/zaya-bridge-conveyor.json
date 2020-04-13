@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zaya bridge conveyor", "description": "", "health": 40, "range": 1, "speed": 20, "bufferCapacity": 25, "requirements": [{"item": "zaya", "amount": 1}, {"item": "rilo", "amount": 4}], "research": "zaya-conveyor", "category": "distribution", "size": 1}

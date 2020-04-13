@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kuyome liquid tank", "description": "...", "health": 153, "size": 3, "requirements": [{"item": "kuyome", "amount": 12}, {"item": "qiseho", "amount": 12}, {"item": "goqanium", "amount": 8}], "research": "kuyome-conduit", "category": "liquid", "liquidCapacity": 44523, "hasLiquids": true}

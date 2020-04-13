@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dowa battery", "description": "...", "size": 1, "health": 180, "requirements": [{"item": "dowa", "amount": 12}, {"item": "gabipi", "amount": 15}, {"item": "qady", "amount": 7}], "research": "dowa-factory", "consumes": {"powerBuffered": 1896}, "category": "power"}

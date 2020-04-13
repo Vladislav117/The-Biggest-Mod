@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vohi battery", "description": "...", "size": 3, "health": 128, "requirements": [{"item": "vohi", "amount": 5}, {"item": "xusunium", "amount": 2}, {"item": "yocoke", "amount": 8}], "research": "vohi-factory", "consumes": {"powerBuffered": 1300}, "category": "power"}

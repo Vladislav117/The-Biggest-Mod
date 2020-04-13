@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kyrafinium bridge conveyor", "description": "", "health": 40, "range": 12, "speed": 15, "bufferCapacity": 19, "requirements": [{"item": "kyrafinium", "amount": 3}, {"item": "tynipu", "amount": 4}], "research": "kyrafinium-conveyor", "category": "distribution", "size": 1}

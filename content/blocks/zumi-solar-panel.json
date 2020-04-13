@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zumi solar panel", "description": "...", "size": 3, "health": 93, "requirements": [{"item": "zumi", "amount": 11}, {"item": "hocode", "amount": 6}, {"item": "bilyvanium", "amount": 1}], "research": "zumi-factory", "powerProduction": 5.243249336473823, "category": "power"}

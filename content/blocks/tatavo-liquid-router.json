@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tatavo liquid router", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "tatavo", "amount": 20}, {"item": "kegiqi", "amount": 1}, {"item": "sacigi", "amount": 8}], "research": "tatavo-conduit", "liquidCapacity": 10, "category": "liquid"}

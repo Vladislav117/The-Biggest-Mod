@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yobany inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "yobany", "amount": 4}, {"item": "wicy", "amount": 1}], "research": "yobany-conveyor", "category": "distribution", "invert": true}

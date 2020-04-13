@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lokybe drill", "description": "...", "size": 3, "health": 425, "tier": 2, "drillTime": 5, "consumes": {"power": 16}, "requirements": [{"item": "lokybe", "amount": 9}, {"item": "plastanium", "amount": 11}, {"item": "reju", "amount": 9}], "research": "lokybe-factory", "category": "production"}

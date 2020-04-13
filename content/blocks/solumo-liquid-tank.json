@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "solumo liquid tank", "description": "...", "health": 510, "size": 3, "requirements": [{"item": "solumo", "amount": 5}, {"item": "rocihy", "amount": 20}, {"item": "zilida", "amount": 8}], "research": "solumo-conduit", "category": "liquid", "liquidCapacity": 86475, "hasLiquids": true}

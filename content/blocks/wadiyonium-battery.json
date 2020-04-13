@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wadiyonium battery", "description": "...", "size": 3, "health": 286, "requirements": [{"item": "wadiyonium", "amount": 20}, {"item": "jihi", "amount": 17}, {"item": "qobopinium", "amount": 5}], "research": "wadiyonium-factory", "consumes": {"powerBuffered": 8216}, "category": "power"}

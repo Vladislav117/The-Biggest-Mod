@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vuyenium solar panel", "description": "...", "size": 1, "health": 232, "requirements": [{"item": "vuyenium", "amount": 5}, {"item": "gafedonium", "amount": 9}, {"item": "vedapa", "amount": 1}], "research": "vuyenium-factory", "powerProduction": 1.1633770941748312, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bumaqa solar panel", "description": "...", "size": 3, "health": 290, "requirements": [{"item": "bumaqa", "amount": 14}, {"item": "sylyxy", "amount": 14}, {"item": "xozime", "amount": 4}], "research": "bumaqa-factory", "powerProduction": 4.109712003810146, "category": "power"}

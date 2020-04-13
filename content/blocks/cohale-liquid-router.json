@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cohale liquid router", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "cohale", "amount": 8}, {"item": "zipy", "amount": 17}, {"item": "lahydo", "amount": 5}], "research": "cohale-conduit", "liquidCapacity": 10, "category": "liquid"}

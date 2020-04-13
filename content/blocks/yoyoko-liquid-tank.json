@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yoyoko liquid tank", "description": "...", "health": 375, "size": 3, "requirements": [{"item": "yoyoko", "amount": 4}, {"item": "wavoli", "amount": 6}, {"item": "cayy", "amount": 10}], "research": "yoyoko-conduit", "category": "liquid", "liquidCapacity": 84814, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kuyome sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "kuyome", "amount": 3}, {"item": "mepunium", "amount": 3}], "research": "kuyome-conveyor", "category": "distribution", "invert": false}

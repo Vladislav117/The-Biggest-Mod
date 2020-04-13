@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tofuco drill", "description": "...", "size": 2, "health": 292, "tier": 2, "drillTime": 13, "consumes": {"power": 12}, "requirements": [{"item": "tofuco", "amount": 11}, {"item": "dowy", "amount": 8}, {"item": "direme", "amount": 10}], "research": "tofuco-factory", "category": "production"}

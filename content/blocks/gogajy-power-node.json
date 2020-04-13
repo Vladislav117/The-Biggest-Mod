@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gogajy power node", "description": "...", "size": 2, "health": 636, "requirements": [{"item": "gogajy", "amount": 17}, {"item": "qyha", "amount": 9}, {"item": "qyha", "amount": 2}], "research": "gogajy-factory", "maxNodes": 17, "laserRange": 10, "category": "power"}

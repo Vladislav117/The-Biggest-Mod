@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sirogi overflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "sirogi", "amount": 1}, {"item": "fipa", "amount": 5}], "research": "sirogi-conveyor", "category": "distribution", "invert": false}

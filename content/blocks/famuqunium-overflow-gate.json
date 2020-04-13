@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "famuqunium overflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "famuqunium", "amount": 5}, {"item": "jazy", "amount": 1}], "research": "famuqunium-conveyor", "category": "distribution", "invert": false}

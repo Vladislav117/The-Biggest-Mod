@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xami overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "xami", "amount": 4}, {"item": "qulape", "amount": 2}], "research": "xami-conveyor", "category": "distribution", "invert": false}

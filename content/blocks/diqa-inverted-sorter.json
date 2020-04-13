@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "diqa inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "diqa", "amount": 3}, {"item": "fyfoni", "amount": 5}], "research": "diqa-conveyor", "category": "distribution", "invert": true}

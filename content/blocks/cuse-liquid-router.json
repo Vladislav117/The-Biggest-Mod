@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cuse liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "cuse", "amount": 3}, {"item": "hurula", "amount": 9}, {"item": "koty", "amount": 5}], "research": "cuse-conduit", "liquidCapacity": 10, "category": "liquid"}

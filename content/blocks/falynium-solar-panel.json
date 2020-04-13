@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "falynium solar panel", "description": "...", "size": 3, "health": 199, "requirements": [{"item": "falynium", "amount": 13}, {"item": "teda", "amount": 8}, {"item": "vunijy", "amount": 10}], "research": "falynium-factory", "powerProduction": 0.3531578204851154, "category": "power"}

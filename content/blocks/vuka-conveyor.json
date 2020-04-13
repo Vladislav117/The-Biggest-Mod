@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "vuka conveyor", "description": "...", "health": 80, "requirements": [{"item": "vuka", "amount": 3}, {"item": "kuku", "amount": 4}], "speed": 0.4306892229458649, "research": "vuka-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nyvo battery", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "nyvo", "amount": 12}, {"item": "bito", "amount": 17}, {"item": "tisanium", "amount": 10}], "research": "nyvo-factory", "consumes": {"powerBuffered": 357}, "category": "power"}

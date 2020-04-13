@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gevewu solar panel", "description": "...", "size": 1, "health": 345, "requirements": [{"item": "gevewu", "amount": 17}, {"item": "caxoni", "amount": 6}, {"item": "coqinium", "amount": 5}], "research": "gevewu-factory", "powerProduction": 2.0450526737974033, "category": "power"}

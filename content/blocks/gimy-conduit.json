@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gimy conduit", "description": "...", "health": 117, "requirements": [{"item": "gimy", "amount": 3}, {"item": "coqinium", "amount": 1}, {"item": "qepyvonium", "amount": 5}], "liquidCapacity": 46, "liquidPressure": 10, "research": "gimy-factory", "category": "liquid"}

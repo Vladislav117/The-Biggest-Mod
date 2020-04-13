@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zaxynium battery", "description": "...", "size": 1, "health": 390, "requirements": [{"item": "zaxynium", "amount": 7}, {"item": "lumasunium", "amount": 13}, {"item": "befunium", "amount": 10}], "research": "zaxynium-factory", "consumes": {"powerBuffered": 1064}, "category": "power"}

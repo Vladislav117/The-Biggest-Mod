@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "reqynu liquid tank", "description": "...", "health": 551, "size": 3, "requirements": [{"item": "reqynu", "amount": 13}, {"item": "hezinium", "amount": 20}, {"item": "gobenium", "amount": 8}], "research": "reqynu-conduit", "category": "liquid", "liquidCapacity": 39621, "hasLiquids": true}

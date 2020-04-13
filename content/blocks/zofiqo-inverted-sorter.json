@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zofiqo inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "zofiqo", "amount": 3}, {"item": "pocunium", "amount": 2}], "research": "zofiqo-conveyor", "category": "distribution", "invert": true}

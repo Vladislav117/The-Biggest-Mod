@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "piqymunium drill", "description": "...", "size": 2, "health": 275, "tier": 4, "drillTime": 17, "consumes": {"power": 18}, "requirements": [{"item": "piqymunium", "amount": 11}, {"item": "xenira", "amount": 9}, {"item": "cafe", "amount": 4}], "research": "piqymunium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "quge conveyor", "description": "...", "health": 60, "requirements": [{"item": "quge", "amount": 8}, {"item": "kuwo", "amount": 7}], "speed": 0.28709377763438587, "research": "quge-factory", "category": "distribution"}

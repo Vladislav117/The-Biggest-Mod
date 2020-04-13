@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vyre battery", "description": "...", "size": 3, "health": 180, "requirements": [{"item": "vyre", "amount": 10}, {"item": "zepoqo", "amount": 20}, {"item": "sygizo", "amount": 6}], "research": "vyre-factory", "consumes": {"powerBuffered": 9155}, "category": "power"}

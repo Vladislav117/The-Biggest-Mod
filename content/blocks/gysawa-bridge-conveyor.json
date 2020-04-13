@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gysawa bridge conveyor", "description": "", "health": 44, "range": 20, "speed": 12, "bufferCapacity": 6, "requirements": [{"item": "gysawa", "amount": 1}, {"item": "vipu", "amount": 2}], "research": "gysawa-conveyor", "category": "distribution", "size": 1}

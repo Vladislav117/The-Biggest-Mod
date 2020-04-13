@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qosedi conduit", "description": "...", "health": 94, "requirements": [{"item": "qosedi", "amount": 7}, {"item": "xeco", "amount": 8}, {"item": "vuciby", "amount": 7}], "liquidCapacity": 4, "liquidPressure": 2, "research": "qosedi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fizi battery", "description": "...", "size": 3, "health": 47, "requirements": [{"item": "fizi", "amount": 1}, {"item": "giyiya", "amount": 11}, {"item": "gecoma", "amount": 4}], "research": "fizi-factory", "consumes": {"powerBuffered": 8489}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bywobu battery", "description": "...", "size": 3, "health": 57, "requirements": [{"item": "bywobu", "amount": 20}, {"item": "yylove", "amount": 3}, {"item": "luki", "amount": 1}], "research": "bywobu-factory", "consumes": {"powerBuffered": 4506}, "category": "power"}

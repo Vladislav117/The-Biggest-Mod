@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yynylo battery", "description": "...", "size": 1, "health": 330, "requirements": [{"item": "yynylo", "amount": 8}, {"item": "mymysynium", "amount": 10}, {"item": "jafi", "amount": 6}], "research": "yynylo-factory", "consumes": {"powerBuffered": 2707}, "category": "power"}

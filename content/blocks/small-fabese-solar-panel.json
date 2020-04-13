@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fabese solar panel", "description": "...", "size": 1, "health": 342, "requirements": [{"item": "fabese", "amount": 19}, {"item": "qiso", "amount": 19}, {"item": "dune", "amount": 7}], "research": "fabese-factory", "powerProduction": 0.4940191255470271, "category": "power"}

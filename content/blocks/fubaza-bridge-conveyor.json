@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fubaza bridge conveyor", "description": "", "health": 3, "range": 18, "speed": 10, "bufferCapacity": 16, "requirements": [{"item": "fubaza", "amount": 5}, {"item": "jere", "amount": 5}], "research": "fubaza-conveyor", "category": "distribution", "size": 1}

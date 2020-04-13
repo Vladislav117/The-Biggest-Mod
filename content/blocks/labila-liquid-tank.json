@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "labila liquid tank", "description": "...", "health": 319, "size": 3, "requirements": [{"item": "labila", "amount": 1}, {"item": "hiwe", "amount": 3}, {"item": "codaxe", "amount": 3}], "research": "labila-conduit", "category": "liquid", "liquidCapacity": 83587, "hasLiquids": true}

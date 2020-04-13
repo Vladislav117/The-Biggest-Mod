@@ -1,0 +1,1 @@
+{"type": "junction", "name": "duginium junction", "description": "...", "health": 41, "speed": 14, "capacity": 5, "size": 1, "requirements": [{"item": "duginium", "amount": 3}, {"item": "zoqivanium", "amount": 1}], "research": "duginium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vyji overflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "vyji", "amount": 2}, {"item": "wuvu", "amount": 1}], "research": "vyji-conveyor", "category": "distribution", "invert": false}

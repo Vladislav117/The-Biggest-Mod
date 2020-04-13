@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ceze conduit", "description": "...", "health": 58, "requirements": [{"item": "ceze", "amount": 15}, {"item": "civonium", "amount": 1}, {"item": "felu", "amount": 1}], "liquidCapacity": 20, "liquidPressure": 3, "research": "ceze-factory", "category": "liquid"}

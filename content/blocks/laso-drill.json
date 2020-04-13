@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "laso drill", "description": "...", "size": 2, "health": 380, "tier": 3, "drillTime": 18, "consumes": {"power": 13}, "requirements": [{"item": "laso", "amount": 8}, {"item": "vuxi", "amount": 4}, {"item": "laxu", "amount": 10}], "research": "laso-factory", "category": "production"}

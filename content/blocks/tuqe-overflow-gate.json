@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tuqe overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "tuqe", "amount": 2}, {"item": "fise", "amount": 3}], "research": "tuqe-conveyor", "category": "distribution", "invert": false}

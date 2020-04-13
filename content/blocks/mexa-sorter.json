@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mexa sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "mexa", "amount": 5}, {"item": "cokyro", "amount": 2}], "research": "mexa-conveyor", "category": "distribution", "invert": false}

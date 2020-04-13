@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small joxi battery", "description": "...", "size": 1, "health": 285, "requirements": [{"item": "joxi", "amount": 6}, {"item": "cejuru", "amount": 9}, {"item": "moce", "amount": 5}], "research": "joxi-factory", "consumes": {"powerBuffered": 2192}, "category": "power"}

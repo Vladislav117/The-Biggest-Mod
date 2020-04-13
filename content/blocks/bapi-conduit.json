@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bapi conduit", "description": "...", "health": 181, "requirements": [{"item": "bapi", "amount": 1}, {"item": "qowepa", "amount": 11}, {"item": "dimysynium", "amount": 8}], "liquidCapacity": 8, "liquidPressure": 3, "research": "bapi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nedihenium solar panel", "description": "...", "size": 3, "health": 164, "requirements": [{"item": "nedihenium", "amount": 13}, {"item": "zobu", "amount": 3}, {"item": "qiqo", "amount": 2}], "research": "nedihenium-factory", "powerProduction": 0.048927527699835036, "category": "power"}

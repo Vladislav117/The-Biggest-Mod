@@ -1,0 +1,1 @@
+{"type": "battery", "name": "toku battery", "description": "...", "size": 3, "health": 141, "requirements": [{"item": "toku", "amount": 19}, {"item": "guto", "amount": 11}, {"item": "qulape", "amount": 3}], "research": "toku-factory", "consumes": {"powerBuffered": 4524}, "category": "power"}

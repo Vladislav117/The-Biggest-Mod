@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vapa solar panel", "description": "...", "size": 1, "health": 105, "requirements": [{"item": "vapa", "amount": 14}, {"item": "jyluba", "amount": 8}, {"item": "qovy", "amount": 4}], "research": "vapa-factory", "powerProduction": 0.6296763209246559, "category": "power"}

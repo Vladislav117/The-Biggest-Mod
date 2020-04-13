@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ciyo liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "ciyo", "amount": 19}, {"item": "nazyfa", "amount": 2}, {"item": "tymy", "amount": 6}], "research": "ciyo-conduit", "liquidCapacity": 10, "category": "liquid"}

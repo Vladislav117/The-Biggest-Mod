@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ravynium liquid tank", "description": "...", "health": 137, "size": 3, "requirements": [{"item": "ravynium", "amount": 3}, {"item": "cevu", "amount": 5}, {"item": "gineta", "amount": 6}], "research": "ravynium-conduit", "category": "liquid", "liquidCapacity": 17635, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ciyo battery", "description": "...", "size": 1, "health": 272, "requirements": [{"item": "ciyo", "amount": 2}, {"item": "tiqeti", "amount": 1}, {"item": "dagepanium", "amount": 4}], "research": "ciyo-factory", "consumes": {"powerBuffered": 1396}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyma liquid tank", "description": "...", "health": 311, "size": 3, "requirements": [{"item": "fyma", "amount": 18}, {"item": "sylote", "amount": 5}, {"item": "yucy", "amount": 9}], "research": "fyma-conduit", "category": "liquid", "liquidCapacity": 3875, "hasLiquids": true}

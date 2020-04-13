@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kije battery", "description": "...", "size": 1, "health": 343, "requirements": [{"item": "kije", "amount": 5}, {"item": "yanawa", "amount": 14}, {"item": "gaxunium", "amount": 7}], "research": "kije-factory", "consumes": {"powerBuffered": 2978}, "category": "power"}

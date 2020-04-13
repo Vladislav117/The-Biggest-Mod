@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xyyira power node", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "xyyira", "amount": 5}, {"item": "wana", "amount": 9}, {"item": "qacu", "amount": 4}], "research": "xyyira-factory", "maxNodes": 8, "laserRange": 14, "category": "power"}

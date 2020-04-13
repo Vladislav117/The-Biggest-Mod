@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qosa conduit", "description": "...", "health": 196, "requirements": [{"item": "qosa", "amount": 13}, {"item": "fyfoni", "amount": 13}, {"item": "kowonium", "amount": 4}], "liquidCapacity": 15, "liquidPressure": 10, "research": "qosa-factory", "category": "liquid"}

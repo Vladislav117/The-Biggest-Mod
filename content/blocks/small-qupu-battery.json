@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qupu battery", "description": "...", "size": 1, "health": 292, "requirements": [{"item": "qupu", "amount": 12}, {"item": "maqapy", "amount": 2}, {"item": "gypupe", "amount": 4}], "research": "qupu-factory", "consumes": {"powerBuffered": 479}, "category": "power"}

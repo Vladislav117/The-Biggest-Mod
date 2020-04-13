@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kiqunu underflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "kiqunu", "amount": 5}, {"item": "koviga", "amount": 2}], "research": "kiqunu-conveyor", "category": "distribution", "invert": false}

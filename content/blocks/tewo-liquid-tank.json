@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tewo liquid tank", "description": "...", "health": 655, "size": 3, "requirements": [{"item": "tewo", "amount": 18}, {"item": "nifego", "amount": 1}, {"item": "qudy", "amount": 6}], "research": "tewo-conduit", "category": "liquid", "liquidCapacity": 20426, "hasLiquids": true}

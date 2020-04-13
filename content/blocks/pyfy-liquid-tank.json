@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pyfy liquid tank", "description": "...", "health": 660, "size": 3, "requirements": [{"item": "pyfy", "amount": 5}, {"item": "rymyfanium", "amount": 3}, {"item": "towyti", "amount": 9}], "research": "pyfy-conduit", "category": "liquid", "liquidCapacity": 44644, "hasLiquids": true}

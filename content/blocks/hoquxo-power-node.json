@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hoquxo power node", "description": "...", "size": 2, "health": 276, "requirements": [{"item": "hoquxo", "amount": 4}, {"item": "pijewu", "amount": 9}, {"item": "faba", "amount": 10}], "research": "hoquxo-factory", "maxNodes": 24, "laserRange": 11, "category": "power"}

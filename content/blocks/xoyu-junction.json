@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xoyu junction", "description": "...", "health": 6, "speed": 18, "capacity": 6, "size": 1, "requirements": [{"item": "xoyu", "amount": 1}, {"item": "bogovy", "amount": 5}], "research": "xoyu-conveyor", "category": "distribution"}

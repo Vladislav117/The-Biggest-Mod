@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "naronium liquid tank", "description": "...", "health": 608, "size": 3, "requirements": [{"item": "naronium", "amount": 2}, {"item": "hihunium", "amount": 9}, {"item": "ceri", "amount": 4}], "research": "naronium-conduit", "category": "liquid", "liquidCapacity": 89721, "hasLiquids": true}

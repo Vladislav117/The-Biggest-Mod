@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yobany power node", "description": "...", "size": 1, "health": 364, "requirements": [{"item": "yobany", "amount": 13}, {"item": "xyduda", "amount": 19}, {"item": "torufonium", "amount": 1}], "research": "yobany-factory", "maxNodes": 9, "laserRange": 14, "category": "power"}

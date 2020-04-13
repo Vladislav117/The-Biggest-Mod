@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hiki liquid tank", "description": "...", "health": 513, "size": 3, "requirements": [{"item": "hiki", "amount": 13}, {"item": "rymojanium", "amount": 17}, {"item": "migube", "amount": 2}], "research": "hiki-conduit", "category": "liquid", "liquidCapacity": 14508, "hasLiquids": true}

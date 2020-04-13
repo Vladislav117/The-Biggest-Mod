@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bajenium liquid tank", "description": "...", "health": 622, "size": 3, "requirements": [{"item": "bajenium", "amount": 11}, {"item": "phase-fabric", "amount": 20}, {"item": "silicon", "amount": 2}], "research": "bajenium-conduit", "category": "liquid", "liquidCapacity": 20304, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small budo power node", "description": "...", "size": 1, "health": 228, "requirements": [{"item": "budo", "amount": 18}, {"item": "wadefenium", "amount": 19}, {"item": "netonium", "amount": 4}], "research": "budo-factory", "maxNodes": 21, "laserRange": 13, "category": "power"}

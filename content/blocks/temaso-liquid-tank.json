@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "temaso liquid tank", "description": "...", "health": 326, "size": 3, "requirements": [{"item": "temaso", "amount": 6}, {"item": "foqunium", "amount": 8}, {"item": "zaginium", "amount": 9}], "research": "temaso-conduit", "category": "liquid", "liquidCapacity": 32036, "hasLiquids": true}

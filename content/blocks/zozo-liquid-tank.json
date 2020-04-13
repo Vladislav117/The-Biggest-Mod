@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zozo liquid tank", "description": "...", "health": 314, "size": 3, "requirements": [{"item": "zozo", "amount": 14}, {"item": "lifuvinium", "amount": 7}, {"item": "rakuhy", "amount": 1}], "research": "zozo-conduit", "category": "liquid", "liquidCapacity": 113462, "hasLiquids": true}

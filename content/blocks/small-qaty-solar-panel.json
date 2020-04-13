@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qaty solar panel", "description": "...", "size": 1, "health": 174, "requirements": [{"item": "qaty", "amount": 16}, {"item": "bebofo", "amount": 6}, {"item": "dojove", "amount": 8}], "research": "qaty-factory", "powerProduction": 4.6185730280072965, "category": "power"}

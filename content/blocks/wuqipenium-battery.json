@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wuqipenium battery", "description": "...", "size": 3, "health": 159, "requirements": [{"item": "wuqipenium", "amount": 15}, {"item": "cosa", "amount": 1}, {"item": "ratapu", "amount": 8}], "research": "wuqipenium-factory", "consumes": {"powerBuffered": 3739}, "category": "power"}

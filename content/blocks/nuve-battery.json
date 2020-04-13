@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nuve battery", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "nuve", "amount": 16}, {"item": "woqyfu", "amount": 4}, {"item": "hyko", "amount": 9}], "research": "nuve-factory", "consumes": {"powerBuffered": 4556}, "category": "power"}

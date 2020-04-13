@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tikonium battery", "description": "...", "size": 1, "health": 353, "requirements": [{"item": "tikonium", "amount": 7}, {"item": "hite", "amount": 5}, {"item": "nytu", "amount": 2}], "research": "tikonium-factory", "consumes": {"powerBuffered": 2082}, "category": "power"}

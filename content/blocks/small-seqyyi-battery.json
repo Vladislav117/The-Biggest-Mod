@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small seqyyi battery", "description": "...", "size": 1, "health": 140, "requirements": [{"item": "seqyyi", "amount": 1}, {"item": "ceyi", "amount": 15}, {"item": "wuniso", "amount": 10}], "research": "seqyyi-factory", "consumes": {"powerBuffered": 1908}, "category": "power"}

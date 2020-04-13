@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lacu underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "lacu", "amount": 2}, {"item": "wiba", "amount": 2}], "research": "lacu-conveyor", "category": "distribution", "invert": false}

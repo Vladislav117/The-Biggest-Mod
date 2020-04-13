@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "guma bridge conveyor", "description": "", "health": 42, "range": 19, "speed": 9, "bufferCapacity": 15, "requirements": [{"item": "guma", "amount": 4}, {"item": "sybo", "amount": 1}], "research": "guma-conveyor", "category": "distribution", "size": 1}

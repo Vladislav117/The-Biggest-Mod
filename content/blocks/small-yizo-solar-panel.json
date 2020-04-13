@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yizo solar panel", "description": "...", "size": 1, "health": 195, "requirements": [{"item": "yizo", "amount": 5}, {"item": "tedi", "amount": 6}, {"item": "boyanium", "amount": 4}], "research": "yizo-factory", "powerProduction": 3.8686372323790184, "category": "power"}

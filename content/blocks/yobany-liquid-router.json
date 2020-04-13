@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yobany liquid router", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "yobany", "amount": 3}, {"item": "hago", "amount": 8}, {"item": "tavu", "amount": 8}], "research": "yobany-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cevu inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "cevu", "amount": 1}, {"item": "sexinium", "amount": 5}], "research": "cevu-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gakenu overflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "gakenu", "amount": 1}, {"item": "ficynium", "amount": 3}], "research": "gakenu-conveyor", "category": "distribution", "invert": false}

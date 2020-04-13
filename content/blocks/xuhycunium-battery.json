@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xuhycunium battery", "description": "...", "size": 3, "health": 335, "requirements": [{"item": "xuhycunium", "amount": 1}, {"item": "vitina", "amount": 2}, {"item": "rubahonium", "amount": 2}], "research": "xuhycunium-factory", "consumes": {"powerBuffered": 390}, "category": "power"}

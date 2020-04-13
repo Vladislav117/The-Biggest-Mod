@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pagygu battery", "description": "...", "size": 3, "health": 53, "requirements": [{"item": "pagygu", "amount": 12}, {"item": "cawawo", "amount": 4}, {"item": "cefi", "amount": 7}], "research": "pagygu-factory", "consumes": {"powerBuffered": 7473}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "logy conduit", "description": "...", "health": 84, "requirements": [{"item": "logy", "amount": 1}, {"item": "zuzequ", "amount": 3}, {"item": "yaxuda", "amount": 9}], "liquidCapacity": 10, "liquidPressure": 6, "research": "logy-factory", "category": "liquid"}

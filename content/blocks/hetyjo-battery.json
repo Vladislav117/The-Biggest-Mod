@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hetyjo battery", "description": "...", "size": 3, "health": 127, "requirements": [{"item": "hetyjo", "amount": 9}, {"item": "qayanium", "amount": 13}, {"item": "xekocanium", "amount": 7}], "research": "hetyjo-factory", "consumes": {"powerBuffered": 3067}, "category": "power"}

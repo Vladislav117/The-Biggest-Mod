@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jafuja underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "jafuja", "amount": 1}, {"item": "tokote", "amount": 2}], "research": "jafuja-conveyor", "category": "distribution", "invert": false}

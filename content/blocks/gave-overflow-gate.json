@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gave overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "gave", "amount": 4}, {"item": "foze", "amount": 2}], "research": "gave-conveyor", "category": "distribution", "invert": false}

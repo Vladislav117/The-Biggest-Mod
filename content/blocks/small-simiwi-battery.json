@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small simiwi battery", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "simiwi", "amount": 7}, {"item": "vojenium", "amount": 12}, {"item": "rymojanium", "amount": 1}], "research": "simiwi-factory", "consumes": {"powerBuffered": 1112}, "category": "power"}

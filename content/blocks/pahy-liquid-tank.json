@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pahy liquid tank", "description": "...", "health": 573, "size": 3, "requirements": [{"item": "pahy", "amount": 12}, {"item": "karu", "amount": 15}, {"item": "genohu", "amount": 1}], "research": "pahy-conduit", "category": "liquid", "liquidCapacity": 82140, "hasLiquids": true}

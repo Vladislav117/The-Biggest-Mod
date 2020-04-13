@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yofopy bridge conveyor", "description": "", "health": 7, "range": 11, "speed": 14, "bufferCapacity": 25, "requirements": [{"item": "yofopy", "amount": 5}, {"item": "veco", "amount": 1}], "research": "yofopy-conveyor", "category": "distribution", "size": 1}

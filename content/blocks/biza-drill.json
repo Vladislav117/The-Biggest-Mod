@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "biza drill", "description": "...", "size": 2, "health": 128, "tier": 1, "drillTime": 18, "consumes": {"power": 2}, "requirements": [{"item": "biza", "amount": 1}, {"item": "syjilanium", "amount": 15}, {"item": "vekuly", "amount": 7}], "research": "biza-factory", "category": "production"}

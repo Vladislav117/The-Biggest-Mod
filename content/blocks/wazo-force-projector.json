@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "wazo force projector", "description": "...", "health": 188, "size": 3, "consumes": {"power": 5.0, "item": "wazo"}, "requirements": [{"item": "wazo", "amount": 14}, {"item": "pohyva", "amount": 10}, {"item": "hofi", "amount": 8}], "research": "wazo-factory", "category": "effect"}

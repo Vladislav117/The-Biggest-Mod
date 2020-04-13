@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "syro bridge conveyor", "description": "", "health": 50, "range": 4, "speed": 3, "bufferCapacity": 25, "requirements": [{"item": "syro", "amount": 3}, {"item": "koyiwi", "amount": 3}], "research": "syro-conveyor", "category": "distribution", "size": 1}

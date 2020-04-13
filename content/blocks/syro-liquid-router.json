@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "syro liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "syro", "amount": 1}, {"item": "diforinium", "amount": 10}, {"item": "mote", "amount": 2}], "research": "syro-conduit", "liquidCapacity": 10, "category": "liquid"}

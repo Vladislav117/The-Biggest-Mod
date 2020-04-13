@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "duyari conduit", "description": "...", "health": 174, "requirements": [{"item": "duyari", "amount": 2}, {"item": "reju", "amount": 15}, {"item": "gyza", "amount": 8}], "liquidCapacity": 23, "liquidPressure": 10, "research": "duyari-factory", "category": "liquid"}

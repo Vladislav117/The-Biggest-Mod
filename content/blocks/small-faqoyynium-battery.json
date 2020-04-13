@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small faqoyynium battery", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "faqoyynium", "amount": 11}, {"item": "fote", "amount": 13}, {"item": "labila", "amount": 4}], "research": "faqoyynium-factory", "consumes": {"powerBuffered": 1049}, "category": "power"}

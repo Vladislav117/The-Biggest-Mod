@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vocazu conduit", "description": "...", "health": 152, "requirements": [{"item": "vocazu", "amount": 8}, {"item": "sovuqu", "amount": 16}, {"item": "lyva", "amount": 4}], "liquidCapacity": 33, "liquidPressure": 1, "research": "vocazu-factory", "category": "liquid"}

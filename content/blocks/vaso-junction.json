@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vaso junction", "description": "...", "health": 2, "speed": 5, "capacity": 17, "size": 1, "requirements": [{"item": "vaso", "amount": 5}, {"item": "qeconium", "amount": 1}], "research": "vaso-conveyor", "category": "distribution"}

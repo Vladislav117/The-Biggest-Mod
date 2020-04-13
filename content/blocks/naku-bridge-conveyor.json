@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "naku bridge conveyor", "description": "", "health": 46, "range": 17, "speed": 8, "bufferCapacity": 12, "requirements": [{"item": "naku", "amount": 1}, {"item": "hyla", "amount": 2}], "research": "naku-conveyor", "category": "distribution", "size": 1}

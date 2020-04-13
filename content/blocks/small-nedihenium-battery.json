@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nedihenium battery", "description": "...", "size": 1, "health": 376, "requirements": [{"item": "nedihenium", "amount": 6}, {"item": "qasysi", "amount": 7}, {"item": "moyenium", "amount": 7}], "research": "nedihenium-factory", "consumes": {"powerBuffered": 828}, "category": "power"}

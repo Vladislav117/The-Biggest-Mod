@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fopuru liquid tank", "description": "...", "health": 391, "size": 3, "requirements": [{"item": "fopuru", "amount": 9}, {"item": "dedaka", "amount": 17}, {"item": "yeby", "amount": 6}], "research": "fopuru-conduit", "category": "liquid", "liquidCapacity": 5740, "hasLiquids": true}

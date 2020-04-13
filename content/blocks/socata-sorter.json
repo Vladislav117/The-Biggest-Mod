@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "socata sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "socata", "amount": 4}, {"item": "fuda", "amount": 4}], "research": "socata-conveyor", "category": "distribution", "invert": false}

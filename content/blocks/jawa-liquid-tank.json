@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jawa liquid tank", "description": "...", "health": 364, "size": 3, "requirements": [{"item": "jawa", "amount": 13}, {"item": "rose", "amount": 20}, {"item": "maya", "amount": 7}], "research": "jawa-conduit", "category": "liquid", "liquidCapacity": 27610, "hasLiquids": true}

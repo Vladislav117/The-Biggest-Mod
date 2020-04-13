@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dowa overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "dowa", "amount": 1}, {"item": "pigagunium", "amount": 1}], "research": "dowa-conveyor", "category": "distribution", "invert": false}

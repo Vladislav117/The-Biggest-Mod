@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tokote liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "tokote", "amount": 5}, {"item": "qoxanium", "amount": 11}, {"item": "qamo", "amount": 7}], "research": "tokote-conduit", "liquidCapacity": 10, "category": "liquid"}

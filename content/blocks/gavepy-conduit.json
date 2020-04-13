@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gavepy conduit", "description": "...", "health": 109, "requirements": [{"item": "gavepy", "amount": 16}, {"item": "jafa", "amount": 6}, {"item": "tayi", "amount": 6}], "liquidCapacity": 10, "liquidPressure": 3, "research": "gavepy-factory", "category": "liquid"}

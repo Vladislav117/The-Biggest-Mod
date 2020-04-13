@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "foqunium overdrive projector", "description": "...", "health": 59, "consumes": {"power": 3.0, "item": "foqunium"}, "size": 2, "requirements": [{"item": "foqunium", "amount": 5}, {"item": "yiveni", "amount": 4}, {"item": "cycu", "amount": 5}], "research": "foqunium-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pymu conduit", "description": "...", "health": 177, "requirements": [{"item": "pymu", "amount": 16}, {"item": "ragoku", "amount": 19}, {"item": "mufosinium", "amount": 4}], "liquidCapacity": 18, "liquidPressure": 5, "research": "pymu-factory", "category": "liquid"}

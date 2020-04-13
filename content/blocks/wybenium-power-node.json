@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wybenium power node", "description": "...", "size": 2, "health": 361, "requirements": [{"item": "wybenium", "amount": 15}, {"item": "vipu", "amount": 15}, {"item": "zafuqo", "amount": 4}], "research": "wybenium-factory", "maxNodes": 15, "laserRange": 30, "category": "power"}

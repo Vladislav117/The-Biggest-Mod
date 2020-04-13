@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qanupenium power node", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "qanupenium", "amount": 17}, {"item": "tozenium", "amount": 17}, {"item": "mafy", "amount": 10}], "research": "qanupenium-factory", "maxNodes": 21, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small geqa solar panel", "description": "...", "size": 1, "health": 392, "requirements": [{"item": "geqa", "amount": 12}, {"item": "bebofo", "amount": 3}, {"item": "ruvudo", "amount": 8}], "research": "geqa-factory", "powerProduction": 0.003603528467644043, "category": "power"}

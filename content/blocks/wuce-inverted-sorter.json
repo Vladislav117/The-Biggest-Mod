@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wuce inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "wuce", "amount": 4}, {"item": "lyruvanium", "amount": 4}], "research": "wuce-conveyor", "category": "distribution", "invert": true}

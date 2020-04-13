@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hojanium liquid tank", "description": "...", "health": 354, "size": 3, "requirements": [{"item": "hojanium", "amount": 5}, {"item": "xuricy", "amount": 18}, {"item": "nypenium", "amount": 4}], "research": "hojanium-conduit", "category": "liquid", "liquidCapacity": 11557, "hasLiquids": true}

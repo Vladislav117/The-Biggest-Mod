@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zenuwunium battery", "description": "...", "size": 3, "health": 232, "requirements": [{"item": "zenuwunium", "amount": 16}, {"item": "jodezu", "amount": 5}, {"item": "gozefynium", "amount": 6}], "research": "zenuwunium-factory", "consumes": {"powerBuffered": 7123}, "category": "power"}

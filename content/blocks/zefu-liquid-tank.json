@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zefu liquid tank", "description": "...", "health": 598, "size": 3, "requirements": [{"item": "zefu", "amount": 14}, {"item": "bofe", "amount": 17}, {"item": "lyru", "amount": 6}], "research": "zefu-conduit", "category": "liquid", "liquidCapacity": 95202, "hasLiquids": true}

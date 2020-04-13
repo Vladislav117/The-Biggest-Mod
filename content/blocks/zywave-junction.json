@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zywave junction", "description": "...", "health": 3, "speed": 12, "capacity": 2, "size": 1, "requirements": [{"item": "zywave", "amount": 2}, {"item": "tozokinium", "amount": 1}], "research": "zywave-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yiveni battery", "description": "...", "size": 3, "health": 359, "requirements": [{"item": "yiveni", "amount": 8}, {"item": "zoyasi", "amount": 3}, {"item": "byqymo", "amount": 9}], "research": "yiveni-factory", "consumes": {"powerBuffered": 9613}, "category": "power"}

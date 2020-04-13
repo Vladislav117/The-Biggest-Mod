@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "wavoli force projector", "description": "...", "health": 194, "size": 3, "consumes": {"power": 5.0, "item": "wavoli"}, "requirements": [{"item": "wavoli", "amount": 20}, {"item": "kubi", "amount": 9}, {"item": "wiba", "amount": 7}], "research": "wavoli-factory", "category": "effect"}

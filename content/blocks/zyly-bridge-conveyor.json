@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zyly bridge conveyor", "description": "", "health": 14, "range": 10, "speed": 19, "bufferCapacity": 9, "requirements": [{"item": "zyly", "amount": 1}, {"item": "mavi", "amount": 2}], "research": "zyly-conveyor", "category": "distribution", "size": 1}

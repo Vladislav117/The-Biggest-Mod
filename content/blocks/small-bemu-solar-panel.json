@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bemu solar panel", "description": "...", "size": 1, "health": 344, "requirements": [{"item": "bemu", "amount": 16}, {"item": "qicu", "amount": 14}, {"item": "sybo", "amount": 1}], "research": "bemu-factory", "powerProduction": 0.28867407878592133, "category": "power"}

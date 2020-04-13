@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vakarinium junction", "description": "...", "health": 15, "speed": 1, "capacity": 6, "size": 1, "requirements": [{"item": "vakarinium", "amount": 1}, {"item": "muti", "amount": 4}], "research": "vakarinium-conveyor", "category": "distribution"}

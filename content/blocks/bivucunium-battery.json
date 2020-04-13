@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bivucunium battery", "description": "...", "size": 3, "health": 112, "requirements": [{"item": "bivucunium", "amount": 10}, {"item": "qacu", "amount": 12}, {"item": "roja", "amount": 6}], "research": "bivucunium-factory", "consumes": {"powerBuffered": 7951}, "category": "power"}

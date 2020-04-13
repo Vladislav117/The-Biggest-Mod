@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hociku solar panel", "description": "...", "size": 1, "health": 240, "requirements": [{"item": "hociku", "amount": 9}, {"item": "fuyoja", "amount": 11}, {"item": "wupoxy", "amount": 8}], "research": "hociku-factory", "powerProduction": 0.05823885597918333, "category": "power"}

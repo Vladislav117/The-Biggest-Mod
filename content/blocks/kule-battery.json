@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kule battery", "description": "...", "size": 3, "health": 252, "requirements": [{"item": "kule", "amount": 17}, {"item": "wisi", "amount": 8}, {"item": "zufi", "amount": 9}], "research": "kule-factory", "consumes": {"powerBuffered": 311}, "category": "power"}

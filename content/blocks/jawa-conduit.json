@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jawa conduit", "description": "...", "health": 48, "requirements": [{"item": "jawa", "amount": 16}, {"item": "lesy", "amount": 15}, {"item": "pemo", "amount": 1}], "liquidCapacity": 2, "liquidPressure": 4, "research": "jawa-factory", "category": "liquid"}

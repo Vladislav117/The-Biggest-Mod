@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nudady overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "nudady", "amount": 4}, {"item": "tiwyna", "amount": 5}], "research": "nudady-conveyor", "category": "distribution", "invert": false}

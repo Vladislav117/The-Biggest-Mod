@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nupydo battery", "description": "...", "size": 3, "health": 183, "requirements": [{"item": "nupydo", "amount": 15}, {"item": "towenium", "amount": 4}, {"item": "suminium", "amount": 8}], "research": "nupydo-factory", "consumes": {"powerBuffered": 7765}, "category": "power"}

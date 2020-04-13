@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wafe conduit", "description": "...", "health": 160, "requirements": [{"item": "wafe", "amount": 2}, {"item": "vadoda", "amount": 10}, {"item": "depyya", "amount": 1}], "liquidCapacity": 27, "liquidPressure": 9, "research": "wafe-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lyvewenium sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "lyvewenium", "amount": 5}, {"item": "mawanium", "amount": 2}], "research": "lyvewenium-conveyor", "category": "distribution", "invert": false}

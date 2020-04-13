@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mimuce drill", "description": "...", "size": 2, "health": 161, "tier": 3, "drillTime": 2, "consumes": {"power": 10}, "requirements": [{"item": "mimuce", "amount": 20}, {"item": "sofowo", "amount": 16}, {"item": "kica", "amount": 3}], "research": "mimuce-factory", "category": "production"}

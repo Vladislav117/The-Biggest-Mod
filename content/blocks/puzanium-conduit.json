@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "puzanium conduit", "description": "...", "health": 87, "requirements": [{"item": "puzanium", "amount": 10}, {"item": "kywowa", "amount": 12}, {"item": "woyu", "amount": 9}], "liquidCapacity": 18, "liquidPressure": 2, "research": "puzanium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "meranium junction", "description": "...", "health": 17, "speed": 11, "capacity": 16, "size": 1, "requirements": [{"item": "meranium", "amount": 3}, {"item": "waka", "amount": 4}], "research": "meranium-conveyor", "category": "distribution"}

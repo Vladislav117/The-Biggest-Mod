@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mabe drill", "description": "...", "size": 2, "health": 290, "tier": 4, "drillTime": 13, "consumes": {"power": 12}, "requirements": [{"item": "mabe", "amount": 6}, {"item": "sahylu", "amount": 6}, {"item": "yepy", "amount": 3}], "research": "mabe-factory", "category": "production"}

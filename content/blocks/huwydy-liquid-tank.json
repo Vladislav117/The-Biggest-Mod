@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "huwydy liquid tank", "description": "...", "health": 326, "size": 3, "requirements": [{"item": "huwydy", "amount": 13}, {"item": "yowiminium", "amount": 20}, {"item": "siqefo", "amount": 5}], "research": "huwydy-conduit", "category": "liquid", "liquidCapacity": 62128, "hasLiquids": true}

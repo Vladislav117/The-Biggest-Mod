@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wizacy sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "wizacy", "amount": 5}, {"item": "pyvunium", "amount": 1}], "research": "wizacy-conveyor", "category": "distribution", "invert": false}

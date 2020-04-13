@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wycenu battery", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "wycenu", "amount": 12}, {"item": "migube", "amount": 5}, {"item": "fufyyu", "amount": 3}], "research": "wycenu-factory", "consumes": {"powerBuffered": 204}, "category": "power"}

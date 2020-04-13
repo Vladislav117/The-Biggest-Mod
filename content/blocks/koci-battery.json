@@ -1,0 +1,1 @@
+{"type": "battery", "name": "koci battery", "description": "...", "size": 3, "health": 220, "requirements": [{"item": "koci", "amount": 12}, {"item": "juwyso", "amount": 19}, {"item": "xuze", "amount": 4}], "research": "koci-factory", "consumes": {"powerBuffered": 9416}, "category": "power"}

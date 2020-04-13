@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tymofa overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "tymofa", "amount": 1}, {"item": "pyyomi", "amount": 5}], "research": "tymofa-conveyor", "category": "distribution", "invert": false}

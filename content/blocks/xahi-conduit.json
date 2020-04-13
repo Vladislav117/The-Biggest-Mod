@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xahi conduit", "description": "...", "health": 189, "requirements": [{"item": "xahi", "amount": 20}, {"item": "hyjape", "amount": 6}, {"item": "hypo", "amount": 6}], "liquidCapacity": 3, "liquidPressure": 2, "research": "xahi-factory", "category": "liquid"}

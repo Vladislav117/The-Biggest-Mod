@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qofepa overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "qofepa", "amount": 5}, {"item": "juge", "amount": 4}], "research": "qofepa-conveyor", "category": "distribution", "invert": false}

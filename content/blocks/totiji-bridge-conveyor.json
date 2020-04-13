@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "totiji bridge conveyor", "description": "", "health": 33, "range": 15, "speed": 17, "bufferCapacity": 7, "requirements": [{"item": "totiji", "amount": 4}, {"item": "yito", "amount": 5}], "research": "totiji-conveyor", "category": "distribution", "size": 1}

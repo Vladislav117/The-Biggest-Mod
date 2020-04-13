@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zaba underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "zaba", "amount": 2}, {"item": "xuhenium", "amount": 3}], "research": "zaba-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "naxihe battery", "description": "...", "size": 3, "health": 190, "requirements": [{"item": "naxihe", "amount": 10}, {"item": "nytina", "amount": 3}, {"item": "qaho", "amount": 10}], "research": "naxihe-factory", "consumes": {"powerBuffered": 6530}, "category": "power"}

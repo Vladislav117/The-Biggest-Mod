@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fezudanium power node", "description": "...", "size": 2, "health": 455, "requirements": [{"item": "fezudanium", "amount": 12}, {"item": "huxe", "amount": 18}, {"item": "yypunium", "amount": 5}], "research": "fezudanium-factory", "maxNodes": 23, "laserRange": 23, "category": "power"}

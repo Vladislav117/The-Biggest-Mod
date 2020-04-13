@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qiwu inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "qiwu", "amount": 2}, {"item": "yiveni", "amount": 5}], "research": "qiwu-conveyor", "category": "distribution", "invert": true}

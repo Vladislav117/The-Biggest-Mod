@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yeli battery", "description": "...", "size": 1, "health": 315, "requirements": [{"item": "yeli", "amount": 10}, {"item": "kegiqi", "amount": 7}, {"item": "ryte", "amount": 10}], "research": "yeli-factory", "consumes": {"powerBuffered": 1093}, "category": "power"}

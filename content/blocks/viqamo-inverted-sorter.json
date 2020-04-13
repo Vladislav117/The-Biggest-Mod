@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "viqamo inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "viqamo", "amount": 2}, {"item": "kyte", "amount": 1}], "research": "viqamo-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cyru inverted sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "cyru", "amount": 1}, {"item": "mefymanium", "amount": 4}], "research": "cyru-conveyor", "category": "distribution", "invert": true}

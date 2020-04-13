@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small peje power node", "description": "...", "size": 1, "health": 11, "requirements": [{"item": "peje", "amount": 10}, {"item": "vety", "amount": 10}, {"item": "vikasynium", "amount": 10}], "research": "peje-factory", "maxNodes": 10, "laserRange": 10, "category": "power"}

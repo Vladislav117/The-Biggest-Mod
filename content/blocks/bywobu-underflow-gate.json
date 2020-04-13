@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bywobu underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "bywobu", "amount": 2}, {"item": "wabaru", "amount": 3}], "research": "bywobu-conveyor", "category": "distribution", "invert": false}

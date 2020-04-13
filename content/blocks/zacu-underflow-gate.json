@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zacu underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "zacu", "amount": 2}, {"item": "kyma", "amount": 2}], "research": "zacu-conveyor", "category": "distribution", "invert": false}

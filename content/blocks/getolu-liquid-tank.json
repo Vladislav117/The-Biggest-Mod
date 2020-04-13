@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "getolu liquid tank", "description": "...", "health": 410, "size": 3, "requirements": [{"item": "getolu", "amount": 1}, {"item": "ryzyzi", "amount": 20}, {"item": "qiwypa", "amount": 7}], "research": "getolu-conduit", "category": "liquid", "liquidCapacity": 54003, "hasLiquids": true}

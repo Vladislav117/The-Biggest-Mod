@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pary drill", "description": "...", "size": 4, "health": 317, "tier": 1, "drillTime": 13, "consumes": {"power": 20}, "requirements": [{"item": "pary", "amount": 9}, {"item": "kawo", "amount": 3}, {"item": "bawy", "amount": 2}], "research": "pary-factory", "category": "production"}

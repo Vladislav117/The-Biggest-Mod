@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hypotinium sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "hypotinium", "amount": 1}, {"item": "vavaqi", "amount": 3}], "research": "hypotinium-conveyor", "category": "distribution", "invert": false}

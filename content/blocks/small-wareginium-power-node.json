@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wareginium power node", "description": "...", "size": 1, "health": 338, "requirements": [{"item": "wareginium", "amount": 13}, {"item": "xofa", "amount": 6}, {"item": "fezadunium", "amount": 7}], "research": "wareginium-factory", "maxNodes": 8, "laserRange": 20, "category": "power"}

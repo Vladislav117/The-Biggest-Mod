@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sinawenium battery", "description": "...", "size": 1, "health": 169, "requirements": [{"item": "sinawenium", "amount": 4}, {"item": "wino", "amount": 13}, {"item": "yylonium", "amount": 2}], "research": "sinawenium-factory", "consumes": {"powerBuffered": 2754}, "category": "power"}

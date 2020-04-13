@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yyyoqy battery", "description": "...", "size": 1, "health": 157, "requirements": [{"item": "yyyoqy", "amount": 17}, {"item": "wareginium", "amount": 17}, {"item": "teyigu", "amount": 8}], "research": "yyyoqy-factory", "consumes": {"powerBuffered": 1000}, "category": "power"}

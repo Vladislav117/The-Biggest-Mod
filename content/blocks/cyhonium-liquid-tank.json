@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cyhonium liquid tank", "description": "...", "health": 338, "size": 3, "requirements": [{"item": "cyhonium", "amount": 11}, {"item": "gotepy", "amount": 5}, {"item": "mewy", "amount": 10}], "research": "cyhonium-conduit", "category": "liquid", "liquidCapacity": 101049, "hasLiquids": true}

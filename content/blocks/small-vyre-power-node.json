@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vyre power node", "description": "...", "size": 1, "health": 157, "requirements": [{"item": "vyre", "amount": 8}, {"item": "gorenium", "amount": 18}, {"item": "sacigi", "amount": 2}], "research": "vyre-factory", "maxNodes": 22, "laserRange": 4, "category": "power"}

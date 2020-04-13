@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tenuty junction", "description": "...", "health": 35, "speed": 19, "capacity": 14, "size": 1, "requirements": [{"item": "tenuty", "amount": 1}, {"item": "labila", "amount": 1}], "research": "tenuty-conveyor", "category": "distribution"}

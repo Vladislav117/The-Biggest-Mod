@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yaky battery", "description": "...", "size": 3, "health": 200, "requirements": [{"item": "yaky", "amount": 16}, {"item": "yeby", "amount": 1}, {"item": "poquko", "amount": 7}], "research": "yaky-factory", "consumes": {"powerBuffered": 2562}, "category": "power"}

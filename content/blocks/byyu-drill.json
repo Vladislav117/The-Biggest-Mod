@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "byyu drill", "description": "...", "size": 3, "health": 116, "tier": 4, "drillTime": 4, "consumes": {"power": 4}, "requirements": [{"item": "byyu", "amount": 12}, {"item": "mufosinium", "amount": 16}, {"item": "tewo", "amount": 6}], "research": "byyu-factory", "category": "production"}

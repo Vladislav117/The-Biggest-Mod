@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wojeru liquid tank", "description": "...", "health": 662, "size": 3, "requirements": [{"item": "wojeru", "amount": 11}, {"item": "zuhisu", "amount": 1}, {"item": "mapi", "amount": 10}], "research": "wojeru-conduit", "category": "liquid", "liquidCapacity": 114799, "hasLiquids": true}

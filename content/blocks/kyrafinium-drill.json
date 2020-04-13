@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kyrafinium drill", "description": "...", "size": 3, "health": 153, "tier": 1, "drillTime": 17, "consumes": {"power": 12}, "requirements": [{"item": "kyrafinium", "amount": 5}, {"item": "jylovo", "amount": 13}, {"item": "sukafe", "amount": 6}], "research": "kyrafinium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vyka underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "vyka", "amount": 3}, {"item": "lejara", "amount": 1}], "research": "vyka-conveyor", "category": "distribution", "invert": false}

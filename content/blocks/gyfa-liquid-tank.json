@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gyfa liquid tank", "description": "...", "health": 369, "size": 3, "requirements": [{"item": "gyfa", "amount": 12}, {"item": "nevyle", "amount": 10}, {"item": "dukyfe", "amount": 4}], "research": "gyfa-conduit", "category": "liquid", "liquidCapacity": 34482, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "juba bridge conveyor", "description": "", "health": 17, "range": 16, "speed": 9, "bufferCapacity": 22, "requirements": [{"item": "juba", "amount": 5}, {"item": "giha", "amount": 5}], "research": "juba-conveyor", "category": "distribution", "size": 1}

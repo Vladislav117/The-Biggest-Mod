@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lokybe junction", "description": "...", "health": 9, "speed": 2, "capacity": 5, "size": 1, "requirements": [{"item": "lokybe", "amount": 2}, {"item": "gahunium", "amount": 3}], "research": "lokybe-conveyor", "category": "distribution"}

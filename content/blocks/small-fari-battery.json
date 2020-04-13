@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fari battery", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "fari", "amount": 17}, {"item": "kyyuny", "amount": 6}, {"item": "naconium", "amount": 10}], "research": "fari-factory", "consumes": {"powerBuffered": 2530}, "category": "power"}

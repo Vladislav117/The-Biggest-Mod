@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tozenium battery", "description": "...", "size": 3, "health": 219, "requirements": [{"item": "tozenium", "amount": 10}, {"item": "jetu", "amount": 12}, {"item": "zereka", "amount": 8}], "research": "tozenium-factory", "consumes": {"powerBuffered": 8864}, "category": "power"}

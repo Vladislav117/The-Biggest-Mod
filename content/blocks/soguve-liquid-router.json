@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "soguve liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "soguve", "amount": 7}, {"item": "wisipu", "amount": 16}, {"item": "cyxe", "amount": 8}], "research": "soguve-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wejabo battery", "description": "...", "size": 3, "health": 266, "requirements": [{"item": "wejabo", "amount": 4}, {"item": "yegy", "amount": 13}, {"item": "gyri", "amount": 8}], "research": "wejabo-factory", "consumes": {"powerBuffered": 9393}, "category": "power"}

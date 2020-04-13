@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yubyqi battery", "description": "...", "size": 1, "health": 114, "requirements": [{"item": "yubyqi", "amount": 10}, {"item": "bexa", "amount": 9}, {"item": "fanaka", "amount": 10}], "research": "yubyqi-factory", "consumes": {"powerBuffered": 1716}, "category": "power"}

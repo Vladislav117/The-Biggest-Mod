@@ -1,0 +1,1 @@
+{"type": "junction", "name": "reqoxu junction", "description": "...", "health": 43, "speed": 5, "capacity": 19, "size": 1, "requirements": [{"item": "reqoxu", "amount": 5}, {"item": "walinium", "amount": 5}], "research": "reqoxu-conveyor", "category": "distribution"}

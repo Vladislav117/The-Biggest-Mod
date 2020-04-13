@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "budo underflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "budo", "amount": 1}, {"item": "xysynium", "amount": 5}], "research": "budo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hyvyje battery", "description": "...", "size": 3, "health": 151, "requirements": [{"item": "hyvyje", "amount": 5}, {"item": "xuhenium", "amount": 12}, {"item": "dakyse", "amount": 1}], "research": "hyvyje-factory", "consumes": {"powerBuffered": 2824}, "category": "power"}

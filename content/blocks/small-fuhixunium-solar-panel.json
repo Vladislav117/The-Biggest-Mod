@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fuhixunium solar panel", "description": "...", "size": 1, "health": 275, "requirements": [{"item": "fuhixunium", "amount": 18}, {"item": "naconium", "amount": 15}, {"item": "keqaqe", "amount": 8}], "research": "fuhixunium-factory", "powerProduction": 0.4148180688026014, "category": "power"}

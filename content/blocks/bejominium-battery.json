@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bejominium battery", "description": "...", "size": 3, "health": 157, "requirements": [{"item": "bejominium", "amount": 12}, {"item": "bubu", "amount": 5}, {"item": "qywiqi", "amount": 3}], "research": "bejominium-factory", "consumes": {"powerBuffered": 6593}, "category": "power"}

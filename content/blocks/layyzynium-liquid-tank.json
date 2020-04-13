@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "layyzynium liquid tank", "description": "...", "health": 296, "size": 3, "requirements": [{"item": "layyzynium", "amount": 13}, {"item": "sexinium", "amount": 14}, {"item": "sore", "amount": 2}], "research": "layyzynium-conduit", "category": "liquid", "liquidCapacity": 51039, "hasLiquids": true}

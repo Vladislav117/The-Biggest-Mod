@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tolo liquid router", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "tolo", "amount": 9}, {"item": "raru", "amount": 4}, {"item": "nidujo", "amount": 7}], "research": "tolo-conduit", "liquidCapacity": 10, "category": "liquid"}

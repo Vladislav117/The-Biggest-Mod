@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tisi battery", "description": "...", "size": 1, "health": 94, "requirements": [{"item": "tisi", "amount": 16}, {"item": "dune", "amount": 9}, {"item": "nevyle", "amount": 3}], "research": "tisi-factory", "consumes": {"powerBuffered": 1734}, "category": "power"}

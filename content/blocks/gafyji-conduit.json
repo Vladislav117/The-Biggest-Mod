@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gafyji conduit", "description": "...", "health": 75, "requirements": [{"item": "gafyji", "amount": 2}, {"item": "mejoly", "amount": 19}, {"item": "galoninium", "amount": 2}], "liquidCapacity": 12, "liquidPressure": 3, "research": "gafyji-factory", "category": "liquid"}

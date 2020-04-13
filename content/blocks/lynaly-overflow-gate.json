@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lynaly overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "lynaly", "amount": 3}, {"item": "venuki", "amount": 1}], "research": "lynaly-conveyor", "category": "distribution", "invert": false}

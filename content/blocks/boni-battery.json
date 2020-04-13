@@ -1,0 +1,1 @@
+{"type": "battery", "name": "boni battery", "description": "...", "size": 3, "health": 310, "requirements": [{"item": "boni", "amount": 19}, {"item": "hyxy", "amount": 9}, {"item": "vivunium", "amount": 5}], "research": "boni-factory", "consumes": {"powerBuffered": 2666}, "category": "power"}

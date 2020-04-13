@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cuwenium liquid router", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "cuwenium", "amount": 19}, {"item": "mivoky", "amount": 14}, {"item": "hunadanium", "amount": 2}], "research": "cuwenium-conduit", "liquidCapacity": 10, "category": "liquid"}

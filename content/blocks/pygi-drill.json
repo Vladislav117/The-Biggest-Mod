@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pygi drill", "description": "...", "size": 4, "health": 258, "tier": 4, "drillTime": 5, "consumes": {"power": 5}, "requirements": [{"item": "pygi", "amount": 14}, {"item": "gawazy", "amount": 9}, {"item": "siviny", "amount": 4}], "research": "pygi-factory", "category": "production"}

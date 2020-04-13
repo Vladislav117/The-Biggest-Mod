@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pawynium drill", "description": "...", "size": 2, "health": 386, "tier": 4, "drillTime": 11, "consumes": {"power": 3}, "requirements": [{"item": "pawynium", "amount": 4}, {"item": "syxidonium", "amount": 11}, {"item": "cisiwa", "amount": 8}], "research": "pawynium-factory", "category": "production"}

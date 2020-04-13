@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kubi liquid tank", "description": "...", "health": 276, "size": 3, "requirements": [{"item": "kubi", "amount": 16}, {"item": "lead", "amount": 12}, {"item": "graphite", "amount": 5}], "research": "kubi-conduit", "category": "liquid", "liquidCapacity": 13535, "hasLiquids": true}

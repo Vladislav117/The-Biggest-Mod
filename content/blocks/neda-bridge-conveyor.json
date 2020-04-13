@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "neda bridge conveyor", "description": "", "health": 44, "range": 3, "speed": 5, "bufferCapacity": 16, "requirements": [{"item": "neda", "amount": 1}, {"item": "dyzo", "amount": 1}], "research": "neda-conveyor", "category": "distribution", "size": 1}

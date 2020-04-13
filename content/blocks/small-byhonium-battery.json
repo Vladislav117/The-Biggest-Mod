@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small byhonium battery", "description": "...", "size": 1, "health": 172, "requirements": [{"item": "byhonium", "amount": 20}, {"item": "sacigi", "amount": 18}, {"item": "heruru", "amount": 1}], "research": "byhonium-factory", "consumes": {"powerBuffered": 295}, "category": "power"}

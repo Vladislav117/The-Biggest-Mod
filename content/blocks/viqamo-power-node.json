@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "viqamo power node", "description": "...", "size": 2, "health": 592, "requirements": [{"item": "viqamo", "amount": 5}, {"item": "jywupa", "amount": 16}, {"item": "plastanium", "amount": 9}], "research": "viqamo-factory", "maxNodes": 17, "laserRange": 10, "category": "power"}

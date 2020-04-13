@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nezyno conduit", "description": "...", "health": 123, "requirements": [{"item": "nezyno", "amount": 20}, {"item": "qiyo", "amount": 4}, {"item": "bezomo", "amount": 8}], "liquidCapacity": 19, "liquidPressure": 6, "research": "nezyno-factory", "category": "liquid"}

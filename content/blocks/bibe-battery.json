@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bibe battery", "description": "...", "size": 3, "health": 362, "requirements": [{"item": "bibe", "amount": 4}, {"item": "vene", "amount": 17}, {"item": "vypo", "amount": 7}], "research": "bibe-factory", "consumes": {"powerBuffered": 5952}, "category": "power"}

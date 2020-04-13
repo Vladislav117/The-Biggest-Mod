@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "xeye overdrive projector", "description": "...", "health": 59, "consumes": {"power": 3.0, "item": "xeye"}, "size": 2, "requirements": [{"item": "xeye", "amount": 16}, {"item": "bajenium", "amount": 2}, {"item": "kyte", "amount": 4}], "research": "xeye-factory", "category": "effect"}

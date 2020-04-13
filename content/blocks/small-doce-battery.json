@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small doce battery", "description": "...", "size": 1, "health": 193, "requirements": [{"item": "doce", "amount": 8}, {"item": "jyzywy", "amount": 3}, {"item": "nikoru", "amount": 1}], "research": "doce-factory", "consumes": {"powerBuffered": 837}, "category": "power"}

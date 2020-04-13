@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lygake underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "lygake", "amount": 3}, {"item": "viwimynium", "amount": 5}], "research": "lygake-conveyor", "category": "distribution", "invert": false}

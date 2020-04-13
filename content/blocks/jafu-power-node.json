@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jafu power node", "description": "...", "size": 2, "health": 650, "requirements": [{"item": "jafu", "amount": 11}, {"item": "diforinium", "amount": 19}, {"item": "lunido", "amount": 7}], "research": "jafu-factory", "maxNodes": 42, "laserRange": 25, "category": "power"}

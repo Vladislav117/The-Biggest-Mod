@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hotonium junction", "description": "...", "health": 3, "speed": 9, "capacity": 15, "size": 1, "requirements": [{"item": "hotonium", "amount": 4}, {"item": "nimawo", "amount": 4}], "research": "hotonium-conveyor", "category": "distribution"}

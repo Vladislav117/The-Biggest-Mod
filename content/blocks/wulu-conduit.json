@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wulu conduit", "description": "...", "health": 60, "requirements": [{"item": "wulu", "amount": 6}, {"item": "tymy", "amount": 6}, {"item": "docinium", "amount": 2}], "liquidCapacity": 22, "liquidPressure": 8, "research": "wulu-factory", "category": "liquid"}

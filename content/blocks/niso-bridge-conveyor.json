@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "niso bridge conveyor", "description": "", "health": 4, "range": 16, "speed": 13, "bufferCapacity": 22, "requirements": [{"item": "niso", "amount": 1}, {"item": "buzidinium", "amount": 5}], "research": "niso-conveyor", "category": "distribution", "size": 1}

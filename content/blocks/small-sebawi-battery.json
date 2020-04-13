@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sebawi battery", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "sebawi", "amount": 2}, {"item": "vipu", "amount": 6}, {"item": "xigi", "amount": 3}], "research": "sebawi-factory", "consumes": {"powerBuffered": 205}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cabyzo liquid tank", "description": "...", "health": 313, "size": 3, "requirements": [{"item": "cabyzo", "amount": 16}, {"item": "gado", "amount": 3}, {"item": "wace", "amount": 4}], "research": "cabyzo-conduit", "category": "liquid", "liquidCapacity": 29479, "hasLiquids": true}

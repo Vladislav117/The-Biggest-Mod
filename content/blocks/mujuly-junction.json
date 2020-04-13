@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mujuly junction", "description": "...", "health": 28, "speed": 8, "capacity": 16, "size": 1, "requirements": [{"item": "mujuly", "amount": 1}, {"item": "bole", "amount": 5}], "research": "mujuly-conveyor", "category": "distribution"}

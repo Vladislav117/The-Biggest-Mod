@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yifi liquid router", "description": "...", "size": 1, "health": 13, "requirements": [{"item": "yifi", "amount": 3}, {"item": "buxy", "amount": 19}, {"item": "qayanium", "amount": 7}], "research": "yifi-conduit", "liquidCapacity": 10, "category": "liquid"}

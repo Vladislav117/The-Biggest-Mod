@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sixo power node", "description": "...", "size": 1, "health": 347, "requirements": [{"item": "sixo", "amount": 5}, {"item": "dowa", "amount": 3}, {"item": "dyku", "amount": 8}], "research": "sixo-factory", "maxNodes": 22, "laserRange": 17, "category": "power"}

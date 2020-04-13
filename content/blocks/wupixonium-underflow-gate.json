@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wupixonium underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "wupixonium", "amount": 3}, {"item": "hebohy", "amount": 5}], "research": "wupixonium-conveyor", "category": "distribution", "invert": false}

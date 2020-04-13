@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pydudanium bridge conveyor", "description": "", "health": 14, "range": 20, "speed": 12, "bufferCapacity": 1, "requirements": [{"item": "pydudanium", "amount": 1}, {"item": "huci", "amount": 2}], "research": "pydudanium-conveyor", "category": "distribution", "size": 1}

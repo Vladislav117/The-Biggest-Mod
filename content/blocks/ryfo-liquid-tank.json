@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ryfo liquid tank", "description": "...", "health": 173, "size": 3, "requirements": [{"item": "ryfo", "amount": 13}, {"item": "ruteqa", "amount": 16}, {"item": "lucohi", "amount": 2}], "research": "ryfo-conduit", "category": "liquid", "liquidCapacity": 8232, "hasLiquids": true}

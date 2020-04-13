@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rovaqa power node", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "rovaqa", "amount": 2}, {"item": "jatyjenium", "amount": 2}, {"item": "lisaca", "amount": 2}], "research": "rovaqa-factory", "maxNodes": 11, "laserRange": 14, "category": "power"}

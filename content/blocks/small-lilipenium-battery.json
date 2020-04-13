@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lilipenium battery", "description": "...", "size": 1, "health": 262, "requirements": [{"item": "lilipenium", "amount": 5}, {"item": "kylype", "amount": 7}, {"item": "qypusa", "amount": 9}], "research": "lilipenium-factory", "consumes": {"powerBuffered": 855}, "category": "power"}

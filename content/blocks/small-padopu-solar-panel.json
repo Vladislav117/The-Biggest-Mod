@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small padopu solar panel", "description": "...", "size": 1, "health": 169, "requirements": [{"item": "padopu", "amount": 12}, {"item": "qigine", "amount": 7}, {"item": "jywupa", "amount": 6}], "research": "padopu-factory", "powerProduction": 0.900927010377816, "category": "power"}

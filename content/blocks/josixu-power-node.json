@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "josixu power node", "description": "...", "size": 2, "health": 434, "requirements": [{"item": "josixu", "amount": 1}, {"item": "zodo", "amount": 9}, {"item": "jaki", "amount": 5}], "research": "josixu-factory", "maxNodes": 59, "laserRange": 30, "category": "power"}

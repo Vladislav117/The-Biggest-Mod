@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kikytanium underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "kikytanium", "amount": 5}, {"item": "zoyyqynium", "amount": 3}], "research": "kikytanium-conveyor", "category": "distribution", "invert": false}

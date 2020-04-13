@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kyronium junction", "description": "...", "health": 48, "speed": 11, "capacity": 9, "size": 1, "requirements": [{"item": "kyronium", "amount": 1}, {"item": "naqade", "amount": 1}], "research": "kyronium-conveyor", "category": "distribution"}

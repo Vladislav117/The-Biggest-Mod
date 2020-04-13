@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lewana battery", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "lewana", "amount": 15}, {"item": "detadynium", "amount": 3}, {"item": "zufo", "amount": 1}], "research": "lewana-factory", "consumes": {"powerBuffered": 437}, "category": "power"}

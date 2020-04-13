@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pijunynium solar panel", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "pijunynium", "amount": 14}, {"item": "takyhonium", "amount": 4}, {"item": "kani", "amount": 4}], "research": "pijunynium-factory", "powerProduction": 0.020089259464503673, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "roje liquid tank", "description": "...", "health": 643, "size": 3, "requirements": [{"item": "roje", "amount": 8}, {"item": "lyva", "amount": 5}, {"item": "bopu", "amount": 10}], "research": "roje-conduit", "category": "liquid", "liquidCapacity": 48208, "hasLiquids": true}

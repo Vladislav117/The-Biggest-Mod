@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "toqe solar panel", "description": "...", "size": 3, "health": 213, "requirements": [{"item": "toqe", "amount": 19}, {"item": "gywu", "amount": 5}, {"item": "bozyfa", "amount": 4}], "research": "toqe-factory", "powerProduction": 0.0016984948156233042, "category": "power"}

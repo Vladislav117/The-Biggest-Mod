@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rehodunium junction", "description": "...", "health": 41, "speed": 20, "capacity": 5, "size": 1, "requirements": [{"item": "rehodunium", "amount": 4}, {"item": "suminium", "amount": 2}], "research": "rehodunium-conveyor", "category": "distribution"}

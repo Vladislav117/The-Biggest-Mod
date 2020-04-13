@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zelanium solar panel", "description": "...", "size": 3, "health": 245, "requirements": [{"item": "zelanium", "amount": 20}, {"item": "dutenium", "amount": 14}, {"item": "tyjexanium", "amount": 6}], "research": "zelanium-factory", "powerProduction": 0.6860202152553482, "category": "power"}

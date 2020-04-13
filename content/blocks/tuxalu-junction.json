@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tuxalu junction", "description": "...", "health": 21, "speed": 2, "capacity": 16, "size": 1, "requirements": [{"item": "tuxalu", "amount": 2}, {"item": "zazinium", "amount": 5}], "research": "tuxalu-conveyor", "category": "distribution"}

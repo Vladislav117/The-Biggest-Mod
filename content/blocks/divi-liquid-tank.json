@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "divi liquid tank", "description": "...", "health": 618, "size": 3, "requirements": [{"item": "divi", "amount": 12}, {"item": "mesa", "amount": 16}, {"item": "lyra", "amount": 10}], "research": "divi-conduit", "category": "liquid", "liquidCapacity": 89848, "hasLiquids": true}

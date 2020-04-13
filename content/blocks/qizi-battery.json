@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qizi battery", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "qizi", "amount": 18}, {"item": "rizope", "amount": 18}, {"item": "jazy", "amount": 6}], "research": "qizi-factory", "consumes": {"powerBuffered": 9865}, "category": "power"}

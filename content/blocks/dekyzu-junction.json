@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dekyzu junction", "description": "...", "health": 47, "speed": 4, "capacity": 5, "size": 1, "requirements": [{"item": "dekyzu", "amount": 3}, {"item": "bisy", "amount": 3}], "research": "dekyzu-conveyor", "category": "distribution"}

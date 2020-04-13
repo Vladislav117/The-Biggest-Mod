@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yobito underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "yobito", "amount": 4}, {"item": "sipynium", "amount": 2}], "research": "yobito-conveyor", "category": "distribution", "invert": false}

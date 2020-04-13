@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hyfyqenium battery", "description": "...", "size": 3, "health": 331, "requirements": [{"item": "hyfyqenium", "amount": 9}, {"item": "goli", "amount": 12}, {"item": "morila", "amount": 2}], "research": "hyfyqenium-factory", "consumes": {"powerBuffered": 7421}, "category": "power"}

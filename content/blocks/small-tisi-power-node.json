@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tisi power node", "description": "...", "size": 1, "health": 144, "requirements": [{"item": "tisi", "amount": 7}, {"item": "dakiqu", "amount": 19}, {"item": "sonydu", "amount": 4}], "research": "tisi-factory", "maxNodes": 3, "laserRange": 12, "category": "power"}

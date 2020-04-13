@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yedunium battery", "description": "...", "size": 3, "health": 149, "requirements": [{"item": "yedunium", "amount": 9}, {"item": "plastanium", "amount": 11}, {"item": "sipynium", "amount": 10}], "research": "yedunium-factory", "consumes": {"powerBuffered": 8717}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cuda inverted sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "cuda", "amount": 5}, {"item": "kixihinium", "amount": 1}], "research": "cuda-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tymofa solar panel", "description": "...", "size": 3, "health": 245, "requirements": [{"item": "tymofa", "amount": 6}, {"item": "hiki", "amount": 2}, {"item": "muse", "amount": 8}], "research": "tymofa-factory", "powerProduction": 3.8228706260900487, "category": "power"}

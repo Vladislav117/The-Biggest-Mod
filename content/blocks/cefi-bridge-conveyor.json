@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cefi bridge conveyor", "description": "", "health": 9, "range": 16, "speed": 2, "bufferCapacity": 9, "requirements": [{"item": "cefi", "amount": 3}, {"item": "dyme", "amount": 3}], "research": "cefi-conveyor", "category": "distribution", "size": 1}

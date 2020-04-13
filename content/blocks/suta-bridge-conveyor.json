@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "suta bridge conveyor", "description": "", "health": 39, "range": 17, "speed": 11, "bufferCapacity": 22, "requirements": [{"item": "suta", "amount": 3}, {"item": "ridu", "amount": 3}], "research": "suta-conveyor", "category": "distribution", "size": 1}

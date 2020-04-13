@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vyroca solar panel", "description": "...", "size": 1, "health": 18, "requirements": [{"item": "vyroca", "amount": 5}, {"item": "puta", "amount": 19}, {"item": "tanexo", "amount": 7}], "research": "vyroca-factory", "powerProduction": 3.0793059141365515, "category": "power"}

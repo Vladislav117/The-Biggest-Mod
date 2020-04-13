@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kylype power node", "description": "...", "size": 2, "health": 693, "requirements": [{"item": "kylype", "amount": 5}, {"item": "tyqowy", "amount": 18}, {"item": "wygy", "amount": 8}], "research": "kylype-factory", "maxNodes": 31, "laserRange": 12, "category": "power"}

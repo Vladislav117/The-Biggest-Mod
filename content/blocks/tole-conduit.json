@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tole conduit", "description": "...", "health": 180, "requirements": [{"item": "tole", "amount": 13}, {"item": "fulanium", "amount": 1}, {"item": "hedege", "amount": 1}], "liquidCapacity": 18, "liquidPressure": 3, "research": "tole-factory", "category": "liquid"}

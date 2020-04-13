@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "roteca bridge conveyor", "description": "", "health": 14, "range": 11, "speed": 20, "bufferCapacity": 18, "requirements": [{"item": "roteca", "amount": 5}, {"item": "kimicy", "amount": 4}], "research": "roteca-conveyor", "category": "distribution", "size": 1}

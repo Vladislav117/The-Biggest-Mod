@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hagi overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "hagi", "amount": 2}, {"item": "pumy", "amount": 1}], "research": "hagi-conveyor", "category": "distribution", "invert": false}

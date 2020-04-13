@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small goti solar panel", "description": "...", "size": 1, "health": 337, "requirements": [{"item": "goti", "amount": 15}, {"item": "kawo", "amount": 12}, {"item": "pero", "amount": 4}], "research": "goti-factory", "powerProduction": 4.452202682522764, "category": "power"}

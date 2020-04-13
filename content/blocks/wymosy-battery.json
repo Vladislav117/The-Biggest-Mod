@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wymosy battery", "description": "...", "size": 3, "health": 55, "requirements": [{"item": "wymosy", "amount": 6}, {"item": "dala", "amount": 5}, {"item": "gozefynium", "amount": 7}], "research": "wymosy-factory", "consumes": {"powerBuffered": 5281}, "category": "power"}

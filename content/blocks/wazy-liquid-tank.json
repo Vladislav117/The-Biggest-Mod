@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wazy liquid tank", "description": "...", "health": 163, "size": 3, "requirements": [{"item": "wazy", "amount": 17}, {"item": "jonaqu", "amount": 19}, {"item": "goku", "amount": 5}], "research": "wazy-conduit", "category": "liquid", "liquidCapacity": 94979, "hasLiquids": true}

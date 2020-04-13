@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "falynium conveyor", "description": "...", "health": 24, "requirements": [{"item": "falynium", "amount": 2}, {"item": "lewonium", "amount": 8}], "speed": 0.0676868982627355, "research": "falynium-factory", "category": "distribution"}

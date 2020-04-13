@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xedorinium drill", "description": "...", "size": 2, "health": 149, "tier": 3, "drillTime": 5, "consumes": {"power": 3}, "requirements": [{"item": "xedorinium", "amount": 10}, {"item": "cokigo", "amount": 1}, {"item": "yipobe", "amount": 4}], "research": "xedorinium-factory", "category": "production"}

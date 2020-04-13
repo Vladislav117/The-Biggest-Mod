@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xabuci battery", "description": "...", "size": 1, "health": 168, "requirements": [{"item": "xabuci", "amount": 19}, {"item": "xucyfy", "amount": 10}, {"item": "fayenium", "amount": 1}], "research": "xabuci-factory", "consumes": {"powerBuffered": 2271}, "category": "power"}

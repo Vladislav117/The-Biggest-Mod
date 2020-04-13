@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lido power node", "description": "...", "size": 2, "health": 245, "requirements": [{"item": "lido", "amount": 15}, {"item": "donunium", "amount": 5}, {"item": "salojanium", "amount": 4}], "research": "lido-factory", "maxNodes": 28, "laserRange": 14, "category": "power"}

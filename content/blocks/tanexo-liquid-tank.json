@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tanexo liquid tank", "description": "...", "health": 451, "size": 3, "requirements": [{"item": "tanexo", "amount": 8}, {"item": "sawy", "amount": 14}, {"item": "yijotu", "amount": 3}], "research": "tanexo-conduit", "category": "liquid", "liquidCapacity": 56890, "hasLiquids": true}

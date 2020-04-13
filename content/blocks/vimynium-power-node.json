@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vimynium power node", "description": "...", "size": 2, "health": 553, "requirements": [{"item": "vimynium", "amount": 10}, {"item": "celaji", "amount": 11}, {"item": "yocenium", "amount": 10}], "research": "vimynium-factory", "maxNodes": 21, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "humidu solar panel", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "humidu", "amount": 19}, {"item": "fusaji", "amount": 20}, {"item": "fuda", "amount": 7}], "research": "humidu-factory", "powerProduction": 1.204874636159221, "category": "power"}

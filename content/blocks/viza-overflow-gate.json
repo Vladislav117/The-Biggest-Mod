@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "viza overflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "viza", "amount": 3}, {"item": "femoconium", "amount": 4}], "research": "viza-conveyor", "category": "distribution", "invert": false}

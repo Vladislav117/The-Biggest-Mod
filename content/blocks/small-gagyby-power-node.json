@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gagyby power node", "description": "...", "size": 1, "health": 143, "requirements": [{"item": "gagyby", "amount": 10}, {"item": "pedy", "amount": 11}, {"item": "lypeja", "amount": 5}], "research": "gagyby-factory", "maxNodes": 24, "laserRange": 7, "category": "power"}

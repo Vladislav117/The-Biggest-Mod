@@ -1,0 +1,1 @@
+{"type": "battery", "name": "teyipu battery", "description": "...", "size": 3, "health": 143, "requirements": [{"item": "teyipu", "amount": 17}, {"item": "sacigi", "amount": 19}, {"item": "byhonium", "amount": 9}], "research": "teyipu-factory", "consumes": {"powerBuffered": 1240}, "category": "power"}

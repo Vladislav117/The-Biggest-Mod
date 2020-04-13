@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lycyqe battery", "description": "...", "size": 1, "health": 316, "requirements": [{"item": "lycyqe", "amount": 15}, {"item": "zilida", "amount": 4}, {"item": "hagunium", "amount": 5}], "research": "lycyqe-factory", "consumes": {"powerBuffered": 1935}, "category": "power"}

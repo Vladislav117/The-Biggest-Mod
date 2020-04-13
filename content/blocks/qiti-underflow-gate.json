@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qiti underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "qiti", "amount": 5}, {"item": "jeqidynium", "amount": 2}], "research": "qiti-conveyor", "category": "distribution", "invert": false}

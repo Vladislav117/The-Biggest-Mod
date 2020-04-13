@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vypeha bridge conveyor", "description": "", "health": 17, "range": 9, "speed": 10, "bufferCapacity": 11, "requirements": [{"item": "vypeha", "amount": 3}, {"item": "lepe", "amount": 4}], "research": "vypeha-conveyor", "category": "distribution", "size": 1}

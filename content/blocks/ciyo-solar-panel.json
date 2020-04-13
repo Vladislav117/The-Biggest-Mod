@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ciyo solar panel", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "ciyo", "amount": 20}, {"item": "kuyome", "amount": 6}, {"item": "nawyli", "amount": 9}], "research": "ciyo-factory", "powerProduction": 0.17220845331818477, "category": "power"}

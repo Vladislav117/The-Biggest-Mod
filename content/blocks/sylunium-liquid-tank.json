@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sylunium liquid tank", "description": "...", "health": 410, "size": 3, "requirements": [{"item": "sylunium", "amount": 1}, {"item": "xeco", "amount": 10}, {"item": "direme", "amount": 4}], "research": "sylunium-conduit", "category": "liquid", "liquidCapacity": 80484, "hasLiquids": true}

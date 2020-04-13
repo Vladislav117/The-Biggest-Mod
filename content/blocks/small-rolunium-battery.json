@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rolunium battery", "description": "...", "size": 1, "health": 163, "requirements": [{"item": "rolunium", "amount": 10}, {"item": "hitiva", "amount": 17}, {"item": "fezadunium", "amount": 10}], "research": "rolunium-factory", "consumes": {"powerBuffered": 1843}, "category": "power"}

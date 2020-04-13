@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vize battery", "description": "...", "size": 1, "health": 223, "requirements": [{"item": "vize", "amount": 14}, {"item": "byfyge", "amount": 13}, {"item": "qujuyi", "amount": 4}], "research": "vize-factory", "consumes": {"powerBuffered": 1269}, "category": "power"}

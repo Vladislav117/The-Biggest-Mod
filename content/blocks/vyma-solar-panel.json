@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vyma solar panel", "description": "...", "size": 3, "health": 34, "requirements": [{"item": "vyma", "amount": 5}, {"item": "kozypi", "amount": 7}, {"item": "foji", "amount": 4}], "research": "vyma-factory", "powerProduction": 3.5544052627581215, "category": "power"}

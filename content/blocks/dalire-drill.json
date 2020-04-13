@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "dalire drill", "description": "...", "size": 3, "health": 160, "tier": 2, "drillTime": 19, "consumes": {"power": 11}, "requirements": [{"item": "dalire", "amount": 7}, {"item": "qiregynium", "amount": 18}, {"item": "vurypo", "amount": 2}], "research": "dalire-factory", "category": "production"}

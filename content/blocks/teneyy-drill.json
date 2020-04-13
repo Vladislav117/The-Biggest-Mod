@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "teneyy drill", "description": "...", "size": 3, "health": 305, "tier": 2, "drillTime": 3, "consumes": {"power": 5}, "requirements": [{"item": "teneyy", "amount": 13}, {"item": "dowy", "amount": 2}, {"item": "puyysonium", "amount": 9}], "research": "teneyy-factory", "category": "production"}

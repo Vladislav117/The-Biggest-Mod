@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "peguca overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "peguca", "amount": 5}, {"item": "gineta", "amount": 3}], "research": "peguca-conveyor", "category": "distribution", "invert": false}

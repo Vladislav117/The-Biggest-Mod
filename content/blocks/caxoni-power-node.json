@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "caxoni power node", "description": "...", "size": 2, "health": 442, "requirements": [{"item": "caxoni", "amount": 4}, {"item": "maku", "amount": 14}, {"item": "leriki", "amount": 4}], "research": "caxoni-factory", "maxNodes": 27, "laserRange": 19, "category": "power"}

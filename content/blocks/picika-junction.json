@@ -1,0 +1,1 @@
+{"type": "junction", "name": "picika junction", "description": "...", "health": 50, "speed": 19, "capacity": 5, "size": 1, "requirements": [{"item": "picika", "amount": 5}, {"item": "hudo", "amount": 5}], "research": "picika-conveyor", "category": "distribution"}

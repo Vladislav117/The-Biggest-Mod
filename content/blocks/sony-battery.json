@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sony battery", "description": "...", "size": 3, "health": 292, "requirements": [{"item": "sony", "amount": 4}, {"item": "zire", "amount": 10}, {"item": "tydeja", "amount": 1}], "research": "sony-factory", "consumes": {"powerBuffered": 9521}, "category": "power"}

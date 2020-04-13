@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wacynium junction", "description": "...", "health": 50, "speed": 11, "capacity": 10, "size": 1, "requirements": [{"item": "wacynium", "amount": 5}, {"item": "sado", "amount": 1}], "research": "wacynium-conveyor", "category": "distribution"}

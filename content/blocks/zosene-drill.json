@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zosene drill", "description": "...", "size": 3, "health": 259, "tier": 2, "drillTime": 7, "consumes": {"power": 16}, "requirements": [{"item": "zosene", "amount": 11}, {"item": "wykanium", "amount": 5}, {"item": "mete", "amount": 6}], "research": "zosene-factory", "category": "production"}

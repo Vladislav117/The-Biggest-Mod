@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gacy solar panel", "description": "...", "size": 3, "health": 78, "requirements": [{"item": "gacy", "amount": 2}, {"item": "motaty", "amount": 5}, {"item": "nuci", "amount": 2}], "research": "gacy-factory", "powerProduction": 2.051063497507713, "category": "power"}

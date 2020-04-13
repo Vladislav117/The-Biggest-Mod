@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yoqi overflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "yoqi", "amount": 3}, {"item": "lyruvanium", "amount": 1}], "research": "yoqi-conveyor", "category": "distribution", "invert": false}

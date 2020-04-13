@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hytitenium sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "hytitenium", "amount": 2}, {"item": "ceciba", "amount": 5}], "research": "hytitenium-conveyor", "category": "distribution", "invert": false}

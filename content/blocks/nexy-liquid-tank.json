@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nexy liquid tank", "description": "...", "health": 127, "size": 3, "requirements": [{"item": "nexy", "amount": 14}, {"item": "mose", "amount": 5}, {"item": "luly", "amount": 4}], "research": "nexy-conduit", "category": "liquid", "liquidCapacity": 19063, "hasLiquids": true}

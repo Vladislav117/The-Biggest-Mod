@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "syyyvo power node", "description": "...", "size": 2, "health": 586, "requirements": [{"item": "syyyvo", "amount": 13}, {"item": "ticija", "amount": 20}, {"item": "vevi", "amount": 5}], "research": "syyyvo-factory", "maxNodes": 36, "laserRange": 25, "category": "power"}

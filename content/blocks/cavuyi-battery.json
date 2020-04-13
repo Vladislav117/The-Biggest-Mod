@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cavuyi battery", "description": "...", "size": 3, "health": 346, "requirements": [{"item": "cavuyi", "amount": 8}, {"item": "giha", "amount": 19}, {"item": "jomoka", "amount": 8}], "research": "cavuyi-factory", "consumes": {"powerBuffered": 8023}, "category": "power"}

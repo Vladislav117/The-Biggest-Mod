@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qypusa liquid tank", "description": "...", "health": 123, "size": 3, "requirements": [{"item": "qypusa", "amount": 10}, {"item": "juyy", "amount": 15}, {"item": "beniyi", "amount": 9}], "research": "qypusa-conduit", "category": "liquid", "liquidCapacity": 71499, "hasLiquids": true}

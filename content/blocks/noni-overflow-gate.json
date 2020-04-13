@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "noni overflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "noni", "amount": 2}, {"item": "xeponium", "amount": 3}], "research": "noni-conveyor", "category": "distribution", "invert": false}

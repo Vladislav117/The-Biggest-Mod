@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "roje conduit", "description": "...", "health": 28, "requirements": [{"item": "roje", "amount": 4}, {"item": "mopyqu", "amount": 20}, {"item": "zoyinium", "amount": 6}], "liquidCapacity": 6, "liquidPressure": 3, "research": "roje-factory", "category": "liquid"}

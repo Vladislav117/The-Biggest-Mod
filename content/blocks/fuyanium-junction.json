@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fuyanium junction", "description": "...", "health": 31, "speed": 18, "capacity": 1, "size": 1, "requirements": [{"item": "fuyanium", "amount": 4}, {"item": "qiloka", "amount": 1}], "research": "fuyanium-conveyor", "category": "distribution"}

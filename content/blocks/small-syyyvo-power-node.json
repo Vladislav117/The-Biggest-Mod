@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small syyyvo power node", "description": "...", "size": 1, "health": 172, "requirements": [{"item": "syyyvo", "amount": 12}, {"item": "qepusenium", "amount": 6}, {"item": "bily", "amount": 2}], "research": "syyyvo-factory", "maxNodes": 19, "laserRange": 25, "category": "power"}

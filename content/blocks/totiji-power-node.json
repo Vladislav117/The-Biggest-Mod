@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "totiji power node", "description": "...", "size": 2, "health": 734, "requirements": [{"item": "totiji", "amount": 20}, {"item": "rakuhy", "amount": 13}, {"item": "koty", "amount": 10}], "research": "totiji-factory", "maxNodes": 39, "laserRange": 12, "category": "power"}

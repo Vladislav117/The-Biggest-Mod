@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pyhune junction", "description": "...", "health": 40, "speed": 20, "capacity": 10, "size": 1, "requirements": [{"item": "pyhune", "amount": 1}, {"item": "qobu", "amount": 3}], "research": "pyhune-conveyor", "category": "distribution"}

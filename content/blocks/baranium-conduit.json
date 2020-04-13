@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "baranium conduit", "description": "...", "health": 77, "requirements": [{"item": "baranium", "amount": 16}, {"item": "sygoqu", "amount": 1}, {"item": "xozime", "amount": 9}], "liquidCapacity": 33, "liquidPressure": 9, "research": "baranium-factory", "category": "liquid"}

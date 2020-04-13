@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pagu solar panel", "description": "...", "size": 3, "health": 315, "requirements": [{"item": "pagu", "amount": 16}, {"item": "raso", "amount": 11}, {"item": "zokoya", "amount": 4}], "research": "pagu-factory", "powerProduction": 16.254028585529632, "category": "power"}

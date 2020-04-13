@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yijotu liquid tank", "description": "...", "health": 508, "size": 3, "requirements": [{"item": "yijotu", "amount": 4}, {"item": "ryte", "amount": 5}, {"item": "hiki", "amount": 1}], "research": "yijotu-conduit", "category": "liquid", "liquidCapacity": 64950, "hasLiquids": true}

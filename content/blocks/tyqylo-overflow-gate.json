@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tyqylo overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "tyqylo", "amount": 4}, {"item": "raso", "amount": 4}], "research": "tyqylo-conveyor", "category": "distribution", "invert": false}

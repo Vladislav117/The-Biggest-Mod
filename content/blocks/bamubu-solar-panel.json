@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bamubu solar panel", "description": "...", "size": 3, "health": 329, "requirements": [{"item": "bamubu", "amount": 14}, {"item": "yipobe", "amount": 16}, {"item": "cedonium", "amount": 7}], "research": "bamubu-factory", "powerProduction": 0.15431523362172472, "category": "power"}

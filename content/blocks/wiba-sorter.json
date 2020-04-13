@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wiba sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "wiba", "amount": 1}, {"item": "syxidonium", "amount": 2}], "research": "wiba-conveyor", "category": "distribution", "invert": false}

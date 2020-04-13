@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qyhare battery", "description": "...", "size": 3, "health": 280, "requirements": [{"item": "qyhare", "amount": 6}, {"item": "pepo", "amount": 9}, {"item": "leviye", "amount": 3}], "research": "qyhare-factory", "consumes": {"powerBuffered": 7005}, "category": "power"}

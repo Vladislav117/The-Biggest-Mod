@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "difyna liquid tank", "description": "...", "health": 591, "size": 3, "requirements": [{"item": "difyna", "amount": 2}, {"item": "mife", "amount": 13}, {"item": "qicuwe", "amount": 4}], "research": "difyna-conduit", "category": "liquid", "liquidCapacity": 73937, "hasLiquids": true}

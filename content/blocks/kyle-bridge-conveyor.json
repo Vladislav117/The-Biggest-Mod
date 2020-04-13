@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kyle bridge conveyor", "description": "", "health": 47, "range": 14, "speed": 16, "bufferCapacity": 7, "requirements": [{"item": "kyle", "amount": 5}, {"item": "hugevinium", "amount": 1}], "research": "kyle-conveyor", "category": "distribution", "size": 1}

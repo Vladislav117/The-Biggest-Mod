@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "duqu drill", "description": "...", "size": 3, "health": 219, "tier": 2, "drillTime": 19, "consumes": {"power": 15}, "requirements": [{"item": "duqu", "amount": 5}, {"item": "motaty", "amount": 12}, {"item": "birynium", "amount": 9}], "research": "duqu-factory", "category": "production"}

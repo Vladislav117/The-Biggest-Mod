@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zofuxe liquid tank", "description": "...", "health": 163, "size": 3, "requirements": [{"item": "zofuxe", "amount": 10}, {"item": "gyfa", "amount": 16}, {"item": "wygy", "amount": 3}], "research": "zofuxe-conduit", "category": "liquid", "liquidCapacity": 10672, "hasLiquids": true}

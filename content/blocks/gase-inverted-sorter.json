@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gase inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "gase", "amount": 2}, {"item": "favyyo", "amount": 2}], "research": "gase-conveyor", "category": "distribution", "invert": true}

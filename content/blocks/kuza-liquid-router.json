@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kuza liquid router", "description": "...", "size": 1, "health": 24, "requirements": [{"item": "kuza", "amount": 14}, {"item": "myvedi", "amount": 18}, {"item": "cevu", "amount": 6}], "research": "kuza-conduit", "liquidCapacity": 10, "category": "liquid"}

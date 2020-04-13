@@ -1,0 +1,1 @@
+{"type": "battery", "name": "furazinium battery", "description": "...", "size": 3, "health": 133, "requirements": [{"item": "furazinium", "amount": 2}, {"item": "vego", "amount": 7}, {"item": "kilu", "amount": 6}], "research": "furazinium-factory", "consumes": {"powerBuffered": 6049}, "category": "power"}

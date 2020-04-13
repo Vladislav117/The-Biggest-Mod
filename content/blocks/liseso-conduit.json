@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "liseso conduit", "description": "...", "health": 127, "requirements": [{"item": "liseso", "amount": 16}, {"item": "zekaru", "amount": 2}, {"item": "tavu", "amount": 3}], "liquidCapacity": 50, "liquidPressure": 9, "research": "liseso-factory", "category": "liquid"}

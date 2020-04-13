@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nohyhe solar panel", "description": "...", "size": 1, "health": 288, "requirements": [{"item": "nohyhe", "amount": 12}, {"item": "xuhenium", "amount": 17}, {"item": "yicazunium", "amount": 8}], "research": "nohyhe-factory", "powerProduction": 1.8513875204737003, "category": "power"}

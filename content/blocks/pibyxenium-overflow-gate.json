@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pibyxenium overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "pibyxenium", "amount": 5}, {"item": "diwyci", "amount": 2}], "research": "pibyxenium-conveyor", "category": "distribution", "invert": false}

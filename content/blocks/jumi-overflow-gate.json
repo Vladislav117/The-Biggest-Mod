@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jumi overflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "jumi", "amount": 1}, {"item": "qivohe", "amount": 4}], "research": "jumi-conveyor", "category": "distribution", "invert": false}

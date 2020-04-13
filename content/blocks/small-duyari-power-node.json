@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small duyari power node", "description": "...", "size": 1, "health": 101, "requirements": [{"item": "duyari", "amount": 19}, {"item": "nezexe", "amount": 2}, {"item": "nidenium", "amount": 9}], "research": "duyari-factory", "maxNodes": 2, "laserRange": 14, "category": "power"}

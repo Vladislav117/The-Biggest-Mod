@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rasa solar panel", "description": "...", "size": 1, "health": 249, "requirements": [{"item": "rasa", "amount": 10}, {"item": "neda", "amount": 17}, {"item": "kyqedu", "amount": 1}], "research": "rasa-factory", "powerProduction": 2.0413296028672185, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sekele drill", "description": "...", "size": 3, "health": 239, "tier": 4, "drillTime": 13, "consumes": {"power": 18}, "requirements": [{"item": "sekele", "amount": 3}, {"item": "laso", "amount": 5}, {"item": "xikogo", "amount": 7}], "research": "sekele-factory", "category": "production"}

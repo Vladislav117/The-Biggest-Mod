@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dyzo junction", "description": "...", "health": 44, "speed": 11, "capacity": 4, "size": 1, "requirements": [{"item": "dyzo", "amount": 4}, {"item": "sore", "amount": 4}], "research": "dyzo-conveyor", "category": "distribution"}

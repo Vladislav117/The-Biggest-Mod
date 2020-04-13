@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nihy battery", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "nihy", "amount": 11}, {"item": "yixo", "amount": 12}, {"item": "basomi", "amount": 1}], "research": "nihy-factory", "consumes": {"powerBuffered": 2952}, "category": "power"}

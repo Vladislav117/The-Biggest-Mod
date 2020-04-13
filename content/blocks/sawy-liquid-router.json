@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sawy liquid router", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "sawy", "amount": 8}, {"item": "fyfoni", "amount": 3}, {"item": "daqy", "amount": 4}], "research": "sawy-conduit", "liquidCapacity": 10, "category": "liquid"}

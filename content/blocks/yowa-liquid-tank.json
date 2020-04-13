@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yowa liquid tank", "description": "...", "health": 532, "size": 3, "requirements": [{"item": "yowa", "amount": 16}, {"item": "liba", "amount": 18}, {"item": "wymywynium", "amount": 3}], "research": "yowa-conduit", "category": "liquid", "liquidCapacity": 27554, "hasLiquids": true}

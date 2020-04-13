@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cuqi drill", "description": "...", "size": 4, "health": 446, "tier": 2, "drillTime": 8, "consumes": {"power": 16}, "requirements": [{"item": "cuqi", "amount": 19}, {"item": "kepy", "amount": 5}, {"item": "mesa", "amount": 4}], "research": "cuqi-factory", "category": "production"}

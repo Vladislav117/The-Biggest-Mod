@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "safe underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "safe", "amount": 5}, {"item": "hine", "amount": 1}], "research": "safe-conveyor", "category": "distribution", "invert": false}

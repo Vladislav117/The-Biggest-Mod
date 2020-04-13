@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ridu battery", "description": "...", "size": 3, "health": 21, "requirements": [{"item": "ridu", "amount": 8}, {"item": "tiwyna", "amount": 7}, {"item": "lead", "amount": 1}], "research": "ridu-factory", "consumes": {"powerBuffered": 1292}, "category": "power"}

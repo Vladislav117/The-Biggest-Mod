@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yufoha underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "yufoha", "amount": 5}, {"item": "babiqynium", "amount": 2}], "research": "yufoha-conveyor", "category": "distribution", "invert": false}

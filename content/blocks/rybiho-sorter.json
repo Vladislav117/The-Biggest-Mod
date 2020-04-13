@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rybiho sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "rybiho", "amount": 3}, {"item": "thorium", "amount": 4}], "research": "rybiho-conveyor", "category": "distribution", "invert": false}

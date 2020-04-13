@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rihonium conduit", "description": "...", "health": 124, "requirements": [{"item": "rihonium", "amount": 20}, {"item": "fulanium", "amount": 13}, {"item": "peguca", "amount": 3}], "liquidCapacity": 8, "liquidPressure": 5, "research": "rihonium-factory", "category": "liquid"}

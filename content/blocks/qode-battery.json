@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qode battery", "description": "...", "size": 3, "health": 32, "requirements": [{"item": "qode", "amount": 2}, {"item": "lave", "amount": 8}, {"item": "faqoyynium", "amount": 3}], "research": "qode-factory", "consumes": {"powerBuffered": 7470}, "category": "power"}

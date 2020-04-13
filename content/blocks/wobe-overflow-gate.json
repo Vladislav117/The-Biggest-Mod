@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wobe overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "wobe", "amount": 4}, {"item": "pusira", "amount": 3}], "research": "wobe-conveyor", "category": "distribution", "invert": false}

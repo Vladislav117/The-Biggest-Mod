@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jihaconium conduit", "description": "...", "health": 154, "requirements": [{"item": "jihaconium", "amount": 7}, {"item": "wiqunium", "amount": 9}, {"item": "soqa", "amount": 6}], "liquidCapacity": 30, "liquidPressure": 1, "research": "jihaconium-factory", "category": "liquid"}

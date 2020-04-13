@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bomu liquid tank", "description": "...", "health": 413, "size": 3, "requirements": [{"item": "bomu", "amount": 16}, {"item": "wyri", "amount": 5}, {"item": "xodofu", "amount": 4}], "research": "bomu-conduit", "category": "liquid", "liquidCapacity": 96328, "hasLiquids": true}

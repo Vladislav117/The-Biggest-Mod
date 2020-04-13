@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "jodo conveyor", "description": "...", "health": 32, "requirements": [{"item": "jodo", "amount": 9}, {"item": "tuty", "amount": 8}], "speed": 0.1958086348818049, "research": "jodo-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kokonium liquid router", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "kokonium", "amount": 17}, {"item": "laho", "amount": 15}, {"item": "qyhi", "amount": 8}], "research": "kokonium-conduit", "liquidCapacity": 10, "category": "liquid"}

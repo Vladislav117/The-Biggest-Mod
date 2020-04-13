@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fybaze liquid router", "description": "...", "size": 1, "health": 18, "requirements": [{"item": "fybaze", "amount": 5}, {"item": "raru", "amount": 20}, {"item": "cavuyi", "amount": 8}], "research": "fybaze-conduit", "liquidCapacity": 10, "category": "liquid"}

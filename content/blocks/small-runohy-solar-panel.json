@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small runohy solar panel", "description": "...", "size": 1, "health": 348, "requirements": [{"item": "runohy", "amount": 9}, {"item": "pyqaso", "amount": 5}, {"item": "nuhixonium", "amount": 1}], "research": "runohy-factory", "powerProduction": 0.34755999275339855, "category": "power"}

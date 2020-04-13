@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "zenuwunium overdrive projector", "description": "...", "health": 108, "consumes": {"power": 3.0, "item": "zenuwunium"}, "size": 2, "requirements": [{"item": "zenuwunium", "amount": 11}, {"item": "daryki", "amount": 3}, {"item": "vunijy", "amount": 7}], "research": "zenuwunium-factory", "category": "effect"}

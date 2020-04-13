@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lybazanium battery", "description": "...", "size": 3, "health": 90, "requirements": [{"item": "lybazanium", "amount": 6}, {"item": "wizacy", "amount": 2}, {"item": "byfa", "amount": 7}], "research": "lybazanium-factory", "consumes": {"powerBuffered": 9717}, "category": "power"}

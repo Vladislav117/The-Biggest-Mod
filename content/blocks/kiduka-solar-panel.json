@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kiduka solar panel", "description": "...", "size": 3, "health": 12, "requirements": [{"item": "kiduka", "amount": 3}, {"item": "yyba", "amount": 5}, {"item": "siwobanium", "amount": 4}], "research": "kiduka-factory", "powerProduction": 1.0816308901371496, "category": "power"}

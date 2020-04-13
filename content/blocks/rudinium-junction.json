@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rudinium junction", "description": "...", "health": 28, "speed": 11, "capacity": 3, "size": 1, "requirements": [{"item": "rudinium", "amount": 4}, {"item": "sytu", "amount": 5}], "research": "rudinium-conveyor", "category": "distribution"}

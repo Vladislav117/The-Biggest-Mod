@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cetonium drill", "description": "...", "size": 2, "health": 397, "tier": 2, "drillTime": 4, "consumes": {"power": 4}, "requirements": [{"item": "cetonium", "amount": 19}, {"item": "moro", "amount": 18}, {"item": "kaye", "amount": 7}], "research": "cetonium-factory", "category": "production"}

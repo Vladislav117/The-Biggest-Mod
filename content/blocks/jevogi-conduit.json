@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jevogi conduit", "description": "...", "health": 73, "requirements": [{"item": "jevogi", "amount": 2}, {"item": "yama", "amount": 1}, {"item": "wywile", "amount": 7}], "liquidCapacity": 32, "liquidPressure": 3, "research": "jevogi-factory", "category": "liquid"}

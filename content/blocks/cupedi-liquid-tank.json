@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cupedi liquid tank", "description": "...", "health": 558, "size": 3, "requirements": [{"item": "cupedi", "amount": 14}, {"item": "vove", "amount": 19}, {"item": "yebyte", "amount": 8}], "research": "cupedi-conduit", "category": "liquid", "liquidCapacity": 37869, "hasLiquids": true}

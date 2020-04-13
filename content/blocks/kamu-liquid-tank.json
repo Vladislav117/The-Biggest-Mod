@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kamu liquid tank", "description": "...", "health": 616, "size": 3, "requirements": [{"item": "kamu", "amount": 16}, {"item": "zopyxo", "amount": 16}, {"item": "dofy", "amount": 4}], "research": "kamu-conduit", "category": "liquid", "liquidCapacity": 64720, "hasLiquids": true}

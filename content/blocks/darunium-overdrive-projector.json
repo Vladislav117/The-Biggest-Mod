@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "darunium overdrive projector", "description": "...", "health": 114, "consumes": {"power": 3.0, "item": "darunium"}, "size": 2, "requirements": [{"item": "darunium", "amount": 18}, {"item": "sacy", "amount": 11}, {"item": "nilara", "amount": 3}], "research": "darunium-factory", "category": "effect"}

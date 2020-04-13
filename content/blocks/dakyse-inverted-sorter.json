@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dakyse inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "dakyse", "amount": 1}, {"item": "rukonium", "amount": 5}], "research": "dakyse-conveyor", "category": "distribution", "invert": true}

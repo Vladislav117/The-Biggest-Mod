@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "piqori underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "piqori", "amount": 5}, {"item": "kofynium", "amount": 1}], "research": "piqori-conveyor", "category": "distribution", "invert": false}

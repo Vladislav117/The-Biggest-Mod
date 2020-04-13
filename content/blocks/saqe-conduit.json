@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "saqe conduit", "description": "...", "health": 48, "requirements": [{"item": "saqe", "amount": 1}, {"item": "woce", "amount": 4}, {"item": "hakenium", "amount": 3}], "liquidCapacity": 46, "liquidPressure": 7, "research": "saqe-factory", "category": "liquid"}

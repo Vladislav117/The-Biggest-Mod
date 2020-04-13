@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fohebi overflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "fohebi", "amount": 1}, {"item": "seca", "amount": 3}], "research": "fohebi-conveyor", "category": "distribution", "invert": false}

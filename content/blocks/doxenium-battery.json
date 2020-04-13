@@ -1,0 +1,1 @@
+{"type": "battery", "name": "doxenium battery", "description": "...", "size": 3, "health": 341, "requirements": [{"item": "doxenium", "amount": 7}, {"item": "fakuzo", "amount": 16}, {"item": "yaxuda", "amount": 7}], "research": "doxenium-factory", "consumes": {"powerBuffered": 4914}, "category": "power"}

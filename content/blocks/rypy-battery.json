@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rypy battery", "description": "...", "size": 3, "health": 314, "requirements": [{"item": "rypy", "amount": 17}, {"item": "xadunium", "amount": 9}, {"item": "kixihinium", "amount": 4}], "research": "rypy-factory", "consumes": {"powerBuffered": 2507}, "category": "power"}

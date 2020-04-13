@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nitinium solar panel", "description": "...", "size": 3, "health": 114, "requirements": [{"item": "nitinium", "amount": 17}, {"item": "rymojanium", "amount": 3}, {"item": "winyjo", "amount": 2}], "research": "nitinium-factory", "powerProduction": 0.7453639942563957, "category": "power"}

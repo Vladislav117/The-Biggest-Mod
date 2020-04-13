@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lewonium power node", "description": "...", "size": 1, "health": 386, "requirements": [{"item": "lewonium", "amount": 9}, {"item": "buhoci", "amount": 15}, {"item": "wohy", "amount": 7}], "research": "lewonium-factory", "maxNodes": 4, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bedy conduit", "description": "...", "health": 186, "requirements": [{"item": "bedy", "amount": 16}, {"item": "zori", "amount": 3}, {"item": "zyru", "amount": 1}], "liquidCapacity": 1, "liquidPressure": 10, "research": "bedy-factory", "category": "liquid"}

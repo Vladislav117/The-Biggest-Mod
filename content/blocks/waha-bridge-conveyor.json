@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "waha bridge conveyor", "description": "", "health": 23, "range": 15, "speed": 3, "bufferCapacity": 25, "requirements": [{"item": "waha", "amount": 3}, {"item": "xuze", "amount": 1}], "research": "waha-conveyor", "category": "distribution", "size": 1}

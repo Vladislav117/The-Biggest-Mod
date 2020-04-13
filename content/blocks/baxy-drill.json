@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "baxy drill", "description": "...", "size": 2, "health": 426, "tier": 2, "drillTime": 20, "consumes": {"power": 8}, "requirements": [{"item": "baxy", "amount": 17}, {"item": "yejicunium", "amount": 7}, {"item": "qayy", "amount": 10}], "research": "baxy-factory", "category": "production"}

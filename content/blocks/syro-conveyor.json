@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "syro conveyor", "description": "...", "health": 170, "requirements": [{"item": "syro", "amount": 1}, {"item": "tatupo", "amount": 4}], "speed": 0.11949454113509139, "research": "syro-factory", "category": "distribution"}

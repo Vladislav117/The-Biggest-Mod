@@ -1,0 +1,1 @@
+{"type": "battery", "name": "temi battery", "description": "...", "size": 3, "health": 251, "requirements": [{"item": "temi", "amount": 20}, {"item": "xicyru", "amount": 17}, {"item": "rovu", "amount": 3}], "research": "temi-factory", "consumes": {"powerBuffered": 9113}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cesunium junction", "description": "...", "health": 17, "speed": 16, "capacity": 12, "size": 1, "requirements": [{"item": "cesunium", "amount": 5}, {"item": "tasanium", "amount": 4}], "research": "cesunium-conveyor", "category": "distribution"}

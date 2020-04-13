@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hobo drill", "description": "...", "size": 3, "health": 420, "tier": 3, "drillTime": 15, "consumes": {"power": 4}, "requirements": [{"item": "hobo", "amount": 14}, {"item": "rytysynium", "amount": 15}, {"item": "byyu", "amount": 1}], "research": "hobo-factory", "category": "production"}

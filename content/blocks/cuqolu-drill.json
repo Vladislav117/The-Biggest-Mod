@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cuqolu drill", "description": "...", "size": 2, "health": 118, "tier": 4, "drillTime": 2, "consumes": {"power": 20}, "requirements": [{"item": "cuqolu", "amount": 3}, {"item": "mygo", "amount": 16}, {"item": "qoza", "amount": 5}], "research": "cuqolu-factory", "category": "production"}

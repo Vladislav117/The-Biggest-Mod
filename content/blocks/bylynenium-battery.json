@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bylynenium battery", "description": "...", "size": 3, "health": 302, "requirements": [{"item": "bylynenium", "amount": 12}, {"item": "baci", "amount": 9}, {"item": "zazuji", "amount": 10}], "research": "bylynenium-factory", "consumes": {"powerBuffered": 328}, "category": "power"}

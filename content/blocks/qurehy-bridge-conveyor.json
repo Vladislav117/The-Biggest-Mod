@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qurehy bridge conveyor", "description": "", "health": 35, "range": 12, "speed": 7, "bufferCapacity": 14, "requirements": [{"item": "qurehy", "amount": 4}, {"item": "zucanium", "amount": 5}], "research": "qurehy-conveyor", "category": "distribution", "size": 1}

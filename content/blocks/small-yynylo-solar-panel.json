@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yynylo solar panel", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "yynylo", "amount": 20}, {"item": "qiyo", "amount": 19}, {"item": "mebu", "amount": 9}], "research": "yynylo-factory", "powerProduction": 0.0035017030403759943, "category": "power"}

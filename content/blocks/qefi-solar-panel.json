@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qefi solar panel", "description": "...", "size": 3, "health": 216, "requirements": [{"item": "qefi", "amount": 4}, {"item": "hayy", "amount": 6}, {"item": "geco", "amount": 7}], "research": "qefi-factory", "powerProduction": 0.5567825335468652, "category": "power"}

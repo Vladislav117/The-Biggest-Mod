@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tahysonium liquid tank", "description": "...", "health": 471, "size": 3, "requirements": [{"item": "tahysonium", "amount": 3}, {"item": "pami", "amount": 9}, {"item": "garyda", "amount": 3}], "research": "tahysonium-conduit", "category": "liquid", "liquidCapacity": 63467, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vadoda battery", "description": "...", "size": 3, "health": 160, "requirements": [{"item": "vadoda", "amount": 5}, {"item": "plastanium", "amount": 8}, {"item": "vygu", "amount": 8}], "research": "vadoda-factory", "consumes": {"powerBuffered": 5787}, "category": "power"}

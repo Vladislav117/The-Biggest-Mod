@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gahunium liquid tank", "description": "...", "health": 547, "size": 3, "requirements": [{"item": "gahunium", "amount": 15}, {"item": "vevi", "amount": 11}, {"item": "vojenium", "amount": 4}], "research": "gahunium-conduit", "category": "liquid", "liquidCapacity": 75316, "hasLiquids": true}

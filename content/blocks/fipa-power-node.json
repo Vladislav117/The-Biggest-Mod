@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fipa power node", "description": "...", "size": 2, "health": 49, "requirements": [{"item": "fipa", "amount": 5}, {"item": "baquyo", "amount": 2}, {"item": "cinynium", "amount": 9}], "research": "fipa-factory", "maxNodes": 19, "laserRange": 24, "category": "power"}

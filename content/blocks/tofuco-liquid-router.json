@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tofuco liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "tofuco", "amount": 4}, {"item": "deteka", "amount": 10}, {"item": "guqyza", "amount": 10}], "research": "tofuco-conduit", "liquidCapacity": 10, "category": "liquid"}

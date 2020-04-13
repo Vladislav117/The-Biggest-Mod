@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cemo junction", "description": "...", "health": 1, "speed": 1, "capacity": 19, "size": 1, "requirements": [{"item": "cemo", "amount": 3}, {"item": "yyko", "amount": 2}], "research": "cemo-conveyor", "category": "distribution"}

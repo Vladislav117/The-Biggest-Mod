@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bymyye battery", "description": "...", "size": 3, "health": 219, "requirements": [{"item": "bymyye", "amount": 3}, {"item": "nujunium", "amount": 2}, {"item": "donysenium", "amount": 9}], "research": "bymyye-factory", "consumes": {"powerBuffered": 6527}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zemyca drill", "description": "...", "size": 3, "health": 128, "tier": 3, "drillTime": 8, "consumes": {"power": 12}, "requirements": [{"item": "zemyca", "amount": 16}, {"item": "wybenium", "amount": 20}, {"item": "pyzemu", "amount": 7}], "research": "zemyca-factory", "category": "production"}

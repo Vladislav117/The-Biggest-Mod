@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xoruba overflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "xoruba", "amount": 3}, {"item": "jewa", "amount": 1}], "research": "xoruba-conveyor", "category": "distribution", "invert": false}

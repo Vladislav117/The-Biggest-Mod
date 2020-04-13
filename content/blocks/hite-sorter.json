@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hite sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "hite", "amount": 3}, {"item": "pele", "amount": 3}], "research": "hite-conveyor", "category": "distribution", "invert": false}

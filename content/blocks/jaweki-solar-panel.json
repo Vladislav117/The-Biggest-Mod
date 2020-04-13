@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jaweki solar panel", "description": "...", "size": 3, "health": 69, "requirements": [{"item": "jaweki", "amount": 13}, {"item": "suminium", "amount": 17}, {"item": "byfa", "amount": 10}], "research": "jaweki-factory", "powerProduction": 0.42148060550357064, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "reyy battery", "description": "...", "size": 3, "health": 345, "requirements": [{"item": "reyy", "amount": 6}, {"item": "peno", "amount": 10}, {"item": "finu", "amount": 5}], "research": "reyy-factory", "consumes": {"powerBuffered": 6083}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kozapu power node", "description": "...", "size": 2, "health": 671, "requirements": [{"item": "kozapu", "amount": 13}, {"item": "tozuza", "amount": 4}, {"item": "fote", "amount": 3}], "research": "kozapu-factory", "maxNodes": 50, "laserRange": 8, "category": "power"}

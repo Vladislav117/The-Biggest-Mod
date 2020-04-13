@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tate solar panel", "description": "...", "size": 3, "health": 159, "requirements": [{"item": "tate", "amount": 2}, {"item": "xuhuxenium", "amount": 19}, {"item": "kacose", "amount": 8}], "research": "tate-factory", "powerProduction": 0.2895435226232064, "category": "power"}

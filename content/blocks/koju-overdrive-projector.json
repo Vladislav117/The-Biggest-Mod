@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "koju overdrive projector", "description": "...", "health": 87, "consumes": {"power": 3.0, "item": "koju"}, "size": 2, "requirements": [{"item": "koju", "amount": 10}, {"item": "hybobenium", "amount": 14}, {"item": "lewoxy", "amount": 1}], "research": "koju-factory", "category": "effect"}

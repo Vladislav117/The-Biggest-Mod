@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xyyira solar panel", "description": "...", "size": 3, "health": 11, "requirements": [{"item": "xyyira", "amount": 3}, {"item": "hocode", "amount": 20}, {"item": "fofoco", "amount": 2}], "research": "xyyira-factory", "powerProduction": 3.8493181949439372, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kelurynium conduit", "description": "...", "health": 30, "requirements": [{"item": "kelurynium", "amount": 8}, {"item": "kyte", "amount": 12}, {"item": "tuzy", "amount": 7}], "liquidCapacity": 4, "liquidPressure": 4, "research": "kelurynium-factory", "category": "liquid"}

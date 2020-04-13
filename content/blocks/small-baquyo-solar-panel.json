@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small baquyo solar panel", "description": "...", "size": 1, "health": 381, "requirements": [{"item": "baquyo", "amount": 3}, {"item": "zivoginium", "amount": 9}, {"item": "xujo", "amount": 10}], "research": "baquyo-factory", "powerProduction": 2.163819660363243, "category": "power"}

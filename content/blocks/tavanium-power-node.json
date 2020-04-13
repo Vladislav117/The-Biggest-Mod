@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tavanium power node", "description": "...", "size": 2, "health": 503, "requirements": [{"item": "tavanium", "amount": 13}, {"item": "kepusy", "amount": 19}, {"item": "bovu", "amount": 8}], "research": "tavanium-factory", "maxNodes": 46, "laserRange": 13, "category": "power"}

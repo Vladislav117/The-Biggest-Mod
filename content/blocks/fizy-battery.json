@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fizy battery", "description": "...", "size": 3, "health": 73, "requirements": [{"item": "fizy", "amount": 6}, {"item": "kiredi", "amount": 14}, {"item": "lora", "amount": 5}], "research": "fizy-factory", "consumes": {"powerBuffered": 4909}, "category": "power"}

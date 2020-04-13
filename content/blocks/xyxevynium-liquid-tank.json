@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xyxevynium liquid tank", "description": "...", "health": 610, "size": 3, "requirements": [{"item": "xyxevynium", "amount": 9}, {"item": "zowu", "amount": 14}, {"item": "zygebynium", "amount": 5}], "research": "xyxevynium-conduit", "category": "liquid", "liquidCapacity": 59472, "hasLiquids": true}

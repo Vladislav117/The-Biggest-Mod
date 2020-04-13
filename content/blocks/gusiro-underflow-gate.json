@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gusiro underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "gusiro", "amount": 2}, {"item": "hagunium", "amount": 3}], "research": "gusiro-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "falo power node", "description": "...", "size": 2, "health": 508, "requirements": [{"item": "falo", "amount": 20}, {"item": "yipobe", "amount": 1}, {"item": "ryjy", "amount": 4}], "research": "falo-factory", "maxNodes": 60, "laserRange": 6, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "viwunium underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "viwunium", "amount": 2}, {"item": "raru", "amount": 5}], "research": "viwunium-conveyor", "category": "distribution", "invert": false}

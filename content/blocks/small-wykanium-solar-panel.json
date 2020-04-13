@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wykanium solar panel", "description": "...", "size": 1, "health": 355, "requirements": [{"item": "wykanium", "amount": 10}, {"item": "vunijy", "amount": 9}, {"item": "vapo", "amount": 9}], "research": "wykanium-factory", "powerProduction": 0.5047294582943309, "category": "power"}

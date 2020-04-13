@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "poce conduit", "description": "...", "health": 178, "requirements": [{"item": "poce", "amount": 2}, {"item": "xeponium", "amount": 16}, {"item": "luvaji", "amount": 10}], "liquidCapacity": 9, "liquidPressure": 4, "research": "poce-factory", "category": "liquid"}

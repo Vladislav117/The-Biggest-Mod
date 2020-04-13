@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bito inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "bito", "amount": 5}, {"item": "foqunium", "amount": 1}], "research": "bito-conveyor", "category": "distribution", "invert": true}

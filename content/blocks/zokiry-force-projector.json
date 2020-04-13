@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "zokiry force projector", "description": "...", "health": 103, "size": 3, "consumes": {"power": 5.0, "item": "zokiry"}, "requirements": [{"item": "zokiry", "amount": 4}, {"item": "vilyco", "amount": 1}, {"item": "gave", "amount": 1}], "research": "zokiry-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qaty solar panel", "description": "...", "size": 3, "health": 362, "requirements": [{"item": "qaty", "amount": 1}, {"item": "zyluci", "amount": 10}, {"item": "cabyzo", "amount": 6}], "research": "qaty-factory", "powerProduction": 1.9986043468907222, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nuzivo power node", "description": "...", "size": 1, "health": 180, "requirements": [{"item": "nuzivo", "amount": 16}, {"item": "yydy", "amount": 14}, {"item": "lyheti", "amount": 5}], "research": "nuzivo-factory", "maxNodes": 15, "laserRange": 20, "category": "power"}

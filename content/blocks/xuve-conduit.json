@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xuve conduit", "description": "...", "health": 180, "requirements": [{"item": "xuve", "amount": 5}, {"item": "rigo", "amount": 19}, {"item": "vodo", "amount": 7}], "liquidCapacity": 20, "liquidPressure": 5, "research": "xuve-factory", "category": "liquid"}

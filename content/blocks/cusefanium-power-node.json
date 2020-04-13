@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cusefanium power node", "description": "...", "size": 2, "health": 753, "requirements": [{"item": "cusefanium", "amount": 9}, {"item": "vivunium", "amount": 16}, {"item": "lahy", "amount": 6}], "research": "cusefanium-factory", "maxNodes": 41, "laserRange": 5, "category": "power"}

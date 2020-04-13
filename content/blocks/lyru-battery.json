@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lyru battery", "description": "...", "size": 3, "health": 170, "requirements": [{"item": "lyru", "amount": 3}, {"item": "lyru", "amount": 19}, {"item": "silicon", "amount": 2}], "research": "lyru-factory", "consumes": {"powerBuffered": 8804}, "category": "power"}

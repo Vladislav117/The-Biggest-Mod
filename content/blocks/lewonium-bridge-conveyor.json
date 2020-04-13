@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lewonium bridge conveyor", "description": "", "health": 41, "range": 3, "speed": 2, "bufferCapacity": 14, "requirements": [{"item": "lewonium", "amount": 2}, {"item": "patyco", "amount": 1}], "research": "lewonium-conveyor", "category": "distribution", "size": 1}

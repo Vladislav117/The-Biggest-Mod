@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vykynium conduit", "description": "...", "health": 82, "requirements": [{"item": "vykynium", "amount": 2}, {"item": "doluka", "amount": 3}, {"item": "lilonium", "amount": 5}], "liquidCapacity": 42, "liquidPressure": 1, "research": "vykynium-factory", "category": "liquid"}

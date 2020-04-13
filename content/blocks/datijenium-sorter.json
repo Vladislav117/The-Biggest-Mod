@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "datijenium sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "datijenium", "amount": 1}, {"item": "dyziqanium", "amount": 1}], "research": "datijenium-conveyor", "category": "distribution", "invert": false}

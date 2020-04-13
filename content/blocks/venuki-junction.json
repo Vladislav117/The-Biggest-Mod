@@ -1,0 +1,1 @@
+{"type": "junction", "name": "venuki junction", "description": "...", "health": 4, "speed": 9, "capacity": 13, "size": 1, "requirements": [{"item": "venuki", "amount": 4}, {"item": "kilu", "amount": 1}], "research": "venuki-conveyor", "category": "distribution"}

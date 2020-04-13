@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qodeqe battery", "description": "...", "size": 3, "health": 69, "requirements": [{"item": "qodeqe", "amount": 7}, {"item": "myfo", "amount": 14}, {"item": "yuvynium", "amount": 9}], "research": "qodeqe-factory", "consumes": {"powerBuffered": 6707}, "category": "power"}

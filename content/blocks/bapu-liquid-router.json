@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bapu liquid router", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "bapu", "amount": 2}, {"item": "puye", "amount": 14}, {"item": "colu", "amount": 7}], "research": "bapu-conduit", "liquidCapacity": 10, "category": "liquid"}

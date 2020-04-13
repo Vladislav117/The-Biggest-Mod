@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pijuje battery", "description": "...", "size": 1, "health": 397, "requirements": [{"item": "pijuje", "amount": 13}, {"item": "loda", "amount": 12}, {"item": "jaki", "amount": 2}], "research": "pijuje-factory", "consumes": {"powerBuffered": 1129}, "category": "power"}

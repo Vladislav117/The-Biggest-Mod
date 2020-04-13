@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jyxexi power node", "description": "...", "size": 2, "health": 108, "requirements": [{"item": "jyxexi", "amount": 10}, {"item": "xuze", "amount": 3}, {"item": "nimy", "amount": 4}], "research": "jyxexi-factory", "maxNodes": 36, "laserRange": 16, "category": "power"}

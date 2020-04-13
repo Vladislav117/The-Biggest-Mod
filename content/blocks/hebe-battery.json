@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hebe battery", "description": "...", "size": 3, "health": 197, "requirements": [{"item": "hebe", "amount": 15}, {"item": "rapenium", "amount": 19}, {"item": "qari", "amount": 2}], "research": "hebe-factory", "consumes": {"powerBuffered": 9669}, "category": "power"}

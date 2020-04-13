@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mabyra power node", "description": "...", "size": 2, "health": 727, "requirements": [{"item": "mabyra", "amount": 4}, {"item": "milosi", "amount": 2}, {"item": "puwasy", "amount": 1}], "research": "mabyra-factory", "maxNodes": 34, "laserRange": 25, "category": "power"}

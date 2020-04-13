@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lumusu sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "lumusu", "amount": 2}, {"item": "sobiye", "amount": 2}], "research": "lumusu-conveyor", "category": "distribution", "invert": false}

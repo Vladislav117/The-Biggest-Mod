@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rahuko battery", "description": "...", "size": 3, "health": 201, "requirements": [{"item": "rahuko", "amount": 5}, {"item": "higy", "amount": 9}, {"item": "hywinium", "amount": 6}], "research": "rahuko-factory", "consumes": {"powerBuffered": 2192}, "category": "power"}

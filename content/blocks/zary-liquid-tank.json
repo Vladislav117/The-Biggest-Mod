@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zary liquid tank", "description": "...", "health": 458, "size": 3, "requirements": [{"item": "zary", "amount": 1}, {"item": "mivuwa", "amount": 1}, {"item": "fegy", "amount": 4}], "research": "zary-conduit", "category": "liquid", "liquidCapacity": 42561, "hasLiquids": true}

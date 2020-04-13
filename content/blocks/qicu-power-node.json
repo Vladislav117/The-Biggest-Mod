@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qicu power node", "description": "...", "size": 2, "health": 493, "requirements": [{"item": "qicu", "amount": 5}, {"item": "waninium", "amount": 7}, {"item": "keqiny", "amount": 7}], "research": "qicu-factory", "maxNodes": 33, "laserRange": 19, "category": "power"}

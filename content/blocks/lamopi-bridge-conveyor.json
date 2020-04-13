@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lamopi bridge conveyor", "description": "", "health": 29, "range": 7, "speed": 12, "bufferCapacity": 9, "requirements": [{"item": "lamopi", "amount": 1}, {"item": "movenium", "amount": 4}], "research": "lamopi-conveyor", "category": "distribution", "size": 1}

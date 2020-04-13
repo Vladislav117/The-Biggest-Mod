@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cyfipy sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "cyfipy", "amount": 2}, {"item": "baqyrinium", "amount": 3}], "research": "cyfipy-conveyor", "category": "distribution", "invert": false}

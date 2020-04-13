@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "geqanium conduit", "description": "...", "health": 58, "requirements": [{"item": "geqanium", "amount": 12}, {"item": "kujayonium", "amount": 15}, {"item": "qoti", "amount": 8}], "liquidCapacity": 2, "liquidPressure": 8, "research": "geqanium-factory", "category": "liquid"}

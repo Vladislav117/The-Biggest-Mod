@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lypoje liquid tank", "description": "...", "health": 473, "size": 3, "requirements": [{"item": "lypoje", "amount": 2}, {"item": "nimawo", "amount": 16}, {"item": "danava", "amount": 5}], "research": "lypoje-conduit", "category": "liquid", "liquidCapacity": 73246, "hasLiquids": true}

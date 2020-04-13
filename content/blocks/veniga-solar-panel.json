@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "veniga solar panel", "description": "...", "size": 3, "health": 343, "requirements": [{"item": "veniga", "amount": 13}, {"item": "kawo", "amount": 5}, {"item": "lumusu", "amount": 7}], "research": "veniga-factory", "powerProduction": 3.812189612563663, "category": "power"}

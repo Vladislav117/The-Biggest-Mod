@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wobuyu liquid tank", "description": "...", "health": 420, "size": 3, "requirements": [{"item": "wobuyu", "amount": 3}, {"item": "yupo", "amount": 18}, {"item": "gurikinium", "amount": 7}], "research": "wobuyu-conduit", "category": "liquid", "liquidCapacity": 29140, "hasLiquids": true}

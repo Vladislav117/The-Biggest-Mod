@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qyjysu liquid tank", "description": "...", "health": 260, "size": 3, "requirements": [{"item": "qyjysu", "amount": 10}, {"item": "laranium", "amount": 15}, {"item": "wasu", "amount": 5}], "research": "qyjysu-conduit", "category": "liquid", "liquidCapacity": 72663, "hasLiquids": true}

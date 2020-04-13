@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small potesonium solar panel", "description": "...", "size": 1, "health": 336, "requirements": [{"item": "potesonium", "amount": 13}, {"item": "wabaru", "amount": 15}, {"item": "hasu", "amount": 2}], "research": "potesonium-factory", "powerProduction": 2.1743378469751335, "category": "power"}

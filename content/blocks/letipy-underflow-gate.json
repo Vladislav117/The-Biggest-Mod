@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "letipy underflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "letipy", "amount": 4}, {"item": "mivuwa", "amount": 1}], "research": "letipy-conveyor", "category": "distribution", "invert": false}

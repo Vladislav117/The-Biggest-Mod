@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kozysa junction", "description": "...", "health": 43, "speed": 4, "capacity": 7, "size": 1, "requirements": [{"item": "kozysa", "amount": 2}, {"item": "takicynium", "amount": 5}], "research": "kozysa-conveyor", "category": "distribution"}

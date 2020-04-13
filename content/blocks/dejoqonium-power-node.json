@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dejoqonium power node", "description": "...", "size": 2, "health": 602, "requirements": [{"item": "dejoqonium", "amount": 13}, {"item": "fogodo", "amount": 11}, {"item": "lead", "amount": 2}], "research": "dejoqonium-factory", "maxNodes": 11, "laserRange": 7, "category": "power"}

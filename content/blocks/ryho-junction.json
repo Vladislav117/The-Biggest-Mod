@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ryho junction", "description": "...", "health": 7, "speed": 1, "capacity": 17, "size": 1, "requirements": [{"item": "ryho", "amount": 1}, {"item": "lyceca", "amount": 4}], "research": "ryho-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lamuya drill", "description": "...", "size": 2, "health": 235, "tier": 2, "drillTime": 12, "consumes": {"power": 6}, "requirements": [{"item": "lamuya", "amount": 13}, {"item": "pami", "amount": 11}, {"item": "xyge", "amount": 7}], "research": "lamuya-factory", "category": "production"}

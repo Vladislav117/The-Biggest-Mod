@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dywu battery", "description": "...", "size": 3, "health": 319, "requirements": [{"item": "dywu", "amount": 19}, {"item": "covaco", "amount": 15}, {"item": "limibu", "amount": 5}], "research": "dywu-factory", "consumes": {"powerBuffered": 4207}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "miyaxanium power node", "description": "...", "size": 2, "health": 20, "requirements": [{"item": "miyaxanium", "amount": 12}, {"item": "nivifu", "amount": 1}, {"item": "vywy", "amount": 9}], "research": "miyaxanium-factory", "maxNodes": 29, "laserRange": 9, "category": "power"}

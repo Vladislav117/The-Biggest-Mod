@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "meny liquid tank", "description": "...", "health": 621, "size": 3, "requirements": [{"item": "meny", "amount": 11}, {"item": "garuza", "amount": 16}, {"item": "gomuko", "amount": 1}], "research": "meny-conduit", "category": "liquid", "liquidCapacity": 6857, "hasLiquids": true}

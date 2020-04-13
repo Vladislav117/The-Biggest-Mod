@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wolanium solar panel", "description": "...", "size": 3, "health": 395, "requirements": [{"item": "wolanium", "amount": 9}, {"item": "lacu", "amount": 6}, {"item": "fusaji", "amount": 8}], "research": "wolanium-factory", "powerProduction": 5.234867717708152, "category": "power"}

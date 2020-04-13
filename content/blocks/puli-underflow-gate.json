@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "puli underflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "puli", "amount": 2}, {"item": "xikogo", "amount": 4}], "research": "puli-conveyor", "category": "distribution", "invert": false}

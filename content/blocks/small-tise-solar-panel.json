@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tise solar panel", "description": "...", "size": 1, "health": 98, "requirements": [{"item": "tise", "amount": 16}, {"item": "daryki", "amount": 9}, {"item": "gineta", "amount": 5}], "research": "tise-factory", "powerProduction": 2.0914999780628705, "category": "power"}

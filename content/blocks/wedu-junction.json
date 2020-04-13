@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wedu junction", "description": "...", "health": 22, "speed": 13, "capacity": 20, "size": 1, "requirements": [{"item": "wedu", "amount": 5}, {"item": "tiyexenium", "amount": 5}], "research": "wedu-conveyor", "category": "distribution"}

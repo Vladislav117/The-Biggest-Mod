@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mivini solar panel", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "mivini", "amount": 19}, {"item": "heso", "amount": 11}, {"item": "jayycu", "amount": 9}], "research": "mivini-factory", "powerProduction": 14.997010010785116, "category": "power"}

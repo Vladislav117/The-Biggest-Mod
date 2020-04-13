@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zefapynium overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "zefapynium", "amount": 1}, {"item": "zoxa", "amount": 2}], "research": "zefapynium-conveyor", "category": "distribution", "invert": false}

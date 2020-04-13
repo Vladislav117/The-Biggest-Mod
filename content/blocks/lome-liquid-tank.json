@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lome liquid tank", "description": "...", "health": 541, "size": 3, "requirements": [{"item": "lome", "amount": 17}, {"item": "harugenium", "amount": 14}, {"item": "femoconium", "amount": 10}], "research": "lome-conduit", "category": "liquid", "liquidCapacity": 86760, "hasLiquids": true}

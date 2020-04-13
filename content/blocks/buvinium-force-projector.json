@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "buvinium force projector", "description": "...", "health": 122, "size": 3, "consumes": {"power": 5.0, "item": "buvinium"}, "requirements": [{"item": "buvinium", "amount": 14}, {"item": "hisa", "amount": 16}, {"item": "byxyvi", "amount": 6}], "research": "buvinium-factory", "category": "effect"}

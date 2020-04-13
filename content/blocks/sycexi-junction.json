@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sycexi junction", "description": "...", "health": 7, "speed": 1, "capacity": 10, "size": 1, "requirements": [{"item": "sycexi", "amount": 3}, {"item": "gyhecu", "amount": 1}], "research": "sycexi-conveyor", "category": "distribution"}

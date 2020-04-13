@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qadezu bridge conveyor", "description": "", "health": 2, "range": 1, "speed": 18, "bufferCapacity": 21, "requirements": [{"item": "qadezu", "amount": 1}, {"item": "xype", "amount": 3}], "research": "qadezu-conveyor", "category": "distribution", "size": 1}

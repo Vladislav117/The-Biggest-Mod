@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "befa underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "befa", "amount": 4}, {"item": "qepumu", "amount": 1}], "research": "befa-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "felomo solar panel", "description": "...", "size": 3, "health": 305, "requirements": [{"item": "felomo", "amount": 2}, {"item": "nunuwy", "amount": 18}, {"item": "fayenium", "amount": 7}], "research": "felomo-factory", "powerProduction": 0.05475391267273316, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qyhocenium liquid tank", "description": "...", "health": 128, "size": 3, "requirements": [{"item": "qyhocenium", "amount": 20}, {"item": "tuxu", "amount": 17}, {"item": "voky", "amount": 1}], "research": "qyhocenium-conduit", "category": "liquid", "liquidCapacity": 86768, "hasLiquids": true}

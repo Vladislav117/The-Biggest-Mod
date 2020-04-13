@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ratapu bridge conveyor", "description": "", "health": 21, "range": 18, "speed": 9, "bufferCapacity": 24, "requirements": [{"item": "ratapu", "amount": 1}, {"item": "bisy", "amount": 3}], "research": "ratapu-conveyor", "category": "distribution", "size": 1}

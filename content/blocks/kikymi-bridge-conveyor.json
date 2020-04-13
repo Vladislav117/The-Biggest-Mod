@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kikymi bridge conveyor", "description": "", "health": 11, "range": 15, "speed": 15, "bufferCapacity": 2, "requirements": [{"item": "kikymi", "amount": 4}, {"item": "wutize", "amount": 3}], "research": "kikymi-conveyor", "category": "distribution", "size": 1}

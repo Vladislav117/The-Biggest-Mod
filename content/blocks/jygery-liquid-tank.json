@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jygery liquid tank", "description": "...", "health": 186, "size": 3, "requirements": [{"item": "jygery", "amount": 12}, {"item": "hyxy", "amount": 14}, {"item": "rymyfanium", "amount": 5}], "research": "jygery-conduit", "category": "liquid", "liquidCapacity": 11862, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pebi battery", "description": "...", "size": 1, "health": 319, "requirements": [{"item": "pebi", "amount": 17}, {"item": "vudaxy", "amount": 3}, {"item": "pivojunium", "amount": 6}], "research": "pebi-factory", "consumes": {"powerBuffered": 2261}, "category": "power"}

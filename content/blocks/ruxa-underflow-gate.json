@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ruxa underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "ruxa", "amount": 1}, {"item": "vyqosi", "amount": 1}], "research": "ruxa-conveyor", "category": "distribution", "invert": false}

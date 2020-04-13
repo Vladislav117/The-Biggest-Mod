@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small refoty solar panel", "description": "...", "size": 1, "health": 193, "requirements": [{"item": "refoty", "amount": 10}, {"item": "kipybi", "amount": 3}, {"item": "cone", "amount": 2}], "research": "refoty-factory", "powerProduction": 0.03270926310734913, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ryjy junction", "description": "...", "health": 45, "speed": 9, "capacity": 7, "size": 1, "requirements": [{"item": "ryjy", "amount": 2}, {"item": "fupymi", "amount": 2}], "research": "ryjy-conveyor", "category": "distribution"}

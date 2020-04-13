@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small koge solar panel", "description": "...", "size": 1, "health": 309, "requirements": [{"item": "koge", "amount": 8}, {"item": "fusaji", "amount": 5}, {"item": "vatuxanium", "amount": 2}], "research": "koge-factory", "powerProduction": 1.079841356528507, "category": "power"}

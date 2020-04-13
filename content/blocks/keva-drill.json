@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "keva drill", "description": "...", "size": 4, "health": 342, "tier": 4, "drillTime": 12, "consumes": {"power": 10}, "requirements": [{"item": "keva", "amount": 18}, {"item": "miwu", "amount": 10}, {"item": "zese", "amount": 4}], "research": "keva-factory", "category": "production"}

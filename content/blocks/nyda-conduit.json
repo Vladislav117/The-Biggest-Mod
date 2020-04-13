@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nyda conduit", "description": "...", "health": 114, "requirements": [{"item": "nyda", "amount": 3}, {"item": "kokonium", "amount": 10}, {"item": "dono", "amount": 7}], "liquidCapacity": 49, "liquidPressure": 0, "research": "nyda-factory", "category": "liquid"}

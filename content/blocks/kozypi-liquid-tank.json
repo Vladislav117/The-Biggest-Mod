@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kozypi liquid tank", "description": "...", "health": 539, "size": 3, "requirements": [{"item": "kozypi", "amount": 9}, {"item": "yepy", "amount": 11}, {"item": "lilonium", "amount": 6}], "research": "kozypi-conduit", "category": "liquid", "liquidCapacity": 83456, "hasLiquids": true}

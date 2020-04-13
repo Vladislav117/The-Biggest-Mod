@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hoqade battery", "description": "...", "size": 3, "health": 24, "requirements": [{"item": "hoqade", "amount": 16}, {"item": "hymonium", "amount": 20}, {"item": "dejoqonium", "amount": 8}], "research": "hoqade-factory", "consumes": {"powerBuffered": 6170}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ruke solar panel", "description": "...", "size": 3, "health": 121, "requirements": [{"item": "ruke", "amount": 12}, {"item": "mymysynium", "amount": 18}, {"item": "xyduda", "amount": 10}], "research": "ruke-factory", "powerProduction": 0.3172653018168379, "category": "power"}

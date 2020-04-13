@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "noconium liquid tank", "description": "...", "health": 478, "size": 3, "requirements": [{"item": "noconium", "amount": 7}, {"item": "xexocunium", "amount": 6}, {"item": "zihy", "amount": 2}], "research": "noconium-conduit", "category": "liquid", "liquidCapacity": 84485, "hasLiquids": true}

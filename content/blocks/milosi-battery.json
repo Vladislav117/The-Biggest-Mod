@@ -1,0 +1,1 @@
+{"type": "battery", "name": "milosi battery", "description": "...", "size": 3, "health": 266, "requirements": [{"item": "milosi", "amount": 6}, {"item": "puye", "amount": 2}, {"item": "daqy", "amount": 5}], "research": "milosi-factory", "consumes": {"powerBuffered": 6716}, "category": "power"}

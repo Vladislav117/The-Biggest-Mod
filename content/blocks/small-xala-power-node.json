@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xala power node", "description": "...", "size": 1, "health": 399, "requirements": [{"item": "xala", "amount": 5}, {"item": "towyti", "amount": 16}, {"item": "toyynium", "amount": 6}], "research": "xala-factory", "maxNodes": 3, "laserRange": 24, "category": "power"}

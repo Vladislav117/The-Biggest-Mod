@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pamo conduit", "description": "...", "health": 155, "requirements": [{"item": "pamo", "amount": 1}, {"item": "nikoru", "amount": 17}, {"item": "xoxu", "amount": 2}], "liquidCapacity": 21, "liquidPressure": 1, "research": "pamo-factory", "category": "liquid"}

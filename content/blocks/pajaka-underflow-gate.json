@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pajaka underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "pajaka", "amount": 3}, {"item": "xype", "amount": 1}], "research": "pajaka-conveyor", "category": "distribution", "invert": false}

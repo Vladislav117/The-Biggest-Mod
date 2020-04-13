@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jebexo conduit", "description": "...", "health": 118, "requirements": [{"item": "jebexo", "amount": 20}, {"item": "sara", "amount": 13}, {"item": "vakaco", "amount": 9}], "liquidCapacity": 4, "liquidPressure": 4, "research": "jebexo-factory", "category": "liquid"}

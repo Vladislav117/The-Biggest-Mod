@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xawogo solar panel", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "xawogo", "amount": 5}, {"item": "jaxu", "amount": 1}, {"item": "pywy", "amount": 5}], "research": "xawogo-factory", "powerProduction": 3.293021054355747, "category": "power"}

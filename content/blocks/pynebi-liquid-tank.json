@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pynebi liquid tank", "description": "...", "health": 294, "size": 3, "requirements": [{"item": "pynebi", "amount": 2}, {"item": "covikinium", "amount": 2}, {"item": "ruyyto", "amount": 8}], "research": "pynebi-conduit", "category": "liquid", "liquidCapacity": 2188, "hasLiquids": true}

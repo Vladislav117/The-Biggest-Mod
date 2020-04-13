@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fecufy battery", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "fecufy", "amount": 7}, {"item": "syyyvo", "amount": 9}, {"item": "zese", "amount": 8}], "research": "fecufy-factory", "consumes": {"powerBuffered": 1433}, "category": "power"}

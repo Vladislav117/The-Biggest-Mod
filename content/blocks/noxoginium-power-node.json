@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "noxoginium power node", "description": "...", "size": 2, "health": 725, "requirements": [{"item": "noxoginium", "amount": 1}, {"item": "dyde", "amount": 10}, {"item": "ciqi", "amount": 8}], "research": "noxoginium-factory", "maxNodes": 53, "laserRange": 21, "category": "power"}

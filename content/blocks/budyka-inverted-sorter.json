@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "budyka inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "budyka", "amount": 2}, {"item": "tozenium", "amount": 1}], "research": "budyka-conveyor", "category": "distribution", "invert": true}

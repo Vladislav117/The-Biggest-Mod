@@ -1,0 +1,1 @@
+{"type": "battery", "name": "resenium battery", "description": "...", "size": 3, "health": 309, "requirements": [{"item": "resenium", "amount": 19}, {"item": "voya", "amount": 11}, {"item": "copper", "amount": 7}], "research": "resenium-factory", "consumes": {"powerBuffered": 343}, "category": "power"}

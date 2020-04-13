@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pazanium power node", "description": "...", "size": 2, "health": 450, "requirements": [{"item": "pazanium", "amount": 11}, {"item": "jaju", "amount": 20}, {"item": "yibufe", "amount": 9}], "research": "pazanium-factory", "maxNodes": 24, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rigoyo power node", "description": "...", "size": 2, "health": 311, "requirements": [{"item": "rigoyo", "amount": 7}, {"item": "qolo", "amount": 19}, {"item": "ruteqa", "amount": 3}], "research": "rigoyo-factory", "maxNodes": 37, "laserRange": 21, "category": "power"}

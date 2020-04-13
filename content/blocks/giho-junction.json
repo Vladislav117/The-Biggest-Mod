@@ -1,0 +1,1 @@
+{"type": "junction", "name": "giho junction", "description": "...", "health": 28, "speed": 4, "capacity": 2, "size": 1, "requirements": [{"item": "giho", "amount": 2}, {"item": "nayevynium", "amount": 1}], "research": "giho-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zuqu liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "zuqu", "amount": 2}, {"item": "rymoqi", "amount": 8}, {"item": "qafy", "amount": 7}], "research": "zuqu-conduit", "liquidCapacity": 10, "category": "liquid"}

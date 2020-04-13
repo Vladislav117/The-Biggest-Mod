@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "beniyi liquid tank", "description": "...", "health": 560, "size": 3, "requirements": [{"item": "beniyi", "amount": 11}, {"item": "gyporu", "amount": 15}, {"item": "dukyfe", "amount": 3}], "research": "beniyi-conduit", "category": "liquid", "liquidCapacity": 89889, "hasLiquids": true}

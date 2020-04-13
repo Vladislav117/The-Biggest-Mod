@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tipi overflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "tipi", "amount": 1}, {"item": "hajo", "amount": 4}], "research": "tipi-conveyor", "category": "distribution", "invert": false}

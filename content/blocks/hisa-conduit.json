@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hisa conduit", "description": "...", "health": 69, "requirements": [{"item": "hisa", "amount": 9}, {"item": "zyru", "amount": 6}, {"item": "totiji", "amount": 3}], "liquidCapacity": 30, "liquidPressure": 7, "research": "hisa-factory", "category": "liquid"}

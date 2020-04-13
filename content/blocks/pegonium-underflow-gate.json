@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pegonium underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "pegonium", "amount": 5}, {"item": "ragoku", "amount": 5}], "research": "pegonium-conveyor", "category": "distribution", "invert": false}

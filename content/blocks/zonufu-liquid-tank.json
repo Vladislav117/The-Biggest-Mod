@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zonufu liquid tank", "description": "...", "health": 452, "size": 3, "requirements": [{"item": "zonufu", "amount": 4}, {"item": "graphite", "amount": 15}, {"item": "yexe", "amount": 7}], "research": "zonufu-conduit", "category": "liquid", "liquidCapacity": 105306, "hasLiquids": true}

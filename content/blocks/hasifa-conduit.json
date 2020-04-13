@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hasifa conduit", "description": "...", "health": 144, "requirements": [{"item": "hasifa", "amount": 9}, {"item": "byyu", "amount": 1}, {"item": "cobunium", "amount": 2}], "liquidCapacity": 44, "liquidPressure": 8, "research": "hasifa-factory", "category": "liquid"}

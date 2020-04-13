@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yuwu power node", "description": "...", "size": 2, "health": 169, "requirements": [{"item": "yuwu", "amount": 10}, {"item": "gasu", "amount": 5}, {"item": "juyy", "amount": 3}], "research": "yuwu-factory", "maxNodes": 16, "laserRange": 6, "category": "power"}

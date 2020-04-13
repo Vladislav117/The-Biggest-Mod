@@ -1,0 +1,1 @@
+{"type": "junction", "name": "viza junction", "description": "...", "health": 11, "speed": 15, "capacity": 12, "size": 1, "requirements": [{"item": "viza", "amount": 4}, {"item": "zivo", "amount": 1}], "research": "viza-conveyor", "category": "distribution"}

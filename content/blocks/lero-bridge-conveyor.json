@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lero bridge conveyor", "description": "", "health": 14, "range": 13, "speed": 6, "bufferCapacity": 25, "requirements": [{"item": "lero", "amount": 5}, {"item": "qidibe", "amount": 2}], "research": "lero-conveyor", "category": "distribution", "size": 1}

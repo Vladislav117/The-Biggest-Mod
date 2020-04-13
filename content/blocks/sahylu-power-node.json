@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sahylu power node", "description": "...", "size": 2, "health": 215, "requirements": [{"item": "sahylu", "amount": 8}, {"item": "gyhecu", "amount": 20}, {"item": "dyda", "amount": 5}], "research": "sahylu-factory", "maxNodes": 36, "laserRange": 13, "category": "power"}

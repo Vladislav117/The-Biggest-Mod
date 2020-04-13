@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "lehanium force projector", "description": "...", "health": 215, "size": 3, "consumes": {"power": 5.0, "item": "lehanium"}, "requirements": [{"item": "lehanium", "amount": 6}, {"item": "hytitenium", "amount": 9}, {"item": "wygy", "amount": 5}], "research": "lehanium-factory", "category": "effect"}

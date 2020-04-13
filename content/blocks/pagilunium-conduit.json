@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pagilunium conduit", "description": "...", "health": 78, "requirements": [{"item": "pagilunium", "amount": 15}, {"item": "casodenium", "amount": 10}, {"item": "xiguri", "amount": 2}], "liquidCapacity": 7, "liquidPressure": 10, "research": "pagilunium-factory", "category": "liquid"}

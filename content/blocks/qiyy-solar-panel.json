@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qiyy solar panel", "description": "...", "size": 3, "health": 125, "requirements": [{"item": "qiyy", "amount": 19}, {"item": "tuzo", "amount": 17}, {"item": "lynaly", "amount": 5}], "research": "qiyy-factory", "powerProduction": 0.1496272398225561, "category": "power"}

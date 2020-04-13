@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pupyku power node", "description": "...", "size": 2, "health": 491, "requirements": [{"item": "pupyku", "amount": 17}, {"item": "velewo", "amount": 12}, {"item": "xozime", "amount": 9}], "research": "pupyku-factory", "maxNodes": 53, "laserRange": 19, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "locycanium battery", "description": "...", "size": 3, "health": 323, "requirements": [{"item": "locycanium", "amount": 6}, {"item": "kosonium", "amount": 8}, {"item": "vuxi", "amount": 5}], "research": "locycanium-factory", "consumes": {"powerBuffered": 1403}, "category": "power"}

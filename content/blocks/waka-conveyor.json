@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "waka conveyor", "description": "...", "health": 29, "requirements": [{"item": "waka", "amount": 1}, {"item": "nuzivo", "amount": 2}], "speed": 0.15604366963691574, "research": "waka-factory", "category": "distribution"}

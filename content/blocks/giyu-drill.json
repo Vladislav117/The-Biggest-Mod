@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "giyu drill", "description": "...", "size": 4, "health": 236, "tier": 1, "drillTime": 7, "consumes": {"power": 3}, "requirements": [{"item": "giyu", "amount": 4}, {"item": "bedy", "amount": 15}, {"item": "luluti", "amount": 5}], "research": "giyu-factory", "category": "production"}

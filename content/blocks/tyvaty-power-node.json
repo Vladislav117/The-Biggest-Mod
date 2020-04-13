@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tyvaty power node", "description": "...", "size": 2, "health": 354, "requirements": [{"item": "tyvaty", "amount": 10}, {"item": "yejicunium", "amount": 13}, {"item": "xadunium", "amount": 2}], "research": "tyvaty-factory", "maxNodes": 13, "laserRange": 17, "category": "power"}

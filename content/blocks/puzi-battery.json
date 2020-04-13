@@ -1,0 +1,1 @@
+{"type": "battery", "name": "puzi battery", "description": "...", "size": 3, "health": 42, "requirements": [{"item": "puzi", "amount": 3}, {"item": "yeli", "amount": 9}, {"item": "kyqedu", "amount": 2}], "research": "puzi-factory", "consumes": {"powerBuffered": 5313}, "category": "power"}

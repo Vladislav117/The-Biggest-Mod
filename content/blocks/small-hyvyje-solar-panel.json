@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hyvyje solar panel", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "hyvyje", "amount": 7}, {"item": "vapa", "amount": 9}, {"item": "fezadunium", "amount": 10}], "research": "hyvyje-factory", "powerProduction": 7.4725732933496385, "category": "power"}

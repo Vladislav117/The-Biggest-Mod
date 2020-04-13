@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lilyro power node", "description": "...", "size": 2, "health": 559, "requirements": [{"item": "lilyro", "amount": 3}, {"item": "joky", "amount": 7}, {"item": "jogi", "amount": 6}], "research": "lilyro-factory", "maxNodes": 51, "laserRange": 17, "category": "power"}

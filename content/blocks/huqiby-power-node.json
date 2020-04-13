@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "huqiby power node", "description": "...", "size": 2, "health": 486, "requirements": [{"item": "huqiby", "amount": 18}, {"item": "zydu", "amount": 11}, {"item": "rudy", "amount": 2}], "research": "huqiby-factory", "maxNodes": 41, "laserRange": 14, "category": "power"}

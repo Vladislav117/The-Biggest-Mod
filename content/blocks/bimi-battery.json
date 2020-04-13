@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bimi battery", "description": "...", "size": 3, "health": 114, "requirements": [{"item": "bimi", "amount": 15}, {"item": "rudy", "amount": 6}, {"item": "zotonium", "amount": 2}], "research": "bimi-factory", "consumes": {"powerBuffered": 5607}, "category": "power"}

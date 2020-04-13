@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fulasa power node", "description": "...", "size": 2, "health": 563, "requirements": [{"item": "fulasa", "amount": 18}, {"item": "xybi", "amount": 7}, {"item": "zynenium", "amount": 2}], "research": "fulasa-factory", "maxNodes": 39, "laserRange": 13, "category": "power"}

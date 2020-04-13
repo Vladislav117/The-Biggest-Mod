@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xogy conduit", "description": "...", "health": 33, "requirements": [{"item": "xogy", "amount": 19}, {"item": "panuwe", "amount": 13}, {"item": "cuwe", "amount": 1}], "liquidCapacity": 4, "liquidPressure": 10, "research": "xogy-factory", "category": "liquid"}

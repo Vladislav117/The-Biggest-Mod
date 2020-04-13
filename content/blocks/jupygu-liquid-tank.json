@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jupygu liquid tank", "description": "...", "health": 324, "size": 3, "requirements": [{"item": "jupygu", "amount": 9}, {"item": "yopepa", "amount": 9}, {"item": "qoly", "amount": 4}], "research": "jupygu-conduit", "category": "liquid", "liquidCapacity": 67677, "hasLiquids": true}

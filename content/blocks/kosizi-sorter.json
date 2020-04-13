@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kosizi sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "kosizi", "amount": 2}, {"item": "turode", "amount": 3}], "research": "kosizi-conveyor", "category": "distribution", "invert": false}

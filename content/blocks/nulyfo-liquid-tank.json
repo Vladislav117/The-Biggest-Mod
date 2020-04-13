@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nulyfo liquid tank", "description": "...", "health": 296, "size": 3, "requirements": [{"item": "nulyfo", "amount": 8}, {"item": "logy", "amount": 14}, {"item": "siwi", "amount": 6}], "research": "nulyfo-conduit", "category": "liquid", "liquidCapacity": 47502, "hasLiquids": true}

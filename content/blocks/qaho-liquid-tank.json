@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qaho liquid tank", "description": "...", "health": 655, "size": 3, "requirements": [{"item": "qaho", "amount": 9}, {"item": "mepunium", "amount": 15}, {"item": "qepyvonium", "amount": 5}], "research": "qaho-conduit", "category": "liquid", "liquidCapacity": 87129, "hasLiquids": true}

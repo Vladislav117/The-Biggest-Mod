@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cydi liquid tank", "description": "...", "health": 486, "size": 3, "requirements": [{"item": "cydi", "amount": 13}, {"item": "qyhaja", "amount": 3}, {"item": "jifilo", "amount": 2}], "research": "cydi-conduit", "category": "liquid", "liquidCapacity": 83713, "hasLiquids": true}

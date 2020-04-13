@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "tiqa conveyor", "description": "...", "health": 75, "requirements": [{"item": "tiqa", "amount": 7}, {"item": "deriye", "amount": 9}], "speed": 0.3188434283315617, "research": "tiqa-factory", "category": "distribution"}

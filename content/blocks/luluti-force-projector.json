@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "luluti force projector", "description": "...", "health": 139, "size": 3, "consumes": {"power": 5.0, "item": "luluti"}, "requirements": [{"item": "luluti", "amount": 2}, {"item": "cezany", "amount": 9}, {"item": "qizi", "amount": 5}], "research": "luluti-factory", "category": "effect"}

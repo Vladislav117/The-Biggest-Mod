@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bacone junction", "description": "...", "health": 10, "speed": 12, "capacity": 1, "size": 1, "requirements": [{"item": "bacone", "amount": 1}, {"item": "xype", "amount": 5}], "research": "bacone-conveyor", "category": "distribution"}

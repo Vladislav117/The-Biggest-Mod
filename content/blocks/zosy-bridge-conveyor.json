@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zosy bridge conveyor", "description": "", "health": 10, "range": 20, "speed": 4, "bufferCapacity": 7, "requirements": [{"item": "zosy", "amount": 1}, {"item": "gyfeca", "amount": 1}], "research": "zosy-conveyor", "category": "distribution", "size": 1}

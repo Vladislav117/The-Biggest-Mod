@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qusepu power node", "description": "...", "size": 2, "health": 361, "requirements": [{"item": "qusepu", "amount": 5}, {"item": "difyna", "amount": 8}, {"item": "cyqanium", "amount": 8}], "research": "qusepu-factory", "maxNodes": 14, "laserRange": 23, "category": "power"}

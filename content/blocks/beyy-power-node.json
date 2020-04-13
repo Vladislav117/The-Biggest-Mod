@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "beyy power node", "description": "...", "size": 2, "health": 573, "requirements": [{"item": "beyy", "amount": 18}, {"item": "seyo", "amount": 14}, {"item": "suvi", "amount": 10}], "research": "beyy-factory", "maxNodes": 19, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "giqiju bridge conveyor", "description": "", "health": 30, "range": 13, "speed": 5, "bufferCapacity": 4, "requirements": [{"item": "giqiju", "amount": 4}, {"item": "lavysunium", "amount": 2}], "research": "giqiju-conveyor", "category": "distribution", "size": 1}

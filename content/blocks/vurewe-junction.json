@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vurewe junction", "description": "...", "health": 15, "speed": 18, "capacity": 7, "size": 1, "requirements": [{"item": "vurewe", "amount": 3}, {"item": "guniwa", "amount": 1}], "research": "vurewe-conveyor", "category": "distribution"}

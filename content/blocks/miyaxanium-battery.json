@@ -1,0 +1,1 @@
+{"type": "battery", "name": "miyaxanium battery", "description": "...", "size": 3, "health": 104, "requirements": [{"item": "miyaxanium", "amount": 8}, {"item": "vuzoha", "amount": 9}, {"item": "gydarynium", "amount": 1}], "research": "miyaxanium-factory", "consumes": {"powerBuffered": 7705}, "category": "power"}

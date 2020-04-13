@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mefymanium inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "mefymanium", "amount": 4}, {"item": "metaglass", "amount": 2}], "research": "mefymanium-conveyor", "category": "distribution", "invert": true}

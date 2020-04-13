@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fogu underflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "fogu", "amount": 3}, {"item": "kyfe", "amount": 3}], "research": "fogu-conveyor", "category": "distribution", "invert": false}

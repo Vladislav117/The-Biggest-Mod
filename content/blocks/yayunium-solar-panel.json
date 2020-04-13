@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yayunium solar panel", "description": "...", "size": 3, "health": 173, "requirements": [{"item": "yayunium", "amount": 10}, {"item": "hezinium", "amount": 4}, {"item": "baci", "amount": 1}], "research": "yayunium-factory", "powerProduction": 0.07484578805995545, "category": "power"}

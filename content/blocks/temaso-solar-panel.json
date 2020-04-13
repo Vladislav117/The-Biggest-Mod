@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "temaso solar panel", "description": "...", "size": 3, "health": 166, "requirements": [{"item": "temaso", "amount": 1}, {"item": "ruqe", "amount": 3}, {"item": "dune", "amount": 6}], "research": "temaso-factory", "powerProduction": 1.0329329756848105, "category": "power"}

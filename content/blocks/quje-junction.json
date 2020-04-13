@@ -1,0 +1,1 @@
+{"type": "junction", "name": "quje junction", "description": "...", "health": 6, "speed": 11, "capacity": 3, "size": 1, "requirements": [{"item": "quje", "amount": 5}, {"item": "zyfita", "amount": 3}], "research": "quje-conveyor", "category": "distribution"}

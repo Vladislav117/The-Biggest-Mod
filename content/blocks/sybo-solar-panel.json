@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sybo solar panel", "description": "...", "size": 3, "health": 146, "requirements": [{"item": "sybo", "amount": 8}, {"item": "horyve", "amount": 18}, {"item": "fygunium", "amount": 4}], "research": "sybo-factory", "powerProduction": 5.9878401459186374, "category": "power"}

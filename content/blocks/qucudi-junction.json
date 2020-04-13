@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qucudi junction", "description": "...", "health": 15, "speed": 4, "capacity": 20, "size": 1, "requirements": [{"item": "qucudi", "amount": 1}, {"item": "gago", "amount": 5}], "research": "qucudi-conveyor", "category": "distribution"}

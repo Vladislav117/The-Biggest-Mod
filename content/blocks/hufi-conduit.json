@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hufi conduit", "description": "...", "health": 26, "requirements": [{"item": "hufi", "amount": 15}, {"item": "puri", "amount": 17}, {"item": "fayenium", "amount": 8}], "liquidCapacity": 49, "liquidPressure": 9, "research": "hufi-factory", "category": "liquid"}

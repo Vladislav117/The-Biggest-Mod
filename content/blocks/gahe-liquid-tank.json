@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gahe liquid tank", "description": "...", "health": 497, "size": 3, "requirements": [{"item": "gahe", "amount": 5}, {"item": "zemyca", "amount": 16}, {"item": "sepo", "amount": 3}], "research": "gahe-conduit", "category": "liquid", "liquidCapacity": 114017, "hasLiquids": true}

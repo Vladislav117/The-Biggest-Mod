@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sozu bridge conveyor", "description": "", "health": 48, "range": 1, "speed": 4, "bufferCapacity": 12, "requirements": [{"item": "sozu", "amount": 1}, {"item": "giyiya", "amount": 2}], "research": "sozu-conveyor", "category": "distribution", "size": 1}

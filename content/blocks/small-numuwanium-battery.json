@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small numuwanium battery", "description": "...", "size": 1, "health": 145, "requirements": [{"item": "numuwanium", "amount": 1}, {"item": "nogosy", "amount": 4}, {"item": "xuxyvo", "amount": 1}], "research": "numuwanium-factory", "consumes": {"powerBuffered": 2500}, "category": "power"}

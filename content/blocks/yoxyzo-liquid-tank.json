@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yoxyzo liquid tank", "description": "...", "health": 669, "size": 3, "requirements": [{"item": "yoxyzo", "amount": 4}, {"item": "daqy", "amount": 15}, {"item": "qivi", "amount": 7}], "research": "yoxyzo-conduit", "category": "liquid", "liquidCapacity": 110985, "hasLiquids": true}

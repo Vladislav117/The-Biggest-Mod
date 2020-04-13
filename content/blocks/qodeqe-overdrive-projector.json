@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "qodeqe overdrive projector", "description": "...", "health": 96, "consumes": {"power": 3.0, "item": "qodeqe"}, "size": 2, "requirements": [{"item": "qodeqe", "amount": 6}, {"item": "cosa", "amount": 5}, {"item": "cozuja", "amount": 7}], "research": "qodeqe-factory", "category": "effect"}

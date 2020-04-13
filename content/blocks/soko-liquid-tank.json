@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "soko liquid tank", "description": "...", "health": 355, "size": 3, "requirements": [{"item": "soko", "amount": 9}, {"item": "hebohy", "amount": 12}, {"item": "viqi", "amount": 6}], "research": "soko-conduit", "category": "liquid", "liquidCapacity": 73056, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyxiwinium liquid tank", "description": "...", "health": 125, "size": 3, "requirements": [{"item": "fyxiwinium", "amount": 2}, {"item": "hasoye", "amount": 9}, {"item": "fecyli", "amount": 7}], "research": "fyxiwinium-conduit", "category": "liquid", "liquidCapacity": 27445, "hasLiquids": true}

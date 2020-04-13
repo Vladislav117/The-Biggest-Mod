@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "boyanium conduit", "description": "...", "health": 143, "requirements": [{"item": "boyanium", "amount": 4}, {"item": "zufi", "amount": 11}, {"item": "gino", "amount": 5}], "liquidCapacity": 19, "liquidPressure": 2, "research": "boyanium-factory", "category": "liquid"}

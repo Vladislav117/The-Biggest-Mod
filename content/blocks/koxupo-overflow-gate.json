@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "koxupo overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "koxupo", "amount": 5}, {"item": "butuhi", "amount": 4}], "research": "koxupo-conveyor", "category": "distribution", "invert": false}

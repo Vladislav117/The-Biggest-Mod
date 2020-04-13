@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "dojoyanium drill", "description": "...", "size": 2, "health": 410, "tier": 3, "drillTime": 15, "consumes": {"power": 7}, "requirements": [{"item": "dojoyanium", "amount": 20}, {"item": "hikyxu", "amount": 8}, {"item": "hyzafenium", "amount": 6}], "research": "dojoyanium-factory", "category": "production"}

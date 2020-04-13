@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zoqivanium underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "zoqivanium", "amount": 5}, {"item": "vedapa", "amount": 5}], "research": "zoqivanium-conveyor", "category": "distribution", "invert": false}

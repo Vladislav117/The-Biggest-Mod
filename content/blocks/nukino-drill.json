@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nukino drill", "description": "...", "size": 4, "health": 408, "tier": 1, "drillTime": 19, "consumes": {"power": 8}, "requirements": [{"item": "nukino", "amount": 12}, {"item": "letipy", "amount": 6}, {"item": "deco", "amount": 4}], "research": "nukino-factory", "category": "production"}

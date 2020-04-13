@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pamufo solar panel", "description": "...", "size": 3, "health": 323, "requirements": [{"item": "pamufo", "amount": 11}, {"item": "byhonium", "amount": 10}, {"item": "juqinium", "amount": 7}], "research": "pamufo-factory", "powerProduction": 0.02509853900675441, "category": "power"}

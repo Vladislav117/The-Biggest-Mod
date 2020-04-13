@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lilyro underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "lilyro", "amount": 2}, {"item": "zoqivanium", "amount": 2}], "research": "lilyro-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yeti liquid router", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "yeti", "amount": 19}, {"item": "lafetu", "amount": 5}, {"item": "jahezu", "amount": 9}], "research": "yeti-conduit", "liquidCapacity": 10, "category": "liquid"}

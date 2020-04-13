@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "neminium liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "neminium", "amount": 11}, {"item": "totiji", "amount": 18}, {"item": "musebo", "amount": 6}], "research": "neminium-conduit", "liquidCapacity": 10, "category": "liquid"}

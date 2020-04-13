@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lifuke conduit", "description": "...", "health": 184, "requirements": [{"item": "lifuke", "amount": 19}, {"item": "nixigunium", "amount": 20}, {"item": "zobopanium", "amount": 10}], "liquidCapacity": 21, "liquidPressure": 0, "research": "lifuke-factory", "category": "liquid"}

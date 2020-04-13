@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "niruya sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "niruya", "amount": 3}, {"item": "zokoya", "amount": 3}], "research": "niruya-conveyor", "category": "distribution", "invert": false}

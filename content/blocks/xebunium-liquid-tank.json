@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xebunium liquid tank", "description": "...", "health": 611, "size": 3, "requirements": [{"item": "xebunium", "amount": 7}, {"item": "rahy", "amount": 18}, {"item": "lolu", "amount": 10}], "research": "xebunium-conduit", "category": "liquid", "liquidCapacity": 18988, "hasLiquids": true}

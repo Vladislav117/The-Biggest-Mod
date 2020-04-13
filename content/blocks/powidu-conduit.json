@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "powidu conduit", "description": "...", "health": 165, "requirements": [{"item": "powidu", "amount": 18}, {"item": "zityyanium", "amount": 17}, {"item": "melepi", "amount": 7}], "liquidCapacity": 31, "liquidPressure": 1, "research": "powidu-factory", "category": "liquid"}

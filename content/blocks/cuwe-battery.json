@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cuwe battery", "description": "...", "size": 3, "health": 77, "requirements": [{"item": "cuwe", "amount": 5}, {"item": "savi", "amount": 17}, {"item": "bexo", "amount": 5}], "research": "cuwe-factory", "consumes": {"powerBuffered": 1928}, "category": "power"}

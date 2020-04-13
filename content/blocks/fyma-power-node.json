@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fyma power node", "description": "...", "size": 2, "health": 41, "requirements": [{"item": "fyma", "amount": 9}, {"item": "covifinium", "amount": 13}, {"item": "geja", "amount": 2}], "research": "fyma-factory", "maxNodes": 13, "laserRange": 7, "category": "power"}

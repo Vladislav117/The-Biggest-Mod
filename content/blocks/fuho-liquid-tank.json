@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fuho liquid tank", "description": "...", "health": 430, "size": 3, "requirements": [{"item": "fuho", "amount": 15}, {"item": "tifi", "amount": 1}, {"item": "xuxyvo", "amount": 10}], "research": "fuho-conduit", "category": "liquid", "liquidCapacity": 45259, "hasLiquids": true}

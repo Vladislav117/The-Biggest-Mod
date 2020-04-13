@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "taxanium liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "taxanium", "amount": 17}, {"item": "redo", "amount": 16}, {"item": "qimose", "amount": 10}], "research": "taxanium-conduit", "liquidCapacity": 10, "category": "liquid"}

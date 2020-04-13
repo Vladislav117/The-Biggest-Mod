@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cywa bridge conveyor", "description": "", "health": 15, "range": 12, "speed": 13, "bufferCapacity": 17, "requirements": [{"item": "cywa", "amount": 5}, {"item": "necuwy", "amount": 1}], "research": "cywa-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mojo conduit", "description": "...", "health": 96, "requirements": [{"item": "mojo", "amount": 5}, {"item": "moxi", "amount": 16}, {"item": "jupygu", "amount": 7}], "liquidCapacity": 13, "liquidPressure": 5, "research": "mojo-factory", "category": "liquid"}

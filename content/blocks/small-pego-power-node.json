@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pego power node", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "pego", "amount": 4}, {"item": "hyru", "amount": 18}, {"item": "zuva", "amount": 2}], "research": "pego-factory", "maxNodes": 18, "laserRange": 16, "category": "power"}

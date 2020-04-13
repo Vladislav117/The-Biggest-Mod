@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jivanium liquid tank", "description": "...", "health": 233, "size": 3, "requirements": [{"item": "jivanium", "amount": 1}, {"item": "zoku", "amount": 19}, {"item": "salojanium", "amount": 10}], "research": "jivanium-conduit", "category": "liquid", "liquidCapacity": 113382, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lavysunium sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "lavysunium", "amount": 2}, {"item": "zuhele", "amount": 5}], "research": "lavysunium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nimynium conduit", "description": "...", "health": 170, "requirements": [{"item": "nimynium", "amount": 10}, {"item": "hytitenium", "amount": 12}, {"item": "titanium", "amount": 7}], "liquidCapacity": 17, "liquidPressure": 2, "research": "nimynium-factory", "category": "liquid"}

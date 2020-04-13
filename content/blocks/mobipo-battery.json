@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mobipo battery", "description": "...", "size": 3, "health": 80, "requirements": [{"item": "mobipo", "amount": 20}, {"item": "vohiyynium", "amount": 5}, {"item": "laxu", "amount": 4}], "research": "mobipo-factory", "consumes": {"powerBuffered": 7605}, "category": "power"}

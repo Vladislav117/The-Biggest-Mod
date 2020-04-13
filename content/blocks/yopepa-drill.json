@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yopepa drill", "description": "...", "size": 2, "health": 260, "tier": 3, "drillTime": 13, "consumes": {"power": 8}, "requirements": [{"item": "yopepa", "amount": 11}, {"item": "basomi", "amount": 2}, {"item": "sobu", "amount": 1}], "research": "yopepa-factory", "category": "production"}

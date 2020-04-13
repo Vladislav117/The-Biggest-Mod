@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bopu overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "bopu", "amount": 4}, {"item": "diqa", "amount": 4}], "research": "bopu-conveyor", "category": "distribution", "invert": false}

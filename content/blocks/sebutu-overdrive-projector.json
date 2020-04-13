@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "sebutu overdrive projector", "description": "...", "health": 92, "consumes": {"power": 3.0, "item": "sebutu"}, "size": 2, "requirements": [{"item": "sebutu", "amount": 6}, {"item": "bedagy", "amount": 9}, {"item": "cywynium", "amount": 2}], "research": "sebutu-factory", "category": "effect"}

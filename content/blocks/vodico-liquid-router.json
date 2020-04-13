@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vodico liquid router", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "vodico", "amount": 6}, {"item": "tezila", "amount": 10}, {"item": "sacigi", "amount": 10}], "research": "vodico-conduit", "liquidCapacity": 10, "category": "liquid"}

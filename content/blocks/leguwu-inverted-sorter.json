@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "leguwu inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "leguwu", "amount": 2}, {"item": "xadyyo", "amount": 5}], "research": "leguwu-conveyor", "category": "distribution", "invert": true}

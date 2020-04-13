@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bevy power node", "description": "...", "size": 2, "health": 520, "requirements": [{"item": "bevy", "amount": 2}, {"item": "vanofi", "amount": 3}, {"item": "tykyfo", "amount": 5}], "research": "bevy-factory", "maxNodes": 10, "laserRange": 17, "category": "power"}

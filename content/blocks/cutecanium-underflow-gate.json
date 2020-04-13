@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cutecanium underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "cutecanium", "amount": 4}, {"item": "focewu", "amount": 5}], "research": "cutecanium-conveyor", "category": "distribution", "invert": false}

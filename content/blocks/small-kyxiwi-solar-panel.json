@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kyxiwi solar panel", "description": "...", "size": 1, "health": 262, "requirements": [{"item": "kyxiwi", "amount": 9}, {"item": "hiqasynium", "amount": 16}, {"item": "nijuto", "amount": 2}], "research": "kyxiwi-factory", "powerProduction": 0.13836391161538583, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hihunium liquid tank", "description": "...", "health": 130, "size": 3, "requirements": [{"item": "hihunium", "amount": 20}, {"item": "qylino", "amount": 7}, {"item": "ruvudo", "amount": 4}], "research": "hihunium-conduit", "category": "liquid", "liquidCapacity": 42027, "hasLiquids": true}

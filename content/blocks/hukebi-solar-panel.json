@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hukebi solar panel", "description": "...", "size": 3, "health": 60, "requirements": [{"item": "hukebi", "amount": 3}, {"item": "feyyqe", "amount": 17}, {"item": "yunu", "amount": 4}], "research": "hukebi-factory", "powerProduction": 0.8404499833926765, "category": "power"}

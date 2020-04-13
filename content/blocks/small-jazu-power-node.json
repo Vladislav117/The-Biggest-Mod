@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jazu power node", "description": "...", "size": 1, "health": 25, "requirements": [{"item": "jazu", "amount": 4}, {"item": "tozokinium", "amount": 8}, {"item": "yajawa", "amount": 8}], "research": "jazu-factory", "maxNodes": 21, "laserRange": 19, "category": "power"}

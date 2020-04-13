@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vuyenium battery", "description": "...", "size": 3, "health": 10, "requirements": [{"item": "vuyenium", "amount": 19}, {"item": "gidu", "amount": 6}, {"item": "noqewy", "amount": 9}], "research": "vuyenium-factory", "consumes": {"powerBuffered": 3358}, "category": "power"}

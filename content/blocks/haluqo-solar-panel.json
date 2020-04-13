@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "haluqo solar panel", "description": "...", "size": 3, "health": 121, "requirements": [{"item": "haluqo", "amount": 14}, {"item": "powidu", "amount": 15}, {"item": "felu", "amount": 8}], "research": "haluqo-factory", "powerProduction": 0.9221154784460331, "category": "power"}

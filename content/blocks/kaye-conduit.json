@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kaye conduit", "description": "...", "health": 26, "requirements": [{"item": "kaye", "amount": 16}, {"item": "rebugunium", "amount": 15}, {"item": "qepyvonium", "amount": 10}], "liquidCapacity": 27, "liquidPressure": 8, "research": "kaye-factory", "category": "liquid"}

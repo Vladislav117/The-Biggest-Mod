@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nyli power node", "description": "...", "size": 2, "health": 260, "requirements": [{"item": "nyli", "amount": 19}, {"item": "xizejinium", "amount": 8}, {"item": "haxi", "amount": 6}], "research": "nyli-factory", "maxNodes": 26, "laserRange": 13, "category": "power"}

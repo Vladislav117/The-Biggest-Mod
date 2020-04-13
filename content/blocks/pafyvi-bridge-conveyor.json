@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pafyvi bridge conveyor", "description": "", "health": 38, "range": 16, "speed": 17, "bufferCapacity": 10, "requirements": [{"item": "pafyvi", "amount": 1}, {"item": "dyhyzy", "amount": 3}], "research": "pafyvi-conveyor", "category": "distribution", "size": 1}

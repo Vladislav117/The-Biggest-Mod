@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dywusunium power node", "description": "...", "size": 2, "health": 249, "requirements": [{"item": "dywusunium", "amount": 5}, {"item": "fahi", "amount": 5}, {"item": "wyri", "amount": 3}], "research": "dywusunium-factory", "maxNodes": 44, "laserRange": 26, "category": "power"}

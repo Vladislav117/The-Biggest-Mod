@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yepi underflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "yepi", "amount": 2}, {"item": "kokidenium", "amount": 2}], "research": "yepi-conveyor", "category": "distribution", "invert": false}

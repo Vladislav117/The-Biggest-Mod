@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xekota sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "xekota", "amount": 2}, {"item": "graphite", "amount": 5}], "research": "xekota-conveyor", "category": "distribution", "invert": false}

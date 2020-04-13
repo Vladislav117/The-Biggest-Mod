@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nexacunium conduit", "description": "...", "health": 118, "requirements": [{"item": "nexacunium", "amount": 19}, {"item": "kyje", "amount": 20}, {"item": "laso", "amount": 7}], "liquidCapacity": 22, "liquidPressure": 1, "research": "nexacunium-factory", "category": "liquid"}

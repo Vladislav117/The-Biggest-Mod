@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "humidu conduit", "description": "...", "health": 112, "requirements": [{"item": "humidu", "amount": 12}, {"item": "niyi", "amount": 2}, {"item": "bilyvanium", "amount": 1}], "liquidCapacity": 31, "liquidPressure": 1, "research": "humidu-factory", "category": "liquid"}

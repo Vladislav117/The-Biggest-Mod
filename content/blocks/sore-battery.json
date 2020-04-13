@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sore battery", "description": "...", "size": 3, "health": 336, "requirements": [{"item": "sore", "amount": 19}, {"item": "syteja", "amount": 3}, {"item": "kubi", "amount": 10}], "research": "sore-factory", "consumes": {"powerBuffered": 9379}, "category": "power"}

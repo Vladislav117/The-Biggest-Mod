@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lopiso overflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "lopiso", "amount": 3}, {"item": "zogeno", "amount": 4}], "research": "lopiso-conveyor", "category": "distribution", "invert": false}

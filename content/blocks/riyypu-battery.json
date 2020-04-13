@@ -1,0 +1,1 @@
+{"type": "battery", "name": "riyypu battery", "description": "...", "size": 3, "health": 397, "requirements": [{"item": "riyypu", "amount": 10}, {"item": "tate", "amount": 2}, {"item": "vycici", "amount": 5}], "research": "riyypu-factory", "consumes": {"powerBuffered": 870}, "category": "power"}

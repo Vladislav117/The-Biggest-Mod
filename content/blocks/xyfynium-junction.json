@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xyfynium junction", "description": "...", "health": 4, "speed": 10, "capacity": 4, "size": 1, "requirements": [{"item": "xyfynium", "amount": 2}, {"item": "birynium", "amount": 2}], "research": "xyfynium-conveyor", "category": "distribution"}

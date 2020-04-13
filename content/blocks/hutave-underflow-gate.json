@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hutave underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "hutave", "amount": 5}, {"item": "wamu", "amount": 2}], "research": "hutave-conveyor", "category": "distribution", "invert": false}

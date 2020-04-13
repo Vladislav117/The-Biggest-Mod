@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pubanium power node", "description": "...", "size": 2, "health": 237, "requirements": [{"item": "pubanium", "amount": 18}, {"item": "cupyvu", "amount": 18}, {"item": "dyzaxi", "amount": 1}], "research": "pubanium-factory", "maxNodes": 60, "laserRange": 17, "category": "power"}

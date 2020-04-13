@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bajafa power node", "description": "...", "size": 2, "health": 37, "requirements": [{"item": "bajafa", "amount": 3}, {"item": "cihihenium", "amount": 7}, {"item": "dyguzu", "amount": 2}], "research": "bajafa-factory", "maxNodes": 50, "laserRange": 6, "category": "power"}

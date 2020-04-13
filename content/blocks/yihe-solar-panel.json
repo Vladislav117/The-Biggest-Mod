@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yihe solar panel", "description": "...", "size": 3, "health": 35, "requirements": [{"item": "yihe", "amount": 18}, {"item": "qacu", "amount": 20}, {"item": "gobenium", "amount": 2}], "research": "yihe-factory", "powerProduction": 0.895811768673447, "category": "power"}

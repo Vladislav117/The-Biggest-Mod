@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zatire conduit", "description": "...", "health": 30, "requirements": [{"item": "zatire", "amount": 15}, {"item": "gonu", "amount": 7}, {"item": "laho", "amount": 3}], "liquidCapacity": 15, "liquidPressure": 7, "research": "zatire-factory", "category": "liquid"}

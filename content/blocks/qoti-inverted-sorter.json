@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qoti inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "qoti", "amount": 2}, {"item": "totunenium", "amount": 2}], "research": "qoti-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "zocumo overdrive projector", "description": "...", "health": 89, "consumes": {"power": 3.0, "item": "zocumo"}, "size": 2, "requirements": [{"item": "zocumo", "amount": 12}, {"item": "duwo", "amount": 4}, {"item": "waka", "amount": 3}], "research": "zocumo-factory", "category": "effect"}

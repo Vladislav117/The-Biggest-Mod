@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hymafa battery", "description": "...", "size": 3, "health": 119, "requirements": [{"item": "hymafa", "amount": 9}, {"item": "womisa", "amount": 3}, {"item": "qiyy", "amount": 3}], "research": "hymafa-factory", "consumes": {"powerBuffered": 7431}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "copa liquid tank", "description": "...", "health": 551, "size": 3, "requirements": [{"item": "copa", "amount": 10}, {"item": "vykuzo", "amount": 1}, {"item": "saze", "amount": 8}], "research": "copa-conduit", "category": "liquid", "liquidCapacity": 73133, "hasLiquids": true}

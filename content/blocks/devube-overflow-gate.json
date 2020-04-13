@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "devube overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "devube", "amount": 3}, {"item": "rytysynium", "amount": 3}], "research": "devube-conveyor", "category": "distribution", "invert": false}

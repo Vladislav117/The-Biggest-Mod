@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kura solar panel", "description": "...", "size": 3, "health": 16, "requirements": [{"item": "kura", "amount": 9}, {"item": "waha", "amount": 9}, {"item": "meke", "amount": 9}], "research": "kura-factory", "powerProduction": 19.318240203628946, "category": "power"}

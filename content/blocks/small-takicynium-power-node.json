@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small takicynium power node", "description": "...", "size": 1, "health": 171, "requirements": [{"item": "takicynium", "amount": 13}, {"item": "merule", "amount": 12}, {"item": "yoty", "amount": 7}], "research": "takicynium-factory", "maxNodes": 27, "laserRange": 14, "category": "power"}

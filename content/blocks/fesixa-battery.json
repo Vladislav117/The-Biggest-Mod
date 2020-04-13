@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fesixa battery", "description": "...", "size": 3, "health": 27, "requirements": [{"item": "fesixa", "amount": 6}, {"item": "xyco", "amount": 11}, {"item": "nevyle", "amount": 1}], "research": "fesixa-factory", "consumes": {"powerBuffered": 739}, "category": "power"}

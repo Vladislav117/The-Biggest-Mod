@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qiqole conduit", "description": "...", "health": 137, "requirements": [{"item": "qiqole", "amount": 9}, {"item": "velyma", "amount": 16}, {"item": "hysivi", "amount": 2}], "liquidCapacity": 2, "liquidPressure": 2, "research": "qiqole-factory", "category": "liquid"}

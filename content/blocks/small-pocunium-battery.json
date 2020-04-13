@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pocunium battery", "description": "...", "size": 1, "health": 133, "requirements": [{"item": "pocunium", "amount": 19}, {"item": "pixuhynium", "amount": 12}, {"item": "cymaca", "amount": 5}], "research": "pocunium-factory", "consumes": {"powerBuffered": 2873}, "category": "power"}

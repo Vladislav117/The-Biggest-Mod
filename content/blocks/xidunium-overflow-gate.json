@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xidunium overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "xidunium", "amount": 5}, {"item": "yaxuda", "amount": 2}], "research": "xidunium-conveyor", "category": "distribution", "invert": false}

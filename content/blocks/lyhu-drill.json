@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lyhu drill", "description": "...", "size": 4, "health": 321, "tier": 3, "drillTime": 5, "consumes": {"power": 19}, "requirements": [{"item": "lyhu", "amount": 18}, {"item": "pavanium", "amount": 14}, {"item": "nupu", "amount": 6}], "research": "lyhu-factory", "category": "production"}

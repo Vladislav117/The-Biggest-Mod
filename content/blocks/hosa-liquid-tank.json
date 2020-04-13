@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hosa liquid tank", "description": "...", "health": 618, "size": 3, "requirements": [{"item": "hosa", "amount": 10}, {"item": "yape", "amount": 5}, {"item": "rutiri", "amount": 4}], "research": "hosa-conduit", "category": "liquid", "liquidCapacity": 56326, "hasLiquids": true}

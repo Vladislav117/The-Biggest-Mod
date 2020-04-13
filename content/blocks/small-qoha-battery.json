@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qoha battery", "description": "...", "size": 1, "health": 271, "requirements": [{"item": "qoha", "amount": 14}, {"item": "syre", "amount": 9}, {"item": "vawybo", "amount": 2}], "research": "qoha-factory", "consumes": {"powerBuffered": 1725}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cypamy underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "cypamy", "amount": 2}, {"item": "cabyzo", "amount": 1}], "research": "cypamy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "geqa battery", "description": "...", "size": 3, "health": 162, "requirements": [{"item": "geqa", "amount": 10}, {"item": "maqa", "amount": 13}, {"item": "wycumu", "amount": 5}], "research": "geqa-factory", "consumes": {"powerBuffered": 1822}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wovi solar panel", "description": "...", "size": 3, "health": 179, "requirements": [{"item": "wovi", "amount": 7}, {"item": "tegizunium", "amount": 19}, {"item": "xaji", "amount": 5}], "research": "wovi-factory", "powerProduction": 3.225517998468172, "category": "power"}

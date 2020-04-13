@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zily power node", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "zily", "amount": 16}, {"item": "cyyenium", "amount": 14}, {"item": "hoqade", "amount": 4}], "research": "zily-factory", "maxNodes": 10, "laserRange": 10, "category": "power"}

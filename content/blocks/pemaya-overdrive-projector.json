@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "pemaya overdrive projector", "description": "...", "health": 115, "consumes": {"power": 3.0, "item": "pemaya"}, "size": 2, "requirements": [{"item": "pemaya", "amount": 5}, {"item": "yobito", "amount": 9}, {"item": "yisi", "amount": 2}], "research": "pemaya-factory", "category": "effect"}

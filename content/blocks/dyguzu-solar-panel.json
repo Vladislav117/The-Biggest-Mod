@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dyguzu solar panel", "description": "...", "size": 3, "health": 242, "requirements": [{"item": "dyguzu", "amount": 11}, {"item": "gokiyi", "amount": 8}, {"item": "jyxexi", "amount": 4}], "research": "dyguzu-factory", "powerProduction": 3.5430384468502556, "category": "power"}

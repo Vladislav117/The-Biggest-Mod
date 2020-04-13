@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vitifi sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "vitifi", "amount": 2}, {"item": "jyryze", "amount": 1}], "research": "vitifi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fino power node", "description": "...", "size": 2, "health": 752, "requirements": [{"item": "fino", "amount": 11}, {"item": "fusyle", "amount": 19}, {"item": "moje", "amount": 2}], "research": "fino-factory", "maxNodes": 21, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xybi underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "xybi", "amount": 5}, {"item": "dizuqo", "amount": 1}], "research": "xybi-conveyor", "category": "distribution", "invert": false}

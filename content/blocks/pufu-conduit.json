@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pufu conduit", "description": "...", "health": 60, "requirements": [{"item": "pufu", "amount": 11}, {"item": "yake", "amount": 12}, {"item": "mififi", "amount": 10}], "liquidCapacity": 37, "liquidPressure": 5, "research": "pufu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dupode liquid tank", "description": "...", "health": 578, "size": 3, "requirements": [{"item": "dupode", "amount": 2}, {"item": "lyva", "amount": 17}, {"item": "lesoxonium", "amount": 1}], "research": "dupode-conduit", "category": "liquid", "liquidCapacity": 109110, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lekekenium power node", "description": "...", "size": 2, "health": 352, "requirements": [{"item": "lekekenium", "amount": 10}, {"item": "gyzuju", "amount": 13}, {"item": "nagu", "amount": 4}], "research": "lekekenium-factory", "maxNodes": 52, "laserRange": 12, "category": "power"}

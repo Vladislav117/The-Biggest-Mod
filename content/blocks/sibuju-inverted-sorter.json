@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sibuju inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "sibuju", "amount": 5}, {"item": "qoviganium", "amount": 2}], "research": "sibuju-conveyor", "category": "distribution", "invert": true}

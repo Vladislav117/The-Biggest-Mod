@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gypupe sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "gypupe", "amount": 4}, {"item": "docinium", "amount": 3}], "research": "gypupe-conveyor", "category": "distribution", "invert": false}

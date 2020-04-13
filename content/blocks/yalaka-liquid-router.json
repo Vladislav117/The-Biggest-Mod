@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yalaka liquid router", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "yalaka", "amount": 2}, {"item": "yalaka", "amount": 4}, {"item": "vego", "amount": 5}], "research": "yalaka-conduit", "liquidCapacity": 10, "category": "liquid"}

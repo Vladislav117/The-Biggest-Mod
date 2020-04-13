@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nyli power node", "description": "...", "size": 1, "health": 226, "requirements": [{"item": "nyli", "amount": 3}, {"item": "tifi", "amount": 17}, {"item": "hogazanium", "amount": 2}], "research": "nyli-factory", "maxNodes": 25, "laserRange": 16, "category": "power"}

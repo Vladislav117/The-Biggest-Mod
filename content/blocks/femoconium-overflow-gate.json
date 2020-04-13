@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "femoconium overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "femoconium", "amount": 5}, {"item": "goduji", "amount": 3}], "research": "femoconium-conveyor", "category": "distribution", "invert": false}

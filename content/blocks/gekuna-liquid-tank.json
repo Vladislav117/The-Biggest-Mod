@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gekuna liquid tank", "description": "...", "health": 349, "size": 3, "requirements": [{"item": "gekuna", "amount": 15}, {"item": "yirere", "amount": 4}, {"item": "tefipi", "amount": 10}], "research": "gekuna-conduit", "category": "liquid", "liquidCapacity": 115173, "hasLiquids": true}

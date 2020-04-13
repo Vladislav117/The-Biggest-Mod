@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mubu solar panel", "description": "...", "size": 1, "health": 256, "requirements": [{"item": "mubu", "amount": 7}, {"item": "norydo", "amount": 14}, {"item": "sagenium", "amount": 5}], "research": "mubu-factory", "powerProduction": 3.288855505241525, "category": "power"}

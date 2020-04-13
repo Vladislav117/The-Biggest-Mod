@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ridu power node", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "ridu", "amount": 5}, {"item": "kurecanium", "amount": 18}, {"item": "bajenium", "amount": 9}], "research": "ridu-factory", "maxNodes": 2, "laserRange": 23, "category": "power"}

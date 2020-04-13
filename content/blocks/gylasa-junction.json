@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gylasa junction", "description": "...", "health": 33, "speed": 9, "capacity": 12, "size": 1, "requirements": [{"item": "gylasa", "amount": 1}, {"item": "xogy", "amount": 2}], "research": "gylasa-conveyor", "category": "distribution"}

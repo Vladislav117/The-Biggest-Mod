@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rubahonium conduit", "description": "...", "health": 124, "requirements": [{"item": "rubahonium", "amount": 16}, {"item": "zatukunium", "amount": 20}, {"item": "bawy", "amount": 3}], "liquidCapacity": 26, "liquidPressure": 10, "research": "rubahonium-factory", "category": "liquid"}

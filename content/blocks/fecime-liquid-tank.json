@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fecime liquid tank", "description": "...", "health": 138, "size": 3, "requirements": [{"item": "fecime", "amount": 20}, {"item": "hagi", "amount": 17}, {"item": "cuha", "amount": 6}], "research": "fecime-conduit", "category": "liquid", "liquidCapacity": 28005, "hasLiquids": true}

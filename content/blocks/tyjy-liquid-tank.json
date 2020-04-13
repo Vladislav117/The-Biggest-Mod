@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tyjy liquid tank", "description": "...", "health": 619, "size": 3, "requirements": [{"item": "tyjy", "amount": 13}, {"item": "yaly", "amount": 3}, {"item": "buyogenium", "amount": 8}], "research": "tyjy-conduit", "category": "liquid", "liquidCapacity": 73703, "hasLiquids": true}

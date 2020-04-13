@@ -1,0 +1,1 @@
+{"type": "junction", "name": "simiwi junction", "description": "...", "health": 30, "speed": 3, "capacity": 16, "size": 1, "requirements": [{"item": "simiwi", "amount": 3}, {"item": "kefy", "amount": 1}], "research": "simiwi-conveyor", "category": "distribution"}

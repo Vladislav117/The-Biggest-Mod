@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "winynium solar panel", "description": "...", "size": 3, "health": 182, "requirements": [{"item": "winynium", "amount": 19}, {"item": "misu", "amount": 6}, {"item": "qasoji", "amount": 7}], "research": "winynium-factory", "powerProduction": 0.040530698697125014, "category": "power"}

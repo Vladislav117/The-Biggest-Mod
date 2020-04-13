@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "puzanium liquid router", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "puzanium", "amount": 20}, {"item": "fahi", "amount": 9}, {"item": "muti", "amount": 4}], "research": "puzanium-conduit", "liquidCapacity": 10, "category": "liquid"}

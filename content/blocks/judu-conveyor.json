@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "judu conveyor", "description": "...", "health": 222, "requirements": [{"item": "judu", "amount": 2}, {"item": "mawanium", "amount": 5}], "speed": 0.24029612065372397, "research": "judu-factory", "category": "distribution"}

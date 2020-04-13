@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yusica liquid tank", "description": "...", "health": 322, "size": 3, "requirements": [{"item": "yusica", "amount": 12}, {"item": "zele", "amount": 13}, {"item": "qipy", "amount": 7}], "research": "yusica-conduit", "category": "liquid", "liquidCapacity": 111849, "hasLiquids": true}

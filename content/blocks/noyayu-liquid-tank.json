@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "noyayu liquid tank", "description": "...", "health": 227, "size": 3, "requirements": [{"item": "noyayu", "amount": 2}, {"item": "zemyca", "amount": 19}, {"item": "syjilanium", "amount": 2}], "research": "noyayu-conduit", "category": "liquid", "liquidCapacity": 58435, "hasLiquids": true}

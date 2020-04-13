@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qegu solar panel", "description": "...", "size": 1, "health": 140, "requirements": [{"item": "qegu", "amount": 13}, {"item": "wuronium", "amount": 10}, {"item": "wyri", "amount": 4}], "research": "qegu-factory", "powerProduction": 0.9765787788268745, "category": "power"}

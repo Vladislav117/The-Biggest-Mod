@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jide solar panel", "description": "...", "size": 1, "health": 131, "requirements": [{"item": "jide", "amount": 13}, {"item": "nekyse", "amount": 7}, {"item": "resi", "amount": 4}], "research": "jide-factory", "powerProduction": 0.20013833130300773, "category": "power"}

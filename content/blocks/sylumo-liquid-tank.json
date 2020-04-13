@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sylumo liquid tank", "description": "...", "health": 597, "size": 3, "requirements": [{"item": "sylumo", "amount": 18}, {"item": "kupanium", "amount": 18}, {"item": "hasu", "amount": 10}], "research": "sylumo-conduit", "category": "liquid", "liquidCapacity": 13365, "hasLiquids": true}

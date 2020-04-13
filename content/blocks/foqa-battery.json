@@ -1,0 +1,1 @@
+{"type": "battery", "name": "foqa battery", "description": "...", "size": 3, "health": 89, "requirements": [{"item": "foqa", "amount": 19}, {"item": "jozu", "amount": 8}, {"item": "balyvo", "amount": 10}], "research": "foqa-factory", "consumes": {"powerBuffered": 8259}, "category": "power"}

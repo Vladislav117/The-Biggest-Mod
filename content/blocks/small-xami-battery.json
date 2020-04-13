@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xami battery", "description": "...", "size": 1, "health": 315, "requirements": [{"item": "xami", "amount": 11}, {"item": "bube", "amount": 5}, {"item": "lebu", "amount": 10}], "research": "xami-factory", "consumes": {"powerBuffered": 1764}, "category": "power"}

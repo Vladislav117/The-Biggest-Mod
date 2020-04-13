@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wabi battery", "description": "...", "size": 1, "health": 253, "requirements": [{"item": "wabi", "amount": 1}, {"item": "luvonium", "amount": 5}, {"item": "nigu", "amount": 7}], "research": "wabi-factory", "consumes": {"powerBuffered": 1094}, "category": "power"}

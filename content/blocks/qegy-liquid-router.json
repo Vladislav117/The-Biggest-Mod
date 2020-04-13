@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qegy liquid router", "description": "...", "size": 1, "health": 18, "requirements": [{"item": "qegy", "amount": 7}, {"item": "sezuke", "amount": 6}, {"item": "kepexe", "amount": 9}], "research": "qegy-conduit", "liquidCapacity": 10, "category": "liquid"}

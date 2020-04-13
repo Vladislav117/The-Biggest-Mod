@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qawi solar panel", "description": "...", "size": 1, "health": 396, "requirements": [{"item": "qawi", "amount": 5}, {"item": "kuku", "amount": 17}, {"item": "zesaqy", "amount": 1}], "research": "qawi-factory", "powerProduction": 5.225754555376263, "category": "power"}

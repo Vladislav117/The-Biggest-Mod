@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wisy bridge conveyor", "description": "", "health": 22, "range": 2, "speed": 5, "bufferCapacity": 6, "requirements": [{"item": "wisy", "amount": 4}, {"item": "silicon", "amount": 4}], "research": "wisy-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kado battery", "description": "...", "size": 3, "health": 163, "requirements": [{"item": "kado", "amount": 5}, {"item": "zyfita", "amount": 12}, {"item": "sovuqu", "amount": 6}], "research": "kado-factory", "consumes": {"powerBuffered": 3475}, "category": "power"}

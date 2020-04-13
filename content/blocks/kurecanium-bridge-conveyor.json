@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kurecanium bridge conveyor", "description": "", "health": 9, "range": 16, "speed": 5, "bufferCapacity": 15, "requirements": [{"item": "kurecanium", "amount": 2}, {"item": "xeye", "amount": 1}], "research": "kurecanium-conveyor", "category": "distribution", "size": 1}

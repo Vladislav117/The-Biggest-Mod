@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zahaqa drill", "description": "...", "size": 2, "health": 275, "tier": 4, "drillTime": 8, "consumes": {"power": 10}, "requirements": [{"item": "zahaqa", "amount": 18}, {"item": "kaqyla", "amount": 10}, {"item": "vyma", "amount": 2}], "research": "zahaqa-factory", "category": "production"}

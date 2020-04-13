@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "famo solar panel", "description": "...", "size": 3, "health": 370, "requirements": [{"item": "famo", "amount": 19}, {"item": "wabaru", "amount": 13}, {"item": "boko", "amount": 10}], "research": "famo-factory", "powerProduction": 0.5014286673156579, "category": "power"}

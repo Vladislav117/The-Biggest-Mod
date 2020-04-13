@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "culy power node", "description": "...", "size": 2, "health": 159, "requirements": [{"item": "culy", "amount": 11}, {"item": "jewa", "amount": 9}, {"item": "cydeyy", "amount": 3}], "research": "culy-factory", "maxNodes": 54, "laserRange": 21, "category": "power"}

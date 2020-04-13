@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "padi inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "padi", "amount": 5}, {"item": "layyzynium", "amount": 3}], "research": "padi-conveyor", "category": "distribution", "invert": true}

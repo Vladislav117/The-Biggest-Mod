@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kymu conduit", "description": "...", "health": 160, "requirements": [{"item": "kymu", "amount": 1}, {"item": "pify", "amount": 17}, {"item": "tyjexanium", "amount": 7}], "liquidCapacity": 37, "liquidPressure": 0, "research": "kymu-factory", "category": "liquid"}

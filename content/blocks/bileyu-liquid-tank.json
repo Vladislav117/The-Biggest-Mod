@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bileyu liquid tank", "description": "...", "health": 206, "size": 3, "requirements": [{"item": "bileyu", "amount": 4}, {"item": "seca", "amount": 8}, {"item": "higy", "amount": 1}], "research": "bileyu-conduit", "category": "liquid", "liquidCapacity": 109176, "hasLiquids": true}

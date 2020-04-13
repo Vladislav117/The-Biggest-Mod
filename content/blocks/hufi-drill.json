@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hufi drill", "description": "...", "size": 2, "health": 425, "tier": 1, "drillTime": 16, "consumes": {"power": 1}, "requirements": [{"item": "hufi", "amount": 4}, {"item": "degesy", "amount": 17}, {"item": "qutonium", "amount": 8}], "research": "hufi-factory", "category": "production"}

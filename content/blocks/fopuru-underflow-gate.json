@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fopuru underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "fopuru", "amount": 4}, {"item": "kynesi", "amount": 2}], "research": "fopuru-conveyor", "category": "distribution", "invert": false}

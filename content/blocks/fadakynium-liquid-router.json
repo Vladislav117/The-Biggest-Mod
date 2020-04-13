@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fadakynium liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "fadakynium", "amount": 7}, {"item": "rivy", "amount": 19}, {"item": "qeconium", "amount": 5}], "research": "fadakynium-conduit", "liquidCapacity": 10, "category": "liquid"}

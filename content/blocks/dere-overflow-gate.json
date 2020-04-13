@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dere overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "dere", "amount": 2}, {"item": "viqi", "amount": 2}], "research": "dere-conveyor", "category": "distribution", "invert": false}

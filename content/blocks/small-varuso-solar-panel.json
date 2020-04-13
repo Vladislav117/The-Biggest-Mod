@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small varuso solar panel", "description": "...", "size": 1, "health": 348, "requirements": [{"item": "varuso", "amount": 15}, {"item": "peno", "amount": 17}, {"item": "rycara", "amount": 5}], "research": "varuso-factory", "powerProduction": 1.8301549021720491, "category": "power"}

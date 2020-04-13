@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "daxa power node", "description": "...", "size": 2, "health": 682, "requirements": [{"item": "daxa", "amount": 13}, {"item": "majo", "amount": 5}, {"item": "lyfydy", "amount": 2}], "research": "daxa-factory", "maxNodes": 15, "laserRange": 10, "category": "power"}

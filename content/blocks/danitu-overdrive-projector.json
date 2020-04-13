@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "danitu overdrive projector", "description": "...", "health": 79, "consumes": {"power": 3.0, "item": "danitu"}, "size": 2, "requirements": [{"item": "danitu", "amount": 6}, {"item": "gineta", "amount": 18}, {"item": "yynuqu", "amount": 6}], "research": "danitu-factory", "category": "effect"}

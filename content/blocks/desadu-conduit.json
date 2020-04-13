@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "desadu conduit", "description": "...", "health": 92, "requirements": [{"item": "desadu", "amount": 5}, {"item": "nehudo", "amount": 5}, {"item": "wyri", "amount": 8}], "liquidCapacity": 5, "liquidPressure": 0, "research": "desadu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "siyenium sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "siyenium", "amount": 5}, {"item": "yesolonium", "amount": 5}], "research": "siyenium-conveyor", "category": "distribution", "invert": false}

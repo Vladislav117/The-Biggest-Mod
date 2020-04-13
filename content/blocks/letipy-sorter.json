@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "letipy sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "letipy", "amount": 2}, {"item": "zuvy", "amount": 5}], "research": "letipy-conveyor", "category": "distribution", "invert": false}

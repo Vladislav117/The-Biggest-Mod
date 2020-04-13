@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tedi liquid tank", "description": "...", "health": 238, "size": 3, "requirements": [{"item": "tedi", "amount": 16}, {"item": "beyo", "amount": 12}, {"item": "rukonium", "amount": 1}], "research": "tedi-conduit", "category": "liquid", "liquidCapacity": 102887, "hasLiquids": true}

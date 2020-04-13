@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wecoci underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "wecoci", "amount": 1}, {"item": "macurenium", "amount": 1}], "research": "wecoci-conveyor", "category": "distribution", "invert": false}

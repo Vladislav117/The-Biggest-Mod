@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vujunium solar panel", "description": "...", "size": 1, "health": 252, "requirements": [{"item": "vujunium", "amount": 17}, {"item": "delysinium", "amount": 2}, {"item": "nunaby", "amount": 8}], "research": "vujunium-factory", "powerProduction": 13.635853070724364, "category": "power"}

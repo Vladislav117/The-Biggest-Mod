@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hixu drill", "description": "...", "size": 4, "health": 328, "tier": 2, "drillTime": 1, "consumes": {"power": 4}, "requirements": [{"item": "hixu", "amount": 11}, {"item": "julynium", "amount": 19}, {"item": "zija", "amount": 10}], "research": "hixu-factory", "category": "production"}

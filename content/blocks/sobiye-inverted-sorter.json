@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sobiye inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "sobiye", "amount": 4}, {"item": "dagepanium", "amount": 5}], "research": "sobiye-conveyor", "category": "distribution", "invert": true}

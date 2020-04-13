@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sygoqu conduit", "description": "...", "health": 77, "requirements": [{"item": "sygoqu", "amount": 4}, {"item": "rymojanium", "amount": 9}, {"item": "nyboye", "amount": 7}], "liquidCapacity": 30, "liquidPressure": 9, "research": "sygoqu-factory", "category": "liquid"}

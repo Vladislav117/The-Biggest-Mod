@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small siwi power node", "description": "...", "size": 1, "health": 164, "requirements": [{"item": "siwi", "amount": 18}, {"item": "yipobe", "amount": 3}, {"item": "kuxevy", "amount": 5}], "research": "siwi-factory", "maxNodes": 12, "laserRange": 14, "category": "power"}

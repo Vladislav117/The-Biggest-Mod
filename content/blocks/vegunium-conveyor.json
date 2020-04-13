@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "vegunium conveyor", "description": "...", "health": 78, "requirements": [{"item": "vegunium", "amount": 7}, {"item": "kabivi", "amount": 7}], "speed": 0.2964665889156956, "research": "vegunium-factory", "category": "distribution"}

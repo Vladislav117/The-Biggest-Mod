@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pocunium solar panel", "description": "...", "size": 3, "health": 144, "requirements": [{"item": "pocunium", "amount": 7}, {"item": "semy", "amount": 17}, {"item": "zypiqi", "amount": 2}], "research": "pocunium-factory", "powerProduction": 7.85773423385737, "category": "power"}

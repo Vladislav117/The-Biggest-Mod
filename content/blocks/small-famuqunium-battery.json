@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small famuqunium battery", "description": "...", "size": 1, "health": 232, "requirements": [{"item": "famuqunium", "amount": 19}, {"item": "qetyginium", "amount": 13}, {"item": "hisoye", "amount": 2}], "research": "famuqunium-factory", "consumes": {"powerBuffered": 2671}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "duginium solar panel", "description": "...", "size": 3, "health": 66, "requirements": [{"item": "duginium", "amount": 3}, {"item": "ryjy", "amount": 8}, {"item": "xavayu", "amount": 6}], "research": "duginium-factory", "powerProduction": 1.3036264880225235, "category": "power"}

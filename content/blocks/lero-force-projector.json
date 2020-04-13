@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "lero force projector", "description": "...", "health": 197, "size": 3, "consumes": {"power": 5.0, "item": "lero"}, "requirements": [{"item": "lero", "amount": 11}, {"item": "fasi", "amount": 6}, {"item": "pigagunium", "amount": 2}], "research": "lero-factory", "category": "effect"}

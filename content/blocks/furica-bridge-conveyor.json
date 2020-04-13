@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "furica bridge conveyor", "description": "", "health": 16, "range": 16, "speed": 19, "bufferCapacity": 2, "requirements": [{"item": "furica", "amount": 3}, {"item": "ryti", "amount": 2}], "research": "furica-conveyor", "category": "distribution", "size": 1}

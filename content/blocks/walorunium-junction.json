@@ -1,0 +1,1 @@
+{"type": "junction", "name": "walorunium junction", "description": "...", "health": 8, "speed": 11, "capacity": 6, "size": 1, "requirements": [{"item": "walorunium", "amount": 3}, {"item": "turode", "amount": 1}], "research": "walorunium-conveyor", "category": "distribution"}

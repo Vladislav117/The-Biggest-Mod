@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "diha power node", "description": "...", "size": 2, "health": 509, "requirements": [{"item": "diha", "amount": 4}, {"item": "nefuxa", "amount": 20}, {"item": "milusunium", "amount": 3}], "research": "diha-factory", "maxNodes": 32, "laserRange": 15, "category": "power"}

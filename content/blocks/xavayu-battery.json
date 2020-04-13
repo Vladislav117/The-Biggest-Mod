@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xavayu battery", "description": "...", "size": 3, "health": 115, "requirements": [{"item": "xavayu", "amount": 13}, {"item": "cuwa", "amount": 7}, {"item": "ryzyzi", "amount": 7}], "research": "xavayu-factory", "consumes": {"powerBuffered": 4125}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "baranium overflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "baranium", "amount": 3}, {"item": "wozego", "amount": 3}], "research": "baranium-conveyor", "category": "distribution", "invert": false}

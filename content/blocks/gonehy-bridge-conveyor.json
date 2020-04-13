@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gonehy bridge conveyor", "description": "", "health": 25, "range": 11, "speed": 19, "bufferCapacity": 6, "requirements": [{"item": "gonehy", "amount": 3}, {"item": "yidude", "amount": 3}], "research": "gonehy-conveyor", "category": "distribution", "size": 1}

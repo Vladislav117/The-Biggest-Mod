@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "horyve drill", "description": "...", "size": 2, "health": 102, "tier": 1, "drillTime": 2, "consumes": {"power": 6}, "requirements": [{"item": "horyve", "amount": 17}, {"item": "tuxu", "amount": 13}, {"item": "fygunium", "amount": 7}], "research": "horyve-factory", "category": "production"}

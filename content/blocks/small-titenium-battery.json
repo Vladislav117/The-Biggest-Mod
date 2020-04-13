@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small titenium battery", "description": "...", "size": 1, "health": 360, "requirements": [{"item": "titenium", "amount": 16}, {"item": "fasaze", "amount": 15}, {"item": "moje", "amount": 4}], "research": "titenium-factory", "consumes": {"powerBuffered": 1172}, "category": "power"}

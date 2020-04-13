@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wifu solar panel", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "wifu", "amount": 3}, {"item": "ketanium", "amount": 1}, {"item": "nunanunium", "amount": 10}], "research": "wifu-factory", "powerProduction": 0.28089551703447957, "category": "power"}

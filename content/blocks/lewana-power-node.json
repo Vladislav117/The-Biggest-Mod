@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lewana power node", "description": "...", "size": 2, "health": 354, "requirements": [{"item": "lewana", "amount": 9}, {"item": "bixehy", "amount": 1}, {"item": "hexu", "amount": 3}], "research": "lewana-factory", "maxNodes": 49, "laserRange": 12, "category": "power"}

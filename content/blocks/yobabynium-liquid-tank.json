@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yobabynium liquid tank", "description": "...", "health": 308, "size": 3, "requirements": [{"item": "yobabynium", "amount": 2}, {"item": "pazanium", "amount": 20}, {"item": "byxyvi", "amount": 10}], "research": "yobabynium-conduit", "category": "liquid", "liquidCapacity": 68261, "hasLiquids": true}

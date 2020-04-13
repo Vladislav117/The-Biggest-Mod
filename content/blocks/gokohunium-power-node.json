@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gokohunium power node", "description": "...", "size": 2, "health": 131, "requirements": [{"item": "gokohunium", "amount": 3}, {"item": "padopu", "amount": 14}, {"item": "dyco", "amount": 9}], "research": "gokohunium-factory", "maxNodes": 13, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yypunium liquid tank", "description": "...", "health": 342, "size": 3, "requirements": [{"item": "yypunium", "amount": 13}, {"item": "zahaqa", "amount": 11}, {"item": "rigo", "amount": 9}], "research": "yypunium-conduit", "category": "liquid", "liquidCapacity": 18967, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small furymu solar panel", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "furymu", "amount": 7}, {"item": "pihybo", "amount": 18}, {"item": "becugi", "amount": 4}], "research": "furymu-factory", "powerProduction": 0.028125428803739153, "category": "power"}

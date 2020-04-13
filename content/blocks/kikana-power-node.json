@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kikana power node", "description": "...", "size": 2, "health": 584, "requirements": [{"item": "kikana", "amount": 6}, {"item": "pedy", "amount": 19}, {"item": "geguqi", "amount": 3}], "research": "kikana-factory", "maxNodes": 46, "laserRange": 10, "category": "power"}

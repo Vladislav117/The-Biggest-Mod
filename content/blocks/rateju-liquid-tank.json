@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rateju liquid tank", "description": "...", "health": 410, "size": 3, "requirements": [{"item": "rateju", "amount": 16}, {"item": "qepusenium", "amount": 2}, {"item": "lisaca", "amount": 1}], "research": "rateju-conduit", "category": "liquid", "liquidCapacity": 26713, "hasLiquids": true}

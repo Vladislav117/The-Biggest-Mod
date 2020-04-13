@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyto liquid tank", "description": "...", "health": 144, "size": 3, "requirements": [{"item": "fyto", "amount": 12}, {"item": "yijotu", "amount": 10}, {"item": "mepunium", "amount": 10}], "research": "fyto-conduit", "category": "liquid", "liquidCapacity": 71401, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "piqori conduit", "description": "...", "health": 80, "requirements": [{"item": "piqori", "amount": 16}, {"item": "dojynium", "amount": 9}, {"item": "qipy", "amount": 9}], "liquidCapacity": 17, "liquidPressure": 1, "research": "piqori-factory", "category": "liquid"}

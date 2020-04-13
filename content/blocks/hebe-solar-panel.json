@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hebe solar panel", "description": "...", "size": 3, "health": 393, "requirements": [{"item": "hebe", "amount": 10}, {"item": "tire", "amount": 10}, {"item": "sysone", "amount": 5}], "research": "hebe-factory", "powerProduction": 0.3087095572948365, "category": "power"}

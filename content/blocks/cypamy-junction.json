@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cypamy junction", "description": "...", "health": 15, "speed": 20, "capacity": 12, "size": 1, "requirements": [{"item": "cypamy", "amount": 4}, {"item": "keze", "amount": 3}], "research": "cypamy-conveyor", "category": "distribution"}

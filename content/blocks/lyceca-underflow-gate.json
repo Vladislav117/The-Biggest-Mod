@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lyceca underflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "lyceca", "amount": 4}, {"item": "fyfoni", "amount": 4}], "research": "lyceca-conveyor", "category": "distribution", "invert": false}

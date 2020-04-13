@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xicopo conduit", "description": "...", "health": 130, "requirements": [{"item": "xicopo", "amount": 13}, {"item": "ribuge", "amount": 16}, {"item": "hudolo", "amount": 10}], "liquidCapacity": 18, "liquidPressure": 5, "research": "xicopo-factory", "category": "liquid"}

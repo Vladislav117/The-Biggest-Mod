@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kimicy battery", "description": "...", "size": 3, "health": 253, "requirements": [{"item": "kimicy", "amount": 17}, {"item": "leju", "amount": 8}, {"item": "mififi", "amount": 9}], "research": "kimicy-factory", "consumes": {"powerBuffered": 2467}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fimacy liquid router", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "fimacy", "amount": 8}, {"item": "lelybe", "amount": 4}, {"item": "jazipynium", "amount": 6}], "research": "fimacy-conduit", "liquidCapacity": 10, "category": "liquid"}

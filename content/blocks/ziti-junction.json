@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ziti junction", "description": "...", "health": 16, "speed": 16, "capacity": 12, "size": 1, "requirements": [{"item": "ziti", "amount": 5}, {"item": "plastanium", "amount": 1}], "research": "ziti-conveyor", "category": "distribution"}

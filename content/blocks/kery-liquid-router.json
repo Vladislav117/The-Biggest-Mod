@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kery liquid router", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "kery", "amount": 1}, {"item": "reyezy", "amount": 20}, {"item": "pyce", "amount": 10}], "research": "kery-conduit", "liquidCapacity": 10, "category": "liquid"}

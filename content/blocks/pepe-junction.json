@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pepe junction", "description": "...", "health": 31, "speed": 4, "capacity": 13, "size": 1, "requirements": [{"item": "pepe", "amount": 4}, {"item": "tabi", "amount": 1}], "research": "pepe-conveyor", "category": "distribution"}

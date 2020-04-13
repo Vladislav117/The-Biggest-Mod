@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "liyavu power node", "description": "...", "size": 2, "health": 360, "requirements": [{"item": "liyavu", "amount": 6}, {"item": "nybaranium", "amount": 11}, {"item": "roky", "amount": 10}], "research": "liyavu-factory", "maxNodes": 32, "laserRange": 11, "category": "power"}

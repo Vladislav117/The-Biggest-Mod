@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "favonium underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "favonium", "amount": 5}, {"item": "tesolo", "amount": 5}], "research": "favonium-conveyor", "category": "distribution", "invert": false}

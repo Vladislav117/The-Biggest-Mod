@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zaxynium battery", "description": "...", "size": 3, "health": 271, "requirements": [{"item": "zaxynium", "amount": 20}, {"item": "lubenium", "amount": 8}, {"item": "xybimi", "amount": 3}], "research": "zaxynium-factory", "consumes": {"powerBuffered": 7544}, "category": "power"}

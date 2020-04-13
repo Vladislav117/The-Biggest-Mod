@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hohisi conduit", "description": "...", "health": 67, "requirements": [{"item": "hohisi", "amount": 12}, {"item": "loja", "amount": 9}, {"item": "tebi", "amount": 7}], "liquidCapacity": 50, "liquidPressure": 3, "research": "hohisi-factory", "category": "liquid"}

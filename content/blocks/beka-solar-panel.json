@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "beka solar panel", "description": "...", "size": 3, "health": 293, "requirements": [{"item": "beka", "amount": 20}, {"item": "vosamo", "amount": 3}, {"item": "nytina", "amount": 8}], "research": "beka-factory", "powerProduction": 0.9856990147011427, "category": "power"}

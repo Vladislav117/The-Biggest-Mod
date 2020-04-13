@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hufema solar panel", "description": "...", "size": 1, "health": 110, "requirements": [{"item": "hufema", "amount": 11}, {"item": "yunu", "amount": 8}, {"item": "surge-alloy", "amount": 2}], "research": "hufema-factory", "powerProduction": 0.4769684534821757, "category": "power"}

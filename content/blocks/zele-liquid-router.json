@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zele liquid router", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "zele", "amount": 15}, {"item": "ruteqa", "amount": 20}, {"item": "higy", "amount": 4}], "research": "zele-conduit", "liquidCapacity": 10, "category": "liquid"}

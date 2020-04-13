@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wony power node", "description": "...", "size": 1, "health": 361, "requirements": [{"item": "wony", "amount": 18}, {"item": "qiqike", "amount": 7}, {"item": "niruya", "amount": 7}], "research": "wony-factory", "maxNodes": 17, "laserRange": 24, "category": "power"}

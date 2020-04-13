@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "goxylo liquid tank", "description": "...", "health": 658, "size": 3, "requirements": [{"item": "goxylo", "amount": 19}, {"item": "guwinium", "amount": 19}, {"item": "bakiyy", "amount": 4}], "research": "goxylo-conduit", "category": "liquid", "liquidCapacity": 89534, "hasLiquids": true}

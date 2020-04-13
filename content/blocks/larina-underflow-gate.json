@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "larina underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "larina", "amount": 4}, {"item": "leloyi", "amount": 1}], "research": "larina-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pocunium power node", "description": "...", "size": 2, "health": 128, "requirements": [{"item": "pocunium", "amount": 1}, {"item": "qano", "amount": 13}, {"item": "leyoqo", "amount": 10}], "research": "pocunium-factory", "maxNodes": 51, "laserRange": 25, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cokigo bridge conveyor", "description": "", "health": 29, "range": 11, "speed": 16, "bufferCapacity": 18, "requirements": [{"item": "cokigo", "amount": 4}, {"item": "kilu", "amount": 3}], "research": "cokigo-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lolu liquid tank", "description": "...", "health": 340, "size": 3, "requirements": [{"item": "lolu", "amount": 3}, {"item": "juyy", "amount": 4}, {"item": "rehyce", "amount": 6}], "research": "lolu-conduit", "category": "liquid", "liquidCapacity": 111804, "hasLiquids": true}

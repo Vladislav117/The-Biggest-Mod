@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nogocynium solar panel", "description": "...", "size": 3, "health": 10, "requirements": [{"item": "nogocynium", "amount": 20}, {"item": "yify", "amount": 9}, {"item": "patyco", "amount": 1}], "research": "nogocynium-factory", "powerProduction": 7.9799300410737235, "category": "power"}

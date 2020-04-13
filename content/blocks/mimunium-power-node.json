@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mimunium power node", "description": "...", "size": 2, "health": 424, "requirements": [{"item": "mimunium", "amount": 4}, {"item": "bufywy", "amount": 9}, {"item": "fabese", "amount": 8}], "research": "mimunium-factory", "maxNodes": 15, "laserRange": 18, "category": "power"}

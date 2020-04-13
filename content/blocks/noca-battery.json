@@ -1,0 +1,1 @@
+{"type": "battery", "name": "noca battery", "description": "...", "size": 3, "health": 37, "requirements": [{"item": "noca", "amount": 2}, {"item": "zohura", "amount": 1}, {"item": "huci", "amount": 7}], "research": "noca-factory", "consumes": {"powerBuffered": 4283}, "category": "power"}

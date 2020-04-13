@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "damo solar panel", "description": "...", "size": 3, "health": 123, "requirements": [{"item": "damo", "amount": 12}, {"item": "xige", "amount": 12}, {"item": "zemo", "amount": 6}], "research": "damo-factory", "powerProduction": 0.028427736781374734, "category": "power"}

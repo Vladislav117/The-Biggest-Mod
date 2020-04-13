@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tove underflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "tove", "amount": 5}, {"item": "bufywy", "amount": 2}], "research": "tove-conveyor", "category": "distribution", "invert": false}

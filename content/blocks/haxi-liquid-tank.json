@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "haxi liquid tank", "description": "...", "health": 184, "size": 3, "requirements": [{"item": "haxi", "amount": 20}, {"item": "vakyxinium", "amount": 6}, {"item": "cuhynenium", "amount": 7}], "research": "haxi-conduit", "category": "liquid", "liquidCapacity": 76660, "hasLiquids": true}

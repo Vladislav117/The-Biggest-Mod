@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hysobe conduit", "description": "...", "health": 46, "requirements": [{"item": "hysobe", "amount": 12}, {"item": "hihunium", "amount": 5}, {"item": "wiba", "amount": 6}], "liquidCapacity": 5, "liquidPressure": 0, "research": "hysobe-factory", "category": "liquid"}

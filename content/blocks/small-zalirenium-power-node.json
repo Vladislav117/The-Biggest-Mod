@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zalirenium power node", "description": "...", "size": 1, "health": 52, "requirements": [{"item": "zalirenium", "amount": 2}, {"item": "sokima", "amount": 10}, {"item": "qokike", "amount": 2}], "research": "zalirenium-factory", "maxNodes": 3, "laserRange": 25, "category": "power"}

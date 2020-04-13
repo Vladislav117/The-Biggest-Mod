@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wepo liquid router", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "wepo", "amount": 9}, {"item": "betesa", "amount": 3}, {"item": "tasusynium", "amount": 10}], "research": "wepo-conduit", "liquidCapacity": 10, "category": "liquid"}

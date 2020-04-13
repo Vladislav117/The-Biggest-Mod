@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fuhixunium battery", "description": "...", "size": 3, "health": 127, "requirements": [{"item": "fuhixunium", "amount": 19}, {"item": "zenuwunium", "amount": 1}, {"item": "dekeko", "amount": 6}], "research": "fuhixunium-factory", "consumes": {"powerBuffered": 432}, "category": "power"}

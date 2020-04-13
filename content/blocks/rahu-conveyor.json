@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "rahu conveyor", "description": "...", "health": 194, "requirements": [{"item": "rahu", "amount": 4}, {"item": "sara", "amount": 10}], "speed": 0.3646072145066953, "research": "rahu-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "liyavu conduit", "description": "...", "health": 160, "requirements": [{"item": "liyavu", "amount": 1}, {"item": "voqa", "amount": 2}, {"item": "zajenium", "amount": 3}], "liquidCapacity": 3, "liquidPressure": 0, "research": "liyavu-factory", "category": "liquid"}

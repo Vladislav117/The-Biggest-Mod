@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tymofa solar panel", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "tymofa", "amount": 18}, {"item": "savi", "amount": 6}, {"item": "vykynium", "amount": 2}], "research": "tymofa-factory", "powerProduction": 0.5124806543816252, "category": "power"}

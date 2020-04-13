@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hikuda power node", "description": "...", "size": 2, "health": 656, "requirements": [{"item": "hikuda", "amount": 14}, {"item": "lahowe", "amount": 2}, {"item": "tasusynium", "amount": 6}], "research": "hikuda-factory", "maxNodes": 47, "laserRange": 6, "category": "power"}

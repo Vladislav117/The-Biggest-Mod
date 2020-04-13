@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "capa overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "capa", "amount": 3}, {"item": "puye", "amount": 3}], "research": "capa-conveyor", "category": "distribution", "invert": false}

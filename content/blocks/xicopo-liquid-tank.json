@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xicopo liquid tank", "description": "...", "health": 347, "size": 3, "requirements": [{"item": "xicopo", "amount": 7}, {"item": "kuwunium", "amount": 1}, {"item": "luyoyinium", "amount": 3}], "research": "xicopo-conduit", "category": "liquid", "liquidCapacity": 25401, "hasLiquids": true}

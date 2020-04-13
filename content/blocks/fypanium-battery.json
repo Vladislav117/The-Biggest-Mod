@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fypanium battery", "description": "...", "size": 3, "health": 91, "requirements": [{"item": "fypanium", "amount": 10}, {"item": "janinium", "amount": 12}, {"item": "vyhizu", "amount": 10}], "research": "fypanium-factory", "consumes": {"powerBuffered": 6122}, "category": "power"}

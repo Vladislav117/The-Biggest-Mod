@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wecoci liquid router", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "wecoci", "amount": 18}, {"item": "jalenium", "amount": 16}, {"item": "puti", "amount": 1}], "research": "wecoci-conduit", "liquidCapacity": 10, "category": "liquid"}

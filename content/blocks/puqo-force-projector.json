@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "puqo force projector", "description": "...", "health": 140, "size": 3, "consumes": {"power": 5.0, "item": "puqo"}, "requirements": [{"item": "puqo", "amount": 1}, {"item": "hicoxo", "amount": 20}, {"item": "kica", "amount": 1}], "research": "puqo-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kelyqi power node", "description": "...", "size": 2, "health": 564, "requirements": [{"item": "kelyqi", "amount": 13}, {"item": "weva", "amount": 4}, {"item": "roro", "amount": 7}], "research": "kelyqi-factory", "maxNodes": 51, "laserRange": 10, "category": "power"}

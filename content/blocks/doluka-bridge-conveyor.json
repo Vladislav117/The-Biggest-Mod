@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "doluka bridge conveyor", "description": "", "health": 2, "range": 20, "speed": 10, "bufferCapacity": 16, "requirements": [{"item": "doluka", "amount": 3}, {"item": "xuricy", "amount": 5}], "research": "doluka-conveyor", "category": "distribution", "size": 1}

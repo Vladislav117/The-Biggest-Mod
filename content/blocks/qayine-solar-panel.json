@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qayine solar panel", "description": "...", "size": 3, "health": 176, "requirements": [{"item": "qayine", "amount": 3}, {"item": "wygaki", "amount": 4}, {"item": "xece", "amount": 10}], "research": "qayine-factory", "powerProduction": 4.153809177801402, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ratapu liquid tank", "description": "...", "health": 278, "size": 3, "requirements": [{"item": "ratapu", "amount": 16}, {"item": "covikinium", "amount": 5}, {"item": "qepyvonium", "amount": 10}], "research": "ratapu-conduit", "category": "liquid", "liquidCapacity": 33817, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zeny power node", "description": "...", "size": 1, "health": 148, "requirements": [{"item": "zeny", "amount": 17}, {"item": "vezo", "amount": 9}, {"item": "cusunium", "amount": 9}], "research": "zeny-factory", "maxNodes": 15, "laserRange": 20, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cyhunium liquid tank", "description": "...", "health": 645, "size": 3, "requirements": [{"item": "cyhunium", "amount": 1}, {"item": "guto", "amount": 9}, {"item": "hono", "amount": 7}], "research": "cyhunium-conduit", "category": "liquid", "liquidCapacity": 60901, "hasLiquids": true}

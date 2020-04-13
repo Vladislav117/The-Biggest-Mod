@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dune solar panel", "description": "...", "size": 3, "health": 102, "requirements": [{"item": "dune", "amount": 14}, {"item": "myhuzi", "amount": 17}, {"item": "hyru", "amount": 8}], "research": "dune-factory", "powerProduction": 2.553465789972484, "category": "power"}

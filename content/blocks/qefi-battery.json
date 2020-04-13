@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qefi battery", "description": "...", "size": 3, "health": 360, "requirements": [{"item": "qefi", "amount": 3}, {"item": "togi", "amount": 2}, {"item": "johu", "amount": 2}], "research": "qefi-factory", "consumes": {"powerBuffered": 6198}, "category": "power"}

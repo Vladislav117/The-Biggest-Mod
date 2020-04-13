@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gase conduit", "description": "...", "health": 135, "requirements": [{"item": "gase", "amount": 6}, {"item": "kudohi", "amount": 16}, {"item": "lyxele", "amount": 2}], "liquidCapacity": 40, "liquidPressure": 5, "research": "gase-factory", "category": "liquid"}

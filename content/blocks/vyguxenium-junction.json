@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vyguxenium junction", "description": "...", "health": 13, "speed": 1, "capacity": 19, "size": 1, "requirements": [{"item": "vyguxenium", "amount": 3}, {"item": "movanium", "amount": 3}], "research": "vyguxenium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "noxe drill", "description": "...", "size": 2, "health": 267, "tier": 4, "drillTime": 6, "consumes": {"power": 3}, "requirements": [{"item": "noxe", "amount": 2}, {"item": "gonu", "amount": 7}, {"item": "wety", "amount": 9}], "research": "noxe-factory", "category": "production"}

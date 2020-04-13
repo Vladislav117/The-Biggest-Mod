@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "venuki sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "venuki", "amount": 3}, {"item": "ceciba", "amount": 3}], "research": "venuki-conveyor", "category": "distribution", "invert": false}

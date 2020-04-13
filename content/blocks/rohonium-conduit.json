@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rohonium conduit", "description": "...", "health": 37, "requirements": [{"item": "rohonium", "amount": 1}, {"item": "minuna", "amount": 6}, {"item": "legeqa", "amount": 9}], "liquidCapacity": 4, "liquidPressure": 0, "research": "rohonium-factory", "category": "liquid"}

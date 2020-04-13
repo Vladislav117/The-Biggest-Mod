@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pozilonium solar panel", "description": "...", "size": 3, "health": 109, "requirements": [{"item": "pozilonium", "amount": 2}, {"item": "yeli", "amount": 4}, {"item": "guliyu", "amount": 6}], "research": "pozilonium-factory", "powerProduction": 13.23326692623547, "category": "power"}

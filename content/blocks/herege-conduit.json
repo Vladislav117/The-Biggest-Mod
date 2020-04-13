@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "herege conduit", "description": "...", "health": 106, "requirements": [{"item": "herege", "amount": 10}, {"item": "vayixo", "amount": 5}, {"item": "roma", "amount": 10}], "liquidCapacity": 50, "liquidPressure": 8, "research": "herege-factory", "category": "liquid"}

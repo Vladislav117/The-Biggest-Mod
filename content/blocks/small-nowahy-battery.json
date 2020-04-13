@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nowahy battery", "description": "...", "size": 1, "health": 231, "requirements": [{"item": "nowahy", "amount": 10}, {"item": "mygenium", "amount": 10}, {"item": "devube", "amount": 1}], "research": "nowahy-factory", "consumes": {"powerBuffered": 2317}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "vojenium conveyor", "description": "...", "health": 109, "requirements": [{"item": "vojenium", "amount": 1}, {"item": "hedi", "amount": 2}], "speed": 0.2921350580001752, "research": "vojenium-factory", "category": "distribution"}

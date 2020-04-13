@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rita solar panel", "description": "...", "size": 3, "health": 242, "requirements": [{"item": "rita", "amount": 1}, {"item": "sepo", "amount": 6}, {"item": "rajubanium", "amount": 6}], "research": "rita-factory", "powerProduction": 0.6059611645863904, "category": "power"}

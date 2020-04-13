@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kojavi drill", "description": "...", "size": 4, "health": 306, "tier": 3, "drillTime": 8, "consumes": {"power": 16}, "requirements": [{"item": "kojavi", "amount": 19}, {"item": "kelurynium", "amount": 17}, {"item": "zekaru", "amount": 2}], "research": "kojavi-factory", "category": "production"}

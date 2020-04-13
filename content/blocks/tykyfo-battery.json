@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tykyfo battery", "description": "...", "size": 3, "health": 15, "requirements": [{"item": "tykyfo", "amount": 17}, {"item": "hyte", "amount": 5}, {"item": "cinynium", "amount": 2}], "research": "tykyfo-factory", "consumes": {"powerBuffered": 4215}, "category": "power"}

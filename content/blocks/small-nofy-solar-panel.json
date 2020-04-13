@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nofy solar panel", "description": "...", "size": 1, "health": 151, "requirements": [{"item": "nofy", "amount": 14}, {"item": "pivojunium", "amount": 12}, {"item": "cobunium", "amount": 9}], "research": "nofy-factory", "powerProduction": 3.1406043122393092, "category": "power"}

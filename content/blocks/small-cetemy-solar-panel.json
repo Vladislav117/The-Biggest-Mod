@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cetemy solar panel", "description": "...", "size": 1, "health": 12, "requirements": [{"item": "cetemy", "amount": 2}, {"item": "pozilonium", "amount": 10}, {"item": "paba", "amount": 7}], "research": "cetemy-factory", "powerProduction": 2.773567802999554, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zygebynium power node", "description": "...", "size": 2, "health": 496, "requirements": [{"item": "zygebynium", "amount": 13}, {"item": "zilida", "amount": 16}, {"item": "zawyjy", "amount": 10}], "research": "zygebynium-factory", "maxNodes": 43, "laserRange": 8, "category": "power"}

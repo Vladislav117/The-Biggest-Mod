@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nopi liquid router", "description": "...", "size": 1, "health": 25, "requirements": [{"item": "nopi", "amount": 14}, {"item": "fukapinium", "amount": 9}, {"item": "nytu", "amount": 4}], "research": "nopi-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pogoqe battery", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "pogoqe", "amount": 11}, {"item": "qatu", "amount": 1}, {"item": "qiso", "amount": 8}], "research": "pogoqe-factory", "consumes": {"powerBuffered": 2507}, "category": "power"}

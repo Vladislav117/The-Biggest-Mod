@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jumonium power node", "description": "...", "size": 2, "health": 222, "requirements": [{"item": "jumonium", "amount": 9}, {"item": "kurecanium", "amount": 19}, {"item": "zuzequ", "amount": 1}], "research": "jumonium-factory", "maxNodes": 45, "laserRange": 9, "category": "power"}

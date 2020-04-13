@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wypy solar panel", "description": "...", "size": 1, "health": 188, "requirements": [{"item": "wypy", "amount": 17}, {"item": "dagepanium", "amount": 17}, {"item": "rumigonium", "amount": 5}], "research": "wypy-factory", "powerProduction": 2.797711952357224, "category": "power"}

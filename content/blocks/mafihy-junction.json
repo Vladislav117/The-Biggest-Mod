@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mafihy junction", "description": "...", "health": 19, "speed": 11, "capacity": 10, "size": 1, "requirements": [{"item": "mafihy", "amount": 5}, {"item": "guvoja", "amount": 3}], "research": "mafihy-conveyor", "category": "distribution"}

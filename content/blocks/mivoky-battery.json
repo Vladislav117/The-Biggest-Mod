@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mivoky battery", "description": "...", "size": 3, "health": 362, "requirements": [{"item": "mivoky", "amount": 6}, {"item": "vema", "amount": 16}, {"item": "wano", "amount": 1}], "research": "mivoky-factory", "consumes": {"powerBuffered": 6359}, "category": "power"}

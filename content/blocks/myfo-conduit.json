@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "myfo conduit", "description": "...", "health": 146, "requirements": [{"item": "myfo", "amount": 4}, {"item": "yunu", "amount": 1}, {"item": "mehenium", "amount": 4}], "liquidCapacity": 46, "liquidPressure": 2, "research": "myfo-factory", "category": "liquid"}

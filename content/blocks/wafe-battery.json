@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wafe battery", "description": "...", "size": 3, "health": 16, "requirements": [{"item": "wafe", "amount": 9}, {"item": "qano", "amount": 10}, {"item": "muremi", "amount": 5}], "research": "wafe-factory", "consumes": {"powerBuffered": 8466}, "category": "power"}

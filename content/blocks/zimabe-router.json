@@ -1,0 +1,1 @@
+{"type": "router", "name": "zimabe router", "description": "...", "health": 150, "size": 1, "requirements": [{"item": "zimabe", "amount": 6}], "research": "zimabe-conveyor", "category": "distribution"}

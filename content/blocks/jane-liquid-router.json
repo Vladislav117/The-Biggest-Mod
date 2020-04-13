@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jane liquid router", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "jane", "amount": 19}, {"item": "mygi", "amount": 11}, {"item": "qoki", "amount": 4}], "research": "jane-conduit", "liquidCapacity": 10, "category": "liquid"}

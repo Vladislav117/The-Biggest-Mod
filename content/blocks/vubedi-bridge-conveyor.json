@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vubedi bridge conveyor", "description": "", "health": 7, "range": 13, "speed": 16, "bufferCapacity": 23, "requirements": [{"item": "vubedi", "amount": 4}, {"item": "yejeqinium", "amount": 5}], "research": "vubedi-conveyor", "category": "distribution", "size": 1}

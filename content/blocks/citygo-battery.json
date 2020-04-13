@@ -1,0 +1,1 @@
+{"type": "battery", "name": "citygo battery", "description": "...", "size": 3, "health": 215, "requirements": [{"item": "citygo", "amount": 14}, {"item": "zeha", "amount": 12}, {"item": "wuniso", "amount": 6}], "research": "citygo-factory", "consumes": {"powerBuffered": 9122}, "category": "power"}

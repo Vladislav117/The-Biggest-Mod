@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pomagu liquid tank", "description": "...", "health": 403, "size": 3, "requirements": [{"item": "pomagu", "amount": 15}, {"item": "dugypa", "amount": 20}, {"item": "zypiqi", "amount": 4}], "research": "pomagu-conduit", "category": "liquid", "liquidCapacity": 62874, "hasLiquids": true}

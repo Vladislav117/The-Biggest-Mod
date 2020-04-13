@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qiditinium battery", "description": "...", "size": 1, "health": 150, "requirements": [{"item": "qiditinium", "amount": 8}, {"item": "fezo", "amount": 20}, {"item": "lypynium", "amount": 9}], "research": "qiditinium-factory", "consumes": {"powerBuffered": 621}, "category": "power"}

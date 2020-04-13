@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mapoya conduit", "description": "...", "health": 178, "requirements": [{"item": "mapoya", "amount": 5}, {"item": "leriki", "amount": 10}, {"item": "zexuza", "amount": 2}], "liquidCapacity": 40, "liquidPressure": 7, "research": "mapoya-factory", "category": "liquid"}

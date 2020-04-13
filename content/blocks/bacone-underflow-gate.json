@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bacone underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "bacone", "amount": 1}, {"item": "zoqivanium", "amount": 5}], "research": "bacone-conveyor", "category": "distribution", "invert": false}

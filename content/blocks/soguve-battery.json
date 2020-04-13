@@ -1,0 +1,1 @@
+{"type": "battery", "name": "soguve battery", "description": "...", "size": 3, "health": 266, "requirements": [{"item": "soguve", "amount": 7}, {"item": "cazefu", "amount": 14}, {"item": "piny", "amount": 2}], "research": "soguve-factory", "consumes": {"powerBuffered": 5813}, "category": "power"}

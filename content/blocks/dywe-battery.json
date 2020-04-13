@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dywe battery", "description": "...", "size": 3, "health": 186, "requirements": [{"item": "dywe", "amount": 11}, {"item": "wejabo", "amount": 19}, {"item": "xebu", "amount": 6}], "research": "dywe-factory", "consumes": {"powerBuffered": 5622}, "category": "power"}

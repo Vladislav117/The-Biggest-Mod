@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vezafa liquid router", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "vezafa", "amount": 12}, {"item": "lahydo", "amount": 12}, {"item": "nudady", "amount": 6}], "research": "vezafa-conduit", "liquidCapacity": 10, "category": "liquid"}

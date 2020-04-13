@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "soda overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "soda", "amount": 1}, {"item": "qacu", "amount": 1}], "research": "soda-conveyor", "category": "distribution", "invert": false}

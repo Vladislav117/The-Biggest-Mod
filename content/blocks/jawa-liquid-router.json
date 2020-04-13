@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jawa liquid router", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "jawa", "amount": 4}, {"item": "hofi", "amount": 12}, {"item": "yape", "amount": 1}], "research": "jawa-conduit", "liquidCapacity": 10, "category": "liquid"}

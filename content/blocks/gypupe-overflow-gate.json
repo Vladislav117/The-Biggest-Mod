@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gypupe overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "gypupe", "amount": 4}, {"item": "yuvynium", "amount": 5}], "research": "gypupe-conveyor", "category": "distribution", "invert": false}

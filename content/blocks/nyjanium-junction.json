@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nyjanium junction", "description": "...", "health": 20, "speed": 18, "capacity": 16, "size": 1, "requirements": [{"item": "nyjanium", "amount": 5}, {"item": "ledome", "amount": 4}], "research": "nyjanium-conveyor", "category": "distribution"}

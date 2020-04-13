@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lyna solar panel", "description": "...", "size": 3, "health": 85, "requirements": [{"item": "lyna", "amount": 10}, {"item": "tifi", "amount": 15}, {"item": "paky", "amount": 2}], "research": "lyna-factory", "powerProduction": 7.417294959774518, "category": "power"}

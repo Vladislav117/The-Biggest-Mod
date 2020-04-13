@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sulu solar panel", "description": "...", "size": 3, "health": 384, "requirements": [{"item": "sulu", "amount": 13}, {"item": "neby", "amount": 7}, {"item": "nayevynium", "amount": 3}], "research": "sulu-factory", "powerProduction": 0.466850580682764, "category": "power"}

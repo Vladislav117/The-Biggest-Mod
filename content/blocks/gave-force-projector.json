@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "gave force projector", "description": "...", "health": 184, "size": 3, "consumes": {"power": 5.0, "item": "gave"}, "requirements": [{"item": "gave", "amount": 18}, {"item": "lymo", "amount": 16}, {"item": "ruwysu", "amount": 10}], "research": "gave-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "guvoja drill", "description": "...", "size": 2, "health": 201, "tier": 4, "drillTime": 20, "consumes": {"power": 3}, "requirements": [{"item": "guvoja", "amount": 19}, {"item": "yicavu", "amount": 2}, {"item": "cizi", "amount": 5}], "research": "guvoja-factory", "category": "production"}

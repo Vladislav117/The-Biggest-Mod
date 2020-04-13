@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cuzyko battery", "description": "...", "size": 3, "health": 209, "requirements": [{"item": "cuzyko", "amount": 14}, {"item": "yixa", "amount": 19}, {"item": "jyzywy", "amount": 1}], "research": "cuzyko-factory", "consumes": {"powerBuffered": 4574}, "category": "power"}

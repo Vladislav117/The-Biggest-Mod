@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "muqonium conduit", "description": "...", "health": 37, "requirements": [{"item": "muqonium", "amount": 3}, {"item": "garyda", "amount": 15}, {"item": "kelurynium", "amount": 2}], "liquidCapacity": 6, "liquidPressure": 10, "research": "muqonium-factory", "category": "liquid"}

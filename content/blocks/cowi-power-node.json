@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cowi power node", "description": "...", "size": 2, "health": 735, "requirements": [{"item": "cowi", "amount": 3}, {"item": "lehanium", "amount": 2}, {"item": "lyva", "amount": 6}], "research": "cowi-factory", "maxNodes": 60, "laserRange": 26, "category": "power"}

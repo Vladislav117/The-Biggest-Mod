@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cybuby liquid tank", "description": "...", "health": 440, "size": 3, "requirements": [{"item": "cybuby", "amount": 2}, {"item": "bajenium", "amount": 2}, {"item": "weweco", "amount": 3}], "research": "cybuby-conduit", "category": "liquid", "liquidCapacity": 61659, "hasLiquids": true}

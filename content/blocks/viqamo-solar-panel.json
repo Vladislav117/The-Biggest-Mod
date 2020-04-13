@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "viqamo solar panel", "description": "...", "size": 3, "health": 185, "requirements": [{"item": "viqamo", "amount": 8}, {"item": "graphite", "amount": 9}, {"item": "kubi", "amount": 8}], "research": "viqamo-factory", "powerProduction": 0.5561026124572673, "category": "power"}

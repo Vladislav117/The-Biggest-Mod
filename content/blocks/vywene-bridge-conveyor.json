@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vywene bridge conveyor", "description": "", "health": 36, "range": 19, "speed": 12, "bufferCapacity": 25, "requirements": [{"item": "vywene", "amount": 2}, {"item": "sore", "amount": 5}], "research": "vywene-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kyxiwi battery", "description": "...", "size": 1, "health": 342, "requirements": [{"item": "kyxiwi", "amount": 19}, {"item": "xuxyvo", "amount": 10}, {"item": "xovunium", "amount": 9}], "research": "kyxiwi-factory", "consumes": {"powerBuffered": 1973}, "category": "power"}

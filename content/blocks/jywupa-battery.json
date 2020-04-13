@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jywupa battery", "description": "...", "size": 3, "health": 362, "requirements": [{"item": "jywupa", "amount": 16}, {"item": "kyte", "amount": 9}, {"item": "surge-alloy", "amount": 6}], "research": "jywupa-factory", "consumes": {"powerBuffered": 3803}, "category": "power"}

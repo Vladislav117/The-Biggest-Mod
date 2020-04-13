@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vekuly liquid tank", "description": "...", "health": 187, "size": 3, "requirements": [{"item": "vekuly", "amount": 10}, {"item": "cavuyi", "amount": 20}, {"item": "juhe", "amount": 8}], "research": "vekuly-conduit", "category": "liquid", "liquidCapacity": 37714, "hasLiquids": true}

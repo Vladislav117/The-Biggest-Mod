@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yyjuhy junction", "description": "...", "health": 37, "speed": 1, "capacity": 7, "size": 1, "requirements": [{"item": "yyjuhy", "amount": 5}, {"item": "niyi", "amount": 2}], "research": "yyjuhy-conveyor", "category": "distribution"}

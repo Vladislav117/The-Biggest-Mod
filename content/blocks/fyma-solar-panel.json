@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fyma solar panel", "description": "...", "size": 3, "health": 332, "requirements": [{"item": "fyma", "amount": 2}, {"item": "mityya", "amount": 13}, {"item": "wekonium", "amount": 3}], "research": "fyma-factory", "powerProduction": 0.005962017604415832, "category": "power"}

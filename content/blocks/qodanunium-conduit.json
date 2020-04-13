@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qodanunium conduit", "description": "...", "health": 75, "requirements": [{"item": "qodanunium", "amount": 4}, {"item": "lyheti", "amount": 4}, {"item": "jumonium", "amount": 8}], "liquidCapacity": 40, "liquidPressure": 1, "research": "qodanunium-factory", "category": "liquid"}

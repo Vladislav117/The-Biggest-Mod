@@ -1,0 +1,1 @@
+{"type": "battery", "name": "payo battery", "description": "...", "size": 3, "health": 119, "requirements": [{"item": "payo", "amount": 7}, {"item": "kivuzi", "amount": 4}, {"item": "fevawinium", "amount": 7}], "research": "payo-factory", "consumes": {"powerBuffered": 8239}, "category": "power"}

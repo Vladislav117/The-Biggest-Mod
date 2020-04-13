@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zixysinium inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "zixysinium", "amount": 3}, {"item": "vaso", "amount": 5}], "research": "zixysinium-conveyor", "category": "distribution", "invert": true}

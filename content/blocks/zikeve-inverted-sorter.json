@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zikeve inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "zikeve", "amount": 1}, {"item": "tisi", "amount": 5}], "research": "zikeve-conveyor", "category": "distribution", "invert": true}

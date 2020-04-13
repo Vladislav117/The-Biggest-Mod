@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gacy battery", "description": "...", "size": 3, "health": 281, "requirements": [{"item": "gacy", "amount": 19}, {"item": "maku", "amount": 2}, {"item": "bexa", "amount": 7}], "research": "gacy-factory", "consumes": {"powerBuffered": 2166}, "category": "power"}

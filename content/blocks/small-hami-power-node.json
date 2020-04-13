@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hami power node", "description": "...", "size": 1, "health": 344, "requirements": [{"item": "hami", "amount": 5}, {"item": "lora", "amount": 5}, {"item": "lypynium", "amount": 7}], "research": "hami-factory", "maxNodes": 27, "laserRange": 5, "category": "power"}

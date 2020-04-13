@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "niri conduit", "description": "...", "health": 99, "requirements": [{"item": "niri", "amount": 7}, {"item": "zuwydy", "amount": 12}, {"item": "cokigo", "amount": 5}], "liquidCapacity": 9, "liquidPressure": 3, "research": "niri-factory", "category": "liquid"}

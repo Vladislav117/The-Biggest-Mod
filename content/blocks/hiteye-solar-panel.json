@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hiteye solar panel", "description": "...", "size": 3, "health": 99, "requirements": [{"item": "hiteye", "amount": 8}, {"item": "dina", "amount": 13}, {"item": "jepeli", "amount": 2}], "research": "hiteye-factory", "powerProduction": 6.75661662599368, "category": "power"}

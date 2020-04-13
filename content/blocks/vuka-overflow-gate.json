@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vuka overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "vuka", "amount": 4}, {"item": "kiva", "amount": 1}], "research": "vuka-conveyor", "category": "distribution", "invert": false}

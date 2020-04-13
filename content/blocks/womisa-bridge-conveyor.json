@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "womisa bridge conveyor", "description": "", "health": 17, "range": 16, "speed": 20, "bufferCapacity": 25, "requirements": [{"item": "womisa", "amount": 5}, {"item": "rymyva", "amount": 2}], "research": "womisa-conveyor", "category": "distribution", "size": 1}

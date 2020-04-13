@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wuce battery", "description": "...", "size": 3, "health": 261, "requirements": [{"item": "wuce", "amount": 16}, {"item": "nyvo", "amount": 16}, {"item": "foky", "amount": 8}], "research": "wuce-factory", "consumes": {"powerBuffered": 5878}, "category": "power"}

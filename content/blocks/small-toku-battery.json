@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small toku battery", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "toku", "amount": 10}, {"item": "xavinium", "amount": 9}, {"item": "pynebi", "amount": 4}], "research": "toku-factory", "consumes": {"powerBuffered": 1002}, "category": "power"}

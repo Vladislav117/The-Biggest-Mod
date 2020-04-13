@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lunido solar panel", "description": "...", "size": 1, "health": 131, "requirements": [{"item": "lunido", "amount": 9}, {"item": "dezy", "amount": 5}, {"item": "reqynu", "amount": 10}], "research": "lunido-factory", "powerProduction": 0.6844531609293567, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zuwabo liquid tank", "description": "...", "health": 272, "size": 3, "requirements": [{"item": "zuwabo", "amount": 3}, {"item": "bimi", "amount": 3}, {"item": "xevenium", "amount": 8}], "research": "zuwabo-conduit", "category": "liquid", "liquidCapacity": 103155, "hasLiquids": true}

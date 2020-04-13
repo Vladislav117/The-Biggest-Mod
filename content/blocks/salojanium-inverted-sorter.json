@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "salojanium inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "salojanium", "amount": 1}, {"item": "tise", "amount": 4}], "research": "salojanium-conveyor", "category": "distribution", "invert": true}

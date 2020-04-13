@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xusunium solar panel", "description": "...", "size": 3, "health": 231, "requirements": [{"item": "xusunium", "amount": 12}, {"item": "wemenium", "amount": 15}, {"item": "tetivy", "amount": 10}], "research": "xusunium-factory", "powerProduction": 0.27076843137485057, "category": "power"}

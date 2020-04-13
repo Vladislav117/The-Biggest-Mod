@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zebe battery", "description": "...", "size": 1, "health": 249, "requirements": [{"item": "zebe", "amount": 11}, {"item": "jaga", "amount": 11}, {"item": "weweco", "amount": 3}], "research": "zebe-factory", "consumes": {"powerBuffered": 2416}, "category": "power"}

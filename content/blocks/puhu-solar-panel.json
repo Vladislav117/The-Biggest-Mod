@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "puhu solar panel", "description": "...", "size": 3, "health": 244, "requirements": [{"item": "puhu", "amount": 20}, {"item": "kayody", "amount": 18}, {"item": "yylonium", "amount": 9}], "research": "puhu-factory", "powerProduction": 0.5463691968976436, "category": "power"}

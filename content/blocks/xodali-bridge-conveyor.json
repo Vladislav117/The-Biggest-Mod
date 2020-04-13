@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xodali bridge conveyor", "description": "", "health": 4, "range": 18, "speed": 10, "bufferCapacity": 22, "requirements": [{"item": "xodali", "amount": 1}, {"item": "gizomanium", "amount": 1}], "research": "xodali-conveyor", "category": "distribution", "size": 1}

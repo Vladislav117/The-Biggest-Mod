@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pyyecu underflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "pyyecu", "amount": 2}, {"item": "yytiye", "amount": 2}], "research": "pyyecu-conveyor", "category": "distribution", "invert": false}

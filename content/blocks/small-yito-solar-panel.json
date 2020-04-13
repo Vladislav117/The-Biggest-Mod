@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yito solar panel", "description": "...", "size": 1, "health": 119, "requirements": [{"item": "yito", "amount": 9}, {"item": "fahi", "amount": 2}, {"item": "nuso", "amount": 10}], "research": "yito-factory", "powerProduction": 1.6728623521865655, "category": "power"}

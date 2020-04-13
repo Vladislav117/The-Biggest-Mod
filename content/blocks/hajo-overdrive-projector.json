@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "hajo overdrive projector", "description": "...", "health": 58, "consumes": {"power": 3.0, "item": "hajo"}, "size": 2, "requirements": [{"item": "hajo", "amount": 20}, {"item": "vewi", "amount": 12}, {"item": "yejeqinium", "amount": 2}], "research": "hajo-factory", "category": "effect"}

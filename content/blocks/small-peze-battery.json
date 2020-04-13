@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small peze battery", "description": "...", "size": 1, "health": 384, "requirements": [{"item": "peze", "amount": 13}, {"item": "pizi", "amount": 19}, {"item": "tuzy", "amount": 9}], "research": "peze-factory", "consumes": {"powerBuffered": 1332}, "category": "power"}

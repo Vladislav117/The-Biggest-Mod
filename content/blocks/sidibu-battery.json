@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sidibu battery", "description": "...", "size": 3, "health": 255, "requirements": [{"item": "sidibu", "amount": 6}, {"item": "mabifunium", "amount": 2}, {"item": "dawe", "amount": 2}], "research": "sidibu-factory", "consumes": {"powerBuffered": 7340}, "category": "power"}

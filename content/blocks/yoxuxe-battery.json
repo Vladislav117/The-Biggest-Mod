@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yoxuxe battery", "description": "...", "size": 3, "health": 370, "requirements": [{"item": "yoxuxe", "amount": 6}, {"item": "vevati", "amount": 16}, {"item": "xurenium", "amount": 9}], "research": "yoxuxe-factory", "consumes": {"powerBuffered": 1000}, "category": "power"}

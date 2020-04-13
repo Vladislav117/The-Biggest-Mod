@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wigyre liquid tank", "description": "...", "health": 322, "size": 3, "requirements": [{"item": "wigyre", "amount": 10}, {"item": "xavinium", "amount": 3}, {"item": "gonu", "amount": 10}], "research": "wigyre-conduit", "category": "liquid", "liquidCapacity": 5284, "hasLiquids": true}

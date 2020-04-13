@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wywonium liquid tank", "description": "...", "health": 264, "size": 3, "requirements": [{"item": "wywonium", "amount": 10}, {"item": "zygebynium", "amount": 7}, {"item": "kudohi", "amount": 2}], "research": "wywonium-conduit", "category": "liquid", "liquidCapacity": 40914, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kituhinium junction", "description": "...", "health": 11, "speed": 20, "capacity": 13, "size": 1, "requirements": [{"item": "kituhinium", "amount": 3}, {"item": "nuci", "amount": 2}], "research": "kituhinium-conveyor", "category": "distribution"}

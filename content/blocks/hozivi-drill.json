@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hozivi drill", "description": "...", "size": 2, "health": 229, "tier": 2, "drillTime": 11, "consumes": {"power": 4}, "requirements": [{"item": "hozivi", "amount": 7}, {"item": "hycywi", "amount": 3}, {"item": "wupa", "amount": 7}], "research": "hozivi-factory", "category": "production"}

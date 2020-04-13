@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small viqamo battery", "description": "...", "size": 1, "health": 270, "requirements": [{"item": "viqamo", "amount": 10}, {"item": "lead", "amount": 3}, {"item": "silicon", "amount": 9}], "research": "viqamo-factory", "consumes": {"powerBuffered": 767}, "category": "power"}

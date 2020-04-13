@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "myya solar panel", "description": "...", "size": 3, "health": 71, "requirements": [{"item": "myya", "amount": 7}, {"item": "zoyinium", "amount": 2}, {"item": "hejonium", "amount": 9}], "research": "myya-factory", "powerProduction": 0.2632334866336689, "category": "power"}

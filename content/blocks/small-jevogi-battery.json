@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jevogi battery", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "jevogi", "amount": 13}, {"item": "kyfe", "amount": 2}, {"item": "keqaqe", "amount": 9}], "research": "jevogi-factory", "consumes": {"powerBuffered": 1293}, "category": "power"}

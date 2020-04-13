@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ferykenium inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "ferykenium", "amount": 3}, {"item": "reminium", "amount": 1}], "research": "ferykenium-conveyor", "category": "distribution", "invert": true}

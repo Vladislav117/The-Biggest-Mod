@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vybygynium liquid tank", "description": "...", "health": 529, "size": 3, "requirements": [{"item": "vybygynium", "amount": 9}, {"item": "yifity", "amount": 3}, {"item": "siwi", "amount": 1}], "research": "vybygynium-conduit", "category": "liquid", "liquidCapacity": 34977, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sigu power node", "description": "...", "size": 2, "health": 621, "requirements": [{"item": "sigu", "amount": 20}, {"item": "wobuyu", "amount": 16}, {"item": "cazefu", "amount": 1}], "research": "sigu-factory", "maxNodes": 37, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "locu sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "locu", "amount": 3}, {"item": "byja", "amount": 5}], "research": "locu-conveyor", "category": "distribution", "invert": false}

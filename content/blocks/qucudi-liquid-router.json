@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qucudi liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "qucudi", "amount": 19}, {"item": "viwimynium", "amount": 3}, {"item": "hytuki", "amount": 1}], "research": "qucudi-conduit", "liquidCapacity": 10, "category": "liquid"}

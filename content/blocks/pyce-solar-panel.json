@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pyce solar panel", "description": "...", "size": 3, "health": 268, "requirements": [{"item": "pyce", "amount": 2}, {"item": "lead", "amount": 12}, {"item": "pikoqi", "amount": 6}], "research": "pyce-factory", "powerProduction": 1.5500999633587897, "category": "power"}

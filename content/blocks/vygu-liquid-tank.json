@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vygu liquid tank", "description": "...", "health": 486, "size": 3, "requirements": [{"item": "vygu", "amount": 12}, {"item": "silicon", "amount": 9}, {"item": "hivesy", "amount": 10}], "research": "vygu-conduit", "category": "liquid", "liquidCapacity": 10734, "hasLiquids": true}

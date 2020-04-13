@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "riwe liquid tank", "description": "...", "health": 429, "size": 3, "requirements": [{"item": "riwe", "amount": 9}, {"item": "xysu", "amount": 10}, {"item": "tuwe", "amount": 7}], "research": "riwe-conduit", "category": "liquid", "liquidCapacity": 80050, "hasLiquids": true}

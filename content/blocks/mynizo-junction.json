@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mynizo junction", "description": "...", "health": 36, "speed": 13, "capacity": 13, "size": 1, "requirements": [{"item": "mynizo", "amount": 3}, {"item": "heda", "amount": 3}], "research": "mynizo-conveyor", "category": "distribution"}

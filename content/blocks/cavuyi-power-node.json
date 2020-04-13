@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cavuyi power node", "description": "...", "size": 2, "health": 248, "requirements": [{"item": "cavuyi", "amount": 14}, {"item": "pyto", "amount": 12}, {"item": "lejara", "amount": 7}], "research": "cavuyi-factory", "maxNodes": 30, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tiqeti solar panel", "description": "...", "size": 3, "health": 63, "requirements": [{"item": "tiqeti", "amount": 8}, {"item": "mebu", "amount": 3}, {"item": "qiseho", "amount": 5}], "research": "tiqeti-factory", "powerProduction": 0.8583917101866723, "category": "power"}

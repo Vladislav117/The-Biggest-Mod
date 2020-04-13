@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wisy solar panel", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "wisy", "amount": 11}, {"item": "logy", "amount": 2}, {"item": "myhuzi", "amount": 2}], "research": "wisy-factory", "powerProduction": 13.44193698081953, "category": "power"}

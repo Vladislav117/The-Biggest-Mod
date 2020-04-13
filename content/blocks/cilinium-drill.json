@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cilinium drill", "description": "...", "size": 4, "health": 158, "tier": 3, "drillTime": 18, "consumes": {"power": 3}, "requirements": [{"item": "cilinium", "amount": 14}, {"item": "jywupa", "amount": 18}, {"item": "jaki", "amount": 8}], "research": "cilinium-factory", "category": "production"}

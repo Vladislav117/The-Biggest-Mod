@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bipanium conduit", "description": "...", "health": 187, "requirements": [{"item": "bipanium", "amount": 13}, {"item": "nupu", "amount": 5}, {"item": "lora", "amount": 1}], "liquidCapacity": 35, "liquidPressure": 6, "research": "bipanium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kypewenium overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "kypewenium", "amount": 2}, {"item": "rexa", "amount": 5}], "research": "kypewenium-conveyor", "category": "distribution", "invert": false}

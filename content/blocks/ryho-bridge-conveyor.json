@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ryho bridge conveyor", "description": "", "health": 22, "range": 14, "speed": 18, "bufferCapacity": 21, "requirements": [{"item": "ryho", "amount": 4}, {"item": "xemynium", "amount": 5}], "research": "ryho-conveyor", "category": "distribution", "size": 1}

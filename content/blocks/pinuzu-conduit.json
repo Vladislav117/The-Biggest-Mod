@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pinuzu conduit", "description": "...", "health": 35, "requirements": [{"item": "pinuzu", "amount": 20}, {"item": "zodyju", "amount": 20}, {"item": "lypeja", "amount": 8}], "liquidCapacity": 30, "liquidPressure": 5, "research": "pinuzu-factory", "category": "liquid"}

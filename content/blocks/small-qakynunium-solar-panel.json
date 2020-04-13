@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qakynunium solar panel", "description": "...", "size": 1, "health": 319, "requirements": [{"item": "qakynunium", "amount": 11}, {"item": "maqe", "amount": 1}, {"item": "karu", "amount": 7}], "research": "qakynunium-factory", "powerProduction": 10.718004441100447, "category": "power"}

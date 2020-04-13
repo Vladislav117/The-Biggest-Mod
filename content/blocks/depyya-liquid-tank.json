@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "depyya liquid tank", "description": "...", "health": 381, "size": 3, "requirements": [{"item": "depyya", "amount": 17}, {"item": "lyru", "amount": 6}, {"item": "lyru", "amount": 5}], "research": "depyya-conduit", "category": "liquid", "liquidCapacity": 7099, "hasLiquids": true}

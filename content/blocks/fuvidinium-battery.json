@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fuvidinium battery", "description": "...", "size": 3, "health": 71, "requirements": [{"item": "fuvidinium", "amount": 3}, {"item": "rukycu", "amount": 15}, {"item": "pagopy", "amount": 9}], "research": "fuvidinium-factory", "consumes": {"powerBuffered": 6266}, "category": "power"}

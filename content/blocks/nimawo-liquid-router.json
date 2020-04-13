@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nimawo liquid router", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "nimawo", "amount": 15}, {"item": "haqu", "amount": 14}, {"item": "lymo", "amount": 5}], "research": "nimawo-conduit", "liquidCapacity": 10, "category": "liquid"}

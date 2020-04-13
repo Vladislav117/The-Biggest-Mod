@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small quxu battery", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "quxu", "amount": 5}, {"item": "nezyno", "amount": 11}, {"item": "fikunium", "amount": 7}], "research": "quxu-factory", "consumes": {"powerBuffered": 724}, "category": "power"}

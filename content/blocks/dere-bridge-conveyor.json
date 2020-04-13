@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dere bridge conveyor", "description": "", "health": 4, "range": 17, "speed": 15, "bufferCapacity": 20, "requirements": [{"item": "dere", "amount": 5}, {"item": "cosa", "amount": 5}], "research": "dere-conveyor", "category": "distribution", "size": 1}

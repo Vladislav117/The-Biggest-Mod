@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hipowu power node", "description": "...", "size": 1, "health": 275, "requirements": [{"item": "hipowu", "amount": 17}, {"item": "tehepy", "amount": 6}, {"item": "cazewy", "amount": 10}], "research": "hipowu-factory", "maxNodes": 3, "laserRange": 6, "category": "power"}

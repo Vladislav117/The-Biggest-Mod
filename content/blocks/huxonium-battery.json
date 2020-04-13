@@ -1,0 +1,1 @@
+{"type": "battery", "name": "huxonium battery", "description": "...", "size": 3, "health": 59, "requirements": [{"item": "huxonium", "amount": 2}, {"item": "bimi", "amount": 14}, {"item": "yuqy", "amount": 9}], "research": "huxonium-factory", "consumes": {"powerBuffered": 9662}, "category": "power"}

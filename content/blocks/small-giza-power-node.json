@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small giza power node", "description": "...", "size": 1, "health": 315, "requirements": [{"item": "giza", "amount": 13}, {"item": "ceyuwy", "amount": 4}, {"item": "wivo", "amount": 9}], "research": "giza-factory", "maxNodes": 2, "laserRange": 8, "category": "power"}

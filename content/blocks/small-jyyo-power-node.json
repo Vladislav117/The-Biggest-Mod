@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jyyo power node", "description": "...", "size": 1, "health": 252, "requirements": [{"item": "jyyo", "amount": 2}, {"item": "xeqikynium", "amount": 2}, {"item": "haqu", "amount": 9}], "research": "jyyo-factory", "maxNodes": 11, "laserRange": 14, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fare battery", "description": "...", "size": 1, "health": 337, "requirements": [{"item": "fare", "amount": 19}, {"item": "qygi", "amount": 7}, {"item": "venuki", "amount": 3}], "research": "fare-factory", "consumes": {"powerBuffered": 1446}, "category": "power"}

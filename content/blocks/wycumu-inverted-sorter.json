@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wycumu inverted sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "wycumu", "amount": 4}, {"item": "furazinium", "amount": 3}], "research": "wycumu-conveyor", "category": "distribution", "invert": true}

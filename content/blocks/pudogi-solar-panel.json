@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pudogi solar panel", "description": "...", "size": 3, "health": 173, "requirements": [{"item": "pudogi", "amount": 1}, {"item": "rehyce", "amount": 18}, {"item": "mygenium", "amount": 4}], "research": "pudogi-factory", "powerProduction": 1.0423823166247734, "category": "power"}

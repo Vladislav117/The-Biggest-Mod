@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small toku solar panel", "description": "...", "size": 1, "health": 167, "requirements": [{"item": "toku", "amount": 19}, {"item": "lygynium", "amount": 7}, {"item": "nimynium", "amount": 7}], "research": "toku-factory", "powerProduction": 6.332059933316512, "category": "power"}

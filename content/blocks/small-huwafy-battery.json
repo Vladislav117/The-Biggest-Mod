@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small huwafy battery", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "huwafy", "amount": 9}, {"item": "bururinium", "amount": 5}, {"item": "fisy", "amount": 6}], "research": "huwafy-factory", "consumes": {"powerBuffered": 2683}, "category": "power"}

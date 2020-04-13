@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zeka solar panel", "description": "...", "size": 3, "health": 259, "requirements": [{"item": "zeka", "amount": 5}, {"item": "jeyanium", "amount": 1}, {"item": "wino", "amount": 5}], "research": "zeka-factory", "powerProduction": 0.7872517552197446, "category": "power"}

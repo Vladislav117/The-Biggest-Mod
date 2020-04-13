@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xyru power node", "description": "...", "size": 2, "health": 548, "requirements": [{"item": "xyru", "amount": 13}, {"item": "zoqa", "amount": 8}, {"item": "qykebo", "amount": 9}], "research": "xyru-factory", "maxNodes": 43, "laserRange": 19, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sypo junction", "description": "...", "health": 23, "speed": 11, "capacity": 18, "size": 1, "requirements": [{"item": "sypo", "amount": 4}, {"item": "giha", "amount": 3}], "research": "sypo-conveyor", "category": "distribution"}

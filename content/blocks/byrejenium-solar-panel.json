@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "byrejenium solar panel", "description": "...", "size": 3, "health": 357, "requirements": [{"item": "byrejenium", "amount": 19}, {"item": "civonium", "amount": 16}, {"item": "wamu", "amount": 8}], "research": "byrejenium-factory", "powerProduction": 0.20569187115215318, "category": "power"}

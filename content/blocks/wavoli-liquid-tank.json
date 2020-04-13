@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wavoli liquid tank", "description": "...", "health": 611, "size": 3, "requirements": [{"item": "wavoli", "amount": 20}, {"item": "zuzequ", "amount": 6}, {"item": "wiba", "amount": 3}], "research": "wavoli-conduit", "category": "liquid", "liquidCapacity": 108252, "hasLiquids": true}

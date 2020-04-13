@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nepysi liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "nepysi", "amount": 10}, {"item": "xuze", "amount": 15}, {"item": "winyjo", "amount": 5}], "research": "nepysi-conduit", "liquidCapacity": 10, "category": "liquid"}

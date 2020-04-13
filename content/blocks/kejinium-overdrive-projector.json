@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "kejinium overdrive projector", "description": "...", "health": 79, "consumes": {"power": 3.0, "item": "kejinium"}, "size": 2, "requirements": [{"item": "kejinium", "amount": 10}, {"item": "cuhynenium", "amount": 17}, {"item": "fyfoni", "amount": 5}], "research": "kejinium-factory", "category": "effect"}

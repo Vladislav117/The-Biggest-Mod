@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tixanu bridge conveyor", "description": "", "health": 6, "range": 11, "speed": 12, "bufferCapacity": 17, "requirements": [{"item": "tixanu", "amount": 4}, {"item": "qiqo", "amount": 3}], "research": "tixanu-conveyor", "category": "distribution", "size": 1}

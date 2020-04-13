@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nuto battery", "description": "...", "size": 3, "health": 133, "requirements": [{"item": "nuto", "amount": 11}, {"item": "zocumo", "amount": 20}, {"item": "lalubo", "amount": 2}], "research": "nuto-factory", "consumes": {"powerBuffered": 500}, "category": "power"}

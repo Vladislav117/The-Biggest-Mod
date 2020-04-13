@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zityyanium power node", "description": "...", "size": 2, "health": 147, "requirements": [{"item": "zityyanium", "amount": 12}, {"item": "qerobu", "amount": 7}, {"item": "pikoqi", "amount": 9}], "research": "zityyanium-factory", "maxNodes": 45, "laserRange": 16, "category": "power"}

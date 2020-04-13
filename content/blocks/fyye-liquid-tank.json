@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyye liquid tank", "description": "...", "health": 296, "size": 3, "requirements": [{"item": "fyye", "amount": 17}, {"item": "duqu", "amount": 5}, {"item": "xicyru", "amount": 8}], "research": "fyye-conduit", "category": "liquid", "liquidCapacity": 60096, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "noveba power node", "description": "...", "size": 2, "health": 660, "requirements": [{"item": "noveba", "amount": 11}, {"item": "poxy", "amount": 18}, {"item": "togi", "amount": 9}], "research": "noveba-factory", "maxNodes": 39, "laserRange": 5, "category": "power"}

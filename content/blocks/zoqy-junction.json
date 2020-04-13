@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zoqy junction", "description": "...", "health": 36, "speed": 8, "capacity": 1, "size": 1, "requirements": [{"item": "zoqy", "amount": 3}, {"item": "mifi", "amount": 4}], "research": "zoqy-conveyor", "category": "distribution"}

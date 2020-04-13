@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lero liquid tank", "description": "...", "health": 524, "size": 3, "requirements": [{"item": "lero", "amount": 2}, {"item": "vypeha", "amount": 15}, {"item": "suminium", "amount": 10}], "research": "lero-conduit", "category": "liquid", "liquidCapacity": 87251, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "luta conduit", "description": "...", "health": 127, "requirements": [{"item": "luta", "amount": 9}, {"item": "liza", "amount": 2}, {"item": "fumena", "amount": 9}], "liquidCapacity": 45, "liquidPressure": 0, "research": "luta-factory", "category": "liquid"}

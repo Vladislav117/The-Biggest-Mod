@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gado conduit", "description": "...", "health": 165, "requirements": [{"item": "gado", "amount": 16}, {"item": "wumuge", "amount": 1}, {"item": "qiregynium", "amount": 5}], "liquidCapacity": 25, "liquidPressure": 9, "research": "gado-factory", "category": "liquid"}

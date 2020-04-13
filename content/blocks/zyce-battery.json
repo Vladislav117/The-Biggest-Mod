@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zyce battery", "description": "...", "size": 3, "health": 315, "requirements": [{"item": "zyce", "amount": 10}, {"item": "reqoxu", "amount": 7}, {"item": "jyyo", "amount": 9}], "research": "zyce-factory", "consumes": {"powerBuffered": 1603}, "category": "power"}

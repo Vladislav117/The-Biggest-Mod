@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nymopu power node", "description": "...", "size": 2, "health": 475, "requirements": [{"item": "nymopu", "amount": 17}, {"item": "mapanium", "amount": 6}, {"item": "xevenium", "amount": 2}], "research": "nymopu-factory", "maxNodes": 42, "laserRange": 12, "category": "power"}

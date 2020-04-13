@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vomo bridge conveyor", "description": "", "health": 41, "range": 9, "speed": 9, "bufferCapacity": 1, "requirements": [{"item": "vomo", "amount": 2}, {"item": "logybi", "amount": 1}], "research": "vomo-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vipe battery", "description": "...", "size": 3, "health": 329, "requirements": [{"item": "vipe", "amount": 18}, {"item": "wusa", "amount": 1}, {"item": "wedu", "amount": 8}], "research": "vipe-factory", "consumes": {"powerBuffered": 831}, "category": "power"}

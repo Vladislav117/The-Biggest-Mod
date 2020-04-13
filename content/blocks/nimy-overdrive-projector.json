@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "nimy overdrive projector", "description": "...", "health": 96, "consumes": {"power": 3.0, "item": "nimy"}, "size": 2, "requirements": [{"item": "nimy", "amount": 9}, {"item": "yaxuda", "amount": 18}, {"item": "ruvudo", "amount": 1}], "research": "nimy-factory", "category": "effect"}

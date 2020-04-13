@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yito solar panel", "description": "...", "size": 3, "health": 173, "requirements": [{"item": "yito", "amount": 4}, {"item": "sepo", "amount": 18}, {"item": "cixe", "amount": 8}], "research": "yito-factory", "powerProduction": 0.5640549040092308, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yize solar panel", "description": "...", "size": 1, "health": 387, "requirements": [{"item": "yize", "amount": 11}, {"item": "lowocanium", "amount": 10}, {"item": "zumi", "amount": 6}], "research": "yize-factory", "powerProduction": 0.49118274720188043, "category": "power"}

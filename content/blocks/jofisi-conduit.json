@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jofisi conduit", "description": "...", "health": 24, "requirements": [{"item": "jofisi", "amount": 19}, {"item": "litilenium", "amount": 20}, {"item": "tefipi", "amount": 8}], "liquidCapacity": 41, "liquidPressure": 2, "research": "jofisi-factory", "category": "liquid"}

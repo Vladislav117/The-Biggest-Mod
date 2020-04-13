@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kituhinium overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "kituhinium", "amount": 1}, {"item": "wabaru", "amount": 1}], "research": "kituhinium-conveyor", "category": "distribution", "invert": false}

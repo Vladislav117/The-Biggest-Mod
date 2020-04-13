@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sebutu solar panel", "description": "...", "size": 1, "health": 267, "requirements": [{"item": "sebutu", "amount": 10}, {"item": "bukiqenium", "amount": 2}, {"item": "siwobanium", "amount": 7}], "research": "sebutu-factory", "powerProduction": 0.8370326079784687, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yowa power node", "description": "...", "size": 2, "health": 71, "requirements": [{"item": "yowa", "amount": 20}, {"item": "yuny", "amount": 20}, {"item": "cohysu", "amount": 9}], "research": "yowa-factory", "maxNodes": 13, "laserRange": 9, "category": "power"}

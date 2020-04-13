@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "besivi overdrive projector", "description": "...", "health": 115, "consumes": {"power": 3.0, "item": "besivi"}, "size": 2, "requirements": [{"item": "besivi", "amount": 12}, {"item": "myyu", "amount": 14}, {"item": "wibasi", "amount": 10}], "research": "besivi-factory", "category": "effect"}

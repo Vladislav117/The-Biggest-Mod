@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hicewi junction", "description": "...", "health": 34, "speed": 7, "capacity": 14, "size": 1, "requirements": [{"item": "hicewi", "amount": 5}, {"item": "pehy", "amount": 4}], "research": "hicewi-conveyor", "category": "distribution"}

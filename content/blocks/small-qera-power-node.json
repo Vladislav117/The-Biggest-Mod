@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qera power node", "description": "...", "size": 1, "health": 259, "requirements": [{"item": "qera", "amount": 9}, {"item": "vodo", "amount": 10}, {"item": "wutigo", "amount": 5}], "research": "qera-factory", "maxNodes": 22, "laserRange": 20, "category": "power"}

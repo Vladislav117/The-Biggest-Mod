@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qebu inverted sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "qebu", "amount": 2}, {"item": "pypy", "amount": 5}], "research": "qebu-conveyor", "category": "distribution", "invert": true}

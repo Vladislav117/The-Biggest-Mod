@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pazanium battery", "description": "...", "size": 1, "health": 98, "requirements": [{"item": "pazanium", "amount": 13}, {"item": "liba", "amount": 19}, {"item": "kywowa", "amount": 6}], "research": "pazanium-factory", "consumes": {"powerBuffered": 2688}, "category": "power"}

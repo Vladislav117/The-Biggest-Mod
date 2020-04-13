@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "miluze underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "miluze", "amount": 3}, {"item": "kosonium", "amount": 1}], "research": "miluze-conveyor", "category": "distribution", "invert": false}

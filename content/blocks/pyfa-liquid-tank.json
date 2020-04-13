@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pyfa liquid tank", "description": "...", "health": 520, "size": 3, "requirements": [{"item": "pyfa", "amount": 14}, {"item": "fobige", "amount": 1}, {"item": "xami", "amount": 10}], "research": "pyfa-conduit", "category": "liquid", "liquidCapacity": 79974, "hasLiquids": true}

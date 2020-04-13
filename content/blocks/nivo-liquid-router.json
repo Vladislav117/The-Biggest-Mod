@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nivo liquid router", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "nivo", "amount": 5}, {"item": "gevu", "amount": 1}, {"item": "lebu", "amount": 2}], "research": "nivo-conduit", "liquidCapacity": 10, "category": "liquid"}

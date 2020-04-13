@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "boretu power node", "description": "...", "size": 2, "health": 669, "requirements": [{"item": "boretu", "amount": 14}, {"item": "hiwenium", "amount": 11}, {"item": "pele", "amount": 9}], "research": "boretu-factory", "maxNodes": 57, "laserRange": 30, "category": "power"}

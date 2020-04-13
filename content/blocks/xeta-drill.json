@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xeta drill", "description": "...", "size": 3, "health": 296, "tier": 1, "drillTime": 13, "consumes": {"power": 4}, "requirements": [{"item": "xeta", "amount": 5}, {"item": "cupyvu", "amount": 4}, {"item": "zypiqi", "amount": 2}], "research": "xeta-factory", "category": "production"}

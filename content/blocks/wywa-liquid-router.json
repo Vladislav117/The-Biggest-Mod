@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wywa liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "wywa", "amount": 13}, {"item": "besivi", "amount": 1}, {"item": "potesonium", "amount": 4}], "research": "wywa-conduit", "liquidCapacity": 10, "category": "liquid"}

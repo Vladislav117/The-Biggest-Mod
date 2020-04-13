@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lybutinium battery", "description": "...", "size": 1, "health": 316, "requirements": [{"item": "lybutinium", "amount": 9}, {"item": "vuvy", "amount": 4}, {"item": "sybo", "amount": 5}], "research": "lybutinium-factory", "consumes": {"powerBuffered": 2854}, "category": "power"}

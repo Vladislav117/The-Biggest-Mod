@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small puti solar panel", "description": "...", "size": 1, "health": 367, "requirements": [{"item": "puti", "amount": 19}, {"item": "hazi", "amount": 18}, {"item": "leloyi", "amount": 4}], "research": "puti-factory", "powerProduction": 5.2391153254548435, "category": "power"}

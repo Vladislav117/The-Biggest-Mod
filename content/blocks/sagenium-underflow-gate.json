@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sagenium underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "sagenium", "amount": 1}, {"item": "zowu", "amount": 1}], "research": "sagenium-conveyor", "category": "distribution", "invert": false}

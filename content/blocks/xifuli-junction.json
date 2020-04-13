@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xifuli junction", "description": "...", "health": 38, "speed": 5, "capacity": 15, "size": 1, "requirements": [{"item": "xifuli", "amount": 2}, {"item": "zydu", "amount": 1}], "research": "xifuli-conveyor", "category": "distribution"}

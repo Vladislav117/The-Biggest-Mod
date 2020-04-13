@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ruxobi power node", "description": "...", "size": 2, "health": 78, "requirements": [{"item": "ruxobi", "amount": 17}, {"item": "jyreki", "amount": 5}, {"item": "liki", "amount": 5}], "research": "ruxobi-factory", "maxNodes": 40, "laserRange": 25, "category": "power"}

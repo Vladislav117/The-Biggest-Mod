@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "yyludunium force projector", "description": "...", "health": 241, "size": 3, "consumes": {"power": 5.0, "item": "yyludunium"}, "requirements": [{"item": "yyludunium", "amount": 12}, {"item": "qeconium", "amount": 3}, {"item": "maveju", "amount": 8}], "research": "yyludunium-factory", "category": "effect"}

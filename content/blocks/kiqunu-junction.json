@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kiqunu junction", "description": "...", "health": 35, "speed": 19, "capacity": 18, "size": 1, "requirements": [{"item": "kiqunu", "amount": 2}, {"item": "kymu", "amount": 5}], "research": "kiqunu-conveyor", "category": "distribution"}

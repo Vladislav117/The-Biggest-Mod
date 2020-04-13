@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xadunium power node", "description": "...", "size": 1, "health": 277, "requirements": [{"item": "xadunium", "amount": 3}, {"item": "pezale", "amount": 20}, {"item": "lebu", "amount": 4}], "research": "xadunium-factory", "maxNodes": 10, "laserRange": 17, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "leyoqo power node", "description": "...", "size": 2, "health": 493, "requirements": [{"item": "leyoqo", "amount": 2}, {"item": "qubyra", "amount": 10}, {"item": "gimy", "amount": 10}], "research": "leyoqo-factory", "maxNodes": 49, "laserRange": 11, "category": "power"}

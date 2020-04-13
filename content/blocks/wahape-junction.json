@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wahape junction", "description": "...", "health": 6, "speed": 13, "capacity": 4, "size": 1, "requirements": [{"item": "wahape", "amount": 3}, {"item": "rose", "amount": 4}], "research": "wahape-conveyor", "category": "distribution"}

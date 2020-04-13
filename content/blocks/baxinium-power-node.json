@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "baxinium power node", "description": "...", "size": 2, "health": 227, "requirements": [{"item": "baxinium", "amount": 2}, {"item": "koviga", "amount": 3}, {"item": "taxidy", "amount": 3}], "research": "baxinium-factory", "maxNodes": 24, "laserRange": 28, "category": "power"}

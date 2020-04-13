@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cokyro battery", "description": "...", "size": 1, "health": 347, "requirements": [{"item": "cokyro", "amount": 10}, {"item": "famuqunium", "amount": 2}, {"item": "lalubo", "amount": 9}], "research": "cokyro-factory", "consumes": {"powerBuffered": 2884}, "category": "power"}

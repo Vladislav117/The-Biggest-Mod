@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lisaca conduit", "description": "...", "health": 173, "requirements": [{"item": "lisaca", "amount": 8}, {"item": "viqamo", "amount": 14}, {"item": "sacigi", "amount": 9}], "liquidCapacity": 10, "liquidPressure": 8, "research": "lisaca-factory", "category": "liquid"}

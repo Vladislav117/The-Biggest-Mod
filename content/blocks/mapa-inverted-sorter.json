@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mapa inverted sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "mapa", "amount": 1}, {"item": "zaxynium", "amount": 5}], "research": "mapa-conveyor", "category": "distribution", "invert": true}

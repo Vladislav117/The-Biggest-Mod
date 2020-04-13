@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "moxi bridge conveyor", "description": "", "health": 49, "range": 3, "speed": 11, "bufferCapacity": 6, "requirements": [{"item": "moxi", "amount": 2}, {"item": "vodaxa", "amount": 3}], "research": "moxi-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "civu power node", "description": "...", "size": 2, "health": 189, "requirements": [{"item": "civu", "amount": 3}, {"item": "ruwysu", "amount": 10}, {"item": "weka", "amount": 2}], "research": "civu-factory", "maxNodes": 34, "laserRange": 11, "category": "power"}

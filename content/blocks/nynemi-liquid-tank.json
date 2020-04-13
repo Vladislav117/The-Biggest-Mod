@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nynemi liquid tank", "description": "...", "health": 322, "size": 3, "requirements": [{"item": "nynemi", "amount": 20}, {"item": "lybazanium", "amount": 5}, {"item": "seleme", "amount": 7}], "research": "nynemi-conduit", "category": "liquid", "liquidCapacity": 27784, "hasLiquids": true}

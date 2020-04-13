@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gula drill", "description": "...", "size": 2, "health": 207, "tier": 3, "drillTime": 5, "consumes": {"power": 3}, "requirements": [{"item": "gula", "amount": 16}, {"item": "marynium", "amount": 4}, {"item": "cosi", "amount": 1}], "research": "gula-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cypamy inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "cypamy", "amount": 2}, {"item": "vezaya", "amount": 1}], "research": "cypamy-conveyor", "category": "distribution", "invert": true}

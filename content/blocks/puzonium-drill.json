@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "puzonium drill", "description": "...", "size": 4, "health": 376, "tier": 1, "drillTime": 14, "consumes": {"power": 3}, "requirements": [{"item": "puzonium", "amount": 13}, {"item": "ceyuwy", "amount": 15}, {"item": "hihunium", "amount": 1}], "research": "puzonium-factory", "category": "production"}

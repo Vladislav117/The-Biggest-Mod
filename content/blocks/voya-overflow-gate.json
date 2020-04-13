@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "voya overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "voya", "amount": 1}, {"item": "nuzivo", "amount": 2}], "research": "voya-conveyor", "category": "distribution", "invert": false}

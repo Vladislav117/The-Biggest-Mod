@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nipe conduit", "description": "...", "health": 59, "requirements": [{"item": "nipe", "amount": 20}, {"item": "lelybe", "amount": 7}, {"item": "hedege", "amount": 8}], "liquidCapacity": 42, "liquidPressure": 8, "research": "nipe-factory", "category": "liquid"}

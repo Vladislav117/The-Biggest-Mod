@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sadime battery", "description": "...", "size": 1, "health": 180, "requirements": [{"item": "sadime", "amount": 9}, {"item": "lejara", "amount": 11}, {"item": "byqi", "amount": 9}], "research": "sadime-factory", "consumes": {"powerBuffered": 2882}, "category": "power"}

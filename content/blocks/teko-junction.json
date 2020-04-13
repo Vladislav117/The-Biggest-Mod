@@ -1,0 +1,1 @@
+{"type": "junction", "name": "teko junction", "description": "...", "health": 41, "speed": 18, "capacity": 6, "size": 1, "requirements": [{"item": "teko", "amount": 1}, {"item": "cuwe", "amount": 4}], "research": "teko-conveyor", "category": "distribution"}

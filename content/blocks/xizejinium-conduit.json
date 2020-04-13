@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xizejinium conduit", "description": "...", "health": 21, "requirements": [{"item": "xizejinium", "amount": 1}, {"item": "pyto", "amount": 3}, {"item": "cozuja", "amount": 10}], "liquidCapacity": 3, "liquidPressure": 3, "research": "xizejinium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sumura solar panel", "description": "...", "size": 3, "health": 136, "requirements": [{"item": "sumura", "amount": 7}, {"item": "nigunium", "amount": 7}, {"item": "jeyanium", "amount": 2}], "research": "sumura-factory", "powerProduction": 7.796959463647663, "category": "power"}

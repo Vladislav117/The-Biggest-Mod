@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tigocenium solar panel", "description": "...", "size": 3, "health": 265, "requirements": [{"item": "tigocenium", "amount": 5}, {"item": "rogoly", "amount": 10}, {"item": "hypi", "amount": 9}], "research": "tigocenium-factory", "powerProduction": 0.07265015118005443, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vigyqinium junction", "description": "...", "health": 8, "speed": 19, "capacity": 2, "size": 1, "requirements": [{"item": "vigyqinium", "amount": 5}, {"item": "hudo", "amount": 5}], "research": "vigyqinium-conveyor", "category": "distribution"}

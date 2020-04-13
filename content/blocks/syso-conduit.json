@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "syso conduit", "description": "...", "health": 158, "requirements": [{"item": "syso", "amount": 8}, {"item": "zatire", "amount": 8}, {"item": "hazi", "amount": 9}], "liquidCapacity": 12, "liquidPressure": 1, "research": "syso-factory", "category": "liquid"}

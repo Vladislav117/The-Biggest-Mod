@@ -1,0 +1,1 @@
+{"type": "battery", "name": "foriso battery", "description": "...", "size": 3, "health": 231, "requirements": [{"item": "foriso", "amount": 18}, {"item": "kedymi", "amount": 5}, {"item": "qysacy", "amount": 7}], "research": "foriso-factory", "consumes": {"powerBuffered": 1602}, "category": "power"}

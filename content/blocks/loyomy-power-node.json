@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "loyomy power node", "description": "...", "size": 2, "health": 532, "requirements": [{"item": "loyomy", "amount": 19}, {"item": "pigagunium", "amount": 5}, {"item": "yazu", "amount": 2}], "research": "loyomy-factory", "maxNodes": 36, "laserRange": 21, "category": "power"}

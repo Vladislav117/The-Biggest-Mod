@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fipa bridge conveyor", "description": "", "health": 17, "range": 12, "speed": 2, "bufferCapacity": 3, "requirements": [{"item": "fipa", "amount": 4}, {"item": "pego", "amount": 1}], "research": "fipa-conveyor", "category": "distribution", "size": 1}

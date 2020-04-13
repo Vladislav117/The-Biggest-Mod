@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tumybi overflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "tumybi", "amount": 2}, {"item": "pegarunium", "amount": 1}], "research": "tumybi-conveyor", "category": "distribution", "invert": false}

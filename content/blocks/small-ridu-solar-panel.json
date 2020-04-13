@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ridu solar panel", "description": "...", "size": 1, "health": 252, "requirements": [{"item": "ridu", "amount": 2}, {"item": "jywupa", "amount": 19}, {"item": "kavequ", "amount": 3}], "research": "ridu-factory", "powerProduction": 2.769182672104682, "category": "power"}

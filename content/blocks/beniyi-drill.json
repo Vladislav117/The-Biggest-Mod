@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "beniyi drill", "description": "...", "size": 2, "health": 412, "tier": 3, "drillTime": 12, "consumes": {"power": 7}, "requirements": [{"item": "beniyi", "amount": 10}, {"item": "kegiqi", "amount": 4}, {"item": "vohiyynium", "amount": 6}], "research": "beniyi-factory", "category": "production"}

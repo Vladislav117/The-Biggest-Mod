@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "furazinium solar panel", "description": "...", "size": 3, "health": 306, "requirements": [{"item": "furazinium", "amount": 18}, {"item": "metaglass", "amount": 3}, {"item": "mygo", "amount": 10}], "research": "furazinium-factory", "powerProduction": 9.539954137143422, "category": "power"}

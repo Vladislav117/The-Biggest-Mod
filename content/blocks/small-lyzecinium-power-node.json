@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lyzecinium power node", "description": "...", "size": 1, "health": 147, "requirements": [{"item": "lyzecinium", "amount": 3}, {"item": "milosi", "amount": 1}, {"item": "kavequ", "amount": 7}], "research": "lyzecinium-factory", "maxNodes": 30, "laserRange": 18, "category": "power"}

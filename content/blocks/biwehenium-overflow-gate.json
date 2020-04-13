@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "biwehenium overflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "biwehenium", "amount": 3}, {"item": "myhaxu", "amount": 4}], "research": "biwehenium-conveyor", "category": "distribution", "invert": false}

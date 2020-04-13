@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "reqoxu bridge conveyor", "description": "", "health": 44, "range": 11, "speed": 9, "bufferCapacity": 13, "requirements": [{"item": "reqoxu", "amount": 1}, {"item": "vevudinium", "amount": 1}], "research": "reqoxu-conveyor", "category": "distribution", "size": 1}

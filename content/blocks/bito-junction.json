@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bito junction", "description": "...", "health": 6, "speed": 15, "capacity": 17, "size": 1, "requirements": [{"item": "bito", "amount": 4}, {"item": "rehodunium", "amount": 1}], "research": "bito-conveyor", "category": "distribution"}

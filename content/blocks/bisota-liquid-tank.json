@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bisota liquid tank", "description": "...", "health": 482, "size": 3, "requirements": [{"item": "bisota", "amount": 13}, {"item": "reboka", "amount": 10}, {"item": "xeye", "amount": 10}], "research": "bisota-conduit", "category": "liquid", "liquidCapacity": 84962, "hasLiquids": true}

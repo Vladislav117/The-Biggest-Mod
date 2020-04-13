@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vuponium conduit", "description": "...", "health": 187, "requirements": [{"item": "vuponium", "amount": 18}, {"item": "firyjo", "amount": 1}, {"item": "beyasonium", "amount": 6}], "liquidCapacity": 35, "liquidPressure": 0, "research": "vuponium-factory", "category": "liquid"}

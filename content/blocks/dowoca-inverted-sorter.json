@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dowoca inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "dowoca", "amount": 3}, {"item": "logy", "amount": 1}], "research": "dowoca-conveyor", "category": "distribution", "invert": true}

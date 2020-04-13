@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tefaco liquid tank", "description": "...", "health": 287, "size": 3, "requirements": [{"item": "tefaco", "amount": 18}, {"item": "cujyda", "amount": 8}, {"item": "megida", "amount": 9}], "research": "tefaco-conduit", "category": "liquid", "liquidCapacity": 97288, "hasLiquids": true}

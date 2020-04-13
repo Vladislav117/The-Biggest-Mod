@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sevinium solar panel", "description": "...", "size": 3, "health": 332, "requirements": [{"item": "sevinium", "amount": 12}, {"item": "zedo", "amount": 1}, {"item": "lipo", "amount": 5}], "research": "sevinium-factory", "powerProduction": 2.5277899639717853, "category": "power"}

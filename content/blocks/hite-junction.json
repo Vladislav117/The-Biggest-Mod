@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hite junction", "description": "...", "health": 22, "speed": 15, "capacity": 9, "size": 1, "requirements": [{"item": "hite", "amount": 1}, {"item": "dicaku", "amount": 5}], "research": "hite-conveyor", "category": "distribution"}

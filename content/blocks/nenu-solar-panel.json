@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nenu solar panel", "description": "...", "size": 3, "health": 177, "requirements": [{"item": "nenu", "amount": 15}, {"item": "kuwy", "amount": 14}, {"item": "vyly", "amount": 6}], "research": "nenu-factory", "powerProduction": 0.4256875677769797, "category": "power"}

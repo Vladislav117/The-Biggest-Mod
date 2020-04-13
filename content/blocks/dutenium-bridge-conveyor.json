@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dutenium bridge conveyor", "description": "", "health": 44, "range": 8, "speed": 4, "bufferCapacity": 15, "requirements": [{"item": "dutenium", "amount": 5}, {"item": "myvedi", "amount": 3}], "research": "dutenium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tavupi junction", "description": "...", "health": 26, "speed": 2, "capacity": 9, "size": 1, "requirements": [{"item": "tavupi", "amount": 2}, {"item": "mivini", "amount": 4}], "research": "tavupi-conveyor", "category": "distribution"}

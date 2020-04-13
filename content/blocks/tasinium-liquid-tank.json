@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tasinium liquid tank", "description": "...", "health": 184, "size": 3, "requirements": [{"item": "tasinium", "amount": 7}, {"item": "deqohu", "amount": 11}, {"item": "duyi", "amount": 2}], "research": "tasinium-conduit", "category": "liquid", "liquidCapacity": 73913, "hasLiquids": true}

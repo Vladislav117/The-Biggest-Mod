@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pijuje power node", "description": "...", "size": 1, "health": 394, "requirements": [{"item": "pijuje", "amount": 14}, {"item": "xoxu", "amount": 3}, {"item": "wobuyu", "amount": 2}], "research": "pijuje-factory", "maxNodes": 16, "laserRange": 21, "category": "power"}

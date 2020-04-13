@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jago battery", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "jago", "amount": 9}, {"item": "kokyya", "amount": 4}, {"item": "gunery", "amount": 10}], "research": "jago-factory", "consumes": {"powerBuffered": 1888}, "category": "power"}

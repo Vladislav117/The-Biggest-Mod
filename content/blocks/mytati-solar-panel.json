@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mytati solar panel", "description": "...", "size": 3, "health": 89, "requirements": [{"item": "mytati", "amount": 19}, {"item": "vivunium", "amount": 8}, {"item": "zufo", "amount": 7}], "research": "mytati-factory", "powerProduction": 0.18144939361468265, "category": "power"}

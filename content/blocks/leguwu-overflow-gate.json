@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "leguwu overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "leguwu", "amount": 4}, {"item": "yuqu", "amount": 5}], "research": "leguwu-conveyor", "category": "distribution", "invert": false}

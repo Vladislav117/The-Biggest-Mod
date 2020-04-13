@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jege power node", "description": "...", "size": 2, "health": 13, "requirements": [{"item": "jege", "amount": 3}, {"item": "lome", "amount": 7}, {"item": "waty", "amount": 1}], "research": "jege-factory", "maxNodes": 41, "laserRange": 21, "category": "power"}

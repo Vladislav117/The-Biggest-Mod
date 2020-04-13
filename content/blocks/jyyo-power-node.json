@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jyyo power node", "description": "...", "size": 2, "health": 577, "requirements": [{"item": "jyyo", "amount": 15}, {"item": "loqa", "amount": 9}, {"item": "zoqivanium", "amount": 8}], "research": "jyyo-factory", "maxNodes": 52, "laserRange": 10, "category": "power"}

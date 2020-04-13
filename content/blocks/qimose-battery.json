@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qimose battery", "description": "...", "size": 3, "health": 214, "requirements": [{"item": "qimose", "amount": 18}, {"item": "hoqade", "amount": 18}, {"item": "sacigi", "amount": 9}], "research": "qimose-factory", "consumes": {"powerBuffered": 1176}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fogodo solar panel", "description": "...", "size": 3, "health": 85, "requirements": [{"item": "fogodo", "amount": 7}, {"item": "fogodo", "amount": 13}, {"item": "fogodo", "amount": 6}], "research": "fogodo-factory", "powerProduction": 1.334306700465603, "category": "power"}

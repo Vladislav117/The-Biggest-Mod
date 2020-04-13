@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qacu conduit", "description": "...", "health": 114, "requirements": [{"item": "qacu", "amount": 9}, {"item": "lipo", "amount": 18}, {"item": "gidu", "amount": 1}], "liquidCapacity": 31, "liquidPressure": 2, "research": "qacu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pino bridge conveyor", "description": "", "health": 27, "range": 11, "speed": 4, "bufferCapacity": 16, "requirements": [{"item": "pino", "amount": 2}, {"item": "nevyle", "amount": 4}], "research": "pino-conveyor", "category": "distribution", "size": 1}

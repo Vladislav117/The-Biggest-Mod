@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kokyya solar panel", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "kokyya", "amount": 3}, {"item": "kyqu", "amount": 6}, {"item": "hyko", "amount": 10}], "research": "kokyya-factory", "powerProduction": 1.2088974864580513, "category": "power"}

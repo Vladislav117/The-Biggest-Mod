@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wuce overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "wuce", "amount": 2}, {"item": "nimawo", "amount": 3}], "research": "wuce-conveyor", "category": "distribution", "invert": false}

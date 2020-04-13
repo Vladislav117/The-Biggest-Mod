@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lurenium liquid tank", "description": "...", "health": 239, "size": 3, "requirements": [{"item": "lurenium", "amount": 2}, {"item": "ketanium", "amount": 4}, {"item": "vuru", "amount": 7}], "research": "lurenium-conduit", "category": "liquid", "liquidCapacity": 110691, "hasLiquids": true}

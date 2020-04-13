@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "piwoci overflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "piwoci", "amount": 1}, {"item": "surenium", "amount": 1}], "research": "piwoci-conveyor", "category": "distribution", "invert": false}

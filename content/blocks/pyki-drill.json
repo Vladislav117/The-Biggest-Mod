@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pyki drill", "description": "...", "size": 2, "health": 326, "tier": 1, "drillTime": 5, "consumes": {"power": 2}, "requirements": [{"item": "pyki", "amount": 3}, {"item": "bonazynium", "amount": 18}, {"item": "dagohe", "amount": 4}], "research": "pyki-factory", "category": "production"}

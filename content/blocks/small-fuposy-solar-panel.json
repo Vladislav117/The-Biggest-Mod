@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fuposy solar panel", "description": "...", "size": 1, "health": 213, "requirements": [{"item": "fuposy", "amount": 9}, {"item": "xikexi", "amount": 14}, {"item": "dune", "amount": 4}], "research": "fuposy-factory", "powerProduction": 6.498721696405533, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "simiwi bridge conveyor", "description": "", "health": 17, "range": 1, "speed": 6, "bufferCapacity": 19, "requirements": [{"item": "simiwi", "amount": 4}, {"item": "nihy", "amount": 4}], "research": "simiwi-conveyor", "category": "distribution", "size": 1}

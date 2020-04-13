@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qeca conduit", "description": "...", "health": 33, "requirements": [{"item": "qeca", "amount": 14}, {"item": "motaty", "amount": 10}, {"item": "hybobenium", "amount": 10}], "liquidCapacity": 27, "liquidPressure": 9, "research": "qeca-factory", "category": "liquid"}

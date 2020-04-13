@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wybenium bridge conveyor", "description": "", "health": 19, "range": 19, "speed": 18, "bufferCapacity": 11, "requirements": [{"item": "wybenium", "amount": 1}, {"item": "myjeke", "amount": 1}], "research": "wybenium-conveyor", "category": "distribution", "size": 1}

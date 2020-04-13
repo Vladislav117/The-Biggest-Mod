@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yelo power node", "description": "...", "size": 2, "health": 603, "requirements": [{"item": "yelo", "amount": 11}, {"item": "nejunium", "amount": 12}, {"item": "taja", "amount": 8}], "research": "yelo-factory", "maxNodes": 19, "laserRange": 7, "category": "power"}

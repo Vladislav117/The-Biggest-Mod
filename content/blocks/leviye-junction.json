@@ -1,0 +1,1 @@
+{"type": "junction", "name": "leviye junction", "description": "...", "health": 32, "speed": 7, "capacity": 9, "size": 1, "requirements": [{"item": "leviye", "amount": 2}, {"item": "sore", "amount": 3}], "research": "leviye-conveyor", "category": "distribution"}

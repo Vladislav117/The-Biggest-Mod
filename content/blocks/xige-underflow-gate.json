@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xige underflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "xige", "amount": 5}, {"item": "dimysynium", "amount": 2}], "research": "xige-conveyor", "category": "distribution", "invert": false}

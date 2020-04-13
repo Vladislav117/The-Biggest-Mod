@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lahowe power node", "description": "...", "size": 2, "health": 547, "requirements": [{"item": "lahowe", "amount": 11}, {"item": "nepysi", "amount": 19}, {"item": "myhuzi", "amount": 7}], "research": "lahowe-factory", "maxNodes": 18, "laserRange": 28, "category": "power"}

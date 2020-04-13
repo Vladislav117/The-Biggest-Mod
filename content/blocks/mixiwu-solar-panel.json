@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mixiwu solar panel", "description": "...", "size": 3, "health": 167, "requirements": [{"item": "mixiwu", "amount": 18}, {"item": "lovy", "amount": 12}, {"item": "xynice", "amount": 6}], "research": "mixiwu-factory", "powerProduction": 0.1041475017934564, "category": "power"}

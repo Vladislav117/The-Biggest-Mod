@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small piny battery", "description": "...", "size": 1, "health": 341, "requirements": [{"item": "piny", "amount": 3}, {"item": "yomi", "amount": 10}, {"item": "pudoki", "amount": 10}], "research": "piny-factory", "consumes": {"powerBuffered": 2987}, "category": "power"}

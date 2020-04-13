@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xayenium liquid tank", "description": "...", "health": 212, "size": 3, "requirements": [{"item": "xayenium", "amount": 16}, {"item": "zaqe", "amount": 10}, {"item": "raky", "amount": 5}], "research": "xayenium-conduit", "category": "liquid", "liquidCapacity": 72687, "hasLiquids": true}

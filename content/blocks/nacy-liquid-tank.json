@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nacy liquid tank", "description": "...", "health": 313, "size": 3, "requirements": [{"item": "nacy", "amount": 4}, {"item": "rebugunium", "amount": 17}, {"item": "cizyqe", "amount": 10}], "research": "nacy-conduit", "category": "liquid", "liquidCapacity": 79579, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mono solar panel", "description": "...", "size": 3, "health": 274, "requirements": [{"item": "mono", "amount": 8}, {"item": "wekonium", "amount": 4}, {"item": "qubyra", "amount": 2}], "research": "mono-factory", "powerProduction": 0.06370337916717635, "category": "power"}

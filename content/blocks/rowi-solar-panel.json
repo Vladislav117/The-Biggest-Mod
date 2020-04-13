@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rowi solar panel", "description": "...", "size": 3, "health": 240, "requirements": [{"item": "rowi", "amount": 14}, {"item": "tyzonium", "amount": 2}, {"item": "lygynium", "amount": 6}], "research": "rowi-factory", "powerProduction": 1.948802546399555, "category": "power"}

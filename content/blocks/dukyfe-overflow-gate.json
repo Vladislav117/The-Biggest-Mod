@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dukyfe overflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "dukyfe", "amount": 2}, {"item": "puli", "amount": 5}], "research": "dukyfe-conveyor", "category": "distribution", "invert": false}

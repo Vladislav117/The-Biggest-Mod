@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nenu power node", "description": "...", "size": 2, "health": 579, "requirements": [{"item": "nenu", "amount": 1}, {"item": "laranium", "amount": 9}, {"item": "qubyra", "amount": 1}], "research": "nenu-factory", "maxNodes": 23, "laserRange": 11, "category": "power"}

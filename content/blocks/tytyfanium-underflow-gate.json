@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tytyfanium underflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "tytyfanium", "amount": 4}, {"item": "wadoka", "amount": 5}], "research": "tytyfanium-conveyor", "category": "distribution", "invert": false}

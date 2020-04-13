@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pemoqa liquid tank", "description": "...", "health": 406, "size": 3, "requirements": [{"item": "pemoqa", "amount": 5}, {"item": "nufaye", "amount": 16}, {"item": "kegiqi", "amount": 8}], "research": "pemoqa-conduit", "category": "liquid", "liquidCapacity": 31689, "hasLiquids": true}

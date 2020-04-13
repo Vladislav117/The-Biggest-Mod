@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hyji overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "hyji", "amount": 3}, {"item": "vapoqanium", "amount": 4}], "research": "hyji-conveyor", "category": "distribution", "invert": false}

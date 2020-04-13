@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mecyronium battery", "description": "...", "size": 3, "health": 300, "requirements": [{"item": "mecyronium", "amount": 4}, {"item": "lotacu", "amount": 9}, {"item": "yuzeninium", "amount": 1}], "research": "mecyronium-factory", "consumes": {"powerBuffered": 7961}, "category": "power"}

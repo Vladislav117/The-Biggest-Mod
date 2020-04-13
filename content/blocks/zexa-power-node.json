@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zexa power node", "description": "...", "size": 2, "health": 50, "requirements": [{"item": "zexa", "amount": 15}, {"item": "bomu", "amount": 7}, {"item": "pavanium", "amount": 10}], "research": "zexa-factory", "maxNodes": 54, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ryjy bridge conveyor", "description": "", "health": 46, "range": 1, "speed": 17, "bufferCapacity": 18, "requirements": [{"item": "ryjy", "amount": 1}, {"item": "ketanium", "amount": 5}], "research": "ryjy-conveyor", "category": "distribution", "size": 1}

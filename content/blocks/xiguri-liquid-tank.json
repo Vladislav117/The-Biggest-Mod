@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xiguri liquid tank", "description": "...", "health": 294, "size": 3, "requirements": [{"item": "xiguri", "amount": 20}, {"item": "yama", "amount": 17}, {"item": "sebypa", "amount": 1}], "research": "xiguri-conduit", "category": "liquid", "liquidCapacity": 9773, "hasLiquids": true}

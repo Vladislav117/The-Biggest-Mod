@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fipa sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "fipa", "amount": 1}, {"item": "veco", "amount": 5}], "research": "fipa-conveyor", "category": "distribution", "invert": false}

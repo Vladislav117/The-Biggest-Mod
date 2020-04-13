@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cesunium power node", "description": "...", "size": 2, "health": 473, "requirements": [{"item": "cesunium", "amount": 1}, {"item": "kufuvunium", "amount": 12}, {"item": "kyje", "amount": 9}], "research": "cesunium-factory", "maxNodes": 53, "laserRange": 30, "category": "power"}

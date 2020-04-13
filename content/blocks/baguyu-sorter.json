@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "baguyu sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "baguyu", "amount": 5}, {"item": "hudolo", "amount": 4}], "research": "baguyu-conveyor", "category": "distribution", "invert": false}

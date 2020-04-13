@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zenuwunium inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "zenuwunium", "amount": 5}, {"item": "niqy", "amount": 1}], "research": "zenuwunium-conveyor", "category": "distribution", "invert": true}

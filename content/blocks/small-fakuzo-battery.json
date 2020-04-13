@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fakuzo battery", "description": "...", "size": 1, "health": 393, "requirements": [{"item": "fakuzo", "amount": 14}, {"item": "byxo", "amount": 5}, {"item": "vety", "amount": 6}], "research": "fakuzo-factory", "consumes": {"powerBuffered": 2988}, "category": "power"}

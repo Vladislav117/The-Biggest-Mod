@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "runohy solar panel", "description": "...", "size": 3, "health": 322, "requirements": [{"item": "runohy", "amount": 8}, {"item": "symeca", "amount": 18}, {"item": "nuso", "amount": 1}], "research": "runohy-factory", "powerProduction": 0.1531107645064314, "category": "power"}

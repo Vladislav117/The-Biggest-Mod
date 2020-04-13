@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kowaxy battery", "description": "...", "size": 1, "health": 374, "requirements": [{"item": "kowaxy", "amount": 16}, {"item": "xiwaza", "amount": 16}, {"item": "pydi", "amount": 5}], "research": "kowaxy-factory", "consumes": {"powerBuffered": 1495}, "category": "power"}

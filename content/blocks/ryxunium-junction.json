@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ryxunium junction", "description": "...", "health": 28, "speed": 8, "capacity": 10, "size": 1, "requirements": [{"item": "ryxunium", "amount": 4}, {"item": "pojesu", "amount": 5}], "research": "ryxunium-conveyor", "category": "distribution"}

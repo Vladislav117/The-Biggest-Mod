@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "monobu sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "monobu", "amount": 2}, {"item": "garoqanium", "amount": 3}], "research": "monobu-conveyor", "category": "distribution", "invert": false}

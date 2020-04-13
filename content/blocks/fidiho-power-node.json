@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fidiho power node", "description": "...", "size": 2, "health": 339, "requirements": [{"item": "fidiho", "amount": 13}, {"item": "tixanu", "amount": 15}, {"item": "wifa", "amount": 2}], "research": "fidiho-factory", "maxNodes": 48, "laserRange": 5, "category": "power"}

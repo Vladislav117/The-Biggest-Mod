@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pydudanium sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "pydudanium", "amount": 1}, {"item": "joqoranium", "amount": 1}], "research": "pydudanium-conveyor", "category": "distribution", "invert": false}

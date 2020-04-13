@@ -1,0 +1,1 @@
+{"type": "junction", "name": "halyqinium junction", "description": "...", "health": 50, "speed": 17, "capacity": 18, "size": 1, "requirements": [{"item": "halyqinium", "amount": 2}, {"item": "byyu", "amount": 1}], "research": "halyqinium-conveyor", "category": "distribution"}

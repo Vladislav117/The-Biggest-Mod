@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kokemy battery", "description": "...", "size": 3, "health": 282, "requirements": [{"item": "kokemy", "amount": 19}, {"item": "kyqedu", "amount": 16}, {"item": "qudeya", "amount": 8}], "research": "kokemy-factory", "consumes": {"powerBuffered": 9762}, "category": "power"}

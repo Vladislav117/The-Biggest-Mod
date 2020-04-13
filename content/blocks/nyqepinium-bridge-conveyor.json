@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nyqepinium bridge conveyor", "description": "", "health": 25, "range": 3, "speed": 6, "bufferCapacity": 12, "requirements": [{"item": "nyqepinium", "amount": 2}, {"item": "wofiny", "amount": 4}], "research": "nyqepinium-conveyor", "category": "distribution", "size": 1}

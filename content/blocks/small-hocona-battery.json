@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hocona battery", "description": "...", "size": 1, "health": 158, "requirements": [{"item": "hocona", "amount": 18}, {"item": "fasaze", "amount": 13}, {"item": "cepi", "amount": 10}], "research": "hocona-factory", "consumes": {"powerBuffered": 1269}, "category": "power"}

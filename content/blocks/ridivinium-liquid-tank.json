@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ridivinium liquid tank", "description": "...", "health": 306, "size": 3, "requirements": [{"item": "ridivinium", "amount": 9}, {"item": "vabeda", "amount": 4}, {"item": "torufonium", "amount": 4}], "research": "ridivinium-conduit", "category": "liquid", "liquidCapacity": 11976, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wehy battery", "description": "...", "size": 3, "health": 169, "requirements": [{"item": "wehy", "amount": 7}, {"item": "julu", "amount": 16}, {"item": "dyhyzy", "amount": 5}], "research": "wehy-factory", "consumes": {"powerBuffered": 9884}, "category": "power"}

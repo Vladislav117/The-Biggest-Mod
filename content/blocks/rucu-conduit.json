@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rucu conduit", "description": "...", "health": 87, "requirements": [{"item": "rucu", "amount": 19}, {"item": "dekaga", "amount": 12}, {"item": "tolo", "amount": 4}], "liquidCapacity": 20, "liquidPressure": 2, "research": "rucu-factory", "category": "liquid"}

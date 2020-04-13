@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "furazinium sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "furazinium", "amount": 3}, {"item": "thorium", "amount": 2}], "research": "furazinium-conveyor", "category": "distribution", "invert": false}

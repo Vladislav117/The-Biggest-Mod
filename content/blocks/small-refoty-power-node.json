@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small refoty power node", "description": "...", "size": 1, "health": 379, "requirements": [{"item": "refoty", "amount": 14}, {"item": "luyo", "amount": 20}, {"item": "kexebinium", "amount": 8}], "research": "refoty-factory", "maxNodes": 5, "laserRange": 24, "category": "power"}

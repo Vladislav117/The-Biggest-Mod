@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xaji solar panel", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "xaji", "amount": 16}, {"item": "qicu", "amount": 16}, {"item": "veru", "amount": 10}], "research": "xaji-factory", "powerProduction": 5.6000364533455205, "category": "power"}

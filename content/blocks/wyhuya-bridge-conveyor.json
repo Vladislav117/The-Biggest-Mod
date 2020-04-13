@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wyhuya bridge conveyor", "description": "", "health": 16, "range": 16, "speed": 8, "bufferCapacity": 24, "requirements": [{"item": "wyhuya", "amount": 2}, {"item": "wupera", "amount": 2}], "research": "wyhuya-conveyor", "category": "distribution", "size": 1}

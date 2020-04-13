@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "suminium conduit", "description": "...", "health": 142, "requirements": [{"item": "suminium", "amount": 19}, {"item": "xevenium", "amount": 10}, {"item": "jumonium", "amount": 6}], "liquidCapacity": 17, "liquidPressure": 1, "research": "suminium-factory", "category": "liquid"}

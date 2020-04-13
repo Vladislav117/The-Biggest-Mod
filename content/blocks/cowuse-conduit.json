@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cowuse conduit", "description": "...", "health": 130, "requirements": [{"item": "cowuse", "amount": 5}, {"item": "melanium", "amount": 2}, {"item": "ciqu", "amount": 10}], "liquidCapacity": 7, "liquidPressure": 10, "research": "cowuse-factory", "category": "liquid"}

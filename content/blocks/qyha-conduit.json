@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qyha conduit", "description": "...", "health": 40, "requirements": [{"item": "qyha", "amount": 19}, {"item": "lisaca", "amount": 16}, {"item": "haqu", "amount": 10}], "liquidCapacity": 47, "liquidPressure": 3, "research": "qyha-factory", "category": "liquid"}

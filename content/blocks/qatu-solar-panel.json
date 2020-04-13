@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qatu solar panel", "description": "...", "size": 3, "health": 342, "requirements": [{"item": "qatu", "amount": 20}, {"item": "cuha", "amount": 13}, {"item": "zihy", "amount": 2}], "research": "qatu-factory", "powerProduction": 0.03380611742813601, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rylyki junction", "description": "...", "health": 11, "speed": 18, "capacity": 3, "size": 1, "requirements": [{"item": "rylyki", "amount": 4}, {"item": "jafa", "amount": 1}], "research": "rylyki-conveyor", "category": "distribution"}

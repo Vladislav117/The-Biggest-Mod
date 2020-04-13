@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tagawe solar panel", "description": "...", "size": 1, "health": 148, "requirements": [{"item": "tagawe", "amount": 6}, {"item": "tiwyna", "amount": 13}, {"item": "kyna", "amount": 2}], "research": "tagawe-factory", "powerProduction": 0.3844400557910289, "category": "power"}

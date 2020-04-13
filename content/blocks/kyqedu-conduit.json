@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kyqedu conduit", "description": "...", "health": 100, "requirements": [{"item": "kyqedu", "amount": 3}, {"item": "zivo", "amount": 5}, {"item": "cyru", "amount": 5}], "liquidCapacity": 9, "liquidPressure": 9, "research": "kyqedu-factory", "category": "liquid"}

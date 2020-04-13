@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tuse liquid tank", "description": "...", "health": 411, "size": 3, "requirements": [{"item": "tuse", "amount": 20}, {"item": "taji", "amount": 11}, {"item": "vurewe", "amount": 5}], "research": "tuse-conduit", "category": "liquid", "liquidCapacity": 78338, "hasLiquids": true}

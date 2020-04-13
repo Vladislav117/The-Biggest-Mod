@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cyru liquid tank", "description": "...", "health": 142, "size": 3, "requirements": [{"item": "cyru", "amount": 1}, {"item": "ryhi", "amount": 4}, {"item": "yibufe", "amount": 4}], "research": "cyru-conduit", "category": "liquid", "liquidCapacity": 44952, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qyry power node", "description": "...", "size": 2, "health": 752, "requirements": [{"item": "qyry", "amount": 11}, {"item": "furazinium", "amount": 14}, {"item": "yymujy", "amount": 8}], "research": "qyry-factory", "maxNodes": 34, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bole liquid tank", "description": "...", "health": 176, "size": 3, "requirements": [{"item": "bole", "amount": 5}, {"item": "vuciby", "amount": 5}, {"item": "dowoca", "amount": 1}], "research": "bole-conduit", "category": "liquid", "liquidCapacity": 24894, "hasLiquids": true}

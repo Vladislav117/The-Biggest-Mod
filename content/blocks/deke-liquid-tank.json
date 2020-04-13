@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "deke liquid tank", "description": "...", "health": 588, "size": 3, "requirements": [{"item": "deke", "amount": 4}, {"item": "totiji", "amount": 11}, {"item": "nuxy", "amount": 2}], "research": "deke-conduit", "category": "liquid", "liquidCapacity": 3322, "hasLiquids": true}

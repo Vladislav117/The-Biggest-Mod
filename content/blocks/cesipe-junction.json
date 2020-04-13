@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cesipe junction", "description": "...", "health": 16, "speed": 6, "capacity": 17, "size": 1, "requirements": [{"item": "cesipe", "amount": 4}, {"item": "wapalu", "amount": 1}], "research": "cesipe-conveyor", "category": "distribution"}

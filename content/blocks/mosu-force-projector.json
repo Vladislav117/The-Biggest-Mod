@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "mosu force projector", "description": "...", "health": 196, "size": 3, "consumes": {"power": 5.0, "item": "mosu"}, "requirements": [{"item": "mosu", "amount": 1}, {"item": "wugyjinium", "amount": 5}, {"item": "yeci", "amount": 3}], "research": "mosu-factory", "category": "effect"}

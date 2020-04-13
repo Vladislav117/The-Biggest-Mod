@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hypotinium liquid tank", "description": "...", "health": 469, "size": 3, "requirements": [{"item": "hypotinium", "amount": 5}, {"item": "nigoxunium", "amount": 3}, {"item": "wygy", "amount": 8}], "research": "hypotinium-conduit", "category": "liquid", "liquidCapacity": 105687, "hasLiquids": true}

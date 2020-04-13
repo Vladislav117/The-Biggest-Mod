@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small beronium power node", "description": "...", "size": 1, "health": 238, "requirements": [{"item": "beronium", "amount": 14}, {"item": "colu", "amount": 20}, {"item": "jyxexi", "amount": 5}], "research": "beronium-factory", "maxNodes": 19, "laserRange": 6, "category": "power"}

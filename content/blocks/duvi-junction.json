@@ -1,0 +1,1 @@
+{"type": "junction", "name": "duvi junction", "description": "...", "health": 21, "speed": 10, "capacity": 7, "size": 1, "requirements": [{"item": "duvi", "amount": 5}, {"item": "wuronium", "amount": 1}], "research": "duvi-conveyor", "category": "distribution"}

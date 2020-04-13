@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qaje underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "qaje", "amount": 2}, {"item": "lufe", "amount": 4}], "research": "qaje-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mohoze power node", "description": "...", "size": 2, "health": 631, "requirements": [{"item": "mohoze", "amount": 14}, {"item": "vabeda", "amount": 12}, {"item": "pucy", "amount": 10}], "research": "mohoze-factory", "maxNodes": 54, "laserRange": 15, "category": "power"}

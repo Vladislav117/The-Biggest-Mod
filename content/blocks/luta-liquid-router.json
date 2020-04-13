@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "luta liquid router", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "luta", "amount": 17}, {"item": "velyma", "amount": 19}, {"item": "piqo", "amount": 9}], "research": "luta-conduit", "liquidCapacity": 10, "category": "liquid"}

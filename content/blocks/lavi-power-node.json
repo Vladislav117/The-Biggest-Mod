@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lavi power node", "description": "...", "size": 2, "health": 443, "requirements": [{"item": "lavi", "amount": 2}, {"item": "lymy", "amount": 5}, {"item": "yupo", "amount": 4}], "research": "lavi-factory", "maxNodes": 16, "laserRange": 12, "category": "power"}

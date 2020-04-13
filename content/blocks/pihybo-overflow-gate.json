@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pihybo overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "pihybo", "amount": 4}, {"item": "joqoranium", "amount": 1}], "research": "pihybo-conveyor", "category": "distribution", "invert": false}

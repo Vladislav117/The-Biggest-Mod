@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dibu inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "dibu", "amount": 4}, {"item": "rovu", "amount": 5}], "research": "dibu-conveyor", "category": "distribution", "invert": true}

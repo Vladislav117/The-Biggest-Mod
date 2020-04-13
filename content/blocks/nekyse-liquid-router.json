@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nekyse liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "nekyse", "amount": 12}, {"item": "hypi", "amount": 13}, {"item": "yudesinium", "amount": 6}], "research": "nekyse-conduit", "liquidCapacity": 10, "category": "liquid"}

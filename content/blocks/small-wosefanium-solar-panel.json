@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wosefanium solar panel", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "wosefanium", "amount": 4}, {"item": "wareginium", "amount": 2}, {"item": "lazynu", "amount": 2}], "research": "wosefanium-factory", "powerProduction": 0.22071003524472887, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zuqu liquid tank", "description": "...", "health": 600, "size": 3, "requirements": [{"item": "zuqu", "amount": 3}, {"item": "tobaye", "amount": 18}, {"item": "mecyronium", "amount": 2}], "research": "zuqu-conduit", "category": "liquid", "liquidCapacity": 68568, "hasLiquids": true}

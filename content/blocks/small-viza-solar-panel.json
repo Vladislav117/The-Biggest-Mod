@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small viza solar panel", "description": "...", "size": 1, "health": 372, "requirements": [{"item": "viza", "amount": 20}, {"item": "vyjoti", "amount": 13}, {"item": "werexo", "amount": 8}], "research": "viza-factory", "powerProduction": 4.171877456657207, "category": "power"}

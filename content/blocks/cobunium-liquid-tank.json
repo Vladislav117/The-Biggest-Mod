@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cobunium liquid tank", "description": "...", "health": 185, "size": 3, "requirements": [{"item": "cobunium", "amount": 2}, {"item": "wupera", "amount": 10}, {"item": "sylyxy", "amount": 1}], "research": "cobunium-conduit", "category": "liquid", "liquidCapacity": 113382, "hasLiquids": true}

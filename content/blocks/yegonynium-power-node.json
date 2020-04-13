@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yegonynium power node", "description": "...", "size": 2, "health": 469, "requirements": [{"item": "yegonynium", "amount": 5}, {"item": "juhura", "amount": 8}, {"item": "qery", "amount": 4}], "research": "yegonynium-factory", "maxNodes": 29, "laserRange": 19, "category": "power"}

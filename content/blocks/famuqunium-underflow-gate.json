@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "famuqunium underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "famuqunium", "amount": 4}, {"item": "rumigonium", "amount": 2}], "research": "famuqunium-conveyor", "category": "distribution", "invert": false}

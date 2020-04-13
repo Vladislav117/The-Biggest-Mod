@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jehyty liquid tank", "description": "...", "health": 555, "size": 3, "requirements": [{"item": "jehyty", "amount": 5}, {"item": "zadyle", "amount": 16}, {"item": "guqyza", "amount": 4}], "research": "jehyty-conduit", "category": "liquid", "liquidCapacity": 113593, "hasLiquids": true}

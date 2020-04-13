@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zyganium solar panel", "description": "...", "size": 1, "health": 113, "requirements": [{"item": "zyganium", "amount": 16}, {"item": "qaty", "amount": 15}, {"item": "riwe", "amount": 6}], "research": "zyganium-factory", "powerProduction": 13.24361892448151, "category": "power"}

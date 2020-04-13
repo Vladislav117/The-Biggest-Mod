@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mixy conduit", "description": "...", "health": 63, "requirements": [{"item": "mixy", "amount": 16}, {"item": "ceny", "amount": 20}, {"item": "vohiyynium", "amount": 5}], "liquidCapacity": 50, "liquidPressure": 2, "research": "mixy-factory", "category": "liquid"}

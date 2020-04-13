@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cylify liquid tank", "description": "...", "health": 579, "size": 3, "requirements": [{"item": "cylify", "amount": 15}, {"item": "qiqo", "amount": 19}, {"item": "cuqolu", "amount": 6}], "research": "cylify-conduit", "category": "liquid", "liquidCapacity": 19211, "hasLiquids": true}

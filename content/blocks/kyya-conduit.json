@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kyya conduit", "description": "...", "health": 149, "requirements": [{"item": "kyya", "amount": 5}, {"item": "zyru", "amount": 11}, {"item": "zoju", "amount": 1}], "liquidCapacity": 28, "liquidPressure": 4, "research": "kyya-factory", "category": "liquid"}

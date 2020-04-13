@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "syro solar panel", "description": "...", "size": 3, "health": 126, "requirements": [{"item": "syro", "amount": 1}, {"item": "kufuvunium", "amount": 16}, {"item": "tebebe", "amount": 7}], "research": "syro-factory", "powerProduction": 0.6053581394917822, "category": "power"}

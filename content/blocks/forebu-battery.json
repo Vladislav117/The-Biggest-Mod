@@ -1,0 +1,1 @@
+{"type": "battery", "name": "forebu battery", "description": "...", "size": 3, "health": 177, "requirements": [{"item": "forebu", "amount": 5}, {"item": "hiwe", "amount": 10}, {"item": "jywupa", "amount": 7}], "research": "forebu-factory", "consumes": {"powerBuffered": 2841}, "category": "power"}

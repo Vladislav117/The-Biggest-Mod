@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zalirenium solar panel", "description": "...", "size": 3, "health": 234, "requirements": [{"item": "zalirenium", "amount": 19}, {"item": "tuma", "amount": 4}, {"item": "culy", "amount": 10}], "research": "zalirenium-factory", "powerProduction": 5.247013025274415, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "liny overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "liny", "amount": 1}, {"item": "quda", "amount": 4}], "research": "liny-conveyor", "category": "distribution", "invert": false}

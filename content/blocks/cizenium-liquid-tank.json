@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cizenium liquid tank", "description": "...", "health": 513, "size": 3, "requirements": [{"item": "cizenium", "amount": 19}, {"item": "ruqe", "amount": 20}, {"item": "labonium", "amount": 8}], "research": "cizenium-conduit", "category": "liquid", "liquidCapacity": 58909, "hasLiquids": true}

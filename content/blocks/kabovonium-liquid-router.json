@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kabovonium liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "kabovonium", "amount": 16}, {"item": "hyla", "amount": 19}, {"item": "jepumi", "amount": 6}], "research": "kabovonium-conduit", "liquidCapacity": 10, "category": "liquid"}

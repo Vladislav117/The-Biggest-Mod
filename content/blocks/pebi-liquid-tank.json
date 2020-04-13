@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pebi liquid tank", "description": "...", "health": 500, "size": 3, "requirements": [{"item": "pebi", "amount": 13}, {"item": "kudanium", "amount": 10}, {"item": "savi", "amount": 6}], "research": "pebi-conduit", "category": "liquid", "liquidCapacity": 116673, "hasLiquids": true}

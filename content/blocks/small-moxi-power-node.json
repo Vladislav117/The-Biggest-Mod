@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small moxi power node", "description": "...", "size": 1, "health": 253, "requirements": [{"item": "moxi", "amount": 16}, {"item": "wulu", "amount": 6}, {"item": "kiduka", "amount": 2}], "research": "moxi-factory", "maxNodes": 24, "laserRange": 17, "category": "power"}

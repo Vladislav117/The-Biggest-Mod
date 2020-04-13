@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wilyne inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "wilyne", "amount": 3}, {"item": "minoxa", "amount": 4}], "research": "wilyne-conveyor", "category": "distribution", "invert": true}

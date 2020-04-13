@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tavuwy solar panel", "description": "...", "size": 3, "health": 368, "requirements": [{"item": "tavuwy", "amount": 7}, {"item": "hunynium", "amount": 13}, {"item": "razi", "amount": 1}], "research": "tavuwy-factory", "powerProduction": 15.505909967809032, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "simy junction", "description": "...", "health": 44, "speed": 19, "capacity": 12, "size": 1, "requirements": [{"item": "simy", "amount": 4}, {"item": "minu", "amount": 2}], "research": "simy-conveyor", "category": "distribution"}

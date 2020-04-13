@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "biye power node", "description": "...", "size": 2, "health": 672, "requirements": [{"item": "biye", "amount": 12}, {"item": "sywuze", "amount": 2}, {"item": "hiki", "amount": 9}], "research": "biye-factory", "maxNodes": 27, "laserRange": 11, "category": "power"}

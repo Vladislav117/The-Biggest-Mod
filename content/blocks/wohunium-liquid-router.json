@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wohunium liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "wohunium", "amount": 12}, {"item": "liqunium", "amount": 4}, {"item": "mygyyy", "amount": 6}], "research": "wohunium-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yemihonium liquid tank", "description": "...", "health": 404, "size": 3, "requirements": [{"item": "yemihonium", "amount": 7}, {"item": "xaky", "amount": 9}, {"item": "goti", "amount": 3}], "research": "yemihonium-conduit", "category": "liquid", "liquidCapacity": 84879, "hasLiquids": true}

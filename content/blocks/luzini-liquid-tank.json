@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "luzini liquid tank", "description": "...", "health": 518, "size": 3, "requirements": [{"item": "luzini", "amount": 11}, {"item": "yipobe", "amount": 7}, {"item": "fohebi", "amount": 10}], "research": "luzini-conduit", "category": "liquid", "liquidCapacity": 25279, "hasLiquids": true}

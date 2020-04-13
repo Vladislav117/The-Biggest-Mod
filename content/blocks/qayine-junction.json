@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qayine junction", "description": "...", "health": 13, "speed": 19, "capacity": 17, "size": 1, "requirements": [{"item": "qayine", "amount": 1}, {"item": "syminium", "amount": 3}], "research": "qayine-conveyor", "category": "distribution"}

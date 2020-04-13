@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bily conduit", "description": "...", "health": 115, "requirements": [{"item": "bily", "amount": 3}, {"item": "maqe", "amount": 20}, {"item": "qady", "amount": 6}], "liquidCapacity": 49, "liquidPressure": 7, "research": "bily-factory", "category": "liquid"}

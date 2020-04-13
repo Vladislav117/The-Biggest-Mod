@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lyqa power node", "description": "...", "size": 2, "health": 615, "requirements": [{"item": "lyqa", "amount": 17}, {"item": "fasaze", "amount": 20}, {"item": "fifyru", "amount": 3}], "research": "lyqa-factory", "maxNodes": 32, "laserRange": 10, "category": "power"}

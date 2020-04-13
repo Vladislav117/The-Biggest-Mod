@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "leyyde solar panel", "description": "...", "size": 3, "health": 141, "requirements": [{"item": "leyyde", "amount": 18}, {"item": "raqo", "amount": 19}, {"item": "tiwyna", "amount": 10}], "research": "leyyde-factory", "powerProduction": 0.09998908682916502, "category": "power"}

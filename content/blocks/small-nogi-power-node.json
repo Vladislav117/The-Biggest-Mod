@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nogi power node", "description": "...", "size": 1, "health": 340, "requirements": [{"item": "nogi", "amount": 15}, {"item": "vudaxy", "amount": 11}, {"item": "cobunium", "amount": 9}], "research": "nogi-factory", "maxNodes": 12, "laserRange": 19, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gorurenium power node", "description": "...", "size": 2, "health": 614, "requirements": [{"item": "gorurenium", "amount": 2}, {"item": "gago", "amount": 7}, {"item": "woro", "amount": 5}], "research": "gorurenium-factory", "maxNodes": 55, "laserRange": 27, "category": "power"}

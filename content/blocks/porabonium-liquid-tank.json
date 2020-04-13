@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "porabonium liquid tank", "description": "...", "health": 235, "size": 3, "requirements": [{"item": "porabonium", "amount": 8}, {"item": "larina", "amount": 12}, {"item": "zebe", "amount": 1}], "research": "porabonium-conduit", "category": "liquid", "liquidCapacity": 75250, "hasLiquids": true}

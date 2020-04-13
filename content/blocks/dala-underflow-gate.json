@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dala underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "dala", "amount": 2}, {"item": "cinynium", "amount": 5}], "research": "dala-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qiyy power node", "description": "...", "size": 2, "health": 333, "requirements": [{"item": "qiyy", "amount": 4}, {"item": "vykynium", "amount": 1}, {"item": "xyvo", "amount": 6}], "research": "qiyy-factory", "maxNodes": 51, "laserRange": 11, "category": "power"}

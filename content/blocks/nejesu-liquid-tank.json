@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nejesu liquid tank", "description": "...", "health": 448, "size": 3, "requirements": [{"item": "nejesu", "amount": 6}, {"item": "sytafe", "amount": 11}, {"item": "daqy", "amount": 1}], "research": "nejesu-conduit", "category": "liquid", "liquidCapacity": 116045, "hasLiquids": true}

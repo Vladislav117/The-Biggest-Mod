@@ -1,0 +1,1 @@
+{"type": "junction", "name": "famo junction", "description": "...", "health": 10, "speed": 1, "capacity": 18, "size": 1, "requirements": [{"item": "famo", "amount": 5}, {"item": "monu", "amount": 5}], "research": "famo-conveyor", "category": "distribution"}

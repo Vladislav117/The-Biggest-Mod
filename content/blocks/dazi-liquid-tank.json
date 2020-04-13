@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dazi liquid tank", "description": "...", "health": 496, "size": 3, "requirements": [{"item": "dazi", "amount": 19}, {"item": "vakyxinium", "amount": 3}, {"item": "lyhu", "amount": 2}], "research": "dazi-conduit", "category": "liquid", "liquidCapacity": 81034, "hasLiquids": true}

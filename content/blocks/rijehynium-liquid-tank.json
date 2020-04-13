@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rijehynium liquid tank", "description": "...", "health": 316, "size": 3, "requirements": [{"item": "rijehynium", "amount": 7}, {"item": "qexata", "amount": 1}, {"item": "voqa", "amount": 10}], "research": "rijehynium-conduit", "category": "liquid", "liquidCapacity": 79994, "hasLiquids": true}

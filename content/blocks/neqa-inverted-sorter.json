@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "neqa inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "neqa", "amount": 5}, {"item": "byyu", "amount": 1}], "research": "neqa-conveyor", "category": "distribution", "invert": true}

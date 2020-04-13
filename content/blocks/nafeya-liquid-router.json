@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nafeya liquid router", "description": "...", "size": 1, "health": 46, "requirements": [{"item": "nafeya", "amount": 9}, {"item": "ceny", "amount": 20}, {"item": "tuwe", "amount": 3}], "research": "nafeya-conduit", "liquidCapacity": 10, "category": "liquid"}

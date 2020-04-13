@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hujenium liquid tank", "description": "...", "health": 308, "size": 3, "requirements": [{"item": "hujenium", "amount": 12}, {"item": "fevawinium", "amount": 12}, {"item": "sayibe", "amount": 1}], "research": "hujenium-conduit", "category": "liquid", "liquidCapacity": 53772, "hasLiquids": true}

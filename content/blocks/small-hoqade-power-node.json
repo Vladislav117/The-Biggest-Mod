@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hoqade power node", "description": "...", "size": 1, "health": 216, "requirements": [{"item": "hoqade", "amount": 20}, {"item": "sytafe", "amount": 7}, {"item": "syteja", "amount": 8}], "research": "hoqade-factory", "maxNodes": 23, "laserRange": 15, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zyluci bridge conveyor", "description": "", "health": 47, "range": 14, "speed": 19, "bufferCapacity": 21, "requirements": [{"item": "zyluci", "amount": 4}, {"item": "pyce", "amount": 5}], "research": "zyluci-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hymafa power node", "description": "...", "size": 2, "health": 627, "requirements": [{"item": "hymafa", "amount": 1}, {"item": "xeye", "amount": 9}, {"item": "lywu", "amount": 9}], "research": "hymafa-factory", "maxNodes": 49, "laserRange": 11, "category": "power"}

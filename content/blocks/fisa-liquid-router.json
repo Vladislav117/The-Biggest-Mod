@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fisa liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "fisa", "amount": 16}, {"item": "gydexy", "amount": 10}, {"item": "sopage", "amount": 5}], "research": "fisa-conduit", "liquidCapacity": 10, "category": "liquid"}

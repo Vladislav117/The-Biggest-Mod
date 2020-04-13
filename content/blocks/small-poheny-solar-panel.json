@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small poheny solar panel", "description": "...", "size": 1, "health": 290, "requirements": [{"item": "poheny", "amount": 18}, {"item": "dekaga", "amount": 16}, {"item": "cujyda", "amount": 1}], "research": "poheny-factory", "powerProduction": 0.8068790020959976, "category": "power"}

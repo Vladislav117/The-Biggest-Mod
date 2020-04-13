@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vabeda liquid tank", "description": "...", "health": 576, "size": 3, "requirements": [{"item": "vabeda", "amount": 5}, {"item": "vurypo", "amount": 6}, {"item": "lebo", "amount": 9}], "research": "vabeda-conduit", "category": "liquid", "liquidCapacity": 16036, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "quge sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "quge", "amount": 1}, {"item": "rine", "amount": 1}], "research": "quge-conveyor", "category": "distribution", "invert": false}

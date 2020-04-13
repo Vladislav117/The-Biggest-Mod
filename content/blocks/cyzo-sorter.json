@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cyzo sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "cyzo", "amount": 3}, {"item": "gufanium", "amount": 4}], "research": "cyzo-conveyor", "category": "distribution", "invert": false}

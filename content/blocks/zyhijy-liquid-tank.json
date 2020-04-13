@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyhijy liquid tank", "description": "...", "health": 574, "size": 3, "requirements": [{"item": "zyhijy", "amount": 19}, {"item": "pigydinium", "amount": 10}, {"item": "mecyronium", "amount": 5}], "research": "zyhijy-conduit", "category": "liquid", "liquidCapacity": 43387, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yowiminium underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "yowiminium", "amount": 4}, {"item": "fahi", "amount": 1}], "research": "yowiminium-conveyor", "category": "distribution", "invert": false}

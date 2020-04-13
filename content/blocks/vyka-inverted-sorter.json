@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vyka inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "vyka", "amount": 1}, {"item": "boty", "amount": 4}], "research": "vyka-conveyor", "category": "distribution", "invert": true}

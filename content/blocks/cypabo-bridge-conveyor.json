@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cypabo bridge conveyor", "description": "", "health": 1, "range": 18, "speed": 12, "bufferCapacity": 21, "requirements": [{"item": "cypabo", "amount": 4}, {"item": "huyijo", "amount": 3}], "research": "cypabo-conveyor", "category": "distribution", "size": 1}

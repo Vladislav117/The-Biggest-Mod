@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mizu battery", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "mizu", "amount": 13}, {"item": "denu", "amount": 16}, {"item": "nyboye", "amount": 4}], "research": "mizu-factory", "consumes": {"powerBuffered": 1038}, "category": "power"}

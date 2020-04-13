@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "guda underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "guda", "amount": 2}, {"item": "gyfi", "amount": 1}], "research": "guda-conveyor", "category": "distribution", "invert": false}

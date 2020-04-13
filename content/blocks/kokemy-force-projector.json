@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "kokemy force projector", "description": "...", "health": 190, "size": 3, "consumes": {"power": 5.0, "item": "kokemy"}, "requirements": [{"item": "kokemy", "amount": 10}, {"item": "jasuly", "amount": 6}, {"item": "tifi", "amount": 1}], "research": "kokemy-factory", "category": "effect"}

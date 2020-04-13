@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dysenium battery", "description": "...", "size": 3, "health": 211, "requirements": [{"item": "dysenium", "amount": 7}, {"item": "wahape", "amount": 2}, {"item": "qiqo", "amount": 3}], "research": "dysenium-factory", "consumes": {"powerBuffered": 3528}, "category": "power"}

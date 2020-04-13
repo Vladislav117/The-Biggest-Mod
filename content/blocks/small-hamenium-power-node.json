@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hamenium power node", "description": "...", "size": 1, "health": 361, "requirements": [{"item": "hamenium", "amount": 13}, {"item": "kozivo", "amount": 8}, {"item": "pero", "amount": 1}], "research": "hamenium-factory", "maxNodes": 18, "laserRange": 9, "category": "power"}

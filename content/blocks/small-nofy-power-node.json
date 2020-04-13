@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nofy power node", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "nofy", "amount": 16}, {"item": "zefu", "amount": 9}, {"item": "fypizy", "amount": 8}], "research": "nofy-factory", "maxNodes": 15, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dojynium junction", "description": "...", "health": 25, "speed": 20, "capacity": 6, "size": 1, "requirements": [{"item": "dojynium", "amount": 5}, {"item": "zilida", "amount": 1}], "research": "dojynium-conveyor", "category": "distribution"}

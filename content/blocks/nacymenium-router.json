@@ -1,0 +1,1 @@
+{"type": "router", "name": "nacymenium router", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "nacymenium", "amount": 5}], "research": "nacymenium-conveyor", "category": "distribution"}

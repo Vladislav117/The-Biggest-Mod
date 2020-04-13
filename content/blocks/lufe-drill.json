@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lufe drill", "description": "...", "size": 2, "health": 182, "tier": 2, "drillTime": 9, "consumes": {"power": 4}, "requirements": [{"item": "lufe", "amount": 1}, {"item": "metaglass", "amount": 7}, {"item": "fyfoni", "amount": 4}], "research": "lufe-factory", "category": "production"}

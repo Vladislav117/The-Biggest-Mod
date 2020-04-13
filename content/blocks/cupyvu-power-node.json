@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cupyvu power node", "description": "...", "size": 2, "health": 12, "requirements": [{"item": "cupyvu", "amount": 18}, {"item": "devo", "amount": 12}, {"item": "fegy", "amount": 3}], "research": "cupyvu-factory", "maxNodes": 35, "laserRange": 26, "category": "power"}

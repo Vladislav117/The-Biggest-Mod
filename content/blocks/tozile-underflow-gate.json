@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tozile underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "tozile", "amount": 2}, {"item": "veba", "amount": 3}], "research": "tozile-conveyor", "category": "distribution", "invert": false}

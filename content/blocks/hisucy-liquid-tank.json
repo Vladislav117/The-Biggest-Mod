@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hisucy liquid tank", "description": "...", "health": 251, "size": 3, "requirements": [{"item": "hisucy", "amount": 12}, {"item": "juzu", "amount": 12}, {"item": "xicyru", "amount": 7}], "research": "hisucy-conduit", "category": "liquid", "liquidCapacity": 61283, "hasLiquids": true}

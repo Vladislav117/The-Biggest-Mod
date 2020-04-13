@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dagohe battery", "description": "...", "size": 1, "health": 382, "requirements": [{"item": "dagohe", "amount": 5}, {"item": "vyfebo", "amount": 19}, {"item": "vuvonium", "amount": 1}], "research": "dagohe-factory", "consumes": {"powerBuffered": 1965}, "category": "power"}

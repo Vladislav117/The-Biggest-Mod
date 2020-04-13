@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "veny power node", "description": "...", "size": 2, "health": 100, "requirements": [{"item": "veny", "amount": 2}, {"item": "puli", "amount": 4}, {"item": "miwaye", "amount": 10}], "research": "veny-factory", "maxNodes": 21, "laserRange": 24, "category": "power"}

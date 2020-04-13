@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bomiry battery", "description": "...", "size": 3, "health": 271, "requirements": [{"item": "bomiry", "amount": 5}, {"item": "culy", "amount": 2}, {"item": "yisyqu", "amount": 4}], "research": "bomiry-factory", "consumes": {"powerBuffered": 1998}, "category": "power"}

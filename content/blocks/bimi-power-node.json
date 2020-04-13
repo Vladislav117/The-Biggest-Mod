@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bimi power node", "description": "...", "size": 2, "health": 446, "requirements": [{"item": "bimi", "amount": 14}, {"item": "neloto", "amount": 8}, {"item": "dyxuhu", "amount": 6}], "research": "bimi-factory", "maxNodes": 21, "laserRange": 18, "category": "power"}

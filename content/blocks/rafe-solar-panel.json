@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rafe solar panel", "description": "...", "size": 3, "health": 187, "requirements": [{"item": "rafe", "amount": 14}, {"item": "nybaranium", "amount": 10}, {"item": "yylonium", "amount": 9}], "research": "rafe-factory", "powerProduction": 1.2139053593879998, "category": "power"}

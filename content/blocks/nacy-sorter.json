@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nacy sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "nacy", "amount": 4}, {"item": "qihy", "amount": 2}], "research": "nacy-conveyor", "category": "distribution", "invert": false}

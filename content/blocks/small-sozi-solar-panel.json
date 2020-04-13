@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sozi solar panel", "description": "...", "size": 1, "health": 204, "requirements": [{"item": "sozi", "amount": 13}, {"item": "zyremi", "amount": 13}, {"item": "jydi", "amount": 5}], "research": "sozi-factory", "powerProduction": 0.5942664801493902, "category": "power"}

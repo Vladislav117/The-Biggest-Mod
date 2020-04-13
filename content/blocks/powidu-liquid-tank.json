@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "powidu liquid tank", "description": "...", "health": 292, "size": 3, "requirements": [{"item": "powidu", "amount": 6}, {"item": "xyzeja", "amount": 14}, {"item": "yuby", "amount": 1}], "research": "powidu-conduit", "category": "liquid", "liquidCapacity": 119547, "hasLiquids": true}

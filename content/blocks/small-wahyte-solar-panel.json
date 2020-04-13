@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wahyte solar panel", "description": "...", "size": 1, "health": 25, "requirements": [{"item": "wahyte", "amount": 3}, {"item": "fuhixunium", "amount": 3}, {"item": "qoza", "amount": 8}], "research": "wahyte-factory", "powerProduction": 5.174295311290071, "category": "power"}

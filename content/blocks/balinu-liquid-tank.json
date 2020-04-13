@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "balinu liquid tank", "description": "...", "health": 598, "size": 3, "requirements": [{"item": "balinu", "amount": 5}, {"item": "raqo", "amount": 17}, {"item": "dyguzu", "amount": 8}], "research": "balinu-conduit", "category": "liquid", "liquidCapacity": 26165, "hasLiquids": true}

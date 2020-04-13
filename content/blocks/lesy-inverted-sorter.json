@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lesy inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "lesy", "amount": 4}, {"item": "cosi", "amount": 5}], "research": "lesy-conveyor", "category": "distribution", "invert": true}

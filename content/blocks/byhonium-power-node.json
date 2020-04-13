@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "byhonium power node", "description": "...", "size": 2, "health": 565, "requirements": [{"item": "byhonium", "amount": 12}, {"item": "gizomanium", "amount": 9}, {"item": "metaglass", "amount": 1}], "research": "byhonium-factory", "maxNodes": 19, "laserRange": 14, "category": "power"}

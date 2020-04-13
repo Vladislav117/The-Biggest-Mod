@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ryve solar panel", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "ryve", "amount": 11}, {"item": "xadyyo", "amount": 10}, {"item": "dihomu", "amount": 2}], "research": "ryve-factory", "powerProduction": 0.4220247714861489, "category": "power"}

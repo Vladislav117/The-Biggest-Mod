@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zyhebe power node", "description": "...", "size": 2, "health": 356, "requirements": [{"item": "zyhebe", "amount": 5}, {"item": "xucyfy", "amount": 4}, {"item": "bebofo", "amount": 5}], "research": "zyhebe-factory", "maxNodes": 10, "laserRange": 29, "category": "power"}

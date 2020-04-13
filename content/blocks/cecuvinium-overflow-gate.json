@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cecuvinium overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "cecuvinium", "amount": 4}, {"item": "yifity", "amount": 1}], "research": "cecuvinium-conveyor", "category": "distribution", "invert": false}

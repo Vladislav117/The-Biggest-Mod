@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hogyse overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "hogyse", "amount": 3}, {"item": "dyxuhu", "amount": 4}], "research": "hogyse-conveyor", "category": "distribution", "invert": false}

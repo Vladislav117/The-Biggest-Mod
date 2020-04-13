@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "virema inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "virema", "amount": 5}, {"item": "tebi", "amount": 4}], "research": "virema-conveyor", "category": "distribution", "invert": true}

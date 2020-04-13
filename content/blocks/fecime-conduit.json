@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fecime conduit", "description": "...", "health": 29, "requirements": [{"item": "fecime", "amount": 19}, {"item": "cebaba", "amount": 7}, {"item": "jazipynium", "amount": 7}], "liquidCapacity": 30, "liquidPressure": 2, "research": "fecime-factory", "category": "liquid"}

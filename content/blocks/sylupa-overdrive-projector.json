@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "sylupa overdrive projector", "description": "...", "health": 110, "consumes": {"power": 3.0, "item": "sylupa"}, "size": 2, "requirements": [{"item": "sylupa", "amount": 17}, {"item": "yirere", "amount": 18}, {"item": "kipiyenium", "amount": 1}], "research": "sylupa-factory", "category": "effect"}

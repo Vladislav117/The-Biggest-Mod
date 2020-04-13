@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qefa battery", "description": "...", "size": 3, "health": 174, "requirements": [{"item": "qefa", "amount": 2}, {"item": "qepyvonium", "amount": 9}, {"item": "sokima", "amount": 7}], "research": "qefa-factory", "consumes": {"powerBuffered": 6373}, "category": "power"}

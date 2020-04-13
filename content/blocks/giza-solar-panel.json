@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "giza solar panel", "description": "...", "size": 3, "health": 212, "requirements": [{"item": "giza", "amount": 10}, {"item": "lyhu", "amount": 3}, {"item": "dose", "amount": 9}], "research": "giza-factory", "powerProduction": 16.246724004201, "category": "power"}

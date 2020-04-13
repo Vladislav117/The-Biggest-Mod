@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yafo junction", "description": "...", "health": 13, "speed": 10, "capacity": 7, "size": 1, "requirements": [{"item": "yafo", "amount": 4}, {"item": "moye", "amount": 1}], "research": "yafo-conveyor", "category": "distribution"}

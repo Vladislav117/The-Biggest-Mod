@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small buyogenium battery", "description": "...", "size": 1, "health": 267, "requirements": [{"item": "buyogenium", "amount": 19}, {"item": "mygenium", "amount": 13}, {"item": "gogajy", "amount": 9}], "research": "buyogenium-factory", "consumes": {"powerBuffered": 1010}, "category": "power"}

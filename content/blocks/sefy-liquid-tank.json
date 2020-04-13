@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sefy liquid tank", "description": "...", "health": 467, "size": 3, "requirements": [{"item": "sefy", "amount": 10}, {"item": "wyfanium", "amount": 8}, {"item": "bacone", "amount": 8}], "research": "sefy-conduit", "category": "liquid", "liquidCapacity": 45552, "hasLiquids": true}

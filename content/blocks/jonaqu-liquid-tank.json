@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jonaqu liquid tank", "description": "...", "health": 665, "size": 3, "requirements": [{"item": "jonaqu", "amount": 11}, {"item": "bywazy", "amount": 20}, {"item": "dyjami", "amount": 7}], "research": "jonaqu-conduit", "category": "liquid", "liquidCapacity": 80816, "hasLiquids": true}

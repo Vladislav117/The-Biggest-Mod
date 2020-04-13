@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nolo battery", "description": "...", "size": 3, "health": 13, "requirements": [{"item": "nolo", "amount": 1}, {"item": "kixihinium", "amount": 2}, {"item": "kovi", "amount": 8}], "research": "nolo-factory", "consumes": {"powerBuffered": 5381}, "category": "power"}

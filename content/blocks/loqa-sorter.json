@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "loqa sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "loqa", "amount": 5}, {"item": "gupyfi", "amount": 1}], "research": "loqa-conveyor", "category": "distribution", "invert": false}

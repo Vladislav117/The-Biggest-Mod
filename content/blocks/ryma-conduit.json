@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ryma conduit", "description": "...", "health": 45, "requirements": [{"item": "ryma", "amount": 8}, {"item": "fygunium", "amount": 15}, {"item": "bihifenium", "amount": 2}], "liquidCapacity": 16, "liquidPressure": 4, "research": "ryma-factory", "category": "liquid"}

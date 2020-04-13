@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dunesy liquid tank", "description": "...", "health": 340, "size": 3, "requirements": [{"item": "dunesy", "amount": 7}, {"item": "cezi", "amount": 3}, {"item": "sezuke", "amount": 4}], "research": "dunesy-conduit", "category": "liquid", "liquidCapacity": 44512, "hasLiquids": true}

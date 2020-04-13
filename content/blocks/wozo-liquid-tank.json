@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wozo liquid tank", "description": "...", "health": 441, "size": 3, "requirements": [{"item": "wozo", "amount": 20}, {"item": "baboxi", "amount": 2}, {"item": "yicazunium", "amount": 6}], "research": "wozo-conduit", "category": "liquid", "liquidCapacity": 29305, "hasLiquids": true}

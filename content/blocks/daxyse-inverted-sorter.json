@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "daxyse inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "daxyse", "amount": 3}, {"item": "siga", "amount": 1}], "research": "daxyse-conveyor", "category": "distribution", "invert": true}

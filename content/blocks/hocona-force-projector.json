@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "hocona force projector", "description": "...", "health": 236, "size": 3, "consumes": {"power": 5.0, "item": "hocona"}, "requirements": [{"item": "hocona", "amount": 1}, {"item": "puzybo", "amount": 12}, {"item": "qenu", "amount": 5}], "research": "hocona-factory", "category": "effect"}

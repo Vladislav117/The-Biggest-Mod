@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xaji battery", "description": "...", "size": 3, "health": 383, "requirements": [{"item": "xaji", "amount": 14}, {"item": "yahi", "amount": 17}, {"item": "boseho", "amount": 4}], "research": "xaji-factory", "consumes": {"powerBuffered": 7880}, "category": "power"}

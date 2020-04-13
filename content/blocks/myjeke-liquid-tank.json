@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "myjeke liquid tank", "description": "...", "health": 188, "size": 3, "requirements": [{"item": "myjeke", "amount": 19}, {"item": "xikogo", "amount": 16}, {"item": "zugoni", "amount": 8}], "research": "myjeke-conduit", "category": "liquid", "liquidCapacity": 68549, "hasLiquids": true}

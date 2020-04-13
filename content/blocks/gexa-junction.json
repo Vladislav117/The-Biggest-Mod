@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gexa junction", "description": "...", "health": 7, "speed": 15, "capacity": 1, "size": 1, "requirements": [{"item": "gexa", "amount": 5}, {"item": "bosery", "amount": 5}], "research": "gexa-conveyor", "category": "distribution"}

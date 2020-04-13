@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "porabonium sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "porabonium", "amount": 5}, {"item": "miyaxanium", "amount": 4}], "research": "porabonium-conveyor", "category": "distribution", "invert": false}

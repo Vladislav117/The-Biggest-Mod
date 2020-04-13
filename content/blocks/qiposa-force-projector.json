@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "qiposa force projector", "description": "...", "health": 164, "size": 3, "consumes": {"power": 5.0, "item": "qiposa"}, "requirements": [{"item": "qiposa", "amount": 14}, {"item": "nejesu", "amount": 17}, {"item": "qacu", "amount": 10}], "research": "qiposa-factory", "category": "effect"}

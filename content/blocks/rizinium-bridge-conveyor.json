@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rizinium bridge conveyor", "description": "", "health": 13, "range": 13, "speed": 20, "bufferCapacity": 2, "requirements": [{"item": "rizinium", "amount": 4}, {"item": "zurehy", "amount": 5}], "research": "rizinium-conveyor", "category": "distribution", "size": 1}

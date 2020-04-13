@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nito power node", "description": "...", "size": 2, "health": 24, "requirements": [{"item": "nito", "amount": 17}, {"item": "vecifu", "amount": 18}, {"item": "pefanium", "amount": 6}], "research": "nito-factory", "maxNodes": 12, "laserRange": 17, "category": "power"}

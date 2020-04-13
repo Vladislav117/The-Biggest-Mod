@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pazanium solar panel", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "pazanium", "amount": 13}, {"item": "lepe", "amount": 19}, {"item": "wuronium", "amount": 10}], "research": "pazanium-factory", "powerProduction": 0.35840695489685287, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qive bridge conveyor", "description": "", "health": 24, "range": 8, "speed": 3, "bufferCapacity": 5, "requirements": [{"item": "qive", "amount": 2}, {"item": "nyli", "amount": 2}], "research": "qive-conveyor", "category": "distribution", "size": 1}

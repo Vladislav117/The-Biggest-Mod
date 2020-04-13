@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yuvarynium liquid tank", "description": "...", "health": 360, "size": 3, "requirements": [{"item": "yuvarynium", "amount": 12}, {"item": "pygu", "amount": 7}, {"item": "fuqyty", "amount": 9}], "research": "yuvarynium-conduit", "category": "liquid", "liquidCapacity": 68238, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fayenium sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "fayenium", "amount": 3}, {"item": "ticija", "amount": 4}], "research": "fayenium-conveyor", "category": "distribution", "invert": false}

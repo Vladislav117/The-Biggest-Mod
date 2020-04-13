@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rugu liquid tank", "description": "...", "health": 242, "size": 3, "requirements": [{"item": "rugu", "amount": 3}, {"item": "leyyde", "amount": 15}, {"item": "gawo", "amount": 1}], "research": "rugu-conduit", "category": "liquid", "liquidCapacity": 115853, "hasLiquids": true}

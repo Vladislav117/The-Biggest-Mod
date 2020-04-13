@@ -1,0 +1,1 @@
+{"type": "battery", "name": "leyoqo battery", "description": "...", "size": 3, "health": 148, "requirements": [{"item": "leyoqo", "amount": 10}, {"item": "hiki", "amount": 4}, {"item": "kurecanium", "amount": 4}], "research": "leyoqo-factory", "consumes": {"powerBuffered": 3146}, "category": "power"}

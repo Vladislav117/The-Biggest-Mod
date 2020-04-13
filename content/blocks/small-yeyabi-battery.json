@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yeyabi battery", "description": "...", "size": 1, "health": 331, "requirements": [{"item": "yeyabi", "amount": 19}, {"item": "yemo", "amount": 13}, {"item": "xuhuxenium", "amount": 5}], "research": "yeyabi-factory", "consumes": {"powerBuffered": 1012}, "category": "power"}

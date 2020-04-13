@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kituhinium power node", "description": "...", "size": 1, "health": 146, "requirements": [{"item": "kituhinium", "amount": 6}, {"item": "sice", "amount": 11}, {"item": "sybo", "amount": 4}], "research": "kituhinium-factory", "maxNodes": 17, "laserRange": 17, "category": "power"}

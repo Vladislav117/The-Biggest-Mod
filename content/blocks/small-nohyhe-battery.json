@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nohyhe battery", "description": "...", "size": 1, "health": 120, "requirements": [{"item": "nohyhe", "amount": 14}, {"item": "vyyuhu", "amount": 6}, {"item": "rega", "amount": 10}], "research": "nohyhe-factory", "consumes": {"powerBuffered": 518}, "category": "power"}

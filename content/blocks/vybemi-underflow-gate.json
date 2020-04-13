@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vybemi underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "vybemi", "amount": 2}, {"item": "ryfo", "amount": 5}], "research": "vybemi-conveyor", "category": "distribution", "invert": false}

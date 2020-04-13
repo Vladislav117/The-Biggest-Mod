@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fifa liquid tank", "description": "...", "health": 168, "size": 3, "requirements": [{"item": "fifa", "amount": 19}, {"item": "qebiwy", "amount": 1}, {"item": "xiguri", "amount": 5}], "research": "fifa-conduit", "category": "liquid", "liquidCapacity": 87472, "hasLiquids": true}

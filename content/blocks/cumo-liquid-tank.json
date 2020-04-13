@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cumo liquid tank", "description": "...", "health": 641, "size": 3, "requirements": [{"item": "cumo", "amount": 12}, {"item": "vatupy", "amount": 16}, {"item": "holepinium", "amount": 10}], "research": "cumo-conduit", "category": "liquid", "liquidCapacity": 14862, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cepa underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "cepa", "amount": 5}, {"item": "neletanium", "amount": 4}], "research": "cepa-conveyor", "category": "distribution", "invert": false}

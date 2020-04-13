@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dyde overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "dyde", "amount": 3}, {"item": "tebebe", "amount": 5}], "research": "dyde-conveyor", "category": "distribution", "invert": false}

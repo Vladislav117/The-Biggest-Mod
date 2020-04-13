@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ragezunium power node", "description": "...", "size": 1, "health": 390, "requirements": [{"item": "ragezunium", "amount": 3}, {"item": "xydume", "amount": 9}, {"item": "dase", "amount": 6}], "research": "ragezunium-factory", "maxNodes": 12, "laserRange": 23, "category": "power"}

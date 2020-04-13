@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rubahonium liquid tank", "description": "...", "health": 591, "size": 3, "requirements": [{"item": "rubahonium", "amount": 5}, {"item": "zofuxe", "amount": 3}, {"item": "yimigunium", "amount": 5}], "research": "rubahonium-conduit", "category": "liquid", "liquidCapacity": 110837, "hasLiquids": true}

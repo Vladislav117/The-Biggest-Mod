@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "giyafynium power node", "description": "...", "size": 2, "health": 85, "requirements": [{"item": "giyafynium", "amount": 1}, {"item": "jiyomonium", "amount": 18}, {"item": "qiti", "amount": 5}], "research": "giyafynium-factory", "maxNodes": 57, "laserRange": 16, "category": "power"}

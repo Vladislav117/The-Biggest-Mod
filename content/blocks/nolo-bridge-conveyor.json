@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nolo bridge conveyor", "description": "", "health": 18, "range": 20, "speed": 7, "bufferCapacity": 19, "requirements": [{"item": "nolo", "amount": 2}, {"item": "lead", "amount": 5}], "research": "nolo-conveyor", "category": "distribution", "size": 1}

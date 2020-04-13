@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cefi junction", "description": "...", "health": 16, "speed": 3, "capacity": 20, "size": 1, "requirements": [{"item": "cefi", "amount": 1}, {"item": "dere", "amount": 2}], "research": "cefi-conveyor", "category": "distribution"}

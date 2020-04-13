@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lilyro bridge conveyor", "description": "", "health": 39, "range": 10, "speed": 9, "bufferCapacity": 17, "requirements": [{"item": "lilyro", "amount": 2}, {"item": "dowoca", "amount": 3}], "research": "lilyro-conveyor", "category": "distribution", "size": 1}

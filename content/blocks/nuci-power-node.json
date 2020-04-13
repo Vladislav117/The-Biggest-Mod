@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nuci power node", "description": "...", "size": 2, "health": 539, "requirements": [{"item": "nuci", "amount": 7}, {"item": "dugi", "amount": 14}, {"item": "laho", "amount": 2}], "research": "nuci-factory", "maxNodes": 44, "laserRange": 22, "category": "power"}

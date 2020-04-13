@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "galoninium liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "galoninium", "amount": 5}, {"item": "jejypu", "amount": 18}, {"item": "jymi", "amount": 7}], "research": "galoninium-conduit", "liquidCapacity": 10, "category": "liquid"}

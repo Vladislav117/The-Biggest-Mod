@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tixanu junction", "description": "...", "health": 1, "speed": 20, "capacity": 3, "size": 1, "requirements": [{"item": "tixanu", "amount": 3}, {"item": "yymujy", "amount": 1}], "research": "tixanu-conveyor", "category": "distribution"}

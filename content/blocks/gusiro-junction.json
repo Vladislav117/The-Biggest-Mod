@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gusiro junction", "description": "...", "health": 37, "speed": 15, "capacity": 5, "size": 1, "requirements": [{"item": "gusiro", "amount": 1}, {"item": "roro", "amount": 2}], "research": "gusiro-conveyor", "category": "distribution"}

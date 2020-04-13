@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cecuvinium liquid tank", "description": "...", "health": 220, "size": 3, "requirements": [{"item": "cecuvinium", "amount": 5}, {"item": "xapu", "amount": 8}, {"item": "viwiwinium", "amount": 3}], "research": "cecuvinium-conduit", "category": "liquid", "liquidCapacity": 53663, "hasLiquids": true}

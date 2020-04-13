@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dose conduit", "description": "...", "health": 112, "requirements": [{"item": "dose", "amount": 4}, {"item": "fito", "amount": 14}, {"item": "baqo", "amount": 6}], "liquidCapacity": 17, "liquidPressure": 10, "research": "dose-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zymaginium junction", "description": "...", "health": 5, "speed": 3, "capacity": 10, "size": 1, "requirements": [{"item": "zymaginium", "amount": 5}, {"item": "qeze", "amount": 4}], "research": "zymaginium-conveyor", "category": "distribution"}

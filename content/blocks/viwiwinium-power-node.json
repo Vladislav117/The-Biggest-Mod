@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "viwiwinium power node", "description": "...", "size": 2, "health": 144, "requirements": [{"item": "viwiwinium", "amount": 20}, {"item": "hycywi", "amount": 13}, {"item": "sukafe", "amount": 10}], "research": "viwiwinium-factory", "maxNodes": 26, "laserRange": 18, "category": "power"}

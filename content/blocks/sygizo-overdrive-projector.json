@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "sygizo overdrive projector", "description": "...", "health": 115, "consumes": {"power": 3.0, "item": "sygizo"}, "size": 2, "requirements": [{"item": "sygizo", "amount": 4}, {"item": "vabenium", "amount": 6}, {"item": "nimi", "amount": 9}], "research": "sygizo-factory", "category": "effect"}

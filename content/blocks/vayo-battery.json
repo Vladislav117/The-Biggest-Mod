@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vayo battery", "description": "...", "size": 3, "health": 269, "requirements": [{"item": "vayo", "amount": 6}, {"item": "xyyira", "amount": 13}, {"item": "qiwise", "amount": 1}], "research": "vayo-factory", "consumes": {"powerBuffered": 5041}, "category": "power"}

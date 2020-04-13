@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xofa drill", "description": "...", "size": 4, "health": 226, "tier": 4, "drillTime": 14, "consumes": {"power": 18}, "requirements": [{"item": "xofa", "amount": 13}, {"item": "vety", "amount": 12}, {"item": "vate", "amount": 10}], "research": "xofa-factory", "category": "production"}

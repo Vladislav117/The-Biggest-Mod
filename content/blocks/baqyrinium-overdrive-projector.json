@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "baqyrinium overdrive projector", "description": "...", "health": 107, "consumes": {"power": 3.0, "item": "baqyrinium"}, "size": 2, "requirements": [{"item": "baqyrinium", "amount": 5}, {"item": "lanaja", "amount": 15}, {"item": "mibyzo", "amount": 3}], "research": "baqyrinium-factory", "category": "effect"}

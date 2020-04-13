@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fixe drill", "description": "...", "size": 2, "health": 326, "tier": 1, "drillTime": 3, "consumes": {"power": 4}, "requirements": [{"item": "fixe", "amount": 13}, {"item": "vega", "amount": 12}, {"item": "luweninium", "amount": 2}], "research": "fixe-factory", "category": "production"}

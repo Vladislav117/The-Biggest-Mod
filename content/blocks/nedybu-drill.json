@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nedybu drill", "description": "...", "size": 4, "health": 203, "tier": 2, "drillTime": 15, "consumes": {"power": 9}, "requirements": [{"item": "nedybu", "amount": 6}, {"item": "viwahe", "amount": 1}, {"item": "ruke", "amount": 8}], "research": "nedybu-factory", "category": "production"}

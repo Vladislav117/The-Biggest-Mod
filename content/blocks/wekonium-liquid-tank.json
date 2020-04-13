@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wekonium liquid tank", "description": "...", "health": 500, "size": 3, "requirements": [{"item": "wekonium", "amount": 2}, {"item": "hihunium", "amount": 14}, {"item": "voje", "amount": 3}], "research": "wekonium-conduit", "category": "liquid", "liquidCapacity": 108426, "hasLiquids": true}

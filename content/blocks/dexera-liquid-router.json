@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dexera liquid router", "description": "...", "size": 1, "health": 52, "requirements": [{"item": "dexera", "amount": 4}, {"item": "juhura", "amount": 5}, {"item": "cuso", "amount": 8}], "research": "dexera-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "siposi force projector", "description": "...", "health": 216, "size": 3, "consumes": {"power": 5.0, "item": "siposi"}, "requirements": [{"item": "siposi", "amount": 8}, {"item": "yyko", "amount": 18}, {"item": "pyge", "amount": 6}], "research": "siposi-factory", "category": "effect"}

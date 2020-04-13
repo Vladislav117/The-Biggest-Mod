@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cywa inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "cywa", "amount": 5}, {"item": "wycumu", "amount": 4}], "research": "cywa-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zyganium power node", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "zyganium", "amount": 6}, {"item": "miro", "amount": 12}, {"item": "koyiwi", "amount": 2}], "research": "zyganium-factory", "maxNodes": 30, "laserRange": 5, "category": "power"}

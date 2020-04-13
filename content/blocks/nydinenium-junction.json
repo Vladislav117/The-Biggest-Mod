@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nydinenium junction", "description": "...", "health": 44, "speed": 15, "capacity": 10, "size": 1, "requirements": [{"item": "nydinenium", "amount": 1}, {"item": "reyezy", "amount": 5}], "research": "nydinenium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "porabonium inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "porabonium", "amount": 5}, {"item": "bywobu", "amount": 1}], "research": "porabonium-conveyor", "category": "distribution", "invert": true}

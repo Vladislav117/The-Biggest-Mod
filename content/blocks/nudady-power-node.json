@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nudady power node", "description": "...", "size": 2, "health": 500, "requirements": [{"item": "nudady", "amount": 1}, {"item": "rine", "amount": 1}, {"item": "luly", "amount": 8}], "research": "nudady-factory", "maxNodes": 44, "laserRange": 20, "category": "power"}

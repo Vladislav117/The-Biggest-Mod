@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fuwo battery", "description": "...", "size": 1, "health": 218, "requirements": [{"item": "fuwo", "amount": 9}, {"item": "qowepa", "amount": 14}, {"item": "vene", "amount": 7}], "research": "fuwo-factory", "consumes": {"powerBuffered": 1682}, "category": "power"}

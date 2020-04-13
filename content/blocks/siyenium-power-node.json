@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "siyenium power node", "description": "...", "size": 2, "health": 672, "requirements": [{"item": "siyenium", "amount": 15}, {"item": "suyi", "amount": 13}, {"item": "vate", "amount": 6}], "research": "siyenium-factory", "maxNodes": 29, "laserRange": 29, "category": "power"}

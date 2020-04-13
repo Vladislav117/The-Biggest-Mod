@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nupydo solar panel", "description": "...", "size": 3, "health": 371, "requirements": [{"item": "nupydo", "amount": 17}, {"item": "xodofu", "amount": 2}, {"item": "wino", "amount": 4}], "research": "nupydo-factory", "powerProduction": 4.76248492817222, "category": "power"}

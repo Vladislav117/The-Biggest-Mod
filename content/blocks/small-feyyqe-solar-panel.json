@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small feyyqe solar panel", "description": "...", "size": 1, "health": 153, "requirements": [{"item": "feyyqe", "amount": 12}, {"item": "migube", "amount": 4}, {"item": "zoyyqynium", "amount": 10}], "research": "feyyqe-factory", "powerProduction": 1.068962038605185, "category": "power"}

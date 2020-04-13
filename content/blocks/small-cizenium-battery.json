@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cizenium battery", "description": "...", "size": 1, "health": 216, "requirements": [{"item": "cizenium", "amount": 2}, {"item": "jygery", "amount": 4}, {"item": "sija", "amount": 5}], "research": "cizenium-factory", "consumes": {"powerBuffered": 2885}, "category": "power"}

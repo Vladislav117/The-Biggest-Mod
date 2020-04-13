@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sebeso sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "sebeso", "amount": 5}, {"item": "lebo", "amount": 5}], "research": "sebeso-conveyor", "category": "distribution", "invert": false}

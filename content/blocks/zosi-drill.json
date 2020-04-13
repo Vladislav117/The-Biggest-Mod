@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zosi drill", "description": "...", "size": 2, "health": 343, "tier": 3, "drillTime": 16, "consumes": {"power": 4}, "requirements": [{"item": "zosi", "amount": 3}, {"item": "lulomu", "amount": 1}, {"item": "sysagu", "amount": 5}], "research": "zosi-factory", "category": "production"}

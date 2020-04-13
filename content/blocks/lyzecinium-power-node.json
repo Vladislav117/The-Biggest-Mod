@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lyzecinium power node", "description": "...", "size": 2, "health": 436, "requirements": [{"item": "lyzecinium", "amount": 16}, {"item": "wace", "amount": 11}, {"item": "pufere", "amount": 3}], "research": "lyzecinium-factory", "maxNodes": 37, "laserRange": 16, "category": "power"}

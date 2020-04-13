@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xahi liquid tank", "description": "...", "health": 386, "size": 3, "requirements": [{"item": "xahi", "amount": 8}, {"item": "tutogy", "amount": 1}, {"item": "yidugonium", "amount": 8}], "research": "xahi-conduit", "category": "liquid", "liquidCapacity": 73729, "hasLiquids": true}

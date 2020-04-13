@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "musonium conduit", "description": "...", "health": 84, "requirements": [{"item": "musonium", "amount": 11}, {"item": "nusenium", "amount": 20}, {"item": "dara", "amount": 6}], "liquidCapacity": 40, "liquidPressure": 5, "research": "musonium-factory", "category": "liquid"}

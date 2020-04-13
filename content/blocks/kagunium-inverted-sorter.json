@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kagunium inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "kagunium", "amount": 3}, {"item": "veru", "amount": 5}], "research": "kagunium-conveyor", "category": "distribution", "invert": true}

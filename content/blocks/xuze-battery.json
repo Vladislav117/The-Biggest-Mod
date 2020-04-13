@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xuze battery", "description": "...", "size": 3, "health": 144, "requirements": [{"item": "xuze", "amount": 19}, {"item": "nuso", "amount": 5}, {"item": "xutire", "amount": 10}], "research": "xuze-factory", "consumes": {"powerBuffered": 8740}, "category": "power"}

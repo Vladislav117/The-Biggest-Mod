@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lave liquid router", "description": "...", "size": 1, "health": 85, "requirements": [{"item": "lave", "amount": 3}, {"item": "pydi", "amount": 20}, {"item": "vodynium", "amount": 10}], "research": "lave-conduit", "liquidCapacity": 10, "category": "liquid"}

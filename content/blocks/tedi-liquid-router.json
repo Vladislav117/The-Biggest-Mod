@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tedi liquid router", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "tedi", "amount": 13}, {"item": "sytafe", "amount": 16}, {"item": "qudeya", "amount": 6}], "research": "tedi-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "liny inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "liny", "amount": 2}, {"item": "xegonium", "amount": 1}], "research": "liny-conveyor", "category": "distribution", "invert": true}

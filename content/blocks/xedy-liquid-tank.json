@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xedy liquid tank", "description": "...", "health": 254, "size": 3, "requirements": [{"item": "xedy", "amount": 3}, {"item": "pyvohe", "amount": 8}, {"item": "juwomi", "amount": 4}], "research": "xedy-conduit", "category": "liquid", "liquidCapacity": 49125, "hasLiquids": true}

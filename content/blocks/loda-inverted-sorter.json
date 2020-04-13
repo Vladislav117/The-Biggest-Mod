@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "loda inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "loda", "amount": 2}, {"item": "jacala", "amount": 4}], "research": "loda-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hatapo battery", "description": "...", "size": 1, "health": 194, "requirements": [{"item": "hatapo", "amount": 10}, {"item": "wirynium", "amount": 9}, {"item": "gafyji", "amount": 6}], "research": "hatapo-factory", "consumes": {"powerBuffered": 2732}, "category": "power"}

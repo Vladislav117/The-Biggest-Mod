@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qoti power node", "description": "...", "size": 1, "health": 366, "requirements": [{"item": "qoti", "amount": 10}, {"item": "celaji", "amount": 7}, {"item": "neqose", "amount": 5}], "research": "qoti-factory", "maxNodes": 2, "laserRange": 16, "category": "power"}

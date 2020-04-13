@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nitonium overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "nitonium", "amount": 3}, {"item": "pypy", "amount": 4}], "research": "nitonium-conveyor", "category": "distribution", "invert": false}

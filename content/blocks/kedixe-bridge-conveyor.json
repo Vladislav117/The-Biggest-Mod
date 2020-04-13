@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kedixe bridge conveyor", "description": "", "health": 37, "range": 9, "speed": 10, "bufferCapacity": 5, "requirements": [{"item": "kedixe", "amount": 3}, {"item": "mygo", "amount": 4}], "research": "kedixe-conveyor", "category": "distribution", "size": 1}

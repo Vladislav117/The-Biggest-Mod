@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zeny solar panel", "description": "...", "size": 3, "health": 344, "requirements": [{"item": "zeny", "amount": 9}, {"item": "cimafinium", "amount": 18}, {"item": "nogu", "amount": 8}], "research": "zeny-factory", "powerProduction": 4.160252646112504, "category": "power"}

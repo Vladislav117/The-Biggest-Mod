@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gozefynium junction", "description": "...", "health": 23, "speed": 9, "capacity": 2, "size": 1, "requirements": [{"item": "gozefynium", "amount": 4}, {"item": "muby", "amount": 4}], "research": "gozefynium-conveyor", "category": "distribution"}

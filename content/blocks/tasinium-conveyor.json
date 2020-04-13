@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "tasinium conveyor", "description": "...", "health": 246, "requirements": [{"item": "tasinium", "amount": 2}, {"item": "gadanium", "amount": 5}], "speed": 0.4841803860667962, "research": "tasinium-factory", "category": "distribution"}

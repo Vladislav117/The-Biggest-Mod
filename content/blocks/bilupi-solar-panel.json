@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bilupi solar panel", "description": "...", "size": 3, "health": 93, "requirements": [{"item": "bilupi", "amount": 1}, {"item": "kica", "amount": 5}, {"item": "hufi", "amount": 1}], "research": "bilupi-factory", "powerProduction": 0.16399484775375917, "category": "power"}

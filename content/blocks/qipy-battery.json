@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qipy battery", "description": "...", "size": 3, "health": 254, "requirements": [{"item": "qipy", "amount": 11}, {"item": "bofe", "amount": 18}, {"item": "zoyinium", "amount": 1}], "research": "qipy-factory", "consumes": {"powerBuffered": 431}, "category": "power"}

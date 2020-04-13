@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mycufa liquid tank", "description": "...", "health": 404, "size": 3, "requirements": [{"item": "mycufa", "amount": 7}, {"item": "nekyse", "amount": 2}, {"item": "cebaba", "amount": 7}], "research": "mycufa-conduit", "category": "liquid", "liquidCapacity": 100232, "hasLiquids": true}

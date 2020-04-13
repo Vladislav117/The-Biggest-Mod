@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jepi solar panel", "description": "...", "size": 1, "health": 273, "requirements": [{"item": "jepi", "amount": 4}, {"item": "hylonium", "amount": 14}, {"item": "dipewanium", "amount": 7}], "research": "jepi-factory", "powerProduction": 0.2667059569791996, "category": "power"}

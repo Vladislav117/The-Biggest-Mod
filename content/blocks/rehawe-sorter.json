@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rehawe sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "rehawe", "amount": 3}, {"item": "fino", "amount": 2}], "research": "rehawe-conveyor", "category": "distribution", "invert": false}

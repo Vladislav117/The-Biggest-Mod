@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rijago liquid tank", "description": "...", "health": 202, "size": 3, "requirements": [{"item": "rijago", "amount": 12}, {"item": "dyma", "amount": 10}, {"item": "yujaqe", "amount": 3}], "research": "rijago-conduit", "category": "liquid", "liquidCapacity": 82803, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lifuvinium solar panel", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "lifuvinium", "amount": 11}, {"item": "xoginium", "amount": 18}, {"item": "macurenium", "amount": 6}], "research": "lifuvinium-factory", "powerProduction": 2.9864084146748424, "category": "power"}

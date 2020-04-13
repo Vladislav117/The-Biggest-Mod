@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lijanium underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "lijanium", "amount": 3}, {"item": "howu", "amount": 1}], "research": "lijanium-conveyor", "category": "distribution", "invert": false}

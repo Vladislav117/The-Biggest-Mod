@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kado inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "kado", "amount": 3}, {"item": "tikonium", "amount": 5}], "research": "kado-conveyor", "category": "distribution", "invert": true}

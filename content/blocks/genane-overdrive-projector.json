@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "genane overdrive projector", "description": "...", "health": 66, "consumes": {"power": 3.0, "item": "genane"}, "size": 2, "requirements": [{"item": "genane", "amount": 20}, {"item": "yaxuda", "amount": 11}, {"item": "zoyyqynium", "amount": 8}], "research": "genane-factory", "category": "effect"}

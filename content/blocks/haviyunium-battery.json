@@ -1,0 +1,1 @@
+{"type": "battery", "name": "haviyunium battery", "description": "...", "size": 3, "health": 133, "requirements": [{"item": "haviyunium", "amount": 4}, {"item": "bome", "amount": 11}, {"item": "tire", "amount": 10}], "research": "haviyunium-factory", "consumes": {"powerBuffered": 7146}, "category": "power"}

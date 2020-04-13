@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gebi solar panel", "description": "...", "size": 3, "health": 201, "requirements": [{"item": "gebi", "amount": 14}, {"item": "fykemi", "amount": 10}, {"item": "wutize", "amount": 5}], "research": "gebi-factory", "powerProduction": 4.4702555209643675, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xetydinium bridge conveyor", "description": "", "health": 16, "range": 19, "speed": 20, "bufferCapacity": 15, "requirements": [{"item": "xetydinium", "amount": 1}, {"item": "tubide", "amount": 3}], "research": "xetydinium-conveyor", "category": "distribution", "size": 1}

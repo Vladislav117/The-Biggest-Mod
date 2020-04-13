@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "takicynium drill", "description": "...", "size": 3, "health": 194, "tier": 1, "drillTime": 4, "consumes": {"power": 4}, "requirements": [{"item": "takicynium", "amount": 12}, {"item": "wapo", "amount": 19}, {"item": "hycyyi", "amount": 4}], "research": "takicynium-factory", "category": "production"}

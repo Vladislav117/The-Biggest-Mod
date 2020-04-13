@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xogo power node", "description": "...", "size": 2, "health": 182, "requirements": [{"item": "xogo", "amount": 20}, {"item": "yahi", "amount": 7}, {"item": "vatuxanium", "amount": 2}], "research": "xogo-factory", "maxNodes": 21, "laserRange": 20, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yoqaja solar panel", "description": "...", "size": 3, "health": 359, "requirements": [{"item": "yoqaja", "amount": 9}, {"item": "hitiva", "amount": 12}, {"item": "yafenium", "amount": 2}], "research": "yoqaja-factory", "powerProduction": 1.015432779650034, "category": "power"}

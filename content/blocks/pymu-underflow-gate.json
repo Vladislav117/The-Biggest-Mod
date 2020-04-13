@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pymu underflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "pymu", "amount": 4}, {"item": "faqymu", "amount": 4}], "research": "pymu-conveyor", "category": "distribution", "invert": false}

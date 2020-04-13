@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "peje underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "peje", "amount": 3}, {"item": "jyzywy", "amount": 5}], "research": "peje-conveyor", "category": "distribution", "invert": false}

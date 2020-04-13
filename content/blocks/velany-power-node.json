@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "velany power node", "description": "...", "size": 2, "health": 488, "requirements": [{"item": "velany", "amount": 6}, {"item": "sija", "amount": 14}, {"item": "jigame", "amount": 8}], "research": "velany-factory", "maxNodes": 16, "laserRange": 17, "category": "power"}

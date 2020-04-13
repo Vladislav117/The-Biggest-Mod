@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ryxunium sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "ryxunium", "amount": 3}, {"item": "wylanium", "amount": 1}], "research": "ryxunium-conveyor", "category": "distribution", "invert": false}

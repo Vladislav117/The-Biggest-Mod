@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rajizu underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "rajizu", "amount": 3}, {"item": "lyzy", "amount": 1}], "research": "rajizu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kuxa conduit", "description": "...", "health": 145, "requirements": [{"item": "kuxa", "amount": 19}, {"item": "kiye", "amount": 6}, {"item": "torufonium", "amount": 10}], "liquidCapacity": 36, "liquidPressure": 2, "research": "kuxa-factory", "category": "liquid"}

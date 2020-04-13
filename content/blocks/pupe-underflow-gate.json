@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pupe underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "pupe", "amount": 5}, {"item": "wabaru", "amount": 5}], "research": "pupe-conveyor", "category": "distribution", "invert": false}

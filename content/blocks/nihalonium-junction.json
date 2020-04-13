@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nihalonium junction", "description": "...", "health": 35, "speed": 12, "capacity": 8, "size": 1, "requirements": [{"item": "nihalonium", "amount": 5}, {"item": "sopy", "amount": 4}], "research": "nihalonium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vapofu battery", "description": "...", "size": 1, "health": 274, "requirements": [{"item": "vapofu", "amount": 6}, {"item": "gula", "amount": 2}, {"item": "tykyfo", "amount": 8}], "research": "vapofu-factory", "consumes": {"powerBuffered": 329}, "category": "power"}

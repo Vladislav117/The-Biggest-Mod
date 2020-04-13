@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "soni bridge conveyor", "description": "", "health": 40, "range": 14, "speed": 17, "bufferCapacity": 19, "requirements": [{"item": "soni", "amount": 2}, {"item": "zegili", "amount": 1}], "research": "soni-conveyor", "category": "distribution", "size": 1}

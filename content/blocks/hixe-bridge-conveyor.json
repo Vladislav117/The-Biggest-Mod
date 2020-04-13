@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hixe bridge conveyor", "description": "", "health": 20, "range": 20, "speed": 1, "bufferCapacity": 23, "requirements": [{"item": "hixe", "amount": 1}, {"item": "qylino", "amount": 4}], "research": "hixe-conveyor", "category": "distribution", "size": 1}

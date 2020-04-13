@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kivuzi power node", "description": "...", "size": 1, "health": 236, "requirements": [{"item": "kivuzi", "amount": 11}, {"item": "bafo", "amount": 3}, {"item": "nolo", "amount": 9}], "research": "kivuzi-factory", "maxNodes": 27, "laserRange": 23, "category": "power"}

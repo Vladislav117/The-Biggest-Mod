@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xihu conduit", "description": "...", "health": 118, "requirements": [{"item": "xihu", "amount": 19}, {"item": "weva", "amount": 20}, {"item": "qubironium", "amount": 4}], "liquidCapacity": 23, "liquidPressure": 6, "research": "xihu-factory", "category": "liquid"}

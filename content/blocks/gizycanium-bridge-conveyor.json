@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gizycanium bridge conveyor", "description": "", "health": 37, "range": 9, "speed": 2, "bufferCapacity": 7, "requirements": [{"item": "gizycanium", "amount": 1}, {"item": "qybasinium", "amount": 5}], "research": "gizycanium-conveyor", "category": "distribution", "size": 1}

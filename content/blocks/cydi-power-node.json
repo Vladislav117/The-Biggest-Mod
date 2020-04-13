@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cydi power node", "description": "...", "size": 2, "health": 755, "requirements": [{"item": "cydi", "amount": 2}, {"item": "luyo", "amount": 15}, {"item": "pagu", "amount": 7}], "research": "cydi-factory", "maxNodes": 33, "laserRange": 28, "category": "power"}

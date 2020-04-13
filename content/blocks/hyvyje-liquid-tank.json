@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hyvyje liquid tank", "description": "...", "health": 449, "size": 3, "requirements": [{"item": "hyvyje", "amount": 17}, {"item": "myfo", "amount": 6}, {"item": "vyjoti", "amount": 2}], "research": "hyvyje-conduit", "category": "liquid", "liquidCapacity": 84930, "hasLiquids": true}

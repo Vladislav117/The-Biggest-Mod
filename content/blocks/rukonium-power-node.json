@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rukonium power node", "description": "...", "size": 2, "health": 440, "requirements": [{"item": "rukonium", "amount": 11}, {"item": "sysone", "amount": 14}, {"item": "seyuwa", "amount": 4}], "research": "rukonium-factory", "maxNodes": 54, "laserRange": 8, "category": "power"}

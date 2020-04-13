@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bopurunium power node", "description": "...", "size": 1, "health": 105, "requirements": [{"item": "bopurunium", "amount": 7}, {"item": "wyxonium", "amount": 5}, {"item": "zowenium", "amount": 5}], "research": "bopurunium-factory", "maxNodes": 15, "laserRange": 16, "category": "power"}

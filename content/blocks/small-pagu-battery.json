@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pagu battery", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "pagu", "amount": 4}, {"item": "qypy", "amount": 7}, {"item": "hozivi", "amount": 8}], "research": "pagu-factory", "consumes": {"powerBuffered": 2336}, "category": "power"}

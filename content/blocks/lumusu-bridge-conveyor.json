@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lumusu bridge conveyor", "description": "", "health": 15, "range": 17, "speed": 20, "bufferCapacity": 10, "requirements": [{"item": "lumusu", "amount": 4}, {"item": "cynehe", "amount": 2}], "research": "lumusu-conveyor", "category": "distribution", "size": 1}

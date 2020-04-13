@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jezo conduit", "description": "...", "health": 29, "requirements": [{"item": "jezo", "amount": 7}, {"item": "tove", "amount": 5}, {"item": "naho", "amount": 9}], "liquidCapacity": 16, "liquidPressure": 2, "research": "jezo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vusi battery", "description": "...", "size": 1, "health": 46, "requirements": [{"item": "vusi", "amount": 9}, {"item": "webebu", "amount": 8}, {"item": "qiloka", "amount": 6}], "research": "vusi-factory", "consumes": {"powerBuffered": 2387}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gepe solar panel", "description": "...", "size": 3, "health": 61, "requirements": [{"item": "gepe", "amount": 5}, {"item": "yipobe", "amount": 4}, {"item": "qylino", "amount": 10}], "research": "gepe-factory", "powerProduction": 0.01990345936083406, "category": "power"}

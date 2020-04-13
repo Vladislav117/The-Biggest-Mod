@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gofyfy power node", "description": "...", "size": 2, "health": 569, "requirements": [{"item": "gofyfy", "amount": 13}, {"item": "yisi", "amount": 7}, {"item": "taci", "amount": 9}], "research": "gofyfy-factory", "maxNodes": 10, "laserRange": 18, "category": "power"}

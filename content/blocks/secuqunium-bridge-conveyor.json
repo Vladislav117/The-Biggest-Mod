@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "secuqunium bridge conveyor", "description": "", "health": 50, "range": 4, "speed": 7, "bufferCapacity": 11, "requirements": [{"item": "secuqunium", "amount": 1}, {"item": "kuwo", "amount": 3}], "research": "secuqunium-conveyor", "category": "distribution", "size": 1}

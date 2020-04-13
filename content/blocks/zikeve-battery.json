@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zikeve battery", "description": "...", "size": 3, "health": 156, "requirements": [{"item": "zikeve", "amount": 16}, {"item": "sodyly", "amount": 2}, {"item": "rowi", "amount": 7}], "research": "zikeve-factory", "consumes": {"powerBuffered": 9856}, "category": "power"}

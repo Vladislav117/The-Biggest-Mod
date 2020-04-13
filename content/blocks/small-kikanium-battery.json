@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kikanium battery", "description": "...", "size": 1, "health": 269, "requirements": [{"item": "kikanium", "amount": 6}, {"item": "cavyjo", "amount": 7}, {"item": "vayy", "amount": 7}], "research": "kikanium-factory", "consumes": {"powerBuffered": 2948}, "category": "power"}

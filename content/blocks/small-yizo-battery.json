@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yizo battery", "description": "...", "size": 1, "health": 211, "requirements": [{"item": "yizo", "amount": 7}, {"item": "vepuge", "amount": 6}, {"item": "yuwo", "amount": 4}], "research": "yizo-factory", "consumes": {"powerBuffered": 582}, "category": "power"}

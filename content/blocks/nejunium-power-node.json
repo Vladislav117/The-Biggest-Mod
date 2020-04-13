@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nejunium power node", "description": "...", "size": 2, "health": 769, "requirements": [{"item": "nejunium", "amount": 7}, {"item": "zufo", "amount": 17}, {"item": "zoyinium", "amount": 1}], "research": "nejunium-factory", "maxNodes": 60, "laserRange": 12, "category": "power"}

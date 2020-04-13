@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyyuny liquid tank", "description": "...", "health": 297, "size": 3, "requirements": [{"item": "kyyuny", "amount": 15}, {"item": "waha", "amount": 11}, {"item": "nufuponium", "amount": 1}], "research": "kyyuny-conduit", "category": "liquid", "liquidCapacity": 68891, "hasLiquids": true}

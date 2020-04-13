@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xiyy power node", "description": "...", "size": 1, "health": 326, "requirements": [{"item": "xiyy", "amount": 10}, {"item": "kudohi", "amount": 11}, {"item": "gohi", "amount": 1}], "research": "xiyy-factory", "maxNodes": 8, "laserRange": 10, "category": "power"}

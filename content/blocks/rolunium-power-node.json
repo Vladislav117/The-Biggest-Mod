@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rolunium power node", "description": "...", "size": 2, "health": 649, "requirements": [{"item": "rolunium", "amount": 11}, {"item": "paba", "amount": 9}, {"item": "vodo", "amount": 10}], "research": "rolunium-factory", "maxNodes": 60, "laserRange": 26, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sisinium conduit", "description": "...", "health": 34, "requirements": [{"item": "sisinium", "amount": 17}, {"item": "garyda", "amount": 14}, {"item": "dayumo", "amount": 6}], "liquidCapacity": 32, "liquidPressure": 8, "research": "sisinium-factory", "category": "liquid"}

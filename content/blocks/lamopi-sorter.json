@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lamopi sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "lamopi", "amount": 2}, {"item": "deteka", "amount": 2}], "research": "lamopi-conveyor", "category": "distribution", "invert": false}

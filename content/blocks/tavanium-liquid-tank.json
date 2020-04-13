@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tavanium liquid tank", "description": "...", "health": 614, "size": 3, "requirements": [{"item": "tavanium", "amount": 4}, {"item": "papununium", "amount": 1}, {"item": "rigo", "amount": 6}], "research": "tavanium-conduit", "category": "liquid", "liquidCapacity": 46777, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wowyvi solar panel", "description": "...", "size": 3, "health": 360, "requirements": [{"item": "wowyvi", "amount": 17}, {"item": "furiva", "amount": 5}, {"item": "zytukenium", "amount": 2}], "research": "wowyvi-factory", "powerProduction": 2.863012664249854, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fodu liquid router", "description": "...", "size": 1, "health": 35, "requirements": [{"item": "fodu", "amount": 8}, {"item": "zotonium", "amount": 8}, {"item": "ruji", "amount": 9}], "research": "fodu-conduit", "liquidCapacity": 10, "category": "liquid"}

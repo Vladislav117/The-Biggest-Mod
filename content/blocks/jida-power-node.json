@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jida power node", "description": "...", "size": 2, "health": 302, "requirements": [{"item": "jida", "amount": 3}, {"item": "punygo", "amount": 2}, {"item": "xycu", "amount": 2}], "research": "jida-factory", "maxNodes": 19, "laserRange": 18, "category": "power"}

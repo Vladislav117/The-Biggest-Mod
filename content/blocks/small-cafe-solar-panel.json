@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cafe solar panel", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "cafe", "amount": 8}, {"item": "qimose", "amount": 9}, {"item": "xevenium", "amount": 9}], "research": "cafe-factory", "powerProduction": 5.825617526785078, "category": "power"}

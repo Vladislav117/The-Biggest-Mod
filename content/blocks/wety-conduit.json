@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wety conduit", "description": "...", "health": 100, "requirements": [{"item": "wety", "amount": 14}, {"item": "vodynium", "amount": 5}, {"item": "kygarynium", "amount": 3}], "liquidCapacity": 6, "liquidPressure": 8, "research": "wety-factory", "category": "liquid"}

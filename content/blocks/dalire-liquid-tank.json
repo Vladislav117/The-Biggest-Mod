@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dalire liquid tank", "description": "...", "health": 541, "size": 3, "requirements": [{"item": "dalire", "amount": 15}, {"item": "lygynium", "amount": 17}, {"item": "fygunium", "amount": 6}], "research": "dalire-conduit", "category": "liquid", "liquidCapacity": 76843, "hasLiquids": true}

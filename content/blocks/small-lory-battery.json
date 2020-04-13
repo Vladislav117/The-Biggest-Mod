@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lory battery", "description": "...", "size": 1, "health": 237, "requirements": [{"item": "lory", "amount": 6}, {"item": "zazinium", "amount": 10}, {"item": "metaglass", "amount": 8}], "research": "lory-factory", "consumes": {"powerBuffered": 1435}, "category": "power"}

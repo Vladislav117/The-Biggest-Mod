@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cynehe solar panel", "description": "...", "size": 3, "health": 240, "requirements": [{"item": "cynehe", "amount": 19}, {"item": "xikexi", "amount": 2}, {"item": "pubado", "amount": 9}], "research": "cynehe-factory", "powerProduction": 0.5417864802163581, "category": "power"}

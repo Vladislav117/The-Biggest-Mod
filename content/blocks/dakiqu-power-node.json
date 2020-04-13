@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dakiqu power node", "description": "...", "size": 2, "health": 340, "requirements": [{"item": "dakiqu", "amount": 6}, {"item": "xeqikynium", "amount": 16}, {"item": "dowa", "amount": 10}], "research": "dakiqu-factory", "maxNodes": 23, "laserRange": 22, "category": "power"}

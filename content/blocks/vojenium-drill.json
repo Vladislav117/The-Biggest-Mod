@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vojenium drill", "description": "...", "size": 3, "health": 414, "tier": 2, "drillTime": 20, "consumes": {"power": 9}, "requirements": [{"item": "vojenium", "amount": 16}, {"item": "tedi", "amount": 9}, {"item": "cokigo", "amount": 7}], "research": "vojenium-factory", "category": "production"}

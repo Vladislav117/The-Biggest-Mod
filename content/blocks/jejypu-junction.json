@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jejypu junction", "description": "...", "health": 32, "speed": 14, "capacity": 4, "size": 1, "requirements": [{"item": "jejypu", "amount": 2}, {"item": "bisy", "amount": 1}], "research": "jejypu-conveyor", "category": "distribution"}

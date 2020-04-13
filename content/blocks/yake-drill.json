@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yake drill", "description": "...", "size": 4, "health": 413, "tier": 1, "drillTime": 14, "consumes": {"power": 19}, "requirements": [{"item": "yake", "amount": 12}, {"item": "qykyzo", "amount": 19}, {"item": "xyko", "amount": 2}], "research": "yake-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zuqo solar panel", "description": "...", "size": 3, "health": 190, "requirements": [{"item": "zuqo", "amount": 11}, {"item": "jaxu", "amount": 10}, {"item": "piqo", "amount": 7}], "research": "zuqo-factory", "powerProduction": 2.611197024033507, "category": "power"}

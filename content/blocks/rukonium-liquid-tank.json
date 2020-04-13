@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rukonium liquid tank", "description": "...", "health": 129, "size": 3, "requirements": [{"item": "rukonium", "amount": 13}, {"item": "kanuya", "amount": 8}, {"item": "lapydy", "amount": 4}], "research": "rukonium-conduit", "category": "liquid", "liquidCapacity": 80602, "hasLiquids": true}

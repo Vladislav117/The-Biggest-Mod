@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yywy solar panel", "description": "...", "size": 3, "health": 237, "requirements": [{"item": "yywy", "amount": 3}, {"item": "nytina", "amount": 8}, {"item": "pypy", "amount": 10}], "research": "yywy-factory", "powerProduction": 2.0304459046121948, "category": "power"}

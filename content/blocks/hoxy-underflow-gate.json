@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hoxy underflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "hoxy", "amount": 4}, {"item": "beronium", "amount": 1}], "research": "hoxy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "byxo liquid tank", "description": "...", "health": 579, "size": 3, "requirements": [{"item": "byxo", "amount": 7}, {"item": "rebugunium", "amount": 3}, {"item": "coqinium", "amount": 6}], "research": "byxo-conduit", "category": "liquid", "liquidCapacity": 92210, "hasLiquids": true}

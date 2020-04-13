@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qakynunium power node", "description": "...", "size": 2, "health": 421, "requirements": [{"item": "qakynunium", "amount": 4}, {"item": "neby", "amount": 18}, {"item": "xivi", "amount": 2}], "research": "qakynunium-factory", "maxNodes": 10, "laserRange": 29, "category": "power"}

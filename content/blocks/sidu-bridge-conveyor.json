@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sidu bridge conveyor", "description": "", "health": 2, "range": 12, "speed": 4, "bufferCapacity": 4, "requirements": [{"item": "sidu", "amount": 1}, {"item": "rixyqu", "amount": 2}], "research": "sidu-conveyor", "category": "distribution", "size": 1}

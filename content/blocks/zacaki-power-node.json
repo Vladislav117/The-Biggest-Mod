@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zacaki power node", "description": "...", "size": 2, "health": 307, "requirements": [{"item": "zacaki", "amount": 5}, {"item": "seyobo", "amount": 6}, {"item": "dironunium", "amount": 7}], "research": "zacaki-factory", "maxNodes": 59, "laserRange": 23, "category": "power"}

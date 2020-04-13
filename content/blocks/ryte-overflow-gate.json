@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ryte overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "ryte", "amount": 5}, {"item": "nuso", "amount": 4}], "research": "ryte-conveyor", "category": "distribution", "invert": false}

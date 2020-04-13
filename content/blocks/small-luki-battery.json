@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small luki battery", "description": "...", "size": 1, "health": 234, "requirements": [{"item": "luki", "amount": 7}, {"item": "plastanium", "amount": 2}, {"item": "reduty", "amount": 10}], "research": "luki-factory", "consumes": {"powerBuffered": 2363}, "category": "power"}

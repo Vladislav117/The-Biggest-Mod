@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ridurinium underflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "ridurinium", "amount": 5}, {"item": "kamu", "amount": 4}], "research": "ridurinium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vypo power node", "description": "...", "size": 2, "health": 245, "requirements": [{"item": "vypo", "amount": 4}, {"item": "venuki", "amount": 14}, {"item": "myhaxu", "amount": 2}], "research": "vypo-factory", "maxNodes": 18, "laserRange": 29, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tofuco conduit", "description": "...", "health": 105, "requirements": [{"item": "tofuco", "amount": 17}, {"item": "kyqu", "amount": 11}, {"item": "hyxunium", "amount": 10}], "liquidCapacity": 18, "liquidPressure": 1, "research": "tofuco-factory", "category": "liquid"}

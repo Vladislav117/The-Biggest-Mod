@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cebuqy solar panel", "description": "...", "size": 3, "health": 149, "requirements": [{"item": "cebuqy", "amount": 14}, {"item": "mivoky", "amount": 12}, {"item": "joky", "amount": 5}], "research": "cebuqy-factory", "powerProduction": 0.8713049345314119, "category": "power"}

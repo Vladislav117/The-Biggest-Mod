@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sorory junction", "description": "...", "health": 7, "speed": 10, "capacity": 18, "size": 1, "requirements": [{"item": "sorory", "amount": 4}, {"item": "jygowu", "amount": 4}], "research": "sorory-conveyor", "category": "distribution"}

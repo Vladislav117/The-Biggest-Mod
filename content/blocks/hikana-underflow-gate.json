@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hikana underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "hikana", "amount": 3}, {"item": "yohu", "amount": 3}], "research": "hikana-conveyor", "category": "distribution", "invert": false}

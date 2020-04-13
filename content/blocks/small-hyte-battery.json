@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hyte battery", "description": "...", "size": 1, "health": 245, "requirements": [{"item": "hyte", "amount": 15}, {"item": "tozuza", "amount": 7}, {"item": "tozenium", "amount": 9}], "research": "hyte-factory", "consumes": {"powerBuffered": 1582}, "category": "power"}

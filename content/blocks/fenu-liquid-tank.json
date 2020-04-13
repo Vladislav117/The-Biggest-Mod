@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fenu liquid tank", "description": "...", "health": 141, "size": 3, "requirements": [{"item": "fenu", "amount": 6}, {"item": "lewana", "amount": 19}, {"item": "zoxa", "amount": 7}], "research": "fenu-conduit", "category": "liquid", "liquidCapacity": 84218, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cuyoko drill", "description": "...", "size": 2, "health": 436, "tier": 2, "drillTime": 11, "consumes": {"power": 12}, "requirements": [{"item": "cuyoko", "amount": 3}, {"item": "vaso", "amount": 18}, {"item": "hyji", "amount": 10}], "research": "cuyoko-factory", "category": "production"}

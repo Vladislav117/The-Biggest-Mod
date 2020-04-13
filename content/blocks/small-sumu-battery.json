@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sumu battery", "description": "...", "size": 1, "health": 268, "requirements": [{"item": "sumu", "amount": 1}, {"item": "wigyre", "amount": 11}, {"item": "wuqosenium", "amount": 6}], "research": "sumu-factory", "consumes": {"powerBuffered": 1315}, "category": "power"}

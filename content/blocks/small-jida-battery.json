@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jida battery", "description": "...", "size": 1, "health": 117, "requirements": [{"item": "jida", "amount": 3}, {"item": "madosy", "amount": 14}, {"item": "lumasunium", "amount": 7}], "research": "jida-factory", "consumes": {"powerBuffered": 1403}, "category": "power"}

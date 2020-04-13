@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wuho junction", "description": "...", "health": 20, "speed": 15, "capacity": 9, "size": 1, "requirements": [{"item": "wuho", "amount": 2}, {"item": "syyyvo", "amount": 1}], "research": "wuho-conveyor", "category": "distribution"}

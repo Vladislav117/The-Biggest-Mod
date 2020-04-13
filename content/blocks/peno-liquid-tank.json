@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "peno liquid tank", "description": "...", "health": 280, "size": 3, "requirements": [{"item": "peno", "amount": 16}, {"item": "gaxunium", "amount": 15}, {"item": "goqanium", "amount": 6}], "research": "peno-conduit", "category": "liquid", "liquidCapacity": 40375, "hasLiquids": true}

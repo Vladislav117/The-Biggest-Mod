@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yowoje liquid tank", "description": "...", "health": 316, "size": 3, "requirements": [{"item": "yowoje", "amount": 18}, {"item": "noconium", "amount": 8}, {"item": "totiji", "amount": 7}], "research": "yowoje-conduit", "category": "liquid", "liquidCapacity": 17189, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pusu liquid router", "description": "...", "size": 1, "health": 18, "requirements": [{"item": "pusu", "amount": 18}, {"item": "woce", "amount": 13}, {"item": "cuxenium", "amount": 3}], "research": "pusu-conduit", "liquidCapacity": 10, "category": "liquid"}

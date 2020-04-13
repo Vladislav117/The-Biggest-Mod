@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pify power node", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "pify", "amount": 9}, {"item": "rizu", "amount": 15}, {"item": "zytukenium", "amount": 9}], "research": "pify-factory", "maxNodes": 2, "laserRange": 10, "category": "power"}

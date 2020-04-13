@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kilenium bridge conveyor", "description": "", "health": 18, "range": 3, "speed": 19, "bufferCapacity": 3, "requirements": [{"item": "kilenium", "amount": 1}, {"item": "fyrywe", "amount": 2}], "research": "kilenium-conveyor", "category": "distribution", "size": 1}

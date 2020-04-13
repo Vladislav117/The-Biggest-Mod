@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small giho solar panel", "description": "...", "size": 1, "health": 173, "requirements": [{"item": "giho", "amount": 6}, {"item": "syxidonium", "amount": 8}, {"item": "bajenium", "amount": 4}], "research": "giho-factory", "powerProduction": 1.457819578472713, "category": "power"}

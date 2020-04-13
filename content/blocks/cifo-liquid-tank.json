@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cifo liquid tank", "description": "...", "health": 331, "size": 3, "requirements": [{"item": "cifo", "amount": 17}, {"item": "hukebi", "amount": 8}, {"item": "julynium", "amount": 9}], "research": "cifo-conduit", "category": "liquid", "liquidCapacity": 13632, "hasLiquids": true}

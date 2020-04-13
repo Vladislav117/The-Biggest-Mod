@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yimigunium junction", "description": "...", "health": 48, "speed": 16, "capacity": 10, "size": 1, "requirements": [{"item": "yimigunium", "amount": 4}, {"item": "dipy", "amount": 4}], "research": "yimigunium-conveyor", "category": "distribution"}

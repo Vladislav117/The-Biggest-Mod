@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lyty liquid tank", "description": "...", "health": 614, "size": 3, "requirements": [{"item": "lyty", "amount": 20}, {"item": "tufo", "amount": 11}, {"item": "yunu", "amount": 1}], "research": "lyty-conduit", "category": "liquid", "liquidCapacity": 27516, "hasLiquids": true}

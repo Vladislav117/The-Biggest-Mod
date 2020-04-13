@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hunynium underflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "hunynium", "amount": 5}, {"item": "nayevynium", "amount": 3}], "research": "hunynium-conveyor", "category": "distribution", "invert": false}

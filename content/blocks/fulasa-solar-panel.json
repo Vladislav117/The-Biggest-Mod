@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fulasa solar panel", "description": "...", "size": 3, "health": 149, "requirements": [{"item": "fulasa", "amount": 10}, {"item": "hono", "amount": 2}, {"item": "bayavo", "amount": 5}], "research": "fulasa-factory", "powerProduction": 0.6301570110323094, "category": "power"}

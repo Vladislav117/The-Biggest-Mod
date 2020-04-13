@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "focatu power node", "description": "...", "size": 2, "health": 607, "requirements": [{"item": "focatu", "amount": 17}, {"item": "wylobo", "amount": 20}, {"item": "qalo", "amount": 4}], "research": "focatu-factory", "maxNodes": 26, "laserRange": 15, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sara battery", "description": "...", "size": 3, "health": 55, "requirements": [{"item": "sara", "amount": 11}, {"item": "quxyqe", "amount": 8}, {"item": "kegiqi", "amount": 7}], "research": "sara-factory", "consumes": {"powerBuffered": 4912}, "category": "power"}

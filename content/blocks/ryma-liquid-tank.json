@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ryma liquid tank", "description": "...", "health": 465, "size": 3, "requirements": [{"item": "ryma", "amount": 5}, {"item": "huxonium", "amount": 4}, {"item": "xeponium", "amount": 10}], "research": "ryma-conduit", "category": "liquid", "liquidCapacity": 4391, "hasLiquids": true}

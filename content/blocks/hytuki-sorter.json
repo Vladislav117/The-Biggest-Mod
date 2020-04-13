@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hytuki sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "hytuki", "amount": 1}, {"item": "xipyvu", "amount": 5}], "research": "hytuki-conveyor", "category": "distribution", "invert": false}

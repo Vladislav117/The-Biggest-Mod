@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sibutu solar panel", "description": "...", "size": 3, "health": 246, "requirements": [{"item": "sibutu", "amount": 11}, {"item": "zeyeqi", "amount": 10}, {"item": "capa", "amount": 5}], "research": "sibutu-factory", "powerProduction": 0.7044106721647023, "category": "power"}

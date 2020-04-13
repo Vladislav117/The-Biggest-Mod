@@ -1,0 +1,1 @@
+{"type": "battery", "name": "holipu battery", "description": "...", "size": 3, "health": 246, "requirements": [{"item": "holipu", "amount": 15}, {"item": "bexa", "amount": 19}, {"item": "sywuze", "amount": 5}], "research": "holipu-factory", "consumes": {"powerBuffered": 3820}, "category": "power"}

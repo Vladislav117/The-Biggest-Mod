@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nepysi underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "nepysi", "amount": 1}, {"item": "pele", "amount": 5}], "research": "nepysi-conveyor", "category": "distribution", "invert": false}

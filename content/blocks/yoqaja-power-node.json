@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yoqaja power node", "description": "...", "size": 2, "health": 186, "requirements": [{"item": "yoqaja", "amount": 13}, {"item": "gomola", "amount": 8}, {"item": "cexulu", "amount": 8}], "research": "yoqaja-factory", "maxNodes": 43, "laserRange": 11, "category": "power"}

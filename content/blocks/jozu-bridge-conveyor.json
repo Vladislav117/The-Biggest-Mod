@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jozu bridge conveyor", "description": "", "health": 21, "range": 13, "speed": 10, "bufferCapacity": 3, "requirements": [{"item": "jozu", "amount": 2}, {"item": "dagepanium", "amount": 1}], "research": "jozu-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nohyhe liquid tank", "description": "...", "health": 323, "size": 3, "requirements": [{"item": "nohyhe", "amount": 6}, {"item": "jyhoninium", "amount": 20}, {"item": "ruke", "amount": 5}], "research": "nohyhe-conduit", "category": "liquid", "liquidCapacity": 92766, "hasLiquids": true}

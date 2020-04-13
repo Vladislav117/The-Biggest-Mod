@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "weva bridge conveyor", "description": "", "health": 3, "range": 18, "speed": 12, "bufferCapacity": 22, "requirements": [{"item": "weva", "amount": 3}, {"item": "gobenium", "amount": 3}], "research": "weva-conveyor", "category": "distribution", "size": 1}

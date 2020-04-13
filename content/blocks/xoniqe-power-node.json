@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xoniqe power node", "description": "...", "size": 2, "health": 638, "requirements": [{"item": "xoniqe", "amount": 14}, {"item": "zusi", "amount": 6}, {"item": "bofe", "amount": 2}], "research": "xoniqe-factory", "maxNodes": 15, "laserRange": 11, "category": "power"}

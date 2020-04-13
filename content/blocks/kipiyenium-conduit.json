@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kipiyenium conduit", "description": "...", "health": 140, "requirements": [{"item": "kipiyenium", "amount": 7}, {"item": "gasu", "amount": 15}, {"item": "faruna", "amount": 8}], "liquidCapacity": 35, "liquidPressure": 1, "research": "kipiyenium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pyfa conduit", "description": "...", "health": 138, "requirements": [{"item": "pyfa", "amount": 13}, {"item": "puwasy", "amount": 3}, {"item": "vadoda", "amount": 9}], "liquidCapacity": 43, "liquidPressure": 5, "research": "pyfa-factory", "category": "liquid"}

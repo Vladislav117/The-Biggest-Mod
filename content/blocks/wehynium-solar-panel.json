@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wehynium solar panel", "description": "...", "size": 3, "health": 163, "requirements": [{"item": "wehynium", "amount": 15}, {"item": "riniqi", "amount": 3}, {"item": "hylisa", "amount": 2}], "research": "wehynium-factory", "powerProduction": 2.8294562503485743, "category": "power"}

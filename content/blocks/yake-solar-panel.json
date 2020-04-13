@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yake solar panel", "description": "...", "size": 3, "health": 235, "requirements": [{"item": "yake", "amount": 2}, {"item": "yomema", "amount": 1}, {"item": "mixy", "amount": 7}], "research": "yake-factory", "powerProduction": 3.3347420296281785, "category": "power"}

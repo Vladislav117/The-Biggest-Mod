@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wedu bridge conveyor", "description": "", "health": 17, "range": 5, "speed": 20, "bufferCapacity": 16, "requirements": [{"item": "wedu", "amount": 1}, {"item": "velyma", "amount": 4}], "research": "wedu-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sovuqu battery", "description": "...", "size": 3, "health": 38, "requirements": [{"item": "sovuqu", "amount": 2}, {"item": "biqa", "amount": 12}, {"item": "kefy", "amount": 7}], "research": "sovuqu-factory", "consumes": {"powerBuffered": 1627}, "category": "power"}

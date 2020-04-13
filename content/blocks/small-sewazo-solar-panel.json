@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sewazo solar panel", "description": "...", "size": 1, "health": 110, "requirements": [{"item": "sewazo", "amount": 11}, {"item": "nyboye", "amount": 15}, {"item": "liza", "amount": 2}], "research": "sewazo-factory", "powerProduction": 1.685478825034494, "category": "power"}

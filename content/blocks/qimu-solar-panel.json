@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qimu solar panel", "description": "...", "size": 3, "health": 43, "requirements": [{"item": "qimu", "amount": 18}, {"item": "weka", "amount": 4}, {"item": "tagawe", "amount": 1}], "research": "qimu-factory", "powerProduction": 0.35861747282570156, "category": "power"}

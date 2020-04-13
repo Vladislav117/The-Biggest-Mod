@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yoqy battery", "description": "...", "size": 3, "health": 191, "requirements": [{"item": "yoqy", "amount": 6}, {"item": "graphite", "amount": 9}, {"item": "vadoda", "amount": 7}], "research": "yoqy-factory", "consumes": {"powerBuffered": 6082}, "category": "power"}

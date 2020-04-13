@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hitiva power node", "description": "...", "size": 1, "health": 250, "requirements": [{"item": "hitiva", "amount": 4}, {"item": "dawe", "amount": 19}, {"item": "qykyzo", "amount": 2}], "research": "hitiva-factory", "maxNodes": 5, "laserRange": 9, "category": "power"}

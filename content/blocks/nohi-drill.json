@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nohi drill", "description": "...", "size": 3, "health": 291, "tier": 4, "drillTime": 17, "consumes": {"power": 13}, "requirements": [{"item": "nohi", "amount": 2}, {"item": "fifoxo", "amount": 20}, {"item": "wyku", "amount": 2}], "research": "nohi-factory", "category": "production"}

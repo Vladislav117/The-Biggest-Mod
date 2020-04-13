@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xevanium junction", "description": "...", "health": 42, "speed": 6, "capacity": 3, "size": 1, "requirements": [{"item": "xevanium", "amount": 3}, {"item": "renyyy", "amount": 5}], "research": "xevanium-conveyor", "category": "distribution"}

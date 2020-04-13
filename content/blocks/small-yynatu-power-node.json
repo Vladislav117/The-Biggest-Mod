@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yynatu power node", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "yynatu", "amount": 11}, {"item": "kica", "amount": 1}, {"item": "mefymanium", "amount": 1}], "research": "yynatu-factory", "maxNodes": 12, "laserRange": 6, "category": "power"}

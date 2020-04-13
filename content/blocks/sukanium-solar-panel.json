@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sukanium solar panel", "description": "...", "size": 3, "health": 366, "requirements": [{"item": "sukanium", "amount": 12}, {"item": "qudeya", "amount": 12}, {"item": "fyyu", "amount": 5}], "research": "sukanium-factory", "powerProduction": 0.15419425895324806, "category": "power"}

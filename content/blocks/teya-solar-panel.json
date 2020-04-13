@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "teya solar panel", "description": "...", "size": 3, "health": 208, "requirements": [{"item": "teya", "amount": 5}, {"item": "pego", "amount": 12}, {"item": "cyjonium", "amount": 2}], "research": "teya-factory", "powerProduction": 0.010875462468925118, "category": "power"}

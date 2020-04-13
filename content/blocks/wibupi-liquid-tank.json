@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wibupi liquid tank", "description": "...", "health": 650, "size": 3, "requirements": [{"item": "wibupi", "amount": 9}, {"item": "gedo", "amount": 18}, {"item": "geguqi", "amount": 2}], "research": "wibupi-conduit", "category": "liquid", "liquidCapacity": 39883, "hasLiquids": true}

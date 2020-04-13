@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "buvinium liquid router", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "buvinium", "amount": 20}, {"item": "pudoki", "amount": 19}, {"item": "dufekunium", "amount": 4}], "research": "buvinium-conduit", "liquidCapacity": 10, "category": "liquid"}

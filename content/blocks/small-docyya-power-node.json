@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small docyya power node", "description": "...", "size": 1, "health": 176, "requirements": [{"item": "docyya", "amount": 18}, {"item": "zekaru", "amount": 14}, {"item": "yuno", "amount": 1}], "research": "docyya-factory", "maxNodes": 27, "laserRange": 9, "category": "power"}

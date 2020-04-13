@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vido liquid router", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "vido", "amount": 19}, {"item": "yuxonium", "amount": 10}, {"item": "jahezu", "amount": 6}], "research": "vido-conduit", "liquidCapacity": 10, "category": "liquid"}

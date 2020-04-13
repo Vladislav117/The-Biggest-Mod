@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vipe power node", "description": "...", "size": 1, "health": 311, "requirements": [{"item": "vipe", "amount": 9}, {"item": "syxidonium", "amount": 1}, {"item": "hevynium", "amount": 7}], "research": "vipe-factory", "maxNodes": 15, "laserRange": 3, "category": "power"}

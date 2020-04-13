@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bumaqa drill", "description": "...", "size": 2, "health": 245, "tier": 1, "drillTime": 10, "consumes": {"power": 10}, "requirements": [{"item": "bumaqa", "amount": 5}, {"item": "mytati", "amount": 17}, {"item": "riro", "amount": 9}], "research": "bumaqa-factory", "category": "production"}

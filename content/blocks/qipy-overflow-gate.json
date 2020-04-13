@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qipy overflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "qipy", "amount": 3}, {"item": "dezy", "amount": 4}], "research": "qipy-conveyor", "category": "distribution", "invert": false}

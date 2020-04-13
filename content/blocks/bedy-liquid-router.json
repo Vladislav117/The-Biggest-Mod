@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bedy liquid router", "description": "...", "size": 1, "health": 67, "requirements": [{"item": "bedy", "amount": 16}, {"item": "laxu", "amount": 13}, {"item": "zobu", "amount": 9}], "research": "bedy-conduit", "liquidCapacity": 10, "category": "liquid"}

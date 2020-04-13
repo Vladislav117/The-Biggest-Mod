@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yubyqi battery", "description": "...", "size": 3, "health": 204, "requirements": [{"item": "yubyqi", "amount": 16}, {"item": "sehy", "amount": 4}, {"item": "nitonium", "amount": 9}], "research": "yubyqi-factory", "consumes": {"powerBuffered": 3479}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "licu battery", "description": "...", "size": 3, "health": 314, "requirements": [{"item": "licu", "amount": 8}, {"item": "ruyi", "amount": 10}, {"item": "vunehy", "amount": 6}], "research": "licu-factory", "consumes": {"powerBuffered": 1808}, "category": "power"}

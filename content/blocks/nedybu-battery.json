@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nedybu battery", "description": "...", "size": 3, "health": 93, "requirements": [{"item": "nedybu", "amount": 18}, {"item": "moqa", "amount": 12}, {"item": "fadakynium", "amount": 4}], "research": "nedybu-factory", "consumes": {"powerBuffered": 7744}, "category": "power"}

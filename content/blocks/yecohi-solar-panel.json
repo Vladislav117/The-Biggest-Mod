@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yecohi solar panel", "description": "...", "size": 3, "health": 319, "requirements": [{"item": "yecohi", "amount": 14}, {"item": "nupydo", "amount": 9}, {"item": "maya", "amount": 1}], "research": "yecohi-factory", "powerProduction": 0.8440838978341335, "category": "power"}

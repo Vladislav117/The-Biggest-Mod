@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small takicynium battery", "description": "...", "size": 1, "health": 294, "requirements": [{"item": "takicynium", "amount": 3}, {"item": "fayenium", "amount": 6}, {"item": "byfyge", "amount": 8}], "research": "takicynium-factory", "consumes": {"powerBuffered": 632}, "category": "power"}

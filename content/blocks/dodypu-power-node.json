@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dodypu power node", "description": "...", "size": 2, "health": 45, "requirements": [{"item": "dodypu", "amount": 19}, {"item": "raqo", "amount": 19}, {"item": "dubi", "amount": 6}], "research": "dodypu-factory", "maxNodes": 52, "laserRange": 20, "category": "power"}

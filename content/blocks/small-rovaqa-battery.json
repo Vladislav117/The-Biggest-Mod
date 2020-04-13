@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rovaqa battery", "description": "...", "size": 1, "health": 378, "requirements": [{"item": "rovaqa", "amount": 5}, {"item": "lyra", "amount": 10}, {"item": "wupera", "amount": 2}], "research": "rovaqa-factory", "consumes": {"powerBuffered": 231}, "category": "power"}

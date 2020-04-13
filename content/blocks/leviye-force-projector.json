@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "leviye force projector", "description": "...", "health": 135, "size": 3, "consumes": {"power": 5.0, "item": "leviye"}, "requirements": [{"item": "leviye", "amount": 3}, {"item": "juvaci", "amount": 20}, {"item": "gypunium", "amount": 5}], "research": "leviye-factory", "category": "effect"}

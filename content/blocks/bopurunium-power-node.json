@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bopurunium power node", "description": "...", "size": 2, "health": 785, "requirements": [{"item": "bopurunium", "amount": 19}, {"item": "rateju", "amount": 13}, {"item": "qoti", "amount": 2}], "research": "bopurunium-factory", "maxNodes": 14, "laserRange": 10, "category": "power"}

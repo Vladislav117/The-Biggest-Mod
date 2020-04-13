@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qyjysu battery", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "qyjysu", "amount": 5}, {"item": "xejunium", "amount": 6}, {"item": "towenium", "amount": 6}], "research": "qyjysu-factory", "consumes": {"powerBuffered": 9628}, "category": "power"}

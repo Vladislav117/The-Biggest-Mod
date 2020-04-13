@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "maqufu overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "maqufu", "amount": 2}, {"item": "nefanium", "amount": 4}], "research": "maqufu-conveyor", "category": "distribution", "invert": false}

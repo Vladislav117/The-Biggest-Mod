@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "daxury power node", "description": "...", "size": 2, "health": 516, "requirements": [{"item": "daxury", "amount": 3}, {"item": "hona", "amount": 2}, {"item": "jeqenium", "amount": 4}], "research": "daxury-factory", "maxNodes": 44, "laserRange": 21, "category": "power"}

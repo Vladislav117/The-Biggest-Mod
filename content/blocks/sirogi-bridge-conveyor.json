@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sirogi bridge conveyor", "description": "", "health": 19, "range": 8, "speed": 10, "bufferCapacity": 7, "requirements": [{"item": "sirogi", "amount": 4}, {"item": "mobipo", "amount": 3}], "research": "sirogi-conveyor", "category": "distribution", "size": 1}

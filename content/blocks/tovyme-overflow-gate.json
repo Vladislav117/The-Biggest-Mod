@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tovyme overflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "tovyme", "amount": 5}, {"item": "muby", "amount": 2}], "research": "tovyme-conveyor", "category": "distribution", "invert": false}

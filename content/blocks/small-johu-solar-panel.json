@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small johu solar panel", "description": "...", "size": 1, "health": 322, "requirements": [{"item": "johu", "amount": 7}, {"item": "purunium", "amount": 9}, {"item": "kuku", "amount": 6}], "research": "johu-factory", "powerProduction": 1.0126488180066693, "category": "power"}

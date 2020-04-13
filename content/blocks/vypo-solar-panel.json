@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vypo solar panel", "description": "...", "size": 3, "health": 347, "requirements": [{"item": "vypo", "amount": 1}, {"item": "fusi", "amount": 18}, {"item": "lehanium", "amount": 1}], "research": "vypo-factory", "powerProduction": 3.5587896249708595, "category": "power"}

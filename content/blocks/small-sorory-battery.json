@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sorory battery", "description": "...", "size": 1, "health": 149, "requirements": [{"item": "sorory", "amount": 19}, {"item": "yuno", "amount": 11}, {"item": "gyfi", "amount": 6}], "research": "sorory-factory", "consumes": {"powerBuffered": 487}, "category": "power"}

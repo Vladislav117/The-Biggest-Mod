@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "todenium sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "todenium", "amount": 4}, {"item": "bedagy", "amount": 5}], "research": "todenium-conveyor", "category": "distribution", "invert": false}

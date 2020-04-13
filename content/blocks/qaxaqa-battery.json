@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qaxaqa battery", "description": "...", "size": 3, "health": 146, "requirements": [{"item": "qaxaqa", "amount": 16}, {"item": "xadyyo", "amount": 12}, {"item": "vekile", "amount": 5}], "research": "qaxaqa-factory", "consumes": {"powerBuffered": 2039}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qubyra junction", "description": "...", "health": 34, "speed": 9, "capacity": 9, "size": 1, "requirements": [{"item": "qubyra", "amount": 2}, {"item": "tire", "amount": 2}], "research": "qubyra-conveyor", "category": "distribution"}

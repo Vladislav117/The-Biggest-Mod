@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ryni liquid tank", "description": "...", "health": 337, "size": 3, "requirements": [{"item": "ryni", "amount": 1}, {"item": "kafulu", "amount": 7}, {"item": "tuty", "amount": 9}], "research": "ryni-conduit", "category": "liquid", "liquidCapacity": 52504, "hasLiquids": true}

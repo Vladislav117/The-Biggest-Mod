@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xozasi battery", "description": "...", "size": 3, "health": 283, "requirements": [{"item": "xozasi", "amount": 3}, {"item": "cesewo", "amount": 12}, {"item": "mecyronium", "amount": 4}], "research": "xozasi-factory", "consumes": {"powerBuffered": 795}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sijelu battery", "description": "...", "size": 3, "health": 198, "requirements": [{"item": "sijelu", "amount": 6}, {"item": "gahy", "amount": 12}, {"item": "fyfe", "amount": 3}], "research": "sijelu-factory", "consumes": {"powerBuffered": 2045}, "category": "power"}

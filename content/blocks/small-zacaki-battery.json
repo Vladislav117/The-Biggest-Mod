@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zacaki battery", "description": "...", "size": 1, "health": 218, "requirements": [{"item": "zacaki", "amount": 6}, {"item": "bapu", "amount": 4}, {"item": "macixy", "amount": 4}], "research": "zacaki-factory", "consumes": {"powerBuffered": 2421}, "category": "power"}

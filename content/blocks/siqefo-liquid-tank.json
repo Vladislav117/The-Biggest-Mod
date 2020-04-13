@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "siqefo liquid tank", "description": "...", "health": 255, "size": 3, "requirements": [{"item": "siqefo", "amount": 17}, {"item": "lead", "amount": 11}, {"item": "mumu", "amount": 9}], "research": "siqefo-conduit", "category": "liquid", "liquidCapacity": 8752, "hasLiquids": true}

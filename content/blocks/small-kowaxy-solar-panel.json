@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kowaxy solar panel", "description": "...", "size": 1, "health": 123, "requirements": [{"item": "kowaxy", "amount": 1}, {"item": "wobe", "amount": 14}, {"item": "keze", "amount": 3}], "research": "kowaxy-factory", "powerProduction": 0.5556000067891349, "category": "power"}

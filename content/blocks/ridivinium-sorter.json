@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ridivinium sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "ridivinium", "amount": 5}, {"item": "fuho", "amount": 4}], "research": "ridivinium-conveyor", "category": "distribution", "invert": false}

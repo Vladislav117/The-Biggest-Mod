@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "daziha underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "daziha", "amount": 1}, {"item": "jufyxo", "amount": 4}], "research": "daziha-conveyor", "category": "distribution", "invert": false}

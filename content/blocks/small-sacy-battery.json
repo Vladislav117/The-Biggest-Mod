@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sacy battery", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "sacy", "amount": 8}, {"item": "gineta", "amount": 2}, {"item": "guvoja", "amount": 10}], "research": "sacy-factory", "consumes": {"powerBuffered": 2783}, "category": "power"}

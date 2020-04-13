@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vabu power node", "description": "...", "size": 2, "health": 540, "requirements": [{"item": "vabu", "amount": 3}, {"item": "mecyronium", "amount": 16}, {"item": "qepumu", "amount": 2}], "research": "vabu-factory", "maxNodes": 58, "laserRange": 19, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rymojanium battery", "description": "...", "size": 1, "health": 25, "requirements": [{"item": "rymojanium", "amount": 14}, {"item": "kubi", "amount": 6}, {"item": "daqy", "amount": 2}], "research": "rymojanium-factory", "consumes": {"powerBuffered": 2495}, "category": "power"}

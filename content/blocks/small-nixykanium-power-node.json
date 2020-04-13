@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nixykanium power node", "description": "...", "size": 1, "health": 104, "requirements": [{"item": "nixykanium", "amount": 6}, {"item": "vosuxynium", "amount": 8}, {"item": "vakarinium", "amount": 7}], "research": "nixykanium-factory", "maxNodes": 15, "laserRange": 24, "category": "power"}

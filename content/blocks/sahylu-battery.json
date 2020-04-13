@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sahylu battery", "description": "...", "size": 3, "health": 241, "requirements": [{"item": "sahylu", "amount": 4}, {"item": "roma", "amount": 12}, {"item": "hite", "amount": 6}], "research": "sahylu-factory", "consumes": {"powerBuffered": 3752}, "category": "power"}

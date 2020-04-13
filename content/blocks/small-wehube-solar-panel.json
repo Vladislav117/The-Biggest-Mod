@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wehube solar panel", "description": "...", "size": 1, "health": 388, "requirements": [{"item": "wehube", "amount": 18}, {"item": "suvi", "amount": 18}, {"item": "qiqo", "amount": 3}], "research": "wehube-factory", "powerProduction": 1.6702335744426362, "category": "power"}

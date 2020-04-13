@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fixunium battery", "description": "...", "size": 1, "health": 221, "requirements": [{"item": "fixunium", "amount": 17}, {"item": "qaya", "amount": 7}, {"item": "juwuyu", "amount": 6}], "research": "fixunium-factory", "consumes": {"powerBuffered": 2482}, "category": "power"}

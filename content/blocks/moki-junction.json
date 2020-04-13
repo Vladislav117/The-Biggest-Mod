@@ -1,0 +1,1 @@
+{"type": "junction", "name": "moki junction", "description": "...", "health": 10, "speed": 6, "capacity": 10, "size": 1, "requirements": [{"item": "moki", "amount": 4}, {"item": "wupera", "amount": 3}], "research": "moki-conveyor", "category": "distribution"}

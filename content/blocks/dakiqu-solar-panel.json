@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dakiqu solar panel", "description": "...", "size": 3, "health": 76, "requirements": [{"item": "dakiqu", "amount": 14}, {"item": "mavitu", "amount": 14}, {"item": "xoge", "amount": 3}], "research": "dakiqu-factory", "powerProduction": 1.8940648066838692, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dutenium liquid tank", "description": "...", "health": 162, "size": 3, "requirements": [{"item": "dutenium", "amount": 9}, {"item": "nujunium", "amount": 3}, {"item": "puli", "amount": 9}], "research": "dutenium-conduit", "category": "liquid", "liquidCapacity": 52680, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small torufonium power node", "description": "...", "size": 1, "health": 351, "requirements": [{"item": "torufonium", "amount": 19}, {"item": "pify", "amount": 10}, {"item": "lehanium", "amount": 9}], "research": "torufonium-factory", "maxNodes": 28, "laserRange": 9, "category": "power"}

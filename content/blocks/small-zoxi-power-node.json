@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zoxi power node", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "zoxi", "amount": 15}, {"item": "pomagu", "amount": 11}, {"item": "giho", "amount": 1}], "research": "zoxi-factory", "maxNodes": 7, "laserRange": 19, "category": "power"}

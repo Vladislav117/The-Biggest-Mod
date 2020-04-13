@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "varuso solar panel", "description": "...", "size": 3, "health": 55, "requirements": [{"item": "varuso", "amount": 17}, {"item": "yidugonium", "amount": 1}, {"item": "dakoyi", "amount": 1}], "research": "varuso-factory", "powerProduction": 1.8769526877226013, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nivifu liquid tank", "description": "...", "health": 382, "size": 3, "requirements": [{"item": "nivifu", "amount": 6}, {"item": "jazu", "amount": 6}, {"item": "reximo", "amount": 4}], "research": "nivifu-conduit", "category": "liquid", "liquidCapacity": 100289, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nixaxe power node", "description": "...", "size": 2, "health": 698, "requirements": [{"item": "nixaxe", "amount": 13}, {"item": "qubironium", "amount": 12}, {"item": "povewo", "amount": 6}], "research": "nixaxe-factory", "maxNodes": 57, "laserRange": 6, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wyfanium liquid tank", "description": "...", "health": 480, "size": 3, "requirements": [{"item": "wyfanium", "amount": 7}, {"item": "xadunium", "amount": 11}, {"item": "rybiho", "amount": 9}], "research": "wyfanium-conduit", "category": "liquid", "liquidCapacity": 23646, "hasLiquids": true}

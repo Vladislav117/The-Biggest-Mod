@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kepo liquid tank", "description": "...", "health": 566, "size": 3, "requirements": [{"item": "kepo", "amount": 8}, {"item": "bawy", "amount": 8}, {"item": "besivi", "amount": 6}], "research": "kepo-conduit", "category": "liquid", "liquidCapacity": 15550, "hasLiquids": true}

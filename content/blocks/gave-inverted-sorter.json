@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gave inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "gave", "amount": 2}, {"item": "zoyinium", "amount": 3}], "research": "gave-conveyor", "category": "distribution", "invert": true}

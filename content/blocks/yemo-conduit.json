@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yemo conduit", "description": "...", "health": 102, "requirements": [{"item": "yemo", "amount": 19}, {"item": "tayi", "amount": 15}, {"item": "baguyu", "amount": 6}], "liquidCapacity": 43, "liquidPressure": 1, "research": "yemo-factory", "category": "liquid"}

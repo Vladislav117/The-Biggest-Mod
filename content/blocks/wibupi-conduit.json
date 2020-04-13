@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wibupi conduit", "description": "...", "health": 169, "requirements": [{"item": "wibupi", "amount": 13}, {"item": "vecifu", "amount": 14}, {"item": "resenium", "amount": 8}], "liquidCapacity": 9, "liquidPressure": 4, "research": "wibupi-factory", "category": "liquid"}

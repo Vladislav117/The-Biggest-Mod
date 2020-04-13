@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pyrynium junction", "description": "...", "health": 13, "speed": 13, "capacity": 12, "size": 1, "requirements": [{"item": "pyrynium", "amount": 4}, {"item": "qokenium", "amount": 5}], "research": "pyrynium-conveyor", "category": "distribution"}

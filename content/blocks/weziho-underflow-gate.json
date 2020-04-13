@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "weziho underflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "weziho", "amount": 5}, {"item": "jisu", "amount": 2}], "research": "weziho-conveyor", "category": "distribution", "invert": false}

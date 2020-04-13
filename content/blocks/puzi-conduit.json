@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "puzi conduit", "description": "...", "health": 80, "requirements": [{"item": "puzi", "amount": 5}, {"item": "yoty", "amount": 16}, {"item": "moro", "amount": 3}], "liquidCapacity": 38, "liquidPressure": 8, "research": "puzi-factory", "category": "liquid"}

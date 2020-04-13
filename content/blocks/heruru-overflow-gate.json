@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "heruru overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "heruru", "amount": 3}, {"item": "metaglass", "amount": 5}], "research": "heruru-conveyor", "category": "distribution", "invert": false}

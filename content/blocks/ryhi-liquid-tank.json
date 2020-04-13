@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ryhi liquid tank", "description": "...", "health": 604, "size": 3, "requirements": [{"item": "ryhi", "amount": 17}, {"item": "qudeya", "amount": 16}, {"item": "joky", "amount": 5}], "research": "ryhi-conduit", "category": "liquid", "liquidCapacity": 111088, "hasLiquids": true}

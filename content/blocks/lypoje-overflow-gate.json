@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lypoje overflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "lypoje", "amount": 2}, {"item": "nepysi", "amount": 4}], "research": "lypoje-conveyor", "category": "distribution", "invert": false}

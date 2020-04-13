@@ -1,0 +1,1 @@
+{"type": "battery", "name": "viqamo battery", "description": "...", "size": 3, "health": 174, "requirements": [{"item": "viqamo", "amount": 18}, {"item": "kyte", "amount": 13}, {"item": "syxidonium", "amount": 9}], "research": "viqamo-factory", "consumes": {"powerBuffered": 8161}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "maxy inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "maxy", "amount": 1}, {"item": "dedaka", "amount": 3}], "research": "maxy-conveyor", "category": "distribution", "invert": true}

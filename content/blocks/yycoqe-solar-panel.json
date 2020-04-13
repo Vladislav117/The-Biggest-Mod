@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yycoqe solar panel", "description": "...", "size": 3, "health": 128, "requirements": [{"item": "yycoqe", "amount": 15}, {"item": "tufo", "amount": 4}, {"item": "heti", "amount": 10}], "research": "yycoqe-factory", "powerProduction": 0.6096016932278902, "category": "power"}

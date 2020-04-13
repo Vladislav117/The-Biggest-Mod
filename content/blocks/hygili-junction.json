@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hygili junction", "description": "...", "health": 45, "speed": 5, "capacity": 17, "size": 1, "requirements": [{"item": "hygili", "amount": 3}, {"item": "melula", "amount": 5}], "research": "hygili-conveyor", "category": "distribution"}

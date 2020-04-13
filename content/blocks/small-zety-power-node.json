@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zety power node", "description": "...", "size": 1, "health": 398, "requirements": [{"item": "zety", "amount": 5}, {"item": "mumu", "amount": 19}, {"item": "yuhusi", "amount": 6}], "research": "zety-factory", "maxNodes": 25, "laserRange": 12, "category": "power"}

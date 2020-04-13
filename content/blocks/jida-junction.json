@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jida junction", "description": "...", "health": 43, "speed": 1, "capacity": 4, "size": 1, "requirements": [{"item": "jida", "amount": 4}, {"item": "kuvinium", "amount": 4}], "research": "jida-conveyor", "category": "distribution"}

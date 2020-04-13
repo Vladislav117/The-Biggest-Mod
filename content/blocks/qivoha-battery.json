@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qivoha battery", "description": "...", "size": 3, "health": 197, "requirements": [{"item": "qivoha", "amount": 7}, {"item": "vayy", "amount": 3}, {"item": "raky", "amount": 4}], "research": "qivoha-factory", "consumes": {"powerBuffered": 9330}, "category": "power"}

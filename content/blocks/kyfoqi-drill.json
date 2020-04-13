@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kyfoqi drill", "description": "...", "size": 3, "health": 232, "tier": 1, "drillTime": 17, "consumes": {"power": 14}, "requirements": [{"item": "kyfoqi", "amount": 14}, {"item": "zirive", "amount": 14}, {"item": "tihunium", "amount": 3}], "research": "kyfoqi-factory", "category": "production"}

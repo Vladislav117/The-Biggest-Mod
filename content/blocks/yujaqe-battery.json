@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yujaqe battery", "description": "...", "size": 3, "health": 136, "requirements": [{"item": "yujaqe", "amount": 11}, {"item": "fise", "amount": 11}, {"item": "metaglass", "amount": 2}], "research": "yujaqe-factory", "consumes": {"powerBuffered": 887}, "category": "power"}

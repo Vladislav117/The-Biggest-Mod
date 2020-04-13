@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "poviye power node", "description": "...", "size": 2, "health": 600, "requirements": [{"item": "poviye", "amount": 5}, {"item": "qoviganium", "amount": 3}, {"item": "viwymynium", "amount": 1}], "research": "poviye-factory", "maxNodes": 19, "laserRange": 5, "category": "power"}

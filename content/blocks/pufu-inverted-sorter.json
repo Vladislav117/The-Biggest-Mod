@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pufu inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "pufu", "amount": 1}, {"item": "syxidonium", "amount": 4}], "research": "pufu-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "detadynium inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "detadynium", "amount": 2}, {"item": "lahydo", "amount": 2}], "research": "detadynium-conveyor", "category": "distribution", "invert": true}

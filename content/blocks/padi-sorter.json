@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "padi sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "padi", "amount": 4}, {"item": "faqymu", "amount": 4}], "research": "padi-conveyor", "category": "distribution", "invert": false}

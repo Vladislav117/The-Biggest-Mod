@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sesico inverted sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "sesico", "amount": 4}, {"item": "donysenium", "amount": 3}], "research": "sesico-conveyor", "category": "distribution", "invert": true}

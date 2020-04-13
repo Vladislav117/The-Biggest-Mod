@@ -1,0 +1,1 @@
+{"type": "junction", "name": "senaqo junction", "description": "...", "health": 7, "speed": 11, "capacity": 12, "size": 1, "requirements": [{"item": "senaqo", "amount": 1}, {"item": "vuka", "amount": 5}], "research": "senaqo-conveyor", "category": "distribution"}

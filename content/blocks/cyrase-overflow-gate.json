@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cyrase overflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "cyrase", "amount": 5}, {"item": "vekile", "amount": 1}], "research": "cyrase-conveyor", "category": "distribution", "invert": false}

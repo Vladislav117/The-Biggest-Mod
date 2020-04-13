@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "huru force projector", "description": "...", "health": 196, "size": 3, "consumes": {"power": 5.0, "item": "huru"}, "requirements": [{"item": "huru", "amount": 19}, {"item": "yeku", "amount": 14}, {"item": "lyva", "amount": 7}], "research": "huru-factory", "category": "effect"}

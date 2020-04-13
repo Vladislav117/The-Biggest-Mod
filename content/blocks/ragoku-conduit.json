@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ragoku conduit", "description": "...", "health": 62, "requirements": [{"item": "ragoku", "amount": 3}, {"item": "vuciby", "amount": 9}, {"item": "lead", "amount": 9}], "liquidCapacity": 2, "liquidPressure": 4, "research": "ragoku-factory", "category": "liquid"}

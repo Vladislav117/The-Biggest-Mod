@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "danava liquid router", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "danava", "amount": 6}, {"item": "nyboye", "amount": 17}, {"item": "metaglass", "amount": 3}], "research": "danava-conduit", "liquidCapacity": 10, "category": "liquid"}

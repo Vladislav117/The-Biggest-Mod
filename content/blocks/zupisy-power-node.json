@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zupisy power node", "description": "...", "size": 2, "health": 500, "requirements": [{"item": "zupisy", "amount": 16}, {"item": "gozefynium", "amount": 10}, {"item": "seleme", "amount": 8}], "research": "zupisy-factory", "maxNodes": 33, "laserRange": 19, "category": "power"}

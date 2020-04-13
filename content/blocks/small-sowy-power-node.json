@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sowy power node", "description": "...", "size": 1, "health": 270, "requirements": [{"item": "sowy", "amount": 13}, {"item": "sary", "amount": 16}, {"item": "pusira", "amount": 9}], "research": "sowy-factory", "maxNodes": 25, "laserRange": 17, "category": "power"}

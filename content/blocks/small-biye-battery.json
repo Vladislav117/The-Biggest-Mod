@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small biye battery", "description": "...", "size": 1, "health": 148, "requirements": [{"item": "biye", "amount": 9}, {"item": "vudaxy", "amount": 18}, {"item": "gado", "amount": 2}], "research": "biye-factory", "consumes": {"powerBuffered": 799}, "category": "power"}

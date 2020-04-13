@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cohale conduit", "description": "...", "health": 116, "requirements": [{"item": "cohale", "amount": 2}, {"item": "pejavy", "amount": 4}, {"item": "lyheti", "amount": 3}], "liquidCapacity": 37, "liquidPressure": 6, "research": "cohale-factory", "category": "liquid"}

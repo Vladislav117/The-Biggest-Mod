@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qyyudi solar panel", "description": "...", "size": 3, "health": 251, "requirements": [{"item": "qyyudi", "amount": 4}, {"item": "rigiro", "amount": 18}, {"item": "kuwo", "amount": 2}], "research": "qyyudi-factory", "powerProduction": 2.7856500589631787, "category": "power"}

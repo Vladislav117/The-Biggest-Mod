@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gyfahanium liquid tank", "description": "...", "health": 148, "size": 3, "requirements": [{"item": "gyfahanium", "amount": 12}, {"item": "daye", "amount": 8}, {"item": "tenu", "amount": 1}], "research": "gyfahanium-conduit", "category": "liquid", "liquidCapacity": 33692, "hasLiquids": true}

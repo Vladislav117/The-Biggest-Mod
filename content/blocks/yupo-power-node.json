@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yupo power node", "description": "...", "size": 2, "health": 690, "requirements": [{"item": "yupo", "amount": 16}, {"item": "nunanunium", "amount": 14}, {"item": "muti", "amount": 10}], "research": "yupo-factory", "maxNodes": 28, "laserRange": 20, "category": "power"}

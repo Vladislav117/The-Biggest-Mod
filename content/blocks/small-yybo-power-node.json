@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yybo power node", "description": "...", "size": 1, "health": 296, "requirements": [{"item": "yybo", "amount": 6}, {"item": "zatukunium", "amount": 13}, {"item": "sukanium", "amount": 8}], "research": "yybo-factory", "maxNodes": 27, "laserRange": 5, "category": "power"}

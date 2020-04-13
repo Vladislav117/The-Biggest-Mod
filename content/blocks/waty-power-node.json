@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "waty power node", "description": "...", "size": 2, "health": 502, "requirements": [{"item": "waty", "amount": 12}, {"item": "gosanium", "amount": 13}, {"item": "qokenium", "amount": 1}], "research": "waty-factory", "maxNodes": 34, "laserRange": 20, "category": "power"}

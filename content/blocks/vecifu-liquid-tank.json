@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vecifu liquid tank", "description": "...", "health": 347, "size": 3, "requirements": [{"item": "vecifu", "amount": 18}, {"item": "ryma", "amount": 8}, {"item": "doce", "amount": 9}], "research": "vecifu-conduit", "category": "liquid", "liquidCapacity": 39990, "hasLiquids": true}

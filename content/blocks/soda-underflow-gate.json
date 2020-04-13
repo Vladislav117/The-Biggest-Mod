@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "soda underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "soda", "amount": 5}, {"item": "qekaye", "amount": 2}], "research": "soda-conveyor", "category": "distribution", "invert": false}

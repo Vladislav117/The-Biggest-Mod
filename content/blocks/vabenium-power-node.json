@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vabenium power node", "description": "...", "size": 2, "health": 639, "requirements": [{"item": "vabenium", "amount": 15}, {"item": "vevudinium", "amount": 13}, {"item": "qulape", "amount": 3}], "research": "vabenium-factory", "maxNodes": 42, "laserRange": 8, "category": "power"}

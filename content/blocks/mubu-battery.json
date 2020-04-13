@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mubu battery", "description": "...", "size": 3, "health": 76, "requirements": [{"item": "mubu", "amount": 15}, {"item": "rapuvo", "amount": 12}, {"item": "qurehy", "amount": 10}], "research": "mubu-factory", "consumes": {"powerBuffered": 8336}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tyzonium bridge conveyor", "description": "", "health": 1, "range": 18, "speed": 15, "bufferCapacity": 24, "requirements": [{"item": "tyzonium", "amount": 3}, {"item": "hiqeyi", "amount": 4}], "research": "tyzonium-conveyor", "category": "distribution", "size": 1}

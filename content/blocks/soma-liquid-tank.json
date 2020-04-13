@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "soma liquid tank", "description": "...", "health": 275, "size": 3, "requirements": [{"item": "soma", "amount": 19}, {"item": "woze", "amount": 19}, {"item": "kokonium", "amount": 1}], "research": "soma-conduit", "category": "liquid", "liquidCapacity": 102407, "hasLiquids": true}

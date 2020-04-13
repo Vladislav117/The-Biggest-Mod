@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nisynu solar panel", "description": "...", "size": 1, "health": 46, "requirements": [{"item": "nisynu", "amount": 15}, {"item": "qiti", "amount": 14}, {"item": "vayera", "amount": 2}], "research": "nisynu-factory", "powerProduction": 0.17370198941785178, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zexinium conduit", "description": "...", "health": 95, "requirements": [{"item": "zexinium", "amount": 14}, {"item": "zymi", "amount": 18}, {"item": "haqu", "amount": 2}], "liquidCapacity": 46, "liquidPressure": 7, "research": "zexinium-factory", "category": "liquid"}

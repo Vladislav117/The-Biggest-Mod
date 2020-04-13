@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vybemi liquid tank", "description": "...", "health": 330, "size": 3, "requirements": [{"item": "vybemi", "amount": 20}, {"item": "waby", "amount": 19}, {"item": "hyxunium", "amount": 10}], "research": "vybemi-conduit", "category": "liquid", "liquidCapacity": 23698, "hasLiquids": true}

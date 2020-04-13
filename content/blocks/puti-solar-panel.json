@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "puti solar panel", "description": "...", "size": 3, "health": 289, "requirements": [{"item": "puti", "amount": 15}, {"item": "tiqeti", "amount": 17}, {"item": "qasysi", "amount": 7}], "research": "puti-factory", "powerProduction": 0.32104637570008454, "category": "power"}

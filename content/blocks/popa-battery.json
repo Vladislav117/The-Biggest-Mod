@@ -1,0 +1,1 @@
+{"type": "battery", "name": "popa battery", "description": "...", "size": 3, "health": 301, "requirements": [{"item": "popa", "amount": 19}, {"item": "hiwenium", "amount": 19}, {"item": "qiqole", "amount": 5}], "research": "popa-factory", "consumes": {"powerBuffered": 523}, "category": "power"}

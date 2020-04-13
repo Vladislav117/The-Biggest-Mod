@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tenu liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "tenu", "amount": 20}, {"item": "rilo", "amount": 9}, {"item": "yijotu", "amount": 9}], "research": "tenu-conduit", "liquidCapacity": 10, "category": "liquid"}

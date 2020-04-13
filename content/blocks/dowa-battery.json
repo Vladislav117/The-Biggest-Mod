@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dowa battery", "description": "...", "size": 3, "health": 238, "requirements": [{"item": "dowa", "amount": 11}, {"item": "furazinium", "amount": 18}, {"item": "yyva", "amount": 7}], "research": "dowa-factory", "consumes": {"powerBuffered": 382}, "category": "power"}

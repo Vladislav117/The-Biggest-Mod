@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small saze solar panel", "description": "...", "size": 1, "health": 164, "requirements": [{"item": "saze", "amount": 16}, {"item": "qoseve", "amount": 12}, {"item": "fasi", "amount": 9}], "research": "saze-factory", "powerProduction": 4.823712564527812e-05, "category": "power"}

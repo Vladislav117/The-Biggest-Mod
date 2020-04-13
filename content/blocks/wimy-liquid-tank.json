@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wimy liquid tank", "description": "...", "health": 150, "size": 3, "requirements": [{"item": "wimy", "amount": 20}, {"item": "yedunium", "amount": 13}, {"item": "pode", "amount": 4}], "research": "wimy-conduit", "category": "liquid", "liquidCapacity": 62567, "hasLiquids": true}

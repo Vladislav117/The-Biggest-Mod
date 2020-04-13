@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "koty conduit", "description": "...", "health": 55, "requirements": [{"item": "koty", "amount": 6}, {"item": "garyda", "amount": 5}, {"item": "kavequ", "amount": 2}], "liquidCapacity": 30, "liquidPressure": 1, "research": "koty-factory", "category": "liquid"}

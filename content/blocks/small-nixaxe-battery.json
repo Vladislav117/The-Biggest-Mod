@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nixaxe battery", "description": "...", "size": 1, "health": 212, "requirements": [{"item": "nixaxe", "amount": 19}, {"item": "bivucunium", "amount": 8}, {"item": "xunize", "amount": 9}], "research": "nixaxe-factory", "consumes": {"powerBuffered": 2329}, "category": "power"}

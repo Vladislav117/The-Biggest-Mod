@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sebeso liquid tank", "description": "...", "health": 554, "size": 3, "requirements": [{"item": "sebeso", "amount": 13}, {"item": "heho", "amount": 12}, {"item": "virema", "amount": 6}], "research": "sebeso-conduit", "category": "liquid", "liquidCapacity": 26851, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vaqo liquid tank", "description": "...", "health": 480, "size": 3, "requirements": [{"item": "vaqo", "amount": 17}, {"item": "fizycinium", "amount": 10}, {"item": "tiwyna", "amount": 10}], "research": "vaqo-conduit", "category": "liquid", "liquidCapacity": 42606, "hasLiquids": true}

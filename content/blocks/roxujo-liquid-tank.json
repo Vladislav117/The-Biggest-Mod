@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "roxujo liquid tank", "description": "...", "health": 652, "size": 3, "requirements": [{"item": "roxujo", "amount": 9}, {"item": "xuryvy", "amount": 11}, {"item": "mygo", "amount": 6}], "research": "roxujo-conduit", "category": "liquid", "liquidCapacity": 103949, "hasLiquids": true}

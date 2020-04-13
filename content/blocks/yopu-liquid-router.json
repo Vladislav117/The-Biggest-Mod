@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yopu liquid router", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "yopu", "amount": 7}, {"item": "hulanium", "amount": 15}, {"item": "gohi", "amount": 4}], "research": "yopu-conduit", "liquidCapacity": 10, "category": "liquid"}

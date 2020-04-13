@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "najy inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "najy", "amount": 5}, {"item": "seyuwa", "amount": 4}], "research": "najy-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wohy liquid tank", "description": "...", "health": 664, "size": 3, "requirements": [{"item": "wohy", "amount": 3}, {"item": "yedyte", "amount": 19}, {"item": "fayenium", "amount": 4}], "research": "wohy-conduit", "category": "liquid", "liquidCapacity": 50671, "hasLiquids": true}

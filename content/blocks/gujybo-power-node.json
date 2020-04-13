@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gujybo power node", "description": "...", "size": 2, "health": 562, "requirements": [{"item": "gujybo", "amount": 11}, {"item": "fesixa", "amount": 18}, {"item": "furazinium", "amount": 1}], "research": "gujybo-factory", "maxNodes": 29, "laserRange": 18, "category": "power"}

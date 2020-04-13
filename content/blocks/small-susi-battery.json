@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small susi battery", "description": "...", "size": 1, "health": 367, "requirements": [{"item": "susi", "amount": 12}, {"item": "fexenium", "amount": 19}, {"item": "xivi", "amount": 7}], "research": "susi-factory", "consumes": {"powerBuffered": 924}, "category": "power"}

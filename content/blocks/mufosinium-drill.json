@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mufosinium drill", "description": "...", "size": 2, "health": 279, "tier": 2, "drillTime": 7, "consumes": {"power": 18}, "requirements": [{"item": "mufosinium", "amount": 20}, {"item": "ridu", "amount": 20}, {"item": "xynice", "amount": 2}], "research": "mufosinium-factory", "category": "production"}

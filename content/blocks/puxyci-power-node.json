@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "puxyci power node", "description": "...", "size": 2, "health": 156, "requirements": [{"item": "puxyci", "amount": 7}, {"item": "pozilonium", "amount": 9}, {"item": "wigyre", "amount": 8}], "research": "puxyci-factory", "maxNodes": 55, "laserRange": 11, "category": "power"}

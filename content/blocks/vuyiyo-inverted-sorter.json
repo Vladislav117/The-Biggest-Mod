@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vuyiyo inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "vuyiyo", "amount": 4}, {"item": "meny", "amount": 1}], "research": "vuyiyo-conveyor", "category": "distribution", "invert": true}

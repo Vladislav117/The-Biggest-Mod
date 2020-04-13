@@ -1,0 +1,1 @@
+{"type": "battery", "name": "duvadi battery", "description": "...", "size": 3, "health": 181, "requirements": [{"item": "duvadi", "amount": 15}, {"item": "sovuqu", "amount": 15}, {"item": "higyhy", "amount": 7}], "research": "duvadi-factory", "consumes": {"powerBuffered": 8147}, "category": "power"}

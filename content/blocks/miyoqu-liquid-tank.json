@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "miyoqu liquid tank", "description": "...", "health": 301, "size": 3, "requirements": [{"item": "miyoqu", "amount": 4}, {"item": "tyno", "amount": 11}, {"item": "qasysi", "amount": 7}], "research": "miyoqu-conduit", "category": "liquid", "liquidCapacity": 64061, "hasLiquids": true}

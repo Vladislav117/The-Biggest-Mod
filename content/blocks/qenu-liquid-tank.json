@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qenu liquid tank", "description": "...", "health": 295, "size": 3, "requirements": [{"item": "qenu", "amount": 11}, {"item": "wapalu", "amount": 18}, {"item": "secuqunium", "amount": 1}], "research": "qenu-conduit", "category": "liquid", "liquidCapacity": 74788, "hasLiquids": true}

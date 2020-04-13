@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kikanium solar panel", "description": "...", "size": 3, "health": 18, "requirements": [{"item": "kikanium", "amount": 8}, {"item": "tiyexenium", "amount": 2}, {"item": "dyzeky", "amount": 5}], "research": "kikanium-factory", "powerProduction": 1.061245070076657, "category": "power"}

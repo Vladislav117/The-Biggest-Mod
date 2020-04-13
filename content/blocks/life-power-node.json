@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "life power node", "description": "...", "size": 2, "health": 594, "requirements": [{"item": "life", "amount": 18}, {"item": "byre", "amount": 9}, {"item": "lome", "amount": 8}], "research": "life-factory", "maxNodes": 25, "laserRange": 25, "category": "power"}

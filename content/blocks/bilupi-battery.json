@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bilupi battery", "description": "...", "size": 3, "health": 376, "requirements": [{"item": "bilupi", "amount": 6}, {"item": "gasu", "amount": 12}, {"item": "sayo", "amount": 7}], "research": "bilupi-factory", "consumes": {"powerBuffered": 731}, "category": "power"}

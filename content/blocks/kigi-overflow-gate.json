@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kigi overflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "kigi", "amount": 5}, {"item": "zoquqenium", "amount": 2}], "research": "kigi-conveyor", "category": "distribution", "invert": false}

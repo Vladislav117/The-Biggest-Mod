@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kide power node", "description": "...", "size": 2, "health": 426, "requirements": [{"item": "kide", "amount": 10}, {"item": "fizy", "amount": 13}, {"item": "hysobe", "amount": 9}], "research": "kide-factory", "maxNodes": 27, "laserRange": 28, "category": "power"}

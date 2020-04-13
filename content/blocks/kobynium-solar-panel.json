@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kobynium solar panel", "description": "...", "size": 3, "health": 90, "requirements": [{"item": "kobynium", "amount": 11}, {"item": "toma", "amount": 7}, {"item": "zilobynium", "amount": 3}], "research": "kobynium-factory", "powerProduction": 0.04243579012106588, "category": "power"}

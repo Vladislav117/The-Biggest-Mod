@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qaduya bridge conveyor", "description": "", "health": 6, "range": 10, "speed": 15, "bufferCapacity": 13, "requirements": [{"item": "qaduya", "amount": 5}, {"item": "hoquxo", "amount": 5}], "research": "qaduya-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xeta underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "xeta", "amount": 5}, {"item": "rateju", "amount": 1}], "research": "xeta-conveyor", "category": "distribution", "invert": false}

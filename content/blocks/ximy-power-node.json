@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ximy power node", "description": "...", "size": 2, "health": 737, "requirements": [{"item": "ximy", "amount": 1}, {"item": "hihunium", "amount": 2}, {"item": "yebyte", "amount": 1}], "research": "ximy-factory", "maxNodes": 46, "laserRange": 7, "category": "power"}

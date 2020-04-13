@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ziku conduit", "description": "...", "health": 26, "requirements": [{"item": "ziku", "amount": 1}, {"item": "pagoxy", "amount": 15}, {"item": "phase-fabric", "amount": 2}], "liquidCapacity": 43, "liquidPressure": 8, "research": "ziku-factory", "category": "liquid"}

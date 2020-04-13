@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vodynium overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "vodynium", "amount": 5}, {"item": "guwinium", "amount": 1}], "research": "vodynium-conveyor", "category": "distribution", "invert": false}

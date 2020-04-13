@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wusa liquid tank", "description": "...", "health": 324, "size": 3, "requirements": [{"item": "wusa", "amount": 6}, {"item": "zoyinium", "amount": 8}, {"item": "bylo", "amount": 6}], "research": "wusa-conduit", "category": "liquid", "liquidCapacity": 116045, "hasLiquids": true}

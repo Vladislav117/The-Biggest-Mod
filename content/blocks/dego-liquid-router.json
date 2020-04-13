@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dego liquid router", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "dego", "amount": 8}, {"item": "vole", "amount": 7}, {"item": "jyky", "amount": 8}], "research": "dego-conduit", "liquidCapacity": 10, "category": "liquid"}

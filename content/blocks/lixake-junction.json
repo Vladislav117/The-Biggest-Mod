@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lixake junction", "description": "...", "health": 37, "speed": 7, "capacity": 7, "size": 1, "requirements": [{"item": "lixake", "amount": 1}, {"item": "zikeve", "amount": 5}], "research": "lixake-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hiwahe drill", "description": "...", "size": 2, "health": 242, "tier": 3, "drillTime": 10, "consumes": {"power": 17}, "requirements": [{"item": "hiwahe", "amount": 4}, {"item": "lilonium", "amount": 20}, {"item": "woqyfu", "amount": 10}], "research": "hiwahe-factory", "category": "production"}

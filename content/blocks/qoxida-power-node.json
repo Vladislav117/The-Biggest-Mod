@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qoxida power node", "description": "...", "size": 2, "health": 391, "requirements": [{"item": "qoxida", "amount": 4}, {"item": "labila", "amount": 20}, {"item": "myhuzi", "amount": 7}], "research": "qoxida-factory", "maxNodes": 44, "laserRange": 11, "category": "power"}

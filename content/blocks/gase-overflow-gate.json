@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gase overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "gase", "amount": 3}, {"item": "wuqipenium", "amount": 1}], "research": "gase-conveyor", "category": "distribution", "invert": false}

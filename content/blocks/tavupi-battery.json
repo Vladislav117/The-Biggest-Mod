@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tavupi battery", "description": "...", "size": 3, "health": 283, "requirements": [{"item": "tavupi", "amount": 16}, {"item": "noconium", "amount": 7}, {"item": "poquko", "amount": 10}], "research": "tavupi-factory", "consumes": {"powerBuffered": 924}, "category": "power"}

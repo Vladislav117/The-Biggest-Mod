@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zyhijy battery", "description": "...", "size": 1, "health": 133, "requirements": [{"item": "zyhijy", "amount": 17}, {"item": "doce", "amount": 5}, {"item": "zobu", "amount": 1}], "research": "zyhijy-factory", "consumes": {"powerBuffered": 1441}, "category": "power"}

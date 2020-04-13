@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wipuca liquid tank", "description": "...", "health": 615, "size": 3, "requirements": [{"item": "wipuca", "amount": 7}, {"item": "laxu", "amount": 17}, {"item": "ruginium", "amount": 2}], "research": "wipuca-conduit", "category": "liquid", "liquidCapacity": 104245, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dowa solar panel", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "dowa", "amount": 5}, {"item": "rabe", "amount": 17}, {"item": "qekaye", "amount": 4}], "research": "dowa-factory", "powerProduction": 4.256628235000847, "category": "power"}

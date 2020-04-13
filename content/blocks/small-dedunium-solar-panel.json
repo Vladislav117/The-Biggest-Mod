@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dedunium solar panel", "description": "...", "size": 1, "health": 131, "requirements": [{"item": "dedunium", "amount": 18}, {"item": "ruqako", "amount": 18}, {"item": "hyryhinium", "amount": 7}], "research": "dedunium-factory", "powerProduction": 2.397863355631433, "category": "power"}

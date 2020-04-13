@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "syminium liquid tank", "description": "...", "health": 357, "size": 3, "requirements": [{"item": "syminium", "amount": 18}, {"item": "toni", "amount": 10}, {"item": "copper", "amount": 5}], "research": "syminium-conduit", "category": "liquid", "liquidCapacity": 72331, "hasLiquids": true}

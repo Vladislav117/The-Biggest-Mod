@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "movanium drill", "description": "...", "size": 3, "health": 163, "tier": 3, "drillTime": 17, "consumes": {"power": 2}, "requirements": [{"item": "movanium", "amount": 14}, {"item": "tiwyna", "amount": 3}, {"item": "birynium", "amount": 3}], "research": "movanium-factory", "category": "production"}

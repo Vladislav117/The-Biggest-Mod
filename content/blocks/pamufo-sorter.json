@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pamufo sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "pamufo", "amount": 3}, {"item": "resenium", "amount": 2}], "research": "pamufo-conveyor", "category": "distribution", "invert": false}

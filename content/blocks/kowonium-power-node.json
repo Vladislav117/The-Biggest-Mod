@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kowonium power node", "description": "...", "size": 2, "health": 125, "requirements": [{"item": "kowonium", "amount": 19}, {"item": "tuzo", "amount": 16}, {"item": "qeka", "amount": 1}], "research": "kowonium-factory", "maxNodes": 20, "laserRange": 30, "category": "power"}

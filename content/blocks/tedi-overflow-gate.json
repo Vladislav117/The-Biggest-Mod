@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tedi overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "tedi", "amount": 3}, {"item": "vosixe", "amount": 3}], "research": "tedi-conveyor", "category": "distribution", "invert": false}

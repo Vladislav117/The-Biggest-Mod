@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tenuty inverted sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "tenuty", "amount": 5}, {"item": "towenium", "amount": 1}], "research": "tenuty-conveyor", "category": "distribution", "invert": true}

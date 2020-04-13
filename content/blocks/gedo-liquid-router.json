@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gedo liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "gedo", "amount": 7}, {"item": "qayy", "amount": 5}, {"item": "sagenium", "amount": 10}], "research": "gedo-conduit", "liquidCapacity": 10, "category": "liquid"}

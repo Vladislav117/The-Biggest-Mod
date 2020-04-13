@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nivo solar panel", "description": "...", "size": 3, "health": 269, "requirements": [{"item": "nivo", "amount": 13}, {"item": "vido", "amount": 15}, {"item": "kozivo", "amount": 4}], "research": "nivo-factory", "powerProduction": 1.608686773499328, "category": "power"}

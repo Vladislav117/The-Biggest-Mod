@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bomiry power node", "description": "...", "size": 2, "health": 541, "requirements": [{"item": "bomiry", "amount": 10}, {"item": "tybegi", "amount": 2}, {"item": "yifity", "amount": 10}], "research": "bomiry-factory", "maxNodes": 45, "laserRange": 18, "category": "power"}

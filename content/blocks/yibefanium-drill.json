@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yibefanium drill", "description": "...", "size": 4, "health": 180, "tier": 3, "drillTime": 2, "consumes": {"power": 1}, "requirements": [{"item": "yibefanium", "amount": 3}, {"item": "vixonium", "amount": 4}, {"item": "hiyyga", "amount": 4}], "research": "yibefanium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vule solar panel", "description": "...", "size": 3, "health": 138, "requirements": [{"item": "vule", "amount": 2}, {"item": "pify", "amount": 5}, {"item": "sepo", "amount": 8}], "research": "vule-factory", "powerProduction": 0.48395869186555446, "category": "power"}

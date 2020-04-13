@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ravexi liquid tank", "description": "...", "health": 543, "size": 3, "requirements": [{"item": "ravexi", "amount": 1}, {"item": "ximy", "amount": 13}, {"item": "xuze", "amount": 9}], "research": "ravexi-conduit", "category": "liquid", "liquidCapacity": 13732, "hasLiquids": true}

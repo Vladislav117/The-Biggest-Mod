@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tydeja liquid tank", "description": "...", "health": 300, "size": 3, "requirements": [{"item": "tydeja", "amount": 20}, {"item": "nirenium", "amount": 7}, {"item": "cifo", "amount": 2}], "research": "tydeja-conduit", "category": "liquid", "liquidCapacity": 47515, "hasLiquids": true}

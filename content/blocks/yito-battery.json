@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yito battery", "description": "...", "size": 3, "health": 397, "requirements": [{"item": "yito", "amount": 1}, {"item": "surge-alloy", "amount": 12}, {"item": "kojavi", "amount": 9}], "research": "yito-factory", "consumes": {"powerBuffered": 1340}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mewy power node", "description": "...", "size": 2, "health": 549, "requirements": [{"item": "mewy", "amount": 15}, {"item": "dacira", "amount": 16}, {"item": "lidori", "amount": 9}], "research": "mewy-factory", "maxNodes": 38, "laserRange": 22, "category": "power"}

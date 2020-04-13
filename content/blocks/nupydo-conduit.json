@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nupydo conduit", "description": "...", "health": 169, "requirements": [{"item": "nupydo", "amount": 3}, {"item": "pyvunium", "amount": 19}, {"item": "poya", "amount": 4}], "liquidCapacity": 2, "liquidPressure": 7, "research": "nupydo-factory", "category": "liquid"}

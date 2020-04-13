@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xapa power node", "description": "...", "size": 1, "health": 234, "requirements": [{"item": "xapa", "amount": 15}, {"item": "nunanunium", "amount": 10}, {"item": "kyweru", "amount": 8}], "research": "xapa-factory", "maxNodes": 27, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "geka solar panel", "description": "...", "size": 3, "health": 148, "requirements": [{"item": "geka", "amount": 17}, {"item": "codaxe", "amount": 6}, {"item": "neloto", "amount": 7}], "research": "geka-factory", "powerProduction": 0.005583412489865509, "category": "power"}

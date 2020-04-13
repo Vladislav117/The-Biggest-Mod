@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "meranium inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "meranium", "amount": 4}, {"item": "tasusynium", "amount": 3}], "research": "meranium-conveyor", "category": "distribution", "invert": true}

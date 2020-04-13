@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fayenium overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "fayenium", "amount": 2}, {"item": "gypupe", "amount": 5}], "research": "fayenium-conveyor", "category": "distribution", "invert": false}

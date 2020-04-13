@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kegiqi battery", "description": "...", "size": 3, "health": 286, "requirements": [{"item": "kegiqi", "amount": 4}, {"item": "xexumi", "amount": 13}, {"item": "titanium", "amount": 8}], "research": "kegiqi-factory", "consumes": {"powerBuffered": 9341}, "category": "power"}

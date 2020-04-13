@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "duyari force projector", "description": "...", "health": 207, "size": 3, "consumes": {"power": 5.0, "item": "duyari"}, "requirements": [{"item": "duyari", "amount": 4}, {"item": "nujunium", "amount": 11}, {"item": "zaje", "amount": 2}], "research": "duyari-factory", "category": "effect"}

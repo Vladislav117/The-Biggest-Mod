@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cavuyi power node", "description": "...", "size": 1, "health": 273, "requirements": [{"item": "cavuyi", "amount": 19}, {"item": "rymojanium", "amount": 7}, {"item": "jomoka", "amount": 1}], "research": "cavuyi-factory", "maxNodes": 22, "laserRange": 8, "category": "power"}

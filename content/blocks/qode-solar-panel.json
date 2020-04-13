@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qode solar panel", "description": "...", "size": 3, "health": 341, "requirements": [{"item": "qode", "amount": 5}, {"item": "wezu", "amount": 18}, {"item": "lynulo", "amount": 8}], "research": "qode-factory", "powerProduction": 1.4566671044823492, "category": "power"}

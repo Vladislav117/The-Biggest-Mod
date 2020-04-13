@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bosuvynium bridge conveyor", "description": "", "health": 30, "range": 12, "speed": 10, "bufferCapacity": 25, "requirements": [{"item": "bosuvynium", "amount": 5}, {"item": "bixehy", "amount": 4}], "research": "bosuvynium-conveyor", "category": "distribution", "size": 1}

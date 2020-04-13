@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kaqyla overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "kaqyla", "amount": 2}, {"item": "pyvunium", "amount": 3}], "research": "kaqyla-conveyor", "category": "distribution", "invert": false}

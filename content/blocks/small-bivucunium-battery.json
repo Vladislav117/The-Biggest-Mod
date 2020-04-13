@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bivucunium battery", "description": "...", "size": 1, "health": 312, "requirements": [{"item": "bivucunium", "amount": 6}, {"item": "silicon", "amount": 14}, {"item": "byhonium", "amount": 4}], "research": "bivucunium-factory", "consumes": {"powerBuffered": 1280}, "category": "power"}

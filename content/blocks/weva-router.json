@@ -1,0 +1,1 @@
+{"type": "router", "name": "weva router", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "weva", "amount": 3}], "research": "weva-conveyor", "category": "distribution"}

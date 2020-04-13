@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vepuge battery", "description": "...", "size": 3, "health": 381, "requirements": [{"item": "vepuge", "amount": 6}, {"item": "quvojo", "amount": 10}, {"item": "divi", "amount": 3}], "research": "vepuge-factory", "consumes": {"powerBuffered": 7761}, "category": "power"}

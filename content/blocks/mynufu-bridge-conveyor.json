@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mynufu bridge conveyor", "description": "", "health": 43, "range": 17, "speed": 5, "bufferCapacity": 10, "requirements": [{"item": "mynufu", "amount": 1}, {"item": "sebypa", "amount": 2}], "research": "mynufu-conveyor", "category": "distribution", "size": 1}

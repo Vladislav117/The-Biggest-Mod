@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jogi liquid tank", "description": "...", "health": 411, "size": 3, "requirements": [{"item": "jogi", "amount": 9}, {"item": "kelurynium", "amount": 11}, {"item": "xizejinium", "amount": 5}], "research": "jogi-conduit", "category": "liquid", "liquidCapacity": 28885, "hasLiquids": true}

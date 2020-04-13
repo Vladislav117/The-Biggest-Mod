@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vipu solar panel", "description": "...", "size": 3, "health": 274, "requirements": [{"item": "vipu", "amount": 4}, {"item": "moro", "amount": 5}, {"item": "fytuve", "amount": 5}], "research": "vipu-factory", "powerProduction": 4.885415083112167, "category": "power"}

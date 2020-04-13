@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nynoyu junction", "description": "...", "health": 4, "speed": 19, "capacity": 18, "size": 1, "requirements": [{"item": "nynoyu", "amount": 4}, {"item": "zesaqy", "amount": 1}], "research": "nynoyu-conveyor", "category": "distribution"}

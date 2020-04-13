@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zofiqo drill", "description": "...", "size": 2, "health": 315, "tier": 4, "drillTime": 17, "consumes": {"power": 14}, "requirements": [{"item": "zofiqo", "amount": 5}, {"item": "yodary", "amount": 12}, {"item": "kute", "amount": 3}], "research": "zofiqo-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "toqe battery", "description": "...", "size": 3, "health": 182, "requirements": [{"item": "toqe", "amount": 9}, {"item": "xekocanium", "amount": 3}, {"item": "kacoju", "amount": 5}], "research": "toqe-factory", "consumes": {"powerBuffered": 5482}, "category": "power"}

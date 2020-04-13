@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yodo underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "yodo", "amount": 1}, {"item": "weva", "amount": 3}], "research": "yodo-conveyor", "category": "distribution", "invert": false}

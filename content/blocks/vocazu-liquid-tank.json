@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vocazu liquid tank", "description": "...", "health": 474, "size": 3, "requirements": [{"item": "vocazu", "amount": 13}, {"item": "mehenium", "amount": 9}, {"item": "qepyvonium", "amount": 8}], "research": "vocazu-conduit", "category": "liquid", "liquidCapacity": 48166, "hasLiquids": true}

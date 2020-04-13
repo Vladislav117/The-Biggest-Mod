@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fito inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "fito", "amount": 2}, {"item": "keze", "amount": 2}], "research": "fito-conveyor", "category": "distribution", "invert": true}

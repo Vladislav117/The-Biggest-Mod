@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lyya bridge conveyor", "description": "", "health": 21, "range": 8, "speed": 4, "bufferCapacity": 17, "requirements": [{"item": "lyya", "amount": 4}, {"item": "nuko", "amount": 1}], "research": "lyya-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kyle underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "kyle", "amount": 5}, {"item": "lyceca", "amount": 5}], "research": "kyle-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tobaye power node", "description": "...", "size": 1, "health": 373, "requirements": [{"item": "tobaye", "amount": 16}, {"item": "hono", "amount": 14}, {"item": "beronium", "amount": 6}], "research": "tobaye-factory", "maxNodes": 13, "laserRange": 20, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lory solar panel", "description": "...", "size": 3, "health": 178, "requirements": [{"item": "lory", "amount": 5}, {"item": "yicenium", "amount": 9}, {"item": "rajubanium", "amount": 6}], "research": "lory-factory", "powerProduction": 9.04176506360643, "category": "power"}

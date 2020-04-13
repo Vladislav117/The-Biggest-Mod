@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vawybo bridge conveyor", "description": "", "health": 49, "range": 13, "speed": 4, "bufferCapacity": 23, "requirements": [{"item": "vawybo", "amount": 2}, {"item": "fogodo", "amount": 3}], "research": "vawybo-conveyor", "category": "distribution", "size": 1}

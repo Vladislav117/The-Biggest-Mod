@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "geke inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "geke", "amount": 4}, {"item": "lynulo", "amount": 1}], "research": "geke-conveyor", "category": "distribution", "invert": true}

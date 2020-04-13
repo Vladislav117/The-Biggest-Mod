@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wafy battery", "description": "...", "size": 3, "health": 279, "requirements": [{"item": "wafy", "amount": 6}, {"item": "siyake", "amount": 10}, {"item": "gufanium", "amount": 9}], "research": "wafy-factory", "consumes": {"powerBuffered": 4019}, "category": "power"}

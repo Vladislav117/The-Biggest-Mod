@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qigiki power node", "description": "...", "size": 2, "health": 680, "requirements": [{"item": "qigiki", "amount": 6}, {"item": "buhoci", "amount": 2}, {"item": "kyjyxo", "amount": 5}], "research": "qigiki-factory", "maxNodes": 44, "laserRange": 25, "category": "power"}

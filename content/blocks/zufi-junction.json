@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zufi junction", "description": "...", "health": 14, "speed": 11, "capacity": 4, "size": 1, "requirements": [{"item": "zufi", "amount": 3}, {"item": "beqeyenium", "amount": 5}], "research": "zufi-conveyor", "category": "distribution"}

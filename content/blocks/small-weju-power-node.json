@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small weju power node", "description": "...", "size": 1, "health": 395, "requirements": [{"item": "weju", "amount": 13}, {"item": "vema", "amount": 1}, {"item": "voya", "amount": 6}], "research": "weju-factory", "maxNodes": 5, "laserRange": 10, "category": "power"}

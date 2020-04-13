@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lype solar panel", "description": "...", "size": 3, "health": 370, "requirements": [{"item": "lype", "amount": 18}, {"item": "leviye", "amount": 2}, {"item": "tozenium", "amount": 10}], "research": "lype-factory", "powerProduction": 9.184972279801821, "category": "power"}

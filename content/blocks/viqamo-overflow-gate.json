@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "viqamo overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "viqamo", "amount": 3}, {"item": "copper", "amount": 1}], "research": "viqamo-conveyor", "category": "distribution", "invert": false}

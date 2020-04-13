@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xikexi solar panel", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "xikexi", "amount": 3}, {"item": "xafi", "amount": 2}, {"item": "jihu", "amount": 5}], "research": "xikexi-factory", "powerProduction": 1.6650956157742969, "category": "power"}

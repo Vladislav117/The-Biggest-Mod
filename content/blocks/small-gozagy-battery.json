@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gozagy battery", "description": "...", "size": 1, "health": 319, "requirements": [{"item": "gozagy", "amount": 11}, {"item": "mepoky", "amount": 18}, {"item": "lyzy", "amount": 4}], "research": "gozagy-factory", "consumes": {"powerBuffered": 889}, "category": "power"}

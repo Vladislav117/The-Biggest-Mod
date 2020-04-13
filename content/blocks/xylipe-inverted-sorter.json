@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xylipe inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "xylipe", "amount": 4}, {"item": "dywusunium", "amount": 5}], "research": "xylipe-conveyor", "category": "distribution", "invert": true}

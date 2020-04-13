@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hebe power node", "description": "...", "size": 1, "health": 379, "requirements": [{"item": "hebe", "amount": 5}, {"item": "gewuhy", "amount": 12}, {"item": "kyqedu", "amount": 5}], "research": "hebe-factory", "maxNodes": 7, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zofiqo liquid tank", "description": "...", "health": 565, "size": 3, "requirements": [{"item": "zofiqo", "amount": 18}, {"item": "fulyzynium", "amount": 14}, {"item": "qihy", "amount": 6}], "research": "zofiqo-conduit", "category": "liquid", "liquidCapacity": 68715, "hasLiquids": true}

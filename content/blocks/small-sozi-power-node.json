@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sozi power node", "description": "...", "size": 1, "health": 394, "requirements": [{"item": "sozi", "amount": 8}, {"item": "niruya", "amount": 5}, {"item": "cimafinium", "amount": 7}], "research": "sozi-factory", "maxNodes": 14, "laserRange": 7, "category": "power"}

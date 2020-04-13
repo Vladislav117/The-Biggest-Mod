@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "buco conduit", "description": "...", "health": 179, "requirements": [{"item": "buco", "amount": 18}, {"item": "civonium", "amount": 18}, {"item": "muco", "amount": 7}], "liquidCapacity": 39, "liquidPressure": 4, "research": "buco-factory", "category": "liquid"}

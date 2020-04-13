@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sibewe sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "sibewe", "amount": 3}, {"item": "kyweru", "amount": 4}], "research": "sibewe-conveyor", "category": "distribution", "invert": false}

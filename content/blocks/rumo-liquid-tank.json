@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rumo liquid tank", "description": "...", "health": 202, "size": 3, "requirements": [{"item": "rumo", "amount": 17}, {"item": "papo", "amount": 17}, {"item": "zycinium", "amount": 10}], "research": "rumo-conduit", "category": "liquid", "liquidCapacity": 99285, "hasLiquids": true}

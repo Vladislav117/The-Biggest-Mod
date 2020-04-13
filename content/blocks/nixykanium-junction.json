@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nixykanium junction", "description": "...", "health": 28, "speed": 15, "capacity": 5, "size": 1, "requirements": [{"item": "nixykanium", "amount": 4}, {"item": "cesunium", "amount": 5}], "research": "nixykanium-conveyor", "category": "distribution"}

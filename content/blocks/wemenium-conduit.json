@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wemenium conduit", "description": "...", "health": 105, "requirements": [{"item": "wemenium", "amount": 2}, {"item": "jatyjenium", "amount": 18}, {"item": "zatire", "amount": 1}], "liquidCapacity": 22, "liquidPressure": 7, "research": "wemenium-factory", "category": "liquid"}

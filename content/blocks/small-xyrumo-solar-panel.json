@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xyrumo solar panel", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "xyrumo", "amount": 11}, {"item": "sacigi", "amount": 19}, {"item": "wasu", "amount": 7}], "research": "xyrumo-factory", "powerProduction": 0.13677332709965825, "category": "power"}

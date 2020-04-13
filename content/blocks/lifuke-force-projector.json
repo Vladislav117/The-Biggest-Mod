@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "lifuke force projector", "description": "...", "health": 231, "size": 3, "consumes": {"power": 5.0, "item": "lifuke"}, "requirements": [{"item": "lifuke", "amount": 7}, {"item": "winyjo", "amount": 3}, {"item": "ryti", "amount": 2}], "research": "lifuke-factory", "category": "effect"}

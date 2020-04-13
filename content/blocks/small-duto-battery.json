@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small duto battery", "description": "...", "size": 1, "health": 288, "requirements": [{"item": "duto", "amount": 8}, {"item": "puzonium", "amount": 4}, {"item": "higy", "amount": 10}], "research": "duto-factory", "consumes": {"powerBuffered": 807}, "category": "power"}

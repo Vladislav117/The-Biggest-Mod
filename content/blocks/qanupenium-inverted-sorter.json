@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qanupenium inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "qanupenium", "amount": 5}, {"item": "qiloka", "amount": 3}], "research": "qanupenium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "syqyki solar panel", "description": "...", "size": 3, "health": 42, "requirements": [{"item": "syqyki", "amount": 15}, {"item": "dere", "amount": 10}, {"item": "vety", "amount": 2}], "research": "syqyki-factory", "powerProduction": 0.4098432508428216, "category": "power"}

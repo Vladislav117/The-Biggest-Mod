@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qiti junction", "description": "...", "health": 4, "speed": 5, "capacity": 14, "size": 1, "requirements": [{"item": "qiti", "amount": 2}, {"item": "tozokinium", "amount": 5}], "research": "qiti-conveyor", "category": "distribution"}

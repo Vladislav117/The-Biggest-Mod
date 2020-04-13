@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small byqi solar panel", "description": "...", "size": 1, "health": 189, "requirements": [{"item": "byqi", "amount": 3}, {"item": "weka", "amount": 20}, {"item": "qulape", "amount": 6}], "research": "byqi-factory", "powerProduction": 3.56325251387315, "category": "power"}

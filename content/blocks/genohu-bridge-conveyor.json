@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "genohu bridge conveyor", "description": "", "health": 24, "range": 13, "speed": 12, "bufferCapacity": 20, "requirements": [{"item": "genohu", "amount": 3}, {"item": "gobenium", "amount": 5}], "research": "genohu-conveyor", "category": "distribution", "size": 1}

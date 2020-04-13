@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xoniqe overflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "xoniqe", "amount": 1}, {"item": "vibi", "amount": 3}], "research": "xoniqe-conveyor", "category": "distribution", "invert": false}

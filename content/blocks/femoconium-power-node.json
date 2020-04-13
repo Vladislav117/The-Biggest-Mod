@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "femoconium power node", "description": "...", "size": 2, "health": 445, "requirements": [{"item": "femoconium", "amount": 5}, {"item": "covikinium", "amount": 7}, {"item": "kosonium", "amount": 8}], "research": "femoconium-factory", "maxNodes": 38, "laserRange": 16, "category": "power"}

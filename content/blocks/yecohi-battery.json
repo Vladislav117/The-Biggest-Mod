@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yecohi battery", "description": "...", "size": 3, "health": 343, "requirements": [{"item": "yecohi", "amount": 10}, {"item": "xaya", "amount": 16}, {"item": "kojavi", "amount": 3}], "research": "yecohi-factory", "consumes": {"powerBuffered": 6743}, "category": "power"}

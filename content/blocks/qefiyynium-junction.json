@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qefiyynium junction", "description": "...", "health": 10, "speed": 9, "capacity": 16, "size": 1, "requirements": [{"item": "qefiyynium", "amount": 3}, {"item": "mapa", "amount": 1}], "research": "qefiyynium-conveyor", "category": "distribution"}

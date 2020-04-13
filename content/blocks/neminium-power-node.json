@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "neminium power node", "description": "...", "size": 2, "health": 225, "requirements": [{"item": "neminium", "amount": 5}, {"item": "jayi", "amount": 7}, {"item": "bulanium", "amount": 9}], "research": "neminium-factory", "maxNodes": 53, "laserRange": 20, "category": "power"}

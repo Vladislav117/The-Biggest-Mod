@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vybuzu battery", "description": "...", "size": 3, "health": 216, "requirements": [{"item": "vybuzu", "amount": 9}, {"item": "janinium", "amount": 7}, {"item": "qamo", "amount": 5}], "research": "vybuzu-factory", "consumes": {"powerBuffered": 3396}, "category": "power"}

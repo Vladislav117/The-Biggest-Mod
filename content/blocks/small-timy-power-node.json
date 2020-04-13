@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small timy power node", "description": "...", "size": 1, "health": 200, "requirements": [{"item": "timy", "amount": 14}, {"item": "ketanium", "amount": 2}, {"item": "veza", "amount": 6}], "research": "timy-factory", "maxNodes": 14, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nexacunium underflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "nexacunium", "amount": 2}, {"item": "heso", "amount": 5}], "research": "nexacunium-conveyor", "category": "distribution", "invert": false}

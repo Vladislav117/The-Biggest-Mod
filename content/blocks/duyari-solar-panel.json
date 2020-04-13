@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "duyari solar panel", "description": "...", "size": 3, "health": 227, "requirements": [{"item": "duyari", "amount": 17}, {"item": "rizope", "amount": 6}, {"item": "baqilo", "amount": 1}], "research": "duyari-factory", "powerProduction": 4.080369443702849, "category": "power"}

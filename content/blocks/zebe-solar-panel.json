@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zebe solar panel", "description": "...", "size": 3, "health": 215, "requirements": [{"item": "zebe", "amount": 15}, {"item": "nimy", "amount": 8}, {"item": "zore", "amount": 10}], "research": "zebe-factory", "powerProduction": 2.4743199458411587, "category": "power"}

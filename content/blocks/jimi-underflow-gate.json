@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jimi underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "jimi", "amount": 2}, {"item": "fytuve", "amount": 3}], "research": "jimi-conveyor", "category": "distribution", "invert": false}

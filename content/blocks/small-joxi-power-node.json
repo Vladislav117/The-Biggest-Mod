@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small joxi power node", "description": "...", "size": 1, "health": 301, "requirements": [{"item": "joxi", "amount": 18}, {"item": "lyseju", "amount": 2}, {"item": "yobito", "amount": 3}], "research": "joxi-factory", "maxNodes": 24, "laserRange": 7, "category": "power"}

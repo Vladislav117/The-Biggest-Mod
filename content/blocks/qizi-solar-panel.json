@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qizi solar panel", "description": "...", "size": 3, "health": 187, "requirements": [{"item": "qizi", "amount": 5}, {"item": "kycuzo", "amount": 14}, {"item": "wozego", "amount": 9}], "research": "qizi-factory", "powerProduction": 4.286483936518865, "category": "power"}

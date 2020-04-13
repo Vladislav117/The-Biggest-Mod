@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wylanium conduit", "description": "...", "health": 185, "requirements": [{"item": "wylanium", "amount": 9}, {"item": "vekile", "amount": 7}, {"item": "qivohe", "amount": 8}], "liquidCapacity": 5, "liquidPressure": 10, "research": "wylanium-factory", "category": "liquid"}

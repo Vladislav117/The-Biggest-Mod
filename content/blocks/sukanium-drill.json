@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sukanium drill", "description": "...", "size": 3, "health": 354, "tier": 2, "drillTime": 9, "consumes": {"power": 20}, "requirements": [{"item": "sukanium", "amount": 17}, {"item": "xemynium", "amount": 5}, {"item": "hudolo", "amount": 10}], "research": "sukanium-factory", "category": "production"}

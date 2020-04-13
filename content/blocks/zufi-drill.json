@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zufi drill", "description": "...", "size": 2, "health": 161, "tier": 1, "drillTime": 6, "consumes": {"power": 2}, "requirements": [{"item": "zufi", "amount": 15}, {"item": "zazuti", "amount": 2}, {"item": "yyga", "amount": 6}], "research": "zufi-factory", "category": "production"}

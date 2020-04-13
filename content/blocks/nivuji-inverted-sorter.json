@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nivuji inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "nivuji", "amount": 2}, {"item": "mata", "amount": 4}], "research": "nivuji-conveyor", "category": "distribution", "invert": true}

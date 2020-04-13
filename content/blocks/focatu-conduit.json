@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "focatu conduit", "description": "...", "health": 123, "requirements": [{"item": "focatu", "amount": 6}, {"item": "coqinium", "amount": 15}, {"item": "qopaye", "amount": 4}], "liquidCapacity": 29, "liquidPressure": 2, "research": "focatu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yezaku sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "yezaku", "amount": 5}, {"item": "roxujo", "amount": 2}], "research": "yezaku-conveyor", "category": "distribution", "invert": false}

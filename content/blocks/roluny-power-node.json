@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "roluny power node", "description": "...", "size": 2, "health": 65, "requirements": [{"item": "roluny", "amount": 12}, {"item": "cuzyko", "amount": 18}, {"item": "dalire", "amount": 6}], "research": "roluny-factory", "maxNodes": 43, "laserRange": 15, "category": "power"}

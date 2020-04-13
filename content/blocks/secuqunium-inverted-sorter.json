@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "secuqunium inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "secuqunium", "amount": 5}, {"item": "hyfeho", "amount": 5}], "research": "secuqunium-conveyor", "category": "distribution", "invert": true}

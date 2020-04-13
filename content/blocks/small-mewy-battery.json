@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mewy battery", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "mewy", "amount": 6}, {"item": "wepo", "amount": 1}, {"item": "tuqe", "amount": 5}], "research": "mewy-factory", "consumes": {"powerBuffered": 846}, "category": "power"}

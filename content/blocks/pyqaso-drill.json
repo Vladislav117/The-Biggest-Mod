@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pyqaso drill", "description": "...", "size": 4, "health": 253, "tier": 1, "drillTime": 15, "consumes": {"power": 17}, "requirements": [{"item": "pyqaso", "amount": 16}, {"item": "furazinium", "amount": 15}, {"item": "miluze", "amount": 6}], "research": "pyqaso-factory", "category": "production"}

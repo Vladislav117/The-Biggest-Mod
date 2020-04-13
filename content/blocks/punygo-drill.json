@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "punygo drill", "description": "...", "size": 3, "health": 227, "tier": 2, "drillTime": 12, "consumes": {"power": 7}, "requirements": [{"item": "punygo", "amount": 9}, {"item": "vakoly", "amount": 3}, {"item": "vodehonium", "amount": 8}], "research": "punygo-factory", "category": "production"}

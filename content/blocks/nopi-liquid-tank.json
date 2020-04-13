@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nopi liquid tank", "description": "...", "health": 276, "size": 3, "requirements": [{"item": "nopi", "amount": 15}, {"item": "hagunium", "amount": 3}, {"item": "yidako", "amount": 1}], "research": "nopi-conduit", "category": "liquid", "liquidCapacity": 100286, "hasLiquids": true}

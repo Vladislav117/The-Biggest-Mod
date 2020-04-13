@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cetajenium power node", "description": "...", "size": 2, "health": 167, "requirements": [{"item": "cetajenium", "amount": 20}, {"item": "mice", "amount": 13}, {"item": "hogazanium", "amount": 4}], "research": "cetajenium-factory", "maxNodes": 16, "laserRange": 24, "category": "power"}

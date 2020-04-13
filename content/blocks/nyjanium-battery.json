@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nyjanium battery", "description": "...", "size": 3, "health": 23, "requirements": [{"item": "nyjanium", "amount": 1}, {"item": "dyjami", "amount": 2}, {"item": "nayayi", "amount": 4}], "research": "nyjanium-factory", "consumes": {"powerBuffered": 1046}, "category": "power"}

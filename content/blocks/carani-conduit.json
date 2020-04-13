@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "carani conduit", "description": "...", "health": 69, "requirements": [{"item": "carani", "amount": 12}, {"item": "dawe", "amount": 5}, {"item": "myfo", "amount": 6}], "liquidCapacity": 46, "liquidPressure": 8, "research": "carani-factory", "category": "liquid"}

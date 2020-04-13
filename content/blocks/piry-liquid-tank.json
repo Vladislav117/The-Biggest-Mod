@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "piry liquid tank", "description": "...", "health": 497, "size": 3, "requirements": [{"item": "piry", "amount": 3}, {"item": "mapo", "amount": 6}, {"item": "buco", "amount": 8}], "research": "piry-conduit", "category": "liquid", "liquidCapacity": 30495, "hasLiquids": true}

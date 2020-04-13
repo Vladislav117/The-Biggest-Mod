@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kusyny liquid tank", "description": "...", "health": 335, "size": 3, "requirements": [{"item": "kusyny", "amount": 16}, {"item": "haqu", "amount": 17}, {"item": "fygonium", "amount": 9}], "research": "kusyny-conduit", "category": "liquid", "liquidCapacity": 38932, "hasLiquids": true}

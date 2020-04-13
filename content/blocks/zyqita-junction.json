@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zyqita junction", "description": "...", "health": 26, "speed": 12, "capacity": 7, "size": 1, "requirements": [{"item": "zyqita", "amount": 4}, {"item": "hiki", "amount": 3}], "research": "zyqita-conveyor", "category": "distribution"}

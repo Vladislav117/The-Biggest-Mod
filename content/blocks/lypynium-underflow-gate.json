@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lypynium underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "lypynium", "amount": 5}, {"item": "fasi", "amount": 2}], "research": "lypynium-conveyor", "category": "distribution", "invert": false}

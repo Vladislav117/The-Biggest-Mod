@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wisipu power node", "description": "...", "size": 1, "health": 219, "requirements": [{"item": "wisipu", "amount": 16}, {"item": "lyxeta", "amount": 14}, {"item": "qicinium", "amount": 4}], "research": "wisipu-factory", "maxNodes": 20, "laserRange": 6, "category": "power"}

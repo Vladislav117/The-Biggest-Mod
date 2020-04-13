@@ -1,0 +1,1 @@
+{"type": "junction", "name": "limiza junction", "description": "...", "health": 9, "speed": 4, "capacity": 19, "size": 1, "requirements": [{"item": "limiza", "amount": 4}, {"item": "nilara", "amount": 5}], "research": "limiza-conveyor", "category": "distribution"}

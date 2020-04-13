@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jahuxynium junction", "description": "...", "health": 14, "speed": 9, "capacity": 8, "size": 1, "requirements": [{"item": "jahuxynium", "amount": 4}, {"item": "rizope", "amount": 3}], "research": "jahuxynium-conveyor", "category": "distribution"}

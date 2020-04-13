@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "caho overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "caho", "amount": 3}, {"item": "lewanium", "amount": 4}], "research": "caho-conveyor", "category": "distribution", "invert": false}

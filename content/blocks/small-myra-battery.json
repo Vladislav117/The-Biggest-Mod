@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small myra battery", "description": "...", "size": 1, "health": 119, "requirements": [{"item": "myra", "amount": 16}, {"item": "yadyju", "amount": 11}, {"item": "lipo", "amount": 2}], "research": "myra-factory", "consumes": {"powerBuffered": 978}, "category": "power"}

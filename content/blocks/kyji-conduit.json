@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kyji conduit", "description": "...", "health": 192, "requirements": [{"item": "kyji", "amount": 19}, {"item": "ryloxi", "amount": 7}, {"item": "xumi", "amount": 5}], "liquidCapacity": 6, "liquidPressure": 0, "research": "kyji-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "havipi solar panel", "description": "...", "size": 3, "health": 135, "requirements": [{"item": "havipi", "amount": 12}, {"item": "mawo", "amount": 14}, {"item": "riro", "amount": 2}], "research": "havipi-factory", "powerProduction": 0.9331380770203044, "category": "power"}

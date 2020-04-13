@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zowu battery", "description": "...", "size": 3, "health": 390, "requirements": [{"item": "zowu", "amount": 19}, {"item": "noxy", "amount": 6}, {"item": "ganu", "amount": 8}], "research": "zowu-factory", "consumes": {"powerBuffered": 8386}, "category": "power"}

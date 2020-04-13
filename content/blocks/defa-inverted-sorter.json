@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "defa inverted sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "defa", "amount": 2}, {"item": "qyfe", "amount": 1}], "research": "defa-conveyor", "category": "distribution", "invert": true}

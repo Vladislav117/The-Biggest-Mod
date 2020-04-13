@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hekika bridge conveyor", "description": "", "health": 7, "range": 12, "speed": 17, "bufferCapacity": 13, "requirements": [{"item": "hekika", "amount": 1}, {"item": "qudeya", "amount": 2}], "research": "hekika-conveyor", "category": "distribution", "size": 1}

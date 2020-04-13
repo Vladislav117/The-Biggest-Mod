@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nuve power node", "description": "...", "size": 2, "health": 214, "requirements": [{"item": "nuve", "amount": 19}, {"item": "yewoxa", "amount": 6}, {"item": "vini", "amount": 1}], "research": "nuve-factory", "maxNodes": 12, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wejabo power node", "description": "...", "size": 2, "health": 528, "requirements": [{"item": "wejabo", "amount": 14}, {"item": "mapanium", "amount": 9}, {"item": "vadoda", "amount": 8}], "research": "wejabo-factory", "maxNodes": 35, "laserRange": 22, "category": "power"}

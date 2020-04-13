@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ridurinium inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "ridurinium", "amount": 1}, {"item": "fehi", "amount": 3}], "research": "ridurinium-conveyor", "category": "distribution", "invert": true}

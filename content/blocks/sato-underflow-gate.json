@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sato underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "sato", "amount": 1}, {"item": "kani", "amount": 4}], "research": "sato-conveyor", "category": "distribution", "invert": false}

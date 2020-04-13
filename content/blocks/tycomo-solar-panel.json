@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tycomo solar panel", "description": "...", "size": 3, "health": 200, "requirements": [{"item": "tycomo", "amount": 2}, {"item": "yyvenium", "amount": 10}, {"item": "widydo", "amount": 9}], "research": "tycomo-factory", "powerProduction": 0.7154976687512309, "category": "power"}

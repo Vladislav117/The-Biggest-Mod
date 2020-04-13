@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sopage liquid tank", "description": "...", "health": 449, "size": 3, "requirements": [{"item": "sopage", "amount": 2}, {"item": "jaga", "amount": 4}, {"item": "gujybo", "amount": 4}], "research": "sopage-conduit", "category": "liquid", "liquidCapacity": 119218, "hasLiquids": true}

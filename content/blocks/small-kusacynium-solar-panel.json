@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kusacynium solar panel", "description": "...", "size": 1, "health": 334, "requirements": [{"item": "kusacynium", "amount": 6}, {"item": "hite", "amount": 1}, {"item": "puwasy", "amount": 5}], "research": "kusacynium-factory", "powerProduction": 2.603055675168511, "category": "power"}

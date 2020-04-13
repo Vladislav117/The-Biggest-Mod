@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wiba bridge conveyor", "description": "", "health": 50, "range": 17, "speed": 10, "bufferCapacity": 4, "requirements": [{"item": "wiba", "amount": 5}, {"item": "xeye", "amount": 4}], "research": "wiba-conveyor", "category": "distribution", "size": 1}

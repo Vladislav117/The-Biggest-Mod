@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bajenium power node", "description": "...", "size": 2, "health": 599, "requirements": [{"item": "bajenium", "amount": 6}, {"item": "syteja", "amount": 17}, {"item": "surge-alloy", "amount": 5}], "research": "bajenium-factory", "maxNodes": 48, "laserRange": 25, "category": "power"}

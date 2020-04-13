@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vezafa battery", "description": "...", "size": 3, "health": 140, "requirements": [{"item": "vezafa", "amount": 10}, {"item": "yypunium", "amount": 3}, {"item": "rovo", "amount": 4}], "research": "vezafa-factory", "consumes": {"powerBuffered": 5204}, "category": "power"}

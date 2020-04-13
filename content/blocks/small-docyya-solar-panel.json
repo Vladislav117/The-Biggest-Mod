@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small docyya solar panel", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "docyya", "amount": 17}, {"item": "hajo", "amount": 4}, {"item": "gobenium", "amount": 8}], "research": "docyya-factory", "powerProduction": 1.5814046736020695, "category": "power"}

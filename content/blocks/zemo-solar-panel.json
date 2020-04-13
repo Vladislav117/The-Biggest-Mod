@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zemo solar panel", "description": "...", "size": 3, "health": 29, "requirements": [{"item": "zemo", "amount": 15}, {"item": "vipi", "amount": 2}, {"item": "tuty", "amount": 5}], "research": "zemo-factory", "powerProduction": 1.0655921379963251, "category": "power"}

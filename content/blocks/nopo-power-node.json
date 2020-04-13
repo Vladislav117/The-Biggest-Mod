@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nopo power node", "description": "...", "size": 2, "health": 645, "requirements": [{"item": "nopo", "amount": 10}, {"item": "yixo", "amount": 3}, {"item": "zawyjy", "amount": 8}], "research": "nopo-factory", "maxNodes": 28, "laserRange": 25, "category": "power"}

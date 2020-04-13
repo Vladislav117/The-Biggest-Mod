@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xuyacunium liquid tank", "description": "...", "health": 262, "size": 3, "requirements": [{"item": "xuyacunium", "amount": 8}, {"item": "nedanium", "amount": 11}, {"item": "mafe", "amount": 4}], "research": "xuyacunium-conduit", "category": "liquid", "liquidCapacity": 75941, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wafe liquid tank", "description": "...", "health": 218, "size": 3, "requirements": [{"item": "wafe", "amount": 16}, {"item": "tabo", "amount": 8}, {"item": "vodynium", "amount": 10}], "research": "wafe-conduit", "category": "liquid", "liquidCapacity": 98260, "hasLiquids": true}

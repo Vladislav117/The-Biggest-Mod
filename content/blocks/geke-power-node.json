@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "geke power node", "description": "...", "size": 2, "health": 417, "requirements": [{"item": "geke", "amount": 3}, {"item": "yydy", "amount": 18}, {"item": "puzybo", "amount": 5}], "research": "geke-factory", "maxNodes": 11, "laserRange": 28, "category": "power"}

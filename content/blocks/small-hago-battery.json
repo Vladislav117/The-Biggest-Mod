@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hago battery", "description": "...", "size": 1, "health": 110, "requirements": [{"item": "hago", "amount": 17}, {"item": "tozuza", "amount": 13}, {"item": "yajawa", "amount": 10}], "research": "hago-factory", "consumes": {"powerBuffered": 1917}, "category": "power"}

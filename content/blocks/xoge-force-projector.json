@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "xoge force projector", "description": "...", "health": 139, "size": 3, "consumes": {"power": 5.0, "item": "xoge"}, "requirements": [{"item": "xoge", "amount": 12}, {"item": "gimy", "amount": 10}, {"item": "bihu", "amount": 7}], "research": "xoge-factory", "category": "effect"}

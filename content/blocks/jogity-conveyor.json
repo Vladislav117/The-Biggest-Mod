@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "jogity conveyor", "description": "...", "health": 46, "requirements": [{"item": "jogity", "amount": 5}, {"item": "rigo", "amount": 10}], "speed": 0.09659969434531174, "research": "jogity-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vawybo inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "vawybo", "amount": 4}, {"item": "gagyya", "amount": 1}], "research": "vawybo-conveyor", "category": "distribution", "invert": true}

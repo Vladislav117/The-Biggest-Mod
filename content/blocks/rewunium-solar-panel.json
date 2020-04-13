@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rewunium solar panel", "description": "...", "size": 3, "health": 215, "requirements": [{"item": "rewunium", "amount": 18}, {"item": "nuno", "amount": 1}, {"item": "cisiwa", "amount": 8}], "research": "rewunium-factory", "powerProduction": 2.2356072410714014, "category": "power"}

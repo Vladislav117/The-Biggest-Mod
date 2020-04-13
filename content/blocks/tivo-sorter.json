@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tivo sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "tivo", "amount": 5}, {"item": "hine", "amount": 5}], "research": "tivo-conveyor", "category": "distribution", "invert": false}

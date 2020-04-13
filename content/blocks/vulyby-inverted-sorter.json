@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vulyby inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "vulyby", "amount": 2}, {"item": "hiwinium", "amount": 3}], "research": "vulyby-conveyor", "category": "distribution", "invert": true}

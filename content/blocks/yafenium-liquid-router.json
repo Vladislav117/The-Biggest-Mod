@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yafenium liquid router", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "yafenium", "amount": 12}, {"item": "gyduyi", "amount": 14}, {"item": "vojenium", "amount": 1}], "research": "yafenium-conduit", "liquidCapacity": 10, "category": "liquid"}

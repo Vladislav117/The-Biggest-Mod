@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wywa conduit", "description": "...", "health": 198, "requirements": [{"item": "wywa", "amount": 11}, {"item": "qayanium", "amount": 7}, {"item": "bexa", "amount": 8}], "liquidCapacity": 10, "liquidPressure": 6, "research": "wywa-factory", "category": "liquid"}

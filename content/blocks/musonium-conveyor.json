@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "musonium conveyor", "description": "...", "health": 70, "requirements": [{"item": "musonium", "amount": 2}, {"item": "fuposy", "amount": 5}], "speed": 0.47137762605693756, "research": "musonium-factory", "category": "distribution"}

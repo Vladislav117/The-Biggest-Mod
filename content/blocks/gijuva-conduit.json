@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gijuva conduit", "description": "...", "health": 137, "requirements": [{"item": "gijuva", "amount": 10}, {"item": "rymojanium", "amount": 1}, {"item": "ryzote", "amount": 1}], "liquidCapacity": 12, "liquidPressure": 7, "research": "gijuva-factory", "category": "liquid"}

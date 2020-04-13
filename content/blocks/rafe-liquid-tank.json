@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rafe liquid tank", "description": "...", "health": 670, "size": 3, "requirements": [{"item": "rafe", "amount": 3}, {"item": "vytuxe", "amount": 18}, {"item": "pawusy", "amount": 8}], "research": "rafe-conduit", "category": "liquid", "liquidCapacity": 29800, "hasLiquids": true}

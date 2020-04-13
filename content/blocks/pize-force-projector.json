@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "pize force projector", "description": "...", "health": 208, "size": 3, "consumes": {"power": 5.0, "item": "pize"}, "requirements": [{"item": "pize", "amount": 14}, {"item": "dakiqu", "amount": 1}, {"item": "hyvyje", "amount": 7}], "research": "pize-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ruxyye battery", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "ruxyye", "amount": 8}, {"item": "yepufi", "amount": 3}, {"item": "gewuhy", "amount": 8}], "research": "ruxyye-factory", "consumes": {"powerBuffered": 1555}, "category": "power"}

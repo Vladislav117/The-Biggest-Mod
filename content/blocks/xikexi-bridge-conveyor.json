@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xikexi bridge conveyor", "description": "", "health": 3, "range": 6, "speed": 4, "bufferCapacity": 3, "requirements": [{"item": "xikexi", "amount": 5}, {"item": "tedi", "amount": 4}], "research": "xikexi-conveyor", "category": "distribution", "size": 1}

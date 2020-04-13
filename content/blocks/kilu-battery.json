@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kilu battery", "description": "...", "size": 3, "health": 177, "requirements": [{"item": "kilu", "amount": 10}, {"item": "jylovo", "amount": 2}, {"item": "lyheti", "amount": 3}], "research": "kilu-factory", "consumes": {"powerBuffered": 1922}, "category": "power"}

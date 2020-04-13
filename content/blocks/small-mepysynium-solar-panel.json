@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mepysynium solar panel", "description": "...", "size": 1, "health": 398, "requirements": [{"item": "mepysynium", "amount": 19}, {"item": "xilo", "amount": 9}, {"item": "heso", "amount": 1}], "research": "mepysynium-factory", "powerProduction": 0.05853324137091837, "category": "power"}

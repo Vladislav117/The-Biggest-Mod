@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mecyronium junction", "description": "...", "health": 20, "speed": 11, "capacity": 11, "size": 1, "requirements": [{"item": "mecyronium", "amount": 3}, {"item": "lyna", "amount": 5}], "research": "mecyronium-conveyor", "category": "distribution"}

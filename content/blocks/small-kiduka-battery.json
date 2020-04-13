@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kiduka battery", "description": "...", "size": 1, "health": 325, "requirements": [{"item": "kiduka", "amount": 13}, {"item": "kuju", "amount": 19}, {"item": "cydofunium", "amount": 9}], "research": "kiduka-factory", "consumes": {"powerBuffered": 2368}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jafuja solar panel", "description": "...", "size": 3, "health": 214, "requirements": [{"item": "jafuja", "amount": 1}, {"item": "geguqi", "amount": 2}, {"item": "guha", "amount": 4}], "research": "jafuja-factory", "powerProduction": 1.8936216514539932, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fujunium junction", "description": "...", "health": 50, "speed": 9, "capacity": 1, "size": 1, "requirements": [{"item": "fujunium", "amount": 2}, {"item": "qery", "amount": 4}], "research": "fujunium-conveyor", "category": "distribution"}

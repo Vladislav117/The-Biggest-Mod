@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yipobe junction", "description": "...", "health": 48, "speed": 9, "capacity": 5, "size": 1, "requirements": [{"item": "yipobe", "amount": 1}, {"item": "gineta", "amount": 4}], "research": "yipobe-conveyor", "category": "distribution"}

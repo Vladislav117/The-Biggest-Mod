@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small padi battery", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "padi", "amount": 12}, {"item": "lyceca", "amount": 5}, {"item": "pero", "amount": 10}], "research": "padi-factory", "consumes": {"powerBuffered": 947}, "category": "power"}

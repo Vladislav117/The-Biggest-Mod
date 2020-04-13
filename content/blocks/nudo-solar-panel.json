@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nudo solar panel", "description": "...", "size": 3, "health": 217, "requirements": [{"item": "nudo", "amount": 20}, {"item": "ciqi", "amount": 10}, {"item": "cixe", "amount": 5}], "research": "nudo-factory", "powerProduction": 0.06487586093319896, "category": "power"}

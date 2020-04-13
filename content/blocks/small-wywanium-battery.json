@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wywanium battery", "description": "...", "size": 1, "health": 238, "requirements": [{"item": "wywanium", "amount": 3}, {"item": "rozy", "amount": 16}, {"item": "rebugunium", "amount": 7}], "research": "wywanium-factory", "consumes": {"powerBuffered": 2430}, "category": "power"}

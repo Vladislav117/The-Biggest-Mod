@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qapi solar panel", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "qapi", "amount": 8}, {"item": "daxyse", "amount": 10}, {"item": "kaye", "amount": 1}], "research": "qapi-factory", "powerProduction": 1.1265392638206657, "category": "power"}

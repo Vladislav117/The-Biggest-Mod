@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rymeyinium junction", "description": "...", "health": 15, "speed": 14, "capacity": 15, "size": 1, "requirements": [{"item": "rymeyinium", "amount": 3}, {"item": "dune", "amount": 4}], "research": "rymeyinium-conveyor", "category": "distribution"}

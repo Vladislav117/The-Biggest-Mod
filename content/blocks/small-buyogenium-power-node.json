@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small buyogenium power node", "description": "...", "size": 1, "health": 184, "requirements": [{"item": "buyogenium", "amount": 15}, {"item": "sylumo", "amount": 19}, {"item": "gineta", "amount": 7}], "research": "buyogenium-factory", "maxNodes": 17, "laserRange": 13, "category": "power"}

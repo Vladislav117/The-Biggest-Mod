@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "suxy conduit", "description": "...", "health": 194, "requirements": [{"item": "suxy", "amount": 20}, {"item": "pabute", "amount": 19}, {"item": "biwa", "amount": 5}], "liquidCapacity": 45, "liquidPressure": 3, "research": "suxy-factory", "category": "liquid"}

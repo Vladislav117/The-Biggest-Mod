@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bejivanium liquid router", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "bejivanium", "amount": 1}, {"item": "wywonium", "amount": 2}, {"item": "dekaga", "amount": 5}], "research": "bejivanium-conduit", "liquidCapacity": 10, "category": "liquid"}

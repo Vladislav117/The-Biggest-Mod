@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "nixony conveyor", "description": "...", "health": 152, "requirements": [{"item": "nixony", "amount": 3}, {"item": "waha", "amount": 9}], "speed": 0.49471178790351245, "research": "nixony-factory", "category": "distribution"}

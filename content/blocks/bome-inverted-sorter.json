@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bome inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "bome", "amount": 4}, {"item": "neloto", "amount": 4}], "research": "bome-conveyor", "category": "distribution", "invert": true}

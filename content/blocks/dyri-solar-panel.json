@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dyri solar panel", "description": "...", "size": 3, "health": 170, "requirements": [{"item": "dyri", "amount": 17}, {"item": "nimynium", "amount": 2}, {"item": "cucaso", "amount": 9}], "research": "dyri-factory", "powerProduction": 0.3408465249221121, "category": "power"}

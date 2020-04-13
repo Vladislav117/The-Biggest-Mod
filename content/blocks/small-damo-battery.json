@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small damo battery", "description": "...", "size": 1, "health": 374, "requirements": [{"item": "damo", "amount": 14}, {"item": "larina", "amount": 9}, {"item": "qypaty", "amount": 6}], "research": "damo-factory", "consumes": {"powerBuffered": 504}, "category": "power"}

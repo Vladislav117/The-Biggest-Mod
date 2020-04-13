@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pufu power node", "description": "...", "size": 1, "health": 305, "requirements": [{"item": "pufu", "amount": 11}, {"item": "laranium", "amount": 12}, {"item": "gifu", "amount": 6}], "research": "pufu-factory", "maxNodes": 26, "laserRange": 4, "category": "power"}

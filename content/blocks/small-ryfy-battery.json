@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ryfy battery", "description": "...", "size": 1, "health": 134, "requirements": [{"item": "ryfy", "amount": 18}, {"item": "cisiwa", "amount": 4}, {"item": "yuqy", "amount": 9}], "research": "ryfy-factory", "consumes": {"powerBuffered": 844}, "category": "power"}

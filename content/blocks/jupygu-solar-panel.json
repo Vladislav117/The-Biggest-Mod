@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jupygu solar panel", "description": "...", "size": 3, "health": 208, "requirements": [{"item": "jupygu", "amount": 6}, {"item": "kufi", "amount": 2}, {"item": "gyza", "amount": 9}], "research": "jupygu-factory", "powerProduction": 1.7151841135387915, "category": "power"}

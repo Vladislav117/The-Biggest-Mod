@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jyryze bridge conveyor", "description": "", "health": 21, "range": 14, "speed": 3, "bufferCapacity": 15, "requirements": [{"item": "jyryze", "amount": 2}, {"item": "zogeno", "amount": 1}], "research": "jyryze-conveyor", "category": "distribution", "size": 1}

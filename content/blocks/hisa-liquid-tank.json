@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hisa liquid tank", "description": "...", "health": 493, "size": 3, "requirements": [{"item": "hisa", "amount": 3}, {"item": "yixo", "amount": 9}, {"item": "faky", "amount": 7}], "research": "hisa-conduit", "category": "liquid", "liquidCapacity": 25170, "hasLiquids": true}

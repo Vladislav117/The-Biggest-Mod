@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mivoky solar panel", "description": "...", "size": 3, "health": 21, "requirements": [{"item": "mivoky", "amount": 7}, {"item": "daqy", "amount": 3}, {"item": "dywo", "amount": 1}], "research": "mivoky-factory", "powerProduction": 0.19203967132084182, "category": "power"}

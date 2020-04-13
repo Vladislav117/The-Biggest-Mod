@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "locu underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "locu", "amount": 1}, {"item": "lowapo", "amount": 2}], "research": "locu-conveyor", "category": "distribution", "invert": false}

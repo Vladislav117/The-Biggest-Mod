@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "veba solar panel", "description": "...", "size": 3, "health": 47, "requirements": [{"item": "veba", "amount": 5}, {"item": "luyy", "amount": 3}, {"item": "vuzoha", "amount": 4}], "research": "veba-factory", "powerProduction": 0.33112390397191455, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gepe power node", "description": "...", "size": 1, "health": 363, "requirements": [{"item": "gepe", "amount": 12}, {"item": "nayevynium", "amount": 15}, {"item": "nihu", "amount": 10}], "research": "gepe-factory", "maxNodes": 6, "laserRange": 24, "category": "power"}

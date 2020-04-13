@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wusupy overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "wusupy", "amount": 4}, {"item": "cynehe", "amount": 2}], "research": "wusupy-conveyor", "category": "distribution", "invert": false}

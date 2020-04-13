@@ -1,0 +1,1 @@
+{"type": "battery", "name": "najy battery", "description": "...", "size": 3, "health": 43, "requirements": [{"item": "najy", "amount": 5}, {"item": "nevyle", "amount": 8}, {"item": "laho", "amount": 4}], "research": "najy-factory", "consumes": {"powerBuffered": 2835}, "category": "power"}

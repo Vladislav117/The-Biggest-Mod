@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zowu junction", "description": "...", "health": 1, "speed": 7, "capacity": 1, "size": 1, "requirements": [{"item": "zowu", "amount": 4}, {"item": "lelybe", "amount": 5}], "research": "zowu-conveyor", "category": "distribution"}

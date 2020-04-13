@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gylananium power node", "description": "...", "size": 2, "health": 26, "requirements": [{"item": "gylananium", "amount": 20}, {"item": "qayine", "amount": 16}, {"item": "kubi", "amount": 2}], "research": "gylananium-factory", "maxNodes": 16, "laserRange": 11, "category": "power"}

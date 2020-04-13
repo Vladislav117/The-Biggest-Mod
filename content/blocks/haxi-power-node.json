@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "haxi power node", "description": "...", "size": 2, "health": 94, "requirements": [{"item": "haxi", "amount": 14}, {"item": "jimi", "amount": 3}, {"item": "tuma", "amount": 2}], "research": "haxi-factory", "maxNodes": 16, "laserRange": 30, "category": "power"}

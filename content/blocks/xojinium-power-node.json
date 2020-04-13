@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xojinium power node", "description": "...", "size": 2, "health": 53, "requirements": [{"item": "xojinium", "amount": 10}, {"item": "vadoda", "amount": 13}, {"item": "sore", "amount": 10}], "research": "xojinium-factory", "maxNodes": 20, "laserRange": 7, "category": "power"}

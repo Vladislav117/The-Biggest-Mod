@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zyhyne drill", "description": "...", "size": 4, "health": 448, "tier": 3, "drillTime": 13, "consumes": {"power": 4}, "requirements": [{"item": "zyhyne", "amount": 20}, {"item": "nudo", "amount": 15}, {"item": "cozuja", "amount": 9}], "research": "zyhyne-factory", "category": "production"}

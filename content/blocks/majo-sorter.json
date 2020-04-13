@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "majo sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "majo", "amount": 5}, {"item": "yudafa", "amount": 4}], "research": "majo-conveyor", "category": "distribution", "invert": false}

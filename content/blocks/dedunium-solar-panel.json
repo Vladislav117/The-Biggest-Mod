@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dedunium solar panel", "description": "...", "size": 3, "health": 268, "requirements": [{"item": "dedunium", "amount": 11}, {"item": "mesa", "amount": 12}, {"item": "zotonium", "amount": 3}], "research": "dedunium-factory", "powerProduction": 11.747998284010935, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bisy junction", "description": "...", "health": 10, "speed": 11, "capacity": 19, "size": 1, "requirements": [{"item": "bisy", "amount": 1}, {"item": "mynufu", "amount": 1}], "research": "bisy-conveyor", "category": "distribution"}

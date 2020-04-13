@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cuda battery", "description": "...", "size": 3, "health": 367, "requirements": [{"item": "cuda", "amount": 1}, {"item": "forebu", "amount": 1}, {"item": "kyte", "amount": 4}], "research": "cuda-factory", "consumes": {"powerBuffered": 5442}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nigynium overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "nigynium", "amount": 4}, {"item": "hycyyi", "amount": 1}], "research": "nigynium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "daxyse liquid tank", "description": "...", "health": 350, "size": 3, "requirements": [{"item": "daxyse", "amount": 4}, {"item": "ceciba", "amount": 5}, {"item": "hogo", "amount": 10}], "research": "daxyse-conduit", "category": "liquid", "liquidCapacity": 82895, "hasLiquids": true}

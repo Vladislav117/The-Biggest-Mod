@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gorenium liquid tank", "description": "...", "health": 266, "size": 3, "requirements": [{"item": "gorenium", "amount": 3}, {"item": "rita", "amount": 2}, {"item": "qigine", "amount": 1}], "research": "gorenium-conduit", "category": "liquid", "liquidCapacity": 87536, "hasLiquids": true}

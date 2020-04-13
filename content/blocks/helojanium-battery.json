@@ -1,0 +1,1 @@
+{"type": "battery", "name": "helojanium battery", "description": "...", "size": 3, "health": 308, "requirements": [{"item": "helojanium", "amount": 20}, {"item": "jayaye", "amount": 18}, {"item": "guwinium", "amount": 5}], "research": "helojanium-factory", "consumes": {"powerBuffered": 8221}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fujunium inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "fujunium", "amount": 2}, {"item": "motu", "amount": 3}], "research": "fujunium-conveyor", "category": "distribution", "invert": true}

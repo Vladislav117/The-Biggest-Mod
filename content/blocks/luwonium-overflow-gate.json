@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "luwonium overflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "luwonium", "amount": 1}, {"item": "qipy", "amount": 4}], "research": "luwonium-conveyor", "category": "distribution", "invert": false}

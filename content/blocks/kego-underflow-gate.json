@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kego underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "kego", "amount": 1}, {"item": "mizeqy", "amount": 4}], "research": "kego-conveyor", "category": "distribution", "invert": false}

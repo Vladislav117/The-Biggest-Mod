@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jumozo junction", "description": "...", "health": 24, "speed": 3, "capacity": 14, "size": 1, "requirements": [{"item": "jumozo", "amount": 4}, {"item": "havano", "amount": 2}], "research": "jumozo-conveyor", "category": "distribution"}

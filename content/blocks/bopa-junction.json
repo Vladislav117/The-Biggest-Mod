@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bopa junction", "description": "...", "health": 43, "speed": 6, "capacity": 14, "size": 1, "requirements": [{"item": "bopa", "amount": 4}, {"item": "cazefu", "amount": 1}], "research": "bopa-conveyor", "category": "distribution"}

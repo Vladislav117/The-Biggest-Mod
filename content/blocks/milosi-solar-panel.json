@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "milosi solar panel", "description": "...", "size": 3, "health": 170, "requirements": [{"item": "milosi", "amount": 18}, {"item": "basomi", "amount": 14}, {"item": "pyxoxanium", "amount": 8}], "research": "milosi-factory", "powerProduction": 0.6099191330981707, "category": "power"}

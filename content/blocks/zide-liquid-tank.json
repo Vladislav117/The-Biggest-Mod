@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zide liquid tank", "description": "...", "health": 192, "size": 3, "requirements": [{"item": "zide", "amount": 16}, {"item": "xehy", "amount": 1}, {"item": "foqe", "amount": 6}], "research": "zide-conduit", "category": "liquid", "liquidCapacity": 114004, "hasLiquids": true}

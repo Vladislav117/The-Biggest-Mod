@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tate battery", "description": "...", "size": 3, "health": 197, "requirements": [{"item": "tate", "amount": 3}, {"item": "biny", "amount": 18}, {"item": "cuyy", "amount": 1}], "research": "tate-factory", "consumes": {"powerBuffered": 7772}, "category": "power"}

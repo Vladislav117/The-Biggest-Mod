@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qedene underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "qedene", "amount": 1}, {"item": "dagepanium", "amount": 2}], "research": "qedene-conveyor", "category": "distribution", "invert": false}

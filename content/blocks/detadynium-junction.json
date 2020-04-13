@@ -1,0 +1,1 @@
+{"type": "junction", "name": "detadynium junction", "description": "...", "health": 42, "speed": 19, "capacity": 14, "size": 1, "requirements": [{"item": "detadynium", "amount": 1}, {"item": "qulape", "amount": 3}], "research": "detadynium-conveyor", "category": "distribution"}

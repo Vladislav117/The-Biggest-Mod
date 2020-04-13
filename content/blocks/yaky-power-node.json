@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yaky power node", "description": "...", "size": 2, "health": 435, "requirements": [{"item": "yaky", "amount": 3}, {"item": "dakyse", "amount": 12}, {"item": "puzanium", "amount": 9}], "research": "yaky-factory", "maxNodes": 34, "laserRange": 7, "category": "power"}

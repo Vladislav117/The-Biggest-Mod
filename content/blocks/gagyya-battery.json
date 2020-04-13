@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gagyya battery", "description": "...", "size": 3, "health": 245, "requirements": [{"item": "gagyya", "amount": 5}, {"item": "ceyuwy", "amount": 15}, {"item": "cuhynenium", "amount": 1}], "research": "gagyya-factory", "consumes": {"powerBuffered": 1267}, "category": "power"}

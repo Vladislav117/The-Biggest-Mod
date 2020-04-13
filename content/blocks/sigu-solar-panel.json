@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sigu solar panel", "description": "...", "size": 3, "health": 377, "requirements": [{"item": "sigu", "amount": 5}, {"item": "wareginium", "amount": 12}, {"item": "rale", "amount": 6}], "research": "sigu-factory", "powerProduction": 13.204300343881462, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yobego liquid tank", "description": "...", "health": 225, "size": 3, "requirements": [{"item": "yobego", "amount": 5}, {"item": "joxona", "amount": 18}, {"item": "cujori", "amount": 5}], "research": "yobego-conduit", "category": "liquid", "liquidCapacity": 29262, "hasLiquids": true}

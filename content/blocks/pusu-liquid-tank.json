@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pusu liquid tank", "description": "...", "health": 173, "size": 3, "requirements": [{"item": "pusu", "amount": 7}, {"item": "hexa", "amount": 17}, {"item": "lowocanium", "amount": 1}], "research": "pusu-conduit", "category": "liquid", "liquidCapacity": 54808, "hasLiquids": true}

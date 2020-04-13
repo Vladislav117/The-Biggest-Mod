@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qele overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "qele", "amount": 2}, {"item": "tumine", "amount": 3}], "research": "qele-conveyor", "category": "distribution", "invert": false}

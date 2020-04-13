@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zyluci inverted sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "zyluci", "amount": 2}, {"item": "vevati", "amount": 5}], "research": "zyluci-conveyor", "category": "distribution", "invert": true}

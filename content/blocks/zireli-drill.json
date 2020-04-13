@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zireli drill", "description": "...", "size": 2, "health": 116, "tier": 1, "drillTime": 11, "consumes": {"power": 8}, "requirements": [{"item": "zireli", "amount": 6}, {"item": "qyfyqunium", "amount": 20}, {"item": "hogo", "amount": 2}], "research": "zireli-factory", "category": "production"}

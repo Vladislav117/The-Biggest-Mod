@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lave conduit", "description": "...", "health": 33, "requirements": [{"item": "lave", "amount": 8}, {"item": "dakoyi", "amount": 4}, {"item": "wulyso", "amount": 2}], "liquidCapacity": 15, "liquidPressure": 4, "research": "lave-factory", "category": "liquid"}

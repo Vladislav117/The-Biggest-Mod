@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hamenium solar panel", "description": "...", "size": 1, "health": 380, "requirements": [{"item": "hamenium", "amount": 3}, {"item": "sugamynium", "amount": 10}, {"item": "hemumonium", "amount": 4}], "research": "hamenium-factory", "powerProduction": 6.275708926920702, "category": "power"}

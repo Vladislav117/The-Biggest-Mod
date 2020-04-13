@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xicopo solar panel", "description": "...", "size": 3, "health": 273, "requirements": [{"item": "xicopo", "amount": 12}, {"item": "zokoya", "amount": 20}, {"item": "xuqi", "amount": 10}], "research": "xicopo-factory", "powerProduction": 0.14456840004224203, "category": "power"}

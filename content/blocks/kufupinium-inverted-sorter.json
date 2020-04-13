@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kufupinium inverted sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "kufupinium", "amount": 2}, {"item": "bobowe", "amount": 4}], "research": "kufupinium-conveyor", "category": "distribution", "invert": true}

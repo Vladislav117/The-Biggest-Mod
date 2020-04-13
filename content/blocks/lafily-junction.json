@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lafily junction", "description": "...", "health": 17, "speed": 5, "capacity": 19, "size": 1, "requirements": [{"item": "lafily", "amount": 2}, {"item": "ceginy", "amount": 2}], "research": "lafily-conveyor", "category": "distribution"}

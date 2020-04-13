@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "rabu drill", "description": "...", "size": 2, "health": 269, "tier": 4, "drillTime": 12, "consumes": {"power": 9}, "requirements": [{"item": "rabu", "amount": 11}, {"item": "paboya", "amount": 9}, {"item": "filu", "amount": 1}], "research": "rabu-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "terynium underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "terynium", "amount": 4}, {"item": "siqiga", "amount": 1}], "research": "terynium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wuce solar panel", "description": "...", "size": 3, "health": 317, "requirements": [{"item": "wuce", "amount": 1}, {"item": "hozanium", "amount": 5}, {"item": "xugo", "amount": 5}], "research": "wuce-factory", "powerProduction": 1.0468756160358923, "category": "power"}

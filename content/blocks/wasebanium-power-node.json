@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wasebanium power node", "description": "...", "size": 2, "health": 477, "requirements": [{"item": "wasebanium", "amount": 7}, {"item": "kyte", "amount": 19}, {"item": "naronium", "amount": 6}], "research": "wasebanium-factory", "maxNodes": 17, "laserRange": 17, "category": "power"}

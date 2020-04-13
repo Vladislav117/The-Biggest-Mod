@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ciqi power node", "description": "...", "size": 2, "health": 454, "requirements": [{"item": "ciqi", "amount": 2}, {"item": "muti", "amount": 6}, {"item": "metaglass", "amount": 6}], "research": "ciqi-factory", "maxNodes": 27, "laserRange": 6, "category": "power"}

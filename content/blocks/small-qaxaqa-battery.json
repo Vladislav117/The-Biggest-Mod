@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qaxaqa battery", "description": "...", "size": 1, "health": 303, "requirements": [{"item": "qaxaqa", "amount": 14}, {"item": "pyzemu", "amount": 3}, {"item": "gunery", "amount": 4}], "research": "qaxaqa-factory", "consumes": {"powerBuffered": 332}, "category": "power"}

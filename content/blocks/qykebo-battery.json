@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qykebo battery", "description": "...", "size": 3, "health": 396, "requirements": [{"item": "qykebo", "amount": 9}, {"item": "xoge", "amount": 4}, {"item": "vixuca", "amount": 8}], "research": "qykebo-factory", "consumes": {"powerBuffered": 9500}, "category": "power"}

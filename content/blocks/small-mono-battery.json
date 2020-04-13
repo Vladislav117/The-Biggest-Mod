@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mono battery", "description": "...", "size": 1, "health": 336, "requirements": [{"item": "mono", "amount": 2}, {"item": "civu", "amount": 15}, {"item": "dowynium", "amount": 10}], "research": "mono-factory", "consumes": {"powerBuffered": 2698}, "category": "power"}

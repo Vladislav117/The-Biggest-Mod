@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "geso conduit", "description": "...", "health": 173, "requirements": [{"item": "geso", "amount": 15}, {"item": "fixe", "amount": 8}, {"item": "lynulo", "amount": 9}], "liquidCapacity": 20, "liquidPressure": 1, "research": "geso-factory", "category": "liquid"}

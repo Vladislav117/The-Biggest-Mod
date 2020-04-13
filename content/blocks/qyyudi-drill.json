@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qyyudi drill", "description": "...", "size": 2, "health": 220, "tier": 3, "drillTime": 2, "consumes": {"power": 6}, "requirements": [{"item": "qyyudi", "amount": 8}, {"item": "ziruzo", "amount": 18}, {"item": "zyfita", "amount": 7}], "research": "qyyudi-factory", "category": "production"}

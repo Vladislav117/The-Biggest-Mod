@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dune solar panel", "description": "...", "size": 1, "health": 134, "requirements": [{"item": "dune", "amount": 8}, {"item": "dakyse", "amount": 16}, {"item": "colu", "amount": 5}], "research": "dune-factory", "powerProduction": 0.20194269197442802, "category": "power"}

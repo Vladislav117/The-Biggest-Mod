@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pygu liquid tank", "description": "...", "health": 347, "size": 3, "requirements": [{"item": "pygu", "amount": 9}, {"item": "daqy", "amount": 4}, {"item": "jetu", "amount": 8}], "research": "pygu-conduit", "category": "liquid", "liquidCapacity": 42718, "hasLiquids": true}

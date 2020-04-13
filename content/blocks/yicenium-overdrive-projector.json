@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "yicenium overdrive projector", "description": "...", "health": 57, "consumes": {"power": 3.0, "item": "yicenium"}, "size": 2, "requirements": [{"item": "yicenium", "amount": 20}, {"item": "juwyso", "amount": 7}, {"item": "qeyanium", "amount": 1}], "research": "yicenium-factory", "category": "effect"}

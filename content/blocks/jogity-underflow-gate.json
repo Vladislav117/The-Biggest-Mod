@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jogity underflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "jogity", "amount": 1}, {"item": "cepaty", "amount": 2}], "research": "jogity-conveyor", "category": "distribution", "invert": false}

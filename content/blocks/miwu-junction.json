@@ -1,0 +1,1 @@
+{"type": "junction", "name": "miwu junction", "description": "...", "health": 12, "speed": 14, "capacity": 12, "size": 1, "requirements": [{"item": "miwu", "amount": 1}, {"item": "kyyuny", "amount": 5}], "research": "miwu-conveyor", "category": "distribution"}

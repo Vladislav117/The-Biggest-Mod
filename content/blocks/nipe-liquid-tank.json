@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nipe liquid tank", "description": "...", "health": 329, "size": 3, "requirements": [{"item": "nipe", "amount": 10}, {"item": "zajenium", "amount": 4}, {"item": "xece", "amount": 10}], "research": "nipe-conduit", "category": "liquid", "liquidCapacity": 25436, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "giyu solar panel", "description": "...", "size": 3, "health": 220, "requirements": [{"item": "giyu", "amount": 10}, {"item": "roje", "amount": 12}, {"item": "joxazy", "amount": 6}], "research": "giyu-factory", "powerProduction": 0.35176766031223733, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qenu solar panel", "description": "...", "size": 1, "health": 26, "requirements": [{"item": "qenu", "amount": 10}, {"item": "qiyatonium", "amount": 16}, {"item": "kokonium", "amount": 5}], "research": "qenu-factory", "powerProduction": 0.7492705153601082, "category": "power"}

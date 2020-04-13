@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jafu drill", "description": "...", "size": 2, "health": 422, "tier": 2, "drillTime": 10, "consumes": {"power": 12}, "requirements": [{"item": "jafu", "amount": 12}, {"item": "kuju", "amount": 19}, {"item": "doge", "amount": 10}], "research": "jafu-factory", "category": "production"}

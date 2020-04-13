@@ -1,0 +1,1 @@
+{"type": "router", "name": "puli router", "description": "...", "health": 111, "size": 1, "requirements": [{"item": "puli", "amount": 5}], "research": "puli-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vyse battery", "description": "...", "size": 3, "health": 261, "requirements": [{"item": "vyse", "amount": 3}, {"item": "zipy", "amount": 2}, {"item": "pyto", "amount": 1}], "research": "vyse-factory", "consumes": {"powerBuffered": 4120}, "category": "power"}

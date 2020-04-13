@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sore power node", "description": "...", "size": 1, "health": 129, "requirements": [{"item": "sore", "amount": 10}, {"item": "zivo", "amount": 7}, {"item": "surge-alloy", "amount": 4}], "research": "sore-factory", "maxNodes": 3, "laserRange": 4, "category": "power"}

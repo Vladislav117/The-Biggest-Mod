@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rymeyinium power node", "description": "...", "size": 2, "health": 126, "requirements": [{"item": "rymeyinium", "amount": 14}, {"item": "wicy", "amount": 6}, {"item": "reju", "amount": 3}], "research": "rymeyinium-factory", "maxNodes": 20, "laserRange": 5, "category": "power"}

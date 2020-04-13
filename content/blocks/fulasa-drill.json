@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fulasa drill", "description": "...", "size": 2, "health": 360, "tier": 2, "drillTime": 18, "consumes": {"power": 6}, "requirements": [{"item": "fulasa", "amount": 11}, {"item": "yafo", "amount": 4}, {"item": "fypizy", "amount": 4}], "research": "fulasa-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vyjoti power node", "description": "...", "size": 2, "health": 624, "requirements": [{"item": "vyjoti", "amount": 17}, {"item": "gonu", "amount": 7}, {"item": "kipyzonium", "amount": 4}], "research": "vyjoti-factory", "maxNodes": 47, "laserRange": 7, "category": "power"}

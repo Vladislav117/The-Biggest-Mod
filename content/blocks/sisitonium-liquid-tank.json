@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sisitonium liquid tank", "description": "...", "health": 240, "size": 3, "requirements": [{"item": "sisitonium", "amount": 11}, {"item": "jejypu", "amount": 10}, {"item": "yemy", "amount": 9}], "research": "sisitonium-conduit", "category": "liquid", "liquidCapacity": 86461, "hasLiquids": true}

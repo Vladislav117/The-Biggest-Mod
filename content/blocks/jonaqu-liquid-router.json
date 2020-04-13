@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jonaqu liquid router", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "jonaqu", "amount": 2}, {"item": "silicon", "amount": 6}, {"item": "byzure", "amount": 6}], "research": "jonaqu-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rahasunium solar panel", "description": "...", "size": 1, "health": 386, "requirements": [{"item": "rahasunium", "amount": 12}, {"item": "xofa", "amount": 10}, {"item": "xydume", "amount": 9}], "research": "rahasunium-factory", "powerProduction": 0.5431158448545292, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mohoze solar panel", "description": "...", "size": 3, "health": 112, "requirements": [{"item": "mohoze", "amount": 19}, {"item": "copper", "amount": 5}, {"item": "kiredi", "amount": 3}], "research": "mohoze-factory", "powerProduction": 0.03947565827252203, "category": "power"}

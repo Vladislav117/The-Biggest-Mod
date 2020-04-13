@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "sixo conveyor", "description": "...", "health": 64, "requirements": [{"item": "sixo", "amount": 6}, {"item": "pizi", "amount": 7}], "speed": 0.0002231677042234259, "research": "sixo-factory", "category": "distribution"}

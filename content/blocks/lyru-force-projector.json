@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "lyru force projector", "description": "...", "health": 124, "size": 3, "consumes": {"power": 5.0, "item": "lyru"}, "requirements": [{"item": "lyru", "amount": 7}, {"item": "lead", "amount": 20}, {"item": "fogodo", "amount": 1}], "research": "lyru-factory", "category": "effect"}

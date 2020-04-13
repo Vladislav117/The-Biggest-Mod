@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "giyafynium liquid tank", "description": "...", "health": 659, "size": 3, "requirements": [{"item": "giyafynium", "amount": 5}, {"item": "fecunium", "amount": 3}, {"item": "xugo", "amount": 10}], "research": "giyafynium-conduit", "category": "liquid", "liquidCapacity": 54010, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyvuyy liquid tank", "description": "...", "health": 229, "size": 3, "requirements": [{"item": "fyvuyy", "amount": 1}, {"item": "birynium", "amount": 20}, {"item": "voya", "amount": 4}], "research": "fyvuyy-conduit", "category": "liquid", "liquidCapacity": 32505, "hasLiquids": true}

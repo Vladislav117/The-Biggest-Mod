@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yiru drill", "description": "...", "size": 2, "health": 186, "tier": 1, "drillTime": 19, "consumes": {"power": 16}, "requirements": [{"item": "yiru", "amount": 8}, {"item": "foqe", "amount": 16}, {"item": "sidu", "amount": 9}], "research": "yiru-factory", "category": "production"}

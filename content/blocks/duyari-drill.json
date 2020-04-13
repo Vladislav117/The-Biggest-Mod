@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "duyari drill", "description": "...", "size": 2, "health": 409, "tier": 2, "drillTime": 4, "consumes": {"power": 11}, "requirements": [{"item": "duyari", "amount": 18}, {"item": "zuzu", "amount": 9}, {"item": "qegade", "amount": 6}], "research": "duyari-factory", "category": "production"}

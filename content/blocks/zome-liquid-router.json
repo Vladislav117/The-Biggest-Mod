@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zome liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "zome", "amount": 16}, {"item": "faco", "amount": 1}, {"item": "dyjitonium", "amount": 5}], "research": "zome-conduit", "liquidCapacity": 10, "category": "liquid"}

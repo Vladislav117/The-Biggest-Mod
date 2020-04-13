@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "buzu liquid tank", "description": "...", "health": 595, "size": 3, "requirements": [{"item": "buzu", "amount": 19}, {"item": "fogodo", "amount": 10}, {"item": "xysu", "amount": 9}], "research": "buzu-conduit", "category": "liquid", "liquidCapacity": 73681, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small geka battery", "description": "...", "size": 1, "health": 221, "requirements": [{"item": "geka", "amount": 5}, {"item": "nynoyu", "amount": 17}, {"item": "lihinium", "amount": 3}], "research": "geka-factory", "consumes": {"powerBuffered": 1189}, "category": "power"}

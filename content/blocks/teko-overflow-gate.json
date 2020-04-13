@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "teko overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "teko", "amount": 4}, {"item": "kilu", "amount": 3}], "research": "teko-conveyor", "category": "distribution", "invert": false}

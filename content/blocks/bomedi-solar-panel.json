@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bomedi solar panel", "description": "...", "size": 3, "health": 132, "requirements": [{"item": "bomedi", "amount": 2}, {"item": "myci", "amount": 13}, {"item": "nimawo", "amount": 6}], "research": "bomedi-factory", "powerProduction": 3.2749597394206265, "category": "power"}

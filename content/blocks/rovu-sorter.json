@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rovu sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "rovu", "amount": 3}, {"item": "divi", "amount": 4}], "research": "rovu-conveyor", "category": "distribution", "invert": false}

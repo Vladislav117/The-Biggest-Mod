@@ -1,0 +1,1 @@
+{"type": "battery", "name": "niki battery", "description": "...", "size": 3, "health": 90, "requirements": [{"item": "niki", "amount": 13}, {"item": "lumasunium", "amount": 14}, {"item": "sekele", "amount": 4}], "research": "niki-factory", "consumes": {"powerBuffered": 3147}, "category": "power"}

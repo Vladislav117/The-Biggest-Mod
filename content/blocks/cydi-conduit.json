@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cydi conduit", "description": "...", "health": 92, "requirements": [{"item": "cydi", "amount": 13}, {"item": "feguga", "amount": 16}, {"item": "labila", "amount": 4}], "liquidCapacity": 24, "liquidPressure": 10, "research": "cydi-factory", "category": "liquid"}

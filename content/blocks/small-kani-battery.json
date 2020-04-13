@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kani battery", "description": "...", "size": 1, "health": 164, "requirements": [{"item": "kani", "amount": 14}, {"item": "ridu", "amount": 6}, {"item": "jewa", "amount": 6}], "research": "kani-factory", "consumes": {"powerBuffered": 1214}, "category": "power"}

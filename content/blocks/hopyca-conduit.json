@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hopyca conduit", "description": "...", "health": 145, "requirements": [{"item": "hopyca", "amount": 13}, {"item": "vojenium", "amount": 20}, {"item": "jugubu", "amount": 4}], "liquidCapacity": 24, "liquidPressure": 6, "research": "hopyca-factory", "category": "liquid"}

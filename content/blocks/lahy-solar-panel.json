@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lahy solar panel", "description": "...", "size": 3, "health": 212, "requirements": [{"item": "lahy", "amount": 18}, {"item": "wylanium", "amount": 7}, {"item": "qodanunium", "amount": 3}], "research": "lahy-factory", "powerProduction": 10.145453743766028, "category": "power"}

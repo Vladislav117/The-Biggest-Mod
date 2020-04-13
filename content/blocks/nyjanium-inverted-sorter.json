@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nyjanium inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "nyjanium", "amount": 1}, {"item": "rupuvu", "amount": 4}], "research": "nyjanium-conveyor", "category": "distribution", "invert": true}

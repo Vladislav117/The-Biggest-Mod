@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jytubinium solar panel", "description": "...", "size": 1, "health": 240, "requirements": [{"item": "jytubinium", "amount": 12}, {"item": "heruru", "amount": 3}, {"item": "qepyvonium", "amount": 6}], "research": "jytubinium-factory", "powerProduction": 1.658978616230457, "category": "power"}

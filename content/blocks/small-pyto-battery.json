@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pyto battery", "description": "...", "size": 1, "health": 387, "requirements": [{"item": "pyto", "amount": 19}, {"item": "kegiqi", "amount": 3}, {"item": "wavoli", "amount": 9}], "research": "pyto-factory", "consumes": {"powerBuffered": 1006}, "category": "power"}

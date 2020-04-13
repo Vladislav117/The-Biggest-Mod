@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "qicu overdrive projector", "description": "...", "health": 99, "consumes": {"power": 3.0, "item": "qicu"}, "size": 2, "requirements": [{"item": "qicu", "amount": 19}, {"item": "ruryjynium", "amount": 17}, {"item": "roqeki", "amount": 9}], "research": "qicu-factory", "category": "effect"}

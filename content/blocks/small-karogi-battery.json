@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small karogi battery", "description": "...", "size": 1, "health": 335, "requirements": [{"item": "karogi", "amount": 4}, {"item": "zymi", "amount": 7}, {"item": "gola", "amount": 4}], "research": "karogi-factory", "consumes": {"powerBuffered": 1504}, "category": "power"}

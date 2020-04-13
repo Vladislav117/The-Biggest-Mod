@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wywanium junction", "description": "...", "health": 30, "speed": 20, "capacity": 7, "size": 1, "requirements": [{"item": "wywanium", "amount": 2}, {"item": "heti", "amount": 1}], "research": "wywanium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nijuto overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "nijuto", "amount": 3}, {"item": "hiki", "amount": 2}], "research": "nijuto-conveyor", "category": "distribution", "invert": false}

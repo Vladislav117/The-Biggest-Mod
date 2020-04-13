@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vapofu power node", "description": "...", "size": 2, "health": 250, "requirements": [{"item": "vapofu", "amount": 5}, {"item": "gino", "amount": 13}, {"item": "raqo", "amount": 3}], "research": "vapofu-factory", "maxNodes": 42, "laserRange": 10, "category": "power"}

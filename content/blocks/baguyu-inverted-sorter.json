@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "baguyu inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "baguyu", "amount": 4}, {"item": "cisiwa", "amount": 3}], "research": "baguyu-conveyor", "category": "distribution", "invert": true}

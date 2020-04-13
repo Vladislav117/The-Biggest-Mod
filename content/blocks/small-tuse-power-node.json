@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tuse power node", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "tuse", "amount": 10}, {"item": "vakarinium", "amount": 7}, {"item": "simy", "amount": 4}], "research": "tuse-factory", "maxNodes": 25, "laserRange": 20, "category": "power"}

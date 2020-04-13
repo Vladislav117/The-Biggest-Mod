@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small noxe solar panel", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "noxe", "amount": 7}, {"item": "wisy", "amount": 14}, {"item": "yinyse", "amount": 10}], "research": "noxe-factory", "powerProduction": 5.239654380487923, "category": "power"}

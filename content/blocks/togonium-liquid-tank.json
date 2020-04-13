@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "togonium liquid tank", "description": "...", "health": 339, "size": 3, "requirements": [{"item": "togonium", "amount": 4}, {"item": "betesa", "amount": 20}, {"item": "somy", "amount": 4}], "research": "togonium-conduit", "category": "liquid", "liquidCapacity": 63636, "hasLiquids": true}

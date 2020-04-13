@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "balyvo underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "balyvo", "amount": 1}, {"item": "qeyanium", "amount": 3}], "research": "balyvo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gafedonium solar panel", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "gafedonium", "amount": 17}, {"item": "sexinium", "amount": 3}, {"item": "vudaxy", "amount": 2}], "research": "gafedonium-factory", "powerProduction": 8.045237192671852, "category": "power"}

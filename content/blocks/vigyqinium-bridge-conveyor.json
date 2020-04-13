@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vigyqinium bridge conveyor", "description": "", "health": 5, "range": 4, "speed": 6, "bufferCapacity": 11, "requirements": [{"item": "vigyqinium", "amount": 4}, {"item": "voya", "amount": 3}], "research": "vigyqinium-conveyor", "category": "distribution", "size": 1}

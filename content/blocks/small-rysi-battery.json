@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rysi battery", "description": "...", "size": 1, "health": 187, "requirements": [{"item": "rysi", "amount": 13}, {"item": "cokigo", "amount": 1}, {"item": "mepunium", "amount": 3}], "research": "rysi-factory", "consumes": {"powerBuffered": 2457}, "category": "power"}

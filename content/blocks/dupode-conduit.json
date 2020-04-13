@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dupode conduit", "description": "...", "health": 37, "requirements": [{"item": "dupode", "amount": 17}, {"item": "cone", "amount": 7}, {"item": "vyde", "amount": 3}], "liquidCapacity": 40, "liquidPressure": 0, "research": "dupode-factory", "category": "liquid"}

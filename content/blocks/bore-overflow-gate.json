@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bore overflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "bore", "amount": 4}, {"item": "viwiwinium", "amount": 1}], "research": "bore-conveyor", "category": "distribution", "invert": false}

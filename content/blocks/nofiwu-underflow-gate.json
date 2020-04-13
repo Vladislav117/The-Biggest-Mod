@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nofiwu underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "nofiwu", "amount": 5}, {"item": "niho", "amount": 5}], "research": "nofiwu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "raqo conduit", "description": "...", "health": 177, "requirements": [{"item": "raqo", "amount": 10}, {"item": "yixo", "amount": 20}, {"item": "bexa", "amount": 1}], "liquidCapacity": 21, "liquidPressure": 1, "research": "raqo-factory", "category": "liquid"}

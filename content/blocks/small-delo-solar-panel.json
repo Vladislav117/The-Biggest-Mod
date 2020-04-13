@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small delo solar panel", "description": "...", "size": 1, "health": 118, "requirements": [{"item": "delo", "amount": 4}, {"item": "vabenium", "amount": 8}, {"item": "wiyeda", "amount": 10}], "research": "delo-factory", "powerProduction": 0.026923147814720563, "category": "power"}

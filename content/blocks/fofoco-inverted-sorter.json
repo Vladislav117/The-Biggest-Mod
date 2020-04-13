@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fofoco inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "fofoco", "amount": 3}, {"item": "cydeyy", "amount": 2}], "research": "fofoco-conveyor", "category": "distribution", "invert": true}

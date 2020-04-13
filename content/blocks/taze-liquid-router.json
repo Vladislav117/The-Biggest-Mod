@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "taze liquid router", "description": "...", "size": 1, "health": 35, "requirements": [{"item": "taze", "amount": 2}, {"item": "yify", "amount": 6}, {"item": "nirogynium", "amount": 9}], "research": "taze-conduit", "liquidCapacity": 10, "category": "liquid"}

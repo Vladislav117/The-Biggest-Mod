@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pawusy underflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "pawusy", "amount": 4}, {"item": "huro", "amount": 5}], "research": "pawusy-conveyor", "category": "distribution", "invert": false}

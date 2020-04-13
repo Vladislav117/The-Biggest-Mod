@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jege underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "jege", "amount": 3}, {"item": "mavi", "amount": 5}], "research": "jege-conveyor", "category": "distribution", "invert": false}

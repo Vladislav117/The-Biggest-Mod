@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dedunium power node", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "dedunium", "amount": 9}, {"item": "dygi", "amount": 9}, {"item": "hoze", "amount": 9}], "research": "dedunium-factory", "maxNodes": 5, "laserRange": 8, "category": "power"}

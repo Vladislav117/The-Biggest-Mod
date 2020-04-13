@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "nyvu force projector", "description": "...", "health": 142, "size": 3, "consumes": {"power": 5.0, "item": "nyvu"}, "requirements": [{"item": "nyvu", "amount": 1}, {"item": "yymujy", "amount": 1}, {"item": "lymy", "amount": 1}], "research": "nyvu-factory", "category": "effect"}

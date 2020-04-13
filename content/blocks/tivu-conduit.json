@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tivu conduit", "description": "...", "health": 41, "requirements": [{"item": "tivu", "amount": 6}, {"item": "kilu", "amount": 1}, {"item": "gado", "amount": 3}], "liquidCapacity": 48, "liquidPressure": 0, "research": "tivu-factory", "category": "liquid"}

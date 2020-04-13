@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "juhura liquid tank", "description": "...", "health": 601, "size": 3, "requirements": [{"item": "juhura", "amount": 13}, {"item": "yofonium", "amount": 9}, {"item": "wupera", "amount": 6}], "research": "juhura-conduit", "category": "liquid", "liquidCapacity": 24832, "hasLiquids": true}

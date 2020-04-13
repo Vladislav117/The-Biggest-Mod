@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "haxi bridge conveyor", "description": "", "health": 10, "range": 20, "speed": 20, "bufferCapacity": 7, "requirements": [{"item": "haxi", "amount": 4}, {"item": "wano", "amount": 1}], "research": "haxi-conveyor", "category": "distribution", "size": 1}

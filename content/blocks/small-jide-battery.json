@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jide battery", "description": "...", "size": 1, "health": 225, "requirements": [{"item": "jide", "amount": 1}, {"item": "jiyomonium", "amount": 7}, {"item": "wehemonium", "amount": 7}], "research": "jide-factory", "consumes": {"powerBuffered": 1925}, "category": "power"}

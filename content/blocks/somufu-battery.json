@@ -1,0 +1,1 @@
+{"type": "battery", "name": "somufu battery", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "somufu", "amount": 1}, {"item": "vuguqy", "amount": 13}, {"item": "yikynium", "amount": 10}], "research": "somufu-factory", "consumes": {"powerBuffered": 8314}, "category": "power"}

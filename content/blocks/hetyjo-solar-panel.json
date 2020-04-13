@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hetyjo solar panel", "description": "...", "size": 3, "health": 42, "requirements": [{"item": "hetyjo", "amount": 7}, {"item": "yalaka", "amount": 16}, {"item": "beyo", "amount": 6}], "research": "hetyjo-factory", "powerProduction": 0.7531722959538607, "category": "power"}

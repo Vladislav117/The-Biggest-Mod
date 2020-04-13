@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "robyto bridge conveyor", "description": "", "health": 35, "range": 1, "speed": 12, "bufferCapacity": 1, "requirements": [{"item": "robyto", "amount": 1}, {"item": "qefa", "amount": 1}], "research": "robyto-conveyor", "category": "distribution", "size": 1}

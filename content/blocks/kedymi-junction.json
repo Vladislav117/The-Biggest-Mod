@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kedymi junction", "description": "...", "health": 19, "speed": 18, "capacity": 2, "size": 1, "requirements": [{"item": "kedymi", "amount": 2}, {"item": "deke", "amount": 2}], "research": "kedymi-conveyor", "category": "distribution"}

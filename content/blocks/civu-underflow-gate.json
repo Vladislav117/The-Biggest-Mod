@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "civu underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "civu", "amount": 5}, {"item": "wumuge", "amount": 2}], "research": "civu-conveyor", "category": "distribution", "invert": false}

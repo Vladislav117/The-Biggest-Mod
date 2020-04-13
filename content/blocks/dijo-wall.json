@@ -1,0 +1,1 @@
+{"type": "Wall", "name": "dijo wall", "description": "...", "health": 500, "size": 2, "requirements": [{"item": "dijo", "amount": 32}], "research": "dijo-factory", "category": "defense"}

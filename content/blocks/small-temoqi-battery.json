@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small temoqi battery", "description": "...", "size": 1, "health": 156, "requirements": [{"item": "temoqi", "amount": 14}, {"item": "viwiwinium", "amount": 19}, {"item": "zube", "amount": 6}], "research": "temoqi-factory", "consumes": {"powerBuffered": 1200}, "category": "power"}

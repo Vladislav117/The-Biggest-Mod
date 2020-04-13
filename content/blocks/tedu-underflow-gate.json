@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tedu underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "tedu", "amount": 4}, {"item": "bilyvanium", "amount": 1}], "research": "tedu-conveyor", "category": "distribution", "invert": false}

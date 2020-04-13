@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wony solar panel", "description": "...", "size": 1, "health": 355, "requirements": [{"item": "wony", "amount": 5}, {"item": "zorudy", "amount": 15}, {"item": "zefapynium", "amount": 1}], "research": "wony-factory", "powerProduction": 5.016536055683718, "category": "power"}

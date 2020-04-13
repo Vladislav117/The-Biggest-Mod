@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nudo liquid router", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "nudo", "amount": 12}, {"item": "tujy", "amount": 1}, {"item": "dekeko", "amount": 5}], "research": "nudo-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tyjy power node", "description": "...", "size": 2, "health": 586, "requirements": [{"item": "tyjy", "amount": 8}, {"item": "kotinium", "amount": 5}, {"item": "cohifa", "amount": 10}], "research": "tyjy-factory", "maxNodes": 22, "laserRange": 23, "category": "power"}

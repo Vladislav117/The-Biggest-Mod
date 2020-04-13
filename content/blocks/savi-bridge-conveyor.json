@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "savi bridge conveyor", "description": "", "health": 35, "range": 2, "speed": 3, "bufferCapacity": 11, "requirements": [{"item": "savi", "amount": 1}, {"item": "byqymo", "amount": 4}], "research": "savi-conveyor", "category": "distribution", "size": 1}

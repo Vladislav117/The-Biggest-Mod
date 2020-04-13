@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pyrafanium underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "pyrafanium", "amount": 5}, {"item": "cypi", "amount": 2}], "research": "pyrafanium-conveyor", "category": "distribution", "invert": false}

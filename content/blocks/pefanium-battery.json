@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pefanium battery", "description": "...", "size": 3, "health": 327, "requirements": [{"item": "pefanium", "amount": 17}, {"item": "myyu", "amount": 8}, {"item": "qawi", "amount": 1}], "research": "pefanium-factory", "consumes": {"powerBuffered": 1825}, "category": "power"}

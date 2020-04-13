@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wekonium underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "wekonium", "amount": 2}, {"item": "vezaya", "amount": 2}], "research": "wekonium-conveyor", "category": "distribution", "invert": false}

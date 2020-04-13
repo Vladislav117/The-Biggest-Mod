@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pemaya battery", "description": "...", "size": 3, "health": 153, "requirements": [{"item": "pemaya", "amount": 15}, {"item": "xaxe", "amount": 19}, {"item": "cifo", "amount": 7}], "research": "pemaya-factory", "consumes": {"powerBuffered": 2579}, "category": "power"}

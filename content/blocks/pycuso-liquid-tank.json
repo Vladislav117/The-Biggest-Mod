@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pycuso liquid tank", "description": "...", "health": 376, "size": 3, "requirements": [{"item": "pycuso", "amount": 12}, {"item": "xowubu", "amount": 20}, {"item": "tavanium", "amount": 9}], "research": "pycuso-conduit", "category": "liquid", "liquidCapacity": 89720, "hasLiquids": true}

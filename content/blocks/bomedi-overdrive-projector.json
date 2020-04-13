@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "bomedi overdrive projector", "description": "...", "health": 75, "consumes": {"power": 3.0, "item": "bomedi"}, "size": 2, "requirements": [{"item": "bomedi", "amount": 5}, {"item": "qegu", "amount": 15}, {"item": "kanano", "amount": 9}], "research": "bomedi-factory", "category": "effect"}

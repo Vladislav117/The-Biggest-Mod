@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "geqa power node", "description": "...", "size": 2, "health": 541, "requirements": [{"item": "geqa", "amount": 2}, {"item": "secybo", "amount": 12}, {"item": "bobowe", "amount": 10}], "research": "geqa-factory", "maxNodes": 16, "laserRange": 28, "category": "power"}

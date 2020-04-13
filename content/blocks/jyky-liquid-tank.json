@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jyky liquid tank", "description": "...", "health": 533, "size": 3, "requirements": [{"item": "jyky", "amount": 20}, {"item": "muby", "amount": 8}, {"item": "geqanium", "amount": 10}], "research": "jyky-conduit", "category": "liquid", "liquidCapacity": 79531, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kozivo liquid tank", "description": "...", "health": 623, "size": 3, "requirements": [{"item": "kozivo", "amount": 14}, {"item": "dowoca", "amount": 8}, {"item": "gayika", "amount": 9}], "research": "kozivo-conduit", "category": "liquid", "liquidCapacity": 21321, "hasLiquids": true}

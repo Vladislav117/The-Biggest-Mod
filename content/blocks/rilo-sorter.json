@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rilo sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "rilo", "amount": 4}, {"item": "laranium", "amount": 5}], "research": "rilo-conveyor", "category": "distribution", "invert": false}

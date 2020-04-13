@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zaya junction", "description": "...", "health": 40, "speed": 16, "capacity": 14, "size": 1, "requirements": [{"item": "zaya", "amount": 3}, {"item": "zoju", "amount": 3}], "research": "zaya-conveyor", "category": "distribution"}

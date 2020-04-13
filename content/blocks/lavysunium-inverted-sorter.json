@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lavysunium inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "lavysunium", "amount": 1}, {"item": "fote", "amount": 3}], "research": "lavysunium-conveyor", "category": "distribution", "invert": true}

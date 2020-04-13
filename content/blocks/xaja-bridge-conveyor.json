@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xaja bridge conveyor", "description": "", "health": 48, "range": 19, "speed": 17, "bufferCapacity": 6, "requirements": [{"item": "xaja", "amount": 3}, {"item": "wano", "amount": 4}], "research": "xaja-conveyor", "category": "distribution", "size": 1}

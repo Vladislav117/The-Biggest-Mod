@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wixyti liquid tank", "description": "...", "health": 176, "size": 3, "requirements": [{"item": "wixyti", "amount": 16}, {"item": "rypy", "amount": 15}, {"item": "zili", "amount": 8}], "research": "wixyti-conduit", "category": "liquid", "liquidCapacity": 29444, "hasLiquids": true}

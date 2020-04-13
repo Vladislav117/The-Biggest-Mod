@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small soki power node", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "soki", "amount": 15}, {"item": "lowocanium", "amount": 4}, {"item": "myyu", "amount": 8}], "research": "soki-factory", "maxNodes": 5, "laserRange": 10, "category": "power"}

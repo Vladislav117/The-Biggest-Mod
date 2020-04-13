@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tuqe junction", "description": "...", "health": 26, "speed": 20, "capacity": 19, "size": 1, "requirements": [{"item": "tuqe", "amount": 1}, {"item": "vuru", "amount": 5}], "research": "tuqe-conveyor", "category": "distribution"}

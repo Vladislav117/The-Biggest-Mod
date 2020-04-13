@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zyluci liquid router", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "zyluci", "amount": 2}, {"item": "boretu", "amount": 9}, {"item": "yesolonium", "amount": 7}], "research": "zyluci-conduit", "liquidCapacity": 10, "category": "liquid"}

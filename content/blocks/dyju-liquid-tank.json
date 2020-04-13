@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dyju liquid tank", "description": "...", "health": 308, "size": 3, "requirements": [{"item": "dyju", "amount": 5}, {"item": "xuze", "amount": 20}, {"item": "cygyya", "amount": 9}], "research": "dyju-conduit", "category": "liquid", "liquidCapacity": 60774, "hasLiquids": true}

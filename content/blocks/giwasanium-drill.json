@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "giwasanium drill", "description": "...", "size": 4, "health": 146, "tier": 3, "drillTime": 20, "consumes": {"power": 8}, "requirements": [{"item": "giwasanium", "amount": 6}, {"item": "rede", "amount": 4}, {"item": "wowyvi", "amount": 10}], "research": "giwasanium-factory", "category": "production"}

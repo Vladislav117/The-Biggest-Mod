@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "piwu liquid tank", "description": "...", "health": 409, "size": 3, "requirements": [{"item": "piwu", "amount": 14}, {"item": "takyhonium", "amount": 5}, {"item": "qyfe", "amount": 7}], "research": "piwu-conduit", "category": "liquid", "liquidCapacity": 86187, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yodo junction", "description": "...", "health": 31, "speed": 18, "capacity": 15, "size": 1, "requirements": [{"item": "yodo", "amount": 2}, {"item": "potesonium", "amount": 4}], "research": "yodo-conveyor", "category": "distribution"}

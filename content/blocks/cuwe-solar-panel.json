@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cuwe solar panel", "description": "...", "size": 3, "health": 349, "requirements": [{"item": "cuwe", "amount": 19}, {"item": "cuso", "amount": 18}, {"item": "tetivy", "amount": 8}], "research": "cuwe-factory", "powerProduction": 0.21467321787077862, "category": "power"}

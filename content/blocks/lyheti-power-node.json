@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lyheti power node", "description": "...", "size": 2, "health": 173, "requirements": [{"item": "lyheti", "amount": 17}, {"item": "muby", "amount": 14}, {"item": "jylovo", "amount": 5}], "research": "lyheti-factory", "maxNodes": 55, "laserRange": 10, "category": "power"}

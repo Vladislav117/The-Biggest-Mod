@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jezi power node", "description": "...", "size": 2, "health": 298, "requirements": [{"item": "jezi", "amount": 5}, {"item": "garoqanium", "amount": 15}, {"item": "qiqole", "amount": 4}], "research": "jezi-factory", "maxNodes": 19, "laserRange": 6, "category": "power"}

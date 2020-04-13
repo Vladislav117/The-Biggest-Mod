@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sylunium power node", "description": "...", "size": 2, "health": 675, "requirements": [{"item": "sylunium", "amount": 13}, {"item": "lora", "amount": 2}, {"item": "raru", "amount": 5}], "research": "sylunium-factory", "maxNodes": 28, "laserRange": 28, "category": "power"}

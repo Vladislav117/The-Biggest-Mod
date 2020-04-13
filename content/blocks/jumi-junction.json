@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jumi junction", "description": "...", "health": 11, "speed": 8, "capacity": 10, "size": 1, "requirements": [{"item": "jumi", "amount": 5}, {"item": "tedi", "amount": 1}], "research": "jumi-conveyor", "category": "distribution"}

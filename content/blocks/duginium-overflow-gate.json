@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "duginium overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "duginium", "amount": 5}, {"item": "gyfa", "amount": 2}], "research": "duginium-conveyor", "category": "distribution", "invert": false}

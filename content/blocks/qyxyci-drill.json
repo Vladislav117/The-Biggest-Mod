@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qyxyci drill", "description": "...", "size": 3, "health": 213, "tier": 1, "drillTime": 15, "consumes": {"power": 9}, "requirements": [{"item": "qyxyci", "amount": 8}, {"item": "kipybi", "amount": 6}, {"item": "laqunium", "amount": 9}], "research": "qyxyci-factory", "category": "production"}

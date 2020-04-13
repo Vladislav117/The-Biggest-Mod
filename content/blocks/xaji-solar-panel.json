@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xaji solar panel", "description": "...", "size": 3, "health": 181, "requirements": [{"item": "xaji", "amount": 2}, {"item": "womisa", "amount": 12}, {"item": "qaho", "amount": 10}], "research": "xaji-factory", "powerProduction": 1.2194564953631082, "category": "power"}

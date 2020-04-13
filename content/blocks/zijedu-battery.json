@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zijedu battery", "description": "...", "size": 3, "health": 142, "requirements": [{"item": "zijedu", "amount": 2}, {"item": "xexumi", "amount": 17}, {"item": "tobaye", "amount": 5}], "research": "zijedu-factory", "consumes": {"powerBuffered": 1379}, "category": "power"}

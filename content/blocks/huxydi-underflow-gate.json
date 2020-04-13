@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "huxydi underflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "huxydi", "amount": 1}, {"item": "xyvenium", "amount": 3}], "research": "huxydi-conveyor", "category": "distribution", "invert": false}

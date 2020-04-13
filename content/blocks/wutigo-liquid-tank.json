@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wutigo liquid tank", "description": "...", "health": 603, "size": 3, "requirements": [{"item": "wutigo", "amount": 1}, {"item": "velewo", "amount": 2}, {"item": "pamyka", "amount": 9}], "research": "wutigo-conduit", "category": "liquid", "liquidCapacity": 55063, "hasLiquids": true}

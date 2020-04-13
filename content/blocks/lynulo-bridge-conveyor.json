@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lynulo bridge conveyor", "description": "", "health": 38, "range": 13, "speed": 5, "bufferCapacity": 7, "requirements": [{"item": "lynulo", "amount": 1}, {"item": "vove", "amount": 2}], "research": "lynulo-conveyor", "category": "distribution", "size": 1}

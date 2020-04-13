@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "liwu sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "liwu", "amount": 2}, {"item": "pylonium", "amount": 4}], "research": "liwu-conveyor", "category": "distribution", "invert": false}

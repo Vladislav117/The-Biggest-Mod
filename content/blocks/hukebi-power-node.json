@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hukebi power node", "description": "...", "size": 2, "health": 568, "requirements": [{"item": "hukebi", "amount": 20}, {"item": "wita", "amount": 5}, {"item": "cyru", "amount": 8}], "research": "hukebi-factory", "maxNodes": 47, "laserRange": 7, "category": "power"}

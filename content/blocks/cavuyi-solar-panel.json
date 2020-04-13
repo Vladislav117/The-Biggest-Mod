@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cavuyi solar panel", "description": "...", "size": 3, "health": 333, "requirements": [{"item": "cavuyi", "amount": 1}, {"item": "lora", "amount": 12}, {"item": "zija", "amount": 7}], "research": "cavuyi-factory", "powerProduction": 1.56783716843901, "category": "power"}

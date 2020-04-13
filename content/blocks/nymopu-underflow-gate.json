@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nymopu underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "nymopu", "amount": 3}, {"item": "menibonium", "amount": 3}], "research": "nymopu-conveyor", "category": "distribution", "invert": false}

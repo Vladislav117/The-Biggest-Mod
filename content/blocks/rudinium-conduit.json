@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rudinium conduit", "description": "...", "health": 59, "requirements": [{"item": "rudinium", "amount": 12}, {"item": "gykenium", "amount": 19}, {"item": "zityyanium", "amount": 5}], "liquidCapacity": 36, "liquidPressure": 6, "research": "rudinium-factory", "category": "liquid"}

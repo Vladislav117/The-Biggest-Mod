@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pero battery", "description": "...", "size": 3, "health": 219, "requirements": [{"item": "pero", "amount": 6}, {"item": "fulyzynium", "amount": 1}, {"item": "byzure", "amount": 5}], "research": "pero-factory", "consumes": {"powerBuffered": 955}, "category": "power"}

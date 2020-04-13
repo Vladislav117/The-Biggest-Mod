@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "neletanium conduit", "description": "...", "health": 193, "requirements": [{"item": "neletanium", "amount": 14}, {"item": "lyzecinium", "amount": 18}, {"item": "dowoca", "amount": 10}], "liquidCapacity": 35, "liquidPressure": 4, "research": "neletanium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "guha inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "guha", "amount": 2}, {"item": "zese", "amount": 1}], "research": "guha-conveyor", "category": "distribution", "invert": true}

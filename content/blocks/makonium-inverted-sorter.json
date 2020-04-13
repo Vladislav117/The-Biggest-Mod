@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "makonium inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "makonium", "amount": 3}, {"item": "xikogo", "amount": 3}], "research": "makonium-conveyor", "category": "distribution", "invert": true}

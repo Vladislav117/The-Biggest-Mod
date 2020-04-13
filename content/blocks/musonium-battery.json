@@ -1,0 +1,1 @@
+{"type": "battery", "name": "musonium battery", "description": "...", "size": 3, "health": 129, "requirements": [{"item": "musonium", "amount": 2}, {"item": "yiwonium", "amount": 18}, {"item": "cosizi", "amount": 8}], "research": "musonium-factory", "consumes": {"powerBuffered": 7528}, "category": "power"}

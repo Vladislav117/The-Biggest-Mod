@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "laqunium liquid tank", "description": "...", "health": 319, "size": 3, "requirements": [{"item": "laqunium", "amount": 10}, {"item": "vevudinium", "amount": 8}, {"item": "hebohy", "amount": 7}], "research": "laqunium-conduit", "category": "liquid", "liquidCapacity": 116323, "hasLiquids": true}

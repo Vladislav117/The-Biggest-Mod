@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yebunonium solar panel", "description": "...", "size": 3, "health": 197, "requirements": [{"item": "yebunonium", "amount": 12}, {"item": "vogeco", "amount": 6}, {"item": "vezaya", "amount": 1}], "research": "yebunonium-factory", "powerProduction": 0.21826579282771413, "category": "power"}

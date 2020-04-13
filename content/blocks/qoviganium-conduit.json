@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qoviganium conduit", "description": "...", "health": 20, "requirements": [{"item": "qoviganium", "amount": 14}, {"item": "toma", "amount": 6}, {"item": "tyzonium", "amount": 1}], "liquidCapacity": 18, "liquidPressure": 9, "research": "qoviganium-factory", "category": "liquid"}

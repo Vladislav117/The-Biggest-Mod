@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lotacu conduit", "description": "...", "health": 107, "requirements": [{"item": "lotacu", "amount": 11}, {"item": "siposi", "amount": 1}, {"item": "cezany", "amount": 2}], "liquidCapacity": 15, "liquidPressure": 0, "research": "lotacu-factory", "category": "liquid"}

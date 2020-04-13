@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nijunium junction", "description": "...", "health": 30, "speed": 2, "capacity": 12, "size": 1, "requirements": [{"item": "nijunium", "amount": 3}, {"item": "zawo", "amount": 1}], "research": "nijunium-conveyor", "category": "distribution"}

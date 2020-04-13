@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ninyfe liquid tank", "description": "...", "health": 143, "size": 3, "requirements": [{"item": "ninyfe", "amount": 3}, {"item": "cuwe", "amount": 12}, {"item": "mika", "amount": 10}], "research": "ninyfe-conduit", "category": "liquid", "liquidCapacity": 88389, "hasLiquids": true}

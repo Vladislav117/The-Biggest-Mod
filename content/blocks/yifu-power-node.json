@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yifu power node", "description": "...", "size": 2, "health": 535, "requirements": [{"item": "yifu", "amount": 20}, {"item": "jaju", "amount": 16}, {"item": "jumy", "amount": 5}], "research": "yifu-factory", "maxNodes": 25, "laserRange": 14, "category": "power"}

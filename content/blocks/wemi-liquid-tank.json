@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wemi liquid tank", "description": "...", "health": 665, "size": 3, "requirements": [{"item": "wemi", "amount": 3}, {"item": "wujifi", "amount": 18}, {"item": "tenozo", "amount": 7}], "research": "wemi-conduit", "category": "liquid", "liquidCapacity": 86287, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yeyy liquid tank", "description": "...", "health": 483, "size": 3, "requirements": [{"item": "yeyy", "amount": 13}, {"item": "hakenium", "amount": 13}, {"item": "mimuce", "amount": 3}], "research": "yeyy-conduit", "category": "liquid", "liquidCapacity": 29027, "hasLiquids": true}

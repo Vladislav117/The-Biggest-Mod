@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "weba conduit", "description": "...", "health": 115, "requirements": [{"item": "weba", "amount": 17}, {"item": "fybaze", "amount": 9}, {"item": "lisy", "amount": 10}], "liquidCapacity": 42, "liquidPressure": 7, "research": "weba-factory", "category": "liquid"}

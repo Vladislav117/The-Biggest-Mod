@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jago battery", "description": "...", "size": 3, "health": 44, "requirements": [{"item": "jago", "amount": 8}, {"item": "zese", "amount": 17}, {"item": "nuci", "amount": 2}], "research": "jago-factory", "consumes": {"powerBuffered": 7261}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "diha solar panel", "description": "...", "size": 3, "health": 250, "requirements": [{"item": "diha", "amount": 20}, {"item": "boretu", "amount": 15}, {"item": "pazy", "amount": 1}], "research": "diha-factory", "powerProduction": 2.219498634103606, "category": "power"}

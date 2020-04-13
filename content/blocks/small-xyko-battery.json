@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xyko battery", "description": "...", "size": 1, "health": 222, "requirements": [{"item": "xyko", "amount": 17}, {"item": "nikoru", "amount": 16}, {"item": "sysagu", "amount": 6}], "research": "xyko-factory", "consumes": {"powerBuffered": 2528}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small buji power node", "description": "...", "size": 1, "health": 397, "requirements": [{"item": "buji", "amount": 16}, {"item": "saciwy", "amount": 11}, {"item": "xapu", "amount": 7}], "research": "buji-factory", "maxNodes": 27, "laserRange": 18, "category": "power"}

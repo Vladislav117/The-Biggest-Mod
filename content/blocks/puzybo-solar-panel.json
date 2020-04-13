@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "puzybo solar panel", "description": "...", "size": 3, "health": 303, "requirements": [{"item": "puzybo", "amount": 11}, {"item": "xafi", "amount": 17}, {"item": "muti", "amount": 9}], "research": "puzybo-factory", "powerProduction": 14.09682462456458, "category": "power"}

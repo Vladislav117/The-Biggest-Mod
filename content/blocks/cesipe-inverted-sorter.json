@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cesipe inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "cesipe", "amount": 2}, {"item": "huro", "amount": 2}], "research": "cesipe-conveyor", "category": "distribution", "invert": true}

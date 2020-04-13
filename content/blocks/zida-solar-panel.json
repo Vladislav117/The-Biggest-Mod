@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zida solar panel", "description": "...", "size": 3, "health": 334, "requirements": [{"item": "zida", "amount": 14}, {"item": "hisoye", "amount": 8}, {"item": "jarovu", "amount": 3}], "research": "zida-factory", "powerProduction": 0.34274078046186063, "category": "power"}

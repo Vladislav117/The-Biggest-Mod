@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "labila underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "labila", "amount": 1}, {"item": "xuricy", "amount": 3}], "research": "labila-conveyor", "category": "distribution", "invert": false}

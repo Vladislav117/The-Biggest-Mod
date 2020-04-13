@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "watiju force projector", "description": "...", "health": 160, "size": 3, "consumes": {"power": 5.0, "item": "watiju"}, "requirements": [{"item": "watiju", "amount": 4}, {"item": "bapi", "amount": 2}, {"item": "numuwanium", "amount": 8}], "research": "watiju-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lyzy battery", "description": "...", "size": 3, "health": 126, "requirements": [{"item": "lyzy", "amount": 18}, {"item": "tiwyna", "amount": 5}, {"item": "hyla", "amount": 10}], "research": "lyzy-factory", "consumes": {"powerBuffered": 1379}, "category": "power"}

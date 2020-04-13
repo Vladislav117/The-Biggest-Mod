@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qiri power node", "description": "...", "size": 2, "health": 600, "requirements": [{"item": "qiri", "amount": 4}, {"item": "vuciby", "amount": 17}, {"item": "pomagu", "amount": 6}], "research": "qiri-factory", "maxNodes": 41, "laserRange": 28, "category": "power"}

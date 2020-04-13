@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rivezo battery", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "rivezo", "amount": 6}, {"item": "sebypa", "amount": 3}, {"item": "pyqynium", "amount": 4}], "research": "rivezo-factory", "consumes": {"powerBuffered": 2034}, "category": "power"}

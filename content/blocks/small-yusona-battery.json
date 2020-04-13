@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yusona battery", "description": "...", "size": 1, "health": 251, "requirements": [{"item": "yusona", "amount": 6}, {"item": "ciba", "amount": 15}, {"item": "migy", "amount": 4}], "research": "yusona-factory", "consumes": {"powerBuffered": 787}, "category": "power"}

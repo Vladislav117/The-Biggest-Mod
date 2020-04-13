@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ledugo conduit", "description": "...", "health": 65, "requirements": [{"item": "ledugo", "amount": 9}, {"item": "dihomu", "amount": 15}, {"item": "luta", "amount": 6}], "liquidCapacity": 42, "liquidPressure": 6, "research": "ledugo-factory", "category": "liquid"}

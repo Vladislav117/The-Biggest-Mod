@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lynulo junction", "description": "...", "health": 29, "speed": 18, "capacity": 8, "size": 1, "requirements": [{"item": "lynulo", "amount": 3}, {"item": "depyya", "amount": 5}], "research": "lynulo-conveyor", "category": "distribution"}

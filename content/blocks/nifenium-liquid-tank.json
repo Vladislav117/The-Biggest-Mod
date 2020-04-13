@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nifenium liquid tank", "description": "...", "health": 587, "size": 3, "requirements": [{"item": "nifenium", "amount": 19}, {"item": "yuly", "amount": 13}, {"item": "hyxy", "amount": 8}], "research": "nifenium-conduit", "category": "liquid", "liquidCapacity": 5105, "hasLiquids": true}

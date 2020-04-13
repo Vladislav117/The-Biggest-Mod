@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qypy power node", "description": "...", "size": 1, "health": 241, "requirements": [{"item": "qypy", "amount": 17}, {"item": "lepe", "amount": 12}, {"item": "wywa", "amount": 6}], "research": "qypy-factory", "maxNodes": 4, "laserRange": 4, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cici liquid tank", "description": "...", "health": 562, "size": 3, "requirements": [{"item": "cici", "amount": 13}, {"item": "ceyuwy", "amount": 6}, {"item": "yijotu", "amount": 4}], "research": "cici-conduit", "category": "liquid", "liquidCapacity": 80835, "hasLiquids": true}

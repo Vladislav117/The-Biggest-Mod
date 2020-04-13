@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bavivo liquid tank", "description": "...", "health": 258, "size": 3, "requirements": [{"item": "bavivo", "amount": 1}, {"item": "foky", "amount": 2}, {"item": "xicyru", "amount": 9}], "research": "bavivo-conduit", "category": "liquid", "liquidCapacity": 25227, "hasLiquids": true}

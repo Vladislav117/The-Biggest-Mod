@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "japo power node", "description": "...", "size": 2, "health": 111, "requirements": [{"item": "japo", "amount": 20}, {"item": "gorurenium", "amount": 10}, {"item": "gyhecu", "amount": 8}], "research": "japo-factory", "maxNodes": 23, "laserRange": 24, "category": "power"}

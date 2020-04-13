@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lowapo liquid tank", "description": "...", "health": 482, "size": 3, "requirements": [{"item": "lowapo", "amount": 17}, {"item": "ciqi", "amount": 13}, {"item": "lapydy", "amount": 9}], "research": "lowapo-conduit", "category": "liquid", "liquidCapacity": 91119, "hasLiquids": true}

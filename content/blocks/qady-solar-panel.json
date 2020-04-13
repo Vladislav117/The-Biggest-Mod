@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qady solar panel", "description": "...", "size": 3, "health": 193, "requirements": [{"item": "qady", "amount": 13}, {"item": "cyyenium", "amount": 2}, {"item": "wobuyu", "amount": 4}], "research": "qady-factory", "powerProduction": 0.19574390570990807, "category": "power"}

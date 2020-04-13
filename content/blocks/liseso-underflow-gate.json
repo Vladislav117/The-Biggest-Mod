@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "liseso underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "liseso", "amount": 1}, {"item": "nigynium", "amount": 5}], "research": "liseso-conveyor", "category": "distribution", "invert": false}

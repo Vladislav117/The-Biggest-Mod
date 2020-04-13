@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "wezu overdrive projector", "description": "...", "health": 105, "consumes": {"power": 3.0, "item": "wezu"}, "size": 2, "requirements": [{"item": "wezu", "amount": 16}, {"item": "nogu", "amount": 18}, {"item": "kujodo", "amount": 10}], "research": "wezu-factory", "category": "effect"}

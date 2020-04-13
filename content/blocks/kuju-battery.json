@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kuju battery", "description": "...", "size": 3, "health": 186, "requirements": [{"item": "kuju", "amount": 13}, {"item": "bube", "amount": 19}, {"item": "kurecanium", "amount": 1}], "research": "kuju-factory", "consumes": {"powerBuffered": 1208}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "viza solar panel", "description": "...", "size": 3, "health": 171, "requirements": [{"item": "viza", "amount": 10}, {"item": "reyezy", "amount": 18}, {"item": "juyy", "amount": 1}], "research": "viza-factory", "powerProduction": 0.8354896206713734, "category": "power"}

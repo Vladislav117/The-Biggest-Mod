@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vova solar panel", "description": "...", "size": 1, "health": 289, "requirements": [{"item": "vova", "amount": 20}, {"item": "dohiye", "amount": 9}, {"item": "gahe", "amount": 3}], "research": "vova-factory", "powerProduction": 0.4627255150913576, "category": "power"}

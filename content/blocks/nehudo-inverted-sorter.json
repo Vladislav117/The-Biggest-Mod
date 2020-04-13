@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nehudo inverted sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "nehudo", "amount": 2}, {"item": "qylino", "amount": 2}], "research": "nehudo-conveyor", "category": "distribution", "invert": true}

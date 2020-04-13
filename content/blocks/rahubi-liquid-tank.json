@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rahubi liquid tank", "description": "...", "health": 510, "size": 3, "requirements": [{"item": "rahubi", "amount": 3}, {"item": "mabyce", "amount": 5}, {"item": "sebobe", "amount": 1}], "research": "rahubi-conduit", "category": "liquid", "liquidCapacity": 101157, "hasLiquids": true}

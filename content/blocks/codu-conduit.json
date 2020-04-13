@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "codu conduit", "description": "...", "health": 167, "requirements": [{"item": "codu", "amount": 18}, {"item": "zuhu", "amount": 20}, {"item": "bopu", "amount": 8}], "liquidCapacity": 1, "liquidPressure": 3, "research": "codu-factory", "category": "liquid"}

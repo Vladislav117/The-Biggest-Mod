@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wewaya liquid tank", "description": "...", "health": 414, "size": 3, "requirements": [{"item": "wewaya", "amount": 17}, {"item": "ryte", "amount": 9}, {"item": "ragoku", "amount": 7}], "research": "wewaya-conduit", "category": "liquid", "liquidCapacity": 84054, "hasLiquids": true}

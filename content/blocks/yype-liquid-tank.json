@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yype liquid tank", "description": "...", "health": 217, "size": 3, "requirements": [{"item": "yype", "amount": 7}, {"item": "rymojanium", "amount": 9}, {"item": "hiwahe", "amount": 7}], "research": "yype-conduit", "category": "liquid", "liquidCapacity": 101680, "hasLiquids": true}

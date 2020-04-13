@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fucyra junction", "description": "...", "health": 5, "speed": 13, "capacity": 9, "size": 1, "requirements": [{"item": "fucyra", "amount": 3}, {"item": "gyza", "amount": 3}], "research": "fucyra-conveyor", "category": "distribution"}

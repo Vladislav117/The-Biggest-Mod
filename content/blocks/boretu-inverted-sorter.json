@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "boretu inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "boretu", "amount": 1}, {"item": "nayevynium", "amount": 2}], "research": "boretu-conveyor", "category": "distribution", "invert": true}

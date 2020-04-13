@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "syteja conduit", "description": "...", "health": 199, "requirements": [{"item": "syteja", "amount": 8}, {"item": "sacigi", "amount": 18}, {"item": "graphite", "amount": 8}], "liquidCapacity": 14, "liquidPressure": 10, "research": "syteja-factory", "category": "liquid"}

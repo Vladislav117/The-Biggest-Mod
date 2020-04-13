@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bugyta power node", "description": "...", "size": 1, "health": 188, "requirements": [{"item": "bugyta", "amount": 2}, {"item": "vemame", "amount": 5}, {"item": "befy", "amount": 7}], "research": "bugyta-factory", "maxNodes": 22, "laserRange": 18, "category": "power"}

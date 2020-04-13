@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hikuda underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "hikuda", "amount": 1}, {"item": "xini", "amount": 3}], "research": "hikuda-conveyor", "category": "distribution", "invert": false}

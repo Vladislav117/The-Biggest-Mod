@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wino power node", "description": "...", "size": 2, "health": 364, "requirements": [{"item": "wino", "amount": 8}, {"item": "hyla", "amount": 12}, {"item": "nipapu", "amount": 6}], "research": "wino-factory", "maxNodes": 11, "laserRange": 5, "category": "power"}

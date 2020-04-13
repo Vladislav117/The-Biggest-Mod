@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qimose power node", "description": "...", "size": 2, "health": 259, "requirements": [{"item": "qimose", "amount": 5}, {"item": "thorium", "amount": 17}, {"item": "nuko", "amount": 10}], "research": "qimose-factory", "maxNodes": 40, "laserRange": 16, "category": "power"}

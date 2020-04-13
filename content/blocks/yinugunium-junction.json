@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yinugunium junction", "description": "...", "health": 14, "speed": 20, "capacity": 5, "size": 1, "requirements": [{"item": "yinugunium", "amount": 1}, {"item": "myqide", "amount": 4}], "research": "yinugunium-conveyor", "category": "distribution"}

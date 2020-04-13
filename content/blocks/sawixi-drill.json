@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sawixi drill", "description": "...", "size": 2, "health": 152, "tier": 1, "drillTime": 6, "consumes": {"power": 18}, "requirements": [{"item": "sawixi", "amount": 4}, {"item": "joky", "amount": 11}, {"item": "yyva", "amount": 10}], "research": "sawixi-factory", "category": "production"}

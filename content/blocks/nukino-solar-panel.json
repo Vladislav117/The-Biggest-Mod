@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nukino solar panel", "description": "...", "size": 3, "health": 167, "requirements": [{"item": "nukino", "amount": 10}, {"item": "fyye", "amount": 13}, {"item": "tenuty", "amount": 2}], "research": "nukino-factory", "powerProduction": 0.6158996449205316, "category": "power"}

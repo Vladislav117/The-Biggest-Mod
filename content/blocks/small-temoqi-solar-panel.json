@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small temoqi solar panel", "description": "...", "size": 1, "health": 227, "requirements": [{"item": "temoqi", "amount": 18}, {"item": "jezo", "amount": 16}, {"item": "bugyta", "amount": 2}], "research": "temoqi-factory", "powerProduction": 0.6362652064622364, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fusaji drill", "description": "...", "size": 4, "health": 440, "tier": 2, "drillTime": 1, "consumes": {"power": 16}, "requirements": [{"item": "fusaji", "amount": 17}, {"item": "pyto", "amount": 17}, {"item": "sipynium", "amount": 6}], "research": "fusaji-factory", "category": "production"}

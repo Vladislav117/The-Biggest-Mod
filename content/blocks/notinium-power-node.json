@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "notinium power node", "description": "...", "size": 2, "health": 538, "requirements": [{"item": "notinium", "amount": 15}, {"item": "buhyjanium", "amount": 12}, {"item": "xysu", "amount": 5}], "research": "notinium-factory", "maxNodes": 59, "laserRange": 29, "category": "power"}

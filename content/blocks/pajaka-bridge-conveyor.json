@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pajaka bridge conveyor", "description": "", "health": 15, "range": 15, "speed": 11, "bufferCapacity": 9, "requirements": [{"item": "pajaka", "amount": 4}, {"item": "yytiro", "amount": 5}], "research": "pajaka-conveyor", "category": "distribution", "size": 1}

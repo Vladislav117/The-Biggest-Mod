@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "heqe conduit", "description": "...", "health": 76, "requirements": [{"item": "heqe", "amount": 2}, {"item": "byhonium", "amount": 9}, {"item": "sekele", "amount": 6}], "liquidCapacity": 2, "liquidPressure": 8, "research": "heqe-factory", "category": "liquid"}

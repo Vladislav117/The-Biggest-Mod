@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mava power node", "description": "...", "size": 1, "health": 179, "requirements": [{"item": "mava", "amount": 17}, {"item": "cizi", "amount": 7}, {"item": "zoqa", "amount": 2}], "research": "mava-factory", "maxNodes": 12, "laserRange": 8, "category": "power"}

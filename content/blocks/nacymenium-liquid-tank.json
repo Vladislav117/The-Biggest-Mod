@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nacymenium liquid tank", "description": "...", "health": 173, "size": 3, "requirements": [{"item": "nacymenium", "amount": 18}, {"item": "vykypanium", "amount": 18}, {"item": "rine", "amount": 2}], "research": "nacymenium-conduit", "category": "liquid", "liquidCapacity": 83593, "hasLiquids": true}

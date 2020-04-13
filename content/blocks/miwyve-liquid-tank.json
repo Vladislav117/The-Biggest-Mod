@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "miwyve liquid tank", "description": "...", "health": 196, "size": 3, "requirements": [{"item": "miwyve", "amount": 5}, {"item": "kejinium", "amount": 4}, {"item": "weva", "amount": 7}], "research": "miwyve-conduit", "category": "liquid", "liquidCapacity": 79758, "hasLiquids": true}

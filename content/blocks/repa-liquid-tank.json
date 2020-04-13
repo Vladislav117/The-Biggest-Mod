@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "repa liquid tank", "description": "...", "health": 536, "size": 3, "requirements": [{"item": "repa", "amount": 14}, {"item": "nudo", "amount": 18}, {"item": "tegi", "amount": 7}], "research": "repa-conduit", "category": "liquid", "liquidCapacity": 29028, "hasLiquids": true}

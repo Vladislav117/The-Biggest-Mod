@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jorydy battery", "description": "...", "size": 1, "health": 212, "requirements": [{"item": "jorydy", "amount": 16}, {"item": "xopy", "amount": 16}, {"item": "cedonium", "amount": 2}], "research": "jorydy-factory", "consumes": {"powerBuffered": 2777}, "category": "power"}

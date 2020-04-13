@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "puye underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "puye", "amount": 2}, {"item": "syxidonium", "amount": 5}], "research": "puye-conveyor", "category": "distribution", "invert": false}

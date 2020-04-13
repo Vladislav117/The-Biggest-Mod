@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small boqi power node", "description": "...", "size": 1, "health": 241, "requirements": [{"item": "boqi", "amount": 2}, {"item": "gacy", "amount": 13}, {"item": "haqu", "amount": 10}], "research": "boqi-factory", "maxNodes": 8, "laserRange": 5, "category": "power"}

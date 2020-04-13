@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cyxazi battery", "description": "...", "size": 1, "health": 101, "requirements": [{"item": "cyxazi", "amount": 7}, {"item": "qudeya", "amount": 20}, {"item": "rawynium", "amount": 10}], "research": "cyxazi-factory", "consumes": {"powerBuffered": 2698}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tasanium solar panel", "description": "...", "size": 3, "health": 373, "requirements": [{"item": "tasanium", "amount": 5}, {"item": "gago", "amount": 20}, {"item": "coqinium", "amount": 1}], "research": "tasanium-factory", "powerProduction": 1.3722528920357413, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jahezu conduit", "description": "...", "health": 179, "requirements": [{"item": "jahezu", "amount": 6}, {"item": "pyzemu", "amount": 6}, {"item": "yupo", "amount": 7}], "liquidCapacity": 4, "liquidPressure": 6, "research": "jahezu-factory", "category": "liquid"}

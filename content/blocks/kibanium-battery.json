@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kibanium battery", "description": "...", "size": 3, "health": 44, "requirements": [{"item": "kibanium", "amount": 18}, {"item": "gedo", "amount": 16}, {"item": "tygunium", "amount": 1}], "research": "kibanium-factory", "consumes": {"powerBuffered": 4529}, "category": "power"}

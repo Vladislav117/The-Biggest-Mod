@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qoha solar panel", "description": "...", "size": 1, "health": 124, "requirements": [{"item": "qoha", "amount": 14}, {"item": "qiwypa", "amount": 7}, {"item": "totiji", "amount": 6}], "research": "qoha-factory", "powerProduction": 1.4580669493356333, "category": "power"}

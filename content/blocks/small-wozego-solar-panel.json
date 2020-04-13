@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wozego solar panel", "description": "...", "size": 1, "health": 262, "requirements": [{"item": "wozego", "amount": 2}, {"item": "wapo", "amount": 10}, {"item": "zyqita", "amount": 7}], "research": "wozego-factory", "powerProduction": 0.43811424656633935, "category": "power"}

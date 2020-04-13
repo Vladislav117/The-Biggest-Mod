@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wirynium underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "wirynium", "amount": 2}, {"item": "patyco", "amount": 1}], "research": "wirynium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hako conduit", "description": "...", "health": 46, "requirements": [{"item": "hako", "amount": 16}, {"item": "daxury", "amount": 4}, {"item": "qepisu", "amount": 8}], "liquidCapacity": 33, "liquidPressure": 7, "research": "hako-factory", "category": "liquid"}

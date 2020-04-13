@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ryxaro solar panel", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "ryxaro", "amount": 13}, {"item": "litilenium", "amount": 1}, {"item": "taxidy", "amount": 7}], "research": "ryxaro-factory", "powerProduction": 0.16495076238240605, "category": "power"}

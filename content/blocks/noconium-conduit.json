@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "noconium conduit", "description": "...", "health": 20, "requirements": [{"item": "noconium", "amount": 6}, {"item": "qera", "amount": 9}, {"item": "diwyci", "amount": 7}], "liquidCapacity": 43, "liquidPressure": 9, "research": "noconium-factory", "category": "liquid"}

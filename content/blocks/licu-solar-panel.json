@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "licu solar panel", "description": "...", "size": 3, "health": 165, "requirements": [{"item": "licu", "amount": 6}, {"item": "zosi", "amount": 19}, {"item": "cosa", "amount": 6}], "research": "licu-factory", "powerProduction": 3.0775525147238665, "category": "power"}

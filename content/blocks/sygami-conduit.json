@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sygami conduit", "description": "...", "health": 25, "requirements": [{"item": "sygami", "amount": 3}, {"item": "duvi", "amount": 7}, {"item": "kery", "amount": 1}], "liquidCapacity": 34, "liquidPressure": 5, "research": "sygami-factory", "category": "liquid"}

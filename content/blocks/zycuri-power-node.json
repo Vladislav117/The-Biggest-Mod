@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zycuri power node", "description": "...", "size": 2, "health": 236, "requirements": [{"item": "zycuri", "amount": 12}, {"item": "gohi", "amount": 12}, {"item": "yufava", "amount": 6}], "research": "zycuri-factory", "maxNodes": 35, "laserRange": 9, "category": "power"}

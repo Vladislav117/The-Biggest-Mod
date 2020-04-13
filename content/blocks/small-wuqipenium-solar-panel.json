@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wuqipenium solar panel", "description": "...", "size": 1, "health": 317, "requirements": [{"item": "wuqipenium", "amount": 8}, {"item": "fygonium", "amount": 12}, {"item": "fuwo", "amount": 6}], "research": "wuqipenium-factory", "powerProduction": 2.525851831165926, "category": "power"}

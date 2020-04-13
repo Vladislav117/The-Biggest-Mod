@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yywy battery", "description": "...", "size": 3, "health": 343, "requirements": [{"item": "yywy", "amount": 13}, {"item": "hihunium", "amount": 18}, {"item": "hivesy", "amount": 4}], "research": "yywy-factory", "consumes": {"powerBuffered": 7654}, "category": "power"}

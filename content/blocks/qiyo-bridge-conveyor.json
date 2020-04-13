@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qiyo bridge conveyor", "description": "", "health": 45, "range": 16, "speed": 11, "bufferCapacity": 4, "requirements": [{"item": "qiyo", "amount": 3}, {"item": "linu", "amount": 3}], "research": "qiyo-conveyor", "category": "distribution", "size": 1}

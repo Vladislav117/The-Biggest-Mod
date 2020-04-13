@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pywy conduit", "description": "...", "health": 48, "requirements": [{"item": "pywy", "amount": 13}, {"item": "zydu", "amount": 1}, {"item": "xonanium", "amount": 5}], "liquidCapacity": 49, "liquidPressure": 3, "research": "pywy-factory", "category": "liquid"}

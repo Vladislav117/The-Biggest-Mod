@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bipanium power node", "description": "...", "size": 1, "health": 242, "requirements": [{"item": "bipanium", "amount": 13}, {"item": "vudaxy", "amount": 18}, {"item": "vevudinium", "amount": 5}], "research": "bipanium-factory", "maxNodes": 26, "laserRange": 11, "category": "power"}

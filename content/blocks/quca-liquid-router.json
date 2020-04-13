@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "quca liquid router", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "quca", "amount": 4}, {"item": "hyvyje", "amount": 6}, {"item": "jiyomonium", "amount": 5}], "research": "quca-conduit", "liquidCapacity": 10, "category": "liquid"}

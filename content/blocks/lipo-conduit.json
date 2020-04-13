@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lipo conduit", "description": "...", "health": 193, "requirements": [{"item": "lipo", "amount": 17}, {"item": "bajenium", "amount": 3}, {"item": "cudo", "amount": 1}], "liquidCapacity": 41, "liquidPressure": 5, "research": "lipo-factory", "category": "liquid"}

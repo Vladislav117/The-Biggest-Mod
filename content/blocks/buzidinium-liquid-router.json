@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "buzidinium liquid router", "description": "...", "size": 1, "health": 67, "requirements": [{"item": "buzidinium", "amount": 15}, {"item": "zobopanium", "amount": 4}, {"item": "fexenium", "amount": 5}], "research": "buzidinium-conduit", "liquidCapacity": 10, "category": "liquid"}

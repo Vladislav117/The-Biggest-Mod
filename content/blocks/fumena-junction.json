@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fumena junction", "description": "...", "health": 32, "speed": 15, "capacity": 13, "size": 1, "requirements": [{"item": "fumena", "amount": 4}, {"item": "jarovu", "amount": 1}], "research": "fumena-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qoxida underflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "qoxida", "amount": 2}, {"item": "danitu", "amount": 1}], "research": "qoxida-conveyor", "category": "distribution", "invert": false}

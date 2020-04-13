@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qatoya drill", "description": "...", "size": 2, "health": 179, "tier": 4, "drillTime": 20, "consumes": {"power": 14}, "requirements": [{"item": "qatoya", "amount": 15}, {"item": "minu", "amount": 7}, {"item": "docinium", "amount": 8}], "research": "qatoya-factory", "category": "production"}

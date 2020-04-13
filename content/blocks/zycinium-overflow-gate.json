@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zycinium overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "zycinium", "amount": 4}, {"item": "nagu", "amount": 2}], "research": "zycinium-conveyor", "category": "distribution", "invert": false}

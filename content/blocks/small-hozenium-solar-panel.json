@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hozenium solar panel", "description": "...", "size": 1, "health": 230, "requirements": [{"item": "hozenium", "amount": 20}, {"item": "qolo", "amount": 4}, {"item": "nupafu", "amount": 4}], "research": "hozenium-factory", "powerProduction": 1.4025882379522805, "category": "power"}

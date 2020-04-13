@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yudafa battery", "description": "...", "size": 1, "health": 249, "requirements": [{"item": "yudafa", "amount": 2}, {"item": "kikanium", "amount": 17}, {"item": "jeqidynium", "amount": 5}], "research": "yudafa-factory", "consumes": {"powerBuffered": 2290}, "category": "power"}

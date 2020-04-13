@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vanofi conduit", "description": "...", "health": 160, "requirements": [{"item": "vanofi", "amount": 14}, {"item": "fukapinium", "amount": 7}, {"item": "lurenium", "amount": 9}], "liquidCapacity": 25, "liquidPressure": 8, "research": "vanofi-factory", "category": "liquid"}

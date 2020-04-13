@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zenuwunium sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "zenuwunium", "amount": 1}, {"item": "bomynium", "amount": 5}], "research": "zenuwunium-conveyor", "category": "distribution", "invert": false}

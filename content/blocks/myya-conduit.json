@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "myya conduit", "description": "...", "health": 48, "requirements": [{"item": "myya", "amount": 3}, {"item": "capa", "amount": 13}, {"item": "lowe", "amount": 9}], "liquidCapacity": 4, "liquidPressure": 7, "research": "myya-factory", "category": "liquid"}

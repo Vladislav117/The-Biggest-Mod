@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "neqose liquid tank", "description": "...", "health": 193, "size": 3, "requirements": [{"item": "neqose", "amount": 20}, {"item": "gifonium", "amount": 4}, {"item": "kexebinium", "amount": 1}], "research": "neqose-conduit", "category": "liquid", "liquidCapacity": 109854, "hasLiquids": true}

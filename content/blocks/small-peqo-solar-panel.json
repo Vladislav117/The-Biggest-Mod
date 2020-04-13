@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small peqo solar panel", "description": "...", "size": 1, "health": 187, "requirements": [{"item": "peqo", "amount": 16}, {"item": "gapa", "amount": 2}, {"item": "niqe", "amount": 10}], "research": "peqo-factory", "powerProduction": 0.04544295258968493, "category": "power"}

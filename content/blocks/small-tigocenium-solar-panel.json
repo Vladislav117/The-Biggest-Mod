@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tigocenium solar panel", "description": "...", "size": 1, "health": 331, "requirements": [{"item": "tigocenium", "amount": 10}, {"item": "loja", "amount": 12}, {"item": "ziwa", "amount": 4}], "research": "tigocenium-factory", "powerProduction": 2.080647844977934, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hudunium battery", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "hudunium", "amount": 14}, {"item": "zodo", "amount": 14}, {"item": "rocihy", "amount": 6}], "research": "hudunium-factory", "consumes": {"powerBuffered": 2183}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zorudy battery", "description": "...", "size": 1, "health": 241, "requirements": [{"item": "zorudy", "amount": 8}, {"item": "nimawo", "amount": 3}, {"item": "mowu", "amount": 7}], "research": "zorudy-factory", "consumes": {"powerBuffered": 219}, "category": "power"}

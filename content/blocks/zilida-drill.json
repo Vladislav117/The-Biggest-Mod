@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zilida drill", "description": "...", "size": 2, "health": 104, "tier": 4, "drillTime": 20, "consumes": {"power": 15}, "requirements": [{"item": "zilida", "amount": 14}, {"item": "fulyzynium", "amount": 5}, {"item": "sarijynium", "amount": 10}], "research": "zilida-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jazipynium sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "jazipynium", "amount": 2}, {"item": "beronium", "amount": 1}], "research": "jazipynium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "husysi solar panel", "description": "...", "size": 3, "health": 303, "requirements": [{"item": "husysi", "amount": 16}, {"item": "tujy", "amount": 10}, {"item": "fure", "amount": 6}], "research": "husysi-factory", "powerProduction": 0.18414932910856305, "category": "power"}

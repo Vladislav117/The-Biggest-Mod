@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tajapi underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "tajapi", "amount": 4}, {"item": "xavidu", "amount": 4}], "research": "tajapi-conveyor", "category": "distribution", "invert": false}

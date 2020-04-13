@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ceciba overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "ceciba", "amount": 4}, {"item": "nejesu", "amount": 5}], "research": "ceciba-conveyor", "category": "distribution", "invert": false}

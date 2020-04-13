@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "huky conveyor", "description": "...", "health": 222, "requirements": [{"item": "huky", "amount": 8}, {"item": "cafe", "amount": 4}], "speed": 0.2756411562075754, "research": "huky-factory", "category": "distribution"}

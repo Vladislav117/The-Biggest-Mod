@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yicavu solar panel", "description": "...", "size": 3, "health": 77, "requirements": [{"item": "yicavu", "amount": 3}, {"item": "rateju", "amount": 3}, {"item": "labila", "amount": 1}], "research": "yicavu-factory", "powerProduction": 0.3259532328726004, "category": "power"}

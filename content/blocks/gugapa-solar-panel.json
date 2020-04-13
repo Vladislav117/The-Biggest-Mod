@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gugapa solar panel", "description": "...", "size": 3, "health": 46, "requirements": [{"item": "gugapa", "amount": 16}, {"item": "kymu", "amount": 3}, {"item": "kihyda", "amount": 9}], "research": "gugapa-factory", "powerProduction": 1.4335055489772073, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nigynium battery", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "nigynium", "amount": 10}, {"item": "joluxinium", "amount": 18}, {"item": "gino", "amount": 1}], "research": "nigynium-factory", "consumes": {"powerBuffered": 2840}, "category": "power"}

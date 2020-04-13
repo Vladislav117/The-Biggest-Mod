@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kokyya liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "kokyya", "amount": 2}, {"item": "peze", "amount": 13}, {"item": "sekele", "amount": 7}], "research": "kokyya-conduit", "liquidCapacity": 10, "category": "liquid"}

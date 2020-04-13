@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ligyxe battery", "description": "...", "size": 1, "health": 158, "requirements": [{"item": "ligyxe", "amount": 11}, {"item": "wywa", "amount": 9}, {"item": "xuxyvo", "amount": 3}], "research": "ligyxe-factory", "consumes": {"powerBuffered": 2679}, "category": "power"}

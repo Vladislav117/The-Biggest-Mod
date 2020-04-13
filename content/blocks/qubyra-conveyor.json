@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "qubyra conveyor", "description": "...", "health": 108, "requirements": [{"item": "qubyra", "amount": 10}, {"item": "wace", "amount": 4}], "speed": 0.4186500025384213, "research": "qubyra-factory", "category": "distribution"}

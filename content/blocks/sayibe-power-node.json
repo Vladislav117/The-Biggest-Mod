@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sayibe power node", "description": "...", "size": 2, "health": 688, "requirements": [{"item": "sayibe", "amount": 16}, {"item": "qafy", "amount": 11}, {"item": "vohiyynium", "amount": 9}], "research": "sayibe-factory", "maxNodes": 51, "laserRange": 9, "category": "power"}

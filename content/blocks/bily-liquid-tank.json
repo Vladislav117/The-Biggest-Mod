@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bily liquid tank", "description": "...", "health": 513, "size": 3, "requirements": [{"item": "bily", "amount": 18}, {"item": "sylyxy", "amount": 19}, {"item": "padopu", "amount": 10}], "research": "bily-conduit", "category": "liquid", "liquidCapacity": 18347, "hasLiquids": true}

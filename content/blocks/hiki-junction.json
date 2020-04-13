@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hiki junction", "description": "...", "health": 44, "speed": 19, "capacity": 15, "size": 1, "requirements": [{"item": "hiki", "amount": 1}, {"item": "xynice", "amount": 1}], "research": "hiki-conveyor", "category": "distribution"}

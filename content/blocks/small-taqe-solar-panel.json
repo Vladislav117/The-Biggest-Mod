@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small taqe solar panel", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "taqe", "amount": 18}, {"item": "vinizy", "amount": 8}, {"item": "jigame", "amount": 8}], "research": "taqe-factory", "powerProduction": 1.801500351133135, "category": "power"}

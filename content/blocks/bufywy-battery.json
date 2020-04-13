@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bufywy battery", "description": "...", "size": 3, "health": 94, "requirements": [{"item": "bufywy", "amount": 2}, {"item": "kawo", "amount": 4}, {"item": "zoqivanium", "amount": 4}], "research": "bufywy-factory", "consumes": {"powerBuffered": 6336}, "category": "power"}

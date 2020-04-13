@@ -1,0 +1,1 @@
+{"type": "junction", "name": "majo junction", "description": "...", "health": 18, "speed": 6, "capacity": 6, "size": 1, "requirements": [{"item": "majo", "amount": 1}, {"item": "jodezu", "amount": 4}], "research": "majo-conveyor", "category": "distribution"}

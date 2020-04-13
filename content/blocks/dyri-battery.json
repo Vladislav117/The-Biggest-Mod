@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dyri battery", "description": "...", "size": 3, "health": 204, "requirements": [{"item": "dyri", "amount": 20}, {"item": "yeli", "amount": 20}, {"item": "hiqasynium", "amount": 8}], "research": "dyri-factory", "consumes": {"powerBuffered": 8252}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yypefa bridge conveyor", "description": "", "health": 16, "range": 7, "speed": 17, "bufferCapacity": 20, "requirements": [{"item": "yypefa", "amount": 5}, {"item": "judu", "amount": 4}], "research": "yypefa-conveyor", "category": "distribution", "size": 1}

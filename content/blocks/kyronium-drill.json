@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kyronium drill", "description": "...", "size": 4, "health": 317, "tier": 4, "drillTime": 9, "consumes": {"power": 20}, "requirements": [{"item": "kyronium", "amount": 14}, {"item": "migube", "amount": 2}, {"item": "rahasunium", "amount": 6}], "research": "kyronium-factory", "category": "production"}

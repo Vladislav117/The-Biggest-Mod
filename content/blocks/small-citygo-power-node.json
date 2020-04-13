@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small citygo power node", "description": "...", "size": 1, "health": 107, "requirements": [{"item": "citygo", "amount": 9}, {"item": "zoqa", "amount": 19}, {"item": "diyajy", "amount": 9}], "research": "citygo-factory", "maxNodes": 2, "laserRange": 10, "category": "power"}

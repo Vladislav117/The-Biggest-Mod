@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zada liquid tank", "description": "...", "health": 353, "size": 3, "requirements": [{"item": "zada", "amount": 13}, {"item": "nudequ", "amount": 4}, {"item": "neloto", "amount": 10}], "research": "zada-conduit", "category": "liquid", "liquidCapacity": 11088, "hasLiquids": true}

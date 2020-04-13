@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cobe conduit", "description": "...", "health": 107, "requirements": [{"item": "cobe", "amount": 4}, {"item": "bomu", "amount": 19}, {"item": "kure", "amount": 2}], "liquidCapacity": 16, "liquidPressure": 0, "research": "cobe-factory", "category": "liquid"}

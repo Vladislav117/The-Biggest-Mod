@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fyfe sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "fyfe", "amount": 1}, {"item": "xydume", "amount": 3}], "research": "fyfe-conveyor", "category": "distribution", "invert": false}

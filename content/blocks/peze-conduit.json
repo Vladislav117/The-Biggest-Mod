@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "peze conduit", "description": "...", "health": 140, "requirements": [{"item": "peze", "amount": 11}, {"item": "kanuya", "amount": 10}, {"item": "lisaca", "amount": 2}], "liquidCapacity": 23, "liquidPressure": 4, "research": "peze-factory", "category": "liquid"}

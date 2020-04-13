@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kimicy sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "kimicy", "amount": 2}, {"item": "zuvy", "amount": 5}], "research": "kimicy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mizu solar panel", "description": "...", "size": 1, "health": 225, "requirements": [{"item": "mizu", "amount": 16}, {"item": "mufosinium", "amount": 20}, {"item": "yamyri", "amount": 5}], "research": "mizu-factory", "powerProduction": 7.144567183921031, "category": "power"}

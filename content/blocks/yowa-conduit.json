@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yowa conduit", "description": "...", "health": 32, "requirements": [{"item": "yowa", "amount": 2}, {"item": "zazinium", "amount": 2}, {"item": "life", "amount": 5}], "liquidCapacity": 5, "liquidPressure": 10, "research": "yowa-factory", "category": "liquid"}

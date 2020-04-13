@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qymanium battery", "description": "...", "size": 3, "health": 148, "requirements": [{"item": "qymanium", "amount": 10}, {"item": "vawa", "amount": 16}, {"item": "zegili", "amount": 2}], "research": "qymanium-factory", "consumes": {"powerBuffered": 3949}, "category": "power"}

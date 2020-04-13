@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fodeby battery", "description": "...", "size": 3, "health": 255, "requirements": [{"item": "fodeby", "amount": 6}, {"item": "desadu", "amount": 14}, {"item": "mewy", "amount": 9}], "research": "fodeby-factory", "consumes": {"powerBuffered": 1480}, "category": "power"}

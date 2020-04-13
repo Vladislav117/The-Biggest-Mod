@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "numuwanium conduit", "description": "...", "health": 99, "requirements": [{"item": "numuwanium", "amount": 15}, {"item": "jewa", "amount": 5}, {"item": "kyte", "amount": 5}], "liquidCapacity": 47, "liquidPressure": 3, "research": "numuwanium-factory", "category": "liquid"}

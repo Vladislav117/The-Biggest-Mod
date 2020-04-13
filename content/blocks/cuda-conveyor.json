@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "cuda conveyor", "description": "...", "health": 326, "requirements": [{"item": "cuda", "amount": 7}, {"item": "byhonium", "amount": 7}], "speed": 0.047479445801186515, "research": "cuda-factory", "category": "distribution"}

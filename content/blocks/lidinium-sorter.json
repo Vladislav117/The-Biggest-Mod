@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lidinium sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "lidinium", "amount": 5}, {"item": "yify", "amount": 2}], "research": "lidinium-conveyor", "category": "distribution", "invert": false}

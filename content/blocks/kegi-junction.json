@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kegi junction", "description": "...", "health": 35, "speed": 12, "capacity": 10, "size": 1, "requirements": [{"item": "kegi", "amount": 1}, {"item": "vego", "amount": 5}], "research": "kegi-conveyor", "category": "distribution"}

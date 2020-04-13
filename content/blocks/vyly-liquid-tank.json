@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vyly liquid tank", "description": "...", "health": 198, "size": 3, "requirements": [{"item": "vyly", "amount": 17}, {"item": "gypunium", "amount": 12}, {"item": "gepe", "amount": 5}], "research": "vyly-conduit", "category": "liquid", "liquidCapacity": 23418, "hasLiquids": true}

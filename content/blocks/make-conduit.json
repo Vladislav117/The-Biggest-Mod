@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "make conduit", "description": "...", "health": 70, "requirements": [{"item": "make", "amount": 5}, {"item": "niqy", "amount": 5}, {"item": "vate", "amount": 7}], "liquidCapacity": 12, "liquidPressure": 10, "research": "make-factory", "category": "liquid"}

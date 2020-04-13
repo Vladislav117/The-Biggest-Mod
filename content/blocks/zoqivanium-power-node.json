@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zoqivanium power node", "description": "...", "size": 2, "health": 24, "requirements": [{"item": "zoqivanium", "amount": 17}, {"item": "rysi", "amount": 6}, {"item": "jaweki", "amount": 8}], "research": "zoqivanium-factory", "maxNodes": 54, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nixigunium conduit", "description": "...", "health": 54, "requirements": [{"item": "nixigunium", "amount": 7}, {"item": "qeyanium", "amount": 7}, {"item": "pudoki", "amount": 8}], "liquidCapacity": 1, "liquidPressure": 9, "research": "nixigunium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fyfy solar panel", "description": "...", "size": 1, "health": 211, "requirements": [{"item": "fyfy", "amount": 20}, {"item": "yila", "amount": 13}, {"item": "byhonium", "amount": 8}], "research": "fyfy-factory", "powerProduction": 0.20280446345342762, "category": "power"}

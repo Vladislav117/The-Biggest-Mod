@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyzo liquid tank", "description": "...", "health": 228, "size": 3, "requirements": [{"item": "zyzo", "amount": 12}, {"item": "menode", "amount": 18}, {"item": "bacicu", "amount": 1}], "research": "zyzo-conduit", "category": "liquid", "liquidCapacity": 79176, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "reqynu junction", "description": "...", "health": 33, "speed": 3, "capacity": 12, "size": 1, "requirements": [{"item": "reqynu", "amount": 3}, {"item": "kywowa", "amount": 5}], "research": "reqynu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bopa bridge conveyor", "description": "", "health": 40, "range": 20, "speed": 13, "bufferCapacity": 1, "requirements": [{"item": "bopa", "amount": 2}, {"item": "yypuqynium", "amount": 1}], "research": "bopa-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vawybo overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "vawybo", "amount": 4}, {"item": "moje", "amount": 5}], "research": "vawybo-conveyor", "category": "distribution", "invert": false}

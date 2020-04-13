@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fyxoco junction", "description": "...", "health": 23, "speed": 9, "capacity": 13, "size": 1, "requirements": [{"item": "fyxoco", "amount": 4}, {"item": "mice", "amount": 2}], "research": "fyxoco-conveyor", "category": "distribution"}

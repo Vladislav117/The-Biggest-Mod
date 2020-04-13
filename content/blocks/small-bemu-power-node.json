@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bemu power node", "description": "...", "size": 1, "health": 94, "requirements": [{"item": "bemu", "amount": 11}, {"item": "jetu", "amount": 1}, {"item": "wapalu", "amount": 9}], "research": "bemu-factory", "maxNodes": 5, "laserRange": 25, "category": "power"}

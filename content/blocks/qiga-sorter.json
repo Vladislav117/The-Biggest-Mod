@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qiga sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "qiga", "amount": 5}, {"item": "fahi", "amount": 2}], "research": "qiga-conveyor", "category": "distribution", "invert": false}

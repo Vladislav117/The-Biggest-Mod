@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tasinium bridge conveyor", "description": "", "health": 7, "range": 11, "speed": 18, "bufferCapacity": 7, "requirements": [{"item": "tasinium", "amount": 5}, {"item": "gupyfi", "amount": 1}], "research": "tasinium-conveyor", "category": "distribution", "size": 1}

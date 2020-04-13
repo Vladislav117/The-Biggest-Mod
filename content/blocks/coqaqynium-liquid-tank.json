@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "coqaqynium liquid tank", "description": "...", "health": 306, "size": 3, "requirements": [{"item": "coqaqynium", "amount": 13}, {"item": "kyqedu", "amount": 7}, {"item": "gadanium", "amount": 2}], "research": "coqaqynium-conduit", "category": "liquid", "liquidCapacity": 13205, "hasLiquids": true}

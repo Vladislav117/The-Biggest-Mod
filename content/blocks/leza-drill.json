@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "leza drill", "description": "...", "size": 2, "health": 143, "tier": 4, "drillTime": 8, "consumes": {"power": 16}, "requirements": [{"item": "leza", "amount": 4}, {"item": "gumuto", "amount": 13}, {"item": "fobinium", "amount": 8}], "research": "leza-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small devo power node", "description": "...", "size": 1, "health": 149, "requirements": [{"item": "devo", "amount": 1}, {"item": "hagunium", "amount": 13}, {"item": "lewanium", "amount": 5}], "research": "devo-factory", "maxNodes": 25, "laserRange": 9, "category": "power"}

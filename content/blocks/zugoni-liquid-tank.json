@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zugoni liquid tank", "description": "...", "health": 455, "size": 3, "requirements": [{"item": "zugoni", "amount": 17}, {"item": "xiga", "amount": 18}, {"item": "titanium", "amount": 10}], "research": "zugoni-conduit", "category": "liquid", "liquidCapacity": 86105, "hasLiquids": true}

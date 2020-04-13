@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vido solar panel", "description": "...", "size": 3, "health": 60, "requirements": [{"item": "vido", "amount": 8}, {"item": "jamidi", "amount": 14}, {"item": "mucige", "amount": 6}], "research": "vido-factory", "powerProduction": 3.826437045121494, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cigapo battery", "description": "...", "size": 1, "health": 104, "requirements": [{"item": "cigapo", "amount": 14}, {"item": "laso", "amount": 18}, {"item": "moki", "amount": 5}], "research": "cigapo-factory", "consumes": {"powerBuffered": 244}, "category": "power"}

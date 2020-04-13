@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kosizi power node", "description": "...", "size": 1, "health": 143, "requirements": [{"item": "kosizi", "amount": 5}, {"item": "huci", "amount": 16}, {"item": "hymonium", "amount": 4}], "research": "kosizi-factory", "maxNodes": 27, "laserRange": 18, "category": "power"}

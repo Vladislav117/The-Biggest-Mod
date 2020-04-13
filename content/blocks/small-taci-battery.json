@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small taci battery", "description": "...", "size": 1, "health": 224, "requirements": [{"item": "taci", "amount": 3}, {"item": "neda", "amount": 10}, {"item": "byre", "amount": 5}], "research": "taci-factory", "consumes": {"powerBuffered": 2012}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "neno power node", "description": "...", "size": 2, "health": 492, "requirements": [{"item": "neno", "amount": 12}, {"item": "wemenium", "amount": 4}, {"item": "jufyxo", "amount": 10}], "research": "neno-factory", "maxNodes": 45, "laserRange": 22, "category": "power"}

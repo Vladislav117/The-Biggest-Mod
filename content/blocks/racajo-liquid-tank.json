@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "racajo liquid tank", "description": "...", "health": 394, "size": 3, "requirements": [{"item": "racajo", "amount": 3}, {"item": "qujunium", "amount": 2}, {"item": "xiga", "amount": 7}], "research": "racajo-conduit", "category": "liquid", "liquidCapacity": 53526, "hasLiquids": true}

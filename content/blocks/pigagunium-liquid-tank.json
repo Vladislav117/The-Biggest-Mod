@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pigagunium liquid tank", "description": "...", "health": 159, "size": 3, "requirements": [{"item": "pigagunium", "amount": 6}, {"item": "gonu", "amount": 18}, {"item": "maveju", "amount": 7}], "research": "pigagunium-conduit", "category": "liquid", "liquidCapacity": 115742, "hasLiquids": true}

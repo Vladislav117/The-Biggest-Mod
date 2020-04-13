@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wypa liquid tank", "description": "...", "health": 668, "size": 3, "requirements": [{"item": "wypa", "amount": 1}, {"item": "fuqyty", "amount": 8}, {"item": "dejoqonium", "amount": 6}], "research": "wypa-conduit", "category": "liquid", "liquidCapacity": 86498, "hasLiquids": true}

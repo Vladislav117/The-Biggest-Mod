@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qyjysu battery", "description": "...", "size": 1, "health": 250, "requirements": [{"item": "qyjysu", "amount": 14}, {"item": "hyzafenium", "amount": 14}, {"item": "cuso", "amount": 6}], "research": "qyjysu-factory", "consumes": {"powerBuffered": 355}, "category": "power"}

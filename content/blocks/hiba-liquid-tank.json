@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hiba liquid tank", "description": "...", "health": 474, "size": 3, "requirements": [{"item": "hiba", "amount": 6}, {"item": "wobuyu", "amount": 12}, {"item": "kiqeganium", "amount": 10}], "research": "hiba-conduit", "category": "liquid", "liquidCapacity": 76763, "hasLiquids": true}

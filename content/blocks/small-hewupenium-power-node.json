@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hewupenium power node", "description": "...", "size": 1, "health": 21, "requirements": [{"item": "hewupenium", "amount": 13}, {"item": "saze", "amount": 19}, {"item": "dogequ", "amount": 10}], "research": "hewupenium-factory", "maxNodes": 14, "laserRange": 6, "category": "power"}

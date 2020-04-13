@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "heke liquid tank", "description": "...", "health": 121, "size": 3, "requirements": [{"item": "heke", "amount": 4}, {"item": "kawo", "amount": 20}, {"item": "wore", "amount": 10}], "research": "heke-conduit", "category": "liquid", "liquidCapacity": 95551, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nytina battery", "description": "...", "size": 1, "health": 376, "requirements": [{"item": "nytina", "amount": 5}, {"item": "vosixe", "amount": 6}, {"item": "mijynium", "amount": 8}], "research": "nytina-factory", "consumes": {"powerBuffered": 1791}, "category": "power"}

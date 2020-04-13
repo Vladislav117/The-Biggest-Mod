@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "niqy liquid tank", "description": "...", "health": 409, "size": 3, "requirements": [{"item": "niqy", "amount": 10}, {"item": "rymojanium", "amount": 2}, {"item": "lisaca", "amount": 8}], "research": "niqy-conduit", "category": "liquid", "liquidCapacity": 34791, "hasLiquids": true}

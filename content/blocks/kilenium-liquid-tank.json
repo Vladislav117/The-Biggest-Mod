@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kilenium liquid tank", "description": "...", "health": 658, "size": 3, "requirements": [{"item": "kilenium", "amount": 6}, {"item": "buro", "amount": 19}, {"item": "cymaca", "amount": 7}], "research": "kilenium-conduit", "category": "liquid", "liquidCapacity": 54182, "hasLiquids": true}

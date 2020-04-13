@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sebutu liquid tank", "description": "...", "health": 357, "size": 3, "requirements": [{"item": "sebutu", "amount": 14}, {"item": "vevi", "amount": 14}, {"item": "duhexi", "amount": 9}], "research": "sebutu-conduit", "category": "liquid", "liquidCapacity": 100028, "hasLiquids": true}

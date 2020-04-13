@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tepe battery", "description": "...", "size": 3, "health": 118, "requirements": [{"item": "tepe", "amount": 7}, {"item": "lynu", "amount": 2}, {"item": "yidugonium", "amount": 5}], "research": "tepe-factory", "consumes": {"powerBuffered": 8433}, "category": "power"}

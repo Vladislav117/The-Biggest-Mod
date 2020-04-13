@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mywa battery", "description": "...", "size": 3, "health": 132, "requirements": [{"item": "mywa", "amount": 19}, {"item": "mucige", "amount": 17}, {"item": "direme", "amount": 10}], "research": "mywa-factory", "consumes": {"powerBuffered": 3754}, "category": "power"}

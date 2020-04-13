@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kigi inverted sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "kigi", "amount": 4}, {"item": "qyfe", "amount": 1}], "research": "kigi-conveyor", "category": "distribution", "invert": true}

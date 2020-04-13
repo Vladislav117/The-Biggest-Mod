@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pykeby conduit", "description": "...", "health": 145, "requirements": [{"item": "pykeby", "amount": 13}, {"item": "lesyha", "amount": 16}, {"item": "kopyto", "amount": 9}], "liquidCapacity": 1, "liquidPressure": 9, "research": "pykeby-factory", "category": "liquid"}

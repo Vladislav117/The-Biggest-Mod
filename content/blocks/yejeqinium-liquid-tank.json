@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yejeqinium liquid tank", "description": "...", "health": 655, "size": 3, "requirements": [{"item": "yejeqinium", "amount": 18}, {"item": "kyqu", "amount": 2}, {"item": "ceyi", "amount": 6}], "research": "yejeqinium-conduit", "category": "liquid", "liquidCapacity": 47670, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yepi bridge conveyor", "description": "", "health": 35, "range": 10, "speed": 11, "bufferCapacity": 3, "requirements": [{"item": "yepi", "amount": 1}, {"item": "leyyde", "amount": 4}], "research": "yepi-conveyor", "category": "distribution", "size": 1}

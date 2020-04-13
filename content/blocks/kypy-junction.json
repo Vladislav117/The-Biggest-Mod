@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kypy junction", "description": "...", "health": 7, "speed": 20, "capacity": 19, "size": 1, "requirements": [{"item": "kypy", "amount": 5}, {"item": "yype", "amount": 1}], "research": "kypy-conveyor", "category": "distribution"}

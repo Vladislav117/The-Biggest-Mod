@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yonegi liquid tank", "description": "...", "health": 626, "size": 3, "requirements": [{"item": "yonegi", "amount": 5}, {"item": "dogequ", "amount": 7}, {"item": "suta", "amount": 1}], "research": "yonegi-conduit", "category": "liquid", "liquidCapacity": 117811, "hasLiquids": true}

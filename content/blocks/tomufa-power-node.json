@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tomufa power node", "description": "...", "size": 2, "health": 265, "requirements": [{"item": "tomufa", "amount": 9}, {"item": "cevu", "amount": 2}, {"item": "dagepanium", "amount": 10}], "research": "tomufa-factory", "maxNodes": 31, "laserRange": 18, "category": "power"}

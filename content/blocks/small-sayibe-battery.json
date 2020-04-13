@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sayibe battery", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "sayibe", "amount": 10}, {"item": "yisyqu", "amount": 13}, {"item": "mivoky", "amount": 10}], "research": "sayibe-factory", "consumes": {"powerBuffered": 2871}, "category": "power"}

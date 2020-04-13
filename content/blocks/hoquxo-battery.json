@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hoquxo battery", "description": "...", "size": 3, "health": 24, "requirements": [{"item": "hoquxo", "amount": 1}, {"item": "mygyyy", "amount": 18}, {"item": "rega", "amount": 1}], "research": "hoquxo-factory", "consumes": {"powerBuffered": 5792}, "category": "power"}

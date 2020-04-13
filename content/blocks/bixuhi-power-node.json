@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bixuhi power node", "description": "...", "size": 2, "health": 595, "requirements": [{"item": "bixuhi", "amount": 1}, {"item": "mivoky", "amount": 6}, {"item": "cykayu", "amount": 2}], "research": "bixuhi-factory", "maxNodes": 46, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jega bridge conveyor", "description": "", "health": 27, "range": 19, "speed": 20, "bufferCapacity": 12, "requirements": [{"item": "jega", "amount": 4}, {"item": "myci", "amount": 2}], "research": "jega-conveyor", "category": "distribution", "size": 1}

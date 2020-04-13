@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dowa junction", "description": "...", "health": 8, "speed": 16, "capacity": 12, "size": 1, "requirements": [{"item": "dowa", "amount": 4}, {"item": "yixa", "amount": 2}], "research": "dowa-conveyor", "category": "distribution"}

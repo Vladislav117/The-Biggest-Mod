@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pino overflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "pino", "amount": 1}, {"item": "sukedu", "amount": 5}], "research": "pino-conveyor", "category": "distribution", "invert": false}

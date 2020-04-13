@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vyfyci power node", "description": "...", "size": 2, "health": 609, "requirements": [{"item": "vyfyci", "amount": 18}, {"item": "pivojunium", "amount": 2}, {"item": "nago", "amount": 1}], "research": "vyfyci-factory", "maxNodes": 33, "laserRange": 22, "category": "power"}

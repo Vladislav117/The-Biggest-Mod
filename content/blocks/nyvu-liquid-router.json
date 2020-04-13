@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nyvu liquid router", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "nyvu", "amount": 9}, {"item": "jiyomonium", "amount": 1}, {"item": "beniyi", "amount": 7}], "research": "nyvu-conduit", "liquidCapacity": 10, "category": "liquid"}

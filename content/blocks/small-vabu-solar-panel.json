@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vabu solar panel", "description": "...", "size": 1, "health": 203, "requirements": [{"item": "vabu", "amount": 5}, {"item": "cusunium", "amount": 9}, {"item": "yeyabi", "amount": 5}], "research": "vabu-factory", "powerProduction": 4.472833299176033, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mapa liquid tank", "description": "...", "health": 568, "size": 3, "requirements": [{"item": "mapa", "amount": 3}, {"item": "wusupy", "amount": 13}, {"item": "wixyti", "amount": 1}], "research": "mapa-conduit", "category": "liquid", "liquidCapacity": 19000, "hasLiquids": true}

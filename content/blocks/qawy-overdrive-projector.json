@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "qawy overdrive projector", "description": "...", "health": 52, "consumes": {"power": 3.0, "item": "qawy"}, "size": 2, "requirements": [{"item": "qawy", "amount": 11}, {"item": "wicowi", "amount": 5}, {"item": "vamoginium", "amount": 8}], "research": "qawy-factory", "category": "effect"}

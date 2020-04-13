@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "noxy solar panel", "description": "...", "size": 3, "health": 308, "requirements": [{"item": "noxy", "amount": 10}, {"item": "kuku", "amount": 20}, {"item": "jetu", "amount": 7}], "research": "noxy-factory", "powerProduction": 2.2451807396886108, "category": "power"}

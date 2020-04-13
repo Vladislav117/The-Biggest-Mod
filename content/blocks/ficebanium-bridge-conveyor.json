@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ficebanium bridge conveyor", "description": "", "health": 12, "range": 9, "speed": 13, "bufferCapacity": 24, "requirements": [{"item": "ficebanium", "amount": 2}, {"item": "nabu", "amount": 3}], "research": "ficebanium-conveyor", "category": "distribution", "size": 1}

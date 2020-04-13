@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tavu conduit", "description": "...", "health": 175, "requirements": [{"item": "tavu", "amount": 7}, {"item": "kejowynium", "amount": 13}, {"item": "havano", "amount": 9}], "liquidCapacity": 46, "liquidPressure": 2, "research": "tavu-factory", "category": "liquid"}

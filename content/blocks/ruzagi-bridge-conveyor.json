@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ruzagi bridge conveyor", "description": "", "health": 14, "range": 9, "speed": 4, "bufferCapacity": 1, "requirements": [{"item": "ruzagi", "amount": 2}, {"item": "gizomanium", "amount": 4}], "research": "ruzagi-conveyor", "category": "distribution", "size": 1}

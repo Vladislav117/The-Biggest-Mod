@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "minu liquid tank", "description": "...", "health": 503, "size": 3, "requirements": [{"item": "minu", "amount": 4}, {"item": "dekeko", "amount": 20}, {"item": "xeye", "amount": 3}], "research": "minu-conduit", "category": "liquid", "liquidCapacity": 93109, "hasLiquids": true}

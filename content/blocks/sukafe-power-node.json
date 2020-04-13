@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sukafe power node", "description": "...", "size": 2, "health": 190, "requirements": [{"item": "sukafe", "amount": 18}, {"item": "qiqole", "amount": 20}, {"item": "vapoqanium", "amount": 7}], "research": "sukafe-factory", "maxNodes": 56, "laserRange": 6, "category": "power"}

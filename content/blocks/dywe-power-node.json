@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dywe power node", "description": "...", "size": 2, "health": 601, "requirements": [{"item": "dywe", "amount": 15}, {"item": "jyxexi", "amount": 11}, {"item": "reminium", "amount": 8}], "research": "dywe-factory", "maxNodes": 58, "laserRange": 23, "category": "power"}

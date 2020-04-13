@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tenelenium battery", "description": "...", "size": 3, "health": 390, "requirements": [{"item": "tenelenium", "amount": 7}, {"item": "tepe", "amount": 9}, {"item": "denu", "amount": 5}], "research": "tenelenium-factory", "consumes": {"powerBuffered": 2185}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hyryhinium junction", "description": "...", "health": 7, "speed": 15, "capacity": 13, "size": 1, "requirements": [{"item": "hyryhinium", "amount": 5}, {"item": "yavyra", "amount": 2}], "research": "hyryhinium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sybo battery", "description": "...", "size": 3, "health": 70, "requirements": [{"item": "sybo", "amount": 18}, {"item": "siwi", "amount": 14}, {"item": "zoqivanium", "amount": 1}], "research": "sybo-factory", "consumes": {"powerBuffered": 7247}, "category": "power"}

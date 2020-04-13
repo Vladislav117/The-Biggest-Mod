@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "qoly conveyor", "description": "...", "health": 42, "requirements": [{"item": "qoly", "amount": 1}, {"item": "maqe", "amount": 9}], "speed": 0.1328687465224324, "research": "qoly-factory", "category": "distribution"}

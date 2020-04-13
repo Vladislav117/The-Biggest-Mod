@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qoha power node", "description": "...", "size": 2, "health": 719, "requirements": [{"item": "qoha", "amount": 13}, {"item": "maqini", "amount": 5}, {"item": "joku", "amount": 10}], "research": "qoha-factory", "maxNodes": 26, "laserRange": 15, "category": "power"}

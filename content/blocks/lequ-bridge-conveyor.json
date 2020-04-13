@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lequ bridge conveyor", "description": "", "health": 27, "range": 2, "speed": 9, "bufferCapacity": 25, "requirements": [{"item": "lequ", "amount": 1}, {"item": "waxonium", "amount": 3}], "research": "lequ-conveyor", "category": "distribution", "size": 1}

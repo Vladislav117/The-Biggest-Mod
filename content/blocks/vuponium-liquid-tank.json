@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vuponium liquid tank", "description": "...", "health": 296, "size": 3, "requirements": [{"item": "vuponium", "amount": 2}, {"item": "yeby", "amount": 19}, {"item": "gusavunium", "amount": 5}], "research": "vuponium-conduit", "category": "liquid", "liquidCapacity": 53627, "hasLiquids": true}

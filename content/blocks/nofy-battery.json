@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nofy battery", "description": "...", "size": 3, "health": 308, "requirements": [{"item": "nofy", "amount": 14}, {"item": "tulotu", "amount": 20}, {"item": "qakynunium", "amount": 5}], "research": "nofy-factory", "consumes": {"powerBuffered": 7760}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jyly liquid tank", "description": "...", "health": 568, "size": 3, "requirements": [{"item": "jyly", "amount": 5}, {"item": "jewa", "amount": 5}, {"item": "tudinium", "amount": 4}], "research": "jyly-conduit", "category": "liquid", "liquidCapacity": 25450, "hasLiquids": true}

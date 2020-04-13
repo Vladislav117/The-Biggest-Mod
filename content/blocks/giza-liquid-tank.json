@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "giza liquid tank", "description": "...", "health": 476, "size": 3, "requirements": [{"item": "giza", "amount": 20}, {"item": "furyqu", "amount": 16}, {"item": "riwe", "amount": 4}], "research": "giza-conduit", "category": "liquid", "liquidCapacity": 109017, "hasLiquids": true}

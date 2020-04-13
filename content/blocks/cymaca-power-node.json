@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cymaca power node", "description": "...", "size": 2, "health": 598, "requirements": [{"item": "cymaca", "amount": 9}, {"item": "syxidonium", "amount": 8}, {"item": "bywazy", "amount": 2}], "research": "cymaca-factory", "maxNodes": 44, "laserRange": 22, "category": "power"}

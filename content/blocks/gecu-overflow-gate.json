@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gecu overflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "gecu", "amount": 5}, {"item": "menugonium", "amount": 5}], "research": "gecu-conveyor", "category": "distribution", "invert": false}

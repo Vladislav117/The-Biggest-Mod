@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pivojunium drill", "description": "...", "size": 3, "health": 422, "tier": 4, "drillTime": 1, "consumes": {"power": 13}, "requirements": [{"item": "pivojunium", "amount": 13}, {"item": "pyce", "amount": 8}, {"item": "fifyru", "amount": 4}], "research": "pivojunium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jyyo solar panel", "description": "...", "size": 1, "health": 220, "requirements": [{"item": "jyyo", "amount": 14}, {"item": "mesa", "amount": 7}, {"item": "pikoqi", "amount": 7}], "research": "jyyo-factory", "powerProduction": 4.348179304127548, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jexu liquid tank", "description": "...", "health": 246, "size": 3, "requirements": [{"item": "jexu", "amount": 17}, {"item": "xuryvy", "amount": 2}, {"item": "waha", "amount": 10}], "research": "jexu-conduit", "category": "liquid", "liquidCapacity": 46152, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kaqyla underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "kaqyla", "amount": 4}, {"item": "jubuxa", "amount": 5}], "research": "kaqyla-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "marici power node", "description": "...", "size": 2, "health": 726, "requirements": [{"item": "marici", "amount": 4}, {"item": "kyweru", "amount": 17}, {"item": "qerobu", "amount": 3}], "research": "marici-factory", "maxNodes": 55, "laserRange": 27, "category": "power"}

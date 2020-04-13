@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qerudo liquid tank", "description": "...", "health": 225, "size": 3, "requirements": [{"item": "qerudo", "amount": 15}, {"item": "riwi", "amount": 19}, {"item": "filu", "amount": 8}], "research": "qerudo-conduit", "category": "liquid", "liquidCapacity": 42685, "hasLiquids": true}

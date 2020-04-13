@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zexa solar panel", "description": "...", "size": 3, "health": 48, "requirements": [{"item": "zexa", "amount": 5}, {"item": "yuby", "amount": 1}, {"item": "cosizi", "amount": 2}], "research": "zexa-factory", "powerProduction": 5.357388444062064, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nyvexo battery", "description": "...", "size": 3, "health": 119, "requirements": [{"item": "nyvexo", "amount": 4}, {"item": "zytukenium", "amount": 7}, {"item": "locu", "amount": 10}], "research": "nyvexo-factory", "consumes": {"powerBuffered": 1931}, "category": "power"}

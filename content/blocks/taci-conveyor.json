@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "taci conveyor", "description": "...", "health": 48, "requirements": [{"item": "taci", "amount": 9}, {"item": "padopu", "amount": 10}], "speed": 0.0205736908660889, "research": "taci-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nuyo liquid tank", "description": "...", "health": 131, "size": 3, "requirements": [{"item": "nuyo", "amount": 2}, {"item": "lepe", "amount": 5}, {"item": "duginium", "amount": 6}], "research": "nuyo-conduit", "category": "liquid", "liquidCapacity": 63911, "hasLiquids": true}

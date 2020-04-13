@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qolone power node", "description": "...", "size": 2, "health": 201, "requirements": [{"item": "qolone", "amount": 14}, {"item": "nyyihy", "amount": 8}, {"item": "zuwabo", "amount": 3}], "research": "qolone-factory", "maxNodes": 44, "laserRange": 15, "category": "power"}

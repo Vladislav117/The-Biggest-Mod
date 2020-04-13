@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zyzo battery", "description": "...", "size": 3, "health": 165, "requirements": [{"item": "zyzo", "amount": 9}, {"item": "pusy", "amount": 17}, {"item": "vyqosi", "amount": 5}], "research": "zyzo-factory", "consumes": {"powerBuffered": 7744}, "category": "power"}

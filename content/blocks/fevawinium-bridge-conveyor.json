@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fevawinium bridge conveyor", "description": "", "health": 15, "range": 6, "speed": 4, "bufferCapacity": 4, "requirements": [{"item": "fevawinium", "amount": 5}, {"item": "pijewu", "amount": 2}], "research": "fevawinium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qanupenium liquid tank", "description": "...", "health": 575, "size": 3, "requirements": [{"item": "qanupenium", "amount": 13}, {"item": "vyhizu", "amount": 19}, {"item": "nohi", "amount": 5}], "research": "qanupenium-conduit", "category": "liquid", "liquidCapacity": 115695, "hasLiquids": true}

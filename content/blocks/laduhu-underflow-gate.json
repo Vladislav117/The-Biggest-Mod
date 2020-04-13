@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "laduhu underflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "laduhu", "amount": 1}, {"item": "qoki", "amount": 4}], "research": "laduhu-conveyor", "category": "distribution", "invert": false}

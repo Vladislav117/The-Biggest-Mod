@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small webebu battery", "description": "...", "size": 1, "health": 122, "requirements": [{"item": "webebu", "amount": 16}, {"item": "qudeya", "amount": 17}, {"item": "cyyo", "amount": 2}], "research": "webebu-factory", "consumes": {"powerBuffered": 2530}, "category": "power"}

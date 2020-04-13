@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bapu inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "bapu", "amount": 1}, {"item": "suta", "amount": 4}], "research": "bapu-conveyor", "category": "distribution", "invert": true}

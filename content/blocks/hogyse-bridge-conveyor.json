@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hogyse bridge conveyor", "description": "", "health": 38, "range": 9, "speed": 4, "bufferCapacity": 3, "requirements": [{"item": "hogyse", "amount": 2}, {"item": "vuciby", "amount": 3}], "research": "hogyse-conveyor", "category": "distribution", "size": 1}

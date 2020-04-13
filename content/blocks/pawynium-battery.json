@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pawynium battery", "description": "...", "size": 3, "health": 268, "requirements": [{"item": "pawynium", "amount": 11}, {"item": "sedowe", "amount": 19}, {"item": "nusenium", "amount": 10}], "research": "pawynium-factory", "consumes": {"powerBuffered": 9121}, "category": "power"}

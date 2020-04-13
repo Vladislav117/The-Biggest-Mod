@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fusofonium inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "fusofonium", "amount": 1}, {"item": "saqoxo", "amount": 4}], "research": "fusofonium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yobany solar panel", "description": "...", "size": 3, "health": 101, "requirements": [{"item": "yobany", "amount": 15}, {"item": "rahubi", "amount": 8}, {"item": "befunium", "amount": 9}], "research": "yobany-factory", "powerProduction": 12.482986563012425, "category": "power"}

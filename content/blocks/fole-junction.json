@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fole junction", "description": "...", "health": 17, "speed": 11, "capacity": 7, "size": 1, "requirements": [{"item": "fole", "amount": 5}, {"item": "pebo", "amount": 3}], "research": "fole-conveyor", "category": "distribution"}

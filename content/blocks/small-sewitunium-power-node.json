@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sewitunium power node", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "sewitunium", "amount": 10}, {"item": "kacose", "amount": 4}, {"item": "bilyvanium", "amount": 2}], "research": "sewitunium-factory", "maxNodes": 19, "laserRange": 4, "category": "power"}

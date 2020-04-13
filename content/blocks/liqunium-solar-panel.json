@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "liqunium solar panel", "description": "...", "size": 3, "health": 145, "requirements": [{"item": "liqunium", "amount": 20}, {"item": "baqo", "amount": 3}, {"item": "cyzoqo", "amount": 9}], "research": "liqunium-factory", "powerProduction": 0.5691032578753704, "category": "power"}

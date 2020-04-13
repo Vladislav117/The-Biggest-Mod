@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xujo liquid tank", "description": "...", "health": 165, "size": 3, "requirements": [{"item": "xujo", "amount": 6}, {"item": "dimysynium", "amount": 9}, {"item": "gabipi", "amount": 3}], "research": "xujo-conduit", "category": "liquid", "liquidCapacity": 80321, "hasLiquids": true}

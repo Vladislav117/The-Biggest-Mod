@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rilo overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "rilo", "amount": 3}, {"item": "baguyu", "amount": 1}], "research": "rilo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tebi junction", "description": "...", "health": 42, "speed": 17, "capacity": 5, "size": 1, "requirements": [{"item": "tebi", "amount": 5}, {"item": "muby", "amount": 3}], "research": "tebi-conveyor", "category": "distribution"}

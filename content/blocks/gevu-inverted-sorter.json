@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gevu inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "gevu", "amount": 1}, {"item": "migube", "amount": 2}], "research": "gevu-conveyor", "category": "distribution", "invert": true}

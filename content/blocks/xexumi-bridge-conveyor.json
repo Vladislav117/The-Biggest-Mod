@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xexumi bridge conveyor", "description": "", "health": 15, "range": 11, "speed": 12, "bufferCapacity": 9, "requirements": [{"item": "xexumi", "amount": 5}, {"item": "qylino", "amount": 4}], "research": "xexumi-conveyor", "category": "distribution", "size": 1}

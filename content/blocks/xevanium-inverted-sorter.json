@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xevanium inverted sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "xevanium", "amount": 3}, {"item": "qypy", "amount": 1}], "research": "xevanium-conveyor", "category": "distribution", "invert": true}

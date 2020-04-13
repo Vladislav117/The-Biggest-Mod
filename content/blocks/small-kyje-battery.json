@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kyje battery", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "kyje", "amount": 1}, {"item": "surenium", "amount": 9}, {"item": "zyce", "amount": 10}], "research": "kyje-factory", "consumes": {"powerBuffered": 2424}, "category": "power"}

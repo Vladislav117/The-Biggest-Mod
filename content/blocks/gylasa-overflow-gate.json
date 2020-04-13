@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gylasa overflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "gylasa", "amount": 2}, {"item": "qiqole", "amount": 5}], "research": "gylasa-conveyor", "category": "distribution", "invert": false}

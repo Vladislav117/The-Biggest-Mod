@@ -1,0 +1,1 @@
+{"type": "junction", "name": "safe junction", "description": "...", "health": 46, "speed": 6, "capacity": 9, "size": 1, "requirements": [{"item": "safe", "amount": 2}, {"item": "sija", "amount": 2}], "research": "safe-conveyor", "category": "distribution"}

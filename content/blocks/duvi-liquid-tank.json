@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "duvi liquid tank", "description": "...", "health": 153, "size": 3, "requirements": [{"item": "duvi", "amount": 20}, {"item": "mizu", "amount": 8}, {"item": "fucyra", "amount": 6}], "research": "duvi-conduit", "category": "liquid", "liquidCapacity": 68758, "hasLiquids": true}

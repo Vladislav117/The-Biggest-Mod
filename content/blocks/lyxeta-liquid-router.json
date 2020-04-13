@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lyxeta liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "lyxeta", "amount": 10}, {"item": "wutigo", "amount": 9}, {"item": "niyi", "amount": 2}], "research": "lyxeta-conduit", "liquidCapacity": 10, "category": "liquid"}

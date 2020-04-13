@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ryte liquid router", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "ryte", "amount": 11}, {"item": "vove", "amount": 13}, {"item": "giho", "amount": 6}], "research": "ryte-conduit", "liquidCapacity": 10, "category": "liquid"}

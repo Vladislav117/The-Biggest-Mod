@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "faruna inverted sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "faruna", "amount": 5}, {"item": "reqoxu", "amount": 5}], "research": "faruna-conveyor", "category": "distribution", "invert": true}

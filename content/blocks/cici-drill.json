@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cici drill", "description": "...", "size": 2, "health": 139, "tier": 2, "drillTime": 2, "consumes": {"power": 16}, "requirements": [{"item": "cici", "amount": 18}, {"item": "yodary", "amount": 12}, {"item": "rymeyinium", "amount": 5}], "research": "cici-factory", "category": "production"}

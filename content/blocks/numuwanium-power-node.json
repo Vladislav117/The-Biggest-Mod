@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "numuwanium power node", "description": "...", "size": 2, "health": 146, "requirements": [{"item": "numuwanium", "amount": 9}, {"item": "yaxuda", "amount": 3}, {"item": "cudo", "amount": 3}], "research": "numuwanium-factory", "maxNodes": 11, "laserRange": 10, "category": "power"}

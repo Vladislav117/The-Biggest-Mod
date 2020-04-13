@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sokezy overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "sokezy", "amount": 3}, {"item": "byfa", "amount": 2}], "research": "sokezy-conveyor", "category": "distribution", "invert": false}

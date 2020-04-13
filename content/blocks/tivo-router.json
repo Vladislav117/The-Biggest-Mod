@@ -1,0 +1,1 @@
+{"type": "router", "name": "tivo router", "description": "...", "health": 112, "size": 1, "requirements": [{"item": "tivo", "amount": 7}], "research": "tivo-conveyor", "category": "distribution"}

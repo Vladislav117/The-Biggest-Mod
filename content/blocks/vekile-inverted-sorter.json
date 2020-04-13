@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vekile inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "vekile", "amount": 4}, {"item": "nuko", "amount": 1}], "research": "vekile-conveyor", "category": "distribution", "invert": true}

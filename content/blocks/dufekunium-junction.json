@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dufekunium junction", "description": "...", "health": 31, "speed": 8, "capacity": 11, "size": 1, "requirements": [{"item": "dufekunium", "amount": 3}, {"item": "cyru", "amount": 4}], "research": "dufekunium-conveyor", "category": "distribution"}

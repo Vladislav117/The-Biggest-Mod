@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qykebo inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "qykebo", "amount": 5}, {"item": "waha", "amount": 4}], "research": "qykebo-conveyor", "category": "distribution", "invert": true}

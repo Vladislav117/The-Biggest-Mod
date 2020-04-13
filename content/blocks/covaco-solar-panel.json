@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "covaco solar panel", "description": "...", "size": 3, "health": 285, "requirements": [{"item": "covaco", "amount": 8}, {"item": "veco", "amount": 16}, {"item": "mapanium", "amount": 8}], "research": "covaco-factory", "powerProduction": 1.165120482029201, "category": "power"}

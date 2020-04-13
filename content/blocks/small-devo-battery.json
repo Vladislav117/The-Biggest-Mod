@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small devo battery", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "devo", "amount": 17}, {"item": "zori", "amount": 8}, {"item": "gacy", "amount": 1}], "research": "devo-factory", "consumes": {"powerBuffered": 2919}, "category": "power"}

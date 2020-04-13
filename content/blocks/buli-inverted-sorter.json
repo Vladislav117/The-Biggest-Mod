@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "buli inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "buli", "amount": 5}, {"item": "zohura", "amount": 3}], "research": "buli-conveyor", "category": "distribution", "invert": true}

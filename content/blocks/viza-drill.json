@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "viza drill", "description": "...", "size": 2, "health": 322, "tier": 2, "drillTime": 8, "consumes": {"power": 15}, "requirements": [{"item": "viza", "amount": 9}, {"item": "xenira", "amount": 10}, {"item": "dezi", "amount": 6}], "research": "viza-factory", "category": "production"}

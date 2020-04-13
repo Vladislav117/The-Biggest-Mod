@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nelose liquid tank", "description": "...", "health": 594, "size": 3, "requirements": [{"item": "nelose", "amount": 14}, {"item": "novimo", "amount": 16}, {"item": "pyvohe", "amount": 5}], "research": "nelose-conduit", "category": "liquid", "liquidCapacity": 95512, "hasLiquids": true}

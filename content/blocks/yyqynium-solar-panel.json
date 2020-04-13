@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yyqynium solar panel", "description": "...", "size": 3, "health": 239, "requirements": [{"item": "yyqynium", "amount": 17}, {"item": "jisaconium", "amount": 17}, {"item": "sekycynium", "amount": 8}], "research": "yyqynium-factory", "powerProduction": 3.11445526541589, "category": "power"}

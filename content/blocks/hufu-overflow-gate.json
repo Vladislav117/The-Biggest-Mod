@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hufu overflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "hufu", "amount": 2}, {"item": "qawi", "amount": 3}], "research": "hufu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mapa underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "mapa", "amount": 2}, {"item": "rikylu", "amount": 4}], "research": "mapa-conveyor", "category": "distribution", "invert": false}

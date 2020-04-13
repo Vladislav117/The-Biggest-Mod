@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qyhocenium drill", "description": "...", "size": 2, "health": 186, "tier": 3, "drillTime": 1, "consumes": {"power": 10}, "requirements": [{"item": "qyhocenium", "amount": 4}, {"item": "qyryyunium", "amount": 10}, {"item": "porafa", "amount": 8}], "research": "qyhocenium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zorudy liquid tank", "description": "...", "health": 579, "size": 3, "requirements": [{"item": "zorudy", "amount": 16}, {"item": "lyru", "amount": 14}, {"item": "hijaju", "amount": 1}], "research": "zorudy-conduit", "category": "liquid", "liquidCapacity": 90618, "hasLiquids": true}

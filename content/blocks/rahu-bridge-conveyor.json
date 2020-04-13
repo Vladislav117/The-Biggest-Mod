@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rahu bridge conveyor", "description": "", "health": 7, "range": 18, "speed": 2, "bufferCapacity": 5, "requirements": [{"item": "rahu", "amount": 2}, {"item": "fyye", "amount": 3}], "research": "rahu-conveyor", "category": "distribution", "size": 1}

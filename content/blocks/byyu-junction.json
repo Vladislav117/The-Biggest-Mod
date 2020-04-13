@@ -1,0 +1,1 @@
+{"type": "junction", "name": "byyu junction", "description": "...", "health": 29, "speed": 13, "capacity": 2, "size": 1, "requirements": [{"item": "byyu", "amount": 2}, {"item": "dagepanium", "amount": 2}], "research": "byyu-conveyor", "category": "distribution"}

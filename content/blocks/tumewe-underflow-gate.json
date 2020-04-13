@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tumewe underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "tumewe", "amount": 4}, {"item": "nano", "amount": 2}], "research": "tumewe-conveyor", "category": "distribution", "invert": false}

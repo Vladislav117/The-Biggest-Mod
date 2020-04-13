@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small deceqinium battery", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "deceqinium", "amount": 18}, {"item": "mete", "amount": 5}, {"item": "huwafy", "amount": 6}], "research": "deceqinium-factory", "consumes": {"powerBuffered": 2166}, "category": "power"}

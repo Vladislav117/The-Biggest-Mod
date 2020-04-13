@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "puziqo power node", "description": "...", "size": 2, "health": 277, "requirements": [{"item": "puziqo", "amount": 2}, {"item": "dezy", "amount": 13}, {"item": "dase", "amount": 7}], "research": "puziqo-factory", "maxNodes": 20, "laserRange": 25, "category": "power"}

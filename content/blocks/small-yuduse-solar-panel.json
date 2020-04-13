@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yuduse solar panel", "description": "...", "size": 1, "health": 141, "requirements": [{"item": "yuduse", "amount": 1}, {"item": "vafa", "amount": 20}, {"item": "vypo", "amount": 7}], "research": "yuduse-factory", "powerProduction": 0.2428621484323672, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xabuci solar panel", "description": "...", "size": 1, "health": 275, "requirements": [{"item": "xabuci", "amount": 11}, {"item": "baguyu", "amount": 17}, {"item": "kokyya", "amount": 3}], "research": "xabuci-factory", "powerProduction": 0.4405033534071473, "category": "power"}

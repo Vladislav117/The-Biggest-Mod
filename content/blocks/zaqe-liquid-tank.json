@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zaqe liquid tank", "description": "...", "health": 150, "size": 3, "requirements": [{"item": "zaqe", "amount": 16}, {"item": "rehodunium", "amount": 13}, {"item": "cuso", "amount": 3}], "research": "zaqe-conduit", "category": "liquid", "liquidCapacity": 68265, "hasLiquids": true}

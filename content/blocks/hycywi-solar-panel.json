@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hycywi solar panel", "description": "...", "size": 3, "health": 137, "requirements": [{"item": "hycywi", "amount": 6}, {"item": "sonydu", "amount": 16}, {"item": "ceri", "amount": 7}], "research": "hycywi-factory", "powerProduction": 3.145417735775271, "category": "power"}

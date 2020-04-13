@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tufi conduit", "description": "...", "health": 199, "requirements": [{"item": "tufi", "amount": 13}, {"item": "yamyri", "amount": 17}, {"item": "wulyso", "amount": 9}], "liquidCapacity": 29, "liquidPressure": 2, "research": "tufi-factory", "category": "liquid"}

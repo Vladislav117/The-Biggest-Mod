@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zigije power node", "description": "...", "size": 1, "health": 368, "requirements": [{"item": "zigije", "amount": 14}, {"item": "tatupo", "amount": 8}, {"item": "gywu", "amount": 8}], "research": "zigije-factory", "maxNodes": 2, "laserRange": 7, "category": "power"}

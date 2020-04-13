@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fisa conduit", "description": "...", "health": 154, "requirements": [{"item": "fisa", "amount": 18}, {"item": "kudanium", "amount": 18}, {"item": "jobo", "amount": 8}], "liquidCapacity": 41, "liquidPressure": 1, "research": "fisa-factory", "category": "liquid"}

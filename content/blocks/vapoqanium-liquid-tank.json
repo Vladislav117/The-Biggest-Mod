@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vapoqanium liquid tank", "description": "...", "health": 402, "size": 3, "requirements": [{"item": "vapoqanium", "amount": 11}, {"item": "nimi", "amount": 10}, {"item": "xega", "amount": 8}], "research": "vapoqanium-conduit", "category": "liquid", "liquidCapacity": 70607, "hasLiquids": true}

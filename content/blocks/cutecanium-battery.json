@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cutecanium battery", "description": "...", "size": 3, "health": 87, "requirements": [{"item": "cutecanium", "amount": 3}, {"item": "mowygu", "amount": 8}, {"item": "nidenium", "amount": 4}], "research": "cutecanium-factory", "consumes": {"powerBuffered": 6059}, "category": "power"}

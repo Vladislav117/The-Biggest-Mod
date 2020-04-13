@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jisu liquid tank", "description": "...", "health": 222, "size": 3, "requirements": [{"item": "jisu", "amount": 13}, {"item": "lyna", "amount": 2}, {"item": "gyduyi", "amount": 8}], "research": "jisu-conduit", "category": "liquid", "liquidCapacity": 86559, "hasLiquids": true}

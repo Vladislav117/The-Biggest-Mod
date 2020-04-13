@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "roteca conduit", "description": "...", "health": 106, "requirements": [{"item": "roteca", "amount": 16}, {"item": "hyla", "amount": 10}, {"item": "qera", "amount": 7}], "liquidCapacity": 2, "liquidPressure": 2, "research": "roteca-factory", "category": "liquid"}

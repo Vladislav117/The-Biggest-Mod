@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zyhebe battery", "description": "...", "size": 1, "health": 399, "requirements": [{"item": "zyhebe", "amount": 1}, {"item": "leyoqo", "amount": 6}, {"item": "dyju", "amount": 5}], "research": "zyhebe-factory", "consumes": {"powerBuffered": 2655}, "category": "power"}

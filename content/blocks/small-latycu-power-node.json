@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small latycu power node", "description": "...", "size": 1, "health": 129, "requirements": [{"item": "latycu", "amount": 17}, {"item": "jayi", "amount": 17}, {"item": "bexo", "amount": 5}], "research": "latycu-factory", "maxNodes": 10, "laserRange": 13, "category": "power"}

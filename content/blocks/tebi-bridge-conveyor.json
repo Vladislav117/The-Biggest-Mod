@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tebi bridge conveyor", "description": "", "health": 17, "range": 11, "speed": 18, "bufferCapacity": 23, "requirements": [{"item": "tebi", "amount": 2}, {"item": "denu", "amount": 4}], "research": "tebi-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "minoxa conduit", "description": "...", "health": 41, "requirements": [{"item": "minoxa", "amount": 10}, {"item": "bexa", "amount": 4}, {"item": "jewa", "amount": 10}], "liquidCapacity": 37, "liquidPressure": 6, "research": "minoxa-factory", "category": "liquid"}

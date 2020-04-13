@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dokanium junction", "description": "...", "health": 26, "speed": 3, "capacity": 16, "size": 1, "requirements": [{"item": "dokanium", "amount": 4}, {"item": "yyno", "amount": 3}], "research": "dokanium-conveyor", "category": "distribution"}

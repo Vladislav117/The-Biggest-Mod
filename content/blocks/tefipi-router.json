@@ -1,0 +1,1 @@
+{"type": "router", "name": "tefipi router", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "tefipi", "amount": 8}], "research": "tefipi-conveyor", "category": "distribution"}

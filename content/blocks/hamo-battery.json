@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hamo battery", "description": "...", "size": 3, "health": 315, "requirements": [{"item": "hamo", "amount": 16}, {"item": "dyzaxi", "amount": 11}, {"item": "garoqanium", "amount": 4}], "research": "hamo-factory", "consumes": {"powerBuffered": 1638}, "category": "power"}

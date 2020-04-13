@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mose inverted sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "mose", "amount": 1}, {"item": "vadunium", "amount": 1}], "research": "mose-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yeri junction", "description": "...", "health": 28, "speed": 13, "capacity": 16, "size": 1, "requirements": [{"item": "yeri", "amount": 1}, {"item": "gagyya", "amount": 1}], "research": "yeri-conveyor", "category": "distribution"}

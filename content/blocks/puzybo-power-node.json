@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "puzybo power node", "description": "...", "size": 2, "health": 456, "requirements": [{"item": "puzybo", "amount": 10}, {"item": "hasu", "amount": 8}, {"item": "venuki", "amount": 4}], "research": "puzybo-factory", "maxNodes": 39, "laserRange": 10, "category": "power"}

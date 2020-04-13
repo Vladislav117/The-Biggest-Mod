@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zemo battery", "description": "...", "size": 1, "health": 317, "requirements": [{"item": "zemo", "amount": 2}, {"item": "bopa", "amount": 14}, {"item": "byqipu", "amount": 3}], "research": "zemo-factory", "consumes": {"powerBuffered": 1298}, "category": "power"}

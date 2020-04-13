@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zoqivanium solar panel", "description": "...", "size": 3, "health": 123, "requirements": [{"item": "zoqivanium", "amount": 19}, {"item": "fahi", "amount": 9}, {"item": "rehyce", "amount": 5}], "research": "zoqivanium-factory", "powerProduction": 0.6135274307612483, "category": "power"}

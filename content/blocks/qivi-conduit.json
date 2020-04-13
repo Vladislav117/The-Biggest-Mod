@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qivi conduit", "description": "...", "health": 185, "requirements": [{"item": "qivi", "amount": 18}, {"item": "vodynium", "amount": 8}, {"item": "gotomy", "amount": 10}], "liquidCapacity": 29, "liquidPressure": 7, "research": "qivi-factory", "category": "liquid"}

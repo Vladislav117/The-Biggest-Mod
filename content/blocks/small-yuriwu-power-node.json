@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yuriwu power node", "description": "...", "size": 1, "health": 199, "requirements": [{"item": "yuriwu", "amount": 16}, {"item": "nejesu", "amount": 13}, {"item": "paky", "amount": 6}], "research": "yuriwu-factory", "maxNodes": 27, "laserRange": 22, "category": "power"}

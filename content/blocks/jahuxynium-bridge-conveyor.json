@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jahuxynium bridge conveyor", "description": "", "health": 44, "range": 14, "speed": 1, "bufferCapacity": 25, "requirements": [{"item": "jahuxynium", "amount": 1}, {"item": "rutylo", "amount": 1}], "research": "jahuxynium-conveyor", "category": "distribution", "size": 1}

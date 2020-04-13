@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "raqo liquid tank", "description": "...", "health": 220, "size": 3, "requirements": [{"item": "raqo", "amount": 7}, {"item": "colu", "amount": 7}, {"item": "dowoca", "amount": 1}], "research": "raqo-conduit", "category": "liquid", "liquidCapacity": 36778, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lokybe battery", "description": "...", "size": 3, "health": 363, "requirements": [{"item": "lokybe", "amount": 19}, {"item": "woce", "amount": 5}, {"item": "vuxi", "amount": 8}], "research": "lokybe-factory", "consumes": {"powerBuffered": 4897}, "category": "power"}

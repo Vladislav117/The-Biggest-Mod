@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hijanium battery", "description": "...", "size": 3, "health": 59, "requirements": [{"item": "hijanium", "amount": 19}, {"item": "nijuto", "amount": 17}, {"item": "laxu", "amount": 5}], "research": "hijanium-factory", "consumes": {"powerBuffered": 1256}, "category": "power"}

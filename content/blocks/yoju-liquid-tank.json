@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yoju liquid tank", "description": "...", "health": 279, "size": 3, "requirements": [{"item": "yoju", "amount": 19}, {"item": "cupo", "amount": 3}, {"item": "nyyonium", "amount": 1}], "research": "yoju-conduit", "category": "liquid", "liquidCapacity": 8199, "hasLiquids": true}

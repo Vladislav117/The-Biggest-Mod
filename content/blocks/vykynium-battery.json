@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vykynium battery", "description": "...", "size": 3, "health": 225, "requirements": [{"item": "vykynium", "amount": 14}, {"item": "yeku", "amount": 6}, {"item": "yyga", "amount": 8}], "research": "vykynium-factory", "consumes": {"powerBuffered": 2253}, "category": "power"}

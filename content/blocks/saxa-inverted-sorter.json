@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "saxa inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "saxa", "amount": 1}, {"item": "wavoli", "amount": 1}], "research": "saxa-conveyor", "category": "distribution", "invert": true}

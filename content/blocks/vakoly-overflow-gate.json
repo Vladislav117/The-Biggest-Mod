@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vakoly overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "vakoly", "amount": 4}, {"item": "nulyfo", "amount": 2}], "research": "vakoly-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jikanium power node", "description": "...", "size": 2, "health": 376, "requirements": [{"item": "jikanium", "amount": 2}, {"item": "dowynium", "amount": 11}, {"item": "vixonium", "amount": 7}], "research": "jikanium-factory", "maxNodes": 30, "laserRange": 29, "category": "power"}

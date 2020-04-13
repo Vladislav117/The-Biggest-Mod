@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jaweki solar panel", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "jaweki", "amount": 16}, {"item": "xexumi", "amount": 18}, {"item": "lejara", "amount": 5}], "research": "jaweki-factory", "powerProduction": 0.21979762960091773, "category": "power"}

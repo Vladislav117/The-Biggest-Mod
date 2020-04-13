@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "beronium liquid router", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "beronium", "amount": 16}, {"item": "pyxoxanium", "amount": 18}, {"item": "xinodunium", "amount": 7}], "research": "beronium-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pijito power node", "description": "...", "size": 1, "health": 317, "requirements": [{"item": "pijito", "amount": 20}, {"item": "hyxinium", "amount": 3}, {"item": "cinunium", "amount": 6}], "research": "pijito-factory", "maxNodes": 12, "laserRange": 10, "category": "power"}

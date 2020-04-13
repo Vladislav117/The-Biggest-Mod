@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cowuse solar panel", "description": "...", "size": 1, "health": 85, "requirements": [{"item": "cowuse", "amount": 20}, {"item": "luny", "amount": 11}, {"item": "memu", "amount": 1}], "research": "cowuse-factory", "powerProduction": 1.0591443077469052, "category": "power"}

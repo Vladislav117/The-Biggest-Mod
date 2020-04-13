@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vojenium sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "vojenium", "amount": 1}, {"item": "nuso", "amount": 4}], "research": "vojenium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mavitu underflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "mavitu", "amount": 1}, {"item": "forebu", "amount": 5}], "research": "mavitu-conveyor", "category": "distribution", "invert": false}

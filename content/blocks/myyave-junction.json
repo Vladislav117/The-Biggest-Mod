@@ -1,0 +1,1 @@
+{"type": "junction", "name": "myyave junction", "description": "...", "health": 34, "speed": 11, "capacity": 17, "size": 1, "requirements": [{"item": "myyave", "amount": 4}, {"item": "hiwenium", "amount": 3}], "research": "myyave-conveyor", "category": "distribution"}

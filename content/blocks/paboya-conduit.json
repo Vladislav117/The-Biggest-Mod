@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "paboya conduit", "description": "...", "health": 153, "requirements": [{"item": "paboya", "amount": 11}, {"item": "bisifu", "amount": 1}, {"item": "myra", "amount": 10}], "liquidCapacity": 28, "liquidPressure": 5, "research": "paboya-factory", "category": "liquid"}

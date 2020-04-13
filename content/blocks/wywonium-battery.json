@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wywonium battery", "description": "...", "size": 3, "health": 265, "requirements": [{"item": "wywonium", "amount": 10}, {"item": "mawanium", "amount": 8}, {"item": "masoxo", "amount": 7}], "research": "wywonium-factory", "consumes": {"powerBuffered": 8440}, "category": "power"}

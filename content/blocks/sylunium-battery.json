@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sylunium battery", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "sylunium", "amount": 14}, {"item": "gago", "amount": 5}, {"item": "rybiho", "amount": 5}], "research": "sylunium-factory", "consumes": {"powerBuffered": 2775}, "category": "power"}

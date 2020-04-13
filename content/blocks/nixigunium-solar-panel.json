@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nixigunium solar panel", "description": "...", "size": 3, "health": 32, "requirements": [{"item": "nixigunium", "amount": 8}, {"item": "surge-alloy", "amount": 10}, {"item": "vunijy", "amount": 10}], "research": "nixigunium-factory", "powerProduction": 0.39841682497016934, "category": "power"}

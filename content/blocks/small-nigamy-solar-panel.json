@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nigamy solar panel", "description": "...", "size": 1, "health": 377, "requirements": [{"item": "nigamy", "amount": 4}, {"item": "dobe", "amount": 2}, {"item": "pamufo", "amount": 5}], "research": "nigamy-factory", "powerProduction": 8.485936264915209, "category": "power"}

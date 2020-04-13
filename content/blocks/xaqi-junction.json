@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xaqi junction", "description": "...", "health": 3, "speed": 4, "capacity": 1, "size": 1, "requirements": [{"item": "xaqi", "amount": 5}, {"item": "foli", "amount": 1}], "research": "xaqi-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jygu liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "jygu", "amount": 2}, {"item": "sede", "amount": 13}, {"item": "gifu", "amount": 4}], "research": "jygu-conduit", "liquidCapacity": 10, "category": "liquid"}

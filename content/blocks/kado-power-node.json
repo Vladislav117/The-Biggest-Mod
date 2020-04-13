@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kado power node", "description": "...", "size": 2, "health": 326, "requirements": [{"item": "kado", "amount": 13}, {"item": "bony", "amount": 17}, {"item": "tugi", "amount": 7}], "research": "kado-factory", "maxNodes": 55, "laserRange": 11, "category": "power"}

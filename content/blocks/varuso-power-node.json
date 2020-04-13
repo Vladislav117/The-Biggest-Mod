@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "varuso power node", "description": "...", "size": 2, "health": 412, "requirements": [{"item": "varuso", "amount": 13}, {"item": "faqymu", "amount": 10}, {"item": "seda", "amount": 5}], "research": "varuso-factory", "maxNodes": 46, "laserRange": 17, "category": "power"}

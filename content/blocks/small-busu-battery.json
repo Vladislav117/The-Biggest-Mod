@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small busu battery", "description": "...", "size": 1, "health": 204, "requirements": [{"item": "busu", "amount": 7}, {"item": "bosuvynium", "amount": 13}, {"item": "qoza", "amount": 7}], "research": "busu-factory", "consumes": {"powerBuffered": 1240}, "category": "power"}

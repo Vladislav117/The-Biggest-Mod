@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hunynium liquid router", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "hunynium", "amount": 10}, {"item": "yidude", "amount": 16}, {"item": "tikonium", "amount": 4}], "research": "hunynium-conduit", "liquidCapacity": 10, "category": "liquid"}

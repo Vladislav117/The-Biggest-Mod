@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pehabu battery", "description": "...", "size": 3, "health": 71, "requirements": [{"item": "pehabu", "amount": 12}, {"item": "bymenium", "amount": 16}, {"item": "wujifi", "amount": 3}], "research": "pehabu-factory", "consumes": {"powerBuffered": 9250}, "category": "power"}

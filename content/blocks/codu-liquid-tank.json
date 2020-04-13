@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "codu liquid tank", "description": "...", "health": 210, "size": 3, "requirements": [{"item": "codu", "amount": 14}, {"item": "ruvy", "amount": 15}, {"item": "guda", "amount": 4}], "research": "codu-conduit", "category": "liquid", "liquidCapacity": 101142, "hasLiquids": true}

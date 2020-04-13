@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zobu conduit", "description": "...", "health": 63, "requirements": [{"item": "zobu", "amount": 10}, {"item": "kavequ", "amount": 16}, {"item": "sipynium", "amount": 6}], "liquidCapacity": 21, "liquidPressure": 0, "research": "zobu-factory", "category": "liquid"}

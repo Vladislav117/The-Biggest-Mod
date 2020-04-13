@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zadi battery", "description": "...", "size": 3, "health": 273, "requirements": [{"item": "zadi", "amount": 8}, {"item": "yewininium", "amount": 19}, {"item": "dabi", "amount": 1}], "research": "zadi-factory", "consumes": {"powerBuffered": 8241}, "category": "power"}

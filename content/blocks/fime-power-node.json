@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fime power node", "description": "...", "size": 2, "health": 114, "requirements": [{"item": "fime", "amount": 14}, {"item": "yejeqinium", "amount": 1}, {"item": "ledome", "amount": 5}], "research": "fime-factory", "maxNodes": 29, "laserRange": 5, "category": "power"}

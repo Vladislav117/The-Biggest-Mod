@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kego power node", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "kego", "amount": 1}, {"item": "nurynium", "amount": 15}, {"item": "taci", "amount": 10}], "research": "kego-factory", "maxNodes": 3, "laserRange": 5, "category": "power"}

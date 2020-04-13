@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kego power node", "description": "...", "size": 2, "health": 367, "requirements": [{"item": "kego", "amount": 11}, {"item": "vaxa", "amount": 1}, {"item": "hyqo", "amount": 5}], "research": "kego-factory", "maxNodes": 44, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dufekunium liquid tank", "description": "...", "health": 128, "size": 3, "requirements": [{"item": "dufekunium", "amount": 13}, {"item": "mido", "amount": 10}, {"item": "xicyru", "amount": 9}], "research": "dufekunium-conduit", "category": "liquid", "liquidCapacity": 57797, "hasLiquids": true}

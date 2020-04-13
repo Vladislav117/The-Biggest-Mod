@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "marynium conduit", "description": "...", "health": 56, "requirements": [{"item": "marynium", "amount": 6}, {"item": "hyru", "amount": 6}, {"item": "hygili", "amount": 2}], "liquidCapacity": 42, "liquidPressure": 5, "research": "marynium-factory", "category": "liquid"}

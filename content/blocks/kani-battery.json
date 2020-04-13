@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kani battery", "description": "...", "size": 3, "health": 148, "requirements": [{"item": "kani", "amount": 13}, {"item": "cymaca", "amount": 10}, {"item": "movanium", "amount": 8}], "research": "kani-factory", "consumes": {"powerBuffered": 7520}, "category": "power"}

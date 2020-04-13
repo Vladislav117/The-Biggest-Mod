@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "duto conduit", "description": "...", "health": 183, "requirements": [{"item": "duto", "amount": 13}, {"item": "kyqu", "amount": 3}, {"item": "wulyso", "amount": 3}], "liquidCapacity": 50, "liquidPressure": 10, "research": "duto-factory", "category": "liquid"}

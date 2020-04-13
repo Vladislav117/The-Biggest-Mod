@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gecu underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "gecu", "amount": 5}, {"item": "cyjonium", "amount": 1}], "research": "gecu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "befy junction", "description": "...", "health": 49, "speed": 16, "capacity": 18, "size": 1, "requirements": [{"item": "befy", "amount": 4}, {"item": "leloyi", "amount": 4}], "research": "befy-conveyor", "category": "distribution"}

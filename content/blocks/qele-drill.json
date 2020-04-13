@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qele drill", "description": "...", "size": 4, "health": 421, "tier": 2, "drillTime": 7, "consumes": {"power": 1}, "requirements": [{"item": "qele", "amount": 12}, {"item": "kilu", "amount": 4}, {"item": "dowoca", "amount": 2}], "research": "qele-factory", "category": "production"}

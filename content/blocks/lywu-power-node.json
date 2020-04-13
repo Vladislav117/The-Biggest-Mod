@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lywu power node", "description": "...", "size": 2, "health": 617, "requirements": [{"item": "lywu", "amount": 18}, {"item": "mumujy", "amount": 13}, {"item": "jigame", "amount": 3}], "research": "lywu-factory", "maxNodes": 58, "laserRange": 11, "category": "power"}

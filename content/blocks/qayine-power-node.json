@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qayine power node", "description": "...", "size": 2, "health": 639, "requirements": [{"item": "qayine", "amount": 10}, {"item": "foho", "amount": 5}, {"item": "wugyjinium", "amount": 9}], "research": "qayine-factory", "maxNodes": 40, "laserRange": 6, "category": "power"}

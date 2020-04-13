@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "soronium force projector", "description": "...", "health": 201, "size": 3, "consumes": {"power": 5.0, "item": "soronium"}, "requirements": [{"item": "soronium", "amount": 16}, {"item": "zazuti", "amount": 12}, {"item": "deriye", "amount": 6}], "research": "soronium-factory", "category": "effect"}

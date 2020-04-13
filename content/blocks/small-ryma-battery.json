@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ryma battery", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "ryma", "amount": 2}, {"item": "cycu", "amount": 11}, {"item": "sofowo", "amount": 7}], "research": "ryma-factory", "consumes": {"powerBuffered": 2883}, "category": "power"}

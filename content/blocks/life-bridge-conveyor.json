@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "life bridge conveyor", "description": "", "health": 4, "range": 10, "speed": 18, "bufferCapacity": 14, "requirements": [{"item": "life", "amount": 3}, {"item": "bulanium", "amount": 5}], "research": "life-conveyor", "category": "distribution", "size": 1}

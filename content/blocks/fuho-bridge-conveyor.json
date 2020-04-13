@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fuho bridge conveyor", "description": "", "health": 25, "range": 9, "speed": 8, "bufferCapacity": 22, "requirements": [{"item": "fuho", "amount": 3}, {"item": "viwymynium", "amount": 3}], "research": "fuho-conveyor", "category": "distribution", "size": 1}

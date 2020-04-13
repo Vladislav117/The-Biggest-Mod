@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "maxy bridge conveyor", "description": "", "health": 14, "range": 9, "speed": 8, "bufferCapacity": 12, "requirements": [{"item": "maxy", "amount": 1}, {"item": "kije", "amount": 5}], "research": "maxy-conveyor", "category": "distribution", "size": 1}

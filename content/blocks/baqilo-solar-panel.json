@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "baqilo solar panel", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "baqilo", "amount": 14}, {"item": "lyfydy", "amount": 1}, {"item": "gakipy", "amount": 5}], "research": "baqilo-factory", "powerProduction": 5.354659294136264, "category": "power"}

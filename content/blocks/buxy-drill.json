@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "buxy drill", "description": "...", "size": 4, "health": 224, "tier": 3, "drillTime": 9, "consumes": {"power": 20}, "requirements": [{"item": "buxy", "amount": 20}, {"item": "wujifi", "amount": 16}, {"item": "fofoco", "amount": 6}], "research": "buxy-factory", "category": "production"}

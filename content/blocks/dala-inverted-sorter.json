@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dala inverted sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "dala", "amount": 5}, {"item": "felu", "amount": 4}], "research": "dala-conveyor", "category": "distribution", "invert": true}

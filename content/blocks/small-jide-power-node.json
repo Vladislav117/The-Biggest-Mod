@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jide power node", "description": "...", "size": 1, "health": 139, "requirements": [{"item": "jide", "amount": 15}, {"item": "bidynium", "amount": 15}, {"item": "saze", "amount": 8}], "research": "jide-factory", "maxNodes": 26, "laserRange": 18, "category": "power"}

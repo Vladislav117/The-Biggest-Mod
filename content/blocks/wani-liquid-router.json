@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wani liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "wani", "amount": 20}, {"item": "kaqa", "amount": 7}, {"item": "melula", "amount": 10}], "research": "wani-conduit", "liquidCapacity": 10, "category": "liquid"}

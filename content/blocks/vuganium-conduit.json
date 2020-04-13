@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vuganium conduit", "description": "...", "health": 187, "requirements": [{"item": "vuganium", "amount": 2}, {"item": "yebyte", "amount": 16}, {"item": "wolanium", "amount": 8}], "liquidCapacity": 13, "liquidPressure": 1, "research": "vuganium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "votawu liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "votawu", "amount": 9}, {"item": "hekate", "amount": 20}, {"item": "lumusu", "amount": 1}], "research": "votawu-conduit", "liquidCapacity": 10, "category": "liquid"}

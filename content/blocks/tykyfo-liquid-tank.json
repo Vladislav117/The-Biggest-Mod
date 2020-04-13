@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tykyfo liquid tank", "description": "...", "health": 341, "size": 3, "requirements": [{"item": "tykyfo", "amount": 18}, {"item": "byja", "amount": 10}, {"item": "cynehe", "amount": 3}], "research": "tykyfo-conduit", "category": "liquid", "liquidCapacity": 70027, "hasLiquids": true}

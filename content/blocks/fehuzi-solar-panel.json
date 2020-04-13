@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fehuzi solar panel", "description": "...", "size": 3, "health": 69, "requirements": [{"item": "fehuzi", "amount": 10}, {"item": "zazuji", "amount": 6}, {"item": "muqanium", "amount": 6}], "research": "fehuzi-factory", "powerProduction": 4.030186965540571, "category": "power"}

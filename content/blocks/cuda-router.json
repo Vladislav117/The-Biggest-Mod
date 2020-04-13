@@ -1,0 +1,1 @@
+{"type": "router", "name": "cuda router", "description": "...", "health": 173, "size": 1, "requirements": [{"item": "cuda", "amount": 7}], "research": "cuda-conveyor", "category": "distribution"}

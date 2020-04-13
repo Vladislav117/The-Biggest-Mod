@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zaba conduit", "description": "...", "health": 59, "requirements": [{"item": "zaba", "amount": 14}, {"item": "gurikinium", "amount": 19}, {"item": "vodico", "amount": 3}], "liquidCapacity": 40, "liquidPressure": 6, "research": "zaba-factory", "category": "liquid"}

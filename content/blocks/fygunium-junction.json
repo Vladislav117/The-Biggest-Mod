@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fygunium junction", "description": "...", "health": 39, "speed": 17, "capacity": 6, "size": 1, "requirements": [{"item": "fygunium", "amount": 4}, {"item": "lead", "amount": 5}], "research": "fygunium-conveyor", "category": "distribution"}

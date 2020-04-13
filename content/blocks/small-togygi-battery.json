@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small togygi battery", "description": "...", "size": 1, "health": 120, "requirements": [{"item": "togygi", "amount": 19}, {"item": "kyte", "amount": 17}, {"item": "kyweru", "amount": 1}], "research": "togygi-factory", "consumes": {"powerBuffered": 1175}, "category": "power"}

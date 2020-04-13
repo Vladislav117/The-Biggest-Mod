@@ -1,0 +1,1 @@
+{"type": "battery", "name": "puti battery", "description": "...", "size": 3, "health": 210, "requirements": [{"item": "puti", "amount": 12}, {"item": "duly", "amount": 10}, {"item": "kokonium", "amount": 6}], "research": "puti-factory", "consumes": {"powerBuffered": 2831}, "category": "power"}

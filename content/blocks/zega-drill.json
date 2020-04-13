@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zega drill", "description": "...", "size": 2, "health": 138, "tier": 2, "drillTime": 6, "consumes": {"power": 12}, "requirements": [{"item": "zega", "amount": 8}, {"item": "raso", "amount": 20}, {"item": "toqozy", "amount": 5}], "research": "zega-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wilyne junction", "description": "...", "health": 12, "speed": 19, "capacity": 1, "size": 1, "requirements": [{"item": "wilyne", "amount": 3}, {"item": "vayera", "amount": 1}], "research": "wilyne-conveyor", "category": "distribution"}

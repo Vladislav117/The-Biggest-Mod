@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "qymanium overdrive projector", "description": "...", "health": 81, "consumes": {"power": 3.0, "item": "qymanium"}, "size": 2, "requirements": [{"item": "qymanium", "amount": 6}, {"item": "rapenium", "amount": 15}, {"item": "gytegy", "amount": 5}], "research": "qymanium-factory", "category": "effect"}

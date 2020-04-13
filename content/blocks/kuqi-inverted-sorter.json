@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kuqi inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "kuqi", "amount": 2}, {"item": "baly", "amount": 3}], "research": "kuqi-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xuserynium drill", "description": "...", "size": 4, "health": 206, "tier": 1, "drillTime": 8, "consumes": {"power": 4}, "requirements": [{"item": "xuserynium", "amount": 18}, {"item": "manihe", "amount": 16}, {"item": "vytuxe", "amount": 6}], "research": "xuserynium-factory", "category": "production"}

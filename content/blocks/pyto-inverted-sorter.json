@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pyto inverted sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "pyto", "amount": 3}, {"item": "fahi", "amount": 1}], "research": "pyto-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cida solar panel", "description": "...", "size": 1, "health": 342, "requirements": [{"item": "cida", "amount": 19}, {"item": "lyheti", "amount": 6}, {"item": "fogu", "amount": 9}], "research": "cida-factory", "powerProduction": 0.227256258437391, "category": "power"}

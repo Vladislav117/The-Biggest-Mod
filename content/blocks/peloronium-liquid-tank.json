@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "peloronium liquid tank", "description": "...", "health": 583, "size": 3, "requirements": [{"item": "peloronium", "amount": 4}, {"item": "cuxenium", "amount": 1}, {"item": "haqu", "amount": 3}], "research": "peloronium-conduit", "category": "liquid", "liquidCapacity": 98225, "hasLiquids": true}

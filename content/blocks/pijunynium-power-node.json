@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pijunynium power node", "description": "...", "size": 2, "health": 398, "requirements": [{"item": "pijunynium", "amount": 1}, {"item": "harugenium", "amount": 13}, {"item": "tomufa", "amount": 1}], "research": "pijunynium-factory", "maxNodes": 37, "laserRange": 20, "category": "power"}

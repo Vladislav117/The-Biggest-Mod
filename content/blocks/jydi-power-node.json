@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jydi power node", "description": "...", "size": 2, "health": 278, "requirements": [{"item": "jydi", "amount": 7}, {"item": "ruryjynium", "amount": 10}, {"item": "qiregynium", "amount": 3}], "research": "jydi-factory", "maxNodes": 19, "laserRange": 27, "category": "power"}

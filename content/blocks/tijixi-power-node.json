@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tijixi power node", "description": "...", "size": 2, "health": 454, "requirements": [{"item": "tijixi", "amount": 5}, {"item": "jyzywy", "amount": 13}, {"item": "zaba", "amount": 9}], "research": "tijixi-factory", "maxNodes": 37, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jytaxe liquid tank", "description": "...", "health": 434, "size": 3, "requirements": [{"item": "jytaxe", "amount": 4}, {"item": "kewatu", "amount": 2}, {"item": "kozypi", "amount": 7}], "research": "jytaxe-conduit", "category": "liquid", "liquidCapacity": 6019, "hasLiquids": true}

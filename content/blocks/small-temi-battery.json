@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small temi battery", "description": "...", "size": 1, "health": 107, "requirements": [{"item": "temi", "amount": 19}, {"item": "neqose", "amount": 8}, {"item": "giho", "amount": 7}], "research": "temi-factory", "consumes": {"powerBuffered": 429}, "category": "power"}

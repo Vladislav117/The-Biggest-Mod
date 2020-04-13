@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small raso battery", "description": "...", "size": 1, "health": 150, "requirements": [{"item": "raso", "amount": 7}, {"item": "jetu", "amount": 4}, {"item": "make", "amount": 7}], "research": "raso-factory", "consumes": {"powerBuffered": 2738}, "category": "power"}

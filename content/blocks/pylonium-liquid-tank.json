@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pylonium liquid tank", "description": "...", "health": 396, "size": 3, "requirements": [{"item": "pylonium", "amount": 12}, {"item": "leriki", "amount": 14}, {"item": "puzonium", "amount": 2}], "research": "pylonium-conduit", "category": "liquid", "liquidCapacity": 22719, "hasLiquids": true}

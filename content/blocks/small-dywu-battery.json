@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dywu battery", "description": "...", "size": 1, "health": 142, "requirements": [{"item": "dywu", "amount": 1}, {"item": "qoseji", "amount": 14}, {"item": "sohusu", "amount": 2}], "research": "dywu-factory", "consumes": {"powerBuffered": 356}, "category": "power"}

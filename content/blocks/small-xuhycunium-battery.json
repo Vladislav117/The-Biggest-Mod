@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xuhycunium battery", "description": "...", "size": 1, "health": 259, "requirements": [{"item": "xuhycunium", "amount": 10}, {"item": "biwehenium", "amount": 14}, {"item": "yejefa", "amount": 2}], "research": "xuhycunium-factory", "consumes": {"powerBuffered": 958}, "category": "power"}

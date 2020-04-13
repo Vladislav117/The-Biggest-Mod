@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "geso liquid router", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "geso", "amount": 4}, {"item": "qova", "amount": 3}, {"item": "yiqynium", "amount": 2}], "research": "geso-conduit", "liquidCapacity": 10, "category": "liquid"}

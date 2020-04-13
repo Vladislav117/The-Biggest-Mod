@@ -1,0 +1,1 @@
+{"type": "junction", "name": "viqamo junction", "description": "...", "health": 33, "speed": 19, "capacity": 2, "size": 1, "requirements": [{"item": "viqamo", "amount": 3}, {"item": "sacigi", "amount": 4}], "research": "viqamo-conveyor", "category": "distribution"}

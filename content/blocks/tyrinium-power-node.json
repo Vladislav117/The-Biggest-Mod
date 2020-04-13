@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tyrinium power node", "description": "...", "size": 2, "health": 719, "requirements": [{"item": "tyrinium", "amount": 16}, {"item": "yajawa", "amount": 19}, {"item": "mygaso", "amount": 1}], "research": "tyrinium-factory", "maxNodes": 52, "laserRange": 19, "category": "power"}

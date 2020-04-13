@@ -1,0 +1,1 @@
+{"type": "battery", "name": "koju battery", "description": "...", "size": 3, "health": 103, "requirements": [{"item": "koju", "amount": 9}, {"item": "hicy", "amount": 14}, {"item": "cenunium", "amount": 9}], "research": "koju-factory", "consumes": {"powerBuffered": 3811}, "category": "power"}

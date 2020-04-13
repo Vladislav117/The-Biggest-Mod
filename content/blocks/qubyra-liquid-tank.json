@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qubyra liquid tank", "description": "...", "health": 268, "size": 3, "requirements": [{"item": "qubyra", "amount": 7}, {"item": "tewo", "amount": 16}, {"item": "lyceca", "amount": 9}], "research": "qubyra-conduit", "category": "liquid", "liquidCapacity": 14325, "hasLiquids": true}

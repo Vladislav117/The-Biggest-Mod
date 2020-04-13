@@ -1,0 +1,1 @@
+{"type": "junction", "name": "viwafy junction", "description": "...", "health": 36, "speed": 19, "capacity": 5, "size": 1, "requirements": [{"item": "viwafy", "amount": 3}, {"item": "picika", "amount": 3}], "research": "viwafy-conveyor", "category": "distribution"}

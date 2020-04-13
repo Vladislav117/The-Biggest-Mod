@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tokote conduit", "description": "...", "health": 148, "requirements": [{"item": "tokote", "amount": 8}, {"item": "hiqasynium", "amount": 1}, {"item": "fizycinium", "amount": 5}], "liquidCapacity": 31, "liquidPressure": 0, "research": "tokote-factory", "category": "liquid"}

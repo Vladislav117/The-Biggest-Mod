@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bore junction", "description": "...", "health": 36, "speed": 10, "capacity": 9, "size": 1, "requirements": [{"item": "bore", "amount": 1}, {"item": "duqu", "amount": 1}], "research": "bore-conveyor", "category": "distribution"}

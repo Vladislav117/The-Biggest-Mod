@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pufu solar panel", "description": "...", "size": 1, "health": 147, "requirements": [{"item": "pufu", "amount": 11}, {"item": "zuhisu", "amount": 20}, {"item": "reju", "amount": 6}], "research": "pufu-factory", "powerProduction": 10.493518659527693, "category": "power"}

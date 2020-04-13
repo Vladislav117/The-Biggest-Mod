@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "yywi force projector", "description": "...", "health": 134, "size": 3, "consumes": {"power": 5.0, "item": "yywi"}, "requirements": [{"item": "yywi", "amount": 19}, {"item": "yuyicenium", "amount": 5}, {"item": "bugyta", "amount": 4}], "research": "yywi-factory", "category": "effect"}

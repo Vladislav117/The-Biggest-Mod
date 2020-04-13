@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tefipi liquid tank", "description": "...", "health": 134, "size": 3, "requirements": [{"item": "tefipi", "amount": 11}, {"item": "joqopy", "amount": 6}, {"item": "qovy", "amount": 6}], "research": "tefipi-conduit", "category": "liquid", "liquidCapacity": 19329, "hasLiquids": true}

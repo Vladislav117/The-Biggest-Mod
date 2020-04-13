@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kexaja liquid tank", "description": "...", "health": 191, "size": 3, "requirements": [{"item": "kexaja", "amount": 20}, {"item": "gyporu", "amount": 14}, {"item": "pojesu", "amount": 4}], "research": "kexaja-conduit", "category": "liquid", "liquidCapacity": 13947, "hasLiquids": true}

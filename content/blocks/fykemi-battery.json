@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fykemi battery", "description": "...", "size": 3, "health": 286, "requirements": [{"item": "fykemi", "amount": 4}, {"item": "ryqaje", "amount": 15}, {"item": "kituhinium", "amount": 1}], "research": "fykemi-factory", "consumes": {"powerBuffered": 9000}, "category": "power"}

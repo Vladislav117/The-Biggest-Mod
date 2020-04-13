@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hujy inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "hujy", "amount": 5}, {"item": "fasaze", "amount": 4}], "research": "hujy-conveyor", "category": "distribution", "invert": true}

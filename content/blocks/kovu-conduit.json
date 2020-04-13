@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kovu conduit", "description": "...", "health": 102, "requirements": [{"item": "kovu", "amount": 7}, {"item": "tymy", "amount": 1}, {"item": "copper", "amount": 9}], "liquidCapacity": 46, "liquidPressure": 5, "research": "kovu-factory", "category": "liquid"}

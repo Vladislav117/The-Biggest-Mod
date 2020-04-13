@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "danava underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "danava", "amount": 5}, {"item": "qanupenium", "amount": 2}], "research": "danava-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zorudy conduit", "description": "...", "health": 169, "requirements": [{"item": "zorudy", "amount": 7}, {"item": "graphite", "amount": 4}, {"item": "tivu", "amount": 2}], "liquidCapacity": 47, "liquidPressure": 7, "research": "zorudy-factory", "category": "liquid"}

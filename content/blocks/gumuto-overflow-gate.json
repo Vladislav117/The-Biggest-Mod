@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gumuto overflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "gumuto", "amount": 3}, {"item": "hivesy", "amount": 2}], "research": "gumuto-conveyor", "category": "distribution", "invert": false}

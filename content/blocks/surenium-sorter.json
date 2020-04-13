@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "surenium sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "surenium", "amount": 1}, {"item": "werexo", "amount": 5}], "research": "surenium-conveyor", "category": "distribution", "invert": false}

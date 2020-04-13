@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small deceqinium power node", "description": "...", "size": 1, "health": 399, "requirements": [{"item": "deceqinium", "amount": 16}, {"item": "leloyi", "amount": 20}, {"item": "hewunium", "amount": 9}], "research": "deceqinium-factory", "maxNodes": 6, "laserRange": 19, "category": "power"}

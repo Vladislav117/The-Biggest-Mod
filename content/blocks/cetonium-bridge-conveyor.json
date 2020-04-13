@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cetonium bridge conveyor", "description": "", "health": 46, "range": 11, "speed": 18, "bufferCapacity": 21, "requirements": [{"item": "cetonium", "amount": 5}, {"item": "yepy", "amount": 1}], "research": "cetonium-conveyor", "category": "distribution", "size": 1}

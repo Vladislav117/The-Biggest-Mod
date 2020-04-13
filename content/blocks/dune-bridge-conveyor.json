@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dune bridge conveyor", "description": "", "health": 17, "range": 4, "speed": 5, "bufferCapacity": 9, "requirements": [{"item": "dune", "amount": 1}, {"item": "ruzagi", "amount": 2}], "research": "dune-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vipe solar panel", "description": "...", "size": 1, "health": 356, "requirements": [{"item": "vipe", "amount": 9}, {"item": "dobe", "amount": 19}, {"item": "jofu", "amount": 9}], "research": "vipe-factory", "powerProduction": 3.938276380490724, "category": "power"}

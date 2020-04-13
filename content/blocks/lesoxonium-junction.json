@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lesoxonium junction", "description": "...", "health": 11, "speed": 20, "capacity": 16, "size": 1, "requirements": [{"item": "lesoxonium", "amount": 3}, {"item": "mavi", "amount": 5}], "research": "lesoxonium-conveyor", "category": "distribution"}

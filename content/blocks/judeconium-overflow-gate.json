@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "judeconium overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "judeconium", "amount": 3}, {"item": "rajela", "amount": 5}], "research": "judeconium-conveyor", "category": "distribution", "invert": false}

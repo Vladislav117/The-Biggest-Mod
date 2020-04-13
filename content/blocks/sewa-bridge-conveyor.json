@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sewa bridge conveyor", "description": "", "health": 1, "range": 2, "speed": 4, "bufferCapacity": 7, "requirements": [{"item": "sewa", "amount": 2}, {"item": "wylanium", "amount": 5}], "research": "sewa-conveyor", "category": "distribution", "size": 1}

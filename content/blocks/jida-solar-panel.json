@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jida solar panel", "description": "...", "size": 3, "health": 241, "requirements": [{"item": "jida", "amount": 10}, {"item": "gihalu", "amount": 2}, {"item": "cepa", "amount": 8}], "research": "jida-factory", "powerProduction": 3.6904226949554046, "category": "power"}

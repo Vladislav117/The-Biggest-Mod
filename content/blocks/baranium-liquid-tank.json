@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "baranium liquid tank", "description": "...", "health": 467, "size": 3, "requirements": [{"item": "baranium", "amount": 6}, {"item": "kiye", "amount": 16}, {"item": "tozokinium", "amount": 10}], "research": "baranium-conduit", "category": "liquid", "liquidCapacity": 36672, "hasLiquids": true}

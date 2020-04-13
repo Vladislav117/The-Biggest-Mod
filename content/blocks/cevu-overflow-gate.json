@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cevu overflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "cevu", "amount": 1}, {"item": "pojesu", "amount": 5}], "research": "cevu-conveyor", "category": "distribution", "invert": false}

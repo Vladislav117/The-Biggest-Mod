@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "puho liquid router", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "puho", "amount": 19}, {"item": "nimynium", "amount": 7}, {"item": "rigo", "amount": 7}], "research": "puho-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "najy power node", "description": "...", "size": 2, "health": 261, "requirements": [{"item": "najy", "amount": 12}, {"item": "togygi", "amount": 6}, {"item": "xapu", "amount": 8}], "research": "najy-factory", "maxNodes": 29, "laserRange": 29, "category": "power"}

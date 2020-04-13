@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "neronium liquid tank", "description": "...", "health": 194, "size": 3, "requirements": [{"item": "neronium", "amount": 3}, {"item": "myfo", "amount": 18}, {"item": "ximy", "amount": 10}], "research": "neronium-conduit", "category": "liquid", "liquidCapacity": 75878, "hasLiquids": true}

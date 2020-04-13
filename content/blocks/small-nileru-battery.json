@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nileru battery", "description": "...", "size": 1, "health": 366, "requirements": [{"item": "nileru", "amount": 2}, {"item": "gyduyi", "amount": 2}, {"item": "tyno", "amount": 1}], "research": "nileru-factory", "consumes": {"powerBuffered": 2665}, "category": "power"}

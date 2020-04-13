@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "baquyo liquid tank", "description": "...", "health": 441, "size": 3, "requirements": [{"item": "baquyo", "amount": 5}, {"item": "gizomanium", "amount": 8}, {"item": "cuse", "amount": 10}], "research": "baquyo-conduit", "category": "liquid", "liquidCapacity": 23443, "hasLiquids": true}

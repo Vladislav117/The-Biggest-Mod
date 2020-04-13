@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pixuhynium power node", "description": "...", "size": 2, "health": 786, "requirements": [{"item": "pixuhynium", "amount": 16}, {"item": "duvadi", "amount": 7}, {"item": "gayika", "amount": 4}], "research": "pixuhynium-factory", "maxNodes": 10, "laserRange": 22, "category": "power"}

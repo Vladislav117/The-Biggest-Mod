@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pejavy sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "pejavy", "amount": 3}, {"item": "jivanium", "amount": 1}], "research": "pejavy-conveyor", "category": "distribution", "invert": false}

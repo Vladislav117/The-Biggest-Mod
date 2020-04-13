@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kefy power node", "description": "...", "size": 1, "health": 190, "requirements": [{"item": "kefy", "amount": 5}, {"item": "laho", "amount": 16}, {"item": "giha", "amount": 1}], "research": "kefy-factory", "maxNodes": 23, "laserRange": 15, "category": "power"}

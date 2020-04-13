@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pegonium sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "pegonium", "amount": 4}, {"item": "bamubu", "amount": 5}], "research": "pegonium-conveyor", "category": "distribution", "invert": false}

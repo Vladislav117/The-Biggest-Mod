@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lane bridge conveyor", "description": "", "health": 18, "range": 19, "speed": 12, "bufferCapacity": 16, "requirements": [{"item": "lane", "amount": 3}, {"item": "xywoty", "amount": 3}], "research": "lane-conveyor", "category": "distribution", "size": 1}

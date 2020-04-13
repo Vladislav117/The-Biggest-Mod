@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "meyo force projector", "description": "...", "health": 101, "size": 3, "consumes": {"power": 5.0, "item": "meyo"}, "requirements": [{"item": "meyo", "amount": 3}, {"item": "cykayu", "amount": 4}, {"item": "dowa", "amount": 8}], "research": "meyo-factory", "category": "effect"}

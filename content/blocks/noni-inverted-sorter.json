@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "noni inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "noni", "amount": 2}, {"item": "cenunium", "amount": 4}], "research": "noni-conveyor", "category": "distribution", "invert": true}

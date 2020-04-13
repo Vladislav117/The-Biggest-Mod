@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mewy solar panel", "description": "...", "size": 3, "health": 80, "requirements": [{"item": "mewy", "amount": 20}, {"item": "ryhi", "amount": 13}, {"item": "hyna", "amount": 4}], "research": "mewy-factory", "powerProduction": 9.858774943298046, "category": "power"}

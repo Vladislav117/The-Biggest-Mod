@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cosi power node", "description": "...", "size": 2, "health": 199, "requirements": [{"item": "cosi", "amount": 3}, {"item": "rukycu", "amount": 10}, {"item": "dugypa", "amount": 10}], "research": "cosi-factory", "maxNodes": 20, "laserRange": 16, "category": "power"}

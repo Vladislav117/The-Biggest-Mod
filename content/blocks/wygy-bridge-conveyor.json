@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wygy bridge conveyor", "description": "", "health": 14, "range": 17, "speed": 5, "bufferCapacity": 9, "requirements": [{"item": "wygy", "amount": 2}, {"item": "diwyci", "amount": 4}], "research": "wygy-conveyor", "category": "distribution", "size": 1}

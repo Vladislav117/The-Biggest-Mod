@@ -1,0 +1,1 @@
+{"type": "battery", "name": "baxinium battery", "description": "...", "size": 3, "health": 26, "requirements": [{"item": "baxinium", "amount": 20}, {"item": "lynulo", "amount": 20}, {"item": "pepo", "amount": 8}], "research": "baxinium-factory", "consumes": {"powerBuffered": 9402}, "category": "power"}

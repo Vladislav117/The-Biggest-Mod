@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jeviyu battery", "description": "...", "size": 1, "health": 329, "requirements": [{"item": "jeviyu", "amount": 8}, {"item": "cyqunium", "amount": 4}, {"item": "segi", "amount": 1}], "research": "jeviyu-factory", "consumes": {"powerBuffered": 1684}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zofuxe bridge conveyor", "description": "", "health": 43, "range": 20, "speed": 8, "bufferCapacity": 4, "requirements": [{"item": "zofuxe", "amount": 3}, {"item": "qyhi", "amount": 1}], "research": "zofuxe-conveyor", "category": "distribution", "size": 1}

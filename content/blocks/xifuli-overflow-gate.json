@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xifuli overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "xifuli", "amount": 3}, {"item": "lavysunium", "amount": 1}], "research": "xifuli-conveyor", "category": "distribution", "invert": false}

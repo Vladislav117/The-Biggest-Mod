@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cywa solar panel", "description": "...", "size": 3, "health": 164, "requirements": [{"item": "cywa", "amount": 16}, {"item": "nigynium", "amount": 12}, {"item": "decifonium", "amount": 6}], "research": "cywa-factory", "powerProduction": 0.274444121006098, "category": "power"}

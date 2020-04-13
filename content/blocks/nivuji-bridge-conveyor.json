@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nivuji bridge conveyor", "description": "", "health": 33, "range": 20, "speed": 4, "bufferCapacity": 24, "requirements": [{"item": "nivuji", "amount": 2}, {"item": "pyhune", "amount": 1}], "research": "nivuji-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wupira solar panel", "description": "...", "size": 3, "health": 260, "requirements": [{"item": "wupira", "amount": 5}, {"item": "bekoyinium", "amount": 15}, {"item": "mapanium", "amount": 6}], "research": "wupira-factory", "powerProduction": 0.05055873781798219, "category": "power"}

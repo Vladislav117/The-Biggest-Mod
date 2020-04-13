@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wyvijonium liquid tank", "description": "...", "health": 214, "size": 3, "requirements": [{"item": "wyvijonium", "amount": 20}, {"item": "qoha", "amount": 8}, {"item": "bomynium", "amount": 2}], "research": "wyvijonium-conduit", "category": "liquid", "liquidCapacity": 12696, "hasLiquids": true}

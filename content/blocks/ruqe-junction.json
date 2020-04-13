@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ruqe junction", "description": "...", "health": 24, "speed": 4, "capacity": 17, "size": 1, "requirements": [{"item": "ruqe", "amount": 2}, {"item": "dojynium", "amount": 2}], "research": "ruqe-conveyor", "category": "distribution"}

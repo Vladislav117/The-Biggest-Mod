@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wahyte battery", "description": "...", "size": 3, "health": 280, "requirements": [{"item": "wahyte", "amount": 7}, {"item": "bybity", "amount": 18}, {"item": "pyso", "amount": 9}], "research": "wahyte-factory", "consumes": {"powerBuffered": 3371}, "category": "power"}

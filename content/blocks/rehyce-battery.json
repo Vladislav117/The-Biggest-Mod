@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rehyce battery", "description": "...", "size": 3, "health": 376, "requirements": [{"item": "rehyce", "amount": 4}, {"item": "yupo", "amount": 17}, {"item": "nayevynium", "amount": 6}], "research": "rehyce-factory", "consumes": {"powerBuffered": 990}, "category": "power"}

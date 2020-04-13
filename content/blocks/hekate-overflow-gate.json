@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hekate overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "hekate", "amount": 2}, {"item": "mote", "amount": 4}], "research": "hekate-conveyor", "category": "distribution", "invert": false}

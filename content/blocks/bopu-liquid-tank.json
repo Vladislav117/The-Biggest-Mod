@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bopu liquid tank", "description": "...", "health": 603, "size": 3, "requirements": [{"item": "bopu", "amount": 16}, {"item": "vyjoti", "amount": 19}, {"item": "yalaka", "amount": 3}], "research": "bopu-conduit", "category": "liquid", "liquidCapacity": 106069, "hasLiquids": true}

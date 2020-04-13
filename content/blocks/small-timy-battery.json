@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small timy battery", "description": "...", "size": 1, "health": 307, "requirements": [{"item": "timy", "amount": 12}, {"item": "yyyyge", "amount": 8}, {"item": "gygi", "amount": 9}], "research": "timy-factory", "consumes": {"powerBuffered": 1359}, "category": "power"}

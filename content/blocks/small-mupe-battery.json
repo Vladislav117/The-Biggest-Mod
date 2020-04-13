@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mupe battery", "description": "...", "size": 1, "health": 215, "requirements": [{"item": "mupe", "amount": 11}, {"item": "baly", "amount": 16}, {"item": "fexaja", "amount": 5}], "research": "mupe-factory", "consumes": {"powerBuffered": 2315}, "category": "power"}

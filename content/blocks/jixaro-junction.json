@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jixaro junction", "description": "...", "health": 8, "speed": 2, "capacity": 15, "size": 1, "requirements": [{"item": "jixaro", "amount": 2}, {"item": "vuzoha", "amount": 2}], "research": "jixaro-conveyor", "category": "distribution"}

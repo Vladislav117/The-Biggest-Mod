@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "haviyunium solar panel", "description": "...", "size": 3, "health": 154, "requirements": [{"item": "haviyunium", "amount": 7}, {"item": "pucy", "amount": 2}, {"item": "fyye", "amount": 6}], "research": "haviyunium-factory", "powerProduction": 0.3252350949628365, "category": "power"}

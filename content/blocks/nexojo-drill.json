@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nexojo drill", "description": "...", "size": 4, "health": 290, "tier": 2, "drillTime": 16, "consumes": {"power": 9}, "requirements": [{"item": "nexojo", "amount": 7}, {"item": "ryfy", "amount": 6}, {"item": "hono", "amount": 1}], "research": "nexojo-factory", "category": "production"}

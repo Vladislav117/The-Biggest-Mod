@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qaho conduit", "description": "...", "health": 72, "requirements": [{"item": "qaho", "amount": 3}, {"item": "hugevinium", "amount": 1}, {"item": "mijynium", "amount": 4}], "liquidCapacity": 36, "liquidPressure": 0, "research": "qaho-factory", "category": "liquid"}

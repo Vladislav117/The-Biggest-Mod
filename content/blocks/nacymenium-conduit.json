@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nacymenium conduit", "description": "...", "health": 95, "requirements": [{"item": "nacymenium", "amount": 1}, {"item": "lixake", "amount": 8}, {"item": "wani", "amount": 3}], "liquidCapacity": 29, "liquidPressure": 3, "research": "nacymenium-factory", "category": "liquid"}

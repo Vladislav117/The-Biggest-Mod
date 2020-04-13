@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xapu solar panel", "description": "...", "size": 3, "health": 352, "requirements": [{"item": "xapu", "amount": 1}, {"item": "gypunium", "amount": 4}, {"item": "viqamo", "amount": 7}], "research": "xapu-factory", "powerProduction": 0.3009195639156026, "category": "power"}

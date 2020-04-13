@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "duyari underflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "duyari", "amount": 2}, {"item": "bayavo", "amount": 2}], "research": "duyari-conveyor", "category": "distribution", "invert": false}

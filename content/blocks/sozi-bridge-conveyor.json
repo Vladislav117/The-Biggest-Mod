@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sozi bridge conveyor", "description": "", "health": 49, "range": 15, "speed": 11, "bufferCapacity": 19, "requirements": [{"item": "sozi", "amount": 5}, {"item": "pyvunium", "amount": 4}], "research": "sozi-conveyor", "category": "distribution", "size": 1}

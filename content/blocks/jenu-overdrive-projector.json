@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "jenu overdrive projector", "description": "...", "health": 54, "consumes": {"power": 3.0, "item": "jenu"}, "size": 2, "requirements": [{"item": "jenu", "amount": 10}, {"item": "xogy", "amount": 13}, {"item": "qypusa", "amount": 6}], "research": "jenu-factory", "category": "effect"}

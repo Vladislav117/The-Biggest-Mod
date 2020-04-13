@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rine battery", "description": "...", "size": 1, "health": 303, "requirements": [{"item": "rine", "amount": 20}, {"item": "tyno", "amount": 19}, {"item": "heruru", "amount": 6}], "research": "rine-factory", "consumes": {"powerBuffered": 1089}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pocunium drill", "description": "...", "size": 2, "health": 331, "tier": 4, "drillTime": 13, "consumes": {"power": 5}, "requirements": [{"item": "pocunium", "amount": 9}, {"item": "fino", "amount": 15}, {"item": "hiqeyi", "amount": 6}], "research": "pocunium-factory", "category": "production"}

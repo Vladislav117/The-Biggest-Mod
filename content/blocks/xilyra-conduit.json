@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xilyra conduit", "description": "...", "health": 20, "requirements": [{"item": "xilyra", "amount": 7}, {"item": "vewi", "amount": 8}, {"item": "zogeno", "amount": 8}], "liquidCapacity": 40, "liquidPressure": 1, "research": "xilyra-factory", "category": "liquid"}

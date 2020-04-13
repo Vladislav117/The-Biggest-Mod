@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dafuse solar panel", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "dafuse", "amount": 8}, {"item": "magu", "amount": 8}, {"item": "xabuci", "amount": 10}], "research": "dafuse-factory", "powerProduction": 0.2667863721524874, "category": "power"}

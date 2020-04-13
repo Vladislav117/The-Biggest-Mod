@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "koku conveyor", "description": "...", "health": 230, "requirements": [{"item": "koku", "amount": 10}, {"item": "goxize", "amount": 7}], "speed": 0.2115317805794284, "research": "koku-factory", "category": "distribution"}

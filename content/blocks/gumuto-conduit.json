@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gumuto conduit", "description": "...", "health": 140, "requirements": [{"item": "gumuto", "amount": 9}, {"item": "wojenium", "amount": 4}, {"item": "mepunium", "amount": 7}], "liquidCapacity": 42, "liquidPressure": 7, "research": "gumuto-factory", "category": "liquid"}

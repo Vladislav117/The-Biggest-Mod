@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hozenium power node", "description": "...", "size": 2, "health": 373, "requirements": [{"item": "hozenium", "amount": 20}, {"item": "phase-fabric", "amount": 20}, {"item": "fete", "amount": 2}], "research": "hozenium-factory", "maxNodes": 48, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pupe bridge conveyor", "description": "", "health": 41, "range": 16, "speed": 4, "bufferCapacity": 18, "requirements": [{"item": "pupe", "amount": 5}, {"item": "vate", "amount": 3}], "research": "pupe-conveyor", "category": "distribution", "size": 1}

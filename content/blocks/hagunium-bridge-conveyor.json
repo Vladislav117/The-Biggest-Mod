@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hagunium bridge conveyor", "description": "", "health": 37, "range": 1, "speed": 10, "bufferCapacity": 21, "requirements": [{"item": "hagunium", "amount": 5}, {"item": "woze", "amount": 3}], "research": "hagunium-conveyor", "category": "distribution", "size": 1}

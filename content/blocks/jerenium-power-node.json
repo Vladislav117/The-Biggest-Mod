@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jerenium power node", "description": "...", "size": 2, "health": 613, "requirements": [{"item": "jerenium", "amount": 12}, {"item": "diwyci", "amount": 1}, {"item": "vyhizu", "amount": 8}], "research": "jerenium-factory", "maxNodes": 27, "laserRange": 13, "category": "power"}

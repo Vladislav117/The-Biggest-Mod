@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tiyajo solar panel", "description": "...", "size": 3, "health": 290, "requirements": [{"item": "tiyajo", "amount": 13}, {"item": "loqa", "amount": 2}, {"item": "bivucunium", "amount": 7}], "research": "tiyajo-factory", "powerProduction": 0.6687978834933637, "category": "power"}

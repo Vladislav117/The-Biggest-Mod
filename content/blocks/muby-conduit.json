@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "muby conduit", "description": "...", "health": 43, "requirements": [{"item": "muby", "amount": 9}, {"item": "metaglass", "amount": 8}, {"item": "graphite", "amount": 3}], "liquidCapacity": 14, "liquidPressure": 6, "research": "muby-factory", "category": "liquid"}

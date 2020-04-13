@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vocopy solar panel", "description": "...", "size": 3, "health": 293, "requirements": [{"item": "vocopy", "amount": 20}, {"item": "biye", "amount": 8}, {"item": "vykypanium", "amount": 5}], "research": "vocopy-factory", "powerProduction": 6.461633648086642, "category": "power"}

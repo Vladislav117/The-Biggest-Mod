@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qehupunium conduit", "description": "...", "health": 183, "requirements": [{"item": "qehupunium", "amount": 15}, {"item": "titenium", "amount": 12}, {"item": "yeby", "amount": 9}], "liquidCapacity": 27, "liquidPressure": 10, "research": "qehupunium-factory", "category": "liquid"}

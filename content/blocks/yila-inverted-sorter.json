@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yila inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "yila", "amount": 2}, {"item": "xizejinium", "amount": 5}], "research": "yila-conveyor", "category": "distribution", "invert": true}

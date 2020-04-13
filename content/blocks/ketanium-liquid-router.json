@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ketanium liquid router", "description": "...", "size": 1, "health": 21, "requirements": [{"item": "ketanium", "amount": 3}, {"item": "byfa", "amount": 4}, {"item": "wigyre", "amount": 5}], "research": "ketanium-conduit", "liquidCapacity": 10, "category": "liquid"}

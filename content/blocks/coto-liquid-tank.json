@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "coto liquid tank", "description": "...", "health": 524, "size": 3, "requirements": [{"item": "coto", "amount": 2}, {"item": "ryjo", "amount": 10}, {"item": "ruteqa", "amount": 8}], "research": "coto-conduit", "category": "liquid", "liquidCapacity": 85189, "hasLiquids": true}

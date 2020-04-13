@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gebi battery", "description": "...", "size": 1, "health": 316, "requirements": [{"item": "gebi", "amount": 8}, {"item": "lave", "amount": 15}, {"item": "xexocunium", "amount": 1}], "research": "gebi-factory", "consumes": {"powerBuffered": 1893}, "category": "power"}

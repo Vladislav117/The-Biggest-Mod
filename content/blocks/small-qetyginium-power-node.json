@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qetyginium power node", "description": "...", "size": 1, "health": 127, "requirements": [{"item": "qetyginium", "amount": 2}, {"item": "vove", "amount": 8}, {"item": "yijotu", "amount": 1}], "research": "qetyginium-factory", "maxNodes": 10, "laserRange": 7, "category": "power"}

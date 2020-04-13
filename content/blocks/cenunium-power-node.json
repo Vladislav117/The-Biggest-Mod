@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cenunium power node", "description": "...", "size": 2, "health": 761, "requirements": [{"item": "cenunium", "amount": 3}, {"item": "vyqosi", "amount": 5}, {"item": "nido", "amount": 8}], "research": "cenunium-factory", "maxNodes": 17, "laserRange": 18, "category": "power"}

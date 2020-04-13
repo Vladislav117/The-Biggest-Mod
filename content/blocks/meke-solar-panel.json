@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "meke solar panel", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "meke", "amount": 10}, {"item": "howu", "amount": 19}, {"item": "rutiri", "amount": 5}], "research": "meke-factory", "powerProduction": 0.17089626615474468, "category": "power"}

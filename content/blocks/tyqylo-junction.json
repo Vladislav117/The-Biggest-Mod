@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tyqylo junction", "description": "...", "health": 37, "speed": 2, "capacity": 6, "size": 1, "requirements": [{"item": "tyqylo", "amount": 3}, {"item": "lyra", "amount": 2}], "research": "tyqylo-conveyor", "category": "distribution"}

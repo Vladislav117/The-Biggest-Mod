@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rupy liquid tank", "description": "...", "health": 233, "size": 3, "requirements": [{"item": "rupy", "amount": 17}, {"item": "fyjylu", "amount": 3}, {"item": "minu", "amount": 6}], "research": "rupy-conduit", "category": "liquid", "liquidCapacity": 28996, "hasLiquids": true}

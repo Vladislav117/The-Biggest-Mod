@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ciremo power node", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "ciremo", "amount": 4}, {"item": "dycimi", "amount": 15}, {"item": "pubado", "amount": 6}], "research": "ciremo-factory", "maxNodes": 2, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "router", "name": "lohe router", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "lohe", "amount": 7}], "research": "lohe-conveyor", "category": "distribution"}

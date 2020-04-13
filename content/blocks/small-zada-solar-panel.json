@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zada solar panel", "description": "...", "size": 1, "health": 209, "requirements": [{"item": "zada", "amount": 18}, {"item": "puzybo", "amount": 3}, {"item": "hiwenium", "amount": 10}], "research": "zada-factory", "powerProduction": 5.2705071617808885, "category": "power"}

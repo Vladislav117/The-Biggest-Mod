@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zija bridge conveyor", "description": "", "health": 44, "range": 18, "speed": 4, "bufferCapacity": 24, "requirements": [{"item": "zija", "amount": 4}, {"item": "qylino", "amount": 4}], "research": "zija-conveyor", "category": "distribution", "size": 1}

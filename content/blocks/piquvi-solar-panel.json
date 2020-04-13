@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "piquvi solar panel", "description": "...", "size": 3, "health": 302, "requirements": [{"item": "piquvi", "amount": 1}, {"item": "terixe", "amount": 16}, {"item": "jatopa", "amount": 6}], "research": "piquvi-factory", "powerProduction": 0.002805911451331438, "category": "power"}

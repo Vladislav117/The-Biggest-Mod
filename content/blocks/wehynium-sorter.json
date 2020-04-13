@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wehynium sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "wehynium", "amount": 5}, {"item": "byqi", "amount": 1}], "research": "wehynium-conveyor", "category": "distribution", "invert": false}

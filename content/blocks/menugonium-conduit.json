@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "menugonium conduit", "description": "...", "health": 116, "requirements": [{"item": "menugonium", "amount": 15}, {"item": "zese", "amount": 6}, {"item": "nijuto", "amount": 4}], "liquidCapacity": 16, "liquidPressure": 10, "research": "menugonium-factory", "category": "liquid"}

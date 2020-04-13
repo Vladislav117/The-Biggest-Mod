@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qepumu liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "qepumu", "amount": 8}, {"item": "pymu", "amount": 20}, {"item": "cogy", "amount": 9}], "research": "qepumu-conduit", "liquidCapacity": 10, "category": "liquid"}

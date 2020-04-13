@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qeca power node", "description": "...", "size": 2, "health": 359, "requirements": [{"item": "qeca", "amount": 8}, {"item": "wovazo", "amount": 6}, {"item": "viwymynium", "amount": 7}], "research": "qeca-factory", "maxNodes": 33, "laserRange": 26, "category": "power"}

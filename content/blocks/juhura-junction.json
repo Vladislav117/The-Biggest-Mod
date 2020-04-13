@@ -1,0 +1,1 @@
+{"type": "junction", "name": "juhura junction", "description": "...", "health": 38, "speed": 3, "capacity": 8, "size": 1, "requirements": [{"item": "juhura", "amount": 3}, {"item": "mihuranium", "amount": 2}], "research": "juhura-conveyor", "category": "distribution"}

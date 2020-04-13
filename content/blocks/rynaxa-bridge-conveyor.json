@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rynaxa bridge conveyor", "description": "", "health": 11, "range": 19, "speed": 12, "bufferCapacity": 19, "requirements": [{"item": "rynaxa", "amount": 5}, {"item": "ruxyye", "amount": 2}], "research": "rynaxa-conveyor", "category": "distribution", "size": 1}

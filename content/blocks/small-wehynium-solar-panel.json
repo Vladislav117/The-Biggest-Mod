@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wehynium solar panel", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "wehynium", "amount": 1}, {"item": "cady", "amount": 15}, {"item": "puzybo", "amount": 4}], "research": "wehynium-factory", "powerProduction": 6.483186205901797, "category": "power"}

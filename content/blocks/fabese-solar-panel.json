@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fabese solar panel", "description": "...", "size": 3, "health": 371, "requirements": [{"item": "fabese", "amount": 8}, {"item": "tomufa", "amount": 12}, {"item": "pehy", "amount": 9}], "research": "fabese-factory", "powerProduction": 0.032160823908760246, "category": "power"}

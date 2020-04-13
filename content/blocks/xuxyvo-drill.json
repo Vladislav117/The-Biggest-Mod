@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xuxyvo drill", "description": "...", "size": 2, "health": 263, "tier": 1, "drillTime": 17, "consumes": {"power": 3}, "requirements": [{"item": "xuxyvo", "amount": 18}, {"item": "kype", "amount": 1}, {"item": "geponium", "amount": 2}], "research": "xuxyvo-factory", "category": "production"}

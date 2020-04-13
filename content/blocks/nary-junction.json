@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nary junction", "description": "...", "health": 29, "speed": 11, "capacity": 9, "size": 1, "requirements": [{"item": "nary", "amount": 2}, {"item": "kepexe", "amount": 5}], "research": "nary-conveyor", "category": "distribution"}

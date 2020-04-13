@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "seqi solar panel", "description": "...", "size": 3, "health": 260, "requirements": [{"item": "seqi", "amount": 19}, {"item": "fecufy", "amount": 7}, {"item": "yukuzo", "amount": 8}], "research": "seqi-factory", "powerProduction": 0.44434146302417227, "category": "power"}

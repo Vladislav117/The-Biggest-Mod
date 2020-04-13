@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small puho power node", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "puho", "amount": 11}, {"item": "cyru", "amount": 1}, {"item": "byro", "amount": 7}], "research": "puho-factory", "maxNodes": 11, "laserRange": 11, "category": "power"}

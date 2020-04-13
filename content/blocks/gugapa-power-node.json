@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gugapa power node", "description": "...", "size": 2, "health": 509, "requirements": [{"item": "gugapa", "amount": 7}, {"item": "luvonium", "amount": 16}, {"item": "maqe", "amount": 3}], "research": "gugapa-factory", "maxNodes": 39, "laserRange": 30, "category": "power"}

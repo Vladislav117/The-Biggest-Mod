@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zufenium sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "zufenium", "amount": 5}, {"item": "yomi", "amount": 2}], "research": "zufenium-conveyor", "category": "distribution", "invert": false}

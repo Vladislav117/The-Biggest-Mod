@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small waty battery", "description": "...", "size": 1, "health": 193, "requirements": [{"item": "waty", "amount": 2}, {"item": "hotose", "amount": 5}, {"item": "jyfare", "amount": 5}], "research": "waty-factory", "consumes": {"powerBuffered": 2139}, "category": "power"}

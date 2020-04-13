@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vipoja liquid router", "description": "...", "size": 1, "health": 77, "requirements": [{"item": "vipoja", "amount": 2}, {"item": "ciba", "amount": 7}, {"item": "siga", "amount": 5}], "research": "vipoja-conduit", "liquidCapacity": 10, "category": "liquid"}

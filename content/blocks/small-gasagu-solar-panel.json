@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gasagu solar panel", "description": "...", "size": 1, "health": 267, "requirements": [{"item": "gasagu", "amount": 15}, {"item": "rihonium", "amount": 5}, {"item": "vevudinium", "amount": 6}], "research": "gasagu-factory", "powerProduction": 4.476882331013779, "category": "power"}

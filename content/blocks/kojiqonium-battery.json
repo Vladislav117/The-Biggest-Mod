@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kojiqonium battery", "description": "...", "size": 3, "health": 43, "requirements": [{"item": "kojiqonium", "amount": 15}, {"item": "widydo", "amount": 4}, {"item": "telinium", "amount": 9}], "research": "kojiqonium-factory", "consumes": {"powerBuffered": 5831}, "category": "power"}

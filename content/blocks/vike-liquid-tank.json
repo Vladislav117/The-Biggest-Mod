@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vike liquid tank", "description": "...", "health": 467, "size": 3, "requirements": [{"item": "vike", "amount": 16}, {"item": "gozagy", "amount": 6}, {"item": "muse", "amount": 1}], "research": "vike-conduit", "category": "liquid", "liquidCapacity": 4049, "hasLiquids": true}

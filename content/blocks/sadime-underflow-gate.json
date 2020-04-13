@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sadime underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "sadime", "amount": 2}, {"item": "sudu", "amount": 2}], "research": "sadime-conveyor", "category": "distribution", "invert": false}

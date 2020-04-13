@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zocumo sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "zocumo", "amount": 3}, {"item": "pylonium", "amount": 1}], "research": "zocumo-conveyor", "category": "distribution", "invert": false}

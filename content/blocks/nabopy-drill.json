@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nabopy drill", "description": "...", "size": 3, "health": 313, "tier": 2, "drillTime": 11, "consumes": {"power": 20}, "requirements": [{"item": "nabopy", "amount": 1}, {"item": "nolo", "amount": 6}, {"item": "zivo", "amount": 9}], "research": "nabopy-factory", "category": "production"}

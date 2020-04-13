@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wymosy power node", "description": "...", "size": 2, "health": 199, "requirements": [{"item": "wymosy", "amount": 13}, {"item": "huxi", "amount": 4}, {"item": "vybemi", "amount": 1}], "research": "wymosy-factory", "maxNodes": 44, "laserRange": 15, "category": "power"}

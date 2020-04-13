@@ -1,0 +1,1 @@
+{"type": "battery", "name": "copa battery", "description": "...", "size": 3, "health": 350, "requirements": [{"item": "copa", "amount": 2}, {"item": "jexanium", "amount": 13}, {"item": "porafa", "amount": 4}], "research": "copa-factory", "consumes": {"powerBuffered": 2107}, "category": "power"}

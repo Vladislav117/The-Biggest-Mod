@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "syjo conduit", "description": "...", "health": 69, "requirements": [{"item": "syjo", "amount": 14}, {"item": "kuju", "amount": 18}, {"item": "jogi", "amount": 4}], "liquidCapacity": 1, "liquidPressure": 4, "research": "syjo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hatinium conduit", "description": "...", "health": 101, "requirements": [{"item": "hatinium", "amount": 12}, {"item": "miqomy", "amount": 6}, {"item": "vixuca", "amount": 1}], "liquidCapacity": 8, "liquidPressure": 3, "research": "hatinium-factory", "category": "liquid"}

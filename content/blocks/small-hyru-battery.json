@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hyru battery", "description": "...", "size": 1, "health": 400, "requirements": [{"item": "hyru", "amount": 4}, {"item": "nuko", "amount": 16}, {"item": "xiga", "amount": 5}], "research": "hyru-factory", "consumes": {"powerBuffered": 346}, "category": "power"}

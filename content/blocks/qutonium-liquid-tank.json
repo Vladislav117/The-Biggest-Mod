@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qutonium liquid tank", "description": "...", "health": 354, "size": 3, "requirements": [{"item": "qutonium", "amount": 2}, {"item": "hogyse", "amount": 16}, {"item": "voje", "amount": 10}], "research": "qutonium-conduit", "category": "liquid", "liquidCapacity": 67762, "hasLiquids": true}

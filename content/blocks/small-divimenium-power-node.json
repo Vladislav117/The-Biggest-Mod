@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small divimenium power node", "description": "...", "size": 1, "health": 229, "requirements": [{"item": "divimenium", "amount": 6}, {"item": "xipyvu", "amount": 4}, {"item": "wuna", "amount": 2}], "research": "divimenium-factory", "maxNodes": 3, "laserRange": 22, "category": "power"}

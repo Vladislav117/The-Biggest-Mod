@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qutonium conduit", "description": "...", "health": 165, "requirements": [{"item": "qutonium", "amount": 8}, {"item": "nuzivo", "amount": 1}, {"item": "laxu", "amount": 10}], "liquidCapacity": 47, "liquidPressure": 2, "research": "qutonium-factory", "category": "liquid"}

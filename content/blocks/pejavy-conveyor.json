@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pejavy conveyor", "description": "...", "health": 93, "requirements": [{"item": "pejavy", "amount": 3}, {"item": "cokigo", "amount": 7}], "speed": 0.1070140823260331, "research": "pejavy-factory", "category": "distribution"}

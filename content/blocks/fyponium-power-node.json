@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fyponium power node", "description": "...", "size": 2, "health": 565, "requirements": [{"item": "fyponium", "amount": 14}, {"item": "temu", "amount": 1}, {"item": "vevi", "amount": 6}], "research": "fyponium-factory", "maxNodes": 49, "laserRange": 30, "category": "power"}

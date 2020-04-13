@@ -1,0 +1,1 @@
+{"type": "junction", "name": "totiji junction", "description": "...", "health": 24, "speed": 5, "capacity": 17, "size": 1, "requirements": [{"item": "totiji", "amount": 5}, {"item": "zypiqi", "amount": 1}], "research": "totiji-conveyor", "category": "distribution"}

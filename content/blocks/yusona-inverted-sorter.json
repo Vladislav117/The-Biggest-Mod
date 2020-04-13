@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yusona inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "yusona", "amount": 3}, {"item": "lebo", "amount": 4}], "research": "yusona-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kynesi liquid tank", "description": "...", "health": 464, "size": 3, "requirements": [{"item": "kynesi", "amount": 15}, {"item": "cizyqe", "amount": 11}, {"item": "nataki", "amount": 4}], "research": "kynesi-conduit", "category": "liquid", "liquidCapacity": 92229, "hasLiquids": true}

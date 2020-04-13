@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tiqeti battery", "description": "...", "size": 1, "health": 272, "requirements": [{"item": "tiqeti", "amount": 18}, {"item": "qubyra", "amount": 17}, {"item": "tujy", "amount": 2}], "research": "tiqeti-factory", "consumes": {"powerBuffered": 605}, "category": "power"}

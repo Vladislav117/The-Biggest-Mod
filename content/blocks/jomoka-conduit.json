@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jomoka conduit", "description": "...", "health": 199, "requirements": [{"item": "jomoka", "amount": 1}, {"item": "thorium", "amount": 5}, {"item": "lyheti", "amount": 2}], "liquidCapacity": 45, "liquidPressure": 8, "research": "jomoka-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gagyby inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "gagyby", "amount": 3}, {"item": "qoly", "amount": 4}], "research": "gagyby-conveyor", "category": "distribution", "invert": true}

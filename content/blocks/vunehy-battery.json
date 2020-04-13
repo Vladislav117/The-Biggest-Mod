@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vunehy battery", "description": "...", "size": 3, "health": 171, "requirements": [{"item": "vunehy", "amount": 10}, {"item": "gona", "amount": 6}, {"item": "gaxenium", "amount": 3}], "research": "vunehy-factory", "consumes": {"powerBuffered": 5789}, "category": "power"}

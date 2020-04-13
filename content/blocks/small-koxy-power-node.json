@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small koxy power node", "description": "...", "size": 1, "health": 165, "requirements": [{"item": "koxy", "amount": 6}, {"item": "tayi", "amount": 8}, {"item": "zehonium", "amount": 6}], "research": "koxy-factory", "maxNodes": 2, "laserRange": 3, "category": "power"}

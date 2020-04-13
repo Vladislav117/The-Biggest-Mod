@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jugowe conduit", "description": "...", "health": 145, "requirements": [{"item": "jugowe", "amount": 20}, {"item": "kipiyenium", "amount": 16}, {"item": "lahy", "amount": 9}], "liquidCapacity": 48, "liquidPressure": 6, "research": "jugowe-factory", "category": "liquid"}

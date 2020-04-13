@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xexumi power node", "description": "...", "size": 1, "health": 129, "requirements": [{"item": "xexumi", "amount": 14}, {"item": "gineta", "amount": 19}, {"item": "qylino", "amount": 1}], "research": "xexumi-factory", "maxNodes": 2, "laserRange": 3, "category": "power"}

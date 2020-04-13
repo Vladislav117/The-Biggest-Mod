@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "guhile power node", "description": "...", "size": 2, "health": 156, "requirements": [{"item": "guhile", "amount": 14}, {"item": "mabyra", "amount": 10}, {"item": "vuna", "amount": 8}], "research": "guhile-factory", "maxNodes": 60, "laserRange": 14, "category": "power"}

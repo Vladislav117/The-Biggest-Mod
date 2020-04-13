@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yisi battery", "description": "...", "size": 1, "health": 331, "requirements": [{"item": "yisi", "amount": 4}, {"item": "pezale", "amount": 12}, {"item": "pyce", "amount": 7}], "research": "yisi-factory", "consumes": {"powerBuffered": 1235}, "category": "power"}

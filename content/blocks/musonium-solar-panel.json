@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "musonium solar panel", "description": "...", "size": 3, "health": 11, "requirements": [{"item": "musonium", "amount": 3}, {"item": "fyhynium", "amount": 3}, {"item": "ryqaje", "amount": 5}], "research": "musonium-factory", "powerProduction": 0.4466235825561473, "category": "power"}

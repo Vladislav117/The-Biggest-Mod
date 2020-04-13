@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tamuna underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "tamuna", "amount": 2}, {"item": "dewira", "amount": 5}], "research": "tamuna-conveyor", "category": "distribution", "invert": false}

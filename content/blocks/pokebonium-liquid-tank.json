@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pokebonium liquid tank", "description": "...", "health": 620, "size": 3, "requirements": [{"item": "pokebonium", "amount": 19}, {"item": "rukycu", "amount": 1}, {"item": "kaqa", "amount": 6}], "research": "pokebonium-conduit", "category": "liquid", "liquidCapacity": 36145, "hasLiquids": true}

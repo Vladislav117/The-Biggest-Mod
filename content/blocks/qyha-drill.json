@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qyha drill", "description": "...", "size": 4, "health": 102, "tier": 3, "drillTime": 7, "consumes": {"power": 7}, "requirements": [{"item": "qyha", "amount": 10}, {"item": "zuzequ", "amount": 12}, {"item": "lead", "amount": 10}], "research": "qyha-factory", "category": "production"}

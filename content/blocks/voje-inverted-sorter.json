@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "voje inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "voje", "amount": 5}, {"item": "bexa", "amount": 5}], "research": "voje-conveyor", "category": "distribution", "invert": true}

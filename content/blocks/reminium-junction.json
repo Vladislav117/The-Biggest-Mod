@@ -1,0 +1,1 @@
+{"type": "junction", "name": "reminium junction", "description": "...", "health": 8, "speed": 5, "capacity": 20, "size": 1, "requirements": [{"item": "reminium", "amount": 3}, {"item": "lavysunium", "amount": 2}], "research": "reminium-conveyor", "category": "distribution"}

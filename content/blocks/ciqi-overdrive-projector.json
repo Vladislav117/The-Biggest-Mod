@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "ciqi overdrive projector", "description": "...", "health": 71, "consumes": {"power": 3.0, "item": "ciqi"}, "size": 2, "requirements": [{"item": "ciqi", "amount": 10}, {"item": "yexowy", "amount": 17}, {"item": "hufema", "amount": 1}], "research": "ciqi-factory", "category": "effect"}

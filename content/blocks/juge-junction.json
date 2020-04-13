@@ -1,0 +1,1 @@
+{"type": "junction", "name": "juge junction", "description": "...", "health": 44, "speed": 6, "capacity": 14, "size": 1, "requirements": [{"item": "juge", "amount": 5}, {"item": "rexo", "amount": 2}], "research": "juge-conveyor", "category": "distribution"}

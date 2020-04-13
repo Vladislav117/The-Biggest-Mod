@@ -1,0 +1,1 @@
+{"type": "battery", "name": "luvaji battery", "description": "...", "size": 3, "health": 25, "requirements": [{"item": "luvaji", "amount": 11}, {"item": "pyge", "amount": 10}, {"item": "kuza", "amount": 8}], "research": "luvaji-factory", "consumes": {"powerBuffered": 8336}, "category": "power"}

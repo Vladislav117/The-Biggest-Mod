@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kujodo sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "kujodo", "amount": 3}, {"item": "ceny", "amount": 2}], "research": "kujodo-conveyor", "category": "distribution", "invert": false}

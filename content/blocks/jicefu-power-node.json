@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jicefu power node", "description": "...", "size": 2, "health": 699, "requirements": [{"item": "jicefu", "amount": 11}, {"item": "gakipy", "amount": 11}, {"item": "puzanium", "amount": 1}], "research": "jicefu-factory", "maxNodes": 58, "laserRange": 26, "category": "power"}

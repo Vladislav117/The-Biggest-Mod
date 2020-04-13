@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cevu liquid tank", "description": "...", "health": 242, "size": 3, "requirements": [{"item": "cevu", "amount": 20}, {"item": "fyfoni", "amount": 11}, {"item": "jiyomonium", "amount": 5}], "research": "cevu-conduit", "category": "liquid", "liquidCapacity": 28321, "hasLiquids": true}

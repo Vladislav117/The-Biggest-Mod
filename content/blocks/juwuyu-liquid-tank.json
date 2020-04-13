@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "juwuyu liquid tank", "description": "...", "health": 264, "size": 3, "requirements": [{"item": "juwuyu", "amount": 3}, {"item": "wita", "amount": 19}, {"item": "fino", "amount": 1}], "research": "juwuyu-conduit", "category": "liquid", "liquidCapacity": 80590, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fyfy solar panel", "description": "...", "size": 3, "health": 46, "requirements": [{"item": "fyfy", "amount": 18}, {"item": "soyase", "amount": 9}, {"item": "caxoni", "amount": 9}], "research": "fyfy-factory", "powerProduction": 0.40998018504582157, "category": "power"}

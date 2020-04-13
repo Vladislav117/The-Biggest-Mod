@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lunurinium sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "lunurinium", "amount": 3}, {"item": "puti", "amount": 4}], "research": "lunurinium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tanaxi solar panel", "description": "...", "size": 3, "health": 266, "requirements": [{"item": "tanaxi", "amount": 2}, {"item": "xesu", "amount": 2}, {"item": "cuba", "amount": 9}], "research": "tanaxi-factory", "powerProduction": 2.223168014636968, "category": "power"}

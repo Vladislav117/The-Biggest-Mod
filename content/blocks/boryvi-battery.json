@@ -1,0 +1,1 @@
+{"type": "battery", "name": "boryvi battery", "description": "...", "size": 3, "health": 146, "requirements": [{"item": "boryvi", "amount": 9}, {"item": "bily", "amount": 16}, {"item": "falo", "amount": 10}], "research": "boryvi-factory", "consumes": {"powerBuffered": 5568}, "category": "power"}

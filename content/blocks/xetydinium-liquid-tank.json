@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xetydinium liquid tank", "description": "...", "health": 494, "size": 3, "requirements": [{"item": "xetydinium", "amount": 9}, {"item": "fegy", "amount": 10}, {"item": "boqi", "amount": 1}], "research": "xetydinium-conduit", "category": "liquid", "liquidCapacity": 109903, "hasLiquids": true}

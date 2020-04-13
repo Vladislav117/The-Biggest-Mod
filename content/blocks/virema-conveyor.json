@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "virema conveyor", "description": "...", "health": 52, "requirements": [{"item": "virema", "amount": 10}, {"item": "dowa", "amount": 2}], "speed": 0.16877426864200334, "research": "virema-factory", "category": "distribution"}

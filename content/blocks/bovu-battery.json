@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bovu battery", "description": "...", "size": 3, "health": 399, "requirements": [{"item": "bovu", "amount": 16}, {"item": "cydeyy", "amount": 9}, {"item": "tisanium", "amount": 4}], "research": "bovu-factory", "consumes": {"powerBuffered": 1952}, "category": "power"}

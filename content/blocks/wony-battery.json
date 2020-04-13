@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wony battery", "description": "...", "size": 3, "health": 152, "requirements": [{"item": "wony", "amount": 9}, {"item": "yezaku", "amount": 7}, {"item": "hajo", "amount": 9}], "research": "wony-factory", "consumes": {"powerBuffered": 9384}, "category": "power"}

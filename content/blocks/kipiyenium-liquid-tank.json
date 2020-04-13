@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kipiyenium liquid tank", "description": "...", "health": 465, "size": 3, "requirements": [{"item": "kipiyenium", "amount": 1}, {"item": "zowenium", "amount": 19}, {"item": "jazozu", "amount": 8}], "research": "kipiyenium-conduit", "category": "liquid", "liquidCapacity": 60717, "hasLiquids": true}

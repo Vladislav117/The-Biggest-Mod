@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rigiro overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "rigiro", "amount": 4}, {"item": "buzidinium", "amount": 5}], "research": "rigiro-conveyor", "category": "distribution", "invert": false}

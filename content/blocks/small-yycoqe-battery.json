@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yycoqe battery", "description": "...", "size": 1, "health": 275, "requirements": [{"item": "yycoqe", "amount": 13}, {"item": "graphite", "amount": 18}, {"item": "vanuhenium", "amount": 4}], "research": "yycoqe-factory", "consumes": {"powerBuffered": 1014}, "category": "power"}

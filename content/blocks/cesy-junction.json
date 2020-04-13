@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cesy junction", "description": "...", "health": 24, "speed": 2, "capacity": 12, "size": 1, "requirements": [{"item": "cesy", "amount": 5}, {"item": "jiry", "amount": 5}], "research": "cesy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wupi inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "wupi", "amount": 4}, {"item": "gyty", "amount": 4}], "research": "wupi-conveyor", "category": "distribution", "invert": true}

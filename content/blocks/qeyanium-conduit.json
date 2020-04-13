@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qeyanium conduit", "description": "...", "health": 54, "requirements": [{"item": "qeyanium", "amount": 18}, {"item": "xynice", "amount": 5}, {"item": "manihe", "amount": 5}], "liquidCapacity": 50, "liquidPressure": 8, "research": "qeyanium-factory", "category": "liquid"}

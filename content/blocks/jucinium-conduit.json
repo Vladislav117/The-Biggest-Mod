@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jucinium conduit", "description": "...", "health": 173, "requirements": [{"item": "jucinium", "amount": 16}, {"item": "rehodunium", "amount": 11}, {"item": "kefy", "amount": 7}], "liquidCapacity": 21, "liquidPressure": 6, "research": "jucinium-factory", "category": "liquid"}

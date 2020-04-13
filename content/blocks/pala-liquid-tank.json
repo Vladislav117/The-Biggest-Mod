@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pala liquid tank", "description": "...", "health": 121, "size": 3, "requirements": [{"item": "pala", "amount": 16}, {"item": "jexanium", "amount": 3}, {"item": "wupixonium", "amount": 8}], "research": "pala-conduit", "category": "liquid", "liquidCapacity": 111846, "hasLiquids": true}

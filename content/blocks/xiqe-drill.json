@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xiqe drill", "description": "...", "size": 3, "health": 134, "tier": 4, "drillTime": 8, "consumes": {"power": 2}, "requirements": [{"item": "xiqe", "amount": 12}, {"item": "zedo", "amount": 17}, {"item": "liba", "amount": 8}], "research": "xiqe-factory", "category": "production"}

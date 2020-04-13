@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cypi inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "cypi", "amount": 4}, {"item": "dywo", "amount": 2}], "research": "cypi-conveyor", "category": "distribution", "invert": true}

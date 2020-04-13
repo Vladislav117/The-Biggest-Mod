@@ -1,0 +1,1 @@
+{"type": "junction", "name": "robyto junction", "description": "...", "health": 6, "speed": 5, "capacity": 18, "size": 1, "requirements": [{"item": "robyto", "amount": 3}, {"item": "myra", "amount": 3}], "research": "robyto-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xylidinium liquid tank", "description": "...", "health": 549, "size": 3, "requirements": [{"item": "xylidinium", "amount": 5}, {"item": "byhonium", "amount": 7}, {"item": "gymypa", "amount": 4}], "research": "xylidinium-conduit", "category": "liquid", "liquidCapacity": 91362, "hasLiquids": true}

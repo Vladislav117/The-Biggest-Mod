@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small teyipu battery", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "teyipu", "amount": 10}, {"item": "wohy", "amount": 19}, {"item": "heruru", "amount": 7}], "research": "teyipu-factory", "consumes": {"powerBuffered": 1028}, "category": "power"}

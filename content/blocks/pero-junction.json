@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pero junction", "description": "...", "health": 11, "speed": 8, "capacity": 1, "size": 1, "requirements": [{"item": "pero", "amount": 3}, {"item": "cyru", "amount": 3}], "research": "pero-conveyor", "category": "distribution"}

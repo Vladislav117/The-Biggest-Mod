@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gemoco sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "gemoco", "amount": 3}, {"item": "bovu", "amount": 5}], "research": "gemoco-conveyor", "category": "distribution", "invert": false}

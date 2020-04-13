@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zipeye liquid tank", "description": "...", "health": 199, "size": 3, "requirements": [{"item": "zipeye", "amount": 11}, {"item": "nunaby", "amount": 7}, {"item": "kymu", "amount": 6}], "research": "zipeye-conduit", "category": "liquid", "liquidCapacity": 78051, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qyry battery", "description": "...", "size": 3, "health": 206, "requirements": [{"item": "qyry", "amount": 8}, {"item": "kawo", "amount": 17}, {"item": "lyceca", "amount": 10}], "research": "qyry-factory", "consumes": {"powerBuffered": 1252}, "category": "power"}

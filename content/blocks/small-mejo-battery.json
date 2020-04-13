@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mejo battery", "description": "...", "size": 1, "health": 178, "requirements": [{"item": "mejo", "amount": 11}, {"item": "yewuvi", "amount": 10}, {"item": "kyfahu", "amount": 7}], "research": "mejo-factory", "consumes": {"powerBuffered": 1481}, "category": "power"}

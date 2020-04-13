@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wulyso underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "wulyso", "amount": 3}, {"item": "caxoni", "amount": 5}], "research": "wulyso-conveyor", "category": "distribution", "invert": false}

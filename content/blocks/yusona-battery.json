@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yusona battery", "description": "...", "size": 3, "health": 264, "requirements": [{"item": "yusona", "amount": 13}, {"item": "mapo", "amount": 10}, {"item": "koci", "amount": 9}], "research": "yusona-factory", "consumes": {"powerBuffered": 5877}, "category": "power"}

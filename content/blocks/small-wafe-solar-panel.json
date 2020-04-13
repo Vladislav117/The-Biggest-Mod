@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wafe solar panel", "description": "...", "size": 1, "health": 346, "requirements": [{"item": "wafe", "amount": 10}, {"item": "xuricy", "amount": 7}, {"item": "toma", "amount": 10}], "research": "wafe-factory", "powerProduction": 0.12197463555103148, "category": "power"}

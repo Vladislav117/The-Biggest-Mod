@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "togonium inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "togonium", "amount": 4}, {"item": "potesonium", "amount": 3}], "research": "togonium-conveyor", "category": "distribution", "invert": true}

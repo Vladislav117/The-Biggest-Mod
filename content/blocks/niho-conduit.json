@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "niho conduit", "description": "...", "health": 160, "requirements": [{"item": "niho", "amount": 19}, {"item": "phase-fabric", "amount": 15}, {"item": "leriki", "amount": 5}], "liquidCapacity": 26, "liquidPressure": 7, "research": "niho-factory", "category": "liquid"}

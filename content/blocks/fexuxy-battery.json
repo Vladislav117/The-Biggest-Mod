@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fexuxy battery", "description": "...", "size": 3, "health": 11, "requirements": [{"item": "fexuxy", "amount": 6}, {"item": "hogo", "amount": 8}, {"item": "puzybo", "amount": 4}], "research": "fexuxy-factory", "consumes": {"powerBuffered": 6523}, "category": "power"}

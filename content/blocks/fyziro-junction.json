@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fyziro junction", "description": "...", "health": 48, "speed": 17, "capacity": 5, "size": 1, "requirements": [{"item": "fyziro", "amount": 4}, {"item": "wiqunium", "amount": 3}], "research": "fyziro-conveyor", "category": "distribution"}

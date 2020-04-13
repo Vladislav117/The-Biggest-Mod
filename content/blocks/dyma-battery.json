@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dyma battery", "description": "...", "size": 3, "health": 113, "requirements": [{"item": "dyma", "amount": 3}, {"item": "judu", "amount": 4}, {"item": "cohifa", "amount": 4}], "research": "dyma-factory", "consumes": {"powerBuffered": 3073}, "category": "power"}

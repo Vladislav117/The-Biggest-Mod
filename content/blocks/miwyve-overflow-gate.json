@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "miwyve overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "miwyve", "amount": 4}, {"item": "kejinium", "amount": 2}], "research": "miwyve-conveyor", "category": "distribution", "invert": false}

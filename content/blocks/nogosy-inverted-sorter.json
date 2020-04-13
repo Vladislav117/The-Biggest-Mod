@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nogosy inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "nogosy", "amount": 1}, {"item": "qiregynium", "amount": 2}], "research": "nogosy-conveyor", "category": "distribution", "invert": true}

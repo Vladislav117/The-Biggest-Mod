@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lygake junction", "description": "...", "health": 4, "speed": 20, "capacity": 4, "size": 1, "requirements": [{"item": "lygake", "amount": 5}, {"item": "daqy", "amount": 4}], "research": "lygake-conveyor", "category": "distribution"}

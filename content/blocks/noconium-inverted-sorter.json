@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "noconium inverted sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "noconium", "amount": 2}, {"item": "xodofu", "amount": 5}], "research": "noconium-conveyor", "category": "distribution", "invert": true}

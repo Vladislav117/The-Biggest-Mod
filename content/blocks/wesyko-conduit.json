@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wesyko conduit", "description": "...", "health": 90, "requirements": [{"item": "wesyko", "amount": 10}, {"item": "xuzy", "amount": 3}, {"item": "zokacu", "amount": 2}], "liquidCapacity": 11, "liquidPressure": 8, "research": "wesyko-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yage battery", "description": "...", "size": 1, "health": 263, "requirements": [{"item": "yage", "amount": 7}, {"item": "rylyki", "amount": 12}, {"item": "fisy", "amount": 2}], "research": "yage-factory", "consumes": {"powerBuffered": 2281}, "category": "power"}

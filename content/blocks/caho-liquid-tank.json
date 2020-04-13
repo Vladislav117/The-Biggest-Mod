@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "caho liquid tank", "description": "...", "health": 573, "size": 3, "requirements": [{"item": "caho", "amount": 18}, {"item": "vohiyynium", "amount": 13}, {"item": "xyco", "amount": 7}], "research": "caho-conduit", "category": "liquid", "liquidCapacity": 108115, "hasLiquids": true}

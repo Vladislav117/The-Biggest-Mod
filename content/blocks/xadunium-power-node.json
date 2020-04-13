@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xadunium power node", "description": "...", "size": 2, "health": 754, "requirements": [{"item": "xadunium", "amount": 17}, {"item": "fegy", "amount": 13}, {"item": "mygo", "amount": 3}], "research": "xadunium-factory", "maxNodes": 13, "laserRange": 7, "category": "power"}

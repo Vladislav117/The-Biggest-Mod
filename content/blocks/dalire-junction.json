@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dalire junction", "description": "...", "health": 14, "speed": 8, "capacity": 13, "size": 1, "requirements": [{"item": "dalire", "amount": 3}, {"item": "yirere", "amount": 1}], "research": "dalire-conveyor", "category": "distribution"}

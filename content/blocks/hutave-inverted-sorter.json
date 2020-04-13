@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hutave inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "hutave", "amount": 5}, {"item": "divimenium", "amount": 2}], "research": "hutave-conveyor", "category": "distribution", "invert": true}

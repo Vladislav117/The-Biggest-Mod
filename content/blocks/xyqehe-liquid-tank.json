@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xyqehe liquid tank", "description": "...", "health": 551, "size": 3, "requirements": [{"item": "xyqehe", "amount": 3}, {"item": "zoyynium", "amount": 10}, {"item": "foqi", "amount": 9}], "research": "xyqehe-conduit", "category": "liquid", "liquidCapacity": 48134, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "weju power node", "description": "...", "size": 2, "health": 795, "requirements": [{"item": "weju", "amount": 5}, {"item": "tebi", "amount": 20}, {"item": "kani", "amount": 3}], "research": "weju-factory", "maxNodes": 59, "laserRange": 12, "category": "power"}

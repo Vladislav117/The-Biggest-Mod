@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bapi bridge conveyor", "description": "", "health": 36, "range": 5, "speed": 9, "bufferCapacity": 21, "requirements": [{"item": "bapi", "amount": 1}, {"item": "tezila", "amount": 2}], "research": "bapi-conveyor", "category": "distribution", "size": 1}

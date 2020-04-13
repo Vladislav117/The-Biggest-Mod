@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tobaye battery", "description": "...", "size": 1, "health": 272, "requirements": [{"item": "tobaye", "amount": 19}, {"item": "zexi", "amount": 17}, {"item": "nunanunium", "amount": 6}], "research": "tobaye-factory", "consumes": {"powerBuffered": 2585}, "category": "power"}

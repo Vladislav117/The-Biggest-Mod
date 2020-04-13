@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tivu drill", "description": "...", "size": 4, "health": 309, "tier": 3, "drillTime": 2, "consumes": {"power": 7}, "requirements": [{"item": "tivu", "amount": 5}, {"item": "bywazy", "amount": 15}, {"item": "zafuqo", "amount": 5}], "research": "tivu-factory", "category": "production"}

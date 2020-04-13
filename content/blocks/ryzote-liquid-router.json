@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ryzote liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "ryzote", "amount": 3}, {"item": "naronium", "amount": 5}, {"item": "direme", "amount": 2}], "research": "ryzote-conduit", "liquidCapacity": 10, "category": "liquid"}

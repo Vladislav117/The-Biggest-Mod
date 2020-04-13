@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cyve liquid tank", "description": "...", "health": 565, "size": 3, "requirements": [{"item": "cyve", "amount": 3}, {"item": "tygunium", "amount": 3}, {"item": "mihuranium", "amount": 7}], "research": "cyve-conduit", "category": "liquid", "liquidCapacity": 71462, "hasLiquids": true}

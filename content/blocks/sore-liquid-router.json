@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sore liquid router", "description": "...", "size": 1, "health": 84, "requirements": [{"item": "sore", "amount": 12}, {"item": "sacigi", "amount": 1}, {"item": "kubi", "amount": 10}], "research": "sore-conduit", "liquidCapacity": 10, "category": "liquid"}

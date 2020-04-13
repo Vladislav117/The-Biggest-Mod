@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hytuki power node", "description": "...", "size": 2, "health": 589, "requirements": [{"item": "hytuki", "amount": 18}, {"item": "bole", "amount": 15}, {"item": "lumasunium", "amount": 6}], "research": "hytuki-factory", "maxNodes": 37, "laserRange": 26, "category": "power"}

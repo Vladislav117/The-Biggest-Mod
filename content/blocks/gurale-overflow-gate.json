@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gurale overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "gurale", "amount": 4}, {"item": "yype", "amount": 2}], "research": "gurale-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gyfi solar panel", "description": "...", "size": 3, "health": 25, "requirements": [{"item": "gyfi", "amount": 8}, {"item": "kyte", "amount": 17}, {"item": "kyna", "amount": 1}], "research": "gyfi-factory", "powerProduction": 0.41552664642962256, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "syqi overflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "syqi", "amount": 4}, {"item": "lucohi", "amount": 1}], "research": "syqi-conveyor", "category": "distribution", "invert": false}

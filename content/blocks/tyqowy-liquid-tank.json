@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tyqowy liquid tank", "description": "...", "health": 372, "size": 3, "requirements": [{"item": "tyqowy", "amount": 10}, {"item": "bacone", "amount": 7}, {"item": "mujuly", "amount": 5}], "research": "tyqowy-conduit", "category": "liquid", "liquidCapacity": 11259, "hasLiquids": true}

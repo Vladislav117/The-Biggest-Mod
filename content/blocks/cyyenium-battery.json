@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cyyenium battery", "description": "...", "size": 3, "health": 345, "requirements": [{"item": "cyyenium", "amount": 10}, {"item": "daqy", "amount": 4}, {"item": "kegiqi", "amount": 10}], "research": "cyyenium-factory", "consumes": {"powerBuffered": 2575}, "category": "power"}

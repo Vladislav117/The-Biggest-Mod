@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "votawu bridge conveyor", "description": "", "health": 30, "range": 18, "speed": 9, "bufferCapacity": 8, "requirements": [{"item": "votawu", "amount": 4}, {"item": "dyhyzy", "amount": 5}], "research": "votawu-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sipynium liquid router", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "sipynium", "amount": 19}, {"item": "yesolonium", "amount": 5}, {"item": "wace", "amount": 4}], "research": "sipynium-conduit", "liquidCapacity": 10, "category": "liquid"}

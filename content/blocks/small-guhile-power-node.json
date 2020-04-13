@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small guhile power node", "description": "...", "size": 1, "health": 224, "requirements": [{"item": "guhile", "amount": 13}, {"item": "zogeno", "amount": 15}, {"item": "kelurynium", "amount": 9}], "research": "guhile-factory", "maxNodes": 5, "laserRange": 25, "category": "power"}

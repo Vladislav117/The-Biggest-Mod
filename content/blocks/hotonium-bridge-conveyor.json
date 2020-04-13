@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hotonium bridge conveyor", "description": "", "health": 45, "range": 14, "speed": 2, "bufferCapacity": 22, "requirements": [{"item": "hotonium", "amount": 2}, {"item": "cisiwa", "amount": 5}], "research": "hotonium-conveyor", "category": "distribution", "size": 1}

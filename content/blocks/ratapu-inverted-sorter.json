@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ratapu inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "ratapu", "amount": 5}, {"item": "moro", "amount": 5}], "research": "ratapu-conveyor", "category": "distribution", "invert": true}

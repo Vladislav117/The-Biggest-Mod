@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tenuty battery", "description": "...", "size": 3, "health": 47, "requirements": [{"item": "tenuty", "amount": 11}, {"item": "divi", "amount": 1}, {"item": "miry", "amount": 6}], "research": "tenuty-factory", "consumes": {"powerBuffered": 1889}, "category": "power"}

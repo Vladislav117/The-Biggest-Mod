@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small caxoni solar panel", "description": "...", "size": 1, "health": 332, "requirements": [{"item": "caxoni", "amount": 1}, {"item": "cokigo", "amount": 12}, {"item": "gypunium", "amount": 6}], "research": "caxoni-factory", "powerProduction": 4.65166748258817, "category": "power"}

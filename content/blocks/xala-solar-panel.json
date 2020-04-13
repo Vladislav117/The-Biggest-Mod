@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xala solar panel", "description": "...", "size": 3, "health": 96, "requirements": [{"item": "xala", "amount": 14}, {"item": "yeti", "amount": 18}, {"item": "vayera", "amount": 9}], "research": "xala-factory", "powerProduction": 0.35828521845348005, "category": "power"}

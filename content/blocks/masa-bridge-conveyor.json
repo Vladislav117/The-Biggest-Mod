@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "masa bridge conveyor", "description": "", "health": 7, "range": 6, "speed": 20, "bufferCapacity": 25, "requirements": [{"item": "masa", "amount": 5}, {"item": "qiyare", "amount": 5}], "research": "masa-conveyor", "category": "distribution", "size": 1}

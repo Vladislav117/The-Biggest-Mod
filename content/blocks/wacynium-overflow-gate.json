@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wacynium overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "wacynium", "amount": 2}, {"item": "tydeja", "amount": 5}], "research": "wacynium-conveyor", "category": "distribution", "invert": false}

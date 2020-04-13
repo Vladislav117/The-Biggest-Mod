@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "veco bridge conveyor", "description": "", "health": 18, "range": 20, "speed": 19, "bufferCapacity": 17, "requirements": [{"item": "veco", "amount": 5}, {"item": "siqefo", "amount": 2}], "research": "veco-conveyor", "category": "distribution", "size": 1}

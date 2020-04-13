@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small najy power node", "description": "...", "size": 1, "health": 349, "requirements": [{"item": "najy", "amount": 4}, {"item": "metaglass", "amount": 12}, {"item": "sipynium", "amount": 6}], "research": "najy-factory", "maxNodes": 9, "laserRange": 3, "category": "power"}

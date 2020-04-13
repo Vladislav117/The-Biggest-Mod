@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yoli junction", "description": "...", "health": 35, "speed": 15, "capacity": 8, "size": 1, "requirements": [{"item": "yoli", "amount": 3}, {"item": "hezy", "amount": 2}], "research": "yoli-conveyor", "category": "distribution"}

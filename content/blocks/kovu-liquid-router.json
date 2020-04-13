@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kovu liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "kovu", "amount": 19}, {"item": "jakate", "amount": 8}, {"item": "hagunium", "amount": 9}], "research": "kovu-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rajizu junction", "description": "...", "health": 33, "speed": 18, "capacity": 10, "size": 1, "requirements": [{"item": "rajizu", "amount": 4}, {"item": "donysenium", "amount": 4}], "research": "rajizu-conveyor", "category": "distribution"}

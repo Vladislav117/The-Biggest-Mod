@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ryzote junction", "description": "...", "health": 42, "speed": 9, "capacity": 3, "size": 1, "requirements": [{"item": "ryzote", "amount": 5}, {"item": "gago", "amount": 5}], "research": "ryzote-conveyor", "category": "distribution"}

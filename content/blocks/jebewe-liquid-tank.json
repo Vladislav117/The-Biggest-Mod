@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jebewe liquid tank", "description": "...", "health": 467, "size": 3, "requirements": [{"item": "jebewe", "amount": 10}, {"item": "yyti", "amount": 8}, {"item": "sugamynium", "amount": 3}], "research": "jebewe-conduit", "category": "liquid", "liquidCapacity": 72403, "hasLiquids": true}

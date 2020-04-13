@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small naho power node", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "naho", "amount": 17}, {"item": "qoki", "amount": 19}, {"item": "cokyqo", "amount": 9}], "research": "naho-factory", "maxNodes": 13, "laserRange": 24, "category": "power"}

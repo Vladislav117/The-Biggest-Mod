@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bexa overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "bexa", "amount": 2}, {"item": "vohiyynium", "amount": 1}], "research": "bexa-conveyor", "category": "distribution", "invert": false}

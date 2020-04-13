@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hogo power node", "description": "...", "size": 2, "health": 217, "requirements": [{"item": "hogo", "amount": 13}, {"item": "xeco", "amount": 4}, {"item": "sytafe", "amount": 5}], "research": "hogo-factory", "maxNodes": 51, "laserRange": 20, "category": "power"}

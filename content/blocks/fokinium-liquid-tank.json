@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fokinium liquid tank", "description": "...", "health": 528, "size": 3, "requirements": [{"item": "fokinium", "amount": 8}, {"item": "reno", "amount": 4}, {"item": "cinunium", "amount": 3}], "research": "fokinium-conduit", "category": "liquid", "liquidCapacity": 83622, "hasLiquids": true}

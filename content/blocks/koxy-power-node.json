@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "koxy power node", "description": "...", "size": 2, "health": 308, "requirements": [{"item": "koxy", "amount": 17}, {"item": "siwyqo", "amount": 12}, {"item": "baqelu", "amount": 8}], "research": "koxy-factory", "maxNodes": 47, "laserRange": 22, "category": "power"}

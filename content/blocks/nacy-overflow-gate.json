@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nacy overflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "nacy", "amount": 3}, {"item": "sylunium", "amount": 4}], "research": "nacy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bumaqa inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "bumaqa", "amount": 2}, {"item": "xivi", "amount": 1}], "research": "bumaqa-conveyor", "category": "distribution", "invert": true}

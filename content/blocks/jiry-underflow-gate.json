@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jiry underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "jiry", "amount": 1}, {"item": "mehenium", "amount": 5}], "research": "jiry-conveyor", "category": "distribution", "invert": false}

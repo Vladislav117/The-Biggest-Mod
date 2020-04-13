@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "marici liquid router", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "marici", "amount": 19}, {"item": "gado", "amount": 7}, {"item": "titanium", "amount": 5}], "research": "marici-conduit", "liquidCapacity": 10, "category": "liquid"}

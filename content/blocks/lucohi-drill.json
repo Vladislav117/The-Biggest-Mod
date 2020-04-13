@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lucohi drill", "description": "...", "size": 2, "health": 229, "tier": 1, "drillTime": 3, "consumes": {"power": 13}, "requirements": [{"item": "lucohi", "amount": 3}, {"item": "duhexi", "amount": 8}, {"item": "gahy", "amount": 5}], "research": "lucohi-factory", "category": "production"}

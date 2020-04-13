@@ -1,0 +1,1 @@
+{"type": "battery", "name": "padi battery", "description": "...", "size": 3, "health": 390, "requirements": [{"item": "padi", "amount": 4}, {"item": "zugoni", "amount": 18}, {"item": "nuzivo", "amount": 6}], "research": "padi-factory", "consumes": {"powerBuffered": 7272}, "category": "power"}

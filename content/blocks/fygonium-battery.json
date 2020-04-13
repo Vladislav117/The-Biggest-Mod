@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fygonium battery", "description": "...", "size": 3, "health": 385, "requirements": [{"item": "fygonium", "amount": 15}, {"item": "luly", "amount": 12}, {"item": "velyma", "amount": 6}], "research": "fygonium-factory", "consumes": {"powerBuffered": 6429}, "category": "power"}

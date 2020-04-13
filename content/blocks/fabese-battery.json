@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fabese battery", "description": "...", "size": 3, "health": 157, "requirements": [{"item": "fabese", "amount": 12}, {"item": "coqinium", "amount": 2}, {"item": "rovo", "amount": 5}], "research": "fabese-factory", "consumes": {"powerBuffered": 9060}, "category": "power"}

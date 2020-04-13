@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jege junction", "description": "...", "health": 32, "speed": 1, "capacity": 1, "size": 1, "requirements": [{"item": "jege", "amount": 5}, {"item": "juzu", "amount": 3}], "research": "jege-conveyor", "category": "distribution"}

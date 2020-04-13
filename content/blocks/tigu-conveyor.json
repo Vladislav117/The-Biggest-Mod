@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "tigu conveyor", "description": "...", "health": 44, "requirements": [{"item": "tigu", "amount": 1}, {"item": "hago", "amount": 1}], "speed": 0.22062942280163128, "research": "tigu-factory", "category": "distribution"}

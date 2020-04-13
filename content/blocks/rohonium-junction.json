@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rohonium junction", "description": "...", "health": 49, "speed": 20, "capacity": 4, "size": 1, "requirements": [{"item": "rohonium", "amount": 5}, {"item": "geka", "amount": 5}], "research": "rohonium-conveyor", "category": "distribution"}

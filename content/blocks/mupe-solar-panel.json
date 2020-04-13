@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mupe solar panel", "description": "...", "size": 3, "health": 110, "requirements": [{"item": "mupe", "amount": 6}, {"item": "nipapu", "amount": 10}, {"item": "cozaxo", "amount": 6}], "research": "mupe-factory", "powerProduction": 0.7568117219967833, "category": "power"}

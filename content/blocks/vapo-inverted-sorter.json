@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vapo inverted sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "vapo", "amount": 2}, {"item": "jaju", "amount": 2}], "research": "vapo-conveyor", "category": "distribution", "invert": true}

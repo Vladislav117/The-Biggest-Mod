@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "deceqinium power node", "description": "...", "size": 2, "health": 367, "requirements": [{"item": "deceqinium", "amount": 12}, {"item": "muremi", "amount": 11}, {"item": "taja", "amount": 4}], "research": "deceqinium-factory", "maxNodes": 23, "laserRange": 18, "category": "power"}

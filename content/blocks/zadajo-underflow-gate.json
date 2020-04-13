@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zadajo underflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "zadajo", "amount": 1}, {"item": "kofynium", "amount": 4}], "research": "zadajo-conveyor", "category": "distribution", "invert": false}

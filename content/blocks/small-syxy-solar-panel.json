@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small syxy solar panel", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "syxy", "amount": 17}, {"item": "tiwyna", "amount": 16}, {"item": "vove", "amount": 3}], "research": "syxy-factory", "powerProduction": 1.5936749187874444, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "liqy sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "liqy", "amount": 3}, {"item": "mutevi", "amount": 2}], "research": "liqy-conveyor", "category": "distribution", "invert": false}

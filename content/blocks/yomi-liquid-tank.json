@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yomi liquid tank", "description": "...", "health": 372, "size": 3, "requirements": [{"item": "yomi", "amount": 12}, {"item": "ryte", "amount": 10}, {"item": "bayavo", "amount": 5}], "research": "yomi-conduit", "category": "liquid", "liquidCapacity": 60783, "hasLiquids": true}

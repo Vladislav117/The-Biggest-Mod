@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fimacy liquid tank", "description": "...", "health": 635, "size": 3, "requirements": [{"item": "fimacy", "amount": 14}, {"item": "gapihe", "amount": 4}, {"item": "bipanium", "amount": 2}], "research": "fimacy-conduit", "category": "liquid", "liquidCapacity": 85853, "hasLiquids": true}

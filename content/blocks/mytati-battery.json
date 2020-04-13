@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mytati battery", "description": "...", "size": 3, "health": 194, "requirements": [{"item": "mytati", "amount": 9}, {"item": "phase-fabric", "amount": 2}, {"item": "rosiqe", "amount": 1}], "research": "mytati-factory", "consumes": {"powerBuffered": 3326}, "category": "power"}

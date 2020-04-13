@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gadocy junction", "description": "...", "health": 25, "speed": 17, "capacity": 3, "size": 1, "requirements": [{"item": "gadocy", "amount": 1}, {"item": "vuponium", "amount": 5}], "research": "gadocy-conveyor", "category": "distribution"}

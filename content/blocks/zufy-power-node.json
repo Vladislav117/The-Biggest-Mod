@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zufy power node", "description": "...", "size": 2, "health": 302, "requirements": [{"item": "zufy", "amount": 2}, {"item": "yukoni", "amount": 13}, {"item": "jaweki", "amount": 2}], "research": "zufy-factory", "maxNodes": 35, "laserRange": 11, "category": "power"}

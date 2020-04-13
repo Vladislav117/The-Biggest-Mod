@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jepumi bridge conveyor", "description": "", "health": 44, "range": 15, "speed": 16, "bufferCapacity": 18, "requirements": [{"item": "jepumi", "amount": 1}, {"item": "garyda", "amount": 5}], "research": "jepumi-conveyor", "category": "distribution", "size": 1}

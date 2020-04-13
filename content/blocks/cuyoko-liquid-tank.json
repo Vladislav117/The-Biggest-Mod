@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuyoko liquid tank", "description": "...", "health": 619, "size": 3, "requirements": [{"item": "cuyoko", "amount": 18}, {"item": "mygo", "amount": 2}, {"item": "jeqenium", "amount": 3}], "research": "cuyoko-conduit", "category": "liquid", "liquidCapacity": 113829, "hasLiquids": true}

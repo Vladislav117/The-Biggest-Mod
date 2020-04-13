@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xyyira power node", "description": "...", "size": 2, "health": 513, "requirements": [{"item": "xyyira", "amount": 6}, {"item": "yidugonium", "amount": 13}, {"item": "nyboye", "amount": 1}], "research": "xyyira-factory", "maxNodes": 54, "laserRange": 17, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "latycu solar panel", "description": "...", "size": 3, "health": 378, "requirements": [{"item": "latycu", "amount": 11}, {"item": "fusaji", "amount": 17}, {"item": "yijotu", "amount": 9}], "research": "latycu-factory", "powerProduction": 0.03262412727644883, "category": "power"}

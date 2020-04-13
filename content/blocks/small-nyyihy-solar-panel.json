@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nyyihy solar panel", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "nyyihy", "amount": 8}, {"item": "pavanium", "amount": 1}, {"item": "qakynunium", "amount": 3}], "research": "nyyihy-factory", "powerProduction": 0.8562369988789845, "category": "power"}

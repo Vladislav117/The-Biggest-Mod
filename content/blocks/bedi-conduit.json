@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bedi conduit", "description": "...", "health": 95, "requirements": [{"item": "bedi", "amount": 10}, {"item": "fexaja", "amount": 12}, {"item": "lesy", "amount": 1}], "liquidCapacity": 35, "liquidPressure": 3, "research": "bedi-factory", "category": "liquid"}

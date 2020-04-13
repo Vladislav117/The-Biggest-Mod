@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fete conduit", "description": "...", "health": 90, "requirements": [{"item": "fete", "amount": 15}, {"item": "xuricy", "amount": 20}, {"item": "cukoby", "amount": 2}], "liquidCapacity": 27, "liquidPressure": 10, "research": "fete-factory", "category": "liquid"}

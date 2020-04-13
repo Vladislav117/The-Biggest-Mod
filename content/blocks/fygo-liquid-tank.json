@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fygo liquid tank", "description": "...", "health": 578, "size": 3, "requirements": [{"item": "fygo", "amount": 6}, {"item": "biwehenium", "amount": 7}, {"item": "dina", "amount": 1}], "research": "fygo-conduit", "category": "liquid", "liquidCapacity": 74242, "hasLiquids": true}

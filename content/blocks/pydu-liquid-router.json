@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pydu liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "pydu", "amount": 7}, {"item": "rudinium", "amount": 15}, {"item": "syxy", "amount": 7}], "research": "pydu-conduit", "liquidCapacity": 10, "category": "liquid"}

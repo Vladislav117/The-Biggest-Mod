@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xovu liquid tank", "description": "...", "health": 341, "size": 3, "requirements": [{"item": "xovu", "amount": 10}, {"item": "bywobu", "amount": 10}, {"item": "woqydu", "amount": 5}], "research": "xovu-conduit", "category": "liquid", "liquidCapacity": 79859, "hasLiquids": true}

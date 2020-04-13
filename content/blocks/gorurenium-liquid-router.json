@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gorurenium liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "gorurenium", "amount": 9}, {"item": "sihycu", "amount": 18}, {"item": "yylonium", "amount": 6}], "research": "gorurenium-conduit", "liquidCapacity": 10, "category": "liquid"}

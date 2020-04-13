@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small humynium battery", "description": "...", "size": 1, "health": 69, "requirements": [{"item": "humynium", "amount": 4}, {"item": "lobu", "amount": 11}, {"item": "boqike", "amount": 5}], "research": "humynium-factory", "consumes": {"powerBuffered": 753}, "category": "power"}

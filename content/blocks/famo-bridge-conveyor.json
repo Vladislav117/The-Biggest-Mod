@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "famo bridge conveyor", "description": "", "health": 40, "range": 4, "speed": 9, "bufferCapacity": 9, "requirements": [{"item": "famo", "amount": 2}, {"item": "tibu", "amount": 2}], "research": "famo-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jixaro inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "jixaro", "amount": 2}, {"item": "xipyvu", "amount": 1}], "research": "jixaro-conveyor", "category": "distribution", "invert": true}

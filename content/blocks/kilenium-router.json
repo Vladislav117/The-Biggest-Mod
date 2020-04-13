@@ -1,0 +1,1 @@
+{"type": "router", "name": "kilenium router", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "kilenium", "amount": 4}], "research": "kilenium-conveyor", "category": "distribution"}

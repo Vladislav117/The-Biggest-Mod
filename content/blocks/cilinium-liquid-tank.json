@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cilinium liquid tank", "description": "...", "health": 575, "size": 3, "requirements": [{"item": "cilinium", "amount": 6}, {"item": "garuza", "amount": 20}, {"item": "havano", "amount": 7}], "research": "cilinium-conduit", "category": "liquid", "liquidCapacity": 64636, "hasLiquids": true}

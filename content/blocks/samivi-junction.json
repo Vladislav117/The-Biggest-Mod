@@ -1,0 +1,1 @@
+{"type": "junction", "name": "samivi junction", "description": "...", "health": 50, "speed": 12, "capacity": 11, "size": 1, "requirements": [{"item": "samivi", "amount": 5}, {"item": "vega", "amount": 5}], "research": "samivi-conveyor", "category": "distribution"}

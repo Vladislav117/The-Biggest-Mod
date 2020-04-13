@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zufy solar panel", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "zufy", "amount": 4}, {"item": "buyogenium", "amount": 20}, {"item": "rilo", "amount": 10}], "research": "zufy-factory", "powerProduction": 5.739415242725725, "category": "power"}

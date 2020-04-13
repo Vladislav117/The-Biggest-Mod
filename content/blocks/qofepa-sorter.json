@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qofepa sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "qofepa", "amount": 2}, {"item": "jere", "amount": 4}], "research": "qofepa-conveyor", "category": "distribution", "invert": false}

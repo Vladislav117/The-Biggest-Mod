@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zuvivynium junction", "description": "...", "health": 34, "speed": 18, "capacity": 9, "size": 1, "requirements": [{"item": "zuvivynium", "amount": 4}, {"item": "gawazy", "amount": 4}], "research": "zuvivynium-conveyor", "category": "distribution"}

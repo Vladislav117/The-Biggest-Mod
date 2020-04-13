@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yexe drill", "description": "...", "size": 3, "health": 225, "tier": 4, "drillTime": 5, "consumes": {"power": 18}, "requirements": [{"item": "yexe", "amount": 17}, {"item": "jepumi", "amount": 19}, {"item": "nytina", "amount": 5}], "research": "yexe-factory", "category": "production"}

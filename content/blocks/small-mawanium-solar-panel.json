@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mawanium solar panel", "description": "...", "size": 1, "health": 322, "requirements": [{"item": "mawanium", "amount": 18}, {"item": "zuva", "amount": 16}, {"item": "pele", "amount": 8}], "research": "mawanium-factory", "powerProduction": 0.8231040954629375, "category": "power"}

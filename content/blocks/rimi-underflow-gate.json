@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rimi underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "rimi", "amount": 1}, {"item": "lidori", "amount": 4}], "research": "rimi-conveyor", "category": "distribution", "invert": false}

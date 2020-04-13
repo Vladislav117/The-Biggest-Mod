@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wehube power node", "description": "...", "size": 2, "health": 192, "requirements": [{"item": "wehube", "amount": 8}, {"item": "kyqedu", "amount": 19}, {"item": "yymujy", "amount": 4}], "research": "wehube-factory", "maxNodes": 33, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "heruru junction", "description": "...", "health": 24, "speed": 16, "capacity": 17, "size": 1, "requirements": [{"item": "heruru", "amount": 3}, {"item": "ridu", "amount": 1}], "research": "heruru-conveyor", "category": "distribution"}

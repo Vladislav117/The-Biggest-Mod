@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rapuvo battery", "description": "...", "size": 1, "health": 164, "requirements": [{"item": "rapuvo", "amount": 13}, {"item": "kypewenium", "amount": 10}, {"item": "vyfebo", "amount": 10}], "research": "rapuvo-factory", "consumes": {"powerBuffered": 2540}, "category": "power"}

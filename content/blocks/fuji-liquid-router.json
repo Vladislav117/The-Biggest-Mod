@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fuji liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "fuji", "amount": 1}, {"item": "nudo", "amount": 8}, {"item": "dyxuhu", "amount": 9}], "research": "fuji-conduit", "liquidCapacity": 10, "category": "liquid"}

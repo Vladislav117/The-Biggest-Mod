@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cifewy power node", "description": "...", "size": 2, "health": 633, "requirements": [{"item": "cifewy", "amount": 11}, {"item": "fevu", "amount": 9}, {"item": "sebobe", "amount": 9}], "research": "cifewy-factory", "maxNodes": 26, "laserRange": 17, "category": "power"}

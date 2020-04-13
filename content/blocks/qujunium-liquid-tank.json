@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qujunium liquid tank", "description": "...", "health": 390, "size": 3, "requirements": [{"item": "qujunium", "amount": 7}, {"item": "woqyfu", "amount": 2}, {"item": "zoyinium", "amount": 6}], "research": "qujunium-conduit", "category": "liquid", "liquidCapacity": 65077, "hasLiquids": true}

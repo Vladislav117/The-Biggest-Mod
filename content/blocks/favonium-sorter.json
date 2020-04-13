@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "favonium sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "favonium", "amount": 3}, {"item": "dezy", "amount": 4}], "research": "favonium-conveyor", "category": "distribution", "invert": false}

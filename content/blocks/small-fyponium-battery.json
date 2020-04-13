@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fyponium battery", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "fyponium", "amount": 4}, {"item": "pygilenium", "amount": 4}, {"item": "zeqonium", "amount": 7}], "research": "fyponium-factory", "consumes": {"powerBuffered": 1864}, "category": "power"}

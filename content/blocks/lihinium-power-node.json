@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lihinium power node", "description": "...", "size": 2, "health": 437, "requirements": [{"item": "lihinium", "amount": 12}, {"item": "nagu", "amount": 9}, {"item": "yibufe", "amount": 7}], "research": "lihinium-factory", "maxNodes": 25, "laserRange": 27, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "bonazynium overdrive projector", "description": "...", "health": 68, "consumes": {"power": 3.0, "item": "bonazynium"}, "size": 2, "requirements": [{"item": "bonazynium", "amount": 19}, {"item": "kegegynium", "amount": 17}, {"item": "cudo", "amount": 7}], "research": "bonazynium-factory", "category": "effect"}

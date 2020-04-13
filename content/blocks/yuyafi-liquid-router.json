@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yuyafi liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "yuyafi", "amount": 5}, {"item": "nywo", "amount": 6}, {"item": "myci", "amount": 5}], "research": "yuyafi-conduit", "liquidCapacity": 10, "category": "liquid"}

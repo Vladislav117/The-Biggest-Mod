@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cuvino underflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "cuvino", "amount": 3}, {"item": "ruvudo", "amount": 3}], "research": "cuvino-conveyor", "category": "distribution", "invert": false}

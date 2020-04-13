@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nymyginium bridge conveyor", "description": "", "health": 48, "range": 1, "speed": 2, "bufferCapacity": 15, "requirements": [{"item": "nymyginium", "amount": 3}, {"item": "focatu", "amount": 4}], "research": "nymyginium-conveyor", "category": "distribution", "size": 1}

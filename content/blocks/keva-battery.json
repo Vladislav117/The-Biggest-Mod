@@ -1,0 +1,1 @@
+{"type": "battery", "name": "keva battery", "description": "...", "size": 3, "health": 365, "requirements": [{"item": "keva", "amount": 7}, {"item": "gyfeca", "amount": 1}, {"item": "muby", "amount": 1}], "research": "keva-factory", "consumes": {"powerBuffered": 8499}, "category": "power"}

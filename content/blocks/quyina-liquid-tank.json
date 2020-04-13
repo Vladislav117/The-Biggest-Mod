@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "quyina liquid tank", "description": "...", "health": 502, "size": 3, "requirements": [{"item": "quyina", "amount": 1}, {"item": "zagy", "amount": 18}, {"item": "vezafa", "amount": 3}], "research": "quyina-conduit", "category": "liquid", "liquidCapacity": 102769, "hasLiquids": true}

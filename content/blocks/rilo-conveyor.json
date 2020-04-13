@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "rilo conveyor", "description": "...", "health": 300, "requirements": [{"item": "rilo", "amount": 7}, {"item": "nufuponium", "amount": 7}], "speed": 0.3396020243172074, "research": "rilo-factory", "category": "distribution"}

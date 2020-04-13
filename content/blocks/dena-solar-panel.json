@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dena solar panel", "description": "...", "size": 3, "health": 257, "requirements": [{"item": "dena", "amount": 12}, {"item": "furiva", "amount": 3}, {"item": "xiga", "amount": 1}], "research": "dena-factory", "powerProduction": 4.125352746977964, "category": "power"}

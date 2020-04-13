@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vuxi drill", "description": "...", "size": 2, "health": 407, "tier": 4, "drillTime": 6, "consumes": {"power": 5}, "requirements": [{"item": "vuxi", "amount": 5}, {"item": "pyto", "amount": 3}, {"item": "furazinium", "amount": 1}], "research": "vuxi-factory", "category": "production"}

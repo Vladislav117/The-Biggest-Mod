@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pagu solar panel", "description": "...", "size": 1, "health": 152, "requirements": [{"item": "pagu", "amount": 12}, {"item": "runohy", "amount": 12}, {"item": "mavitu", "amount": 1}], "research": "pagu-factory", "powerProduction": 0.01176837201691584, "category": "power"}

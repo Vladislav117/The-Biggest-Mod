@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ficebanium sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "ficebanium", "amount": 1}, {"item": "poxy", "amount": 1}], "research": "ficebanium-conveyor", "category": "distribution", "invert": false}

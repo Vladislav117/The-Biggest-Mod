@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bejominium solar panel", "description": "...", "size": 1, "health": 325, "requirements": [{"item": "bejominium", "amount": 3}, {"item": "yowiminium", "amount": 7}, {"item": "gineta", "amount": 5}], "research": "bejominium-factory", "powerProduction": 0.825472018973943, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nogocynium battery", "description": "...", "size": 3, "health": 382, "requirements": [{"item": "nogocynium", "amount": 3}, {"item": "myyave", "amount": 13}, {"item": "donysenium", "amount": 5}], "research": "nogocynium-factory", "consumes": {"powerBuffered": 4716}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "buzu conduit", "description": "...", "health": 161, "requirements": [{"item": "buzu", "amount": 16}, {"item": "zoqivanium", "amount": 17}, {"item": "surinium", "amount": 3}], "liquidCapacity": 1, "liquidPressure": 1, "research": "buzu-factory", "category": "liquid"}

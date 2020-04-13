@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small marici battery", "description": "...", "size": 1, "health": 224, "requirements": [{"item": "marici", "amount": 5}, {"item": "favunium", "amount": 20}, {"item": "fyfoni", "amount": 5}], "research": "marici-factory", "consumes": {"powerBuffered": 631}, "category": "power"}

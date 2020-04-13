@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hoqego power node", "description": "...", "size": 2, "health": 465, "requirements": [{"item": "hoqego", "amount": 11}, {"item": "fevy", "amount": 1}, {"item": "xeqikynium", "amount": 2}], "research": "hoqego-factory", "maxNodes": 10, "laserRange": 30, "category": "power"}

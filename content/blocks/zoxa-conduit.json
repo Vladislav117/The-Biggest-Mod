@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zoxa conduit", "description": "...", "health": 64, "requirements": [{"item": "zoxa", "amount": 13}, {"item": "waho", "amount": 13}, {"item": "kezunium", "amount": 5}], "liquidCapacity": 26, "liquidPressure": 1, "research": "zoxa-factory", "category": "liquid"}

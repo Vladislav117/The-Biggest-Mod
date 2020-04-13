@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xaji junction", "description": "...", "health": 4, "speed": 12, "capacity": 7, "size": 1, "requirements": [{"item": "xaji", "amount": 4}, {"item": "vowato", "amount": 3}], "research": "xaji-conveyor", "category": "distribution"}

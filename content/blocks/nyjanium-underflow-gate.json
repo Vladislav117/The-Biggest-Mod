@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nyjanium underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "nyjanium", "amount": 1}, {"item": "capa", "amount": 5}], "research": "nyjanium-conveyor", "category": "distribution", "invert": false}

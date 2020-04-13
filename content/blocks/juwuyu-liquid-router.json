@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "juwuyu liquid router", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "juwuyu", "amount": 5}, {"item": "litilenium", "amount": 20}, {"item": "hugevinium", "amount": 8}], "research": "juwuyu-conduit", "liquidCapacity": 10, "category": "liquid"}

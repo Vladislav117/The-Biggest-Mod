@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small paba power node", "description": "...", "size": 1, "health": 105, "requirements": [{"item": "paba", "amount": 6}, {"item": "gyporu", "amount": 18}, {"item": "vusi", "amount": 7}], "research": "paba-factory", "maxNodes": 10, "laserRange": 13, "category": "power"}

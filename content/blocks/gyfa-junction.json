@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gyfa junction", "description": "...", "health": 6, "speed": 16, "capacity": 14, "size": 1, "requirements": [{"item": "gyfa", "amount": 4}, {"item": "moro", "amount": 5}], "research": "gyfa-conveyor", "category": "distribution"}

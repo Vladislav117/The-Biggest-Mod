@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fakuzo liquid tank", "description": "...", "health": 237, "size": 3, "requirements": [{"item": "fakuzo", "amount": 7}, {"item": "xadunium", "amount": 6}, {"item": "waka", "amount": 8}], "research": "fakuzo-conduit", "category": "liquid", "liquidCapacity": 87013, "hasLiquids": true}

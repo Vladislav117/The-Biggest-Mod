@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wony liquid tank", "description": "...", "health": 667, "size": 3, "requirements": [{"item": "wony", "amount": 5}, {"item": "zyhaxo", "amount": 10}, {"item": "qupu", "amount": 6}], "research": "wony-conduit", "category": "liquid", "liquidCapacity": 49513, "hasLiquids": true}

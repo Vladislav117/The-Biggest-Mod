@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zyganium battery", "description": "...", "size": 1, "health": 214, "requirements": [{"item": "zyganium", "amount": 12}, {"item": "yixa", "amount": 4}, {"item": "fexuxy", "amount": 9}], "research": "zyganium-factory", "consumes": {"powerBuffered": 278}, "category": "power"}

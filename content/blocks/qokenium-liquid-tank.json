@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qokenium liquid tank", "description": "...", "health": 359, "size": 3, "requirements": [{"item": "qokenium", "amount": 12}, {"item": "yuqy", "amount": 8}, {"item": "kiredi", "amount": 4}], "research": "qokenium-conduit", "category": "liquid", "liquidCapacity": 39152, "hasLiquids": true}

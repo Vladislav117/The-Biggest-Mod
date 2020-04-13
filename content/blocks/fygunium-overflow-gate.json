@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fygunium overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "fygunium", "amount": 5}, {"item": "xikogo", "amount": 1}], "research": "fygunium-conveyor", "category": "distribution", "invert": false}

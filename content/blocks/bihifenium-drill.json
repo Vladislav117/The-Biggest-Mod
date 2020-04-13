@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bihifenium drill", "description": "...", "size": 4, "health": 234, "tier": 1, "drillTime": 14, "consumes": {"power": 9}, "requirements": [{"item": "bihifenium", "amount": 7}, {"item": "fahi", "amount": 10}, {"item": "vapoqanium", "amount": 5}], "research": "bihifenium-factory", "category": "production"}

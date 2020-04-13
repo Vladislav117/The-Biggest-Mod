@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pusu power node", "description": "...", "size": 1, "health": 324, "requirements": [{"item": "pusu", "amount": 12}, {"item": "lovy", "amount": 10}, {"item": "vitina", "amount": 5}], "research": "pusu-factory", "maxNodes": 18, "laserRange": 16, "category": "power"}

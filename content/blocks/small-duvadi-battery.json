@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small duvadi battery", "description": "...", "size": 1, "health": 400, "requirements": [{"item": "duvadi", "amount": 1}, {"item": "beyuxy", "amount": 20}, {"item": "wapo", "amount": 8}], "research": "duvadi-factory", "consumes": {"powerBuffered": 2543}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "koku battery", "description": "...", "size": 3, "health": 115, "requirements": [{"item": "koku", "amount": 5}, {"item": "fana", "amount": 17}, {"item": "sebutu", "amount": 4}], "research": "koku-factory", "consumes": {"powerBuffered": 655}, "category": "power"}

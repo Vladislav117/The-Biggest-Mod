@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sebawi drill", "description": "...", "size": 3, "health": 418, "tier": 3, "drillTime": 9, "consumes": {"power": 16}, "requirements": [{"item": "sebawi", "amount": 11}, {"item": "yyqenu", "amount": 7}, {"item": "hocode", "amount": 2}], "research": "sebawi-factory", "category": "production"}

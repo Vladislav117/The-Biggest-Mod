@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kufi liquid tank", "description": "...", "health": 197, "size": 3, "requirements": [{"item": "kufi", "amount": 3}, {"item": "xoquge", "amount": 17}, {"item": "hurula", "amount": 8}], "research": "kufi-conduit", "category": "liquid", "liquidCapacity": 5603, "hasLiquids": true}

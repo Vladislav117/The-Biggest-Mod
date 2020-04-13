@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zupu underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "zupu", "amount": 3}, {"item": "pegycy", "amount": 4}], "research": "zupu-conveyor", "category": "distribution", "invert": false}

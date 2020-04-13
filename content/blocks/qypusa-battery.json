@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qypusa battery", "description": "...", "size": 3, "health": 312, "requirements": [{"item": "qypusa", "amount": 2}, {"item": "ruqe", "amount": 1}, {"item": "yexowy", "amount": 4}], "research": "qypusa-factory", "consumes": {"powerBuffered": 5089}, "category": "power"}

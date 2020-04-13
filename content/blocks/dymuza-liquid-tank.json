@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dymuza liquid tank", "description": "...", "health": 491, "size": 3, "requirements": [{"item": "dymuza", "amount": 14}, {"item": "delo", "amount": 8}, {"item": "giho", "amount": 5}], "research": "dymuza-conduit", "category": "liquid", "liquidCapacity": 59502, "hasLiquids": true}

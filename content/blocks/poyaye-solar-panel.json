@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "poyaye solar panel", "description": "...", "size": 3, "health": 153, "requirements": [{"item": "poyaye", "amount": 14}, {"item": "ryho", "amount": 16}, {"item": "nyyonium", "amount": 8}], "research": "poyaye-factory", "powerProduction": 2.1122702032262506, "category": "power"}

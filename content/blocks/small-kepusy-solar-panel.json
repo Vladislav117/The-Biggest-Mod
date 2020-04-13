@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kepusy solar panel", "description": "...", "size": 1, "health": 299, "requirements": [{"item": "kepusy", "amount": 7}, {"item": "xylu", "amount": 7}, {"item": "hugevinium", "amount": 10}], "research": "kepusy-factory", "powerProduction": 0.3592639863244703, "category": "power"}

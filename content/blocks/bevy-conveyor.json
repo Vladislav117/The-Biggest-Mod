@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "bevy conveyor", "description": "...", "health": 66, "requirements": [{"item": "bevy", "amount": 7}, {"item": "hekate", "amount": 4}], "speed": 0.29162911400099134, "research": "bevy-factory", "category": "distribution"}

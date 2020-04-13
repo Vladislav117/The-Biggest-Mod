@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fifyru underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "fifyru", "amount": 1}, {"item": "fahi", "amount": 1}], "research": "fifyru-conveyor", "category": "distribution", "invert": false}

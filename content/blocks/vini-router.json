@@ -1,0 +1,1 @@
+{"type": "router", "name": "vini router", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "vini", "amount": 4}], "research": "vini-conveyor", "category": "distribution"}

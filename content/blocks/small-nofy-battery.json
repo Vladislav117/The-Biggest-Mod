@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nofy battery", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "nofy", "amount": 20}, {"item": "mytati", "amount": 2}, {"item": "tuma", "amount": 4}], "research": "nofy-factory", "consumes": {"powerBuffered": 906}, "category": "power"}

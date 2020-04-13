@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sirogi power node", "description": "...", "size": 2, "health": 196, "requirements": [{"item": "sirogi", "amount": 9}, {"item": "fisy", "amount": 14}, {"item": "duyari", "amount": 2}], "research": "sirogi-factory", "maxNodes": 33, "laserRange": 16, "category": "power"}

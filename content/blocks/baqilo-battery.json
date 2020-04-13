@@ -1,0 +1,1 @@
+{"type": "battery", "name": "baqilo battery", "description": "...", "size": 3, "health": 246, "requirements": [{"item": "baqilo", "amount": 10}, {"item": "joqopy", "amount": 2}, {"item": "pyqynium", "amount": 4}], "research": "baqilo-factory", "consumes": {"powerBuffered": 8201}, "category": "power"}

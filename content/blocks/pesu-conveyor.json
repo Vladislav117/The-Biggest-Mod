@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pesu conveyor", "description": "...", "health": 186, "requirements": [{"item": "pesu", "amount": 4}, {"item": "vapu", "amount": 1}], "speed": 0.11707097190238314, "research": "pesu-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vego liquid tank", "description": "...", "health": 304, "size": 3, "requirements": [{"item": "vego", "amount": 16}, {"item": "giho", "amount": 17}, {"item": "thorium", "amount": 3}], "research": "vego-conduit", "category": "liquid", "liquidCapacity": 25845, "hasLiquids": true}

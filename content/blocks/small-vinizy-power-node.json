@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vinizy power node", "description": "...", "size": 1, "health": 398, "requirements": [{"item": "vinizy", "amount": 9}, {"item": "zurehy", "amount": 12}, {"item": "yixy", "amount": 5}], "research": "vinizy-factory", "maxNodes": 17, "laserRange": 18, "category": "power"}

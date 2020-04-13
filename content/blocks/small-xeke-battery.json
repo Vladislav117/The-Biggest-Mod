@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xeke battery", "description": "...", "size": 1, "health": 393, "requirements": [{"item": "xeke", "amount": 19}, {"item": "zele", "amount": 6}, {"item": "darufo", "amount": 4}], "research": "xeke-factory", "consumes": {"powerBuffered": 2386}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "pygu force projector", "description": "...", "health": 118, "size": 3, "consumes": {"power": 5.0, "item": "pygu"}, "requirements": [{"item": "pygu", "amount": 1}, {"item": "xikogo", "amount": 19}, {"item": "vahy", "amount": 7}], "research": "pygu-factory", "category": "effect"}

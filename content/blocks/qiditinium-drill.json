@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qiditinium drill", "description": "...", "size": 2, "health": 295, "tier": 1, "drillTime": 16, "consumes": {"power": 2}, "requirements": [{"item": "qiditinium", "amount": 19}, {"item": "cidenium", "amount": 15}, {"item": "hihuly", "amount": 5}], "research": "qiditinium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bofazy liquid tank", "description": "...", "health": 149, "size": 3, "requirements": [{"item": "bofazy", "amount": 7}, {"item": "gyty", "amount": 8}, {"item": "hihunium", "amount": 8}], "research": "bofazy-conduit", "category": "liquid", "liquidCapacity": 99079, "hasLiquids": true}

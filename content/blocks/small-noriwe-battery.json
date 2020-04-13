@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small noriwe battery", "description": "...", "size": 1, "health": 239, "requirements": [{"item": "noriwe", "amount": 1}, {"item": "befunium", "amount": 6}, {"item": "mido", "amount": 1}], "research": "noriwe-factory", "consumes": {"powerBuffered": 2803}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jane liquid tank", "description": "...", "health": 555, "size": 3, "requirements": [{"item": "jane", "amount": 15}, {"item": "mymapi", "amount": 1}, {"item": "hujenium", "amount": 7}], "research": "jane-conduit", "category": "liquid", "liquidCapacity": 33890, "hasLiquids": true}

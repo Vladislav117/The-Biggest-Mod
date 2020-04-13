@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kozivo conduit", "description": "...", "health": 22, "requirements": [{"item": "kozivo", "amount": 20}, {"item": "koci", "amount": 12}, {"item": "nuzivo", "amount": 2}], "liquidCapacity": 28, "liquidPressure": 10, "research": "kozivo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dojove power node", "description": "...", "size": 2, "health": 575, "requirements": [{"item": "dojove", "amount": 12}, {"item": "byqymo", "amount": 15}, {"item": "gytegy", "amount": 10}], "research": "dojove-factory", "maxNodes": 27, "laserRange": 5, "category": "power"}

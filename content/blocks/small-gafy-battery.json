@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gafy battery", "description": "...", "size": 1, "health": 245, "requirements": [{"item": "gafy", "amount": 14}, {"item": "rupuvu", "amount": 2}, {"item": "vunijy", "amount": 10}], "research": "gafy-factory", "consumes": {"powerBuffered": 2420}, "category": "power"}

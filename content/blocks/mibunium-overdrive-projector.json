@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "mibunium overdrive projector", "description": "...", "health": 114, "consumes": {"power": 3.0, "item": "mibunium"}, "size": 2, "requirements": [{"item": "mibunium", "amount": 5}, {"item": "wyri", "amount": 20}, {"item": "jayycu", "amount": 9}], "research": "mibunium-factory", "category": "effect"}

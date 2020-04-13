@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lybazanium battery", "description": "...", "size": 1, "health": 246, "requirements": [{"item": "lybazanium", "amount": 12}, {"item": "xivi", "amount": 6}, {"item": "vywene", "amount": 6}], "research": "lybazanium-factory", "consumes": {"powerBuffered": 446}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mixy liquid router", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "mixy", "amount": 10}, {"item": "rizu", "amount": 1}, {"item": "magu", "amount": 8}], "research": "mixy-conduit", "liquidCapacity": 10, "category": "liquid"}

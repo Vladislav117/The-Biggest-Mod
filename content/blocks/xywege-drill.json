@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xywege drill", "description": "...", "size": 3, "health": 104, "tier": 1, "drillTime": 15, "consumes": {"power": 8}, "requirements": [{"item": "xywege", "amount": 2}, {"item": "lahy", "amount": 12}, {"item": "gufuyi", "amount": 4}], "research": "xywege-factory", "category": "production"}

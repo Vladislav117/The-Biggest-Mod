@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "covifinium liquid tank", "description": "...", "health": 180, "size": 3, "requirements": [{"item": "covifinium", "amount": 19}, {"item": "reduty", "amount": 18}, {"item": "dubi", "amount": 1}], "research": "covifinium-conduit", "category": "liquid", "liquidCapacity": 39493, "hasLiquids": true}

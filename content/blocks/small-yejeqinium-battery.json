@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yejeqinium battery", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "yejeqinium", "amount": 12}, {"item": "plastanium", "amount": 19}, {"item": "xutire", "amount": 7}], "research": "yejeqinium-factory", "consumes": {"powerBuffered": 1079}, "category": "power"}

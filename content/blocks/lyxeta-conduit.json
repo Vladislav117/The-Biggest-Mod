@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lyxeta conduit", "description": "...", "health": 39, "requirements": [{"item": "lyxeta", "amount": 14}, {"item": "kowonium", "amount": 15}, {"item": "gymypa", "amount": 5}], "liquidCapacity": 23, "liquidPressure": 2, "research": "lyxeta-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mote conduit", "description": "...", "health": 101, "requirements": [{"item": "mote", "amount": 5}, {"item": "sokezy", "amount": 6}, {"item": "gyzuqo", "amount": 1}], "liquidCapacity": 9, "liquidPressure": 1, "research": "mote-factory", "category": "liquid"}

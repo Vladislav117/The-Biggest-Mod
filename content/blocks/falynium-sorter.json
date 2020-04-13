@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "falynium sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "falynium", "amount": 5}, {"item": "ryfy", "amount": 5}], "research": "falynium-conveyor", "category": "distribution", "invert": false}

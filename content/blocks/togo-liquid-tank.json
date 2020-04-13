@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "togo liquid tank", "description": "...", "health": 537, "size": 3, "requirements": [{"item": "togo", "amount": 4}, {"item": "qiso", "amount": 10}, {"item": "dowoca", "amount": 9}], "research": "togo-conduit", "category": "liquid", "liquidCapacity": 104863, "hasLiquids": true}

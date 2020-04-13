@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "hijaju force projector", "description": "...", "health": 140, "size": 3, "consumes": {"power": 5.0, "item": "hijaju"}, "requirements": [{"item": "hijaju", "amount": 15}, {"item": "labila", "amount": 7}, {"item": "sore", "amount": 4}], "research": "hijaju-factory", "category": "effect"}

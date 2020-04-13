@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yepy drill", "description": "...", "size": 2, "health": 332, "tier": 1, "drillTime": 11, "consumes": {"power": 15}, "requirements": [{"item": "yepy", "amount": 18}, {"item": "hakenium", "amount": 18}, {"item": "fogodo", "amount": 3}], "research": "yepy-factory", "category": "production"}

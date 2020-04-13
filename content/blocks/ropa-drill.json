@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "ropa drill", "description": "...", "size": 4, "health": 279, "tier": 3, "drillTime": 10, "consumes": {"power": 12}, "requirements": [{"item": "ropa", "amount": 11}, {"item": "ryho", "amount": 5}, {"item": "xavinium", "amount": 7}], "research": "ropa-factory", "category": "production"}

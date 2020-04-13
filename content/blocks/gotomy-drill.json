@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gotomy drill", "description": "...", "size": 3, "health": 380, "tier": 3, "drillTime": 12, "consumes": {"power": 2}, "requirements": [{"item": "gotomy", "amount": 4}, {"item": "xekota", "amount": 10}, {"item": "bajenium", "amount": 5}], "research": "gotomy-factory", "category": "production"}

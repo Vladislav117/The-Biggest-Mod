@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "loqa liquid tank", "description": "...", "health": 508, "size": 3, "requirements": [{"item": "loqa", "amount": 16}, {"item": "boretu", "amount": 17}, {"item": "xydume", "amount": 8}], "research": "loqa-conduit", "category": "liquid", "liquidCapacity": 103937, "hasLiquids": true}

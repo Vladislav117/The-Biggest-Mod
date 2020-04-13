@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wahape drill", "description": "...", "size": 2, "health": 437, "tier": 1, "drillTime": 1, "consumes": {"power": 9}, "requirements": [{"item": "wahape", "amount": 7}, {"item": "wiba", "amount": 2}, {"item": "hewy", "amount": 7}], "research": "wahape-factory", "category": "production"}

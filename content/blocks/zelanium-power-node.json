@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zelanium power node", "description": "...", "size": 2, "health": 697, "requirements": [{"item": "zelanium", "amount": 7}, {"item": "heho", "amount": 13}, {"item": "bafo", "amount": 4}], "research": "zelanium-factory", "maxNodes": 12, "laserRange": 11, "category": "power"}

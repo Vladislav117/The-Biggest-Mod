@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mivoky overflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "mivoky", "amount": 5}, {"item": "kani", "amount": 4}], "research": "mivoky-conveyor", "category": "distribution", "invert": false}

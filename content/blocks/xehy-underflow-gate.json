@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xehy underflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "xehy", "amount": 5}, {"item": "cupo", "amount": 3}], "research": "xehy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nydinenium conduit", "description": "...", "health": 99, "requirements": [{"item": "nydinenium", "amount": 14}, {"item": "dune", "amount": 12}, {"item": "rukycu", "amount": 9}], "liquidCapacity": 49, "liquidPressure": 3, "research": "nydinenium-factory", "category": "liquid"}

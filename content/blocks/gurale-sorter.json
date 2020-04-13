@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gurale sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "gurale", "amount": 1}, {"item": "jigobanium", "amount": 3}], "research": "gurale-conveyor", "category": "distribution", "invert": false}

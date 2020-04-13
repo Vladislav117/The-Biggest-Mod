@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tovyme underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "tovyme", "amount": 1}, {"item": "fayenium", "amount": 3}], "research": "tovyme-conveyor", "category": "distribution", "invert": false}

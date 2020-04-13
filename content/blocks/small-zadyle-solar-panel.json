@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zadyle solar panel", "description": "...", "size": 1, "health": 391, "requirements": [{"item": "zadyle", "amount": 19}, {"item": "cobi", "amount": 20}, {"item": "jawa", "amount": 9}], "research": "zadyle-factory", "powerProduction": 0.018118125124969398, "category": "power"}

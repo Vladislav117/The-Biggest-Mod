@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qybasinium sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "qybasinium", "amount": 1}, {"item": "waninium", "amount": 3}], "research": "qybasinium-conveyor", "category": "distribution", "invert": false}

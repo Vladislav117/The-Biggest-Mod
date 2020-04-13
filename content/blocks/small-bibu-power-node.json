@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bibu power node", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "bibu", "amount": 18}, {"item": "tokote", "amount": 12}, {"item": "dakyse", "amount": 2}], "research": "bibu-factory", "maxNodes": 17, "laserRange": 8, "category": "power"}

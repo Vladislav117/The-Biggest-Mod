@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wykanium power node", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "wykanium", "amount": 9}, {"item": "filu", "amount": 5}, {"item": "miyaxanium", "amount": 2}], "research": "wykanium-factory", "maxNodes": 5, "laserRange": 11, "category": "power"}

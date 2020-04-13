@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fasaze power node", "description": "...", "size": 1, "health": 243, "requirements": [{"item": "fasaze", "amount": 3}, {"item": "lyzy", "amount": 2}, {"item": "siqefo", "amount": 7}], "research": "fasaze-factory", "maxNodes": 4, "laserRange": 18, "category": "power"}

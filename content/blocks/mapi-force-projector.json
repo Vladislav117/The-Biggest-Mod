@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "mapi force projector", "description": "...", "health": 240, "size": 3, "consumes": {"power": 5.0, "item": "mapi"}, "requirements": [{"item": "mapi", "amount": 5}, {"item": "kozypi", "amount": 18}, {"item": "vocazu", "amount": 2}], "research": "mapi-factory", "category": "effect"}

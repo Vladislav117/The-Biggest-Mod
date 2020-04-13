@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jeziri liquid tank", "description": "...", "health": 144, "size": 3, "requirements": [{"item": "jeziri", "amount": 16}, {"item": "ketanium", "amount": 10}, {"item": "buhoci", "amount": 9}], "research": "jeziri-conduit", "category": "liquid", "liquidCapacity": 69739, "hasLiquids": true}

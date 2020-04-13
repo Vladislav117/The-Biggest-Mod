@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "paso conduit", "description": "...", "health": 113, "requirements": [{"item": "paso", "amount": 3}, {"item": "qigine", "amount": 5}, {"item": "cavuyi", "amount": 7}], "liquidCapacity": 38, "liquidPressure": 10, "research": "paso-factory", "category": "liquid"}

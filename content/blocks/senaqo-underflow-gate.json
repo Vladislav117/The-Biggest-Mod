@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "senaqo underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "senaqo", "amount": 5}, {"item": "wigyre", "amount": 3}], "research": "senaqo-conveyor", "category": "distribution", "invert": false}

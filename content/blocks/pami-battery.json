@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pami battery", "description": "...", "size": 3, "health": 142, "requirements": [{"item": "pami", "amount": 8}, {"item": "jiyomonium", "amount": 13}, {"item": "bulanium", "amount": 6}], "research": "pami-factory", "consumes": {"powerBuffered": 6433}, "category": "power"}

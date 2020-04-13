@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small haluqo battery", "description": "...", "size": 1, "health": 97, "requirements": [{"item": "haluqo", "amount": 13}, {"item": "ryho", "amount": 16}, {"item": "xydume", "amount": 10}], "research": "haluqo-factory", "consumes": {"powerBuffered": 698}, "category": "power"}

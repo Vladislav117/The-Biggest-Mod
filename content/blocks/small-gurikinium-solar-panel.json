@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gurikinium solar panel", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "gurikinium", "amount": 9}, {"item": "qyha", "amount": 8}, {"item": "seyuwa", "amount": 7}], "research": "gurikinium-factory", "powerProduction": 0.4631887574542531, "category": "power"}

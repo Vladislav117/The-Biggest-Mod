@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "porabonium conveyor", "description": "...", "health": 155, "requirements": [{"item": "porabonium", "amount": 2}, {"item": "wavoli", "amount": 8}], "speed": 0.3178550690767911, "research": "porabonium-factory", "category": "distribution"}

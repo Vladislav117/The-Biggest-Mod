@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hagunium liquid tank", "description": "...", "health": 599, "size": 3, "requirements": [{"item": "hagunium", "amount": 12}, {"item": "pomagu", "amount": 5}, {"item": "susi", "amount": 9}], "research": "hagunium-conduit", "category": "liquid", "liquidCapacity": 63213, "hasLiquids": true}

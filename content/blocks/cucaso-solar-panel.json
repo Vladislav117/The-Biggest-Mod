@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cucaso solar panel", "description": "...", "size": 3, "health": 298, "requirements": [{"item": "cucaso", "amount": 3}, {"item": "ragoku", "amount": 16}, {"item": "laso", "amount": 4}], "research": "cucaso-factory", "powerProduction": 0.5090643754623403, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "milusunium liquid tank", "description": "...", "health": 425, "size": 3, "requirements": [{"item": "milusunium", "amount": 14}, {"item": "donuba", "amount": 10}, {"item": "linu", "amount": 7}], "research": "milusunium-conduit", "category": "liquid", "liquidCapacity": 69443, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "yape conveyor", "description": "...", "health": 249, "requirements": [{"item": "yape", "amount": 10}, {"item": "kubi", "amount": 8}], "speed": 0.4655293652626864, "research": "yape-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rahasunium power node", "description": "...", "size": 2, "health": 397, "requirements": [{"item": "rahasunium", "amount": 12}, {"item": "nipohu", "amount": 11}, {"item": "hitiva", "amount": 10}], "research": "rahasunium-factory", "maxNodes": 56, "laserRange": 8, "category": "power"}

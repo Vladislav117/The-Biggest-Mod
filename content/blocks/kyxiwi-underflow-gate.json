@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kyxiwi underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "kyxiwi", "amount": 5}, {"item": "kejowynium", "amount": 4}], "research": "kyxiwi-conveyor", "category": "distribution", "invert": false}

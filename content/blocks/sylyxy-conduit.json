@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sylyxy conduit", "description": "...", "health": 65, "requirements": [{"item": "sylyxy", "amount": 5}, {"item": "yalaka", "amount": 20}, {"item": "juwyso", "amount": 9}], "liquidCapacity": 9, "liquidPressure": 7, "research": "sylyxy-factory", "category": "liquid"}

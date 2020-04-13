@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kuju battery", "description": "...", "size": 1, "health": 219, "requirements": [{"item": "kuju", "amount": 6}, {"item": "hybobenium", "amount": 4}, {"item": "xyfynium", "amount": 5}], "research": "kuju-factory", "consumes": {"powerBuffered": 495}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kagunium underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "kagunium", "amount": 1}, {"item": "kudanium", "amount": 4}], "research": "kagunium-conveyor", "category": "distribution", "invert": false}

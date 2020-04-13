@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rebifo battery", "description": "...", "size": 3, "health": 234, "requirements": [{"item": "rebifo", "amount": 4}, {"item": "hytitenium", "amount": 7}, {"item": "rafe", "amount": 2}], "research": "rebifo-factory", "consumes": {"powerBuffered": 3156}, "category": "power"}

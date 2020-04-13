@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qubyra liquid router", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "qubyra", "amount": 7}, {"item": "dekeko", "amount": 5}, {"item": "vadoda", "amount": 1}], "research": "qubyra-conduit", "liquidCapacity": 10, "category": "liquid"}

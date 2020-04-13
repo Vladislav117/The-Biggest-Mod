@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyjeka liquid tank", "description": "...", "health": 586, "size": 3, "requirements": [{"item": "fyjeka", "amount": 4}, {"item": "xurexa", "amount": 20}, {"item": "xeye", "amount": 1}], "research": "fyjeka-conduit", "category": "liquid", "liquidCapacity": 14461, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bilyvanium liquid tank", "description": "...", "health": 670, "size": 3, "requirements": [{"item": "bilyvanium", "amount": 4}, {"item": "vodico", "amount": 20}, {"item": "hedi", "amount": 4}], "research": "bilyvanium-conduit", "category": "liquid", "liquidCapacity": 48503, "hasLiquids": true}

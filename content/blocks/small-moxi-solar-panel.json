@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small moxi solar panel", "description": "...", "size": 1, "health": 208, "requirements": [{"item": "moxi", "amount": 14}, {"item": "zoyinium", "amount": 13}, {"item": "bulanium", "amount": 9}], "research": "moxi-factory", "powerProduction": 0.2558498443453012, "category": "power"}

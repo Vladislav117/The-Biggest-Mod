@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "muryrenium conduit", "description": "...", "health": 55, "requirements": [{"item": "muryrenium", "amount": 6}, {"item": "ruji", "amount": 4}, {"item": "buru", "amount": 2}], "liquidCapacity": 26, "liquidPressure": 10, "research": "muryrenium-factory", "category": "liquid"}

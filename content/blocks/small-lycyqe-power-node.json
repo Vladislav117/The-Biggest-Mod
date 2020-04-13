@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lycyqe power node", "description": "...", "size": 1, "health": 396, "requirements": [{"item": "lycyqe", "amount": 8}, {"item": "jerenium", "amount": 8}, {"item": "wamu", "amount": 2}], "research": "lycyqe-factory", "maxNodes": 22, "laserRange": 5, "category": "power"}

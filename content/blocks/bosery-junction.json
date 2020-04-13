@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bosery junction", "description": "...", "health": 43, "speed": 4, "capacity": 1, "size": 1, "requirements": [{"item": "bosery", "amount": 2}, {"item": "wyri", "amount": 5}], "research": "bosery-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xyfi battery", "description": "...", "size": 1, "health": 77, "requirements": [{"item": "xyfi", "amount": 19}, {"item": "birynium", "amount": 14}, {"item": "qykyzo", "amount": 1}], "research": "xyfi-factory", "consumes": {"powerBuffered": 1029}, "category": "power"}

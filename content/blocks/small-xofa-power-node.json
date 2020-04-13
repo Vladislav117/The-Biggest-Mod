@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xofa power node", "description": "...", "size": 1, "health": 243, "requirements": [{"item": "xofa", "amount": 19}, {"item": "widydo", "amount": 20}, {"item": "wadoka", "amount": 2}], "research": "xofa-factory", "maxNodes": 10, "laserRange": 12, "category": "power"}

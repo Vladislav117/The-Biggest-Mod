@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vykynium solar panel", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "vykynium", "amount": 11}, {"item": "tujy", "amount": 15}, {"item": "vuhu", "amount": 1}], "research": "vykynium-factory", "powerProduction": 1.8422110422127085, "category": "power"}

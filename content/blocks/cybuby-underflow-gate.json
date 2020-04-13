@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cybuby underflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "cybuby", "amount": 2}, {"item": "guliyu", "amount": 1}], "research": "cybuby-conveyor", "category": "distribution", "invert": false}

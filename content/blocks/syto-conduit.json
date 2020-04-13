@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "syto conduit", "description": "...", "health": 49, "requirements": [{"item": "syto", "amount": 15}, {"item": "duqu", "amount": 7}, {"item": "movibi", "amount": 4}], "liquidCapacity": 42, "liquidPressure": 1, "research": "syto-factory", "category": "liquid"}

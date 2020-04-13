@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ranu liquid tank", "description": "...", "health": 222, "size": 3, "requirements": [{"item": "ranu", "amount": 6}, {"item": "lyceca", "amount": 3}, {"item": "yiveni", "amount": 2}], "research": "ranu-conduit", "category": "liquid", "liquidCapacity": 20701, "hasLiquids": true}

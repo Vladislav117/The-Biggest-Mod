@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mivoky liquid tank", "description": "...", "health": 437, "size": 3, "requirements": [{"item": "mivoky", "amount": 13}, {"item": "zihy", "amount": 2}, {"item": "kanuya", "amount": 8}], "research": "mivoky-conduit", "category": "liquid", "liquidCapacity": 10362, "hasLiquids": true}

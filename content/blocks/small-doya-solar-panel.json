@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small doya solar panel", "description": "...", "size": 1, "health": 356, "requirements": [{"item": "doya", "amount": 5}, {"item": "cuse", "amount": 2}, {"item": "laxu", "amount": 4}], "research": "doya-factory", "powerProduction": 14.46354689941495, "category": "power"}

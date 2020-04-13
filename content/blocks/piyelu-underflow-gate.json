@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "piyelu underflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "piyelu", "amount": 3}, {"item": "cihihenium", "amount": 4}], "research": "piyelu-conveyor", "category": "distribution", "invert": false}

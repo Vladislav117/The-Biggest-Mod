@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fusaji sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "fusaji", "amount": 5}, {"item": "phase-fabric", "amount": 3}], "research": "fusaji-conveyor", "category": "distribution", "invert": false}

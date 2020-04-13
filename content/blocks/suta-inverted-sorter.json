@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "suta inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "suta", "amount": 5}, {"item": "myhuzi", "amount": 5}], "research": "suta-conveyor", "category": "distribution", "invert": true}

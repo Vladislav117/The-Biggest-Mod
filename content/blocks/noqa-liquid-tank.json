@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "noqa liquid tank", "description": "...", "health": 453, "size": 3, "requirements": [{"item": "noqa", "amount": 6}, {"item": "tove", "amount": 9}, {"item": "fikikanium", "amount": 8}], "research": "noqa-conduit", "category": "liquid", "liquidCapacity": 72373, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "taqe power node", "description": "...", "size": 2, "health": 568, "requirements": [{"item": "taqe", "amount": 8}, {"item": "moce", "amount": 13}, {"item": "bagyme", "amount": 3}], "research": "taqe-factory", "maxNodes": 59, "laserRange": 10, "category": "power"}

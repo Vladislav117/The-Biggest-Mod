@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cobe liquid router", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "cobe", "amount": 14}, {"item": "paboya", "amount": 16}, {"item": "dubi", "amount": 4}], "research": "cobe-conduit", "liquidCapacity": 10, "category": "liquid"}

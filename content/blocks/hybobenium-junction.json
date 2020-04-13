@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hybobenium junction", "description": "...", "health": 50, "speed": 16, "capacity": 9, "size": 1, "requirements": [{"item": "hybobenium", "amount": 1}, {"item": "dituna", "amount": 4}], "research": "hybobenium-conveyor", "category": "distribution"}

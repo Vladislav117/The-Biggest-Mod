@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dokanium bridge conveyor", "description": "", "health": 45, "range": 10, "speed": 6, "bufferCapacity": 22, "requirements": [{"item": "dokanium", "amount": 1}, {"item": "rahy", "amount": 5}], "research": "dokanium-conveyor", "category": "distribution", "size": 1}

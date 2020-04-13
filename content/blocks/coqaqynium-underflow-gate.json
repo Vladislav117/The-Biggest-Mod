@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "coqaqynium underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "coqaqynium", "amount": 4}, {"item": "nafeya", "amount": 5}], "research": "coqaqynium-conveyor", "category": "distribution", "invert": false}

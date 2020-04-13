@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fari solar panel", "description": "...", "size": 3, "health": 297, "requirements": [{"item": "fari", "amount": 5}, {"item": "saqe", "amount": 1}, {"item": "zazuji", "amount": 1}], "research": "fari-factory", "powerProduction": 0.8992529890966688, "category": "power"}

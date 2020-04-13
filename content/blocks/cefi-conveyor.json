@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "cefi conveyor", "description": "...", "health": 269, "requirements": [{"item": "cefi", "amount": 5}, {"item": "bajenium", "amount": 1}], "speed": 0.19152040878044385, "research": "cefi-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "huwyko bridge conveyor", "description": "", "health": 41, "range": 15, "speed": 18, "bufferCapacity": 20, "requirements": [{"item": "huwyko", "amount": 5}, {"item": "towenium", "amount": 3}], "research": "huwyko-conveyor", "category": "distribution", "size": 1}

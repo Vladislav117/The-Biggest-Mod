@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "piyelu bridge conveyor", "description": "", "health": 11, "range": 7, "speed": 10, "bufferCapacity": 18, "requirements": [{"item": "piyelu", "amount": 4}, {"item": "lipo", "amount": 2}], "research": "piyelu-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "giyiya battery", "description": "...", "size": 3, "health": 20, "requirements": [{"item": "giyiya", "amount": 6}, {"item": "bufywy", "amount": 3}, {"item": "hyxinium", "amount": 4}], "research": "giyiya-factory", "consumes": {"powerBuffered": 9727}, "category": "power"}

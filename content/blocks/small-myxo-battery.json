@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small myxo battery", "description": "...", "size": 1, "health": 388, "requirements": [{"item": "myxo", "amount": 19}, {"item": "wupera", "amount": 10}, {"item": "tiwyna", "amount": 1}], "research": "myxo-factory", "consumes": {"powerBuffered": 1257}, "category": "power"}

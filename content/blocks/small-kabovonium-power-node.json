@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kabovonium power node", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "kabovonium", "amount": 15}, {"item": "zore", "amount": 16}, {"item": "vanuhenium", "amount": 10}], "research": "kabovonium-factory", "maxNodes": 3, "laserRange": 25, "category": "power"}

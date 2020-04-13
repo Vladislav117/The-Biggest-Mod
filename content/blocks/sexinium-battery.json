@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sexinium battery", "description": "...", "size": 3, "health": 35, "requirements": [{"item": "sexinium", "amount": 16}, {"item": "heruru", "amount": 12}, {"item": "copper", "amount": 1}], "research": "sexinium-factory", "consumes": {"powerBuffered": 5840}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bogovy power node", "description": "...", "size": 1, "health": 115, "requirements": [{"item": "bogovy", "amount": 3}, {"item": "ravyku", "amount": 9}, {"item": "dugypa", "amount": 2}], "research": "bogovy-factory", "maxNodes": 17, "laserRange": 18, "category": "power"}

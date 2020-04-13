@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zokacu conduit", "description": "...", "health": 51, "requirements": [{"item": "zokacu", "amount": 5}, {"item": "yupo", "amount": 10}, {"item": "gizomanium", "amount": 8}], "liquidCapacity": 25, "liquidPressure": 8, "research": "zokacu-factory", "category": "liquid"}

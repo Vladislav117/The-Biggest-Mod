@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vihy solar panel", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "vihy", "amount": 20}, {"item": "xaky", "amount": 9}, {"item": "vacoce", "amount": 1}], "research": "vihy-factory", "powerProduction": 0.8875806179657583, "category": "power"}

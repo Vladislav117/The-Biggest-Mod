@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kojavi bridge conveyor", "description": "", "health": 39, "range": 13, "speed": 20, "bufferCapacity": 3, "requirements": [{"item": "kojavi", "amount": 5}, {"item": "lilonium", "amount": 5}], "research": "kojavi-conveyor", "category": "distribution", "size": 1}

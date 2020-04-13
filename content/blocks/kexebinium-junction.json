@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kexebinium junction", "description": "...", "health": 41, "speed": 11, "capacity": 4, "size": 1, "requirements": [{"item": "kexebinium", "amount": 1}, {"item": "lahydo", "amount": 4}], "research": "kexebinium-conveyor", "category": "distribution"}

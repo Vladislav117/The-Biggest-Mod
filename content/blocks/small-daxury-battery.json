@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small daxury battery", "description": "...", "size": 1, "health": 270, "requirements": [{"item": "daxury", "amount": 5}, {"item": "vapa", "amount": 7}, {"item": "busu", "amount": 10}], "research": "daxury-factory", "consumes": {"powerBuffered": 791}, "category": "power"}

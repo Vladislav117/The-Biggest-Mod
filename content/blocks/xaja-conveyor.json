@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "xaja conveyor", "description": "...", "health": 120, "requirements": [{"item": "xaja", "amount": 5}, {"item": "yeku", "amount": 9}], "speed": 0.3565081026012123, "research": "xaja-factory", "category": "distribution"}

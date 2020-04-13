@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dodypu solar panel", "description": "...", "size": 3, "health": 43, "requirements": [{"item": "dodypu", "amount": 10}, {"item": "nunuto", "amount": 4}, {"item": "nenu", "amount": 9}], "research": "dodypu-factory", "powerProduction": 0.0051715204159348376, "category": "power"}

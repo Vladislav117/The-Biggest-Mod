@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yobany junction", "description": "...", "health": 39, "speed": 10, "capacity": 18, "size": 1, "requirements": [{"item": "yobany", "amount": 1}, {"item": "zenuwunium", "amount": 5}], "research": "yobany-conveyor", "category": "distribution"}

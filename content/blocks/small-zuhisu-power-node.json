@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zuhisu power node", "description": "...", "size": 1, "health": 393, "requirements": [{"item": "zuhisu", "amount": 16}, {"item": "qipy", "amount": 7}, {"item": "kozypi", "amount": 9}], "research": "zuhisu-factory", "maxNodes": 22, "laserRange": 19, "category": "power"}

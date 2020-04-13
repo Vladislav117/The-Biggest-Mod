@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ziruzo liquid tank", "description": "...", "health": 455, "size": 3, "requirements": [{"item": "ziruzo", "amount": 4}, {"item": "tofe", "amount": 8}, {"item": "qybasinium", "amount": 4}], "research": "ziruzo-conduit", "category": "liquid", "liquidCapacity": 48321, "hasLiquids": true}

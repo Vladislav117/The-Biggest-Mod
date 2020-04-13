@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zafuqo liquid tank", "description": "...", "health": 124, "size": 3, "requirements": [{"item": "zafuqo", "amount": 4}, {"item": "layyzynium", "amount": 9}, {"item": "vesy", "amount": 7}], "research": "zafuqo-conduit", "category": "liquid", "liquidCapacity": 77095, "hasLiquids": true}

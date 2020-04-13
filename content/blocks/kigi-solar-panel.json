@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kigi solar panel", "description": "...", "size": 3, "health": 246, "requirements": [{"item": "kigi", "amount": 17}, {"item": "qiwu", "amount": 12}, {"item": "fohebi", "amount": 1}], "research": "kigi-factory", "powerProduction": 10.726656641384157, "category": "power"}

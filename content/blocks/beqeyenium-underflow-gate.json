@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "beqeyenium underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "beqeyenium", "amount": 1}, {"item": "goti", "amount": 3}], "research": "beqeyenium-conveyor", "category": "distribution", "invert": false}

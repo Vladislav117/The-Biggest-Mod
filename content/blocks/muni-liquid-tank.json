@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "muni liquid tank", "description": "...", "health": 537, "size": 3, "requirements": [{"item": "muni", "amount": 9}, {"item": "guliyu", "amount": 13}, {"item": "wymywynium", "amount": 4}], "research": "muni-conduit", "category": "liquid", "liquidCapacity": 37972, "hasLiquids": true}

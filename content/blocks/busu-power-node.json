@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "busu power node", "description": "...", "size": 2, "health": 528, "requirements": [{"item": "busu", "amount": 7}, {"item": "seleme", "amount": 13}, {"item": "mityya", "amount": 10}], "research": "busu-factory", "maxNodes": 19, "laserRange": 24, "category": "power"}

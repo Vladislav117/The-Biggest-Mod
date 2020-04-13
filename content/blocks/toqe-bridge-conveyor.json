@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "toqe bridge conveyor", "description": "", "health": 43, "range": 5, "speed": 5, "bufferCapacity": 9, "requirements": [{"item": "toqe", "amount": 4}, {"item": "jyreki", "amount": 1}], "research": "toqe-conveyor", "category": "distribution", "size": 1}

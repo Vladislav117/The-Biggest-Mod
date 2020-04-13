@@ -1,0 +1,1 @@
+{"type": "router", "name": "cepa router", "description": "...", "health": 80, "size": 1, "requirements": [{"item": "cepa", "amount": 8}], "research": "cepa-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small puqo power node", "description": "...", "size": 1, "health": 259, "requirements": [{"item": "puqo", "amount": 18}, {"item": "cimafinium", "amount": 5}, {"item": "mikyzy", "amount": 1}], "research": "puqo-factory", "maxNodes": 18, "laserRange": 4, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kelyqi battery", "description": "...", "size": 1, "health": 211, "requirements": [{"item": "kelyqi", "amount": 5}, {"item": "dyku", "amount": 11}, {"item": "gymypa", "amount": 2}], "research": "kelyqi-factory", "consumes": {"powerBuffered": 1503}, "category": "power"}

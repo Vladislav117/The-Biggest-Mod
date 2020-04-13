@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yuyy battery", "description": "...", "size": 3, "health": 196, "requirements": [{"item": "yuyy", "amount": 10}, {"item": "vuvonium", "amount": 2}, {"item": "felomo", "amount": 9}], "research": "yuyy-factory", "consumes": {"powerBuffered": 1173}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yoqy bridge conveyor", "description": "", "health": 45, "range": 17, "speed": 14, "bufferCapacity": 19, "requirements": [{"item": "yoqy", "amount": 4}, {"item": "betesa", "amount": 4}], "research": "yoqy-conveyor", "category": "distribution", "size": 1}

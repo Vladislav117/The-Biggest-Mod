@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "veniga power node", "description": "...", "size": 2, "health": 296, "requirements": [{"item": "veniga", "amount": 8}, {"item": "wywile", "amount": 6}, {"item": "molikonium", "amount": 3}], "research": "veniga-factory", "maxNodes": 15, "laserRange": 7, "category": "power"}

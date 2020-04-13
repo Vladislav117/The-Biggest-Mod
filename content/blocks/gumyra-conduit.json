@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gumyra conduit", "description": "...", "health": 63, "requirements": [{"item": "gumyra", "amount": 20}, {"item": "pominium", "amount": 1}, {"item": "kuju", "amount": 1}], "liquidCapacity": 42, "liquidPressure": 10, "research": "gumyra-factory", "category": "liquid"}

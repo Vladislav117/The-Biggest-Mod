@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pugi power node", "description": "...", "size": 2, "health": 733, "requirements": [{"item": "pugi", "amount": 16}, {"item": "nunaby", "amount": 13}, {"item": "wohy", "amount": 4}], "research": "pugi-factory", "maxNodes": 35, "laserRange": 25, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jygu battery", "description": "...", "size": 3, "health": 124, "requirements": [{"item": "jygu", "amount": 10}, {"item": "kosizi", "amount": 6}, {"item": "gacy", "amount": 2}], "research": "jygu-factory", "consumes": {"powerBuffered": 5340}, "category": "power"}

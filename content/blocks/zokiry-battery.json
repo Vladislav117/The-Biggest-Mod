@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zokiry battery", "description": "...", "size": 3, "health": 203, "requirements": [{"item": "zokiry", "amount": 14}, {"item": "deteka", "amount": 1}, {"item": "faqymu", "amount": 9}], "research": "zokiry-factory", "consumes": {"powerBuffered": 3403}, "category": "power"}

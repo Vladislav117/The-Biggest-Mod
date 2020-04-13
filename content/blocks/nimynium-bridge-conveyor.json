@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nimynium bridge conveyor", "description": "", "health": 4, "range": 14, "speed": 9, "bufferCapacity": 7, "requirements": [{"item": "nimynium", "amount": 2}, {"item": "qowepa", "amount": 1}], "research": "nimynium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cyhunium battery", "description": "...", "size": 1, "health": 130, "requirements": [{"item": "cyhunium", "amount": 13}, {"item": "zuxygo", "amount": 7}, {"item": "goqanium", "amount": 8}], "research": "cyhunium-factory", "consumes": {"powerBuffered": 2903}, "category": "power"}

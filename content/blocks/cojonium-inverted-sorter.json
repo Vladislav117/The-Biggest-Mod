@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cojonium inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "cojonium", "amount": 4}, {"item": "riza", "amount": 2}], "research": "cojonium-conveyor", "category": "distribution", "invert": true}

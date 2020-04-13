@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jojene power node", "description": "...", "size": 2, "health": 358, "requirements": [{"item": "jojene", "amount": 16}, {"item": "lekewy", "amount": 7}, {"item": "keby", "amount": 5}], "research": "jojene-factory", "maxNodes": 53, "laserRange": 12, "category": "power"}

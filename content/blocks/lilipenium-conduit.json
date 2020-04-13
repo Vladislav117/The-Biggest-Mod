@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lilipenium conduit", "description": "...", "health": 24, "requirements": [{"item": "lilipenium", "amount": 3}, {"item": "yisyqu", "amount": 2}, {"item": "zipeye", "amount": 5}], "liquidCapacity": 41, "liquidPressure": 10, "research": "lilipenium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "masa inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "masa", "amount": 3}, {"item": "robyto", "amount": 1}], "research": "masa-conveyor", "category": "distribution", "invert": true}

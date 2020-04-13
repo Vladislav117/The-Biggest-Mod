@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dimy conduit", "description": "...", "health": 158, "requirements": [{"item": "dimy", "amount": 10}, {"item": "ruwecu", "amount": 20}, {"item": "zoxa", "amount": 3}], "liquidCapacity": 20, "liquidPressure": 6, "research": "dimy-factory", "category": "liquid"}

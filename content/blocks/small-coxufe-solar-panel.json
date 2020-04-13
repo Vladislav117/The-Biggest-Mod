@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small coxufe solar panel", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "coxufe", "amount": 5}, {"item": "yijotu", "amount": 6}, {"item": "sysagu", "amount": 2}], "research": "coxufe-factory", "powerProduction": 0.6172144363416012, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kituhinium battery", "description": "...", "size": 3, "health": 224, "requirements": [{"item": "kituhinium", "amount": 10}, {"item": "goqanium", "amount": 19}, {"item": "tugu", "amount": 8}], "research": "kituhinium-factory", "consumes": {"powerBuffered": 599}, "category": "power"}

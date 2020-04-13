@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "povo power node", "description": "...", "size": 2, "health": 192, "requirements": [{"item": "povo", "amount": 5}, {"item": "qyfyqunium", "amount": 16}, {"item": "dimysynium", "amount": 7}], "research": "povo-factory", "maxNodes": 16, "laserRange": 14, "category": "power"}

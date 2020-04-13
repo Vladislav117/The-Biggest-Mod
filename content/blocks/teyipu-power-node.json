@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "teyipu power node", "description": "...", "size": 2, "health": 25, "requirements": [{"item": "teyipu", "amount": 3}, {"item": "sexinium", "amount": 8}, {"item": "vaso", "amount": 2}], "research": "teyipu-factory", "maxNodes": 48, "laserRange": 22, "category": "power"}

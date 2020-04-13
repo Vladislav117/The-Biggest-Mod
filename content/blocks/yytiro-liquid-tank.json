@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yytiro liquid tank", "description": "...", "health": 221, "size": 3, "requirements": [{"item": "yytiro", "amount": 18}, {"item": "yydy", "amount": 8}, {"item": "nyboye", "amount": 4}], "research": "yytiro-conduit", "category": "liquid", "liquidCapacity": 43397, "hasLiquids": true}

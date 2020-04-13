@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yizo battery", "description": "...", "size": 3, "health": 90, "requirements": [{"item": "yizo", "amount": 12}, {"item": "xymywi", "amount": 6}, {"item": "pyvohe", "amount": 1}], "research": "yizo-factory", "consumes": {"powerBuffered": 6056}, "category": "power"}

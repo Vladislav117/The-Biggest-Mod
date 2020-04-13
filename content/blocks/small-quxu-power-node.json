@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small quxu power node", "description": "...", "size": 1, "health": 101, "requirements": [{"item": "quxu", "amount": 5}, {"item": "meti", "amount": 15}, {"item": "lehanium", "amount": 8}], "research": "quxu-factory", "maxNodes": 29, "laserRange": 17, "category": "power"}

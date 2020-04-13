@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "miyoqu underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "miyoqu", "amount": 1}, {"item": "rukonium", "amount": 2}], "research": "miyoqu-conveyor", "category": "distribution", "invert": false}

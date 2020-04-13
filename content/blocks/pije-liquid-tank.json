@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pije liquid tank", "description": "...", "health": 581, "size": 3, "requirements": [{"item": "pije", "amount": 20}, {"item": "nogosy", "amount": 2}, {"item": "fopo", "amount": 3}], "research": "pije-conduit", "category": "liquid", "liquidCapacity": 9648, "hasLiquids": true}

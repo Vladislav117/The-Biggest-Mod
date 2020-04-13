@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zijedu solar panel", "description": "...", "size": 3, "health": 195, "requirements": [{"item": "zijedu", "amount": 20}, {"item": "foho", "amount": 12}, {"item": "boty", "amount": 2}], "research": "zijedu-factory", "powerProduction": 0.3231353058796142, "category": "power"}

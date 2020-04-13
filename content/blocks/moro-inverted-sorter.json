@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "moro inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "moro", "amount": 5}, {"item": "qygi", "amount": 3}], "research": "moro-conveyor", "category": "distribution", "invert": true}

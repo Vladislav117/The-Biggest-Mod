@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fahi liquid router", "description": "...", "size": 1, "health": 88, "requirements": [{"item": "fahi", "amount": 4}, {"item": "fogodo", "amount": 4}, {"item": "hedi", "amount": 8}], "research": "fahi-conduit", "liquidCapacity": 10, "category": "liquid"}

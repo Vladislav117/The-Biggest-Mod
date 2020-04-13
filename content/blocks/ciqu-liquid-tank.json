@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ciqu liquid tank", "description": "...", "health": 315, "size": 3, "requirements": [{"item": "ciqu", "amount": 16}, {"item": "vanuhenium", "amount": 4}, {"item": "heso", "amount": 10}], "research": "ciqu-conduit", "category": "liquid", "liquidCapacity": 14833, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xeji underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "xeji", "amount": 5}, {"item": "fyte", "amount": 4}], "research": "xeji-conveyor", "category": "distribution", "invert": false}

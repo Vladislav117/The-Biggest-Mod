@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yowa solar panel", "description": "...", "size": 1, "health": 279, "requirements": [{"item": "yowa", "amount": 2}, {"item": "yocenium", "amount": 17}, {"item": "zadi", "amount": 6}], "research": "yowa-factory", "powerProduction": 1.427541366860443, "category": "power"}

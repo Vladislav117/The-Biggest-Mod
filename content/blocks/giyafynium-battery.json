@@ -1,0 +1,1 @@
+{"type": "battery", "name": "giyafynium battery", "description": "...", "size": 3, "health": 272, "requirements": [{"item": "giyafynium", "amount": 7}, {"item": "lory", "amount": 20}, {"item": "vyji", "amount": 2}], "research": "giyafynium-factory", "consumes": {"powerBuffered": 3246}, "category": "power"}

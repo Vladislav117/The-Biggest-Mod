@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bepoxu underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "bepoxu", "amount": 2}, {"item": "zocumo", "amount": 5}], "research": "bepoxu-conveyor", "category": "distribution", "invert": false}

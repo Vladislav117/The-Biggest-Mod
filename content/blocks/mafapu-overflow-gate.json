@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mafapu overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "mafapu", "amount": 3}, {"item": "holepinium", "amount": 4}], "research": "mafapu-conveyor", "category": "distribution", "invert": false}

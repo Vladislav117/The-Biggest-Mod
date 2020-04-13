@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yedunium liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "yedunium", "amount": 13}, {"item": "deteka", "amount": 8}, {"item": "qacu", "amount": 5}], "research": "yedunium-conduit", "liquidCapacity": 10, "category": "liquid"}

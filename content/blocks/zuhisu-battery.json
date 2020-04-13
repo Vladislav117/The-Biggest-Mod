@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zuhisu battery", "description": "...", "size": 3, "health": 167, "requirements": [{"item": "zuhisu", "amount": 12}, {"item": "rateju", "amount": 11}, {"item": "fawa", "amount": 8}], "research": "zuhisu-factory", "consumes": {"powerBuffered": 3867}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yyjy liquid tank", "description": "...", "health": 635, "size": 3, "requirements": [{"item": "yyjy", "amount": 2}, {"item": "yedunium", "amount": 9}, {"item": "yafenium", "amount": 4}], "research": "yyjy-conduit", "category": "liquid", "liquidCapacity": 75151, "hasLiquids": true}

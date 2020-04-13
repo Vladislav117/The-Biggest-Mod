@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yohu liquid tank", "description": "...", "health": 286, "size": 3, "requirements": [{"item": "yohu", "amount": 2}, {"item": "wafe", "amount": 4}, {"item": "betesa", "amount": 3}], "research": "yohu-conduit", "category": "liquid", "liquidCapacity": 4048, "hasLiquids": true}

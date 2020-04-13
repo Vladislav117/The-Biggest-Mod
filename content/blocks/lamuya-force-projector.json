@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "lamuya force projector", "description": "...", "health": 151, "size": 3, "consumes": {"power": 5.0, "item": "lamuya"}, "requirements": [{"item": "lamuya", "amount": 7}, {"item": "xekocanium", "amount": 11}, {"item": "byfa", "amount": 5}], "research": "lamuya-factory", "category": "effect"}

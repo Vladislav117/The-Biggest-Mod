@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mafapu inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "mafapu", "amount": 2}, {"item": "wehynium", "amount": 5}], "research": "mafapu-conveyor", "category": "distribution", "invert": true}

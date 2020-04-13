@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yejefa liquid tank", "description": "...", "health": 469, "size": 3, "requirements": [{"item": "yejefa", "amount": 1}, {"item": "toqo", "amount": 5}, {"item": "buxy", "amount": 8}], "research": "yejefa-conduit", "category": "liquid", "liquidCapacity": 102061, "hasLiquids": true}

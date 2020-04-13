@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "seyuwa power node", "description": "...", "size": 2, "health": 90, "requirements": [{"item": "seyuwa", "amount": 2}, {"item": "hoqade", "amount": 8}, {"item": "rymojanium", "amount": 2}], "research": "seyuwa-factory", "maxNodes": 20, "laserRange": 18, "category": "power"}

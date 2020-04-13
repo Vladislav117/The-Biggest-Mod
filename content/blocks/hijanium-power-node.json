@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hijanium power node", "description": "...", "size": 2, "health": 249, "requirements": [{"item": "hijanium", "amount": 16}, {"item": "hetuxo", "amount": 15}, {"item": "taze", "amount": 5}], "research": "hijanium-factory", "maxNodes": 35, "laserRange": 28, "category": "power"}

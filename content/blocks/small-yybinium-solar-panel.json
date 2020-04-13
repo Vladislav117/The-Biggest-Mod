@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yybinium solar panel", "description": "...", "size": 1, "health": 357, "requirements": [{"item": "yybinium", "amount": 14}, {"item": "kyfe", "amount": 10}, {"item": "weweco", "amount": 5}], "research": "yybinium-factory", "powerProduction": 2.0748118416466497, "category": "power"}

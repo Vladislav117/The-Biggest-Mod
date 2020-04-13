@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cuwehy junction", "description": "...", "health": 17, "speed": 8, "capacity": 18, "size": 1, "requirements": [{"item": "cuwehy", "amount": 2}, {"item": "yukuzo", "amount": 5}], "research": "cuwehy-conveyor", "category": "distribution"}

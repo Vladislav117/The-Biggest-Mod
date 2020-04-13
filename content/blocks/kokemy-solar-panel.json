@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kokemy solar panel", "description": "...", "size": 3, "health": 184, "requirements": [{"item": "kokemy", "amount": 3}, {"item": "metaglass", "amount": 8}, {"item": "dyma", "amount": 2}], "research": "kokemy-factory", "powerProduction": 0.0900852056565394, "category": "power"}

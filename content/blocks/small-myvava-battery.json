@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small myvava battery", "description": "...", "size": 1, "health": 267, "requirements": [{"item": "myvava", "amount": 10}, {"item": "beqeyenium", "amount": 19}, {"item": "forebu", "amount": 7}], "research": "myvava-factory", "consumes": {"powerBuffered": 501}, "category": "power"}

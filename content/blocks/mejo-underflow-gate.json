@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mejo underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "mejo", "amount": 4}, {"item": "duwo", "amount": 2}], "research": "mejo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "moyenium junction", "description": "...", "health": 27, "speed": 11, "capacity": 5, "size": 1, "requirements": [{"item": "moyenium", "amount": 5}, {"item": "yuyafi", "amount": 4}], "research": "moyenium-conveyor", "category": "distribution"}

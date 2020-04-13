@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pijuje power node", "description": "...", "size": 2, "health": 633, "requirements": [{"item": "pijuje", "amount": 11}, {"item": "geyico", "amount": 20}, {"item": "hezinium", "amount": 1}], "research": "pijuje-factory", "maxNodes": 57, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lumasunium solar panel", "description": "...", "size": 3, "health": 181, "requirements": [{"item": "lumasunium", "amount": 10}, {"item": "syteja", "amount": 19}, {"item": "lora", "amount": 4}], "research": "lumasunium-factory", "powerProduction": 0.5643859170117764, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cecuvinium power node", "description": "...", "size": 1, "health": 307, "requirements": [{"item": "cecuvinium", "amount": 3}, {"item": "cuwe", "amount": 18}, {"item": "povazu", "amount": 8}], "research": "cecuvinium-factory", "maxNodes": 13, "laserRange": 16, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xesu liquid tank", "description": "...", "health": 370, "size": 3, "requirements": [{"item": "xesu", "amount": 2}, {"item": "zeka", "amount": 19}, {"item": "tofe", "amount": 5}], "research": "xesu-conduit", "category": "liquid", "liquidCapacity": 40347, "hasLiquids": true}

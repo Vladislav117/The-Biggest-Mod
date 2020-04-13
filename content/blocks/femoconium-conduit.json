@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "femoconium conduit", "description": "...", "health": 119, "requirements": [{"item": "femoconium", "amount": 4}, {"item": "qive", "amount": 8}, {"item": "pikoqi", "amount": 5}], "liquidCapacity": 8, "liquidPressure": 7, "research": "femoconium-factory", "category": "liquid"}

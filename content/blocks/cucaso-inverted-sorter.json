@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cucaso inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "cucaso", "amount": 5}, {"item": "qaho", "amount": 4}], "research": "cucaso-conveyor", "category": "distribution", "invert": true}

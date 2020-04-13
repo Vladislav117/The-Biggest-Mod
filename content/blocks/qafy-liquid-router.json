@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qafy liquid router", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "qafy", "amount": 15}, {"item": "qano", "amount": 4}, {"item": "kywowa", "amount": 6}], "research": "qafy-conduit", "liquidCapacity": 10, "category": "liquid"}

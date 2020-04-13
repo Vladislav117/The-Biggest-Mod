@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sigu conduit", "description": "...", "health": 38, "requirements": [{"item": "sigu", "amount": 20}, {"item": "vuhu", "amount": 14}, {"item": "gyzuju", "amount": 3}], "liquidCapacity": 43, "liquidPressure": 1, "research": "sigu-factory", "category": "liquid"}

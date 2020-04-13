@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dere battery", "description": "...", "size": 3, "health": 195, "requirements": [{"item": "dere", "amount": 14}, {"item": "vuxi", "amount": 19}, {"item": "zowi", "amount": 4}], "research": "dere-factory", "consumes": {"powerBuffered": 9811}, "category": "power"}

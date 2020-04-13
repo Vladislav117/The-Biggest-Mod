@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gobenium battery", "description": "...", "size": 1, "health": 172, "requirements": [{"item": "gobenium", "amount": 4}, {"item": "favunium", "amount": 8}, {"item": "mawanium", "amount": 2}], "research": "gobenium-factory", "consumes": {"powerBuffered": 1703}, "category": "power"}

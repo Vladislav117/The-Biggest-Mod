@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xejunium solar panel", "description": "...", "size": 1, "health": 389, "requirements": [{"item": "xejunium", "amount": 5}, {"item": "dycimi", "amount": 10}, {"item": "qoseji", "amount": 8}], "research": "xejunium-factory", "powerProduction": 0.3228403362853206, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "najy junction", "description": "...", "health": 33, "speed": 3, "capacity": 17, "size": 1, "requirements": [{"item": "najy", "amount": 4}, {"item": "tozokinium", "amount": 2}], "research": "najy-conveyor", "category": "distribution"}

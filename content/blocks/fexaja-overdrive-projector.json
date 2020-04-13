@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "fexaja overdrive projector", "description": "...", "health": 95, "consumes": {"power": 3.0, "item": "fexaja"}, "size": 2, "requirements": [{"item": "fexaja", "amount": 9}, {"item": "dipewanium", "amount": 16}, {"item": "sepo", "amount": 8}], "research": "fexaja-factory", "category": "effect"}

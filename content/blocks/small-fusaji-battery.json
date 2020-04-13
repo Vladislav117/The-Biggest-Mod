@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fusaji battery", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "fusaji", "amount": 16}, {"item": "vywene", "amount": 7}, {"item": "hufema", "amount": 2}], "research": "fusaji-factory", "consumes": {"powerBuffered": 2217}, "category": "power"}

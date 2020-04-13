@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vodynium inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "vodynium", "amount": 5}, {"item": "vupofy", "amount": 1}], "research": "vodynium-conveyor", "category": "distribution", "invert": true}

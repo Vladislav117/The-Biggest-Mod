@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small baqilo solar panel", "description": "...", "size": 1, "health": 178, "requirements": [{"item": "baqilo", "amount": 8}, {"item": "pylonium", "amount": 20}, {"item": "furazinium", "amount": 3}], "research": "baqilo-factory", "powerProduction": 0.8281028028478428, "category": "power"}

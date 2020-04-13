@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fokinium power node", "description": "...", "size": 2, "health": 336, "requirements": [{"item": "fokinium", "amount": 13}, {"item": "xymaxu", "amount": 12}, {"item": "rybiho", "amount": 3}], "research": "fokinium-factory", "maxNodes": 44, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lofypy junction", "description": "...", "health": 38, "speed": 9, "capacity": 10, "size": 1, "requirements": [{"item": "lofypy", "amount": 3}, {"item": "zaginium", "amount": 2}], "research": "lofypy-conveyor", "category": "distribution"}

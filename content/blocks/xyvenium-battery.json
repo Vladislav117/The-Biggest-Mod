@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xyvenium battery", "description": "...", "size": 3, "health": 67, "requirements": [{"item": "xyvenium", "amount": 19}, {"item": "kuju", "amount": 3}, {"item": "monobu", "amount": 2}], "research": "xyvenium-factory", "consumes": {"powerBuffered": 7097}, "category": "power"}

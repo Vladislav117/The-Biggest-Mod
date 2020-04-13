@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hejezu solar panel", "description": "...", "size": 3, "health": 191, "requirements": [{"item": "hejezu", "amount": 13}, {"item": "vule", "amount": 19}, {"item": "geso", "amount": 8}], "research": "hejezu-factory", "powerProduction": 1.4105121995249705, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zumi solar panel", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "zumi", "amount": 11}, {"item": "cygyya", "amount": 20}, {"item": "lyjenium", "amount": 8}], "research": "zumi-factory", "powerProduction": 1.5335401842597138, "category": "power"}

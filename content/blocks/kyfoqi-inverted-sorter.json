@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kyfoqi inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "kyfoqi", "amount": 4}, {"item": "lypeja", "amount": 3}], "research": "kyfoqi-conveyor", "category": "distribution", "invert": true}

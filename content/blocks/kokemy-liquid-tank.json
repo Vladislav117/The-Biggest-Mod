@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kokemy liquid tank", "description": "...", "health": 640, "size": 3, "requirements": [{"item": "kokemy", "amount": 4}, {"item": "qedene", "amount": 16}, {"item": "noxy", "amount": 4}], "research": "kokemy-conduit", "category": "liquid", "liquidCapacity": 111420, "hasLiquids": true}

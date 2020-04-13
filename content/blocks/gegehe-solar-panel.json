@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gegehe solar panel", "description": "...", "size": 3, "health": 300, "requirements": [{"item": "gegehe", "amount": 14}, {"item": "kowaxy", "amount": 18}, {"item": "jezi", "amount": 4}], "research": "gegehe-factory", "powerProduction": 0.7286865886523644, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pepo liquid router", "description": "...", "size": 1, "health": 52, "requirements": [{"item": "pepo", "amount": 17}, {"item": "dyfi", "amount": 18}, {"item": "nago", "amount": 1}], "research": "pepo-conduit", "liquidCapacity": 10, "category": "liquid"}

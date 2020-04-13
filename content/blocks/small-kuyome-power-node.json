@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kuyome power node", "description": "...", "size": 1, "health": 394, "requirements": [{"item": "kuyome", "amount": 6}, {"item": "teyigu", "amount": 6}, {"item": "bilyvanium", "amount": 8}], "research": "kuyome-factory", "maxNodes": 10, "laserRange": 22, "category": "power"}

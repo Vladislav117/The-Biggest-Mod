@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nyli battery", "description": "...", "size": 1, "health": 385, "requirements": [{"item": "nyli", "amount": 14}, {"item": "xyduda", "amount": 14}, {"item": "sylyxy", "amount": 10}], "research": "nyli-factory", "consumes": {"powerBuffered": 1965}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "papununium power node", "description": "...", "size": 2, "health": 441, "requirements": [{"item": "papununium", "amount": 6}, {"item": "pero", "amount": 8}, {"item": "vayera", "amount": 7}], "research": "papununium-factory", "maxNodes": 40, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "fana overdrive projector", "description": "...", "health": 64, "consumes": {"power": 3.0, "item": "fana"}, "size": 2, "requirements": [{"item": "fana", "amount": 2}, {"item": "wafa", "amount": 5}, {"item": "foqi", "amount": 8}], "research": "fana-factory", "category": "effect"}

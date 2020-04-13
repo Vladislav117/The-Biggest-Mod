@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fehuzi power node", "description": "...", "size": 1, "health": 46, "requirements": [{"item": "fehuzi", "amount": 6}, {"item": "xicopo", "amount": 6}, {"item": "gujybo", "amount": 6}], "research": "fehuzi-factory", "maxNodes": 14, "laserRange": 18, "category": "power"}

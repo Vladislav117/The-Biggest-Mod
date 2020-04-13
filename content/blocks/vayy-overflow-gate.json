@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vayy overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "vayy", "amount": 3}, {"item": "ragoku", "amount": 3}], "research": "vayy-conveyor", "category": "distribution", "invert": false}

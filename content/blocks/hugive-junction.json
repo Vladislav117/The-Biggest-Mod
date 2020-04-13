@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hugive junction", "description": "...", "health": 6, "speed": 15, "capacity": 14, "size": 1, "requirements": [{"item": "hugive", "amount": 1}, {"item": "yiwonium", "amount": 2}], "research": "hugive-conveyor", "category": "distribution"}

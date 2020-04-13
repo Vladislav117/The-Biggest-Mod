@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jyyo liquid tank", "description": "...", "health": 532, "size": 3, "requirements": [{"item": "jyyo", "amount": 3}, {"item": "voje", "amount": 19}, {"item": "sekele", "amount": 9}], "research": "jyyo-conduit", "category": "liquid", "liquidCapacity": 3851, "hasLiquids": true}

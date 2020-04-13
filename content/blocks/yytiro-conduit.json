@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yytiro conduit", "description": "...", "health": 142, "requirements": [{"item": "yytiro", "amount": 15}, {"item": "vuzoha", "amount": 5}, {"item": "yepy", "amount": 4}], "liquidCapacity": 24, "liquidPressure": 10, "research": "yytiro-factory", "category": "liquid"}

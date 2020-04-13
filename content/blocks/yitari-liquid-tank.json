@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yitari liquid tank", "description": "...", "health": 246, "size": 3, "requirements": [{"item": "yitari", "amount": 13}, {"item": "jefo", "amount": 3}, {"item": "loha", "amount": 1}], "research": "yitari-conduit", "category": "liquid", "liquidCapacity": 54482, "hasLiquids": true}

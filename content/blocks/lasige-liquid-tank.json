@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lasige liquid tank", "description": "...", "health": 485, "size": 3, "requirements": [{"item": "lasige", "amount": 18}, {"item": "cafe", "amount": 4}, {"item": "xoxu", "amount": 7}], "research": "lasige-conduit", "category": "liquid", "liquidCapacity": 44608, "hasLiquids": true}

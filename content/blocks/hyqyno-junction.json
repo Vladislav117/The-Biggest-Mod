@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hyqyno junction", "description": "...", "health": 50, "speed": 17, "capacity": 9, "size": 1, "requirements": [{"item": "hyqyno", "amount": 3}, {"item": "byzure", "amount": 4}], "research": "hyqyno-conveyor", "category": "distribution"}

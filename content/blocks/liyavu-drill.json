@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "liyavu drill", "description": "...", "size": 2, "health": 192, "tier": 4, "drillTime": 15, "consumes": {"power": 13}, "requirements": [{"item": "liyavu", "amount": 13}, {"item": "gapy", "amount": 6}, {"item": "pyxoxanium", "amount": 6}], "research": "liyavu-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wareginium conduit", "description": "...", "health": 142, "requirements": [{"item": "wareginium", "amount": 15}, {"item": "zypiqi", "amount": 6}, {"item": "tuxu", "amount": 2}], "liquidCapacity": 18, "liquidPressure": 0, "research": "wareginium-factory", "category": "liquid"}

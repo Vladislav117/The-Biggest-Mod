@@ -1,0 +1,1 @@
+{"type": "junction", "name": "coqaqynium junction", "description": "...", "health": 46, "speed": 2, "capacity": 18, "size": 1, "requirements": [{"item": "coqaqynium", "amount": 2}, {"item": "kovu", "amount": 5}], "research": "coqaqynium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "peqo power node", "description": "...", "size": 2, "health": 394, "requirements": [{"item": "peqo", "amount": 15}, {"item": "rupy", "amount": 9}, {"item": "taze", "amount": 4}], "research": "peqo-factory", "maxNodes": 51, "laserRange": 17, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "gave overdrive projector", "description": "...", "health": 79, "consumes": {"power": 3.0, "item": "gave"}, "size": 2, "requirements": [{"item": "gave", "amount": 20}, {"item": "rudy", "amount": 4}, {"item": "tatavo", "amount": 10}], "research": "gave-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rosiqe bridge conveyor", "description": "", "health": 26, "range": 3, "speed": 18, "bufferCapacity": 23, "requirements": [{"item": "rosiqe", "amount": 2}, {"item": "bybity", "amount": 3}], "research": "rosiqe-conveyor", "category": "distribution", "size": 1}

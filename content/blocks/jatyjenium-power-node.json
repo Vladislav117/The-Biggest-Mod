@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jatyjenium power node", "description": "...", "size": 2, "health": 426, "requirements": [{"item": "jatyjenium", "amount": 6}, {"item": "beyo", "amount": 8}, {"item": "dywo", "amount": 3}], "research": "jatyjenium-factory", "maxNodes": 24, "laserRange": 26, "category": "power"}

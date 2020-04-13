@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pufere liquid tank", "description": "...", "health": 365, "size": 3, "requirements": [{"item": "pufere", "amount": 16}, {"item": "vosamo", "amount": 16}, {"item": "nijuto", "amount": 1}], "research": "pufere-conduit", "category": "liquid", "liquidCapacity": 119535, "hasLiquids": true}

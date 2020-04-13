@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nito battery", "description": "...", "size": 3, "health": 241, "requirements": [{"item": "nito", "amount": 13}, {"item": "jusiqo", "amount": 17}, {"item": "pyvunium", "amount": 7}], "research": "nito-factory", "consumes": {"powerBuffered": 2595}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zily power node", "description": "...", "size": 2, "health": 305, "requirements": [{"item": "zily", "amount": 12}, {"item": "seqyyi", "amount": 7}, {"item": "bolo", "amount": 9}], "research": "zily-factory", "maxNodes": 10, "laserRange": 20, "category": "power"}

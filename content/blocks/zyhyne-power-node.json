@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zyhyne power node", "description": "...", "size": 2, "health": 293, "requirements": [{"item": "zyhyne", "amount": 9}, {"item": "nufaye", "amount": 1}, {"item": "fupymi", "amount": 4}], "research": "zyhyne-factory", "maxNodes": 33, "laserRange": 11, "category": "power"}

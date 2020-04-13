@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qojuhi liquid tank", "description": "...", "health": 462, "size": 3, "requirements": [{"item": "qojuhi", "amount": 16}, {"item": "xogy", "amount": 5}, {"item": "hyte", "amount": 10}], "research": "qojuhi-conduit", "category": "liquid", "liquidCapacity": 105866, "hasLiquids": true}

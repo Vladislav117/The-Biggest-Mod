@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zypinium overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "zypinium", "amount": 2}, {"item": "tavu", "amount": 2}], "research": "zypinium-conveyor", "category": "distribution", "invert": false}

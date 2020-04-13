@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hysivi underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "hysivi", "amount": 4}, {"item": "vapa", "amount": 1}], "research": "hysivi-conveyor", "category": "distribution", "invert": false}

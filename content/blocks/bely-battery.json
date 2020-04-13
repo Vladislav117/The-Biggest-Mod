@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bely battery", "description": "...", "size": 3, "health": 368, "requirements": [{"item": "bely", "amount": 10}, {"item": "numy", "amount": 8}, {"item": "juvaci", "amount": 3}], "research": "bely-factory", "consumes": {"powerBuffered": 5027}, "category": "power"}

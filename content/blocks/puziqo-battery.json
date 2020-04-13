@@ -1,0 +1,1 @@
+{"type": "battery", "name": "puziqo battery", "description": "...", "size": 3, "health": 361, "requirements": [{"item": "puziqo", "amount": 17}, {"item": "waje", "amount": 11}, {"item": "zytukenium", "amount": 6}], "research": "puziqo-factory", "consumes": {"powerBuffered": 4802}, "category": "power"}

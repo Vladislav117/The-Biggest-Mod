@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyvanium liquid tank", "description": "...", "health": 145, "size": 3, "requirements": [{"item": "kyvanium", "amount": 11}, {"item": "paso", "amount": 5}, {"item": "fecufy", "amount": 5}], "research": "kyvanium-conduit", "category": "liquid", "liquidCapacity": 67930, "hasLiquids": true}

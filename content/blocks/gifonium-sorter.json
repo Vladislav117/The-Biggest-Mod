@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gifonium sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "gifonium", "amount": 1}, {"item": "qexata", "amount": 5}], "research": "gifonium-conveyor", "category": "distribution", "invert": false}

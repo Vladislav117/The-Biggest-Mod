@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "giho inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "giho", "amount": 5}, {"item": "ridu", "amount": 5}], "research": "giho-conveyor", "category": "distribution", "invert": true}

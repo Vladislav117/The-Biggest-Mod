@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "soda bridge conveyor", "description": "", "health": 30, "range": 11, "speed": 3, "bufferCapacity": 22, "requirements": [{"item": "soda", "amount": 5}, {"item": "razi", "amount": 2}], "research": "soda-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wedu power node", "description": "...", "size": 1, "health": 253, "requirements": [{"item": "wedu", "amount": 12}, {"item": "biny", "amount": 14}, {"item": "kofynium", "amount": 6}], "research": "wedu-factory", "maxNodes": 17, "laserRange": 8, "category": "power"}

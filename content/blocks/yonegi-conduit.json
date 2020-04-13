@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yonegi conduit", "description": "...", "health": 108, "requirements": [{"item": "yonegi", "amount": 12}, {"item": "foky", "amount": 12}, {"item": "xycaqunium", "amount": 5}], "liquidCapacity": 50, "liquidPressure": 2, "research": "yonegi-factory", "category": "liquid"}

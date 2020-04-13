@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "noveba liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "noveba", "amount": 10}, {"item": "vole", "amount": 14}, {"item": "pigagunium", "amount": 10}], "research": "noveba-conduit", "liquidCapacity": 10, "category": "liquid"}

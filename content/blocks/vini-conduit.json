@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vini conduit", "description": "...", "health": 47, "requirements": [{"item": "vini", "amount": 16}, {"item": "dowa", "amount": 19}, {"item": "sofowo", "amount": 5}], "liquidCapacity": 50, "liquidPressure": 10, "research": "vini-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wyra underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "wyra", "amount": 5}, {"item": "nuso", "amount": 1}], "research": "wyra-conveyor", "category": "distribution", "invert": false}

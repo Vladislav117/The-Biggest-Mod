@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nyyonium conduit", "description": "...", "health": 127, "requirements": [{"item": "nyyonium", "amount": 2}, {"item": "dugi", "amount": 16}, {"item": "hasu", "amount": 1}], "liquidCapacity": 14, "liquidPressure": 0, "research": "nyyonium-factory", "category": "liquid"}

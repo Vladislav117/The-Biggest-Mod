@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cuwa solar panel", "description": "...", "size": 3, "health": 317, "requirements": [{"item": "cuwa", "amount": 16}, {"item": "vesy", "amount": 5}, {"item": "fusaji", "amount": 5}], "research": "cuwa-factory", "powerProduction": 0.07733082724707133, "category": "power"}

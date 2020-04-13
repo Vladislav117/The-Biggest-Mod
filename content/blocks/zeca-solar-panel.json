@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zeca solar panel", "description": "...", "size": 3, "health": 330, "requirements": [{"item": "zeca", "amount": 16}, {"item": "rexo", "amount": 12}, {"item": "gino", "amount": 1}], "research": "zeca-factory", "powerProduction": 0.7414418416904168, "category": "power"}

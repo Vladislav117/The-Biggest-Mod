@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "syjo liquid tank", "description": "...", "health": 424, "size": 3, "requirements": [{"item": "syjo", "amount": 4}, {"item": "teyonium", "amount": 17}, {"item": "duvi", "amount": 4}], "research": "syjo-conduit", "category": "liquid", "liquidCapacity": 16693, "hasLiquids": true}

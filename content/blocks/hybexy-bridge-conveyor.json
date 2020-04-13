@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hybexy bridge conveyor", "description": "", "health": 27, "range": 18, "speed": 9, "bufferCapacity": 23, "requirements": [{"item": "hybexy", "amount": 3}, {"item": "hukebi", "amount": 1}], "research": "hybexy-conveyor", "category": "distribution", "size": 1}

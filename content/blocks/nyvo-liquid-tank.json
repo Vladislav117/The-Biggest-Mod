@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nyvo liquid tank", "description": "...", "health": 226, "size": 3, "requirements": [{"item": "nyvo", "amount": 14}, {"item": "secybo", "amount": 3}, {"item": "jumonium", "amount": 7}], "research": "nyvo-conduit", "category": "liquid", "liquidCapacity": 67348, "hasLiquids": true}

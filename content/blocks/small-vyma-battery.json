@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vyma battery", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "vyma", "amount": 19}, {"item": "dowynium", "amount": 18}, {"item": "togi", "amount": 7}], "research": "vyma-factory", "consumes": {"powerBuffered": 2458}, "category": "power"}

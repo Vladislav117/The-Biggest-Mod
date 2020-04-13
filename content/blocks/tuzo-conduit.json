@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tuzo conduit", "description": "...", "health": 195, "requirements": [{"item": "tuzo", "amount": 10}, {"item": "devube", "amount": 8}, {"item": "miqomy", "amount": 2}], "liquidCapacity": 50, "liquidPressure": 6, "research": "tuzo-factory", "category": "liquid"}

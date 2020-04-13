@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "byfyly underflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "byfyly", "amount": 3}, {"item": "ragoku", "amount": 4}], "research": "byfyly-conveyor", "category": "distribution", "invert": false}

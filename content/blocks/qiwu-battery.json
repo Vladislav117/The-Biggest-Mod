@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qiwu battery", "description": "...", "size": 3, "health": 110, "requirements": [{"item": "qiwu", "amount": 6}, {"item": "rysyhy", "amount": 12}, {"item": "zyluci", "amount": 7}], "research": "qiwu-factory", "consumes": {"powerBuffered": 7422}, "category": "power"}

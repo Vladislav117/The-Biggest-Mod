@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jumozo drill", "description": "...", "size": 2, "health": 129, "tier": 1, "drillTime": 9, "consumes": {"power": 17}, "requirements": [{"item": "jumozo", "amount": 16}, {"item": "dyxuhu", "amount": 9}, {"item": "buji", "amount": 3}], "research": "jumozo-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fypanium conduit", "description": "...", "health": 144, "requirements": [{"item": "fypanium", "amount": 16}, {"item": "samivi", "amount": 18}, {"item": "wajese", "amount": 3}], "liquidCapacity": 24, "liquidPressure": 10, "research": "fypanium-factory", "category": "liquid"}

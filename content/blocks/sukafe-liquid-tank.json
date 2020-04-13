@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sukafe liquid tank", "description": "...", "health": 285, "size": 3, "requirements": [{"item": "sukafe", "amount": 19}, {"item": "xikogo", "amount": 7}, {"item": "kipyzonium", "amount": 8}], "research": "sukafe-conduit", "category": "liquid", "liquidCapacity": 75221, "hasLiquids": true}

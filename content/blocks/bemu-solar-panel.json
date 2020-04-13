@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bemu solar panel", "description": "...", "size": 3, "health": 117, "requirements": [{"item": "bemu", "amount": 11}, {"item": "xami", "amount": 19}, {"item": "zymi", "amount": 8}], "research": "bemu-factory", "powerProduction": 12.783203180884033, "category": "power"}

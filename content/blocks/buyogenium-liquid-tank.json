@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "buyogenium liquid tank", "description": "...", "health": 635, "size": 3, "requirements": [{"item": "buyogenium", "amount": 16}, {"item": "yogocu", "amount": 19}, {"item": "jepumi", "amount": 5}], "research": "buyogenium-conduit", "category": "liquid", "liquidCapacity": 47609, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nixykanium bridge conveyor", "description": "", "health": 14, "range": 15, "speed": 14, "bufferCapacity": 13, "requirements": [{"item": "nixykanium", "amount": 1}, {"item": "lewi", "amount": 5}], "research": "nixykanium-conveyor", "category": "distribution", "size": 1}

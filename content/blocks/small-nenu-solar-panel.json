@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nenu solar panel", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "nenu", "amount": 2}, {"item": "simiwi", "amount": 5}, {"item": "xegonium", "amount": 5}], "research": "nenu-factory", "powerProduction": 1.9223359139030762, "category": "power"}

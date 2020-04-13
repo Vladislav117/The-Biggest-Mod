@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fygunium bridge conveyor", "description": "", "health": 3, "range": 2, "speed": 15, "bufferCapacity": 16, "requirements": [{"item": "fygunium", "amount": 5}, {"item": "phase-fabric", "amount": 4}], "research": "fygunium-conveyor", "category": "distribution", "size": 1}

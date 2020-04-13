@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rozy bridge conveyor", "description": "", "health": 24, "range": 19, "speed": 5, "bufferCapacity": 25, "requirements": [{"item": "rozy", "amount": 2}, {"item": "kotinium", "amount": 4}], "research": "rozy-conveyor", "category": "distribution", "size": 1}

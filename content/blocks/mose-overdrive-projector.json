@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "mose overdrive projector", "description": "...", "health": 85, "consumes": {"power": 3.0, "item": "mose"}, "size": 2, "requirements": [{"item": "mose", "amount": 14}, {"item": "syjije", "amount": 10}, {"item": "jyhoninium", "amount": 8}], "research": "mose-factory", "category": "effect"}

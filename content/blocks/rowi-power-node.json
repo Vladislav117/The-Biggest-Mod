@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rowi power node", "description": "...", "size": 2, "health": 718, "requirements": [{"item": "rowi", "amount": 11}, {"item": "veza", "amount": 5}, {"item": "xenira", "amount": 3}], "research": "rowi-factory", "maxNodes": 32, "laserRange": 21, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kiduka power node", "description": "...", "size": 1, "health": 294, "requirements": [{"item": "kiduka", "amount": 3}, {"item": "bajenium", "amount": 9}, {"item": "maku", "amount": 2}], "research": "kiduka-factory", "maxNodes": 3, "laserRange": 20, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qubironium liquid tank", "description": "...", "health": 636, "size": 3, "requirements": [{"item": "qubironium", "amount": 14}, {"item": "wigyre", "amount": 6}, {"item": "vewavu", "amount": 4}], "research": "qubironium-conduit", "category": "liquid", "liquidCapacity": 74234, "hasLiquids": true}

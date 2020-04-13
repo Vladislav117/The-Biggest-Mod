@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ciremo overflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "ciremo", "amount": 5}, {"item": "wawu", "amount": 1}], "research": "ciremo-conveyor", "category": "distribution", "invert": false}

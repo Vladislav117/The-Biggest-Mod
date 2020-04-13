@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xavidu battery", "description": "...", "size": 3, "health": 240, "requirements": [{"item": "xavidu", "amount": 9}, {"item": "diro", "amount": 17}, {"item": "rale", "amount": 6}], "research": "xavidu-factory", "consumes": {"powerBuffered": 900}, "category": "power"}

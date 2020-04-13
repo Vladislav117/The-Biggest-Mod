@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dywusunium solar panel", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "dywusunium", "amount": 9}, {"item": "dekyzu", "amount": 8}, {"item": "xuri", "amount": 7}], "research": "dywusunium-factory", "powerProduction": 0.5029335602915517, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "muho liquid tank", "description": "...", "health": 179, "size": 3, "requirements": [{"item": "muho", "amount": 2}, {"item": "vodehonium", "amount": 15}, {"item": "balinu", "amount": 1}], "research": "muho-conduit", "category": "liquid", "liquidCapacity": 69672, "hasLiquids": true}

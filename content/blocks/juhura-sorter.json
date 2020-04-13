@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "juhura sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "juhura", "amount": 4}, {"item": "byxo", "amount": 5}], "research": "juhura-conveyor", "category": "distribution", "invert": false}

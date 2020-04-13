@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fysubi solar panel", "description": "...", "size": 3, "health": 217, "requirements": [{"item": "fysubi", "amount": 1}, {"item": "titanium", "amount": 14}, {"item": "fayenium", "amount": 7}], "research": "fysubi-factory", "powerProduction": 0.07696998374885713, "category": "power"}

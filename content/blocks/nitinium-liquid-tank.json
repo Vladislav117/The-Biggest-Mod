@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nitinium liquid tank", "description": "...", "health": 641, "size": 3, "requirements": [{"item": "nitinium", "amount": 4}, {"item": "voje", "amount": 19}, {"item": "vuhu", "amount": 3}], "research": "nitinium-conduit", "category": "liquid", "liquidCapacity": 85042, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "toku conduit", "description": "...", "health": 183, "requirements": [{"item": "toku", "amount": 16}, {"item": "horyve", "amount": 1}, {"item": "pezale", "amount": 4}], "liquidCapacity": 22, "liquidPressure": 9, "research": "toku-factory", "category": "liquid"}

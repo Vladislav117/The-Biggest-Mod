@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nerymi junction", "description": "...", "health": 28, "speed": 18, "capacity": 18, "size": 1, "requirements": [{"item": "nerymi", "amount": 3}, {"item": "joqoranium", "amount": 5}], "research": "nerymi-conveyor", "category": "distribution"}

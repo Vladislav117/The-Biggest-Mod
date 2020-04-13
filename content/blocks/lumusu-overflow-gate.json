@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lumusu overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "lumusu", "amount": 1}, {"item": "hedi", "amount": 4}], "research": "lumusu-conveyor", "category": "distribution", "invert": false}

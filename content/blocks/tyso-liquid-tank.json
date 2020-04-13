@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tyso liquid tank", "description": "...", "health": 303, "size": 3, "requirements": [{"item": "tyso", "amount": 6}, {"item": "beweya", "amount": 9}, {"item": "ceho", "amount": 3}], "research": "tyso-conduit", "category": "liquid", "liquidCapacity": 38360, "hasLiquids": true}

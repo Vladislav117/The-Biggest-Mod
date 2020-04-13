@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yafenium power node", "description": "...", "size": 2, "health": 671, "requirements": [{"item": "yafenium", "amount": 19}, {"item": "yake", "amount": 17}, {"item": "tabi", "amount": 5}], "research": "yafenium-factory", "maxNodes": 18, "laserRange": 17, "category": "power"}

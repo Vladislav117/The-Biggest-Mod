@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yuduse drill", "description": "...", "size": 3, "health": 447, "tier": 4, "drillTime": 3, "consumes": {"power": 3}, "requirements": [{"item": "yuduse", "amount": 20}, {"item": "zumi", "amount": 6}, {"item": "vitina", "amount": 5}], "research": "yuduse-factory", "category": "production"}

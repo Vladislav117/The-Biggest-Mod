@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "duvi sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "duvi", "amount": 5}, {"item": "weva", "amount": 4}], "research": "duvi-conveyor", "category": "distribution", "invert": false}

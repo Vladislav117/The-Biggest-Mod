@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zapu power node", "description": "...", "size": 1, "health": 305, "requirements": [{"item": "zapu", "amount": 17}, {"item": "rogoly", "amount": 14}, {"item": "sipynium", "amount": 1}], "research": "zapu-factory", "maxNodes": 7, "laserRange": 4, "category": "power"}

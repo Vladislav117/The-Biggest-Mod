@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rulynium solar panel", "description": "...", "size": 1, "health": 248, "requirements": [{"item": "rulynium", "amount": 4}, {"item": "lepe", "amount": 12}, {"item": "ruzeru", "amount": 7}], "research": "rulynium-factory", "powerProduction": 0.8928706025514102, "category": "power"}

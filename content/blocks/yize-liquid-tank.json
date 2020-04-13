@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yize liquid tank", "description": "...", "health": 497, "size": 3, "requirements": [{"item": "yize", "amount": 1}, {"item": "thorium", "amount": 9}, {"item": "guhile", "amount": 9}], "research": "yize-conduit", "category": "liquid", "liquidCapacity": 77721, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nolo battery", "description": "...", "size": 1, "health": 101, "requirements": [{"item": "nolo", "amount": 4}, {"item": "wasebanium", "amount": 16}, {"item": "zafuqo", "amount": 8}], "research": "nolo-factory", "consumes": {"powerBuffered": 1735}, "category": "power"}

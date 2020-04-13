@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xurenium drill", "description": "...", "size": 3, "health": 276, "tier": 2, "drillTime": 6, "consumes": {"power": 1}, "requirements": [{"item": "xurenium", "amount": 8}, {"item": "zivo", "amount": 17}, {"item": "qigine", "amount": 3}], "research": "xurenium-factory", "category": "production"}

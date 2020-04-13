@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wyri bridge conveyor", "description": "", "health": 15, "range": 11, "speed": 2, "bufferCapacity": 7, "requirements": [{"item": "wyri", "amount": 5}, {"item": "siyunynium", "amount": 3}], "research": "wyri-conveyor", "category": "distribution", "size": 1}

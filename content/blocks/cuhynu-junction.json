@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cuhynu junction", "description": "...", "health": 4, "speed": 9, "capacity": 1, "size": 1, "requirements": [{"item": "cuhynu", "amount": 4}, {"item": "jytubinium", "amount": 3}], "research": "cuhynu-conveyor", "category": "distribution"}

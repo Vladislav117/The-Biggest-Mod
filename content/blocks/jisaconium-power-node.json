@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jisaconium power node", "description": "...", "size": 2, "health": 565, "requirements": [{"item": "jisaconium", "amount": 16}, {"item": "vocile", "amount": 18}, {"item": "noyayu", "amount": 1}], "research": "jisaconium-factory", "maxNodes": 38, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sesico overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "sesico", "amount": 2}, {"item": "fici", "amount": 1}], "research": "sesico-conveyor", "category": "distribution", "invert": false}

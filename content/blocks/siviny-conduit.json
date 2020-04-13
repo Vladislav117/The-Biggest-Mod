@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "siviny conduit", "description": "...", "health": 120, "requirements": [{"item": "siviny", "amount": 5}, {"item": "diyajy", "amount": 18}, {"item": "sisinium", "amount": 3}], "liquidCapacity": 40, "liquidPressure": 0, "research": "siviny-factory", "category": "liquid"}

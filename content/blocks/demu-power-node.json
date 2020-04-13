@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "demu power node", "description": "...", "size": 2, "health": 374, "requirements": [{"item": "demu", "amount": 19}, {"item": "padi", "amount": 18}, {"item": "nifego", "amount": 8}], "research": "demu-factory", "maxNodes": 51, "laserRange": 7, "category": "power"}

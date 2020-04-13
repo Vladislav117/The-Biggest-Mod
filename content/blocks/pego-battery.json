@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pego battery", "description": "...", "size": 3, "health": 53, "requirements": [{"item": "pego", "amount": 2}, {"item": "qodanunium", "amount": 10}, {"item": "gasu", "amount": 4}], "research": "pego-factory", "consumes": {"powerBuffered": 9454}, "category": "power"}

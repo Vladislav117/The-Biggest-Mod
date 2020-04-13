@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "muni conduit", "description": "...", "health": 123, "requirements": [{"item": "muni", "amount": 19}, {"item": "liku", "amount": 19}, {"item": "joqopy", "amount": 3}], "liquidCapacity": 4, "liquidPressure": 3, "research": "muni-factory", "category": "liquid"}

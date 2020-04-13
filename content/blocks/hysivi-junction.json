@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hysivi junction", "description": "...", "health": 46, "speed": 7, "capacity": 9, "size": 1, "requirements": [{"item": "hysivi", "amount": 3}, {"item": "sayo", "amount": 1}], "research": "hysivi-conveyor", "category": "distribution"}

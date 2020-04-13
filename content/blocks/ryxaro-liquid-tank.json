@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ryxaro liquid tank", "description": "...", "health": 184, "size": 3, "requirements": [{"item": "ryxaro", "amount": 17}, {"item": "vilyco", "amount": 14}, {"item": "pozilonium", "amount": 2}], "research": "ryxaro-conduit", "category": "liquid", "liquidCapacity": 55428, "hasLiquids": true}

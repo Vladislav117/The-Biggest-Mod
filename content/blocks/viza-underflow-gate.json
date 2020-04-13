@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "viza underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "viza", "amount": 1}, {"item": "viwahe", "amount": 2}], "research": "viza-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dehadenium liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "dehadenium", "amount": 11}, {"item": "zimaqa", "amount": 4}, {"item": "pygi", "amount": 2}], "research": "dehadenium-conduit", "liquidCapacity": 10, "category": "liquid"}

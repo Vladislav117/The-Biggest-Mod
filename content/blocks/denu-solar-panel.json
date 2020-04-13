@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "denu solar panel", "description": "...", "size": 3, "health": 10, "requirements": [{"item": "denu", "amount": 6}, {"item": "byhonium", "amount": 10}, {"item": "ryzyzi", "amount": 5}], "research": "denu-factory", "powerProduction": 3.258254575349815, "category": "power"}

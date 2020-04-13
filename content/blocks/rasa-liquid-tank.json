@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rasa liquid tank", "description": "...", "health": 576, "size": 3, "requirements": [{"item": "rasa", "amount": 14}, {"item": "wyfanium", "amount": 15}, {"item": "bapi", "amount": 7}], "research": "rasa-conduit", "category": "liquid", "liquidCapacity": 90860, "hasLiquids": true}

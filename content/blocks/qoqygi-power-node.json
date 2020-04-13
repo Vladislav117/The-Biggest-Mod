@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qoqygi power node", "description": "...", "size": 2, "health": 622, "requirements": [{"item": "qoqygi", "amount": 7}, {"item": "xekape", "amount": 14}, {"item": "hisoye", "amount": 1}], "research": "qoqygi-factory", "maxNodes": 50, "laserRange": 30, "category": "power"}

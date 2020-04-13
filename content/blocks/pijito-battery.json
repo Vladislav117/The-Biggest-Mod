@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pijito battery", "description": "...", "size": 3, "health": 267, "requirements": [{"item": "pijito", "amount": 14}, {"item": "nytina", "amount": 8}, {"item": "fizy", "amount": 4}], "research": "pijito-factory", "consumes": {"powerBuffered": 7037}, "category": "power"}

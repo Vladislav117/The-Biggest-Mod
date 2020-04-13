@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tate power node", "description": "...", "size": 2, "health": 510, "requirements": [{"item": "tate", "amount": 4}, {"item": "lyxeta", "amount": 6}, {"item": "cyri", "amount": 2}], "research": "tate-factory", "maxNodes": 15, "laserRange": 25, "category": "power"}

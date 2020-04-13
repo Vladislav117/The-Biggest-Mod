@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jihi battery", "description": "...", "size": 3, "health": 381, "requirements": [{"item": "jihi", "amount": 14}, {"item": "denu", "amount": 19}, {"item": "vevi", "amount": 1}], "research": "jihi-factory", "consumes": {"powerBuffered": 9158}, "category": "power"}

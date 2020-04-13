@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cydyby battery", "description": "...", "size": 3, "health": 162, "requirements": [{"item": "cydyby", "amount": 9}, {"item": "gosanium", "amount": 15}, {"item": "gopy", "amount": 6}], "research": "cydyby-factory", "consumes": {"powerBuffered": 5167}, "category": "power"}

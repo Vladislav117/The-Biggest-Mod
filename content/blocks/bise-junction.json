@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bise junction", "description": "...", "health": 16, "speed": 10, "capacity": 17, "size": 1, "requirements": [{"item": "bise", "amount": 5}, {"item": "bafo", "amount": 5}], "research": "bise-conveyor", "category": "distribution"}

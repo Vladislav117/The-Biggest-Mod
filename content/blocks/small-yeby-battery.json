@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yeby battery", "description": "...", "size": 1, "health": 255, "requirements": [{"item": "yeby", "amount": 16}, {"item": "hajo", "amount": 8}, {"item": "make", "amount": 1}], "research": "yeby-factory", "consumes": {"powerBuffered": 2044}, "category": "power"}

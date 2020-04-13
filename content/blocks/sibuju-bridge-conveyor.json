@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sibuju bridge conveyor", "description": "", "health": 43, "range": 18, "speed": 11, "bufferCapacity": 13, "requirements": [{"item": "sibuju", "amount": 1}, {"item": "nora", "amount": 5}], "research": "sibuju-conveyor", "category": "distribution", "size": 1}

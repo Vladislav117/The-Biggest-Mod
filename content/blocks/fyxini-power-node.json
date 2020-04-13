@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fyxini power node", "description": "...", "size": 2, "health": 57, "requirements": [{"item": "fyxini", "amount": 17}, {"item": "zoda", "amount": 10}, {"item": "weju", "amount": 2}], "research": "fyxini-factory", "maxNodes": 42, "laserRange": 10, "category": "power"}

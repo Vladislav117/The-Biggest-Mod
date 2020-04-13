@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mironium liquid tank", "description": "...", "health": 479, "size": 3, "requirements": [{"item": "mironium", "amount": 19}, {"item": "vuvy", "amount": 5}, {"item": "pexoqunium", "amount": 1}], "research": "mironium-conduit", "category": "liquid", "liquidCapacity": 91801, "hasLiquids": true}

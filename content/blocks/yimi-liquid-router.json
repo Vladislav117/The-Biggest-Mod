@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yimi liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "yimi", "amount": 6}, {"item": "wizacy", "amount": 4}, {"item": "ryho", "amount": 7}], "research": "yimi-conduit", "liquidCapacity": 10, "category": "liquid"}

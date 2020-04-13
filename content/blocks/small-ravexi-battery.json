@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ravexi battery", "description": "...", "size": 1, "health": 292, "requirements": [{"item": "ravexi", "amount": 3}, {"item": "zogeno", "amount": 19}, {"item": "kiyavu", "amount": 8}], "research": "ravexi-factory", "consumes": {"powerBuffered": 1229}, "category": "power"}

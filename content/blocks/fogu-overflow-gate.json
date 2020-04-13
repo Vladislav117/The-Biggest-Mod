@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fogu overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "fogu", "amount": 4}, {"item": "dugypa", "amount": 4}], "research": "fogu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gayi conduit", "description": "...", "health": 40, "requirements": [{"item": "gayi", "amount": 9}, {"item": "jisu", "amount": 10}, {"item": "waha", "amount": 5}], "liquidCapacity": 49, "liquidPressure": 9, "research": "gayi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yidugonium solar panel", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "yidugonium", "amount": 18}, {"item": "yijotu", "amount": 12}, {"item": "fyfoni", "amount": 4}], "research": "yidugonium-factory", "powerProduction": 0.7131705718322722, "category": "power"}

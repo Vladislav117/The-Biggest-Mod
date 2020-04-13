@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kago power node", "description": "...", "size": 2, "health": 598, "requirements": [{"item": "kago", "amount": 1}, {"item": "pumy", "amount": 20}, {"item": "fuhine", "amount": 2}], "research": "kago-factory", "maxNodes": 44, "laserRange": 8, "category": "power"}

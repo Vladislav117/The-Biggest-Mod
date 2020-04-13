@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hipowu solar panel", "description": "...", "size": 3, "health": 82, "requirements": [{"item": "hipowu", "amount": 8}, {"item": "manihe", "amount": 5}, {"item": "zydu", "amount": 10}], "research": "hipowu-factory", "powerProduction": 2.1089617229771846, "category": "power"}

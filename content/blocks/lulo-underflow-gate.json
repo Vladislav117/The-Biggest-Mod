@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lulo underflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "lulo", "amount": 3}, {"item": "holepinium", "amount": 1}], "research": "lulo-conveyor", "category": "distribution", "invert": false}

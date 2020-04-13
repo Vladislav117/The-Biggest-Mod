@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tuxalu overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "tuxalu", "amount": 2}, {"item": "belynium", "amount": 1}], "research": "tuxalu-conveyor", "category": "distribution", "invert": false}

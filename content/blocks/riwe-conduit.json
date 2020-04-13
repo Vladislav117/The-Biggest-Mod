@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "riwe conduit", "description": "...", "health": 177, "requirements": [{"item": "riwe", "amount": 16}, {"item": "musebo", "amount": 4}, {"item": "yanu", "amount": 8}], "liquidCapacity": 2, "liquidPressure": 3, "research": "riwe-factory", "category": "liquid"}

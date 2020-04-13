@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kiqe power node", "description": "...", "size": 2, "health": 548, "requirements": [{"item": "kiqe", "amount": 5}, {"item": "xeye", "amount": 1}, {"item": "cafy", "amount": 5}], "research": "kiqe-factory", "maxNodes": 23, "laserRange": 16, "category": "power"}

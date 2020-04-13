@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kusacynium solar panel", "description": "...", "size": 3, "health": 96, "requirements": [{"item": "kusacynium", "amount": 4}, {"item": "yemihonium", "amount": 18}, {"item": "zycinium", "amount": 10}], "research": "kusacynium-factory", "powerProduction": 0.08581699940974873, "category": "power"}

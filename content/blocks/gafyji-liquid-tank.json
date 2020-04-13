@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gafyji liquid tank", "description": "...", "health": 661, "size": 3, "requirements": [{"item": "gafyji", "amount": 18}, {"item": "qicuwe", "amount": 6}, {"item": "huci", "amount": 6}], "research": "gafyji-conduit", "category": "liquid", "liquidCapacity": 77841, "hasLiquids": true}

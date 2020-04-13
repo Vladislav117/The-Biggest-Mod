@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vyroca solar panel", "description": "...", "size": 3, "health": 162, "requirements": [{"item": "vyroca", "amount": 4}, {"item": "goxize", "amount": 10}, {"item": "ganu", "amount": 9}], "research": "vyroca-factory", "powerProduction": 5.449412440979951, "category": "power"}

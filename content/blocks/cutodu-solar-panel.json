@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cutodu solar panel", "description": "...", "size": 3, "health": 320, "requirements": [{"item": "cutodu", "amount": 2}, {"item": "xydy", "amount": 17}, {"item": "foha", "amount": 2}], "research": "cutodu-factory", "powerProduction": 0.43598291912126336, "category": "power"}

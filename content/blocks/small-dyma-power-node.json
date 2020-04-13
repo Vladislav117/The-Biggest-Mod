@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dyma power node", "description": "...", "size": 1, "health": 380, "requirements": [{"item": "dyma", "amount": 5}, {"item": "hisoye", "amount": 4}, {"item": "juwomi", "amount": 5}], "research": "dyma-factory", "maxNodes": 6, "laserRange": 14, "category": "power"}

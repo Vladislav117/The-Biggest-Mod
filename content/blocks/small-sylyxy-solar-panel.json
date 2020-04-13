@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sylyxy solar panel", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "sylyxy", "amount": 14}, {"item": "dyqasy", "amount": 1}, {"item": "julynium", "amount": 4}], "research": "sylyxy-factory", "powerProduction": 0.060270205266045034, "category": "power"}

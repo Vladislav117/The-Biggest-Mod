@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ziruzo sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "ziruzo", "amount": 3}, {"item": "cycu", "amount": 4}], "research": "ziruzo-conveyor", "category": "distribution", "invert": false}

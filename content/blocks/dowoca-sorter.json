@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dowoca sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "dowoca", "amount": 5}, {"item": "rysi", "amount": 2}], "research": "dowoca-conveyor", "category": "distribution", "invert": false}

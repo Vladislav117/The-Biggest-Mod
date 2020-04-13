@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kokidenium overflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "kokidenium", "amount": 2}, {"item": "yunu", "amount": 1}], "research": "kokidenium-conveyor", "category": "distribution", "invert": false}

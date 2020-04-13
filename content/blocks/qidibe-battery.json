@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qidibe battery", "description": "...", "size": 3, "health": 335, "requirements": [{"item": "qidibe", "amount": 17}, {"item": "yuly", "amount": 18}, {"item": "siyunynium", "amount": 8}], "research": "qidibe-factory", "consumes": {"powerBuffered": 4639}, "category": "power"}

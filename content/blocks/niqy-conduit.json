@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "niqy conduit", "description": "...", "health": 130, "requirements": [{"item": "niqy", "amount": 1}, {"item": "faqymu", "amount": 11}, {"item": "kilu", "amount": 3}], "liquidCapacity": 20, "liquidPressure": 4, "research": "niqy-factory", "category": "liquid"}

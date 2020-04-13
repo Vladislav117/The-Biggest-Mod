@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xejunium liquid tank", "description": "...", "health": 150, "size": 3, "requirements": [{"item": "xejunium", "amount": 16}, {"item": "jydi", "amount": 11}, {"item": "tatupo", "amount": 5}], "research": "xejunium-conduit", "category": "liquid", "liquidCapacity": 14352, "hasLiquids": true}

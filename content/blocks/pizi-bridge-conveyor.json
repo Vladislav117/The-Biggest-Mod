@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pizi bridge conveyor", "description": "", "health": 4, "range": 4, "speed": 20, "bufferCapacity": 5, "requirements": [{"item": "pizi", "amount": 5}, {"item": "lynulo", "amount": 1}], "research": "pizi-conveyor", "category": "distribution", "size": 1}

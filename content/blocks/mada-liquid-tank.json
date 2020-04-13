@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mada liquid tank", "description": "...", "health": 123, "size": 3, "requirements": [{"item": "mada", "amount": 3}, {"item": "rine", "amount": 11}, {"item": "fizuwe", "amount": 2}], "research": "mada-conduit", "category": "liquid", "liquidCapacity": 116930, "hasLiquids": true}

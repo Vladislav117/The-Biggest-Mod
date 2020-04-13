@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wafe power node", "description": "...", "size": 1, "health": 255, "requirements": [{"item": "wafe", "amount": 6}, {"item": "bimi", "amount": 3}, {"item": "sedowe", "amount": 1}], "research": "wafe-factory", "maxNodes": 10, "laserRange": 6, "category": "power"}

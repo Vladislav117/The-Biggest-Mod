@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sysoki junction", "description": "...", "health": 23, "speed": 12, "capacity": 9, "size": 1, "requirements": [{"item": "sysoki", "amount": 2}, {"item": "bopu", "amount": 4}], "research": "sysoki-conveyor", "category": "distribution"}

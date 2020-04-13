@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jynuka conduit", "description": "...", "health": 110, "requirements": [{"item": "jynuka", "amount": 11}, {"item": "morila", "amount": 12}, {"item": "koyixa", "amount": 10}], "liquidCapacity": 19, "liquidPressure": 10, "research": "jynuka-factory", "category": "liquid"}

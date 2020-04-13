@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qegy power node", "description": "...", "size": 2, "health": 178, "requirements": [{"item": "qegy", "amount": 15}, {"item": "kubi", "amount": 8}, {"item": "xenira", "amount": 2}], "research": "qegy-factory", "maxNodes": 53, "laserRange": 28, "category": "power"}

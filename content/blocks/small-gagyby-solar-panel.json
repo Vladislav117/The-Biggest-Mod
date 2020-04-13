@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gagyby solar panel", "description": "...", "size": 1, "health": 221, "requirements": [{"item": "gagyby", "amount": 19}, {"item": "nyvu", "amount": 10}, {"item": "semy", "amount": 9}], "research": "gagyby-factory", "powerProduction": 1.8268948310770363, "category": "power"}

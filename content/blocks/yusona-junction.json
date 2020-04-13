@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yusona junction", "description": "...", "health": 9, "speed": 12, "capacity": 14, "size": 1, "requirements": [{"item": "yusona", "amount": 4}, {"item": "qayine", "amount": 5}], "research": "yusona-conveyor", "category": "distribution"}

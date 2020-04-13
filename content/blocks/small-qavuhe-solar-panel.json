@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qavuhe solar panel", "description": "...", "size": 1, "health": 325, "requirements": [{"item": "qavuhe", "amount": 17}, {"item": "beqeyenium", "amount": 13}, {"item": "kuxevy", "amount": 8}], "research": "qavuhe-factory", "powerProduction": 0.754739240424039, "category": "power"}

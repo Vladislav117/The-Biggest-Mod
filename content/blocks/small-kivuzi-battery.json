@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kivuzi battery", "description": "...", "size": 1, "health": 327, "requirements": [{"item": "kivuzi", "amount": 16}, {"item": "ligyxe", "amount": 8}, {"item": "mityya", "amount": 5}], "research": "kivuzi-factory", "consumes": {"powerBuffered": 1472}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kilu inverted sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "kilu", "amount": 2}, {"item": "yalaka", "amount": 2}], "research": "kilu-conveyor", "category": "distribution", "invert": true}

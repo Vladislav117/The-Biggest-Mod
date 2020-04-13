@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fyze power node", "description": "...", "size": 2, "health": 749, "requirements": [{"item": "fyze", "amount": 15}, {"item": "typi", "amount": 1}, {"item": "vuyenium", "amount": 5}], "research": "fyze-factory", "maxNodes": 21, "laserRange": 9, "category": "power"}

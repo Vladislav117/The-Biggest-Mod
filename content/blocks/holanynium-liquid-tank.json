@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "holanynium liquid tank", "description": "...", "health": 533, "size": 3, "requirements": [{"item": "holanynium", "amount": 5}, {"item": "case", "amount": 10}, {"item": "jupiqynium", "amount": 3}], "research": "holanynium-conduit", "category": "liquid", "liquidCapacity": 101855, "hasLiquids": true}

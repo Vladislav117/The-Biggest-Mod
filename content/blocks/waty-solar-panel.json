@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "waty solar panel", "description": "...", "size": 3, "health": 123, "requirements": [{"item": "waty", "amount": 16}, {"item": "garoqanium", "amount": 15}, {"item": "cyheki", "amount": 2}], "research": "waty-factory", "powerProduction": 3.807596215239014, "category": "power"}

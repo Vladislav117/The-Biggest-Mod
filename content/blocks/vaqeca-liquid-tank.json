@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vaqeca liquid tank", "description": "...", "health": 566, "size": 3, "requirements": [{"item": "vaqeca", "amount": 17}, {"item": "leyyde", "amount": 6}, {"item": "hywinium", "amount": 8}], "research": "vaqeca-conduit", "category": "liquid", "liquidCapacity": 16256, "hasLiquids": true}

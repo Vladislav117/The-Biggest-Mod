@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yove conduit", "description": "...", "health": 107, "requirements": [{"item": "yove", "amount": 1}, {"item": "xodali", "amount": 13}, {"item": "bofe", "amount": 7}], "liquidCapacity": 19, "liquidPressure": 8, "research": "yove-factory", "category": "liquid"}

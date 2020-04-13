@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lilipenium solar panel", "description": "...", "size": 1, "health": 204, "requirements": [{"item": "lilipenium", "amount": 4}, {"item": "filu", "amount": 20}, {"item": "favunium", "amount": 6}], "research": "lilipenium-factory", "powerProduction": 3.7389732218380303, "category": "power"}

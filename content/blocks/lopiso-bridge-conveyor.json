@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lopiso bridge conveyor", "description": "", "health": 8, "range": 14, "speed": 18, "bufferCapacity": 11, "requirements": [{"item": "lopiso", "amount": 2}, {"item": "nygemonium", "amount": 4}], "research": "lopiso-conveyor", "category": "distribution", "size": 1}

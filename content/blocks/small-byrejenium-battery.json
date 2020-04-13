@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small byrejenium battery", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "byrejenium", "amount": 13}, {"item": "zoku", "amount": 6}, {"item": "nikoru", "amount": 8}], "research": "byrejenium-factory", "consumes": {"powerBuffered": 422}, "category": "power"}

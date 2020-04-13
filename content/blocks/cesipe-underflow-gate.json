@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cesipe underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "cesipe", "amount": 3}, {"item": "xuxyvo", "amount": 1}], "research": "cesipe-conveyor", "category": "distribution", "invert": false}

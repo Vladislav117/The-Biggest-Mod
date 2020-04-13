@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nogi solar panel", "description": "...", "size": 1, "health": 121, "requirements": [{"item": "nogi", "amount": 3}, {"item": "yepy", "amount": 11}, {"item": "meru", "amount": 1}], "research": "nogi-factory", "powerProduction": 0.1278274945544994, "category": "power"}

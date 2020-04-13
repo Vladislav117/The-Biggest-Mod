@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yiwonium liquid tank", "description": "...", "health": 613, "size": 3, "requirements": [{"item": "yiwonium", "amount": 4}, {"item": "dara", "amount": 20}, {"item": "mygyyy", "amount": 10}], "research": "yiwonium-conduit", "category": "liquid", "liquidCapacity": 115995, "hasLiquids": true}

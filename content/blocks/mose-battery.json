@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mose battery", "description": "...", "size": 3, "health": 332, "requirements": [{"item": "mose", "amount": 15}, {"item": "juzydu", "amount": 20}, {"item": "zumyze", "amount": 7}], "research": "mose-factory", "consumes": {"powerBuffered": 6709}, "category": "power"}

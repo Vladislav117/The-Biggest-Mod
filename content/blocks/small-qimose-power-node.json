@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qimose power node", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "qimose", "amount": 17}, {"item": "vakyxinium", "amount": 4}, {"item": "sytafe", "amount": 6}], "research": "qimose-factory", "maxNodes": 12, "laserRange": 12, "category": "power"}

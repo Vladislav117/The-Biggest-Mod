@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sepo battery", "description": "...", "size": 3, "health": 349, "requirements": [{"item": "sepo", "amount": 13}, {"item": "qasysi", "amount": 9}, {"item": "xutire", "amount": 2}], "research": "sepo-factory", "consumes": {"powerBuffered": 305}, "category": "power"}

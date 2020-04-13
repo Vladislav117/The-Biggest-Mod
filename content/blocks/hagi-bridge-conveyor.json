@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hagi bridge conveyor", "description": "", "health": 33, "range": 7, "speed": 13, "bufferCapacity": 13, "requirements": [{"item": "hagi", "amount": 1}, {"item": "halyqinium", "amount": 4}], "research": "hagi-conveyor", "category": "distribution", "size": 1}

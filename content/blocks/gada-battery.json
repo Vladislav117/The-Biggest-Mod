@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gada battery", "description": "...", "size": 3, "health": 264, "requirements": [{"item": "gada", "amount": 15}, {"item": "kipiyenium", "amount": 6}, {"item": "puxyci", "amount": 7}], "research": "gada-factory", "consumes": {"powerBuffered": 5037}, "category": "power"}

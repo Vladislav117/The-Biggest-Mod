@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "teya liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "teya", "amount": 15}, {"item": "qewo", "amount": 7}, {"item": "buquza", "amount": 10}], "research": "teya-conduit", "liquidCapacity": 10, "category": "liquid"}

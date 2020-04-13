@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pudogi battery", "description": "...", "size": 3, "health": 193, "requirements": [{"item": "pudogi", "amount": 2}, {"item": "hugevinium", "amount": 13}, {"item": "xyfynium", "amount": 9}], "research": "pudogi-factory", "consumes": {"powerBuffered": 9145}, "category": "power"}

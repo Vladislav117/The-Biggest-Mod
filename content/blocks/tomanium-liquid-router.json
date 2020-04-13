@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tomanium liquid router", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "tomanium", "amount": 3}, {"item": "bigi", "amount": 12}, {"item": "linu", "amount": 2}], "research": "tomanium-conduit", "liquidCapacity": 10, "category": "liquid"}

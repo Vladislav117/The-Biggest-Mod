@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sibutu power node", "description": "...", "size": 2, "health": 519, "requirements": [{"item": "sibutu", "amount": 5}, {"item": "hunadanium", "amount": 6}, {"item": "jakate", "amount": 4}], "research": "sibutu-factory", "maxNodes": 21, "laserRange": 21, "category": "power"}

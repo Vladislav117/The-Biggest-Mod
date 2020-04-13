@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "padi bridge conveyor", "description": "", "health": 42, "range": 8, "speed": 19, "bufferCapacity": 11, "requirements": [{"item": "padi", "amount": 4}, {"item": "susi", "amount": 3}], "research": "padi-conveyor", "category": "distribution", "size": 1}

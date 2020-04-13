@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qivoha power node", "description": "...", "size": 2, "health": 61, "requirements": [{"item": "qivoha", "amount": 20}, {"item": "gahy", "amount": 12}, {"item": "jede", "amount": 8}], "research": "qivoha-factory", "maxNodes": 49, "laserRange": 16, "category": "power"}

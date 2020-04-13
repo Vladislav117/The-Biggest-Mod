@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zikeve solar panel", "description": "...", "size": 1, "health": 375, "requirements": [{"item": "zikeve", "amount": 17}, {"item": "wopawi", "amount": 16}, {"item": "rusiqy", "amount": 6}], "research": "zikeve-factory", "powerProduction": 0.16942211374023514, "category": "power"}

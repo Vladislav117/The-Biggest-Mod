@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nafamy liquid tank", "description": "...", "health": 467, "size": 3, "requirements": [{"item": "nafamy", "amount": 8}, {"item": "wano", "amount": 9}, {"item": "mepoky", "amount": 6}], "research": "nafamy-conduit", "category": "liquid", "liquidCapacity": 1264, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jiyomonium power node", "description": "...", "size": 2, "health": 552, "requirements": [{"item": "jiyomonium", "amount": 8}, {"item": "seyuwa", "amount": 11}, {"item": "toni", "amount": 7}], "research": "jiyomonium-factory", "maxNodes": 54, "laserRange": 30, "category": "power"}

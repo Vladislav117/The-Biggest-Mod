@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nihu sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "nihu", "amount": 3}, {"item": "yupo", "amount": 1}], "research": "nihu-conveyor", "category": "distribution", "invert": false}

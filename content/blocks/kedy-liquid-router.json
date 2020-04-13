@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kedy liquid router", "description": "...", "size": 1, "health": 35, "requirements": [{"item": "kedy", "amount": 4}, {"item": "wiba", "amount": 13}, {"item": "rymeyinium", "amount": 1}], "research": "kedy-conduit", "liquidCapacity": 10, "category": "liquid"}

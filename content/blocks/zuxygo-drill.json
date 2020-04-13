@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zuxygo drill", "description": "...", "size": 2, "health": 123, "tier": 4, "drillTime": 13, "consumes": {"power": 16}, "requirements": [{"item": "zuxygo", "amount": 14}, {"item": "civonium", "amount": 5}, {"item": "jigame", "amount": 4}], "research": "zuxygo-factory", "category": "production"}

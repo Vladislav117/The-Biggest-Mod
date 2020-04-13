@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lowapo power node", "description": "...", "size": 2, "health": 338, "requirements": [{"item": "lowapo", "amount": 1}, {"item": "tewo", "amount": 9}, {"item": "depyya", "amount": 4}], "research": "lowapo-factory", "maxNodes": 19, "laserRange": 9, "category": "power"}

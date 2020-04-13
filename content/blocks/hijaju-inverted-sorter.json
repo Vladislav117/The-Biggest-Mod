@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hijaju inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "hijaju", "amount": 4}, {"item": "kituhinium", "amount": 3}], "research": "hijaju-conveyor", "category": "distribution", "invert": true}

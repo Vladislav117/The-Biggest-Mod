@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "ruve drill", "description": "...", "size": 3, "health": 249, "tier": 1, "drillTime": 12, "consumes": {"power": 11}, "requirements": [{"item": "ruve", "amount": 16}, {"item": "myjeke", "amount": 12}, {"item": "siyake", "amount": 5}], "research": "ruve-factory", "category": "production"}

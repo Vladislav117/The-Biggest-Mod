@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "luvonium overdrive projector", "description": "...", "health": 66, "consumes": {"power": 3.0, "item": "luvonium"}, "size": 2, "requirements": [{"item": "luvonium", "amount": 20}, {"item": "nuzivo", "amount": 8}, {"item": "kofynium", "amount": 2}], "research": "luvonium-factory", "category": "effect"}

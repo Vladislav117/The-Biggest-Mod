@@ -1,0 +1,1 @@
+{"type": "junction", "name": "juho junction", "description": "...", "health": 30, "speed": 20, "capacity": 4, "size": 1, "requirements": [{"item": "juho", "amount": 4}, {"item": "gyfa", "amount": 1}], "research": "juho-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kego battery", "description": "...", "size": 3, "health": 260, "requirements": [{"item": "kego", "amount": 3}, {"item": "xuze", "amount": 4}, {"item": "jizi", "amount": 2}], "research": "kego-factory", "consumes": {"powerBuffered": 4978}, "category": "power"}

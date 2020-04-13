@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cowuse battery", "description": "...", "size": 3, "health": 330, "requirements": [{"item": "cowuse", "amount": 16}, {"item": "nilo", "amount": 1}, {"item": "lesy", "amount": 5}], "research": "cowuse-factory", "consumes": {"powerBuffered": 2887}, "category": "power"}

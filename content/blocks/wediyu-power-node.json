@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wediyu power node", "description": "...", "size": 2, "health": 301, "requirements": [{"item": "wediyu", "amount": 5}, {"item": "xudujy", "amount": 9}, {"item": "cenunium", "amount": 5}], "research": "wediyu-factory", "maxNodes": 48, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hotonium liquid tank", "description": "...", "health": 318, "size": 3, "requirements": [{"item": "hotonium", "amount": 5}, {"item": "hajo", "amount": 7}, {"item": "lebo", "amount": 5}], "research": "hotonium-conduit", "category": "liquid", "liquidCapacity": 76611, "hasLiquids": true}

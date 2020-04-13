@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qasy power node", "description": "...", "size": 2, "health": 335, "requirements": [{"item": "qasy", "amount": 1}, {"item": "mutevi", "amount": 6}, {"item": "viwafy", "amount": 7}], "research": "qasy-factory", "maxNodes": 29, "laserRange": 6, "category": "power"}

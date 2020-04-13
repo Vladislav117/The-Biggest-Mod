@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hypotinium inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "hypotinium", "amount": 4}, {"item": "cidenium", "amount": 1}], "research": "hypotinium-conveyor", "category": "distribution", "invert": true}

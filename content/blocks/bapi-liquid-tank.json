@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bapi liquid tank", "description": "...", "health": 187, "size": 3, "requirements": [{"item": "bapi", "amount": 7}, {"item": "qano", "amount": 16}, {"item": "jewa", "amount": 4}], "research": "bapi-conduit", "category": "liquid", "liquidCapacity": 66141, "hasLiquids": true}

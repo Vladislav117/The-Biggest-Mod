@@ -1,0 +1,1 @@
+{"type": "battery", "name": "beyy battery", "description": "...", "size": 3, "health": 328, "requirements": [{"item": "beyy", "amount": 5}, {"item": "cafe", "amount": 5}, {"item": "mygi", "amount": 9}], "research": "beyy-factory", "consumes": {"powerBuffered": 9996}, "category": "power"}

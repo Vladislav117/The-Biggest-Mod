@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bufywy solar panel", "description": "...", "size": 1, "health": 370, "requirements": [{"item": "bufywy", "amount": 6}, {"item": "zele", "amount": 9}, {"item": "seyuwa", "amount": 7}], "research": "bufywy-factory", "powerProduction": 7.869707186678063, "category": "power"}

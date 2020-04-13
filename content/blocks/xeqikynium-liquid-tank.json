@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xeqikynium liquid tank", "description": "...", "health": 390, "size": 3, "requirements": [{"item": "xeqikynium", "amount": 1}, {"item": "qebu", "amount": 10}, {"item": "kubi", "amount": 1}], "research": "xeqikynium-conduit", "category": "liquid", "liquidCapacity": 98729, "hasLiquids": true}

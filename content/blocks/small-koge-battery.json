@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small koge battery", "description": "...", "size": 1, "health": 162, "requirements": [{"item": "koge", "amount": 8}, {"item": "xozime", "amount": 1}, {"item": "xyko", "amount": 4}], "research": "koge-factory", "consumes": {"powerBuffered": 1511}, "category": "power"}

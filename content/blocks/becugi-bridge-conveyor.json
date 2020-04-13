@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "becugi bridge conveyor", "description": "", "health": 32, "range": 20, "speed": 4, "bufferCapacity": 14, "requirements": [{"item": "becugi", "amount": 3}, {"item": "motaty", "amount": 3}], "research": "becugi-conveyor", "category": "distribution", "size": 1}

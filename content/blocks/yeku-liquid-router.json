@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yeku liquid router", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "yeku", "amount": 12}, {"item": "yape", "amount": 5}, {"item": "julynium", "amount": 6}], "research": "yeku-conduit", "liquidCapacity": 10, "category": "liquid"}

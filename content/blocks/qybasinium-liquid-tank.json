@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qybasinium liquid tank", "description": "...", "health": 507, "size": 3, "requirements": [{"item": "qybasinium", "amount": 18}, {"item": "yypunium", "amount": 19}, {"item": "qedene", "amount": 7}], "research": "qybasinium-conduit", "category": "liquid", "liquidCapacity": 24548, "hasLiquids": true}

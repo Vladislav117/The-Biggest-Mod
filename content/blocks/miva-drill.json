@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "miva drill", "description": "...", "size": 4, "health": 330, "tier": 2, "drillTime": 1, "consumes": {"power": 7}, "requirements": [{"item": "miva", "amount": 16}, {"item": "nupu", "amount": 13}, {"item": "yeri", "amount": 4}], "research": "miva-factory", "category": "production"}

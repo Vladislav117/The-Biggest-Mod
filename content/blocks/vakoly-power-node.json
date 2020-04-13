@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vakoly power node", "description": "...", "size": 2, "health": 346, "requirements": [{"item": "vakoly", "amount": 10}, {"item": "kyfahu", "amount": 13}, {"item": "vekile", "amount": 7}], "research": "vakoly-factory", "maxNodes": 25, "laserRange": 25, "category": "power"}

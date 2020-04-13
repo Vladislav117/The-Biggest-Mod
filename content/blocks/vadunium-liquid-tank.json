@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vadunium liquid tank", "description": "...", "health": 546, "size": 3, "requirements": [{"item": "vadunium", "amount": 8}, {"item": "hixu", "amount": 4}, {"item": "yeku", "amount": 7}], "research": "vadunium-conduit", "category": "liquid", "liquidCapacity": 48127, "hasLiquids": true}

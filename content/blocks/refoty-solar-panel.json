@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "refoty solar panel", "description": "...", "size": 3, "health": 186, "requirements": [{"item": "refoty", "amount": 8}, {"item": "goxize", "amount": 11}, {"item": "xiga", "amount": 3}], "research": "refoty-factory", "powerProduction": 0.25099253014668393, "category": "power"}

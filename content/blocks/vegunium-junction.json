@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vegunium junction", "description": "...", "health": 46, "speed": 4, "capacity": 9, "size": 1, "requirements": [{"item": "vegunium", "amount": 3}, {"item": "turode", "amount": 4}], "research": "vegunium-conveyor", "category": "distribution"}

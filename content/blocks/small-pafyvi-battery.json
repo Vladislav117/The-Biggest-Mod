@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pafyvi battery", "description": "...", "size": 1, "health": 339, "requirements": [{"item": "pafyvi", "amount": 12}, {"item": "xywege", "amount": 20}, {"item": "xyge", "amount": 7}], "research": "pafyvi-factory", "consumes": {"powerBuffered": 282}, "category": "power"}

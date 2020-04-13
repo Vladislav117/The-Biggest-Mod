@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vypeha junction", "description": "...", "health": 15, "speed": 2, "capacity": 9, "size": 1, "requirements": [{"item": "vypeha", "amount": 1}, {"item": "dihomu", "amount": 3}], "research": "vypeha-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vocazu power node", "description": "...", "size": 2, "health": 45, "requirements": [{"item": "vocazu", "amount": 14}, {"item": "gacy", "amount": 15}, {"item": "kubi", "amount": 5}], "research": "vocazu-factory", "maxNodes": 22, "laserRange": 27, "category": "power"}

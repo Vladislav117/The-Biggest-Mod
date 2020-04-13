@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "kego conveyor", "description": "...", "health": 325, "requirements": [{"item": "kego", "amount": 4}, {"item": "nagu", "amount": 3}], "speed": 0.09060438949251415, "research": "kego-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nogi overflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "nogi", "amount": 1}, {"item": "jycepynium", "amount": 2}], "research": "nogi-conveyor", "category": "distribution", "invert": false}

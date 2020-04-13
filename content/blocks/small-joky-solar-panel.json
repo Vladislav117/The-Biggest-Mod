@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small joky solar panel", "description": "...", "size": 1, "health": 144, "requirements": [{"item": "joky", "amount": 14}, {"item": "nevyle", "amount": 4}, {"item": "qimose", "amount": 5}], "research": "joky-factory", "powerProduction": 1.0313542382606373, "category": "power"}

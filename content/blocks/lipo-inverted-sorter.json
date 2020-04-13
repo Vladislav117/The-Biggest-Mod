@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lipo inverted sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "lipo", "amount": 3}, {"item": "viqamo", "amount": 5}], "research": "lipo-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "naqade battery", "description": "...", "size": 3, "health": 85, "requirements": [{"item": "naqade", "amount": 14}, {"item": "vemame", "amount": 1}, {"item": "hiqeyi", "amount": 7}], "research": "naqade-factory", "consumes": {"powerBuffered": 2847}, "category": "power"}

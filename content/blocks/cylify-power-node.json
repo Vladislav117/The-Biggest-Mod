@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cylify power node", "description": "...", "size": 2, "health": 211, "requirements": [{"item": "cylify", "amount": 18}, {"item": "xicopo", "amount": 8}, {"item": "dyme", "amount": 7}], "research": "cylify-factory", "maxNodes": 56, "laserRange": 5, "category": "power"}

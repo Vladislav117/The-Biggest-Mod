@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qexu solar panel", "description": "...", "size": 3, "health": 56, "requirements": [{"item": "qexu", "amount": 3}, {"item": "dijo", "amount": 18}, {"item": "nicyfi", "amount": 1}], "research": "qexu-factory", "powerProduction": 1.0219878174139558, "category": "power"}

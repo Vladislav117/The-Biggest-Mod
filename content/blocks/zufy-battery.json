@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zufy battery", "description": "...", "size": 3, "health": 359, "requirements": [{"item": "zufy", "amount": 12}, {"item": "lekewy", "amount": 16}, {"item": "kesyginium", "amount": 4}], "research": "zufy-factory", "consumes": {"powerBuffered": 6858}, "category": "power"}

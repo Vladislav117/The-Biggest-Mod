@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qefa battery", "description": "...", "size": 1, "health": 283, "requirements": [{"item": "qefa", "amount": 20}, {"item": "mixy", "amount": 16}, {"item": "mutevi", "amount": 1}], "research": "qefa-factory", "consumes": {"powerBuffered": 1349}, "category": "power"}

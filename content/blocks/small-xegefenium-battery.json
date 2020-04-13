@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xegefenium battery", "description": "...", "size": 1, "health": 264, "requirements": [{"item": "xegefenium", "amount": 19}, {"item": "winynium", "amount": 12}, {"item": "nunuwy", "amount": 1}], "research": "xegefenium-factory", "consumes": {"powerBuffered": 2272}, "category": "power"}

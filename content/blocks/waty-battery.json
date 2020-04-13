@@ -1,0 +1,1 @@
+{"type": "battery", "name": "waty battery", "description": "...", "size": 3, "health": 344, "requirements": [{"item": "waty", "amount": 13}, {"item": "hicy", "amount": 9}, {"item": "vapoqanium", "amount": 8}], "research": "waty-factory", "consumes": {"powerBuffered": 7074}, "category": "power"}

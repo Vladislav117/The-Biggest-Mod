@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ruwecu battery", "description": "...", "size": 1, "health": 321, "requirements": [{"item": "ruwecu", "amount": 15}, {"item": "juwynium", "amount": 8}, {"item": "bulanium", "amount": 6}], "research": "ruwecu-factory", "consumes": {"powerBuffered": 2420}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "haxi junction", "description": "...", "health": 50, "speed": 17, "capacity": 3, "size": 1, "requirements": [{"item": "haxi", "amount": 5}, {"item": "kyweru", "amount": 1}], "research": "haxi-conveyor", "category": "distribution"}

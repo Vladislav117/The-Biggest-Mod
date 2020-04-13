@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "merujynium power node", "description": "...", "size": 2, "health": 502, "requirements": [{"item": "merujynium", "amount": 14}, {"item": "qamo", "amount": 16}, {"item": "kufi", "amount": 8}], "research": "merujynium-factory", "maxNodes": 35, "laserRange": 16, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "noxy liquid tank", "description": "...", "health": 597, "size": 3, "requirements": [{"item": "noxy", "amount": 2}, {"item": "keze", "amount": 7}, {"item": "dipyfonium", "amount": 8}], "research": "noxy-conduit", "category": "liquid", "liquidCapacity": 54573, "hasLiquids": true}

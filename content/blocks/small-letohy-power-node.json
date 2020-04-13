@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small letohy power node", "description": "...", "size": 1, "health": 245, "requirements": [{"item": "letohy", "amount": 11}, {"item": "litilenium", "amount": 4}, {"item": "noni", "amount": 7}], "research": "letohy-factory", "maxNodes": 18, "laserRange": 21, "category": "power"}

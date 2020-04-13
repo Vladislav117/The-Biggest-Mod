@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xedo underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "xedo", "amount": 2}, {"item": "jidy", "amount": 4}], "research": "xedo-conveyor", "category": "distribution", "invert": false}

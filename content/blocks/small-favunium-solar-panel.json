@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small favunium solar panel", "description": "...", "size": 1, "health": 321, "requirements": [{"item": "favunium", "amount": 17}, {"item": "yesolonium", "amount": 19}, {"item": "yalaka", "amount": 8}], "research": "favunium-factory", "powerProduction": 0.28565627887629463, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jomoka power node", "description": "...", "size": 1, "health": 234, "requirements": [{"item": "jomoka", "amount": 7}, {"item": "graphite", "amount": 1}, {"item": "fogodo", "amount": 5}], "research": "jomoka-factory", "maxNodes": 9, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xinunium liquid tank", "description": "...", "health": 581, "size": 3, "requirements": [{"item": "xinunium", "amount": 11}, {"item": "dose", "amount": 16}, {"item": "sekycynium", "amount": 9}], "research": "xinunium-conduit", "category": "liquid", "liquidCapacity": 71538, "hasLiquids": true}

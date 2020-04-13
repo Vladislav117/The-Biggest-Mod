@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vaso conduit", "description": "...", "health": 124, "requirements": [{"item": "vaso", "amount": 20}, {"item": "myhuzi", "amount": 4}, {"item": "gypunium", "amount": 6}], "liquidCapacity": 24, "liquidPressure": 0, "research": "vaso-factory", "category": "liquid"}

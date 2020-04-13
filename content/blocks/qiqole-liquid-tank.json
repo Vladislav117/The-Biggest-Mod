@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qiqole liquid tank", "description": "...", "health": 662, "size": 3, "requirements": [{"item": "qiqole", "amount": 12}, {"item": "typi", "amount": 4}, {"item": "neda", "amount": 9}], "research": "qiqole-conduit", "category": "liquid", "liquidCapacity": 42754, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "rukonium liquid router", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "rukonium", "amount": 18}, {"item": "huxo", "amount": 14}, {"item": "xurenium", "amount": 5}], "research": "rukonium-conduit", "liquidCapacity": 10, "category": "liquid"}

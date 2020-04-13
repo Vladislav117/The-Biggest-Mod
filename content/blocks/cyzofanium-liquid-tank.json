@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cyzofanium liquid tank", "description": "...", "health": 181, "size": 3, "requirements": [{"item": "cyzofanium", "amount": 3}, {"item": "hetuxo", "amount": 12}, {"item": "yomema", "amount": 1}], "research": "cyzofanium-conduit", "category": "liquid", "liquidCapacity": 33912, "hasLiquids": true}

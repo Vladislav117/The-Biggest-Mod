@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "baje conduit", "description": "...", "health": 49, "requirements": [{"item": "baje", "amount": 1}, {"item": "jayycu", "amount": 8}, {"item": "waha", "amount": 6}], "liquidCapacity": 25, "liquidPressure": 3, "research": "baje-factory", "category": "liquid"}

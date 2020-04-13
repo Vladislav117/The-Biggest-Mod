@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cuha overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "cuha", "amount": 5}, {"item": "zija", "amount": 2}], "research": "cuha-conveyor", "category": "distribution", "invert": false}

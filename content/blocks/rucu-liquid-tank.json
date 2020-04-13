@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rucu liquid tank", "description": "...", "health": 555, "size": 3, "requirements": [{"item": "rucu", "amount": 14}, {"item": "fikunium", "amount": 4}, {"item": "jujo", "amount": 3}], "research": "rucu-conduit", "category": "liquid", "liquidCapacity": 90676, "hasLiquids": true}

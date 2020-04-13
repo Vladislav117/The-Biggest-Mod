@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "case liquid router", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "case", "amount": 5}, {"item": "yeku", "amount": 10}, {"item": "yaly", "amount": 1}], "research": "case-conduit", "liquidCapacity": 10, "category": "liquid"}

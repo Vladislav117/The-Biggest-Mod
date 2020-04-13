@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hewupenium solar panel", "description": "...", "size": 1, "health": 250, "requirements": [{"item": "hewupenium", "amount": 7}, {"item": "nunuwy", "amount": 17}, {"item": "vysu", "amount": 1}], "research": "hewupenium-factory", "powerProduction": 1.0476620596472876, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cyyo drill", "description": "...", "size": 2, "health": 266, "tier": 1, "drillTime": 15, "consumes": {"power": 2}, "requirements": [{"item": "cyyo", "amount": 13}, {"item": "sarijynium", "amount": 10}, {"item": "lyceca", "amount": 8}], "research": "cyyo-factory", "category": "production"}

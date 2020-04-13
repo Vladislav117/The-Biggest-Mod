@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nenu battery", "description": "...", "size": 1, "health": 259, "requirements": [{"item": "nenu", "amount": 19}, {"item": "mivini", "amount": 19}, {"item": "surge-alloy", "amount": 8}], "research": "nenu-factory", "consumes": {"powerBuffered": 323}, "category": "power"}

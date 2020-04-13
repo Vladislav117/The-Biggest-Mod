@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nihu liquid tank", "description": "...", "health": 176, "size": 3, "requirements": [{"item": "nihu", "amount": 15}, {"item": "mumu", "amount": 2}, {"item": "vyjoti", "amount": 7}], "research": "nihu-conduit", "category": "liquid", "liquidCapacity": 59269, "hasLiquids": true}

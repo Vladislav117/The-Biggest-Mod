@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wynune underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "wynune", "amount": 5}, {"item": "tedi", "amount": 1}], "research": "wynune-conveyor", "category": "distribution", "invert": false}

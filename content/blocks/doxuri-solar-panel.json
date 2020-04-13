@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "doxuri solar panel", "description": "...", "size": 3, "health": 257, "requirements": [{"item": "doxuri", "amount": 3}, {"item": "qova", "amount": 1}, {"item": "piyovy", "amount": 10}], "research": "doxuri-factory", "powerProduction": 0.9976627629200929, "category": "power"}

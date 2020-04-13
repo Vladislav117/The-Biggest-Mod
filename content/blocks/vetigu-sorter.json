@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vetigu sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "vetigu", "amount": 3}, {"item": "hevynium", "amount": 4}], "research": "vetigu-conveyor", "category": "distribution", "invert": false}

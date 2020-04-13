@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "paba liquid tank", "description": "...", "health": 338, "size": 3, "requirements": [{"item": "paba", "amount": 7}, {"item": "fure", "amount": 12}, {"item": "jubuxa", "amount": 1}], "research": "paba-conduit", "category": "liquid", "liquidCapacity": 65985, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gyfa conduit", "description": "...", "health": 43, "requirements": [{"item": "gyfa", "amount": 9}, {"item": "xebili", "amount": 8}, {"item": "wivo", "amount": 7}], "liquidCapacity": 47, "liquidPressure": 1, "research": "gyfa-factory", "category": "liquid"}

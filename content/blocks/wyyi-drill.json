@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wyyi drill", "description": "...", "size": 2, "health": 341, "tier": 2, "drillTime": 14, "consumes": {"power": 10}, "requirements": [{"item": "wyyi", "amount": 10}, {"item": "makajo", "amount": 11}, {"item": "ridurinium", "amount": 5}], "research": "wyyi-factory", "category": "production"}

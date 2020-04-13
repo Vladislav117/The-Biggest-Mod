@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fomo power node", "description": "...", "size": 2, "health": 671, "requirements": [{"item": "fomo", "amount": 14}, {"item": "gayika", "amount": 6}, {"item": "qegynium", "amount": 6}], "research": "fomo-factory", "maxNodes": 48, "laserRange": 6, "category": "power"}

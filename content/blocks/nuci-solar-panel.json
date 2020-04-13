@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nuci solar panel", "description": "...", "size": 3, "health": 222, "requirements": [{"item": "nuci", "amount": 2}, {"item": "puye", "amount": 18}, {"item": "nunanunium", "amount": 9}], "research": "nuci-factory", "powerProduction": 0.12137064624385878, "category": "power"}

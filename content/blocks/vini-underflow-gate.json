@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vini underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "vini", "amount": 5}, {"item": "hufi", "amount": 5}], "research": "vini-conveyor", "category": "distribution", "invert": false}

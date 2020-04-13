@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dalire underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "dalire", "amount": 5}, {"item": "repetu", "amount": 2}], "research": "dalire-conveyor", "category": "distribution", "invert": false}

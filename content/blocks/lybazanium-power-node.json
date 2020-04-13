@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lybazanium power node", "description": "...", "size": 2, "health": 29, "requirements": [{"item": "lybazanium", "amount": 8}, {"item": "bivucunium", "amount": 9}, {"item": "vusi", "amount": 6}], "research": "lybazanium-factory", "maxNodes": 16, "laserRange": 6, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lupapu liquid tank", "description": "...", "health": 208, "size": 3, "requirements": [{"item": "lupapu", "amount": 6}, {"item": "taxanium", "amount": 2}, {"item": "lyya", "amount": 3}], "research": "lupapu-conduit", "category": "liquid", "liquidCapacity": 56827, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small feqy battery", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "feqy", "amount": 16}, {"item": "laso", "amount": 19}, {"item": "duto", "amount": 3}], "research": "feqy-factory", "consumes": {"powerBuffered": 752}, "category": "power"}

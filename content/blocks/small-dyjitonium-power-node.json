@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dyjitonium power node", "description": "...", "size": 1, "health": 259, "requirements": [{"item": "dyjitonium", "amount": 15}, {"item": "dono", "amount": 3}, {"item": "befy", "amount": 9}], "research": "dyjitonium-factory", "maxNodes": 21, "laserRange": 22, "category": "power"}

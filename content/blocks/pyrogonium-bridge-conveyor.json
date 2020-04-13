@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pyrogonium bridge conveyor", "description": "", "health": 36, "range": 4, "speed": 9, "bufferCapacity": 3, "requirements": [{"item": "pyrogonium", "amount": 1}, {"item": "mowygu", "amount": 3}], "research": "pyrogonium-conveyor", "category": "distribution", "size": 1}

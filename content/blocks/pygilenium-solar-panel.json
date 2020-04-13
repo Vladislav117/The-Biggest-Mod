@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pygilenium solar panel", "description": "...", "size": 3, "health": 21, "requirements": [{"item": "pygilenium", "amount": 3}, {"item": "hygili", "amount": 20}, {"item": "nayu", "amount": 8}], "research": "pygilenium-factory", "powerProduction": 4.653730027332018, "category": "power"}

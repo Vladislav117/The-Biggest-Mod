@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cudy conduit", "description": "...", "health": 135, "requirements": [{"item": "cudy", "amount": 8}, {"item": "tyno", "amount": 2}, {"item": "kefy", "amount": 6}], "liquidCapacity": 20, "liquidPressure": 6, "research": "cudy-factory", "category": "liquid"}

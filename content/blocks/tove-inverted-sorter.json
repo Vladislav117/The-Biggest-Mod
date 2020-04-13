@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tove inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "tove", "amount": 1}, {"item": "byhonium", "amount": 5}], "research": "tove-conveyor", "category": "distribution", "invert": true}

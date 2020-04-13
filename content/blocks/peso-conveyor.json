@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "peso conveyor", "description": "...", "health": 96, "requirements": [{"item": "peso", "amount": 4}, {"item": "yifi", "amount": 10}], "speed": 0.12685188677468956, "research": "peso-factory", "category": "distribution"}

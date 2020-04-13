@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "feqinium liquid tank", "description": "...", "health": 410, "size": 3, "requirements": [{"item": "feqinium", "amount": 16}, {"item": "lodowo", "amount": 13}, {"item": "gagyya", "amount": 10}], "research": "feqinium-conduit", "category": "liquid", "liquidCapacity": 11149, "hasLiquids": true}

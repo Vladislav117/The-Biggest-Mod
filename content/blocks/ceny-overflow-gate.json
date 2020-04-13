@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ceny overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "ceny", "amount": 2}, {"item": "faba", "amount": 3}], "research": "ceny-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "roluny battery", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "roluny", "amount": 9}, {"item": "zohura", "amount": 8}, {"item": "nupu", "amount": 8}], "research": "roluny-factory", "consumes": {"powerBuffered": 562}, "category": "power"}

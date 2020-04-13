@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small poyawonium battery", "description": "...", "size": 1, "health": 329, "requirements": [{"item": "poyawonium", "amount": 12}, {"item": "xumi", "amount": 8}, {"item": "sedowe", "amount": 6}], "research": "poyawonium-factory", "consumes": {"powerBuffered": 395}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gipalinium overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "gipalinium", "amount": 3}, {"item": "nuve", "amount": 3}], "research": "gipalinium-conveyor", "category": "distribution", "invert": false}

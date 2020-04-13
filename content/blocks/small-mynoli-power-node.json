@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mynoli power node", "description": "...", "size": 1, "health": 245, "requirements": [{"item": "mynoli", "amount": 20}, {"item": "nuto", "amount": 19}, {"item": "besu", "amount": 4}], "research": "mynoli-factory", "maxNodes": 4, "laserRange": 25, "category": "power"}

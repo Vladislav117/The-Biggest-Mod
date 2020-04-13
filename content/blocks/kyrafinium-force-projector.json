@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "kyrafinium force projector", "description": "...", "health": 145, "size": 3, "consumes": {"power": 5.0, "item": "kyrafinium"}, "requirements": [{"item": "kyrafinium", "amount": 8}, {"item": "jiry", "amount": 20}, {"item": "gayywe", "amount": 3}], "research": "kyrafinium-factory", "category": "effect"}

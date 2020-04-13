@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wadoka drill", "description": "...", "size": 3, "health": 193, "tier": 2, "drillTime": 2, "consumes": {"power": 20}, "requirements": [{"item": "wadoka", "amount": 19}, {"item": "motaty", "amount": 16}, {"item": "hurula", "amount": 3}], "research": "wadoka-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nusenium battery", "description": "...", "size": 3, "health": 146, "requirements": [{"item": "nusenium", "amount": 9}, {"item": "sukedu", "amount": 8}, {"item": "kyna", "amount": 2}], "research": "nusenium-factory", "consumes": {"powerBuffered": 5906}, "category": "power"}

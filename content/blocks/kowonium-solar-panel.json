@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kowonium solar panel", "description": "...", "size": 3, "health": 81, "requirements": [{"item": "kowonium", "amount": 19}, {"item": "jezi", "amount": 7}, {"item": "jumi", "amount": 6}], "research": "kowonium-factory", "powerProduction": 0.5759165526976799, "category": "power"}

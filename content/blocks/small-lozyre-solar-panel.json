@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lozyre solar panel", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "lozyre", "amount": 18}, {"item": "vayera", "amount": 5}, {"item": "fenulanium", "amount": 8}], "research": "lozyre-factory", "powerProduction": 3.2294546408395988, "category": "power"}

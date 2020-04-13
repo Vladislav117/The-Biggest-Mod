@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sixo overflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "sixo", "amount": 5}, {"item": "wicapy", "amount": 2}], "research": "sixo-conveyor", "category": "distribution", "invert": false}

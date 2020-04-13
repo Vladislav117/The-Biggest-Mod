@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sinawenium solar panel", "description": "...", "size": 3, "health": 236, "requirements": [{"item": "sinawenium", "amount": 3}, {"item": "besivi", "amount": 18}, {"item": "wuvyci", "amount": 7}], "research": "sinawenium-factory", "powerProduction": 7.446061371878388, "category": "power"}

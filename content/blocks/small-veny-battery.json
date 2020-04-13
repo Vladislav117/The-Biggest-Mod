@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small veny battery", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "veny", "amount": 6}, {"item": "bayury", "amount": 6}, {"item": "savi", "amount": 7}], "research": "veny-factory", "consumes": {"powerBuffered": 2824}, "category": "power"}

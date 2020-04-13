@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "resozunium liquid tank", "description": "...", "health": 381, "size": 3, "requirements": [{"item": "resozunium", "amount": 13}, {"item": "gokohunium", "amount": 1}, {"item": "rycara", "amount": 10}], "research": "resozunium-conduit", "category": "liquid", "liquidCapacity": 5037, "hasLiquids": true}

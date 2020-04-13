@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wupi solar panel", "description": "...", "size": 3, "health": 336, "requirements": [{"item": "wupi", "amount": 7}, {"item": "duyi", "amount": 8}, {"item": "vufinium", "amount": 1}], "research": "wupi-factory", "powerProduction": 0.002127257929483396, "category": "power"}

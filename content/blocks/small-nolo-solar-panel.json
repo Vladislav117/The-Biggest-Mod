@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nolo solar panel", "description": "...", "size": 1, "health": 240, "requirements": [{"item": "nolo", "amount": 6}, {"item": "ragoku", "amount": 3}, {"item": "bofe", "amount": 4}], "research": "nolo-factory", "powerProduction": 2.574528422339558, "category": "power"}

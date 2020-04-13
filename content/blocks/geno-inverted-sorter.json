@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "geno inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "geno", "amount": 1}, {"item": "vezaya", "amount": 5}], "research": "geno-conveyor", "category": "distribution", "invert": true}

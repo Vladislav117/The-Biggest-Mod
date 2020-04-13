@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cimahy battery", "description": "...", "size": 1, "health": 389, "requirements": [{"item": "cimahy", "amount": 17}, {"item": "zire", "amount": 3}, {"item": "tozuza", "amount": 9}], "research": "cimahy-factory", "consumes": {"powerBuffered": 1292}, "category": "power"}

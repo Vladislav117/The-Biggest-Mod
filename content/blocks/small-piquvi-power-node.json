@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small piquvi power node", "description": "...", "size": 1, "health": 284, "requirements": [{"item": "piquvi", "amount": 20}, {"item": "mepunium", "amount": 2}, {"item": "niyoxi", "amount": 4}], "research": "piquvi-factory", "maxNodes": 29, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gopy liquid tank", "description": "...", "health": 166, "size": 3, "requirements": [{"item": "gopy", "amount": 18}, {"item": "horyve", "amount": 13}, {"item": "tavu", "amount": 9}], "research": "gopy-conduit", "category": "liquid", "liquidCapacity": 66027, "hasLiquids": true}

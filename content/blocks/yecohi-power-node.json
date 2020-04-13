@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yecohi power node", "description": "...", "size": 2, "health": 704, "requirements": [{"item": "yecohi", "amount": 18}, {"item": "tatupo", "amount": 2}, {"item": "jyryze", "amount": 5}], "research": "yecohi-factory", "maxNodes": 16, "laserRange": 12, "category": "power"}

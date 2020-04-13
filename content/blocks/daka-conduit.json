@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "daka conduit", "description": "...", "health": 57, "requirements": [{"item": "daka", "amount": 9}, {"item": "mefymanium", "amount": 19}, {"item": "yydy", "amount": 4}], "liquidCapacity": 3, "liquidPressure": 0, "research": "daka-factory", "category": "liquid"}

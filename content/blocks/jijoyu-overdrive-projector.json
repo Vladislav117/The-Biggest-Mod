@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "jijoyu overdrive projector", "description": "...", "health": 111, "consumes": {"power": 3.0, "item": "jijoyu"}, "size": 2, "requirements": [{"item": "jijoyu", "amount": 15}, {"item": "yydy", "amount": 15}, {"item": "viwafy", "amount": 7}], "research": "jijoyu-factory", "category": "effect"}

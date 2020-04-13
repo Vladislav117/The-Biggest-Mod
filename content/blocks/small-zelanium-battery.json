@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zelanium battery", "description": "...", "size": 1, "health": 306, "requirements": [{"item": "zelanium", "amount": 10}, {"item": "nihy", "amount": 19}, {"item": "melepi", "amount": 6}], "research": "zelanium-factory", "consumes": {"powerBuffered": 2920}, "category": "power"}

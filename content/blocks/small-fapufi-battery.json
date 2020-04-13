@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fapufi battery", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "fapufi", "amount": 13}, {"item": "cepi", "amount": 20}, {"item": "baquyo", "amount": 7}], "research": "fapufi-factory", "consumes": {"powerBuffered": 2223}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vyfycinium liquid tank", "description": "...", "health": 531, "size": 3, "requirements": [{"item": "vyfycinium", "amount": 14}, {"item": "xapa", "amount": 14}, {"item": "cyyo", "amount": 5}], "research": "vyfycinium-conduit", "category": "liquid", "liquidCapacity": 93223, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wisipu solar panel", "description": "...", "size": 1, "health": 127, "requirements": [{"item": "wisipu", "amount": 19}, {"item": "suyi", "amount": 10}, {"item": "biny", "amount": 2}], "research": "wisipu-factory", "powerProduction": 7.12105837477859, "category": "power"}

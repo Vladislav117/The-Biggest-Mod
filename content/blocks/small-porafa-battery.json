@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small porafa battery", "description": "...", "size": 1, "health": 332, "requirements": [{"item": "porafa", "amount": 10}, {"item": "vosixe", "amount": 20}, {"item": "neletanium", "amount": 2}], "research": "porafa-factory", "consumes": {"powerBuffered": 1811}, "category": "power"}

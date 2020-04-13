@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lyxeta liquid tank", "description": "...", "health": 559, "size": 3, "requirements": [{"item": "lyxeta", "amount": 6}, {"item": "yihe", "amount": 5}, {"item": "lumasunium", "amount": 5}], "research": "lyxeta-conduit", "category": "liquid", "liquidCapacity": 88724, "hasLiquids": true}

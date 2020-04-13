@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "loho overflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "loho", "amount": 5}, {"item": "goxylo", "amount": 1}], "research": "loho-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ledugo liquid tank", "description": "...", "health": 340, "size": 3, "requirements": [{"item": "ledugo", "amount": 12}, {"item": "qegynium", "amount": 8}, {"item": "vema", "amount": 1}], "research": "ledugo-conduit", "category": "liquid", "liquidCapacity": 100311, "hasLiquids": true}

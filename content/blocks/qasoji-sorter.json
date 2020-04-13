@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qasoji sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "qasoji", "amount": 5}, {"item": "wizisa", "amount": 1}], "research": "qasoji-conveyor", "category": "distribution", "invert": false}

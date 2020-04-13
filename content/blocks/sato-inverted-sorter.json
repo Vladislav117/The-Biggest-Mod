@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sato inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "sato", "amount": 3}, {"item": "kawo", "amount": 4}], "research": "sato-conveyor", "category": "distribution", "invert": true}

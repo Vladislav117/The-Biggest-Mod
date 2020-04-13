@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "falynium drill", "description": "...", "size": 4, "health": 271, "tier": 1, "drillTime": 2, "consumes": {"power": 19}, "requirements": [{"item": "falynium", "amount": 5}, {"item": "qupu", "amount": 12}, {"item": "fuho", "amount": 7}], "research": "falynium-factory", "category": "production"}

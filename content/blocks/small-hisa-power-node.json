@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hisa power node", "description": "...", "size": 1, "health": 301, "requirements": [{"item": "hisa", "amount": 8}, {"item": "niyy", "amount": 3}, {"item": "mynufu", "amount": 8}], "research": "hisa-factory", "maxNodes": 22, "laserRange": 19, "category": "power"}

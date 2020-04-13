@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small noqewy battery", "description": "...", "size": 1, "health": 224, "requirements": [{"item": "noqewy", "amount": 18}, {"item": "muby", "amount": 2}, {"item": "fygunium", "amount": 3}], "research": "noqewy-factory", "consumes": {"powerBuffered": 498}, "category": "power"}

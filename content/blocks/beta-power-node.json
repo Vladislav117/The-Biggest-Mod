@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "beta power node", "description": "...", "size": 2, "health": 752, "requirements": [{"item": "beta", "amount": 12}, {"item": "yizu", "amount": 17}, {"item": "wycenu", "amount": 4}], "research": "beta-factory", "maxNodes": 51, "laserRange": 19, "category": "power"}

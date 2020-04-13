@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dyri liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "dyri", "amount": 1}, {"item": "nimy", "amount": 16}, {"item": "zoyasi", "amount": 10}], "research": "dyri-conduit", "liquidCapacity": 10, "category": "liquid"}

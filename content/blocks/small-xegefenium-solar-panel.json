@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xegefenium solar panel", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "xegefenium", "amount": 4}, {"item": "rowurunium", "amount": 3}, {"item": "pixuhynium", "amount": 4}], "research": "xegefenium-factory", "powerProduction": 2.5001169107640817, "category": "power"}

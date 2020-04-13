@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gyri solar panel", "description": "...", "size": 3, "health": 106, "requirements": [{"item": "gyri", "amount": 18}, {"item": "vulu", "amount": 18}, {"item": "lewonium", "amount": 1}], "research": "gyri-factory", "powerProduction": 0.9751658370882972, "category": "power"}

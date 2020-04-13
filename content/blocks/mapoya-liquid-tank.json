@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mapoya liquid tank", "description": "...", "health": 494, "size": 3, "requirements": [{"item": "mapoya", "amount": 18}, {"item": "sara", "amount": 4}, {"item": "vewywi", "amount": 3}], "research": "mapoya-conduit", "category": "liquid", "liquidCapacity": 40428, "hasLiquids": true}

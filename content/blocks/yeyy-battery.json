@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yeyy battery", "description": "...", "size": 3, "health": 283, "requirements": [{"item": "yeyy", "amount": 5}, {"item": "vytuxe", "amount": 3}, {"item": "siwi", "amount": 9}], "research": "yeyy-factory", "consumes": {"powerBuffered": 866}, "category": "power"}

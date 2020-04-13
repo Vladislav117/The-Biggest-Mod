@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small roky battery", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "roky", "amount": 11}, {"item": "kipyzonium", "amount": 20}, {"item": "wivo", "amount": 2}], "research": "roky-factory", "consumes": {"powerBuffered": 1788}, "category": "power"}

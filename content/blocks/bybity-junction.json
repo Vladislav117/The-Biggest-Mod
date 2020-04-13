@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bybity junction", "description": "...", "health": 41, "speed": 2, "capacity": 9, "size": 1, "requirements": [{"item": "bybity", "amount": 4}, {"item": "muby", "amount": 5}], "research": "bybity-conveyor", "category": "distribution"}

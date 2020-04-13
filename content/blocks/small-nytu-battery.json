@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nytu battery", "description": "...", "size": 1, "health": 393, "requirements": [{"item": "nytu", "amount": 1}, {"item": "syxidonium", "amount": 13}, {"item": "bajenium", "amount": 9}], "research": "nytu-factory", "consumes": {"powerBuffered": 1713}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hijaju sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "hijaju", "amount": 2}, {"item": "lewanium", "amount": 4}], "research": "hijaju-conveyor", "category": "distribution", "invert": false}

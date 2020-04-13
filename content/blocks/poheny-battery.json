@@ -1,0 +1,1 @@
+{"type": "battery", "name": "poheny battery", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "poheny", "amount": 19}, {"item": "luly", "amount": 9}, {"item": "gyza", "amount": 10}], "research": "poheny-factory", "consumes": {"powerBuffered": 1250}, "category": "power"}

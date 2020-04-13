@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "birynium liquid tank", "description": "...", "health": 526, "size": 3, "requirements": [{"item": "birynium", "amount": 4}, {"item": "syteja", "amount": 5}, {"item": "seyuwa", "amount": 1}], "research": "birynium-conduit", "category": "liquid", "liquidCapacity": 2549, "hasLiquids": true}

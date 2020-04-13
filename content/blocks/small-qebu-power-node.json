@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qebu power node", "description": "...", "size": 1, "health": 389, "requirements": [{"item": "qebu", "amount": 14}, {"item": "sywuze", "amount": 1}, {"item": "wace", "amount": 8}], "research": "qebu-factory", "maxNodes": 6, "laserRange": 23, "category": "power"}

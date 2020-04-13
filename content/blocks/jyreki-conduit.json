@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jyreki conduit", "description": "...", "health": 94, "requirements": [{"item": "jyreki", "amount": 20}, {"item": "nago", "amount": 20}, {"item": "qamo", "amount": 9}], "liquidCapacity": 24, "liquidPressure": 9, "research": "jyreki-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nimy battery", "description": "...", "size": 3, "health": 65, "requirements": [{"item": "nimy", "amount": 14}, {"item": "vywene", "amount": 13}, {"item": "hivesy", "amount": 10}], "research": "nimy-factory", "consumes": {"powerBuffered": 6156}, "category": "power"}

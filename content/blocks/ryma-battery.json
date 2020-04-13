@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ryma battery", "description": "...", "size": 3, "health": 306, "requirements": [{"item": "ryma", "amount": 4}, {"item": "dyzaxi", "amount": 20}, {"item": "tire", "amount": 9}], "research": "ryma-factory", "consumes": {"powerBuffered": 7291}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "seqyyi battery", "description": "...", "size": 3, "health": 220, "requirements": [{"item": "seqyyi", "amount": 14}, {"item": "xadunium", "amount": 8}, {"item": "muti", "amount": 10}], "research": "seqyyi-factory", "consumes": {"powerBuffered": 1565}, "category": "power"}

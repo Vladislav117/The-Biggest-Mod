@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ruhuya liquid tank", "description": "...", "health": 619, "size": 3, "requirements": [{"item": "ruhuya", "amount": 12}, {"item": "yudesinium", "amount": 9}, {"item": "qupu", "amount": 6}], "research": "ruhuya-conduit", "category": "liquid", "liquidCapacity": 7819, "hasLiquids": true}

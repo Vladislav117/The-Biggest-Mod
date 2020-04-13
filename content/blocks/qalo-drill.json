@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qalo drill", "description": "...", "size": 3, "health": 300, "tier": 1, "drillTime": 15, "consumes": {"power": 17}, "requirements": [{"item": "qalo", "amount": 14}, {"item": "wulyso", "amount": 20}, {"item": "xenira", "amount": 3}], "research": "qalo-factory", "category": "production"}

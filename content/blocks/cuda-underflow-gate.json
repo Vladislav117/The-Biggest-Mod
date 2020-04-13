@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cuda underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "cuda", "amount": 3}, {"item": "qigine", "amount": 5}], "research": "cuda-conveyor", "category": "distribution", "invert": false}

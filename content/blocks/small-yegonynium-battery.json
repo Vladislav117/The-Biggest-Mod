@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yegonynium battery", "description": "...", "size": 1, "health": 355, "requirements": [{"item": "yegonynium", "amount": 1}, {"item": "diro", "amount": 17}, {"item": "rikylu", "amount": 10}], "research": "yegonynium-factory", "consumes": {"powerBuffered": 1065}, "category": "power"}

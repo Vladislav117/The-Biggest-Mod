@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xagali overflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "xagali", "amount": 4}, {"item": "gele", "amount": 2}], "research": "xagali-conveyor", "category": "distribution", "invert": false}

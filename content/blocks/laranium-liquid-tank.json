@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "laranium liquid tank", "description": "...", "health": 383, "size": 3, "requirements": [{"item": "laranium", "amount": 2}, {"item": "dyji", "amount": 6}, {"item": "fikexonium", "amount": 3}], "research": "laranium-conduit", "category": "liquid", "liquidCapacity": 14036, "hasLiquids": true}

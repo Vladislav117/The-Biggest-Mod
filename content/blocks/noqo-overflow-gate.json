@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "noqo overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "noqo", "amount": 2}, {"item": "filu", "amount": 1}], "research": "noqo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "diro inverted sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "diro", "amount": 4}, {"item": "vuciby", "amount": 2}], "research": "diro-conveyor", "category": "distribution", "invert": true}

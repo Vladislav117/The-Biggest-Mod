@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tomanium liquid tank", "description": "...", "health": 600, "size": 3, "requirements": [{"item": "tomanium", "amount": 4}, {"item": "xodali", "amount": 14}, {"item": "tyqi", "amount": 6}], "research": "tomanium-conduit", "category": "liquid", "liquidCapacity": 63812, "hasLiquids": true}

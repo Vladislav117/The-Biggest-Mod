@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kokidenium solar panel", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "kokidenium", "amount": 20}, {"item": "fexenium", "amount": 18}, {"item": "myjeke", "amount": 1}], "research": "kokidenium-factory", "powerProduction": 4.358405884080729, "category": "power"}

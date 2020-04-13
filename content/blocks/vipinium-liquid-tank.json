@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vipinium liquid tank", "description": "...", "health": 453, "size": 3, "requirements": [{"item": "vipinium", "amount": 15}, {"item": "tayi", "amount": 8}, {"item": "vufinium", "amount": 5}], "research": "vipinium-conduit", "category": "liquid", "liquidCapacity": 93157, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yicenium underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "yicenium", "amount": 3}, {"item": "mupa", "amount": 3}], "research": "yicenium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small doxenium power node", "description": "...", "size": 1, "health": 386, "requirements": [{"item": "doxenium", "amount": 13}, {"item": "reyezy", "amount": 14}, {"item": "xafi", "amount": 2}], "research": "doxenium-factory", "maxNodes": 15, "laserRange": 22, "category": "power"}

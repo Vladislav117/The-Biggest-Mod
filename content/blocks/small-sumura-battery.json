@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sumura battery", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "sumura", "amount": 11}, {"item": "gabipi", "amount": 2}, {"item": "wajese", "amount": 9}], "research": "sumura-factory", "consumes": {"powerBuffered": 2819}, "category": "power"}

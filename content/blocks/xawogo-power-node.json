@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xawogo power node", "description": "...", "size": 2, "health": 187, "requirements": [{"item": "xawogo", "amount": 1}, {"item": "havano", "amount": 10}, {"item": "syso", "amount": 1}], "research": "xawogo-factory", "maxNodes": 10, "laserRange": 14, "category": "power"}

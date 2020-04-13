@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hixuqo battery", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "hixuqo", "amount": 15}, {"item": "wigyre", "amount": 20}, {"item": "vove", "amount": 8}], "research": "hixuqo-factory", "consumes": {"powerBuffered": 545}, "category": "power"}

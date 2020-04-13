@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "baranium sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "baranium", "amount": 4}, {"item": "duhexi", "amount": 4}], "research": "baranium-conveyor", "category": "distribution", "invert": false}

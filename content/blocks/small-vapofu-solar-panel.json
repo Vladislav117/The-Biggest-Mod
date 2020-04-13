@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vapofu solar panel", "description": "...", "size": 1, "health": 326, "requirements": [{"item": "vapofu", "amount": 16}, {"item": "cynehe", "amount": 12}, {"item": "dyda", "amount": 2}], "research": "vapofu-factory", "powerProduction": 0.27836996870052416, "category": "power"}

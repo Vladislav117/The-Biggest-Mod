@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nahigo junction", "description": "...", "health": 47, "speed": 1, "capacity": 9, "size": 1, "requirements": [{"item": "nahigo", "amount": 4}, {"item": "dewira", "amount": 1}], "research": "nahigo-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sycexi conduit", "description": "...", "health": 161, "requirements": [{"item": "sycexi", "amount": 3}, {"item": "rajubanium", "amount": 2}, {"item": "direme", "amount": 2}], "liquidCapacity": 25, "liquidPressure": 6, "research": "sycexi-factory", "category": "liquid"}

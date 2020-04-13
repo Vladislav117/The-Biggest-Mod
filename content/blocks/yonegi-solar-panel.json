@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yonegi solar panel", "description": "...", "size": 3, "health": 163, "requirements": [{"item": "yonegi", "amount": 17}, {"item": "seyuwa", "amount": 10}, {"item": "koci", "amount": 6}], "research": "yonegi-factory", "powerProduction": 0.00860785256878326, "category": "power"}

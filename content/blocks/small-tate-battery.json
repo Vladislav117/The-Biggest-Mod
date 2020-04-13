@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tate battery", "description": "...", "size": 1, "health": 341, "requirements": [{"item": "tate", "amount": 8}, {"item": "finu", "amount": 17}, {"item": "lavi", "amount": 3}], "research": "tate-factory", "consumes": {"powerBuffered": 2482}, "category": "power"}

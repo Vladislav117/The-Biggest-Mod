@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sipysa solar panel", "description": "...", "size": 3, "health": 119, "requirements": [{"item": "sipysa", "amount": 7}, {"item": "xuzy", "amount": 12}, {"item": "tygunium", "amount": 8}], "research": "sipysa-factory", "powerProduction": 0.15530551158104502, "category": "power"}

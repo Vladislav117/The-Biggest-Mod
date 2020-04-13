@@ -1,0 +1,1 @@
+{"type": "battery", "name": "besu battery", "description": "...", "size": 3, "health": 79, "requirements": [{"item": "besu", "amount": 11}, {"item": "xekota", "amount": 5}, {"item": "hymonium", "amount": 10}], "research": "besu-factory", "consumes": {"powerBuffered": 991}, "category": "power"}

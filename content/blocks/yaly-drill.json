@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yaly drill", "description": "...", "size": 2, "health": 171, "tier": 3, "drillTime": 20, "consumes": {"power": 4}, "requirements": [{"item": "yaly", "amount": 14}, {"item": "rose", "amount": 4}, {"item": "xadunium", "amount": 8}], "research": "yaly-factory", "category": "production"}

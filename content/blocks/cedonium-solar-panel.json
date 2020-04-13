@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cedonium solar panel", "description": "...", "size": 3, "health": 129, "requirements": [{"item": "cedonium", "amount": 12}, {"item": "rose", "amount": 11}, {"item": "tamuna", "amount": 4}], "research": "cedonium-factory", "powerProduction": 3.400416428411537, "category": "power"}

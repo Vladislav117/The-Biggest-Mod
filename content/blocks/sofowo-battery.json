@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sofowo battery", "description": "...", "size": 3, "health": 82, "requirements": [{"item": "sofowo", "amount": 15}, {"item": "monu", "amount": 9}, {"item": "hasu", "amount": 8}], "research": "sofowo-factory", "consumes": {"powerBuffered": 979}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wehynium junction", "description": "...", "health": 49, "speed": 17, "capacity": 13, "size": 1, "requirements": [{"item": "wehynium", "amount": 1}, {"item": "zumi", "amount": 2}], "research": "wehynium-conveyor", "category": "distribution"}

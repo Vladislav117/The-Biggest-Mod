@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "feca underflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "feca", "amount": 2}, {"item": "siqiga", "amount": 5}], "research": "feca-conveyor", "category": "distribution", "invert": false}

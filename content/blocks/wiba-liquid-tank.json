@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wiba liquid tank", "description": "...", "health": 590, "size": 3, "requirements": [{"item": "wiba", "amount": 13}, {"item": "zuzequ", "amount": 16}, {"item": "plastanium", "amount": 8}], "research": "wiba-conduit", "category": "liquid", "liquidCapacity": 70687, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "befunium liquid tank", "description": "...", "health": 164, "size": 3, "requirements": [{"item": "befunium", "amount": 18}, {"item": "rypenium", "amount": 14}, {"item": "qeje", "amount": 2}], "research": "befunium-conduit", "category": "liquid", "liquidCapacity": 42482, "hasLiquids": true}

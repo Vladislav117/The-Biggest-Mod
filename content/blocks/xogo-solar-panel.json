@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xogo solar panel", "description": "...", "size": 3, "health": 118, "requirements": [{"item": "xogo", "amount": 7}, {"item": "buquza", "amount": 4}, {"item": "kujayonium", "amount": 5}], "research": "xogo-factory", "powerProduction": 0.4405884492775515, "category": "power"}

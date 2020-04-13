@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hysivi overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "hysivi", "amount": 1}, {"item": "bexo", "amount": 3}], "research": "hysivi-conveyor", "category": "distribution", "invert": false}

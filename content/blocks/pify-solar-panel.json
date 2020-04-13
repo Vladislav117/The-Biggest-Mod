@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pify solar panel", "description": "...", "size": 3, "health": 53, "requirements": [{"item": "pify", "amount": 17}, {"item": "kype", "amount": 10}, {"item": "graphite", "amount": 10}], "research": "pify-factory", "powerProduction": 2.006650350202454, "category": "power"}

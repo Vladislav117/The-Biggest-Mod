@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hihuly bridge conveyor", "description": "", "health": 50, "range": 20, "speed": 4, "bufferCapacity": 10, "requirements": [{"item": "hihuly", "amount": 4}, {"item": "vitina", "amount": 1}], "research": "hihuly-conveyor", "category": "distribution", "size": 1}

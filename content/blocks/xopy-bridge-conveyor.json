@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xopy bridge conveyor", "description": "", "health": 12, "range": 13, "speed": 2, "bufferCapacity": 18, "requirements": [{"item": "xopy", "amount": 1}, {"item": "wusa", "amount": 5}], "research": "xopy-conveyor", "category": "distribution", "size": 1}

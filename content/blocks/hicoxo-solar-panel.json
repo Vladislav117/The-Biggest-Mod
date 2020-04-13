@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hicoxo solar panel", "description": "...", "size": 3, "health": 301, "requirements": [{"item": "hicoxo", "amount": 10}, {"item": "paba", "amount": 8}, {"item": "zaba", "amount": 10}], "research": "hicoxo-factory", "powerProduction": 2.874312544534681, "category": "power"}

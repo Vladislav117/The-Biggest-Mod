@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mava solar panel", "description": "...", "size": 3, "health": 210, "requirements": [{"item": "mava", "amount": 7}, {"item": "gahy", "amount": 16}, {"item": "yukoni", "amount": 1}], "research": "mava-factory", "powerProduction": 7.738008171836174, "category": "power"}

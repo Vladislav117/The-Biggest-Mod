@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tybunium liquid tank", "description": "...", "health": 650, "size": 3, "requirements": [{"item": "tybunium", "amount": 18}, {"item": "bony", "amount": 14}, {"item": "kiyavu", "amount": 9}], "research": "tybunium-conduit", "category": "liquid", "liquidCapacity": 37377, "hasLiquids": true}

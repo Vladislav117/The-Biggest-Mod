@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "quge inverted sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "quge", "amount": 1}, {"item": "cobigu", "amount": 5}], "research": "quge-conveyor", "category": "distribution", "invert": true}

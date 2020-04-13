@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "caxoni drill", "description": "...", "size": 2, "health": 335, "tier": 2, "drillTime": 10, "consumes": {"power": 19}, "requirements": [{"item": "caxoni", "amount": 18}, {"item": "mepunium", "amount": 6}, {"item": "wace", "amount": 4}], "research": "caxoni-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hikuda battery", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "hikuda", "amount": 17}, {"item": "giyaju", "amount": 15}, {"item": "yopepa", "amount": 8}], "research": "hikuda-factory", "consumes": {"powerBuffered": 3635}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lyheti solar panel", "description": "...", "size": 1, "health": 369, "requirements": [{"item": "lyheti", "amount": 14}, {"item": "migube", "amount": 12}, {"item": "vove", "amount": 1}], "research": "lyheti-factory", "powerProduction": 1.388050778655336, "category": "power"}

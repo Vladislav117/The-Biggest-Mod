@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jisaconium battery", "description": "...", "size": 3, "health": 199, "requirements": [{"item": "jisaconium", "amount": 9}, {"item": "pele", "amount": 5}, {"item": "jacala", "amount": 6}], "research": "jisaconium-factory", "consumes": {"powerBuffered": 3953}, "category": "power"}

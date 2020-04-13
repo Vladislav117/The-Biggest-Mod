@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fifyru junction", "description": "...", "health": 47, "speed": 12, "capacity": 15, "size": 1, "requirements": [{"item": "fifyru", "amount": 1}, {"item": "ceyuwy", "amount": 5}], "research": "fifyru-conveyor", "category": "distribution"}

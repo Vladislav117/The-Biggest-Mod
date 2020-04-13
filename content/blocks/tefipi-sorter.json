@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tefipi sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "tefipi", "amount": 4}, {"item": "jeqenium", "amount": 5}], "research": "tefipi-conveyor", "category": "distribution", "invert": false}

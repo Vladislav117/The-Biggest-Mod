@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qefa power node", "description": "...", "size": 2, "health": 201, "requirements": [{"item": "qefa", "amount": 9}, {"item": "kype", "amount": 9}, {"item": "codaxe", "amount": 1}], "research": "qefa-factory", "maxNodes": 41, "laserRange": 10, "category": "power"}

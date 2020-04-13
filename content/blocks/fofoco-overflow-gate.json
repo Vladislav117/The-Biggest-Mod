@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fofoco overflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "fofoco", "amount": 2}, {"item": "siceku", "amount": 5}], "research": "fofoco-conveyor", "category": "distribution", "invert": false}

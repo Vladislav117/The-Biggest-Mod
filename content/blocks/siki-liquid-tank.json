@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "siki liquid tank", "description": "...", "health": 218, "size": 3, "requirements": [{"item": "siki", "amount": 13}, {"item": "wusupy", "amount": 14}, {"item": "bolo", "amount": 6}], "research": "siki-conduit", "category": "liquid", "liquidCapacity": 10933, "hasLiquids": true}

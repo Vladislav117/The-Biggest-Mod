@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zagaza liquid tank", "description": "...", "health": 300, "size": 3, "requirements": [{"item": "zagaza", "amount": 12}, {"item": "butuhi", "amount": 17}, {"item": "sija", "amount": 7}], "research": "zagaza-conduit", "category": "liquid", "liquidCapacity": 37104, "hasLiquids": true}

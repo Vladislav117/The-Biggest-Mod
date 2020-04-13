@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "reboka liquid router", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "reboka", "amount": 2}, {"item": "reximo", "amount": 20}, {"item": "cigifi", "amount": 5}], "research": "reboka-conduit", "liquidCapacity": 10, "category": "liquid"}

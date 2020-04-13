@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small menibonium solar panel", "description": "...", "size": 1, "health": 233, "requirements": [{"item": "menibonium", "amount": 1}, {"item": "juzu", "amount": 7}, {"item": "cejy", "amount": 2}], "research": "menibonium-factory", "powerProduction": 1.1771311392713115, "category": "power"}

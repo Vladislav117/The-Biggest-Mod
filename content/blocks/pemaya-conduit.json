@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pemaya conduit", "description": "...", "health": 27, "requirements": [{"item": "pemaya", "amount": 15}, {"item": "rohivonium", "amount": 18}, {"item": "tiyajo", "amount": 5}], "liquidCapacity": 6, "liquidPressure": 7, "research": "pemaya-factory", "category": "liquid"}

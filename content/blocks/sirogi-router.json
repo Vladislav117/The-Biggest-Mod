@@ -1,0 +1,1 @@
+{"type": "router", "name": "sirogi router", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "sirogi", "amount": 2}], "research": "sirogi-conveyor", "category": "distribution"}

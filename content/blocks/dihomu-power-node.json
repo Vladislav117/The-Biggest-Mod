@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dihomu power node", "description": "...", "size": 2, "health": 242, "requirements": [{"item": "dihomu", "amount": 3}, {"item": "mygo", "amount": 10}, {"item": "nimy", "amount": 8}], "research": "dihomu-factory", "maxNodes": 15, "laserRange": 22, "category": "power"}

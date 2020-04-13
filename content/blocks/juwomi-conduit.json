@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "juwomi conduit", "description": "...", "health": 106, "requirements": [{"item": "juwomi", "amount": 5}, {"item": "laso", "amount": 8}, {"item": "ciwiwa", "amount": 2}], "liquidCapacity": 21, "liquidPressure": 10, "research": "juwomi-factory", "category": "liquid"}

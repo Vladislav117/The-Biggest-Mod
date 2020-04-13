@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kure overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "kure", "amount": 3}, {"item": "hezinium", "amount": 4}], "research": "kure-conveyor", "category": "distribution", "invert": false}

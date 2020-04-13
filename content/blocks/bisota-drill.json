@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bisota drill", "description": "...", "size": 3, "health": 360, "tier": 2, "drillTime": 1, "consumes": {"power": 12}, "requirements": [{"item": "bisota", "amount": 20}, {"item": "tavuwy", "amount": 17}, {"item": "saciwy", "amount": 7}], "research": "bisota-factory", "category": "production"}

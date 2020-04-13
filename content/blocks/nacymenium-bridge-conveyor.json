@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nacymenium bridge conveyor", "description": "", "health": 28, "range": 9, "speed": 18, "bufferCapacity": 1, "requirements": [{"item": "nacymenium", "amount": 2}, {"item": "budo", "amount": 5}], "research": "nacymenium-conveyor", "category": "distribution", "size": 1}

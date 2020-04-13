@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tomaby liquid tank", "description": "...", "health": 488, "size": 3, "requirements": [{"item": "tomaby", "amount": 4}, {"item": "cuyoko", "amount": 5}, {"item": "nowahy", "amount": 4}], "research": "tomaby-conduit", "category": "liquid", "liquidCapacity": 84234, "hasLiquids": true}

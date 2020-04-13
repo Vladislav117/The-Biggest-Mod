@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "heqe liquid tank", "description": "...", "health": 268, "size": 3, "requirements": [{"item": "heqe", "amount": 19}, {"item": "ridivinium", "amount": 14}, {"item": "turode", "amount": 4}], "research": "heqe-conduit", "category": "liquid", "liquidCapacity": 50415, "hasLiquids": true}

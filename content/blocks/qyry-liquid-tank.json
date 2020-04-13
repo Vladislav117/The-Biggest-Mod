@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qyry liquid tank", "description": "...", "health": 392, "size": 3, "requirements": [{"item": "qyry", "amount": 20}, {"item": "zivoginium", "amount": 18}, {"item": "bexa", "amount": 3}], "research": "qyry-conduit", "category": "liquid", "liquidCapacity": 113501, "hasLiquids": true}

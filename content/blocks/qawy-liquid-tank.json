@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qawy liquid tank", "description": "...", "health": 488, "size": 3, "requirements": [{"item": "qawy", "amount": 15}, {"item": "yocenium", "amount": 13}, {"item": "zityyanium", "amount": 2}], "research": "qawy-conduit", "category": "liquid", "liquidCapacity": 66068, "hasLiquids": true}

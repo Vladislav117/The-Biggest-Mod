@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wywonium battery", "description": "...", "size": 1, "health": 300, "requirements": [{"item": "wywonium", "amount": 2}, {"item": "haxi", "amount": 1}, {"item": "cyru", "amount": 9}], "research": "wywonium-factory", "consumes": {"powerBuffered": 1103}, "category": "power"}

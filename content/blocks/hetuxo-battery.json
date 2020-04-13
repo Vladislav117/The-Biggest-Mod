@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hetuxo battery", "description": "...", "size": 3, "health": 331, "requirements": [{"item": "hetuxo", "amount": 2}, {"item": "quvojo", "amount": 5}, {"item": "layyzynium", "amount": 8}], "research": "hetuxo-factory", "consumes": {"powerBuffered": 3951}, "category": "power"}

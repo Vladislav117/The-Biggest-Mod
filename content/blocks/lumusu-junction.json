@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lumusu junction", "description": "...", "health": 36, "speed": 2, "capacity": 17, "size": 1, "requirements": [{"item": "lumusu", "amount": 2}, {"item": "tewo", "amount": 2}], "research": "lumusu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cuvanium power node", "description": "...", "size": 2, "health": 635, "requirements": [{"item": "cuvanium", "amount": 7}, {"item": "qepumu", "amount": 4}, {"item": "tybegi", "amount": 1}], "research": "cuvanium-factory", "maxNodes": 52, "laserRange": 14, "category": "power"}

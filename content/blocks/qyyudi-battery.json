@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qyyudi battery", "description": "...", "size": 3, "health": 123, "requirements": [{"item": "qyyudi", "amount": 17}, {"item": "giyaju", "amount": 17}, {"item": "beyo", "amount": 5}], "research": "qyyudi-factory", "consumes": {"powerBuffered": 211}, "category": "power"}

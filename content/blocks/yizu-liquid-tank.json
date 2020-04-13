@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yizu liquid tank", "description": "...", "health": 377, "size": 3, "requirements": [{"item": "yizu", "amount": 11}, {"item": "neletanium", "amount": 10}, {"item": "forebu", "amount": 9}], "research": "yizu-conduit", "category": "liquid", "liquidCapacity": 40553, "hasLiquids": true}

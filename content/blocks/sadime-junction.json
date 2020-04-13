@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sadime junction", "description": "...", "health": 50, "speed": 3, "capacity": 5, "size": 1, "requirements": [{"item": "sadime", "amount": 4}, {"item": "lyva", "amount": 1}], "research": "sadime-conveyor", "category": "distribution"}

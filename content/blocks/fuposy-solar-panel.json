@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fuposy solar panel", "description": "...", "size": 3, "health": 59, "requirements": [{"item": "fuposy", "amount": 19}, {"item": "gotomy", "amount": 7}, {"item": "cixe", "amount": 2}], "research": "fuposy-factory", "powerProduction": 0.5402381708055781, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "geja junction", "description": "...", "health": 47, "speed": 18, "capacity": 2, "size": 1, "requirements": [{"item": "geja", "amount": 4}, {"item": "zelanium", "amount": 5}], "research": "geja-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qano liquid tank", "description": "...", "health": 409, "size": 3, "requirements": [{"item": "qano", "amount": 20}, {"item": "besu", "amount": 14}, {"item": "byhonium", "amount": 4}], "research": "qano-conduit", "category": "liquid", "liquidCapacity": 92235, "hasLiquids": true}

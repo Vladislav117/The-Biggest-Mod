@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jazozu overflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "jazozu", "amount": 2}, {"item": "lyjenium", "amount": 5}], "research": "jazozu-conveyor", "category": "distribution", "invert": false}

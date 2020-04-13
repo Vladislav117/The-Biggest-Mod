@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "woke inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "woke", "amount": 5}, {"item": "fecufy", "amount": 4}], "research": "woke-conveyor", "category": "distribution", "invert": true}

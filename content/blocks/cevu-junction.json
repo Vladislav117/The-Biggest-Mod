@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cevu junction", "description": "...", "health": 22, "speed": 9, "capacity": 3, "size": 1, "requirements": [{"item": "cevu", "amount": 2}, {"item": "kofynium", "amount": 5}], "research": "cevu-conveyor", "category": "distribution"}

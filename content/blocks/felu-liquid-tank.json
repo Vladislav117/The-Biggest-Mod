@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "felu liquid tank", "description": "...", "health": 397, "size": 3, "requirements": [{"item": "felu", "amount": 20}, {"item": "vunijy", "amount": 18}, {"item": "qepusenium", "amount": 9}], "research": "felu-conduit", "category": "liquid", "liquidCapacity": 57245, "hasLiquids": true}

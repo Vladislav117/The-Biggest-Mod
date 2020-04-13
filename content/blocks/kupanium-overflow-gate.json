@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kupanium overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "kupanium", "amount": 4}, {"item": "dezy", "amount": 5}], "research": "kupanium-conveyor", "category": "distribution", "invert": false}

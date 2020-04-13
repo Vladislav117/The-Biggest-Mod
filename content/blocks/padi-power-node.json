@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "padi power node", "description": "...", "size": 2, "health": 796, "requirements": [{"item": "padi", "amount": 3}, {"item": "sywuze", "amount": 11}, {"item": "leloyi", "amount": 9}], "research": "padi-factory", "maxNodes": 19, "laserRange": 30, "category": "power"}

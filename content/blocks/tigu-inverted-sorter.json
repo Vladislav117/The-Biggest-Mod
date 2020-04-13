@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tigu inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "tigu", "amount": 5}, {"item": "tetivy", "amount": 2}], "research": "tigu-conveyor", "category": "distribution", "invert": true}

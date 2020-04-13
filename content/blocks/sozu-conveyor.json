@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "sozu conveyor", "description": "...", "health": 190, "requirements": [{"item": "sozu", "amount": 3}, {"item": "rapenium", "amount": 3}], "speed": 0.15048944322395014, "research": "sozu-factory", "category": "distribution"}

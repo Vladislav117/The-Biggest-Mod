@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zori inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "zori", "amount": 5}, {"item": "xydume", "amount": 2}], "research": "zori-conveyor", "category": "distribution", "invert": true}

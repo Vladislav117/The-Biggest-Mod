@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vine sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "vine", "amount": 2}, {"item": "dywo", "amount": 1}], "research": "vine-conveyor", "category": "distribution", "invert": false}

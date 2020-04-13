@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pemo solar panel", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "pemo", "amount": 16}, {"item": "hivesy", "amount": 8}, {"item": "pypy", "amount": 1}], "research": "pemo-factory", "powerProduction": 8.37871649482106, "category": "power"}

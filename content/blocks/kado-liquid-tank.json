@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kado liquid tank", "description": "...", "health": 430, "size": 3, "requirements": [{"item": "kado", "amount": 1}, {"item": "qicy", "amount": 2}, {"item": "bymyye", "amount": 6}], "research": "kado-conduit", "category": "liquid", "liquidCapacity": 70880, "hasLiquids": true}

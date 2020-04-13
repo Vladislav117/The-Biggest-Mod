@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jede liquid tank", "description": "...", "health": 234, "size": 3, "requirements": [{"item": "jede", "amount": 8}, {"item": "myhuzi", "amount": 13}, {"item": "wuniso", "amount": 3}], "research": "jede-conduit", "category": "liquid", "liquidCapacity": 35512, "hasLiquids": true}

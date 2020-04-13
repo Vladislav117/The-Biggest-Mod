@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small huxonium power node", "description": "...", "size": 1, "health": 232, "requirements": [{"item": "huxonium", "amount": 1}, {"item": "vuhu", "amount": 14}, {"item": "kyjyxo", "amount": 9}], "research": "huxonium-factory", "maxNodes": 12, "laserRange": 13, "category": "power"}

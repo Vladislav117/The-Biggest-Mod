@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nigoxunium inverted sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "nigoxunium", "amount": 5}, {"item": "fusyle", "amount": 4}], "research": "nigoxunium-conveyor", "category": "distribution", "invert": true}

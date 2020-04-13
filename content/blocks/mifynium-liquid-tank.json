@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mifynium liquid tank", "description": "...", "health": 576, "size": 3, "requirements": [{"item": "mifynium", "amount": 6}, {"item": "pixuhynium", "amount": 9}, {"item": "weva", "amount": 3}], "research": "mifynium-conduit", "category": "liquid", "liquidCapacity": 111630, "hasLiquids": true}

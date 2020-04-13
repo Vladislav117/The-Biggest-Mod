@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "povazu conduit", "description": "...", "health": 165, "requirements": [{"item": "povazu", "amount": 14}, {"item": "qebu", "amount": 13}, {"item": "weka", "amount": 9}], "liquidCapacity": 2, "liquidPressure": 7, "research": "povazu-factory", "category": "liquid"}

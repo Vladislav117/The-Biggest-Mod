@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qiyy battery", "description": "...", "size": 3, "health": 113, "requirements": [{"item": "qiyy", "amount": 5}, {"item": "hona", "amount": 20}, {"item": "hetyjo", "amount": 8}], "research": "qiyy-factory", "consumes": {"powerBuffered": 9919}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vido liquid tank", "description": "...", "health": 223, "size": 3, "requirements": [{"item": "vido", "amount": 9}, {"item": "jojene", "amount": 9}, {"item": "voje", "amount": 1}], "research": "vido-conduit", "category": "liquid", "liquidCapacity": 114728, "hasLiquids": true}

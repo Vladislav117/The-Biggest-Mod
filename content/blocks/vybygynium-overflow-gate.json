@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vybygynium overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "vybygynium", "amount": 4}, {"item": "byficy", "amount": 5}], "research": "vybygynium-conveyor", "category": "distribution", "invert": false}

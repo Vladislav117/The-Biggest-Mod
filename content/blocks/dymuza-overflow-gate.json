@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dymuza overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "dymuza", "amount": 3}, {"item": "zyjyqenium", "amount": 4}], "research": "dymuza-conveyor", "category": "distribution", "invert": false}

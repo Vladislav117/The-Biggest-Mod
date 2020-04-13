@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "viza power node", "description": "...", "size": 2, "health": 235, "requirements": [{"item": "viza", "amount": 19}, {"item": "yito", "amount": 4}, {"item": "naronium", "amount": 10}], "research": "viza-factory", "maxNodes": 38, "laserRange": 27, "category": "power"}

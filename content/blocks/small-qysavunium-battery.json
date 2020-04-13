@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qysavunium battery", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "qysavunium", "amount": 12}, {"item": "lulomu", "amount": 5}, {"item": "julynium", "amount": 5}], "research": "qysavunium-factory", "consumes": {"powerBuffered": 2931}, "category": "power"}

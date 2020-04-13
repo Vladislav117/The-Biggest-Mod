@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hako liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "hako", "amount": 9}, {"item": "zyqita", "amount": 7}, {"item": "pijunynium", "amount": 1}], "research": "hako-conduit", "liquidCapacity": 10, "category": "liquid"}

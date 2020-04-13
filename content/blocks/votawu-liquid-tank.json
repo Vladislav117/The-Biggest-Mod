@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "votawu liquid tank", "description": "...", "health": 263, "size": 3, "requirements": [{"item": "votawu", "amount": 9}, {"item": "jayycu", "amount": 7}, {"item": "xodali", "amount": 6}], "research": "votawu-conduit", "category": "liquid", "liquidCapacity": 14470, "hasLiquids": true}

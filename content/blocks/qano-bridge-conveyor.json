@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qano bridge conveyor", "description": "", "health": 48, "range": 16, "speed": 20, "bufferCapacity": 16, "requirements": [{"item": "qano", "amount": 3}, {"item": "zoyyqynium", "amount": 4}], "research": "qano-conveyor", "category": "distribution", "size": 1}

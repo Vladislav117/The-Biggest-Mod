@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lelybe liquid tank", "description": "...", "health": 499, "size": 3, "requirements": [{"item": "lelybe", "amount": 10}, {"item": "wiyuho", "amount": 8}, {"item": "jasuly", "amount": 3}], "research": "lelybe-conduit", "category": "liquid", "liquidCapacity": 5940, "hasLiquids": true}

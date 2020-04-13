@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small reyy power node", "description": "...", "size": 1, "health": 378, "requirements": [{"item": "reyy", "amount": 7}, {"item": "myyu", "amount": 8}, {"item": "picika", "amount": 6}], "research": "reyy-factory", "maxNodes": 16, "laserRange": 18, "category": "power"}

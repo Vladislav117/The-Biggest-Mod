@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zobu liquid tank", "description": "...", "health": 620, "size": 3, "requirements": [{"item": "zobu", "amount": 15}, {"item": "tadeja", "amount": 13}, {"item": "hedi", "amount": 8}], "research": "zobu-conduit", "category": "liquid", "liquidCapacity": 31476, "hasLiquids": true}

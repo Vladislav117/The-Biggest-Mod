@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mygenium sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "mygenium", "amount": 3}, {"item": "zazuti", "amount": 4}], "research": "mygenium-conveyor", "category": "distribution", "invert": false}

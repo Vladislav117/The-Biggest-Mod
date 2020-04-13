@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xilo conduit", "description": "...", "health": 81, "requirements": [{"item": "xilo", "amount": 10}, {"item": "cify", "amount": 10}, {"item": "nayayi", "amount": 8}], "liquidCapacity": 12, "liquidPressure": 7, "research": "xilo-factory", "category": "liquid"}

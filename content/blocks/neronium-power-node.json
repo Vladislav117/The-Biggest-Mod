@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "neronium power node", "description": "...", "size": 2, "health": 280, "requirements": [{"item": "neronium", "amount": 18}, {"item": "zumyze", "amount": 2}, {"item": "mefymanium", "amount": 3}], "research": "neronium-factory", "maxNodes": 19, "laserRange": 9, "category": "power"}

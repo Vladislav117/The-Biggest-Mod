@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nogi power node", "description": "...", "size": 2, "health": 10, "requirements": [{"item": "nogi", "amount": 11}, {"item": "gepe", "amount": 16}, {"item": "sopage", "amount": 5}], "research": "nogi-factory", "maxNodes": 37, "laserRange": 21, "category": "power"}

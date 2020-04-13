@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pucinium junction", "description": "...", "health": 16, "speed": 15, "capacity": 14, "size": 1, "requirements": [{"item": "pucinium", "amount": 3}, {"item": "xepe", "amount": 2}], "research": "pucinium-conveyor", "category": "distribution"}

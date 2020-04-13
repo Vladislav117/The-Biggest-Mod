@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sylunium overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "sylunium", "amount": 3}, {"item": "luzini", "amount": 5}], "research": "sylunium-conveyor", "category": "distribution", "invert": false}

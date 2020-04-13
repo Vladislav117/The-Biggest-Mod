@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "kupanium conveyor", "description": "...", "health": 300, "requirements": [{"item": "kupanium", "amount": 1}, {"item": "vapoqanium", "amount": 10}], "speed": 0.13541224877177377, "research": "kupanium-factory", "category": "distribution"}

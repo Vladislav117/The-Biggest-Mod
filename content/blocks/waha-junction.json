@@ -1,0 +1,1 @@
+{"type": "junction", "name": "waha junction", "description": "...", "health": 48, "speed": 10, "capacity": 20, "size": 1, "requirements": [{"item": "waha", "amount": 5}, {"item": "qacu", "amount": 1}], "research": "waha-conveyor", "category": "distribution"}

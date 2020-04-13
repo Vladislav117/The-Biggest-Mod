@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bato junction", "description": "...", "health": 20, "speed": 16, "capacity": 13, "size": 1, "requirements": [{"item": "bato", "amount": 1}, {"item": "titenium", "amount": 1}], "research": "bato-conveyor", "category": "distribution"}

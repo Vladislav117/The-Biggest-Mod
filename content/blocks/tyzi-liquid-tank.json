@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tyzi liquid tank", "description": "...", "health": 411, "size": 3, "requirements": [{"item": "tyzi", "amount": 12}, {"item": "hygamunium", "amount": 1}, {"item": "mowygu", "amount": 7}], "research": "tyzi-conduit", "category": "liquid", "liquidCapacity": 64352, "hasLiquids": true}

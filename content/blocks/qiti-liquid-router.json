@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qiti liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "qiti", "amount": 5}, {"item": "yamyri", "amount": 20}, {"item": "xutire", "amount": 4}], "research": "qiti-conduit", "liquidCapacity": 10, "category": "liquid"}

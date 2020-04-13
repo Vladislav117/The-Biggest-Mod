@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dono power node", "description": "...", "size": 2, "health": 331, "requirements": [{"item": "dono", "amount": 1}, {"item": "bixuhi", "amount": 10}, {"item": "bedy", "amount": 4}], "research": "dono-factory", "maxNodes": 13, "laserRange": 5, "category": "power"}

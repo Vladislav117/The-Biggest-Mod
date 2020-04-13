@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qokenium conduit", "description": "...", "health": 200, "requirements": [{"item": "qokenium", "amount": 6}, {"item": "faqymu", "amount": 11}, {"item": "genane", "amount": 9}], "liquidCapacity": 35, "liquidPressure": 6, "research": "qokenium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nivo bridge conveyor", "description": "", "health": 1, "range": 13, "speed": 4, "bufferCapacity": 8, "requirements": [{"item": "nivo", "amount": 4}, {"item": "muwytu", "amount": 4}], "research": "nivo-conveyor", "category": "distribution", "size": 1}

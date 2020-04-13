@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tunonu inverted sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "tunonu", "amount": 1}, {"item": "veninynium", "amount": 5}], "research": "tunonu-conveyor", "category": "distribution", "invert": true}

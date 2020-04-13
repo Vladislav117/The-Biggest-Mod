@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lowapo solar panel", "description": "...", "size": 3, "health": 278, "requirements": [{"item": "lowapo", "amount": 3}, {"item": "neloto", "amount": 18}, {"item": "tupo", "amount": 1}], "research": "lowapo-factory", "powerProduction": 0.654452018071915, "category": "power"}

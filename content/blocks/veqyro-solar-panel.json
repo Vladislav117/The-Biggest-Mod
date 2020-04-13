@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "veqyro solar panel", "description": "...", "size": 3, "health": 225, "requirements": [{"item": "veqyro", "amount": 8}, {"item": "xevenium", "amount": 3}, {"item": "nifego", "amount": 8}], "research": "veqyro-factory", "powerProduction": 1.448576611700898, "category": "power"}

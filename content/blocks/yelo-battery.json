@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yelo battery", "description": "...", "size": 3, "health": 96, "requirements": [{"item": "yelo", "amount": 4}, {"item": "zowenium", "amount": 14}, {"item": "zayuku", "amount": 1}], "research": "yelo-factory", "consumes": {"powerBuffered": 4710}, "category": "power"}

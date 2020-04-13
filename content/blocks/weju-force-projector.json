@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "weju force projector", "description": "...", "health": 191, "size": 3, "consumes": {"power": 5.0, "item": "weju"}, "requirements": [{"item": "weju", "amount": 19}, {"item": "viva", "amount": 1}, {"item": "zeva", "amount": 9}], "research": "weju-factory", "category": "effect"}

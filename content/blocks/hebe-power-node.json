@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hebe power node", "description": "...", "size": 2, "health": 564, "requirements": [{"item": "hebe", "amount": 18}, {"item": "jyxexi", "amount": 18}, {"item": "joluxinium", "amount": 10}], "research": "hebe-factory", "maxNodes": 27, "laserRange": 7, "category": "power"}

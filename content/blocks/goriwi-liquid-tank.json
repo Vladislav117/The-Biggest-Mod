@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "goriwi liquid tank", "description": "...", "health": 465, "size": 3, "requirements": [{"item": "goriwi", "amount": 7}, {"item": "sylunium", "amount": 13}, {"item": "lokybe", "amount": 1}], "research": "goriwi-conduit", "category": "liquid", "liquidCapacity": 36054, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bofazy liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "bofazy", "amount": 5}, {"item": "dewira", "amount": 14}, {"item": "fizunium", "amount": 2}], "research": "bofazy-conduit", "liquidCapacity": 10, "category": "liquid"}

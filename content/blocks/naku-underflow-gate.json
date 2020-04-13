@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "naku underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "naku", "amount": 4}, {"item": "yipobe", "amount": 4}], "research": "naku-conveyor", "category": "distribution", "invert": false}

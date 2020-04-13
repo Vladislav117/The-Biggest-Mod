@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tulotu power node", "description": "...", "size": 2, "health": 639, "requirements": [{"item": "tulotu", "amount": 10}, {"item": "syyyvo", "amount": 4}, {"item": "qypy", "amount": 4}], "research": "tulotu-factory", "maxNodes": 36, "laserRange": 21, "category": "power"}

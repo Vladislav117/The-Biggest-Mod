@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kovi bridge conveyor", "description": "", "health": 17, "range": 17, "speed": 13, "bufferCapacity": 25, "requirements": [{"item": "kovi", "amount": 1}, {"item": "masoxo", "amount": 5}], "research": "kovi-conveyor", "category": "distribution", "size": 1}

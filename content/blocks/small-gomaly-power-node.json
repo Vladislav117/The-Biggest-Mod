@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gomaly power node", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "gomaly", "amount": 16}, {"item": "savi", "amount": 7}, {"item": "tajapi", "amount": 5}], "research": "gomaly-factory", "maxNodes": 27, "laserRange": 9, "category": "power"}

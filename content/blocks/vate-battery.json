@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vate battery", "description": "...", "size": 3, "health": 98, "requirements": [{"item": "vate", "amount": 10}, {"item": "dagepanium", "amount": 19}, {"item": "venuki", "amount": 2}], "research": "vate-factory", "consumes": {"powerBuffered": 8215}, "category": "power"}

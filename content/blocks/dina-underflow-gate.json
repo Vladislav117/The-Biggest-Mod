@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dina underflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "dina", "amount": 3}, {"item": "vaxenium", "amount": 5}], "research": "dina-conveyor", "category": "distribution", "invert": false}

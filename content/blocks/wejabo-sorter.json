@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wejabo sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "wejabo", "amount": 4}, {"item": "doluka", "amount": 5}], "research": "wejabo-conveyor", "category": "distribution", "invert": false}

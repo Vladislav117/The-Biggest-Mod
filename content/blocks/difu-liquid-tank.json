@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "difu liquid tank", "description": "...", "health": 456, "size": 3, "requirements": [{"item": "difu", "amount": 4}, {"item": "zokoya", "amount": 1}, {"item": "yuhusi", "amount": 5}], "research": "difu-conduit", "category": "liquid", "liquidCapacity": 40683, "hasLiquids": true}

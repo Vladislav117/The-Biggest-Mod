@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "loqa liquid router", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "loqa", "amount": 7}, {"item": "fyfe", "amount": 2}, {"item": "lepe", "amount": 10}], "research": "loqa-conduit", "liquidCapacity": 10, "category": "liquid"}

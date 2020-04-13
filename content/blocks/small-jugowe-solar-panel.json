@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jugowe solar panel", "description": "...", "size": 1, "health": 198, "requirements": [{"item": "jugowe", "amount": 7}, {"item": "mecyronium", "amount": 18}, {"item": "naxihe", "amount": 6}], "research": "jugowe-factory", "powerProduction": 2.353971535074859, "category": "power"}

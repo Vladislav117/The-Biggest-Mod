@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "befa conduit", "description": "...", "health": 128, "requirements": [{"item": "befa", "amount": 17}, {"item": "qeje", "amount": 6}, {"item": "xyco", "amount": 8}], "liquidCapacity": 2, "liquidPressure": 2, "research": "befa-factory", "category": "liquid"}

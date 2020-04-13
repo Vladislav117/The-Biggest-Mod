@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zure conduit", "description": "...", "health": 90, "requirements": [{"item": "zure", "amount": 6}, {"item": "yiveni", "amount": 11}, {"item": "rafyti", "amount": 9}], "liquidCapacity": 32, "liquidPressure": 10, "research": "zure-factory", "category": "liquid"}

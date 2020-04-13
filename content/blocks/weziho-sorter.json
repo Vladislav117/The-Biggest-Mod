@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "weziho sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "weziho", "amount": 5}, {"item": "qiwise", "amount": 1}], "research": "weziho-conveyor", "category": "distribution", "invert": false}

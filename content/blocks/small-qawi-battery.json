@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qawi battery", "description": "...", "size": 1, "health": 154, "requirements": [{"item": "qawi", "amount": 9}, {"item": "gunery", "amount": 7}, {"item": "vepuge", "amount": 2}], "research": "qawi-factory", "consumes": {"powerBuffered": 1919}, "category": "power"}

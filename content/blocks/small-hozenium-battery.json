@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hozenium battery", "description": "...", "size": 1, "health": 335, "requirements": [{"item": "hozenium", "amount": 1}, {"item": "zukolunium", "amount": 4}, {"item": "kiqeganium", "amount": 5}], "research": "hozenium-factory", "consumes": {"powerBuffered": 2620}, "category": "power"}

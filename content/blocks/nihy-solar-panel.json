@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nihy solar panel", "description": "...", "size": 3, "health": 259, "requirements": [{"item": "nihy", "amount": 5}, {"item": "dywo", "amount": 16}, {"item": "hiki", "amount": 9}], "research": "nihy-factory", "powerProduction": 8.19699996112746, "category": "power"}

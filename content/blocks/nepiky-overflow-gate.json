@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nepiky overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "nepiky", "amount": 3}, {"item": "nacefa", "amount": 4}], "research": "nepiky-conveyor", "category": "distribution", "invert": false}

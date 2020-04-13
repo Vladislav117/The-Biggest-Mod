@@ -1,0 +1,1 @@
+{"type": "battery", "name": "juzydu battery", "description": "...", "size": 3, "health": 150, "requirements": [{"item": "juzydu", "amount": 13}, {"item": "kivomo", "amount": 3}, {"item": "bole", "amount": 2}], "research": "juzydu-factory", "consumes": {"powerBuffered": 5107}, "category": "power"}

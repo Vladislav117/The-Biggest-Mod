@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "feqinium liquid router", "description": "...", "size": 1, "health": 35, "requirements": [{"item": "feqinium", "amount": 15}, {"item": "dutenium", "amount": 16}, {"item": "voqa", "amount": 10}], "research": "feqinium-conduit", "liquidCapacity": 10, "category": "liquid"}

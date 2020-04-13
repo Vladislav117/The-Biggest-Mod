@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xega liquid tank", "description": "...", "health": 534, "size": 3, "requirements": [{"item": "xega", "amount": 1}, {"item": "byzure", "amount": 14}, {"item": "gozefynium", "amount": 3}], "research": "xega-conduit", "category": "liquid", "liquidCapacity": 74625, "hasLiquids": true}

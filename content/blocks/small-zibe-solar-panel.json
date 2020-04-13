@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zibe solar panel", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "zibe", "amount": 5}, {"item": "yesolonium", "amount": 15}, {"item": "totiji", "amount": 9}], "research": "zibe-factory", "powerProduction": 8.177539106910785, "category": "power"}

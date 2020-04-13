@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lidinium junction", "description": "...", "health": 17, "speed": 19, "capacity": 20, "size": 1, "requirements": [{"item": "lidinium", "amount": 1}, {"item": "qobu", "amount": 2}], "research": "lidinium-conveyor", "category": "distribution"}

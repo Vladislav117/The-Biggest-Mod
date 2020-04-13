@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sewa inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "sewa", "amount": 4}, {"item": "kute", "amount": 3}], "research": "sewa-conveyor", "category": "distribution", "invert": true}

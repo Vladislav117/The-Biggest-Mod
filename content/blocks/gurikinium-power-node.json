@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gurikinium power node", "description": "...", "size": 2, "health": 387, "requirements": [{"item": "gurikinium", "amount": 3}, {"item": "giho", "amount": 2}, {"item": "vewavu", "amount": 10}], "research": "gurikinium-factory", "maxNodes": 60, "laserRange": 14, "category": "power"}

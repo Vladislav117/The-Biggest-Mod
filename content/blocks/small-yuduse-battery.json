@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yuduse battery", "description": "...", "size": 1, "health": 346, "requirements": [{"item": "yuduse", "amount": 6}, {"item": "rymyfanium", "amount": 9}, {"item": "vixuca", "amount": 7}], "research": "yuduse-factory", "consumes": {"powerBuffered": 929}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sisitonium power node", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "sisitonium", "amount": 5}, {"item": "pamyka", "amount": 9}, {"item": "janinium", "amount": 6}], "research": "sisitonium-factory", "maxNodes": 4, "laserRange": 6, "category": "power"}

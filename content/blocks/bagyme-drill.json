@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bagyme drill", "description": "...", "size": 4, "health": 160, "tier": 1, "drillTime": 3, "consumes": {"power": 12}, "requirements": [{"item": "bagyme", "amount": 6}, {"item": "sibuju", "amount": 20}, {"item": "cezi", "amount": 3}], "research": "bagyme-factory", "category": "production"}

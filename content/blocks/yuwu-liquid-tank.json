@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yuwu liquid tank", "description": "...", "health": 622, "size": 3, "requirements": [{"item": "yuwu", "amount": 11}, {"item": "cuwa", "amount": 3}, {"item": "zosy", "amount": 9}], "research": "yuwu-conduit", "category": "liquid", "liquidCapacity": 42957, "hasLiquids": true}

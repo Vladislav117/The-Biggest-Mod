@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small movanium power node", "description": "...", "size": 1, "health": 111, "requirements": [{"item": "movanium", "amount": 4}, {"item": "qerobu", "amount": 12}, {"item": "fyfoni", "amount": 9}], "research": "movanium-factory", "maxNodes": 22, "laserRange": 8, "category": "power"}

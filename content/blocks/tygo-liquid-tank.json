@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tygo liquid tank", "description": "...", "health": 142, "size": 3, "requirements": [{"item": "tygo", "amount": 15}, {"item": "gufanium", "amount": 6}, {"item": "doge", "amount": 3}], "research": "tygo-conduit", "category": "liquid", "liquidCapacity": 2513, "hasLiquids": true}

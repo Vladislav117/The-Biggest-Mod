@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "goyinium power node", "description": "...", "size": 2, "health": 762, "requirements": [{"item": "goyinium", "amount": 3}, {"item": "kety", "amount": 15}, {"item": "waxonium", "amount": 3}], "research": "goyinium-factory", "maxNodes": 33, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rufi solar panel", "description": "...", "size": 3, "health": 206, "requirements": [{"item": "rufi", "amount": 3}, {"item": "dipy", "amount": 18}, {"item": "goti", "amount": 5}], "research": "rufi-factory", "powerProduction": 0.07487334927062154, "category": "power"}

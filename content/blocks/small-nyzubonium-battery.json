@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nyzubonium battery", "description": "...", "size": 1, "health": 384, "requirements": [{"item": "nyzubonium", "amount": 13}, {"item": "dohiye", "amount": 20}, {"item": "dakiqu", "amount": 1}], "research": "nyzubonium-factory", "consumes": {"powerBuffered": 1026}, "category": "power"}

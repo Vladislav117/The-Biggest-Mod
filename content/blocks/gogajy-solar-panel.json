@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gogajy solar panel", "description": "...", "size": 3, "health": 315, "requirements": [{"item": "gogajy", "amount": 10}, {"item": "kyte", "amount": 7}, {"item": "jylovo", "amount": 4}], "research": "gogajy-factory", "powerProduction": 1.966039136097776, "category": "power"}

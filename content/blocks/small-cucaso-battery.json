@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cucaso battery", "description": "...", "size": 1, "health": 178, "requirements": [{"item": "cucaso", "amount": 1}, {"item": "leyoqo", "amount": 18}, {"item": "kipyzonium", "amount": 5}], "research": "cucaso-factory", "consumes": {"powerBuffered": 2380}, "category": "power"}

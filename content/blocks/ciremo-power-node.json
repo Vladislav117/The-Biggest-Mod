@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ciremo power node", "description": "...", "size": 2, "health": 693, "requirements": [{"item": "ciremo", "amount": 19}, {"item": "ximy", "amount": 12}, {"item": "vakarinium", "amount": 4}], "research": "ciremo-factory", "maxNodes": 10, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wozego battery", "description": "...", "size": 1, "health": 84, "requirements": [{"item": "wozego", "amount": 9}, {"item": "qyhi", "amount": 18}, {"item": "leyoqo", "amount": 5}], "research": "wozego-factory", "consumes": {"powerBuffered": 1495}, "category": "power"}

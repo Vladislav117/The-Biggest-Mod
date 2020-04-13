@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xetydinium drill", "description": "...", "size": 3, "health": 353, "tier": 4, "drillTime": 10, "consumes": {"power": 10}, "requirements": [{"item": "xetydinium", "amount": 12}, {"item": "waka", "amount": 1}, {"item": "hozivi", "amount": 9}], "research": "xetydinium-factory", "category": "production"}

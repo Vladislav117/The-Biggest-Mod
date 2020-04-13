@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tihunium power node", "description": "...", "size": 2, "health": 800, "requirements": [{"item": "tihunium", "amount": 9}, {"item": "vema", "amount": 10}, {"item": "fygunium", "amount": 4}], "research": "tihunium-factory", "maxNodes": 31, "laserRange": 5, "category": "power"}

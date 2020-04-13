@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "togi inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "togi", "amount": 4}, {"item": "xujo", "amount": 1}], "research": "togi-conveyor", "category": "distribution", "invert": true}

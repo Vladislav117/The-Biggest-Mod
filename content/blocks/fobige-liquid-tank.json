@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fobige liquid tank", "description": "...", "health": 428, "size": 3, "requirements": [{"item": "fobige", "amount": 20}, {"item": "teza", "amount": 18}, {"item": "mimuce", "amount": 2}], "research": "fobige-conduit", "category": "liquid", "liquidCapacity": 70046, "hasLiquids": true}

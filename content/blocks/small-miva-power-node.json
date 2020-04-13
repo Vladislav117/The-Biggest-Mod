@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small miva power node", "description": "...", "size": 1, "health": 245, "requirements": [{"item": "miva", "amount": 1}, {"item": "yebunonium", "amount": 11}, {"item": "jezo", "amount": 2}], "research": "miva-factory", "maxNodes": 28, "laserRange": 21, "category": "power"}

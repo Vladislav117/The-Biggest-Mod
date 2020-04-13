@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sodyly liquid router", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "sodyly", "amount": 6}, {"item": "jatyjenium", "amount": 9}, {"item": "sypyqanium", "amount": 5}], "research": "sodyly-conduit", "liquidCapacity": 10, "category": "liquid"}

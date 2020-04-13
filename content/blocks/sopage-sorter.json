@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sopage sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "sopage", "amount": 1}, {"item": "venuki", "amount": 1}], "research": "sopage-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "puli junction", "description": "...", "health": 24, "speed": 14, "capacity": 15, "size": 1, "requirements": [{"item": "puli", "amount": 3}, {"item": "mefymanium", "amount": 4}], "research": "puli-conveyor", "category": "distribution"}

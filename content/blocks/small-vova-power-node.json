@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vova power node", "description": "...", "size": 1, "health": 77, "requirements": [{"item": "vova", "amount": 6}, {"item": "graphite", "amount": 10}, {"item": "veba", "amount": 9}], "research": "vova-factory", "maxNodes": 4, "laserRange": 23, "category": "power"}

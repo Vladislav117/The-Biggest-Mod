@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yidugonium liquid tank", "description": "...", "health": 160, "size": 3, "requirements": [{"item": "yidugonium", "amount": 16}, {"item": "puzonium", "amount": 2}, {"item": "sato", "amount": 3}], "research": "yidugonium-conduit", "category": "liquid", "liquidCapacity": 5914, "hasLiquids": true}

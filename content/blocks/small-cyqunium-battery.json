@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cyqunium battery", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "cyqunium", "amount": 11}, {"item": "bapu", "amount": 15}, {"item": "xeponium", "amount": 4}], "research": "cyqunium-factory", "consumes": {"powerBuffered": 1145}, "category": "power"}

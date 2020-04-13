@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fica power node", "description": "...", "size": 1, "health": 390, "requirements": [{"item": "fica", "amount": 19}, {"item": "lisaca", "amount": 3}, {"item": "lesy", "amount": 5}], "research": "fica-factory", "maxNodes": 28, "laserRange": 25, "category": "power"}

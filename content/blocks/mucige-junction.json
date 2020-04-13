@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mucige junction", "description": "...", "health": 41, "speed": 17, "capacity": 16, "size": 1, "requirements": [{"item": "mucige", "amount": 5}, {"item": "kovi", "amount": 3}], "research": "mucige-conveyor", "category": "distribution"}

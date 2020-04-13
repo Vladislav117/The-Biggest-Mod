@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vocazu solar panel", "description": "...", "size": 1, "health": 151, "requirements": [{"item": "vocazu", "amount": 8}, {"item": "kyweru", "amount": 9}, {"item": "vedapa", "amount": 4}], "research": "vocazu-factory", "powerProduction": 3.598400955431188, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "takicynium solar panel", "description": "...", "size": 3, "health": 129, "requirements": [{"item": "takicynium", "amount": 18}, {"item": "cohu", "amount": 13}, {"item": "pajaka", "amount": 8}], "research": "takicynium-factory", "powerProduction": 0.3139676093372474, "category": "power"}

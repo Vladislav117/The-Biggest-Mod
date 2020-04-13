@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "wedu conveyor", "description": "...", "health": 244, "requirements": [{"item": "wedu", "amount": 3}, {"item": "raqo", "amount": 6}], "speed": 0.1976642158393364, "research": "wedu-factory", "category": "distribution"}

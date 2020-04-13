@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "beyuxy overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "beyuxy", "amount": 1}, {"item": "jumonium", "amount": 1}], "research": "beyuxy-conveyor", "category": "distribution", "invert": false}

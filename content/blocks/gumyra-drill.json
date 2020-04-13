@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gumyra drill", "description": "...", "size": 2, "health": 420, "tier": 3, "drillTime": 7, "consumes": {"power": 7}, "requirements": [{"item": "gumyra", "amount": 18}, {"item": "cygyya", "amount": 18}, {"item": "yinuze", "amount": 7}], "research": "gumyra-factory", "category": "production"}

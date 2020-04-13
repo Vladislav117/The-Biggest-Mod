@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jarovu junction", "description": "...", "health": 33, "speed": 13, "capacity": 13, "size": 1, "requirements": [{"item": "jarovu", "amount": 2}, {"item": "mika", "amount": 4}], "research": "jarovu-conveyor", "category": "distribution"}

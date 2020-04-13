@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jida power node", "description": "...", "size": 1, "health": 175, "requirements": [{"item": "jida", "amount": 13}, {"item": "gotepy", "amount": 8}, {"item": "dagepanium", "amount": 6}], "research": "jida-factory", "maxNodes": 26, "laserRange": 9, "category": "power"}

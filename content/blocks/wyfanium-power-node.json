@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wyfanium power node", "description": "...", "size": 2, "health": 512, "requirements": [{"item": "wyfanium", "amount": 19}, {"item": "gonu", "amount": 3}, {"item": "vuciby", "amount": 6}], "research": "wyfanium-factory", "maxNodes": 28, "laserRange": 9, "category": "power"}

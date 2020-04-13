@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "boqi drill", "description": "...", "size": 2, "health": 216, "tier": 1, "drillTime": 17, "consumes": {"power": 11}, "requirements": [{"item": "boqi", "amount": 1}, {"item": "julynium", "amount": 16}, {"item": "duqu", "amount": 9}], "research": "boqi-factory", "category": "production"}

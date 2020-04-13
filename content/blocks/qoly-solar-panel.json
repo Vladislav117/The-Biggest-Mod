@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qoly solar panel", "description": "...", "size": 3, "health": 360, "requirements": [{"item": "qoly", "amount": 7}, {"item": "mizu", "amount": 20}, {"item": "myxo", "amount": 6}], "research": "qoly-factory", "powerProduction": 0.9163847664742619, "category": "power"}

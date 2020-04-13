@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fidiho battery", "description": "...", "size": 3, "health": 174, "requirements": [{"item": "fidiho", "amount": 16}, {"item": "xeponium", "amount": 8}, {"item": "gebonium", "amount": 10}], "research": "fidiho-factory", "consumes": {"powerBuffered": 5857}, "category": "power"}

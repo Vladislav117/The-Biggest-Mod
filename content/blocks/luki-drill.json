@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "luki drill", "description": "...", "size": 2, "health": 348, "tier": 1, "drillTime": 10, "consumes": {"power": 12}, "requirements": [{"item": "luki", "amount": 4}, {"item": "cyta", "amount": 1}, {"item": "rajizu", "amount": 7}], "research": "luki-factory", "category": "production"}

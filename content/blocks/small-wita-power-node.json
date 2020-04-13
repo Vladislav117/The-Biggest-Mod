@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wita power node", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "wita", "amount": 8}, {"item": "migube", "amount": 17}, {"item": "cavuyi", "amount": 5}], "research": "wita-factory", "maxNodes": 21, "laserRange": 25, "category": "power"}

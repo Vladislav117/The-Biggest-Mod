@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pafyvi junction", "description": "...", "health": 27, "speed": 18, "capacity": 2, "size": 1, "requirements": [{"item": "pafyvi", "amount": 3}, {"item": "poheny", "amount": 5}], "research": "pafyvi-conveyor", "category": "distribution"}

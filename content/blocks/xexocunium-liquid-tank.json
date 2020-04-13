@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xexocunium liquid tank", "description": "...", "health": 530, "size": 3, "requirements": [{"item": "xexocunium", "amount": 1}, {"item": "mapanium", "amount": 3}, {"item": "ninenium", "amount": 7}], "research": "xexocunium-conduit", "category": "liquid", "liquidCapacity": 118430, "hasLiquids": true}

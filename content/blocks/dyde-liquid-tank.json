@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dyde liquid tank", "description": "...", "health": 587, "size": 3, "requirements": [{"item": "dyde", "amount": 18}, {"item": "cafe", "amount": 19}, {"item": "baranium", "amount": 7}], "research": "dyde-conduit", "category": "liquid", "liquidCapacity": 4125, "hasLiquids": true}

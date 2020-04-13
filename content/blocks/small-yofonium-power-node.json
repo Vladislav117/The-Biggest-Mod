@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yofonium power node", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "yofonium", "amount": 7}, {"item": "phase-fabric", "amount": 18}, {"item": "jugubu", "amount": 8}], "research": "yofonium-factory", "maxNodes": 30, "laserRange": 6, "category": "power"}

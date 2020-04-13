@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "yuqu overdrive projector", "description": "...", "health": 68, "consumes": {"power": 3.0, "item": "yuqu"}, "size": 2, "requirements": [{"item": "yuqu", "amount": 15}, {"item": "qiseho", "amount": 9}, {"item": "kyte", "amount": 3}], "research": "yuqu-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tigocenium battery", "description": "...", "size": 1, "health": 263, "requirements": [{"item": "tigocenium", "amount": 13}, {"item": "roqeki", "amount": 8}, {"item": "kezunium", "amount": 10}], "research": "tigocenium-factory", "consumes": {"powerBuffered": 296}, "category": "power"}

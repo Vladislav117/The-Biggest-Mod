@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mido underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "mido", "amount": 4}, {"item": "toni", "amount": 5}], "research": "mido-conveyor", "category": "distribution", "invert": false}

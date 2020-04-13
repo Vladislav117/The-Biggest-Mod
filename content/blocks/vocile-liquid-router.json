@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vocile liquid router", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "vocile", "amount": 4}, {"item": "coqinium", "amount": 18}, {"item": "ruwucynium", "amount": 8}], "research": "vocile-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hurula liquid tank", "description": "...", "health": 398, "size": 3, "requirements": [{"item": "hurula", "amount": 8}, {"item": "ruteqa", "amount": 10}, {"item": "yijotu", "amount": 7}], "research": "hurula-conduit", "category": "liquid", "liquidCapacity": 12080, "hasLiquids": true}

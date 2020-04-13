@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qaduya battery", "description": "...", "size": 1, "health": 287, "requirements": [{"item": "qaduya", "amount": 2}, {"item": "baqyrinium", "amount": 1}, {"item": "huwafy", "amount": 2}], "research": "qaduya-factory", "consumes": {"powerBuffered": 760}, "category": "power"}

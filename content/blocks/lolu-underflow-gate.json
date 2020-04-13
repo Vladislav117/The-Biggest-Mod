@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lolu underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "lolu", "amount": 1}, {"item": "gobenium", "amount": 3}], "research": "lolu-conveyor", "category": "distribution", "invert": false}

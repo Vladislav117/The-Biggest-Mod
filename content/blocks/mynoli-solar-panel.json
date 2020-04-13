@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mynoli solar panel", "description": "...", "size": 3, "health": 56, "requirements": [{"item": "mynoli", "amount": 18}, {"item": "qyhaja", "amount": 12}, {"item": "xenira", "amount": 7}], "research": "mynoli-factory", "powerProduction": 3.3994548442042016, "category": "power"}

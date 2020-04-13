@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kupu liquid tank", "description": "...", "health": 449, "size": 3, "requirements": [{"item": "kupu", "amount": 13}, {"item": "kani", "amount": 5}, {"item": "riro", "amount": 2}], "research": "kupu-conduit", "category": "liquid", "liquidCapacity": 100674, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "josixu junction", "description": "...", "health": 10, "speed": 16, "capacity": 2, "size": 1, "requirements": [{"item": "josixu", "amount": 4}, {"item": "yidugonium", "amount": 3}], "research": "josixu-conveyor", "category": "distribution"}

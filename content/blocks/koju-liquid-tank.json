@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "koju liquid tank", "description": "...", "health": 510, "size": 3, "requirements": [{"item": "koju", "amount": 17}, {"item": "macixy", "amount": 4}, {"item": "yikynium", "amount": 6}], "research": "koju-conduit", "category": "liquid", "liquidCapacity": 104698, "hasLiquids": true}

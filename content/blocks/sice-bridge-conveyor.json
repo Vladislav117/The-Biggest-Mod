@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sice bridge conveyor", "description": "", "health": 30, "range": 7, "speed": 15, "bufferCapacity": 12, "requirements": [{"item": "sice", "amount": 4}, {"item": "sacigi", "amount": 1}], "research": "sice-conveyor", "category": "distribution", "size": 1}

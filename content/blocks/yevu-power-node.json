@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yevu power node", "description": "...", "size": 2, "health": 573, "requirements": [{"item": "yevu", "amount": 13}, {"item": "xihu", "amount": 4}, {"item": "dyyufo", "amount": 8}], "research": "yevu-factory", "maxNodes": 12, "laserRange": 5, "category": "power"}

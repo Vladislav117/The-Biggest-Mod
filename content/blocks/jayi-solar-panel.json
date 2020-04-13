@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jayi solar panel", "description": "...", "size": 3, "health": 222, "requirements": [{"item": "jayi", "amount": 10}, {"item": "sywuze", "amount": 9}, {"item": "ceciba", "amount": 4}], "research": "jayi-factory", "powerProduction": 0.9216900235878019, "category": "power"}

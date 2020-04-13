@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vusyjo liquid tank", "description": "...", "health": 121, "size": 3, "requirements": [{"item": "vusyjo", "amount": 2}, {"item": "nigucy", "amount": 5}, {"item": "cyjonium", "amount": 9}], "research": "vusyjo-conduit", "category": "liquid", "liquidCapacity": 108436, "hasLiquids": true}

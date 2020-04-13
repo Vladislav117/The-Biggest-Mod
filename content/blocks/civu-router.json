@@ -1,0 +1,1 @@
+{"type": "router", "name": "civu router", "description": "...", "health": 120, "size": 1, "requirements": [{"item": "civu", "amount": 7}], "research": "civu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fygy underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "fygy", "amount": 3}, {"item": "geqa", "amount": 5}], "research": "fygy-conveyor", "category": "distribution", "invert": false}

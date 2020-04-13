@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wejabo bridge conveyor", "description": "", "health": 10, "range": 6, "speed": 9, "bufferCapacity": 14, "requirements": [{"item": "wejabo", "amount": 1}, {"item": "yaxuda", "amount": 5}], "research": "wejabo-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jerywo junction", "description": "...", "health": 20, "speed": 16, "capacity": 1, "size": 1, "requirements": [{"item": "jerywo", "amount": 5}, {"item": "mytati", "amount": 5}], "research": "jerywo-conveyor", "category": "distribution"}

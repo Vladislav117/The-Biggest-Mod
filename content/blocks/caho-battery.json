@@ -1,0 +1,1 @@
+{"type": "battery", "name": "caho battery", "description": "...", "size": 3, "health": 81, "requirements": [{"item": "caho", "amount": 1}, {"item": "rehyce", "amount": 14}, {"item": "cycu", "amount": 8}], "research": "caho-factory", "consumes": {"powerBuffered": 6856}, "category": "power"}

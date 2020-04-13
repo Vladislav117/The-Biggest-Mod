@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "naziha inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "naziha", "amount": 5}, {"item": "gobenium", "amount": 4}], "research": "naziha-conveyor", "category": "distribution", "invert": true}

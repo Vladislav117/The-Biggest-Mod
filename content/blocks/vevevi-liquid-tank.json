@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vevevi liquid tank", "description": "...", "health": 241, "size": 3, "requirements": [{"item": "vevevi", "amount": 18}, {"item": "koci", "amount": 16}, {"item": "yudesinium", "amount": 6}], "research": "vevevi-conduit", "category": "liquid", "liquidCapacity": 30823, "hasLiquids": true}

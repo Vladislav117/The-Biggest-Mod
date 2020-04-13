@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jayycu power node", "description": "...", "size": 2, "health": 578, "requirements": [{"item": "jayycu", "amount": 15}, {"item": "lebu", "amount": 2}, {"item": "xega", "amount": 1}], "research": "jayycu-factory", "maxNodes": 57, "laserRange": 16, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cokigo overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "cokigo", "amount": 4}, {"item": "nuko", "amount": 5}], "research": "cokigo-conveyor", "category": "distribution", "invert": false}

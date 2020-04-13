@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "siga liquid tank", "description": "...", "health": 209, "size": 3, "requirements": [{"item": "siga", "amount": 14}, {"item": "pyxoxanium", "amount": 15}, {"item": "rahy", "amount": 8}], "research": "siga-conduit", "category": "liquid", "liquidCapacity": 63819, "hasLiquids": true}

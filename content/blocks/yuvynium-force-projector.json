@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "yuvynium force projector", "description": "...", "health": 209, "size": 3, "consumes": {"power": 5.0, "item": "yuvynium"}, "requirements": [{"item": "yuvynium", "amount": 15}, {"item": "yuvynium", "amount": 13}, {"item": "fytuve", "amount": 2}], "research": "yuvynium-factory", "category": "effect"}

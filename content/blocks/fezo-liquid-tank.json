@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fezo liquid tank", "description": "...", "health": 254, "size": 3, "requirements": [{"item": "fezo", "amount": 15}, {"item": "jumi", "amount": 17}, {"item": "cuwe", "amount": 4}], "research": "fezo-conduit", "category": "liquid", "liquidCapacity": 86396, "hasLiquids": true}

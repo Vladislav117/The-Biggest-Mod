@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xavinium battery", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "xavinium", "amount": 18}, {"item": "nuso", "amount": 15}, {"item": "silicon", "amount": 5}], "research": "xavinium-factory", "consumes": {"powerBuffered": 8082}, "category": "power"}

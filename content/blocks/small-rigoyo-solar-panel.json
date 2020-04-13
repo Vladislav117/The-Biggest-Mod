@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rigoyo solar panel", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "rigoyo", "amount": 19}, {"item": "lahowe", "amount": 19}, {"item": "lafetu", "amount": 1}], "research": "rigoyo-factory", "powerProduction": 8.818793970192127, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tolo bridge conveyor", "description": "", "health": 8, "range": 12, "speed": 9, "bufferCapacity": 1, "requirements": [{"item": "tolo", "amount": 2}, {"item": "pyqynium", "amount": 4}], "research": "tolo-conveyor", "category": "distribution", "size": 1}

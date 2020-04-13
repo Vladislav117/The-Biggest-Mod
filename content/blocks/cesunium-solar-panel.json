@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cesunium solar panel", "description": "...", "size": 3, "health": 226, "requirements": [{"item": "cesunium", "amount": 9}, {"item": "pubado", "amount": 20}, {"item": "weva", "amount": 8}], "research": "cesunium-factory", "powerProduction": 3.618911431062138, "category": "power"}

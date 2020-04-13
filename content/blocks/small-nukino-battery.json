@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nukino battery", "description": "...", "size": 1, "health": 294, "requirements": [{"item": "nukino", "amount": 4}, {"item": "xafi", "amount": 14}, {"item": "fizunium", "amount": 7}], "research": "nukino-factory", "consumes": {"powerBuffered": 2312}, "category": "power"}

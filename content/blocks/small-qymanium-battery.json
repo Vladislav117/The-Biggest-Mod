@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qymanium battery", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "qymanium", "amount": 2}, {"item": "pami", "amount": 5}, {"item": "motaty", "amount": 6}], "research": "qymanium-factory", "consumes": {"powerBuffered": 552}, "category": "power"}

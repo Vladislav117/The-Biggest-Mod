@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rabe bridge conveyor", "description": "", "health": 27, "range": 19, "speed": 17, "bufferCapacity": 11, "requirements": [{"item": "rabe", "amount": 3}, {"item": "cozuja", "amount": 2}], "research": "rabe-conveyor", "category": "distribution", "size": 1}

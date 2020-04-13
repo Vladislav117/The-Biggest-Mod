@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "tidonium conveyor", "description": "...", "health": 159, "requirements": [{"item": "tidonium", "amount": 10}, {"item": "syfy", "amount": 10}], "speed": 0.3429086202571235, "research": "tidonium-factory", "category": "distribution"}

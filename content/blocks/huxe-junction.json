@@ -1,0 +1,1 @@
+{"type": "junction", "name": "huxe junction", "description": "...", "health": 4, "speed": 20, "capacity": 1, "size": 1, "requirements": [{"item": "huxe", "amount": 1}, {"item": "daye", "amount": 4}], "research": "huxe-conveyor", "category": "distribution"}

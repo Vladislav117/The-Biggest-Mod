@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sibuju underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "sibuju", "amount": 3}, {"item": "qacu", "amount": 2}], "research": "sibuju-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jikesi solar panel", "description": "...", "size": 3, "health": 98, "requirements": [{"item": "jikesi", "amount": 15}, {"item": "fusyle", "amount": 3}, {"item": "dutenium", "amount": 2}], "research": "jikesi-factory", "powerProduction": 1.2751468704585425, "category": "power"}

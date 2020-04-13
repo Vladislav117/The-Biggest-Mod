@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wiraby bridge conveyor", "description": "", "health": 25, "range": 19, "speed": 16, "bufferCapacity": 15, "requirements": [{"item": "wiraby", "amount": 4}, {"item": "fevawinium", "amount": 4}], "research": "wiraby-conveyor", "category": "distribution", "size": 1}

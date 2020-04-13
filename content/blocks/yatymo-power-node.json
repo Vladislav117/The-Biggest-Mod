@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yatymo power node", "description": "...", "size": 2, "health": 79, "requirements": [{"item": "yatymo", "amount": 13}, {"item": "joluxinium", "amount": 1}, {"item": "jomoka", "amount": 2}], "research": "yatymo-factory", "maxNodes": 52, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zimabe battery", "description": "...", "size": 3, "health": 181, "requirements": [{"item": "zimabe", "amount": 20}, {"item": "qicinium", "amount": 14}, {"item": "wawu", "amount": 1}], "research": "zimabe-factory", "consumes": {"powerBuffered": 6011}, "category": "power"}

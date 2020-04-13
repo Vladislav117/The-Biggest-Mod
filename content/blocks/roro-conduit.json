@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "roro conduit", "description": "...", "health": 60, "requirements": [{"item": "roro", "amount": 4}, {"item": "myyu", "amount": 12}, {"item": "tizusa", "amount": 9}], "liquidCapacity": 20, "liquidPressure": 7, "research": "roro-factory", "category": "liquid"}

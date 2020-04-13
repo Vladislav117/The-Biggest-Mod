@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kaqa battery", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "kaqa", "amount": 10}, {"item": "loqa", "amount": 18}, {"item": "mowygu", "amount": 7}], "research": "kaqa-factory", "consumes": {"powerBuffered": 815}, "category": "power"}

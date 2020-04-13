@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sihynium conduit", "description": "...", "health": 181, "requirements": [{"item": "sihynium", "amount": 19}, {"item": "hexa", "amount": 12}, {"item": "fepiva", "amount": 6}], "liquidCapacity": 25, "liquidPressure": 2, "research": "sihynium-factory", "category": "liquid"}

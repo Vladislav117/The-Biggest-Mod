@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "myruhy solar panel", "description": "...", "size": 3, "health": 226, "requirements": [{"item": "myruhy", "amount": 14}, {"item": "qubyra", "amount": 17}, {"item": "diro", "amount": 8}], "research": "myruhy-factory", "powerProduction": 3.4562769096131865, "category": "power"}

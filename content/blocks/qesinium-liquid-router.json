@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qesinium liquid router", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "qesinium", "amount": 12}, {"item": "tugu", "amount": 12}, {"item": "qubyzi", "amount": 4}], "research": "qesinium-conduit", "liquidCapacity": 10, "category": "liquid"}

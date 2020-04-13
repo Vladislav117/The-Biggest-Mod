@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fami bridge conveyor", "description": "", "health": 15, "range": 17, "speed": 10, "bufferCapacity": 10, "requirements": [{"item": "fami", "amount": 5}, {"item": "siveyu", "amount": 1}], "research": "fami-conveyor", "category": "distribution", "size": 1}

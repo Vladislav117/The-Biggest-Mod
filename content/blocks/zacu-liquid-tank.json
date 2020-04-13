@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zacu liquid tank", "description": "...", "health": 505, "size": 3, "requirements": [{"item": "zacu", "amount": 18}, {"item": "cuzyko", "amount": 15}, {"item": "yuwu", "amount": 7}], "research": "zacu-conduit", "category": "liquid", "liquidCapacity": 40221, "hasLiquids": true}

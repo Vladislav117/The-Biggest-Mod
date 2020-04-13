@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wety battery", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "wety", "amount": 14}, {"item": "jayi", "amount": 16}, {"item": "gayika", "amount": 8}], "research": "wety-factory", "consumes": {"powerBuffered": 1882}, "category": "power"}

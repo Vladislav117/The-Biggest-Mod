@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "piqo liquid tank", "description": "...", "health": 345, "size": 3, "requirements": [{"item": "piqo", "amount": 13}, {"item": "pupe", "amount": 4}, {"item": "lewana", "amount": 2}], "research": "piqo-conduit", "category": "liquid", "liquidCapacity": 65074, "hasLiquids": true}

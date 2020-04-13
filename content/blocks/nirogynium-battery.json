@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nirogynium battery", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "nirogynium", "amount": 2}, {"item": "jicefu", "amount": 9}, {"item": "cuba", "amount": 2}], "research": "nirogynium-factory", "consumes": {"powerBuffered": 9348}, "category": "power"}

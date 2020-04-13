@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bexo inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "bexo", "amount": 5}, {"item": "yeku", "amount": 4}], "research": "bexo-conveyor", "category": "distribution", "invert": true}

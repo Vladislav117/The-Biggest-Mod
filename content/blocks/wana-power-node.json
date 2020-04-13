@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wana power node", "description": "...", "size": 2, "health": 674, "requirements": [{"item": "wana", "amount": 2}, {"item": "zivo", "amount": 12}, {"item": "silicon", "amount": 2}], "research": "wana-factory", "maxNodes": 24, "laserRange": 25, "category": "power"}

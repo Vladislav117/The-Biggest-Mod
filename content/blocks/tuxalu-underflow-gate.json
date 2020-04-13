@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tuxalu underflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "tuxalu", "amount": 1}, {"item": "cimafinium", "amount": 1}], "research": "tuxalu-conveyor", "category": "distribution", "invert": false}

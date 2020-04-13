@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small naqade power node", "description": "...", "size": 1, "health": 268, "requirements": [{"item": "naqade", "amount": 2}, {"item": "gago", "amount": 11}, {"item": "qiqe", "amount": 10}], "research": "naqade-factory", "maxNodes": 20, "laserRange": 21, "category": "power"}

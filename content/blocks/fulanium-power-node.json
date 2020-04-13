@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fulanium power node", "description": "...", "size": 2, "health": 334, "requirements": [{"item": "fulanium", "amount": 8}, {"item": "qeje", "amount": 2}, {"item": "ruqe", "amount": 9}], "research": "fulanium-factory", "maxNodes": 40, "laserRange": 17, "category": "power"}

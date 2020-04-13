@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kekipa drill", "description": "...", "size": 2, "health": 256, "tier": 2, "drillTime": 14, "consumes": {"power": 14}, "requirements": [{"item": "kekipa", "amount": 17}, {"item": "dipyfonium", "amount": 12}, {"item": "giyiya", "amount": 9}], "research": "kekipa-factory", "category": "production"}

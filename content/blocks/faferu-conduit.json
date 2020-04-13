@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "faferu conduit", "description": "...", "health": 56, "requirements": [{"item": "faferu", "amount": 12}, {"item": "povo", "amount": 1}, {"item": "foze", "amount": 6}], "liquidCapacity": 24, "liquidPressure": 3, "research": "faferu-factory", "category": "liquid"}

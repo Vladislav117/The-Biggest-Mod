@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hetuxo power node", "description": "...", "size": 2, "health": 233, "requirements": [{"item": "hetuxo", "amount": 13}, {"item": "vayy", "amount": 11}, {"item": "koci", "amount": 3}], "research": "hetuxo-factory", "maxNodes": 34, "laserRange": 19, "category": "power"}

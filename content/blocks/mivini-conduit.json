@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mivini conduit", "description": "...", "health": 150, "requirements": [{"item": "mivini", "amount": 9}, {"item": "gyporu", "amount": 6}, {"item": "jalenium", "amount": 7}], "liquidCapacity": 48, "liquidPressure": 9, "research": "mivini-factory", "category": "liquid"}

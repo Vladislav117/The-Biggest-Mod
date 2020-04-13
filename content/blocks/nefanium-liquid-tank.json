@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nefanium liquid tank", "description": "...", "health": 310, "size": 3, "requirements": [{"item": "nefanium", "amount": 1}, {"item": "kyfe", "amount": 4}, {"item": "cabyzo", "amount": 1}], "research": "nefanium-conduit", "category": "liquid", "liquidCapacity": 25325, "hasLiquids": true}

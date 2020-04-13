@@ -1,0 +1,1 @@
+{"type": "battery", "name": "riwinium battery", "description": "...", "size": 3, "health": 231, "requirements": [{"item": "riwinium", "amount": 13}, {"item": "cizyqe", "amount": 14}, {"item": "cezizunium", "amount": 10}], "research": "riwinium-factory", "consumes": {"powerBuffered": 9261}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qaxi battery", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "qaxi", "amount": 2}, {"item": "vulu", "amount": 16}, {"item": "pejavy", "amount": 4}], "research": "qaxi-factory", "consumes": {"powerBuffered": 561}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zokoya power node", "description": "...", "size": 2, "health": 140, "requirements": [{"item": "zokoya", "amount": 7}, {"item": "ravyku", "amount": 16}, {"item": "duwo", "amount": 4}], "research": "zokoya-factory", "maxNodes": 54, "laserRange": 18, "category": "power"}

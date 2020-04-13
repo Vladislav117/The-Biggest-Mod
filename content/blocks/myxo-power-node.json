@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "myxo power node", "description": "...", "size": 2, "health": 511, "requirements": [{"item": "myxo", "amount": 15}, {"item": "qyhi", "amount": 1}, {"item": "hihunium", "amount": 3}], "research": "myxo-factory", "maxNodes": 34, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuvino liquid tank", "description": "...", "health": 278, "size": 3, "requirements": [{"item": "cuvino", "amount": 4}, {"item": "xeye", "amount": 15}, {"item": "fygunium", "amount": 4}], "research": "cuvino-conduit", "category": "liquid", "liquidCapacity": 77843, "hasLiquids": true}

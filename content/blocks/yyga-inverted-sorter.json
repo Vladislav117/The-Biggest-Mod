@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yyga inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "yyga", "amount": 4}, {"item": "walinium", "amount": 1}], "research": "yyga-conveyor", "category": "distribution", "invert": true}

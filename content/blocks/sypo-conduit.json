@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sypo conduit", "description": "...", "health": 198, "requirements": [{"item": "sypo", "amount": 15}, {"item": "qepyvonium", "amount": 5}, {"item": "vega", "amount": 2}], "liquidCapacity": 16, "liquidPressure": 8, "research": "sypo-factory", "category": "liquid"}

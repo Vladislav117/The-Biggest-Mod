@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kekipa battery", "description": "...", "size": 3, "health": 151, "requirements": [{"item": "kekipa", "amount": 12}, {"item": "vove", "amount": 17}, {"item": "xidunium", "amount": 5}], "research": "kekipa-factory", "consumes": {"powerBuffered": 6036}, "category": "power"}

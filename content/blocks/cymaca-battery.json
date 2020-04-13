@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cymaca battery", "description": "...", "size": 3, "health": 69, "requirements": [{"item": "cymaca", "amount": 5}, {"item": "kavequ", "amount": 15}, {"item": "hymonium", "amount": 2}], "research": "cymaca-factory", "consumes": {"powerBuffered": 2583}, "category": "power"}

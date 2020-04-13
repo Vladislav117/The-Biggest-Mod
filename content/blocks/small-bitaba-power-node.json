@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bitaba power node", "description": "...", "size": 1, "health": 323, "requirements": [{"item": "bitaba", "amount": 6}, {"item": "vayera", "amount": 11}, {"item": "pibu", "amount": 2}], "research": "bitaba-factory", "maxNodes": 2, "laserRange": 4, "category": "power"}

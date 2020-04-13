@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tivy junction", "description": "...", "health": 28, "speed": 9, "capacity": 17, "size": 1, "requirements": [{"item": "tivy", "amount": 2}, {"item": "layi", "amount": 4}], "research": "tivy-conveyor", "category": "distribution"}

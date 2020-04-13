@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qicuwe solar panel", "description": "...", "size": 1, "health": 289, "requirements": [{"item": "qicuwe", "amount": 8}, {"item": "cyyenium", "amount": 1}, {"item": "galy", "amount": 6}], "research": "qicuwe-factory", "powerProduction": 0.24336063353892942, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "geco inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "geco", "amount": 1}, {"item": "ciyo", "amount": 4}], "research": "geco-conveyor", "category": "distribution", "invert": true}

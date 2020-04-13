@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kurecanium underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "kurecanium", "amount": 5}, {"item": "bywazy", "amount": 3}], "research": "kurecanium-conveyor", "category": "distribution", "invert": false}

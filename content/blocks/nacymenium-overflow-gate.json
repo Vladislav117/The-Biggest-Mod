@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nacymenium overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "nacymenium", "amount": 5}, {"item": "rajela", "amount": 1}], "research": "nacymenium-conveyor", "category": "distribution", "invert": false}

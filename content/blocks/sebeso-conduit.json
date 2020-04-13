@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sebeso conduit", "description": "...", "health": 146, "requirements": [{"item": "sebeso", "amount": 5}, {"item": "cobunium", "amount": 17}, {"item": "donysenium", "amount": 1}], "liquidCapacity": 34, "liquidPressure": 0, "research": "sebeso-factory", "category": "liquid"}

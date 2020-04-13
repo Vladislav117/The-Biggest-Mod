@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyhahu liquid tank", "description": "...", "health": 310, "size": 3, "requirements": [{"item": "fyhahu", "amount": 16}, {"item": "faruna", "amount": 2}, {"item": "fadakynium", "amount": 8}], "research": "fyhahu-conduit", "category": "liquid", "liquidCapacity": 57204, "hasLiquids": true}

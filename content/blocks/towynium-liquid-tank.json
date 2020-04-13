@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "towynium liquid tank", "description": "...", "health": 314, "size": 3, "requirements": [{"item": "towynium", "amount": 12}, {"item": "botynium", "amount": 9}, {"item": "gonehy", "amount": 10}], "research": "towynium-conduit", "category": "liquid", "liquidCapacity": 70729, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tehepy sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "tehepy", "amount": 5}, {"item": "pyto", "amount": 5}], "research": "tehepy-conveyor", "category": "distribution", "invert": false}

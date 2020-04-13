@@ -1,0 +1,1 @@
+{"type": "battery", "name": "giza battery", "description": "...", "size": 3, "health": 341, "requirements": [{"item": "giza", "amount": 17}, {"item": "xige", "amount": 1}, {"item": "vevudinium", "amount": 8}], "research": "giza-factory", "consumes": {"powerBuffered": 3012}, "category": "power"}

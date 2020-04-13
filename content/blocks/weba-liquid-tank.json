@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "weba liquid tank", "description": "...", "health": 449, "size": 3, "requirements": [{"item": "weba", "amount": 19}, {"item": "mudo", "amount": 14}, {"item": "wuwo", "amount": 4}], "research": "weba-conduit", "category": "liquid", "liquidCapacity": 26641, "hasLiquids": true}

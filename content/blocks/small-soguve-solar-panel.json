@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small soguve solar panel", "description": "...", "size": 1, "health": 269, "requirements": [{"item": "soguve", "amount": 20}, {"item": "tyjy", "amount": 20}, {"item": "vabeda", "amount": 5}], "research": "soguve-factory", "powerProduction": 6.173427880795763, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sufeca drill", "description": "...", "size": 2, "health": 260, "tier": 2, "drillTime": 8, "consumes": {"power": 6}, "requirements": [{"item": "sufeca", "amount": 17}, {"item": "kudohi", "amount": 12}, {"item": "hiwe", "amount": 9}], "research": "sufeca-factory", "category": "production"}

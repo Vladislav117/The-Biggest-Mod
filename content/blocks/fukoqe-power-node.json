@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fukoqe power node", "description": "...", "size": 2, "health": 289, "requirements": [{"item": "fukoqe", "amount": 20}, {"item": "ranoxinium", "amount": 7}, {"item": "cosa", "amount": 4}], "research": "fukoqe-factory", "maxNodes": 23, "laserRange": 16, "category": "power"}

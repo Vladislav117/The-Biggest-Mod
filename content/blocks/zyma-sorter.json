@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zyma sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "zyma", "amount": 5}, {"item": "towyti", "amount": 3}], "research": "zyma-conveyor", "category": "distribution", "invert": false}

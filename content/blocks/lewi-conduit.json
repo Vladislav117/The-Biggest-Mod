@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lewi conduit", "description": "...", "health": 77, "requirements": [{"item": "lewi", "amount": 2}, {"item": "qoki", "amount": 6}, {"item": "dalire", "amount": 5}], "liquidCapacity": 3, "liquidPressure": 9, "research": "lewi-factory", "category": "liquid"}

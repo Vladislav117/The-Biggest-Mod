@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rihonium solar panel", "description": "...", "size": 3, "health": 330, "requirements": [{"item": "rihonium", "amount": 9}, {"item": "jyka", "amount": 4}, {"item": "vayy", "amount": 1}], "research": "rihonium-factory", "powerProduction": 0.7664932315443875, "category": "power"}

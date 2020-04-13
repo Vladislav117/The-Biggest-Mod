@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "datijenium overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "datijenium", "amount": 5}, {"item": "kufi", "amount": 5}], "research": "datijenium-conveyor", "category": "distribution", "invert": false}

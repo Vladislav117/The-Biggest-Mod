@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vawybo battery", "description": "...", "size": 1, "health": 207, "requirements": [{"item": "vawybo", "amount": 4}, {"item": "terepy", "amount": 6}, {"item": "luluti", "amount": 4}], "research": "vawybo-factory", "consumes": {"powerBuffered": 2391}, "category": "power"}

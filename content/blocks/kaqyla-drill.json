@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kaqyla drill", "description": "...", "size": 2, "health": 386, "tier": 4, "drillTime": 20, "consumes": {"power": 12}, "requirements": [{"item": "kaqyla", "amount": 16}, {"item": "kyle", "amount": 18}, {"item": "betesa", "amount": 3}], "research": "kaqyla-factory", "category": "production"}

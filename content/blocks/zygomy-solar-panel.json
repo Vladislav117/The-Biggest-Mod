@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zygomy solar panel", "description": "...", "size": 3, "health": 272, "requirements": [{"item": "zygomy", "amount": 15}, {"item": "jygery", "amount": 4}, {"item": "pyce", "amount": 1}], "research": "zygomy-factory", "powerProduction": 0.7881739067034352, "category": "power"}

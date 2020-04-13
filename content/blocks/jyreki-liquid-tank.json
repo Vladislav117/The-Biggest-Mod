@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jyreki liquid tank", "description": "...", "health": 378, "size": 3, "requirements": [{"item": "jyreki", "amount": 18}, {"item": "wabaru", "amount": 14}, {"item": "vodehonium", "amount": 9}], "research": "jyreki-conduit", "category": "liquid", "liquidCapacity": 97305, "hasLiquids": true}

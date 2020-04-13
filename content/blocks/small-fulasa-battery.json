@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fulasa battery", "description": "...", "size": 1, "health": 173, "requirements": [{"item": "fulasa", "amount": 19}, {"item": "tivy", "amount": 4}, {"item": "xinodunium", "amount": 10}], "research": "fulasa-factory", "consumes": {"powerBuffered": 2388}, "category": "power"}

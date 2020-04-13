@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "marici liquid tank", "description": "...", "health": 223, "size": 3, "requirements": [{"item": "marici", "amount": 20}, {"item": "dyqasy", "amount": 7}, {"item": "lebu", "amount": 9}], "research": "marici-conduit", "category": "liquid", "liquidCapacity": 35555, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mepunium drill", "description": "...", "size": 2, "health": 148, "tier": 1, "drillTime": 10, "consumes": {"power": 14}, "requirements": [{"item": "mepunium", "amount": 13}, {"item": "viqamo", "amount": 4}, {"item": "mufosinium", "amount": 7}], "research": "mepunium-factory", "category": "production"}

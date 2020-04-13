@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small babiqynium solar panel", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "babiqynium", "amount": 4}, {"item": "vapa", "amount": 5}, {"item": "lehanium", "amount": 10}], "research": "babiqynium-factory", "powerProduction": 1.9112283858534738, "category": "power"}

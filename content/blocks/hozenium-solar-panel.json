@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hozenium solar panel", "description": "...", "size": 3, "health": 213, "requirements": [{"item": "hozenium", "amount": 8}, {"item": "gogajy", "amount": 5}, {"item": "xutire", "amount": 1}], "research": "hozenium-factory", "powerProduction": 0.09736747228625482, "category": "power"}

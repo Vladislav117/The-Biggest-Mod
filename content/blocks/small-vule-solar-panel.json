@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vule solar panel", "description": "...", "size": 1, "health": 251, "requirements": [{"item": "vule", "amount": 4}, {"item": "ryzyzi", "amount": 11}, {"item": "qiso", "amount": 4}], "research": "vule-factory", "powerProduction": 0.05234950014666843, "category": "power"}

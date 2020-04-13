@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dedaka junction", "description": "...", "health": 12, "speed": 9, "capacity": 7, "size": 1, "requirements": [{"item": "dedaka", "amount": 1}, {"item": "wutize", "amount": 3}], "research": "dedaka-conveyor", "category": "distribution"}

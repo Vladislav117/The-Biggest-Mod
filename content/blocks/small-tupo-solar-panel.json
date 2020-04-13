@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tupo solar panel", "description": "...", "size": 1, "health": 102, "requirements": [{"item": "tupo", "amount": 10}, {"item": "yalaka", "amount": 18}, {"item": "genane", "amount": 2}], "research": "tupo-factory", "powerProduction": 1.363720846869867, "category": "power"}

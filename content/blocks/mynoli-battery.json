@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mynoli battery", "description": "...", "size": 3, "health": 93, "requirements": [{"item": "mynoli", "amount": 15}, {"item": "gineta", "amount": 8}, {"item": "nytina", "amount": 5}], "research": "mynoli-factory", "consumes": {"powerBuffered": 1739}, "category": "power"}

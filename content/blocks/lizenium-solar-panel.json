@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lizenium solar panel", "description": "...", "size": 3, "health": 306, "requirements": [{"item": "lizenium", "amount": 14}, {"item": "puri", "amount": 1}, {"item": "kelyqi", "amount": 1}], "research": "lizenium-factory", "powerProduction": 0.2192694624886103, "category": "power"}

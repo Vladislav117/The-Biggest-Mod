@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "syxy bridge conveyor", "description": "", "health": 44, "range": 9, "speed": 1, "bufferCapacity": 18, "requirements": [{"item": "syxy", "amount": 4}, {"item": "daye", "amount": 5}], "research": "syxy-conveyor", "category": "distribution", "size": 1}

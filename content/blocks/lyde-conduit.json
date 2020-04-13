@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lyde conduit", "description": "...", "health": 75, "requirements": [{"item": "lyde", "amount": 17}, {"item": "jadu", "amount": 12}, {"item": "goku", "amount": 9}], "liquidCapacity": 41, "liquidPressure": 7, "research": "lyde-factory", "category": "liquid"}

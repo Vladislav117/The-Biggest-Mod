@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "zivo conveyor", "description": "...", "health": 50, "requirements": [{"item": "zivo", "amount": 10}, {"item": "copper", "amount": 4}], "speed": 0.41896779495454556, "research": "zivo-factory", "category": "distribution"}

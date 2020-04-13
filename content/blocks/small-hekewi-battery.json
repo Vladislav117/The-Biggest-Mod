@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hekewi battery", "description": "...", "size": 1, "health": 368, "requirements": [{"item": "hekewi", "amount": 3}, {"item": "piyovy", "amount": 8}, {"item": "wywonium", "amount": 4}], "research": "hekewi-factory", "consumes": {"powerBuffered": 2024}, "category": "power"}

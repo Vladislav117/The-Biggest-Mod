@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bukiqenium underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "bukiqenium", "amount": 2}, {"item": "nytu", "amount": 1}], "research": "bukiqenium-conveyor", "category": "distribution", "invert": false}

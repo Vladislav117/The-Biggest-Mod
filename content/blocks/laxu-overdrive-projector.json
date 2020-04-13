@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "laxu overdrive projector", "description": "...", "health": 85, "consumes": {"power": 3.0, "item": "laxu"}, "size": 2, "requirements": [{"item": "laxu", "amount": 18}, {"item": "seca", "amount": 9}, {"item": "movanium", "amount": 6}], "research": "laxu-factory", "category": "effect"}

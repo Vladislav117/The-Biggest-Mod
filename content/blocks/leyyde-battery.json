@@ -1,0 +1,1 @@
+{"type": "battery", "name": "leyyde battery", "description": "...", "size": 3, "health": 123, "requirements": [{"item": "leyyde", "amount": 14}, {"item": "cifo", "amount": 12}, {"item": "pezale", "amount": 10}], "research": "leyyde-factory", "consumes": {"powerBuffered": 5522}, "category": "power"}

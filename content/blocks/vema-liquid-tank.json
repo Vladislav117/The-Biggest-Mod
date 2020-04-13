@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vema liquid tank", "description": "...", "health": 598, "size": 3, "requirements": [{"item": "vema", "amount": 8}, {"item": "jytubinium", "amount": 16}, {"item": "fusaji", "amount": 7}], "research": "vema-conduit", "category": "liquid", "liquidCapacity": 19486, "hasLiquids": true}

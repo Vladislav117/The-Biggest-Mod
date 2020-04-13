@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sary inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "sary", "amount": 4}, {"item": "vole", "amount": 5}], "research": "sary-conveyor", "category": "distribution", "invert": true}

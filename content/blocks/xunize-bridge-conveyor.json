@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xunize bridge conveyor", "description": "", "health": 20, "range": 4, "speed": 3, "bufferCapacity": 1, "requirements": [{"item": "xunize", "amount": 4}, {"item": "lypoje", "amount": 3}], "research": "xunize-conveyor", "category": "distribution", "size": 1}

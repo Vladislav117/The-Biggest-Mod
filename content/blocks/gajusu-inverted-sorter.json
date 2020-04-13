@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gajusu inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "gajusu", "amount": 3}, {"item": "vytuxe", "amount": 4}], "research": "gajusu-conveyor", "category": "distribution", "invert": true}

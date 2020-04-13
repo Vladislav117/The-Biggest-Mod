@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dyri liquid tank", "description": "...", "health": 197, "size": 3, "requirements": [{"item": "dyri", "amount": 11}, {"item": "bebexu", "amount": 2}, {"item": "qysacy", "amount": 8}], "research": "dyri-conduit", "category": "liquid", "liquidCapacity": 27358, "hasLiquids": true}

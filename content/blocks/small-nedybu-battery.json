@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nedybu battery", "description": "...", "size": 1, "health": 134, "requirements": [{"item": "nedybu", "amount": 14}, {"item": "tebi", "amount": 17}, {"item": "yoxuxe", "amount": 10}], "research": "nedybu-factory", "consumes": {"powerBuffered": 1515}, "category": "power"}

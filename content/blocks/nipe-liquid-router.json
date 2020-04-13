@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nipe liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "nipe", "amount": 16}, {"item": "zibe", "amount": 16}, {"item": "quvojo", "amount": 2}], "research": "nipe-conduit", "liquidCapacity": 10, "category": "liquid"}

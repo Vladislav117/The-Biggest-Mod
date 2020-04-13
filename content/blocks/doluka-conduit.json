@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "doluka conduit", "description": "...", "health": 25, "requirements": [{"item": "doluka", "amount": 6}, {"item": "zereka", "amount": 11}, {"item": "savi", "amount": 4}], "liquidCapacity": 49, "liquidPressure": 6, "research": "doluka-factory", "category": "liquid"}

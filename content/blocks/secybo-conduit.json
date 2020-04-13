@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "secybo conduit", "description": "...", "health": 135, "requirements": [{"item": "secybo", "amount": 9}, {"item": "xevenium", "amount": 6}, {"item": "gujybo", "amount": 6}], "liquidCapacity": 39, "liquidPressure": 5, "research": "secybo-factory", "category": "liquid"}

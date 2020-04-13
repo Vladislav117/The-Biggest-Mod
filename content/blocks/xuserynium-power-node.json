@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xuserynium power node", "description": "...", "size": 2, "health": 706, "requirements": [{"item": "xuserynium", "amount": 6}, {"item": "wyfanium", "amount": 1}, {"item": "vilyco", "amount": 2}], "research": "xuserynium-factory", "maxNodes": 20, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "goti battery", "description": "...", "size": 3, "health": 97, "requirements": [{"item": "goti", "amount": 16}, {"item": "rateju", "amount": 7}, {"item": "zesaqy", "amount": 2}], "research": "goti-factory", "consumes": {"powerBuffered": 726}, "category": "power"}

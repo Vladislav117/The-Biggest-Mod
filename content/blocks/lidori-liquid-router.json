@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lidori liquid router", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "lidori", "amount": 1}, {"item": "syro", "amount": 20}, {"item": "qylino", "amount": 4}], "research": "lidori-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dega liquid tank", "description": "...", "health": 590, "size": 3, "requirements": [{"item": "dega", "amount": 9}, {"item": "rutylo", "amount": 15}, {"item": "naho", "amount": 10}], "research": "dega-conduit", "category": "liquid", "liquidCapacity": 93433, "hasLiquids": true}

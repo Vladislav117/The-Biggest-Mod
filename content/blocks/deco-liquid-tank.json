@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "deco liquid tank", "description": "...", "health": 553, "size": 3, "requirements": [{"item": "deco", "amount": 5}, {"item": "graphite", "amount": 2}, {"item": "mabyce", "amount": 2}], "research": "deco-conduit", "category": "liquid", "liquidCapacity": 73682, "hasLiquids": true}

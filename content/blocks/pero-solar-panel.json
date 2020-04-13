@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pero solar panel", "description": "...", "size": 3, "health": 317, "requirements": [{"item": "pero", "amount": 4}, {"item": "byhonium", "amount": 19}, {"item": "metaglass", "amount": 4}], "research": "pero-factory", "powerProduction": 1.3253153666026298, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vitifi power node", "description": "...", "size": 2, "health": 139, "requirements": [{"item": "vitifi", "amount": 16}, {"item": "jexanium", "amount": 9}, {"item": "wareginium", "amount": 9}], "research": "vitifi-factory", "maxNodes": 38, "laserRange": 24, "category": "power"}

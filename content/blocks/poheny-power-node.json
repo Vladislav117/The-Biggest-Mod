@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "poheny power node", "description": "...", "size": 2, "health": 530, "requirements": [{"item": "poheny", "amount": 14}, {"item": "covikinium", "amount": 17}, {"item": "lynulo", "amount": 8}], "research": "poheny-factory", "maxNodes": 14, "laserRange": 22, "category": "power"}

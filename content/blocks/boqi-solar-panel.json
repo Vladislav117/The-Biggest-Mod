@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "boqi solar panel", "description": "...", "size": 3, "health": 336, "requirements": [{"item": "boqi", "amount": 8}, {"item": "mygo", "amount": 16}, {"item": "mehenium", "amount": 7}], "research": "boqi-factory", "powerProduction": 0.28444555406145833, "category": "power"}

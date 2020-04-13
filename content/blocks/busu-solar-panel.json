@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "busu solar panel", "description": "...", "size": 3, "health": 242, "requirements": [{"item": "busu", "amount": 1}, {"item": "qivi", "amount": 14}, {"item": "jasuly", "amount": 9}], "research": "busu-factory", "powerProduction": 0.1948328936996074, "category": "power"}

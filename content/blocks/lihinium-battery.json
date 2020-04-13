@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lihinium battery", "description": "...", "size": 3, "health": 219, "requirements": [{"item": "lihinium", "amount": 1}, {"item": "wasu", "amount": 1}, {"item": "liba", "amount": 6}], "research": "lihinium-factory", "consumes": {"powerBuffered": 8104}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dagohe power node", "description": "...", "size": 2, "health": 165, "requirements": [{"item": "dagohe", "amount": 14}, {"item": "lalubo", "amount": 2}, {"item": "zilanium", "amount": 1}], "research": "dagohe-factory", "maxNodes": 49, "laserRange": 24, "category": "power"}

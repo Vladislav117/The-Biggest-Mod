@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zadajo bridge conveyor", "description": "", "health": 35, "range": 6, "speed": 3, "bufferCapacity": 16, "requirements": [{"item": "zadajo", "amount": 2}, {"item": "wuvyci", "amount": 5}], "research": "zadajo-conveyor", "category": "distribution", "size": 1}

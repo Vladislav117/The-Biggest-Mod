@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "naziha bridge conveyor", "description": "", "health": 47, "range": 14, "speed": 12, "bufferCapacity": 9, "requirements": [{"item": "naziha", "amount": 4}, {"item": "becugi", "amount": 3}], "research": "naziha-conveyor", "category": "distribution", "size": 1}

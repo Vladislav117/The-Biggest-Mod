@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "peze solar panel", "description": "...", "size": 3, "health": 205, "requirements": [{"item": "peze", "amount": 10}, {"item": "zucanium", "amount": 13}, {"item": "vove", "amount": 4}], "research": "peze-factory", "powerProduction": 0.16763193427588946, "category": "power"}

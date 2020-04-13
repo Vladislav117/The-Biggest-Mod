@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cozaxo liquid tank", "description": "...", "health": 305, "size": 3, "requirements": [{"item": "cozaxo", "amount": 15}, {"item": "jihu", "amount": 15}, {"item": "muby", "amount": 2}], "research": "cozaxo-conduit", "category": "liquid", "liquidCapacity": 62870, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pijito liquid tank", "description": "...", "health": 503, "size": 3, "requirements": [{"item": "pijito", "amount": 1}, {"item": "direme", "amount": 20}, {"item": "xikogo", "amount": 3}], "research": "pijito-conduit", "category": "liquid", "liquidCapacity": 38612, "hasLiquids": true}

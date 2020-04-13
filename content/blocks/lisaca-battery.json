@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lisaca battery", "description": "...", "size": 3, "health": 353, "requirements": [{"item": "lisaca", "amount": 3}, {"item": "kurecanium", "amount": 17}, {"item": "zuzequ", "amount": 4}], "research": "lisaca-factory", "consumes": {"powerBuffered": 4714}, "category": "power"}

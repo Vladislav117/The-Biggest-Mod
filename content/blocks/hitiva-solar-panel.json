@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hitiva solar panel", "description": "...", "size": 3, "health": 258, "requirements": [{"item": "hitiva", "amount": 10}, {"item": "nikoru", "amount": 9}, {"item": "mivoky", "amount": 5}], "research": "hitiva-factory", "powerProduction": 2.3512526633989386, "category": "power"}

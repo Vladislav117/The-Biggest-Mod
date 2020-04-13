@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mironium bridge conveyor", "description": "", "health": 21, "range": 17, "speed": 1, "bufferCapacity": 17, "requirements": [{"item": "mironium", "amount": 1}, {"item": "cyxibe", "amount": 2}], "research": "mironium-conveyor", "category": "distribution", "size": 1}

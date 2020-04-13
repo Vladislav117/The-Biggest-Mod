@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "giyaju underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "giyaju", "amount": 1}, {"item": "xinodunium", "amount": 5}], "research": "giyaju-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kefy battery", "description": "...", "size": 1, "health": 111, "requirements": [{"item": "kefy", "amount": 12}, {"item": "qudy", "amount": 1}, {"item": "byhonium", "amount": 10}], "research": "kefy-factory", "consumes": {"powerBuffered": 722}, "category": "power"}

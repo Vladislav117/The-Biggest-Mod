@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hezinium liquid router", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "hezinium", "amount": 10}, {"item": "fupymi", "amount": 20}, {"item": "holipu", "amount": 5}], "research": "hezinium-conduit", "liquidCapacity": 10, "category": "liquid"}

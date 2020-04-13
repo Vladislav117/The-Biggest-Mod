@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qiposa bridge conveyor", "description": "", "health": 28, "range": 4, "speed": 1, "bufferCapacity": 10, "requirements": [{"item": "qiposa", "amount": 1}, {"item": "tuzy", "amount": 2}], "research": "qiposa-conveyor", "category": "distribution", "size": 1}

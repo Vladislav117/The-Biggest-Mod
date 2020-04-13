@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lepe conduit", "description": "...", "health": 65, "requirements": [{"item": "lepe", "amount": 16}, {"item": "besu", "amount": 9}, {"item": "gotomy", "amount": 6}], "liquidCapacity": 3, "liquidPressure": 6, "research": "lepe-factory", "category": "liquid"}

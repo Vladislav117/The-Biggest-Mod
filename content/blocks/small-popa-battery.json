@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small popa battery", "description": "...", "size": 1, "health": 305, "requirements": [{"item": "popa", "amount": 9}, {"item": "hakenium", "amount": 19}, {"item": "yonegi", "amount": 5}], "research": "popa-factory", "consumes": {"powerBuffered": 2424}, "category": "power"}

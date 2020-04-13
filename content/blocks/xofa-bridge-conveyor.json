@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xofa bridge conveyor", "description": "", "health": 20, "range": 3, "speed": 3, "bufferCapacity": 4, "requirements": [{"item": "xofa", "amount": 3}, {"item": "vevevi", "amount": 2}], "research": "xofa-conveyor", "category": "distribution", "size": 1}

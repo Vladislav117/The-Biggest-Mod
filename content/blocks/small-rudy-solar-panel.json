@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rudy solar panel", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "rudy", "amount": 19}, {"item": "yydy", "amount": 10}, {"item": "tewo", "amount": 6}], "research": "rudy-factory", "powerProduction": 2.7679937634945833, "category": "power"}

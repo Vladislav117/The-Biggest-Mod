@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "temaso conduit", "description": "...", "health": 158, "requirements": [{"item": "temaso", "amount": 3}, {"item": "pazy", "amount": 10}, {"item": "xoteyi", "amount": 6}], "liquidCapacity": 50, "liquidPressure": 2, "research": "temaso-factory", "category": "liquid"}

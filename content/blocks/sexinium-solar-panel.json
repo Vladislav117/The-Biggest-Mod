@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sexinium solar panel", "description": "...", "size": 3, "health": 288, "requirements": [{"item": "sexinium", "amount": 12}, {"item": "xutire", "amount": 1}, {"item": "xynice", "amount": 9}], "research": "sexinium-factory", "powerProduction": 0.20667736386839683, "category": "power"}

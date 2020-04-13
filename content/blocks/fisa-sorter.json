@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fisa sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "fisa", "amount": 3}, {"item": "miqomy", "amount": 1}], "research": "fisa-conveyor", "category": "distribution", "invert": false}

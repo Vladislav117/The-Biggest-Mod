@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qepu conduit", "description": "...", "health": 183, "requirements": [{"item": "qepu", "amount": 11}, {"item": "fayenium", "amount": 7}, {"item": "jepeli", "amount": 9}], "liquidCapacity": 38, "liquidPressure": 8, "research": "qepu-factory", "category": "liquid"}

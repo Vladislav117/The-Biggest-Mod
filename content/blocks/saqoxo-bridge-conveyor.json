@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "saqoxo bridge conveyor", "description": "", "health": 44, "range": 15, "speed": 1, "bufferCapacity": 1, "requirements": [{"item": "saqoxo", "amount": 2}, {"item": "xujo", "amount": 5}], "research": "saqoxo-conveyor", "category": "distribution", "size": 1}

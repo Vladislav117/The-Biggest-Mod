@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vyjoti battery", "description": "...", "size": 3, "health": 84, "requirements": [{"item": "vyjoti", "amount": 4}, {"item": "jewa", "amount": 12}, {"item": "joky", "amount": 4}], "research": "vyjoti-factory", "consumes": {"powerBuffered": 8949}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "latycu inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "latycu", "amount": 3}, {"item": "xyyira", "amount": 5}], "research": "latycu-conveyor", "category": "distribution", "invert": true}

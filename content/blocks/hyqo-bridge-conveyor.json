@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hyqo bridge conveyor", "description": "", "health": 43, "range": 12, "speed": 19, "bufferCapacity": 4, "requirements": [{"item": "hyqo", "amount": 4}, {"item": "kujayonium", "amount": 2}], "research": "hyqo-conveyor", "category": "distribution", "size": 1}

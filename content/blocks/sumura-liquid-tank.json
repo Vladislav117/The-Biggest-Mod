@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sumura liquid tank", "description": "...", "health": 244, "size": 3, "requirements": [{"item": "sumura", "amount": 16}, {"item": "byqi", "amount": 12}, {"item": "gina", "amount": 10}], "research": "sumura-conduit", "category": "liquid", "liquidCapacity": 118493, "hasLiquids": true}

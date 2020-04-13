@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "neni liquid tank", "description": "...", "health": 648, "size": 3, "requirements": [{"item": "neni", "amount": 10}, {"item": "kefy", "amount": 6}, {"item": "yypefa", "amount": 5}], "research": "neni-conduit", "category": "liquid", "liquidCapacity": 40073, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wapo junction", "description": "...", "health": 15, "speed": 2, "capacity": 16, "size": 1, "requirements": [{"item": "wapo", "amount": 1}, {"item": "nuso", "amount": 3}], "research": "wapo-conveyor", "category": "distribution"}

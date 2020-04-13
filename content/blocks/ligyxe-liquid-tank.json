@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ligyxe liquid tank", "description": "...", "health": 215, "size": 3, "requirements": [{"item": "ligyxe", "amount": 4}, {"item": "mebu", "amount": 13}, {"item": "rajubanium", "amount": 8}], "research": "ligyxe-conduit", "category": "liquid", "liquidCapacity": 26663, "hasLiquids": true}

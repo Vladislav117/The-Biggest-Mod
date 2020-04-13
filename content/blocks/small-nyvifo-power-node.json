@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nyvifo power node", "description": "...", "size": 1, "health": 350, "requirements": [{"item": "nyvifo", "amount": 12}, {"item": "jygery", "amount": 5}, {"item": "pijunynium", "amount": 6}], "research": "nyvifo-factory", "maxNodes": 16, "laserRange": 14, "category": "power"}

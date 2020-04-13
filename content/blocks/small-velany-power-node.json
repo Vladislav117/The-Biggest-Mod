@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small velany power node", "description": "...", "size": 1, "health": 175, "requirements": [{"item": "velany", "amount": 18}, {"item": "hasu", "amount": 1}, {"item": "nejunium", "amount": 10}], "research": "velany-factory", "maxNodes": 4, "laserRange": 14, "category": "power"}

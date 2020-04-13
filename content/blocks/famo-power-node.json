@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "famo power node", "description": "...", "size": 2, "health": 370, "requirements": [{"item": "famo", "amount": 8}, {"item": "miqomy", "amount": 8}, {"item": "poxy", "amount": 4}], "research": "famo-factory", "maxNodes": 36, "laserRange": 16, "category": "power"}

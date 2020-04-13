@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "suyi liquid tank", "description": "...", "health": 513, "size": 3, "requirements": [{"item": "suyi", "amount": 9}, {"item": "dyme", "amount": 15}, {"item": "vayixo", "amount": 1}], "research": "suyi-conduit", "category": "liquid", "liquidCapacity": 112968, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yugy conduit", "description": "...", "health": 126, "requirements": [{"item": "yugy", "amount": 13}, {"item": "begerynium", "amount": 10}, {"item": "dowoca", "amount": 9}], "liquidCapacity": 50, "liquidPressure": 2, "research": "yugy-factory", "category": "liquid"}

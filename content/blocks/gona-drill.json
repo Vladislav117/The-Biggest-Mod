@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gona drill", "description": "...", "size": 2, "health": 286, "tier": 1, "drillTime": 11, "consumes": {"power": 8}, "requirements": [{"item": "gona", "amount": 14}, {"item": "seca", "amount": 19}, {"item": "wiyuho", "amount": 9}], "research": "gona-factory", "category": "production"}

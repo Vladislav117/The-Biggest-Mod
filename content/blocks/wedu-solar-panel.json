@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wedu solar panel", "description": "...", "size": 3, "health": 180, "requirements": [{"item": "wedu", "amount": 6}, {"item": "rutylo", "amount": 10}, {"item": "faba", "amount": 9}], "research": "wedu-factory", "powerProduction": 0.5090629931377988, "category": "power"}

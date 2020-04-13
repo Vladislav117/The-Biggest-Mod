@@ -1,0 +1,1 @@
+{"type": "battery", "name": "veny battery", "description": "...", "size": 3, "health": 43, "requirements": [{"item": "veny", "amount": 1}, {"item": "gide", "amount": 14}, {"item": "yitu", "amount": 10}], "research": "veny-factory", "consumes": {"powerBuffered": 2972}, "category": "power"}

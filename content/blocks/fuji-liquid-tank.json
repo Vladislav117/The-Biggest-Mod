@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fuji liquid tank", "description": "...", "health": 207, "size": 3, "requirements": [{"item": "fuji", "amount": 9}, {"item": "suzu", "amount": 19}, {"item": "kyxiwi", "amount": 4}], "research": "fuji-conduit", "category": "liquid", "liquidCapacity": 23516, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qiditinium battery", "description": "...", "size": 3, "health": 339, "requirements": [{"item": "qiditinium", "amount": 16}, {"item": "lyvukynium", "amount": 1}, {"item": "tohi", "amount": 5}], "research": "qiditinium-factory", "consumes": {"powerBuffered": 7371}, "category": "power"}

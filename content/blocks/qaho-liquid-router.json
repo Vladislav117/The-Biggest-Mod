@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qaho liquid router", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "qaho", "amount": 10}, {"item": "laho", "amount": 6}, {"item": "vego", "amount": 2}], "research": "qaho-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "leju liquid tank", "description": "...", "health": 466, "size": 3, "requirements": [{"item": "leju", "amount": 19}, {"item": "doge", "amount": 18}, {"item": "begerynium", "amount": 8}], "research": "leju-conduit", "category": "liquid", "liquidCapacity": 109754, "hasLiquids": true}

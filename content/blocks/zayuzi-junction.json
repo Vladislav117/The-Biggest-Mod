@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zayuzi junction", "description": "...", "health": 12, "speed": 7, "capacity": 8, "size": 1, "requirements": [{"item": "zayuzi", "amount": 1}, {"item": "kezunium", "amount": 2}], "research": "zayuzi-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tyrolanium junction", "description": "...", "health": 31, "speed": 8, "capacity": 20, "size": 1, "requirements": [{"item": "tyrolanium", "amount": 1}, {"item": "sipynium", "amount": 3}], "research": "tyrolanium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fopuru power node", "description": "...", "size": 2, "health": 439, "requirements": [{"item": "fopuru", "amount": 16}, {"item": "geka", "amount": 10}, {"item": "robyto", "amount": 5}], "research": "fopuru-factory", "maxNodes": 16, "laserRange": 5, "category": "power"}

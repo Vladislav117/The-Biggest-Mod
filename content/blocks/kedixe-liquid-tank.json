@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kedixe liquid tank", "description": "...", "health": 292, "size": 3, "requirements": [{"item": "kedixe", "amount": 14}, {"item": "tobu", "amount": 2}, {"item": "yyno", "amount": 10}], "research": "kedixe-conduit", "category": "liquid", "liquidCapacity": 23855, "hasLiquids": true}

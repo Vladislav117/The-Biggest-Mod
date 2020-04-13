@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vana solar panel", "description": "...", "size": 3, "health": 304, "requirements": [{"item": "vana", "amount": 4}, {"item": "qupu", "amount": 6}, {"item": "tayo", "amount": 1}], "research": "vana-factory", "powerProduction": 2.8405431778185912, "category": "power"}

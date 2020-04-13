@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lywe battery", "description": "...", "size": 3, "health": 248, "requirements": [{"item": "lywe", "amount": 10}, {"item": "cyheki", "amount": 5}, {"item": "hiwe", "amount": 5}], "research": "lywe-factory", "consumes": {"powerBuffered": 8026}, "category": "power"}

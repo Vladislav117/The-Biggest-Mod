@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wofu battery", "description": "...", "size": 3, "health": 131, "requirements": [{"item": "wofu", "amount": 14}, {"item": "bide", "amount": 13}, {"item": "monobu", "amount": 6}], "research": "wofu-factory", "consumes": {"powerBuffered": 5677}, "category": "power"}

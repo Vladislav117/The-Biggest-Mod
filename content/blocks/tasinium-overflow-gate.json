@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tasinium overflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "tasinium", "amount": 5}, {"item": "zeyo", "amount": 1}], "research": "tasinium-conveyor", "category": "distribution", "invert": false}

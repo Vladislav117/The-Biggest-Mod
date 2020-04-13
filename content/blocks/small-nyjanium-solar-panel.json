@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nyjanium solar panel", "description": "...", "size": 1, "health": 109, "requirements": [{"item": "nyjanium", "amount": 2}, {"item": "yanu", "amount": 5}, {"item": "tiwo", "amount": 9}], "research": "nyjanium-factory", "powerProduction": 2.6274040081287335, "category": "power"}

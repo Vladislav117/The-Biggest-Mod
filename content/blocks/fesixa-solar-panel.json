@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fesixa solar panel", "description": "...", "size": 3, "health": 116, "requirements": [{"item": "fesixa", "amount": 10}, {"item": "nytina", "amount": 2}, {"item": "lyzecinium", "amount": 2}], "research": "fesixa-factory", "powerProduction": 1.1858571831738136, "category": "power"}

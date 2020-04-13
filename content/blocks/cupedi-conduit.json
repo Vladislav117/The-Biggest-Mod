@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cupedi conduit", "description": "...", "health": 43, "requirements": [{"item": "cupedi", "amount": 20}, {"item": "viqamo", "amount": 4}, {"item": "vakarinium", "amount": 4}], "liquidCapacity": 23, "liquidPressure": 6, "research": "cupedi-factory", "category": "liquid"}

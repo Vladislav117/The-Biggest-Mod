@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vody inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "vody", "amount": 3}, {"item": "vosenium", "amount": 5}], "research": "vody-conveyor", "category": "distribution", "invert": true}

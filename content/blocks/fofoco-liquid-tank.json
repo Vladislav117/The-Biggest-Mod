@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fofoco liquid tank", "description": "...", "health": 292, "size": 3, "requirements": [{"item": "fofoco", "amount": 17}, {"item": "seca", "amount": 20}, {"item": "vosamo", "amount": 6}], "research": "fofoco-conduit", "category": "liquid", "liquidCapacity": 77809, "hasLiquids": true}

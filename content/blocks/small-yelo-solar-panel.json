@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yelo solar panel", "description": "...", "size": 1, "health": 331, "requirements": [{"item": "yelo", "amount": 20}, {"item": "lunido", "amount": 16}, {"item": "potesonium", "amount": 10}], "research": "yelo-factory", "powerProduction": 3.6671598035010367, "category": "power"}

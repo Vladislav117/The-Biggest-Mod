@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kygarynium underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "kygarynium", "amount": 2}, {"item": "qerobu", "amount": 3}], "research": "kygarynium-conveyor", "category": "distribution", "invert": false}

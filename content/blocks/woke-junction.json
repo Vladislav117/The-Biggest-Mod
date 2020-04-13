@@ -1,0 +1,1 @@
+{"type": "junction", "name": "woke junction", "description": "...", "health": 11, "speed": 16, "capacity": 2, "size": 1, "requirements": [{"item": "woke", "amount": 4}, {"item": "nexacunium", "amount": 2}], "research": "woke-conveyor", "category": "distribution"}

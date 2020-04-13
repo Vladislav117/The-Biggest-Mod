@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kima conduit", "description": "...", "health": 125, "requirements": [{"item": "kima", "amount": 1}, {"item": "liqy", "amount": 3}, {"item": "paboya", "amount": 2}], "liquidCapacity": 21, "liquidPressure": 10, "research": "kima-factory", "category": "liquid"}

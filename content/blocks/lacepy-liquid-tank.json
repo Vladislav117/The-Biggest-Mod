@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lacepy liquid tank", "description": "...", "health": 492, "size": 3, "requirements": [{"item": "lacepy", "amount": 9}, {"item": "fusaji", "amount": 10}, {"item": "nufaye", "amount": 4}], "research": "lacepy-conduit", "category": "liquid", "liquidCapacity": 61140, "hasLiquids": true}

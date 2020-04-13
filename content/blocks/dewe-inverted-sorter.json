@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dewe inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "dewe", "amount": 1}, {"item": "yynylo", "amount": 4}], "research": "dewe-conveyor", "category": "distribution", "invert": true}

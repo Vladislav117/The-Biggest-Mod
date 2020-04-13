@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rixolu conduit", "description": "...", "health": 108, "requirements": [{"item": "rixolu", "amount": 5}, {"item": "wypu", "amount": 6}, {"item": "liba", "amount": 3}], "liquidCapacity": 35, "liquidPressure": 5, "research": "rixolu-factory", "category": "liquid"}

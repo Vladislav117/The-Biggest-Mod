@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pezale solar panel", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "pezale", "amount": 8}, {"item": "nytina", "amount": 13}, {"item": "rehyce", "amount": 6}], "research": "pezale-factory", "powerProduction": 4.326360287211796, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qyfowa drill", "description": "...", "size": 2, "health": 141, "tier": 4, "drillTime": 17, "consumes": {"power": 18}, "requirements": [{"item": "qyfowa", "amount": 10}, {"item": "tetivy", "amount": 12}, {"item": "sarijynium", "amount": 3}], "research": "qyfowa-factory", "category": "production"}

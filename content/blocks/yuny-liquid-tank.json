@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yuny liquid tank", "description": "...", "health": 388, "size": 3, "requirements": [{"item": "yuny", "amount": 8}, {"item": "kype", "amount": 5}, {"item": "vurypo", "amount": 3}], "research": "yuny-conduit", "category": "liquid", "liquidCapacity": 118105, "hasLiquids": true}

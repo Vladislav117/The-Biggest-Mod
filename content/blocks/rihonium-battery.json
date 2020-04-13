@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rihonium battery", "description": "...", "size": 3, "health": 383, "requirements": [{"item": "rihonium", "amount": 7}, {"item": "dara", "amount": 15}, {"item": "lucohi", "amount": 9}], "research": "rihonium-factory", "consumes": {"powerBuffered": 2736}, "category": "power"}

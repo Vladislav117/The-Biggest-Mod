@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gogajy overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "gogajy", "amount": 3}, {"item": "kavequ", "amount": 3}], "research": "gogajy-conveyor", "category": "distribution", "invert": false}

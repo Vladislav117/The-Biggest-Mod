@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xyru junction", "description": "...", "health": 42, "speed": 6, "capacity": 4, "size": 1, "requirements": [{"item": "xyru", "amount": 5}, {"item": "howu", "amount": 4}], "research": "xyru-conveyor", "category": "distribution"}

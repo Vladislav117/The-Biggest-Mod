@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nyry solar panel", "description": "...", "size": 3, "health": 302, "requirements": [{"item": "nyry", "amount": 6}, {"item": "meranium", "amount": 8}, {"item": "yuwo", "amount": 1}], "research": "nyry-factory", "powerProduction": 2.5723998299113573, "category": "power"}

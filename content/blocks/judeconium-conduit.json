@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "judeconium conduit", "description": "...", "health": 30, "requirements": [{"item": "judeconium", "amount": 13}, {"item": "forebu", "amount": 1}, {"item": "kizywanium", "amount": 8}], "liquidCapacity": 49, "liquidPressure": 4, "research": "judeconium-factory", "category": "liquid"}

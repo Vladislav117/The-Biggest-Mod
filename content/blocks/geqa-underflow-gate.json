@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "geqa underflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "geqa", "amount": 1}, {"item": "yypedonium", "amount": 1}], "research": "geqa-conveyor", "category": "distribution", "invert": false}

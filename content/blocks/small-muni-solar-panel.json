@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small muni solar panel", "description": "...", "size": 1, "health": 218, "requirements": [{"item": "muni", "amount": 16}, {"item": "gurale", "amount": 1}, {"item": "focatu", "amount": 10}], "research": "muni-factory", "powerProduction": 7.625700328103698, "category": "power"}

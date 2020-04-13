@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zocumo overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "zocumo", "amount": 4}, {"item": "yupo", "amount": 4}], "research": "zocumo-conveyor", "category": "distribution", "invert": false}

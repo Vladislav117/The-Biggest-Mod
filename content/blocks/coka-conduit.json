@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "coka conduit", "description": "...", "health": 79, "requirements": [{"item": "coka", "amount": 19}, {"item": "zydu", "amount": 6}, {"item": "bufywy", "amount": 3}], "liquidCapacity": 21, "liquidPressure": 6, "research": "coka-factory", "category": "liquid"}

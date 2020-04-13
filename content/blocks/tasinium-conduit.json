@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tasinium conduit", "description": "...", "health": 96, "requirements": [{"item": "tasinium", "amount": 4}, {"item": "zixysinium", "amount": 3}, {"item": "bubu", "amount": 6}], "liquidCapacity": 40, "liquidPressure": 7, "research": "tasinium-factory", "category": "liquid"}

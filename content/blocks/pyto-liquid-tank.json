@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pyto liquid tank", "description": "...", "health": 182, "size": 3, "requirements": [{"item": "pyto", "amount": 6}, {"item": "qimose", "amount": 19}, {"item": "puli", "amount": 8}], "research": "pyto-conduit", "category": "liquid", "liquidCapacity": 14788, "hasLiquids": true}

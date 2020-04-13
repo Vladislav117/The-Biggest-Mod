@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "joku bridge conveyor", "description": "", "health": 38, "range": 13, "speed": 14, "bufferCapacity": 3, "requirements": [{"item": "joku", "amount": 3}, {"item": "vatohunium", "amount": 2}], "research": "joku-conveyor", "category": "distribution", "size": 1}

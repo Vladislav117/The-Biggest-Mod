@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vomo conduit", "description": "...", "health": 163, "requirements": [{"item": "vomo", "amount": 8}, {"item": "tere", "amount": 17}, {"item": "hyvyje", "amount": 7}], "liquidCapacity": 27, "liquidPressure": 7, "research": "vomo-factory", "category": "liquid"}

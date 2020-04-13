@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nivifu underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "nivifu", "amount": 5}, {"item": "mebo", "amount": 3}], "research": "nivifu-conveyor", "category": "distribution", "invert": false}

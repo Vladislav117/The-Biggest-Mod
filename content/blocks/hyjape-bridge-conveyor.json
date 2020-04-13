@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hyjape bridge conveyor", "description": "", "health": 38, "range": 16, "speed": 20, "bufferCapacity": 12, "requirements": [{"item": "hyjape", "amount": 4}, {"item": "nezyno", "amount": 4}], "research": "hyjape-conveyor", "category": "distribution", "size": 1}

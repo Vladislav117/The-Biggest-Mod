@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tuzo solar panel", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "tuzo", "amount": 19}, {"item": "sybo", "amount": 10}, {"item": "jakate", "amount": 10}], "research": "tuzo-factory", "powerProduction": 6.712271688136089, "category": "power"}

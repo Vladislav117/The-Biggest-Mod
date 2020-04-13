@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kokidenium junction", "description": "...", "health": 45, "speed": 19, "capacity": 13, "size": 1, "requirements": [{"item": "kokidenium", "amount": 4}, {"item": "vygu", "amount": 4}], "research": "kokidenium-conveyor", "category": "distribution"}

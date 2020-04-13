@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "liyavu underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "liyavu", "amount": 4}, {"item": "qakynunium", "amount": 1}], "research": "liyavu-conveyor", "category": "distribution", "invert": false}

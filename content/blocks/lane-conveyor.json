@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "lane conveyor", "description": "...", "health": 96, "requirements": [{"item": "lane", "amount": 3}, {"item": "cexulu", "amount": 2}], "speed": 0.3461173002162551, "research": "lane-factory", "category": "distribution"}

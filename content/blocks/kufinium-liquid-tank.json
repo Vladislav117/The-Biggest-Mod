@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kufinium liquid tank", "description": "...", "health": 268, "size": 3, "requirements": [{"item": "kufinium", "amount": 20}, {"item": "porafa", "amount": 5}, {"item": "nytina", "amount": 9}], "research": "kufinium-conduit", "category": "liquid", "liquidCapacity": 84485, "hasLiquids": true}

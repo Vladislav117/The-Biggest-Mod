@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "buvinium conduit", "description": "...", "health": 196, "requirements": [{"item": "buvinium", "amount": 8}, {"item": "qeganium", "amount": 19}, {"item": "puty", "amount": 5}], "liquidCapacity": 50, "liquidPressure": 9, "research": "buvinium-factory", "category": "liquid"}

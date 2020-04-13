@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small woyyni power node", "description": "...", "size": 1, "health": 244, "requirements": [{"item": "woyyni", "amount": 18}, {"item": "weweco", "amount": 19}, {"item": "nigunium", "amount": 5}], "research": "woyyni-factory", "maxNodes": 8, "laserRange": 18, "category": "power"}

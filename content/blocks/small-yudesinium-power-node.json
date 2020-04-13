@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yudesinium power node", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "yudesinium", "amount": 1}, {"item": "wabaru", "amount": 9}, {"item": "moro", "amount": 7}], "research": "yudesinium-factory", "maxNodes": 15, "laserRange": 10, "category": "power"}

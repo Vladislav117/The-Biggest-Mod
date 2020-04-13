@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fysubi battery", "description": "...", "size": 1, "health": 182, "requirements": [{"item": "fysubi", "amount": 12}, {"item": "zore", "amount": 6}, {"item": "luly", "amount": 2}], "research": "fysubi-factory", "consumes": {"powerBuffered": 1759}, "category": "power"}

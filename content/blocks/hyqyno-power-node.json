@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hyqyno power node", "description": "...", "size": 2, "health": 553, "requirements": [{"item": "hyqyno", "amount": 3}, {"item": "ryjy", "amount": 17}, {"item": "rymojanium", "amount": 6}], "research": "hyqyno-factory", "maxNodes": 27, "laserRange": 29, "category": "power"}

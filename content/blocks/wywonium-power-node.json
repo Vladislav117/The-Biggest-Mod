@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wywonium power node", "description": "...", "size": 2, "health": 291, "requirements": [{"item": "wywonium", "amount": 6}, {"item": "tiyexenium", "amount": 16}, {"item": "kery", "amount": 7}], "research": "wywonium-factory", "maxNodes": 27, "laserRange": 12, "category": "power"}

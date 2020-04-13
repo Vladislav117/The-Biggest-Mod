@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zadyle liquid tank", "description": "...", "health": 501, "size": 3, "requirements": [{"item": "zadyle", "amount": 7}, {"item": "mihuranium", "amount": 18}, {"item": "fasaze", "amount": 1}], "research": "zadyle-conduit", "category": "liquid", "liquidCapacity": 30300, "hasLiquids": true}

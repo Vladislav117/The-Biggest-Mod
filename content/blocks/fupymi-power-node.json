@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fupymi power node", "description": "...", "size": 2, "health": 497, "requirements": [{"item": "fupymi", "amount": 15}, {"item": "wavoli", "amount": 11}, {"item": "menugonium", "amount": 4}], "research": "fupymi-factory", "maxNodes": 34, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lyna battery", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "lyna", "amount": 1}, {"item": "huyaxo", "amount": 9}, {"item": "vevati", "amount": 6}], "research": "lyna-factory", "consumes": {"powerBuffered": 411}, "category": "power"}

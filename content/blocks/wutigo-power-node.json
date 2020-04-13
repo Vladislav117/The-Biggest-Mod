@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wutigo power node", "description": "...", "size": 2, "health": 581, "requirements": [{"item": "wutigo", "amount": 2}, {"item": "cozuja", "amount": 9}, {"item": "suminium", "amount": 4}], "research": "wutigo-factory", "maxNodes": 42, "laserRange": 27, "category": "power"}

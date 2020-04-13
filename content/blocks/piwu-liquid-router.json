@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "piwu liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "piwu", "amount": 1}, {"item": "pyvunium", "amount": 10}, {"item": "jihi", "amount": 7}], "research": "piwu-conduit", "liquidCapacity": 10, "category": "liquid"}

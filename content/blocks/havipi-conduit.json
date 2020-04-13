@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "havipi conduit", "description": "...", "health": 57, "requirements": [{"item": "havipi", "amount": 4}, {"item": "nimi", "amount": 1}, {"item": "reboka", "amount": 7}], "liquidCapacity": 4, "liquidPressure": 9, "research": "havipi-factory", "category": "liquid"}

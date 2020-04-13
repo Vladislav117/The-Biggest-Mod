@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jyfare sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "jyfare", "amount": 5}, {"item": "wirifu", "amount": 4}], "research": "jyfare-conveyor", "category": "distribution", "invert": false}

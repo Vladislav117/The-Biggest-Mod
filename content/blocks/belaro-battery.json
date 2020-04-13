@@ -1,0 +1,1 @@
+{"type": "battery", "name": "belaro battery", "description": "...", "size": 3, "health": 193, "requirements": [{"item": "belaro", "amount": 12}, {"item": "lopelu", "amount": 8}, {"item": "weju", "amount": 10}], "research": "belaro-factory", "consumes": {"powerBuffered": 3919}, "category": "power"}

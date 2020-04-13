@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xubo solar panel", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "xubo", "amount": 11}, {"item": "noveba", "amount": 20}, {"item": "tile", "amount": 4}], "research": "xubo-factory", "powerProduction": 1.028674267566944, "category": "power"}

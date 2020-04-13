@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hylisa conduit", "description": "...", "health": 175, "requirements": [{"item": "hylisa", "amount": 18}, {"item": "ratapu", "amount": 5}, {"item": "deru", "amount": 6}], "liquidCapacity": 18, "liquidPressure": 0, "research": "hylisa-factory", "category": "liquid"}

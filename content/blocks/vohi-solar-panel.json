@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vohi solar panel", "description": "...", "size": 3, "health": 94, "requirements": [{"item": "vohi", "amount": 12}, {"item": "fivo", "amount": 10}, {"item": "noveba", "amount": 2}], "research": "vohi-factory", "powerProduction": 8.893651325978098, "category": "power"}

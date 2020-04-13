@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nopenenium junction", "description": "...", "health": 13, "speed": 1, "capacity": 2, "size": 1, "requirements": [{"item": "nopenenium", "amount": 5}, {"item": "bylo", "amount": 4}], "research": "nopenenium-conveyor", "category": "distribution"}

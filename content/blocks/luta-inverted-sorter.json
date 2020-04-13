@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "luta inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "luta", "amount": 2}, {"item": "wozego", "amount": 2}], "research": "luta-conveyor", "category": "distribution", "invert": true}

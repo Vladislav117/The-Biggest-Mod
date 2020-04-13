@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fodeby solar panel", "description": "...", "size": 1, "health": 116, "requirements": [{"item": "fodeby", "amount": 2}, {"item": "focatu", "amount": 19}, {"item": "vodaxa", "amount": 4}], "research": "fodeby-factory", "powerProduction": 0.08326371620331575, "category": "power"}

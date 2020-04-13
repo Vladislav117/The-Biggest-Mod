@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vezaya battery", "description": "...", "size": 3, "health": 298, "requirements": [{"item": "vezaya", "amount": 1}, {"item": "pohyva", "amount": 11}, {"item": "vohiyynium", "amount": 8}], "research": "vezaya-factory", "consumes": {"powerBuffered": 1362}, "category": "power"}

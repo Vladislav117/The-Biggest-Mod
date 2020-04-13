@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xorele liquid tank", "description": "...", "health": 410, "size": 3, "requirements": [{"item": "xorele", "amount": 20}, {"item": "kani", "amount": 8}, {"item": "wajese", "amount": 10}], "research": "xorele-conduit", "category": "liquid", "liquidCapacity": 98439, "hasLiquids": true}

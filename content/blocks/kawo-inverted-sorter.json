@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kawo inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "kawo", "amount": 5}, {"item": "copper", "amount": 3}], "research": "kawo-conveyor", "category": "distribution", "invert": true}

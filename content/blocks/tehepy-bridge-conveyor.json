@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tehepy bridge conveyor", "description": "", "health": 20, "range": 1, "speed": 4, "bufferCapacity": 24, "requirements": [{"item": "tehepy", "amount": 5}, {"item": "qoseve", "amount": 3}], "research": "tehepy-conveyor", "category": "distribution", "size": 1}

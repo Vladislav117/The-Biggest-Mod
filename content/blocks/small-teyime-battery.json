@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small teyime battery", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "teyime", "amount": 4}, {"item": "bocu", "amount": 8}, {"item": "xiga", "amount": 10}], "research": "teyime-factory", "consumes": {"powerBuffered": 2612}, "category": "power"}

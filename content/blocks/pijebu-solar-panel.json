@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pijebu solar panel", "description": "...", "size": 3, "health": 76, "requirements": [{"item": "pijebu", "amount": 13}, {"item": "wajese", "amount": 17}, {"item": "wugyjinium", "amount": 5}], "research": "pijebu-factory", "powerProduction": 0.7547875320228882, "category": "power"}

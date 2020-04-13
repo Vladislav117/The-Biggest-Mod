@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "cupi force projector", "description": "...", "health": 186, "size": 3, "consumes": {"power": 5.0, "item": "cupi"}, "requirements": [{"item": "cupi", "amount": 14}, {"item": "sefy", "amount": 18}, {"item": "noxy", "amount": 1}], "research": "cupi-factory", "category": "effect"}

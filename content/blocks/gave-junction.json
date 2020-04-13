@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gave junction", "description": "...", "health": 7, "speed": 16, "capacity": 17, "size": 1, "requirements": [{"item": "gave", "amount": 1}, {"item": "mawanium", "amount": 2}], "research": "gave-conveyor", "category": "distribution"}

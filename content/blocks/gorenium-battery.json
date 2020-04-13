@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gorenium battery", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "gorenium", "amount": 6}, {"item": "wiyuho", "amount": 3}, {"item": "wuxorunium", "amount": 7}], "research": "gorenium-factory", "consumes": {"powerBuffered": 9456}, "category": "power"}

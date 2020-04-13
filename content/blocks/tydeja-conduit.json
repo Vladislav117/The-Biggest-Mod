@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tydeja conduit", "description": "...", "health": 170, "requirements": [{"item": "tydeja", "amount": 15}, {"item": "biciti", "amount": 16}, {"item": "hise", "amount": 5}], "liquidCapacity": 29, "liquidPressure": 10, "research": "tydeja-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hisywy battery", "description": "...", "size": 3, "health": 320, "requirements": [{"item": "hisywy", "amount": 10}, {"item": "hewupenium", "amount": 8}, {"item": "kabovonium", "amount": 6}], "research": "hisywy-factory", "consumes": {"powerBuffered": 4763}, "category": "power"}

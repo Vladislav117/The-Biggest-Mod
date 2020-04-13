@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kizywanium battery", "description": "...", "size": 1, "health": 373, "requirements": [{"item": "kizywanium", "amount": 14}, {"item": "voya", "amount": 6}, {"item": "qexata", "amount": 9}], "research": "kizywanium-factory", "consumes": {"powerBuffered": 1417}, "category": "power"}

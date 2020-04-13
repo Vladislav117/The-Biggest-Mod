@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "milosi inverted sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "milosi", "amount": 5}, {"item": "deqohu", "amount": 1}], "research": "milosi-conveyor", "category": "distribution", "invert": true}

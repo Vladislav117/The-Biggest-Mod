@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yiqynium power node", "description": "...", "size": 1, "health": 297, "requirements": [{"item": "yiqynium", "amount": 12}, {"item": "nafeya", "amount": 20}, {"item": "hudolo", "amount": 1}], "research": "yiqynium-factory", "maxNodes": 13, "laserRange": 20, "category": "power"}

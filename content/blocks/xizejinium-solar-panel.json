@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xizejinium solar panel", "description": "...", "size": 3, "health": 25, "requirements": [{"item": "xizejinium", "amount": 17}, {"item": "pylonium", "amount": 7}, {"item": "xutire", "amount": 8}], "research": "xizejinium-factory", "powerProduction": 0.8144441640602958, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "baje liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "baje", "amount": 15}, {"item": "plastanium", "amount": 3}, {"item": "vesy", "amount": 5}], "research": "baje-conduit", "liquidCapacity": 10, "category": "liquid"}

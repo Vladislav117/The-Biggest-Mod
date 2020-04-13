@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xycu power node", "description": "...", "size": 1, "health": 73, "requirements": [{"item": "xycu", "amount": 12}, {"item": "wuxydu", "amount": 11}, {"item": "noninium", "amount": 9}], "research": "xycu-factory", "maxNodes": 4, "laserRange": 9, "category": "power"}

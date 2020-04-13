@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ruxyye junction", "description": "...", "health": 15, "speed": 4, "capacity": 4, "size": 1, "requirements": [{"item": "ruxyye", "amount": 3}, {"item": "dimizy", "amount": 2}], "research": "ruxyye-conveyor", "category": "distribution"}

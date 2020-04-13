@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kuye inverted sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "kuye", "amount": 5}, {"item": "zepoqo", "amount": 2}], "research": "kuye-conveyor", "category": "distribution", "invert": true}

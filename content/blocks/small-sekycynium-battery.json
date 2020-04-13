@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sekycynium battery", "description": "...", "size": 1, "health": 135, "requirements": [{"item": "sekycynium", "amount": 4}, {"item": "bisifu", "amount": 10}, {"item": "kavequ", "amount": 2}], "research": "sekycynium-factory", "consumes": {"powerBuffered": 1396}, "category": "power"}

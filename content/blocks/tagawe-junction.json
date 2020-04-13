@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tagawe junction", "description": "...", "health": 36, "speed": 15, "capacity": 5, "size": 1, "requirements": [{"item": "tagawe", "amount": 3}, {"item": "jaju", "amount": 4}], "research": "tagawe-conveyor", "category": "distribution"}

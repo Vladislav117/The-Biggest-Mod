@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hezinium drill", "description": "...", "size": 2, "health": 166, "tier": 3, "drillTime": 12, "consumes": {"power": 11}, "requirements": [{"item": "hezinium", "amount": 7}, {"item": "peloronium", "amount": 6}, {"item": "ravyku", "amount": 4}], "research": "hezinium-factory", "category": "production"}

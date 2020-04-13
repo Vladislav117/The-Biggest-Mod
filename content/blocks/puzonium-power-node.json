@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "puzonium power node", "description": "...", "size": 2, "health": 630, "requirements": [{"item": "puzonium", "amount": 7}, {"item": "laxu", "amount": 15}, {"item": "tujy", "amount": 1}], "research": "puzonium-factory", "maxNodes": 60, "laserRange": 29, "category": "power"}

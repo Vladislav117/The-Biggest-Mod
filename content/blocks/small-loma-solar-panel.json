@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small loma solar panel", "description": "...", "size": 1, "health": 88, "requirements": [{"item": "loma", "amount": 5}, {"item": "lapydy", "amount": 20}, {"item": "mabifunium", "amount": 1}], "research": "loma-factory", "powerProduction": 4.838648057250622, "category": "power"}

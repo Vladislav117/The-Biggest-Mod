@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xami drill", "description": "...", "size": 3, "health": 446, "tier": 2, "drillTime": 14, "consumes": {"power": 11}, "requirements": [{"item": "xami", "amount": 15}, {"item": "raqo", "amount": 12}, {"item": "teyigu", "amount": 7}], "research": "xami-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ryloxi liquid tank", "description": "...", "health": 254, "size": 3, "requirements": [{"item": "ryloxi", "amount": 18}, {"item": "myvedi", "amount": 11}, {"item": "visuco", "amount": 10}], "research": "ryloxi-conduit", "category": "liquid", "liquidCapacity": 41931, "hasLiquids": true}

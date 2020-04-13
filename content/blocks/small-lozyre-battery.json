@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lozyre battery", "description": "...", "size": 1, "health": 174, "requirements": [{"item": "lozyre", "amount": 14}, {"item": "moki", "amount": 20}, {"item": "nagu", "amount": 2}], "research": "lozyre-factory", "consumes": {"powerBuffered": 1119}, "category": "power"}

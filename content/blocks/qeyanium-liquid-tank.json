@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qeyanium liquid tank", "description": "...", "health": 123, "size": 3, "requirements": [{"item": "qeyanium", "amount": 16}, {"item": "ciqi", "amount": 13}, {"item": "xiga", "amount": 2}], "research": "qeyanium-conduit", "category": "liquid", "liquidCapacity": 110556, "hasLiquids": true}

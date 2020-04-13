@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bemu battery", "description": "...", "size": 1, "health": 298, "requirements": [{"item": "bemu", "amount": 4}, {"item": "pibu", "amount": 5}, {"item": "bymyye", "amount": 4}], "research": "bemu-factory", "consumes": {"powerBuffered": 1001}, "category": "power"}

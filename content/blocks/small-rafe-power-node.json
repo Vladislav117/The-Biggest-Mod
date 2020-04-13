@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rafe power node", "description": "...", "size": 1, "health": 269, "requirements": [{"item": "rafe", "amount": 15}, {"item": "lumyqa", "amount": 11}, {"item": "baranium", "amount": 6}], "research": "rafe-factory", "maxNodes": 30, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nihy solar panel", "description": "...", "size": 1, "health": 142, "requirements": [{"item": "nihy", "amount": 16}, {"item": "kica", "amount": 18}, {"item": "myjeke", "amount": 1}], "research": "nihy-factory", "powerProduction": 0.47899777931084647, "category": "power"}

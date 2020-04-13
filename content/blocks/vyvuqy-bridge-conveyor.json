@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vyvuqy bridge conveyor", "description": "", "health": 32, "range": 11, "speed": 11, "bufferCapacity": 8, "requirements": [{"item": "vyvuqy", "amount": 4}, {"item": "doluka", "amount": 4}], "research": "vyvuqy-conveyor", "category": "distribution", "size": 1}

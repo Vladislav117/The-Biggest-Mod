@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sovuqu solar panel", "description": "...", "size": 1, "health": 251, "requirements": [{"item": "sovuqu", "amount": 17}, {"item": "mygo", "amount": 1}, {"item": "pudoki", "amount": 1}], "research": "sovuqu-factory", "powerProduction": 5.991967118502595, "category": "power"}

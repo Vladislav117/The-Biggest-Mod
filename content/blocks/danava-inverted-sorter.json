@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "danava inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "danava", "amount": 2}, {"item": "tugi", "amount": 1}], "research": "danava-conveyor", "category": "distribution", "invert": true}

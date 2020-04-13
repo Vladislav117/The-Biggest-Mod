@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pubanium solar panel", "description": "...", "size": 1, "health": 304, "requirements": [{"item": "pubanium", "amount": 12}, {"item": "duto", "amount": 1}, {"item": "doluka", "amount": 4}], "research": "pubanium-factory", "powerProduction": 0.4240180512978148, "category": "power"}

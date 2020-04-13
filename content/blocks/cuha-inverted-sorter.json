@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cuha inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "cuha", "amount": 4}, {"item": "halyqinium", "amount": 1}], "research": "cuha-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cigita liquid tank", "description": "...", "health": 472, "size": 3, "requirements": [{"item": "cigita", "amount": 8}, {"item": "lyzecinium", "amount": 1}, {"item": "bedy", "amount": 1}], "research": "cigita-conduit", "category": "liquid", "liquidCapacity": 79325, "hasLiquids": true}

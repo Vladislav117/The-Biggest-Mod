@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tajyku overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "tajyku", "amount": 2}, {"item": "nabopy", "amount": 2}], "research": "tajyku-conveyor", "category": "distribution", "invert": false}

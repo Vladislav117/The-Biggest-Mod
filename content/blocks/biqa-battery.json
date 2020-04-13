@@ -1,0 +1,1 @@
+{"type": "battery", "name": "biqa battery", "description": "...", "size": 3, "health": 146, "requirements": [{"item": "biqa", "amount": 13}, {"item": "bybity", "amount": 10}, {"item": "syteja", "amount": 6}], "research": "biqa-factory", "consumes": {"powerBuffered": 3557}, "category": "power"}

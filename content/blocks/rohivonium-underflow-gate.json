@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rohivonium underflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "rohivonium", "amount": 3}, {"item": "tozokinium", "amount": 1}], "research": "rohivonium-conveyor", "category": "distribution", "invert": false}

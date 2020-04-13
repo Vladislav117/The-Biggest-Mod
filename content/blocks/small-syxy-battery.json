@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small syxy battery", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "syxy", "amount": 16}, {"item": "ragoku", "amount": 19}, {"item": "fevy", "amount": 2}], "research": "syxy-factory", "consumes": {"powerBuffered": 1156}, "category": "power"}

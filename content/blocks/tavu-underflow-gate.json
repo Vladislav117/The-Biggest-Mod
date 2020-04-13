@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tavu underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "tavu", "amount": 1}, {"item": "puzanium", "amount": 2}], "research": "tavu-conveyor", "category": "distribution", "invert": false}

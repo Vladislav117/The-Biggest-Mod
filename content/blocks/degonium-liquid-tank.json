@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "degonium liquid tank", "description": "...", "health": 291, "size": 3, "requirements": [{"item": "degonium", "amount": 12}, {"item": "siwobanium", "amount": 20}, {"item": "noxoginium", "amount": 1}], "research": "degonium-conduit", "category": "liquid", "liquidCapacity": 108168, "hasLiquids": true}

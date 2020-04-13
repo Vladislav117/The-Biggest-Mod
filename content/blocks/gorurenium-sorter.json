@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gorurenium sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "gorurenium", "amount": 3}, {"item": "jelu", "amount": 4}], "research": "gorurenium-conveyor", "category": "distribution", "invert": false}

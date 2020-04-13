@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bekoyinium liquid tank", "description": "...", "health": 356, "size": 3, "requirements": [{"item": "bekoyinium", "amount": 14}, {"item": "dycimi", "amount": 18}, {"item": "toku", "amount": 9}], "research": "bekoyinium-conduit", "category": "liquid", "liquidCapacity": 86210, "hasLiquids": true}

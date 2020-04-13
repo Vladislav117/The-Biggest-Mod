@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pyjorenium battery", "description": "...", "size": 1, "health": 138, "requirements": [{"item": "pyjorenium", "amount": 19}, {"item": "poxy", "amount": 1}, {"item": "jydo", "amount": 9}], "research": "pyjorenium-factory", "consumes": {"powerBuffered": 287}, "category": "power"}

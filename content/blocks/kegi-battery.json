@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kegi battery", "description": "...", "size": 3, "health": 251, "requirements": [{"item": "kegi", "amount": 3}, {"item": "vawybo", "amount": 15}, {"item": "zogeno", "amount": 6}], "research": "kegi-factory", "consumes": {"powerBuffered": 637}, "category": "power"}

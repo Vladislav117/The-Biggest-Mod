@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "toku liquid tank", "description": "...", "health": 478, "size": 3, "requirements": [{"item": "toku", "amount": 16}, {"item": "pygu", "amount": 20}, {"item": "tayi", "amount": 1}], "research": "toku-conduit", "category": "liquid", "liquidCapacity": 113494, "hasLiquids": true}

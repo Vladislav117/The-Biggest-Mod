@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mimuce junction", "description": "...", "health": 21, "speed": 11, "capacity": 14, "size": 1, "requirements": [{"item": "mimuce", "amount": 2}, {"item": "qyhi", "amount": 3}], "research": "mimuce-conveyor", "category": "distribution"}

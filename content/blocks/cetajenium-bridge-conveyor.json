@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cetajenium bridge conveyor", "description": "", "health": 47, "range": 6, "speed": 13, "bufferCapacity": 22, "requirements": [{"item": "cetajenium", "amount": 5}, {"item": "dunysy", "amount": 3}], "research": "cetajenium-conveyor", "category": "distribution", "size": 1}

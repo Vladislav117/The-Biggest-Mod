@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dymuza bridge conveyor", "description": "", "health": 39, "range": 6, "speed": 5, "bufferCapacity": 15, "requirements": [{"item": "dymuza", "amount": 2}, {"item": "rozy", "amount": 5}], "research": "dymuza-conveyor", "category": "distribution", "size": 1}

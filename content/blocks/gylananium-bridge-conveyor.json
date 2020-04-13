@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gylananium bridge conveyor", "description": "", "health": 4, "range": 4, "speed": 3, "bufferCapacity": 2, "requirements": [{"item": "gylananium", "amount": 1}, {"item": "qicuwe", "amount": 4}], "research": "gylananium-conveyor", "category": "distribution", "size": 1}

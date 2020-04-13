@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pesu sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "pesu", "amount": 1}, {"item": "yoty", "amount": 2}], "research": "pesu-conveyor", "category": "distribution", "invert": false}

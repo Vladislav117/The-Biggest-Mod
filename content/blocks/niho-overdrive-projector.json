@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "niho overdrive projector", "description": "...", "health": 83, "consumes": {"power": 3.0, "item": "niho"}, "size": 2, "requirements": [{"item": "niho", "amount": 19}, {"item": "xexumi", "amount": 1}, {"item": "wupixonium", "amount": 5}], "research": "niho-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "diro underflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "diro", "amount": 1}, {"item": "qaho", "amount": 3}], "research": "diro-conveyor", "category": "distribution", "invert": false}

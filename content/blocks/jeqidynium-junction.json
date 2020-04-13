@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jeqidynium junction", "description": "...", "health": 33, "speed": 6, "capacity": 8, "size": 1, "requirements": [{"item": "jeqidynium", "amount": 1}, {"item": "fahi", "amount": 2}], "research": "jeqidynium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jevogi solar panel", "description": "...", "size": 3, "health": 351, "requirements": [{"item": "jevogi", "amount": 10}, {"item": "fizycinium", "amount": 6}, {"item": "qyzapa", "amount": 10}], "research": "jevogi-factory", "powerProduction": 7.43922376552053, "category": "power"}

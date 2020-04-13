@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "kute force projector", "description": "...", "health": 197, "size": 3, "consumes": {"power": 5.0, "item": "kute"}, "requirements": [{"item": "kute", "amount": 1}, {"item": "wybenium", "amount": 7}, {"item": "lyzy", "amount": 3}], "research": "kute-factory", "category": "effect"}

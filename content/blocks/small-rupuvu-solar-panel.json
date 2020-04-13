@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rupuvu solar panel", "description": "...", "size": 1, "health": 268, "requirements": [{"item": "rupuvu", "amount": 11}, {"item": "pohyva", "amount": 6}, {"item": "thorium", "amount": 2}], "research": "rupuvu-factory", "powerProduction": 2.0306988756548523, "category": "power"}

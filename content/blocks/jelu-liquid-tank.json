@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jelu liquid tank", "description": "...", "health": 229, "size": 3, "requirements": [{"item": "jelu", "amount": 7}, {"item": "qiposa", "amount": 4}, {"item": "ciba", "amount": 2}], "research": "jelu-conduit", "category": "liquid", "liquidCapacity": 69958, "hasLiquids": true}

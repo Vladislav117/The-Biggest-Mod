@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bysotunium battery", "description": "...", "size": 1, "health": 366, "requirements": [{"item": "bysotunium", "amount": 11}, {"item": "daye", "amount": 3}, {"item": "vilyco", "amount": 5}], "research": "bysotunium-factory", "consumes": {"powerBuffered": 2277}, "category": "power"}

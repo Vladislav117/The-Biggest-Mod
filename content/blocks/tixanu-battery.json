@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tixanu battery", "description": "...", "size": 3, "health": 264, "requirements": [{"item": "tixanu", "amount": 4}, {"item": "poviye", "amount": 4}, {"item": "nyyihy", "amount": 5}], "research": "tixanu-factory", "consumes": {"powerBuffered": 5117}, "category": "power"}

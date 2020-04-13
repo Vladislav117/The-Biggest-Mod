@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "foji conduit", "description": "...", "health": 135, "requirements": [{"item": "foji", "amount": 3}, {"item": "kegiqi", "amount": 7}, {"item": "tefipi", "amount": 10}], "liquidCapacity": 25, "liquidPressure": 1, "research": "foji-factory", "category": "liquid"}

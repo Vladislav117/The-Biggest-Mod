@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cesewo solar panel", "description": "...", "size": 3, "health": 164, "requirements": [{"item": "cesewo", "amount": 14}, {"item": "rukonium", "amount": 18}, {"item": "nifenium", "amount": 8}], "research": "cesewo-factory", "powerProduction": 0.04176768273852969, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jytubinium power node", "description": "...", "size": 2, "health": 75, "requirements": [{"item": "jytubinium", "amount": 10}, {"item": "fuda", "amount": 12}, {"item": "zokacu", "amount": 7}], "research": "jytubinium-factory", "maxNodes": 13, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "niri drill", "description": "...", "size": 4, "health": 438, "tier": 3, "drillTime": 5, "consumes": {"power": 2}, "requirements": [{"item": "niri", "amount": 10}, {"item": "foqe", "amount": 19}, {"item": "sopage", "amount": 2}], "research": "niri-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small boretu solar panel", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "boretu", "amount": 17}, {"item": "maku", "amount": 18}, {"item": "yifity", "amount": 8}], "research": "boretu-factory", "powerProduction": 0.1965800560988306, "category": "power"}

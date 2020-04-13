@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "havipi drill", "description": "...", "size": 3, "health": 194, "tier": 2, "drillTime": 9, "consumes": {"power": 9}, "requirements": [{"item": "havipi", "amount": 4}, {"item": "yytiye", "amount": 19}, {"item": "zoyasi", "amount": 2}], "research": "havipi-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tovyme solar panel", "description": "...", "size": 3, "health": 387, "requirements": [{"item": "tovyme", "amount": 10}, {"item": "duyi", "amount": 2}, {"item": "cixe", "amount": 9}], "research": "tovyme-factory", "powerProduction": 0.10360237135706053, "category": "power"}

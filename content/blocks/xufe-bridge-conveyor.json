@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xufe bridge conveyor", "description": "", "health": 39, "range": 16, "speed": 5, "bufferCapacity": 24, "requirements": [{"item": "xufe", "amount": 5}, {"item": "lunurinium", "amount": 3}], "research": "xufe-conveyor", "category": "distribution", "size": 1}

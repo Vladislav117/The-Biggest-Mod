@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pumy conduit", "description": "...", "health": 144, "requirements": [{"item": "pumy", "amount": 18}, {"item": "vove", "amount": 3}, {"item": "qiposa", "amount": 8}], "liquidCapacity": 26, "liquidPressure": 6, "research": "pumy-factory", "category": "liquid"}

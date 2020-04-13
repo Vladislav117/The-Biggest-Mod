@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small biryqa power node", "description": "...", "size": 1, "health": 180, "requirements": [{"item": "biryqa", "amount": 14}, {"item": "miyoqu", "amount": 7}, {"item": "wogynium", "amount": 1}], "research": "biryqa-factory", "maxNodes": 22, "laserRange": 17, "category": "power"}

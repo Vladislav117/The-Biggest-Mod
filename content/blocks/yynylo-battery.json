@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yynylo battery", "description": "...", "size": 3, "health": 104, "requirements": [{"item": "yynylo", "amount": 10}, {"item": "zayuku", "amount": 2}, {"item": "kyqu", "amount": 5}], "research": "yynylo-factory", "consumes": {"powerBuffered": 7969}, "category": "power"}

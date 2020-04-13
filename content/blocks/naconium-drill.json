@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "naconium drill", "description": "...", "size": 4, "health": 184, "tier": 1, "drillTime": 6, "consumes": {"power": 15}, "requirements": [{"item": "naconium", "amount": 17}, {"item": "bube", "amount": 3}, {"item": "rudy", "amount": 5}], "research": "naconium-factory", "category": "production"}

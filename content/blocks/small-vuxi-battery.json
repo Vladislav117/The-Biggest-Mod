@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vuxi battery", "description": "...", "size": 1, "health": 354, "requirements": [{"item": "vuxi", "amount": 1}, {"item": "fusaji", "amount": 17}, {"item": "rymojanium", "amount": 5}], "research": "vuxi-factory", "consumes": {"powerBuffered": 1416}, "category": "power"}

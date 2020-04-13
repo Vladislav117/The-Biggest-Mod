@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "haniva solar panel", "description": "...", "size": 3, "health": 348, "requirements": [{"item": "haniva", "amount": 18}, {"item": "tozokinium", "amount": 2}, {"item": "toni", "amount": 5}], "research": "haniva-factory", "powerProduction": 8.755569548571065, "category": "power"}

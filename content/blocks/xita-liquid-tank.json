@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xita liquid tank", "description": "...", "health": 277, "size": 3, "requirements": [{"item": "xita", "amount": 15}, {"item": "gylitynium", "amount": 18}, {"item": "zyzofo", "amount": 3}], "research": "xita-conduit", "category": "liquid", "liquidCapacity": 94747, "hasLiquids": true}

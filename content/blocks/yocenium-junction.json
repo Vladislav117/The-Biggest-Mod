@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yocenium junction", "description": "...", "health": 40, "speed": 1, "capacity": 11, "size": 1, "requirements": [{"item": "yocenium", "amount": 3}, {"item": "zusi", "amount": 4}], "research": "yocenium-conveyor", "category": "distribution"}

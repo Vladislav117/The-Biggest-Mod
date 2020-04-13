@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vipybi solar panel", "description": "...", "size": 1, "health": 277, "requirements": [{"item": "vipybi", "amount": 5}, {"item": "gebi", "amount": 8}, {"item": "bixiga", "amount": 2}], "research": "vipybi-factory", "powerProduction": 11.273698708272379, "category": "power"}

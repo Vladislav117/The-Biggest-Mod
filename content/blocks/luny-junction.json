@@ -1,0 +1,1 @@
+{"type": "junction", "name": "luny junction", "description": "...", "health": 21, "speed": 12, "capacity": 2, "size": 1, "requirements": [{"item": "luny", "amount": 5}, {"item": "qeyanium", "amount": 1}], "research": "luny-conveyor", "category": "distribution"}

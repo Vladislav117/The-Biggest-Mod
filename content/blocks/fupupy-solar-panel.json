@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fupupy solar panel", "description": "...", "size": 3, "health": 65, "requirements": [{"item": "fupupy", "amount": 8}, {"item": "yicejanium", "amount": 4}, {"item": "carani", "amount": 8}], "research": "fupupy-factory", "powerProduction": 4.657505325775086, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ciwy liquid tank", "description": "...", "health": 665, "size": 3, "requirements": [{"item": "ciwy", "amount": 17}, {"item": "tyjexanium", "amount": 16}, {"item": "bulanium", "amount": 7}], "research": "ciwy-conduit", "category": "liquid", "liquidCapacity": 30405, "hasLiquids": true}

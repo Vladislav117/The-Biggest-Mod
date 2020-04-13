@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zoxury liquid tank", "description": "...", "health": 129, "size": 3, "requirements": [{"item": "zoxury", "amount": 19}, {"item": "xyco", "amount": 13}, {"item": "veninynium", "amount": 6}], "research": "zoxury-conduit", "category": "liquid", "liquidCapacity": 28277, "hasLiquids": true}

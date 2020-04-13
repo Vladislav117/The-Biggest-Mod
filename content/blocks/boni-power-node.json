@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "boni power node", "description": "...", "size": 2, "health": 455, "requirements": [{"item": "boni", "amount": 20}, {"item": "typi", "amount": 13}, {"item": "qelyqe", "amount": 7}], "research": "boni-factory", "maxNodes": 53, "laserRange": 11, "category": "power"}

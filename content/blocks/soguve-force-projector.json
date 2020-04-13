@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "soguve force projector", "description": "...", "health": 222, "size": 3, "consumes": {"power": 5.0, "item": "soguve"}, "requirements": [{"item": "soguve", "amount": 3}, {"item": "xuricy", "amount": 13}, {"item": "bipanium", "amount": 2}], "research": "soguve-factory", "category": "effect"}

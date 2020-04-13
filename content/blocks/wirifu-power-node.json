@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wirifu power node", "description": "...", "size": 2, "health": 553, "requirements": [{"item": "wirifu", "amount": 6}, {"item": "yidako", "amount": 12}, {"item": "sobu", "amount": 1}], "research": "wirifu-factory", "maxNodes": 45, "laserRange": 6, "category": "power"}

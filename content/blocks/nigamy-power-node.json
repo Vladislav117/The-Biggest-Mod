@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nigamy power node", "description": "...", "size": 2, "health": 119, "requirements": [{"item": "nigamy", "amount": 9}, {"item": "kabovonium", "amount": 17}, {"item": "dodyvo", "amount": 10}], "research": "nigamy-factory", "maxNodes": 46, "laserRange": 10, "category": "power"}

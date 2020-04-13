@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "waha overdrive projector", "description": "...", "health": 89, "consumes": {"power": 3.0, "item": "waha"}, "size": 2, "requirements": [{"item": "waha", "amount": 9}, {"item": "lahowe", "amount": 15}, {"item": "sipynium", "amount": 5}], "research": "waha-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yowiminium drill", "description": "...", "size": 4, "health": 278, "tier": 1, "drillTime": 10, "consumes": {"power": 15}, "requirements": [{"item": "yowiminium", "amount": 20}, {"item": "ryzyzi", "amount": 9}, {"item": "daqy", "amount": 6}], "research": "yowiminium-factory", "category": "production"}

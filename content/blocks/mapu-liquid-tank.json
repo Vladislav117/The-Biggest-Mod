@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mapu liquid tank", "description": "...", "health": 350, "size": 3, "requirements": [{"item": "mapu", "amount": 5}, {"item": "cetonium", "amount": 19}, {"item": "rohivonium", "amount": 7}], "research": "mapu-conduit", "category": "liquid", "liquidCapacity": 70741, "hasLiquids": true}

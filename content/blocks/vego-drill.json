@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vego drill", "description": "...", "size": 3, "health": 320, "tier": 4, "drillTime": 10, "consumes": {"power": 11}, "requirements": [{"item": "vego", "amount": 7}, {"item": "ceyuwy", "amount": 17}, {"item": "faqymu", "amount": 8}], "research": "vego-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mosu solar panel", "description": "...", "size": 3, "health": 178, "requirements": [{"item": "mosu", "amount": 10}, {"item": "sybo", "amount": 15}, {"item": "caxe", "amount": 4}], "research": "mosu-factory", "powerProduction": 6.578648062591437, "category": "power"}

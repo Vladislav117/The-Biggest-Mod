@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bajenium solar panel", "description": "...", "size": 3, "health": 109, "requirements": [{"item": "bajenium", "amount": 9}, {"item": "silicon", "amount": 19}, {"item": "metaglass", "amount": 8}], "research": "bajenium-factory", "powerProduction": 0.1262766800965783, "category": "power"}

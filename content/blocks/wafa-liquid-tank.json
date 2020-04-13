@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wafa liquid tank", "description": "...", "health": 300, "size": 3, "requirements": [{"item": "wafa", "amount": 8}, {"item": "cygyya", "amount": 13}, {"item": "sewazo", "amount": 8}], "research": "wafa-conduit", "category": "liquid", "liquidCapacity": 117400, "hasLiquids": true}

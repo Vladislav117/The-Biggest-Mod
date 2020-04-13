@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "tedu conveyor", "description": "...", "health": 188, "requirements": [{"item": "tedu", "amount": 10}, {"item": "tasynium", "amount": 9}], "speed": 0.36355393818197973, "research": "tedu-factory", "category": "distribution"}

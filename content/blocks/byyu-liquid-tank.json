@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "byyu liquid tank", "description": "...", "health": 294, "size": 3, "requirements": [{"item": "byyu", "amount": 10}, {"item": "cixe", "amount": 14}, {"item": "jeqidynium", "amount": 4}], "research": "byyu-conduit", "category": "liquid", "liquidCapacity": 29039, "hasLiquids": true}

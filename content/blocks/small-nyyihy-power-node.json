@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nyyihy power node", "description": "...", "size": 1, "health": 111, "requirements": [{"item": "nyyihy", "amount": 7}, {"item": "liqunium", "amount": 11}, {"item": "liqy", "amount": 6}], "research": "nyyihy-factory", "maxNodes": 4, "laserRange": 17, "category": "power"}

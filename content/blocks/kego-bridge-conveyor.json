@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kego bridge conveyor", "description": "", "health": 25, "range": 15, "speed": 18, "bufferCapacity": 11, "requirements": [{"item": "kego", "amount": 2}, {"item": "jihaconium", "amount": 1}], "research": "kego-conveyor", "category": "distribution", "size": 1}

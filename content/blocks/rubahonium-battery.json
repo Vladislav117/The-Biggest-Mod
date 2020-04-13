@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rubahonium battery", "description": "...", "size": 3, "health": 75, "requirements": [{"item": "rubahonium", "amount": 1}, {"item": "wuvu", "amount": 17}, {"item": "viwafy", "amount": 9}], "research": "rubahonium-factory", "consumes": {"powerBuffered": 8007}, "category": "power"}

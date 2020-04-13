@@ -1,0 +1,1 @@
+{"type": "battery", "name": "geke battery", "description": "...", "size": 3, "health": 374, "requirements": [{"item": "geke", "amount": 9}, {"item": "lynaly", "amount": 20}, {"item": "heqywanium", "amount": 3}], "research": "geke-factory", "consumes": {"powerBuffered": 9732}, "category": "power"}

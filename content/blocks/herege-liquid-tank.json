@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "herege liquid tank", "description": "...", "health": 425, "size": 3, "requirements": [{"item": "herege", "amount": 1}, {"item": "fuyoja", "amount": 3}, {"item": "myhaxu", "amount": 2}], "research": "herege-conduit", "category": "liquid", "liquidCapacity": 36043, "hasLiquids": true}

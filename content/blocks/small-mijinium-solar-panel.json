@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mijinium solar panel", "description": "...", "size": 1, "health": 200, "requirements": [{"item": "mijinium", "amount": 2}, {"item": "mapi", "amount": 18}, {"item": "boty", "amount": 5}], "research": "mijinium-factory", "powerProduction": 0.7229838860172564, "category": "power"}

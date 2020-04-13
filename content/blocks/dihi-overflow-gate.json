@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dihi overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "dihi", "amount": 2}, {"item": "xyza", "amount": 3}], "research": "dihi-conveyor", "category": "distribution", "invert": false}

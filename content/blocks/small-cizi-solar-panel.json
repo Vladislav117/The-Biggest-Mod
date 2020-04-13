@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cizi solar panel", "description": "...", "size": 1, "health": 250, "requirements": [{"item": "cizi", "amount": 13}, {"item": "genane", "amount": 3}, {"item": "syjilanium", "amount": 7}], "research": "cizi-factory", "powerProduction": 0.010089685473424589, "category": "power"}

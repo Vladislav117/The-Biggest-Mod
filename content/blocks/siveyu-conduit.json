@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "siveyu conduit", "description": "...", "health": 37, "requirements": [{"item": "siveyu", "amount": 7}, {"item": "toku", "amount": 5}, {"item": "rowi", "amount": 3}], "liquidCapacity": 13, "liquidPressure": 6, "research": "siveyu-factory", "category": "liquid"}

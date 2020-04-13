@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kaye battery", "description": "...", "size": 3, "health": 367, "requirements": [{"item": "kaye", "amount": 14}, {"item": "diro", "amount": 13}, {"item": "tyjexanium", "amount": 8}], "research": "kaye-factory", "consumes": {"powerBuffered": 5960}, "category": "power"}

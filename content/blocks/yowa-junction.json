@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yowa junction", "description": "...", "health": 44, "speed": 12, "capacity": 1, "size": 1, "requirements": [{"item": "yowa", "amount": 2}, {"item": "wirifu", "amount": 4}], "research": "yowa-conveyor", "category": "distribution"}

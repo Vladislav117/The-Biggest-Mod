@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wyrali battery", "description": "...", "size": 1, "health": 191, "requirements": [{"item": "wyrali", "amount": 7}, {"item": "viva", "amount": 16}, {"item": "jugowe", "amount": 4}], "research": "wyrali-factory", "consumes": {"powerBuffered": 1827}, "category": "power"}

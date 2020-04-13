@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "terixe liquid tank", "description": "...", "health": 613, "size": 3, "requirements": [{"item": "terixe", "amount": 18}, {"item": "tutogy", "amount": 9}, {"item": "rotonium", "amount": 4}], "research": "terixe-conduit", "category": "liquid", "liquidCapacity": 39554, "hasLiquids": true}

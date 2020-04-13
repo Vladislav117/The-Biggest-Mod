@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dehadenium liquid tank", "description": "...", "health": 614, "size": 3, "requirements": [{"item": "dehadenium", "amount": 4}, {"item": "ranoxinium", "amount": 5}, {"item": "jida", "amount": 3}], "research": "dehadenium-conduit", "category": "liquid", "liquidCapacity": 93057, "hasLiquids": true}

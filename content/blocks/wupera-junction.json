@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wupera junction", "description": "...", "health": 50, "speed": 15, "capacity": 17, "size": 1, "requirements": [{"item": "wupera", "amount": 4}, {"item": "kide", "amount": 1}], "research": "wupera-conveyor", "category": "distribution"}

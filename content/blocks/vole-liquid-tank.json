@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vole liquid tank", "description": "...", "health": 229, "size": 3, "requirements": [{"item": "vole", "amount": 3}, {"item": "lilyro", "amount": 15}, {"item": "rumigonium", "amount": 2}], "research": "vole-conduit", "category": "liquid", "liquidCapacity": 106021, "hasLiquids": true}

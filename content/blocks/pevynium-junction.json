@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pevynium junction", "description": "...", "health": 16, "speed": 8, "capacity": 17, "size": 1, "requirements": [{"item": "pevynium", "amount": 5}, {"item": "fici", "amount": 1}], "research": "pevynium-conveyor", "category": "distribution"}

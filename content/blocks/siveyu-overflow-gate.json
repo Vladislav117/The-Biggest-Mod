@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "siveyu overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "siveyu", "amount": 3}, {"item": "qulape", "amount": 4}], "research": "siveyu-conveyor", "category": "distribution", "invert": false}

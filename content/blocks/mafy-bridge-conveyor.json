@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mafy bridge conveyor", "description": "", "health": 27, "range": 2, "speed": 13, "bufferCapacity": 1, "requirements": [{"item": "mafy", "amount": 4}, {"item": "qywiqi", "amount": 4}], "research": "mafy-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small biye solar panel", "description": "...", "size": 1, "health": 329, "requirements": [{"item": "biye", "amount": 13}, {"item": "xylidinium", "amount": 15}, {"item": "siceku", "amount": 10}], "research": "biye-factory", "powerProduction": 2.3115917915992554, "category": "power"}

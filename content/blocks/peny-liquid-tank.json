@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "peny liquid tank", "description": "...", "health": 648, "size": 3, "requirements": [{"item": "peny", "amount": 16}, {"item": "nusenium", "amount": 10}, {"item": "secybo", "amount": 2}], "research": "peny-conduit", "category": "liquid", "liquidCapacity": 60533, "hasLiquids": true}

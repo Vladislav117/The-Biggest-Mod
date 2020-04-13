@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nodi liquid tank", "description": "...", "health": 181, "size": 3, "requirements": [{"item": "nodi", "amount": 1}, {"item": "pydudanium", "amount": 7}, {"item": "ryte", "amount": 7}], "research": "nodi-conduit", "category": "liquid", "liquidCapacity": 114374, "hasLiquids": true}

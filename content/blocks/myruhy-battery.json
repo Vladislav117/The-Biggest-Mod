@@ -1,0 +1,1 @@
+{"type": "battery", "name": "myruhy battery", "description": "...", "size": 3, "health": 113, "requirements": [{"item": "myruhy", "amount": 5}, {"item": "rabu", "amount": 20}, {"item": "pamyka", "amount": 8}], "research": "myruhy-factory", "consumes": {"powerBuffered": 8098}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kipyzonium overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "kipyzonium", "amount": 4}, {"item": "hurula", "amount": 1}], "research": "kipyzonium-conveyor", "category": "distribution", "invert": false}

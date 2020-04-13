@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rysi overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "rysi", "amount": 4}, {"item": "jeqidynium", "amount": 3}], "research": "rysi-conveyor", "category": "distribution", "invert": false}

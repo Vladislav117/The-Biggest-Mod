@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jaxi battery", "description": "...", "size": 1, "health": 184, "requirements": [{"item": "jaxi", "amount": 20}, {"item": "dizuqo", "amount": 12}, {"item": "nufaye", "amount": 1}], "research": "jaxi-factory", "consumes": {"powerBuffered": 2815}, "category": "power"}

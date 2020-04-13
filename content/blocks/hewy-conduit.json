@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hewy conduit", "description": "...", "health": 162, "requirements": [{"item": "hewy", "amount": 14}, {"item": "qubironium", "amount": 18}, {"item": "coqinium", "amount": 1}], "liquidCapacity": 13, "liquidPressure": 5, "research": "hewy-factory", "category": "liquid"}

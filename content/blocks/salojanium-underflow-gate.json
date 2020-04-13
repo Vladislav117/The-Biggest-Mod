@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "salojanium underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "salojanium", "amount": 1}, {"item": "cydeyy", "amount": 5}], "research": "salojanium-conveyor", "category": "distribution", "invert": false}

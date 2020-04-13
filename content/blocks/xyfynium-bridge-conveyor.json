@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xyfynium bridge conveyor", "description": "", "health": 1, "range": 6, "speed": 10, "bufferCapacity": 22, "requirements": [{"item": "xyfynium", "amount": 5}, {"item": "kaniyy", "amount": 2}], "research": "xyfynium-conveyor", "category": "distribution", "size": 1}

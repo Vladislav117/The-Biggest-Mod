@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cesipe overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "cesipe", "amount": 5}, {"item": "muremi", "amount": 5}], "research": "cesipe-conveyor", "category": "distribution", "invert": false}

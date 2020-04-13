@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yape bridge conveyor", "description": "", "health": 42, "range": 8, "speed": 2, "bufferCapacity": 17, "requirements": [{"item": "yape", "amount": 5}, {"item": "ryte", "amount": 3}], "research": "yape-conveyor", "category": "distribution", "size": 1}

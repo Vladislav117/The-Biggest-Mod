@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fezo underflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "fezo", "amount": 2}, {"item": "devube", "amount": 2}], "research": "fezo-conveyor", "category": "distribution", "invert": false}

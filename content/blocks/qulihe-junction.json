@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qulihe junction", "description": "...", "health": 42, "speed": 14, "capacity": 2, "size": 1, "requirements": [{"item": "qulihe", "amount": 5}, {"item": "lexo", "amount": 4}], "research": "qulihe-conveyor", "category": "distribution"}

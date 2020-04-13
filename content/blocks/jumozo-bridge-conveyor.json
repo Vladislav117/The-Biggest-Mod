@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jumozo bridge conveyor", "description": "", "health": 47, "range": 15, "speed": 18, "bufferCapacity": 9, "requirements": [{"item": "jumozo", "amount": 4}, {"item": "huxo", "amount": 3}], "research": "jumozo-conveyor", "category": "distribution", "size": 1}

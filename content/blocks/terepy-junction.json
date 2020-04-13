@@ -1,0 +1,1 @@
+{"type": "junction", "name": "terepy junction", "description": "...", "health": 46, "speed": 3, "capacity": 15, "size": 1, "requirements": [{"item": "terepy", "amount": 3}, {"item": "kosonium", "amount": 4}], "research": "terepy-conveyor", "category": "distribution"}

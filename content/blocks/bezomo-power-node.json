@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bezomo power node", "description": "...", "size": 2, "health": 442, "requirements": [{"item": "bezomo", "amount": 6}, {"item": "peguca", "amount": 12}, {"item": "taji", "amount": 4}], "research": "bezomo-factory", "maxNodes": 43, "laserRange": 23, "category": "power"}

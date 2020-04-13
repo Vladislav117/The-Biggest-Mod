@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rizope conduit", "description": "...", "health": 123, "requirements": [{"item": "rizope", "amount": 8}, {"item": "nejesu", "amount": 2}, {"item": "puli", "amount": 6}], "liquidCapacity": 7, "liquidPressure": 7, "research": "rizope-factory", "category": "liquid"}

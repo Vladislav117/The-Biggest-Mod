@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hisa solar panel", "description": "...", "size": 1, "health": 249, "requirements": [{"item": "hisa", "amount": 12}, {"item": "yavyra", "amount": 11}, {"item": "hexu", "amount": 10}], "research": "hisa-factory", "powerProduction": 3.9195213300761624, "category": "power"}

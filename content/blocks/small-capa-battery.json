@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small capa battery", "description": "...", "size": 1, "health": 395, "requirements": [{"item": "capa", "amount": 1}, {"item": "vayixo", "amount": 15}, {"item": "direme", "amount": 1}], "research": "capa-factory", "consumes": {"powerBuffered": 1599}, "category": "power"}

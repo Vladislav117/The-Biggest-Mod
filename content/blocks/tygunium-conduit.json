@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tygunium conduit", "description": "...", "health": 183, "requirements": [{"item": "tygunium", "amount": 5}, {"item": "jaga", "amount": 4}, {"item": "nirenium", "amount": 10}], "liquidCapacity": 24, "liquidPressure": 2, "research": "tygunium-factory", "category": "liquid"}

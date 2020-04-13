@@ -1,0 +1,1 @@
+{"type": "junction", "name": "capy junction", "description": "...", "health": 15, "speed": 2, "capacity": 14, "size": 1, "requirements": [{"item": "capy", "amount": 2}, {"item": "siceku", "amount": 3}], "research": "capy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cuwenium overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "cuwenium", "amount": 5}, {"item": "tumewe", "amount": 4}], "research": "cuwenium-conveyor", "category": "distribution", "invert": false}

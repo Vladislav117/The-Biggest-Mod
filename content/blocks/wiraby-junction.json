@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wiraby junction", "description": "...", "health": 44, "speed": 17, "capacity": 8, "size": 1, "requirements": [{"item": "wiraby", "amount": 4}, {"item": "cukoby", "amount": 2}], "research": "wiraby-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "noxy power node", "description": "...", "size": 2, "health": 738, "requirements": [{"item": "noxy", "amount": 7}, {"item": "jatyjenium", "amount": 17}, {"item": "viza", "amount": 6}], "research": "noxy-factory", "maxNodes": 18, "laserRange": 19, "category": "power"}

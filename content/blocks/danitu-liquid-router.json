@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "danitu liquid router", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "danitu", "amount": 12}, {"item": "yesolonium", "amount": 14}, {"item": "xinodunium", "amount": 2}], "research": "danitu-conduit", "liquidCapacity": 10, "category": "liquid"}

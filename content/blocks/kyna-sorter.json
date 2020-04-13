@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kyna sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "kyna", "amount": 2}, {"item": "nytina", "amount": 4}], "research": "kyna-conveyor", "category": "distribution", "invert": false}

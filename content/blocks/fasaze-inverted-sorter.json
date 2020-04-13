@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fasaze inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "fasaze", "amount": 3}, {"item": "dugypa", "amount": 5}], "research": "fasaze-conveyor", "category": "distribution", "invert": true}

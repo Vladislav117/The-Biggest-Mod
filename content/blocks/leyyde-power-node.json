@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "leyyde power node", "description": "...", "size": 2, "health": 214, "requirements": [{"item": "leyyde", "amount": 6}, {"item": "bosery", "amount": 11}, {"item": "mofapu", "amount": 9}], "research": "leyyde-factory", "maxNodes": 35, "laserRange": 8, "category": "power"}

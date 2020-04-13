@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xufe liquid tank", "description": "...", "health": 399, "size": 3, "requirements": [{"item": "xufe", "amount": 11}, {"item": "sihycu", "amount": 11}, {"item": "qypaty", "amount": 8}], "research": "xufe-conduit", "category": "liquid", "liquidCapacity": 36139, "hasLiquids": true}

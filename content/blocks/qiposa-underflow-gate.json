@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qiposa underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "qiposa", "amount": 3}, {"item": "duto", "amount": 3}], "research": "qiposa-conveyor", "category": "distribution", "invert": false}

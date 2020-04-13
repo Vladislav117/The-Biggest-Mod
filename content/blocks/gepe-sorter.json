@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gepe sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "gepe", "amount": 3}, {"item": "wawu", "amount": 1}], "research": "gepe-conveyor", "category": "distribution", "invert": false}

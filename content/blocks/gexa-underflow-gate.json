@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gexa underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "gexa", "amount": 4}, {"item": "qegu", "amount": 3}], "research": "gexa-conveyor", "category": "distribution", "invert": false}

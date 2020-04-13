@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qano underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "qano", "amount": 1}, {"item": "plastanium", "amount": 1}], "research": "qano-conveyor", "category": "distribution", "invert": false}

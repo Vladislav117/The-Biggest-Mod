@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jyryze inverted sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "jyryze", "amount": 4}, {"item": "jowijonium", "amount": 2}], "research": "jyryze-conveyor", "category": "distribution", "invert": true}

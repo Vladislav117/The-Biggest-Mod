@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qebu battery", "description": "...", "size": 1, "health": 112, "requirements": [{"item": "qebu", "amount": 13}, {"item": "furazinium", "amount": 11}, {"item": "vewavu", "amount": 1}], "research": "qebu-factory", "consumes": {"powerBuffered": 1168}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sesico underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "sesico", "amount": 5}, {"item": "qyhoqa", "amount": 5}], "research": "sesico-conveyor", "category": "distribution", "invert": false}

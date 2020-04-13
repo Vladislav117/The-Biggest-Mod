@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "demonium conduit", "description": "...", "health": 39, "requirements": [{"item": "demonium", "amount": 2}, {"item": "rale", "amount": 3}, {"item": "jihaconium", "amount": 2}], "liquidCapacity": 42, "liquidPressure": 9, "research": "demonium-factory", "category": "liquid"}

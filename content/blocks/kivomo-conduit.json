@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kivomo conduit", "description": "...", "health": 170, "requirements": [{"item": "kivomo", "amount": 4}, {"item": "teda", "amount": 19}, {"item": "zareba", "amount": 6}], "liquidCapacity": 42, "liquidPressure": 6, "research": "kivomo-factory", "category": "liquid"}

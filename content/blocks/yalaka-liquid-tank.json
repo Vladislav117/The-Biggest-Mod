@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yalaka liquid tank", "description": "...", "health": 129, "size": 3, "requirements": [{"item": "yalaka", "amount": 12}, {"item": "copper", "amount": 4}, {"item": "heqywanium", "amount": 3}], "research": "yalaka-conduit", "category": "liquid", "liquidCapacity": 42216, "hasLiquids": true}

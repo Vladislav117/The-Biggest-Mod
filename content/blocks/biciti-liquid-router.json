@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "biciti liquid router", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "biciti", "amount": 15}, {"item": "zufo", "amount": 11}, {"item": "carani", "amount": 8}], "research": "biciti-conduit", "liquidCapacity": 10, "category": "liquid"}

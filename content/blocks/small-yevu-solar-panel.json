@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yevu solar panel", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "yevu", "amount": 11}, {"item": "sehy", "amount": 6}, {"item": "teyigu", "amount": 7}], "research": "yevu-factory", "powerProduction": 0.016980013529569068, "category": "power"}

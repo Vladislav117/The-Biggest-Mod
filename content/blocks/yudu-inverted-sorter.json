@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yudu inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "yudu", "amount": 2}, {"item": "sysagu", "amount": 3}], "research": "yudu-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bymyye power node", "description": "...", "size": 1, "health": 390, "requirements": [{"item": "bymyye", "amount": 12}, {"item": "vamoginium", "amount": 2}, {"item": "wore", "amount": 1}], "research": "bymyye-factory", "maxNodes": 30, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vytuxe power node", "description": "...", "size": 2, "health": 91, "requirements": [{"item": "vytuxe", "amount": 11}, {"item": "baqilo", "amount": 16}, {"item": "roja", "amount": 1}], "research": "vytuxe-factory", "maxNodes": 35, "laserRange": 25, "category": "power"}

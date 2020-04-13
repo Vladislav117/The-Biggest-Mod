@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cesewo drill", "description": "...", "size": 2, "health": 311, "tier": 4, "drillTime": 1, "consumes": {"power": 2}, "requirements": [{"item": "cesewo", "amount": 3}, {"item": "ciwiwa", "amount": 15}, {"item": "mebu", "amount": 10}], "research": "cesewo-factory", "category": "production"}

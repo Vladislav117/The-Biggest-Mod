@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pusy liquid tank", "description": "...", "health": 664, "size": 3, "requirements": [{"item": "pusy", "amount": 7}, {"item": "socyhi", "amount": 7}, {"item": "koci", "amount": 3}], "research": "pusy-conduit", "category": "liquid", "liquidCapacity": 41391, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vezaya solar panel", "description": "...", "size": 3, "health": 277, "requirements": [{"item": "vezaya", "amount": 2}, {"item": "fohebi", "amount": 8}, {"item": "yipobe", "amount": 6}], "research": "vezaya-factory", "powerProduction": 0.27079966421039553, "category": "power"}

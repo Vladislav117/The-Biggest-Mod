@@ -1,0 +1,1 @@
+{"type": "battery", "name": "teyime battery", "description": "...", "size": 3, "health": 368, "requirements": [{"item": "teyime", "amount": 13}, {"item": "zahaqa", "amount": 15}, {"item": "zityyanium", "amount": 8}], "research": "teyime-factory", "consumes": {"powerBuffered": 7983}, "category": "power"}

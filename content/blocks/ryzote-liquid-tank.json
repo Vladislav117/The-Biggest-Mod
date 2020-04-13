@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ryzote liquid tank", "description": "...", "health": 470, "size": 3, "requirements": [{"item": "ryzote", "amount": 11}, {"item": "byqymo", "amount": 19}, {"item": "pizi", "amount": 10}], "research": "ryzote-conduit", "category": "liquid", "liquidCapacity": 92267, "hasLiquids": true}

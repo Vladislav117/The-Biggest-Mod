@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "biye liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "biye", "amount": 17}, {"item": "nifego", "amount": 6}, {"item": "guvoja", "amount": 5}], "research": "biye-conduit", "liquidCapacity": 10, "category": "liquid"}

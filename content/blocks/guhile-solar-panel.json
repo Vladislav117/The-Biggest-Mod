@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "guhile solar panel", "description": "...", "size": 3, "health": 137, "requirements": [{"item": "guhile", "amount": 17}, {"item": "larina", "amount": 17}, {"item": "veco", "amount": 3}], "research": "guhile-factory", "powerProduction": 0.27001983791698786, "category": "power"}

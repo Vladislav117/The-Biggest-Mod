@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zeha conduit", "description": "...", "health": 154, "requirements": [{"item": "zeha", "amount": 16}, {"item": "vacoce", "amount": 11}, {"item": "mefymanium", "amount": 6}], "liquidCapacity": 15, "liquidPressure": 5, "research": "zeha-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "myvava power node", "description": "...", "size": 2, "health": 31, "requirements": [{"item": "myvava", "amount": 7}, {"item": "vole", "amount": 9}, {"item": "hihunium", "amount": 6}], "research": "myvava-factory", "maxNodes": 37, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hogazanium liquid router", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "hogazanium", "amount": 3}, {"item": "tyno", "amount": 10}, {"item": "nuci", "amount": 4}], "research": "hogazanium-conduit", "liquidCapacity": 10, "category": "liquid"}

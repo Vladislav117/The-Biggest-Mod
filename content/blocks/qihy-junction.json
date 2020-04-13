@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qihy junction", "description": "...", "health": 4, "speed": 15, "capacity": 18, "size": 1, "requirements": [{"item": "qihy", "amount": 2}, {"item": "bobu", "amount": 2}], "research": "qihy-conveyor", "category": "distribution"}

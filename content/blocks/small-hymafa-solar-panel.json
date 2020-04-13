@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hymafa solar panel", "description": "...", "size": 1, "health": 111, "requirements": [{"item": "hymafa", "amount": 1}, {"item": "cobunium", "amount": 1}, {"item": "filu", "amount": 9}], "research": "hymafa-factory", "powerProduction": 1.3839689918628093, "category": "power"}

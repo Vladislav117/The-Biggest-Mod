@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vodico liquid tank", "description": "...", "health": 588, "size": 3, "requirements": [{"item": "vodico", "amount": 6}, {"item": "zija", "amount": 9}, {"item": "tire", "amount": 10}], "research": "vodico-conduit", "category": "liquid", "liquidCapacity": 28801, "hasLiquids": true}

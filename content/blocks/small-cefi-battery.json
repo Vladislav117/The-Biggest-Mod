@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cefi battery", "description": "...", "size": 1, "health": 166, "requirements": [{"item": "cefi", "amount": 20}, {"item": "gula", "amount": 2}, {"item": "tiwo", "amount": 10}], "research": "cefi-factory", "consumes": {"powerBuffered": 2297}, "category": "power"}

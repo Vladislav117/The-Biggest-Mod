@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qyhoqa battery", "description": "...", "size": 3, "health": 294, "requirements": [{"item": "qyhoqa", "amount": 16}, {"item": "pamyka", "amount": 3}, {"item": "piny", "amount": 8}], "research": "qyhoqa-factory", "consumes": {"powerBuffered": 980}, "category": "power"}

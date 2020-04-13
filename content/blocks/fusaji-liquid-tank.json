@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fusaji liquid tank", "description": "...", "health": 281, "size": 3, "requirements": [{"item": "fusaji", "amount": 2}, {"item": "hugevinium", "amount": 14}, {"item": "yebyte", "amount": 10}], "research": "fusaji-conduit", "category": "liquid", "liquidCapacity": 113699, "hasLiquids": true}

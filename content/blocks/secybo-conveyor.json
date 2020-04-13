@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "secybo conveyor", "description": "...", "health": 97, "requirements": [{"item": "secybo", "amount": 1}, {"item": "sulu", "amount": 10}], "speed": 0.42975477049633265, "research": "secybo-factory", "category": "distribution"}

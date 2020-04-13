@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nunuwy drill", "description": "...", "size": 2, "health": 299, "tier": 2, "drillTime": 1, "consumes": {"power": 18}, "requirements": [{"item": "nunuwy", "amount": 10}, {"item": "dimysynium", "amount": 8}, {"item": "nihy", "amount": 3}], "research": "nunuwy-factory", "category": "production"}

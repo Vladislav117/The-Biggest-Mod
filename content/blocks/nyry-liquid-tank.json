@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nyry liquid tank", "description": "...", "health": 555, "size": 3, "requirements": [{"item": "nyry", "amount": 13}, {"item": "kovi", "amount": 9}, {"item": "tygoqa", "amount": 8}], "research": "nyry-conduit", "category": "liquid", "liquidCapacity": 103760, "hasLiquids": true}

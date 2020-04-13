@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "cesy conveyor", "description": "...", "health": 256, "requirements": [{"item": "cesy", "amount": 8}, {"item": "hono", "amount": 3}], "speed": 0.22793530783445187, "research": "cesy-factory", "category": "distribution"}

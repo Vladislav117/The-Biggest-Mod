@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vyji junction", "description": "...", "health": 37, "speed": 20, "capacity": 5, "size": 1, "requirements": [{"item": "vyji", "amount": 5}, {"item": "kewawa", "amount": 4}], "research": "vyji-conveyor", "category": "distribution"}

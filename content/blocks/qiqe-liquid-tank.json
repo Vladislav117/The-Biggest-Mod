@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qiqe liquid tank", "description": "...", "health": 158, "size": 3, "requirements": [{"item": "qiqe", "amount": 1}, {"item": "fexenium", "amount": 19}, {"item": "duqu", "amount": 8}], "research": "qiqe-conduit", "category": "liquid", "liquidCapacity": 28451, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tavanium solar panel", "description": "...", "size": 3, "health": 383, "requirements": [{"item": "tavanium", "amount": 16}, {"item": "nafamy", "amount": 6}, {"item": "sebobe", "amount": 9}], "research": "tavanium-factory", "powerProduction": 0.017607560372198038, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small redo solar panel", "description": "...", "size": 1, "health": 73, "requirements": [{"item": "redo", "amount": 11}, {"item": "huniji", "amount": 17}, {"item": "rukonium", "amount": 8}], "research": "redo-factory", "powerProduction": 1.99897012878302, "category": "power"}

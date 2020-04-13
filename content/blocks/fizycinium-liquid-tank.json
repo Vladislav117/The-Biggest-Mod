@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fizycinium liquid tank", "description": "...", "health": 220, "size": 3, "requirements": [{"item": "fizycinium", "amount": 13}, {"item": "fufyyu", "amount": 7}, {"item": "huniji", "amount": 3}], "research": "fizycinium-conduit", "category": "liquid", "liquidCapacity": 96036, "hasLiquids": true}

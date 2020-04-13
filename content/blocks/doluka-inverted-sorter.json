@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "doluka inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "doluka", "amount": 2}, {"item": "sarijynium", "amount": 2}], "research": "doluka-conveyor", "category": "distribution", "invert": true}

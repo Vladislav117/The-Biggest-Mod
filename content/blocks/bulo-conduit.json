@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bulo conduit", "description": "...", "health": 199, "requirements": [{"item": "bulo", "amount": 20}, {"item": "dyri", "amount": 19}, {"item": "nyqepinium", "amount": 2}], "liquidCapacity": 13, "liquidPressure": 3, "research": "bulo-factory", "category": "liquid"}

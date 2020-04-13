@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yypefa inverted sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "yypefa", "amount": 5}, {"item": "zoyasi", "amount": 2}], "research": "yypefa-conveyor", "category": "distribution", "invert": true}

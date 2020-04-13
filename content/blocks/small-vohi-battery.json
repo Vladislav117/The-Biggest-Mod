@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vohi battery", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "vohi", "amount": 18}, {"item": "kaqyla", "amount": 12}, {"item": "reximo", "amount": 2}], "research": "vohi-factory", "consumes": {"powerBuffered": 554}, "category": "power"}

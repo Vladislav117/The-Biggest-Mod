@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qicuwe liquid tank", "description": "...", "health": 646, "size": 3, "requirements": [{"item": "qicuwe", "amount": 13}, {"item": "vycici", "amount": 2}, {"item": "subece", "amount": 9}], "research": "qicuwe-conduit", "category": "liquid", "liquidCapacity": 77605, "hasLiquids": true}

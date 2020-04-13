@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bujyja power node", "description": "...", "size": 2, "health": 302, "requirements": [{"item": "bujyja", "amount": 7}, {"item": "genule", "amount": 8}, {"item": "vewywi", "amount": 10}], "research": "bujyja-factory", "maxNodes": 51, "laserRange": 27, "category": "power"}

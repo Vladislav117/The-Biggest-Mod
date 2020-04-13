@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nigoxunium junction", "description": "...", "health": 6, "speed": 10, "capacity": 11, "size": 1, "requirements": [{"item": "nigoxunium", "amount": 2}, {"item": "quvojo", "amount": 3}], "research": "nigoxunium-conveyor", "category": "distribution"}

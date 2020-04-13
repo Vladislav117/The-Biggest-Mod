@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kagopy bridge conveyor", "description": "", "health": 45, "range": 14, "speed": 5, "bufferCapacity": 21, "requirements": [{"item": "kagopy", "amount": 2}, {"item": "tybegi", "amount": 2}], "research": "kagopy-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "hozenium overdrive projector", "description": "...", "health": 120, "consumes": {"power": 3.0, "item": "hozenium"}, "size": 2, "requirements": [{"item": "hozenium", "amount": 4}, {"item": "lamopi", "amount": 12}, {"item": "fygino", "amount": 9}], "research": "hozenium-factory", "category": "effect"}

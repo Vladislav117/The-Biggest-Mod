@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hiwasi power node", "description": "...", "size": 2, "health": 174, "requirements": [{"item": "hiwasi", "amount": 14}, {"item": "fayenium", "amount": 4}, {"item": "yogocu", "amount": 5}], "research": "hiwasi-factory", "maxNodes": 15, "laserRange": 16, "category": "power"}

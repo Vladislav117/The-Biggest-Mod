@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zonufu battery", "description": "...", "size": 3, "health": 282, "requirements": [{"item": "zonufu", "amount": 17}, {"item": "widydo", "amount": 13}, {"item": "gotomy", "amount": 8}], "research": "zonufu-factory", "consumes": {"powerBuffered": 2556}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jypanium conduit", "description": "...", "health": 195, "requirements": [{"item": "jypanium", "amount": 18}, {"item": "zixysinium", "amount": 9}, {"item": "fadakynium", "amount": 5}], "liquidCapacity": 23, "liquidPressure": 2, "research": "jypanium-factory", "category": "liquid"}

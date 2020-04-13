@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small netonium power node", "description": "...", "size": 1, "health": 273, "requirements": [{"item": "netonium", "amount": 11}, {"item": "xyco", "amount": 2}, {"item": "jofu", "amount": 8}], "research": "netonium-factory", "maxNodes": 6, "laserRange": 5, "category": "power"}

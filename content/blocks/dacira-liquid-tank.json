@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dacira liquid tank", "description": "...", "health": 275, "size": 3, "requirements": [{"item": "dacira", "amount": 2}, {"item": "ziruzo", "amount": 5}, {"item": "rutiri", "amount": 1}], "research": "dacira-conduit", "category": "liquid", "liquidCapacity": 71304, "hasLiquids": true}

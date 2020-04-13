@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kiye junction", "description": "...", "health": 10, "speed": 20, "capacity": 11, "size": 1, "requirements": [{"item": "kiye", "amount": 2}, {"item": "yymujy", "amount": 4}], "research": "kiye-conveyor", "category": "distribution"}

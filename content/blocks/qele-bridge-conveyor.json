@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qele bridge conveyor", "description": "", "health": 10, "range": 19, "speed": 12, "bufferCapacity": 25, "requirements": [{"item": "qele", "amount": 1}, {"item": "jozu", "amount": 4}], "research": "qele-conveyor", "category": "distribution", "size": 1}

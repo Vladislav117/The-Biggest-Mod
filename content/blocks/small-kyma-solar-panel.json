@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kyma solar panel", "description": "...", "size": 1, "health": 364, "requirements": [{"item": "kyma", "amount": 15}, {"item": "tedi", "amount": 5}, {"item": "zowenium", "amount": 10}], "research": "kyma-factory", "powerProduction": 8.264354858158983, "category": "power"}

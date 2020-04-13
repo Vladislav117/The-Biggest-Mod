@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "tigu force projector", "description": "...", "health": 116, "size": 3, "consumes": {"power": 5.0, "item": "tigu"}, "requirements": [{"item": "tigu", "amount": 6}, {"item": "zokiry", "amount": 15}, {"item": "motu", "amount": 9}], "research": "tigu-factory", "category": "effect"}

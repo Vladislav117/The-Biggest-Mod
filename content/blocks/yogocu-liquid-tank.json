@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yogocu liquid tank", "description": "...", "health": 294, "size": 3, "requirements": [{"item": "yogocu", "amount": 5}, {"item": "typi", "amount": 3}, {"item": "bexo", "amount": 10}], "research": "yogocu-conduit", "category": "liquid", "liquidCapacity": 79945, "hasLiquids": true}

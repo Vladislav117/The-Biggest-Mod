@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gomola conduit", "description": "...", "health": 113, "requirements": [{"item": "gomola", "amount": 3}, {"item": "qigybynium", "amount": 2}, {"item": "rolunium", "amount": 6}], "liquidCapacity": 8, "liquidPressure": 10, "research": "gomola-factory", "category": "liquid"}

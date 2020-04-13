@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "ceze drill", "description": "...", "size": 4, "health": 335, "tier": 3, "drillTime": 6, "consumes": {"power": 1}, "requirements": [{"item": "ceze", "amount": 4}, {"item": "losenium", "amount": 6}, {"item": "goqanium", "amount": 8}], "research": "ceze-factory", "category": "production"}

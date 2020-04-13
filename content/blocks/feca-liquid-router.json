@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "feca liquid router", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "feca", "amount": 1}, {"item": "deqo", "amount": 10}, {"item": "kyqu", "amount": 1}], "research": "feca-conduit", "liquidCapacity": 10, "category": "liquid"}

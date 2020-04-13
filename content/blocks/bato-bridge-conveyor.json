@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bato bridge conveyor", "description": "", "health": 45, "range": 11, "speed": 9, "bufferCapacity": 6, "requirements": [{"item": "bato", "amount": 2}, {"item": "rucoxenium", "amount": 1}], "research": "bato-conveyor", "category": "distribution", "size": 1}

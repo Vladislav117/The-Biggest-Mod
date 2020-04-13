@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "piqo sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "piqo", "amount": 4}, {"item": "zocela", "amount": 1}], "research": "piqo-conveyor", "category": "distribution", "invert": false}

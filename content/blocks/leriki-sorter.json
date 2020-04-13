@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "leriki sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "leriki", "amount": 3}, {"item": "mumu", "amount": 2}], "research": "leriki-conveyor", "category": "distribution", "invert": false}

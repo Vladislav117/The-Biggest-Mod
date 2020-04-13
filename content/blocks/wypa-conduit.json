@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wypa conduit", "description": "...", "health": 163, "requirements": [{"item": "wypa", "amount": 16}, {"item": "bybity", "amount": 15}, {"item": "dakiqu", "amount": 3}], "liquidCapacity": 47, "liquidPressure": 2, "research": "wypa-factory", "category": "liquid"}

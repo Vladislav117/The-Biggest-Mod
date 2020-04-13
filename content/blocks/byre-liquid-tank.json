@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "byre liquid tank", "description": "...", "health": 582, "size": 3, "requirements": [{"item": "byre", "amount": 9}, {"item": "huro", "amount": 7}, {"item": "coqinium", "amount": 2}], "research": "byre-conduit", "category": "liquid", "liquidCapacity": 117797, "hasLiquids": true}

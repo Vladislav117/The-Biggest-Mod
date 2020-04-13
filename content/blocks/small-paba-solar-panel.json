@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small paba solar panel", "description": "...", "size": 1, "health": 103, "requirements": [{"item": "paba", "amount": 19}, {"item": "luvaji", "amount": 10}, {"item": "dewira", "amount": 2}], "research": "paba-factory", "powerProduction": 4.515600410917895, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gaxepu solar panel", "description": "...", "size": 3, "health": 292, "requirements": [{"item": "gaxepu", "amount": 12}, {"item": "potesonium", "amount": 2}, {"item": "ryfy", "amount": 7}], "research": "gaxepu-factory", "powerProduction": 6.16586765509796, "category": "power"}

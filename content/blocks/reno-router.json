@@ -1,0 +1,1 @@
+{"type": "router", "name": "reno router", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "reno", "amount": 10}], "research": "reno-conveyor", "category": "distribution"}

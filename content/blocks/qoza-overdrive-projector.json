@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "qoza overdrive projector", "description": "...", "health": 82, "consumes": {"power": 3.0, "item": "qoza"}, "size": 2, "requirements": [{"item": "qoza", "amount": 6}, {"item": "fufyyu", "amount": 7}, {"item": "xywoty", "amount": 10}], "research": "qoza-factory", "category": "effect"}

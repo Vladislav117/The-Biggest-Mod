@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small foho battery", "description": "...", "size": 1, "health": 310, "requirements": [{"item": "foho", "amount": 19}, {"item": "xyvo", "amount": 19}, {"item": "yydaqe", "amount": 1}], "research": "foho-factory", "consumes": {"powerBuffered": 2898}, "category": "power"}

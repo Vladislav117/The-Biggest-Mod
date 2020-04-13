@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fygunium battery", "description": "...", "size": 1, "health": 208, "requirements": [{"item": "fygunium", "amount": 2}, {"item": "nepysi", "amount": 1}, {"item": "wavoli", "amount": 10}], "research": "fygunium-factory", "consumes": {"powerBuffered": 699}, "category": "power"}

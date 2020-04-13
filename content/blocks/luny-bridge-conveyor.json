@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "luny bridge conveyor", "description": "", "health": 11, "range": 3, "speed": 3, "bufferCapacity": 6, "requirements": [{"item": "luny", "amount": 3}, {"item": "cotyyo", "amount": 2}], "research": "luny-conveyor", "category": "distribution", "size": 1}

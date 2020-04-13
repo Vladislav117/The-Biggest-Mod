@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vucazy junction", "description": "...", "health": 25, "speed": 5, "capacity": 8, "size": 1, "requirements": [{"item": "vucazy", "amount": 4}, {"item": "tetivy", "amount": 2}], "research": "vucazy-conveyor", "category": "distribution"}

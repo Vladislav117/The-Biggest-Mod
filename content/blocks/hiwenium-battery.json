@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hiwenium battery", "description": "...", "size": 3, "health": 231, "requirements": [{"item": "hiwenium", "amount": 13}, {"item": "yupo", "amount": 1}, {"item": "bajenium", "amount": 8}], "research": "hiwenium-factory", "consumes": {"powerBuffered": 720}, "category": "power"}

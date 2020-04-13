@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bivucunium solar panel", "description": "...", "size": 1, "health": 234, "requirements": [{"item": "bivucunium", "amount": 7}, {"item": "xekocanium", "amount": 16}, {"item": "kudanium", "amount": 6}], "research": "bivucunium-factory", "powerProduction": 1.7757995316013935, "category": "power"}

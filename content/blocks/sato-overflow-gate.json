@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sato overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "sato", "amount": 1}, {"item": "depyya", "amount": 3}], "research": "sato-conveyor", "category": "distribution", "invert": false}

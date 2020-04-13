@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bileyu conduit", "description": "...", "health": 200, "requirements": [{"item": "bileyu", "amount": 7}, {"item": "gotomy", "amount": 11}, {"item": "genane", "amount": 8}], "liquidCapacity": 28, "liquidPressure": 2, "research": "bileyu-factory", "category": "liquid"}

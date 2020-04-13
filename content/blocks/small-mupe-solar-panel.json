@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mupe solar panel", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "mupe", "amount": 14}, {"item": "lyzy", "amount": 17}, {"item": "rogoly", "amount": 1}], "research": "mupe-factory", "powerProduction": 0.18974042626540727, "category": "power"}

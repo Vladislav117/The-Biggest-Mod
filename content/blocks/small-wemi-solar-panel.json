@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wemi solar panel", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "wemi", "amount": 4}, {"item": "qosedi", "amount": 3}, {"item": "moqa", "amount": 8}], "research": "wemi-factory", "powerProduction": 1.4496831324927462, "category": "power"}

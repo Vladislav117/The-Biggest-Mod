@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "kuxevy overdrive projector", "description": "...", "health": 114, "consumes": {"power": 3.0, "item": "kuxevy"}, "size": 2, "requirements": [{"item": "kuxevy", "amount": 20}, {"item": "hyxy", "amount": 8}, {"item": "fahi", "amount": 5}], "research": "kuxevy-factory", "category": "effect"}

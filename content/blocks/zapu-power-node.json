@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zapu power node", "description": "...", "size": 2, "health": 589, "requirements": [{"item": "zapu", "amount": 7}, {"item": "tijixi", "amount": 19}, {"item": "wekonium", "amount": 7}], "research": "zapu-factory", "maxNodes": 14, "laserRange": 21, "category": "power"}

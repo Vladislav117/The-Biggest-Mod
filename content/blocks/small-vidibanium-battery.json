@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vidibanium battery", "description": "...", "size": 1, "health": 368, "requirements": [{"item": "vidibanium", "amount": 19}, {"item": "mini", "amount": 7}, {"item": "kipyzonium", "amount": 6}], "research": "vidibanium-factory", "consumes": {"powerBuffered": 1340}, "category": "power"}

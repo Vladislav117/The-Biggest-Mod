@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vujunium battery", "description": "...", "size": 3, "health": 299, "requirements": [{"item": "vujunium", "amount": 8}, {"item": "nyyonium", "amount": 10}, {"item": "mycufa", "amount": 4}], "research": "vujunium-factory", "consumes": {"powerBuffered": 6539}, "category": "power"}

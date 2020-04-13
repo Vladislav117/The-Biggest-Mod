@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rupy conduit", "description": "...", "health": 85, "requirements": [{"item": "rupy", "amount": 9}, {"item": "qiyatonium", "amount": 15}, {"item": "migy", "amount": 6}], "liquidCapacity": 43, "liquidPressure": 10, "research": "rupy-factory", "category": "liquid"}

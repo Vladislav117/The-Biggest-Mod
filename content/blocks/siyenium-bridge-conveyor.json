@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "siyenium bridge conveyor", "description": "", "health": 29, "range": 19, "speed": 9, "bufferCapacity": 4, "requirements": [{"item": "siyenium", "amount": 3}, {"item": "vodico", "amount": 1}], "research": "siyenium-conveyor", "category": "distribution", "size": 1}

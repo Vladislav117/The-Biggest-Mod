@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "riwunium conduit", "description": "...", "health": 149, "requirements": [{"item": "riwunium", "amount": 15}, {"item": "gevewu", "amount": 5}, {"item": "kiqeganium", "amount": 5}], "liquidCapacity": 35, "liquidPressure": 10, "research": "riwunium-factory", "category": "liquid"}

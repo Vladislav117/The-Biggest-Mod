@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xapu power node", "description": "...", "size": 2, "health": 745, "requirements": [{"item": "xapu", "amount": 16}, {"item": "wobuyu", "amount": 6}, {"item": "ceyuwy", "amount": 6}], "research": "xapu-factory", "maxNodes": 17, "laserRange": 5, "category": "power"}

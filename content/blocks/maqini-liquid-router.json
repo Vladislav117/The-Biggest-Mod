@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "maqini liquid router", "description": "...", "size": 1, "health": 52, "requirements": [{"item": "maqini", "amount": 4}, {"item": "fysubi", "amount": 6}, {"item": "zusi", "amount": 9}], "research": "maqini-conduit", "liquidCapacity": 10, "category": "liquid"}

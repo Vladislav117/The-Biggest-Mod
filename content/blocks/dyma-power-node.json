@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dyma power node", "description": "...", "size": 2, "health": 518, "requirements": [{"item": "dyma", "amount": 16}, {"item": "nitonium", "amount": 13}, {"item": "pobeqi", "amount": 2}], "research": "dyma-factory", "maxNodes": 49, "laserRange": 22, "category": "power"}

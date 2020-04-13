@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "goxize conveyor", "description": "...", "health": 125, "requirements": [{"item": "goxize", "amount": 1}, {"item": "nifenium", "amount": 7}], "speed": 0.05608438026390472, "research": "goxize-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qivi liquid tank", "description": "...", "health": 611, "size": 3, "requirements": [{"item": "qivi", "amount": 9}, {"item": "qeka", "amount": 11}, {"item": "sukanium", "amount": 6}], "research": "qivi-conduit", "category": "liquid", "liquidCapacity": 62999, "hasLiquids": true}

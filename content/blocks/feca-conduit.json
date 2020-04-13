@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "feca conduit", "description": "...", "health": 24, "requirements": [{"item": "feca", "amount": 2}, {"item": "bugyta", "amount": 20}, {"item": "sony", "amount": 10}], "liquidCapacity": 2, "liquidPressure": 3, "research": "feca-factory", "category": "liquid"}

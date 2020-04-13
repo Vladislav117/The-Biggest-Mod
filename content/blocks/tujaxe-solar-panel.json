@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tujaxe solar panel", "description": "...", "size": 3, "health": 110, "requirements": [{"item": "tujaxe", "amount": 3}, {"item": "liku", "amount": 10}, {"item": "difyyi", "amount": 6}], "research": "tujaxe-factory", "powerProduction": 0.2064067694288049, "category": "power"}

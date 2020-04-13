@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vewi conduit", "description": "...", "health": 151, "requirements": [{"item": "vewi", "amount": 2}, {"item": "hyko", "amount": 7}, {"item": "xorele", "amount": 4}], "liquidCapacity": 45, "liquidPressure": 10, "research": "vewi-factory", "category": "liquid"}

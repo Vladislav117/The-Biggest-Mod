@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jumozo overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "jumozo", "amount": 3}, {"item": "jigu", "amount": 1}], "research": "jumozo-conveyor", "category": "distribution", "invert": false}

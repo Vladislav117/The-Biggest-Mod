@@ -1,0 +1,1 @@
+{"type": "junction", "name": "danitu junction", "description": "...", "health": 43, "speed": 8, "capacity": 15, "size": 1, "requirements": [{"item": "danitu", "amount": 5}, {"item": "rutylo", "amount": 5}], "research": "danitu-conveyor", "category": "distribution"}

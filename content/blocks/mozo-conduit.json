@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mozo conduit", "description": "...", "health": 108, "requirements": [{"item": "mozo", "amount": 5}, {"item": "watiju", "amount": 12}, {"item": "harugenium", "amount": 8}], "liquidCapacity": 22, "liquidPressure": 9, "research": "mozo-factory", "category": "liquid"}

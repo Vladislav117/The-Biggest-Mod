@@ -1,0 +1,1 @@
+{"type": "battery", "name": "biryqa battery", "description": "...", "size": 3, "health": 38, "requirements": [{"item": "biryqa", "amount": 9}, {"item": "pynydanium", "amount": 16}, {"item": "mimyva", "amount": 10}], "research": "biryqa-factory", "consumes": {"powerBuffered": 4616}, "category": "power"}

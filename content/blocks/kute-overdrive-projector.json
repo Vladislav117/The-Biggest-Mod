@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "kute overdrive projector", "description": "...", "health": 106, "consumes": {"power": 3.0, "item": "kute"}, "size": 2, "requirements": [{"item": "kute", "amount": 14}, {"item": "gado", "amount": 15}, {"item": "qusy", "amount": 9}], "research": "kute-factory", "category": "effect"}

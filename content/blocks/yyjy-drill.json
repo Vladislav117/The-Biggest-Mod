@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yyjy drill", "description": "...", "size": 2, "health": 375, "tier": 3, "drillTime": 14, "consumes": {"power": 16}, "requirements": [{"item": "yyjy", "amount": 13}, {"item": "zugoni", "amount": 8}, {"item": "birynium", "amount": 3}], "research": "yyjy-factory", "category": "production"}

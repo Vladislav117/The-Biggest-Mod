@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ruxyye power node", "description": "...", "size": 1, "health": 138, "requirements": [{"item": "ruxyye", "amount": 12}, {"item": "kyfahu", "amount": 13}, {"item": "dawo", "amount": 9}], "research": "ruxyye-factory", "maxNodes": 11, "laserRange": 15, "category": "power"}

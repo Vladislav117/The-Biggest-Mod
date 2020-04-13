@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small piny solar panel", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "piny", "amount": 14}, {"item": "byveta", "amount": 17}, {"item": "hobo", "amount": 5}], "research": "piny-factory", "powerProduction": 0.11079324682815116, "category": "power"}

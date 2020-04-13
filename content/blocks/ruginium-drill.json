@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "ruginium drill", "description": "...", "size": 3, "health": 131, "tier": 4, "drillTime": 4, "consumes": {"power": 7}, "requirements": [{"item": "ruginium", "amount": 1}, {"item": "koty", "amount": 8}, {"item": "waka", "amount": 8}], "research": "ruginium-factory", "category": "production"}

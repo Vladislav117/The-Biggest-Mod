@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bywobu solar panel", "description": "...", "size": 3, "health": 337, "requirements": [{"item": "bywobu", "amount": 12}, {"item": "famynium", "amount": 17}, {"item": "tanexo", "amount": 9}], "research": "bywobu-factory", "powerProduction": 0.1787230120606938, "category": "power"}

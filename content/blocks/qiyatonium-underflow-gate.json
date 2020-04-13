@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qiyatonium underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "qiyatonium", "amount": 2}, {"item": "rexo", "amount": 5}], "research": "qiyatonium-conveyor", "category": "distribution", "invert": false}

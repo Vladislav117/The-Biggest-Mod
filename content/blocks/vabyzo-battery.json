@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vabyzo battery", "description": "...", "size": 3, "health": 150, "requirements": [{"item": "vabyzo", "amount": 19}, {"item": "pypy", "amount": 13}, {"item": "vywy", "amount": 1}], "research": "vabyzo-factory", "consumes": {"powerBuffered": 7539}, "category": "power"}

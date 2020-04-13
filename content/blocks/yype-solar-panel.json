@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yype solar panel", "description": "...", "size": 3, "health": 190, "requirements": [{"item": "yype", "amount": 11}, {"item": "xivi", "amount": 13}, {"item": "xonanium", "amount": 5}], "research": "yype-factory", "powerProduction": 3.2116677422908158, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hysivi sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "hysivi", "amount": 4}, {"item": "wuqosenium", "amount": 1}], "research": "hysivi-conveyor", "category": "distribution", "invert": false}

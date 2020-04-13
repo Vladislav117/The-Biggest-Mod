@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wuronium solar panel", "description": "...", "size": 1, "health": 272, "requirements": [{"item": "wuronium", "amount": 18}, {"item": "puzanium", "amount": 20}, {"item": "ridu", "amount": 4}], "research": "wuronium-factory", "powerProduction": 2.142013903597041, "category": "power"}

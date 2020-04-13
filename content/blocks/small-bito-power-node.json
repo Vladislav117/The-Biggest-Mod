@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bito power node", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "bito", "amount": 7}, {"item": "lylisa", "amount": 4}, {"item": "fycy", "amount": 6}], "research": "bito-factory", "maxNodes": 6, "laserRange": 13, "category": "power"}

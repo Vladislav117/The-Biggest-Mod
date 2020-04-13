@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tyki solar panel", "description": "...", "size": 3, "health": 190, "requirements": [{"item": "tyki", "amount": 5}, {"item": "wuqyky", "amount": 17}, {"item": "yuyafi", "amount": 2}], "research": "tyki-factory", "powerProduction": 0.6375045540531856, "category": "power"}

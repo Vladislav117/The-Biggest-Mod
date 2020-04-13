@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cimahy power node", "description": "...", "size": 2, "health": 688, "requirements": [{"item": "cimahy", "amount": 17}, {"item": "hexu", "amount": 7}, {"item": "rovaqa", "amount": 1}], "research": "cimahy-factory", "maxNodes": 31, "laserRange": 23, "category": "power"}

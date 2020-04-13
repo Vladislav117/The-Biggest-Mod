@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mozy liquid tank", "description": "...", "health": 591, "size": 3, "requirements": [{"item": "mozy", "amount": 12}, {"item": "tezila", "amount": 18}, {"item": "ceyuwy", "amount": 5}], "research": "mozy-conduit", "category": "liquid", "liquidCapacity": 110459, "hasLiquids": true}

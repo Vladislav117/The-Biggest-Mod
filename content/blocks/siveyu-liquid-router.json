@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "siveyu liquid router", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "siveyu", "amount": 7}, {"item": "byficy", "amount": 10}, {"item": "mizu", "amount": 5}], "research": "siveyu-conduit", "liquidCapacity": 10, "category": "liquid"}

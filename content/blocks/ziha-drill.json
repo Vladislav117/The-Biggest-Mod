@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "ziha drill", "description": "...", "size": 2, "health": 290, "tier": 1, "drillTime": 19, "consumes": {"power": 11}, "requirements": [{"item": "ziha", "amount": 16}, {"item": "fevawinium", "amount": 18}, {"item": "xynice", "amount": 2}], "research": "ziha-factory", "category": "production"}

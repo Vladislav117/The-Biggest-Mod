@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wipori liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "wipori", "amount": 17}, {"item": "hiwenium", "amount": 4}, {"item": "bixuhi", "amount": 9}], "research": "wipori-conduit", "liquidCapacity": 10, "category": "liquid"}

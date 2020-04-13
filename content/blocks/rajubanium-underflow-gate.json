@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rajubanium underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "rajubanium", "amount": 2}, {"item": "giha", "amount": 2}], "research": "rajubanium-conveyor", "category": "distribution", "invert": false}

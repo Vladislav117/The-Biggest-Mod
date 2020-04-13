@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kerizu solar panel", "description": "...", "size": 3, "health": 329, "requirements": [{"item": "kerizu", "amount": 4}, {"item": "huwydy", "amount": 9}, {"item": "xifuli", "amount": 9}], "research": "kerizu-factory", "powerProduction": 1.4867077927980437, "category": "power"}

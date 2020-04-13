@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mibunium liquid router", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "mibunium", "amount": 19}, {"item": "qoviganium", "amount": 5}, {"item": "bulile", "amount": 6}], "research": "mibunium-conduit", "liquidCapacity": 10, "category": "liquid"}

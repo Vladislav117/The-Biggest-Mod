@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cecuvinium power node", "description": "...", "size": 2, "health": 312, "requirements": [{"item": "cecuvinium", "amount": 12}, {"item": "dipewanium", "amount": 9}, {"item": "fahi", "amount": 1}], "research": "cecuvinium-factory", "maxNodes": 37, "laserRange": 12, "category": "power"}

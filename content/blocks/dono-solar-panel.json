@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dono solar panel", "description": "...", "size": 3, "health": 224, "requirements": [{"item": "dono", "amount": 12}, {"item": "koty", "amount": 16}, {"item": "lemoqa", "amount": 3}], "research": "dono-factory", "powerProduction": 6.223496365525838, "category": "power"}

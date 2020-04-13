@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pagopy power node", "description": "...", "size": 1, "health": 200, "requirements": [{"item": "pagopy", "amount": 20}, {"item": "tibu", "amount": 12}, {"item": "fimi", "amount": 9}], "research": "pagopy-factory", "maxNodes": 15, "laserRange": 4, "category": "power"}

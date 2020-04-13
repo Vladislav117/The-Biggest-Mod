@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gyqekunium power node", "description": "...", "size": 2, "health": 258, "requirements": [{"item": "gyqekunium", "amount": 8}, {"item": "wore", "amount": 17}, {"item": "seqyyi", "amount": 9}], "research": "gyqekunium-factory", "maxNodes": 15, "laserRange": 15, "category": "power"}

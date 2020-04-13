@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kozypi liquid router", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "kozypi", "amount": 20}, {"item": "xapu", "amount": 6}, {"item": "pemo", "amount": 5}], "research": "kozypi-conduit", "liquidCapacity": 10, "category": "liquid"}

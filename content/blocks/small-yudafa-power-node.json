@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yudafa power node", "description": "...", "size": 1, "health": 355, "requirements": [{"item": "yudafa", "amount": 16}, {"item": "tiwyna", "amount": 14}, {"item": "pavanium", "amount": 6}], "research": "yudafa-factory", "maxNodes": 17, "laserRange": 19, "category": "power"}

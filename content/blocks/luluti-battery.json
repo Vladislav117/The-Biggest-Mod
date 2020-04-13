@@ -1,0 +1,1 @@
+{"type": "battery", "name": "luluti battery", "description": "...", "size": 3, "health": 78, "requirements": [{"item": "luluti", "amount": 15}, {"item": "loja", "amount": 2}, {"item": "jydo", "amount": 7}], "research": "luluti-factory", "consumes": {"powerBuffered": 3726}, "category": "power"}

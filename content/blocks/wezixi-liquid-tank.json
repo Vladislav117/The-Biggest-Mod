@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wezixi liquid tank", "description": "...", "health": 588, "size": 3, "requirements": [{"item": "wezixi", "amount": 9}, {"item": "deqo", "amount": 12}, {"item": "xipyvu", "amount": 4}], "research": "wezixi-conduit", "category": "liquid", "liquidCapacity": 1698, "hasLiquids": true}

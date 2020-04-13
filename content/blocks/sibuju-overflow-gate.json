@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sibuju overflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "sibuju", "amount": 5}, {"item": "gybanium", "amount": 5}], "research": "sibuju-conveyor", "category": "distribution", "invert": false}

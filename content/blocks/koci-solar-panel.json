@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "koci solar panel", "description": "...", "size": 3, "health": 167, "requirements": [{"item": "koci", "amount": 12}, {"item": "rukycu", "amount": 20}, {"item": "viwymynium", "amount": 1}], "research": "koci-factory", "powerProduction": 0.08680462172608445, "category": "power"}

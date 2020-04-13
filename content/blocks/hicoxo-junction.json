@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hicoxo junction", "description": "...", "health": 2, "speed": 15, "capacity": 18, "size": 1, "requirements": [{"item": "hicoxo", "amount": 4}, {"item": "kipyzonium", "amount": 5}], "research": "hicoxo-conveyor", "category": "distribution"}

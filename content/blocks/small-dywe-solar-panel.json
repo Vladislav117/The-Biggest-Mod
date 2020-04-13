@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dywe solar panel", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "dywe", "amount": 19}, {"item": "vihy", "amount": 12}, {"item": "jucoqe", "amount": 1}], "research": "dywe-factory", "powerProduction": 0.9844411396401034, "category": "power"}

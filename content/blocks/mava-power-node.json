@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mava power node", "description": "...", "size": 2, "health": 288, "requirements": [{"item": "mava", "amount": 19}, {"item": "qepisu", "amount": 15}, {"item": "qodanunium", "amount": 2}], "research": "mava-factory", "maxNodes": 43, "laserRange": 12, "category": "power"}

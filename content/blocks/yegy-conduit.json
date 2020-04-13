@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yegy conduit", "description": "...", "health": 197, "requirements": [{"item": "yegy", "amount": 3}, {"item": "jacala", "amount": 2}, {"item": "zohura", "amount": 5}], "liquidCapacity": 31, "liquidPressure": 2, "research": "yegy-factory", "category": "liquid"}

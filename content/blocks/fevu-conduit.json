@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fevu conduit", "description": "...", "health": 150, "requirements": [{"item": "fevu", "amount": 12}, {"item": "pegycy", "amount": 11}, {"item": "yajawa", "amount": 10}], "liquidCapacity": 40, "liquidPressure": 8, "research": "fevu-factory", "category": "liquid"}

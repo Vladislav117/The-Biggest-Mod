@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fexuxy power node", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "fexuxy", "amount": 14}, {"item": "gotepy", "amount": 4}, {"item": "qeyy", "amount": 5}], "research": "fexuxy-factory", "maxNodes": 26, "laserRange": 6, "category": "power"}

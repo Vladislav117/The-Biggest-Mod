@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mifynium junction", "description": "...", "health": 50, "speed": 14, "capacity": 3, "size": 1, "requirements": [{"item": "mifynium", "amount": 5}, {"item": "lyzecinium", "amount": 1}], "research": "mifynium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sisinium solar panel", "description": "...", "size": 1, "health": 109, "requirements": [{"item": "sisinium", "amount": 15}, {"item": "naho", "amount": 4}, {"item": "pusy", "amount": 10}], "research": "sisinium-factory", "powerProduction": 5.376919536951461, "category": "power"}

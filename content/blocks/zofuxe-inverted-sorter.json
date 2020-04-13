@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zofuxe inverted sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "zofuxe", "amount": 2}, {"item": "nytodunium", "amount": 1}], "research": "zofuxe-conveyor", "category": "distribution", "invert": true}

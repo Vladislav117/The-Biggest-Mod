@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "leloyi force projector", "description": "...", "health": 210, "size": 3, "consumes": {"power": 5.0, "item": "leloyi"}, "requirements": [{"item": "leloyi", "amount": 15}, {"item": "hyfeho", "amount": 11}, {"item": "sore", "amount": 10}], "research": "leloyi-factory", "category": "effect"}

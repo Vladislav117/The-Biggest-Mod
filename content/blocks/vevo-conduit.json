@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vevo conduit", "description": "...", "health": 170, "requirements": [{"item": "vevo", "amount": 8}, {"item": "pawynium", "amount": 13}, {"item": "loqa", "amount": 2}], "liquidCapacity": 40, "liquidPressure": 9, "research": "vevo-factory", "category": "liquid"}

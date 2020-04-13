@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zaba drill", "description": "...", "size": 4, "health": 139, "tier": 1, "drillTime": 10, "consumes": {"power": 17}, "requirements": [{"item": "zaba", "amount": 2}, {"item": "boqi", "amount": 9}, {"item": "peze", "amount": 9}], "research": "zaba-factory", "category": "production"}

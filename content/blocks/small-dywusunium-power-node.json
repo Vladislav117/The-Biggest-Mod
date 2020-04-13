@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dywusunium power node", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "dywusunium", "amount": 16}, {"item": "bihu", "amount": 9}, {"item": "cupo", "amount": 5}], "research": "dywusunium-factory", "maxNodes": 22, "laserRange": 24, "category": "power"}

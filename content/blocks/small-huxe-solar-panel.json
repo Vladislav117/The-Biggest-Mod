@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small huxe solar panel", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "huxe", "amount": 18}, {"item": "nihy", "amount": 19}, {"item": "nyboye", "amount": 3}], "research": "huxe-factory", "powerProduction": 4.199783998211285, "category": "power"}

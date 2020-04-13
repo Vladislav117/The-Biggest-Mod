@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nahixi liquid tank", "description": "...", "health": 463, "size": 3, "requirements": [{"item": "nahixi", "amount": 15}, {"item": "sozu", "amount": 17}, {"item": "fygino", "amount": 10}], "research": "nahixi-conduit", "category": "liquid", "liquidCapacity": 49681, "hasLiquids": true}

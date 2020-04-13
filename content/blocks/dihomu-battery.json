@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dihomu battery", "description": "...", "size": 3, "health": 211, "requirements": [{"item": "dihomu", "amount": 15}, {"item": "yunu", "amount": 15}, {"item": "wupera", "amount": 3}], "research": "dihomu-factory", "consumes": {"powerBuffered": 4556}, "category": "power"}

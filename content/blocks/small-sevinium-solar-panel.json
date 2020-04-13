@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sevinium solar panel", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "sevinium", "amount": 12}, {"item": "meranium", "amount": 17}, {"item": "roje", "amount": 2}], "research": "sevinium-factory", "powerProduction": 4.94577598601062, "category": "power"}

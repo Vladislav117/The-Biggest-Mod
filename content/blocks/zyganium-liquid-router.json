@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zyganium liquid router", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "zyganium", "amount": 15}, {"item": "zilanium", "amount": 4}, {"item": "cesipe", "amount": 9}], "research": "zyganium-conduit", "liquidCapacity": 10, "category": "liquid"}

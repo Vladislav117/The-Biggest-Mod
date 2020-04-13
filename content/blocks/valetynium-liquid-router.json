@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "valetynium liquid router", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "valetynium", "amount": 3}, {"item": "covikinium", "amount": 18}, {"item": "mesa", "amount": 10}], "research": "valetynium-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "guliyu liquid tank", "description": "...", "health": 328, "size": 3, "requirements": [{"item": "guliyu", "amount": 9}, {"item": "vodico", "amount": 6}, {"item": "yocoke", "amount": 5}], "research": "guliyu-conduit", "category": "liquid", "liquidCapacity": 110423, "hasLiquids": true}

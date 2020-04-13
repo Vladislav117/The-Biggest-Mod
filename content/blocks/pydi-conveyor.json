@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pydi conveyor", "description": "...", "health": 305, "requirements": [{"item": "pydi", "amount": 6}, {"item": "mawanium", "amount": 2}], "speed": 0.4206135144379829, "research": "pydi-factory", "category": "distribution"}

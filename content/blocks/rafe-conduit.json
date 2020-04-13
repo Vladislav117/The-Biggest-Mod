@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rafe conduit", "description": "...", "health": 65, "requirements": [{"item": "rafe", "amount": 2}, {"item": "kyfe", "amount": 3}, {"item": "ruteqa", "amount": 8}], "liquidCapacity": 12, "liquidPressure": 8, "research": "rafe-factory", "category": "liquid"}

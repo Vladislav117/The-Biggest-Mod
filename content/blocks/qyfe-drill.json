@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qyfe drill", "description": "...", "size": 2, "health": 240, "tier": 2, "drillTime": 19, "consumes": {"power": 14}, "requirements": [{"item": "qyfe", "amount": 11}, {"item": "pigagunium", "amount": 2}, {"item": "xurenium", "amount": 10}], "research": "qyfe-factory", "category": "production"}

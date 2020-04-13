@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zupisy power node", "description": "...", "size": 1, "health": 359, "requirements": [{"item": "zupisy", "amount": 19}, {"item": "sohusu", "amount": 8}, {"item": "mife", "amount": 9}], "research": "zupisy-factory", "maxNodes": 11, "laserRange": 14, "category": "power"}

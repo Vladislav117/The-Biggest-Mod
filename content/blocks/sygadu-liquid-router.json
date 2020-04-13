@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sygadu liquid router", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "sygadu", "amount": 12}, {"item": "bapi", "amount": 3}, {"item": "rodi", "amount": 4}], "research": "sygadu-conduit", "liquidCapacity": 10, "category": "liquid"}

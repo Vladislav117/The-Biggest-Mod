@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gonehy underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "gonehy", "amount": 3}, {"item": "sytafe", "amount": 1}], "research": "gonehy-conveyor", "category": "distribution", "invert": false}

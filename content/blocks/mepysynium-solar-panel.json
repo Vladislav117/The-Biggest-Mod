@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mepysynium solar panel", "description": "...", "size": 3, "health": 260, "requirements": [{"item": "mepysynium", "amount": 10}, {"item": "baxy", "amount": 16}, {"item": "gigevonium", "amount": 7}], "research": "mepysynium-factory", "powerProduction": 1.8776088076836246, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "voya liquid tank", "description": "...", "health": 389, "size": 3, "requirements": [{"item": "voya", "amount": 9}, {"item": "sapymanium", "amount": 11}, {"item": "zuzequ", "amount": 6}], "research": "voya-conduit", "category": "liquid", "liquidCapacity": 9763, "hasLiquids": true}

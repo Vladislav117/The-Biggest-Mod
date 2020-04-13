@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xeco junction", "description": "...", "health": 48, "speed": 20, "capacity": 12, "size": 1, "requirements": [{"item": "xeco", "amount": 2}, {"item": "dezi", "amount": 2}], "research": "xeco-conveyor", "category": "distribution"}

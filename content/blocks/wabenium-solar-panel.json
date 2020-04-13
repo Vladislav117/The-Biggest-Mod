@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wabenium solar panel", "description": "...", "size": 3, "health": 385, "requirements": [{"item": "wabenium", "amount": 1}, {"item": "pominium", "amount": 13}, {"item": "rylyki", "amount": 7}], "research": "wabenium-factory", "powerProduction": 8.898615603533647, "category": "power"}

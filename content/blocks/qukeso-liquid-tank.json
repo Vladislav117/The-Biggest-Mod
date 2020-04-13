@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qukeso liquid tank", "description": "...", "health": 156, "size": 3, "requirements": [{"item": "qukeso", "amount": 9}, {"item": "besivi", "amount": 19}, {"item": "mapo", "amount": 8}], "research": "qukeso-conduit", "category": "liquid", "liquidCapacity": 100144, "hasLiquids": true}

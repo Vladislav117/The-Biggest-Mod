@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gunery solar panel", "description": "...", "size": 1, "health": 209, "requirements": [{"item": "gunery", "amount": 3}, {"item": "qari", "amount": 20}, {"item": "zufi", "amount": 4}], "research": "gunery-factory", "powerProduction": 1.947506818800966, "category": "power"}

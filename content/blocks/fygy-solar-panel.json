@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fygy solar panel", "description": "...", "size": 3, "health": 143, "requirements": [{"item": "fygy", "amount": 15}, {"item": "jayaye", "amount": 8}, {"item": "veqyro", "amount": 5}], "research": "fygy-factory", "powerProduction": 0.06641986950676129, "category": "power"}

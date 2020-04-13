@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nedybu liquid tank", "description": "...", "health": 126, "size": 3, "requirements": [{"item": "nedybu", "amount": 6}, {"item": "lyzecinium", "amount": 2}, {"item": "movanium", "amount": 8}], "research": "nedybu-conduit", "category": "liquid", "liquidCapacity": 80029, "hasLiquids": true}

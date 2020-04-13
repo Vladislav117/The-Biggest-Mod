@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lijanium liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "lijanium", "amount": 20}, {"item": "kilu", "amount": 6}, {"item": "depyya", "amount": 1}], "research": "lijanium-conduit", "liquidCapacity": 10, "category": "liquid"}

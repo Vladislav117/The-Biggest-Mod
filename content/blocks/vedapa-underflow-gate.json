@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vedapa underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "vedapa", "amount": 5}, {"item": "wuqosenium", "amount": 4}], "research": "vedapa-conveyor", "category": "distribution", "invert": false}

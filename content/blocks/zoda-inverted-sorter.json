@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zoda inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "zoda", "amount": 5}, {"item": "qeyanium", "amount": 3}], "research": "zoda-conveyor", "category": "distribution", "invert": true}

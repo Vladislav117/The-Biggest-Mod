@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kiqe liquid tank", "description": "...", "health": 628, "size": 3, "requirements": [{"item": "kiqe", "amount": 14}, {"item": "kexebinium", "amount": 14}, {"item": "jytubinium", "amount": 1}], "research": "kiqe-conduit", "category": "liquid", "liquidCapacity": 116354, "hasLiquids": true}

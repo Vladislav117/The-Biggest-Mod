@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qivoha bridge conveyor", "description": "", "health": 17, "range": 11, "speed": 16, "bufferCapacity": 22, "requirements": [{"item": "qivoha", "amount": 1}, {"item": "tasusynium", "amount": 2}], "research": "qivoha-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nivifu drill", "description": "...", "size": 3, "health": 141, "tier": 1, "drillTime": 16, "consumes": {"power": 7}, "requirements": [{"item": "nivifu", "amount": 6}, {"item": "cuse", "amount": 13}, {"item": "vevi", "amount": 3}], "research": "nivifu-factory", "category": "production"}

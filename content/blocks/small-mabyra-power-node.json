@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mabyra power node", "description": "...", "size": 1, "health": 211, "requirements": [{"item": "mabyra", "amount": 7}, {"item": "mapibi", "amount": 8}, {"item": "vevati", "amount": 5}], "research": "mabyra-factory", "maxNodes": 22, "laserRange": 4, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "piqurynium solar panel", "description": "...", "size": 3, "health": 297, "requirements": [{"item": "piqurynium", "amount": 16}, {"item": "doxuri", "amount": 13}, {"item": "lasige", "amount": 5}], "research": "piqurynium-factory", "powerProduction": 1.3315697893694507, "category": "power"}

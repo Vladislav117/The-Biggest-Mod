@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hihunium power node", "description": "...", "size": 2, "health": 797, "requirements": [{"item": "hihunium", "amount": 15}, {"item": "nimy", "amount": 8}, {"item": "vadoda", "amount": 2}], "research": "hihunium-factory", "maxNodes": 10, "laserRange": 26, "category": "power"}

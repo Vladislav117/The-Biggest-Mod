@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yumoha conduit", "description": "...", "health": 102, "requirements": [{"item": "yumoha", "amount": 20}, {"item": "fica", "amount": 9}, {"item": "bulanium", "amount": 1}], "liquidCapacity": 25, "liquidPressure": 9, "research": "yumoha-factory", "category": "liquid"}

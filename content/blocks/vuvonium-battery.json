@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vuvonium battery", "description": "...", "size": 3, "health": 88, "requirements": [{"item": "vuvonium", "amount": 6}, {"item": "huky", "amount": 11}, {"item": "hiwasi", "amount": 2}], "research": "vuvonium-factory", "consumes": {"powerBuffered": 2189}, "category": "power"}

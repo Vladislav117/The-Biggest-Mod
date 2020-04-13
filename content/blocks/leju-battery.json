@@ -1,0 +1,1 @@
+{"type": "battery", "name": "leju battery", "description": "...", "size": 3, "health": 97, "requirements": [{"item": "leju", "amount": 16}, {"item": "nyma", "amount": 2}, {"item": "nexojo", "amount": 10}], "research": "leju-factory", "consumes": {"powerBuffered": 6394}, "category": "power"}

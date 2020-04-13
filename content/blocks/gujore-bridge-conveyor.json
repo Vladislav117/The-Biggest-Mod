@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gujore bridge conveyor", "description": "", "health": 14, "range": 1, "speed": 18, "bufferCapacity": 4, "requirements": [{"item": "gujore", "amount": 2}, {"item": "yobito", "amount": 1}], "research": "gujore-conveyor", "category": "distribution", "size": 1}

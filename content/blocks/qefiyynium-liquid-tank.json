@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qefiyynium liquid tank", "description": "...", "health": 210, "size": 3, "requirements": [{"item": "qefiyynium", "amount": 10}, {"item": "niyy", "amount": 10}, {"item": "zireli", "amount": 1}], "research": "qefiyynium-conduit", "category": "liquid", "liquidCapacity": 102904, "hasLiquids": true}

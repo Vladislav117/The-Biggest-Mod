@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zapu liquid router", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "zapu", "amount": 11}, {"item": "lepe", "amount": 10}, {"item": "seyobo", "amount": 4}], "research": "zapu-conduit", "liquidCapacity": 10, "category": "liquid"}

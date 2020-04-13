@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nuniyi battery", "description": "...", "size": 1, "health": 215, "requirements": [{"item": "nuniyi", "amount": 7}, {"item": "somufu", "amount": 18}, {"item": "yydy", "amount": 1}], "research": "nuniyi-factory", "consumes": {"powerBuffered": 524}, "category": "power"}

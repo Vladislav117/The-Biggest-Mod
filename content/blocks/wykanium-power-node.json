@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wykanium power node", "description": "...", "size": 2, "health": 754, "requirements": [{"item": "wykanium", "amount": 14}, {"item": "meny", "amount": 5}, {"item": "woqydu", "amount": 9}], "research": "wykanium-factory", "maxNodes": 15, "laserRange": 23, "category": "power"}

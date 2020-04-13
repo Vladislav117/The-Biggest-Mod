@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zoxi solar panel", "description": "...", "size": 3, "health": 33, "requirements": [{"item": "zoxi", "amount": 1}, {"item": "caxoni", "amount": 2}, {"item": "yeli", "amount": 2}], "research": "zoxi-factory", "powerProduction": 0.005138084739386039, "category": "power"}

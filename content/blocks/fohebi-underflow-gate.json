@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fohebi underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "fohebi", "amount": 3}, {"item": "metaglass", "amount": 4}], "research": "fohebi-conveyor", "category": "distribution", "invert": false}

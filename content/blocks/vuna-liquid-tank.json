@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vuna liquid tank", "description": "...", "health": 131, "size": 3, "requirements": [{"item": "vuna", "amount": 18}, {"item": "marynium", "amount": 3}, {"item": "dyzo", "amount": 9}], "research": "vuna-conduit", "category": "liquid", "liquidCapacity": 29169, "hasLiquids": true}

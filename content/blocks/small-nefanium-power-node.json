@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nefanium power node", "description": "...", "size": 1, "health": 171, "requirements": [{"item": "nefanium", "amount": 17}, {"item": "wohy", "amount": 7}, {"item": "qusy", "amount": 7}], "research": "nefanium-factory", "maxNodes": 10, "laserRange": 13, "category": "power"}

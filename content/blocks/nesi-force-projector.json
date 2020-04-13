@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "nesi force projector", "description": "...", "health": 207, "size": 3, "consumes": {"power": 5.0, "item": "nesi"}, "requirements": [{"item": "nesi", "amount": 17}, {"item": "sukanium", "amount": 15}, {"item": "vykofa", "amount": 4}], "research": "nesi-factory", "category": "effect"}

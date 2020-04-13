@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nedihenium battery", "description": "...", "size": 3, "health": 118, "requirements": [{"item": "nedihenium", "amount": 5}, {"item": "fikexonium", "amount": 16}, {"item": "naho", "amount": 2}], "research": "nedihenium-factory", "consumes": {"powerBuffered": 4302}, "category": "power"}

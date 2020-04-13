@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pezuxonium junction", "description": "...", "health": 10, "speed": 15, "capacity": 15, "size": 1, "requirements": [{"item": "pezuxonium", "amount": 5}, {"item": "siyake", "amount": 3}], "research": "pezuxonium-conveyor", "category": "distribution"}

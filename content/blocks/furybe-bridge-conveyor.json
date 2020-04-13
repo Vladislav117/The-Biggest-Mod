@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "furybe bridge conveyor", "description": "", "health": 40, "range": 5, "speed": 12, "bufferCapacity": 19, "requirements": [{"item": "furybe", "amount": 1}, {"item": "vego", "amount": 4}], "research": "furybe-conveyor", "category": "distribution", "size": 1}

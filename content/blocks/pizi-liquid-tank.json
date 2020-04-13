@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pizi liquid tank", "description": "...", "health": 147, "size": 3, "requirements": [{"item": "pizi", "amount": 5}, {"item": "sarijynium", "amount": 15}, {"item": "xutire", "amount": 5}], "research": "pizi-conduit", "category": "liquid", "liquidCapacity": 79432, "hasLiquids": true}

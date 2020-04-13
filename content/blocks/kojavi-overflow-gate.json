@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kojavi overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "kojavi", "amount": 4}, {"item": "dicaku", "amount": 2}], "research": "kojavi-conveyor", "category": "distribution", "invert": false}

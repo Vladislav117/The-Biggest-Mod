@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kojavi inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "kojavi", "amount": 1}, {"item": "hivesy", "amount": 1}], "research": "kojavi-conveyor", "category": "distribution", "invert": true}

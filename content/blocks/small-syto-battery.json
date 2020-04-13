@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small syto battery", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "syto", "amount": 17}, {"item": "loma", "amount": 6}, {"item": "wety", "amount": 10}], "research": "syto-factory", "consumes": {"powerBuffered": 385}, "category": "power"}

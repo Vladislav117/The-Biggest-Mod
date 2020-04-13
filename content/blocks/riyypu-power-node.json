@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "riyypu power node", "description": "...", "size": 2, "health": 334, "requirements": [{"item": "riyypu", "amount": 3}, {"item": "vyfebo", "amount": 16}, {"item": "tyqylo", "amount": 1}], "research": "riyypu-factory", "maxNodes": 40, "laserRange": 14, "category": "power"}

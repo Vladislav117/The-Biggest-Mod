@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tupo battery", "description": "...", "size": 3, "health": 391, "requirements": [{"item": "tupo", "amount": 20}, {"item": "hufema", "amount": 11}, {"item": "tire", "amount": 2}], "research": "tupo-factory", "consumes": {"powerBuffered": 3667}, "category": "power"}

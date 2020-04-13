@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mido bridge conveyor", "description": "", "health": 12, "range": 6, "speed": 17, "bufferCapacity": 25, "requirements": [{"item": "mido", "amount": 2}, {"item": "locu", "amount": 1}], "research": "mido-conveyor", "category": "distribution", "size": 1}

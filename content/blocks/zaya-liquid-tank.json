@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zaya liquid tank", "description": "...", "health": 556, "size": 3, "requirements": [{"item": "zaya", "amount": 18}, {"item": "vykuzo", "amount": 6}, {"item": "husysi", "amount": 2}], "research": "zaya-conduit", "category": "liquid", "liquidCapacity": 83062, "hasLiquids": true}

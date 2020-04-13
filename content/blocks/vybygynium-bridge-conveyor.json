@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vybygynium bridge conveyor", "description": "", "health": 40, "range": 4, "speed": 15, "bufferCapacity": 21, "requirements": [{"item": "vybygynium", "amount": 4}, {"item": "zowenium", "amount": 3}], "research": "vybygynium-conveyor", "category": "distribution", "size": 1}

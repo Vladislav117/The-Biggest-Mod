@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gepe inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "gepe", "amount": 5}, {"item": "toni", "amount": 3}], "research": "gepe-conveyor", "category": "distribution", "invert": true}

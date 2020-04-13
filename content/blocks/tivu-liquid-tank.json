@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tivu liquid tank", "description": "...", "health": 231, "size": 3, "requirements": [{"item": "tivu", "amount": 8}, {"item": "ragoku", "amount": 18}, {"item": "zypiqi", "amount": 1}], "research": "tivu-conduit", "category": "liquid", "liquidCapacity": 67220, "hasLiquids": true}

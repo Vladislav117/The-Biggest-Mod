@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gaqite liquid tank", "description": "...", "health": 225, "size": 3, "requirements": [{"item": "gaqite", "amount": 4}, {"item": "lotacu", "amount": 8}, {"item": "xiga", "amount": 4}], "research": "gaqite-conduit", "category": "liquid", "liquidCapacity": 13317, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xegefenium battery", "description": "...", "size": 3, "health": 240, "requirements": [{"item": "xegefenium", "amount": 18}, {"item": "yanawa", "amount": 14}, {"item": "gobaxu", "amount": 6}], "research": "xegefenium-factory", "consumes": {"powerBuffered": 4491}, "category": "power"}

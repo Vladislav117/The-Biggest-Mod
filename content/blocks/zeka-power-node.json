@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zeka power node", "description": "...", "size": 2, "health": 436, "requirements": [{"item": "zeka", "amount": 19}, {"item": "yedyte", "amount": 2}, {"item": "dyxuhu", "amount": 10}], "research": "zeka-factory", "maxNodes": 14, "laserRange": 12, "category": "power"}

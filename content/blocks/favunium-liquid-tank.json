@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "favunium liquid tank", "description": "...", "health": 124, "size": 3, "requirements": [{"item": "favunium", "amount": 18}, {"item": "kywowa", "amount": 12}, {"item": "gozefynium", "amount": 8}], "research": "favunium-conduit", "category": "liquid", "liquidCapacity": 103170, "hasLiquids": true}

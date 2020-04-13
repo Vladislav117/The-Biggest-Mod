@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hyse solar panel", "description": "...", "size": 3, "health": 358, "requirements": [{"item": "hyse", "amount": 7}, {"item": "ficebanium", "amount": 20}, {"item": "zege", "amount": 4}], "research": "hyse-factory", "powerProduction": 5.535028236592297, "category": "power"}

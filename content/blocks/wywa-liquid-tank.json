@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wywa liquid tank", "description": "...", "health": 356, "size": 3, "requirements": [{"item": "wywa", "amount": 1}, {"item": "sice", "amount": 16}, {"item": "mivuwa", "amount": 2}], "research": "wywa-conduit", "category": "liquid", "liquidCapacity": 85085, "hasLiquids": true}

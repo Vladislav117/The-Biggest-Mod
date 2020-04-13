@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mynufu inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "mynufu", "amount": 1}, {"item": "gyzuju", "amount": 4}], "research": "mynufu-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wulu junction", "description": "...", "health": 10, "speed": 1, "capacity": 3, "size": 1, "requirements": [{"item": "wulu", "amount": 1}, {"item": "woze", "amount": 2}], "research": "wulu-conveyor", "category": "distribution"}

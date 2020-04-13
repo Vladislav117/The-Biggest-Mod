@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gasagu drill", "description": "...", "size": 3, "health": 304, "tier": 1, "drillTime": 15, "consumes": {"power": 5}, "requirements": [{"item": "gasagu", "amount": 14}, {"item": "luwonium", "amount": 16}, {"item": "dyjitonium", "amount": 5}], "research": "gasagu-factory", "category": "production"}

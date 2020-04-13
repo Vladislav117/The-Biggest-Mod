@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zimabe solar panel", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "zimabe", "amount": 18}, {"item": "pudoki", "amount": 9}, {"item": "fuyoja", "amount": 9}], "research": "zimabe-factory", "powerProduction": 0.0957079872276097, "category": "power"}

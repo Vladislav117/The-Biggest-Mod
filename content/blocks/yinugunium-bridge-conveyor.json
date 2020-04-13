@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yinugunium bridge conveyor", "description": "", "health": 30, "range": 1, "speed": 7, "bufferCapacity": 18, "requirements": [{"item": "yinugunium", "amount": 4}, {"item": "tamuna", "amount": 4}], "research": "yinugunium-conveyor", "category": "distribution", "size": 1}

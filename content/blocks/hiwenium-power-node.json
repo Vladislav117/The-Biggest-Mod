@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hiwenium power node", "description": "...", "size": 2, "health": 663, "requirements": [{"item": "hiwenium", "amount": 8}, {"item": "kavequ", "amount": 8}, {"item": "kyte", "amount": 1}], "research": "hiwenium-factory", "maxNodes": 18, "laserRange": 10, "category": "power"}

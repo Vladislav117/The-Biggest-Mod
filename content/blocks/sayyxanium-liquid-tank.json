@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sayyxanium liquid tank", "description": "...", "health": 629, "size": 3, "requirements": [{"item": "sayyxanium", "amount": 5}, {"item": "cify", "amount": 10}, {"item": "toku", "amount": 3}], "research": "sayyxanium-conduit", "category": "liquid", "liquidCapacity": 20953, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small musonium solar panel", "description": "...", "size": 1, "health": 178, "requirements": [{"item": "musonium", "amount": 5}, {"item": "pivojunium", "amount": 18}, {"item": "tire", "amount": 6}], "research": "musonium-factory", "powerProduction": 0.14473747441558832, "category": "power"}

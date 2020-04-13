@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "milosi overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "milosi", "amount": 3}, {"item": "fulyzynium", "amount": 4}], "research": "milosi-conveyor", "category": "distribution", "invert": false}

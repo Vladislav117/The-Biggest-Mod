@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kosyqa battery", "description": "...", "size": 3, "health": 126, "requirements": [{"item": "kosyqa", "amount": 1}, {"item": "peno", "amount": 12}, {"item": "qipy", "amount": 10}], "research": "kosyqa-factory", "consumes": {"powerBuffered": 7066}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small toqe power node", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "toqe", "amount": 11}, {"item": "cupyvu", "amount": 1}, {"item": "lacepy", "amount": 10}], "research": "toqe-factory", "maxNodes": 7, "laserRange": 20, "category": "power"}

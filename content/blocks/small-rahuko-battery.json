@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rahuko battery", "description": "...", "size": 1, "health": 385, "requirements": [{"item": "rahuko", "amount": 10}, {"item": "gineta", "amount": 9}, {"item": "vepipu", "amount": 6}], "research": "rahuko-factory", "consumes": {"powerBuffered": 2226}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pumy liquid tank", "description": "...", "health": 582, "size": 3, "requirements": [{"item": "pumy", "amount": 3}, {"item": "reyezy", "amount": 11}, {"item": "hisucy", "amount": 10}], "research": "pumy-conduit", "category": "liquid", "liquidCapacity": 73668, "hasLiquids": true}

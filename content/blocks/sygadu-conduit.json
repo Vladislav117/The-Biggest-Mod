@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sygadu conduit", "description": "...", "health": 87, "requirements": [{"item": "sygadu", "amount": 18}, {"item": "leguwu", "amount": 5}, {"item": "gonehy", "amount": 4}], "liquidCapacity": 48, "liquidPressure": 8, "research": "sygadu-factory", "category": "liquid"}

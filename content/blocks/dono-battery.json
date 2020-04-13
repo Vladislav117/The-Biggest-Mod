@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dono battery", "description": "...", "size": 3, "health": 375, "requirements": [{"item": "dono", "amount": 16}, {"item": "kura", "amount": 14}, {"item": "rumo", "amount": 5}], "research": "dono-factory", "consumes": {"powerBuffered": 5752}, "category": "power"}

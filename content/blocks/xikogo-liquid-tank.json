@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xikogo liquid tank", "description": "...", "health": 659, "size": 3, "requirements": [{"item": "xikogo", "amount": 5}, {"item": "wiba", "amount": 9}, {"item": "hoqade", "amount": 1}], "research": "xikogo-conduit", "category": "liquid", "liquidCapacity": 9341, "hasLiquids": true}

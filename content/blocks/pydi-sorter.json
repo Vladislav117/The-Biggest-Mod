@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pydi sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "pydi", "amount": 1}, {"item": "yomema", "amount": 1}], "research": "pydi-conveyor", "category": "distribution", "invert": false}

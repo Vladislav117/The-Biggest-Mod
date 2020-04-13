@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xekota liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "xekota", "amount": 19}, {"item": "lyheti", "amount": 15}, {"item": "jylovo", "amount": 6}], "research": "xekota-conduit", "liquidCapacity": 10, "category": "liquid"}

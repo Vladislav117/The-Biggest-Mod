@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cesewo liquid tank", "description": "...", "health": 250, "size": 3, "requirements": [{"item": "cesewo", "amount": 20}, {"item": "qeze", "amount": 9}, {"item": "vaso", "amount": 9}], "research": "cesewo-conduit", "category": "liquid", "liquidCapacity": 85187, "hasLiquids": true}

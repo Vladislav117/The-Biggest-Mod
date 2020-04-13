@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zeny battery", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "zeny", "amount": 2}, {"item": "leriki", "amount": 4}, {"item": "lefelenium", "amount": 3}], "research": "zeny-factory", "consumes": {"powerBuffered": 2893}, "category": "power"}

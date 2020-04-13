@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wani liquid tank", "description": "...", "health": 121, "size": 3, "requirements": [{"item": "wani", "amount": 16}, {"item": "qeqona", "amount": 19}, {"item": "lulomu", "amount": 9}], "research": "wani-conduit", "category": "liquid", "liquidCapacity": 4239, "hasLiquids": true}

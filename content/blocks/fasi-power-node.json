@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fasi power node", "description": "...", "size": 2, "health": 193, "requirements": [{"item": "fasi", "amount": 4}, {"item": "xutire", "amount": 12}, {"item": "kyqedu", "amount": 4}], "research": "fasi-factory", "maxNodes": 51, "laserRange": 8, "category": "power"}

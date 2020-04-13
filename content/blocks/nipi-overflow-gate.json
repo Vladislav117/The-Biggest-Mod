@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nipi overflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "nipi", "amount": 3}, {"item": "kosonium", "amount": 5}], "research": "nipi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nosynium conduit", "description": "...", "health": 200, "requirements": [{"item": "nosynium", "amount": 9}, {"item": "zawo", "amount": 11}, {"item": "koci", "amount": 4}], "liquidCapacity": 16, "liquidPressure": 7, "research": "nosynium-factory", "category": "liquid"}

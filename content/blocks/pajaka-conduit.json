@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pajaka conduit", "description": "...", "health": 150, "requirements": [{"item": "pajaka", "amount": 10}, {"item": "yalaka", "amount": 15}, {"item": "vudaxy", "amount": 5}], "liquidCapacity": 10, "liquidPressure": 0, "research": "pajaka-factory", "category": "liquid"}

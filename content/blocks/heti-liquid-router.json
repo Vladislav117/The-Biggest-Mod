@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "heti liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "heti", "amount": 13}, {"item": "lucohi", "amount": 2}, {"item": "siyenium", "amount": 8}], "research": "heti-conduit", "liquidCapacity": 10, "category": "liquid"}

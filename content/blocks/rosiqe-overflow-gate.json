@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rosiqe overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "rosiqe", "amount": 4}, {"item": "bajenium", "amount": 1}], "research": "rosiqe-conveyor", "category": "distribution", "invert": false}

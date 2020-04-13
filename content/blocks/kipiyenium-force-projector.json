@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "kipiyenium force projector", "description": "...", "health": 145, "size": 3, "consumes": {"power": 5.0, "item": "kipiyenium"}, "requirements": [{"item": "kipiyenium", "amount": 1}, {"item": "tahysonium", "amount": 15}, {"item": "zohobe", "amount": 5}], "research": "kipiyenium-factory", "category": "effect"}

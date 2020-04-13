@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pixuhynium liquid tank", "description": "...", "health": 368, "size": 3, "requirements": [{"item": "pixuhynium", "amount": 12}, {"item": "zexinium", "amount": 8}, {"item": "vahy", "amount": 1}], "research": "pixuhynium-conduit", "category": "liquid", "liquidCapacity": 88670, "hasLiquids": true}

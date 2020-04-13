@@ -1,0 +1,1 @@
+{"type": "router", "name": "poxi router", "description": "...", "health": 64, "size": 1, "requirements": [{"item": "poxi", "amount": 10}], "research": "poxi-conveyor", "category": "distribution"}

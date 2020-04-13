@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cozaxo bridge conveyor", "description": "", "health": 14, "range": 18, "speed": 18, "bufferCapacity": 1, "requirements": [{"item": "cozaxo", "amount": 4}, {"item": "rovaqa", "amount": 4}], "research": "cozaxo-conveyor", "category": "distribution", "size": 1}

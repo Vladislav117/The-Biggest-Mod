@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fomo solar panel", "description": "...", "size": 3, "health": 109, "requirements": [{"item": "fomo", "amount": 17}, {"item": "tybegi", "amount": 17}, {"item": "gola", "amount": 4}], "research": "fomo-factory", "powerProduction": 1.1602595481243863, "category": "power"}

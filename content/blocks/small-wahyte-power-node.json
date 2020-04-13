@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wahyte power node", "description": "...", "size": 1, "health": 247, "requirements": [{"item": "wahyte", "amount": 2}, {"item": "yafenium", "amount": 4}, {"item": "yaly", "amount": 7}], "research": "wahyte-factory", "maxNodes": 25, "laserRange": 22, "category": "power"}

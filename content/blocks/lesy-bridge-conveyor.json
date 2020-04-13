@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lesy bridge conveyor", "description": "", "health": 19, "range": 16, "speed": 10, "bufferCapacity": 15, "requirements": [{"item": "lesy", "amount": 2}, {"item": "yopepa", "amount": 1}], "research": "lesy-conveyor", "category": "distribution", "size": 1}

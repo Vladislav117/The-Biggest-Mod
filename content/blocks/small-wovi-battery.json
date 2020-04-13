@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wovi battery", "description": "...", "size": 1, "health": 244, "requirements": [{"item": "wovi", "amount": 20}, {"item": "xevenium", "amount": 9}, {"item": "mizu", "amount": 2}], "research": "wovi-factory", "consumes": {"powerBuffered": 511}, "category": "power"}

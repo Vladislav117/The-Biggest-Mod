@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kyle conduit", "description": "...", "health": 85, "requirements": [{"item": "kyle", "amount": 19}, {"item": "fise", "amount": 17}, {"item": "nulyfo", "amount": 5}], "liquidCapacity": 12, "liquidPressure": 6, "research": "kyle-factory", "category": "liquid"}

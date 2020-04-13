@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qegu drill", "description": "...", "size": 2, "health": 136, "tier": 1, "drillTime": 9, "consumes": {"power": 12}, "requirements": [{"item": "qegu", "amount": 11}, {"item": "bubu", "amount": 20}, {"item": "zagy", "amount": 6}], "research": "qegu-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vubedi power node", "description": "...", "size": 2, "health": 419, "requirements": [{"item": "vubedi", "amount": 19}, {"item": "nabu", "amount": 7}, {"item": "nunuwy", "amount": 6}], "research": "vubedi-factory", "maxNodes": 37, "laserRange": 12, "category": "power"}

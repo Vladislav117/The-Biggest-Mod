@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vosuxynium battery", "description": "...", "size": 3, "health": 159, "requirements": [{"item": "vosuxynium", "amount": 17}, {"item": "kuvinium", "amount": 15}, {"item": "zofeya", "amount": 9}], "research": "vosuxynium-factory", "consumes": {"powerBuffered": 5262}, "category": "power"}

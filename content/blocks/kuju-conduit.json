@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kuju conduit", "description": "...", "health": 66, "requirements": [{"item": "kuju", "amount": 8}, {"item": "masoxo", "amount": 12}, {"item": "fayenium", "amount": 1}], "liquidCapacity": 42, "liquidPressure": 0, "research": "kuju-factory", "category": "liquid"}

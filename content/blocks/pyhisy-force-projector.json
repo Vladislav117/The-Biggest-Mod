@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "pyhisy force projector", "description": "...", "health": 241, "size": 3, "consumes": {"power": 5.0, "item": "pyhisy"}, "requirements": [{"item": "pyhisy", "amount": 7}, {"item": "pafyvi", "amount": 2}, {"item": "bihu", "amount": 1}], "research": "pyhisy-factory", "category": "effect"}

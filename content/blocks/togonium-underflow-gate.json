@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "togonium underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "togonium", "amount": 4}, {"item": "wuniso", "amount": 1}], "research": "togonium-conveyor", "category": "distribution", "invert": false}

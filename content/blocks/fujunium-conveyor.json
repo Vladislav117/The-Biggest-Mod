@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "fujunium conveyor", "description": "...", "health": 275, "requirements": [{"item": "fujunium", "amount": 3}, {"item": "taci", "amount": 4}], "speed": 0.04712427034393224, "research": "fujunium-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kocy drill", "description": "...", "size": 2, "health": 318, "tier": 2, "drillTime": 7, "consumes": {"power": 1}, "requirements": [{"item": "kocy", "amount": 1}, {"item": "yinugunium", "amount": 3}, {"item": "renyyy", "amount": 8}], "research": "kocy-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qapa underflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "qapa", "amount": 5}, {"item": "cizi", "amount": 3}], "research": "qapa-conveyor", "category": "distribution", "invert": false}

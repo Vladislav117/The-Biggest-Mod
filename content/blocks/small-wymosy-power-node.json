@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wymosy power node", "description": "...", "size": 1, "health": 157, "requirements": [{"item": "wymosy", "amount": 14}, {"item": "rega", "amount": 16}, {"item": "fabese", "amount": 7}], "research": "wymosy-factory", "maxNodes": 2, "laserRange": 11, "category": "power"}

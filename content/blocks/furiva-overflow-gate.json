@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "furiva overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "furiva", "amount": 5}, {"item": "pygu", "amount": 2}], "research": "furiva-conveyor", "category": "distribution", "invert": false}

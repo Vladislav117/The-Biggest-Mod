@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bejominium power node", "description": "...", "size": 1, "health": 69, "requirements": [{"item": "bejominium", "amount": 16}, {"item": "sacy", "amount": 5}, {"item": "gawazy", "amount": 9}], "research": "bejominium-factory", "maxNodes": 15, "laserRange": 11, "category": "power"}

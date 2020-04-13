@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yudafa solar panel", "description": "...", "size": 3, "health": 40, "requirements": [{"item": "yudafa", "amount": 7}, {"item": "zobu", "amount": 11}, {"item": "xylu", "amount": 3}], "research": "yudafa-factory", "powerProduction": 0.7889894768533999, "category": "power"}

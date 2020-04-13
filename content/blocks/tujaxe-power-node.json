@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tujaxe power node", "description": "...", "size": 2, "health": 511, "requirements": [{"item": "tujaxe", "amount": 4}, {"item": "beqa", "amount": 16}, {"item": "ziha", "amount": 2}], "research": "tujaxe-factory", "maxNodes": 27, "laserRange": 18, "category": "power"}

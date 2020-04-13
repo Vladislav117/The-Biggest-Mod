@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xymaxu drill", "description": "...", "size": 2, "health": 390, "tier": 3, "drillTime": 2, "consumes": {"power": 4}, "requirements": [{"item": "xymaxu", "amount": 12}, {"item": "xinodunium", "amount": 4}, {"item": "saqoxo", "amount": 1}], "research": "xymaxu-factory", "category": "production"}

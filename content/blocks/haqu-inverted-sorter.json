@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "haqu inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "haqu", "amount": 4}, {"item": "nayevynium", "amount": 1}], "research": "haqu-conveyor", "category": "distribution", "invert": true}

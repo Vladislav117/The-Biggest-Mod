@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "syto liquid tank", "description": "...", "health": 397, "size": 3, "requirements": [{"item": "syto", "amount": 5}, {"item": "ryhenium", "amount": 11}, {"item": "baqe", "amount": 1}], "research": "syto-conduit", "category": "liquid", "liquidCapacity": 100559, "hasLiquids": true}

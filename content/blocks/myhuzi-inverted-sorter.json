@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "myhuzi inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "myhuzi", "amount": 3}, {"item": "xevenium", "amount": 4}], "research": "myhuzi-conveyor", "category": "distribution", "invert": true}

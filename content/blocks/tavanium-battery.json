@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tavanium battery", "description": "...", "size": 3, "health": 189, "requirements": [{"item": "tavanium", "amount": 4}, {"item": "rovaqa", "amount": 17}, {"item": "noxoqanium", "amount": 5}], "research": "tavanium-factory", "consumes": {"powerBuffered": 8169}, "category": "power"}

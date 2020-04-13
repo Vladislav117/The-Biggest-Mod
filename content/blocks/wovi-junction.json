@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wovi junction", "description": "...", "health": 28, "speed": 7, "capacity": 9, "size": 1, "requirements": [{"item": "wovi", "amount": 3}, {"item": "feho", "amount": 2}], "research": "wovi-conveyor", "category": "distribution"}

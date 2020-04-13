@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lynu liquid router", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "lynu", "amount": 18}, {"item": "tymy", "amount": 15}, {"item": "dyde", "amount": 5}], "research": "lynu-conduit", "liquidCapacity": 10, "category": "liquid"}

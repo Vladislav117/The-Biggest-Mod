@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ciyo power node", "description": "...", "size": 2, "health": 216, "requirements": [{"item": "ciyo", "amount": 17}, {"item": "mutevi", "amount": 16}, {"item": "yepy", "amount": 4}], "research": "ciyo-factory", "maxNodes": 34, "laserRange": 25, "category": "power"}

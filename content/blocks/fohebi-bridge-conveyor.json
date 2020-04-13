@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fohebi bridge conveyor", "description": "", "health": 10, "range": 1, "speed": 10, "bufferCapacity": 20, "requirements": [{"item": "fohebi", "amount": 1}, {"item": "nimy", "amount": 2}], "research": "fohebi-conveyor", "category": "distribution", "size": 1}

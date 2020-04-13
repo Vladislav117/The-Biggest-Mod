@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "suta conveyor", "description": "...", "health": 266, "requirements": [{"item": "suta", "amount": 10}, {"item": "veco", "amount": 3}], "speed": 0.49875542103553894, "research": "suta-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pedy overflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "pedy", "amount": 3}, {"item": "deteka", "amount": 2}], "research": "pedy-conveyor", "category": "distribution", "invert": false}

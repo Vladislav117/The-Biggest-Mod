@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cywiwa solar panel", "description": "...", "size": 1, "health": 135, "requirements": [{"item": "cywiwa", "amount": 13}, {"item": "gyzuju", "amount": 12}, {"item": "rukonium", "amount": 9}], "research": "cywiwa-factory", "powerProduction": 0.4812579285487489, "category": "power"}

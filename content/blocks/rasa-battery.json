@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rasa battery", "description": "...", "size": 3, "health": 304, "requirements": [{"item": "rasa", "amount": 4}, {"item": "qiye", "amount": 18}, {"item": "gadocy", "amount": 7}], "research": "rasa-factory", "consumes": {"powerBuffered": 7376}, "category": "power"}

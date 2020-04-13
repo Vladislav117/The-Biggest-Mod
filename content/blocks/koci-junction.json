@@ -1,0 +1,1 @@
+{"type": "junction", "name": "koci junction", "description": "...", "health": 43, "speed": 12, "capacity": 3, "size": 1, "requirements": [{"item": "koci", "amount": 3}, {"item": "zija", "amount": 2}], "research": "koci-conveyor", "category": "distribution"}

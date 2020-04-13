@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fuza conduit", "description": "...", "health": 81, "requirements": [{"item": "fuza", "amount": 15}, {"item": "mozy", "amount": 12}, {"item": "numy", "amount": 9}], "liquidCapacity": 28, "liquidPressure": 0, "research": "fuza-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yinuze liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "yinuze", "amount": 9}, {"item": "zytukenium", "amount": 1}, {"item": "sylunium", "amount": 1}], "research": "yinuze-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "puhide conduit", "description": "...", "health": 159, "requirements": [{"item": "puhide", "amount": 4}, {"item": "kezunium", "amount": 1}, {"item": "heruru", "amount": 8}], "liquidCapacity": 12, "liquidPressure": 8, "research": "puhide-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mywa power node", "description": "...", "size": 1, "health": 159, "requirements": [{"item": "mywa", "amount": 11}, {"item": "lebo", "amount": 7}, {"item": "mowygu", "amount": 7}], "research": "mywa-factory", "maxNodes": 26, "laserRange": 25, "category": "power"}

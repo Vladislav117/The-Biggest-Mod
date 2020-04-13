@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jorydy battery", "description": "...", "size": 3, "health": 193, "requirements": [{"item": "jorydy", "amount": 15}, {"item": "dyco", "amount": 16}, {"item": "niho", "amount": 10}], "research": "jorydy-factory", "consumes": {"powerBuffered": 887}, "category": "power"}

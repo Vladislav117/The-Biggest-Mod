@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wabi solar panel", "description": "...", "size": 3, "health": 41, "requirements": [{"item": "wabi", "amount": 7}, {"item": "norydo", "amount": 8}, {"item": "yytiye", "amount": 6}], "research": "wabi-factory", "powerProduction": 0.09512174561679991, "category": "power"}

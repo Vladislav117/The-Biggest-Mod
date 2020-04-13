@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yugu liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "yugu", "amount": 3}, {"item": "kovi", "amount": 9}, {"item": "vatohunium", "amount": 6}], "research": "yugu-conduit", "liquidCapacity": 10, "category": "liquid"}

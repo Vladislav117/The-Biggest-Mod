@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bomiry overflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "bomiry", "amount": 3}, {"item": "kelurynium", "amount": 2}], "research": "bomiry-conveyor", "category": "distribution", "invert": false}

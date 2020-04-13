@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mynoli power node", "description": "...", "size": 2, "health": 156, "requirements": [{"item": "mynoli", "amount": 14}, {"item": "qiwypa", "amount": 19}, {"item": "ruxyye", "amount": 10}], "research": "mynoli-factory", "maxNodes": 31, "laserRange": 26, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yucy battery", "description": "...", "size": 3, "health": 203, "requirements": [{"item": "yucy", "amount": 10}, {"item": "hixu", "amount": 4}, {"item": "daqy", "amount": 7}], "research": "yucy-factory", "consumes": {"powerBuffered": 9768}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tisanium battery", "description": "...", "size": 3, "health": 342, "requirements": [{"item": "tisanium", "amount": 14}, {"item": "joqoranium", "amount": 16}, {"item": "kyya", "amount": 1}], "research": "tisanium-factory", "consumes": {"powerBuffered": 4767}, "category": "power"}

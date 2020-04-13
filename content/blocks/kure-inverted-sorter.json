@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kure inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "kure", "amount": 3}, {"item": "pohyva", "amount": 3}], "research": "kure-conveyor", "category": "distribution", "invert": true}

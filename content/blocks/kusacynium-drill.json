@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kusacynium drill", "description": "...", "size": 2, "health": 435, "tier": 4, "drillTime": 20, "consumes": {"power": 15}, "requirements": [{"item": "kusacynium", "amount": 3}, {"item": "puzi", "amount": 17}, {"item": "rupiwunium", "amount": 2}], "research": "kusacynium-factory", "category": "production"}

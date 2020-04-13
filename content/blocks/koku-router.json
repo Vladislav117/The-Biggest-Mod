@@ -1,0 +1,1 @@
+{"type": "router", "name": "koku router", "description": "...", "health": 63, "size": 1, "requirements": [{"item": "koku", "amount": 3}], "research": "koku-conveyor", "category": "distribution"}

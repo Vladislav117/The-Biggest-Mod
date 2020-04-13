@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "xojinium overdrive projector", "description": "...", "health": 56, "consumes": {"power": 3.0, "item": "xojinium"}, "size": 2, "requirements": [{"item": "xojinium", "amount": 5}, {"item": "viqamo", "amount": 1}, {"item": "zereka", "amount": 6}], "research": "xojinium-factory", "category": "effect"}

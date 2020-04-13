@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kaqa battery", "description": "...", "size": 3, "health": 197, "requirements": [{"item": "kaqa", "amount": 20}, {"item": "bimi", "amount": 6}, {"item": "xodofu", "amount": 3}], "research": "kaqa-factory", "consumes": {"powerBuffered": 7263}, "category": "power"}

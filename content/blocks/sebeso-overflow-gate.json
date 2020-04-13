@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sebeso overflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "sebeso", "amount": 2}, {"item": "cygyya", "amount": 4}], "research": "sebeso-conveyor", "category": "distribution", "invert": false}

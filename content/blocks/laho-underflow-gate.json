@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "laho underflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "laho", "amount": 1}, {"item": "wavoli", "amount": 4}], "research": "laho-conveyor", "category": "distribution", "invert": false}

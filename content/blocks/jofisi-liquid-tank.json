@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jofisi liquid tank", "description": "...", "health": 644, "size": 3, "requirements": [{"item": "jofisi", "amount": 6}, {"item": "zufo", "amount": 12}, {"item": "biciti", "amount": 6}], "research": "jofisi-conduit", "category": "liquid", "liquidCapacity": 58567, "hasLiquids": true}

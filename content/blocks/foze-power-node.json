@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "foze power node", "description": "...", "size": 2, "health": 528, "requirements": [{"item": "foze", "amount": 8}, {"item": "lodowo", "amount": 17}, {"item": "tupo", "amount": 7}], "research": "foze-factory", "maxNodes": 54, "laserRange": 16, "category": "power"}

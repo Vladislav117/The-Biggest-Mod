@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hotonium solar panel", "description": "...", "size": 3, "health": 172, "requirements": [{"item": "hotonium", "amount": 8}, {"item": "butuhi", "amount": 8}, {"item": "yytiro", "amount": 2}], "research": "hotonium-factory", "powerProduction": 0.1006430546797319, "category": "power"}

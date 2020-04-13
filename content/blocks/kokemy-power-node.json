@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kokemy power node", "description": "...", "size": 2, "health": 448, "requirements": [{"item": "kokemy", "amount": 12}, {"item": "nefanium", "amount": 13}, {"item": "lora", "amount": 4}], "research": "kokemy-factory", "maxNodes": 25, "laserRange": 13, "category": "power"}

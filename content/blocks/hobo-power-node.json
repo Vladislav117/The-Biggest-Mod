@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hobo power node", "description": "...", "size": 2, "health": 398, "requirements": [{"item": "hobo", "amount": 12}, {"item": "hogyse", "amount": 4}, {"item": "rosiqe", "amount": 2}], "research": "hobo-factory", "maxNodes": 19, "laserRange": 18, "category": "power"}

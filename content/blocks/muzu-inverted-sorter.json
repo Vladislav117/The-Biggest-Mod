@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "muzu inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "muzu", "amount": 2}, {"item": "cyzenium", "amount": 3}], "research": "muzu-conveyor", "category": "distribution", "invert": true}

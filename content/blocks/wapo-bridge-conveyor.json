@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wapo bridge conveyor", "description": "", "health": 12, "range": 11, "speed": 19, "bufferCapacity": 6, "requirements": [{"item": "wapo", "amount": 2}, {"item": "sytafe", "amount": 2}], "research": "wapo-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "veqyro battery", "description": "...", "size": 3, "health": 338, "requirements": [{"item": "veqyro", "amount": 19}, {"item": "mepunium", "amount": 7}, {"item": "fusaji", "amount": 1}], "research": "veqyro-factory", "consumes": {"powerBuffered": 6295}, "category": "power"}

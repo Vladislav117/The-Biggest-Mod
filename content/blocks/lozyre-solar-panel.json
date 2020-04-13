@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lozyre solar panel", "description": "...", "size": 3, "health": 135, "requirements": [{"item": "lozyre", "amount": 4}, {"item": "mijynium", "amount": 16}, {"item": "gomaly", "amount": 8}], "research": "lozyre-factory", "powerProduction": 0.022461563880328668, "category": "power"}

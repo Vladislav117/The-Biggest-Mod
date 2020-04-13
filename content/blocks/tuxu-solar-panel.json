@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tuxu solar panel", "description": "...", "size": 3, "health": 207, "requirements": [{"item": "tuxu", "amount": 18}, {"item": "gineta", "amount": 1}, {"item": "tezila", "amount": 1}], "research": "tuxu-factory", "powerProduction": 0.40136578045716065, "category": "power"}

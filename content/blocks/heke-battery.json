@@ -1,0 +1,1 @@
+{"type": "battery", "name": "heke battery", "description": "...", "size": 3, "health": 127, "requirements": [{"item": "heke", "amount": 17}, {"item": "jupiqynium", "amount": 7}, {"item": "medeno", "amount": 7}], "research": "heke-factory", "consumes": {"powerBuffered": 9307}, "category": "power"}

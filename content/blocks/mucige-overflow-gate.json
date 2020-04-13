@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mucige overflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "mucige", "amount": 5}, {"item": "cymaca", "amount": 5}], "research": "mucige-conveyor", "category": "distribution", "invert": false}

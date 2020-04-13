@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fyhi underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "fyhi", "amount": 2}, {"item": "lyzecinium", "amount": 1}], "research": "fyhi-conveyor", "category": "distribution", "invert": false}

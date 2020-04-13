@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qewo liquid tank", "description": "...", "health": 439, "size": 3, "requirements": [{"item": "qewo", "amount": 20}, {"item": "jarovu", "amount": 15}, {"item": "zeqonium", "amount": 7}], "research": "qewo-conduit", "category": "liquid", "liquidCapacity": 38244, "hasLiquids": true}

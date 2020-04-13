@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zaba liquid tank", "description": "...", "health": 281, "size": 3, "requirements": [{"item": "zaba", "amount": 13}, {"item": "tadeja", "amount": 2}, {"item": "lyfydy", "amount": 6}], "research": "zaba-conduit", "category": "liquid", "liquidCapacity": 6265, "hasLiquids": true}

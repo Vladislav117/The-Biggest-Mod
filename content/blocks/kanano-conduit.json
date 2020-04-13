@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kanano conduit", "description": "...", "health": 168, "requirements": [{"item": "kanano", "amount": 18}, {"item": "nigucy", "amount": 2}, {"item": "dyji", "amount": 1}], "liquidCapacity": 25, "liquidPressure": 8, "research": "kanano-factory", "category": "liquid"}

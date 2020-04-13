@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nytina solar panel", "description": "...", "size": 1, "health": 277, "requirements": [{"item": "nytina", "amount": 9}, {"item": "bywazy", "amount": 8}, {"item": "qokenium", "amount": 4}], "research": "nytina-factory", "powerProduction": 9.865802526334885, "category": "power"}

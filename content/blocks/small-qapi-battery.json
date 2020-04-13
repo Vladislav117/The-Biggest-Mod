@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qapi battery", "description": "...", "size": 1, "health": 97, "requirements": [{"item": "qapi", "amount": 19}, {"item": "yedunium", "amount": 9}, {"item": "velany", "amount": 6}], "research": "qapi-factory", "consumes": {"powerBuffered": 1270}, "category": "power"}

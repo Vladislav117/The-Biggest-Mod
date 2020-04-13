@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "syre sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "syre", "amount": 4}, {"item": "dyme", "amount": 4}], "research": "syre-conveyor", "category": "distribution", "invert": false}

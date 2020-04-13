@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small haviyunium battery", "description": "...", "size": 1, "health": 266, "requirements": [{"item": "haviyunium", "amount": 20}, {"item": "zyremi", "amount": 16}, {"item": "qimy", "amount": 9}], "research": "haviyunium-factory", "consumes": {"powerBuffered": 436}, "category": "power"}

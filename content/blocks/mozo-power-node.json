@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mozo power node", "description": "...", "size": 2, "health": 746, "requirements": [{"item": "mozo", "amount": 17}, {"item": "fyxoco", "amount": 15}, {"item": "rusiqy", "amount": 2}], "research": "mozo-factory", "maxNodes": 45, "laserRange": 17, "category": "power"}

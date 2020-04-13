@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dekyzu power node", "description": "...", "size": 2, "health": 547, "requirements": [{"item": "dekyzu", "amount": 18}, {"item": "womanium", "amount": 19}, {"item": "dejoqonium", "amount": 9}], "research": "dekyzu-factory", "maxNodes": 54, "laserRange": 25, "category": "power"}

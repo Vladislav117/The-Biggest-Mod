@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qawi liquid tank", "description": "...", "health": 655, "size": 3, "requirements": [{"item": "qawi", "amount": 17}, {"item": "nusenium", "amount": 2}, {"item": "jytubinium", "amount": 5}], "research": "qawi-conduit", "category": "liquid", "liquidCapacity": 39055, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nuxy liquid tank", "description": "...", "health": 184, "size": 3, "requirements": [{"item": "nuxy", "amount": 11}, {"item": "bivucunium", "amount": 6}, {"item": "qudy", "amount": 3}], "research": "nuxy-conduit", "category": "liquid", "liquidCapacity": 31535, "hasLiquids": true}

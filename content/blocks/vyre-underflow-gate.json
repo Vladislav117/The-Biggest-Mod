@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vyre underflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "vyre", "amount": 4}, {"item": "darunium", "amount": 4}], "research": "vyre-conveyor", "category": "distribution", "invert": false}

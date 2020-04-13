@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cogy inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "cogy", "amount": 3}, {"item": "hozanium", "amount": 1}], "research": "cogy-conveyor", "category": "distribution", "invert": true}

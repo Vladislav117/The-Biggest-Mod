@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rowi solar panel", "description": "...", "size": 1, "health": 30, "requirements": [{"item": "rowi", "amount": 5}, {"item": "wupixonium", "amount": 12}, {"item": "weju", "amount": 9}], "research": "rowi-factory", "powerProduction": 1.2986972626256212, "category": "power"}

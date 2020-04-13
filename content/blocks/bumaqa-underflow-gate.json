@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bumaqa underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "bumaqa", "amount": 1}, {"item": "zihy", "amount": 3}], "research": "bumaqa-conveyor", "category": "distribution", "invert": false}

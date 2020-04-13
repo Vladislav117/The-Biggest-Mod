@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wyxonium drill", "description": "...", "size": 2, "health": 446, "tier": 4, "drillTime": 1, "consumes": {"power": 5}, "requirements": [{"item": "wyxonium", "amount": 15}, {"item": "denu", "amount": 10}, {"item": "qekaye", "amount": 1}], "research": "wyxonium-factory", "category": "production"}

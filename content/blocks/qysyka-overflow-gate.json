@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qysyka overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "qysyka", "amount": 4}, {"item": "nivifu", "amount": 4}], "research": "qysyka-conveyor", "category": "distribution", "invert": false}

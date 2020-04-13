@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mece solar panel", "description": "...", "size": 1, "health": 24, "requirements": [{"item": "mece", "amount": 13}, {"item": "bixehy", "amount": 7}, {"item": "yiveni", "amount": 2}], "research": "mece-factory", "powerProduction": 6.842256350266491, "category": "power"}

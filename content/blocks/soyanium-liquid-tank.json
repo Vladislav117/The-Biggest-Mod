@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "soyanium liquid tank", "description": "...", "health": 267, "size": 3, "requirements": [{"item": "soyanium", "amount": 17}, {"item": "baqelu", "amount": 9}, {"item": "secuqunium", "amount": 3}], "research": "soyanium-conduit", "category": "liquid", "liquidCapacity": 41370, "hasLiquids": true}

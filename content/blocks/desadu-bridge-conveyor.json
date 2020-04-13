@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "desadu bridge conveyor", "description": "", "health": 3, "range": 4, "speed": 11, "bufferCapacity": 24, "requirements": [{"item": "desadu", "amount": 4}, {"item": "dose", "amount": 5}], "research": "desadu-conveyor", "category": "distribution", "size": 1}

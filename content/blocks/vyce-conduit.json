@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vyce conduit", "description": "...", "health": 80, "requirements": [{"item": "vyce", "amount": 2}, {"item": "rypenium", "amount": 15}, {"item": "yikynium", "amount": 9}], "liquidCapacity": 39, "liquidPressure": 1, "research": "vyce-factory", "category": "liquid"}

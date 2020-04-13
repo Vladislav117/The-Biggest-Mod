@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jeqenium battery", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "jeqenium", "amount": 14}, {"item": "tuxu", "amount": 10}, {"item": "coqinium", "amount": 2}], "research": "jeqenium-factory", "consumes": {"powerBuffered": 495}, "category": "power"}

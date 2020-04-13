@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zipeye underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "zipeye", "amount": 2}, {"item": "nuniyi", "amount": 3}], "research": "zipeye-conveyor", "category": "distribution", "invert": false}

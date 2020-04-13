@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "neby solar panel", "description": "...", "size": 3, "health": 221, "requirements": [{"item": "neby", "amount": 4}, {"item": "yape", "amount": 4}, {"item": "voya", "amount": 9}], "research": "neby-factory", "powerProduction": 0.6487858998051113, "category": "power"}

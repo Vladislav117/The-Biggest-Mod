@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sixo bridge conveyor", "description": "", "health": 7, "range": 14, "speed": 1, "bufferCapacity": 22, "requirements": [{"item": "sixo", "amount": 4}, {"item": "jatyjenium", "amount": 5}], "research": "sixo-conveyor", "category": "distribution", "size": 1}

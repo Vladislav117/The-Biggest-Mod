@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yafenium battery", "description": "...", "size": 1, "health": 364, "requirements": [{"item": "yafenium", "amount": 7}, {"item": "foze", "amount": 6}, {"item": "goqanium", "amount": 7}], "research": "yafenium-factory", "consumes": {"powerBuffered": 2592}, "category": "power"}

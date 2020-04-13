@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "limibu liquid tank", "description": "...", "health": 381, "size": 3, "requirements": [{"item": "limibu", "amount": 20}, {"item": "johu", "amount": 10}, {"item": "povewo", "amount": 3}], "research": "limibu-conduit", "category": "liquid", "liquidCapacity": 18152, "hasLiquids": true}

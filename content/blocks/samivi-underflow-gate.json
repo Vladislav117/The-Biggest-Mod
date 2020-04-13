@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "samivi underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "samivi", "amount": 3}, {"item": "lyheti", "amount": 5}], "research": "samivi-conveyor", "category": "distribution", "invert": false}

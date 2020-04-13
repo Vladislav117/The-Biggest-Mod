@@ -1,0 +1,1 @@
+{"type": "junction", "name": "laduhu junction", "description": "...", "health": 35, "speed": 20, "capacity": 7, "size": 1, "requirements": [{"item": "laduhu", "amount": 1}, {"item": "hezinium", "amount": 5}], "research": "laduhu-conveyor", "category": "distribution"}

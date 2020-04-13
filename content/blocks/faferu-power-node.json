@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "faferu power node", "description": "...", "size": 2, "health": 609, "requirements": [{"item": "faferu", "amount": 10}, {"item": "qefa", "amount": 7}, {"item": "yidako", "amount": 4}], "research": "faferu-factory", "maxNodes": 25, "laserRange": 20, "category": "power"}

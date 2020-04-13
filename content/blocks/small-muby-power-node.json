@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small muby power node", "description": "...", "size": 1, "health": 218, "requirements": [{"item": "muby", "amount": 20}, {"item": "graphite", "amount": 16}, {"item": "bywazy", "amount": 9}], "research": "muby-factory", "maxNodes": 26, "laserRange": 20, "category": "power"}

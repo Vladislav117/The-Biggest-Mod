@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yisi battery", "description": "...", "size": 3, "health": 145, "requirements": [{"item": "yisi", "amount": 19}, {"item": "byxyvi", "amount": 18}, {"item": "poyaye", "amount": 9}], "research": "yisi-factory", "consumes": {"powerBuffered": 5310}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hikuda battery", "description": "...", "size": 1, "health": 339, "requirements": [{"item": "hikuda", "amount": 8}, {"item": "kozivo", "amount": 16}, {"item": "fytuve", "amount": 6}], "research": "hikuda-factory", "consumes": {"powerBuffered": 1770}, "category": "power"}

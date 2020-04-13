@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "rafikanium force projector", "description": "...", "health": 112, "size": 3, "consumes": {"power": 5.0, "item": "rafikanium"}, "requirements": [{"item": "rafikanium", "amount": 8}, {"item": "tytyfanium", "amount": 19}, {"item": "fevu", "amount": 6}], "research": "rafikanium-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qopaye power node", "description": "...", "size": 2, "health": 148, "requirements": [{"item": "qopaye", "amount": 4}, {"item": "juvaci", "amount": 15}, {"item": "cydeyy", "amount": 8}], "research": "qopaye-factory", "maxNodes": 60, "laserRange": 14, "category": "power"}

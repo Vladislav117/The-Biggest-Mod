@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mixiwu power node", "description": "...", "size": 2, "health": 376, "requirements": [{"item": "mixiwu", "amount": 10}, {"item": "vubedi", "amount": 18}, {"item": "wivo", "amount": 2}], "research": "mixiwu-factory", "maxNodes": 18, "laserRange": 11, "category": "power"}

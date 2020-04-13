@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nydinenium drill", "description": "...", "size": 2, "health": 117, "tier": 4, "drillTime": 10, "consumes": {"power": 14}, "requirements": [{"item": "nydinenium", "amount": 17}, {"item": "vevudinium", "amount": 12}, {"item": "dune", "amount": 7}], "research": "nydinenium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jyxexi drill", "description": "...", "size": 2, "health": 310, "tier": 1, "drillTime": 4, "consumes": {"power": 5}, "requirements": [{"item": "jyxexi", "amount": 7}, {"item": "bihu", "amount": 6}, {"item": "jeqenium", "amount": 10}], "research": "jyxexi-factory", "category": "production"}

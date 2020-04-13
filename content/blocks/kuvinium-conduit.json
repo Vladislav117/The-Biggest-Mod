@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kuvinium conduit", "description": "...", "health": 125, "requirements": [{"item": "kuvinium", "amount": 3}, {"item": "huwydy", "amount": 14}, {"item": "qayy", "amount": 2}], "liquidCapacity": 17, "liquidPressure": 8, "research": "kuvinium-factory", "category": "liquid"}

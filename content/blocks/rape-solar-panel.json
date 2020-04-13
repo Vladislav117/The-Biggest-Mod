@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rape solar panel", "description": "...", "size": 3, "health": 40, "requirements": [{"item": "rape", "amount": 5}, {"item": "mygenium", "amount": 2}, {"item": "cazefu", "amount": 5}], "research": "rape-factory", "powerProduction": 8.109345858724918, "category": "power"}

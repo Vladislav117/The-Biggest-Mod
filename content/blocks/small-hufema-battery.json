@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hufema battery", "description": "...", "size": 1, "health": 272, "requirements": [{"item": "hufema", "amount": 6}, {"item": "cymaca", "amount": 13}, {"item": "zokacu", "amount": 2}], "research": "hufema-factory", "consumes": {"powerBuffered": 228}, "category": "power"}

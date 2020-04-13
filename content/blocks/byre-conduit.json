@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "byre conduit", "description": "...", "health": 95, "requirements": [{"item": "byre", "amount": 9}, {"item": "wumuge", "amount": 12}, {"item": "locu", "amount": 2}], "liquidCapacity": 33, "liquidPressure": 3, "research": "byre-factory", "category": "liquid"}

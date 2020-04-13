@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "voya bridge conveyor", "description": "", "health": 50, "range": 20, "speed": 3, "bufferCapacity": 6, "requirements": [{"item": "voya", "amount": 2}, {"item": "pamyka", "amount": 5}], "research": "voya-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vawybo solar panel", "description": "...", "size": 3, "health": 179, "requirements": [{"item": "vawybo", "amount": 10}, {"item": "raru", "amount": 11}, {"item": "rymyva", "amount": 7}], "research": "vawybo-factory", "powerProduction": 1.5143571760805006, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bocu power node", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "bocu", "amount": 1}, {"item": "zuzequ", "amount": 11}, {"item": "wusupy", "amount": 9}], "research": "bocu-factory", "maxNodes": 22, "laserRange": 20, "category": "power"}

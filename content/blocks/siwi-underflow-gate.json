@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "siwi underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "siwi", "amount": 1}, {"item": "kide", "amount": 1}], "research": "siwi-conveyor", "category": "distribution", "invert": false}

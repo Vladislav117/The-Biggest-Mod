@@ -1,0 +1,1 @@
+{"type": "battery", "name": "soki battery", "description": "...", "size": 3, "health": 182, "requirements": [{"item": "soki", "amount": 5}, {"item": "nudo", "amount": 2}, {"item": "lead", "amount": 6}], "research": "soki-factory", "consumes": {"powerBuffered": 9645}, "category": "power"}

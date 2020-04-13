@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "raqy underflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "raqy", "amount": 5}, {"item": "futaxunium", "amount": 4}], "research": "raqy-conveyor", "category": "distribution", "invert": false}

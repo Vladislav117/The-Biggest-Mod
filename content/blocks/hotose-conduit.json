@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hotose conduit", "description": "...", "health": 165, "requirements": [{"item": "hotose", "amount": 7}, {"item": "yyko", "amount": 4}, {"item": "boqi", "amount": 8}], "liquidCapacity": 5, "liquidPressure": 10, "research": "hotose-factory", "category": "liquid"}

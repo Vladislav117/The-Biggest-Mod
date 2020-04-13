@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lipupy bridge conveyor", "description": "", "health": 18, "range": 3, "speed": 15, "bufferCapacity": 22, "requirements": [{"item": "lipupy", "amount": 2}, {"item": "lamuya", "amount": 3}], "research": "lipupy-conveyor", "category": "distribution", "size": 1}

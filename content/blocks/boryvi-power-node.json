@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "boryvi power node", "description": "...", "size": 2, "health": 409, "requirements": [{"item": "boryvi", "amount": 17}, {"item": "tolo", "amount": 19}, {"item": "xyru", "amount": 2}], "research": "boryvi-factory", "maxNodes": 41, "laserRange": 27, "category": "power"}

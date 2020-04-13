@@ -1,0 +1,1 @@
+{"type": "battery", "name": "poyaye battery", "description": "...", "size": 3, "health": 328, "requirements": [{"item": "poyaye", "amount": 10}, {"item": "fizunium", "amount": 13}, {"item": "kyqedu", "amount": 4}], "research": "poyaye-factory", "consumes": {"powerBuffered": 1578}, "category": "power"}

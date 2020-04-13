@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vyse solar panel", "description": "...", "size": 3, "health": 214, "requirements": [{"item": "vyse", "amount": 15}, {"item": "mytati", "amount": 3}, {"item": "vycici", "amount": 10}], "research": "vyse-factory", "powerProduction": 4.334245466165091, "category": "power"}

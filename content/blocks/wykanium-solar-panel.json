@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wykanium solar panel", "description": "...", "size": 3, "health": 91, "requirements": [{"item": "wykanium", "amount": 18}, {"item": "pigagunium", "amount": 14}, {"item": "tyqowy", "amount": 8}], "research": "wykanium-factory", "powerProduction": 0.4452524636356772, "category": "power"}

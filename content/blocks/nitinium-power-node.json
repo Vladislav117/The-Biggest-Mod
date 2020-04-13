@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nitinium power node", "description": "...", "size": 2, "health": 53, "requirements": [{"item": "nitinium", "amount": 14}, {"item": "vesy", "amount": 6}, {"item": "myfo", "amount": 9}], "research": "nitinium-factory", "maxNodes": 52, "laserRange": 10, "category": "power"}

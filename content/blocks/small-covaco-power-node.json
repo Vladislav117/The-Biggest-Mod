@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small covaco power node", "description": "...", "size": 1, "health": 285, "requirements": [{"item": "covaco", "amount": 16}, {"item": "weva", "amount": 14}, {"item": "fyhahu", "amount": 2}], "research": "covaco-factory", "maxNodes": 28, "laserRange": 3, "category": "power"}

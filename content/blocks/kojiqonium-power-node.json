@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kojiqonium power node", "description": "...", "size": 2, "health": 591, "requirements": [{"item": "kojiqonium", "amount": 16}, {"item": "tomaby", "amount": 16}, {"item": "gaqite", "amount": 8}], "research": "kojiqonium-factory", "maxNodes": 43, "laserRange": 13, "category": "power"}

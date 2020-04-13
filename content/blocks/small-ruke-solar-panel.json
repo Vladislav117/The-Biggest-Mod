@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ruke solar panel", "description": "...", "size": 1, "health": 214, "requirements": [{"item": "ruke", "amount": 4}, {"item": "jicefu", "amount": 13}, {"item": "ryho", "amount": 7}], "research": "ruke-factory", "powerProduction": 0.5068331272117068, "category": "power"}

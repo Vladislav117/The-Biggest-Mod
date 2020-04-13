@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gase bridge conveyor", "description": "", "health": 34, "range": 15, "speed": 6, "bufferCapacity": 13, "requirements": [{"item": "gase", "amount": 3}, {"item": "zyganium", "amount": 4}], "research": "gase-conveyor", "category": "distribution", "size": 1}

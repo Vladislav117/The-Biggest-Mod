@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rahubi underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "rahubi", "amount": 3}, {"item": "qasysi", "amount": 3}], "research": "rahubi-conveyor", "category": "distribution", "invert": false}

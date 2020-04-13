@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vevo drill", "description": "...", "size": 3, "health": 265, "tier": 1, "drillTime": 12, "consumes": {"power": 2}, "requirements": [{"item": "vevo", "amount": 10}, {"item": "jitefu", "amount": 10}, {"item": "fosu", "amount": 9}], "research": "vevo-factory", "category": "production"}

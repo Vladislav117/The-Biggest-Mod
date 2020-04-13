@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pydi junction", "description": "...", "health": 1, "speed": 7, "capacity": 8, "size": 1, "requirements": [{"item": "pydi", "amount": 1}, {"item": "masoxo", "amount": 5}], "research": "pydi-conveyor", "category": "distribution"}

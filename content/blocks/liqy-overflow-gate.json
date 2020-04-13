@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "liqy overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "liqy", "amount": 3}, {"item": "mixy", "amount": 5}], "research": "liqy-conveyor", "category": "distribution", "invert": false}

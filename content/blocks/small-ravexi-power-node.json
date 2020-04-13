@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ravexi power node", "description": "...", "size": 1, "health": 150, "requirements": [{"item": "ravexi", "amount": 6}, {"item": "pawasunium", "amount": 7}, {"item": "plastanium", "amount": 3}], "research": "ravexi-factory", "maxNodes": 10, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "wahape force projector", "description": "...", "health": 241, "size": 3, "consumes": {"power": 5.0, "item": "wahape"}, "requirements": [{"item": "wahape", "amount": 18}, {"item": "dyco", "amount": 8}, {"item": "koty", "amount": 5}], "research": "wahape-factory", "category": "effect"}

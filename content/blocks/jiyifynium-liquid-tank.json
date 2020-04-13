@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jiyifynium liquid tank", "description": "...", "health": 363, "size": 3, "requirements": [{"item": "jiyifynium", "amount": 8}, {"item": "werexo", "amount": 17}, {"item": "depyya", "amount": 4}], "research": "jiyifynium-conduit", "category": "liquid", "liquidCapacity": 65639, "hasLiquids": true}

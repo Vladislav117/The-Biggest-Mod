@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small juqerunium power node", "description": "...", "size": 1, "health": 350, "requirements": [{"item": "juqerunium", "amount": 16}, {"item": "mimyva", "amount": 16}, {"item": "tybegi", "amount": 3}], "research": "juqerunium-factory", "maxNodes": 30, "laserRange": 17, "category": "power"}

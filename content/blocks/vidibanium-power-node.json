@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vidibanium power node", "description": "...", "size": 2, "health": 513, "requirements": [{"item": "vidibanium", "amount": 4}, {"item": "voya", "amount": 9}, {"item": "jyti", "amount": 2}], "research": "vidibanium-factory", "maxNodes": 16, "laserRange": 26, "category": "power"}

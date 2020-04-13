@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "botynium liquid router", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "botynium", "amount": 10}, {"item": "zadajo", "amount": 9}, {"item": "gahe", "amount": 1}], "research": "botynium-conduit", "liquidCapacity": 10, "category": "liquid"}

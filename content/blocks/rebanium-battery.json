@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rebanium battery", "description": "...", "size": 3, "health": 199, "requirements": [{"item": "rebanium", "amount": 4}, {"item": "tybegi", "amount": 5}, {"item": "jepumi", "amount": 8}], "research": "rebanium-factory", "consumes": {"powerBuffered": 4524}, "category": "power"}

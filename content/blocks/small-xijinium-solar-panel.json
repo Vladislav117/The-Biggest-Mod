@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xijinium solar panel", "description": "...", "size": 1, "health": 130, "requirements": [{"item": "xijinium", "amount": 13}, {"item": "cinunium", "amount": 19}, {"item": "yadyju", "amount": 1}], "research": "xijinium-factory", "powerProduction": 0.049462507487998374, "category": "power"}

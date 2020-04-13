@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wosofe battery", "description": "...", "size": 1, "health": 114, "requirements": [{"item": "wosofe", "amount": 19}, {"item": "dyde", "amount": 13}, {"item": "maqapy", "amount": 9}], "research": "wosofe-factory", "consumes": {"powerBuffered": 1000}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ligyxe battery", "description": "...", "size": 3, "health": 36, "requirements": [{"item": "ligyxe", "amount": 12}, {"item": "siyunynium", "amount": 17}, {"item": "muti", "amount": 8}], "research": "ligyxe-factory", "consumes": {"powerBuffered": 4901}, "category": "power"}

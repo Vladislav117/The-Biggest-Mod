@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fyma power node", "description": "...", "size": 1, "health": 240, "requirements": [{"item": "fyma", "amount": 1}, {"item": "humynium", "amount": 10}, {"item": "vykynium", "amount": 7}], "research": "fyma-factory", "maxNodes": 30, "laserRange": 5, "category": "power"}

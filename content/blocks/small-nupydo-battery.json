@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nupydo battery", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "nupydo", "amount": 19}, {"item": "sigu", "amount": 2}, {"item": "socyhi", "amount": 10}], "research": "nupydo-factory", "consumes": {"powerBuffered": 2670}, "category": "power"}

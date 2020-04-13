@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "danava bridge conveyor", "description": "", "health": 25, "range": 11, "speed": 7, "bufferCapacity": 2, "requirements": [{"item": "danava", "amount": 4}, {"item": "xayugynium", "amount": 4}], "research": "danava-conveyor", "category": "distribution", "size": 1}

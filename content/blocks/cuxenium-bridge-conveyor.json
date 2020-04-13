@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cuxenium bridge conveyor", "description": "", "health": 19, "range": 12, "speed": 4, "bufferCapacity": 25, "requirements": [{"item": "cuxenium", "amount": 2}, {"item": "heruru", "amount": 3}], "research": "cuxenium-conveyor", "category": "distribution", "size": 1}

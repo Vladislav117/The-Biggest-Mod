@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "celaji liquid router", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "celaji", "amount": 10}, {"item": "zapu", "amount": 6}, {"item": "sudu", "amount": 9}], "research": "celaji-conduit", "liquidCapacity": 10, "category": "liquid"}

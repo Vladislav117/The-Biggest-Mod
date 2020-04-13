@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "julynium liquid tank", "description": "...", "health": 470, "size": 3, "requirements": [{"item": "julynium", "amount": 1}, {"item": "mefymanium", "amount": 7}, {"item": "mufosinium", "amount": 5}], "research": "julynium-conduit", "category": "liquid", "liquidCapacity": 87604, "hasLiquids": true}

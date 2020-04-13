@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vucazy battery", "description": "...", "size": 3, "health": 353, "requirements": [{"item": "vucazy", "amount": 13}, {"item": "tynipu", "amount": 5}, {"item": "qywiqi", "amount": 5}], "research": "vucazy-factory", "consumes": {"powerBuffered": 8599}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rusiqy inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "rusiqy", "amount": 3}, {"item": "qebu", "amount": 5}], "research": "rusiqy-conveyor", "category": "distribution", "invert": true}

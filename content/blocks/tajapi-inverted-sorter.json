@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tajapi inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "tajapi", "amount": 1}, {"item": "jawa", "amount": 3}], "research": "tajapi-conveyor", "category": "distribution", "invert": true}

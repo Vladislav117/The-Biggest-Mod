@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "quxu conduit", "description": "...", "health": 160, "requirements": [{"item": "quxu", "amount": 16}, {"item": "pyki", "amount": 14}, {"item": "pawynium", "amount": 8}], "liquidCapacity": 36, "liquidPressure": 5, "research": "quxu-factory", "category": "liquid"}

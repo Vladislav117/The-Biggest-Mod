@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "giyaju overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "giyaju", "amount": 3}, {"item": "kyna", "amount": 1}], "research": "giyaju-conveyor", "category": "distribution", "invert": false}

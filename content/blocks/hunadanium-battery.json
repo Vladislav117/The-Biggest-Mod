@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hunadanium battery", "description": "...", "size": 3, "health": 36, "requirements": [{"item": "hunadanium", "amount": 12}, {"item": "luzini", "amount": 3}, {"item": "wutigo", "amount": 6}], "research": "hunadanium-factory", "consumes": {"powerBuffered": 2403}, "category": "power"}

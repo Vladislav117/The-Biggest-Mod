@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gecoma underflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "gecoma", "amount": 2}, {"item": "tohi", "amount": 2}], "research": "gecoma-conveyor", "category": "distribution", "invert": false}

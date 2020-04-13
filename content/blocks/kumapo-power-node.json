@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kumapo power node", "description": "...", "size": 2, "health": 289, "requirements": [{"item": "kumapo", "amount": 4}, {"item": "niyi", "amount": 3}, {"item": "basomi", "amount": 2}], "research": "kumapo-factory", "maxNodes": 35, "laserRange": 17, "category": "power"}

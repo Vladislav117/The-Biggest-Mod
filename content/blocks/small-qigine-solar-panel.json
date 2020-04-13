@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qigine solar panel", "description": "...", "size": 1, "health": 395, "requirements": [{"item": "qigine", "amount": 13}, {"item": "xynice", "amount": 5}, {"item": "faqymu", "amount": 4}], "research": "qigine-factory", "powerProduction": 0.2601549488465129, "category": "power"}

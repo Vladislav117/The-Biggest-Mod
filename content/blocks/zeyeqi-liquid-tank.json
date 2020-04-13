@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zeyeqi liquid tank", "description": "...", "health": 250, "size": 3, "requirements": [{"item": "zeyeqi", "amount": 6}, {"item": "zyhyne", "amount": 2}, {"item": "zaba", "amount": 8}], "research": "zeyeqi-conduit", "category": "liquid", "liquidCapacity": 31128, "hasLiquids": true}

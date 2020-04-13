@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rine battery", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "rine", "amount": 18}, {"item": "lyzecinium", "amount": 5}, {"item": "tozokinium", "amount": 5}], "research": "rine-factory", "consumes": {"powerBuffered": 6331}, "category": "power"}

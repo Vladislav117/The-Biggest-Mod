@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "runohy inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "runohy", "amount": 4}, {"item": "tufo", "amount": 3}], "research": "runohy-conveyor", "category": "distribution", "invert": true}

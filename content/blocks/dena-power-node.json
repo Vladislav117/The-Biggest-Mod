@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dena power node", "description": "...", "size": 2, "health": 661, "requirements": [{"item": "dena", "amount": 4}, {"item": "tiwyna", "amount": 20}, {"item": "beqeyenium", "amount": 2}], "research": "dena-factory", "maxNodes": 44, "laserRange": 26, "category": "power"}

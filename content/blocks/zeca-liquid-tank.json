@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zeca liquid tank", "description": "...", "health": 398, "size": 3, "requirements": [{"item": "zeca", "amount": 12}, {"item": "cafe", "amount": 10}, {"item": "pumy", "amount": 10}], "research": "zeca-conduit", "category": "liquid", "liquidCapacity": 74608, "hasLiquids": true}

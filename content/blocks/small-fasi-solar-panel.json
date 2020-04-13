@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fasi solar panel", "description": "...", "size": 1, "health": 219, "requirements": [{"item": "fasi", "amount": 8}, {"item": "yamyri", "amount": 4}, {"item": "yikynium", "amount": 8}], "research": "fasi-factory", "powerProduction": 0.12199279678238828, "category": "power"}

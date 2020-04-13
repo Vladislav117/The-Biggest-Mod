@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rahu sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "rahu", "amount": 1}, {"item": "zygebynium", "amount": 2}], "research": "rahu-conveyor", "category": "distribution", "invert": false}

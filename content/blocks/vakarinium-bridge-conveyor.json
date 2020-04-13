@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vakarinium bridge conveyor", "description": "", "health": 14, "range": 8, "speed": 15, "bufferCapacity": 5, "requirements": [{"item": "vakarinium", "amount": 1}, {"item": "graphite", "amount": 3}], "research": "vakarinium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ceze liquid tank", "description": "...", "health": 475, "size": 3, "requirements": [{"item": "ceze", "amount": 20}, {"item": "lufe", "amount": 13}, {"item": "tobu", "amount": 3}], "research": "ceze-conduit", "category": "liquid", "liquidCapacity": 34387, "hasLiquids": true}

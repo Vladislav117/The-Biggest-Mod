@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "buri underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "buri", "amount": 1}, {"item": "dugy", "amount": 1}], "research": "buri-conveyor", "category": "distribution", "invert": false}

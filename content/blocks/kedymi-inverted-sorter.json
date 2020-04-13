@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kedymi inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "kedymi", "amount": 5}, {"item": "goto", "amount": 3}], "research": "kedymi-conveyor", "category": "distribution", "invert": true}

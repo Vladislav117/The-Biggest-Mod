@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mafapu liquid tank", "description": "...", "health": 396, "size": 3, "requirements": [{"item": "mafapu", "amount": 14}, {"item": "xuxyvo", "amount": 10}, {"item": "lycyqe", "amount": 10}], "research": "mafapu-conduit", "category": "liquid", "liquidCapacity": 56561, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "furymu liquid tank", "description": "...", "health": 507, "size": 3, "requirements": [{"item": "furymu", "amount": 12}, {"item": "sary", "amount": 17}, {"item": "hoze", "amount": 5}], "research": "furymu-conduit", "category": "liquid", "liquidCapacity": 16064, "hasLiquids": true}

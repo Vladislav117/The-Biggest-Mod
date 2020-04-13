@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pynebi liquid router", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "pynebi", "amount": 3}, {"item": "yedunium", "amount": 6}, {"item": "gypunium", "amount": 10}], "research": "pynebi-conduit", "liquidCapacity": 10, "category": "liquid"}

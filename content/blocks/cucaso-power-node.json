@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cucaso power node", "description": "...", "size": 2, "health": 609, "requirements": [{"item": "cucaso", "amount": 11}, {"item": "kyte", "amount": 10}, {"item": "mygo", "amount": 6}], "research": "cucaso-factory", "maxNodes": 41, "laserRange": 29, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nurynium solar panel", "description": "...", "size": 3, "health": 272, "requirements": [{"item": "nurynium", "amount": 1}, {"item": "zesaqy", "amount": 10}, {"item": "pegycy", "amount": 5}], "research": "nurynium-factory", "powerProduction": 1.6347551471835768, "category": "power"}

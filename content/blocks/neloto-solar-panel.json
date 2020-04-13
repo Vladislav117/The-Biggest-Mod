@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "neloto solar panel", "description": "...", "size": 3, "health": 162, "requirements": [{"item": "neloto", "amount": 19}, {"item": "kywowa", "amount": 11}, {"item": "qigine", "amount": 7}], "research": "neloto-factory", "powerProduction": 0.03162879799349492, "category": "power"}

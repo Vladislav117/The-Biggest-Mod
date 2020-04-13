@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vodico junction", "description": "...", "health": 4, "speed": 11, "capacity": 20, "size": 1, "requirements": [{"item": "vodico", "amount": 2}, {"item": "yupo", "amount": 2}], "research": "vodico-conveyor", "category": "distribution"}

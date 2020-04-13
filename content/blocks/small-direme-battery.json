@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small direme battery", "description": "...", "size": 1, "health": 124, "requirements": [{"item": "direme", "amount": 9}, {"item": "kuwo", "amount": 18}, {"item": "wuvyci", "amount": 4}], "research": "direme-factory", "consumes": {"powerBuffered": 829}, "category": "power"}

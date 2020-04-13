@@ -1,0 +1,1 @@
+{"type": "battery", "name": "loceli battery", "description": "...", "size": 3, "health": 29, "requirements": [{"item": "loceli", "amount": 1}, {"item": "pele", "amount": 9}, {"item": "roro", "amount": 2}], "research": "loceli-factory", "consumes": {"powerBuffered": 5544}, "category": "power"}

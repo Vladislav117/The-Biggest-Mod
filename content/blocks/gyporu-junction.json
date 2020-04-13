@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gyporu junction", "description": "...", "health": 49, "speed": 4, "capacity": 11, "size": 1, "requirements": [{"item": "gyporu", "amount": 1}, {"item": "qylino", "amount": 5}], "research": "gyporu-conveyor", "category": "distribution"}

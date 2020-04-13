@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "peso liquid tank", "description": "...", "health": 638, "size": 3, "requirements": [{"item": "peso", "amount": 15}, {"item": "noninium", "amount": 17}, {"item": "piyovy", "amount": 1}], "research": "peso-conduit", "category": "liquid", "liquidCapacity": 64305, "hasLiquids": true}

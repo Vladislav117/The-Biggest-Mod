@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rovy liquid tank", "description": "...", "health": 579, "size": 3, "requirements": [{"item": "rovy", "amount": 5}, {"item": "bomedi", "amount": 14}, {"item": "niruya", "amount": 1}], "research": "rovy-conduit", "category": "liquid", "liquidCapacity": 61283, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fikunium drill", "description": "...", "size": 2, "health": 158, "tier": 3, "drillTime": 13, "consumes": {"power": 17}, "requirements": [{"item": "fikunium", "amount": 7}, {"item": "qaho", "amount": 3}, {"item": "ceyi", "amount": 1}], "research": "fikunium-factory", "category": "production"}

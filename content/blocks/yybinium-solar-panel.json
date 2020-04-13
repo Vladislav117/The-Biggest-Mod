@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yybinium solar panel", "description": "...", "size": 3, "health": 230, "requirements": [{"item": "yybinium", "amount": 4}, {"item": "xekocanium", "amount": 2}, {"item": "kanuya", "amount": 5}], "research": "yybinium-factory", "powerProduction": 1.7804553379381678, "category": "power"}

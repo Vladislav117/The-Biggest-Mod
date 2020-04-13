@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cuwa sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "cuwa", "amount": 5}, {"item": "yedyte", "amount": 5}], "research": "cuwa-conveyor", "category": "distribution", "invert": false}

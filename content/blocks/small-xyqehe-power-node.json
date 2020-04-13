@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xyqehe power node", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "xyqehe", "amount": 3}, {"item": "dycimi", "amount": 18}, {"item": "kexebinium", "amount": 10}], "research": "xyqehe-factory", "maxNodes": 9, "laserRange": 6, "category": "power"}

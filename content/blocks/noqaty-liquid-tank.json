@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "noqaty liquid tank", "description": "...", "health": 529, "size": 3, "requirements": [{"item": "noqaty", "amount": 11}, {"item": "biye", "amount": 18}, {"item": "hagunium", "amount": 9}], "research": "noqaty-conduit", "category": "liquid", "liquidCapacity": 88563, "hasLiquids": true}

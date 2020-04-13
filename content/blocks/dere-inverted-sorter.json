@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dere inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "dere", "amount": 1}, {"item": "meranium", "amount": 5}], "research": "dere-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "koju force projector", "description": "...", "health": 152, "size": 3, "consumes": {"power": 5.0, "item": "koju"}, "requirements": [{"item": "koju", "amount": 18}, {"item": "lumyqa", "amount": 9}, {"item": "zekenium", "amount": 9}], "research": "koju-factory", "category": "effect"}

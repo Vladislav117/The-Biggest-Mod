@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "siposi overdrive projector", "description": "...", "health": 83, "consumes": {"power": 3.0, "item": "siposi"}, "size": 2, "requirements": [{"item": "siposi", "amount": 8}, {"item": "jucinium", "amount": 4}, {"item": "hobo", "amount": 8}], "research": "siposi-factory", "category": "effect"}

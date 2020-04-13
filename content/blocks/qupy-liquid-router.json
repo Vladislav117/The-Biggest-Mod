@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qupy liquid router", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "qupy", "amount": 5}, {"item": "cone", "amount": 13}, {"item": "cotyyo", "amount": 6}], "research": "qupy-conduit", "liquidCapacity": 10, "category": "liquid"}

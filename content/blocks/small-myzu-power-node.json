@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small myzu power node", "description": "...", "size": 1, "health": 385, "requirements": [{"item": "myzu", "amount": 13}, {"item": "zuwonium", "amount": 19}, {"item": "qayy", "amount": 1}], "research": "myzu-factory", "maxNodes": 29, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "router", "name": "fumena router", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "fumena", "amount": 2}], "research": "fumena-conveyor", "category": "distribution"}

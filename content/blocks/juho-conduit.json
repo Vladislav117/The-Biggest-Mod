@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "juho conduit", "description": "...", "health": 179, "requirements": [{"item": "juho", "amount": 16}, {"item": "laqu", "amount": 7}, {"item": "qupu", "amount": 7}], "liquidCapacity": 6, "liquidPressure": 8, "research": "juho-factory", "category": "liquid"}

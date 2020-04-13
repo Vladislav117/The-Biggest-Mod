@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "baje solar panel", "description": "...", "size": 3, "health": 294, "requirements": [{"item": "baje", "amount": 6}, {"item": "zori", "amount": 17}, {"item": "kuwy", "amount": 8}], "research": "baje-factory", "powerProduction": 1.5809957169782407, "category": "power"}

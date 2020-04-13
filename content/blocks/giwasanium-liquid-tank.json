@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "giwasanium liquid tank", "description": "...", "health": 616, "size": 3, "requirements": [{"item": "giwasanium", "amount": 8}, {"item": "hixuqo", "amount": 6}, {"item": "kacoju", "amount": 5}], "research": "giwasanium-conduit", "category": "liquid", "liquidCapacity": 93219, "hasLiquids": true}

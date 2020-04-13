@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kype liquid router", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "kype", "amount": 8}, {"item": "syxidonium", "amount": 10}, {"item": "yowiminium", "amount": 9}], "research": "kype-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yahyxo solar panel", "description": "...", "size": 1, "health": 120, "requirements": [{"item": "yahyxo", "amount": 7}, {"item": "kypofu", "amount": 6}, {"item": "sarijynium", "amount": 8}], "research": "yahyxo-factory", "powerProduction": 0.15863323989300418, "category": "power"}

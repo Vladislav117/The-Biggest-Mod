@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tagawe solar panel", "description": "...", "size": 3, "health": 212, "requirements": [{"item": "tagawe", "amount": 8}, {"item": "raru", "amount": 1}, {"item": "qeconium", "amount": 5}], "research": "tagawe-factory", "powerProduction": 2.620311123223741, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small waby solar panel", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "waby", "amount": 16}, {"item": "tatupo", "amount": 15}, {"item": "rajizu", "amount": 7}], "research": "waby-factory", "powerProduction": 6.892496739508823, "category": "power"}

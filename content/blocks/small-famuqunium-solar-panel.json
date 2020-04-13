@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small famuqunium solar panel", "description": "...", "size": 1, "health": 323, "requirements": [{"item": "famuqunium", "amount": 7}, {"item": "puli", "amount": 13}, {"item": "jyyo", "amount": 5}], "research": "famuqunium-factory", "powerProduction": 4.600915380120423, "category": "power"}

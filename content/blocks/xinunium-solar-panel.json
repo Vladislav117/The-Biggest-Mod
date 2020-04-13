@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xinunium solar panel", "description": "...", "size": 3, "health": 111, "requirements": [{"item": "xinunium", "amount": 16}, {"item": "myvava", "amount": 7}, {"item": "ziha", "amount": 2}], "research": "xinunium-factory", "powerProduction": 0.0428844080770952, "category": "power"}

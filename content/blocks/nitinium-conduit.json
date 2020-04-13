@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nitinium conduit", "description": "...", "health": 170, "requirements": [{"item": "nitinium", "amount": 17}, {"item": "wace", "amount": 10}, {"item": "sugamynium", "amount": 5}], "liquidCapacity": 28, "liquidPressure": 5, "research": "nitinium-factory", "category": "liquid"}

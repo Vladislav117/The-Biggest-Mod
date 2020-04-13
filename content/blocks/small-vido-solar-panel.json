@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vido solar panel", "description": "...", "size": 1, "health": 217, "requirements": [{"item": "vido", "amount": 20}, {"item": "kecufi", "amount": 10}, {"item": "cydofunium", "amount": 6}], "research": "vido-factory", "powerProduction": 4.232691434604228, "category": "power"}

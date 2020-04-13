@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cetonium junction", "description": "...", "health": 8, "speed": 17, "capacity": 16, "size": 1, "requirements": [{"item": "cetonium", "amount": 2}, {"item": "jega", "amount": 2}], "research": "cetonium-conveyor", "category": "distribution"}

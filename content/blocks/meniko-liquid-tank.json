@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "meniko liquid tank", "description": "...", "health": 240, "size": 3, "requirements": [{"item": "meniko", "amount": 6}, {"item": "koqoze", "amount": 7}, {"item": "rymeyinium", "amount": 3}], "research": "meniko-conduit", "category": "liquid", "liquidCapacity": 69006, "hasLiquids": true}

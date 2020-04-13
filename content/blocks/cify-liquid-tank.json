@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cify liquid tank", "description": "...", "health": 160, "size": 3, "requirements": [{"item": "cify", "amount": 14}, {"item": "tify", "amount": 20}, {"item": "xyvo", "amount": 9}], "research": "cify-conduit", "category": "liquid", "liquidCapacity": 80549, "hasLiquids": true}

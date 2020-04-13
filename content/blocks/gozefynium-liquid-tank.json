@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gozefynium liquid tank", "description": "...", "health": 365, "size": 3, "requirements": [{"item": "gozefynium", "amount": 15}, {"item": "vuciby", "amount": 8}, {"item": "qylino", "amount": 1}], "research": "gozefynium-conduit", "category": "liquid", "liquidCapacity": 54918, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "myruhy drill", "description": "...", "size": 3, "health": 160, "tier": 1, "drillTime": 3, "consumes": {"power": 4}, "requirements": [{"item": "myruhy", "amount": 16}, {"item": "qyryyunium", "amount": 18}, {"item": "sato", "amount": 8}], "research": "myruhy-factory", "category": "production"}

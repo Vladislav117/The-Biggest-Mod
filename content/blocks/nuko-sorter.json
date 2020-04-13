@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nuko sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "nuko", "amount": 5}, {"item": "bywazy", "amount": 2}], "research": "nuko-conveyor", "category": "distribution", "invert": false}

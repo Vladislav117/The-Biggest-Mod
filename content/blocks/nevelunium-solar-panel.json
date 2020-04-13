@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nevelunium solar panel", "description": "...", "size": 3, "health": 30, "requirements": [{"item": "nevelunium", "amount": 14}, {"item": "vanuhenium", "amount": 2}, {"item": "wety", "amount": 1}], "research": "nevelunium-factory", "powerProduction": 0.20053153559401454, "category": "power"}

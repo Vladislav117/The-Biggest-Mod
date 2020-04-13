@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xyza drill", "description": "...", "size": 3, "health": 272, "tier": 4, "drillTime": 1, "consumes": {"power": 15}, "requirements": [{"item": "xyza", "amount": 3}, {"item": "qacu", "amount": 11}, {"item": "sukanium", "amount": 4}], "research": "xyza-factory", "category": "production"}

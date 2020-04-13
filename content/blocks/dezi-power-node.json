@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dezi power node", "description": "...", "size": 2, "health": 473, "requirements": [{"item": "dezi", "amount": 8}, {"item": "potesonium", "amount": 16}, {"item": "yijotu", "amount": 2}], "research": "dezi-factory", "maxNodes": 26, "laserRange": 7, "category": "power"}

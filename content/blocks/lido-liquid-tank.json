@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lido liquid tank", "description": "...", "health": 362, "size": 3, "requirements": [{"item": "lido", "amount": 17}, {"item": "jisu", "amount": 1}, {"item": "wicy", "amount": 10}], "research": "lido-conduit", "category": "liquid", "liquidCapacity": 63624, "hasLiquids": true}

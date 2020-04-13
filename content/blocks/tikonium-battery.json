@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tikonium battery", "description": "...", "size": 3, "health": 298, "requirements": [{"item": "tikonium", "amount": 9}, {"item": "qipy", "amount": 1}, {"item": "doya", "amount": 9}], "research": "tikonium-factory", "consumes": {"powerBuffered": 5125}, "category": "power"}

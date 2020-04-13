@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "samivi bridge conveyor", "description": "", "health": 3, "range": 9, "speed": 3, "bufferCapacity": 14, "requirements": [{"item": "samivi", "amount": 4}, {"item": "wumuge", "amount": 3}], "research": "samivi-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hiwinium inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "hiwinium", "amount": 1}, {"item": "xygu", "amount": 4}], "research": "hiwinium-conveyor", "category": "distribution", "invert": true}

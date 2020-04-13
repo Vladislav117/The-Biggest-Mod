@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "goxize bridge conveyor", "description": "", "health": 39, "range": 16, "speed": 3, "bufferCapacity": 25, "requirements": [{"item": "goxize", "amount": 2}, {"item": "tedi", "amount": 5}], "research": "goxize-conveyor", "category": "distribution", "size": 1}

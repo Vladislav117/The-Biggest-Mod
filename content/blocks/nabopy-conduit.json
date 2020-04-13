@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nabopy conduit", "description": "...", "health": 130, "requirements": [{"item": "nabopy", "amount": 15}, {"item": "vevevi", "amount": 17}, {"item": "napunium", "amount": 5}], "liquidCapacity": 24, "liquidPressure": 8, "research": "nabopy-factory", "category": "liquid"}

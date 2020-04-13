@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small moxi battery", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "moxi", "amount": 16}, {"item": "riro", "amount": 15}, {"item": "wupa", "amount": 7}], "research": "moxi-factory", "consumes": {"powerBuffered": 419}, "category": "power"}

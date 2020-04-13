@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kike battery", "description": "...", "size": 3, "health": 227, "requirements": [{"item": "kike", "amount": 20}, {"item": "zywixanium", "amount": 9}, {"item": "gawazy", "amount": 9}], "research": "kike-factory", "consumes": {"powerBuffered": 2278}, "category": "power"}

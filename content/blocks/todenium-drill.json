@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "todenium drill", "description": "...", "size": 4, "health": 202, "tier": 4, "drillTime": 9, "consumes": {"power": 17}, "requirements": [{"item": "todenium", "amount": 19}, {"item": "buwozy", "amount": 19}, {"item": "pero", "amount": 3}], "research": "todenium-factory", "category": "production"}

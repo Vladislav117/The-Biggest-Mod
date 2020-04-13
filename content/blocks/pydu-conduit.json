@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pydu conduit", "description": "...", "health": 64, "requirements": [{"item": "pydu", "amount": 5}, {"item": "dyziqanium", "amount": 20}, {"item": "wosefanium", "amount": 9}], "liquidCapacity": 39, "liquidPressure": 8, "research": "pydu-factory", "category": "liquid"}

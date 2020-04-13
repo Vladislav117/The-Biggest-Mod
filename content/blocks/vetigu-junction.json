@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vetigu junction", "description": "...", "health": 16, "speed": 10, "capacity": 18, "size": 1, "requirements": [{"item": "vetigu", "amount": 2}, {"item": "rovo", "amount": 2}], "research": "vetigu-conveyor", "category": "distribution"}

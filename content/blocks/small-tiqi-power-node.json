@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tiqi power node", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "tiqi", "amount": 18}, {"item": "zusi", "amount": 5}, {"item": "yedyte", "amount": 10}], "research": "tiqi-factory", "maxNodes": 28, "laserRange": 18, "category": "power"}

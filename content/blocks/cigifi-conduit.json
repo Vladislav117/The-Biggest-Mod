@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cigifi conduit", "description": "...", "health": 46, "requirements": [{"item": "cigifi", "amount": 18}, {"item": "hixu", "amount": 10}, {"item": "rymyfanium", "amount": 3}], "liquidCapacity": 18, "liquidPressure": 5, "research": "cigifi-factory", "category": "liquid"}

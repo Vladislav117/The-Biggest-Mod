@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zily battery", "description": "...", "size": 3, "health": 136, "requirements": [{"item": "zily", "amount": 17}, {"item": "kywowa", "amount": 20}, {"item": "mete", "amount": 1}], "research": "zily-factory", "consumes": {"powerBuffered": 6054}, "category": "power"}

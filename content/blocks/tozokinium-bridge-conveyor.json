@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tozokinium bridge conveyor", "description": "", "health": 32, "range": 16, "speed": 11, "bufferCapacity": 22, "requirements": [{"item": "tozokinium", "amount": 1}, {"item": "qari", "amount": 4}], "research": "tozokinium-conveyor", "category": "distribution", "size": 1}

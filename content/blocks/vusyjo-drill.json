@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vusyjo drill", "description": "...", "size": 3, "health": 443, "tier": 4, "drillTime": 19, "consumes": {"power": 3}, "requirements": [{"item": "vusyjo", "amount": 12}, {"item": "lyqa", "amount": 5}, {"item": "hunadanium", "amount": 7}], "research": "vusyjo-factory", "category": "production"}

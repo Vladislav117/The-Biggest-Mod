@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pobeqi liquid router", "description": "...", "size": 1, "health": 13, "requirements": [{"item": "pobeqi", "amount": 7}, {"item": "sysagu", "amount": 19}, {"item": "dakyse", "amount": 1}], "research": "pobeqi-conduit", "liquidCapacity": 10, "category": "liquid"}

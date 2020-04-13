@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small civu battery", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "civu", "amount": 13}, {"item": "nytu", "amount": 3}, {"item": "sulu", "amount": 5}], "research": "civu-factory", "consumes": {"powerBuffered": 651}, "category": "power"}

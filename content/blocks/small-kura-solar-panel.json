@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kura solar panel", "description": "...", "size": 1, "health": 287, "requirements": [{"item": "kura", "amount": 17}, {"item": "muvy", "amount": 17}, {"item": "vevevi", "amount": 4}], "research": "kura-factory", "powerProduction": 0.5088504908965263, "category": "power"}

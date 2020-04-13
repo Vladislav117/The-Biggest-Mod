@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pefanium solar panel", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "pefanium", "amount": 10}, {"item": "mepunium", "amount": 3}, {"item": "tabo", "amount": 6}], "research": "pefanium-factory", "powerProduction": 0.8077313557991772, "category": "power"}

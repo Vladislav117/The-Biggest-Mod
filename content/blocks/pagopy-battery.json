@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pagopy battery", "description": "...", "size": 3, "health": 159, "requirements": [{"item": "pagopy", "amount": 10}, {"item": "xepe", "amount": 2}, {"item": "seqyyi", "amount": 2}], "research": "pagopy-factory", "consumes": {"powerBuffered": 5362}, "category": "power"}

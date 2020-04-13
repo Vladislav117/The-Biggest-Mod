@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qusepu solar panel", "description": "...", "size": 1, "health": 182, "requirements": [{"item": "qusepu", "amount": 3}, {"item": "hujenium", "amount": 18}, {"item": "fyma", "amount": 10}], "research": "qusepu-factory", "powerProduction": 0.07352551648825233, "category": "power"}

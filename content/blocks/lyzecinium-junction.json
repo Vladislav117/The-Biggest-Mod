@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lyzecinium junction", "description": "...", "health": 16, "speed": 10, "capacity": 18, "size": 1, "requirements": [{"item": "lyzecinium", "amount": 5}, {"item": "yamyri", "amount": 3}], "research": "lyzecinium-conveyor", "category": "distribution"}

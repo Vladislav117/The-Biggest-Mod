@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lidori conduit", "description": "...", "health": 68, "requirements": [{"item": "lidori", "amount": 3}, {"item": "karu", "amount": 9}, {"item": "fupymi", "amount": 4}], "liquidCapacity": 46, "liquidPressure": 2, "research": "lidori-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hifu solar panel", "description": "...", "size": 1, "health": 377, "requirements": [{"item": "hifu", "amount": 12}, {"item": "zyfita", "amount": 1}, {"item": "zyhove", "amount": 1}], "research": "hifu-factory", "powerProduction": 3.1740846297997716, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "seqynium conduit", "description": "...", "health": 48, "requirements": [{"item": "seqynium", "amount": 1}, {"item": "rowurunium", "amount": 15}, {"item": "xeye", "amount": 4}], "liquidCapacity": 37, "liquidPressure": 0, "research": "seqynium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cyyyfe drill", "description": "...", "size": 3, "health": 150, "tier": 4, "drillTime": 9, "consumes": {"power": 3}, "requirements": [{"item": "cyyyfe", "amount": 11}, {"item": "seyo", "amount": 4}, {"item": "memu", "amount": 1}], "research": "cyyyfe-factory", "category": "production"}

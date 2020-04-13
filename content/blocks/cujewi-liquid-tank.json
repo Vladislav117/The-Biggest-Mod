@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cujewi liquid tank", "description": "...", "health": 298, "size": 3, "requirements": [{"item": "cujewi", "amount": 4}, {"item": "qanupenium", "amount": 9}, {"item": "voqaya", "amount": 3}], "research": "cujewi-conduit", "category": "liquid", "liquidCapacity": 83250, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "coxufe liquid tank", "description": "...", "health": 291, "size": 3, "requirements": [{"item": "coxufe", "amount": 4}, {"item": "tozenium", "amount": 20}, {"item": "dyzaxi", "amount": 1}], "research": "coxufe-conduit", "category": "liquid", "liquidCapacity": 87414, "hasLiquids": true}

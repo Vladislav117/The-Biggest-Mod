@@ -1,0 +1,1 @@
+{"type": "junction", "name": "juwi junction", "description": "...", "health": 18, "speed": 16, "capacity": 15, "size": 1, "requirements": [{"item": "juwi", "amount": 5}, {"item": "cari", "amount": 4}], "research": "juwi-conveyor", "category": "distribution"}

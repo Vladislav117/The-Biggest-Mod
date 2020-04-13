@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zewe conduit", "description": "...", "health": 84, "requirements": [{"item": "zewe", "amount": 12}, {"item": "zocela", "amount": 3}, {"item": "losenium", "amount": 2}], "liquidCapacity": 39, "liquidPressure": 1, "research": "zewe-factory", "category": "liquid"}

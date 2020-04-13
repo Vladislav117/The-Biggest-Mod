@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qysavunium liquid tank", "description": "...", "health": 452, "size": 3, "requirements": [{"item": "qysavunium", "amount": 11}, {"item": "roqeki", "amount": 14}, {"item": "bexa", "amount": 9}], "research": "qysavunium-conduit", "category": "liquid", "liquidCapacity": 66080, "hasLiquids": true}

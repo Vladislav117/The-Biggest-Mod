@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bybity battery", "description": "...", "size": 3, "health": 264, "requirements": [{"item": "bybity", "amount": 8}, {"item": "fogodo", "amount": 2}, {"item": "syteja", "amount": 10}], "research": "bybity-factory", "consumes": {"powerBuffered": 6944}, "category": "power"}

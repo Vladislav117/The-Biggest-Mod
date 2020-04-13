@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nepiky bridge conveyor", "description": "", "health": 3, "range": 9, "speed": 2, "bufferCapacity": 16, "requirements": [{"item": "nepiky", "amount": 1}, {"item": "nuci", "amount": 3}], "research": "nepiky-conveyor", "category": "distribution", "size": 1}

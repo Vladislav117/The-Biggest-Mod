@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "loyomy solar panel", "description": "...", "size": 3, "health": 183, "requirements": [{"item": "loyomy", "amount": 20}, {"item": "jaxu", "amount": 4}, {"item": "zohura", "amount": 3}], "research": "loyomy-factory", "powerProduction": 2.9000737131203804, "category": "power"}

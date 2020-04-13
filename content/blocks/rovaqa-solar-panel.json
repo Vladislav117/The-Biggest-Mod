@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rovaqa solar panel", "description": "...", "size": 3, "health": 56, "requirements": [{"item": "rovaqa", "amount": 8}, {"item": "deqohu", "amount": 1}, {"item": "bexa", "amount": 6}], "research": "rovaqa-factory", "powerProduction": 0.03342528415315055, "category": "power"}

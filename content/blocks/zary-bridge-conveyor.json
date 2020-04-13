@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zary bridge conveyor", "description": "", "health": 15, "range": 1, "speed": 7, "bufferCapacity": 12, "requirements": [{"item": "zary", "amount": 3}, {"item": "wibasi", "amount": 5}], "research": "zary-conveyor", "category": "distribution", "size": 1}

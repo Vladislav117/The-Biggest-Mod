@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "beyuxy bridge conveyor", "description": "", "health": 12, "range": 16, "speed": 15, "bufferCapacity": 25, "requirements": [{"item": "beyuxy", "amount": 1}, {"item": "seyuwa", "amount": 1}], "research": "beyuxy-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wuvyci liquid tank", "description": "...", "health": 341, "size": 3, "requirements": [{"item": "wuvyci", "amount": 6}, {"item": "cyyenium", "amount": 2}, {"item": "hufema", "amount": 9}], "research": "wuvyci-conduit", "category": "liquid", "liquidCapacity": 116616, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qyha solar panel", "description": "...", "size": 1, "health": 345, "requirements": [{"item": "qyha", "amount": 4}, {"item": "nayevynium", "amount": 8}, {"item": "yupo", "amount": 7}], "research": "qyha-factory", "powerProduction": 0.09241461235016528, "category": "power"}

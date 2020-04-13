@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lurenium solar panel", "description": "...", "size": 3, "health": 227, "requirements": [{"item": "lurenium", "amount": 17}, {"item": "pymu", "amount": 18}, {"item": "lebu", "amount": 7}], "research": "lurenium-factory", "powerProduction": 0.9308528089968148, "category": "power"}

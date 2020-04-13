@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qawy conduit", "description": "...", "health": 200, "requirements": [{"item": "qawy", "amount": 12}, {"item": "cyxazi", "amount": 12}, {"item": "xyza", "amount": 3}], "liquidCapacity": 35, "liquidPressure": 6, "research": "qawy-factory", "category": "liquid"}

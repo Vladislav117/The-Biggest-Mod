@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rewunium liquid tank", "description": "...", "health": 299, "size": 3, "requirements": [{"item": "rewunium", "amount": 8}, {"item": "niyy", "amount": 1}, {"item": "rukonium", "amount": 2}], "research": "rewunium-conduit", "category": "liquid", "liquidCapacity": 56758, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kobynium power node", "description": "...", "size": 2, "health": 205, "requirements": [{"item": "kobynium", "amount": 13}, {"item": "pajaka", "amount": 15}, {"item": "xuji", "amount": 7}], "research": "kobynium-factory", "maxNodes": 28, "laserRange": 14, "category": "power"}

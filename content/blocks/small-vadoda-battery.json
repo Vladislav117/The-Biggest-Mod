@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vadoda battery", "description": "...", "size": 1, "health": 192, "requirements": [{"item": "vadoda", "amount": 5}, {"item": "qylino", "amount": 5}, {"item": "gizomanium", "amount": 3}], "research": "vadoda-factory", "consumes": {"powerBuffered": 473}, "category": "power"}

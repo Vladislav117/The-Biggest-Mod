@@ -1,0 +1,1 @@
+{"type": "battery", "name": "baly battery", "description": "...", "size": 3, "health": 183, "requirements": [{"item": "baly", "amount": 18}, {"item": "ruwucynium", "amount": 7}, {"item": "sosi", "amount": 4}], "research": "baly-factory", "consumes": {"powerBuffered": 8448}, "category": "power"}

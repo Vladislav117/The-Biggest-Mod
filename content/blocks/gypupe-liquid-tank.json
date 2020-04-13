@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gypupe liquid tank", "description": "...", "health": 580, "size": 3, "requirements": [{"item": "gypupe", "amount": 13}, {"item": "dicaku", "amount": 17}, {"item": "cujyda", "amount": 4}], "research": "gypupe-conduit", "category": "liquid", "liquidCapacity": 61727, "hasLiquids": true}

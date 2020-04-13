@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "darunium solar panel", "description": "...", "size": 3, "health": 313, "requirements": [{"item": "darunium", "amount": 11}, {"item": "bily", "amount": 6}, {"item": "qicy", "amount": 10}], "research": "darunium-factory", "powerProduction": 1.8333876645196172, "category": "power"}

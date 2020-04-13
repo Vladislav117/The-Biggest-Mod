@@ -1,0 +1,1 @@
+{"type": "battery", "name": "papununium battery", "description": "...", "size": 3, "health": 248, "requirements": [{"item": "papununium", "amount": 20}, {"item": "vayo", "amount": 15}, {"item": "vodynium", "amount": 6}], "research": "papununium-factory", "consumes": {"powerBuffered": 2869}, "category": "power"}

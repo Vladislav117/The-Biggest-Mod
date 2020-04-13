@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yohu solar panel", "description": "...", "size": 3, "health": 60, "requirements": [{"item": "yohu", "amount": 4}, {"item": "jihu", "amount": 7}, {"item": "qoxida", "amount": 9}], "research": "yohu-factory", "powerProduction": 6.776580380127557, "category": "power"}

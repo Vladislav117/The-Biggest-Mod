@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "puwasy inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "puwasy", "amount": 5}, {"item": "rine", "amount": 5}], "research": "puwasy-conveyor", "category": "distribution", "invert": true}

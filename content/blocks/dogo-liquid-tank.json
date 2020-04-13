@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dogo liquid tank", "description": "...", "health": 237, "size": 3, "requirements": [{"item": "dogo", "amount": 9}, {"item": "mupa", "amount": 18}, {"item": "gyduyi", "amount": 1}], "research": "dogo-conduit", "category": "liquid", "liquidCapacity": 2989, "hasLiquids": true}

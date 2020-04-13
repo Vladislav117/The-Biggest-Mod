@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "womisa liquid tank", "description": "...", "health": 364, "size": 3, "requirements": [{"item": "womisa", "amount": 2}, {"item": "mebo", "amount": 20}, {"item": "bebofo", "amount": 6}], "research": "womisa-conduit", "category": "liquid", "liquidCapacity": 78707, "hasLiquids": true}

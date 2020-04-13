@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "raky drill", "description": "...", "size": 2, "health": 213, "tier": 3, "drillTime": 8, "consumes": {"power": 6}, "requirements": [{"item": "raky", "amount": 8}, {"item": "juwyso", "amount": 12}, {"item": "bofe", "amount": 3}], "research": "raky-factory", "category": "production"}

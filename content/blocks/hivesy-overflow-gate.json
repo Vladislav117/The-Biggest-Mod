@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hivesy overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "hivesy", "amount": 2}, {"item": "titanium", "amount": 4}], "research": "hivesy-conveyor", "category": "distribution", "invert": false}

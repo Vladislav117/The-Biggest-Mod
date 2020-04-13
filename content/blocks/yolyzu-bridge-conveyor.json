@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yolyzu bridge conveyor", "description": "", "health": 9, "range": 11, "speed": 19, "bufferCapacity": 24, "requirements": [{"item": "yolyzu", "amount": 3}, {"item": "focatu", "amount": 4}], "research": "yolyzu-conveyor", "category": "distribution", "size": 1}

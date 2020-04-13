@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dekeko liquid tank", "description": "...", "health": 610, "size": 3, "requirements": [{"item": "dekeko", "amount": 2}, {"item": "giho", "amount": 9}, {"item": "kurecanium", "amount": 5}], "research": "dekeko-conduit", "category": "liquid", "liquidCapacity": 27080, "hasLiquids": true}

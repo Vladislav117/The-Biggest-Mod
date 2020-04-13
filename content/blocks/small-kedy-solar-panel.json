@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kedy solar panel", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "kedy", "amount": 14}, {"item": "qivoha", "amount": 4}, {"item": "qoki", "amount": 2}], "research": "kedy-factory", "powerProduction": 12.201761955261215, "category": "power"}

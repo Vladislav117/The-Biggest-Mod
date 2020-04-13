@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "risusy inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "risusy", "amount": 1}, {"item": "pyge", "amount": 3}], "research": "risusy-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tigu underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "tigu", "amount": 2}, {"item": "huyaxo", "amount": 4}], "research": "tigu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kavenium solar panel", "description": "...", "size": 3, "health": 242, "requirements": [{"item": "kavenium", "amount": 8}, {"item": "leqe", "amount": 17}, {"item": "ticyxi", "amount": 4}], "research": "kavenium-factory", "powerProduction": 0.8033648090109249, "category": "power"}

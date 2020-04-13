@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cypabo inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "cypabo", "amount": 5}, {"item": "sekele", "amount": 5}], "research": "cypabo-conveyor", "category": "distribution", "invert": true}

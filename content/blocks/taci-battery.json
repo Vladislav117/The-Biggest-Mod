@@ -1,0 +1,1 @@
+{"type": "battery", "name": "taci battery", "description": "...", "size": 3, "health": 321, "requirements": [{"item": "taci", "amount": 7}, {"item": "cuso", "amount": 3}, {"item": "beniyi", "amount": 1}], "research": "taci-factory", "consumes": {"powerBuffered": 9303}, "category": "power"}

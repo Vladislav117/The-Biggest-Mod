@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nydinenium liquid tank", "description": "...", "health": 579, "size": 3, "requirements": [{"item": "nydinenium", "amount": 15}, {"item": "vewi", "amount": 14}, {"item": "ciqu", "amount": 9}], "research": "nydinenium-conduit", "category": "liquid", "liquidCapacity": 50693, "hasLiquids": true}

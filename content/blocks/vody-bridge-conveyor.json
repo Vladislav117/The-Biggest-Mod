@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vody bridge conveyor", "description": "", "health": 33, "range": 20, "speed": 10, "bufferCapacity": 4, "requirements": [{"item": "vody", "amount": 3}, {"item": "mecyronium", "amount": 4}], "research": "vody-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vytuxe battery", "description": "...", "size": 3, "health": 320, "requirements": [{"item": "vytuxe", "amount": 12}, {"item": "xuxyvo", "amount": 15}, {"item": "jumonium", "amount": 6}], "research": "vytuxe-factory", "consumes": {"powerBuffered": 8616}, "category": "power"}

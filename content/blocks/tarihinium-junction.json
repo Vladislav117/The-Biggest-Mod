@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tarihinium junction", "description": "...", "health": 2, "speed": 20, "capacity": 13, "size": 1, "requirements": [{"item": "tarihinium", "amount": 2}, {"item": "mohoki", "amount": 2}], "research": "tarihinium-conveyor", "category": "distribution"}

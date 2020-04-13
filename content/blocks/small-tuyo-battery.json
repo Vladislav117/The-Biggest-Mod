@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tuyo battery", "description": "...", "size": 1, "health": 136, "requirements": [{"item": "tuyo", "amount": 5}, {"item": "dimysynium", "amount": 1}, {"item": "waty", "amount": 9}], "research": "tuyo-factory", "consumes": {"powerBuffered": 702}, "category": "power"}

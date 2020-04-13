@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vybuzu drill", "description": "...", "size": 4, "health": 249, "tier": 2, "drillTime": 17, "consumes": {"power": 14}, "requirements": [{"item": "vybuzu", "amount": 8}, {"item": "genohu", "amount": 19}, {"item": "zipy", "amount": 7}], "research": "vybuzu-factory", "category": "production"}

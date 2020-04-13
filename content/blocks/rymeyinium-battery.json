@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rymeyinium battery", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "rymeyinium", "amount": 19}, {"item": "xydume", "amount": 18}, {"item": "pivojunium", "amount": 10}], "research": "rymeyinium-factory", "consumes": {"powerBuffered": 4831}, "category": "power"}

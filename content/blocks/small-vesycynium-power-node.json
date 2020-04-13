@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vesycynium power node", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "vesycynium", "amount": 5}, {"item": "vohiyynium", "amount": 15}, {"item": "yypedonium", "amount": 9}], "research": "vesycynium-factory", "maxNodes": 10, "laserRange": 12, "category": "power"}

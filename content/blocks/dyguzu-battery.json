@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dyguzu battery", "description": "...", "size": 3, "health": 73, "requirements": [{"item": "dyguzu", "amount": 5}, {"item": "mepunium", "amount": 2}, {"item": "xekocanium", "amount": 6}], "research": "dyguzu-factory", "consumes": {"powerBuffered": 1330}, "category": "power"}

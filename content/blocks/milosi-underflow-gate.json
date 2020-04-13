@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "milosi underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "milosi", "amount": 2}, {"item": "jeqidynium", "amount": 2}], "research": "milosi-conveyor", "category": "distribution", "invert": false}

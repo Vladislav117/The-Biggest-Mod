@@ -1,0 +1,1 @@
+{"type": "junction", "name": "togi junction", "description": "...", "health": 4, "speed": 15, "capacity": 10, "size": 1, "requirements": [{"item": "togi", "amount": 4}, {"item": "hasu", "amount": 4}], "research": "togi-conveyor", "category": "distribution"}

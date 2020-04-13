@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vykofa drill", "description": "...", "size": 2, "health": 145, "tier": 4, "drillTime": 6, "consumes": {"power": 13}, "requirements": [{"item": "vykofa", "amount": 8}, {"item": "xoge", "amount": 2}, {"item": "myjeke", "amount": 1}], "research": "vykofa-factory", "category": "production"}

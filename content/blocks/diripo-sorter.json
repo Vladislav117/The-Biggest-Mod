@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "diripo sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "diripo", "amount": 5}, {"item": "cimafinium", "amount": 5}], "research": "diripo-conveyor", "category": "distribution", "invert": false}

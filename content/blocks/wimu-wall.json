@@ -1,0 +1,1 @@
+{"type": "Wall", "name": "wimu wall", "description": "...", "health": 400, "size": 2, "requirements": [{"item": "wimu", "amount": 48}], "research": "wimu-factory", "category": "defense"}

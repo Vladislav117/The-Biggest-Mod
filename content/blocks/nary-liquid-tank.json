@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nary liquid tank", "description": "...", "health": 491, "size": 3, "requirements": [{"item": "nary", "amount": 2}, {"item": "maqa", "amount": 11}, {"item": "noconium", "amount": 7}], "research": "nary-conduit", "category": "liquid", "liquidCapacity": 11401, "hasLiquids": true}

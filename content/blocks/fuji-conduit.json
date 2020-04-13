@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fuji conduit", "description": "...", "health": 168, "requirements": [{"item": "fuji", "amount": 5}, {"item": "noyayu", "amount": 6}, {"item": "sukanium", "amount": 6}], "liquidCapacity": 41, "liquidPressure": 1, "research": "fuji-factory", "category": "liquid"}

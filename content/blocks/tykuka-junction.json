@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tykuka junction", "description": "...", "health": 23, "speed": 1, "capacity": 15, "size": 1, "requirements": [{"item": "tykuka", "amount": 2}, {"item": "rudy", "amount": 4}], "research": "tykuka-conveyor", "category": "distribution"}

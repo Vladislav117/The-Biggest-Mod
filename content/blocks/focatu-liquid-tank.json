@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "focatu liquid tank", "description": "...", "health": 413, "size": 3, "requirements": [{"item": "focatu", "amount": 20}, {"item": "fexenium", "amount": 3}, {"item": "fizunium", "amount": 3}], "research": "focatu-conduit", "category": "liquid", "liquidCapacity": 56136, "hasLiquids": true}

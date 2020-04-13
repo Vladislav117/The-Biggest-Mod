@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tebebe drill", "description": "...", "size": 2, "health": 286, "tier": 1, "drillTime": 2, "consumes": {"power": 6}, "requirements": [{"item": "tebebe", "amount": 10}, {"item": "lora", "amount": 2}, {"item": "colu", "amount": 7}], "research": "tebebe-factory", "category": "production"}

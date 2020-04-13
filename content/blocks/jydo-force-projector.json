@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "jydo force projector", "description": "...", "health": 213, "size": 3, "consumes": {"power": 5.0, "item": "jydo"}, "requirements": [{"item": "jydo", "amount": 11}, {"item": "moxi", "amount": 2}, {"item": "laqu", "amount": 6}], "research": "jydo-factory", "category": "effect"}

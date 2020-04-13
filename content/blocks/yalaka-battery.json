@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yalaka battery", "description": "...", "size": 3, "health": 64, "requirements": [{"item": "yalaka", "amount": 18}, {"item": "yalaka", "amount": 11}, {"item": "titanium", "amount": 6}], "research": "yalaka-factory", "consumes": {"powerBuffered": 6869}, "category": "power"}

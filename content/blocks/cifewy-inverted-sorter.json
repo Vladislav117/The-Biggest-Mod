@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cifewy inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "cifewy", "amount": 5}, {"item": "jidy", "amount": 2}], "research": "cifewy-conveyor", "category": "distribution", "invert": true}

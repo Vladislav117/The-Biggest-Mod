@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pemaya solar panel", "description": "...", "size": 3, "health": 168, "requirements": [{"item": "pemaya", "amount": 1}, {"item": "xuqi", "amount": 12}, {"item": "hywinium", "amount": 6}], "research": "pemaya-factory", "powerProduction": 14.109087791225589, "category": "power"}

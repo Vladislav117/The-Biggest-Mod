@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rita battery", "description": "...", "size": 3, "health": 309, "requirements": [{"item": "rita", "amount": 15}, {"item": "milosi", "amount": 2}, {"item": "kuku", "amount": 4}], "research": "rita-factory", "consumes": {"powerBuffered": 3053}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hikyxu battery", "description": "...", "size": 3, "health": 131, "requirements": [{"item": "hikyxu", "amount": 11}, {"item": "lokybe", "amount": 16}, {"item": "jyhoninium", "amount": 7}], "research": "hikyxu-factory", "consumes": {"powerBuffered": 749}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qayine bridge conveyor", "description": "", "health": 37, "range": 9, "speed": 13, "bufferCapacity": 17, "requirements": [{"item": "qayine", "amount": 3}, {"item": "wypa", "amount": 2}], "research": "qayine-conveyor", "category": "distribution", "size": 1}

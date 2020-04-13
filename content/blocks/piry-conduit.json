@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "piry conduit", "description": "...", "health": 38, "requirements": [{"item": "piry", "amount": 20}, {"item": "hasoye", "amount": 17}, {"item": "loda", "amount": 5}], "liquidCapacity": 9, "liquidPressure": 2, "research": "piry-factory", "category": "liquid"}

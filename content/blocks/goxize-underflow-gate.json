@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "goxize underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "goxize", "amount": 2}, {"item": "raso", "amount": 3}], "research": "goxize-conveyor", "category": "distribution", "invert": false}

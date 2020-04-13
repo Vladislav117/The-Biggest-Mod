@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yisupe power node", "description": "...", "size": 2, "health": 690, "requirements": [{"item": "yisupe", "amount": 12}, {"item": "xoquge", "amount": 10}, {"item": "ryte", "amount": 5}], "research": "yisupe-factory", "maxNodes": 22, "laserRange": 7, "category": "power"}

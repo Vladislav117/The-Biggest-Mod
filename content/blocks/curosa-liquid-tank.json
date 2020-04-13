@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "curosa liquid tank", "description": "...", "health": 410, "size": 3, "requirements": [{"item": "curosa", "amount": 8}, {"item": "mehenium", "amount": 17}, {"item": "zaqe", "amount": 7}], "research": "curosa-conduit", "category": "liquid", "liquidCapacity": 58809, "hasLiquids": true}

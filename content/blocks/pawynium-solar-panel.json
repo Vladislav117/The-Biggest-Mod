@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pawynium solar panel", "description": "...", "size": 3, "health": 271, "requirements": [{"item": "pawynium", "amount": 8}, {"item": "vuganium", "amount": 8}, {"item": "yocenium", "amount": 3}], "research": "pawynium-factory", "powerProduction": 3.6741872339456654, "category": "power"}

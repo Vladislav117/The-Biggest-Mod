@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sifiwa power node", "description": "...", "size": 2, "health": 297, "requirements": [{"item": "sifiwa", "amount": 6}, {"item": "mewe", "amount": 8}, {"item": "wygaki", "amount": 9}], "research": "sifiwa-factory", "maxNodes": 49, "laserRange": 17, "category": "power"}

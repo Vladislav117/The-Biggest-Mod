@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gihalu liquid tank", "description": "...", "health": 478, "size": 3, "requirements": [{"item": "gihalu", "amount": 16}, {"item": "fuyoja", "amount": 18}, {"item": "qigine", "amount": 7}], "research": "gihalu-conduit", "category": "liquid", "liquidCapacity": 31431, "hasLiquids": true}

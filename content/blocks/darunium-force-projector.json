@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "darunium force projector", "description": "...", "health": 232, "size": 3, "consumes": {"power": 5.0, "item": "darunium"}, "requirements": [{"item": "darunium", "amount": 8}, {"item": "teyipu", "amount": 15}, {"item": "xuhuxenium", "amount": 5}], "research": "darunium-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fapufi solar panel", "description": "...", "size": 1, "health": 280, "requirements": [{"item": "fapufi", "amount": 10}, {"item": "wylanium", "amount": 12}, {"item": "jahezu", "amount": 8}], "research": "fapufi-factory", "powerProduction": 8.116204902211313, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "wicapy overdrive projector", "description": "...", "health": 107, "consumes": {"power": 3.0, "item": "wicapy"}, "size": 2, "requirements": [{"item": "wicapy", "amount": 5}, {"item": "fygunium", "amount": 20}, {"item": "cosi", "amount": 7}], "research": "wicapy-factory", "category": "effect"}

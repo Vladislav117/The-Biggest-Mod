@@ -1,0 +1,1 @@
+{"type": "router", "name": "pamo router", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "pamo", "amount": 8}], "research": "pamo-conveyor", "category": "distribution"}

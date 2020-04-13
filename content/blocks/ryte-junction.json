@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ryte junction", "description": "...", "health": 1, "speed": 1, "capacity": 4, "size": 1, "requirements": [{"item": "ryte", "amount": 1}, {"item": "yuqy", "amount": 5}], "research": "ryte-conveyor", "category": "distribution"}

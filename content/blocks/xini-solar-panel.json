@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xini solar panel", "description": "...", "size": 3, "health": 86, "requirements": [{"item": "xini", "amount": 17}, {"item": "lejara", "amount": 7}, {"item": "lyheti", "amount": 2}], "research": "xini-factory", "powerProduction": 2.0718116842465535, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zokoya solar panel", "description": "...", "size": 3, "health": 63, "requirements": [{"item": "zokoya", "amount": 4}, {"item": "gydarynium", "amount": 2}, {"item": "femoconium", "amount": 5}], "research": "zokoya-factory", "powerProduction": 0.035933311418276125, "category": "power"}

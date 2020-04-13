@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ryzote bridge conveyor", "description": "", "health": 33, "range": 7, "speed": 11, "bufferCapacity": 19, "requirements": [{"item": "ryzote", "amount": 3}, {"item": "muremi", "amount": 1}], "research": "ryzote-conveyor", "category": "distribution", "size": 1}

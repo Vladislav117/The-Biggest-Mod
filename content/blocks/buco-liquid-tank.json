@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "buco liquid tank", "description": "...", "health": 352, "size": 3, "requirements": [{"item": "buco", "amount": 14}, {"item": "vodynium", "amount": 6}, {"item": "covikinium", "amount": 8}], "research": "buco-conduit", "category": "liquid", "liquidCapacity": 45140, "hasLiquids": true}

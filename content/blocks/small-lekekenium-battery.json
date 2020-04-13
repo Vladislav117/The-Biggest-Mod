@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lekekenium battery", "description": "...", "size": 1, "health": 348, "requirements": [{"item": "lekekenium", "amount": 1}, {"item": "peje", "amount": 10}, {"item": "nifenium", "amount": 7}], "research": "lekekenium-factory", "consumes": {"powerBuffered": 1692}, "category": "power"}

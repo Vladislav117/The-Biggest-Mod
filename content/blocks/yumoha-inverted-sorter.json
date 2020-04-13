@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yumoha inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "yumoha", "amount": 1}, {"item": "rehawe", "amount": 3}], "research": "yumoha-conveyor", "category": "distribution", "invert": true}

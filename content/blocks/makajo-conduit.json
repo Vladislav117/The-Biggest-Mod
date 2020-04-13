@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "makajo conduit", "description": "...", "health": 135, "requirements": [{"item": "makajo", "amount": 1}, {"item": "garyda", "amount": 16}, {"item": "hyfeho", "amount": 2}], "liquidCapacity": 45, "liquidPressure": 3, "research": "makajo-factory", "category": "liquid"}

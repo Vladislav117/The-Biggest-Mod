@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small biqa power node", "description": "...", "size": 1, "health": 130, "requirements": [{"item": "biqa", "amount": 11}, {"item": "kilu", "amount": 4}, {"item": "mygo", "amount": 9}], "research": "biqa-factory", "maxNodes": 10, "laserRange": 10, "category": "power"}

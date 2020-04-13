@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small duwo power node", "description": "...", "size": 1, "health": 134, "requirements": [{"item": "duwo", "amount": 14}, {"item": "fise", "amount": 5}, {"item": "fofoco", "amount": 9}], "research": "duwo-factory", "maxNodes": 14, "laserRange": 22, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qevije power node", "description": "...", "size": 2, "health": 648, "requirements": [{"item": "qevije", "amount": 19}, {"item": "kiredi", "amount": 3}, {"item": "biny", "amount": 4}], "research": "qevije-factory", "maxNodes": 28, "laserRange": 8, "category": "power"}

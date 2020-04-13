@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cepaty liquid router", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "cepaty", "amount": 15}, {"item": "nudo", "amount": 20}, {"item": "racajo", "amount": 1}], "research": "cepaty-conduit", "liquidCapacity": 10, "category": "liquid"}

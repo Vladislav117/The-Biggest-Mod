@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vakoly bridge conveyor", "description": "", "health": 7, "range": 9, "speed": 20, "bufferCapacity": 2, "requirements": [{"item": "vakoly", "amount": 4}, {"item": "maqufu", "amount": 1}], "research": "vakoly-conveyor", "category": "distribution", "size": 1}

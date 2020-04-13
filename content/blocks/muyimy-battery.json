@@ -1,0 +1,1 @@
+{"type": "battery", "name": "muyimy battery", "description": "...", "size": 3, "health": 102, "requirements": [{"item": "muyimy", "amount": 10}, {"item": "taci", "amount": 9}, {"item": "vygu", "amount": 8}], "research": "muyimy-factory", "consumes": {"powerBuffered": 8597}, "category": "power"}

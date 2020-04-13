@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kaniyy liquid tank", "description": "...", "health": 450, "size": 3, "requirements": [{"item": "kaniyy", "amount": 20}, {"item": "wavoli", "amount": 11}, {"item": "viqamo", "amount": 1}], "research": "kaniyy-conduit", "category": "liquid", "liquidCapacity": 25074, "hasLiquids": true}

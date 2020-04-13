@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fygy power node", "description": "...", "size": 2, "health": 333, "requirements": [{"item": "fygy", "amount": 12}, {"item": "hemumonium", "amount": 8}, {"item": "codu", "amount": 4}], "research": "fygy-factory", "maxNodes": 33, "laserRange": 26, "category": "power"}

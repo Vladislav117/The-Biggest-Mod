@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "taze drill", "description": "...", "size": 2, "health": 148, "tier": 3, "drillTime": 15, "consumes": {"power": 11}, "requirements": [{"item": "taze", "amount": 13}, {"item": "hixu", "amount": 1}, {"item": "dicaku", "amount": 1}], "research": "taze-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cigifi battery", "description": "...", "size": 3, "health": 329, "requirements": [{"item": "cigifi", "amount": 3}, {"item": "leloyi", "amount": 5}, {"item": "yifity", "amount": 8}], "research": "cigifi-factory", "consumes": {"powerBuffered": 9097}, "category": "power"}

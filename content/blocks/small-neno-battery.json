@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small neno battery", "description": "...", "size": 1, "health": 138, "requirements": [{"item": "neno", "amount": 3}, {"item": "fuposy", "amount": 12}, {"item": "basomi", "amount": 9}], "research": "neno-factory", "consumes": {"powerBuffered": 2850}, "category": "power"}

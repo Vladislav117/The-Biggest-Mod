@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dekyzu underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "dekyzu", "amount": 4}, {"item": "jogi", "amount": 1}], "research": "dekyzu-conveyor", "category": "distribution", "invert": false}

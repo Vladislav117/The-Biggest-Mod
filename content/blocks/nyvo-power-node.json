@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nyvo power node", "description": "...", "size": 2, "health": 425, "requirements": [{"item": "nyvo", "amount": 15}, {"item": "vemame", "amount": 16}, {"item": "sinawenium", "amount": 7}], "research": "nyvo-factory", "maxNodes": 15, "laserRange": 27, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "hogyse conveyor", "description": "...", "health": 300, "requirements": [{"item": "hogyse", "amount": 1}, {"item": "yunu", "amount": 10}], "speed": 0.3110352642250543, "research": "hogyse-factory", "category": "distribution"}

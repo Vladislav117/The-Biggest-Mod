@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lepe liquid tank", "description": "...", "health": 277, "size": 3, "requirements": [{"item": "lepe", "amount": 17}, {"item": "beronium", "amount": 20}, {"item": "fusaji", "amount": 4}], "research": "lepe-conduit", "category": "liquid", "liquidCapacity": 19248, "hasLiquids": true}

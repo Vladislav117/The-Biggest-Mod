@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dune battery", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "dune", "amount": 2}, {"item": "hiwe", "amount": 16}, {"item": "neby", "amount": 9}], "research": "dune-factory", "consumes": {"powerBuffered": 391}, "category": "power"}

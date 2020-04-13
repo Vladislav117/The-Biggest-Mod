@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "delo liquid tank", "description": "...", "health": 214, "size": 3, "requirements": [{"item": "delo", "amount": 14}, {"item": "vodaxa", "amount": 13}, {"item": "huqiby", "amount": 2}], "research": "delo-conduit", "category": "liquid", "liquidCapacity": 14650, "hasLiquids": true}

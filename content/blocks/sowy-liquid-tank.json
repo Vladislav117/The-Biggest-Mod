@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sowy liquid tank", "description": "...", "health": 253, "size": 3, "requirements": [{"item": "sowy", "amount": 19}, {"item": "difyyi", "amount": 15}, {"item": "luzinium", "amount": 7}], "research": "sowy-conduit", "category": "liquid", "liquidCapacity": 2216, "hasLiquids": true}

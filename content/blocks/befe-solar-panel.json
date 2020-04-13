@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "befe solar panel", "description": "...", "size": 3, "health": 170, "requirements": [{"item": "befe", "amount": 15}, {"item": "dewe", "amount": 5}, {"item": "lihinium", "amount": 10}], "research": "befe-factory", "powerProduction": 4.030267328934645, "category": "power"}

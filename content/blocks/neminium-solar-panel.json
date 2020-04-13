@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "neminium solar panel", "description": "...", "size": 3, "health": 374, "requirements": [{"item": "neminium", "amount": 9}, {"item": "xynice", "amount": 3}, {"item": "lokybe", "amount": 2}], "research": "neminium-factory", "powerProduction": 0.2610960269199176, "category": "power"}

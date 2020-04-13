@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wabi battery", "description": "...", "size": 3, "health": 332, "requirements": [{"item": "wabi", "amount": 8}, {"item": "cuda", "amount": 10}, {"item": "wucu", "amount": 6}], "research": "wabi-factory", "consumes": {"powerBuffered": 5979}, "category": "power"}

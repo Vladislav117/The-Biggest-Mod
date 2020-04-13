@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "seceho force projector", "description": "...", "health": 193, "size": 3, "consumes": {"power": 5.0, "item": "seceho"}, "requirements": [{"item": "seceho", "amount": 8}, {"item": "bexo", "amount": 16}, {"item": "nybinium", "amount": 5}], "research": "seceho-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qifu power node", "description": "...", "size": 1, "health": 247, "requirements": [{"item": "qifu", "amount": 13}, {"item": "zowenium", "amount": 10}, {"item": "ficebanium", "amount": 7}], "research": "qifu-factory", "maxNodes": 18, "laserRange": 22, "category": "power"}

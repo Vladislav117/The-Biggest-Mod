@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cigifi power node", "description": "...", "size": 2, "health": 479, "requirements": [{"item": "cigifi", "amount": 18}, {"item": "wypu", "amount": 11}, {"item": "socyhi", "amount": 10}], "research": "cigifi-factory", "maxNodes": 16, "laserRange": 18, "category": "power"}

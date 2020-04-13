@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sihi liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "sihi", "amount": 15}, {"item": "sayo", "amount": 9}, {"item": "ruxobi", "amount": 4}], "research": "sihi-conduit", "liquidCapacity": 10, "category": "liquid"}

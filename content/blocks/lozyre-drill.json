@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lozyre drill", "description": "...", "size": 2, "health": 238, "tier": 2, "drillTime": 15, "consumes": {"power": 15}, "requirements": [{"item": "lozyre", "amount": 4}, {"item": "yusica", "amount": 16}, {"item": "xynice", "amount": 9}], "research": "lozyre-factory", "category": "production"}

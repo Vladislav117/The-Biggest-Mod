@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hewupenium power node", "description": "...", "size": 2, "health": 14, "requirements": [{"item": "hewupenium", "amount": 9}, {"item": "hufu", "amount": 16}, {"item": "famo", "amount": 5}], "research": "hewupenium-factory", "maxNodes": 28, "laserRange": 19, "category": "power"}

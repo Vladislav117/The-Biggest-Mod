@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "befunium conduit", "description": "...", "health": 108, "requirements": [{"item": "befunium", "amount": 14}, {"item": "vysu", "amount": 4}, {"item": "hosa", "amount": 2}], "liquidCapacity": 39, "liquidPressure": 5, "research": "befunium-factory", "category": "liquid"}

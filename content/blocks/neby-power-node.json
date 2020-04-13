@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "neby power node", "description": "...", "size": 2, "health": 672, "requirements": [{"item": "neby", "amount": 2}, {"item": "phase-fabric", "amount": 10}, {"item": "pyto", "amount": 3}], "research": "neby-factory", "maxNodes": 37, "laserRange": 15, "category": "power"}

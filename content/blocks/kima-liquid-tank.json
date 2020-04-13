@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kima liquid tank", "description": "...", "health": 169, "size": 3, "requirements": [{"item": "kima", "amount": 16}, {"item": "huyaxo", "amount": 2}, {"item": "pyce", "amount": 6}], "research": "kima-conduit", "category": "liquid", "liquidCapacity": 12085, "hasLiquids": true}

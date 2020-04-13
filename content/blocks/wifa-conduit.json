@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wifa conduit", "description": "...", "health": 196, "requirements": [{"item": "wifa", "amount": 7}, {"item": "zefu", "amount": 16}, {"item": "ruxa", "amount": 7}], "liquidCapacity": 15, "liquidPressure": 1, "research": "wifa-factory", "category": "liquid"}

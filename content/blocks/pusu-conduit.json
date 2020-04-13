@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pusu conduit", "description": "...", "health": 191, "requirements": [{"item": "pusu", "amount": 16}, {"item": "xizejinium", "amount": 2}, {"item": "joxazy", "amount": 6}], "liquidCapacity": 30, "liquidPressure": 3, "research": "pusu-factory", "category": "liquid"}

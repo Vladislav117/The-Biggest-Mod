@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vabu solar panel", "description": "...", "size": 3, "health": 17, "requirements": [{"item": "vabu", "amount": 3}, {"item": "zycuri", "amount": 11}, {"item": "tozokinium", "amount": 7}], "research": "vabu-factory", "powerProduction": 0.5710825309712484, "category": "power"}

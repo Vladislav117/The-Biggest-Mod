@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qudeya liquid tank", "description": "...", "health": 294, "size": 3, "requirements": [{"item": "qudeya", "amount": 14}, {"item": "mefymanium", "amount": 5}, {"item": "kubi", "amount": 5}], "research": "qudeya-conduit", "category": "liquid", "liquidCapacity": 96940, "hasLiquids": true}

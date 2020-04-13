@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jomoka solar panel", "description": "...", "size": 3, "health": 325, "requirements": [{"item": "jomoka", "amount": 11}, {"item": "ryte", "amount": 14}, {"item": "yalaka", "amount": 7}], "research": "jomoka-factory", "powerProduction": 0.0808927293964203, "category": "power"}

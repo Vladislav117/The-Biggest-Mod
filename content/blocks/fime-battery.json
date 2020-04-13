@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fime battery", "description": "...", "size": 3, "health": 306, "requirements": [{"item": "fime", "amount": 6}, {"item": "sozu", "amount": 13}, {"item": "qykyzo", "amount": 4}], "research": "fime-factory", "consumes": {"powerBuffered": 3451}, "category": "power"}

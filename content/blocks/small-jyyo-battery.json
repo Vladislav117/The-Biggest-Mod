@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jyyo battery", "description": "...", "size": 1, "health": 180, "requirements": [{"item": "jyyo", "amount": 4}, {"item": "heso", "amount": 15}, {"item": "vykynium", "amount": 8}], "research": "jyyo-factory", "consumes": {"powerBuffered": 2024}, "category": "power"}

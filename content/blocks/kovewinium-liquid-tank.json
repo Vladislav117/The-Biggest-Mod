@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kovewinium liquid tank", "description": "...", "health": 626, "size": 3, "requirements": [{"item": "kovewinium", "amount": 14}, {"item": "biruwa", "amount": 1}, {"item": "lilipenium", "amount": 4}], "research": "kovewinium-conduit", "category": "liquid", "liquidCapacity": 13319, "hasLiquids": true}

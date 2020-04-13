@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tiqi solar panel", "description": "...", "size": 1, "health": 263, "requirements": [{"item": "tiqi", "amount": 12}, {"item": "zapu", "amount": 11}, {"item": "rytysynium", "amount": 1}], "research": "tiqi-factory", "powerProduction": 0.9231672612679355, "category": "power"}

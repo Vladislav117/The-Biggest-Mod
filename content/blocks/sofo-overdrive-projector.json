@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "sofo overdrive projector", "description": "...", "health": 97, "consumes": {"power": 3.0, "item": "sofo"}, "size": 2, "requirements": [{"item": "sofo", "amount": 14}, {"item": "hojinium", "amount": 13}, {"item": "byro", "amount": 10}], "research": "sofo-factory", "category": "effect"}

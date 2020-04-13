@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "buzu sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "buzu", "amount": 4}, {"item": "xuserynium", "amount": 3}], "research": "buzu-conveyor", "category": "distribution", "invert": false}

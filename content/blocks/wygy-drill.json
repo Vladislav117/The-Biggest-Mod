@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wygy drill", "description": "...", "size": 2, "health": 301, "tier": 3, "drillTime": 10, "consumes": {"power": 9}, "requirements": [{"item": "wygy", "amount": 3}, {"item": "vate", "amount": 16}, {"item": "qygi", "amount": 6}], "research": "wygy-factory", "category": "production"}

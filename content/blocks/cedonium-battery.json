@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cedonium battery", "description": "...", "size": 3, "health": 393, "requirements": [{"item": "cedonium", "amount": 12}, {"item": "rivy", "amount": 2}, {"item": "cotyyo", "amount": 2}], "research": "cedonium-factory", "consumes": {"powerBuffered": 5568}, "category": "power"}

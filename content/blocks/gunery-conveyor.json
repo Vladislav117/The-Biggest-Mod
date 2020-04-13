@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "gunery conveyor", "description": "...", "health": 83, "requirements": [{"item": "gunery", "amount": 2}, {"item": "diqa", "amount": 10}], "speed": 0.4355302674090591, "research": "gunery-factory", "category": "distribution"}

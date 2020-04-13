@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kivuzi sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "kivuzi", "amount": 2}, {"item": "rutiri", "amount": 2}], "research": "kivuzi-conveyor", "category": "distribution", "invert": false}

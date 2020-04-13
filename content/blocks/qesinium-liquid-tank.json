@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qesinium liquid tank", "description": "...", "health": 468, "size": 3, "requirements": [{"item": "qesinium", "amount": 15}, {"item": "kycuzo", "amount": 2}, {"item": "fofoco", "amount": 2}], "research": "qesinium-conduit", "category": "liquid", "liquidCapacity": 82934, "hasLiquids": true}

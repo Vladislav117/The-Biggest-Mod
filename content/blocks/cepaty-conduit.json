@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cepaty conduit", "description": "...", "health": 136, "requirements": [{"item": "cepaty", "amount": 12}, {"item": "nebiwy", "amount": 12}, {"item": "cezi", "amount": 3}], "liquidCapacity": 48, "liquidPressure": 9, "research": "cepaty-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "byru power node", "description": "...", "size": 2, "health": 270, "requirements": [{"item": "byru", "amount": 19}, {"item": "rufi", "amount": 17}, {"item": "tupase", "amount": 1}], "research": "byru-factory", "maxNodes": 16, "laserRange": 23, "category": "power"}

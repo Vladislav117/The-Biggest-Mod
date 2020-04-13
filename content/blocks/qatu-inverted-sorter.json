@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qatu inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "qatu", "amount": 2}, {"item": "fuyanium", "amount": 2}], "research": "qatu-conveyor", "category": "distribution", "invert": true}

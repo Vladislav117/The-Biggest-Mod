@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "deke conduit", "description": "...", "health": 98, "requirements": [{"item": "deke", "amount": 20}, {"item": "syyyvo", "amount": 16}, {"item": "cecuvinium", "amount": 10}], "liquidCapacity": 13, "liquidPressure": 2, "research": "deke-factory", "category": "liquid"}

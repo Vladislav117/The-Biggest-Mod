@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gomaly power node", "description": "...", "size": 2, "health": 260, "requirements": [{"item": "gomaly", "amount": 19}, {"item": "powidu", "amount": 17}, {"item": "cigifi", "amount": 3}], "research": "gomaly-factory", "maxNodes": 24, "laserRange": 10, "category": "power"}

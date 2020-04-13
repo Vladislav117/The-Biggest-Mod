@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kigi battery", "description": "...", "size": 3, "health": 342, "requirements": [{"item": "kigi", "amount": 16}, {"item": "kexebinium", "amount": 17}, {"item": "puty", "amount": 8}], "research": "kigi-factory", "consumes": {"powerBuffered": 9218}, "category": "power"}

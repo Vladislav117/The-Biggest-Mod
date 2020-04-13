@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tovyme power node", "description": "...", "size": 2, "health": 668, "requirements": [{"item": "tovyme", "amount": 15}, {"item": "fusi", "amount": 20}, {"item": "jaga", "amount": 4}], "research": "tovyme-factory", "maxNodes": 19, "laserRange": 12, "category": "power"}

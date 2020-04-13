@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bugyta solar panel", "description": "...", "size": 3, "health": 263, "requirements": [{"item": "bugyta", "amount": 13}, {"item": "zorudy", "amount": 16}, {"item": "zofiqo", "amount": 9}], "research": "bugyta-factory", "powerProduction": 0.7483659174229771, "category": "power"}

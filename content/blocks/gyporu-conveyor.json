@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "gyporu conveyor", "description": "...", "health": 155, "requirements": [{"item": "gyporu", "amount": 2}, {"item": "silicon", "amount": 4}], "speed": 0.36975277782595894, "research": "gyporu-factory", "category": "distribution"}

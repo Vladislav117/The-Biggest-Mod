@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tenuty power node", "description": "...", "size": 2, "health": 198, "requirements": [{"item": "tenuty", "amount": 8}, {"item": "niruya", "amount": 19}, {"item": "phase-fabric", "amount": 7}], "research": "tenuty-factory", "maxNodes": 26, "laserRange": 13, "category": "power"}

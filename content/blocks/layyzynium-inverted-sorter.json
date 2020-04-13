@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "layyzynium inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "layyzynium", "amount": 1}, {"item": "xutire", "amount": 4}], "research": "layyzynium-conveyor", "category": "distribution", "invert": true}

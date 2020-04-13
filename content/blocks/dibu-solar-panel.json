@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dibu solar panel", "description": "...", "size": 3, "health": 262, "requirements": [{"item": "dibu", "amount": 8}, {"item": "yuyicenium", "amount": 13}, {"item": "yyba", "amount": 10}], "research": "dibu-factory", "powerProduction": 1.7463335891852576, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zemo battery", "description": "...", "size": 3, "health": 60, "requirements": [{"item": "zemo", "amount": 11}, {"item": "zywave", "amount": 9}, {"item": "vyjoti", "amount": 1}], "research": "zemo-factory", "consumes": {"powerBuffered": 8306}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wosofe solar panel", "description": "...", "size": 3, "health": 197, "requirements": [{"item": "wosofe", "amount": 17}, {"item": "cobunium", "amount": 5}, {"item": "fise", "amount": 7}], "research": "wosofe-factory", "powerProduction": 0.16332201010885986, "category": "power"}

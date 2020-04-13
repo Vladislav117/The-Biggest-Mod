@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wuziwu liquid tank", "description": "...", "health": 178, "size": 3, "requirements": [{"item": "wuziwu", "amount": 19}, {"item": "wywa", "amount": 9}, {"item": "nejunium", "amount": 10}], "research": "wuziwu-conduit", "category": "liquid", "liquidCapacity": 27199, "hasLiquids": true}

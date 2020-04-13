@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kyronium underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "kyronium", "amount": 2}, {"item": "wafe", "amount": 4}], "research": "kyronium-conveyor", "category": "distribution", "invert": false}

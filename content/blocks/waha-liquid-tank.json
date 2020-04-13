@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "waha liquid tank", "description": "...", "health": 246, "size": 3, "requirements": [{"item": "waha", "amount": 19}, {"item": "yuly", "amount": 10}, {"item": "myvedi", "amount": 6}], "research": "waha-conduit", "category": "liquid", "liquidCapacity": 29493, "hasLiquids": true}

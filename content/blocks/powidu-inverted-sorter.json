@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "powidu inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "powidu", "amount": 1}, {"item": "cokyqo", "amount": 4}], "research": "powidu-conveyor", "category": "distribution", "invert": true}

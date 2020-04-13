@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lanuponium junction", "description": "...", "health": 39, "speed": 16, "capacity": 8, "size": 1, "requirements": [{"item": "lanuponium", "amount": 3}, {"item": "bomiry", "amount": 2}], "research": "lanuponium-conveyor", "category": "distribution"}

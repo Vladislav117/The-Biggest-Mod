@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qigybynium liquid tank", "description": "...", "health": 447, "size": 3, "requirements": [{"item": "qigybynium", "amount": 17}, {"item": "lyva", "amount": 18}, {"item": "hofa", "amount": 7}], "research": "qigybynium-conduit", "category": "liquid", "liquidCapacity": 22910, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vimynium battery", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "vimynium", "amount": 17}, {"item": "loqy", "amount": 20}, {"item": "pamyka", "amount": 8}], "research": "vimynium-factory", "consumes": {"powerBuffered": 1239}, "category": "power"}

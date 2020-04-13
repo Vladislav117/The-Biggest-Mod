@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kyji power node", "description": "...", "size": 2, "health": 217, "requirements": [{"item": "kyji", "amount": 2}, {"item": "sopage", "amount": 10}, {"item": "hitiva", "amount": 5}], "research": "kyji-factory", "maxNodes": 55, "laserRange": 25, "category": "power"}

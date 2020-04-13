@@ -1,0 +1,1 @@
+{"type": "router", "name": "budefu router", "description": "...", "health": 85, "size": 1, "requirements": [{"item": "budefu", "amount": 8}], "research": "budefu-conveyor", "category": "distribution"}

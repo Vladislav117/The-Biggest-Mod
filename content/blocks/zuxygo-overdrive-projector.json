@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "zuxygo overdrive projector", "description": "...", "health": 96, "consumes": {"power": 3.0, "item": "zuxygo"}, "size": 2, "requirements": [{"item": "zuxygo", "amount": 15}, {"item": "gado", "amount": 2}, {"item": "lebu", "amount": 3}], "research": "zuxygo-factory", "category": "effect"}

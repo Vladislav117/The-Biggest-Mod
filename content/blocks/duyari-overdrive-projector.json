@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "duyari overdrive projector", "description": "...", "health": 50, "consumes": {"power": 3.0, "item": "duyari"}, "size": 2, "requirements": [{"item": "duyari", "amount": 7}, {"item": "yicejanium", "amount": 13}, {"item": "higy", "amount": 7}], "research": "duyari-factory", "category": "effect"}

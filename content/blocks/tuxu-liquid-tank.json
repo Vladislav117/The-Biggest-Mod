@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tuxu liquid tank", "description": "...", "health": 483, "size": 3, "requirements": [{"item": "tuxu", "amount": 8}, {"item": "depyya", "amount": 11}, {"item": "tiwyna", "amount": 2}], "research": "tuxu-conduit", "category": "liquid", "liquidCapacity": 63460, "hasLiquids": true}

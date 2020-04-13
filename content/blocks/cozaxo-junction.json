@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cozaxo junction", "description": "...", "health": 20, "speed": 13, "capacity": 8, "size": 1, "requirements": [{"item": "cozaxo", "amount": 5}, {"item": "jiyomonium", "amount": 2}], "research": "cozaxo-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kelanium conduit", "description": "...", "health": 108, "requirements": [{"item": "kelanium", "amount": 12}, {"item": "sokima", "amount": 12}, {"item": "zuzu", "amount": 10}], "liquidCapacity": 31, "liquidPressure": 4, "research": "kelanium-factory", "category": "liquid"}

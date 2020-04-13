@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cuqolu overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "cuqolu", "amount": 4}, {"item": "merujynium", "amount": 3}], "research": "cuqolu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "devo liquid tank", "description": "...", "health": 328, "size": 3, "requirements": [{"item": "devo", "amount": 9}, {"item": "gypupe", "amount": 8}, {"item": "kide", "amount": 6}], "research": "devo-conduit", "category": "liquid", "liquidCapacity": 108825, "hasLiquids": true}

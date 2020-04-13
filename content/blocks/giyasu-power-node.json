@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "giyasu power node", "description": "...", "size": 2, "health": 696, "requirements": [{"item": "giyasu", "amount": 5}, {"item": "xywege", "amount": 3}, {"item": "pego", "amount": 1}], "research": "giyasu-factory", "maxNodes": 12, "laserRange": 19, "category": "power"}

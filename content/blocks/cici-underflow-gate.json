@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cici underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "cici", "amount": 3}, {"item": "hyte", "amount": 2}], "research": "cici-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "nyvu overdrive projector", "description": "...", "health": 82, "consumes": {"power": 3.0, "item": "nyvu"}, "size": 2, "requirements": [{"item": "nyvu", "amount": 4}, {"item": "fizunium", "amount": 13}, {"item": "yila", "amount": 10}], "research": "nyvu-factory", "category": "effect"}

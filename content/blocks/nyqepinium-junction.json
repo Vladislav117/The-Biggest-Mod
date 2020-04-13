@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nyqepinium junction", "description": "...", "health": 41, "speed": 1, "capacity": 13, "size": 1, "requirements": [{"item": "nyqepinium", "amount": 3}, {"item": "rilo", "amount": 5}], "research": "nyqepinium-conveyor", "category": "distribution"}

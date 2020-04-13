@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tymofa battery", "description": "...", "size": 1, "health": 152, "requirements": [{"item": "tymofa", "amount": 7}, {"item": "jyzy", "amount": 10}, {"item": "rymyva", "amount": 5}], "research": "tymofa-factory", "consumes": {"powerBuffered": 2174}, "category": "power"}

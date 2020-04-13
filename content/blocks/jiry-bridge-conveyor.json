@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jiry bridge conveyor", "description": "", "health": 19, "range": 17, "speed": 3, "bufferCapacity": 16, "requirements": [{"item": "jiry", "amount": 4}, {"item": "sijelu", "amount": 3}], "research": "jiry-conveyor", "category": "distribution", "size": 1}

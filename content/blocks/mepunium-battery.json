@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mepunium battery", "description": "...", "size": 3, "health": 195, "requirements": [{"item": "mepunium", "amount": 2}, {"item": "nayevynium", "amount": 8}, {"item": "gogajy", "amount": 3}], "research": "mepunium-factory", "consumes": {"powerBuffered": 8819}, "category": "power"}

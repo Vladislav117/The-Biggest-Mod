@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qapi conduit", "description": "...", "health": 73, "requirements": [{"item": "qapi", "amount": 6}, {"item": "niba", "amount": 18}, {"item": "koqyyo", "amount": 7}], "liquidCapacity": 45, "liquidPressure": 2, "research": "qapi-factory", "category": "liquid"}

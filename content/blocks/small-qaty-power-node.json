@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qaty power node", "description": "...", "size": 1, "health": 276, "requirements": [{"item": "qaty", "amount": 19}, {"item": "tivu", "amount": 2}, {"item": "jihanium", "amount": 6}], "research": "qaty-factory", "maxNodes": 18, "laserRange": 13, "category": "power"}

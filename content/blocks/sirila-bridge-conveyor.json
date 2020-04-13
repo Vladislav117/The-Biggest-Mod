@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sirila bridge conveyor", "description": "", "health": 22, "range": 3, "speed": 12, "bufferCapacity": 14, "requirements": [{"item": "sirila", "amount": 2}, {"item": "sozu", "amount": 4}], "research": "sirila-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vomo liquid router", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "vomo", "amount": 17}, {"item": "kepusy", "amount": 4}, {"item": "gino", "amount": 4}], "research": "vomo-conduit", "liquidCapacity": 10, "category": "liquid"}

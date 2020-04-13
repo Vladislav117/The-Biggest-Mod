@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cutecanium liquid tank", "description": "...", "health": 145, "size": 3, "requirements": [{"item": "cutecanium", "amount": 20}, {"item": "fizy", "amount": 8}, {"item": "yajawa", "amount": 7}], "research": "cutecanium-conduit", "category": "liquid", "liquidCapacity": 38081, "hasLiquids": true}

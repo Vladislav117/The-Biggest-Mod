@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gurikinium liquid tank", "description": "...", "health": 475, "size": 3, "requirements": [{"item": "gurikinium", "amount": 14}, {"item": "bajenium", "amount": 19}, {"item": "fogodo", "amount": 6}], "research": "gurikinium-conduit", "category": "liquid", "liquidCapacity": 39504, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "make drill", "description": "...", "size": 2, "health": 276, "tier": 1, "drillTime": 12, "consumes": {"power": 16}, "requirements": [{"item": "make", "amount": 19}, {"item": "xype", "amount": 16}, {"item": "zuwydy", "amount": 1}], "research": "make-factory", "category": "production"}

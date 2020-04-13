@@ -1,0 +1,1 @@
+{"type": "battery", "name": "puqo battery", "description": "...", "size": 3, "health": 50, "requirements": [{"item": "puqo", "amount": 3}, {"item": "pojesu", "amount": 18}, {"item": "wety", "amount": 5}], "research": "puqo-factory", "consumes": {"powerBuffered": 4471}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "woke underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "woke", "amount": 5}, {"item": "yeri", "amount": 2}], "research": "woke-conveyor", "category": "distribution", "invert": false}

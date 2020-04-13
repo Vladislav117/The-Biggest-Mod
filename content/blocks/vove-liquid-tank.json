@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vove liquid tank", "description": "...", "health": 316, "size": 3, "requirements": [{"item": "vove", "amount": 13}, {"item": "qylino", "amount": 16}, {"item": "ridu", "amount": 2}], "research": "vove-conduit", "category": "liquid", "liquidCapacity": 1392, "hasLiquids": true}

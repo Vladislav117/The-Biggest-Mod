@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yito bridge conveyor", "description": "", "health": 15, "range": 12, "speed": 11, "bufferCapacity": 17, "requirements": [{"item": "yito", "amount": 4}, {"item": "gabipi", "amount": 5}], "research": "yito-conveyor", "category": "distribution", "size": 1}

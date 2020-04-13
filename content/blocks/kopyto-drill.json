@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kopyto drill", "description": "...", "size": 2, "health": 190, "tier": 3, "drillTime": 9, "consumes": {"power": 1}, "requirements": [{"item": "kopyto", "amount": 9}, {"item": "xyco", "amount": 14}, {"item": "heruru", "amount": 6}], "research": "kopyto-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fukapinium battery", "description": "...", "size": 1, "health": 181, "requirements": [{"item": "fukapinium", "amount": 4}, {"item": "wugyjinium", "amount": 2}, {"item": "qepyvonium", "amount": 6}], "research": "fukapinium-factory", "consumes": {"powerBuffered": 2707}, "category": "power"}

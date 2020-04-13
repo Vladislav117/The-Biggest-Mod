@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tanexo battery", "description": "...", "size": 1, "health": 148, "requirements": [{"item": "tanexo", "amount": 13}, {"item": "beniyi", "amount": 2}, {"item": "yuvynium", "amount": 2}], "research": "tanexo-factory", "consumes": {"powerBuffered": 1191}, "category": "power"}

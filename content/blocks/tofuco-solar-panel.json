@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tofuco solar panel", "description": "...", "size": 3, "health": 25, "requirements": [{"item": "tofuco", "amount": 17}, {"item": "gefabi", "amount": 4}, {"item": "zurehy", "amount": 8}], "research": "tofuco-factory", "powerProduction": 0.1782884539447285, "category": "power"}

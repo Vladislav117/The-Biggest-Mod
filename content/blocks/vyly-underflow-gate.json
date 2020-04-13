@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vyly underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "vyly", "amount": 2}, {"item": "mygo", "amount": 2}], "research": "vyly-conveyor", "category": "distribution", "invert": false}

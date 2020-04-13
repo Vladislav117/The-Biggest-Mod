@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hajybe power node", "description": "...", "size": 1, "health": 161, "requirements": [{"item": "hajybe", "amount": 19}, {"item": "kyle", "amount": 8}, {"item": "qifi", "amount": 5}], "research": "hajybe-factory", "maxNodes": 22, "laserRange": 13, "category": "power"}

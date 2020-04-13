@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kanano liquid tank", "description": "...", "health": 469, "size": 3, "requirements": [{"item": "kanano", "amount": 12}, {"item": "yohu", "amount": 12}, {"item": "qigybynium", "amount": 7}], "research": "kanano-conduit", "category": "liquid", "liquidCapacity": 93375, "hasLiquids": true}

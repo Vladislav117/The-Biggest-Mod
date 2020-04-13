@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jygu power node", "description": "...", "size": 1, "health": 234, "requirements": [{"item": "jygu", "amount": 10}, {"item": "pyhisy", "amount": 2}, {"item": "zewu", "amount": 2}], "research": "jygu-factory", "maxNodes": 10, "laserRange": 8, "category": "power"}

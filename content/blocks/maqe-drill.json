@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "maqe drill", "description": "...", "size": 3, "health": 353, "tier": 3, "drillTime": 16, "consumes": {"power": 11}, "requirements": [{"item": "maqe", "amount": 20}, {"item": "cuhynenium", "amount": 11}, {"item": "seyuwa", "amount": 4}], "research": "maqe-factory", "category": "production"}

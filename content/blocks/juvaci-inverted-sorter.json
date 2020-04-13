@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "juvaci inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "juvaci", "amount": 2}, {"item": "fepiva", "amount": 5}], "research": "juvaci-conveyor", "category": "distribution", "invert": true}

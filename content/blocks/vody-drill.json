@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vody drill", "description": "...", "size": 4, "health": 287, "tier": 4, "drillTime": 6, "consumes": {"power": 4}, "requirements": [{"item": "vody", "amount": 19}, {"item": "giyiya", "amount": 9}, {"item": "bujyja", "amount": 3}], "research": "vody-factory", "category": "production"}

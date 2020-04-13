@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kupanium junction", "description": "...", "health": 14, "speed": 3, "capacity": 12, "size": 1, "requirements": [{"item": "kupanium", "amount": 4}, {"item": "vurypo", "amount": 3}], "research": "kupanium-conveyor", "category": "distribution"}

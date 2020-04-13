@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vypufe junction", "description": "...", "health": 17, "speed": 9, "capacity": 17, "size": 1, "requirements": [{"item": "vypufe", "amount": 3}, {"item": "gabu", "amount": 1}], "research": "vypufe-conveyor", "category": "distribution"}

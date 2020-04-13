@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xofa battery", "description": "...", "size": 3, "health": 278, "requirements": [{"item": "xofa", "amount": 12}, {"item": "fezadunium", "amount": 12}, {"item": "bexa", "amount": 3}], "research": "xofa-factory", "consumes": {"powerBuffered": 4749}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mozy conduit", "description": "...", "health": 83, "requirements": [{"item": "mozy", "amount": 8}, {"item": "heruvu", "amount": 15}, {"item": "rysi", "amount": 8}], "liquidCapacity": 23, "liquidPressure": 0, "research": "mozy-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dimy liquid tank", "description": "...", "health": 348, "size": 3, "requirements": [{"item": "dimy", "amount": 10}, {"item": "case", "amount": 16}, {"item": "siwobanium", "amount": 5}], "research": "dimy-conduit", "category": "liquid", "liquidCapacity": 75423, "hasLiquids": true}

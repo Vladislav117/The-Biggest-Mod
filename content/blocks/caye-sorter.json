@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "caye sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "caye", "amount": 1}, {"item": "vuvy", "amount": 3}], "research": "caye-conveyor", "category": "distribution", "invert": false}

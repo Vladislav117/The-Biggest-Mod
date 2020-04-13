@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kojiqonium liquid tank", "description": "...", "health": 406, "size": 3, "requirements": [{"item": "kojiqonium", "amount": 6}, {"item": "fezo", "amount": 10}, {"item": "nymyginium", "amount": 7}], "research": "kojiqonium-conduit", "category": "liquid", "liquidCapacity": 66953, "hasLiquids": true}

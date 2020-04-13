@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "devube inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "devube", "amount": 3}, {"item": "qoxida", "amount": 2}], "research": "devube-conveyor", "category": "distribution", "invert": true}

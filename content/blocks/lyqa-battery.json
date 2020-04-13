@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lyqa battery", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "lyqa", "amount": 7}, {"item": "mygo", "amount": 1}, {"item": "nyqepinium", "amount": 1}], "research": "lyqa-factory", "consumes": {"powerBuffered": 9795}, "category": "power"}

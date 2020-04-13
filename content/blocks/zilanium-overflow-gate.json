@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zilanium overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "zilanium", "amount": 5}, {"item": "nisynu", "amount": 4}], "research": "zilanium-conveyor", "category": "distribution", "invert": false}

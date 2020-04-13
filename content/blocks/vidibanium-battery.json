@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vidibanium battery", "description": "...", "size": 3, "health": 321, "requirements": [{"item": "vidibanium", "amount": 5}, {"item": "duqu", "amount": 2}, {"item": "vayo", "amount": 5}], "research": "vidibanium-factory", "consumes": {"powerBuffered": 494}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sopage junction", "description": "...", "health": 35, "speed": 14, "capacity": 4, "size": 1, "requirements": [{"item": "sopage", "amount": 5}, {"item": "yedyte", "amount": 1}], "research": "sopage-conveyor", "category": "distribution"}

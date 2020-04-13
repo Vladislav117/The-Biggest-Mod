@@ -1,0 +1,1 @@
+{"type": "junction", "name": "muza junction", "description": "...", "health": 6, "speed": 7, "capacity": 8, "size": 1, "requirements": [{"item": "muza", "amount": 3}, {"item": "locycanium", "amount": 4}], "research": "muza-conveyor", "category": "distribution"}

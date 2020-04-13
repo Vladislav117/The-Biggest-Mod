@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gujybo liquid router", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "gujybo", "amount": 5}, {"item": "besu", "amount": 18}, {"item": "myvedi", "amount": 1}], "research": "gujybo-conduit", "liquidCapacity": 10, "category": "liquid"}

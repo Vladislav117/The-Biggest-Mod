@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zyzo solar panel", "description": "...", "size": 3, "health": 397, "requirements": [{"item": "zyzo", "amount": 4}, {"item": "magu", "amount": 4}, {"item": "qiquli", "amount": 5}], "research": "zyzo-factory", "powerProduction": 1.5346285229544911, "category": "power"}

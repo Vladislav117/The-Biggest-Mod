@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bidu battery", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "bidu", "amount": 16}, {"item": "zilanium", "amount": 14}, {"item": "ficynium", "amount": 7}], "research": "bidu-factory", "consumes": {"powerBuffered": 2894}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "siwobanium bridge conveyor", "description": "", "health": 37, "range": 18, "speed": 19, "bufferCapacity": 12, "requirements": [{"item": "siwobanium", "amount": 4}, {"item": "lynulo", "amount": 4}], "research": "siwobanium-conveyor", "category": "distribution", "size": 1}

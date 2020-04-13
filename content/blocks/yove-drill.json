@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yove drill", "description": "...", "size": 3, "health": 274, "tier": 4, "drillTime": 17, "consumes": {"power": 10}, "requirements": [{"item": "yove", "amount": 12}, {"item": "heda", "amount": 8}, {"item": "gymypa", "amount": 7}], "research": "yove-factory", "category": "production"}

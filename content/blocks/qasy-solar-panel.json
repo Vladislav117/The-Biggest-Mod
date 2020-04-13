@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qasy solar panel", "description": "...", "size": 3, "health": 174, "requirements": [{"item": "qasy", "amount": 10}, {"item": "picika", "amount": 1}, {"item": "lyvewenium", "amount": 6}], "research": "qasy-factory", "powerProduction": 1.041999668363929, "category": "power"}

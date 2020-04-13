@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ficebanium inverted sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "ficebanium", "amount": 4}, {"item": "wugyjinium", "amount": 5}], "research": "ficebanium-conveyor", "category": "distribution", "invert": true}

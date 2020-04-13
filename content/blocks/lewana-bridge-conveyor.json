@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lewana bridge conveyor", "description": "", "health": 19, "range": 13, "speed": 11, "bufferCapacity": 12, "requirements": [{"item": "lewana", "amount": 2}, {"item": "juwynium", "amount": 5}], "research": "lewana-conveyor", "category": "distribution", "size": 1}

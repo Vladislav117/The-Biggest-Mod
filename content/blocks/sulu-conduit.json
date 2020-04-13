@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sulu conduit", "description": "...", "health": 160, "requirements": [{"item": "sulu", "amount": 9}, {"item": "wiyeda", "amount": 10}, {"item": "maya", "amount": 7}], "liquidCapacity": 36, "liquidPressure": 10, "research": "sulu-factory", "category": "liquid"}

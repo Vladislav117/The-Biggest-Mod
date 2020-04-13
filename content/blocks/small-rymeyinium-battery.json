@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rymeyinium battery", "description": "...", "size": 1, "health": 388, "requirements": [{"item": "rymeyinium", "amount": 6}, {"item": "dyguzu", "amount": 16}, {"item": "dawe", "amount": 3}], "research": "rymeyinium-factory", "consumes": {"powerBuffered": 213}, "category": "power"}

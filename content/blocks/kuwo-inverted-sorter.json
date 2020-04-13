@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kuwo inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "kuwo", "amount": 1}, {"item": "gago", "amount": 2}], "research": "kuwo-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "secybo power node", "description": "...", "size": 2, "health": 745, "requirements": [{"item": "secybo", "amount": 1}, {"item": "nimynium", "amount": 10}, {"item": "mebo", "amount": 6}], "research": "secybo-factory", "maxNodes": 46, "laserRange": 13, "category": "power"}

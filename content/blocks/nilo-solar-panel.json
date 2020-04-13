@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nilo solar panel", "description": "...", "size": 3, "health": 88, "requirements": [{"item": "nilo", "amount": 11}, {"item": "forebu", "amount": 5}, {"item": "ravynium", "amount": 9}], "research": "nilo-factory", "powerProduction": 0.24419977762533893, "category": "power"}

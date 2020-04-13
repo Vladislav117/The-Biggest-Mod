@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wemi power node", "description": "...", "size": 1, "health": 384, "requirements": [{"item": "wemi", "amount": 18}, {"item": "dowy", "amount": 4}, {"item": "ryjo", "amount": 5}], "research": "wemi-factory", "maxNodes": 24, "laserRange": 3, "category": "power"}

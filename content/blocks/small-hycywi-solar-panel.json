@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hycywi solar panel", "description": "...", "size": 1, "health": 360, "requirements": [{"item": "hycywi", "amount": 10}, {"item": "howu", "amount": 7}, {"item": "rahonium", "amount": 2}], "research": "hycywi-factory", "powerProduction": 5.351109823596332, "category": "power"}

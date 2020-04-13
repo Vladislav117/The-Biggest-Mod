@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jida sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "jida", "amount": 1}, {"item": "ticija", "amount": 5}], "research": "jida-conveyor", "category": "distribution", "invert": false}

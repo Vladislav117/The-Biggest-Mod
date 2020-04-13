@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "siposi underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "siposi", "amount": 3}, {"item": "xysu", "amount": 4}], "research": "siposi-conveyor", "category": "distribution", "invert": false}

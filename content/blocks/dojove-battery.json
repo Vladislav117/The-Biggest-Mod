@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dojove battery", "description": "...", "size": 3, "health": 92, "requirements": [{"item": "dojove", "amount": 12}, {"item": "hyla", "amount": 13}, {"item": "wasebanium", "amount": 4}], "research": "dojove-factory", "consumes": {"powerBuffered": 6294}, "category": "power"}

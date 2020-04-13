@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yihyxi liquid tank", "description": "...", "health": 227, "size": 3, "requirements": [{"item": "yihyxi", "amount": 4}, {"item": "vyha", "amount": 11}, {"item": "zyhove", "amount": 8}], "research": "yihyxi-conduit", "category": "liquid", "liquidCapacity": 3913, "hasLiquids": true}

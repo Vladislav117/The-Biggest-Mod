@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gizycanium junction", "description": "...", "health": 48, "speed": 19, "capacity": 5, "size": 1, "requirements": [{"item": "gizycanium", "amount": 5}, {"item": "graphite", "amount": 2}], "research": "gizycanium-conveyor", "category": "distribution"}

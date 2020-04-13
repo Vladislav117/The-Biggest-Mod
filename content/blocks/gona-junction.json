@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gona junction", "description": "...", "health": 22, "speed": 14, "capacity": 4, "size": 1, "requirements": [{"item": "gona", "amount": 5}, {"item": "hugive", "amount": 1}], "research": "gona-conveyor", "category": "distribution"}

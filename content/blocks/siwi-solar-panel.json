@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "siwi solar panel", "description": "...", "size": 3, "health": 221, "requirements": [{"item": "siwi", "amount": 20}, {"item": "gupyfi", "amount": 4}, {"item": "garyda", "amount": 8}], "research": "siwi-factory", "powerProduction": 0.6099849581141124, "category": "power"}

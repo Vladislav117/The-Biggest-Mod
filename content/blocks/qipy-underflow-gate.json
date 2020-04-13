@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qipy underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "qipy", "amount": 5}, {"item": "cuhynenium", "amount": 5}], "research": "qipy-conveyor", "category": "distribution", "invert": false}

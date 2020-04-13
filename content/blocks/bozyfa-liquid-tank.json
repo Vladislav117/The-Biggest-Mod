@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bozyfa liquid tank", "description": "...", "health": 347, "size": 3, "requirements": [{"item": "bozyfa", "amount": 19}, {"item": "qubyzi", "amount": 19}, {"item": "caxoni", "amount": 3}], "research": "bozyfa-conduit", "category": "liquid", "liquidCapacity": 27061, "hasLiquids": true}

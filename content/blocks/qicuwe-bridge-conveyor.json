@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qicuwe bridge conveyor", "description": "", "health": 42, "range": 19, "speed": 10, "bufferCapacity": 6, "requirements": [{"item": "qicuwe", "amount": 3}, {"item": "pacezu", "amount": 3}], "research": "qicuwe-conveyor", "category": "distribution", "size": 1}

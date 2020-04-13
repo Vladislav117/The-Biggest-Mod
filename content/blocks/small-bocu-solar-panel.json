@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bocu solar panel", "description": "...", "size": 1, "health": 91, "requirements": [{"item": "bocu", "amount": 6}, {"item": "mivuwa", "amount": 14}, {"item": "xiga", "amount": 2}], "research": "bocu-factory", "powerProduction": 0.2843953175225604, "category": "power"}

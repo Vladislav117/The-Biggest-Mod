@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mywoju liquid tank", "description": "...", "health": 217, "size": 3, "requirements": [{"item": "mywoju", "amount": 6}, {"item": "tyzonium", "amount": 7}, {"item": "diforinium", "amount": 6}], "research": "mywoju-conduit", "category": "liquid", "liquidCapacity": 118605, "hasLiquids": true}

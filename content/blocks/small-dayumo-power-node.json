@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dayumo power node", "description": "...", "size": 1, "health": 301, "requirements": [{"item": "dayumo", "amount": 12}, {"item": "byzure", "amount": 16}, {"item": "dowa", "amount": 7}], "research": "dayumo-factory", "maxNodes": 7, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "surinium sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "surinium", "amount": 5}, {"item": "hozivi", "amount": 3}], "research": "surinium-conveyor", "category": "distribution", "invert": false}

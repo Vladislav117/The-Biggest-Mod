@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sirogi power node", "description": "...", "size": 1, "health": 347, "requirements": [{"item": "sirogi", "amount": 6}, {"item": "gato", "amount": 1}, {"item": "muremi", "amount": 7}], "research": "sirogi-factory", "maxNodes": 11, "laserRange": 8, "category": "power"}

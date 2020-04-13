@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ryte inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "ryte", "amount": 2}, {"item": "seca", "amount": 2}], "research": "ryte-conveyor", "category": "distribution", "invert": true}

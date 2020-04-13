@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kixy bridge conveyor", "description": "", "health": 23, "range": 19, "speed": 2, "bufferCapacity": 15, "requirements": [{"item": "kixy", "amount": 4}, {"item": "xujo", "amount": 3}], "research": "kixy-conveyor", "category": "distribution", "size": 1}

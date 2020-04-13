@@ -1,0 +1,1 @@
+{"type": "junction", "name": "miyoqu junction", "description": "...", "health": 37, "speed": 2, "capacity": 15, "size": 1, "requirements": [{"item": "miyoqu", "amount": 2}, {"item": "copper", "amount": 3}], "research": "miyoqu-conveyor", "category": "distribution"}

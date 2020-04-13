@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rymy overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "rymy", "amount": 3}, {"item": "delu", "amount": 1}], "research": "rymy-conveyor", "category": "distribution", "invert": false}

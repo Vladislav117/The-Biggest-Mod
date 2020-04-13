@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qutonium liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "qutonium", "amount": 8}, {"item": "bilyvanium", "amount": 8}, {"item": "tadeja", "amount": 6}], "research": "qutonium-conduit", "liquidCapacity": 10, "category": "liquid"}

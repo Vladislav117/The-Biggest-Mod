@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "celaji solar panel", "description": "...", "size": 3, "health": 144, "requirements": [{"item": "celaji", "amount": 12}, {"item": "qawi", "amount": 6}, {"item": "yoleqy", "amount": 4}], "research": "celaji-factory", "powerProduction": 0.2704064134066668, "category": "power"}

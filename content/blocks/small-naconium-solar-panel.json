@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small naconium solar panel", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "naconium", "amount": 19}, {"item": "zoju", "amount": 8}, {"item": "zivoginium", "amount": 10}], "research": "naconium-factory", "powerProduction": 0.010128017833517912, "category": "power"}

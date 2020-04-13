@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xyge liquid tank", "description": "...", "health": 433, "size": 3, "requirements": [{"item": "xyge", "amount": 8}, {"item": "zityyanium", "amount": 13}, {"item": "medide", "amount": 7}], "research": "xyge-conduit", "category": "liquid", "liquidCapacity": 19605, "hasLiquids": true}

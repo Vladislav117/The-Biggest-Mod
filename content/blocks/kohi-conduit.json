@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kohi conduit", "description": "...", "health": 68, "requirements": [{"item": "kohi", "amount": 17}, {"item": "nyyonium", "amount": 18}, {"item": "gonu", "amount": 5}], "liquidCapacity": 25, "liquidPressure": 9, "research": "kohi-factory", "category": "liquid"}

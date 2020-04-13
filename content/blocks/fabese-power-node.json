@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fabese power node", "description": "...", "size": 2, "health": 641, "requirements": [{"item": "fabese", "amount": 11}, {"item": "hisa", "amount": 5}, {"item": "kyjyxo", "amount": 10}], "research": "fabese-factory", "maxNodes": 14, "laserRange": 24, "category": "power"}

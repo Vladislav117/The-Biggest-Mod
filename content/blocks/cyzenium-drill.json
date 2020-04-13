@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cyzenium drill", "description": "...", "size": 2, "health": 167, "tier": 3, "drillTime": 14, "consumes": {"power": 7}, "requirements": [{"item": "cyzenium", "amount": 8}, {"item": "macixy", "amount": 17}, {"item": "comazi", "amount": 7}], "research": "cyzenium-factory", "category": "production"}

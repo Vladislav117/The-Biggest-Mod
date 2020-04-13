@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "byqi power node", "description": "...", "size": 2, "health": 426, "requirements": [{"item": "byqi", "amount": 1}, {"item": "wofiny", "amount": 20}, {"item": "gogajy", "amount": 9}], "research": "byqi-factory", "maxNodes": 11, "laserRange": 5, "category": "power"}

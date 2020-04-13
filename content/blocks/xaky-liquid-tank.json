@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xaky liquid tank", "description": "...", "health": 163, "size": 3, "requirements": [{"item": "xaky", "amount": 4}, {"item": "vayera", "amount": 17}, {"item": "rahonium", "amount": 5}], "research": "xaky-conduit", "category": "liquid", "liquidCapacity": 53032, "hasLiquids": true}

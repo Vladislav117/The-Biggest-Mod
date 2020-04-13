@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hejonium overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "hejonium", "amount": 4}, {"item": "kyfahu", "amount": 4}], "research": "hejonium-conveyor", "category": "distribution", "invert": false}

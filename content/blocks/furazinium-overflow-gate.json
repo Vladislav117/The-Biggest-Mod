@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "furazinium overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "furazinium", "amount": 4}, {"item": "yunu", "amount": 4}], "research": "furazinium-conveyor", "category": "distribution", "invert": false}

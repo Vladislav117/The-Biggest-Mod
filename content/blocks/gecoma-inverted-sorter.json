@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gecoma inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "gecoma", "amount": 2}, {"item": "juwynium", "amount": 5}], "research": "gecoma-conveyor", "category": "distribution", "invert": true}

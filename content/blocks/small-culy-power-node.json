@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small culy power node", "description": "...", "size": 1, "health": 234, "requirements": [{"item": "culy", "amount": 11}, {"item": "forebu", "amount": 7}, {"item": "xinodunium", "amount": 1}], "research": "culy-factory", "maxNodes": 12, "laserRange": 23, "category": "power"}

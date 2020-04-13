@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cypegu sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "cypegu", "amount": 4}, {"item": "kobocunium", "amount": 3}], "research": "cypegu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fizy power node", "description": "...", "size": 2, "health": 180, "requirements": [{"item": "fizy", "amount": 4}, {"item": "vywene", "amount": 2}, {"item": "bybity", "amount": 6}], "research": "fizy-factory", "maxNodes": 58, "laserRange": 8, "category": "power"}

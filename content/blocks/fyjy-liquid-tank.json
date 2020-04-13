@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyjy liquid tank", "description": "...", "health": 647, "size": 3, "requirements": [{"item": "fyjy", "amount": 12}, {"item": "pigagunium", "amount": 13}, {"item": "gapihe", "amount": 8}], "research": "fyjy-conduit", "category": "liquid", "liquidCapacity": 97776, "hasLiquids": true}

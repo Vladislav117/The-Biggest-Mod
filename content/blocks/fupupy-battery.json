@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fupupy battery", "description": "...", "size": 3, "health": 336, "requirements": [{"item": "fupupy", "amount": 9}, {"item": "pamyka", "amount": 8}, {"item": "jiginium", "amount": 3}], "research": "fupupy-factory", "consumes": {"powerBuffered": 4719}, "category": "power"}

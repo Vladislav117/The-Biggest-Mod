@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cetemy power node", "description": "...", "size": 2, "health": 47, "requirements": [{"item": "cetemy", "amount": 11}, {"item": "rine", "amount": 6}, {"item": "ruyyto", "amount": 2}], "research": "cetemy-factory", "maxNodes": 41, "laserRange": 19, "category": "power"}

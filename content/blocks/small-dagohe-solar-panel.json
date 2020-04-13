@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dagohe solar panel", "description": "...", "size": 1, "health": 385, "requirements": [{"item": "dagohe", "amount": 11}, {"item": "moye", "amount": 5}, {"item": "qaty", "amount": 2}], "research": "dagohe-factory", "powerProduction": 2.30876067055628, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bome overflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "bome", "amount": 4}, {"item": "harugenium", "amount": 1}], "research": "bome-conveyor", "category": "distribution", "invert": false}

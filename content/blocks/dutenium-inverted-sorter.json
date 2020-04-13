@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dutenium inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "dutenium", "amount": 4}, {"item": "tanexo", "amount": 1}], "research": "dutenium-conveyor", "category": "distribution", "invert": true}

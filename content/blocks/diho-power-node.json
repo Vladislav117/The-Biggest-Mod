@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "diho power node", "description": "...", "size": 2, "health": 695, "requirements": [{"item": "diho", "amount": 7}, {"item": "xiqe", "amount": 1}, {"item": "zymaginium", "amount": 10}], "research": "diho-factory", "maxNodes": 15, "laserRange": 12, "category": "power"}

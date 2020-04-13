@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rolunium liquid tank", "description": "...", "health": 527, "size": 3, "requirements": [{"item": "rolunium", "amount": 10}, {"item": "bysyqa", "amount": 19}, {"item": "vygu", "amount": 5}], "research": "rolunium-conduit", "category": "liquid", "liquidCapacity": 17417, "hasLiquids": true}

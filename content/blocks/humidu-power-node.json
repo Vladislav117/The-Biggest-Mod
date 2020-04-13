@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "humidu power node", "description": "...", "size": 2, "health": 470, "requirements": [{"item": "humidu", "amount": 17}, {"item": "vyka", "amount": 14}, {"item": "fygunium", "amount": 4}], "research": "humidu-factory", "maxNodes": 17, "laserRange": 26, "category": "power"}

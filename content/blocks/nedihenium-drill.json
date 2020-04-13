@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nedihenium drill", "description": "...", "size": 4, "health": 184, "tier": 2, "drillTime": 8, "consumes": {"power": 19}, "requirements": [{"item": "nedihenium", "amount": 2}, {"item": "qova", "amount": 13}, {"item": "dipewanium", "amount": 2}], "research": "nedihenium-factory", "category": "production"}

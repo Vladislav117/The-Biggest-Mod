@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tecuponium conduit", "description": "...", "health": 44, "requirements": [{"item": "tecuponium", "amount": 5}, {"item": "bupe", "amount": 7}, {"item": "gula", "amount": 3}], "liquidCapacity": 19, "liquidPressure": 7, "research": "tecuponium-factory", "category": "liquid"}

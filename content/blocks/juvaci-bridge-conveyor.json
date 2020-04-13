@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "juvaci bridge conveyor", "description": "", "health": 39, "range": 5, "speed": 20, "bufferCapacity": 3, "requirements": [{"item": "juvaci", "amount": 4}, {"item": "qokenium", "amount": 4}], "research": "juvaci-conveyor", "category": "distribution", "size": 1}

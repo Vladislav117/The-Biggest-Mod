@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hyjape inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "hyjape", "amount": 1}, {"item": "jixaro", "amount": 4}], "research": "hyjape-conveyor", "category": "distribution", "invert": true}

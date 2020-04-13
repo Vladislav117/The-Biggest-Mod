@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "daxa solar panel", "description": "...", "size": 3, "health": 301, "requirements": [{"item": "daxa", "amount": 12}, {"item": "guhile", "amount": 9}, {"item": "qygi", "amount": 5}], "research": "daxa-factory", "powerProduction": 0.07380289842048798, "category": "power"}

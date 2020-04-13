@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jobo drill", "description": "...", "size": 3, "health": 251, "tier": 3, "drillTime": 12, "consumes": {"power": 5}, "requirements": [{"item": "jobo", "amount": 6}, {"item": "venuki", "amount": 17}, {"item": "qicinium", "amount": 7}], "research": "jobo-factory", "category": "production"}

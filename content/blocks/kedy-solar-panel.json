@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kedy solar panel", "description": "...", "size": 3, "health": 52, "requirements": [{"item": "kedy", "amount": 17}, {"item": "vyfyci", "amount": 10}, {"item": "qiposa", "amount": 7}], "research": "kedy-factory", "powerProduction": 0.27655923966239765, "category": "power"}

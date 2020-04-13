@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "huniji liquid tank", "description": "...", "health": 661, "size": 3, "requirements": [{"item": "huniji", "amount": 5}, {"item": "fyfe", "amount": 14}, {"item": "tuma", "amount": 8}], "research": "huniji-conduit", "category": "liquid", "liquidCapacity": 100514, "hasLiquids": true}

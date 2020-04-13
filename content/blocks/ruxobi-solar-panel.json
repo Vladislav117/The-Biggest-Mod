@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ruxobi solar panel", "description": "...", "size": 3, "health": 266, "requirements": [{"item": "ruxobi", "amount": 20}, {"item": "zupisy", "amount": 8}, {"item": "pubado", "amount": 5}], "research": "ruxobi-factory", "powerProduction": 1.3523410549520682, "category": "power"}

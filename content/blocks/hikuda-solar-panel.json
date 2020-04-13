@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hikuda solar panel", "description": "...", "size": 3, "health": 193, "requirements": [{"item": "hikuda", "amount": 2}, {"item": "yixa", "amount": 17}, {"item": "papo", "amount": 2}], "research": "hikuda-factory", "powerProduction": 0.508370565437246, "category": "power"}

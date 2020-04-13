@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "duyari liquid tank", "description": "...", "health": 581, "size": 3, "requirements": [{"item": "duyari", "amount": 11}, {"item": "nohi", "amount": 8}, {"item": "tudinium", "amount": 1}], "research": "duyari-conduit", "category": "liquid", "liquidCapacity": 113511, "hasLiquids": true}

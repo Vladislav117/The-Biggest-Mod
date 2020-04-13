@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zereka liquid tank", "description": "...", "health": 462, "size": 3, "requirements": [{"item": "zereka", "amount": 19}, {"item": "lewanium", "amount": 12}, {"item": "wicy", "amount": 6}], "research": "zereka-conduit", "category": "liquid", "liquidCapacity": 90010, "hasLiquids": true}

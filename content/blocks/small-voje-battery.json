@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small voje battery", "description": "...", "size": 1, "health": 236, "requirements": [{"item": "voje", "amount": 10}, {"item": "zivoginium", "amount": 20}, {"item": "nyyonium", "amount": 2}], "research": "voje-factory", "consumes": {"powerBuffered": 2173}, "category": "power"}

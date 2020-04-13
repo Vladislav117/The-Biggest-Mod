@@ -1,0 +1,1 @@
+{"type": "junction", "name": "viwunium junction", "description": "...", "health": 3, "speed": 8, "capacity": 19, "size": 1, "requirements": [{"item": "viwunium", "amount": 2}, {"item": "kuyome", "amount": 2}], "research": "viwunium-conveyor", "category": "distribution"}

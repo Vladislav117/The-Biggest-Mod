@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xehezy power node", "description": "...", "size": 2, "health": 425, "requirements": [{"item": "xehezy", "amount": 8}, {"item": "jumonium", "amount": 18}, {"item": "jaju", "amount": 10}], "research": "xehezy-factory", "maxNodes": 18, "laserRange": 29, "category": "power"}

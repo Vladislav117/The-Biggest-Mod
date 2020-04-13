@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mikypu liquid tank", "description": "...", "health": 636, "size": 3, "requirements": [{"item": "mikypu", "amount": 18}, {"item": "gaxunium", "amount": 1}, {"item": "cuhynenium", "amount": 7}], "research": "mikypu-conduit", "category": "liquid", "liquidCapacity": 71594, "hasLiquids": true}

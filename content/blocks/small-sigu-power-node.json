@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sigu power node", "description": "...", "size": 1, "health": 299, "requirements": [{"item": "sigu", "amount": 18}, {"item": "noca", "amount": 18}, {"item": "lyjenium", "amount": 6}], "research": "sigu-factory", "maxNodes": 20, "laserRange": 21, "category": "power"}

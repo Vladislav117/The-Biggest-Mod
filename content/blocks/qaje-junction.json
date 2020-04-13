@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qaje junction", "description": "...", "health": 22, "speed": 5, "capacity": 18, "size": 1, "requirements": [{"item": "qaje", "amount": 1}, {"item": "qexata", "amount": 2}], "research": "qaje-conveyor", "category": "distribution"}

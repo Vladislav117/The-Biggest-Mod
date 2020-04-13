@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "guma conveyor", "description": "...", "health": 202, "requirements": [{"item": "guma", "amount": 4}, {"item": "hocuje", "amount": 1}], "speed": 0.39965162342870103, "research": "guma-factory", "category": "distribution"}

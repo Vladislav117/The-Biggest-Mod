@@ -1,0 +1,1 @@
+{"type": "battery", "name": "diho battery", "description": "...", "size": 3, "health": 111, "requirements": [{"item": "diho", "amount": 3}, {"item": "weka", "amount": 5}, {"item": "tuty", "amount": 1}], "research": "diho-factory", "consumes": {"powerBuffered": 8484}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vapo liquid tank", "description": "...", "health": 624, "size": 3, "requirements": [{"item": "vapo", "amount": 16}, {"item": "rovaqa", "amount": 8}, {"item": "zereka", "amount": 5}], "research": "vapo-conduit", "category": "liquid", "liquidCapacity": 57777, "hasLiquids": true}

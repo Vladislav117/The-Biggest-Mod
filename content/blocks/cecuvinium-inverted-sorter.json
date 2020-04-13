@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cecuvinium inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "cecuvinium", "amount": 4}, {"item": "salojanium", "amount": 5}], "research": "cecuvinium-conveyor", "category": "distribution", "invert": true}

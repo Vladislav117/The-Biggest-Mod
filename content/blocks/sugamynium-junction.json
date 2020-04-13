@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sugamynium junction", "description": "...", "health": 45, "speed": 4, "capacity": 12, "size": 1, "requirements": [{"item": "sugamynium", "amount": 5}, {"item": "ruwysu", "amount": 2}], "research": "sugamynium-conveyor", "category": "distribution"}

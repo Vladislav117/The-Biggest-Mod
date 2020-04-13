@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tigocenium power node", "description": "...", "size": 1, "health": 224, "requirements": [{"item": "tigocenium", "amount": 8}, {"item": "cazewy", "amount": 18}, {"item": "hitiva", "amount": 4}], "research": "tigocenium-factory", "maxNodes": 27, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "piqori junction", "description": "...", "health": 45, "speed": 2, "capacity": 12, "size": 1, "requirements": [{"item": "piqori", "amount": 1}, {"item": "yixo", "amount": 2}], "research": "piqori-conveyor", "category": "distribution"}

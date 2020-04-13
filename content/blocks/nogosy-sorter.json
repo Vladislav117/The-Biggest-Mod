@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nogosy sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "nogosy", "amount": 1}, {"item": "jogi", "amount": 5}], "research": "nogosy-conveyor", "category": "distribution", "invert": false}

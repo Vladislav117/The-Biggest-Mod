@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xafy conduit", "description": "...", "health": 113, "requirements": [{"item": "xafy", "amount": 12}, {"item": "tegizunium", "amount": 20}, {"item": "fikunium", "amount": 9}], "liquidCapacity": 30, "liquidPressure": 4, "research": "xafy-factory", "category": "liquid"}

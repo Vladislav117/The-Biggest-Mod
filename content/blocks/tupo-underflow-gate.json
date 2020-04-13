@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tupo underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "tupo", "amount": 5}, {"item": "copper", "amount": 2}], "research": "tupo-conveyor", "category": "distribution", "invert": false}

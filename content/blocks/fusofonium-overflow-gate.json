@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fusofonium overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "fusofonium", "amount": 4}, {"item": "nytodunium", "amount": 4}], "research": "fusofonium-conveyor", "category": "distribution", "invert": false}

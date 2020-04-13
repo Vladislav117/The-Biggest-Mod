@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small focatu power node", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "focatu", "amount": 17}, {"item": "byro", "amount": 8}, {"item": "cybuby", "amount": 6}], "research": "focatu-factory", "maxNodes": 11, "laserRange": 7, "category": "power"}

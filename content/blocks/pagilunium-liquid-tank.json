@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pagilunium liquid tank", "description": "...", "health": 584, "size": 3, "requirements": [{"item": "pagilunium", "amount": 5}, {"item": "mudo", "amount": 8}, {"item": "yyle", "amount": 8}], "research": "pagilunium-conduit", "category": "liquid", "liquidCapacity": 61007, "hasLiquids": true}

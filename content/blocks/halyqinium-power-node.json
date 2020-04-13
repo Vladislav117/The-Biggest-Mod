@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "halyqinium power node", "description": "...", "size": 2, "health": 744, "requirements": [{"item": "halyqinium", "amount": 7}, {"item": "qudeya", "amount": 14}, {"item": "movanium", "amount": 10}], "research": "halyqinium-factory", "maxNodes": 42, "laserRange": 7, "category": "power"}

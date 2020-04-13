@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "difyna solar panel", "description": "...", "size": 3, "health": 387, "requirements": [{"item": "difyna", "amount": 18}, {"item": "yixa", "amount": 3}, {"item": "hyko", "amount": 2}], "research": "difyna-factory", "powerProduction": 0.41192136161484716, "category": "power"}

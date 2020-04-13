@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cybuby bridge conveyor", "description": "", "health": 13, "range": 11, "speed": 3, "bufferCapacity": 1, "requirements": [{"item": "cybuby", "amount": 3}, {"item": "heruru", "amount": 3}], "research": "cybuby-conveyor", "category": "distribution", "size": 1}

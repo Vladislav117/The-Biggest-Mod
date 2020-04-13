@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "negi bridge conveyor", "description": "", "health": 5, "range": 17, "speed": 3, "bufferCapacity": 16, "requirements": [{"item": "negi", "amount": 4}, {"item": "dywo", "amount": 1}], "research": "negi-conveyor", "category": "distribution", "size": 1}

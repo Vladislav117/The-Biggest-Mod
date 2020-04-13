@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mivini power node", "description": "...", "size": 2, "health": 216, "requirements": [{"item": "mivini", "amount": 8}, {"item": "nago", "amount": 9}, {"item": "puzonium", "amount": 9}], "research": "mivini-factory", "maxNodes": 17, "laserRange": 12, "category": "power"}

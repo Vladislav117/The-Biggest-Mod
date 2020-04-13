@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small heqywanium solar panel", "description": "...", "size": 1, "health": 203, "requirements": [{"item": "heqywanium", "amount": 12}, {"item": "tire", "amount": 15}, {"item": "kavequ", "amount": 8}], "research": "heqywanium-factory", "powerProduction": 0.4124905149088033, "category": "power"}

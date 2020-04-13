@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tisi conduit", "description": "...", "health": 95, "requirements": [{"item": "tisi", "amount": 12}, {"item": "joqoranium", "amount": 17}, {"item": "thorium", "amount": 3}], "liquidCapacity": 47, "liquidPressure": 4, "research": "tisi-factory", "category": "liquid"}

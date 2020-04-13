@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small byjy solar panel", "description": "...", "size": 1, "health": 197, "requirements": [{"item": "byjy", "amount": 12}, {"item": "jomoka", "amount": 16}, {"item": "vywene", "amount": 1}], "research": "byjy-factory", "powerProduction": 0.06447489956382672, "category": "power"}

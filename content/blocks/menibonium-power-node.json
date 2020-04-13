@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "menibonium power node", "description": "...", "size": 2, "health": 718, "requirements": [{"item": "menibonium", "amount": 3}, {"item": "hiki", "amount": 2}, {"item": "poxy", "amount": 4}], "research": "menibonium-factory", "maxNodes": 13, "laserRange": 12, "category": "power"}

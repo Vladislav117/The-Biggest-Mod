@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bymenium solar panel", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "bymenium", "amount": 14}, {"item": "tynipu", "amount": 9}, {"item": "relaqo", "amount": 5}], "research": "bymenium-factory", "powerProduction": 0.1558788118443779, "category": "power"}

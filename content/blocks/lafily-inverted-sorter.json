@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lafily inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "lafily", "amount": 5}, {"item": "viliti", "amount": 4}], "research": "lafily-conveyor", "category": "distribution", "invert": true}

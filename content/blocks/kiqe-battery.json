@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kiqe battery", "description": "...", "size": 3, "health": 399, "requirements": [{"item": "kiqe", "amount": 2}, {"item": "yydaqe", "amount": 6}, {"item": "movanium", "amount": 6}], "research": "kiqe-factory", "consumes": {"powerBuffered": 928}, "category": "power"}

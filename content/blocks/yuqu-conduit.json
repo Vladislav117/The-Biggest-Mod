@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yuqu conduit", "description": "...", "health": 123, "requirements": [{"item": "yuqu", "amount": 9}, {"item": "sosi", "amount": 1}, {"item": "kyma", "amount": 6}], "liquidCapacity": 32, "liquidPressure": 5, "research": "yuqu-factory", "category": "liquid"}

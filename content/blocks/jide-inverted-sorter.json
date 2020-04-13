@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jide inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "jide", "amount": 3}, {"item": "wasu", "amount": 2}], "research": "jide-conveyor", "category": "distribution", "invert": true}

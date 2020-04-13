@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qiyy battery", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "qiyy", "amount": 3}, {"item": "mowygu", "amount": 14}, {"item": "nijunium", "amount": 9}], "research": "qiyy-factory", "consumes": {"powerBuffered": 2287}, "category": "power"}

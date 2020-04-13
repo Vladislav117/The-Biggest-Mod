@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kufupinium junction", "description": "...", "health": 12, "speed": 6, "capacity": 5, "size": 1, "requirements": [{"item": "kufupinium", "amount": 2}, {"item": "qiyare", "amount": 5}], "research": "kufupinium-conveyor", "category": "distribution"}

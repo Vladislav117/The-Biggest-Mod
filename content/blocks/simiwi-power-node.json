@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "simiwi power node", "description": "...", "size": 2, "health": 244, "requirements": [{"item": "simiwi", "amount": 8}, {"item": "qowepa", "amount": 2}, {"item": "cupedi", "amount": 10}], "research": "simiwi-factory", "maxNodes": 10, "laserRange": 10, "category": "power"}

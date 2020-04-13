@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "noca power node", "description": "...", "size": 2, "health": 682, "requirements": [{"item": "noca", "amount": 9}, {"item": "copper", "amount": 7}, {"item": "kiqe", "amount": 8}], "research": "noca-factory", "maxNodes": 12, "laserRange": 26, "category": "power"}

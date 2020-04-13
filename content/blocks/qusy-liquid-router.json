@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qusy liquid router", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "qusy", "amount": 8}, {"item": "nehudo", "amount": 20}, {"item": "yepy", "amount": 4}], "research": "qusy-conduit", "liquidCapacity": 10, "category": "liquid"}

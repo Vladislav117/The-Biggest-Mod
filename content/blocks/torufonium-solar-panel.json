@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "torufonium solar panel", "description": "...", "size": 3, "health": 241, "requirements": [{"item": "torufonium", "amount": 8}, {"item": "ruwy", "amount": 8}, {"item": "kexebinium", "amount": 5}], "research": "torufonium-factory", "powerProduction": 2.942722468495741, "category": "power"}

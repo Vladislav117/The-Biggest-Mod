@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small diha power node", "description": "...", "size": 1, "health": 336, "requirements": [{"item": "diha", "amount": 16}, {"item": "gyqino", "amount": 14}, {"item": "furazinium", "amount": 8}], "research": "diha-factory", "maxNodes": 5, "laserRange": 5, "category": "power"}

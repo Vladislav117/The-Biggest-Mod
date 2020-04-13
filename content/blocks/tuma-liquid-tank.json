@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tuma liquid tank", "description": "...", "health": 558, "size": 3, "requirements": [{"item": "tuma", "amount": 16}, {"item": "jeqidynium", "amount": 19}, {"item": "duqu", "amount": 2}], "research": "tuma-conduit", "category": "liquid", "liquidCapacity": 82174, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pazanium battery", "description": "...", "size": 3, "health": 111, "requirements": [{"item": "pazanium", "amount": 13}, {"item": "kosonium", "amount": 11}, {"item": "zoyyqynium", "amount": 7}], "research": "pazanium-factory", "consumes": {"powerBuffered": 8580}, "category": "power"}

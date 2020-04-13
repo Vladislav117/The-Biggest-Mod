@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tumybi power node", "description": "...", "size": 2, "health": 27, "requirements": [{"item": "tumybi", "amount": 18}, {"item": "hiqe", "amount": 2}, {"item": "muryrenium", "amount": 8}], "research": "tumybi-factory", "maxNodes": 23, "laserRange": 18, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sixo power node", "description": "...", "size": 2, "health": 36, "requirements": [{"item": "sixo", "amount": 16}, {"item": "dyguzu", "amount": 5}, {"item": "vemohy", "amount": 6}], "research": "sixo-factory", "maxNodes": 44, "laserRange": 6, "category": "power"}

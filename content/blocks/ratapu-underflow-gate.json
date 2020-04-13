@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ratapu underflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "ratapu", "amount": 5}, {"item": "mapanium", "amount": 5}], "research": "ratapu-conveyor", "category": "distribution", "invert": false}

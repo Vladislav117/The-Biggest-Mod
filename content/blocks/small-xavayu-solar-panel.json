@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xavayu solar panel", "description": "...", "size": 1, "health": 298, "requirements": [{"item": "xavayu", "amount": 9}, {"item": "siyenium", "amount": 9}, {"item": "hudolo", "amount": 2}], "research": "xavayu-factory", "powerProduction": 11.126086393172791, "category": "power"}

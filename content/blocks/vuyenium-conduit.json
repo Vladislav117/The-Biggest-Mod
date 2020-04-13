@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vuyenium conduit", "description": "...", "health": 41, "requirements": [{"item": "vuyenium", "amount": 18}, {"item": "zebe", "amount": 19}, {"item": "sede", "amount": 8}], "liquidCapacity": 10, "liquidPressure": 3, "research": "vuyenium-factory", "category": "liquid"}

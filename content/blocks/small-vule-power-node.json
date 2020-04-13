@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vule power node", "description": "...", "size": 1, "health": 340, "requirements": [{"item": "vule", "amount": 16}, {"item": "daziha", "amount": 2}, {"item": "buji", "amount": 9}], "research": "vule-factory", "maxNodes": 9, "laserRange": 15, "category": "power"}

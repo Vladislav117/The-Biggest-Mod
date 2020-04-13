@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "foha liquid tank", "description": "...", "health": 609, "size": 3, "requirements": [{"item": "foha", "amount": 16}, {"item": "yuhy", "amount": 6}, {"item": "cohysu", "amount": 5}], "research": "foha-conduit", "category": "liquid", "liquidCapacity": 18922, "hasLiquids": true}

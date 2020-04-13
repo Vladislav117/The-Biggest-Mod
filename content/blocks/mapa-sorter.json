@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mapa sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "mapa", "amount": 3}, {"item": "gusode", "amount": 2}], "research": "mapa-conveyor", "category": "distribution", "invert": false}

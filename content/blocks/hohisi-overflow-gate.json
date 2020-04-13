@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hohisi overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "hohisi", "amount": 5}, {"item": "qexata", "amount": 5}], "research": "hohisi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pawynium power node", "description": "...", "size": 2, "health": 723, "requirements": [{"item": "pawynium", "amount": 2}, {"item": "kujodo", "amount": 13}, {"item": "qivoha", "amount": 2}], "research": "pawynium-factory", "maxNodes": 35, "laserRange": 22, "category": "power"}

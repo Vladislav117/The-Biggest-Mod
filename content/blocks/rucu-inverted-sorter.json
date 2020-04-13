@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rucu inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "rucu", "amount": 5}, {"item": "yepy", "amount": 1}], "research": "rucu-conveyor", "category": "distribution", "invert": true}

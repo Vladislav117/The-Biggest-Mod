@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fyrywe solar panel", "description": "...", "size": 1, "health": 85, "requirements": [{"item": "fyrywe", "amount": 13}, {"item": "mucige", "amount": 1}, {"item": "cazefu", "amount": 5}], "research": "fyrywe-factory", "powerProduction": 1.0859173451898885, "category": "power"}

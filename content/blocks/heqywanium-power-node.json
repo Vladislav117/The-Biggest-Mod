@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "heqywanium power node", "description": "...", "size": 2, "health": 716, "requirements": [{"item": "heqywanium", "amount": 17}, {"item": "kavequ", "amount": 16}, {"item": "kurecanium", "amount": 10}], "research": "heqywanium-factory", "maxNodes": 57, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tanexo battery", "description": "...", "size": 3, "health": 84, "requirements": [{"item": "tanexo", "amount": 20}, {"item": "zytukenium", "amount": 20}, {"item": "quvojo", "amount": 3}], "research": "tanexo-factory", "consumes": {"powerBuffered": 8210}, "category": "power"}

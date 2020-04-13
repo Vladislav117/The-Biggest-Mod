@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gevu sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "gevu", "amount": 5}, {"item": "xutire", "amount": 1}], "research": "gevu-conveyor", "category": "distribution", "invert": false}

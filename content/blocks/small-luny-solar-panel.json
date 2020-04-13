@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small luny solar panel", "description": "...", "size": 1, "health": 393, "requirements": [{"item": "luny", "amount": 20}, {"item": "vykeso", "amount": 10}, {"item": "fino", "amount": 4}], "research": "luny-factory", "powerProduction": 2.199978524327917, "category": "power"}

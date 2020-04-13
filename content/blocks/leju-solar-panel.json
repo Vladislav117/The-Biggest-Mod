@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "leju solar panel", "description": "...", "size": 3, "health": 203, "requirements": [{"item": "leju", "amount": 5}, {"item": "mowu", "amount": 20}, {"item": "doya", "amount": 9}], "research": "leju-factory", "powerProduction": 4.7062172162242435, "category": "power"}

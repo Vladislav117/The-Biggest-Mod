@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jexu drill", "description": "...", "size": 2, "health": 145, "tier": 2, "drillTime": 13, "consumes": {"power": 3}, "requirements": [{"item": "jexu", "amount": 10}, {"item": "togygi", "amount": 2}, {"item": "copa", "amount": 2}], "research": "jexu-factory", "category": "production"}

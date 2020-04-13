@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dono power node", "description": "...", "size": 1, "health": 293, "requirements": [{"item": "dono", "amount": 14}, {"item": "foze", "amount": 14}, {"item": "yicejanium", "amount": 4}], "research": "dono-factory", "maxNodes": 19, "laserRange": 3, "category": "power"}

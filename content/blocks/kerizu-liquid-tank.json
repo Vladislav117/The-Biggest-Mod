@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kerizu liquid tank", "description": "...", "health": 250, "size": 3, "requirements": [{"item": "kerizu", "amount": 10}, {"item": "higucu", "amount": 15}, {"item": "qicinium", "amount": 4}], "research": "kerizu-conduit", "category": "liquid", "liquidCapacity": 61760, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cupyvu solar panel", "description": "...", "size": 3, "health": 330, "requirements": [{"item": "cupyvu", "amount": 14}, {"item": "wohy", "amount": 1}, {"item": "gyporu", "amount": 3}], "research": "cupyvu-factory", "powerProduction": 0.34281773118681974, "category": "power"}

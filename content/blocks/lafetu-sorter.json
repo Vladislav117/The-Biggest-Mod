@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lafetu sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "lafetu", "amount": 5}, {"item": "baly", "amount": 4}], "research": "lafetu-conveyor", "category": "distribution", "invert": false}

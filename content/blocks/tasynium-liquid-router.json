@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tasynium liquid router", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "tasynium", "amount": 18}, {"item": "lyna", "amount": 3}, {"item": "caxoni", "amount": 9}], "research": "tasynium-conduit", "liquidCapacity": 10, "category": "liquid"}

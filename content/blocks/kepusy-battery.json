@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kepusy battery", "description": "...", "size": 3, "health": 285, "requirements": [{"item": "kepusy", "amount": 7}, {"item": "vywene", "amount": 5}, {"item": "jylovo", "amount": 8}], "research": "kepusy-factory", "consumes": {"powerBuffered": 9072}, "category": "power"}

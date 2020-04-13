@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ridurinium sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "ridurinium", "amount": 2}, {"item": "vesycynium", "amount": 1}], "research": "ridurinium-conveyor", "category": "distribution", "invert": false}

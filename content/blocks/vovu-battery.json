@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vovu battery", "description": "...", "size": 3, "health": 327, "requirements": [{"item": "vovu", "amount": 1}, {"item": "pagu", "amount": 5}, {"item": "xoge", "amount": 9}], "research": "vovu-factory", "consumes": {"powerBuffered": 4233}, "category": "power"}

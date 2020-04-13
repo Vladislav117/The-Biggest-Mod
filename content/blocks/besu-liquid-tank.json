@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "besu liquid tank", "description": "...", "health": 551, "size": 3, "requirements": [{"item": "besu", "amount": 13}, {"item": "gotomy", "amount": 1}, {"item": "graphite", "amount": 9}], "research": "besu-conduit", "category": "liquid", "liquidCapacity": 14093, "hasLiquids": true}

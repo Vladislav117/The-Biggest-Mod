@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wupira power node", "description": "...", "size": 2, "health": 372, "requirements": [{"item": "wupira", "amount": 3}, {"item": "puzonium", "amount": 20}, {"item": "xihu", "amount": 7}], "research": "wupira-factory", "maxNodes": 29, "laserRange": 6, "category": "power"}

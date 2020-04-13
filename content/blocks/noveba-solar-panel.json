@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "noveba solar panel", "description": "...", "size": 3, "health": 39, "requirements": [{"item": "noveba", "amount": 9}, {"item": "homu", "amount": 7}, {"item": "ruzagi", "amount": 6}], "research": "noveba-factory", "powerProduction": 2.2725816634878626, "category": "power"}

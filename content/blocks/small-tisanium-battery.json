@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tisanium battery", "description": "...", "size": 1, "health": 238, "requirements": [{"item": "tisanium", "amount": 11}, {"item": "zoyyqynium", "amount": 9}, {"item": "qekaye", "amount": 7}], "research": "tisanium-factory", "consumes": {"powerBuffered": 392}, "category": "power"}

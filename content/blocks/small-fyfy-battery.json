@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fyfy battery", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "fyfy", "amount": 16}, {"item": "logy", "amount": 14}, {"item": "tufi", "amount": 2}], "research": "fyfy-factory", "consumes": {"powerBuffered": 1537}, "category": "power"}

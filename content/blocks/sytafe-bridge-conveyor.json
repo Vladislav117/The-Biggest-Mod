@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sytafe bridge conveyor", "description": "", "health": 21, "range": 11, "speed": 9, "bufferCapacity": 25, "requirements": [{"item": "sytafe", "amount": 3}, {"item": "mapibi", "amount": 2}], "research": "sytafe-conveyor", "category": "distribution", "size": 1}

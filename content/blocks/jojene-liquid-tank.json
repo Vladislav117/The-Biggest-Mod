@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jojene liquid tank", "description": "...", "health": 399, "size": 3, "requirements": [{"item": "jojene", "amount": 6}, {"item": "zuvy", "amount": 4}, {"item": "dezi", "amount": 10}], "research": "jojene-conduit", "category": "liquid", "liquidCapacity": 3289, "hasLiquids": true}

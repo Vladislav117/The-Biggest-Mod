@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jyzywonium liquid tank", "description": "...", "health": 172, "size": 3, "requirements": [{"item": "jyzywonium", "amount": 8}, {"item": "plastanium", "amount": 5}, {"item": "gabipi", "amount": 10}], "research": "jyzywonium-conduit", "category": "liquid", "liquidCapacity": 29911, "hasLiquids": true}

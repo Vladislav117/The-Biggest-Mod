@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xaxe battery", "description": "...", "size": 3, "health": 49, "requirements": [{"item": "xaxe", "amount": 17}, {"item": "xini", "amount": 6}, {"item": "cesewo", "amount": 1}], "research": "xaxe-factory", "consumes": {"powerBuffered": 9470}, "category": "power"}

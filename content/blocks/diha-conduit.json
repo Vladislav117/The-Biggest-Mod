@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "diha conduit", "description": "...", "health": 132, "requirements": [{"item": "diha", "amount": 16}, {"item": "zuvy", "amount": 19}, {"item": "zekaru", "amount": 5}], "liquidCapacity": 20, "liquidPressure": 9, "research": "diha-factory", "category": "liquid"}

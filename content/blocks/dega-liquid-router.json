@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dega liquid router", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "dega", "amount": 1}, {"item": "xufe", "amount": 8}, {"item": "xuji", "amount": 7}], "research": "dega-conduit", "liquidCapacity": 10, "category": "liquid"}

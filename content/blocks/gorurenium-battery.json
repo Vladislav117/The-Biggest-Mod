@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gorurenium battery", "description": "...", "size": 3, "health": 105, "requirements": [{"item": "gorurenium", "amount": 6}, {"item": "gonu", "amount": 20}, {"item": "gepe", "amount": 10}], "research": "gorurenium-factory", "consumes": {"powerBuffered": 7393}, "category": "power"}

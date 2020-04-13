@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hocode liquid tank", "description": "...", "health": 404, "size": 3, "requirements": [{"item": "hocode", "amount": 2}, {"item": "kavequ", "amount": 18}, {"item": "hufema", "amount": 4}], "research": "hocode-conduit", "category": "liquid", "liquidCapacity": 91858, "hasLiquids": true}

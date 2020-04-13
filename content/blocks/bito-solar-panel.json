@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bito solar panel", "description": "...", "size": 3, "health": 281, "requirements": [{"item": "bito", "amount": 9}, {"item": "hihuly", "amount": 19}, {"item": "zuva", "amount": 9}], "research": "bito-factory", "powerProduction": 0.28214907637475606, "category": "power"}

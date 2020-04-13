@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kygarynium liquid router", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "kygarynium", "amount": 11}, {"item": "qepusenium", "amount": 5}, {"item": "dyco", "amount": 7}], "research": "kygarynium-conduit", "liquidCapacity": 10, "category": "liquid"}

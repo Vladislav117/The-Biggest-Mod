@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tenelenium solar panel", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "tenelenium", "amount": 17}, {"item": "sojile", "amount": 8}, {"item": "vohi", "amount": 9}], "research": "tenelenium-factory", "powerProduction": 0.40312444711181805, "category": "power"}

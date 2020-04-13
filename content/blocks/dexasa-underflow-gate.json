@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dexasa underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "dexasa", "amount": 4}, {"item": "tuzy", "amount": 2}], "research": "dexasa-conveyor", "category": "distribution", "invert": false}

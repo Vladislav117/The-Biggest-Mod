@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tove sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "tove", "amount": 4}, {"item": "nazyfa", "amount": 1}], "research": "tove-conveyor", "category": "distribution", "invert": false}

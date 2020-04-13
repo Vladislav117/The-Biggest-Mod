@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ziruzo power node", "description": "...", "size": 2, "health": 434, "requirements": [{"item": "ziruzo", "amount": 6}, {"item": "pydi", "amount": 12}, {"item": "vixuca", "amount": 10}], "research": "ziruzo-factory", "maxNodes": 46, "laserRange": 9, "category": "power"}

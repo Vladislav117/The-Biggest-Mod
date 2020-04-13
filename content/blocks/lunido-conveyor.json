@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "lunido conveyor", "description": "...", "health": 110, "requirements": [{"item": "lunido", "amount": 10}, {"item": "pizi", "amount": 8}], "speed": 0.2924018397092895, "research": "lunido-factory", "category": "distribution"}

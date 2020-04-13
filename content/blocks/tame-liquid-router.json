@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tame liquid router", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "tame", "amount": 12}, {"item": "waha", "amount": 4}, {"item": "yodary", "amount": 5}], "research": "tame-conduit", "liquidCapacity": 10, "category": "liquid"}

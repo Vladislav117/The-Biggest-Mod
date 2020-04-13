@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lofypy overflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "lofypy", "amount": 5}, {"item": "xiga", "amount": 2}], "research": "lofypy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sesico sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "sesico", "amount": 5}, {"item": "lypoje", "amount": 5}], "research": "sesico-conveyor", "category": "distribution", "invert": false}

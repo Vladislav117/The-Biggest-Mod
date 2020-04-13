@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zoqivanium liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "zoqivanium", "amount": 10}, {"item": "kawo", "amount": 15}, {"item": "lyru", "amount": 7}], "research": "zoqivanium-conduit", "liquidCapacity": 10, "category": "liquid"}

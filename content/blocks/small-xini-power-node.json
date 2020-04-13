@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xini power node", "description": "...", "size": 1, "health": 112, "requirements": [{"item": "xini", "amount": 1}, {"item": "qiloka", "amount": 6}, {"item": "bayavo", "amount": 9}], "research": "xini-factory", "maxNodes": 10, "laserRange": 4, "category": "power"}

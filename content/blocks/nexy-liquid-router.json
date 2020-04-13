@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nexy liquid router", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "nexy", "amount": 12}, {"item": "pyfa", "amount": 9}, {"item": "loda", "amount": 5}], "research": "nexy-conduit", "liquidCapacity": 10, "category": "liquid"}

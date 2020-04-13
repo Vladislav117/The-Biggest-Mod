@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "beyasonium liquid tank", "description": "...", "health": 279, "size": 3, "requirements": [{"item": "beyasonium", "amount": 16}, {"item": "qepyvonium", "amount": 10}, {"item": "qicu", "amount": 7}], "research": "beyasonium-conduit", "category": "liquid", "liquidCapacity": 68817, "hasLiquids": true}

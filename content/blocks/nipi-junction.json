@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nipi junction", "description": "...", "health": 44, "speed": 8, "capacity": 1, "size": 1, "requirements": [{"item": "nipi", "amount": 4}, {"item": "gygi", "amount": 4}], "research": "nipi-conveyor", "category": "distribution"}

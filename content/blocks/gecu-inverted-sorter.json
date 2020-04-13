@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gecu inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "gecu", "amount": 4}, {"item": "zygebynium", "amount": 5}], "research": "gecu-conveyor", "category": "distribution", "invert": true}

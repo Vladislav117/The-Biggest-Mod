@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "moki liquid router", "description": "...", "size": 1, "health": 88, "requirements": [{"item": "moki", "amount": 5}, {"item": "phase-fabric", "amount": 14}, {"item": "niyi", "amount": 7}], "research": "moki-conduit", "liquidCapacity": 10, "category": "liquid"}

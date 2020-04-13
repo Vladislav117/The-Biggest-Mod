@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hijaju liquid tank", "description": "...", "health": 430, "size": 3, "requirements": [{"item": "hijaju", "amount": 16}, {"item": "pyxoxanium", "amount": 3}, {"item": "wozego", "amount": 1}], "research": "hijaju-conduit", "category": "liquid", "liquidCapacity": 39858, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yyyyge battery", "description": "...", "size": 3, "health": 64, "requirements": [{"item": "yyyyge", "amount": 13}, {"item": "rehyce", "amount": 9}, {"item": "zoxi", "amount": 3}], "research": "yyyyge-factory", "consumes": {"powerBuffered": 7039}, "category": "power"}

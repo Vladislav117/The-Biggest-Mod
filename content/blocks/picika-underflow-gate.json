@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "picika underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "picika", "amount": 2}, {"item": "qerobu", "amount": 3}], "research": "picika-conveyor", "category": "distribution", "invert": false}

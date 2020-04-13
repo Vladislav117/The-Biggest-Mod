@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "keze overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "keze", "amount": 5}, {"item": "hytitenium", "amount": 4}], "research": "keze-conveyor", "category": "distribution", "invert": false}

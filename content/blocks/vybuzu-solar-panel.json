@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vybuzu solar panel", "description": "...", "size": 3, "health": 236, "requirements": [{"item": "vybuzu", "amount": 3}, {"item": "rivety", "amount": 9}, {"item": "tetivy", "amount": 1}], "research": "vybuzu-factory", "powerProduction": 1.25514851720857, "category": "power"}

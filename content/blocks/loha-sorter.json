@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "loha sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "loha", "amount": 3}, {"item": "rybiho", "amount": 5}], "research": "loha-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "beku bridge conveyor", "description": "", "health": 3, "range": 11, "speed": 2, "bufferCapacity": 4, "requirements": [{"item": "beku", "amount": 3}, {"item": "qiwise", "amount": 2}], "research": "beku-conveyor", "category": "distribution", "size": 1}

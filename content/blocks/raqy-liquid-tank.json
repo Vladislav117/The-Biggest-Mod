@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "raqy liquid tank", "description": "...", "health": 351, "size": 3, "requirements": [{"item": "raqy", "amount": 15}, {"item": "yipobe", "amount": 8}, {"item": "poyaye", "amount": 1}], "research": "raqy-conduit", "category": "liquid", "liquidCapacity": 51196, "hasLiquids": true}

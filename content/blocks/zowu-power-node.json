@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zowu power node", "description": "...", "size": 2, "health": 30, "requirements": [{"item": "zowu", "amount": 19}, {"item": "hocode", "amount": 6}, {"item": "favunium", "amount": 5}], "research": "zowu-factory", "maxNodes": 39, "laserRange": 12, "category": "power"}

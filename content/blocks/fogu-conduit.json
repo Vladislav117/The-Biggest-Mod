@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fogu conduit", "description": "...", "health": 153, "requirements": [{"item": "fogu", "amount": 5}, {"item": "yypefa", "amount": 15}, {"item": "fino", "amount": 4}], "liquidCapacity": 32, "liquidPressure": 0, "research": "fogu-factory", "category": "liquid"}

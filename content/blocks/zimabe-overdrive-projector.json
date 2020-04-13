@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "zimabe overdrive projector", "description": "...", "health": 105, "consumes": {"power": 3.0, "item": "zimabe"}, "size": 2, "requirements": [{"item": "zimabe", "amount": 2}, {"item": "rowurunium", "amount": 3}, {"item": "jylovo", "amount": 1}], "research": "zimabe-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rynaxa overflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "rynaxa", "amount": 2}, {"item": "rigo", "amount": 1}], "research": "rynaxa-conveyor", "category": "distribution", "invert": false}

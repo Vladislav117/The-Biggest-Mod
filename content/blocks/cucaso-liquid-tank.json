@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cucaso liquid tank", "description": "...", "health": 142, "size": 3, "requirements": [{"item": "cucaso", "amount": 10}, {"item": "kokonium", "amount": 9}, {"item": "heqywanium", "amount": 3}], "research": "cucaso-conduit", "category": "liquid", "liquidCapacity": 27774, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xafeku junction", "description": "...", "health": 29, "speed": 18, "capacity": 8, "size": 1, "requirements": [{"item": "xafeku", "amount": 2}, {"item": "liba", "amount": 5}], "research": "xafeku-conveyor", "category": "distribution"}

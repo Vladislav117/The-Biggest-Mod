@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "holanynium solar panel", "description": "...", "size": 3, "health": 356, "requirements": [{"item": "holanynium", "amount": 18}, {"item": "nepysi", "amount": 9}, {"item": "gino", "amount": 8}], "research": "holanynium-factory", "powerProduction": 1.2389156211822243, "category": "power"}

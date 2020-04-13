@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mewy battery", "description": "...", "size": 3, "health": 96, "requirements": [{"item": "mewy", "amount": 16}, {"item": "gufanium", "amount": 16}, {"item": "yamyri", "amount": 9}], "research": "mewy-factory", "consumes": {"powerBuffered": 8548}, "category": "power"}

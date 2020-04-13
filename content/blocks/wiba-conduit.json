@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wiba conduit", "description": "...", "health": 169, "requirements": [{"item": "wiba", "amount": 4}, {"item": "syteja", "amount": 2}, {"item": "syteja", "amount": 8}], "liquidCapacity": 40, "liquidPressure": 6, "research": "wiba-factory", "category": "liquid"}

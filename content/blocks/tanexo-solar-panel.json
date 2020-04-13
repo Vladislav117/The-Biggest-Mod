@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tanexo solar panel", "description": "...", "size": 3, "health": 297, "requirements": [{"item": "tanexo", "amount": 3}, {"item": "lynaly", "amount": 14}, {"item": "yixa", "amount": 9}], "research": "tanexo-factory", "powerProduction": 1.1868784403335333, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sena conduit", "description": "...", "health": 180, "requirements": [{"item": "sena", "amount": 6}, {"item": "tehepy", "amount": 3}, {"item": "pawusy", "amount": 7}], "liquidCapacity": 34, "liquidPressure": 4, "research": "sena-factory", "category": "liquid"}

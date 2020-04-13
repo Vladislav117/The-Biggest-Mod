@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small myxo solar panel", "description": "...", "size": 1, "health": 159, "requirements": [{"item": "myxo", "amount": 14}, {"item": "bywazy", "amount": 19}, {"item": "dugi", "amount": 10}], "research": "myxo-factory", "powerProduction": 3.2604230193658967, "category": "power"}

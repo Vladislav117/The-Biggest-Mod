@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xyru solar panel", "description": "...", "size": 3, "health": 91, "requirements": [{"item": "xyru", "amount": 11}, {"item": "miqomy", "amount": 11}, {"item": "ximy", "amount": 1}], "research": "xyru-factory", "powerProduction": 0.14461437090553092, "category": "power"}

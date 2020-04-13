@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "viliti drill", "description": "...", "size": 4, "health": 380, "tier": 2, "drillTime": 16, "consumes": {"power": 7}, "requirements": [{"item": "viliti", "amount": 3}, {"item": "kayody", "amount": 6}, {"item": "minoxa", "amount": 4}], "research": "viliti-factory", "category": "production"}

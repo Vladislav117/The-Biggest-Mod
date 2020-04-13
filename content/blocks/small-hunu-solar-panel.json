@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hunu solar panel", "description": "...", "size": 1, "health": 133, "requirements": [{"item": "hunu", "amount": 19}, {"item": "qudy", "amount": 11}, {"item": "rawywa", "amount": 5}], "research": "hunu-factory", "powerProduction": 6.608504900206382, "category": "power"}

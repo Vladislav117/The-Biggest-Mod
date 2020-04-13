@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gegehe solar panel", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "gegehe", "amount": 3}, {"item": "dego", "amount": 9}, {"item": "dabi", "amount": 1}], "research": "gegehe-factory", "powerProduction": 2.075220474278261, "category": "power"}

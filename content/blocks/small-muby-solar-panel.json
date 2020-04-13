@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small muby solar panel", "description": "...", "size": 1, "health": 207, "requirements": [{"item": "muby", "amount": 1}, {"item": "fogodo", "amount": 16}, {"item": "silicon", "amount": 4}], "research": "muby-factory", "powerProduction": 5.2626515018928774, "category": "power"}

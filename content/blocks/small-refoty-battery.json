@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small refoty battery", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "refoty", "amount": 3}, {"item": "zuva", "amount": 4}, {"item": "siyake", "amount": 6}], "research": "refoty-factory", "consumes": {"powerBuffered": 2942}, "category": "power"}

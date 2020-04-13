@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gacy power node", "description": "...", "size": 2, "health": 45, "requirements": [{"item": "gacy", "amount": 9}, {"item": "rajubanium", "amount": 19}, {"item": "xinodunium", "amount": 1}], "research": "gacy-factory", "maxNodes": 12, "laserRange": 22, "category": "power"}

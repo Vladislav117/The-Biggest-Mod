@@ -1,0 +1,1 @@
+{"type": "junction", "name": "salojanium junction", "description": "...", "health": 45, "speed": 2, "capacity": 13, "size": 1, "requirements": [{"item": "salojanium", "amount": 3}, {"item": "qady", "amount": 3}], "research": "salojanium-conveyor", "category": "distribution"}

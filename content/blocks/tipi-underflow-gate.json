@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tipi underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "tipi", "amount": 4}, {"item": "lygynium", "amount": 1}], "research": "tipi-conveyor", "category": "distribution", "invert": false}

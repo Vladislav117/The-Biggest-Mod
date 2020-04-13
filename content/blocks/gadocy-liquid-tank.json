@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gadocy liquid tank", "description": "...", "health": 277, "size": 3, "requirements": [{"item": "gadocy", "amount": 4}, {"item": "nogosy", "amount": 9}, {"item": "gyqino", "amount": 2}], "research": "gadocy-conduit", "category": "liquid", "liquidCapacity": 31575, "hasLiquids": true}

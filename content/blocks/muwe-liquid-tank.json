@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "muwe liquid tank", "description": "...", "health": 623, "size": 3, "requirements": [{"item": "muwe", "amount": 9}, {"item": "wisy", "amount": 20}, {"item": "bukiqenium", "amount": 4}], "research": "muwe-conduit", "category": "liquid", "liquidCapacity": 119782, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nacy underflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "nacy", "amount": 5}, {"item": "paba", "amount": 1}], "research": "nacy-conveyor", "category": "distribution", "invert": false}

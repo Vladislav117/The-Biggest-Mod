@@ -1,0 +1,1 @@
+{"type": "junction", "name": "reno junction", "description": "...", "health": 44, "speed": 6, "capacity": 4, "size": 1, "requirements": [{"item": "reno", "amount": 5}, {"item": "jebewe", "amount": 3}], "research": "reno-conveyor", "category": "distribution"}

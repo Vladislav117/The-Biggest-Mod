@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vuka underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "vuka", "amount": 3}, {"item": "ribugi", "amount": 1}], "research": "vuka-conveyor", "category": "distribution", "invert": false}

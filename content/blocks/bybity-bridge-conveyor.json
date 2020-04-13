@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bybity bridge conveyor", "description": "", "health": 38, "range": 1, "speed": 11, "bufferCapacity": 20, "requirements": [{"item": "bybity", "amount": 3}, {"item": "sore", "amount": 5}], "research": "bybity-conveyor", "category": "distribution", "size": 1}

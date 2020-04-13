@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jyzy power node", "description": "...", "size": 2, "health": 676, "requirements": [{"item": "jyzy", "amount": 13}, {"item": "mymynium", "amount": 4}, {"item": "yeci", "amount": 7}], "research": "jyzy-factory", "maxNodes": 56, "laserRange": 24, "category": "power"}

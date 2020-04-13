@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zuga battery", "description": "...", "size": 3, "health": 389, "requirements": [{"item": "zuga", "amount": 14}, {"item": "wusa", "amount": 15}, {"item": "fery", "amount": 1}], "research": "zuga-factory", "consumes": {"powerBuffered": 6718}, "category": "power"}

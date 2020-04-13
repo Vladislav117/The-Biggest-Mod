@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "seca solar panel", "description": "...", "size": 3, "health": 362, "requirements": [{"item": "seca", "amount": 14}, {"item": "gineta", "amount": 8}, {"item": "fogodo", "amount": 10}], "research": "seca-factory", "powerProduction": 1.895306865042765, "category": "power"}

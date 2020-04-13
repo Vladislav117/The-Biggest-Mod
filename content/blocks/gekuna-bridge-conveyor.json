@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gekuna bridge conveyor", "description": "", "health": 46, "range": 2, "speed": 2, "bufferCapacity": 17, "requirements": [{"item": "gekuna", "amount": 1}, {"item": "rehodunium", "amount": 3}], "research": "gekuna-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dexe liquid router", "description": "...", "size": 1, "health": 35, "requirements": [{"item": "dexe", "amount": 5}, {"item": "juzu", "amount": 9}, {"item": "sihycu", "amount": 4}], "research": "dexe-conduit", "liquidCapacity": 10, "category": "liquid"}

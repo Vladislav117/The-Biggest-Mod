@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zeca power node", "description": "...", "size": 1, "health": 232, "requirements": [{"item": "zeca", "amount": 5}, {"item": "hagi", "amount": 17}, {"item": "cixe", "amount": 5}], "research": "zeca-factory", "maxNodes": 20, "laserRange": 17, "category": "power"}

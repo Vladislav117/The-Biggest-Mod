@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gayika solar panel", "description": "...", "size": 1, "health": 360, "requirements": [{"item": "gayika", "amount": 16}, {"item": "jumonium", "amount": 11}, {"item": "tuzy", "amount": 4}], "research": "gayika-factory", "powerProduction": 5.052394337878833, "category": "power"}

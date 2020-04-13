@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vodaxa power node", "description": "...", "size": 1, "health": 268, "requirements": [{"item": "vodaxa", "amount": 6}, {"item": "mebo", "amount": 19}, {"item": "nulyfo", "amount": 5}], "research": "vodaxa-factory", "maxNodes": 2, "laserRange": 11, "category": "power"}

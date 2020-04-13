@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rohivonium junction", "description": "...", "health": 6, "speed": 13, "capacity": 8, "size": 1, "requirements": [{"item": "rohivonium", "amount": 3}, {"item": "daqy", "amount": 3}], "research": "rohivonium-conveyor", "category": "distribution"}

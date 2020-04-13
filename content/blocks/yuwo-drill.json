@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yuwo drill", "description": "...", "size": 2, "health": 100, "tier": 1, "drillTime": 4, "consumes": {"power": 7}, "requirements": [{"item": "yuwo", "amount": 5}, {"item": "qylino", "amount": 12}, {"item": "rabe", "amount": 7}], "research": "yuwo-factory", "category": "production"}

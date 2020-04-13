@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cumo power node", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "cumo", "amount": 13}, {"item": "jisy", "amount": 1}, {"item": "vipybi", "amount": 7}], "research": "cumo-factory", "maxNodes": 20, "laserRange": 8, "category": "power"}

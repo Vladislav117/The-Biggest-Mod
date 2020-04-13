@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xyzeja junction", "description": "...", "health": 39, "speed": 6, "capacity": 13, "size": 1, "requirements": [{"item": "xyzeja", "amount": 3}, {"item": "muti", "amount": 2}], "research": "xyzeja-conveyor", "category": "distribution"}

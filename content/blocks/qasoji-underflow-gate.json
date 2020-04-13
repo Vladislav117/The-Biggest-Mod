@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qasoji underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "qasoji", "amount": 4}, {"item": "dojove", "amount": 4}], "research": "qasoji-conveyor", "category": "distribution", "invert": false}

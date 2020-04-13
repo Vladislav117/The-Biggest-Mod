@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vekile liquid router", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "vekile", "amount": 5}, {"item": "jazu", "amount": 4}, {"item": "hyla", "amount": 7}], "research": "vekile-conduit", "liquidCapacity": 10, "category": "liquid"}

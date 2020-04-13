@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "koxy liquid router", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "koxy", "amount": 15}, {"item": "redo", "amount": 12}, {"item": "qapa", "amount": 5}], "research": "koxy-conduit", "liquidCapacity": 10, "category": "liquid"}

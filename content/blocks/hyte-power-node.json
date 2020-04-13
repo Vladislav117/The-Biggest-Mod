@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hyte power node", "description": "...", "size": 2, "health": 610, "requirements": [{"item": "hyte", "amount": 18}, {"item": "mygo", "amount": 10}, {"item": "tiwyna", "amount": 6}], "research": "hyte-factory", "maxNodes": 21, "laserRange": 13, "category": "power"}

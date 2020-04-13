@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qicuwe conduit", "description": "...", "health": 103, "requirements": [{"item": "qicuwe", "amount": 9}, {"item": "xonanium", "amount": 17}, {"item": "make", "amount": 1}], "liquidCapacity": 8, "liquidPressure": 2, "research": "qicuwe-factory", "category": "liquid"}

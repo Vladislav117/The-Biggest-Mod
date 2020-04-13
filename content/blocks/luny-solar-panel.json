@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "luny solar panel", "description": "...", "size": 3, "health": 296, "requirements": [{"item": "luny", "amount": 10}, {"item": "yikynium", "amount": 6}, {"item": "lahy", "amount": 10}], "research": "luny-factory", "powerProduction": 3.1640423835448845, "category": "power"}

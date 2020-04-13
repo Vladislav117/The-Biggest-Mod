@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fino power node", "description": "...", "size": 1, "health": 135, "requirements": [{"item": "fino", "amount": 17}, {"item": "kudohi", "amount": 7}, {"item": "yeku", "amount": 10}], "research": "fino-factory", "maxNodes": 17, "laserRange": 4, "category": "power"}

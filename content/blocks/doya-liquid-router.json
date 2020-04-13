@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "doya liquid router", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "doya", "amount": 12}, {"item": "hotonium", "amount": 1}, {"item": "ruryjynium", "amount": 8}], "research": "doya-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xyfi liquid tank", "description": "...", "health": 262, "size": 3, "requirements": [{"item": "xyfi", "amount": 12}, {"item": "hejonium", "amount": 5}, {"item": "yifity", "amount": 5}], "research": "xyfi-conduit", "category": "liquid", "liquidCapacity": 114140, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kica power node", "description": "...", "size": 2, "health": 277, "requirements": [{"item": "kica", "amount": 1}, {"item": "giha", "amount": 9}, {"item": "toni", "amount": 5}], "research": "kica-factory", "maxNodes": 58, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "judeconium liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "judeconium", "amount": 16}, {"item": "mapyxa", "amount": 8}, {"item": "mebo", "amount": 2}], "research": "judeconium-conduit", "liquidCapacity": 10, "category": "liquid"}

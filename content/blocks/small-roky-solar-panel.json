@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small roky solar panel", "description": "...", "size": 1, "health": 389, "requirements": [{"item": "roky", "amount": 2}, {"item": "caxoni", "amount": 14}, {"item": "moro", "amount": 6}], "research": "roky-factory", "powerProduction": 4.278866043247844, "category": "power"}

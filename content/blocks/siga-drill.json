@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "siga drill", "description": "...", "size": 2, "health": 191, "tier": 1, "drillTime": 20, "consumes": {"power": 18}, "requirements": [{"item": "siga", "amount": 4}, {"item": "wapo", "amount": 17}, {"item": "dywo", "amount": 4}], "research": "siga-factory", "category": "production"}

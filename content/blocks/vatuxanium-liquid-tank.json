@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vatuxanium liquid tank", "description": "...", "health": 509, "size": 3, "requirements": [{"item": "vatuxanium", "amount": 17}, {"item": "jupiqynium", "amount": 4}, {"item": "laqu", "amount": 3}], "research": "vatuxanium-conduit", "category": "liquid", "liquidCapacity": 66555, "hasLiquids": true}

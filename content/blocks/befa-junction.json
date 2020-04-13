@@ -1,0 +1,1 @@
+{"type": "junction", "name": "befa junction", "description": "...", "health": 37, "speed": 4, "capacity": 1, "size": 1, "requirements": [{"item": "befa", "amount": 4}, {"item": "jytaxe", "amount": 2}], "research": "befa-conveyor", "category": "distribution"}

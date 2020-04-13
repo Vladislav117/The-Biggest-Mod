@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rynaxa junction", "description": "...", "health": 49, "speed": 2, "capacity": 15, "size": 1, "requirements": [{"item": "rynaxa", "amount": 5}, {"item": "tuwe", "amount": 4}], "research": "rynaxa-conveyor", "category": "distribution"}

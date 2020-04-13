@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pejavy solar panel", "description": "...", "size": 3, "health": 155, "requirements": [{"item": "pejavy", "amount": 12}, {"item": "soronium", "amount": 18}, {"item": "pypy", "amount": 5}], "research": "pejavy-factory", "powerProduction": 2.5316777802321973, "category": "power"}

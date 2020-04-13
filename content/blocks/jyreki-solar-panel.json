@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jyreki solar panel", "description": "...", "size": 3, "health": 245, "requirements": [{"item": "jyreki", "amount": 16}, {"item": "nodi", "amount": 9}, {"item": "wosofe", "amount": 7}], "research": "jyreki-factory", "powerProduction": 0.3243436966298472, "category": "power"}

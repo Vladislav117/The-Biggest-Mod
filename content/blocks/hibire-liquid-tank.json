@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hibire liquid tank", "description": "...", "health": 438, "size": 3, "requirements": [{"item": "hibire", "amount": 8}, {"item": "hoze", "amount": 3}, {"item": "rajizu", "amount": 3}], "research": "hibire-conduit", "category": "liquid", "liquidCapacity": 77418, "hasLiquids": true}

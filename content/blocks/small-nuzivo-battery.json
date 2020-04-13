@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nuzivo battery", "description": "...", "size": 1, "health": 203, "requirements": [{"item": "nuzivo", "amount": 2}, {"item": "xutire", "amount": 17}, {"item": "surge-alloy", "amount": 5}], "research": "nuzivo-factory", "consumes": {"powerBuffered": 1797}, "category": "power"}

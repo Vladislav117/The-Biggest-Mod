@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zadohe solar panel", "description": "...", "size": 1, "health": 386, "requirements": [{"item": "zadohe", "amount": 5}, {"item": "huro", "amount": 5}, {"item": "pefanium", "amount": 5}], "research": "zadohe-factory", "powerProduction": 0.9262062733419446, "category": "power"}

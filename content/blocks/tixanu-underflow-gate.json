@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tixanu underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "tixanu", "amount": 3}, {"item": "paqupy", "amount": 1}], "research": "tixanu-conveyor", "category": "distribution", "invert": false}

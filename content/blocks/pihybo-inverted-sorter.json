@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pihybo inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "pihybo", "amount": 3}, {"item": "wana", "amount": 4}], "research": "pihybo-conveyor", "category": "distribution", "invert": true}

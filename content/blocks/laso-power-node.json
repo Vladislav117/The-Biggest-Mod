@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "laso power node", "description": "...", "size": 2, "health": 471, "requirements": [{"item": "laso", "amount": 19}, {"item": "zityyanium", "amount": 11}, {"item": "mehenium", "amount": 6}], "research": "laso-factory", "maxNodes": 24, "laserRange": 27, "category": "power"}

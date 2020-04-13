@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tisi solar panel", "description": "...", "size": 1, "health": 272, "requirements": [{"item": "tisi", "amount": 18}, {"item": "medide", "amount": 12}, {"item": "pumy", "amount": 4}], "research": "tisi-factory", "powerProduction": 0.6415429226686954, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hatapo battery", "description": "...", "size": 3, "health": 87, "requirements": [{"item": "hatapo", "amount": 19}, {"item": "wequnium", "amount": 13}, {"item": "wumepi", "amount": 4}], "research": "hatapo-factory", "consumes": {"powerBuffered": 4477}, "category": "power"}

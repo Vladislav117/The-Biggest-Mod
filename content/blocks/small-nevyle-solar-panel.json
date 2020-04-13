@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nevyle solar panel", "description": "...", "size": 1, "health": 297, "requirements": [{"item": "nevyle", "amount": 20}, {"item": "vakyxinium", "amount": 7}, {"item": "puye", "amount": 3}], "research": "nevyle-factory", "powerProduction": 1.3397227462834584, "category": "power"}

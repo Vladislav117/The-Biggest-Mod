@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wuho bridge conveyor", "description": "", "health": 25, "range": 11, "speed": 4, "bufferCapacity": 24, "requirements": [{"item": "wuho", "amount": 3}, {"item": "syxidonium", "amount": 2}], "research": "wuho-conveyor", "category": "distribution", "size": 1}

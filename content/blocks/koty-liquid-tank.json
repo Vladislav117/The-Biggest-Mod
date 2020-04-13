@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "koty liquid tank", "description": "...", "health": 327, "size": 3, "requirements": [{"item": "koty", "amount": 4}, {"item": "myhuzi", "amount": 14}, {"item": "fuda", "amount": 10}], "research": "koty-conduit", "category": "liquid", "liquidCapacity": 12300, "hasLiquids": true}

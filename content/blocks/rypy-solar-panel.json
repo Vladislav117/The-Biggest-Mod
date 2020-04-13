@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rypy solar panel", "description": "...", "size": 3, "health": 204, "requirements": [{"item": "rypy", "amount": 9}, {"item": "fodyby", "amount": 11}, {"item": "bedi", "amount": 4}], "research": "rypy-factory", "powerProduction": 0.22972030682677083, "category": "power"}

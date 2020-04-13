@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wylanium liquid router", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "wylanium", "amount": 8}, {"item": "nawyli", "amount": 4}, {"item": "letipy", "amount": 6}], "research": "wylanium-conduit", "liquidCapacity": 10, "category": "liquid"}

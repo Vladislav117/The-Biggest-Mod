@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qexu liquid tank", "description": "...", "health": 130, "size": 3, "requirements": [{"item": "qexu", "amount": 10}, {"item": "rusiqy", "amount": 3}, {"item": "yuwu", "amount": 7}], "research": "qexu-conduit", "category": "liquid", "liquidCapacity": 119334, "hasLiquids": true}

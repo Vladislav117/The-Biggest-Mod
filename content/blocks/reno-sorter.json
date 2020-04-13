@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "reno sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "reno", "amount": 2}, {"item": "yitu", "amount": 5}], "research": "reno-conveyor", "category": "distribution", "invert": false}

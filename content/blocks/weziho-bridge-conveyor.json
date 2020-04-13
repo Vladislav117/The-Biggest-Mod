@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "weziho bridge conveyor", "description": "", "health": 48, "range": 11, "speed": 9, "bufferCapacity": 3, "requirements": [{"item": "weziho", "amount": 1}, {"item": "myjeke", "amount": 5}], "research": "weziho-conveyor", "category": "distribution", "size": 1}

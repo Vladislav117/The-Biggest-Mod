@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "papo solar panel", "description": "...", "size": 3, "health": 109, "requirements": [{"item": "papo", "amount": 15}, {"item": "bobu", "amount": 2}, {"item": "vema", "amount": 3}], "research": "papo-factory", "powerProduction": 3.352291025552994, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hezy liquid tank", "description": "...", "health": 374, "size": 3, "requirements": [{"item": "hezy", "amount": 17}, {"item": "qycu", "amount": 16}, {"item": "visuco", "amount": 8}], "research": "hezy-conduit", "category": "liquid", "liquidCapacity": 72419, "hasLiquids": true}

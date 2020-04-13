@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xaxe liquid tank", "description": "...", "health": 666, "size": 3, "requirements": [{"item": "xaxe", "amount": 2}, {"item": "wuvonium", "amount": 12}, {"item": "tefaco", "amount": 1}], "research": "xaxe-conduit", "category": "liquid", "liquidCapacity": 1569, "hasLiquids": true}

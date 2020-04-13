@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nypoky liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "nypoky", "amount": 16}, {"item": "lynulo", "amount": 1}, {"item": "tizusa", "amount": 10}], "research": "nypoky-conduit", "liquidCapacity": 10, "category": "liquid"}

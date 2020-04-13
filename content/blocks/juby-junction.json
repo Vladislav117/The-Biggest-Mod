@@ -1,0 +1,1 @@
+{"type": "junction", "name": "juby junction", "description": "...", "health": 21, "speed": 4, "capacity": 1, "size": 1, "requirements": [{"item": "juby", "amount": 4}, {"item": "buvinium", "amount": 5}], "research": "juby-conveyor", "category": "distribution"}

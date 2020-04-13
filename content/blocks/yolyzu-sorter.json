@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yolyzu sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "yolyzu", "amount": 1}, {"item": "rypy", "amount": 4}], "research": "yolyzu-conveyor", "category": "distribution", "invert": false}

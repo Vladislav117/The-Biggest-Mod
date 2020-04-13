@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "coto liquid router", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "coto", "amount": 19}, {"item": "luly", "amount": 20}, {"item": "bofe", "amount": 6}], "research": "coto-conduit", "liquidCapacity": 10, "category": "liquid"}

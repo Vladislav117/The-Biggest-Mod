@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qebu solar panel", "description": "...", "size": 1, "health": 374, "requirements": [{"item": "qebu", "amount": 8}, {"item": "gyporu", "amount": 18}, {"item": "docinium", "amount": 8}], "research": "qebu-factory", "powerProduction": 0.05841477701228597, "category": "power"}

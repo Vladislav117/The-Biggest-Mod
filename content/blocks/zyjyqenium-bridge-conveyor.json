@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zyjyqenium bridge conveyor", "description": "", "health": 36, "range": 11, "speed": 18, "bufferCapacity": 4, "requirements": [{"item": "zyjyqenium", "amount": 5}, {"item": "hosa", "amount": 1}], "research": "zyjyqenium-conveyor", "category": "distribution", "size": 1}

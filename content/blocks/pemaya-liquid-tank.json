@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pemaya liquid tank", "description": "...", "health": 589, "size": 3, "requirements": [{"item": "pemaya", "amount": 15}, {"item": "siqefo", "amount": 13}, {"item": "nayu", "amount": 1}], "research": "pemaya-conduit", "category": "liquid", "liquidCapacity": 49048, "hasLiquids": true}

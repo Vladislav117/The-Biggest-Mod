@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "linu liquid tank", "description": "...", "health": 316, "size": 3, "requirements": [{"item": "linu", "amount": 16}, {"item": "fexenium", "amount": 7}, {"item": "fyfoni", "amount": 8}], "research": "linu-conduit", "category": "liquid", "liquidCapacity": 83286, "hasLiquids": true}

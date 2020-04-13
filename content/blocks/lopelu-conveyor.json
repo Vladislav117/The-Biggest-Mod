@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "lopelu conveyor", "description": "...", "health": 99, "requirements": [{"item": "lopelu", "amount": 10}, {"item": "minu", "amount": 10}], "speed": 0.15715296879421226, "research": "lopelu-factory", "category": "distribution"}

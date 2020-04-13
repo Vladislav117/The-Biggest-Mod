@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kituhinium power node", "description": "...", "size": 2, "health": 147, "requirements": [{"item": "kituhinium", "amount": 20}, {"item": "jylovo", "amount": 5}, {"item": "nijuto", "amount": 3}], "research": "kituhinium-factory", "maxNodes": 25, "laserRange": 11, "category": "power"}

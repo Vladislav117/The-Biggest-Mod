@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "higy liquid router", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "higy", "amount": 12}, {"item": "mufosinium", "amount": 11}, {"item": "qimose", "amount": 9}], "research": "higy-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "qujuyi force projector", "description": "...", "health": 185, "size": 3, "consumes": {"power": 5.0, "item": "qujuyi"}, "requirements": [{"item": "qujuyi", "amount": 18}, {"item": "bayavo", "amount": 16}, {"item": "wupoxy", "amount": 9}], "research": "qujuyi-factory", "category": "effect"}

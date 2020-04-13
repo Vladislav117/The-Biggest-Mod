@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bide junction", "description": "...", "health": 50, "speed": 20, "capacity": 1, "size": 1, "requirements": [{"item": "bide", "amount": 5}, {"item": "kegiqi", "amount": 3}], "research": "bide-conveyor", "category": "distribution"}

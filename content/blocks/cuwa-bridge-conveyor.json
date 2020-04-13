@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cuwa bridge conveyor", "description": "", "health": 37, "range": 17, "speed": 11, "bufferCapacity": 8, "requirements": [{"item": "cuwa", "amount": 5}, {"item": "rytysynium", "amount": 3}], "research": "cuwa-conveyor", "category": "distribution", "size": 1}

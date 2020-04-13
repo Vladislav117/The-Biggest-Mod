@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cutodu power node", "description": "...", "size": 2, "health": 466, "requirements": [{"item": "cutodu", "amount": 8}, {"item": "focatu", "amount": 8}, {"item": "vihy", "amount": 1}], "research": "cutodu-factory", "maxNodes": 58, "laserRange": 26, "category": "power"}

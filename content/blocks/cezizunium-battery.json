@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cezizunium battery", "description": "...", "size": 3, "health": 124, "requirements": [{"item": "cezizunium", "amount": 1}, {"item": "weca", "amount": 17}, {"item": "hegyzi", "amount": 4}], "research": "cezizunium-factory", "consumes": {"powerBuffered": 3726}, "category": "power"}

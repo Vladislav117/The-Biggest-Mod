@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pinuzu solar panel", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "pinuzu", "amount": 13}, {"item": "fyjylu", "amount": 18}, {"item": "kecufi", "amount": 4}], "research": "pinuzu-factory", "powerProduction": 3.8664929882821055, "category": "power"}

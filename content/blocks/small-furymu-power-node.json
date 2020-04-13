@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small furymu power node", "description": "...", "size": 1, "health": 381, "requirements": [{"item": "furymu", "amount": 16}, {"item": "saleru", "amount": 9}, {"item": "fezadunium", "amount": 7}], "research": "furymu-factory", "maxNodes": 8, "laserRange": 16, "category": "power"}

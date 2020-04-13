@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "raqy overflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "raqy", "amount": 3}, {"item": "nyquto", "amount": 5}], "research": "raqy-conveyor", "category": "distribution", "invert": false}

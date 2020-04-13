@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wyrali power node", "description": "...", "size": 2, "health": 626, "requirements": [{"item": "wyrali", "amount": 5}, {"item": "gahunium", "amount": 19}, {"item": "fusi", "amount": 3}], "research": "wyrali-factory", "maxNodes": 36, "laserRange": 11, "category": "power"}

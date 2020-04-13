@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nuniyi power node", "description": "...", "size": 2, "health": 791, "requirements": [{"item": "nuniyi", "amount": 14}, {"item": "yuxonium", "amount": 19}, {"item": "labila", "amount": 8}], "research": "nuniyi-factory", "maxNodes": 22, "laserRange": 15, "category": "power"}

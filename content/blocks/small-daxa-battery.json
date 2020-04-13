@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small daxa battery", "description": "...", "size": 1, "health": 308, "requirements": [{"item": "daxa", "amount": 19}, {"item": "syhisonium", "amount": 18}, {"item": "pyrynium", "amount": 6}], "research": "daxa-factory", "consumes": {"powerBuffered": 2742}, "category": "power"}

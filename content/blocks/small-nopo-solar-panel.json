@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nopo solar panel", "description": "...", "size": 1, "health": 141, "requirements": [{"item": "nopo", "amount": 9}, {"item": "sywuze", "amount": 7}, {"item": "qojinium", "amount": 5}], "research": "nopo-factory", "powerProduction": 8.369472659456516, "category": "power"}

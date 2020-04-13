@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pijito battery", "description": "...", "size": 1, "health": 270, "requirements": [{"item": "pijito", "amount": 18}, {"item": "ruke", "amount": 10}, {"item": "kixihinium", "amount": 10}], "research": "pijito-factory", "consumes": {"powerBuffered": 2240}, "category": "power"}

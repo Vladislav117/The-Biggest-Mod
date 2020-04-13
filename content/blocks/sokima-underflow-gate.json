@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sokima underflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "sokima", "amount": 3}, {"item": "hetyjo", "amount": 4}], "research": "sokima-conveyor", "category": "distribution", "invert": false}

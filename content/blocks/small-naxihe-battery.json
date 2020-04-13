@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small naxihe battery", "description": "...", "size": 1, "health": 110, "requirements": [{"item": "naxihe", "amount": 8}, {"item": "qeyanium", "amount": 12}, {"item": "xuricy", "amount": 2}], "research": "naxihe-factory", "consumes": {"powerBuffered": 1201}, "category": "power"}

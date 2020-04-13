@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lupapu power node", "description": "...", "size": 2, "health": 45, "requirements": [{"item": "lupapu", "amount": 11}, {"item": "mijynium", "amount": 16}, {"item": "fete", "amount": 3}], "research": "lupapu-factory", "maxNodes": 29, "laserRange": 13, "category": "power"}

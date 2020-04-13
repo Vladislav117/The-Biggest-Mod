@@ -1,0 +1,1 @@
+{"type": "router", "name": "lido router", "description": "...", "health": 115, "size": 1, "requirements": [{"item": "lido", "amount": 10}], "research": "lido-conveyor", "category": "distribution"}

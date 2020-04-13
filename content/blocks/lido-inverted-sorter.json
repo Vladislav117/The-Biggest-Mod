@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lido inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "lido", "amount": 2}, {"item": "havano", "amount": 1}], "research": "lido-conveyor", "category": "distribution", "invert": true}

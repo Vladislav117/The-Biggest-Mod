@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kumapo battery", "description": "...", "size": 3, "health": 139, "requirements": [{"item": "kumapo", "amount": 3}, {"item": "leriki", "amount": 6}, {"item": "niki", "amount": 4}], "research": "kumapo-factory", "consumes": {"powerBuffered": 2916}, "category": "power"}

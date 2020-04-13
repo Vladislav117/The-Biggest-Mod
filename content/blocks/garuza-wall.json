@@ -1,0 +1,1 @@
+{"type": "Wall", "name": "garuza wall", "description": "...", "health": 250, "size": 2, "requirements": [{"item": "garuza", "amount": 20}], "research": "garuza-factory", "category": "defense"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kigi junction", "description": "...", "health": 4, "speed": 19, "capacity": 17, "size": 1, "requirements": [{"item": "kigi", "amount": 5}, {"item": "hiki", "amount": 4}], "research": "kigi-conveyor", "category": "distribution"}

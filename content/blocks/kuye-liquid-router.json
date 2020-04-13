@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kuye liquid router", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "kuye", "amount": 5}, {"item": "kivuzi", "amount": 17}, {"item": "bysotunium", "amount": 7}], "research": "kuye-conduit", "liquidCapacity": 10, "category": "liquid"}

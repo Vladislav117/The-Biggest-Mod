@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wywelu liquid tank", "description": "...", "health": 276, "size": 3, "requirements": [{"item": "wywelu", "amount": 7}, {"item": "hyvyje", "amount": 5}, {"item": "wobuyu", "amount": 10}], "research": "wywelu-conduit", "category": "liquid", "liquidCapacity": 102761, "hasLiquids": true}

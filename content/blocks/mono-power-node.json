@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mono power node", "description": "...", "size": 2, "health": 105, "requirements": [{"item": "mono", "amount": 7}, {"item": "leju", "amount": 2}, {"item": "ruwysu", "amount": 2}], "research": "mono-factory", "maxNodes": 54, "laserRange": 28, "category": "power"}

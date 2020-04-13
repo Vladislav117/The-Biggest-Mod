@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xiyy power node", "description": "...", "size": 2, "health": 493, "requirements": [{"item": "xiyy", "amount": 5}, {"item": "qosedi", "amount": 20}, {"item": "dipy", "amount": 9}], "research": "xiyy-factory", "maxNodes": 54, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cesunium battery", "description": "...", "size": 1, "health": 389, "requirements": [{"item": "cesunium", "amount": 2}, {"item": "guhile", "amount": 11}, {"item": "mupa", "amount": 10}], "research": "cesunium-factory", "consumes": {"powerBuffered": 719}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "labila liquid router", "description": "...", "size": 1, "health": 63, "requirements": [{"item": "labila", "amount": 16}, {"item": "dagepanium", "amount": 3}, {"item": "mumu", "amount": 2}], "research": "labila-conduit", "liquidCapacity": 10, "category": "liquid"}

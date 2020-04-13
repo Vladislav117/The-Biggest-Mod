@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lipo battery", "description": "...", "size": 3, "health": 317, "requirements": [{"item": "lipo", "amount": 2}, {"item": "zuzequ", "amount": 14}, {"item": "rukycu", "amount": 7}], "research": "lipo-factory", "consumes": {"powerBuffered": 6559}, "category": "power"}

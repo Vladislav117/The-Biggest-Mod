@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vaxide power node", "description": "...", "size": 2, "health": 747, "requirements": [{"item": "vaxide", "amount": 8}, {"item": "dezu", "amount": 11}, {"item": "humynium", "amount": 1}], "research": "vaxide-factory", "maxNodes": 45, "laserRange": 21, "category": "power"}

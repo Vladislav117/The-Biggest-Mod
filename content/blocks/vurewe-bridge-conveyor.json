@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vurewe bridge conveyor", "description": "", "health": 22, "range": 18, "speed": 14, "bufferCapacity": 17, "requirements": [{"item": "vurewe", "amount": 1}, {"item": "jatyjenium", "amount": 3}], "research": "vurewe-conveyor", "category": "distribution", "size": 1}

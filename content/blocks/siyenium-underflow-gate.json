@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "siyenium underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "siyenium", "amount": 2}, {"item": "sarijynium", "amount": 5}], "research": "siyenium-conveyor", "category": "distribution", "invert": false}

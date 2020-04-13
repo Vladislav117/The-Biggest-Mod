@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vetigu inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "vetigu", "amount": 3}, {"item": "tygunium", "amount": 1}], "research": "vetigu-conveyor", "category": "distribution", "invert": true}

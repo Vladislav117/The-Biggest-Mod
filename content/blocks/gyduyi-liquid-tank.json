@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gyduyi liquid tank", "description": "...", "health": 419, "size": 3, "requirements": [{"item": "gyduyi", "amount": 16}, {"item": "locycanium", "amount": 20}, {"item": "qylino", "amount": 6}], "research": "gyduyi-conduit", "category": "liquid", "liquidCapacity": 92846, "hasLiquids": true}

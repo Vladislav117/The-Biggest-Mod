@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jerenium battery", "description": "...", "size": 3, "health": 201, "requirements": [{"item": "jerenium", "amount": 1}, {"item": "yila", "amount": 6}, {"item": "wabaru", "amount": 6}], "research": "jerenium-factory", "consumes": {"powerBuffered": 7571}, "category": "power"}

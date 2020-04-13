@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "qoza force projector", "description": "...", "health": 235, "size": 3, "consumes": {"power": 5.0, "item": "qoza"}, "requirements": [{"item": "qoza", "amount": 7}, {"item": "qewo", "amount": 20}, {"item": "gypunium", "amount": 5}], "research": "qoza-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hypotinium solar panel", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "hypotinium", "amount": 20}, {"item": "cyheki", "amount": 16}, {"item": "johu", "amount": 4}], "research": "hypotinium-factory", "powerProduction": 1.5993890371197093, "category": "power"}

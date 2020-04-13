@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bymyye solar panel", "description": "...", "size": 1, "health": 365, "requirements": [{"item": "bymyye", "amount": 20}, {"item": "vodico", "amount": 19}, {"item": "fodyby", "amount": 2}], "research": "bymyye-factory", "powerProduction": 9.527338064165564, "category": "power"}

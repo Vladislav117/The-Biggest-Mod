@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vana battery", "description": "...", "size": 3, "health": 161, "requirements": [{"item": "vana", "amount": 16}, {"item": "xiqe", "amount": 5}, {"item": "wabaru", "amount": 10}], "research": "vana-factory", "consumes": {"powerBuffered": 6372}, "category": "power"}

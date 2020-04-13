@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "qicu force projector", "description": "...", "health": 165, "size": 3, "consumes": {"power": 5.0, "item": "qicu"}, "requirements": [{"item": "qicu", "amount": 7}, {"item": "garoqanium", "amount": 5}, {"item": "pify", "amount": 4}], "research": "qicu-factory", "category": "effect"}

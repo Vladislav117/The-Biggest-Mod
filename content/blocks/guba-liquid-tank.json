@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "guba liquid tank", "description": "...", "health": 285, "size": 3, "requirements": [{"item": "guba", "amount": 16}, {"item": "gyyy", "amount": 4}, {"item": "vyyuhu", "amount": 6}], "research": "guba-conduit", "category": "liquid", "liquidCapacity": 19133, "hasLiquids": true}

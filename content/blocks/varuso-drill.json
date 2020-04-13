@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "varuso drill", "description": "...", "size": 2, "health": 272, "tier": 3, "drillTime": 20, "consumes": {"power": 7}, "requirements": [{"item": "varuso", "amount": 13}, {"item": "wywonium", "amount": 10}, {"item": "bixiga", "amount": 3}], "research": "varuso-factory", "category": "production"}

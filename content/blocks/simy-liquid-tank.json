@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "simy liquid tank", "description": "...", "health": 216, "size": 3, "requirements": [{"item": "simy", "amount": 14}, {"item": "yyko", "amount": 16}, {"item": "hyte", "amount": 2}], "research": "simy-conduit", "category": "liquid", "liquidCapacity": 3979, "hasLiquids": true}

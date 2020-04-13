@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sylyxy battery", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "sylyxy", "amount": 14}, {"item": "furazinium", "amount": 5}, {"item": "pele", "amount": 9}], "research": "sylyxy-factory", "consumes": {"powerBuffered": 5059}, "category": "power"}

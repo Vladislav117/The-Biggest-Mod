@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "veco power node", "description": "...", "size": 2, "health": 691, "requirements": [{"item": "veco", "amount": 8}, {"item": "wadoka", "amount": 4}, {"item": "puli", "amount": 3}], "research": "veco-factory", "maxNodes": 38, "laserRange": 8, "category": "power"}

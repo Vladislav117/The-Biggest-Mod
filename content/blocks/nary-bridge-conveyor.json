@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nary bridge conveyor", "description": "", "health": 9, "range": 5, "speed": 5, "bufferCapacity": 7, "requirements": [{"item": "nary", "amount": 4}, {"item": "hufi", "amount": 3}], "research": "nary-conveyor", "category": "distribution", "size": 1}

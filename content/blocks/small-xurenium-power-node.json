@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xurenium power node", "description": "...", "size": 1, "health": 365, "requirements": [{"item": "xurenium", "amount": 3}, {"item": "toni", "amount": 3}, {"item": "vywene", "amount": 1}], "research": "xurenium-factory", "maxNodes": 16, "laserRange": 4, "category": "power"}

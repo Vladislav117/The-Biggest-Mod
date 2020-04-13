@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zofeya solar panel", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "zofeya", "amount": 5}, {"item": "gywu", "amount": 16}, {"item": "bilynium", "amount": 10}], "research": "zofeya-factory", "powerProduction": 8.129207592452309, "category": "power"}

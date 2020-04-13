@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hypotinium overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "hypotinium", "amount": 1}, {"item": "maqa", "amount": 1}], "research": "hypotinium-conveyor", "category": "distribution", "invert": false}

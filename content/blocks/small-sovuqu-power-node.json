@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sovuqu power node", "description": "...", "size": 1, "health": 253, "requirements": [{"item": "sovuqu", "amount": 17}, {"item": "muvy", "amount": 10}, {"item": "dyxuhu", "amount": 6}], "research": "sovuqu-factory", "maxNodes": 30, "laserRange": 13, "category": "power"}

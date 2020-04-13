@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sygami power node", "description": "...", "size": 2, "health": 364, "requirements": [{"item": "sygami", "amount": 14}, {"item": "bymyye", "amount": 11}, {"item": "rotonium", "amount": 1}], "research": "sygami-factory", "maxNodes": 54, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qehynium battery", "description": "...", "size": 3, "health": 358, "requirements": [{"item": "qehynium", "amount": 17}, {"item": "zahaqa", "amount": 13}, {"item": "wavoli", "amount": 5}], "research": "qehynium-factory", "consumes": {"powerBuffered": 6692}, "category": "power"}

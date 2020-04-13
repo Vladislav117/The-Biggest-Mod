@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nezajynium battery", "description": "...", "size": 3, "health": 318, "requirements": [{"item": "nezajynium", "amount": 15}, {"item": "huxe", "amount": 18}, {"item": "vykynium", "amount": 1}], "research": "nezajynium-factory", "consumes": {"powerBuffered": 3658}, "category": "power"}

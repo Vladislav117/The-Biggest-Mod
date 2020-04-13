@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zufi battery", "description": "...", "size": 1, "health": 356, "requirements": [{"item": "zufi", "amount": 14}, {"item": "viwymynium", "amount": 16}, {"item": "milosi", "amount": 8}], "research": "zufi-factory", "consumes": {"powerBuffered": 1905}, "category": "power"}

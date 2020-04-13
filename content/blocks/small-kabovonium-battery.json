@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kabovonium battery", "description": "...", "size": 1, "health": 18, "requirements": [{"item": "kabovonium", "amount": 5}, {"item": "bisifu", "amount": 6}, {"item": "hexa", "amount": 4}], "research": "kabovonium-factory", "consumes": {"powerBuffered": 2716}, "category": "power"}

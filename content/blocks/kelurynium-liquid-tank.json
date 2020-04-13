@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kelurynium liquid tank", "description": "...", "health": 268, "size": 3, "requirements": [{"item": "kelurynium", "amount": 4}, {"item": "syxidonium", "amount": 8}, {"item": "lyheti", "amount": 5}], "research": "kelurynium-conduit", "category": "liquid", "liquidCapacity": 100963, "hasLiquids": true}

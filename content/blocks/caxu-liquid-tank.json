@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "caxu liquid tank", "description": "...", "health": 219, "size": 3, "requirements": [{"item": "caxu", "amount": 16}, {"item": "wepo", "amount": 10}, {"item": "lyceca", "amount": 7}], "research": "caxu-conduit", "category": "liquid", "liquidCapacity": 1590, "hasLiquids": true}

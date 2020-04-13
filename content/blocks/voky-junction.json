@@ -1,0 +1,1 @@
+{"type": "junction", "name": "voky junction", "description": "...", "health": 24, "speed": 13, "capacity": 2, "size": 1, "requirements": [{"item": "voky", "amount": 2}, {"item": "kyma", "amount": 3}], "research": "voky-conveyor", "category": "distribution"}

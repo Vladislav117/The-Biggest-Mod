@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pebi solar panel", "description": "...", "size": 3, "health": 171, "requirements": [{"item": "pebi", "amount": 10}, {"item": "suminium", "amount": 8}, {"item": "kiyavu", "amount": 6}], "research": "pebi-factory", "powerProduction": 3.5112559466617124, "category": "power"}

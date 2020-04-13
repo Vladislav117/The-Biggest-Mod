@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bybity power node", "description": "...", "size": 2, "health": 578, "requirements": [{"item": "bybity", "amount": 4}, {"item": "bybity", "amount": 6}, {"item": "tezila", "amount": 7}], "research": "bybity-factory", "maxNodes": 49, "laserRange": 26, "category": "power"}

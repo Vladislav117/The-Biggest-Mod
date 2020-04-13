@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tizusa drill", "description": "...", "size": 2, "health": 114, "tier": 3, "drillTime": 2, "consumes": {"power": 16}, "requirements": [{"item": "tizusa", "amount": 4}, {"item": "nuxy", "amount": 5}, {"item": "dezy", "amount": 4}], "research": "tizusa-factory", "category": "production"}

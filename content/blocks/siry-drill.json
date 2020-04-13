@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "siry drill", "description": "...", "size": 2, "health": 412, "tier": 1, "drillTime": 8, "consumes": {"power": 3}, "requirements": [{"item": "siry", "amount": 7}, {"item": "cyru", "amount": 3}, {"item": "degesy", "amount": 6}], "research": "siry-factory", "category": "production"}

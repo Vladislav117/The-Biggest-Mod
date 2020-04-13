@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "filu overdrive projector", "description": "...", "health": 61, "consumes": {"power": 3.0, "item": "filu"}, "size": 2, "requirements": [{"item": "filu", "amount": 15}, {"item": "mivuwa", "amount": 11}, {"item": "beronium", "amount": 5}], "research": "filu-factory", "category": "effect"}

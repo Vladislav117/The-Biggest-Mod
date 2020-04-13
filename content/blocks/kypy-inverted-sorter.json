@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kypy inverted sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "kypy", "amount": 1}, {"item": "viwafy", "amount": 5}], "research": "kypy-conveyor", "category": "distribution", "invert": true}

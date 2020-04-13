@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "keva power node", "description": "...", "size": 2, "health": 498, "requirements": [{"item": "keva", "amount": 8}, {"item": "pymu", "amount": 7}, {"item": "donysenium", "amount": 1}], "research": "keva-factory", "maxNodes": 35, "laserRange": 25, "category": "power"}

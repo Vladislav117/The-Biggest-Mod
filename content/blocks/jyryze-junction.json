@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jyryze junction", "description": "...", "health": 14, "speed": 12, "capacity": 10, "size": 1, "requirements": [{"item": "jyryze", "amount": 5}, {"item": "syteja", "amount": 4}], "research": "jyryze-conveyor", "category": "distribution"}

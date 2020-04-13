@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small naho battery", "description": "...", "size": 1, "health": 35, "requirements": [{"item": "naho", "amount": 15}, {"item": "widydo", "amount": 14}, {"item": "kyma", "amount": 4}], "research": "naho-factory", "consumes": {"powerBuffered": 1140}, "category": "power"}

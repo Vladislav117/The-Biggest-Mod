@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qadezu overflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "qadezu", "amount": 4}, {"item": "fikexonium", "amount": 5}], "research": "qadezu-conveyor", "category": "distribution", "invert": false}

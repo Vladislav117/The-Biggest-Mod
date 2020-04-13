@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "noni liquid tank", "description": "...", "health": 447, "size": 3, "requirements": [{"item": "noni", "amount": 1}, {"item": "qixu", "amount": 19}, {"item": "puziqo", "amount": 6}], "research": "noni-conduit", "category": "liquid", "liquidCapacity": 119370, "hasLiquids": true}

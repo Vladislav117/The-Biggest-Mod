@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hiba battery", "description": "...", "size": 1, "health": 198, "requirements": [{"item": "hiba", "amount": 12}, {"item": "siwobanium", "amount": 4}, {"item": "jafa", "amount": 4}], "research": "hiba-factory", "consumes": {"powerBuffered": 2151}, "category": "power"}

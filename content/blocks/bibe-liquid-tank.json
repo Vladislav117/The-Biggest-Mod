@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bibe liquid tank", "description": "...", "health": 314, "size": 3, "requirements": [{"item": "bibe", "amount": 6}, {"item": "ledome", "amount": 6}, {"item": "yywa", "amount": 4}], "research": "bibe-conduit", "category": "liquid", "liquidCapacity": 18313, "hasLiquids": true}

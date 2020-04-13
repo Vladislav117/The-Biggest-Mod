@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "goli underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "goli", "amount": 1}, {"item": "jazu", "amount": 3}], "research": "goli-conveyor", "category": "distribution", "invert": false}

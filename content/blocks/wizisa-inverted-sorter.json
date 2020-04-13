@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wizisa inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "wizisa", "amount": 3}, {"item": "howu", "amount": 2}], "research": "wizisa-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small neby power node", "description": "...", "size": 1, "health": 208, "requirements": [{"item": "neby", "amount": 9}, {"item": "lahowe", "amount": 10}, {"item": "wavoli", "amount": 8}], "research": "neby-factory", "maxNodes": 12, "laserRange": 4, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lafetu junction", "description": "...", "health": 44, "speed": 16, "capacity": 18, "size": 1, "requirements": [{"item": "lafetu", "amount": 3}, {"item": "kycuzo", "amount": 4}], "research": "lafetu-conveyor", "category": "distribution"}

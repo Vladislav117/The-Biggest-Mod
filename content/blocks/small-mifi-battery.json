@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mifi battery", "description": "...", "size": 1, "health": 289, "requirements": [{"item": "mifi", "amount": 1}, {"item": "sokezy", "amount": 13}, {"item": "vesy", "amount": 2}], "research": "mifi-factory", "consumes": {"powerBuffered": 2810}, "category": "power"}

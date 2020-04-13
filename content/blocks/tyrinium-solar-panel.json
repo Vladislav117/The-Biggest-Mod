@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tyrinium solar panel", "description": "...", "size": 3, "health": 203, "requirements": [{"item": "tyrinium", "amount": 7}, {"item": "susi", "amount": 8}, {"item": "ruwysu", "amount": 7}], "research": "tyrinium-factory", "powerProduction": 0.19704140565947095, "category": "power"}

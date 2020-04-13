@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yolyzu power node", "description": "...", "size": 2, "health": 130, "requirements": [{"item": "yolyzu", "amount": 10}, {"item": "buhoci", "amount": 9}, {"item": "dikygonium", "amount": 7}], "research": "yolyzu-factory", "maxNodes": 29, "laserRange": 28, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fahupi liquid tank", "description": "...", "health": 237, "size": 3, "requirements": [{"item": "fahupi", "amount": 5}, {"item": "jehonium", "amount": 11}, {"item": "hyqo", "amount": 4}], "research": "fahupi-conduit", "category": "liquid", "liquidCapacity": 78825, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "mijynium overdrive projector", "description": "...", "health": 95, "consumes": {"power": 3.0, "item": "mijynium"}, "size": 2, "requirements": [{"item": "mijynium", "amount": 4}, {"item": "beyo", "amount": 12}, {"item": "ryte", "amount": 8}], "research": "mijynium-factory", "category": "effect"}

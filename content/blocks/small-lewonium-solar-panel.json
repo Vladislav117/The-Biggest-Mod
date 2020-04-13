@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lewonium solar panel", "description": "...", "size": 1, "health": 384, "requirements": [{"item": "lewonium", "amount": 4}, {"item": "wore", "amount": 20}, {"item": "vosixe", "amount": 7}], "research": "lewonium-factory", "powerProduction": 2.5528025292351515, "category": "power"}

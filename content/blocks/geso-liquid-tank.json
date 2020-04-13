@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "geso liquid tank", "description": "...", "health": 447, "size": 3, "requirements": [{"item": "geso", "amount": 11}, {"item": "zowi", "amount": 3}, {"item": "bymyye", "amount": 3}], "research": "geso-conduit", "category": "liquid", "liquidCapacity": 77682, "hasLiquids": true}

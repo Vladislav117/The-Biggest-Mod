@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hytuki liquid router", "description": "...", "size": 1, "health": 52, "requirements": [{"item": "hytuki", "amount": 7}, {"item": "myfo", "amount": 9}, {"item": "waxonium", "amount": 6}], "research": "hytuki-conduit", "liquidCapacity": 10, "category": "liquid"}

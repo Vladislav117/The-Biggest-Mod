@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jenenium drill", "description": "...", "size": 4, "health": 309, "tier": 2, "drillTime": 18, "consumes": {"power": 20}, "requirements": [{"item": "jenenium", "amount": 12}, {"item": "dyfi", "amount": 1}, {"item": "wozyju", "amount": 7}], "research": "jenenium-factory", "category": "production"}

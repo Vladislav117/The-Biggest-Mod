@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zijedu solar panel", "description": "...", "size": 1, "health": 393, "requirements": [{"item": "zijedu", "amount": 2}, {"item": "vyqosi", "amount": 16}, {"item": "mityya", "amount": 7}], "research": "zijedu-factory", "powerProduction": 2.2700597061175145, "category": "power"}

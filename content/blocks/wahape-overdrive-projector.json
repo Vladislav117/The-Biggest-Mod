@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "wahape overdrive projector", "description": "...", "health": 60, "consumes": {"power": 3.0, "item": "wahape"}, "size": 2, "requirements": [{"item": "wahape", "amount": 8}, {"item": "haxi", "amount": 3}, {"item": "tydy", "amount": 9}], "research": "wahape-factory", "category": "effect"}

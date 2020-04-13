@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "luny sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "luny", "amount": 3}, {"item": "qiri", "amount": 2}], "research": "luny-conveyor", "category": "distribution", "invert": false}

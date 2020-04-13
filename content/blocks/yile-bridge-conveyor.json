@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yile bridge conveyor", "description": "", "health": 36, "range": 10, "speed": 10, "bufferCapacity": 16, "requirements": [{"item": "yile", "amount": 2}, {"item": "loqy", "amount": 4}], "research": "yile-conveyor", "category": "distribution", "size": 1}

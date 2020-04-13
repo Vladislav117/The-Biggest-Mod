@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "homu overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "homu", "amount": 4}, {"item": "yedyte", "amount": 4}], "research": "homu-conveyor", "category": "distribution", "invert": false}

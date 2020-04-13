@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small daci solar panel", "description": "...", "size": 1, "health": 394, "requirements": [{"item": "daci", "amount": 19}, {"item": "peze", "amount": 2}, {"item": "xymaxu", "amount": 10}], "research": "daci-factory", "powerProduction": 4.1048616139268805, "category": "power"}

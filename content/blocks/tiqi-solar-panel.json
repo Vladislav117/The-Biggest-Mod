@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tiqi solar panel", "description": "...", "size": 3, "health": 340, "requirements": [{"item": "tiqi", "amount": 10}, {"item": "wohy", "amount": 16}, {"item": "zaginium", "amount": 5}], "research": "tiqi-factory", "powerProduction": 1.4202236631941085, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pusu solar panel", "description": "...", "size": 1, "health": 342, "requirements": [{"item": "pusu", "amount": 7}, {"item": "guniwa", "amount": 1}, {"item": "dyqasy", "amount": 9}], "research": "pusu-factory", "powerProduction": 11.886435169991943, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lisaca solar panel", "description": "...", "size": 3, "health": 140, "requirements": [{"item": "lisaca", "amount": 7}, {"item": "kubi", "amount": 18}, {"item": "kubi", "amount": 1}], "research": "lisaca-factory", "powerProduction": 0.24824299525357776, "category": "power"}

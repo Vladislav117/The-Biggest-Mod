@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bexo battery", "description": "...", "size": 1, "health": 373, "requirements": [{"item": "bexo", "amount": 13}, {"item": "tebebe", "amount": 7}, {"item": "loqa", "amount": 6}], "research": "bexo-factory", "consumes": {"powerBuffered": 2107}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bywobu overflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "bywobu", "amount": 1}, {"item": "kica", "amount": 2}], "research": "bywobu-conveyor", "category": "distribution", "invert": false}

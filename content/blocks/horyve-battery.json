@@ -1,0 +1,1 @@
+{"type": "battery", "name": "horyve battery", "description": "...", "size": 3, "health": 149, "requirements": [{"item": "horyve", "amount": 12}, {"item": "kyna", "amount": 16}, {"item": "rukonium", "amount": 8}], "research": "horyve-factory", "consumes": {"powerBuffered": 1560}, "category": "power"}

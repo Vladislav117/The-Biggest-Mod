@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gufanium liquid router", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "gufanium", "amount": 15}, {"item": "sekycynium", "amount": 13}, {"item": "hexu", "amount": 8}], "research": "gufanium-conduit", "liquidCapacity": 10, "category": "liquid"}

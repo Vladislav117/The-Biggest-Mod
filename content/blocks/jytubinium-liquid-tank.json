@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jytubinium liquid tank", "description": "...", "health": 400, "size": 3, "requirements": [{"item": "jytubinium", "amount": 8}, {"item": "joky", "amount": 7}, {"item": "ceciba", "amount": 10}], "research": "jytubinium-conduit", "category": "liquid", "liquidCapacity": 57681, "hasLiquids": true}

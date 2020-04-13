@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zobopanium overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "zobopanium", "amount": 3}, {"item": "dakiqu", "amount": 1}], "research": "zobopanium-conveyor", "category": "distribution", "invert": false}

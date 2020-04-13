@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small curosa solar panel", "description": "...", "size": 1, "health": 385, "requirements": [{"item": "curosa", "amount": 19}, {"item": "tenozo", "amount": 8}, {"item": "wylanium", "amount": 7}], "research": "curosa-factory", "powerProduction": 3.721981403851796, "category": "power"}

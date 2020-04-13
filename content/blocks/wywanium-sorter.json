@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wywanium sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "wywanium", "amount": 5}, {"item": "zaqenium", "amount": 3}], "research": "wywanium-conveyor", "category": "distribution", "invert": false}

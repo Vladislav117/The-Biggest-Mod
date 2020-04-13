@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gado solar panel", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "gado", "amount": 8}, {"item": "coqinium", "amount": 15}, {"item": "cyqanium", "amount": 2}], "research": "gado-factory", "powerProduction": 2.471567847220826, "category": "power"}

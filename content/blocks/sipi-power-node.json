@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sipi power node", "description": "...", "size": 2, "health": 739, "requirements": [{"item": "sipi", "amount": 15}, {"item": "fulyzynium", "amount": 7}, {"item": "qysacy", "amount": 7}], "research": "sipi-factory", "maxNodes": 41, "laserRange": 22, "category": "power"}

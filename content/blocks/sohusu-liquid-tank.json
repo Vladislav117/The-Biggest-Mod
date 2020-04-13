@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sohusu liquid tank", "description": "...", "health": 449, "size": 3, "requirements": [{"item": "sohusu", "amount": 10}, {"item": "jetu", "amount": 8}, {"item": "fifyru", "amount": 5}], "research": "sohusu-conduit", "category": "liquid", "liquidCapacity": 28616, "hasLiquids": true}

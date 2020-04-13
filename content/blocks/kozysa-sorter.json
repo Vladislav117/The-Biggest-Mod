@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kozysa sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "kozysa", "amount": 5}, {"item": "bylo", "amount": 1}], "research": "kozysa-conveyor", "category": "distribution", "invert": false}

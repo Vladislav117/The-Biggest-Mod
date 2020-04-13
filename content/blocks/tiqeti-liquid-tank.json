@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tiqeti liquid tank", "description": "...", "health": 453, "size": 3, "requirements": [{"item": "tiqeti", "amount": 18}, {"item": "cupedi", "amount": 12}, {"item": "woyu", "amount": 2}], "research": "tiqeti-conduit", "category": "liquid", "liquidCapacity": 44866, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tiyajo overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "tiyajo", "amount": 5}, {"item": "ziti", "amount": 4}], "research": "tiyajo-conveyor", "category": "distribution", "invert": false}

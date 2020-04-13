@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gylace battery", "description": "...", "size": 3, "health": 77, "requirements": [{"item": "gylace", "amount": 16}, {"item": "sepo", "amount": 19}, {"item": "gumyra", "amount": 4}], "research": "gylace-factory", "consumes": {"powerBuffered": 2574}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lybutinium solar panel", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "lybutinium", "amount": 20}, {"item": "loqy", "amount": 11}, {"item": "zucy", "amount": 9}], "research": "lybutinium-factory", "powerProduction": 0.5159265798475152, "category": "power"}

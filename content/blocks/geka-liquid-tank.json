@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "geka liquid tank", "description": "...", "health": 418, "size": 3, "requirements": [{"item": "geka", "amount": 14}, {"item": "risusy", "amount": 2}, {"item": "nawyli", "amount": 6}], "research": "geka-conduit", "category": "liquid", "liquidCapacity": 55859, "hasLiquids": true}

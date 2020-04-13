@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wesyko drill", "description": "...", "size": 2, "health": 254, "tier": 4, "drillTime": 18, "consumes": {"power": 15}, "requirements": [{"item": "wesyko", "amount": 19}, {"item": "tynipu", "amount": 6}, {"item": "vego", "amount": 6}], "research": "wesyko-factory", "category": "production"}

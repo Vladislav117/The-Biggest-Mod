@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tefaco solar panel", "description": "...", "size": 3, "health": 367, "requirements": [{"item": "tefaco", "amount": 18}, {"item": "kyco", "amount": 18}, {"item": "rutylo", "amount": 4}], "research": "tefaco-factory", "powerProduction": 2.262371167670323, "category": "power"}

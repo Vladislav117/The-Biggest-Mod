@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cifewy battery", "description": "...", "size": 3, "health": 301, "requirements": [{"item": "cifewy", "amount": 6}, {"item": "yovasi", "amount": 13}, {"item": "kudohi", "amount": 9}], "research": "cifewy-factory", "consumes": {"powerBuffered": 4455}, "category": "power"}

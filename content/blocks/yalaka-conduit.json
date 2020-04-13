@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yalaka conduit", "description": "...", "health": 200, "requirements": [{"item": "yalaka", "amount": 15}, {"item": "metaglass", "amount": 4}, {"item": "kubi", "amount": 9}], "liquidCapacity": 5, "liquidPressure": 1, "research": "yalaka-factory", "category": "liquid"}

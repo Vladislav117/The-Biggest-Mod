@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tufo inverted sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "tufo", "amount": 5}, {"item": "colu", "amount": 2}], "research": "tufo-conveyor", "category": "distribution", "invert": true}

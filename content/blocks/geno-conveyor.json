@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "geno conveyor", "description": "...", "health": 80, "requirements": [{"item": "geno", "amount": 8}, {"item": "jihanium", "amount": 8}], "speed": 0.45507205841209525, "research": "geno-factory", "category": "distribution"}

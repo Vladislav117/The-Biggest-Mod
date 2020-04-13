@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "byfyge drill", "description": "...", "size": 4, "health": 288, "tier": 3, "drillTime": 1, "consumes": {"power": 20}, "requirements": [{"item": "byfyge", "amount": 13}, {"item": "bawy", "amount": 7}, {"item": "jyma", "amount": 2}], "research": "byfyge-factory", "category": "production"}

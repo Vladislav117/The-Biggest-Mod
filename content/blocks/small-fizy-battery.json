@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fizy battery", "description": "...", "size": 1, "health": 149, "requirements": [{"item": "fizy", "amount": 7}, {"item": "beyo", "amount": 18}, {"item": "cokigo", "amount": 5}], "research": "fizy-factory", "consumes": {"powerBuffered": 1654}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "geqa solar panel", "description": "...", "size": 3, "health": 157, "requirements": [{"item": "geqa", "amount": 2}, {"item": "hufi", "amount": 14}, {"item": "lyxele", "amount": 4}], "research": "geqa-factory", "powerProduction": 0.00810626726820321, "category": "power"}

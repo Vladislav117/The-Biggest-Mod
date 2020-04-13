@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tijixi battery", "description": "...", "size": 1, "health": 138, "requirements": [{"item": "tijixi", "amount": 4}, {"item": "nota", "amount": 9}, {"item": "fexaja", "amount": 6}], "research": "tijixi-factory", "consumes": {"powerBuffered": 2196}, "category": "power"}

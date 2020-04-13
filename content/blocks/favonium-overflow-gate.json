@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "favonium overflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "favonium", "amount": 2}, {"item": "ziwa", "amount": 2}], "research": "favonium-conveyor", "category": "distribution", "invert": false}

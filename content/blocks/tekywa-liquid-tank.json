@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tekywa liquid tank", "description": "...", "health": 244, "size": 3, "requirements": [{"item": "tekywa", "amount": 8}, {"item": "roqeki", "amount": 18}, {"item": "citygo", "amount": 10}], "research": "tekywa-conduit", "category": "liquid", "liquidCapacity": 56426, "hasLiquids": true}

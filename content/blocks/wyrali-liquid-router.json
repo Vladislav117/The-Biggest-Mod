@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wyrali liquid router", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "wyrali", "amount": 7}, {"item": "vyka", "amount": 17}, {"item": "bibaro", "amount": 10}], "research": "wyrali-conduit", "liquidCapacity": 10, "category": "liquid"}

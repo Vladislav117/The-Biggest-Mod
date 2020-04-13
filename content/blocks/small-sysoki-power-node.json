@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sysoki power node", "description": "...", "size": 1, "health": 219, "requirements": [{"item": "sysoki", "amount": 14}, {"item": "vybygynium", "amount": 2}, {"item": "tulotu", "amount": 7}], "research": "sysoki-factory", "maxNodes": 10, "laserRange": 18, "category": "power"}

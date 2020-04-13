@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cuvanium conduit", "description": "...", "health": 40, "requirements": [{"item": "cuvanium", "amount": 8}, {"item": "weqa", "amount": 11}, {"item": "gumyra", "amount": 10}], "liquidCapacity": 22, "liquidPressure": 6, "research": "cuvanium-factory", "category": "liquid"}

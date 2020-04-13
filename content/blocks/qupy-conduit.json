@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qupy conduit", "description": "...", "health": 94, "requirements": [{"item": "qupy", "amount": 9}, {"item": "zowenium", "amount": 1}, {"item": "rega", "amount": 10}], "liquidCapacity": 12, "liquidPressure": 4, "research": "qupy-factory", "category": "liquid"}

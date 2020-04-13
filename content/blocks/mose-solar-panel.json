@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mose solar panel", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "mose", "amount": 16}, {"item": "kixihinium", "amount": 4}, {"item": "wety", "amount": 10}], "research": "mose-factory", "powerProduction": 0.11494582788796975, "category": "power"}

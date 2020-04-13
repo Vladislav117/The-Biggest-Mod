@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vuka battery", "description": "...", "size": 1, "health": 195, "requirements": [{"item": "vuka", "amount": 14}, {"item": "dimysynium", "amount": 4}, {"item": "syyyvo", "amount": 2}], "research": "vuka-factory", "consumes": {"powerBuffered": 2650}, "category": "power"}

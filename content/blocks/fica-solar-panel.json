@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fica solar panel", "description": "...", "size": 3, "health": 111, "requirements": [{"item": "fica", "amount": 9}, {"item": "kica", "amount": 2}, {"item": "cuwe", "amount": 6}], "research": "fica-factory", "powerProduction": 1.0115205598396846, "category": "power"}

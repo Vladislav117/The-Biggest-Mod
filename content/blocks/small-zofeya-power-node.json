@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zofeya power node", "description": "...", "size": 1, "health": 256, "requirements": [{"item": "zofeya", "amount": 12}, {"item": "teyipu", "amount": 19}, {"item": "joqopy", "amount": 10}], "research": "zofeya-factory", "maxNodes": 15, "laserRange": 9, "category": "power"}

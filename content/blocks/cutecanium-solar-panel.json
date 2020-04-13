@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cutecanium solar panel", "description": "...", "size": 3, "health": 42, "requirements": [{"item": "cutecanium", "amount": 7}, {"item": "jeve", "amount": 4}, {"item": "hygili", "amount": 9}], "research": "cutecanium-factory", "powerProduction": 2.9238319933926493, "category": "power"}

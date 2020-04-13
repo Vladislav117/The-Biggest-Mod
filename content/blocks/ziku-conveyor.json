@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "ziku conveyor", "description": "...", "health": 40, "requirements": [{"item": "ziku", "amount": 9}, {"item": "makajo", "amount": 10}], "speed": 0.04378118465287545, "research": "ziku-factory", "category": "distribution"}

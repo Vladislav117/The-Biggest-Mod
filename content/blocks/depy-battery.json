@@ -1,0 +1,1 @@
+{"type": "battery", "name": "depy battery", "description": "...", "size": 3, "health": 260, "requirements": [{"item": "depy", "amount": 12}, {"item": "gina", "amount": 18}, {"item": "deke", "amount": 10}], "research": "depy-factory", "consumes": {"powerBuffered": 6546}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yuduse solar panel", "description": "...", "size": 3, "health": 224, "requirements": [{"item": "yuduse", "amount": 7}, {"item": "hyxunium", "amount": 16}, {"item": "dobe", "amount": 3}], "research": "yuduse-factory", "powerProduction": 3.9151795317005527, "category": "power"}

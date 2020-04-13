@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hyqo battery", "description": "...", "size": 3, "health": 36, "requirements": [{"item": "hyqo", "amount": 9}, {"item": "jicefu", "amount": 12}, {"item": "pebo", "amount": 4}], "research": "hyqo-factory", "consumes": {"powerBuffered": 3571}, "category": "power"}

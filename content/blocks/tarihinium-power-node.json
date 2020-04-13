@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tarihinium power node", "description": "...", "size": 2, "health": 672, "requirements": [{"item": "tarihinium", "amount": 7}, {"item": "vasu", "amount": 9}, {"item": "syjije", "amount": 5}], "research": "tarihinium-factory", "maxNodes": 37, "laserRange": 28, "category": "power"}

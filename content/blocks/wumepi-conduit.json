@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wumepi conduit", "description": "...", "health": 145, "requirements": [{"item": "wumepi", "amount": 16}, {"item": "baguyu", "amount": 15}, {"item": "dyxuhu", "amount": 6}], "liquidCapacity": 10, "liquidPressure": 9, "research": "wumepi-factory", "category": "liquid"}

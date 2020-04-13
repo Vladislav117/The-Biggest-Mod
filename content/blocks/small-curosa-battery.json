@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small curosa battery", "description": "...", "size": 1, "health": 207, "requirements": [{"item": "curosa", "amount": 17}, {"item": "sadani", "amount": 16}, {"item": "veco", "amount": 2}], "research": "curosa-factory", "consumes": {"powerBuffered": 2270}, "category": "power"}

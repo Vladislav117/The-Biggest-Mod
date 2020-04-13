@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "wicapy force projector", "description": "...", "health": 205, "size": 3, "consumes": {"power": 5.0, "item": "wicapy"}, "requirements": [{"item": "wicapy", "amount": 9}, {"item": "kaqa", "amount": 17}, {"item": "fegy", "amount": 5}], "research": "wicapy-factory", "category": "effect"}

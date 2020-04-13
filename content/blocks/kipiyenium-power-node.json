@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kipiyenium power node", "description": "...", "size": 2, "health": 259, "requirements": [{"item": "kipiyenium", "amount": 10}, {"item": "sibewe", "amount": 5}, {"item": "cuha", "amount": 4}], "research": "kipiyenium-factory", "maxNodes": 55, "laserRange": 9, "category": "power"}

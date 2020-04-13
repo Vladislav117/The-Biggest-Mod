@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bedy liquid tank", "description": "...", "health": 280, "size": 3, "requirements": [{"item": "bedy", "amount": 2}, {"item": "xomaja", "amount": 18}, {"item": "qujuyi", "amount": 9}], "research": "bedy-conduit", "category": "liquid", "liquidCapacity": 88514, "hasLiquids": true}

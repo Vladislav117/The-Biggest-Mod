@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qivoha battery", "description": "...", "size": 1, "health": 126, "requirements": [{"item": "qivoha", "amount": 9}, {"item": "roja", "amount": 17}, {"item": "bulanium", "amount": 10}], "research": "qivoha-factory", "consumes": {"powerBuffered": 2914}, "category": "power"}

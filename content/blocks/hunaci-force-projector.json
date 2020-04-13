@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "hunaci force projector", "description": "...", "health": 181, "size": 3, "consumes": {"power": 5.0, "item": "hunaci"}, "requirements": [{"item": "hunaci", "amount": 1}, {"item": "yuwo", "amount": 5}, {"item": "womanium", "amount": 7}], "research": "hunaci-factory", "category": "effect"}

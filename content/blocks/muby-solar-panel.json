@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "muby solar panel", "description": "...", "size": 3, "health": 121, "requirements": [{"item": "muby", "amount": 6}, {"item": "bywazy", "amount": 2}, {"item": "zivo", "amount": 6}], "research": "muby-factory", "powerProduction": 1.2220549147524635, "category": "power"}

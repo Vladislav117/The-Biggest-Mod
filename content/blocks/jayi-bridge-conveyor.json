@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jayi bridge conveyor", "description": "", "health": 36, "range": 11, "speed": 2, "bufferCapacity": 7, "requirements": [{"item": "jayi", "amount": 1}, {"item": "xoquge", "amount": 5}], "research": "jayi-conveyor", "category": "distribution", "size": 1}

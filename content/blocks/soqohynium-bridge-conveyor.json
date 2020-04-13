@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "soqohynium bridge conveyor", "description": "", "health": 20, "range": 15, "speed": 10, "bufferCapacity": 15, "requirements": [{"item": "soqohynium", "amount": 2}, {"item": "cedonium", "amount": 4}], "research": "soqohynium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mubu liquid tank", "description": "...", "health": 463, "size": 3, "requirements": [{"item": "mubu", "amount": 5}, {"item": "hixuqo", "amount": 1}, {"item": "xylipe", "amount": 8}], "research": "mubu-conduit", "category": "liquid", "liquidCapacity": 23254, "hasLiquids": true}

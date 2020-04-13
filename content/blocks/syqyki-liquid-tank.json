@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "syqyki liquid tank", "description": "...", "health": 472, "size": 3, "requirements": [{"item": "syqyki", "amount": 7}, {"item": "soda", "amount": 9}, {"item": "ceho", "amount": 5}], "research": "syqyki-conduit", "category": "liquid", "liquidCapacity": 28550, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small myruhy battery", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "myruhy", "amount": 10}, {"item": "yize", "amount": 19}, {"item": "yicenium", "amount": 8}], "research": "myruhy-factory", "consumes": {"powerBuffered": 902}, "category": "power"}

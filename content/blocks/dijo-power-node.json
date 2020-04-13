@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dijo power node", "description": "...", "size": 2, "health": 797, "requirements": [{"item": "dijo", "amount": 12}, {"item": "secuqunium", "amount": 5}, {"item": "qutonium", "amount": 6}], "research": "dijo-factory", "maxNodes": 54, "laserRange": 11, "category": "power"}

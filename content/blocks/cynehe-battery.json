@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cynehe battery", "description": "...", "size": 3, "health": 391, "requirements": [{"item": "cynehe", "amount": 1}, {"item": "fusaji", "amount": 16}, {"item": "jodezu", "amount": 7}], "research": "cynehe-factory", "consumes": {"powerBuffered": 612}, "category": "power"}

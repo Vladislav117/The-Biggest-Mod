@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hytuki solar panel", "description": "...", "size": 3, "health": 138, "requirements": [{"item": "hytuki", "amount": 11}, {"item": "yyjuhy", "amount": 12}, {"item": "tify", "amount": 2}], "research": "hytuki-factory", "powerProduction": 0.0005378725476782219, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ruvabynium solar panel", "description": "...", "size": 3, "health": 142, "requirements": [{"item": "ruvabynium", "amount": 3}, {"item": "ledome", "amount": 11}, {"item": "lype", "amount": 5}], "research": "ruvabynium-factory", "powerProduction": 0.13934761184198288, "category": "power"}

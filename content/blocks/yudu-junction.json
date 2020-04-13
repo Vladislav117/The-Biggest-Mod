@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yudu junction", "description": "...", "health": 31, "speed": 12, "capacity": 6, "size": 1, "requirements": [{"item": "yudu", "amount": 2}, {"item": "fuyoja", "amount": 4}], "research": "yudu-conveyor", "category": "distribution"}

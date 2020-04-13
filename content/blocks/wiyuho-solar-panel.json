@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wiyuho solar panel", "description": "...", "size": 3, "health": 194, "requirements": [{"item": "wiyuho", "amount": 11}, {"item": "naku", "amount": 12}, {"item": "bihu", "amount": 7}], "research": "wiyuho-factory", "powerProduction": 10.703194731669248, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fakuzo power node", "description": "...", "size": 2, "health": 627, "requirements": [{"item": "fakuzo", "amount": 14}, {"item": "nufaye", "amount": 8}, {"item": "kufuvunium", "amount": 6}], "research": "fakuzo-factory", "maxNodes": 29, "laserRange": 24, "category": "power"}

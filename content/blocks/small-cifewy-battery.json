@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cifewy battery", "description": "...", "size": 1, "health": 222, "requirements": [{"item": "cifewy", "amount": 7}, {"item": "coqinium", "amount": 17}, {"item": "vewi", "amount": 4}], "research": "cifewy-factory", "consumes": {"powerBuffered": 1091}, "category": "power"}

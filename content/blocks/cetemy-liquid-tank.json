@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cetemy liquid tank", "description": "...", "health": 405, "size": 3, "requirements": [{"item": "cetemy", "amount": 2}, {"item": "duginium", "amount": 19}, {"item": "cynehe", "amount": 10}], "research": "cetemy-conduit", "category": "liquid", "liquidCapacity": 59936, "hasLiquids": true}

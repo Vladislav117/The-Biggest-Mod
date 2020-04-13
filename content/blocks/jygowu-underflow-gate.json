@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jygowu underflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "jygowu", "amount": 1}, {"item": "waka", "amount": 3}], "research": "jygowu-conveyor", "category": "distribution", "invert": false}

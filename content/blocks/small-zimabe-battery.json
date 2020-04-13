@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zimabe battery", "description": "...", "size": 1, "health": 167, "requirements": [{"item": "zimabe", "amount": 20}, {"item": "ruwysu", "amount": 5}, {"item": "hisucy", "amount": 6}], "research": "zimabe-factory", "consumes": {"powerBuffered": 1221}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qysavunium battery", "description": "...", "size": 3, "health": 387, "requirements": [{"item": "qysavunium", "amount": 1}, {"item": "felu", "amount": 6}, {"item": "rukycu", "amount": 7}], "research": "qysavunium-factory", "consumes": {"powerBuffered": 4656}, "category": "power"}

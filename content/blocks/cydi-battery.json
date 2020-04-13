@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cydi battery", "description": "...", "size": 3, "health": 313, "requirements": [{"item": "cydi", "amount": 6}, {"item": "telinium", "amount": 1}, {"item": "tezila", "amount": 4}], "research": "cydi-factory", "consumes": {"powerBuffered": 959}, "category": "power"}

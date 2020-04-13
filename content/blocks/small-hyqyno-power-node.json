@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hyqyno power node", "description": "...", "size": 1, "health": 357, "requirements": [{"item": "hyqyno", "amount": 16}, {"item": "vahy", "amount": 12}, {"item": "savi", "amount": 10}], "research": "hyqyno-factory", "maxNodes": 19, "laserRange": 14, "category": "power"}

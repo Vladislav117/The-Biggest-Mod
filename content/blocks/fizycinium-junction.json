@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fizycinium junction", "description": "...", "health": 5, "speed": 19, "capacity": 8, "size": 1, "requirements": [{"item": "fizycinium", "amount": 5}, {"item": "cevu", "amount": 4}], "research": "fizycinium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jefo conduit", "description": "...", "health": 112, "requirements": [{"item": "jefo", "amount": 1}, {"item": "beyasonium", "amount": 1}, {"item": "bube", "amount": 1}], "liquidCapacity": 1, "liquidPressure": 7, "research": "jefo-factory", "category": "liquid"}

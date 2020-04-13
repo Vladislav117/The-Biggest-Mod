@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vitifi solar panel", "description": "...", "size": 3, "health": 76, "requirements": [{"item": "vitifi", "amount": 5}, {"item": "qakynunium", "amount": 10}, {"item": "seyuwa", "amount": 8}], "research": "vitifi-factory", "powerProduction": 0.033996180462858225, "category": "power"}

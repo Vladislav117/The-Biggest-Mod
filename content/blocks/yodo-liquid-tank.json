@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yodo liquid tank", "description": "...", "health": 469, "size": 3, "requirements": [{"item": "yodo", "amount": 20}, {"item": "wupera", "amount": 6}, {"item": "kipyzonium", "amount": 2}], "research": "yodo-conduit", "category": "liquid", "liquidCapacity": 60976, "hasLiquids": true}

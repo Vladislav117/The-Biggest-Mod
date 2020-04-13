@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tuty drill", "description": "...", "size": 4, "health": 122, "tier": 2, "drillTime": 18, "consumes": {"power": 12}, "requirements": [{"item": "tuty", "amount": 15}, {"item": "dyzeky", "amount": 20}, {"item": "qasysi", "amount": 8}], "research": "tuty-factory", "category": "production"}

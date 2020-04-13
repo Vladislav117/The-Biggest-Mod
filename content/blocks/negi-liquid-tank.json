@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "negi liquid tank", "description": "...", "health": 167, "size": 3, "requirements": [{"item": "negi", "amount": 10}, {"item": "qive", "amount": 17}, {"item": "danitu", "amount": 3}], "research": "negi-conduit", "category": "liquid", "liquidCapacity": 93911, "hasLiquids": true}

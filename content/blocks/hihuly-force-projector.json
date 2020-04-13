@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "hihuly force projector", "description": "...", "health": 190, "size": 3, "consumes": {"power": 5.0, "item": "hihuly"}, "requirements": [{"item": "hihuly", "amount": 7}, {"item": "yopepa", "amount": 12}, {"item": "mynufu", "amount": 8}], "research": "hihuly-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fypanium battery", "description": "...", "size": 1, "health": 108, "requirements": [{"item": "fypanium", "amount": 4}, {"item": "bamubu", "amount": 18}, {"item": "keva", "amount": 2}], "research": "fypanium-factory", "consumes": {"powerBuffered": 1324}, "category": "power"}

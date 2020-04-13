@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qedene drill", "description": "...", "size": 4, "health": 159, "tier": 4, "drillTime": 14, "consumes": {"power": 2}, "requirements": [{"item": "qedene", "amount": 15}, {"item": "cuba", "amount": 7}, {"item": "cosizi", "amount": 5}], "research": "qedene-factory", "category": "production"}

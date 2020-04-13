@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cohu solar panel", "description": "...", "size": 3, "health": 19, "requirements": [{"item": "cohu", "amount": 10}, {"item": "tere", "amount": 8}, {"item": "zowanium", "amount": 9}], "research": "cohu-factory", "powerProduction": 2.082181109896051, "category": "power"}

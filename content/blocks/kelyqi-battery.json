@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kelyqi battery", "description": "...", "size": 3, "health": 18, "requirements": [{"item": "kelyqi", "amount": 14}, {"item": "hagi", "amount": 5}, {"item": "wyri", "amount": 5}], "research": "kelyqi-factory", "consumes": {"powerBuffered": 6902}, "category": "power"}

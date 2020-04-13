@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "niki power node", "description": "...", "size": 2, "health": 414, "requirements": [{"item": "niki", "amount": 20}, {"item": "rovaqa", "amount": 7}, {"item": "makajo", "amount": 9}], "research": "niki-factory", "maxNodes": 19, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vixonium drill", "description": "...", "size": 3, "health": 211, "tier": 4, "drillTime": 6, "consumes": {"power": 9}, "requirements": [{"item": "vixonium", "amount": 6}, {"item": "gozefynium", "amount": 2}, {"item": "noca", "amount": 1}], "research": "vixonium-factory", "category": "production"}

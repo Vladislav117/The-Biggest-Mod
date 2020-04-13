@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hyji liquid tank", "description": "...", "health": 146, "size": 3, "requirements": [{"item": "hyji", "amount": 2}, {"item": "ceze", "amount": 3}, {"item": "lyhu", "amount": 8}], "research": "hyji-conduit", "category": "liquid", "liquidCapacity": 18479, "hasLiquids": true}

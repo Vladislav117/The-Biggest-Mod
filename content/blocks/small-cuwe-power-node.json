@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cuwe power node", "description": "...", "size": 1, "health": 373, "requirements": [{"item": "cuwe", "amount": 11}, {"item": "puzonium", "amount": 12}, {"item": "nyvexo", "amount": 1}], "research": "cuwe-factory", "maxNodes": 8, "laserRange": 5, "category": "power"}

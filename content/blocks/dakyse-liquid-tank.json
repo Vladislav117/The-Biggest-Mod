@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dakyse liquid tank", "description": "...", "health": 202, "size": 3, "requirements": [{"item": "dakyse", "amount": 20}, {"item": "geponium", "amount": 9}, {"item": "hedi", "amount": 4}], "research": "dakyse-conduit", "category": "liquid", "liquidCapacity": 65868, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "cupi overdrive projector", "description": "...", "health": 53, "consumes": {"power": 3.0, "item": "cupi"}, "size": 2, "requirements": [{"item": "cupi", "amount": 4}, {"item": "lunido", "amount": 15}, {"item": "weca", "amount": 5}], "research": "cupi-factory", "category": "effect"}

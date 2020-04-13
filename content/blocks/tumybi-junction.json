@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tumybi junction", "description": "...", "health": 31, "speed": 11, "capacity": 19, "size": 1, "requirements": [{"item": "tumybi", "amount": 4}, {"item": "wilyne", "amount": 5}], "research": "tumybi-conveyor", "category": "distribution"}

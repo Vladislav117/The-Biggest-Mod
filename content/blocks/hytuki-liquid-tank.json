@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hytuki liquid tank", "description": "...", "health": 312, "size": 3, "requirements": [{"item": "hytuki", "amount": 10}, {"item": "lahydo", "amount": 14}, {"item": "zadajo", "amount": 8}], "research": "hytuki-conduit", "category": "liquid", "liquidCapacity": 43932, "hasLiquids": true}

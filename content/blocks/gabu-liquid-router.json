@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gabu liquid router", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "gabu", "amount": 8}, {"item": "kyya", "amount": 13}, {"item": "loja", "amount": 5}], "research": "gabu-conduit", "liquidCapacity": 10, "category": "liquid"}

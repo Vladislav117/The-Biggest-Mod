@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yazu liquid tank", "description": "...", "health": 660, "size": 3, "requirements": [{"item": "yazu", "amount": 17}, {"item": "kywowa", "amount": 14}, {"item": "gykenium", "amount": 9}], "research": "yazu-conduit", "category": "liquid", "liquidCapacity": 70464, "hasLiquids": true}

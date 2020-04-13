@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "heti power node", "description": "...", "size": 2, "health": 204, "requirements": [{"item": "heti", "amount": 10}, {"item": "vawybo", "amount": 11}, {"item": "nerymi", "amount": 1}], "research": "heti-factory", "maxNodes": 49, "laserRange": 20, "category": "power"}

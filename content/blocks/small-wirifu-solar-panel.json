@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wirifu solar panel", "description": "...", "size": 1, "health": 387, "requirements": [{"item": "wirifu", "amount": 4}, {"item": "qujuyi", "amount": 1}, {"item": "yafenium", "amount": 10}], "research": "wirifu-factory", "powerProduction": 4.288696651889941, "category": "power"}

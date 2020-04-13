@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jugowe solar panel", "description": "...", "size": 3, "health": 23, "requirements": [{"item": "jugowe", "amount": 3}, {"item": "vesycynium", "amount": 20}, {"item": "wujifi", "amount": 1}], "research": "jugowe-factory", "powerProduction": 0.5114581072647886, "category": "power"}

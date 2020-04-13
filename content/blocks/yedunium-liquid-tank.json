@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yedunium liquid tank", "description": "...", "health": 634, "size": 3, "requirements": [{"item": "yedunium", "amount": 15}, {"item": "kizywanium", "amount": 20}, {"item": "miry", "amount": 3}], "research": "yedunium-conduit", "category": "liquid", "liquidCapacity": 75983, "hasLiquids": true}

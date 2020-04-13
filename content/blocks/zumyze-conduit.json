@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zumyze conduit", "description": "...", "health": 107, "requirements": [{"item": "zumyze", "amount": 13}, {"item": "nejunium", "amount": 8}, {"item": "voje", "amount": 8}], "liquidCapacity": 14, "liquidPressure": 4, "research": "zumyze-factory", "category": "liquid"}

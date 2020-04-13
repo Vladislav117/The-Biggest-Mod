@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rahonium conduit", "description": "...", "health": 45, "requirements": [{"item": "rahonium", "amount": 2}, {"item": "rebugunium", "amount": 9}, {"item": "keze", "amount": 10}], "liquidCapacity": 36, "liquidPressure": 1, "research": "rahonium-factory", "category": "liquid"}

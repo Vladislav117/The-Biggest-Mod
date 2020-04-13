@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nogofe conduit", "description": "...", "health": 78, "requirements": [{"item": "nogofe", "amount": 11}, {"item": "rohivonium", "amount": 7}, {"item": "xylipe", "amount": 1}], "liquidCapacity": 16, "liquidPressure": 1, "research": "nogofe-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "foha bridge conveyor", "description": "", "health": 40, "range": 18, "speed": 17, "bufferCapacity": 16, "requirements": [{"item": "foha", "amount": 4}, {"item": "bugyta", "amount": 4}], "research": "foha-conveyor", "category": "distribution", "size": 1}

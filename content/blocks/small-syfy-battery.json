@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small syfy battery", "description": "...", "size": 1, "health": 143, "requirements": [{"item": "syfy", "amount": 6}, {"item": "nuko", "amount": 4}, {"item": "qoxida", "amount": 7}], "research": "syfy-factory", "consumes": {"powerBuffered": 879}, "category": "power"}

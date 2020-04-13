@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "baxinium solar panel", "description": "...", "size": 3, "health": 83, "requirements": [{"item": "baxinium", "amount": 8}, {"item": "mepysynium", "amount": 11}, {"item": "qepece", "amount": 1}], "research": "baxinium-factory", "powerProduction": 1.727721088548792, "category": "power"}

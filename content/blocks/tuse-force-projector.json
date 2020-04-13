@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "tuse force projector", "description": "...", "health": 173, "size": 3, "consumes": {"power": 5.0, "item": "tuse"}, "requirements": [{"item": "tuse", "amount": 4}, {"item": "bawy", "amount": 2}, {"item": "tygoqa", "amount": 4}], "research": "tuse-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vole drill", "description": "...", "size": 2, "health": 372, "tier": 1, "drillTime": 10, "consumes": {"power": 12}, "requirements": [{"item": "vole", "amount": 19}, {"item": "vepuge", "amount": 9}, {"item": "thorium", "amount": 8}], "research": "vole-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "nigunium conveyor", "description": "...", "health": 280, "requirements": [{"item": "nigunium", "amount": 9}, {"item": "selinium", "amount": 5}], "speed": 0.22740232999066867, "research": "nigunium-factory", "category": "distribution"}

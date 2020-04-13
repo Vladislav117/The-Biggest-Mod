@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zyganium conduit", "description": "...", "health": 107, "requirements": [{"item": "zyganium", "amount": 11}, {"item": "neletanium", "amount": 20}, {"item": "gasunium", "amount": 9}], "liquidCapacity": 46, "liquidPressure": 1, "research": "zyganium-factory", "category": "liquid"}

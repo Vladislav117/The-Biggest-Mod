@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "xojinium force projector", "description": "...", "health": 103, "size": 3, "consumes": {"power": 5.0, "item": "xojinium"}, "requirements": [{"item": "xojinium", "amount": 6}, {"item": "tuwe", "amount": 4}, {"item": "rumigonium", "amount": 7}], "research": "xojinium-factory", "category": "effect"}

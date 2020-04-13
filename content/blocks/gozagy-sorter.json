@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gozagy sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "gozagy", "amount": 5}, {"item": "qizi", "amount": 2}], "research": "gozagy-conveyor", "category": "distribution", "invert": false}

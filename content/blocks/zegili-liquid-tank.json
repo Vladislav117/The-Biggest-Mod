@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zegili liquid tank", "description": "...", "health": 142, "size": 3, "requirements": [{"item": "zegili", "amount": 17}, {"item": "qiwise", "amount": 7}, {"item": "pudogi", "amount": 5}], "research": "zegili-conduit", "category": "liquid", "liquidCapacity": 86775, "hasLiquids": true}

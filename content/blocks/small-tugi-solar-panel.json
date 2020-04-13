@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tugi solar panel", "description": "...", "size": 1, "health": 376, "requirements": [{"item": "tugi", "amount": 14}, {"item": "hedi", "amount": 16}, {"item": "hazi", "amount": 2}], "research": "tugi-factory", "powerProduction": 3.4435377581758804, "category": "power"}

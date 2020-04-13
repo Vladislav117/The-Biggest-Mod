@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vole liquid router", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "vole", "amount": 4}, {"item": "xyco", "amount": 11}, {"item": "kejinium", "amount": 7}], "research": "vole-conduit", "liquidCapacity": 10, "category": "liquid"}

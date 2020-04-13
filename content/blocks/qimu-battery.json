@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qimu battery", "description": "...", "size": 3, "health": 242, "requirements": [{"item": "qimu", "amount": 8}, {"item": "hotonium", "amount": 7}, {"item": "muhi", "amount": 1}], "research": "qimu-factory", "consumes": {"powerBuffered": 3384}, "category": "power"}

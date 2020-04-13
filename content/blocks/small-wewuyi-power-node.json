@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wewuyi power node", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "wewuyi", "amount": 7}, {"item": "ryfo", "amount": 16}, {"item": "maqini", "amount": 1}], "research": "wewuyi-factory", "maxNodes": 22, "laserRange": 19, "category": "power"}

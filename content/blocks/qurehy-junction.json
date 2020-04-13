@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qurehy junction", "description": "...", "health": 25, "speed": 18, "capacity": 16, "size": 1, "requirements": [{"item": "qurehy", "amount": 1}, {"item": "vate", "amount": 2}], "research": "qurehy-conveyor", "category": "distribution"}

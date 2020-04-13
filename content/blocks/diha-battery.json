@@ -1,0 +1,1 @@
+{"type": "battery", "name": "diha battery", "description": "...", "size": 3, "health": 237, "requirements": [{"item": "diha", "amount": 5}, {"item": "tyvaty", "amount": 6}, {"item": "wykonium", "amount": 6}], "research": "diha-factory", "consumes": {"powerBuffered": 1697}, "category": "power"}

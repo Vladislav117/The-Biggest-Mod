@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "ravyku drill", "description": "...", "size": 2, "health": 397, "tier": 3, "drillTime": 19, "consumes": {"power": 17}, "requirements": [{"item": "ravyku", "amount": 12}, {"item": "yifity", "amount": 12}, {"item": "kegiqi", "amount": 4}], "research": "ravyku-factory", "category": "production"}

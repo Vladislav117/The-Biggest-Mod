@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zadajo liquid tank", "description": "...", "health": 605, "size": 3, "requirements": [{"item": "zadajo", "amount": 6}, {"item": "movanium", "amount": 12}, {"item": "ryho", "amount": 6}], "research": "zadajo-conduit", "category": "liquid", "liquidCapacity": 89347, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hako power node", "description": "...", "size": 2, "health": 389, "requirements": [{"item": "hako", "amount": 1}, {"item": "losenium", "amount": 13}, {"item": "lydoze", "amount": 2}], "research": "hako-factory", "maxNodes": 37, "laserRange": 11, "category": "power"}

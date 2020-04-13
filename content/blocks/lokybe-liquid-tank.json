@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lokybe liquid tank", "description": "...", "health": 411, "size": 3, "requirements": [{"item": "lokybe", "amount": 4}, {"item": "degesy", "amount": 7}, {"item": "baqo", "amount": 4}], "research": "lokybe-conduit", "category": "liquid", "liquidCapacity": 18908, "hasLiquids": true}

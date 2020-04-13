@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qyli liquid tank", "description": "...", "health": 454, "size": 3, "requirements": [{"item": "qyli", "amount": 12}, {"item": "siqenium", "amount": 16}, {"item": "mohoze", "amount": 5}], "research": "qyli-conduit", "category": "liquid", "liquidCapacity": 4938, "hasLiquids": true}

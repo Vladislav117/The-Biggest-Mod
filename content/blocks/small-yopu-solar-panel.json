@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yopu solar panel", "description": "...", "size": 1, "health": 127, "requirements": [{"item": "yopu", "amount": 1}, {"item": "fery", "amount": 17}, {"item": "byja", "amount": 7}], "research": "yopu-factory", "powerProduction": 0.06744848235129323, "category": "power"}

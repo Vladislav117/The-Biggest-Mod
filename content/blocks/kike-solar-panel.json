@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kike solar panel", "description": "...", "size": 3, "health": 45, "requirements": [{"item": "kike", "amount": 3}, {"item": "fyme", "amount": 14}, {"item": "jidy", "amount": 4}], "research": "kike-factory", "powerProduction": 0.4901091794354334, "category": "power"}

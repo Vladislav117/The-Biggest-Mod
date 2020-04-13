@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jomoka bridge conveyor", "description": "", "health": 35, "range": 4, "speed": 6, "bufferCapacity": 19, "requirements": [{"item": "jomoka", "amount": 3}, {"item": "xeye", "amount": 3}], "research": "jomoka-conveyor", "category": "distribution", "size": 1}

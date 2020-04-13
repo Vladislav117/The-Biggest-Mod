@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mido liquid router", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "mido", "amount": 12}, {"item": "bimi", "amount": 20}, {"item": "kudohi", "amount": 4}], "research": "mido-conduit", "liquidCapacity": 10, "category": "liquid"}

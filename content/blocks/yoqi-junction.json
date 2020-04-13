@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yoqi junction", "description": "...", "health": 8, "speed": 6, "capacity": 16, "size": 1, "requirements": [{"item": "yoqi", "amount": 1}, {"item": "neletanium", "amount": 4}], "research": "yoqi-conveyor", "category": "distribution"}

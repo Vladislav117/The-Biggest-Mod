@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dycimi conduit", "description": "...", "health": 140, "requirements": [{"item": "dycimi", "amount": 5}, {"item": "suminium", "amount": 3}, {"item": "xynice", "amount": 6}], "liquidCapacity": 33, "liquidPressure": 3, "research": "dycimi-factory", "category": "liquid"}

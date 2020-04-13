@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kudyxe drill", "description": "...", "size": 3, "health": 373, "tier": 4, "drillTime": 17, "consumes": {"power": 2}, "requirements": [{"item": "kudyxe", "amount": 2}, {"item": "nary", "amount": 20}, {"item": "roteca", "amount": 8}], "research": "kudyxe-factory", "category": "production"}

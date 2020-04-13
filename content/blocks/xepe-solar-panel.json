@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xepe solar panel", "description": "...", "size": 3, "health": 257, "requirements": [{"item": "xepe", "amount": 6}, {"item": "jyxexi", "amount": 8}, {"item": "zexinium", "amount": 9}], "research": "xepe-factory", "powerProduction": 1.0681305695007963, "category": "power"}

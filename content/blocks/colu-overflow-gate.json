@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "colu overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "colu", "amount": 1}, {"item": "suminium", "amount": 3}], "research": "colu-conveyor", "category": "distribution", "invert": false}

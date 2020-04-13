@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pero inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "pero", "amount": 3}, {"item": "faba", "amount": 5}], "research": "pero-conveyor", "category": "distribution", "invert": true}

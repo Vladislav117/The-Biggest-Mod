@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pezuxonium overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "pezuxonium", "amount": 3}, {"item": "kute", "amount": 4}], "research": "pezuxonium-conveyor", "category": "distribution", "invert": false}

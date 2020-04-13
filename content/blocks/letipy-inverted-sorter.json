@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "letipy inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "letipy", "amount": 2}, {"item": "pyvunium", "amount": 1}], "research": "letipy-conveyor", "category": "distribution", "invert": true}

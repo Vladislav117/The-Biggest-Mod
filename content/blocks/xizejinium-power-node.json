@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xizejinium power node", "description": "...", "size": 2, "health": 212, "requirements": [{"item": "xizejinium", "amount": 1}, {"item": "geponium", "amount": 11}, {"item": "deqohu", "amount": 1}], "research": "xizejinium-factory", "maxNodes": 20, "laserRange": 5, "category": "power"}

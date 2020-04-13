@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qaxi liquid tank", "description": "...", "health": 458, "size": 3, "requirements": [{"item": "qaxi", "amount": 17}, {"item": "hijaju", "amount": 18}, {"item": "dyqasy", "amount": 8}], "research": "qaxi-conduit", "category": "liquid", "liquidCapacity": 42782, "hasLiquids": true}

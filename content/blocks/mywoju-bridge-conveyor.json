@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mywoju bridge conveyor", "description": "", "health": 4, "range": 15, "speed": 8, "bufferCapacity": 7, "requirements": [{"item": "mywoju", "amount": 4}, {"item": "kety", "amount": 3}], "research": "mywoju-conveyor", "category": "distribution", "size": 1}

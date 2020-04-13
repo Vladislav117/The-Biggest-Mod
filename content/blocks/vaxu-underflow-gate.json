@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vaxu underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "vaxu", "amount": 3}, {"item": "jone", "amount": 4}], "research": "vaxu-conveyor", "category": "distribution", "invert": false}

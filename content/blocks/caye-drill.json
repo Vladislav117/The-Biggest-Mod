@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "caye drill", "description": "...", "size": 4, "health": 162, "tier": 1, "drillTime": 12, "consumes": {"power": 13}, "requirements": [{"item": "caye", "amount": 5}, {"item": "wuronium", "amount": 6}, {"item": "yayunium", "amount": 10}], "research": "caye-factory", "category": "production"}

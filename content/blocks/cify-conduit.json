@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cify conduit", "description": "...", "health": 181, "requirements": [{"item": "cify", "amount": 16}, {"item": "winyjo", "amount": 10}, {"item": "bily", "amount": 9}], "liquidCapacity": 20, "liquidPressure": 10, "research": "cify-factory", "category": "liquid"}

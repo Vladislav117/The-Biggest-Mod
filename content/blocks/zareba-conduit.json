@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zareba conduit", "description": "...", "health": 149, "requirements": [{"item": "zareba", "amount": 5}, {"item": "wadoka", "amount": 12}, {"item": "wohy", "amount": 4}], "liquidCapacity": 46, "liquidPressure": 7, "research": "zareba-factory", "category": "liquid"}

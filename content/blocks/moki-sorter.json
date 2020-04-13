@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "moki sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "moki", "amount": 3}, {"item": "wumuge", "amount": 4}], "research": "moki-conveyor", "category": "distribution", "invert": false}

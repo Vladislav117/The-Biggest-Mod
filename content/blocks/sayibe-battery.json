@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sayibe battery", "description": "...", "size": 3, "health": 323, "requirements": [{"item": "sayibe", "amount": 1}, {"item": "tefipi", "amount": 2}, {"item": "niyi", "amount": 6}], "research": "sayibe-factory", "consumes": {"powerBuffered": 4420}, "category": "power"}

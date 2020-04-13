@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cuwa battery", "description": "...", "size": 3, "health": 23, "requirements": [{"item": "cuwa", "amount": 12}, {"item": "wuronium", "amount": 5}, {"item": "hiwenium", "amount": 1}], "research": "cuwa-factory", "consumes": {"powerBuffered": 1066}, "category": "power"}

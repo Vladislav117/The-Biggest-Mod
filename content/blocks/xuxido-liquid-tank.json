@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xuxido liquid tank", "description": "...", "health": 389, "size": 3, "requirements": [{"item": "xuxido", "amount": 2}, {"item": "qigine", "amount": 2}, {"item": "weziho", "amount": 2}], "research": "xuxido-conduit", "category": "liquid", "liquidCapacity": 109830, "hasLiquids": true}

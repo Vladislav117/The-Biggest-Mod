@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kozysa conduit", "description": "...", "health": 182, "requirements": [{"item": "kozysa", "amount": 8}, {"item": "pypy", "amount": 14}, {"item": "cuhyrunium", "amount": 5}], "liquidCapacity": 20, "liquidPressure": 1, "research": "kozysa-factory", "category": "liquid"}

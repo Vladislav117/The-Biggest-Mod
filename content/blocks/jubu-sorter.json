@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jubu sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "jubu", "amount": 5}, {"item": "byfyly", "amount": 3}], "research": "jubu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small birynium power node", "description": "...", "size": 1, "health": 298, "requirements": [{"item": "birynium", "amount": 12}, {"item": "jeqidynium", "amount": 19}, {"item": "jomoka", "amount": 4}], "research": "birynium-factory", "maxNodes": 28, "laserRange": 8, "category": "power"}

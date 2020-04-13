@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "baboxi sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "baboxi", "amount": 5}, {"item": "xilo", "amount": 2}], "research": "baboxi-conveyor", "category": "distribution", "invert": false}

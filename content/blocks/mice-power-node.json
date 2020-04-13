@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mice power node", "description": "...", "size": 2, "health": 431, "requirements": [{"item": "mice", "amount": 2}, {"item": "sesico", "amount": 1}, {"item": "bobu", "amount": 10}], "research": "mice-factory", "maxNodes": 19, "laserRange": 9, "category": "power"}

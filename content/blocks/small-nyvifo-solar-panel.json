@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nyvifo solar panel", "description": "...", "size": 1, "health": 121, "requirements": [{"item": "nyvifo", "amount": 12}, {"item": "zivoginium", "amount": 17}, {"item": "yylonium", "amount": 9}], "research": "nyvifo-factory", "powerProduction": 1.4266751502099295, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "civu inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "civu", "amount": 3}, {"item": "hogazanium", "amount": 4}], "research": "civu-conveyor", "category": "distribution", "invert": true}

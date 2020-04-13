@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vesycynium liquid tank", "description": "...", "health": 261, "size": 3, "requirements": [{"item": "vesycynium", "amount": 4}, {"item": "ruwysu", "amount": 7}, {"item": "dysojonium", "amount": 10}], "research": "vesycynium-conduit", "category": "liquid", "liquidCapacity": 42273, "hasLiquids": true}

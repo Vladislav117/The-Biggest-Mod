@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tujaxe liquid tank", "description": "...", "health": 601, "size": 3, "requirements": [{"item": "tujaxe", "amount": 15}, {"item": "vuyiyo", "amount": 17}, {"item": "seqynium", "amount": 5}], "research": "tujaxe-conduit", "category": "liquid", "liquidCapacity": 38405, "hasLiquids": true}

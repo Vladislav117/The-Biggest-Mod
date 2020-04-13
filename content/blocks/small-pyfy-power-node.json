@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pyfy power node", "description": "...", "size": 1, "health": 197, "requirements": [{"item": "pyfy", "amount": 16}, {"item": "rudy", "amount": 4}, {"item": "zedo", "amount": 7}], "research": "pyfy-factory", "maxNodes": 3, "laserRange": 22, "category": "power"}

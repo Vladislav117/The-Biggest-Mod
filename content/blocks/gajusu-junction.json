@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gajusu junction", "description": "...", "health": 21, "speed": 12, "capacity": 17, "size": 1, "requirements": [{"item": "gajusu", "amount": 2}, {"item": "pupyku", "amount": 4}], "research": "gajusu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "reqoxu liquid tank", "description": "...", "health": 283, "size": 3, "requirements": [{"item": "reqoxu", "amount": 1}, {"item": "hyru", "amount": 9}, {"item": "fogodo", "amount": 5}], "research": "reqoxu-conduit", "category": "liquid", "liquidCapacity": 62523, "hasLiquids": true}

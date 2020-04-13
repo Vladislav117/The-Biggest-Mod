@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bixela power node", "description": "...", "size": 2, "health": 597, "requirements": [{"item": "bixela", "amount": 15}, {"item": "beyy", "amount": 17}, {"item": "reno", "amount": 10}], "research": "bixela-factory", "maxNodes": 44, "laserRange": 24, "category": "power"}

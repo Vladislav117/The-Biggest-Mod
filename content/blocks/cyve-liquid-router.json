@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cyve liquid router", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "cyve", "amount": 5}, {"item": "zazuji", "amount": 11}, {"item": "yaly", "amount": 6}], "research": "cyve-conduit", "liquidCapacity": 10, "category": "liquid"}

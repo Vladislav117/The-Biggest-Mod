@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kiduka power node", "description": "...", "size": 2, "health": 765, "requirements": [{"item": "kiduka", "amount": 7}, {"item": "qiyatonium", "amount": 4}, {"item": "puzihanium", "amount": 1}], "research": "kiduka-factory", "maxNodes": 60, "laserRange": 20, "category": "power"}

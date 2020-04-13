@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "peso liquid router", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "peso", "amount": 6}, {"item": "joku", "amount": 12}, {"item": "rigiro", "amount": 9}], "research": "peso-conduit", "liquidCapacity": 10, "category": "liquid"}

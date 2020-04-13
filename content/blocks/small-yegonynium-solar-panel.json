@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yegonynium solar panel", "description": "...", "size": 1, "health": 385, "requirements": [{"item": "yegonynium", "amount": 10}, {"item": "cupyvu", "amount": 9}, {"item": "totiji", "amount": 4}], "research": "yegonynium-factory", "powerProduction": 0.010051369521097963, "category": "power"}

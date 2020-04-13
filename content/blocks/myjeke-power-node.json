@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "myjeke power node", "description": "...", "size": 2, "health": 145, "requirements": [{"item": "myjeke", "amount": 19}, {"item": "riro", "amount": 14}, {"item": "genane", "amount": 2}], "research": "myjeke-factory", "maxNodes": 56, "laserRange": 5, "category": "power"}

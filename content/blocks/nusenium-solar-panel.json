@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nusenium solar panel", "description": "...", "size": 3, "health": 133, "requirements": [{"item": "nusenium", "amount": 1}, {"item": "takyhonium", "amount": 1}, {"item": "rytysynium", "amount": 1}], "research": "nusenium-factory", "powerProduction": 0.6570494334174862, "category": "power"}

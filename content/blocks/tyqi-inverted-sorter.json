@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tyqi inverted sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "tyqi", "amount": 3}, {"item": "rega", "amount": 1}], "research": "tyqi-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nayevynium liquid tank", "description": "...", "health": 395, "size": 3, "requirements": [{"item": "nayevynium", "amount": 14}, {"item": "kavequ", "amount": 6}, {"item": "wiba", "amount": 1}], "research": "nayevynium-conduit", "category": "liquid", "liquidCapacity": 116919, "hasLiquids": true}

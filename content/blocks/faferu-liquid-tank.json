@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "faferu liquid tank", "description": "...", "health": 303, "size": 3, "requirements": [{"item": "faferu", "amount": 15}, {"item": "turode", "amount": 17}, {"item": "ledome", "amount": 5}], "research": "faferu-conduit", "category": "liquid", "liquidCapacity": 81918, "hasLiquids": true}

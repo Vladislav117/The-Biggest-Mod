@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yanu liquid tank", "description": "...", "health": 365, "size": 3, "requirements": [{"item": "yanu", "amount": 14}, {"item": "giho", "amount": 14}, {"item": "gagyya", "amount": 5}], "research": "yanu-conduit", "category": "liquid", "liquidCapacity": 67213, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yifu solar panel", "description": "...", "size": 3, "health": 362, "requirements": [{"item": "yifu", "amount": 15}, {"item": "gyri", "amount": 5}, {"item": "jupygu", "amount": 3}], "research": "yifu-factory", "powerProduction": 4.055466216135695, "category": "power"}

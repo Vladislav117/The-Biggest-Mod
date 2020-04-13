@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mose bridge conveyor", "description": "", "health": 20, "range": 5, "speed": 10, "bufferCapacity": 6, "requirements": [{"item": "mose", "amount": 4}, {"item": "zewe", "amount": 3}], "research": "mose-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hiteye battery", "description": "...", "size": 1, "health": 341, "requirements": [{"item": "hiteye", "amount": 12}, {"item": "milosi", "amount": 19}, {"item": "hyxunium", "amount": 10}], "research": "hiteye-factory", "consumes": {"powerBuffered": 410}, "category": "power"}

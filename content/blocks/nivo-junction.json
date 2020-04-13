@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nivo junction", "description": "...", "health": 25, "speed": 9, "capacity": 9, "size": 1, "requirements": [{"item": "nivo", "amount": 3}, {"item": "sihycu", "amount": 2}], "research": "nivo-conveyor", "category": "distribution"}

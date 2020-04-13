@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wogynium battery", "description": "...", "size": 3, "health": 195, "requirements": [{"item": "wogynium", "amount": 6}, {"item": "qireru", "amount": 9}, {"item": "plastanium", "amount": 7}], "research": "wogynium-factory", "consumes": {"powerBuffered": 4489}, "category": "power"}

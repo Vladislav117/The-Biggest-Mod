@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tyvaty power node", "description": "...", "size": 1, "health": 205, "requirements": [{"item": "tyvaty", "amount": 17}, {"item": "dewe", "amount": 7}, {"item": "mozy", "amount": 7}], "research": "tyvaty-factory", "maxNodes": 2, "laserRange": 23, "category": "power"}

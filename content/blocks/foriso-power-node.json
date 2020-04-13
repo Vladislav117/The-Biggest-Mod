@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "foriso power node", "description": "...", "size": 2, "health": 165, "requirements": [{"item": "foriso", "amount": 1}, {"item": "mygyyy", "amount": 4}, {"item": "jypanium", "amount": 4}], "research": "foriso-factory", "maxNodes": 30, "laserRange": 17, "category": "power"}

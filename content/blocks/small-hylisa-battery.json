@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hylisa battery", "description": "...", "size": 1, "health": 376, "requirements": [{"item": "hylisa", "amount": 16}, {"item": "faky", "amount": 13}, {"item": "qixu", "amount": 7}], "research": "hylisa-factory", "consumes": {"powerBuffered": 581}, "category": "power"}

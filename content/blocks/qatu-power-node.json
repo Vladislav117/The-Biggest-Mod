@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qatu power node", "description": "...", "size": 2, "health": 459, "requirements": [{"item": "qatu", "amount": 3}, {"item": "maqe", "amount": 7}, {"item": "sygami", "amount": 2}], "research": "qatu-factory", "maxNodes": 15, "laserRange": 12, "category": "power"}

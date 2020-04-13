@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "pahy overdrive projector", "description": "...", "health": 67, "consumes": {"power": 3.0, "item": "pahy"}, "size": 2, "requirements": [{"item": "pahy", "amount": 1}, {"item": "vipybi", "amount": 12}, {"item": "lapydy", "amount": 7}], "research": "pahy-factory", "category": "effect"}

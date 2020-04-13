@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "miyafa drill", "description": "...", "size": 3, "health": 348, "tier": 2, "drillTime": 15, "consumes": {"power": 15}, "requirements": [{"item": "miyafa", "amount": 1}, {"item": "wyxonium", "amount": 12}, {"item": "veza", "amount": 1}], "research": "miyafa-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small poyawonium power node", "description": "...", "size": 1, "health": 352, "requirements": [{"item": "poyawonium", "amount": 13}, {"item": "lybutinium", "amount": 7}, {"item": "bugyta", "amount": 9}], "research": "poyawonium-factory", "maxNodes": 14, "laserRange": 22, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "beta solar panel", "description": "...", "size": 3, "health": 364, "requirements": [{"item": "beta", "amount": 15}, {"item": "yuqy", "amount": 3}, {"item": "qicinium", "amount": 6}], "research": "beta-factory", "powerProduction": 0.06270870213076554, "category": "power"}

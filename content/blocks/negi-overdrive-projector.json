@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "negi overdrive projector", "description": "...", "health": 50, "consumes": {"power": 3.0, "item": "negi"}, "size": 2, "requirements": [{"item": "negi", "amount": 1}, {"item": "soki", "amount": 20}, {"item": "peyyha", "amount": 9}], "research": "negi-factory", "category": "effect"}

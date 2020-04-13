@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nudady battery", "description": "...", "size": 3, "health": 360, "requirements": [{"item": "nudady", "amount": 10}, {"item": "fuqyty", "amount": 1}, {"item": "wace", "amount": 10}], "research": "nudady-factory", "consumes": {"powerBuffered": 5422}, "category": "power"}

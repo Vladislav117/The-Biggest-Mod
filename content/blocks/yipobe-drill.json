@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yipobe drill", "description": "...", "size": 3, "health": 443, "tier": 3, "drillTime": 16, "consumes": {"power": 19}, "requirements": [{"item": "yipobe", "amount": 9}, {"item": "thorium", "amount": 13}, {"item": "rosiqe", "amount": 4}], "research": "yipobe-factory", "category": "production"}

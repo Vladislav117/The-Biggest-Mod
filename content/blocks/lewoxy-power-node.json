@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lewoxy power node", "description": "...", "size": 2, "health": 265, "requirements": [{"item": "lewoxy", "amount": 5}, {"item": "muyimy", "amount": 10}, {"item": "wekonium", "amount": 10}], "research": "lewoxy-factory", "maxNodes": 19, "laserRange": 23, "category": "power"}

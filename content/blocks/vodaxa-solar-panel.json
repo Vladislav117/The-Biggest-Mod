@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vodaxa solar panel", "description": "...", "size": 3, "health": 55, "requirements": [{"item": "vodaxa", "amount": 6}, {"item": "lowocanium", "amount": 2}, {"item": "raru", "amount": 9}], "research": "vodaxa-factory", "powerProduction": 1.5177673288293474, "category": "power"}

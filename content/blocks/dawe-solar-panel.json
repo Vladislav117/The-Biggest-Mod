@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dawe solar panel", "description": "...", "size": 3, "health": 309, "requirements": [{"item": "dawe", "amount": 6}, {"item": "marici", "amount": 6}, {"item": "yebyte", "amount": 8}], "research": "dawe-factory", "powerProduction": 1.3150015453754265, "category": "power"}

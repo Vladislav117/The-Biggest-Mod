@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yypunium solar panel", "description": "...", "size": 1, "health": 280, "requirements": [{"item": "yypunium", "amount": 17}, {"item": "dugy", "amount": 4}, {"item": "dowynium", "amount": 4}], "research": "yypunium-factory", "powerProduction": 0.1307575087928776, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "seqi liquid tank", "description": "...", "health": 542, "size": 3, "requirements": [{"item": "seqi", "amount": 11}, {"item": "raqo", "amount": 14}, {"item": "gybanium", "amount": 9}], "research": "seqi-conduit", "category": "liquid", "liquidCapacity": 34929, "hasLiquids": true}

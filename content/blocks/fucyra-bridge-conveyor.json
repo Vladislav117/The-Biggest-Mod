@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fucyra bridge conveyor", "description": "", "health": 4, "range": 9, "speed": 9, "bufferCapacity": 21, "requirements": [{"item": "fucyra", "amount": 3}, {"item": "vabenium", "amount": 4}], "research": "fucyra-conveyor", "category": "distribution", "size": 1}

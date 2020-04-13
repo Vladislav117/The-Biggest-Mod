@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zoyinium liquid tank", "description": "...", "health": 211, "size": 3, "requirements": [{"item": "zoyinium", "amount": 14}, {"item": "kixihinium", "amount": 18}, {"item": "moje", "amount": 9}], "research": "zoyinium-conduit", "category": "liquid", "liquidCapacity": 112835, "hasLiquids": true}

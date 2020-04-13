@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small veniga solar panel", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "veniga", "amount": 1}, {"item": "koli", "amount": 13}, {"item": "ryho", "amount": 7}], "research": "veniga-factory", "powerProduction": 1.067608362699513, "category": "power"}

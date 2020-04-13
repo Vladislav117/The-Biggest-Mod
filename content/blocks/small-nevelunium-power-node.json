@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nevelunium power node", "description": "...", "size": 1, "health": 325, "requirements": [{"item": "nevelunium", "amount": 16}, {"item": "qizuxynium", "amount": 15}, {"item": "zaya", "amount": 9}], "research": "nevelunium-factory", "maxNodes": 3, "laserRange": 20, "category": "power"}

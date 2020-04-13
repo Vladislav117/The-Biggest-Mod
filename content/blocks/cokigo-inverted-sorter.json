@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cokigo inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "cokigo", "amount": 1}, {"item": "copper", "amount": 5}], "research": "cokigo-conveyor", "category": "distribution", "invert": true}

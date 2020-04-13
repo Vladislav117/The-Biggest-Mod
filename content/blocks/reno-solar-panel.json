@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "reno solar panel", "description": "...", "size": 3, "health": 186, "requirements": [{"item": "reno", "amount": 7}, {"item": "bawewo", "amount": 2}, {"item": "wekonium", "amount": 5}], "research": "reno-factory", "powerProduction": 3.869537149109884, "category": "power"}

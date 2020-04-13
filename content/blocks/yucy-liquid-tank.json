@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yucy liquid tank", "description": "...", "health": 619, "size": 3, "requirements": [{"item": "yucy", "amount": 10}, {"item": "rukycu", "amount": 16}, {"item": "lowocanium", "amount": 6}], "research": "yucy-conduit", "category": "liquid", "liquidCapacity": 97229, "hasLiquids": true}

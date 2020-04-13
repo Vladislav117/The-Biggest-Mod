@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "falynium underflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "falynium", "amount": 2}, {"item": "myci", "amount": 3}], "research": "falynium-conveyor", "category": "distribution", "invert": false}

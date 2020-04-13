@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mesa conduit", "description": "...", "health": 71, "requirements": [{"item": "mesa", "amount": 20}, {"item": "qobu", "amount": 20}, {"item": "sybo", "amount": 6}], "liquidCapacity": 17, "liquidPressure": 2, "research": "mesa-factory", "category": "liquid"}

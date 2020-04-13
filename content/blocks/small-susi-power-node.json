@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small susi power node", "description": "...", "size": 1, "health": 77, "requirements": [{"item": "susi", "amount": 14}, {"item": "beniyi", "amount": 10}, {"item": "byyu", "amount": 10}], "research": "susi-factory", "maxNodes": 18, "laserRange": 13, "category": "power"}

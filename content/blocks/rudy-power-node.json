@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rudy power node", "description": "...", "size": 2, "health": 544, "requirements": [{"item": "rudy", "amount": 17}, {"item": "vakyxinium", "amount": 20}, {"item": "nayevynium", "amount": 2}], "research": "rudy-factory", "maxNodes": 13, "laserRange": 9, "category": "power"}

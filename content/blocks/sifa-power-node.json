@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sifa power node", "description": "...", "size": 2, "health": 671, "requirements": [{"item": "sifa", "amount": 7}, {"item": "rizope", "amount": 1}, {"item": "yape", "amount": 6}], "research": "sifa-factory", "maxNodes": 54, "laserRange": 10, "category": "power"}

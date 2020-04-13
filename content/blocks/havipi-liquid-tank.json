@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "havipi liquid tank", "description": "...", "health": 623, "size": 3, "requirements": [{"item": "havipi", "amount": 2}, {"item": "jayaye", "amount": 14}, {"item": "favyyo", "amount": 7}], "research": "havipi-conduit", "category": "liquid", "liquidCapacity": 52154, "hasLiquids": true}

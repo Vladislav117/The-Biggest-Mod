@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gunery power node", "description": "...", "size": 1, "health": 335, "requirements": [{"item": "gunery", "amount": 1}, {"item": "kufi", "amount": 14}, {"item": "jaju", "amount": 1}], "research": "gunery-factory", "maxNodes": 14, "laserRange": 3, "category": "power"}

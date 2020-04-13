@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ranyzi conduit", "description": "...", "health": 110, "requirements": [{"item": "ranyzi", "amount": 20}, {"item": "tufi", "amount": 9}, {"item": "nesi", "amount": 7}], "liquidCapacity": 41, "liquidPressure": 1, "research": "ranyzi-factory", "category": "liquid"}

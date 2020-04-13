@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "puhu sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "puhu", "amount": 5}, {"item": "kudanium", "amount": 4}], "research": "puhu-conveyor", "category": "distribution", "invert": false}

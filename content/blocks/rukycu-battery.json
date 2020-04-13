@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rukycu battery", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "rukycu", "amount": 18}, {"item": "jomoka", "amount": 7}, {"item": "titanium", "amount": 8}], "research": "rukycu-factory", "consumes": {"powerBuffered": 5830}, "category": "power"}

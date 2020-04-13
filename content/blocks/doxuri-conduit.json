@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "doxuri conduit", "description": "...", "health": 35, "requirements": [{"item": "doxuri", "amount": 6}, {"item": "geqanium", "amount": 4}, {"item": "naqade", "amount": 8}], "liquidCapacity": 18, "liquidPressure": 1, "research": "doxuri-factory", "category": "liquid"}

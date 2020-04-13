@@ -1,0 +1,1 @@
+{"type": "battery", "name": "veru battery", "description": "...", "size": 3, "health": 308, "requirements": [{"item": "veru", "amount": 20}, {"item": "cujyda", "amount": 4}, {"item": "fyvuyy", "amount": 9}], "research": "veru-factory", "consumes": {"powerBuffered": 5327}, "category": "power"}

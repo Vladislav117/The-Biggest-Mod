@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wupoxy overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "wupoxy", "amount": 4}, {"item": "zosy", "amount": 4}], "research": "wupoxy-conveyor", "category": "distribution", "invert": false}

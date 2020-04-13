@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "belaro overdrive projector", "description": "...", "health": 82, "consumes": {"power": 3.0, "item": "belaro"}, "size": 2, "requirements": [{"item": "belaro", "amount": 7}, {"item": "mecyronium", "amount": 12}, {"item": "dyji", "amount": 10}], "research": "belaro-factory", "category": "effect"}

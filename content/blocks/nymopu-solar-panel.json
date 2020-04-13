@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nymopu solar panel", "description": "...", "size": 3, "health": 343, "requirements": [{"item": "nymopu", "amount": 4}, {"item": "veny", "amount": 19}, {"item": "cazefu", "amount": 4}], "research": "nymopu-factory", "powerProduction": 1.8367378571268036, "category": "power"}

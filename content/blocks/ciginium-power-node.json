@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ciginium power node", "description": "...", "size": 2, "health": 436, "requirements": [{"item": "ciginium", "amount": 9}, {"item": "kyfe", "amount": 18}, {"item": "yilynium", "amount": 5}], "research": "ciginium-factory", "maxNodes": 46, "laserRange": 11, "category": "power"}

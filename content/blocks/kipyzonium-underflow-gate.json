@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kipyzonium underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "kipyzonium", "amount": 2}, {"item": "fusaji", "amount": 5}], "research": "kipyzonium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "labonium battery", "description": "...", "size": 3, "health": 49, "requirements": [{"item": "labonium", "amount": 9}, {"item": "jydi", "amount": 10}, {"item": "soguve", "amount": 3}], "research": "labonium-factory", "consumes": {"powerBuffered": 5200}, "category": "power"}

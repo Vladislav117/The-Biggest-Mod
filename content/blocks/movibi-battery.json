@@ -1,0 +1,1 @@
+{"type": "battery", "name": "movibi battery", "description": "...", "size": 3, "health": 91, "requirements": [{"item": "movibi", "amount": 19}, {"item": "vepuge", "amount": 12}, {"item": "moro", "amount": 2}], "research": "movibi-factory", "consumes": {"powerBuffered": 7489}, "category": "power"}

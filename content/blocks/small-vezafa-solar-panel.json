@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vezafa solar panel", "description": "...", "size": 1, "health": 63, "requirements": [{"item": "vezafa", "amount": 18}, {"item": "cokigo", "amount": 8}, {"item": "rotonium", "amount": 8}], "research": "vezafa-factory", "powerProduction": 0.11957452515950795, "category": "power"}

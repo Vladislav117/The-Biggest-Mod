@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zili liquid tank", "description": "...", "health": 333, "size": 3, "requirements": [{"item": "zili", "amount": 4}, {"item": "zanuja", "amount": 11}, {"item": "xysynium", "amount": 6}], "research": "zili-conduit", "category": "liquid", "liquidCapacity": 86625, "hasLiquids": true}

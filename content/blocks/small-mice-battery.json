@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mice battery", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "mice", "amount": 18}, {"item": "mase", "amount": 2}, {"item": "leyyde", "amount": 5}], "research": "mice-factory", "consumes": {"powerBuffered": 1675}, "category": "power"}

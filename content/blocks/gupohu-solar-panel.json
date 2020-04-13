@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gupohu solar panel", "description": "...", "size": 3, "health": 68, "requirements": [{"item": "gupohu", "amount": 14}, {"item": "majo", "amount": 17}, {"item": "sodyly", "amount": 8}], "research": "gupohu-factory", "powerProduction": 18.385965197550075, "category": "power"}

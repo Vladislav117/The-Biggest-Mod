@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jetuwe solar panel", "description": "...", "size": 1, "health": 148, "requirements": [{"item": "jetuwe", "amount": 4}, {"item": "povewo", "amount": 11}, {"item": "leriki", "amount": 8}], "research": "jetuwe-factory", "powerProduction": 1.948205134747034, "category": "power"}

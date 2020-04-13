@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fygunium solar panel", "description": "...", "size": 1, "health": 232, "requirements": [{"item": "fygunium", "amount": 5}, {"item": "haqu", "amount": 15}, {"item": "vygu", "amount": 8}], "research": "fygunium-factory", "powerProduction": 0.08511632026842728, "category": "power"}

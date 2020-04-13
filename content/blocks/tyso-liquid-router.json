@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tyso liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "tyso", "amount": 10}, {"item": "moje", "amount": 16}, {"item": "xuvogi", "amount": 1}], "research": "tyso-conduit", "liquidCapacity": 10, "category": "liquid"}

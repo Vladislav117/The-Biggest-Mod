@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zewe battery", "description": "...", "size": 3, "health": 196, "requirements": [{"item": "zewe", "amount": 1}, {"item": "sayibe", "amount": 3}, {"item": "yama", "amount": 5}], "research": "zewe-factory", "consumes": {"powerBuffered": 3184}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "puho liquid tank", "description": "...", "health": 604, "size": 3, "requirements": [{"item": "puho", "amount": 20}, {"item": "titanium", "amount": 2}, {"item": "figu", "amount": 9}], "research": "puho-conduit", "category": "liquid", "liquidCapacity": 109977, "hasLiquids": true}

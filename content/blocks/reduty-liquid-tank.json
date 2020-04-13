@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "reduty liquid tank", "description": "...", "health": 619, "size": 3, "requirements": [{"item": "reduty", "amount": 7}, {"item": "hurula", "amount": 10}, {"item": "cyqunium", "amount": 8}], "research": "reduty-conduit", "category": "liquid", "liquidCapacity": 67214, "hasLiquids": true}

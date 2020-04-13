@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lizenium solar panel", "description": "...", "size": 1, "health": 393, "requirements": [{"item": "lizenium", "amount": 5}, {"item": "zydu", "amount": 8}, {"item": "qiregynium", "amount": 6}], "research": "lizenium-factory", "powerProduction": 8.154615721954992, "category": "power"}

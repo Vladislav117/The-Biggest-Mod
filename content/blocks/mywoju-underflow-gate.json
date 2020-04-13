@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mywoju underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "mywoju", "amount": 3}, {"item": "yalaka", "amount": 2}], "research": "mywoju-conveyor", "category": "distribution", "invert": false}

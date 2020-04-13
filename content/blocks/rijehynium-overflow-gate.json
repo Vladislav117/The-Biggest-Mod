@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rijehynium overflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "rijehynium", "amount": 1}, {"item": "buli", "amount": 1}], "research": "rijehynium-conveyor", "category": "distribution", "invert": false}

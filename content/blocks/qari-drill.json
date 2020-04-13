@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qari drill", "description": "...", "size": 2, "health": 198, "tier": 1, "drillTime": 6, "consumes": {"power": 9}, "requirements": [{"item": "qari", "amount": 16}, {"item": "zoyyqynium", "amount": 11}, {"item": "jumonium", "amount": 8}], "research": "qari-factory", "category": "production"}

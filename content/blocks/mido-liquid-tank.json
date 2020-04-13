@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mido liquid tank", "description": "...", "health": 353, "size": 3, "requirements": [{"item": "mido", "amount": 11}, {"item": "qekaye", "amount": 3}, {"item": "phase-fabric", "amount": 2}], "research": "mido-conduit", "category": "liquid", "liquidCapacity": 104984, "hasLiquids": true}

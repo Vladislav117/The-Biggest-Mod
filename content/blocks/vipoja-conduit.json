@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vipoja conduit", "description": "...", "health": 126, "requirements": [{"item": "vipoja", "amount": 12}, {"item": "wabenium", "amount": 13}, {"item": "hytuki", "amount": 9}], "liquidCapacity": 9, "liquidPressure": 2, "research": "vipoja-factory", "category": "liquid"}

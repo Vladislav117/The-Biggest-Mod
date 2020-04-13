@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "yage conveyor", "description": "...", "health": 275, "requirements": [{"item": "yage", "amount": 6}, {"item": "xyza", "amount": 6}], "speed": 0.11474930101170061, "research": "yage-factory", "category": "distribution"}

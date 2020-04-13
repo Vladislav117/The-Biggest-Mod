@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yeyy battery", "description": "...", "size": 1, "health": 257, "requirements": [{"item": "yeyy", "amount": 6}, {"item": "cimafinium", "amount": 20}, {"item": "dyjami", "amount": 7}], "research": "yeyy-factory", "consumes": {"powerBuffered": 474}, "category": "power"}

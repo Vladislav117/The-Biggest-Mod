@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fopuru inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "fopuru", "amount": 5}, {"item": "kecufi", "amount": 4}], "research": "fopuru-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hejonium sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "hejonium", "amount": 2}, {"item": "rexa", "amount": 3}], "research": "hejonium-conveyor", "category": "distribution", "invert": false}

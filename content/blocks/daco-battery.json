@@ -1,0 +1,1 @@
+{"type": "battery", "name": "daco battery", "description": "...", "size": 3, "health": 301, "requirements": [{"item": "daco", "amount": 13}, {"item": "cixe", "amount": 18}, {"item": "zyrufu", "amount": 10}], "research": "daco-factory", "consumes": {"powerBuffered": 590}, "category": "power"}

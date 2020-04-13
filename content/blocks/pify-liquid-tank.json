@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pify liquid tank", "description": "...", "health": 194, "size": 3, "requirements": [{"item": "pify", "amount": 7}, {"item": "pegycy", "amount": 12}, {"item": "dyqasy", "amount": 2}], "research": "pify-conduit", "category": "liquid", "liquidCapacity": 116306, "hasLiquids": true}

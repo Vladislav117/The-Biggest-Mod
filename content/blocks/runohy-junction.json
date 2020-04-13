@@ -1,0 +1,1 @@
+{"type": "junction", "name": "runohy junction", "description": "...", "health": 7, "speed": 12, "capacity": 15, "size": 1, "requirements": [{"item": "runohy", "amount": 5}, {"item": "siyenium", "amount": 4}], "research": "runohy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fika power node", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "fika", "amount": 17}, {"item": "tiwyna", "amount": 10}, {"item": "pominium", "amount": 5}], "research": "fika-factory", "maxNodes": 29, "laserRange": 14, "category": "power"}

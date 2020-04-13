@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qedy liquid tank", "description": "...", "health": 557, "size": 3, "requirements": [{"item": "qedy", "amount": 18}, {"item": "qovy", "amount": 7}, {"item": "hibire", "amount": 7}], "research": "qedy-conduit", "category": "liquid", "liquidCapacity": 53416, "hasLiquids": true}

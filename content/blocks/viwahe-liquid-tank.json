@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "viwahe liquid tank", "description": "...", "health": 535, "size": 3, "requirements": [{"item": "viwahe", "amount": 4}, {"item": "gago", "amount": 2}, {"item": "ryfy", "amount": 8}], "research": "viwahe-conduit", "category": "liquid", "liquidCapacity": 15707, "hasLiquids": true}

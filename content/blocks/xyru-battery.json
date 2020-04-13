@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xyru battery", "description": "...", "size": 3, "health": 165, "requirements": [{"item": "xyru", "amount": 11}, {"item": "kituhinium", "amount": 4}, {"item": "pudogi", "amount": 5}], "research": "xyru-factory", "consumes": {"powerBuffered": 8993}, "category": "power"}

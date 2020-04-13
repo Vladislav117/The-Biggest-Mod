@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xehi power node", "description": "...", "size": 1, "health": 180, "requirements": [{"item": "xehi", "amount": 12}, {"item": "lyzecinium", "amount": 18}, {"item": "heso", "amount": 10}], "research": "xehi-factory", "maxNodes": 13, "laserRange": 16, "category": "power"}

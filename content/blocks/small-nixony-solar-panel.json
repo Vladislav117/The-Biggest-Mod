@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nixony solar panel", "description": "...", "size": 1, "health": 323, "requirements": [{"item": "nixony", "amount": 4}, {"item": "qepusenium", "amount": 16}, {"item": "lijanium", "amount": 10}], "research": "nixony-factory", "powerProduction": 3.9660250062950726, "category": "power"}

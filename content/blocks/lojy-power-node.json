@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lojy power node", "description": "...", "size": 2, "health": 639, "requirements": [{"item": "lojy", "amount": 4}, {"item": "donysenium", "amount": 6}, {"item": "bulile", "amount": 3}], "research": "lojy-factory", "maxNodes": 11, "laserRange": 7, "category": "power"}

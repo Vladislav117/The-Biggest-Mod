@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vysu sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "vysu", "amount": 1}, {"item": "faqymu", "amount": 3}], "research": "vysu-conveyor", "category": "distribution", "invert": false}

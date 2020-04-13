@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fasaze liquid tank", "description": "...", "health": 148, "size": 3, "requirements": [{"item": "fasaze", "amount": 10}, {"item": "cabyzo", "amount": 13}, {"item": "fyyu", "amount": 8}], "research": "fasaze-conduit", "category": "liquid", "liquidCapacity": 15765, "hasLiquids": true}

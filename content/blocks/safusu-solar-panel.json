@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "safusu solar panel", "description": "...", "size": 3, "health": 73, "requirements": [{"item": "safusu", "amount": 14}, {"item": "zukolunium", "amount": 19}, {"item": "byre", "amount": 1}], "research": "safusu-factory", "powerProduction": 1.9733296213327998, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tupo solar panel", "description": "...", "size": 3, "health": 56, "requirements": [{"item": "tupo", "amount": 7}, {"item": "byhonium", "amount": 16}, {"item": "lyheti", "amount": 8}], "research": "tupo-factory", "powerProduction": 0.2012699834232388, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dena liquid tank", "description": "...", "health": 461, "size": 3, "requirements": [{"item": "dena", "amount": 13}, {"item": "kymu", "amount": 8}, {"item": "zazuti", "amount": 6}], "research": "dena-conduit", "category": "liquid", "liquidCapacity": 62722, "hasLiquids": true}

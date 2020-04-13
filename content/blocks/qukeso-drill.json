@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qukeso drill", "description": "...", "size": 4, "health": 412, "tier": 3, "drillTime": 11, "consumes": {"power": 11}, "requirements": [{"item": "qukeso", "amount": 15}, {"item": "laranium", "amount": 13}, {"item": "viqi", "amount": 5}], "research": "qukeso-factory", "category": "production"}

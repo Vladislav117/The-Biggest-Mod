@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qefa power node", "description": "...", "size": 1, "health": 291, "requirements": [{"item": "qefa", "amount": 5}, {"item": "leloyi", "amount": 13}, {"item": "haqu", "amount": 9}], "research": "qefa-factory", "maxNodes": 26, "laserRange": 22, "category": "power"}

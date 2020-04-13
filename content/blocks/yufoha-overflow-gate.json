@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yufoha overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "yufoha", "amount": 4}, {"item": "wedo", "amount": 3}], "research": "yufoha-conveyor", "category": "distribution", "invert": false}

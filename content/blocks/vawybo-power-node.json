@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vawybo power node", "description": "...", "size": 2, "health": 797, "requirements": [{"item": "vawybo", "amount": 16}, {"item": "seyi", "amount": 7}, {"item": "zugoni", "amount": 7}], "research": "vawybo-factory", "maxNodes": 26, "laserRange": 5, "category": "power"}

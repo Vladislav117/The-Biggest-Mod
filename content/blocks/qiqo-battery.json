@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qiqo battery", "description": "...", "size": 3, "health": 341, "requirements": [{"item": "qiqo", "amount": 2}, {"item": "macixy", "amount": 5}, {"item": "napunium", "amount": 2}], "research": "qiqo-factory", "consumes": {"powerBuffered": 4123}, "category": "power"}

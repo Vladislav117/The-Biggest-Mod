@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small besivi solar panel", "description": "...", "size": 1, "health": 181, "requirements": [{"item": "besivi", "amount": 17}, {"item": "gomuko", "amount": 2}, {"item": "yape", "amount": 10}], "research": "besivi-factory", "powerProduction": 3.519083796243863, "category": "power"}

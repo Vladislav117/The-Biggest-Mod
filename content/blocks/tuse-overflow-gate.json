@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tuse overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "tuse", "amount": 5}, {"item": "layi", "amount": 1}], "research": "tuse-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qeca battery", "description": "...", "size": 3, "health": 213, "requirements": [{"item": "qeca", "amount": 9}, {"item": "tifi", "amount": 3}, {"item": "yihe", "amount": 9}], "research": "qeca-factory", "consumes": {"powerBuffered": 4247}, "category": "power"}

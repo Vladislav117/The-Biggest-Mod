@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wixyti junction", "description": "...", "health": 20, "speed": 6, "capacity": 16, "size": 1, "requirements": [{"item": "wixyti", "amount": 1}, {"item": "cuxenium", "amount": 5}], "research": "wixyti-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zuwonium battery", "description": "...", "size": 3, "health": 149, "requirements": [{"item": "zuwonium", "amount": 3}, {"item": "myfo", "amount": 6}, {"item": "yeku", "amount": 1}], "research": "zuwonium-factory", "consumes": {"powerBuffered": 9698}, "category": "power"}

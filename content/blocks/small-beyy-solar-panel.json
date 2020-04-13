@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small beyy solar panel", "description": "...", "size": 1, "health": 25, "requirements": [{"item": "beyy", "amount": 10}, {"item": "wekonium", "amount": 13}, {"item": "rylyki", "amount": 1}], "research": "beyy-factory", "powerProduction": 2.915983578517208, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "temoqi underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "temoqi", "amount": 5}, {"item": "cyyo", "amount": 5}], "research": "temoqi-conveyor", "category": "distribution", "invert": false}

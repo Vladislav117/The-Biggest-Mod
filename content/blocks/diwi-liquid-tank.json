@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "diwi liquid tank", "description": "...", "health": 220, "size": 3, "requirements": [{"item": "diwi", "amount": 18}, {"item": "puzonium", "amount": 15}, {"item": "zefu", "amount": 7}], "research": "diwi-conduit", "category": "liquid", "liquidCapacity": 104102, "hasLiquids": true}

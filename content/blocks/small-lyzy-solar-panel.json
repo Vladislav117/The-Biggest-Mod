@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lyzy solar panel", "description": "...", "size": 1, "health": 338, "requirements": [{"item": "lyzy", "amount": 6}, {"item": "metaglass", "amount": 11}, {"item": "besu", "amount": 4}], "research": "lyzy-factory", "powerProduction": 0.020837774372522554, "category": "power"}

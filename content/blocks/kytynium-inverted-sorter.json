@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kytynium inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "kytynium", "amount": 1}, {"item": "cumo", "amount": 1}], "research": "kytynium-conveyor", "category": "distribution", "invert": true}

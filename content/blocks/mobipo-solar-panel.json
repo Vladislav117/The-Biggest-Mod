@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mobipo solar panel", "description": "...", "size": 3, "health": 344, "requirements": [{"item": "mobipo", "amount": 6}, {"item": "qacu", "amount": 19}, {"item": "gewuhy", "amount": 7}], "research": "mobipo-factory", "powerProduction": 0.01180948696285839, "category": "power"}

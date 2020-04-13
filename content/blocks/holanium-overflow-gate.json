@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "holanium overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "holanium", "amount": 4}, {"item": "reqoxu", "amount": 2}], "research": "holanium-conveyor", "category": "distribution", "invert": false}

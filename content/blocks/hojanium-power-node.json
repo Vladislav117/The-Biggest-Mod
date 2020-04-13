@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hojanium power node", "description": "...", "size": 2, "health": 24, "requirements": [{"item": "hojanium", "amount": 4}, {"item": "ruwucynium", "amount": 8}, {"item": "zyluci", "amount": 2}], "research": "hojanium-factory", "maxNodes": 37, "laserRange": 12, "category": "power"}

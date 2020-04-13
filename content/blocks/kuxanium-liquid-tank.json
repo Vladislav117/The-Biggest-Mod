@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kuxanium liquid tank", "description": "...", "health": 507, "size": 3, "requirements": [{"item": "kuxanium", "amount": 18}, {"item": "lubaco", "amount": 18}, {"item": "wiwo", "amount": 3}], "research": "kuxanium-conduit", "category": "liquid", "liquidCapacity": 46280, "hasLiquids": true}

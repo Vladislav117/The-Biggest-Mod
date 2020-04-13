@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tedi junction", "description": "...", "health": 26, "speed": 1, "capacity": 5, "size": 1, "requirements": [{"item": "tedi", "amount": 1}, {"item": "cydeyy", "amount": 5}], "research": "tedi-conveyor", "category": "distribution"}

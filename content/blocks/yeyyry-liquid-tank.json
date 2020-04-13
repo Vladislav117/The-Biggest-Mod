@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yeyyry liquid tank", "description": "...", "health": 400, "size": 3, "requirements": [{"item": "yeyyry", "amount": 3}, {"item": "nataki", "amount": 18}, {"item": "qusy", "amount": 5}], "research": "yeyyry-conduit", "category": "liquid", "liquidCapacity": 12424, "hasLiquids": true}

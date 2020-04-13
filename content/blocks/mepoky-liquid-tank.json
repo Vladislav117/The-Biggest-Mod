@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mepoky liquid tank", "description": "...", "health": 364, "size": 3, "requirements": [{"item": "mepoky", "amount": 12}, {"item": "neda", "amount": 18}, {"item": "qery", "amount": 10}], "research": "mepoky-conduit", "category": "liquid", "liquidCapacity": 46699, "hasLiquids": true}

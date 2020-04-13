@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wiyuho liquid tank", "description": "...", "health": 348, "size": 3, "requirements": [{"item": "wiyuho", "amount": 6}, {"item": "xurenium", "amount": 13}, {"item": "nijuto", "amount": 7}], "research": "wiyuho-conduit", "category": "liquid", "liquidCapacity": 115848, "hasLiquids": true}

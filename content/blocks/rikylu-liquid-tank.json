@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rikylu liquid tank", "description": "...", "health": 396, "size": 3, "requirements": [{"item": "rikylu", "amount": 5}, {"item": "qiseho", "amount": 18}, {"item": "ryzyzi", "amount": 3}], "research": "rikylu-conduit", "category": "liquid", "liquidCapacity": 29090, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kilu bridge conveyor", "description": "", "health": 15, "range": 3, "speed": 17, "bufferCapacity": 1, "requirements": [{"item": "kilu", "amount": 4}, {"item": "vewavu", "amount": 4}], "research": "kilu-conveyor", "category": "distribution", "size": 1}

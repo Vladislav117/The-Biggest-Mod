@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ryheco battery", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "ryheco", "amount": 10}, {"item": "hocode", "amount": 19}, {"item": "xafi", "amount": 1}], "research": "ryheco-factory", "consumes": {"powerBuffered": 343}, "category": "power"}

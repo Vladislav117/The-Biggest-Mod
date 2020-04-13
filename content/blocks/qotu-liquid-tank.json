@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qotu liquid tank", "description": "...", "health": 190, "size": 3, "requirements": [{"item": "qotu", "amount": 7}, {"item": "tavupi", "amount": 19}, {"item": "beku", "amount": 1}], "research": "qotu-conduit", "category": "liquid", "liquidCapacity": 27451, "hasLiquids": true}

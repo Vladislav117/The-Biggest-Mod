@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jyfare inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "jyfare", "amount": 4}, {"item": "paso", "amount": 2}], "research": "jyfare-conveyor", "category": "distribution", "invert": true}

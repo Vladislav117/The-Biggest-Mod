@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bipanium battery", "description": "...", "size": 3, "health": 79, "requirements": [{"item": "bipanium", "amount": 17}, {"item": "niqy", "amount": 14}, {"item": "mizu", "amount": 8}], "research": "bipanium-factory", "consumes": {"powerBuffered": 6149}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mepysynium conduit", "description": "...", "health": 48, "requirements": [{"item": "mepysynium", "amount": 15}, {"item": "goxylo", "amount": 17}, {"item": "bedagy", "amount": 3}], "liquidCapacity": 10, "liquidPressure": 4, "research": "mepysynium-factory", "category": "liquid"}

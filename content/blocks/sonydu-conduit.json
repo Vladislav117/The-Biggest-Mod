@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sonydu conduit", "description": "...", "health": 118, "requirements": [{"item": "sonydu", "amount": 12}, {"item": "nolo", "amount": 14}, {"item": "qiqe", "amount": 6}], "liquidCapacity": 4, "liquidPressure": 1, "research": "sonydu-factory", "category": "liquid"}

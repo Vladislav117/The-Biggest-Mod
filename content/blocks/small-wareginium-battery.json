@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wareginium battery", "description": "...", "size": 1, "health": 368, "requirements": [{"item": "wareginium", "amount": 9}, {"item": "kelurynium", "amount": 3}, {"item": "qusy", "amount": 1}], "research": "wareginium-factory", "consumes": {"powerBuffered": 2094}, "category": "power"}

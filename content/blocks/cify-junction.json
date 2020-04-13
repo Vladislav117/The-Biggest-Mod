@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cify junction", "description": "...", "health": 13, "speed": 4, "capacity": 15, "size": 1, "requirements": [{"item": "cify", "amount": 5}, {"item": "mivini", "amount": 2}], "research": "cify-conveyor", "category": "distribution"}

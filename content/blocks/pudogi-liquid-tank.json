@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pudogi liquid tank", "description": "...", "health": 281, "size": 3, "requirements": [{"item": "pudogi", "amount": 3}, {"item": "kezunium", "amount": 20}, {"item": "masoxo", "amount": 4}], "research": "pudogi-conduit", "category": "liquid", "liquidCapacity": 51940, "hasLiquids": true}

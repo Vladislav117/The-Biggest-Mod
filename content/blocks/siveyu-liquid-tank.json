@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "siveyu liquid tank", "description": "...", "health": 591, "size": 3, "requirements": [{"item": "siveyu", "amount": 19}, {"item": "roxujo", "amount": 4}, {"item": "yebunonium", "amount": 4}], "research": "siveyu-conduit", "category": "liquid", "liquidCapacity": 53240, "hasLiquids": true}

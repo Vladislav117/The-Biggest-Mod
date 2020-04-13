@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wehiga liquid tank", "description": "...", "health": 120, "size": 3, "requirements": [{"item": "wehiga", "amount": 6}, {"item": "jimi", "amount": 19}, {"item": "bileyu", "amount": 3}], "research": "wehiga-conduit", "category": "liquid", "liquidCapacity": 104373, "hasLiquids": true}

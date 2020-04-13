@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vypeha underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "vypeha", "amount": 4}, {"item": "teyigu", "amount": 5}], "research": "vypeha-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zuvivynium bridge conveyor", "description": "", "health": 21, "range": 3, "speed": 8, "bufferCapacity": 18, "requirements": [{"item": "zuvivynium", "amount": 2}, {"item": "kepexe", "amount": 3}], "research": "zuvivynium-conveyor", "category": "distribution", "size": 1}

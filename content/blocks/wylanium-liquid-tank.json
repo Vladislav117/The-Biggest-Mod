@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wylanium liquid tank", "description": "...", "health": 248, "size": 3, "requirements": [{"item": "wylanium", "amount": 1}, {"item": "cobunium", "amount": 5}, {"item": "dojove", "amount": 4}], "research": "wylanium-conduit", "category": "liquid", "liquidCapacity": 115648, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "deyy liquid tank", "description": "...", "health": 628, "size": 3, "requirements": [{"item": "deyy", "amount": 10}, {"item": "lunido", "amount": 6}, {"item": "daqy", "amount": 8}], "research": "deyy-conduit", "category": "liquid", "liquidCapacity": 111568, "hasLiquids": true}

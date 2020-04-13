@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pufu junction", "description": "...", "health": 28, "speed": 1, "capacity": 6, "size": 1, "requirements": [{"item": "pufu", "amount": 4}, {"item": "vykeso", "amount": 1}], "research": "pufu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yoqaja solar panel", "description": "...", "size": 1, "health": 249, "requirements": [{"item": "yoqaja", "amount": 18}, {"item": "zuhisu", "amount": 6}, {"item": "wywelu", "amount": 9}], "research": "yoqaja-factory", "powerProduction": 5.921959231608412, "category": "power"}

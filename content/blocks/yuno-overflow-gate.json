@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yuno overflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "yuno", "amount": 2}, {"item": "vytuxe", "amount": 4}], "research": "yuno-conveyor", "category": "distribution", "invert": false}

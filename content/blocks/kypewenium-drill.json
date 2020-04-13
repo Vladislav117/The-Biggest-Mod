@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kypewenium drill", "description": "...", "size": 2, "health": 366, "tier": 1, "drillTime": 10, "consumes": {"power": 9}, "requirements": [{"item": "kypewenium", "amount": 1}, {"item": "tufo", "amount": 4}, {"item": "dyqo", "amount": 2}], "research": "kypewenium-factory", "category": "production"}

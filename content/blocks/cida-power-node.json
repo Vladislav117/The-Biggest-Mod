@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cida power node", "description": "...", "size": 2, "health": 636, "requirements": [{"item": "cida", "amount": 2}, {"item": "pojesu", "amount": 2}, {"item": "cizi", "amount": 6}], "research": "cida-factory", "maxNodes": 26, "laserRange": 15, "category": "power"}

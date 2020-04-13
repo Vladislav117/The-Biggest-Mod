@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "numuwanium liquid router", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "numuwanium", "amount": 7}, {"item": "nejesu", "amount": 16}, {"item": "fupymi", "amount": 4}], "research": "numuwanium-conduit", "liquidCapacity": 10, "category": "liquid"}

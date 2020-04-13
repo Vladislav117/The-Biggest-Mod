@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yuly drill", "description": "...", "size": 3, "health": 432, "tier": 2, "drillTime": 6, "consumes": {"power": 3}, "requirements": [{"item": "yuly", "amount": 15}, {"item": "zija", "amount": 11}, {"item": "guliyu", "amount": 1}], "research": "yuly-factory", "category": "production"}

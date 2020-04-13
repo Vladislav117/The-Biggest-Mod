@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tise solar panel", "description": "...", "size": 3, "health": 351, "requirements": [{"item": "tise", "amount": 20}, {"item": "kiredi", "amount": 15}, {"item": "gyfeca", "amount": 8}], "research": "tise-factory", "powerProduction": 3.23295348662197, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kivuzi solar panel", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "kivuzi", "amount": 8}, {"item": "rizu", "amount": 16}, {"item": "vyjoti", "amount": 1}], "research": "kivuzi-factory", "powerProduction": 0.3490300999054334, "category": "power"}

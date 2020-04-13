@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wycenu solar panel", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "wycenu", "amount": 1}, {"item": "roqeki", "amount": 12}, {"item": "qodeqe", "amount": 10}], "research": "wycenu-factory", "powerProduction": 1.1120162396721582, "category": "power"}

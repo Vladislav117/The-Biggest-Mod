@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mawanium battery", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "mawanium", "amount": 11}, {"item": "gacy", "amount": 17}, {"item": "gimy", "amount": 8}], "research": "mawanium-factory", "consumes": {"powerBuffered": 9779}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wabi power node", "description": "...", "size": 2, "health": 616, "requirements": [{"item": "wabi", "amount": 11}, {"item": "haviyunium", "amount": 19}, {"item": "hurula", "amount": 1}], "research": "wabi-factory", "maxNodes": 50, "laserRange": 27, "category": "power"}

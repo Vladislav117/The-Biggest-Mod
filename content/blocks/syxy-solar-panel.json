@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "syxy solar panel", "description": "...", "size": 3, "health": 244, "requirements": [{"item": "syxy", "amount": 16}, {"item": "bumaqa", "amount": 16}, {"item": "makonium", "amount": 1}], "research": "syxy-factory", "powerProduction": 5.3974129893273295, "category": "power"}

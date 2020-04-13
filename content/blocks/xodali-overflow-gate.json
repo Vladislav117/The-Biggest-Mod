@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xodali overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "xodali", "amount": 5}, {"item": "bufywy", "amount": 2}], "research": "xodali-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vipoja liquid tank", "description": "...", "health": 577, "size": 3, "requirements": [{"item": "vipoja", "amount": 15}, {"item": "cuyy", "amount": 19}, {"item": "siwyqo", "amount": 10}], "research": "vipoja-conduit", "category": "liquid", "liquidCapacity": 42173, "hasLiquids": true}

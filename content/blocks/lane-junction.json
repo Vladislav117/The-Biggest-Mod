@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lane junction", "description": "...", "health": 37, "speed": 15, "capacity": 17, "size": 1, "requirements": [{"item": "lane", "amount": 3}, {"item": "liqy", "amount": 2}], "research": "lane-conveyor", "category": "distribution"}

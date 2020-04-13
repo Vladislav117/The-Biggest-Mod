@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dawe power node", "description": "...", "size": 2, "health": 400, "requirements": [{"item": "dawe", "amount": 6}, {"item": "hurula", "amount": 14}, {"item": "byfa", "amount": 8}], "research": "dawe-factory", "maxNodes": 11, "laserRange": 18, "category": "power"}

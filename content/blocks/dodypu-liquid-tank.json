@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dodypu liquid tank", "description": "...", "health": 179, "size": 3, "requirements": [{"item": "dodypu", "amount": 12}, {"item": "taze", "amount": 16}, {"item": "porafa", "amount": 4}], "research": "dodypu-conduit", "category": "liquid", "liquidCapacity": 106341, "hasLiquids": true}

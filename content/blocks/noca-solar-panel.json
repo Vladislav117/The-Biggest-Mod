@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "noca solar panel", "description": "...", "size": 3, "health": 75, "requirements": [{"item": "noca", "amount": 1}, {"item": "hiqeyi", "amount": 17}, {"item": "dyde", "amount": 5}], "research": "noca-factory", "powerProduction": 0.2620108028001427, "category": "power"}

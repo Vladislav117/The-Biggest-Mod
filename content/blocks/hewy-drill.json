@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hewy drill", "description": "...", "size": 3, "health": 282, "tier": 4, "drillTime": 19, "consumes": {"power": 9}, "requirements": [{"item": "hewy", "amount": 8}, {"item": "qylino", "amount": 5}, {"item": "xeye", "amount": 7}], "research": "hewy-factory", "category": "production"}

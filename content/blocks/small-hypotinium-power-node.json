@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hypotinium power node", "description": "...", "size": 1, "health": 122, "requirements": [{"item": "hypotinium", "amount": 12}, {"item": "rehyce", "amount": 7}, {"item": "marici", "amount": 9}], "research": "hypotinium-factory", "maxNodes": 19, "laserRange": 18, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small noveba power node", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "noveba", "amount": 4}, {"item": "zore", "amount": 5}, {"item": "bexo", "amount": 8}], "research": "noveba-factory", "maxNodes": 20, "laserRange": 16, "category": "power"}

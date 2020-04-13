@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mumujy junction", "description": "...", "health": 14, "speed": 18, "capacity": 13, "size": 1, "requirements": [{"item": "mumujy", "amount": 2}, {"item": "rutiri", "amount": 3}], "research": "mumujy-conveyor", "category": "distribution"}

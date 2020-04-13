@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kixy underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "kixy", "amount": 2}, {"item": "vewi", "amount": 5}], "research": "kixy-conveyor", "category": "distribution", "invert": false}

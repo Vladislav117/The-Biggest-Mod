@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xenira power node", "description": "...", "size": 2, "health": 285, "requirements": [{"item": "xenira", "amount": 3}, {"item": "repetu", "amount": 15}, {"item": "muhi", "amount": 2}], "research": "xenira-factory", "maxNodes": 47, "laserRange": 29, "category": "power"}

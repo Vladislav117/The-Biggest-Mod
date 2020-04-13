@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fipa junction", "description": "...", "health": 27, "speed": 13, "capacity": 16, "size": 1, "requirements": [{"item": "fipa", "amount": 5}, {"item": "tahysonium", "amount": 1}], "research": "fipa-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "koty liquid router", "description": "...", "size": 1, "health": 77, "requirements": [{"item": "koty", "amount": 1}, {"item": "neloto", "amount": 10}, {"item": "velewo", "amount": 5}], "research": "koty-conduit", "liquidCapacity": 10, "category": "liquid"}

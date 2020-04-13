@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qaya battery", "description": "...", "size": 3, "health": 121, "requirements": [{"item": "qaya", "amount": 19}, {"item": "xyfynium", "amount": 6}, {"item": "fesixa", "amount": 6}], "research": "qaya-factory", "consumes": {"powerBuffered": 2473}, "category": "power"}

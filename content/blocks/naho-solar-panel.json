@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "naho solar panel", "description": "...", "size": 3, "health": 138, "requirements": [{"item": "naho", "amount": 20}, {"item": "xuxyvo", "amount": 15}, {"item": "neqose", "amount": 10}], "research": "naho-factory", "powerProduction": 0.22535811467592876, "category": "power"}

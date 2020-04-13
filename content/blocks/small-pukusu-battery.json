@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pukusu battery", "description": "...", "size": 1, "health": 343, "requirements": [{"item": "pukusu", "amount": 10}, {"item": "rasiro", "amount": 19}, {"item": "hemumonium", "amount": 4}], "research": "pukusu-factory", "consumes": {"powerBuffered": 1157}, "category": "power"}

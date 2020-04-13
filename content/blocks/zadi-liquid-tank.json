@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zadi liquid tank", "description": "...", "health": 643, "size": 3, "requirements": [{"item": "zadi", "amount": 12}, {"item": "giyaju", "amount": 17}, {"item": "mote", "amount": 10}], "research": "zadi-conduit", "category": "liquid", "liquidCapacity": 70332, "hasLiquids": true}

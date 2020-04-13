@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mynoli solar panel", "description": "...", "size": 1, "health": 181, "requirements": [{"item": "mynoli", "amount": 4}, {"item": "dono", "amount": 14}, {"item": "taja", "amount": 10}], "research": "mynoli-factory", "powerProduction": 0.22093715402530764, "category": "power"}

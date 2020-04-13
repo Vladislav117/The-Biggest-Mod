@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gyporu bridge conveyor", "description": "", "health": 40, "range": 5, "speed": 6, "bufferCapacity": 6, "requirements": [{"item": "gyporu", "amount": 3}, {"item": "rysi", "amount": 4}], "research": "gyporu-conveyor", "category": "distribution", "size": 1}

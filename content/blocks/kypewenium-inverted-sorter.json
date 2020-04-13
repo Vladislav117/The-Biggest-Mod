@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kypewenium inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "kypewenium", "amount": 4}, {"item": "kepo", "amount": 1}], "research": "kypewenium-conveyor", "category": "distribution", "invert": true}

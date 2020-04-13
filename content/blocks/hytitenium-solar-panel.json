@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hytitenium solar panel", "description": "...", "size": 3, "health": 157, "requirements": [{"item": "hytitenium", "amount": 20}, {"item": "maqe", "amount": 7}, {"item": "yodo", "amount": 4}], "research": "hytitenium-factory", "powerProduction": 3.930520463331349, "category": "power"}

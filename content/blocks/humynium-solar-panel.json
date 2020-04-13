@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "humynium solar panel", "description": "...", "size": 3, "health": 113, "requirements": [{"item": "humynium", "amount": 3}, {"item": "qefa", "amount": 8}, {"item": "vipybi", "amount": 2}], "research": "humynium-factory", "powerProduction": 0.35035806845426726, "category": "power"}

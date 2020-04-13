@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xidunium junction", "description": "...", "health": 31, "speed": 7, "capacity": 20, "size": 1, "requirements": [{"item": "xidunium", "amount": 3}, {"item": "hiwe", "amount": 3}], "research": "xidunium-conveyor", "category": "distribution"}

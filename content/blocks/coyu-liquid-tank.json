@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "coyu liquid tank", "description": "...", "health": 589, "size": 3, "requirements": [{"item": "coyu", "amount": 9}, {"item": "vipi", "amount": 8}, {"item": "qeno", "amount": 7}], "research": "coyu-conduit", "category": "liquid", "liquidCapacity": 79621, "hasLiquids": true}

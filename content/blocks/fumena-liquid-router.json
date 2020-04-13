@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fumena liquid router", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "fumena", "amount": 9}, {"item": "bapi", "amount": 4}, {"item": "curosa", "amount": 5}], "research": "fumena-conduit", "liquidCapacity": 10, "category": "liquid"}

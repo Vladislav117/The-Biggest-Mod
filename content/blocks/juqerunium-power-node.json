@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "juqerunium power node", "description": "...", "size": 2, "health": 292, "requirements": [{"item": "juqerunium", "amount": 18}, {"item": "xebili", "amount": 5}, {"item": "vitina", "amount": 2}], "research": "juqerunium-factory", "maxNodes": 57, "laserRange": 16, "category": "power"}

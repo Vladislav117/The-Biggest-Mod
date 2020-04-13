@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jugowe battery", "description": "...", "size": 3, "health": 151, "requirements": [{"item": "jugowe", "amount": 19}, {"item": "nerymi", "amount": 16}, {"item": "wiqa", "amount": 2}], "research": "jugowe-factory", "consumes": {"powerBuffered": 4049}, "category": "power"}

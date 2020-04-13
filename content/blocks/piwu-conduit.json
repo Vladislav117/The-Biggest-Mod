@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "piwu conduit", "description": "...", "health": 151, "requirements": [{"item": "piwu", "amount": 4}, {"item": "ruwucynium", "amount": 7}, {"item": "fevawinium", "amount": 3}], "liquidCapacity": 50, "liquidPressure": 7, "research": "piwu-factory", "category": "liquid"}

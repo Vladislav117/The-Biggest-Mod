@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tusico liquid tank", "description": "...", "health": 148, "size": 3, "requirements": [{"item": "tusico", "amount": 9}, {"item": "vohiyynium", "amount": 4}, {"item": "surge-alloy", "amount": 4}], "research": "tusico-conduit", "category": "liquid", "liquidCapacity": 4643, "hasLiquids": true}

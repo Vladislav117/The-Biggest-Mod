@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wamu drill", "description": "...", "size": 3, "health": 277, "tier": 2, "drillTime": 12, "consumes": {"power": 10}, "requirements": [{"item": "wamu", "amount": 15}, {"item": "heso", "amount": 9}, {"item": "dawe", "amount": 1}], "research": "wamu-factory", "category": "production"}

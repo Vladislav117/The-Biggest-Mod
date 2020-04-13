@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qucudi inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "qucudi", "amount": 3}, {"item": "xoge", "amount": 5}], "research": "qucudi-conveyor", "category": "distribution", "invert": true}

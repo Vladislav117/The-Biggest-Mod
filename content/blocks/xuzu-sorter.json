@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xuzu sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "xuzu", "amount": 4}, {"item": "hytitenium", "amount": 2}], "research": "xuzu-conveyor", "category": "distribution", "invert": false}

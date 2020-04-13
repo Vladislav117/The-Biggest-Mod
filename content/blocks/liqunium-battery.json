@@ -1,0 +1,1 @@
+{"type": "battery", "name": "liqunium battery", "description": "...", "size": 3, "health": 163, "requirements": [{"item": "liqunium", "amount": 1}, {"item": "colu", "amount": 13}, {"item": "xonanium", "amount": 8}], "research": "liqunium-factory", "consumes": {"powerBuffered": 5014}, "category": "power"}

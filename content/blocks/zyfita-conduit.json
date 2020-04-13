@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zyfita conduit", "description": "...", "health": 32, "requirements": [{"item": "zyfita", "amount": 6}, {"item": "nolo", "amount": 11}, {"item": "jezo", "amount": 1}], "liquidCapacity": 45, "liquidPressure": 7, "research": "zyfita-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zaqenium battery", "description": "...", "size": 3, "health": 41, "requirements": [{"item": "zaqenium", "amount": 1}, {"item": "nayu", "amount": 13}, {"item": "zafuqo", "amount": 7}], "research": "zaqenium-factory", "consumes": {"powerBuffered": 3153}, "category": "power"}

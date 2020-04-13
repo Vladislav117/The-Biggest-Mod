@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jobo power node", "description": "...", "size": 1, "health": 382, "requirements": [{"item": "jobo", "amount": 13}, {"item": "rale", "amount": 5}, {"item": "judu", "amount": 1}], "research": "jobo-factory", "maxNodes": 9, "laserRange": 11, "category": "power"}

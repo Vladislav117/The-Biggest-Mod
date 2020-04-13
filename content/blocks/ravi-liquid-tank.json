@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ravi liquid tank", "description": "...", "health": 329, "size": 3, "requirements": [{"item": "ravi", "amount": 3}, {"item": "baqo", "amount": 5}, {"item": "coka", "amount": 3}], "research": "ravi-conduit", "category": "liquid", "liquidCapacity": 90651, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rewunium conduit", "description": "...", "health": 112, "requirements": [{"item": "rewunium", "amount": 15}, {"item": "xyzeja", "amount": 11}, {"item": "suvi", "amount": 3}], "liquidCapacity": 10, "liquidPressure": 1, "research": "rewunium-factory", "category": "liquid"}

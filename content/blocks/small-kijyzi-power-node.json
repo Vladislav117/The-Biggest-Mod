@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kijyzi power node", "description": "...", "size": 1, "health": 300, "requirements": [{"item": "kijyzi", "amount": 16}, {"item": "zayuku", "amount": 1}, {"item": "fikunium", "amount": 5}], "research": "kijyzi-factory", "maxNodes": 29, "laserRange": 15, "category": "power"}

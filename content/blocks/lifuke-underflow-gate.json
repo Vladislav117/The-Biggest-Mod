@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lifuke underflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "lifuke", "amount": 2}, {"item": "yyle", "amount": 5}], "research": "lifuke-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gado battery", "description": "...", "size": 1, "health": 137, "requirements": [{"item": "gado", "amount": 12}, {"item": "cuse", "amount": 5}, {"item": "mynufu", "amount": 9}], "research": "gado-factory", "consumes": {"powerBuffered": 1218}, "category": "power"}

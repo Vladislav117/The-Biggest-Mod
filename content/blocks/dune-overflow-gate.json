@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dune overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "dune", "amount": 3}, {"item": "cavuyi", "amount": 2}], "research": "dune-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hujy conduit", "description": "...", "health": 60, "requirements": [{"item": "hujy", "amount": 20}, {"item": "kiduka", "amount": 19}, {"item": "jyyo", "amount": 1}], "liquidCapacity": 18, "liquidPressure": 6, "research": "hujy-factory", "category": "liquid"}

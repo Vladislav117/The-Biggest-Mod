@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "veru liquid tank", "description": "...", "health": 189, "size": 3, "requirements": [{"item": "veru", "amount": 16}, {"item": "qosedi", "amount": 3}, {"item": "zuva", "amount": 7}], "research": "veru-conduit", "category": "liquid", "liquidCapacity": 57142, "hasLiquids": true}

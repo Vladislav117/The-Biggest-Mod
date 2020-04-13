@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bedi liquid router", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "bedi", "amount": 9}, {"item": "tizusa", "amount": 15}, {"item": "kyma", "amount": 7}], "research": "bedi-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zonufu solar panel", "description": "...", "size": 3, "health": 329, "requirements": [{"item": "zonufu", "amount": 19}, {"item": "halyqinium", "amount": 12}, {"item": "hixu", "amount": 6}], "research": "zonufu-factory", "powerProduction": 3.7668476330435294, "category": "power"}

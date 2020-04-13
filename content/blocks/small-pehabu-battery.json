@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pehabu battery", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "pehabu", "amount": 15}, {"item": "gurale", "amount": 10}, {"item": "tebi", "amount": 9}], "research": "pehabu-factory", "consumes": {"powerBuffered": 432}, "category": "power"}

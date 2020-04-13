@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "moro conduit", "description": "...", "health": 110, "requirements": [{"item": "moro", "amount": 5}, {"item": "bajenium", "amount": 5}, {"item": "zoyyqynium", "amount": 1}], "liquidCapacity": 16, "liquidPressure": 6, "research": "moro-factory", "category": "liquid"}

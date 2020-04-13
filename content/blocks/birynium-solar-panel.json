@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "birynium solar panel", "description": "...", "size": 3, "health": 257, "requirements": [{"item": "birynium", "amount": 9}, {"item": "hedi", "amount": 6}, {"item": "muti", "amount": 4}], "research": "birynium-factory", "powerProduction": 3.4278583749024536, "category": "power"}

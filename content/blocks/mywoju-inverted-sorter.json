@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mywoju inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "mywoju", "amount": 2}, {"item": "yadyju", "amount": 3}], "research": "mywoju-conveyor", "category": "distribution", "invert": true}

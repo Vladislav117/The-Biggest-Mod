@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wiraby underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "wiraby", "amount": 4}, {"item": "xuxugy", "amount": 3}], "research": "wiraby-conveyor", "category": "distribution", "invert": false}

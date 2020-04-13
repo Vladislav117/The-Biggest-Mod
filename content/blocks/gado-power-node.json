@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gado power node", "description": "...", "size": 2, "health": 425, "requirements": [{"item": "gado", "amount": 5}, {"item": "yixo", "amount": 4}, {"item": "ragoku", "amount": 7}], "research": "gado-factory", "maxNodes": 53, "laserRange": 18, "category": "power"}

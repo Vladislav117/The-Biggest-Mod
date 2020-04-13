@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xedorinium battery", "description": "...", "size": 3, "health": 258, "requirements": [{"item": "xedorinium", "amount": 4}, {"item": "betesa", "amount": 5}, {"item": "mygo", "amount": 1}], "research": "xedorinium-factory", "consumes": {"powerBuffered": 3536}, "category": "power"}

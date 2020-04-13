@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qenu power node", "description": "...", "size": 1, "health": 312, "requirements": [{"item": "qenu", "amount": 11}, {"item": "jeqenium", "amount": 11}, {"item": "tuxu", "amount": 3}], "research": "qenu-factory", "maxNodes": 6, "laserRange": 6, "category": "power"}

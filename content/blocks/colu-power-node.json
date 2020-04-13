@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "colu power node", "description": "...", "size": 2, "health": 501, "requirements": [{"item": "colu", "amount": 3}, {"item": "lyru", "amount": 6}, {"item": "migube", "amount": 8}], "research": "colu-factory", "maxNodes": 37, "laserRange": 21, "category": "power"}

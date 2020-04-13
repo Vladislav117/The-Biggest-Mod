@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "raqu solar panel", "description": "...", "size": 3, "health": 309, "requirements": [{"item": "raqu", "amount": 8}, {"item": "fyfy", "amount": 1}, {"item": "jima", "amount": 1}], "research": "raqu-factory", "powerProduction": 1.435240094142093, "category": "power"}

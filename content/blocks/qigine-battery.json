@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qigine battery", "description": "...", "size": 3, "health": 193, "requirements": [{"item": "qigine", "amount": 4}, {"item": "yoqy", "amount": 11}, {"item": "lora", "amount": 1}], "research": "qigine-factory", "consumes": {"powerBuffered": 462}, "category": "power"}

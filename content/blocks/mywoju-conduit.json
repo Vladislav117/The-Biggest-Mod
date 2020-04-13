@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mywoju conduit", "description": "...", "health": 200, "requirements": [{"item": "mywoju", "amount": 5}, {"item": "rycara", "amount": 13}, {"item": "yobabynium", "amount": 8}], "liquidCapacity": 22, "liquidPressure": 2, "research": "mywoju-factory", "category": "liquid"}

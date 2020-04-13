@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qapa battery", "description": "...", "size": 1, "health": 373, "requirements": [{"item": "qapa", "amount": 10}, {"item": "fahu", "amount": 1}, {"item": "redo", "amount": 2}], "research": "qapa-factory", "consumes": {"powerBuffered": 1906}, "category": "power"}

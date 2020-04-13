@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qoseji conduit", "description": "...", "health": 21, "requirements": [{"item": "qoseji", "amount": 12}, {"item": "civonium", "amount": 17}, {"item": "xemynium", "amount": 7}], "liquidCapacity": 13, "liquidPressure": 3, "research": "qoseji-factory", "category": "liquid"}

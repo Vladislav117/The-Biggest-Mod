@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rape battery", "description": "...", "size": 1, "health": 142, "requirements": [{"item": "rape", "amount": 3}, {"item": "docinium", "amount": 8}, {"item": "qoseve", "amount": 3}], "research": "rape-factory", "consumes": {"powerBuffered": 1561}, "category": "power"}

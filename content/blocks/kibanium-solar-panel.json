@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kibanium solar panel", "description": "...", "size": 3, "health": 201, "requirements": [{"item": "kibanium", "amount": 18}, {"item": "gunery", "amount": 10}, {"item": "kafulu", "amount": 3}], "research": "kibanium-factory", "powerProduction": 2.891841928883224, "category": "power"}

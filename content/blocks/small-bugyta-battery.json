@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bugyta battery", "description": "...", "size": 1, "health": 169, "requirements": [{"item": "bugyta", "amount": 4}, {"item": "qeze", "amount": 2}, {"item": "zohura", "amount": 5}], "research": "bugyta-factory", "consumes": {"powerBuffered": 2454}, "category": "power"}

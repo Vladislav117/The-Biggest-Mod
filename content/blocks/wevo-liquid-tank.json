@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wevo liquid tank", "description": "...", "health": 481, "size": 3, "requirements": [{"item": "wevo", "amount": 14}, {"item": "gobenium", "amount": 3}, {"item": "jogi", "amount": 8}], "research": "wevo-conduit", "category": "liquid", "liquidCapacity": 47023, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small taxanium battery", "description": "...", "size": 1, "health": 110, "requirements": [{"item": "taxanium", "amount": 20}, {"item": "vavaqi", "amount": 3}, {"item": "vayo", "amount": 7}], "research": "taxanium-factory", "consumes": {"powerBuffered": 2711}, "category": "power"}

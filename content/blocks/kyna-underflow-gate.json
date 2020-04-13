@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kyna underflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "kyna", "amount": 5}, {"item": "thorium", "amount": 5}], "research": "kyna-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fajygi power node", "description": "...", "size": 2, "health": 416, "requirements": [{"item": "fajygi", "amount": 8}, {"item": "pegycy", "amount": 9}, {"item": "weweco", "amount": 6}], "research": "fajygi-factory", "maxNodes": 51, "laserRange": 19, "category": "power"}

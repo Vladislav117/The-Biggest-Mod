@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nebiwy junction", "description": "...", "health": 20, "speed": 4, "capacity": 17, "size": 1, "requirements": [{"item": "nebiwy", "amount": 4}, {"item": "pegonium", "amount": 5}], "research": "nebiwy-conveyor", "category": "distribution"}

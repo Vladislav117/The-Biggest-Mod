@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nileru power node", "description": "...", "size": 2, "health": 660, "requirements": [{"item": "nileru", "amount": 7}, {"item": "jimi", "amount": 3}, {"item": "xobasonium", "amount": 2}], "research": "nileru-factory", "maxNodes": 46, "laserRange": 25, "category": "power"}

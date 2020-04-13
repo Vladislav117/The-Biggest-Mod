@@ -1,0 +1,1 @@
+{"type": "junction", "name": "syxy junction", "description": "...", "health": 23, "speed": 4, "capacity": 2, "size": 1, "requirements": [{"item": "syxy", "amount": 4}, {"item": "locycanium", "amount": 4}], "research": "syxy-conveyor", "category": "distribution"}

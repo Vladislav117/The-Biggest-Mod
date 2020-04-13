@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yage solar panel", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "yage", "amount": 2}, {"item": "vuzoha", "amount": 15}, {"item": "qiqe", "amount": 10}], "research": "yage-factory", "powerProduction": 2.8225188912733703, "category": "power"}

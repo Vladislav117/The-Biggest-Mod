@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "quvojo liquid tank", "description": "...", "health": 377, "size": 3, "requirements": [{"item": "quvojo", "amount": 13}, {"item": "xuricy", "amount": 11}, {"item": "sacigi", "amount": 3}], "research": "quvojo-conduit", "category": "liquid", "liquidCapacity": 105222, "hasLiquids": true}

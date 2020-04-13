@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "syxy power node", "description": "...", "size": 2, "health": 212, "requirements": [{"item": "syxy", "amount": 16}, {"item": "paky", "amount": 11}, {"item": "xedorinium", "amount": 10}], "research": "syxy-factory", "maxNodes": 56, "laserRange": 29, "category": "power"}

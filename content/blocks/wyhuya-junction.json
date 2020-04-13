@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wyhuya junction", "description": "...", "health": 30, "speed": 11, "capacity": 14, "size": 1, "requirements": [{"item": "wyhuya", "amount": 3}, {"item": "syminium", "amount": 3}], "research": "wyhuya-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hyxinium drill", "description": "...", "size": 2, "health": 183, "tier": 1, "drillTime": 7, "consumes": {"power": 3}, "requirements": [{"item": "hyxinium", "amount": 11}, {"item": "duginium", "amount": 20}, {"item": "xylu", "amount": 4}], "research": "hyxinium-factory", "category": "production"}

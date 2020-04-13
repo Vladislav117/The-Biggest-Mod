@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lynulo sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "lynulo", "amount": 2}, {"item": "graphite", "amount": 5}], "research": "lynulo-conveyor", "category": "distribution", "invert": false}

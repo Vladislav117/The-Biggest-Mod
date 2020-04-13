@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nefuxa drill", "description": "...", "size": 2, "health": 161, "tier": 2, "drillTime": 13, "consumes": {"power": 15}, "requirements": [{"item": "nefuxa", "amount": 16}, {"item": "civonium", "amount": 9}, {"item": "qowepa", "amount": 8}], "research": "nefuxa-factory", "category": "production"}

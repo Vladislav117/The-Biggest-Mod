@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mofapu underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "mofapu", "amount": 1}, {"item": "qidibe", "amount": 5}], "research": "mofapu-conveyor", "category": "distribution", "invert": false}

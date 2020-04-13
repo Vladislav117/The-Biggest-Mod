@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "misu liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "misu", "amount": 9}, {"item": "misu", "amount": 3}, {"item": "duyi", "amount": 6}], "research": "misu-conduit", "liquidCapacity": 10, "category": "liquid"}

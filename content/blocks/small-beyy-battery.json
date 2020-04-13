@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small beyy battery", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "beyy", "amount": 18}, {"item": "heke", "amount": 2}, {"item": "suvi", "amount": 2}], "research": "beyy-factory", "consumes": {"powerBuffered": 2696}, "category": "power"}

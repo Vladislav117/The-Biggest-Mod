@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nepiky solar panel", "description": "...", "size": 1, "health": 335, "requirements": [{"item": "nepiky", "amount": 5}, {"item": "vodynium", "amount": 2}, {"item": "zekenium", "amount": 6}], "research": "nepiky-factory", "powerProduction": 0.04629620377635599, "category": "power"}

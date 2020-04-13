@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fyrywe battery", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "fyrywe", "amount": 12}, {"item": "bome", "amount": 1}, {"item": "qygi", "amount": 6}], "research": "fyrywe-factory", "consumes": {"powerBuffered": 2884}, "category": "power"}

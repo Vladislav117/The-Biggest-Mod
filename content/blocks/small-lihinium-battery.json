@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lihinium battery", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "lihinium", "amount": 18}, {"item": "lowocanium", "amount": 14}, {"item": "qelyqe", "amount": 8}], "research": "lihinium-factory", "consumes": {"powerBuffered": 1459}, "category": "power"}

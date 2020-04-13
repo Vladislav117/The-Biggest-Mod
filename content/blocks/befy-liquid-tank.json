@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "befy liquid tank", "description": "...", "health": 587, "size": 3, "requirements": [{"item": "befy", "amount": 8}, {"item": "tiyajo", "amount": 14}, {"item": "vene", "amount": 5}], "research": "befy-conduit", "category": "liquid", "liquidCapacity": 107123, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "demu battery", "description": "...", "size": 3, "health": 145, "requirements": [{"item": "demu", "amount": 12}, {"item": "xecy", "amount": 7}, {"item": "tayi", "amount": 3}], "research": "demu-factory", "consumes": {"powerBuffered": 3778}, "category": "power"}

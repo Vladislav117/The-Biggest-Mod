@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "taci conduit", "description": "...", "health": 132, "requirements": [{"item": "taci", "amount": 13}, {"item": "tify", "amount": 9}, {"item": "xoquge", "amount": 5}], "liquidCapacity": 22, "liquidPressure": 10, "research": "taci-factory", "category": "liquid"}

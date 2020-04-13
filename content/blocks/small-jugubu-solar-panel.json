@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jugubu solar panel", "description": "...", "size": 1, "health": 12, "requirements": [{"item": "jugubu", "amount": 2}, {"item": "hufi", "amount": 20}, {"item": "qokygi", "amount": 2}], "research": "jugubu-factory", "powerProduction": 0.6221576147870186, "category": "power"}

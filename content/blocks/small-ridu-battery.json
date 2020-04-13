@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ridu battery", "description": "...", "size": 1, "health": 173, "requirements": [{"item": "ridu", "amount": 6}, {"item": "kyte", "amount": 16}, {"item": "zuzequ", "amount": 2}], "research": "ridu-factory", "consumes": {"powerBuffered": 2147}, "category": "power"}

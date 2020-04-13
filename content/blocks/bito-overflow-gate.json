@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bito overflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "bito", "amount": 3}, {"item": "fexaja", "amount": 1}], "research": "bito-conveyor", "category": "distribution", "invert": false}

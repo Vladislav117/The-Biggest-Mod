@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "vufinium conveyor", "description": "...", "health": 144, "requirements": [{"item": "vufinium", "amount": 1}, {"item": "qiso", "amount": 5}], "speed": 0.33990778815810785, "research": "vufinium-factory", "category": "distribution"}

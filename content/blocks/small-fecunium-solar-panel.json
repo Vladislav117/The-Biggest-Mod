@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fecunium solar panel", "description": "...", "size": 1, "health": 193, "requirements": [{"item": "fecunium", "amount": 7}, {"item": "yyti", "amount": 1}, {"item": "peyyha", "amount": 2}], "research": "fecunium-factory", "powerProduction": 2.4438651856545874, "category": "power"}

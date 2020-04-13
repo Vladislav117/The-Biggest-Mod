@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "valetynium liquid tank", "description": "...", "health": 405, "size": 3, "requirements": [{"item": "valetynium", "amount": 5}, {"item": "towyti", "amount": 20}, {"item": "zugoni", "amount": 5}], "research": "valetynium-conduit", "category": "liquid", "liquidCapacity": 71602, "hasLiquids": true}

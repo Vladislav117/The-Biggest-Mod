@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cyyikynium drill", "description": "...", "size": 3, "health": 216, "tier": 1, "drillTime": 14, "consumes": {"power": 6}, "requirements": [{"item": "cyyikynium", "amount": 4}, {"item": "bivucunium", "amount": 9}, {"item": "qedene", "amount": 10}], "research": "cyyikynium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jazipynium junction", "description": "...", "health": 21, "speed": 18, "capacity": 3, "size": 1, "requirements": [{"item": "jazipynium", "amount": 4}, {"item": "wuga", "amount": 5}], "research": "jazipynium-conveyor", "category": "distribution"}

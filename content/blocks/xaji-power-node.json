@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xaji power node", "description": "...", "size": 2, "health": 55, "requirements": [{"item": "xaji", "amount": 4}, {"item": "zokoya", "amount": 14}, {"item": "nitonium", "amount": 3}], "research": "xaji-factory", "maxNodes": 16, "laserRange": 27, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "maty conveyor", "description": "...", "health": 35, "requirements": [{"item": "maty", "amount": 7}, {"item": "beqa", "amount": 10}], "speed": 0.423593829965741, "research": "maty-factory", "category": "distribution"}

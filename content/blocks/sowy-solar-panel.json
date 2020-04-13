@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sowy solar panel", "description": "...", "size": 3, "health": 372, "requirements": [{"item": "sowy", "amount": 18}, {"item": "rypenium", "amount": 16}, {"item": "guha", "amount": 9}], "research": "sowy-factory", "powerProduction": 0.03732923584690553, "category": "power"}

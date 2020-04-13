@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "koku inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "koku", "amount": 2}, {"item": "ropiki", "amount": 5}], "research": "koku-conveyor", "category": "distribution", "invert": true}

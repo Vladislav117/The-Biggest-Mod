@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rahu junction", "description": "...", "health": 22, "speed": 4, "capacity": 19, "size": 1, "requirements": [{"item": "rahu", "amount": 5}, {"item": "jizi", "amount": 5}], "research": "rahu-conveyor", "category": "distribution"}

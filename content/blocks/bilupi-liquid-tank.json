@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bilupi liquid tank", "description": "...", "health": 187, "size": 3, "requirements": [{"item": "bilupi", "amount": 8}, {"item": "saciwy", "amount": 19}, {"item": "magu", "amount": 7}], "research": "bilupi-conduit", "category": "liquid", "liquidCapacity": 60017, "hasLiquids": true}

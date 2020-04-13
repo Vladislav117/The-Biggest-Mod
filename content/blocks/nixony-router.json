@@ -1,0 +1,1 @@
+{"type": "router", "name": "nixony router", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "nixony", "amount": 3}], "research": "nixony-conveyor", "category": "distribution"}

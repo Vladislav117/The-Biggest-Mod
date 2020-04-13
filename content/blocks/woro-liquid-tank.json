@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "woro liquid tank", "description": "...", "health": 356, "size": 3, "requirements": [{"item": "woro", "amount": 8}, {"item": "cida", "amount": 2}, {"item": "kyje", "amount": 4}], "research": "woro-conduit", "category": "liquid", "liquidCapacity": 43552, "hasLiquids": true}

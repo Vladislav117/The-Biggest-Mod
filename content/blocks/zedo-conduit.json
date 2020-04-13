@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zedo conduit", "description": "...", "health": 90, "requirements": [{"item": "zedo", "amount": 18}, {"item": "liba", "amount": 2}, {"item": "reyezy", "amount": 6}], "liquidCapacity": 43, "liquidPressure": 2, "research": "zedo-factory", "category": "liquid"}

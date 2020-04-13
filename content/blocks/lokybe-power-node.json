@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lokybe power node", "description": "...", "size": 2, "health": 773, "requirements": [{"item": "lokybe", "amount": 13}, {"item": "jihanium", "amount": 10}, {"item": "raru", "amount": 3}], "research": "lokybe-factory", "maxNodes": 60, "laserRange": 12, "category": "power"}

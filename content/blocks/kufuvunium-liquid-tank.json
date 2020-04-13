@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kufuvunium liquid tank", "description": "...", "health": 153, "size": 3, "requirements": [{"item": "kufuvunium", "amount": 10}, {"item": "noqewy", "amount": 8}, {"item": "xujo", "amount": 1}], "research": "kufuvunium-conduit", "category": "liquid", "liquidCapacity": 31779, "hasLiquids": true}

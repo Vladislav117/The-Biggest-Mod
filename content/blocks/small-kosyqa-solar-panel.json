@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kosyqa solar panel", "description": "...", "size": 1, "health": 336, "requirements": [{"item": "kosyqa", "amount": 2}, {"item": "patyco", "amount": 20}, {"item": "lopelu", "amount": 6}], "research": "kosyqa-factory", "powerProduction": 0.3132858037072739, "category": "power"}

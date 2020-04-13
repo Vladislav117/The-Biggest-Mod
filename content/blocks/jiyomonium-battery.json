@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jiyomonium battery", "description": "...", "size": 3, "health": 18, "requirements": [{"item": "jiyomonium", "amount": 17}, {"item": "gonu", "amount": 3}, {"item": "vove", "amount": 3}], "research": "jiyomonium-factory", "consumes": {"powerBuffered": 747}, "category": "power"}

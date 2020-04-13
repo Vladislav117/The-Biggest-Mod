@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cyfipy underflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "cyfipy", "amount": 1}, {"item": "zyce", "amount": 2}], "research": "cyfipy-conveyor", "category": "distribution", "invert": false}

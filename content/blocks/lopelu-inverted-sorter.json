@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lopelu inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "lopelu", "amount": 2}, {"item": "hytuki", "amount": 4}], "research": "lopelu-conveyor", "category": "distribution", "invert": true}

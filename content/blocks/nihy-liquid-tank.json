@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nihy liquid tank", "description": "...", "health": 363, "size": 3, "requirements": [{"item": "nihy", "amount": 5}, {"item": "xevenium", "amount": 7}, {"item": "wemenium", "amount": 10}], "research": "nihy-conduit", "category": "liquid", "liquidCapacity": 98701, "hasLiquids": true}

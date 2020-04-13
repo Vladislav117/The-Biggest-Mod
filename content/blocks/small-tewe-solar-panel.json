@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tewe solar panel", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "tewe", "amount": 1}, {"item": "neby", "amount": 18}, {"item": "yywi", "amount": 1}], "research": "tewe-factory", "powerProduction": 2.7357492127244063, "category": "power"}

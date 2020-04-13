@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nudo solar panel", "description": "...", "size": 1, "health": 240, "requirements": [{"item": "nudo", "amount": 9}, {"item": "julynium", "amount": 19}, {"item": "wapo", "amount": 7}], "research": "nudo-factory", "powerProduction": 5.50573047302209, "category": "power"}

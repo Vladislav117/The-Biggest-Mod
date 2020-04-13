@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rigiro liquid tank", "description": "...", "health": 546, "size": 3, "requirements": [{"item": "rigiro", "amount": 7}, {"item": "reqoxu", "amount": 17}, {"item": "yamyri", "amount": 7}], "research": "rigiro-conduit", "category": "liquid", "liquidCapacity": 44116, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dokanium underflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "dokanium", "amount": 4}, {"item": "hobunium", "amount": 1}], "research": "dokanium-conveyor", "category": "distribution", "invert": false}

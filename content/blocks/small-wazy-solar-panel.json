@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wazy solar panel", "description": "...", "size": 1, "health": 329, "requirements": [{"item": "wazy", "amount": 6}, {"item": "hise", "amount": 7}, {"item": "faky", "amount": 6}], "research": "wazy-factory", "powerProduction": 0.8461897731197062, "category": "power"}

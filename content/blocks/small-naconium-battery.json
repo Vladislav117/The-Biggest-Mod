@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small naconium battery", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "naconium", "amount": 14}, {"item": "hiwenium", "amount": 20}, {"item": "yalaka", "amount": 6}], "research": "naconium-factory", "consumes": {"powerBuffered": 1910}, "category": "power"}

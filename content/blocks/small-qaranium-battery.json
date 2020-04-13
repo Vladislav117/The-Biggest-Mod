@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qaranium battery", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "qaranium", "amount": 15}, {"item": "bace", "amount": 12}, {"item": "xice", "amount": 9}], "research": "qaranium-factory", "consumes": {"powerBuffered": 2269}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tofuco power node", "description": "...", "size": 2, "health": 378, "requirements": [{"item": "tofuco", "amount": 20}, {"item": "hise", "amount": 7}, {"item": "jovojy", "amount": 9}], "research": "tofuco-factory", "maxNodes": 49, "laserRange": 26, "category": "power"}

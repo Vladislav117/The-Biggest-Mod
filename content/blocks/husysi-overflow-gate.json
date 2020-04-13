@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "husysi overflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "husysi", "amount": 5}, {"item": "ryloxi", "amount": 1}], "research": "husysi-conveyor", "category": "distribution", "invert": false}

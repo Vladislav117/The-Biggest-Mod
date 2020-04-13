@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nurynium power node", "description": "...", "size": 1, "health": 327, "requirements": [{"item": "nurynium", "amount": 12}, {"item": "naxihe", "amount": 10}, {"item": "yyva", "amount": 6}], "research": "nurynium-factory", "maxNodes": 22, "laserRange": 20, "category": "power"}

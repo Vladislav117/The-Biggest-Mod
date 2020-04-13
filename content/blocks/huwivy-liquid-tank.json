@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "huwivy liquid tank", "description": "...", "health": 412, "size": 3, "requirements": [{"item": "huwivy", "amount": 15}, {"item": "fabora", "amount": 6}, {"item": "bagy", "amount": 4}], "research": "huwivy-conduit", "category": "liquid", "liquidCapacity": 85129, "hasLiquids": true}

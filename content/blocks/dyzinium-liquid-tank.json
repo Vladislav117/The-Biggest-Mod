@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dyzinium liquid tank", "description": "...", "health": 194, "size": 3, "requirements": [{"item": "dyzinium", "amount": 4}, {"item": "wulu", "amount": 4}, {"item": "wyri", "amount": 3}], "research": "dyzinium-conduit", "category": "liquid", "liquidCapacity": 85998, "hasLiquids": true}

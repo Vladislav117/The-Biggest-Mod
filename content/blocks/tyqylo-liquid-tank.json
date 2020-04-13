@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tyqylo liquid tank", "description": "...", "health": 517, "size": 3, "requirements": [{"item": "tyqylo", "amount": 5}, {"item": "hyfeho", "amount": 2}, {"item": "bole", "amount": 6}], "research": "tyqylo-conduit", "category": "liquid", "liquidCapacity": 6645, "hasLiquids": true}

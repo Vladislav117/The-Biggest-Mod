@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vezafa conduit", "description": "...", "health": 165, "requirements": [{"item": "vezafa", "amount": 16}, {"item": "qeyy", "amount": 9}, {"item": "qovy", "amount": 7}], "liquidCapacity": 12, "liquidPressure": 0, "research": "vezafa-factory", "category": "liquid"}

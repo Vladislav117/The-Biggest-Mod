@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuhynenium liquid tank", "description": "...", "health": 279, "size": 3, "requirements": [{"item": "cuhynenium", "amount": 17}, {"item": "yowiminium", "amount": 5}, {"item": "zivo", "amount": 6}], "research": "cuhynenium-conduit", "category": "liquid", "liquidCapacity": 25038, "hasLiquids": true}

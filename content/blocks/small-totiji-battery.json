@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small totiji battery", "description": "...", "size": 1, "health": 284, "requirements": [{"item": "totiji", "amount": 7}, {"item": "mehenium", "amount": 1}, {"item": "menugonium", "amount": 10}], "research": "totiji-factory", "consumes": {"powerBuffered": 207}, "category": "power"}

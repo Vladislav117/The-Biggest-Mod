@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jikesi battery", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "jikesi", "amount": 7}, {"item": "rymojanium", "amount": 18}, {"item": "hewy", "amount": 6}], "research": "jikesi-factory", "consumes": {"powerBuffered": 2967}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sukafe battery", "description": "...", "size": 3, "health": 99, "requirements": [{"item": "sukafe", "amount": 10}, {"item": "roqeki", "amount": 7}, {"item": "qafy", "amount": 4}], "research": "sukafe-factory", "consumes": {"powerBuffered": 8490}, "category": "power"}

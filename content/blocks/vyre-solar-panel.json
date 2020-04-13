@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vyre solar panel", "description": "...", "size": 3, "health": 319, "requirements": [{"item": "vyre", "amount": 10}, {"item": "sony", "amount": 14}, {"item": "hocona", "amount": 1}], "research": "vyre-factory", "powerProduction": 0.7952495631838791, "category": "power"}

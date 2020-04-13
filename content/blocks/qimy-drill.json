@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qimy drill", "description": "...", "size": 3, "health": 257, "tier": 3, "drillTime": 5, "consumes": {"power": 18}, "requirements": [{"item": "qimy", "amount": 2}, {"item": "leyyde", "amount": 3}, {"item": "nyma", "amount": 2}], "research": "qimy-factory", "category": "production"}

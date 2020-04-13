@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bamubu battery", "description": "...", "size": 3, "health": 115, "requirements": [{"item": "bamubu", "amount": 5}, {"item": "bukiqenium", "amount": 9}, {"item": "nago", "amount": 9}], "research": "bamubu-factory", "consumes": {"powerBuffered": 8568}, "category": "power"}

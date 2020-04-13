@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mygaso power node", "description": "...", "size": 2, "health": 692, "requirements": [{"item": "mygaso", "amount": 4}, {"item": "faqoyynium", "amount": 10}, {"item": "kozapu", "amount": 2}], "research": "mygaso-factory", "maxNodes": 48, "laserRange": 22, "category": "power"}

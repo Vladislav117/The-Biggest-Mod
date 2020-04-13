@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vedapa bridge conveyor", "description": "", "health": 17, "range": 15, "speed": 2, "bufferCapacity": 20, "requirements": [{"item": "vedapa", "amount": 5}, {"item": "pyto", "amount": 3}], "research": "vedapa-conveyor", "category": "distribution", "size": 1}

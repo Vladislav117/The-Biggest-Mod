@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mesa liquid tank", "description": "...", "health": 642, "size": 3, "requirements": [{"item": "mesa", "amount": 10}, {"item": "yudesinium", "amount": 20}, {"item": "fykemi", "amount": 6}], "research": "mesa-conduit", "category": "liquid", "liquidCapacity": 53252, "hasLiquids": true}

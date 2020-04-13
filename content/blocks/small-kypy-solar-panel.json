@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kypy solar panel", "description": "...", "size": 1, "health": 84, "requirements": [{"item": "kypy", "amount": 9}, {"item": "baranium", "amount": 20}, {"item": "jumi", "amount": 4}], "research": "kypy-factory", "powerProduction": 7.600189452093201, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lazynu junction", "description": "...", "health": 15, "speed": 15, "capacity": 6, "size": 1, "requirements": [{"item": "lazynu", "amount": 2}, {"item": "gepe", "amount": 4}], "research": "lazynu-conveyor", "category": "distribution"}

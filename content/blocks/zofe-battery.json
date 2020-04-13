@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zofe battery", "description": "...", "size": 3, "health": 280, "requirements": [{"item": "zofe", "amount": 13}, {"item": "jusybynium", "amount": 19}, {"item": "zade", "amount": 1}], "research": "zofe-factory", "consumes": {"powerBuffered": 9969}, "category": "power"}

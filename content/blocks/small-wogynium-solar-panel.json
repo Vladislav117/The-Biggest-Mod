@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wogynium solar panel", "description": "...", "size": 1, "health": 349, "requirements": [{"item": "wogynium", "amount": 13}, {"item": "humynium", "amount": 13}, {"item": "qifi", "amount": 7}], "research": "wogynium-factory", "powerProduction": 0.07095880282116686, "category": "power"}

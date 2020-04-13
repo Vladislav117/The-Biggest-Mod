@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kohi liquid tank", "description": "...", "health": 165, "size": 3, "requirements": [{"item": "kohi", "amount": 16}, {"item": "sysone", "amount": 12}, {"item": "xeye", "amount": 1}], "research": "kohi-conduit", "category": "liquid", "liquidCapacity": 35457, "hasLiquids": true}

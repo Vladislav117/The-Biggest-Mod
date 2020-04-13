@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zigije liquid tank", "description": "...", "health": 330, "size": 3, "requirements": [{"item": "zigije", "amount": 12}, {"item": "cabyzo", "amount": 14}, {"item": "kiye", "amount": 8}], "research": "zigije-conduit", "category": "liquid", "liquidCapacity": 66790, "hasLiquids": true}

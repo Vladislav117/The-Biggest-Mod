@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zuwonium junction", "description": "...", "health": 43, "speed": 17, "capacity": 7, "size": 1, "requirements": [{"item": "zuwonium", "amount": 3}, {"item": "jucoqe", "amount": 3}], "research": "zuwonium-conveyor", "category": "distribution"}

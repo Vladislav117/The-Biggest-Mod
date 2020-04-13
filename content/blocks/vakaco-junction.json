@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vakaco junction", "description": "...", "health": 32, "speed": 10, "capacity": 20, "size": 1, "requirements": [{"item": "vakaco", "amount": 2}, {"item": "vodynium", "amount": 4}], "research": "vakaco-conveyor", "category": "distribution"}

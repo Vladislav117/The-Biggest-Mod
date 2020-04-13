@@ -1,0 +1,1 @@
+{"type": "battery", "name": "womanium battery", "description": "...", "size": 3, "health": 296, "requirements": [{"item": "womanium", "amount": 6}, {"item": "leriki", "amount": 17}, {"item": "cafe", "amount": 5}], "research": "womanium-factory", "consumes": {"powerBuffered": 2377}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "seda overflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "seda", "amount": 5}, {"item": "lemoqa", "amount": 1}], "research": "seda-conveyor", "category": "distribution", "invert": false}

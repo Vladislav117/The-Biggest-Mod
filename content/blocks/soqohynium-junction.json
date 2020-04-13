@@ -1,0 +1,1 @@
+{"type": "junction", "name": "soqohynium junction", "description": "...", "health": 48, "speed": 14, "capacity": 13, "size": 1, "requirements": [{"item": "soqohynium", "amount": 2}, {"item": "rigoyo", "amount": 3}], "research": "soqohynium-conveyor", "category": "distribution"}

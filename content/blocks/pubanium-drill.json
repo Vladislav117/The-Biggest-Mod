@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pubanium drill", "description": "...", "size": 3, "health": 128, "tier": 4, "drillTime": 11, "consumes": {"power": 2}, "requirements": [{"item": "pubanium", "amount": 19}, {"item": "sezuke", "amount": 5}, {"item": "laxu", "amount": 5}], "research": "pubanium-factory", "category": "production"}

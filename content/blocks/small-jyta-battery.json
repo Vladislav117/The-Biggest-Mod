@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jyta battery", "description": "...", "size": 1, "health": 158, "requirements": [{"item": "jyta", "amount": 14}, {"item": "yatymo", "amount": 15}, {"item": "wicapy", "amount": 2}], "research": "jyta-factory", "consumes": {"powerBuffered": 2625}, "category": "power"}

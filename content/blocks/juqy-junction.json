@@ -1,0 +1,1 @@
+{"type": "junction", "name": "juqy junction", "description": "...", "health": 14, "speed": 11, "capacity": 17, "size": 1, "requirements": [{"item": "juqy", "amount": 5}, {"item": "voky", "amount": 4}], "research": "juqy-conveyor", "category": "distribution"}

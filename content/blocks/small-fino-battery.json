@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fino battery", "description": "...", "size": 1, "health": 170, "requirements": [{"item": "fino", "amount": 5}, {"item": "yipobe", "amount": 11}, {"item": "bileyu", "amount": 10}], "research": "fino-factory", "consumes": {"powerBuffered": 2450}, "category": "power"}

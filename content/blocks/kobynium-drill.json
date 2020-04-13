@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kobynium drill", "description": "...", "size": 3, "health": 118, "tier": 1, "drillTime": 3, "consumes": {"power": 10}, "requirements": [{"item": "kobynium", "amount": 15}, {"item": "lanuponium", "amount": 11}, {"item": "cuki", "amount": 9}], "research": "kobynium-factory", "category": "production"}

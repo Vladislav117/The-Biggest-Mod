@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kyje conduit", "description": "...", "health": 100, "requirements": [{"item": "kyje", "amount": 10}, {"item": "gewuhy", "amount": 20}, {"item": "woyu", "amount": 3}], "liquidCapacity": 13, "liquidPressure": 9, "research": "kyje-factory", "category": "liquid"}

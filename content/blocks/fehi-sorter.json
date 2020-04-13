@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fehi sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "fehi", "amount": 2}, {"item": "jede", "amount": 3}], "research": "fehi-conveyor", "category": "distribution", "invert": false}

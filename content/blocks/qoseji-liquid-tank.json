@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qoseji liquid tank", "description": "...", "health": 405, "size": 3, "requirements": [{"item": "qoseji", "amount": 16}, {"item": "fucyra", "amount": 9}, {"item": "heda", "amount": 8}], "research": "qoseji-conduit", "category": "liquid", "liquidCapacity": 4042, "hasLiquids": true}

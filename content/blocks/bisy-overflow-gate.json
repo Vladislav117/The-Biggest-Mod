@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bisy overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "bisy", "amount": 2}, {"item": "walinium", "amount": 5}], "research": "bisy-conveyor", "category": "distribution", "invert": false}

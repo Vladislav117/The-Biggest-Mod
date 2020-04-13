@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pezale power node", "description": "...", "size": 2, "health": 48, "requirements": [{"item": "pezale", "amount": 13}, {"item": "laho", "amount": 6}, {"item": "wuqosenium", "amount": 10}], "research": "pezale-factory", "maxNodes": 48, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xyko solar panel", "description": "...", "size": 3, "health": 115, "requirements": [{"item": "xyko", "amount": 1}, {"item": "kuyome", "amount": 3}, {"item": "yirere", "amount": 9}], "research": "xyko-factory", "powerProduction": 1.3557034466967743, "category": "power"}

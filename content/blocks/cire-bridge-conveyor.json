@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cire bridge conveyor", "description": "", "health": 46, "range": 7, "speed": 6, "bufferCapacity": 1, "requirements": [{"item": "cire", "amount": 2}, {"item": "kewatu", "amount": 1}], "research": "cire-conveyor", "category": "distribution", "size": 1}

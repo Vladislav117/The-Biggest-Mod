@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sulu battery", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "sulu", "amount": 1}, {"item": "jubuxa", "amount": 4}, {"item": "nunanunium", "amount": 4}], "research": "sulu-factory", "consumes": {"powerBuffered": 2452}, "category": "power"}

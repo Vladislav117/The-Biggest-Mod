@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hako battery", "description": "...", "size": 1, "health": 292, "requirements": [{"item": "hako", "amount": 15}, {"item": "zesaqy", "amount": 13}, {"item": "duyi", "amount": 1}], "research": "hako-factory", "consumes": {"powerBuffered": 2270}, "category": "power"}

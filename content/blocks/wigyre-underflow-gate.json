@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wigyre underflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "wigyre", "amount": 1}, {"item": "ruvudo", "amount": 5}], "research": "wigyre-conveyor", "category": "distribution", "invert": false}

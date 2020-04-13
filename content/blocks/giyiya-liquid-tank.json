@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "giyiya liquid tank", "description": "...", "health": 594, "size": 3, "requirements": [{"item": "giyiya", "amount": 8}, {"item": "gizomanium", "amount": 11}, {"item": "yedyte", "amount": 3}], "research": "giyiya-conduit", "category": "liquid", "liquidCapacity": 68348, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cuha junction", "description": "...", "health": 36, "speed": 2, "capacity": 4, "size": 1, "requirements": [{"item": "cuha", "amount": 3}, {"item": "forebu", "amount": 5}], "research": "cuha-conveyor", "category": "distribution"}

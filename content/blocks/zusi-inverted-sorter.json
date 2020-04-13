@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zusi inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "zusi", "amount": 5}, {"item": "zoqivanium", "amount": 1}], "research": "zusi-conveyor", "category": "distribution", "invert": true}

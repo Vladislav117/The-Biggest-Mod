@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hyjape power node", "description": "...", "size": 2, "health": 582, "requirements": [{"item": "hyjape", "amount": 12}, {"item": "cetemy", "amount": 2}, {"item": "xicyru", "amount": 1}], "research": "hyjape-factory", "maxNodes": 10, "laserRange": 17, "category": "power"}

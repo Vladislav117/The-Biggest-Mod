@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nitinium power node", "description": "...", "size": 1, "health": 311, "requirements": [{"item": "nitinium", "amount": 8}, {"item": "qykyzo", "amount": 18}, {"item": "wuqosenium", "amount": 4}], "research": "nitinium-factory", "maxNodes": 5, "laserRange": 14, "category": "power"}

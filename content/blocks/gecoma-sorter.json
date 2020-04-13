@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gecoma sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "gecoma", "amount": 4}, {"item": "yape", "amount": 1}], "research": "gecoma-conveyor", "category": "distribution", "invert": false}

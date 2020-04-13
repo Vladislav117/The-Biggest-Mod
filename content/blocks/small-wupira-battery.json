@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wupira battery", "description": "...", "size": 1, "health": 381, "requirements": [{"item": "wupira", "amount": 17}, {"item": "vavaqi", "amount": 4}, {"item": "nenu", "amount": 5}], "research": "wupira-factory", "consumes": {"powerBuffered": 369}, "category": "power"}

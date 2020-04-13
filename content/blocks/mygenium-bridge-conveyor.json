@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mygenium bridge conveyor", "description": "", "health": 1, "range": 8, "speed": 10, "bufferCapacity": 2, "requirements": [{"item": "mygenium", "amount": 2}, {"item": "qeka", "amount": 5}], "research": "mygenium-conveyor", "category": "distribution", "size": 1}

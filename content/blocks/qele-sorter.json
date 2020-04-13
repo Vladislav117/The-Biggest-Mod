@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qele sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "qele", "amount": 3}, {"item": "saqe", "amount": 5}], "research": "qele-conveyor", "category": "distribution", "invert": false}

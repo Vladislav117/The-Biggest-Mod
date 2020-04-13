@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wovi inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "wovi", "amount": 1}, {"item": "laranium", "amount": 4}], "research": "wovi-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wupixonium inverted sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "wupixonium", "amount": 5}, {"item": "bimi", "amount": 1}], "research": "wupixonium-conveyor", "category": "distribution", "invert": true}

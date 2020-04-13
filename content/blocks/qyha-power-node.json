@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qyha power node", "description": "...", "size": 2, "health": 589, "requirements": [{"item": "qyha", "amount": 12}, {"item": "haqu", "amount": 2}, {"item": "phase-fabric", "amount": 4}], "research": "qyha-factory", "maxNodes": 26, "laserRange": 24, "category": "power"}

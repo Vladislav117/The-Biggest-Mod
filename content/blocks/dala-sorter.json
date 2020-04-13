@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dala sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "dala", "amount": 5}, {"item": "xydume", "amount": 1}], "research": "dala-conveyor", "category": "distribution", "invert": false}

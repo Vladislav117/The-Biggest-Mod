@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jazy liquid tank", "description": "...", "health": 660, "size": 3, "requirements": [{"item": "jazy", "amount": 12}, {"item": "xapu", "amount": 11}, {"item": "cucaso", "amount": 2}], "research": "jazy-conduit", "category": "liquid", "liquidCapacity": 21075, "hasLiquids": true}

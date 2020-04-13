@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dena solar panel", "description": "...", "size": 1, "health": 337, "requirements": [{"item": "dena", "amount": 12}, {"item": "hyji", "amount": 20}, {"item": "jyxafu", "amount": 8}], "research": "dena-factory", "powerProduction": 0.9396806530267582, "category": "power"}

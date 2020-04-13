@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "dezo drill", "description": "...", "size": 3, "health": 345, "tier": 1, "drillTime": 7, "consumes": {"power": 20}, "requirements": [{"item": "dezo", "amount": 9}, {"item": "zada", "amount": 2}, {"item": "lisaca", "amount": 5}], "research": "dezo-factory", "category": "production"}

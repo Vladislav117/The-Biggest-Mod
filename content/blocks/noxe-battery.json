@@ -1,0 +1,1 @@
+{"type": "battery", "name": "noxe battery", "description": "...", "size": 3, "health": 335, "requirements": [{"item": "noxe", "amount": 1}, {"item": "qowovo", "amount": 16}, {"item": "myvojo", "amount": 7}], "research": "noxe-factory", "consumes": {"powerBuffered": 4415}, "category": "power"}

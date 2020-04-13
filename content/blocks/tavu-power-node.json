@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tavu power node", "description": "...", "size": 2, "health": 466, "requirements": [{"item": "tavu", "amount": 13}, {"item": "yytiye", "amount": 7}, {"item": "xuricy", "amount": 10}], "research": "tavu-factory", "maxNodes": 60, "laserRange": 22, "category": "power"}

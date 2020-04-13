@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yilynium junction", "description": "...", "health": 25, "speed": 10, "capacity": 3, "size": 1, "requirements": [{"item": "yilynium", "amount": 2}, {"item": "zucy", "amount": 4}], "research": "yilynium-conveyor", "category": "distribution"}

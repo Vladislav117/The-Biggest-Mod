@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pefanium power node", "description": "...", "size": 2, "health": 720, "requirements": [{"item": "pefanium", "amount": 4}, {"item": "nipohu", "amount": 6}, {"item": "kikanium", "amount": 3}], "research": "pefanium-factory", "maxNodes": 21, "laserRange": 10, "category": "power"}

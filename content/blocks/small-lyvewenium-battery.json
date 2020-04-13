@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lyvewenium battery", "description": "...", "size": 1, "health": 296, "requirements": [{"item": "lyvewenium", "amount": 4}, {"item": "surenium", "amount": 12}, {"item": "naronium", "amount": 4}], "research": "lyvewenium-factory", "consumes": {"powerBuffered": 1528}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lemoqa conduit", "description": "...", "health": 140, "requirements": [{"item": "lemoqa", "amount": 5}, {"item": "maku", "amount": 18}, {"item": "kype", "amount": 3}], "liquidCapacity": 16, "liquidPressure": 2, "research": "lemoqa-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "luny underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "luny", "amount": 3}, {"item": "codaxe", "amount": 3}], "research": "luny-conveyor", "category": "distribution", "invert": false}

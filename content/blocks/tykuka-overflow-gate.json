@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tykuka overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "tykuka", "amount": 1}, {"item": "cixe", "amount": 5}], "research": "tykuka-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cydyby power node", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "cydyby", "amount": 11}, {"item": "bafo", "amount": 18}, {"item": "runohy", "amount": 7}], "research": "cydyby-factory", "maxNodes": 5, "laserRange": 5, "category": "power"}

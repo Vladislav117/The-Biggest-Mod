@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dohyhanium power node", "description": "...", "size": 2, "health": 124, "requirements": [{"item": "dohyhanium", "amount": 9}, {"item": "rapenium", "amount": 1}, {"item": "naquhonium", "amount": 6}], "research": "dohyhanium-factory", "maxNodes": 16, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mecyronium solar panel", "description": "...", "size": 3, "health": 78, "requirements": [{"item": "mecyronium", "amount": 16}, {"item": "lyty", "amount": 8}, {"item": "syso", "amount": 6}], "research": "mecyronium-factory", "powerProduction": 2.4076371231228384, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zypiqi inverted sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "zypiqi", "amount": 1}, {"item": "yuly", "amount": 5}], "research": "zypiqi-conveyor", "category": "distribution", "invert": true}

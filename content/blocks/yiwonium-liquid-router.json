@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yiwonium liquid router", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "yiwonium", "amount": 17}, {"item": "dymu", "amount": 5}, {"item": "ciyo", "amount": 7}], "research": "yiwonium-conduit", "liquidCapacity": 10, "category": "liquid"}

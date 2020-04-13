@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ficebanium conduit", "description": "...", "health": 28, "requirements": [{"item": "ficebanium", "amount": 6}, {"item": "vykynium", "amount": 14}, {"item": "kyrafinium", "amount": 10}], "liquidCapacity": 25, "liquidPressure": 2, "research": "ficebanium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cotyyo liquid tank", "description": "...", "health": 262, "size": 3, "requirements": [{"item": "cotyyo", "amount": 12}, {"item": "hytitenium", "amount": 3}, {"item": "zohura", "amount": 2}], "research": "cotyyo-conduit", "category": "liquid", "liquidCapacity": 111513, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pixuhynium battery", "description": "...", "size": 3, "health": 363, "requirements": [{"item": "pixuhynium", "amount": 8}, {"item": "fogodo", "amount": 15}, {"item": "qevije", "amount": 1}], "research": "pixuhynium-factory", "consumes": {"powerBuffered": 8544}, "category": "power"}

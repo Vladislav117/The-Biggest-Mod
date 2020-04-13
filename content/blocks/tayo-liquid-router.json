@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tayo liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "tayo", "amount": 8}, {"item": "motaty", "amount": 14}, {"item": "balyvo", "amount": 6}], "research": "tayo-conduit", "liquidCapacity": 10, "category": "liquid"}

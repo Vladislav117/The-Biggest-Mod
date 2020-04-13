@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tivo overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "tivo", "amount": 1}, {"item": "noveba", "amount": 1}], "research": "tivo-conveyor", "category": "distribution", "invert": false}

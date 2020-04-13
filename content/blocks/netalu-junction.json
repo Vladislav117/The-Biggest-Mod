@@ -1,0 +1,1 @@
+{"type": "junction", "name": "netalu junction", "description": "...", "health": 24, "speed": 1, "capacity": 5, "size": 1, "requirements": [{"item": "netalu", "amount": 5}, {"item": "nybu", "amount": 5}], "research": "netalu-conveyor", "category": "distribution"}

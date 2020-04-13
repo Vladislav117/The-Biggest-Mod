@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bacicu liquid router", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "bacicu", "amount": 2}, {"item": "weweco", "amount": 12}, {"item": "yiwonium", "amount": 10}], "research": "bacicu-conduit", "liquidCapacity": 10, "category": "liquid"}

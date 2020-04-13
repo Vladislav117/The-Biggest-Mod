@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qasy conduit", "description": "...", "health": 173, "requirements": [{"item": "qasy", "amount": 12}, {"item": "secuqunium", "amount": 6}, {"item": "poyaye", "amount": 10}], "liquidCapacity": 45, "liquidPressure": 6, "research": "qasy-factory", "category": "liquid"}

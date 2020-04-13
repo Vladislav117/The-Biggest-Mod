@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small direme power node", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "direme", "amount": 3}, {"item": "wuqosenium", "amount": 9}, {"item": "kyweru", "amount": 3}], "research": "direme-factory", "maxNodes": 18, "laserRange": 3, "category": "power"}

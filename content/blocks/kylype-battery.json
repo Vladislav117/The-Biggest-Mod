@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kylype battery", "description": "...", "size": 3, "health": 378, "requirements": [{"item": "kylype", "amount": 7}, {"item": "tyzonium", "amount": 6}, {"item": "hyxy", "amount": 5}], "research": "kylype-factory", "consumes": {"powerBuffered": 5770}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "muryrenium liquid tank", "description": "...", "health": 416, "size": 3, "requirements": [{"item": "muryrenium", "amount": 16}, {"item": "sute", "amount": 5}, {"item": "zyfita", "amount": 10}], "research": "muryrenium-conduit", "category": "liquid", "liquidCapacity": 15047, "hasLiquids": true}

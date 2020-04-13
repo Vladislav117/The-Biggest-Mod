@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tyzi sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "tyzi", "amount": 3}, {"item": "migube", "amount": 1}], "research": "tyzi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "soguve conduit", "description": "...", "health": 173, "requirements": [{"item": "soguve", "amount": 14}, {"item": "kagopy", "amount": 16}, {"item": "pegonium", "amount": 8}], "liquidCapacity": 20, "liquidPressure": 0, "research": "soguve-factory", "category": "liquid"}

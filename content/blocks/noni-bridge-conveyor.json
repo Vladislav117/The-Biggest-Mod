@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "noni bridge conveyor", "description": "", "health": 42, "range": 9, "speed": 4, "bufferCapacity": 20, "requirements": [{"item": "noni", "amount": 1}, {"item": "mygyyy", "amount": 3}], "research": "noni-conveyor", "category": "distribution", "size": 1}

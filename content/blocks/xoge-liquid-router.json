@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xoge liquid router", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "xoge", "amount": 9}, {"item": "pypy", "amount": 5}, {"item": "leyoqo", "amount": 2}], "research": "xoge-conduit", "liquidCapacity": 10, "category": "liquid"}

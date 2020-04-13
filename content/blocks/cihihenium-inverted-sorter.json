@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cihihenium inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "cihihenium", "amount": 3}, {"item": "qiqole", "amount": 1}], "research": "cihihenium-conveyor", "category": "distribution", "invert": true}

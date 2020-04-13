@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sumu liquid tank", "description": "...", "health": 623, "size": 3, "requirements": [{"item": "sumu", "amount": 19}, {"item": "hyla", "amount": 10}, {"item": "sylyxy", "amount": 4}], "research": "sumu-conduit", "category": "liquid", "liquidCapacity": 4723, "hasLiquids": true}

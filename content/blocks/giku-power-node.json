@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "giku power node", "description": "...", "size": 2, "health": 546, "requirements": [{"item": "giku", "amount": 7}, {"item": "zoxi", "amount": 10}, {"item": "lynu", "amount": 4}], "research": "giku-factory", "maxNodes": 29, "laserRange": 19, "category": "power"}

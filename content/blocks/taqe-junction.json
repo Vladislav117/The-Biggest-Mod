@@ -1,0 +1,1 @@
+{"type": "junction", "name": "taqe junction", "description": "...", "health": 24, "speed": 20, "capacity": 10, "size": 1, "requirements": [{"item": "taqe", "amount": 2}, {"item": "bimominium", "amount": 5}], "research": "taqe-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rale solar panel", "description": "...", "size": 3, "health": 309, "requirements": [{"item": "rale", "amount": 20}, {"item": "vakarinium", "amount": 20}, {"item": "nifego", "amount": 3}], "research": "rale-factory", "powerProduction": 0.5910465532677847, "category": "power"}

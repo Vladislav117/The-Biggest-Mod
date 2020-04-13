@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zikeve conduit", "description": "...", "health": 104, "requirements": [{"item": "zikeve", "amount": 4}, {"item": "fyyy", "amount": 16}, {"item": "liqohy", "amount": 3}], "liquidCapacity": 48, "liquidPressure": 10, "research": "zikeve-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pujole liquid router", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "pujole", "amount": 8}, {"item": "buzidinium", "amount": 15}, {"item": "nimynium", "amount": 1}], "research": "pujole-conduit", "liquidCapacity": 10, "category": "liquid"}

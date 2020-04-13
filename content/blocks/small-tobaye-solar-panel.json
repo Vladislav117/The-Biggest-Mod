@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tobaye solar panel", "description": "...", "size": 1, "health": 120, "requirements": [{"item": "tobaye", "amount": 16}, {"item": "pomagu", "amount": 9}, {"item": "vuxi", "amount": 7}], "research": "tobaye-factory", "powerProduction": 0.6640880940306279, "category": "power"}

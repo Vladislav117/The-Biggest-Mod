@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qakynunium battery", "description": "...", "size": 1, "health": 392, "requirements": [{"item": "qakynunium", "amount": 13}, {"item": "civonium", "amount": 7}, {"item": "cyma", "amount": 10}], "research": "qakynunium-factory", "consumes": {"powerBuffered": 1511}, "category": "power"}

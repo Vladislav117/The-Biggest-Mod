@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "logy bridge conveyor", "description": "", "health": 42, "range": 11, "speed": 14, "bufferCapacity": 21, "requirements": [{"item": "logy", "amount": 2}, {"item": "sato", "amount": 4}], "research": "logy-conveyor", "category": "distribution", "size": 1}

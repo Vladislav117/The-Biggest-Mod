@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "piquvi liquid tank", "description": "...", "health": 632, "size": 3, "requirements": [{"item": "piquvi", "amount": 20}, {"item": "pexoqunium", "amount": 20}, {"item": "hona", "amount": 6}], "research": "piquvi-conduit", "category": "liquid", "liquidCapacity": 51611, "hasLiquids": true}

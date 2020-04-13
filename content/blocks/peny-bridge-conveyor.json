@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "peny bridge conveyor", "description": "", "health": 12, "range": 1, "speed": 9, "bufferCapacity": 23, "requirements": [{"item": "peny", "amount": 5}, {"item": "zori", "amount": 2}], "research": "peny-conveyor", "category": "distribution", "size": 1}

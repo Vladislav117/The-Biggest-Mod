@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gufanium liquid tank", "description": "...", "health": 499, "size": 3, "requirements": [{"item": "gufanium", "amount": 9}, {"item": "kacose", "amount": 14}, {"item": "hotose", "amount": 2}], "research": "gufanium-conduit", "category": "liquid", "liquidCapacity": 75514, "hasLiquids": true}

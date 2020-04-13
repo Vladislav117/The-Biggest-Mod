@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "puhide liquid tank", "description": "...", "health": 134, "size": 3, "requirements": [{"item": "puhide", "amount": 6}, {"item": "cigifi", "amount": 20}, {"item": "vixuca", "amount": 5}], "research": "puhide-conduit", "category": "liquid", "liquidCapacity": 84351, "hasLiquids": true}

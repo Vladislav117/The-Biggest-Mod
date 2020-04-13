@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zayuzi inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "zayuzi", "amount": 2}, {"item": "yicejanium", "amount": 3}], "research": "zayuzi-conveyor", "category": "distribution", "invert": true}

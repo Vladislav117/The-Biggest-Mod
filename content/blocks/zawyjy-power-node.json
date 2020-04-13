@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zawyjy power node", "description": "...", "size": 2, "health": 249, "requirements": [{"item": "zawyjy", "amount": 3}, {"item": "byfa", "amount": 3}, {"item": "rukonium", "amount": 1}], "research": "zawyjy-factory", "maxNodes": 35, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lyvewenium battery", "description": "...", "size": 3, "health": 225, "requirements": [{"item": "lyvewenium", "amount": 15}, {"item": "xiga", "amount": 14}, {"item": "nejesu", "amount": 8}], "research": "lyvewenium-factory", "consumes": {"powerBuffered": 8537}, "category": "power"}

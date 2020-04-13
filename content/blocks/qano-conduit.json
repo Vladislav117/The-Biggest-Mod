@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qano conduit", "description": "...", "health": 110, "requirements": [{"item": "qano", "amount": 4}, {"item": "rysi", "amount": 3}, {"item": "motaty", "amount": 3}], "liquidCapacity": 24, "liquidPressure": 3, "research": "qano-factory", "category": "liquid"}

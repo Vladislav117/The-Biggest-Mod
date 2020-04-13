@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fayenium bridge conveyor", "description": "", "health": 16, "range": 8, "speed": 12, "bufferCapacity": 9, "requirements": [{"item": "fayenium", "amount": 2}, {"item": "sewazo", "amount": 4}], "research": "fayenium-conveyor", "category": "distribution", "size": 1}

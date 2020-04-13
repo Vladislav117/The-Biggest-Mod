@@ -1,0 +1,1 @@
+{"type": "junction", "name": "movanium junction", "description": "...", "health": 8, "speed": 10, "capacity": 6, "size": 1, "requirements": [{"item": "movanium", "amount": 2}, {"item": "gonu", "amount": 5}], "research": "movanium-conveyor", "category": "distribution"}

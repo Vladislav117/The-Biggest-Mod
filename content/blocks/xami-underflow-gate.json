@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xami underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "xami", "amount": 5}, {"item": "xyzeja", "amount": 3}], "research": "xami-conveyor", "category": "distribution", "invert": false}

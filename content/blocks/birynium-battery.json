@@ -1,0 +1,1 @@
+{"type": "battery", "name": "birynium battery", "description": "...", "size": 3, "health": 348, "requirements": [{"item": "birynium", "amount": 14}, {"item": "kegiqi", "amount": 20}, {"item": "lisaca", "amount": 3}], "research": "birynium-factory", "consumes": {"powerBuffered": 3185}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tanexo underflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "tanexo", "amount": 4}, {"item": "nehudo", "amount": 4}], "research": "tanexo-conveyor", "category": "distribution", "invert": false}

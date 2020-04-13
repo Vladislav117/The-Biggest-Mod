@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "havipi power node", "description": "...", "size": 2, "health": 792, "requirements": [{"item": "havipi", "amount": 11}, {"item": "kaniyy", "amount": 15}, {"item": "tuxalu", "amount": 5}], "research": "havipi-factory", "maxNodes": 35, "laserRange": 25, "category": "power"}

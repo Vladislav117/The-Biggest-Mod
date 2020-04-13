@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xuyi drill", "description": "...", "size": 2, "health": 370, "tier": 1, "drillTime": 19, "consumes": {"power": 11}, "requirements": [{"item": "xuyi", "amount": 7}, {"item": "xuserynium", "amount": 11}, {"item": "joky", "amount": 10}], "research": "xuyi-factory", "category": "production"}

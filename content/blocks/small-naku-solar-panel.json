@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small naku solar panel", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "naku", "amount": 11}, {"item": "gurikinium", "amount": 11}, {"item": "xekota", "amount": 4}], "research": "naku-factory", "powerProduction": 7.788148349151312, "category": "power"}

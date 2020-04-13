@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kycuzo liquid router", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "kycuzo", "amount": 8}, {"item": "vyfyci", "amount": 5}, {"item": "cuda", "amount": 1}], "research": "kycuzo-conduit", "liquidCapacity": 10, "category": "liquid"}

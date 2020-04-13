@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nyci power node", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "nyci", "amount": 1}, {"item": "tivepa", "amount": 2}, {"item": "piyovy", "amount": 6}], "research": "nyci-factory", "maxNodes": 19, "laserRange": 18, "category": "power"}

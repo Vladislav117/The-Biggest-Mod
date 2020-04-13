@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mizu drill", "description": "...", "size": 2, "health": 130, "tier": 1, "drillTime": 19, "consumes": {"power": 15}, "requirements": [{"item": "mizu", "amount": 6}, {"item": "wuqosenium", "amount": 2}, {"item": "qyhi", "amount": 7}], "research": "mizu-factory", "category": "production"}

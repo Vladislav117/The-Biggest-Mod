@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fasi battery", "description": "...", "size": 3, "health": 69, "requirements": [{"item": "fasi", "amount": 11}, {"item": "gagyya", "amount": 9}, {"item": "vuhu", "amount": 6}], "research": "fasi-factory", "consumes": {"powerBuffered": 2387}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rusiqy junction", "description": "...", "health": 19, "speed": 8, "capacity": 20, "size": 1, "requirements": [{"item": "rusiqy", "amount": 3}, {"item": "qykebo", "amount": 5}], "research": "rusiqy-conveyor", "category": "distribution"}

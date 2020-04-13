@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fasaze underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "fasaze", "amount": 5}, {"item": "rymyfanium", "amount": 2}], "research": "fasaze-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gabimu liquid tank", "description": "...", "health": 532, "size": 3, "requirements": [{"item": "gabimu", "amount": 7}, {"item": "nirogynium", "amount": 3}, {"item": "feyyqe", "amount": 10}], "research": "gabimu-conduit", "category": "liquid", "liquidCapacity": 71995, "hasLiquids": true}

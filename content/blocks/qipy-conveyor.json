@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "qipy conveyor", "description": "...", "health": 250, "requirements": [{"item": "qipy", "amount": 10}, {"item": "duhexi", "amount": 7}], "speed": 0.3255715693910382, "research": "qipy-factory", "category": "distribution"}

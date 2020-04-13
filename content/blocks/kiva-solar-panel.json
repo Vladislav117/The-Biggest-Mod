@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kiva solar panel", "description": "...", "size": 3, "health": 357, "requirements": [{"item": "kiva", "amount": 4}, {"item": "yykole", "amount": 10}, {"item": "jyhoninium", "amount": 2}], "research": "kiva-factory", "powerProduction": 0.4793963334233342, "category": "power"}

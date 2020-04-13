@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hicoxo liquid tank", "description": "...", "health": 149, "size": 3, "requirements": [{"item": "hicoxo", "amount": 20}, {"item": "gotomy", "amount": 1}, {"item": "hufi", "amount": 8}], "research": "hicoxo-conduit", "category": "liquid", "liquidCapacity": 65623, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vojenium inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "vojenium", "amount": 2}, {"item": "boqi", "amount": 3}], "research": "vojenium-conveyor", "category": "distribution", "invert": true}

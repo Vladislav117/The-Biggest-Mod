@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wupera drill", "description": "...", "size": 3, "health": 171, "tier": 4, "drillTime": 11, "consumes": {"power": 20}, "requirements": [{"item": "wupera", "amount": 2}, {"item": "gydarynium", "amount": 4}, {"item": "haqu", "amount": 5}], "research": "wupera-factory", "category": "production"}

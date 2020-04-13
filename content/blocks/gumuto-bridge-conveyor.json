@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gumuto bridge conveyor", "description": "", "health": 2, "range": 19, "speed": 14, "bufferCapacity": 19, "requirements": [{"item": "gumuto", "amount": 4}, {"item": "leloyi", "amount": 4}], "research": "gumuto-conveyor", "category": "distribution", "size": 1}

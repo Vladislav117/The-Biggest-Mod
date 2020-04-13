@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kuju junction", "description": "...", "health": 13, "speed": 11, "capacity": 2, "size": 1, "requirements": [{"item": "kuju", "amount": 1}, {"item": "tetivy", "amount": 4}], "research": "kuju-conveyor", "category": "distribution"}

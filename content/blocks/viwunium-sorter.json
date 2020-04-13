@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "viwunium sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "viwunium", "amount": 2}, {"item": "sumu", "amount": 2}], "research": "viwunium-conveyor", "category": "distribution", "invert": false}

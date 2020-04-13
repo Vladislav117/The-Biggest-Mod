@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hovu conduit", "description": "...", "health": 53, "requirements": [{"item": "hovu", "amount": 20}, {"item": "safe", "amount": 7}, {"item": "wediyu", "amount": 6}], "liquidCapacity": 28, "liquidPressure": 3, "research": "hovu-factory", "category": "liquid"}

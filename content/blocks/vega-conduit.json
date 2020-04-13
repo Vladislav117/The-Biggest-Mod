@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vega conduit", "description": "...", "health": 32, "requirements": [{"item": "vega", "amount": 5}, {"item": "nogosy", "amount": 15}, {"item": "lemoqa", "amount": 6}], "liquidCapacity": 48, "liquidPressure": 8, "research": "vega-factory", "category": "liquid"}

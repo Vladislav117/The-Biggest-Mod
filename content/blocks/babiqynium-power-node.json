@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "babiqynium power node", "description": "...", "size": 2, "health": 383, "requirements": [{"item": "babiqynium", "amount": 5}, {"item": "cuwa", "amount": 14}, {"item": "myhaxu", "amount": 3}], "research": "babiqynium-factory", "maxNodes": 57, "laserRange": 9, "category": "power"}

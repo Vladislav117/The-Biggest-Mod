@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lunido battery", "description": "...", "size": 1, "health": 164, "requirements": [{"item": "lunido", "amount": 9}, {"item": "vusi", "amount": 20}, {"item": "heso", "amount": 7}], "research": "lunido-factory", "consumes": {"powerBuffered": 2163}, "category": "power"}

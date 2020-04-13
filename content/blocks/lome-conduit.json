@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lome conduit", "description": "...", "health": 32, "requirements": [{"item": "lome", "amount": 7}, {"item": "wozego", "amount": 1}, {"item": "zoda", "amount": 9}], "liquidCapacity": 41, "liquidPressure": 10, "research": "lome-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rugu conduit", "description": "...", "health": 120, "requirements": [{"item": "rugu", "amount": 6}, {"item": "mabe", "amount": 11}, {"item": "xyxevynium", "amount": 10}], "liquidCapacity": 37, "liquidPressure": 8, "research": "rugu-factory", "category": "liquid"}

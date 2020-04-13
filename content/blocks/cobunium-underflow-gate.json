@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cobunium underflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "cobunium", "amount": 4}, {"item": "dihomu", "amount": 3}], "research": "cobunium-conveyor", "category": "distribution", "invert": false}

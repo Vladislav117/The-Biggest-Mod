@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "syso power node", "description": "...", "size": 2, "health": 362, "requirements": [{"item": "syso", "amount": 4}, {"item": "hakenium", "amount": 4}, {"item": "dyguzu", "amount": 6}], "research": "syso-factory", "maxNodes": 17, "laserRange": 11, "category": "power"}

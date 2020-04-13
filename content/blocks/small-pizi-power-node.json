@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pizi power node", "description": "...", "size": 1, "health": 29, "requirements": [{"item": "pizi", "amount": 8}, {"item": "yudesinium", "amount": 13}, {"item": "kyqedu", "amount": 10}], "research": "pizi-factory", "maxNodes": 24, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hagi sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "hagi", "amount": 5}, {"item": "hysivi", "amount": 5}], "research": "hagi-conveyor", "category": "distribution", "invert": false}

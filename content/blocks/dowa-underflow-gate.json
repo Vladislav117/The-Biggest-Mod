@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dowa underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "dowa", "amount": 1}, {"item": "moro", "amount": 1}], "research": "dowa-conveyor", "category": "distribution", "invert": false}

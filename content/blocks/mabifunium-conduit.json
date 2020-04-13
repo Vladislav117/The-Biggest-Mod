@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mabifunium conduit", "description": "...", "health": 198, "requirements": [{"item": "mabifunium", "amount": 20}, {"item": "lane", "amount": 15}, {"item": "minoxa", "amount": 6}], "liquidCapacity": 6, "liquidPressure": 0, "research": "mabifunium-factory", "category": "liquid"}

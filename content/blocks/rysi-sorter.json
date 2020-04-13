@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rysi sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "rysi", "amount": 5}, {"item": "juwyso", "amount": 4}], "research": "rysi-conveyor", "category": "distribution", "invert": false}

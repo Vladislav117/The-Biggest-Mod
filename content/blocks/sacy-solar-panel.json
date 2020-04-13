@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sacy solar panel", "description": "...", "size": 3, "health": 280, "requirements": [{"item": "sacy", "amount": 17}, {"item": "surge-alloy", "amount": 11}, {"item": "sysagu", "amount": 5}], "research": "sacy-factory", "powerProduction": 1.4432970447473017, "category": "power"}

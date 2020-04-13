@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jafuja bridge conveyor", "description": "", "health": 28, "range": 2, "speed": 7, "bufferCapacity": 20, "requirements": [{"item": "jafuja", "amount": 2}, {"item": "yuyy", "amount": 4}], "research": "jafuja-conveyor", "category": "distribution", "size": 1}

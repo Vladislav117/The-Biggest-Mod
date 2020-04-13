@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tuzo overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "tuzo", "amount": 3}, {"item": "nujunium", "amount": 5}], "research": "tuzo-conveyor", "category": "distribution", "invert": false}

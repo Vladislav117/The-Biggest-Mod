@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "poya liquid tank", "description": "...", "health": 551, "size": 3, "requirements": [{"item": "poya", "amount": 12}, {"item": "jexanium", "amount": 1}, {"item": "faruna", "amount": 2}], "research": "poya-conduit", "category": "liquid", "liquidCapacity": 111550, "hasLiquids": true}

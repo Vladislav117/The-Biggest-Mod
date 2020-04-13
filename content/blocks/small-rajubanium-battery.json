@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rajubanium battery", "description": "...", "size": 1, "health": 278, "requirements": [{"item": "rajubanium", "amount": 4}, {"item": "nejesu", "amount": 7}, {"item": "coqinium", "amount": 7}], "research": "rajubanium-factory", "consumes": {"powerBuffered": 2086}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dipi liquid router", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "dipi", "amount": 5}, {"item": "pebi", "amount": 15}, {"item": "lunido", "amount": 5}], "research": "dipi-conduit", "liquidCapacity": 10, "category": "liquid"}

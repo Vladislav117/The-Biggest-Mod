@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ranyzi underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "ranyzi", "amount": 2}, {"item": "dyme", "amount": 1}], "research": "ranyzi-conveyor", "category": "distribution", "invert": false}

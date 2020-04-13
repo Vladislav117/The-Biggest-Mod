@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "huxonium force projector", "description": "...", "health": 127, "size": 3, "consumes": {"power": 5.0, "item": "huxonium"}, "requirements": [{"item": "huxonium", "amount": 13}, {"item": "jaga", "amount": 6}, {"item": "leviye", "amount": 1}], "research": "huxonium-factory", "category": "effect"}

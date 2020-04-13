@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "myzu liquid tank", "description": "...", "health": 121, "size": 3, "requirements": [{"item": "myzu", "amount": 15}, {"item": "fyfe", "amount": 10}, {"item": "gupohu", "amount": 10}], "research": "myzu-conduit", "category": "liquid", "liquidCapacity": 64137, "hasLiquids": true}

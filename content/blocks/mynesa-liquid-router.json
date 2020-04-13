@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mynesa liquid router", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "mynesa", "amount": 20}, {"item": "life", "amount": 7}, {"item": "boretu", "amount": 7}], "research": "mynesa-conduit", "liquidCapacity": 10, "category": "liquid"}

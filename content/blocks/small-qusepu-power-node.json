@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qusepu power node", "description": "...", "size": 1, "health": 319, "requirements": [{"item": "qusepu", "amount": 19}, {"item": "sytafe", "amount": 11}, {"item": "fybaze", "amount": 5}], "research": "qusepu-factory", "maxNodes": 25, "laserRange": 17, "category": "power"}

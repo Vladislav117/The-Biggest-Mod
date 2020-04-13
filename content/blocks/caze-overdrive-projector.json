@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "caze overdrive projector", "description": "...", "health": 119, "consumes": {"power": 3.0, "item": "caze"}, "size": 2, "requirements": [{"item": "caze", "amount": 18}, {"item": "sepo", "amount": 19}, {"item": "zuvy", "amount": 2}], "research": "caze-factory", "category": "effect"}

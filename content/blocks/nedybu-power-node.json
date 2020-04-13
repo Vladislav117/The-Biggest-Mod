@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nedybu power node", "description": "...", "size": 2, "health": 354, "requirements": [{"item": "nedybu", "amount": 4}, {"item": "wuronium", "amount": 16}, {"item": "pele", "amount": 5}], "research": "nedybu-factory", "maxNodes": 26, "laserRange": 8, "category": "power"}

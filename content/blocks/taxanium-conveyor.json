@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "taxanium conveyor", "description": "...", "health": 48, "requirements": [{"item": "taxanium", "amount": 4}, {"item": "xeco", "amount": 4}], "speed": 0.2564949815333933, "research": "taxanium-factory", "category": "distribution"}

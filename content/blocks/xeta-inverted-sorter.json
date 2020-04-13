@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xeta inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "xeta", "amount": 3}, {"item": "kozivo", "amount": 1}], "research": "xeta-conveyor", "category": "distribution", "invert": true}

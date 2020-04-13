@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vini junction", "description": "...", "health": 27, "speed": 17, "capacity": 12, "size": 1, "requirements": [{"item": "vini", "amount": 4}, {"item": "sugamynium", "amount": 1}], "research": "vini-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yidako battery", "description": "...", "size": 1, "health": 344, "requirements": [{"item": "yidako", "amount": 14}, {"item": "wicapy", "amount": 7}, {"item": "vabeda", "amount": 6}], "research": "yidako-factory", "consumes": {"powerBuffered": 495}, "category": "power"}

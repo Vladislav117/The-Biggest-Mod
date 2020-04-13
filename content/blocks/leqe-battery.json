@@ -1,0 +1,1 @@
+{"type": "battery", "name": "leqe battery", "description": "...", "size": 3, "health": 390, "requirements": [{"item": "leqe", "amount": 19}, {"item": "jofu", "amount": 20}, {"item": "ceginy", "amount": 7}], "research": "leqe-factory", "consumes": {"powerBuffered": 8806}, "category": "power"}

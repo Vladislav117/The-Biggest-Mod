@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "donysenium liquid router", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "donysenium", "amount": 7}, {"item": "fevy", "amount": 8}, {"item": "neloto", "amount": 5}], "research": "donysenium-conduit", "liquidCapacity": 10, "category": "liquid"}

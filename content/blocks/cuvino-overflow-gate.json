@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cuvino overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "cuvino", "amount": 5}, {"item": "rukonium", "amount": 1}], "research": "cuvino-conveyor", "category": "distribution", "invert": false}

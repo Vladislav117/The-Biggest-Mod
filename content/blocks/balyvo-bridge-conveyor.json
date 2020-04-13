@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "balyvo bridge conveyor", "description": "", "health": 6, "range": 9, "speed": 6, "bufferCapacity": 12, "requirements": [{"item": "balyvo", "amount": 5}, {"item": "hofa", "amount": 1}], "research": "balyvo-conveyor", "category": "distribution", "size": 1}

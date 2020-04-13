@@ -1,0 +1,1 @@
+{"type": "router", "name": "cyzo router", "description": "...", "health": 100, "size": 1, "requirements": [{"item": "cyzo", "amount": 9}], "research": "cyzo-conveyor", "category": "distribution"}

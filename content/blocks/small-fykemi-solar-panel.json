@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fykemi solar panel", "description": "...", "size": 1, "health": 191, "requirements": [{"item": "fykemi", "amount": 18}, {"item": "vodico", "amount": 18}, {"item": "heqywanium", "amount": 8}], "research": "fykemi-factory", "powerProduction": 6.071343599320806, "category": "power"}

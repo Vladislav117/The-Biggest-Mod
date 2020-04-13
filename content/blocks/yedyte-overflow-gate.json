@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yedyte overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "yedyte", "amount": 1}, {"item": "coqinium", "amount": 4}], "research": "yedyte-conveyor", "category": "distribution", "invert": false}

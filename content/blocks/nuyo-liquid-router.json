@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nuyo liquid router", "description": "...", "size": 1, "health": 35, "requirements": [{"item": "nuyo", "amount": 10}, {"item": "gaxenium", "amount": 14}, {"item": "zirive", "amount": 3}], "research": "nuyo-conduit", "liquidCapacity": 10, "category": "liquid"}

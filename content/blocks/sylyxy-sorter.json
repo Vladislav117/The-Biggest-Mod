@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sylyxy sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "sylyxy", "amount": 4}, {"item": "mufosinium", "amount": 4}], "research": "sylyxy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pemaya solar panel", "description": "...", "size": 1, "health": 216, "requirements": [{"item": "pemaya", "amount": 1}, {"item": "mohoze", "amount": 7}, {"item": "riyo", "amount": 5}], "research": "pemaya-factory", "powerProduction": 1.6415541658350898, "category": "power"}

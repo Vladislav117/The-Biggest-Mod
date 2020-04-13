@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zygebynium liquid tank", "description": "...", "health": 641, "size": 3, "requirements": [{"item": "zygebynium", "amount": 2}, {"item": "nytu", "amount": 13}, {"item": "cuwa", "amount": 9}], "research": "zygebynium-conduit", "category": "liquid", "liquidCapacity": 19756, "hasLiquids": true}

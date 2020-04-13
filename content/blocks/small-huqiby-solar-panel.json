@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small huqiby solar panel", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "huqiby", "amount": 1}, {"item": "reqoxu", "amount": 4}, {"item": "vykynium", "amount": 6}], "research": "huqiby-factory", "powerProduction": 0.39217508060979295, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qatu battery", "description": "...", "size": 3, "health": 169, "requirements": [{"item": "qatu", "amount": 18}, {"item": "naxihe", "amount": 5}, {"item": "saxa", "amount": 9}], "research": "qatu-factory", "consumes": {"powerBuffered": 3761}, "category": "power"}

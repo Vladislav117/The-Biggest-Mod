@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xaji inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "xaji", "amount": 5}, {"item": "daqy", "amount": 4}], "research": "xaji-conveyor", "category": "distribution", "invert": true}

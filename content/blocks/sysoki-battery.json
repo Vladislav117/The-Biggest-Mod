@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sysoki battery", "description": "...", "size": 3, "health": 60, "requirements": [{"item": "sysoki", "amount": 14}, {"item": "zexa", "amount": 12}, {"item": "jega", "amount": 9}], "research": "sysoki-factory", "consumes": {"powerBuffered": 9999}, "category": "power"}

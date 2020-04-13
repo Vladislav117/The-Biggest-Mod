@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tokote liquid tank", "description": "...", "health": 637, "size": 3, "requirements": [{"item": "tokote", "amount": 15}, {"item": "nazananium", "amount": 10}, {"item": "nefanium", "amount": 8}], "research": "tokote-conduit", "category": "liquid", "liquidCapacity": 99535, "hasLiquids": true}

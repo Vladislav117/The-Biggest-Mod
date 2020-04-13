@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small roluny solar panel", "description": "...", "size": 1, "health": 52, "requirements": [{"item": "roluny", "amount": 9}, {"item": "nawyli", "amount": 12}, {"item": "lisaca", "amount": 2}], "research": "roluny-factory", "powerProduction": 3.076430114299398, "category": "power"}

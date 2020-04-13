@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dyyufo bridge conveyor", "description": "", "health": 42, "range": 10, "speed": 2, "bufferCapacity": 7, "requirements": [{"item": "dyyufo", "amount": 2}, {"item": "pyqynium", "amount": 1}], "research": "dyyufo-conveyor", "category": "distribution", "size": 1}

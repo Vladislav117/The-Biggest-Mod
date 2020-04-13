@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fevu bridge conveyor", "description": "", "health": 15, "range": 20, "speed": 9, "bufferCapacity": 22, "requirements": [{"item": "fevu", "amount": 4}, {"item": "xylidinium", "amount": 5}], "research": "fevu-conveyor", "category": "distribution", "size": 1}

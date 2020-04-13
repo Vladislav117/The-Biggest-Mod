@@ -1,0 +1,1 @@
+{"type": "battery", "name": "damo battery", "description": "...", "size": 3, "health": 208, "requirements": [{"item": "damo", "amount": 5}, {"item": "nufa", "amount": 11}, {"item": "baxy", "amount": 8}], "research": "damo-factory", "consumes": {"powerBuffered": 1894}, "category": "power"}

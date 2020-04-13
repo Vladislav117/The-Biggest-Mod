@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gipalinium underflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "gipalinium", "amount": 4}, {"item": "zoda", "amount": 5}], "research": "gipalinium-conveyor", "category": "distribution", "invert": false}

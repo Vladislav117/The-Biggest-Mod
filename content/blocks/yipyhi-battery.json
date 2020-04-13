@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yipyhi battery", "description": "...", "size": 3, "health": 149, "requirements": [{"item": "yipyhi", "amount": 13}, {"item": "yexowy", "amount": 11}, {"item": "qenu", "amount": 3}], "research": "yipyhi-factory", "consumes": {"powerBuffered": 6202}, "category": "power"}

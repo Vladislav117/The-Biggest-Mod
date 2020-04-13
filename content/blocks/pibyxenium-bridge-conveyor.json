@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pibyxenium bridge conveyor", "description": "", "health": 38, "range": 16, "speed": 9, "bufferCapacity": 4, "requirements": [{"item": "pibyxenium", "amount": 1}, {"item": "pomagu", "amount": 1}], "research": "pibyxenium-conveyor", "category": "distribution", "size": 1}

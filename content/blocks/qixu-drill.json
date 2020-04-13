@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qixu drill", "description": "...", "size": 4, "health": 445, "tier": 1, "drillTime": 2, "consumes": {"power": 5}, "requirements": [{"item": "qixu", "amount": 18}, {"item": "juwynium", "amount": 13}, {"item": "cygyya", "amount": 10}], "research": "qixu-factory", "category": "production"}

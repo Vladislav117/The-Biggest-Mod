@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yifi overflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "yifi", "amount": 4}, {"item": "zekaru", "amount": 3}], "research": "yifi-conveyor", "category": "distribution", "invert": false}

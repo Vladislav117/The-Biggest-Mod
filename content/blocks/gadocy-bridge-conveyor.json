@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gadocy bridge conveyor", "description": "", "health": 46, "range": 20, "speed": 14, "bufferCapacity": 15, "requirements": [{"item": "gadocy", "amount": 1}, {"item": "xeye", "amount": 1}], "research": "gadocy-conveyor", "category": "distribution", "size": 1}

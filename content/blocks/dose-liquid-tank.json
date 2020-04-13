@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dose liquid tank", "description": "...", "health": 192, "size": 3, "requirements": [{"item": "dose", "amount": 18}, {"item": "baquyo", "amount": 4}, {"item": "layi", "amount": 6}], "research": "dose-conduit", "category": "liquid", "liquidCapacity": 41525, "hasLiquids": true}

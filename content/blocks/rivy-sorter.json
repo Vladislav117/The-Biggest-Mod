@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rivy sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "rivy", "amount": 5}, {"item": "kute", "amount": 5}], "research": "rivy-conveyor", "category": "distribution", "invert": false}

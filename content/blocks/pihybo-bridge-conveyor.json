@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pihybo bridge conveyor", "description": "", "health": 16, "range": 7, "speed": 3, "bufferCapacity": 18, "requirements": [{"item": "pihybo", "amount": 5}, {"item": "femoconium", "amount": 3}], "research": "pihybo-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "liyavu bridge conveyor", "description": "", "health": 35, "range": 2, "speed": 13, "bufferCapacity": 1, "requirements": [{"item": "liyavu", "amount": 4}, {"item": "bemu", "amount": 4}], "research": "liyavu-conveyor", "category": "distribution", "size": 1}

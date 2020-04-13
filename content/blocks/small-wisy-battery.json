@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wisy battery", "description": "...", "size": 1, "health": 214, "requirements": [{"item": "wisy", "amount": 14}, {"item": "kecufi", "amount": 19}, {"item": "ruwysu", "amount": 7}], "research": "wisy-factory", "consumes": {"powerBuffered": 579}, "category": "power"}

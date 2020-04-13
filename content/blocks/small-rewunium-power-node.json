@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rewunium power node", "description": "...", "size": 1, "health": 243, "requirements": [{"item": "rewunium", "amount": 3}, {"item": "gada", "amount": 18}, {"item": "lugepa", "amount": 4}], "research": "rewunium-factory", "maxNodes": 18, "laserRange": 3, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "doya liquid tank", "description": "...", "health": 126, "size": 3, "requirements": [{"item": "doya", "amount": 11}, {"item": "mivoky", "amount": 3}, {"item": "gurikinium", "amount": 1}], "research": "doya-conduit", "category": "liquid", "liquidCapacity": 114889, "hasLiquids": true}

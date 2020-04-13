@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "foqunium force projector", "description": "...", "health": 164, "size": 3, "consumes": {"power": 5.0, "item": "foqunium"}, "requirements": [{"item": "foqunium", "amount": 19}, {"item": "lacepy", "amount": 15}, {"item": "jatyjenium", "amount": 6}], "research": "foqunium-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kica overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "kica", "amount": 1}, {"item": "kywowa", "amount": 4}], "research": "kica-conveyor", "category": "distribution", "invert": false}

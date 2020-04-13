@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "foqunium solar panel", "description": "...", "size": 3, "health": 92, "requirements": [{"item": "foqunium", "amount": 15}, {"item": "sayibe", "amount": 2}, {"item": "qupu", "amount": 10}], "research": "foqunium-factory", "powerProduction": 2.180982033320187, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pyjorenium power node", "description": "...", "size": 2, "health": 89, "requirements": [{"item": "pyjorenium", "amount": 10}, {"item": "byzure", "amount": 17}, {"item": "taja", "amount": 1}], "research": "pyjorenium-factory", "maxNodes": 46, "laserRange": 17, "category": "power"}

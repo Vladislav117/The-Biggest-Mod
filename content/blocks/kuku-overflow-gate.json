@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kuku overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "kuku", "amount": 2}, {"item": "milosi", "amount": 4}], "research": "kuku-conveyor", "category": "distribution", "invert": false}

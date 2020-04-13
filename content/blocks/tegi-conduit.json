@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tegi conduit", "description": "...", "health": 20, "requirements": [{"item": "tegi", "amount": 17}, {"item": "minoxa", "amount": 10}, {"item": "qayy", "amount": 8}], "liquidCapacity": 44, "liquidPressure": 1, "research": "tegi-factory", "category": "liquid"}

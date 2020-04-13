@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cybamy drill", "description": "...", "size": 2, "health": 423, "tier": 3, "drillTime": 1, "consumes": {"power": 12}, "requirements": [{"item": "cybamy", "amount": 15}, {"item": "zyzofo", "amount": 10}, {"item": "jufyxo", "amount": 1}], "research": "cybamy-factory", "category": "production"}

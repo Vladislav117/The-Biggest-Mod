@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vecifu inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "vecifu", "amount": 1}, {"item": "cyzu", "amount": 4}], "research": "vecifu-conveyor", "category": "distribution", "invert": true}

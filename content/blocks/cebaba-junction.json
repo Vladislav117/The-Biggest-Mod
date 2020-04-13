@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cebaba junction", "description": "...", "health": 20, "speed": 1, "capacity": 15, "size": 1, "requirements": [{"item": "cebaba", "amount": 5}, {"item": "bugyta", "amount": 1}], "research": "cebaba-conveyor", "category": "distribution"}

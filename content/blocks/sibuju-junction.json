@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sibuju junction", "description": "...", "health": 22, "speed": 5, "capacity": 4, "size": 1, "requirements": [{"item": "sibuju", "amount": 5}, {"item": "kixy", "amount": 5}], "research": "sibuju-conveyor", "category": "distribution"}

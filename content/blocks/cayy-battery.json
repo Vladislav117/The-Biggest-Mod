@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cayy battery", "description": "...", "size": 3, "health": 389, "requirements": [{"item": "cayy", "amount": 4}, {"item": "xepiqi", "amount": 2}, {"item": "filo", "amount": 3}], "research": "cayy-factory", "consumes": {"powerBuffered": 7277}, "category": "power"}

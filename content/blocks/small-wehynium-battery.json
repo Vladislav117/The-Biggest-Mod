@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wehynium battery", "description": "...", "size": 1, "health": 359, "requirements": [{"item": "wehynium", "amount": 7}, {"item": "nunanunium", "amount": 2}, {"item": "sodyly", "amount": 9}], "research": "wehynium-factory", "consumes": {"powerBuffered": 2412}, "category": "power"}

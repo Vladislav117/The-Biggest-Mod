@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zudalu liquid router", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "zudalu", "amount": 6}, {"item": "potesonium", "amount": 8}, {"item": "dexe", "amount": 10}], "research": "zudalu-conduit", "liquidCapacity": 10, "category": "liquid"}

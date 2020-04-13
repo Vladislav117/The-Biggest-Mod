@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qyyalo solar panel", "description": "...", "size": 1, "health": 373, "requirements": [{"item": "qyyalo", "amount": 6}, {"item": "jofisi", "amount": 10}, {"item": "lynulo", "amount": 7}], "research": "qyyalo-factory", "powerProduction": 1.60735751281151, "category": "power"}

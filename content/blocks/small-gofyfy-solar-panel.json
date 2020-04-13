@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gofyfy solar panel", "description": "...", "size": 1, "health": 362, "requirements": [{"item": "gofyfy", "amount": 9}, {"item": "cahi", "amount": 19}, {"item": "leviye", "amount": 9}], "research": "gofyfy-factory", "powerProduction": 3.0931437742619665, "category": "power"}

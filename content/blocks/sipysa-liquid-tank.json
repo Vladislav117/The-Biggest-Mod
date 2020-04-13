@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sipysa liquid tank", "description": "...", "health": 464, "size": 3, "requirements": [{"item": "sipysa", "amount": 9}, {"item": "fejenium", "amount": 1}, {"item": "kizywanium", "amount": 8}], "research": "sipysa-conduit", "category": "liquid", "liquidCapacity": 79774, "hasLiquids": true}

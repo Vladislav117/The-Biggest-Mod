@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cuqolu junction", "description": "...", "health": 43, "speed": 3, "capacity": 16, "size": 1, "requirements": [{"item": "cuqolu", "amount": 1}, {"item": "pero", "amount": 4}], "research": "cuqolu-conveyor", "category": "distribution"}

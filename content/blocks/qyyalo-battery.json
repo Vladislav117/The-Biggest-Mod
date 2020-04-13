@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qyyalo battery", "description": "...", "size": 3, "health": 155, "requirements": [{"item": "qyyalo", "amount": 9}, {"item": "wyra", "amount": 11}, {"item": "qodeqe", "amount": 4}], "research": "qyyalo-factory", "consumes": {"powerBuffered": 6897}, "category": "power"}

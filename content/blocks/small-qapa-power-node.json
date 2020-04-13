@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qapa power node", "description": "...", "size": 1, "health": 179, "requirements": [{"item": "qapa", "amount": 7}, {"item": "vova", "amount": 8}, {"item": "naha", "amount": 3}], "research": "qapa-factory", "maxNodes": 15, "laserRange": 18, "category": "power"}

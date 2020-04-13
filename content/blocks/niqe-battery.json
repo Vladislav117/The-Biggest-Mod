@@ -1,0 +1,1 @@
+{"type": "battery", "name": "niqe battery", "description": "...", "size": 3, "health": 87, "requirements": [{"item": "niqe", "amount": 20}, {"item": "maty", "amount": 17}, {"item": "bibizo", "amount": 7}], "research": "niqe-factory", "consumes": {"powerBuffered": 601}, "category": "power"}

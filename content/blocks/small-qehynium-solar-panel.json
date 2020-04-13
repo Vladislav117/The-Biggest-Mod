@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qehynium solar panel", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "qehynium", "amount": 20}, {"item": "pemo", "amount": 1}, {"item": "bosuvynium", "amount": 8}], "research": "qehynium-factory", "powerProduction": 1.30591143748608, "category": "power"}

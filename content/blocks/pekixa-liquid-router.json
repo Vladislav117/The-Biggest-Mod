@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pekixa liquid router", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "pekixa", "amount": 12}, {"item": "visuco", "amount": 20}, {"item": "ryxaro", "amount": 10}], "research": "pekixa-conduit", "liquidCapacity": 10, "category": "liquid"}

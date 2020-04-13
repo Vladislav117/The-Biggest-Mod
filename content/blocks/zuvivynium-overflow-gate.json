@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zuvivynium overflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "zuvivynium", "amount": 1}, {"item": "rahu", "amount": 2}], "research": "zuvivynium-conveyor", "category": "distribution", "invert": false}

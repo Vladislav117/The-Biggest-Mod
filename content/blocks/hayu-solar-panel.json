@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hayu solar panel", "description": "...", "size": 3, "health": 275, "requirements": [{"item": "hayu", "amount": 4}, {"item": "vykofa", "amount": 20}, {"item": "yydaqe", "amount": 2}], "research": "hayu-factory", "powerProduction": 1.3160998187478408, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nagu liquid tank", "description": "...", "health": 276, "size": 3, "requirements": [{"item": "nagu", "amount": 17}, {"item": "jubuxa", "amount": 3}, {"item": "carani", "amount": 3}], "research": "nagu-conduit", "category": "liquid", "liquidCapacity": 45537, "hasLiquids": true}

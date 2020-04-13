@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "damo liquid router", "description": "...", "size": 1, "health": 84, "requirements": [{"item": "damo", "amount": 8}, {"item": "cuwa", "amount": 14}, {"item": "juvaci", "amount": 10}], "research": "damo-conduit", "liquidCapacity": 10, "category": "liquid"}

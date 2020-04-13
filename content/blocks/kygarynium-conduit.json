@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kygarynium conduit", "description": "...", "health": 150, "requirements": [{"item": "kygarynium", "amount": 18}, {"item": "zoxi", "amount": 14}, {"item": "makonium", "amount": 9}], "liquidCapacity": 25, "liquidPressure": 8, "research": "kygarynium-factory", "category": "liquid"}

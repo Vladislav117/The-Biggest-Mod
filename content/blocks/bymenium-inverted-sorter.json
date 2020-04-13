@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bymenium inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "bymenium", "amount": 5}, {"item": "wyfanium", "amount": 4}], "research": "bymenium-conveyor", "category": "distribution", "invert": true}

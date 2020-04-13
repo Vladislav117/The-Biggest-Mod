@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "netonium conduit", "description": "...", "health": 145, "requirements": [{"item": "netonium", "amount": 20}, {"item": "dyku", "amount": 15}, {"item": "wequky", "amount": 2}], "liquidCapacity": 10, "liquidPressure": 6, "research": "netonium-factory", "category": "liquid"}

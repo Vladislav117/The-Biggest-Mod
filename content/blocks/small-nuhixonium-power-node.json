@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nuhixonium power node", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "nuhixonium", "amount": 1}, {"item": "puye", "amount": 8}, {"item": "nikoru", "amount": 10}], "research": "nuhixonium-factory", "maxNodes": 14, "laserRange": 17, "category": "power"}

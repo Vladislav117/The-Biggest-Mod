@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jyyo solar panel", "description": "...", "size": 3, "health": 90, "requirements": [{"item": "jyyo", "amount": 11}, {"item": "lebo", "amount": 20}, {"item": "gina", "amount": 5}], "research": "jyyo-factory", "powerProduction": 1.374307934165552, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bilupi power node", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "bilupi", "amount": 11}, {"item": "kelurynium", "amount": 3}, {"item": "hyqyno", "amount": 6}], "research": "bilupi-factory", "maxNodes": 16, "laserRange": 4, "category": "power"}

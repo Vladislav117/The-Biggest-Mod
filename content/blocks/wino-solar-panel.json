@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wino solar panel", "description": "...", "size": 3, "health": 390, "requirements": [{"item": "wino", "amount": 3}, {"item": "yama", "amount": 16}, {"item": "momosa", "amount": 1}], "research": "wino-factory", "powerProduction": 0.011563574497594887, "category": "power"}

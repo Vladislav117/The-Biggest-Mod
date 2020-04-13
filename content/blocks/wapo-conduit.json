@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wapo conduit", "description": "...", "health": 143, "requirements": [{"item": "wapo", "amount": 5}, {"item": "xoquge", "amount": 3}, {"item": "qovy", "amount": 9}], "liquidCapacity": 5, "liquidPressure": 8, "research": "wapo-factory", "category": "liquid"}

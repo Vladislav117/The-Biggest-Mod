@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "yicenium force projector", "description": "...", "health": 194, "size": 3, "consumes": {"power": 5.0, "item": "yicenium"}, "requirements": [{"item": "yicenium", "amount": 2}, {"item": "forebu", "amount": 7}, {"item": "pego", "amount": 3}], "research": "yicenium-factory", "category": "effect"}

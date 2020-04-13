@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "duvadi power node", "description": "...", "size": 2, "health": 717, "requirements": [{"item": "duvadi", "amount": 17}, {"item": "yavyra", "amount": 4}, {"item": "kizywanium", "amount": 2}], "research": "duvadi-factory", "maxNodes": 33, "laserRange": 18, "category": "power"}

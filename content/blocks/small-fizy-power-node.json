@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fizy power node", "description": "...", "size": 1, "health": 400, "requirements": [{"item": "fizy", "amount": 13}, {"item": "kecufi", "amount": 16}, {"item": "monu", "amount": 6}], "research": "fizy-factory", "maxNodes": 14, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cebaba overflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "cebaba", "amount": 3}, {"item": "daqy", "amount": 5}], "research": "cebaba-conveyor", "category": "distribution", "invert": false}

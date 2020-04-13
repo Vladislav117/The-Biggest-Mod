@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "give drill", "description": "...", "size": 2, "health": 170, "tier": 1, "drillTime": 9, "consumes": {"power": 19}, "requirements": [{"item": "give", "amount": 2}, {"item": "najy", "amount": 8}, {"item": "lacepy", "amount": 5}], "research": "give-factory", "category": "production"}

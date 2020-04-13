@@ -1,0 +1,1 @@
+{"type": "battery", "name": "varuso battery", "description": "...", "size": 3, "health": 201, "requirements": [{"item": "varuso", "amount": 8}, {"item": "xehy", "amount": 1}, {"item": "codaxe", "amount": 6}], "research": "varuso-factory", "consumes": {"powerBuffered": 900}, "category": "power"}

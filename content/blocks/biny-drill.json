@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "biny drill", "description": "...", "size": 4, "health": 189, "tier": 2, "drillTime": 1, "consumes": {"power": 3}, "requirements": [{"item": "biny", "amount": 15}, {"item": "phase-fabric", "amount": 12}, {"item": "zymi", "amount": 9}], "research": "biny-factory", "category": "production"}

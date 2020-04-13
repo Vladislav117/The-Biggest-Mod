@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pixuhynium solar panel", "description": "...", "size": 3, "health": 338, "requirements": [{"item": "pixuhynium", "amount": 10}, {"item": "yepufi", "amount": 20}, {"item": "paso", "amount": 1}], "research": "pixuhynium-factory", "powerProduction": 0.3532963503588864, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xyko power node", "description": "...", "size": 2, "health": 551, "requirements": [{"item": "xyko", "amount": 18}, {"item": "wadoka", "amount": 14}, {"item": "nota", "amount": 2}], "research": "xyko-factory", "maxNodes": 29, "laserRange": 10, "category": "power"}

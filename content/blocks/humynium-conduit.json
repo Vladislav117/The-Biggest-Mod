@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "humynium conduit", "description": "...", "health": 195, "requirements": [{"item": "humynium", "amount": 13}, {"item": "wyra", "amount": 7}, {"item": "mozy", "amount": 1}], "liquidCapacity": 26, "liquidPressure": 10, "research": "humynium-factory", "category": "liquid"}

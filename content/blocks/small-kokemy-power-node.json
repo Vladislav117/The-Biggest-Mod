@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kokemy power node", "description": "...", "size": 1, "health": 21, "requirements": [{"item": "kokemy", "amount": 19}, {"item": "yalaka", "amount": 9}, {"item": "tygoqa", "amount": 1}], "research": "kokemy-factory", "maxNodes": 12, "laserRange": 4, "category": "power"}

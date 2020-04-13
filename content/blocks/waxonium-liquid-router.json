@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "waxonium liquid router", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "waxonium", "amount": 12}, {"item": "cazefu", "amount": 6}, {"item": "rajubanium", "amount": 6}], "research": "waxonium-conduit", "liquidCapacity": 10, "category": "liquid"}

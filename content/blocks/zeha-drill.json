@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zeha drill", "description": "...", "size": 2, "health": 118, "tier": 2, "drillTime": 12, "consumes": {"power": 15}, "requirements": [{"item": "zeha", "amount": 18}, {"item": "wita", "amount": 4}, {"item": "lyty", "amount": 1}], "research": "zeha-factory", "category": "production"}

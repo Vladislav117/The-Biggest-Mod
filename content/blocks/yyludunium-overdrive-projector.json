@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "yyludunium overdrive projector", "description": "...", "health": 59, "consumes": {"power": 3.0, "item": "yyludunium"}, "size": 2, "requirements": [{"item": "yyludunium", "amount": 13}, {"item": "qopyxo", "amount": 1}, {"item": "duqu", "amount": 4}], "research": "yyludunium-factory", "category": "effect"}

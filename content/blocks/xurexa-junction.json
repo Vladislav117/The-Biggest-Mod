@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xurexa junction", "description": "...", "health": 12, "speed": 13, "capacity": 7, "size": 1, "requirements": [{"item": "xurexa", "amount": 4}, {"item": "lumasunium", "amount": 3}], "research": "xurexa-conveyor", "category": "distribution"}

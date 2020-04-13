@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kokyya battery", "description": "...", "size": 1, "health": 147, "requirements": [{"item": "kokyya", "amount": 14}, {"item": "tezila", "amount": 9}, {"item": "xinodunium", "amount": 9}], "research": "kokyya-factory", "consumes": {"powerBuffered": 1214}, "category": "power"}

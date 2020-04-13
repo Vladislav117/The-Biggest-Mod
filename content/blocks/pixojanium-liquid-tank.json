@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pixojanium liquid tank", "description": "...", "health": 346, "size": 3, "requirements": [{"item": "pixojanium", "amount": 5}, {"item": "xylipe", "amount": 19}, {"item": "lunurinium", "amount": 2}], "research": "pixojanium-conduit", "category": "liquid", "liquidCapacity": 20330, "hasLiquids": true}

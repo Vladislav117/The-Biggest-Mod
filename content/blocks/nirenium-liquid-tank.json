@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nirenium liquid tank", "description": "...", "health": 290, "size": 3, "requirements": [{"item": "nirenium", "amount": 8}, {"item": "wore", "amount": 13}, {"item": "wafe", "amount": 4}], "research": "nirenium-conduit", "category": "liquid", "liquidCapacity": 40302, "hasLiquids": true}

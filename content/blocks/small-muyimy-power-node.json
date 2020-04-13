@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small muyimy power node", "description": "...", "size": 1, "health": 325, "requirements": [{"item": "muyimy", "amount": 12}, {"item": "pyge", "amount": 6}, {"item": "wiyeda", "amount": 4}], "research": "muyimy-factory", "maxNodes": 30, "laserRange": 12, "category": "power"}

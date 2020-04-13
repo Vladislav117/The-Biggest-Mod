@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fyma battery", "description": "...", "size": 3, "health": 175, "requirements": [{"item": "fyma", "amount": 8}, {"item": "gywu", "amount": 11}, {"item": "pihitonium", "amount": 10}], "research": "fyma-factory", "consumes": {"powerBuffered": 784}, "category": "power"}

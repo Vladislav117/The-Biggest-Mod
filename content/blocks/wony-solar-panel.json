@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wony solar panel", "description": "...", "size": 3, "health": 258, "requirements": [{"item": "wony", "amount": 18}, {"item": "kedy", "amount": 14}, {"item": "tere", "amount": 4}], "research": "wony-factory", "powerProduction": 0.8749429104362783, "category": "power"}

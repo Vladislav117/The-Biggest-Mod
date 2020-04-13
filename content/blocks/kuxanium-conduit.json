@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kuxanium conduit", "description": "...", "health": 30, "requirements": [{"item": "kuxanium", "amount": 12}, {"item": "dihomu", "amount": 1}, {"item": "pymu", "amount": 1}], "liquidCapacity": 32, "liquidPressure": 10, "research": "kuxanium-factory", "category": "liquid"}

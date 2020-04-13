@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yanawa power node", "description": "...", "size": 2, "health": 307, "requirements": [{"item": "yanawa", "amount": 7}, {"item": "mygo", "amount": 17}, {"item": "jalenium", "amount": 4}], "research": "yanawa-factory", "maxNodes": 59, "laserRange": 9, "category": "power"}

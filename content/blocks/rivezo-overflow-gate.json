@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rivezo overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "rivezo", "amount": 5}, {"item": "puzihanium", "amount": 5}], "research": "rivezo-conveyor", "category": "distribution", "invert": false}

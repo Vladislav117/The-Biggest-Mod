@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rahasunium solar panel", "description": "...", "size": 3, "health": 356, "requirements": [{"item": "rahasunium", "amount": 18}, {"item": "socata", "amount": 10}, {"item": "xyco", "amount": 1}], "research": "rahasunium-factory", "powerProduction": 0.21283329811183543, "category": "power"}

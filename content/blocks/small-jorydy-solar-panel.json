@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jorydy solar panel", "description": "...", "size": 1, "health": 162, "requirements": [{"item": "jorydy", "amount": 8}, {"item": "vapova", "amount": 15}, {"item": "jiginium", "amount": 9}], "research": "jorydy-factory", "powerProduction": 0.5049223852779425, "category": "power"}

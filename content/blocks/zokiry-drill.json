@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zokiry drill", "description": "...", "size": 4, "health": 355, "tier": 2, "drillTime": 1, "consumes": {"power": 18}, "requirements": [{"item": "zokiry", "amount": 2}, {"item": "woqyfu", "amount": 15}, {"item": "pudogi", "amount": 10}], "research": "zokiry-factory", "category": "production"}

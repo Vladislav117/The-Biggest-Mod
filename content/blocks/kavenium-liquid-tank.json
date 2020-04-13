@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kavenium liquid tank", "description": "...", "health": 473, "size": 3, "requirements": [{"item": "kavenium", "amount": 2}, {"item": "zugoni", "amount": 5}, {"item": "harugenium", "amount": 8}], "research": "kavenium-conduit", "category": "liquid", "liquidCapacity": 101030, "hasLiquids": true}

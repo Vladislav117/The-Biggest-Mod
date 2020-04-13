@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dafuse conduit", "description": "...", "health": 60, "requirements": [{"item": "dafuse", "amount": 13}, {"item": "pehy", "amount": 19}, {"item": "yymujy", "amount": 3}], "liquidCapacity": 31, "liquidPressure": 2, "research": "dafuse-factory", "category": "liquid"}

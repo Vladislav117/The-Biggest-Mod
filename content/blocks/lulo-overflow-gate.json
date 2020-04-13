@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lulo overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "lulo", "amount": 4}, {"item": "sumura", "amount": 3}], "research": "lulo-conveyor", "category": "distribution", "invert": false}

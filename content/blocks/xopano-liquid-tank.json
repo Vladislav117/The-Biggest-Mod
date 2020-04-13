@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xopano liquid tank", "description": "...", "health": 544, "size": 3, "requirements": [{"item": "xopano", "amount": 19}, {"item": "kujayonium", "amount": 15}, {"item": "negi", "amount": 1}], "research": "xopano-conduit", "category": "liquid", "liquidCapacity": 11390, "hasLiquids": true}

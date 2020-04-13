@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fukapinium battery", "description": "...", "size": 3, "health": 180, "requirements": [{"item": "fukapinium", "amount": 13}, {"item": "turuky", "amount": 1}, {"item": "dukyfe", "amount": 5}], "research": "fukapinium-factory", "consumes": {"powerBuffered": 2994}, "category": "power"}

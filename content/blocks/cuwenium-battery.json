@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cuwenium battery", "description": "...", "size": 3, "health": 200, "requirements": [{"item": "cuwenium", "amount": 12}, {"item": "nimynium", "amount": 7}, {"item": "vykuzo", "amount": 1}], "research": "cuwenium-factory", "consumes": {"powerBuffered": 5228}, "category": "power"}

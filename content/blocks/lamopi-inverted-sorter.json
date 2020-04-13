@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lamopi inverted sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "lamopi", "amount": 3}, {"item": "gabu", "amount": 5}], "research": "lamopi-conveyor", "category": "distribution", "invert": true}

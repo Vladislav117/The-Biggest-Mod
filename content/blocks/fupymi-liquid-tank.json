@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fupymi liquid tank", "description": "...", "health": 653, "size": 3, "requirements": [{"item": "fupymi", "amount": 4}, {"item": "voya", "amount": 18}, {"item": "bihu", "amount": 5}], "research": "fupymi-conduit", "category": "liquid", "liquidCapacity": 108778, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "yokofu force projector", "description": "...", "health": 170, "size": 3, "consumes": {"power": 5.0, "item": "yokofu"}, "requirements": [{"item": "yokofu", "amount": 14}, {"item": "hikyxu", "amount": 14}, {"item": "qeconium", "amount": 2}], "research": "yokofu-factory", "category": "effect"}

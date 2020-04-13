@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qypy battery", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "qypy", "amount": 3}, {"item": "naxihe", "amount": 16}, {"item": "xujo", "amount": 6}], "research": "qypy-factory", "consumes": {"powerBuffered": 2775}, "category": "power"}

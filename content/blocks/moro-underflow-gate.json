@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "moro underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "moro", "amount": 1}, {"item": "leyoqo", "amount": 4}], "research": "moro-conveyor", "category": "distribution", "invert": false}

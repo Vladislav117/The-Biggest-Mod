@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "haqu liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "haqu", "amount": 7}, {"item": "ceyuwy", "amount": 18}, {"item": "kavequ", "amount": 5}], "research": "haqu-conduit", "liquidCapacity": 10, "category": "liquid"}

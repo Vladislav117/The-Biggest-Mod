@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qaranium battery", "description": "...", "size": 3, "health": 366, "requirements": [{"item": "qaranium", "amount": 16}, {"item": "niho", "amount": 9}, {"item": "wyri", "amount": 2}], "research": "qaranium-factory", "consumes": {"powerBuffered": 847}, "category": "power"}

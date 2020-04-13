@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xiga battery", "description": "...", "size": 1, "health": 188, "requirements": [{"item": "xiga", "amount": 16}, {"item": "vove", "amount": 1}, {"item": "vedapa", "amount": 1}], "research": "xiga-factory", "consumes": {"powerBuffered": 910}, "category": "power"}

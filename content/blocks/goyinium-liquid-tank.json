@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "goyinium liquid tank", "description": "...", "health": 148, "size": 3, "requirements": [{"item": "goyinium", "amount": 1}, {"item": "wehynium", "amount": 15}, {"item": "tify", "amount": 7}], "research": "goyinium-conduit", "category": "liquid", "liquidCapacity": 115950, "hasLiquids": true}

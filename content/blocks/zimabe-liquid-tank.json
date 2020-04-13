@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zimabe liquid tank", "description": "...", "health": 609, "size": 3, "requirements": [{"item": "zimabe", "amount": 11}, {"item": "nipapu", "amount": 2}, {"item": "xojinium", "amount": 4}], "research": "zimabe-conduit", "category": "liquid", "liquidCapacity": 102924, "hasLiquids": true}

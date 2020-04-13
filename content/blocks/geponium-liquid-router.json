@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "geponium liquid router", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "geponium", "amount": 15}, {"item": "vygu", "amount": 10}, {"item": "qudeya", "amount": 10}], "research": "geponium-conduit", "liquidCapacity": 10, "category": "liquid"}

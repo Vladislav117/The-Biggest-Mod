@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small miqomy battery", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "miqomy", "amount": 2}, {"item": "myhuzi", "amount": 14}, {"item": "veqyro", "amount": 10}], "research": "miqomy-factory", "consumes": {"powerBuffered": 1003}, "category": "power"}

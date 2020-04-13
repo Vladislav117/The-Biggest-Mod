@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cahi overflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "cahi", "amount": 3}, {"item": "mejyli", "amount": 4}], "research": "cahi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nezexe liquid tank", "description": "...", "health": 192, "size": 3, "requirements": [{"item": "nezexe", "amount": 19}, {"item": "beyo", "amount": 5}, {"item": "kyna", "amount": 5}], "research": "nezexe-conduit", "category": "liquid", "liquidCapacity": 69458, "hasLiquids": true}

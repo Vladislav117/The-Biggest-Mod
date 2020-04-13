@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dexera liquid tank", "description": "...", "health": 467, "size": 3, "requirements": [{"item": "dexera", "amount": 12}, {"item": "cida", "amount": 12}, {"item": "fybaze", "amount": 2}], "research": "dexera-conduit", "category": "liquid", "liquidCapacity": 25853, "hasLiquids": true}

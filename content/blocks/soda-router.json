@@ -1,0 +1,1 @@
+{"type": "router", "name": "soda router", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "soda", "amount": 5}], "research": "soda-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kerizu power node", "description": "...", "size": 2, "health": 161, "requirements": [{"item": "kerizu", "amount": 13}, {"item": "ruvudo", "amount": 1}, {"item": "soko", "amount": 5}], "research": "kerizu-factory", "maxNodes": 39, "laserRange": 21, "category": "power"}

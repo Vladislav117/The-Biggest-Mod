@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "koxupo underflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "koxupo", "amount": 1}, {"item": "furymu", "amount": 5}], "research": "koxupo-conveyor", "category": "distribution", "invert": false}

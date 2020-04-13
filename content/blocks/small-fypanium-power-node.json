@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fypanium power node", "description": "...", "size": 1, "health": 188, "requirements": [{"item": "fypanium", "amount": 5}, {"item": "milosi", "amount": 17}, {"item": "ryte", "amount": 4}], "research": "fypanium-factory", "maxNodes": 8, "laserRange": 22, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mapibi drill", "description": "...", "size": 2, "health": 443, "tier": 4, "drillTime": 18, "consumes": {"power": 2}, "requirements": [{"item": "mapibi", "amount": 20}, {"item": "fogodo", "amount": 5}, {"item": "kubi", "amount": 8}], "research": "mapibi-factory", "category": "production"}

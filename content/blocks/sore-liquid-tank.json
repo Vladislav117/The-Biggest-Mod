@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sore liquid tank", "description": "...", "health": 518, "size": 3, "requirements": [{"item": "sore", "amount": 2}, {"item": "viqamo", "amount": 20}, {"item": "jywupa", "amount": 10}], "research": "sore-conduit", "category": "liquid", "liquidCapacity": 66331, "hasLiquids": true}

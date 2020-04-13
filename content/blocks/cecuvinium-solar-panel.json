@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cecuvinium solar panel", "description": "...", "size": 3, "health": 12, "requirements": [{"item": "cecuvinium", "amount": 16}, {"item": "movanium", "amount": 13}, {"item": "holipu", "amount": 9}], "research": "cecuvinium-factory", "powerProduction": 0.10050461471689963, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "banogu power node", "description": "...", "size": 2, "health": 574, "requirements": [{"item": "banogu", "amount": 20}, {"item": "qiseho", "amount": 3}, {"item": "taja", "amount": 1}], "research": "banogu-factory", "maxNodes": 45, "laserRange": 12, "category": "power"}

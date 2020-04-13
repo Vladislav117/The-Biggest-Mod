@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "roteca inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "roteca", "amount": 2}, {"item": "bebofo", "amount": 2}], "research": "roteca-conveyor", "category": "distribution", "invert": true}

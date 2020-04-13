@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fadakynium drill", "description": "...", "size": 4, "health": 115, "tier": 3, "drillTime": 13, "consumes": {"power": 6}, "requirements": [{"item": "fadakynium", "amount": 3}, {"item": "yynylo", "amount": 10}, {"item": "harugenium", "amount": 9}], "research": "fadakynium-factory", "category": "production"}

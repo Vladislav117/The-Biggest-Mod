@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small helojanium solar panel", "description": "...", "size": 1, "health": 11, "requirements": [{"item": "helojanium", "amount": 2}, {"item": "kanuya", "amount": 11}, {"item": "yojagu", "amount": 10}], "research": "helojanium-factory", "powerProduction": 1.5262450138594827, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lane overflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "lane", "amount": 1}, {"item": "jywupa", "amount": 4}], "research": "lane-conveyor", "category": "distribution", "invert": false}

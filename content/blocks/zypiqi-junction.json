@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zypiqi junction", "description": "...", "health": 45, "speed": 20, "capacity": 4, "size": 1, "requirements": [{"item": "zypiqi", "amount": 2}, {"item": "vadoda", "amount": 4}], "research": "zypiqi-conveyor", "category": "distribution"}

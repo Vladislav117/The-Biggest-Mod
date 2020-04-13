@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kytynium liquid router", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "kytynium", "amount": 14}, {"item": "hurula", "amount": 15}, {"item": "juhura", "amount": 4}], "research": "kytynium-conduit", "liquidCapacity": 10, "category": "liquid"}

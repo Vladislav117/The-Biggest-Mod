@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small liqy power node", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "liqy", "amount": 2}, {"item": "sidu", "amount": 2}, {"item": "vuciby", "amount": 2}], "research": "liqy-factory", "maxNodes": 12, "laserRange": 24, "category": "power"}

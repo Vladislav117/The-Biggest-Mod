@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tygoqa battery", "description": "...", "size": 1, "health": 344, "requirements": [{"item": "tygoqa", "amount": 9}, {"item": "ruginium", "amount": 8}, {"item": "divi", "amount": 1}], "research": "tygoqa-factory", "consumes": {"powerBuffered": 1879}, "category": "power"}

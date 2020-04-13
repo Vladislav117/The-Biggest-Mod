@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jygu power node", "description": "...", "size": 2, "health": 682, "requirements": [{"item": "jygu", "amount": 16}, {"item": "melanium", "amount": 4}, {"item": "jamidi", "amount": 5}], "research": "jygu-factory", "maxNodes": 29, "laserRange": 17, "category": "power"}

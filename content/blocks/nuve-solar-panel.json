@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nuve solar panel", "description": "...", "size": 3, "health": 342, "requirements": [{"item": "nuve", "amount": 11}, {"item": "dyhofa", "amount": 5}, {"item": "fure", "amount": 8}], "research": "nuve-factory", "powerProduction": 1.7966017416492261, "category": "power"}

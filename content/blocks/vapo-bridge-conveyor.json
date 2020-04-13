@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vapo bridge conveyor", "description": "", "health": 31, "range": 16, "speed": 2, "bufferCapacity": 23, "requirements": [{"item": "vapo", "amount": 1}, {"item": "pupyku", "amount": 5}], "research": "vapo-conveyor", "category": "distribution", "size": 1}

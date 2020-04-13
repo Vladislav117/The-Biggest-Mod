@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small puzi battery", "description": "...", "size": 1, "health": 164, "requirements": [{"item": "puzi", "amount": 4}, {"item": "tisi", "amount": 7}, {"item": "peloronium", "amount": 1}], "research": "puzi-factory", "consumes": {"powerBuffered": 2659}, "category": "power"}

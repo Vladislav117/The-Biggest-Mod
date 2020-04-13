@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "maqini conduit", "description": "...", "health": 69, "requirements": [{"item": "maqini", "amount": 13}, {"item": "jazu", "amount": 5}, {"item": "qyhoqa", "amount": 7}], "liquidCapacity": 26, "liquidPressure": 7, "research": "maqini-factory", "category": "liquid"}

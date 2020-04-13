@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jihi liquid tank", "description": "...", "health": 340, "size": 3, "requirements": [{"item": "jihi", "amount": 19}, {"item": "sibewe", "amount": 3}, {"item": "wiqunium", "amount": 6}], "research": "jihi-conduit", "category": "liquid", "liquidCapacity": 11769, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lyqa underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "lyqa", "amount": 3}, {"item": "yoxyzo", "amount": 4}], "research": "lyqa-conveyor", "category": "distribution", "invert": false}

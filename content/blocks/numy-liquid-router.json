@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "numy liquid router", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "numy", "amount": 20}, {"item": "susi", "amount": 14}, {"item": "tivu", "amount": 9}], "research": "numy-conduit", "liquidCapacity": 10, "category": "liquid"}

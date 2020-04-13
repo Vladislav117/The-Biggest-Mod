@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yeyyry drill", "description": "...", "size": 3, "health": 123, "tier": 3, "drillTime": 15, "consumes": {"power": 18}, "requirements": [{"item": "yeyyry", "amount": 2}, {"item": "lyru", "amount": 8}, {"item": "minoxa", "amount": 3}], "research": "yeyyry-factory", "category": "production"}

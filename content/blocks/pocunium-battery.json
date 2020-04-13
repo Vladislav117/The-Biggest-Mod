@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pocunium battery", "description": "...", "size": 3, "health": 47, "requirements": [{"item": "pocunium", "amount": 4}, {"item": "huyaxo", "amount": 15}, {"item": "sopage", "amount": 3}], "research": "pocunium-factory", "consumes": {"powerBuffered": 9743}, "category": "power"}

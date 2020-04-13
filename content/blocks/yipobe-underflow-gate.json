@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yipobe underflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "yipobe", "amount": 2}, {"item": "qudy", "amount": 5}], "research": "yipobe-conveyor", "category": "distribution", "invert": false}

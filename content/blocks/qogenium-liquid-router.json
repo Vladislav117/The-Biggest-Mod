@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qogenium liquid router", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "qogenium", "amount": 7}, {"item": "nexojo", "amount": 15}, {"item": "felu", "amount": 1}], "research": "qogenium-conduit", "liquidCapacity": 10, "category": "liquid"}

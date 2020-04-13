@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jayi power node", "description": "...", "size": 1, "health": 245, "requirements": [{"item": "jayi", "amount": 4}, {"item": "lyheti", "amount": 7}, {"item": "higy", "amount": 5}], "research": "jayi-factory", "maxNodes": 14, "laserRange": 24, "category": "power"}

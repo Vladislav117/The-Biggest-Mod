@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mepysynium battery", "description": "...", "size": 3, "health": 379, "requirements": [{"item": "mepysynium", "amount": 5}, {"item": "hajo", "amount": 19}, {"item": "jetuwe", "amount": 4}], "research": "mepysynium-factory", "consumes": {"powerBuffered": 957}, "category": "power"}

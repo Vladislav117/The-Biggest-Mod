@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cyhunium solar panel", "description": "...", "size": 3, "health": 87, "requirements": [{"item": "cyhunium", "amount": 3}, {"item": "gumyra", "amount": 16}, {"item": "guto", "amount": 6}], "research": "cyhunium-factory", "powerProduction": 0.2057891237511202, "category": "power"}

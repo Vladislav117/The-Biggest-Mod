@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "libequnium conduit", "description": "...", "health": 67, "requirements": [{"item": "libequnium", "amount": 4}, {"item": "lygynium", "amount": 10}, {"item": "rynaxa", "amount": 8}], "liquidCapacity": 8, "liquidPressure": 1, "research": "libequnium-factory", "category": "liquid"}

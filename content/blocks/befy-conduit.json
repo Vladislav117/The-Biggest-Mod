@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "befy conduit", "description": "...", "health": 151, "requirements": [{"item": "befy", "amount": 10}, {"item": "naku", "amount": 15}, {"item": "lapydy", "amount": 9}], "liquidCapacity": 17, "liquidPressure": 1, "research": "befy-factory", "category": "liquid"}

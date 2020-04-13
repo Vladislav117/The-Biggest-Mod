@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hicoxo battery", "description": "...", "size": 3, "health": 228, "requirements": [{"item": "hicoxo", "amount": 3}, {"item": "tire", "amount": 7}, {"item": "yynylo", "amount": 8}], "research": "hicoxo-factory", "consumes": {"powerBuffered": 1288}, "category": "power"}

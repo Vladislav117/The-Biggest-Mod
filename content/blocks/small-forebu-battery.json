@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small forebu battery", "description": "...", "size": 1, "health": 370, "requirements": [{"item": "forebu", "amount": 14}, {"item": "wulyso", "amount": 3}, {"item": "zypiqi", "amount": 8}], "research": "forebu-factory", "consumes": {"powerBuffered": 974}, "category": "power"}

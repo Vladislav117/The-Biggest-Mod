@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rigo battery", "description": "...", "size": 1, "health": 94, "requirements": [{"item": "rigo", "amount": 15}, {"item": "yejeqinium", "amount": 2}, {"item": "hyko", "amount": 2}], "research": "rigo-factory", "consumes": {"powerBuffered": 2833}, "category": "power"}

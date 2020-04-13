@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "daziha solar panel", "description": "...", "size": 3, "health": 215, "requirements": [{"item": "daziha", "amount": 12}, {"item": "kilu", "amount": 17}, {"item": "faqymu", "amount": 10}], "research": "daziha-factory", "powerProduction": 1.2831078053005152, "category": "power"}

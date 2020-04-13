@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wyku drill", "description": "...", "size": 2, "health": 180, "tier": 2, "drillTime": 16, "consumes": {"power": 13}, "requirements": [{"item": "wyku", "amount": 20}, {"item": "hyji", "amount": 19}, {"item": "qedene", "amount": 6}], "research": "wyku-factory", "category": "production"}

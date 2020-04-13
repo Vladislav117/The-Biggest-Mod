@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cuba conduit", "description": "...", "health": 30, "requirements": [{"item": "cuba", "amount": 4}, {"item": "yicavu", "amount": 7}, {"item": "zoda", "amount": 4}], "liquidCapacity": 13, "liquidPressure": 0, "research": "cuba-factory", "category": "liquid"}

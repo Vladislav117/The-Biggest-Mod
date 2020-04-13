@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hugevinium liquid tank", "description": "...", "health": 559, "size": 3, "requirements": [{"item": "hugevinium", "amount": 8}, {"item": "tire", "amount": 1}, {"item": "qerobu", "amount": 2}], "research": "hugevinium-conduit", "category": "liquid", "liquidCapacity": 48983, "hasLiquids": true}

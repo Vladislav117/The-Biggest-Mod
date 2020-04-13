@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rypy power node", "description": "...", "size": 2, "health": 162, "requirements": [{"item": "rypy", "amount": 10}, {"item": "xoge", "amount": 13}, {"item": "moro", "amount": 8}], "research": "rypy-factory", "maxNodes": 31, "laserRange": 5, "category": "power"}

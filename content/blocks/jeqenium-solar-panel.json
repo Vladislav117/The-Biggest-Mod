@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jeqenium solar panel", "description": "...", "size": 3, "health": 196, "requirements": [{"item": "jeqenium", "amount": 18}, {"item": "lipo", "amount": 2}, {"item": "lisaca", "amount": 7}], "research": "jeqenium-factory", "powerProduction": 0.08534778231579555, "category": "power"}

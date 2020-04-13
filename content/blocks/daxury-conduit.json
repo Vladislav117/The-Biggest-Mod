@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "daxury conduit", "description": "...", "health": 169, "requirements": [{"item": "daxury", "amount": 6}, {"item": "jepeli", "amount": 13}, {"item": "raso", "amount": 10}], "liquidCapacity": 24, "liquidPressure": 5, "research": "daxury-factory", "category": "liquid"}

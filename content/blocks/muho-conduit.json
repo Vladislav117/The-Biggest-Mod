@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "muho conduit", "description": "...", "health": 33, "requirements": [{"item": "muho", "amount": 10}, {"item": "diforinium", "amount": 19}, {"item": "xapu", "amount": 7}], "liquidCapacity": 30, "liquidPressure": 4, "research": "muho-factory", "category": "liquid"}

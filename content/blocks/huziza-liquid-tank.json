@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "huziza liquid tank", "description": "...", "health": 429, "size": 3, "requirements": [{"item": "huziza", "amount": 20}, {"item": "mozy", "amount": 2}, {"item": "qiti", "amount": 5}], "research": "huziza-conduit", "category": "liquid", "liquidCapacity": 3567, "hasLiquids": true}

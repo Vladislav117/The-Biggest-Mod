@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xycu liquid tank", "description": "...", "health": 519, "size": 3, "requirements": [{"item": "xycu", "amount": 11}, {"item": "tifese", "amount": 3}, {"item": "yemihonium", "amount": 5}], "research": "xycu-conduit", "category": "liquid", "liquidCapacity": 100704, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qive liquid router", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "qive", "amount": 10}, {"item": "heruru", "amount": 1}, {"item": "ryzote", "amount": 8}], "research": "qive-conduit", "liquidCapacity": 10, "category": "liquid"}

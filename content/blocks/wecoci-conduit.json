@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wecoci conduit", "description": "...", "health": 84, "requirements": [{"item": "wecoci", "amount": 10}, {"item": "tybunium", "amount": 17}, {"item": "genane", "amount": 8}], "liquidCapacity": 30, "liquidPressure": 4, "research": "wecoci-factory", "category": "liquid"}

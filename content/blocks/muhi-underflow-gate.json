@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "muhi underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "muhi", "amount": 3}, {"item": "yypedonium", "amount": 4}], "research": "muhi-conveyor", "category": "distribution", "invert": false}

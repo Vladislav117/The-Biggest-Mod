@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yafenium solar panel", "description": "...", "size": 1, "health": 222, "requirements": [{"item": "yafenium", "amount": 7}, {"item": "kute", "amount": 5}, {"item": "payo", "amount": 10}], "research": "yafenium-factory", "powerProduction": 2.5634128430336194, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cuwenium power node", "description": "...", "size": 1, "health": 286, "requirements": [{"item": "cuwenium", "amount": 12}, {"item": "qefiyynium", "amount": 4}, {"item": "pydi", "amount": 9}], "research": "cuwenium-factory", "maxNodes": 30, "laserRange": 15, "category": "power"}

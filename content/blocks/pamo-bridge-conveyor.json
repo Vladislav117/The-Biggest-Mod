@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pamo bridge conveyor", "description": "", "health": 10, "range": 5, "speed": 17, "bufferCapacity": 22, "requirements": [{"item": "pamo", "amount": 5}, {"item": "yeku", "amount": 4}], "research": "pamo-conveyor", "category": "distribution", "size": 1}

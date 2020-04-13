@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jarovu bridge conveyor", "description": "", "health": 12, "range": 20, "speed": 3, "bufferCapacity": 8, "requirements": [{"item": "jarovu", "amount": 3}, {"item": "lane", "amount": 5}], "research": "jarovu-conveyor", "category": "distribution", "size": 1}

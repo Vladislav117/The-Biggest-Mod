@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wumepi liquid tank", "description": "...", "health": 629, "size": 3, "requirements": [{"item": "wumepi", "amount": 11}, {"item": "hewy", "amount": 13}, {"item": "sebobe", "amount": 5}], "research": "wumepi-conduit", "category": "liquid", "liquidCapacity": 105604, "hasLiquids": true}

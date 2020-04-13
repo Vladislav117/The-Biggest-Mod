@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jazipynium overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "jazipynium", "amount": 1}, {"item": "tefaco", "amount": 5}], "research": "jazipynium-conveyor", "category": "distribution", "invert": false}

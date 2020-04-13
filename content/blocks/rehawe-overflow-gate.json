@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rehawe overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "rehawe", "amount": 5}, {"item": "puzybo", "amount": 4}], "research": "rehawe-conveyor", "category": "distribution", "invert": false}

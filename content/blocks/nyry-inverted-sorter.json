@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nyry inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "nyry", "amount": 5}, {"item": "geka", "amount": 1}], "research": "nyry-conveyor", "category": "distribution", "invert": true}

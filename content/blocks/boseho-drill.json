@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "boseho drill", "description": "...", "size": 2, "health": 416, "tier": 1, "drillTime": 20, "consumes": {"power": 11}, "requirements": [{"item": "boseho", "amount": 15}, {"item": "rylyki", "amount": 5}, {"item": "towyti", "amount": 5}], "research": "boseho-factory", "category": "production"}

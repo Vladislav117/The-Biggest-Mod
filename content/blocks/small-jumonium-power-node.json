@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jumonium power node", "description": "...", "size": 1, "health": 379, "requirements": [{"item": "jumonium", "amount": 8}, {"item": "sacigi", "amount": 13}, {"item": "dejoqonium", "amount": 4}], "research": "jumonium-factory", "maxNodes": 26, "laserRange": 11, "category": "power"}

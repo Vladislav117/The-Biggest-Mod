@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "curosa liquid router", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "curosa", "amount": 13}, {"item": "zocumo", "amount": 12}, {"item": "heso", "amount": 4}], "research": "curosa-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nivo battery", "description": "...", "size": 3, "health": 271, "requirements": [{"item": "nivo", "amount": 7}, {"item": "filo", "amount": 1}, {"item": "xedo", "amount": 9}], "research": "nivo-factory", "consumes": {"powerBuffered": 5984}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "donuba overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "donuba", "amount": 4}, {"item": "wapo", "amount": 4}], "research": "donuba-conveyor", "category": "distribution", "invert": false}

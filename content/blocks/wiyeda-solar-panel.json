@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wiyeda solar panel", "description": "...", "size": 3, "health": 371, "requirements": [{"item": "wiyeda", "amount": 15}, {"item": "yyti", "amount": 13}, {"item": "zazinium", "amount": 9}], "research": "wiyeda-factory", "powerProduction": 0.8319478141371724, "category": "power"}

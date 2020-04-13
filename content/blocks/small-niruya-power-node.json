@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small niruya power node", "description": "...", "size": 1, "health": 153, "requirements": [{"item": "niruya", "amount": 1}, {"item": "cynehe", "amount": 1}, {"item": "tadeja", "amount": 9}], "research": "niruya-factory", "maxNodes": 7, "laserRange": 25, "category": "power"}

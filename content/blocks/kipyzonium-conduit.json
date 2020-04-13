@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kipyzonium conduit", "description": "...", "health": 112, "requirements": [{"item": "kipyzonium", "amount": 18}, {"item": "qari", "amount": 4}, {"item": "xejo", "amount": 8}], "liquidCapacity": 12, "liquidPressure": 6, "research": "kipyzonium-factory", "category": "liquid"}

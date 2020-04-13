@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gujybo solar panel", "description": "...", "size": 1, "health": 246, "requirements": [{"item": "gujybo", "amount": 12}, {"item": "xiga", "amount": 4}, {"item": "fofoco", "amount": 10}], "research": "gujybo-factory", "powerProduction": 0.027523194879978556, "category": "power"}

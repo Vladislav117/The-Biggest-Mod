@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dysenium liquid tank", "description": "...", "health": 488, "size": 3, "requirements": [{"item": "dysenium", "amount": 8}, {"item": "muno", "amount": 4}, {"item": "vapo", "amount": 8}], "research": "dysenium-conduit", "category": "liquid", "liquidCapacity": 28592, "hasLiquids": true}

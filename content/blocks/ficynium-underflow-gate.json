@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ficynium underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "ficynium", "amount": 1}, {"item": "cyyikynium", "amount": 1}], "research": "ficynium-conveyor", "category": "distribution", "invert": false}

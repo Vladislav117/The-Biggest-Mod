@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "pibu overdrive projector", "description": "...", "health": 55, "consumes": {"power": 3.0, "item": "pibu"}, "size": 2, "requirements": [{"item": "pibu", "amount": 7}, {"item": "gyfeca", "amount": 16}, {"item": "qaty", "amount": 3}], "research": "pibu-factory", "category": "effect"}

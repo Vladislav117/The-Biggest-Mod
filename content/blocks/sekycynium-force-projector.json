@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "sekycynium force projector", "description": "...", "health": 211, "size": 3, "consumes": {"power": 5.0, "item": "sekycynium"}, "requirements": [{"item": "sekycynium", "amount": 17}, {"item": "womanium", "amount": 14}, {"item": "vapoqanium", "amount": 4}], "research": "sekycynium-factory", "category": "effect"}

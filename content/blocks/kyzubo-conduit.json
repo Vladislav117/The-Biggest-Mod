@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kyzubo conduit", "description": "...", "health": 48, "requirements": [{"item": "kyzubo", "amount": 9}, {"item": "qeka", "amount": 16}, {"item": "ruve", "amount": 1}], "liquidCapacity": 30, "liquidPressure": 9, "research": "kyzubo-factory", "category": "liquid"}

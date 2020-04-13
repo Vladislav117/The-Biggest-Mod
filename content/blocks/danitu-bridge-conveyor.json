@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "danitu bridge conveyor", "description": "", "health": 3, "range": 10, "speed": 18, "bufferCapacity": 11, "requirements": [{"item": "danitu", "amount": 4}, {"item": "yixo", "amount": 3}], "research": "danitu-conveyor", "category": "distribution", "size": 1}

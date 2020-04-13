@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "forebu solar panel", "description": "...", "size": 3, "health": 369, "requirements": [{"item": "forebu", "amount": 13}, {"item": "xicyru", "amount": 17}, {"item": "muremi", "amount": 10}], "research": "forebu-factory", "powerProduction": 1.4905377427666513, "category": "power"}

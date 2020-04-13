@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qybasinium conduit", "description": "...", "health": 175, "requirements": [{"item": "qybasinium", "amount": 14}, {"item": "sidu", "amount": 19}, {"item": "fadakynium", "amount": 9}], "liquidCapacity": 29, "liquidPressure": 2, "research": "qybasinium-factory", "category": "liquid"}

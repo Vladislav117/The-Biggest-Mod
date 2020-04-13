@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small woze power node", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "woze", "amount": 6}, {"item": "kyweru", "amount": 8}, {"item": "silicon", "amount": 6}], "research": "woze-factory", "maxNodes": 27, "laserRange": 4, "category": "power"}

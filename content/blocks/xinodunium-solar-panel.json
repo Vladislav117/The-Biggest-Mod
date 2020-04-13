@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xinodunium solar panel", "description": "...", "size": 3, "health": 239, "requirements": [{"item": "xinodunium", "amount": 10}, {"item": "muti", "amount": 10}, {"item": "qudy", "amount": 6}], "research": "xinodunium-factory", "powerProduction": 0.037231862486009216, "category": "power"}

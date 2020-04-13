@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sigu liquid router", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "sigu", "amount": 13}, {"item": "qafy", "amount": 15}, {"item": "qowepa", "amount": 5}], "research": "sigu-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small koci power node", "description": "...", "size": 1, "health": 272, "requirements": [{"item": "koci", "amount": 13}, {"item": "tozokinium", "amount": 8}, {"item": "vakarinium", "amount": 3}], "research": "koci-factory", "maxNodes": 8, "laserRange": 7, "category": "power"}

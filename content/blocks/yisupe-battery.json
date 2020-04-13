@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yisupe battery", "description": "...", "size": 3, "health": 216, "requirements": [{"item": "yisupe", "amount": 17}, {"item": "wapo", "amount": 15}, {"item": "higy", "amount": 8}], "research": "yisupe-factory", "consumes": {"powerBuffered": 7067}, "category": "power"}

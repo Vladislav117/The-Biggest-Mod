@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qoha sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "qoha", "amount": 4}, {"item": "ficido", "amount": 2}], "research": "qoha-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jihi battery", "description": "...", "size": 1, "health": 231, "requirements": [{"item": "jihi", "amount": 20}, {"item": "lymy", "amount": 15}, {"item": "fixe", "amount": 5}], "research": "jihi-factory", "consumes": {"powerBuffered": 1525}, "category": "power"}

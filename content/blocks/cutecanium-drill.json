@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cutecanium drill", "description": "...", "size": 2, "health": 178, "tier": 4, "drillTime": 17, "consumes": {"power": 18}, "requirements": [{"item": "cutecanium", "amount": 15}, {"item": "zucanium", "amount": 10}, {"item": "jyzywy", "amount": 3}], "research": "cutecanium-factory", "category": "production"}

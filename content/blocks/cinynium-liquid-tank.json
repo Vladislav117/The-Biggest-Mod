@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cinynium liquid tank", "description": "...", "health": 434, "size": 3, "requirements": [{"item": "cinynium", "amount": 2}, {"item": "pizi", "amount": 8}, {"item": "nejesu", "amount": 8}], "research": "cinynium-conduit", "category": "liquid", "liquidCapacity": 8876, "hasLiquids": true}

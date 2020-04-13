@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mylenium junction", "description": "...", "health": 46, "speed": 11, "capacity": 2, "size": 1, "requirements": [{"item": "mylenium", "amount": 2}, {"item": "fyfoni", "amount": 4}], "research": "mylenium-conveyor", "category": "distribution"}

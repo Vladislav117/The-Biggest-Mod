@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bajafa liquid tank", "description": "...", "health": 205, "size": 3, "requirements": [{"item": "bajafa", "amount": 12}, {"item": "vego", "amount": 17}, {"item": "pyxoxanium", "amount": 3}], "research": "bajafa-conduit", "category": "liquid", "liquidCapacity": 108528, "hasLiquids": true}

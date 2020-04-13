@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kavenium liquid router", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "kavenium", "amount": 13}, {"item": "wedu", "amount": 19}, {"item": "xilu", "amount": 2}], "research": "kavenium-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wino battery", "description": "...", "size": 3, "health": 298, "requirements": [{"item": "wino", "amount": 16}, {"item": "xuricy", "amount": 19}, {"item": "wicy", "amount": 2}], "research": "wino-factory", "consumes": {"powerBuffered": 1413}, "category": "power"}

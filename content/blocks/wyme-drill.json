@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wyme drill", "description": "...", "size": 4, "health": 155, "tier": 4, "drillTime": 18, "consumes": {"power": 4}, "requirements": [{"item": "wyme", "amount": 20}, {"item": "suminium", "amount": 5}, {"item": "kudanium", "amount": 8}], "research": "wyme-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "piqurynium sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "piqurynium", "amount": 4}, {"item": "qojinium", "amount": 2}], "research": "piqurynium-conveyor", "category": "distribution", "invert": false}

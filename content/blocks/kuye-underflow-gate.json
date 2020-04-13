@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kuye underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "kuye", "amount": 2}, {"item": "qokenium", "amount": 5}], "research": "kuye-conveyor", "category": "distribution", "invert": false}

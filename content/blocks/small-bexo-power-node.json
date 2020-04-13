@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bexo power node", "description": "...", "size": 1, "health": 239, "requirements": [{"item": "bexo", "amount": 1}, {"item": "cyma", "amount": 9}, {"item": "pyxoxanium", "amount": 1}], "research": "bexo-factory", "maxNodes": 9, "laserRange": 6, "category": "power"}

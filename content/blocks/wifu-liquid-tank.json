@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wifu liquid tank", "description": "...", "health": 546, "size": 3, "requirements": [{"item": "wifu", "amount": 3}, {"item": "wahape", "amount": 16}, {"item": "hamo", "amount": 5}], "research": "wifu-conduit", "category": "liquid", "liquidCapacity": 107526, "hasLiquids": true}

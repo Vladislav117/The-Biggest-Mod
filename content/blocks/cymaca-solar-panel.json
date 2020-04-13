@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cymaca solar panel", "description": "...", "size": 3, "health": 114, "requirements": [{"item": "cymaca", "amount": 15}, {"item": "sore", "amount": 19}, {"item": "ridu", "amount": 3}], "research": "cymaca-factory", "powerProduction": 0.20680950722370028, "category": "power"}

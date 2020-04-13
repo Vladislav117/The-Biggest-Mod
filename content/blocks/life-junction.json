@@ -1,0 +1,1 @@
+{"type": "junction", "name": "life junction", "description": "...", "health": 23, "speed": 8, "capacity": 4, "size": 1, "requirements": [{"item": "life", "amount": 1}, {"item": "byja", "amount": 4}], "research": "life-conveyor", "category": "distribution"}

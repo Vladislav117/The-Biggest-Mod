@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tulotu battery", "description": "...", "size": 3, "health": 279, "requirements": [{"item": "tulotu", "amount": 16}, {"item": "jumonium", "amount": 17}, {"item": "yukoni", "amount": 6}], "research": "tulotu-factory", "consumes": {"powerBuffered": 2852}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small furazinium solar panel", "description": "...", "size": 1, "health": 192, "requirements": [{"item": "furazinium", "amount": 4}, {"item": "xexumi", "amount": 9}, {"item": "mygo", "amount": 1}], "research": "furazinium-factory", "powerProduction": 0.03599657770044051, "category": "power"}

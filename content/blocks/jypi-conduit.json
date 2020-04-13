@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jypi conduit", "description": "...", "health": 52, "requirements": [{"item": "jypi", "amount": 9}, {"item": "tedu", "amount": 8}, {"item": "nytodunium", "amount": 7}], "liquidCapacity": 7, "liquidPressure": 7, "research": "jypi-factory", "category": "liquid"}

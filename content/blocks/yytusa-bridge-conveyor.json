@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yytusa bridge conveyor", "description": "", "health": 29, "range": 1, "speed": 20, "bufferCapacity": 4, "requirements": [{"item": "yytusa", "amount": 1}, {"item": "sonydu", "amount": 5}], "research": "yytusa-conveyor", "category": "distribution", "size": 1}

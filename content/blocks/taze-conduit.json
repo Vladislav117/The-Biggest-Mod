@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "taze conduit", "description": "...", "health": 43, "requirements": [{"item": "taze", "amount": 11}, {"item": "fygonium", "amount": 5}, {"item": "xexumi", "amount": 7}], "liquidCapacity": 17, "liquidPressure": 3, "research": "taze-factory", "category": "liquid"}

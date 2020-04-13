@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cumo overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "cumo", "amount": 3}, {"item": "yibefanium", "amount": 1}], "research": "cumo-conveyor", "category": "distribution", "invert": false}

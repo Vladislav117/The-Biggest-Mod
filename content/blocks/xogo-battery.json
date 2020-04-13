@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xogo battery", "description": "...", "size": 3, "health": 209, "requirements": [{"item": "xogo", "amount": 15}, {"item": "gypupe", "amount": 3}, {"item": "zuvuze", "amount": 2}], "research": "xogo-factory", "consumes": {"powerBuffered": 5281}, "category": "power"}

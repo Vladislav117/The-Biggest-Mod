@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xejunium power node", "description": "...", "size": 1, "health": 188, "requirements": [{"item": "xejunium", "amount": 4}, {"item": "juwyso", "amount": 14}, {"item": "dezi", "amount": 2}], "research": "xejunium-factory", "maxNodes": 15, "laserRange": 3, "category": "power"}

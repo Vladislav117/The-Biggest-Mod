@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "povazu liquid tank", "description": "...", "health": 572, "size": 3, "requirements": [{"item": "povazu", "amount": 15}, {"item": "tebebe", "amount": 5}, {"item": "yuwo", "amount": 2}], "research": "povazu-conduit", "category": "liquid", "liquidCapacity": 93967, "hasLiquids": true}

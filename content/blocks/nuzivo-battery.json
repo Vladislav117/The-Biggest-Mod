@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nuzivo battery", "description": "...", "size": 3, "health": 254, "requirements": [{"item": "nuzivo", "amount": 13}, {"item": "hyxy", "amount": 18}, {"item": "nifego", "amount": 8}], "research": "nuzivo-factory", "consumes": {"powerBuffered": 1406}, "category": "power"}

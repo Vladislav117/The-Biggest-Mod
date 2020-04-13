@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yape conduit", "description": "...", "health": 46, "requirements": [{"item": "yape", "amount": 13}, {"item": "beyo", "amount": 18}, {"item": "qeyanium", "amount": 10}], "liquidCapacity": 32, "liquidPressure": 0, "research": "yape-factory", "category": "liquid"}

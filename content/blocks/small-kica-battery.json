@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kica battery", "description": "...", "size": 1, "health": 155, "requirements": [{"item": "kica", "amount": 11}, {"item": "hofa", "amount": 5}, {"item": "laso", "amount": 4}], "research": "kica-factory", "consumes": {"powerBuffered": 510}, "category": "power"}

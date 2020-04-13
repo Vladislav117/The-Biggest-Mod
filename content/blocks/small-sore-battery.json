@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sore battery", "description": "...", "size": 1, "health": 190, "requirements": [{"item": "sore", "amount": 2}, {"item": "zivo", "amount": 13}, {"item": "vewavu", "amount": 6}], "research": "sore-factory", "consumes": {"powerBuffered": 1427}, "category": "power"}

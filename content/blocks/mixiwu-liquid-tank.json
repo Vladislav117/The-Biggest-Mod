@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mixiwu liquid tank", "description": "...", "health": 531, "size": 3, "requirements": [{"item": "mixiwu", "amount": 6}, {"item": "ruvudo", "amount": 3}, {"item": "lahy", "amount": 5}], "research": "mixiwu-conduit", "category": "liquid", "liquidCapacity": 46187, "hasLiquids": true}

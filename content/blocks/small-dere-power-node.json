@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dere power node", "description": "...", "size": 1, "health": 321, "requirements": [{"item": "dere", "amount": 2}, {"item": "fobige", "amount": 4}, {"item": "xuxyvo", "amount": 4}], "research": "dere-factory", "maxNodes": 14, "laserRange": 24, "category": "power"}

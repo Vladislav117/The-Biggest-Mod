@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gaqite liquid router", "description": "...", "size": 1, "health": 30, "requirements": [{"item": "gaqite", "amount": 16}, {"item": "qegu", "amount": 1}, {"item": "fyhuxonium", "amount": 8}], "research": "gaqite-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gumuto junction", "description": "...", "health": 31, "speed": 17, "capacity": 12, "size": 1, "requirements": [{"item": "gumuto", "amount": 2}, {"item": "cuse", "amount": 4}], "research": "gumuto-conveyor", "category": "distribution"}

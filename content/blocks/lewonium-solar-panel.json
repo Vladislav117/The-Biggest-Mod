@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lewonium solar panel", "description": "...", "size": 3, "health": 291, "requirements": [{"item": "lewonium", "amount": 4}, {"item": "syxidonium", "amount": 1}, {"item": "kecufi", "amount": 1}], "research": "lewonium-factory", "powerProduction": 0.7724341217334356, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zyluci power node", "description": "...", "size": 2, "health": 655, "requirements": [{"item": "zyluci", "amount": 5}, {"item": "kejowynium", "amount": 2}, {"item": "bywazy", "amount": 3}], "research": "zyluci-factory", "maxNodes": 43, "laserRange": 30, "category": "power"}

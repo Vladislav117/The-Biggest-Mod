@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "temoqi power node", "description": "...", "size": 2, "health": 647, "requirements": [{"item": "temoqi", "amount": 6}, {"item": "beyasonium", "amount": 10}, {"item": "zele", "amount": 6}], "research": "temoqi-factory", "maxNodes": 48, "laserRange": 27, "category": "power"}

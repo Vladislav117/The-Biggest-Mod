@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jihi power node", "description": "...", "size": 2, "health": 630, "requirements": [{"item": "jihi", "amount": 13}, {"item": "wicy", "amount": 17}, {"item": "jicefu", "amount": 5}], "research": "jihi-factory", "maxNodes": 56, "laserRange": 10, "category": "power"}

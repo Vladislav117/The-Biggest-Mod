@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gyfy liquid tank", "description": "...", "health": 594, "size": 3, "requirements": [{"item": "gyfy", "amount": 18}, {"item": "fykemi", "amount": 16}, {"item": "ruxyye", "amount": 8}], "research": "gyfy-conduit", "category": "liquid", "liquidCapacity": 112236, "hasLiquids": true}

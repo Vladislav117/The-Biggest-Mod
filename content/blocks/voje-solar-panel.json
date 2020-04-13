@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "voje solar panel", "description": "...", "size": 3, "health": 240, "requirements": [{"item": "voje", "amount": 19}, {"item": "goqanium", "amount": 2}, {"item": "leyoqo", "amount": 2}], "research": "voje-factory", "powerProduction": 0.08638790674253047, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xagali inverted sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "xagali", "amount": 5}, {"item": "fyqexo", "amount": 5}], "research": "xagali-conveyor", "category": "distribution", "invert": true}

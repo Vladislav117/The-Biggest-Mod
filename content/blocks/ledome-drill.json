@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "ledome drill", "description": "...", "size": 3, "health": 394, "tier": 2, "drillTime": 1, "consumes": {"power": 17}, "requirements": [{"item": "ledome", "amount": 19}, {"item": "wuna", "amount": 2}, {"item": "baranium", "amount": 7}], "research": "ledome-factory", "category": "production"}

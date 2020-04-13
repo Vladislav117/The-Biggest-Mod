@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "norydo liquid router", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "norydo", "amount": 10}, {"item": "nafeya", "amount": 3}, {"item": "wabaru", "amount": 1}], "research": "norydo-conduit", "liquidCapacity": 10, "category": "liquid"}

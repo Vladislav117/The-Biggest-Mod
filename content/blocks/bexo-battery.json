@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bexo battery", "description": "...", "size": 3, "health": 355, "requirements": [{"item": "bexo", "amount": 11}, {"item": "pyxoxanium", "amount": 20}, {"item": "liqohy", "amount": 6}], "research": "bexo-factory", "consumes": {"powerBuffered": 8198}, "category": "power"}

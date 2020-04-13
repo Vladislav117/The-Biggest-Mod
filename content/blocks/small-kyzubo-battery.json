@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kyzubo battery", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "kyzubo", "amount": 13}, {"item": "lesoxonium", "amount": 18}, {"item": "zuva", "amount": 4}], "research": "kyzubo-factory", "consumes": {"powerBuffered": 2149}, "category": "power"}

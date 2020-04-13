@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wehy solar panel", "description": "...", "size": 3, "health": 315, "requirements": [{"item": "wehy", "amount": 18}, {"item": "kujayonium", "amount": 4}, {"item": "dogo", "amount": 6}], "research": "wehy-factory", "powerProduction": 4.118961790625051, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nidenium inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "nidenium", "amount": 1}, {"item": "yiveni", "amount": 5}], "research": "nidenium-conveyor", "category": "distribution", "invert": true}

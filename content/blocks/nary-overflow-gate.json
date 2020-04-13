@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nary overflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "nary", "amount": 3}, {"item": "xyyyzy", "amount": 2}], "research": "nary-conveyor", "category": "distribution", "invert": false}

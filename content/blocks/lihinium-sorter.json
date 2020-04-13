@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lihinium sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "lihinium", "amount": 3}, {"item": "yaxuda", "amount": 5}], "research": "lihinium-conveyor", "category": "distribution", "invert": false}

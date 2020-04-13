@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "loqa conveyor", "description": "...", "health": 192, "requirements": [{"item": "loqa", "amount": 1}, {"item": "hofa", "amount": 8}], "speed": 0.09880057580194807, "research": "loqa-factory", "category": "distribution"}

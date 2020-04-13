@@ -1,0 +1,1 @@
+{"type": "battery", "name": "duyari battery", "description": "...", "size": 3, "health": 111, "requirements": [{"item": "duyari", "amount": 16}, {"item": "fazame", "amount": 6}, {"item": "rale", "amount": 8}], "research": "duyari-factory", "consumes": {"powerBuffered": 2273}, "category": "power"}

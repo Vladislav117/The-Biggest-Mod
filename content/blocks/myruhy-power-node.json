@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "myruhy power node", "description": "...", "size": 2, "health": 279, "requirements": [{"item": "myruhy", "amount": 17}, {"item": "boyanium", "amount": 5}, {"item": "dakoyi", "amount": 9}], "research": "myruhy-factory", "maxNodes": 12, "laserRange": 19, "category": "power"}

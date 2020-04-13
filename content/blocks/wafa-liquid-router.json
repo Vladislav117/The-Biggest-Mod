@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wafa liquid router", "description": "...", "size": 1, "health": 21, "requirements": [{"item": "wafa", "amount": 10}, {"item": "vema", "amount": 10}, {"item": "yylonium", "amount": 9}], "research": "wafa-conduit", "liquidCapacity": 10, "category": "liquid"}

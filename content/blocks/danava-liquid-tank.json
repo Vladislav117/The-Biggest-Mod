@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "danava liquid tank", "description": "...", "health": 617, "size": 3, "requirements": [{"item": "danava", "amount": 7}, {"item": "qowepa", "amount": 3}, {"item": "dimizy", "amount": 8}], "research": "danava-conduit", "category": "liquid", "liquidCapacity": 39406, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pydi conduit", "description": "...", "health": 85, "requirements": [{"item": "pydi", "amount": 2}, {"item": "tadeja", "amount": 11}, {"item": "baqilo", "amount": 7}], "liquidCapacity": 38, "liquidPressure": 9, "research": "pydi-factory", "category": "liquid"}

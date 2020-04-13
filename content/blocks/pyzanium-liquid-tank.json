@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pyzanium liquid tank", "description": "...", "health": 446, "size": 3, "requirements": [{"item": "pyzanium", "amount": 19}, {"item": "neda", "amount": 5}, {"item": "juyy", "amount": 7}], "research": "pyzanium-conduit", "category": "liquid", "liquidCapacity": 71010, "hasLiquids": true}

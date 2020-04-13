@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yynatu battery", "description": "...", "size": 1, "health": 170, "requirements": [{"item": "yynatu", "amount": 6}, {"item": "byrejenium", "amount": 20}, {"item": "wazy", "amount": 6}], "research": "yynatu-factory", "consumes": {"powerBuffered": 376}, "category": "power"}

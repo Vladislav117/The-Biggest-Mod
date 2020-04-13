@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hujy liquid tank", "description": "...", "health": 622, "size": 3, "requirements": [{"item": "hujy", "amount": 3}, {"item": "wyhuya", "amount": 20}, {"item": "nunanunium", "amount": 4}], "research": "hujy-conduit", "category": "liquid", "liquidCapacity": 89477, "hasLiquids": true}

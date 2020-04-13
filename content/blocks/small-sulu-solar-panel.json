@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sulu solar panel", "description": "...", "size": 1, "health": 150, "requirements": [{"item": "sulu", "amount": 11}, {"item": "xekocanium", "amount": 12}, {"item": "yytiro", "amount": 3}], "research": "sulu-factory", "powerProduction": 4.671067666867494, "category": "power"}

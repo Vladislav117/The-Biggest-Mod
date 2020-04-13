@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wisipu battery", "description": "...", "size": 3, "health": 126, "requirements": [{"item": "wisipu", "amount": 13}, {"item": "lejara", "amount": 9}, {"item": "cedyqe", "amount": 8}], "research": "wisipu-factory", "consumes": {"powerBuffered": 4740}, "category": "power"}

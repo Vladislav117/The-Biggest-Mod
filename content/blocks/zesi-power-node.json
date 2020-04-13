@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zesi power node", "description": "...", "size": 2, "health": 681, "requirements": [{"item": "zesi", "amount": 9}, {"item": "syriho", "amount": 8}, {"item": "tufi", "amount": 8}], "research": "zesi-factory", "maxNodes": 15, "laserRange": 22, "category": "power"}

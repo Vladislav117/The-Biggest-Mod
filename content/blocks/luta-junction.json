@@ -1,0 +1,1 @@
+{"type": "junction", "name": "luta junction", "description": "...", "health": 19, "speed": 15, "capacity": 1, "size": 1, "requirements": [{"item": "luta", "amount": 1}, {"item": "bixuhi", "amount": 3}], "research": "luta-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vike conduit", "description": "...", "health": 168, "requirements": [{"item": "vike", "amount": 6}, {"item": "foky", "amount": 18}, {"item": "mavi", "amount": 7}], "liquidCapacity": 7, "liquidPressure": 3, "research": "vike-factory", "category": "liquid"}

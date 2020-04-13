@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "giyabinium power node", "description": "...", "size": 2, "health": 640, "requirements": [{"item": "giyabinium", "amount": 6}, {"item": "vitina", "amount": 6}, {"item": "jyxexi", "amount": 3}], "research": "giyabinium-factory", "maxNodes": 19, "laserRange": 16, "category": "power"}

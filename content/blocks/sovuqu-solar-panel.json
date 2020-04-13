@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sovuqu solar panel", "description": "...", "size": 3, "health": 20, "requirements": [{"item": "sovuqu", "amount": 17}, {"item": "cyyenium", "amount": 16}, {"item": "yunu", "amount": 3}], "research": "sovuqu-factory", "powerProduction": 0.012506185498575805, "category": "power"}

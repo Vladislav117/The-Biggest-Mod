@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "savi inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "savi", "amount": 1}, {"item": "vewavu", "amount": 4}], "research": "savi-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wivo conduit", "description": "...", "health": 95, "requirements": [{"item": "wivo", "amount": 8}, {"item": "nuso", "amount": 12}, {"item": "ridu", "amount": 1}], "liquidCapacity": 19, "liquidPressure": 6, "research": "wivo-factory", "category": "liquid"}

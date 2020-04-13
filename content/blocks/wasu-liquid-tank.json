@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wasu liquid tank", "description": "...", "health": 137, "size": 3, "requirements": [{"item": "wasu", "amount": 6}, {"item": "reyezy", "amount": 17}, {"item": "byyu", "amount": 9}], "research": "wasu-conduit", "category": "liquid", "liquidCapacity": 40320, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yodo conduit", "description": "...", "health": 193, "requirements": [{"item": "yodo", "amount": 18}, {"item": "sebobe", "amount": 3}, {"item": "qiti", "amount": 9}], "liquidCapacity": 13, "liquidPressure": 9, "research": "yodo-factory", "category": "liquid"}

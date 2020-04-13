@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nipi sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "nipi", "amount": 3}, {"item": "veru", "amount": 4}], "research": "nipi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hytuki battery", "description": "...", "size": 3, "health": 359, "requirements": [{"item": "hytuki", "amount": 9}, {"item": "lyva", "amount": 13}, {"item": "xyweco", "amount": 6}], "research": "hytuki-factory", "consumes": {"powerBuffered": 5713}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xaneya conduit", "description": "...", "health": 48, "requirements": [{"item": "xaneya", "amount": 17}, {"item": "layyzynium", "amount": 18}, {"item": "jyma", "amount": 6}], "liquidCapacity": 20, "liquidPressure": 3, "research": "xaneya-factory", "category": "liquid"}

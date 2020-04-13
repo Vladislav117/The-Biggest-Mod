@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jida battery", "description": "...", "size": 3, "health": 178, "requirements": [{"item": "jida", "amount": 14}, {"item": "rigo", "amount": 15}, {"item": "wobaxunium", "amount": 6}], "research": "jida-factory", "consumes": {"powerBuffered": 2122}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rysi solar panel", "description": "...", "size": 1, "health": 349, "requirements": [{"item": "rysi", "amount": 2}, {"item": "tuzy", "amount": 6}, {"item": "ceciba", "amount": 4}], "research": "rysi-factory", "powerProduction": 6.4852087614156595, "category": "power"}

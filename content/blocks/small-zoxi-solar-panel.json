@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zoxi solar panel", "description": "...", "size": 1, "health": 313, "requirements": [{"item": "zoxi", "amount": 19}, {"item": "pomagu", "amount": 8}, {"item": "cyxibe", "amount": 5}], "research": "zoxi-factory", "powerProduction": 0.36863765792711684, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "biryqa solar panel", "description": "...", "size": 3, "health": 194, "requirements": [{"item": "biryqa", "amount": 6}, {"item": "cecuvinium", "amount": 15}, {"item": "pyhune", "amount": 2}], "research": "biryqa-factory", "powerProduction": 5.251903489106943, "category": "power"}

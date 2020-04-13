@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nexojo liquid tank", "description": "...", "health": 653, "size": 3, "requirements": [{"item": "nexojo", "amount": 4}, {"item": "fure", "amount": 4}, {"item": "xavinium", "amount": 9}], "research": "nexojo-conduit", "category": "liquid", "liquidCapacity": 27284, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zymaginium overflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "zymaginium", "amount": 5}, {"item": "qyyalo", "amount": 1}], "research": "zymaginium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cosizi liquid tank", "description": "...", "health": 269, "size": 3, "requirements": [{"item": "cosizi", "amount": 2}, {"item": "qepyvonium", "amount": 5}, {"item": "zugoni", "amount": 7}], "research": "cosizi-conduit", "category": "liquid", "liquidCapacity": 74825, "hasLiquids": true}

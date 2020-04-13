@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "deqonium liquid tank", "description": "...", "health": 147, "size": 3, "requirements": [{"item": "deqonium", "amount": 10}, {"item": "bagyme", "amount": 5}, {"item": "mafy", "amount": 2}], "research": "deqonium-conduit", "category": "liquid", "liquidCapacity": 62202, "hasLiquids": true}

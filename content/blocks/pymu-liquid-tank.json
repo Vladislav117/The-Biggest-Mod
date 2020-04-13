@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pymu liquid tank", "description": "...", "health": 194, "size": 3, "requirements": [{"item": "pymu", "amount": 5}, {"item": "qobu", "amount": 10}, {"item": "duto", "amount": 8}], "research": "pymu-conduit", "category": "liquid", "liquidCapacity": 9987, "hasLiquids": true}

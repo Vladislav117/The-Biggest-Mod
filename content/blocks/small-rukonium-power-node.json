@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rukonium power node", "description": "...", "size": 1, "health": 67, "requirements": [{"item": "rukonium", "amount": 1}, {"item": "qeyanium", "amount": 17}, {"item": "mygo", "amount": 1}], "research": "rukonium-factory", "maxNodes": 4, "laserRange": 3, "category": "power"}

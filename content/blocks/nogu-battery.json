@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nogu battery", "description": "...", "size": 3, "health": 128, "requirements": [{"item": "nogu", "amount": 14}, {"item": "sawy", "amount": 4}, {"item": "xebili", "amount": 8}], "research": "nogu-factory", "consumes": {"powerBuffered": 216}, "category": "power"}

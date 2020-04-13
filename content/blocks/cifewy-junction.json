@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cifewy junction", "description": "...", "health": 4, "speed": 16, "capacity": 12, "size": 1, "requirements": [{"item": "cifewy", "amount": 2}, {"item": "luweninium", "amount": 5}], "research": "cifewy-conveyor", "category": "distribution"}

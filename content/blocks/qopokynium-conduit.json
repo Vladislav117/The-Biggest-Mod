@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qopokynium conduit", "description": "...", "health": 48, "requirements": [{"item": "qopokynium", "amount": 9}, {"item": "zodo", "amount": 16}, {"item": "qawi", "amount": 6}], "liquidCapacity": 38, "liquidPressure": 2, "research": "qopokynium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "koyiwi liquid tank", "description": "...", "health": 652, "size": 3, "requirements": [{"item": "koyiwi", "amount": 1}, {"item": "wovazo", "amount": 10}, {"item": "nehudo", "amount": 9}], "research": "koyiwi-conduit", "category": "liquid", "liquidCapacity": 16605, "hasLiquids": true}

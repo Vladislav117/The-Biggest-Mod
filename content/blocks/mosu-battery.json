@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mosu battery", "description": "...", "size": 3, "health": 311, "requirements": [{"item": "mosu", "amount": 18}, {"item": "gayi", "amount": 1}, {"item": "metaglass", "amount": 6}], "research": "mosu-factory", "consumes": {"powerBuffered": 8833}, "category": "power"}

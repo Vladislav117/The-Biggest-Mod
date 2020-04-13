@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ficynium liquid tank", "description": "...", "health": 377, "size": 3, "requirements": [{"item": "ficynium", "amount": 16}, {"item": "hedege", "amount": 15}, {"item": "bobowe", "amount": 4}], "research": "ficynium-conduit", "category": "liquid", "liquidCapacity": 41519, "hasLiquids": true}

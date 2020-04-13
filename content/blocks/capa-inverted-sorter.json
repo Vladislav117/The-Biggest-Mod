@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "capa inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "capa", "amount": 1}, {"item": "vocazu", "amount": 5}], "research": "capa-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sysoki conduit", "description": "...", "health": 39, "requirements": [{"item": "sysoki", "amount": 3}, {"item": "dimizy", "amount": 9}, {"item": "buvizi", "amount": 9}], "liquidCapacity": 2, "liquidPressure": 4, "research": "sysoki-factory", "category": "liquid"}

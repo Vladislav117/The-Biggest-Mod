@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "budyka sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "budyka", "amount": 4}, {"item": "wana", "amount": 1}], "research": "budyka-conveyor", "category": "distribution", "invert": false}

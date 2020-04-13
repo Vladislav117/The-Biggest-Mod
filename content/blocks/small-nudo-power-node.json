@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nudo power node", "description": "...", "size": 1, "health": 337, "requirements": [{"item": "nudo", "amount": 17}, {"item": "vadoda", "amount": 13}, {"item": "cudo", "amount": 3}], "research": "nudo-factory", "maxNodes": 23, "laserRange": 5, "category": "power"}

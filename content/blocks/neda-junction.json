@@ -1,0 +1,1 @@
+{"type": "junction", "name": "neda junction", "description": "...", "health": 10, "speed": 11, "capacity": 15, "size": 1, "requirements": [{"item": "neda", "amount": 1}, {"item": "nihu", "amount": 2}], "research": "neda-conveyor", "category": "distribution"}

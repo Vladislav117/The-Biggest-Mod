@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lybazi conduit", "description": "...", "health": 135, "requirements": [{"item": "lybazi", "amount": 1}, {"item": "zary", "amount": 7}, {"item": "vilyco", "amount": 1}], "liquidCapacity": 35, "liquidPressure": 7, "research": "lybazi-factory", "category": "liquid"}

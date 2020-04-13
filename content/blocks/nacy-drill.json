@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nacy drill", "description": "...", "size": 2, "health": 280, "tier": 3, "drillTime": 5, "consumes": {"power": 13}, "requirements": [{"item": "nacy", "amount": 12}, {"item": "bajenium", "amount": 13}, {"item": "yoqaja", "amount": 7}], "research": "nacy-factory", "category": "production"}

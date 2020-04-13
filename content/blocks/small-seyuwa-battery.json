@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small seyuwa battery", "description": "...", "size": 1, "health": 104, "requirements": [{"item": "seyuwa", "amount": 13}, {"item": "qyha", "amount": 20}, {"item": "kurecanium", "amount": 2}], "research": "seyuwa-factory", "consumes": {"powerBuffered": 2289}, "category": "power"}

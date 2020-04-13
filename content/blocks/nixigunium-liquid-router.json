@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nixigunium liquid router", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "nixigunium", "amount": 11}, {"item": "tise", "amount": 5}, {"item": "woze", "amount": 7}], "research": "nixigunium-conduit", "liquidCapacity": 10, "category": "liquid"}

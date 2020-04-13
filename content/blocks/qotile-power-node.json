@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qotile power node", "description": "...", "size": 2, "health": 88, "requirements": [{"item": "qotile", "amount": 1}, {"item": "mose", "amount": 18}, {"item": "patyco", "amount": 4}], "research": "qotile-factory", "maxNodes": 23, "laserRange": 6, "category": "power"}

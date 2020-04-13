@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pudogi underflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "pudogi", "amount": 2}, {"item": "nunuto", "amount": 4}], "research": "pudogi-conveyor", "category": "distribution", "invert": false}

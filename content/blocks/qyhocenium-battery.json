@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qyhocenium battery", "description": "...", "size": 3, "health": 39, "requirements": [{"item": "qyhocenium", "amount": 7}, {"item": "voqa", "amount": 16}, {"item": "zonufu", "amount": 5}], "research": "qyhocenium-factory", "consumes": {"powerBuffered": 6993}, "category": "power"}

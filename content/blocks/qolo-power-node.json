@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qolo power node", "description": "...", "size": 2, "health": 560, "requirements": [{"item": "qolo", "amount": 20}, {"item": "hono", "amount": 10}, {"item": "kezunium", "amount": 1}], "research": "qolo-factory", "maxNodes": 14, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vyde battery", "description": "...", "size": 3, "health": 93, "requirements": [{"item": "vyde", "amount": 2}, {"item": "xybi", "amount": 7}, {"item": "tiyexenium", "amount": 3}], "research": "vyde-factory", "consumes": {"powerBuffered": 8506}, "category": "power"}

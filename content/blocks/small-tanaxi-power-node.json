@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tanaxi power node", "description": "...", "size": 1, "health": 177, "requirements": [{"item": "tanaxi", "amount": 13}, {"item": "kawo", "amount": 2}, {"item": "joluxinium", "amount": 7}], "research": "tanaxi-factory", "maxNodes": 3, "laserRange": 8, "category": "power"}

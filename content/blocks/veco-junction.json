@@ -1,0 +1,1 @@
+{"type": "junction", "name": "veco junction", "description": "...", "health": 42, "speed": 8, "capacity": 17, "size": 1, "requirements": [{"item": "veco", "amount": 4}, {"item": "leyoqo", "amount": 4}], "research": "veco-conveyor", "category": "distribution"}

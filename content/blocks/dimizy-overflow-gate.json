@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dimizy overflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "dimizy", "amount": 2}, {"item": "nuko", "amount": 4}], "research": "dimizy-conveyor", "category": "distribution", "invert": false}

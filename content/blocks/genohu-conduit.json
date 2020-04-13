@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "genohu conduit", "description": "...", "health": 191, "requirements": [{"item": "genohu", "amount": 12}, {"item": "zadyle", "amount": 14}, {"item": "jogi", "amount": 10}], "liquidCapacity": 15, "liquidPressure": 9, "research": "genohu-factory", "category": "liquid"}

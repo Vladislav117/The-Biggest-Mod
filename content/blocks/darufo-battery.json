@@ -1,0 +1,1 @@
+{"type": "battery", "name": "darufo battery", "description": "...", "size": 3, "health": 353, "requirements": [{"item": "darufo", "amount": 12}, {"item": "hukebi", "amount": 14}, {"item": "wosofe", "amount": 2}], "research": "darufo-factory", "consumes": {"powerBuffered": 3079}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "duto battery", "description": "...", "size": 3, "health": 340, "requirements": [{"item": "duto", "amount": 11}, {"item": "yexowy", "amount": 18}, {"item": "ruteqa", "amount": 6}], "research": "duto-factory", "consumes": {"powerBuffered": 5333}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gylace solar panel", "description": "...", "size": 1, "health": 319, "requirements": [{"item": "gylace", "amount": 13}, {"item": "tenozo", "amount": 12}, {"item": "mobipo", "amount": 4}], "research": "gylace-factory", "powerProduction": 0.12036865209148748, "category": "power"}

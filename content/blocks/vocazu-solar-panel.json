@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vocazu solar panel", "description": "...", "size": 3, "health": 80, "requirements": [{"item": "vocazu", "amount": 3}, {"item": "qovy", "amount": 14}, {"item": "rybiho", "amount": 5}], "research": "vocazu-factory", "powerProduction": 0.2643507413992364, "category": "power"}

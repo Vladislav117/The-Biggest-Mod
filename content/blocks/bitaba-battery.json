@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bitaba battery", "description": "...", "size": 3, "health": 391, "requirements": [{"item": "bitaba", "amount": 19}, {"item": "hotose", "amount": 6}, {"item": "tybegi", "amount": 7}], "research": "bitaba-factory", "consumes": {"powerBuffered": 5783}, "category": "power"}

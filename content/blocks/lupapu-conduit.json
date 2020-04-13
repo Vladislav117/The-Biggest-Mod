@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lupapu conduit", "description": "...", "health": 187, "requirements": [{"item": "lupapu", "amount": 19}, {"item": "vipinium", "amount": 13}, {"item": "kelanium", "amount": 3}], "liquidCapacity": 24, "liquidPressure": 1, "research": "lupapu-factory", "category": "liquid"}

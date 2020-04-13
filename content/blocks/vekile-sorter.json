@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vekile sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "vekile", "amount": 2}, {"item": "kejowynium", "amount": 4}], "research": "vekile-conveyor", "category": "distribution", "invert": false}

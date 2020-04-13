@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vusi battery", "description": "...", "size": 3, "health": 319, "requirements": [{"item": "vusi", "amount": 14}, {"item": "besu", "amount": 3}, {"item": "hezinium", "amount": 7}], "research": "vusi-factory", "consumes": {"powerBuffered": 8386}, "category": "power"}

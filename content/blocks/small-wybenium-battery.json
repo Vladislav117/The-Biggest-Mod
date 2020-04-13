@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wybenium battery", "description": "...", "size": 1, "health": 131, "requirements": [{"item": "wybenium", "amount": 9}, {"item": "wiyuho", "amount": 1}, {"item": "dugypa", "amount": 1}], "research": "wybenium-factory", "consumes": {"powerBuffered": 437}, "category": "power"}

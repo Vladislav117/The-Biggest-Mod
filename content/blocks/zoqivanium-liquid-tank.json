@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zoqivanium liquid tank", "description": "...", "health": 265, "size": 3, "requirements": [{"item": "zoqivanium", "amount": 17}, {"item": "rehyce", "amount": 17}, {"item": "xinodunium", "amount": 4}], "research": "zoqivanium-conduit", "category": "liquid", "liquidCapacity": 108741, "hasLiquids": true}

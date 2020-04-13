@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rale battery", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "rale", "amount": 16}, {"item": "hexa", "amount": 13}, {"item": "gonu", "amount": 4}], "research": "rale-factory", "consumes": {"powerBuffered": 1186}, "category": "power"}

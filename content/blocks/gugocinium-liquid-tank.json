@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gugocinium liquid tank", "description": "...", "health": 351, "size": 3, "requirements": [{"item": "gugocinium", "amount": 14}, {"item": "padi", "amount": 4}, {"item": "nebiwy", "amount": 5}], "research": "gugocinium-conduit", "category": "liquid", "liquidCapacity": 23825, "hasLiquids": true}

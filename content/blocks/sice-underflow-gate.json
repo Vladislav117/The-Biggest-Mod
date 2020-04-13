@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sice underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "sice", "amount": 4}, {"item": "dyzo", "amount": 4}], "research": "sice-conveyor", "category": "distribution", "invert": false}

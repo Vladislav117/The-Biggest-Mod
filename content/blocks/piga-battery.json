@@ -1,0 +1,1 @@
+{"type": "battery", "name": "piga battery", "description": "...", "size": 3, "health": 237, "requirements": [{"item": "piga", "amount": 16}, {"item": "paqupy", "amount": 14}, {"item": "qysavunium", "amount": 7}], "research": "piga-factory", "consumes": {"powerBuffered": 7709}, "category": "power"}

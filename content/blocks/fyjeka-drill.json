@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fyjeka drill", "description": "...", "size": 3, "health": 218, "tier": 3, "drillTime": 16, "consumes": {"power": 18}, "requirements": [{"item": "fyjeka", "amount": 12}, {"item": "tusico", "amount": 11}, {"item": "wuxorunium", "amount": 1}], "research": "fyjeka-factory", "category": "production"}

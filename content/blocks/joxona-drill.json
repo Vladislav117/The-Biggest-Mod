@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "joxona drill", "description": "...", "size": 3, "health": 285, "tier": 4, "drillTime": 12, "consumes": {"power": 5}, "requirements": [{"item": "joxona", "amount": 18}, {"item": "huyijo", "amount": 14}, {"item": "noconium", "amount": 5}], "research": "joxona-factory", "category": "production"}

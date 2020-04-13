@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "maya force projector", "description": "...", "health": 111, "size": 3, "consumes": {"power": 5.0, "item": "maya"}, "requirements": [{"item": "maya", "amount": 4}, {"item": "goqanium", "amount": 7}, {"item": "kurecanium", "amount": 7}], "research": "maya-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wywelu bridge conveyor", "description": "", "health": 12, "range": 11, "speed": 19, "bufferCapacity": 22, "requirements": [{"item": "wywelu", "amount": 1}, {"item": "minoca", "amount": 3}], "research": "wywelu-conveyor", "category": "distribution", "size": 1}

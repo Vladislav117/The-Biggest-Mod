@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xubo sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "xubo", "amount": 5}, {"item": "puzybo", "amount": 5}], "research": "xubo-conveyor", "category": "distribution", "invert": false}

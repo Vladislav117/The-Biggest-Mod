@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "byfyly liquid tank", "description": "...", "health": 458, "size": 3, "requirements": [{"item": "byfyly", "amount": 3}, {"item": "wojenium", "amount": 19}, {"item": "kufuvunium", "amount": 1}], "research": "byfyly-conduit", "category": "liquid", "liquidCapacity": 100117, "hasLiquids": true}

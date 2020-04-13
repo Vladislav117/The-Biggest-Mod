@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tihunium liquid tank", "description": "...", "health": 598, "size": 3, "requirements": [{"item": "tihunium", "amount": 16}, {"item": "teyigu", "amount": 11}, {"item": "zalirenium", "amount": 6}], "research": "tihunium-conduit", "category": "liquid", "liquidCapacity": 50748, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pebi battery", "description": "...", "size": 3, "health": 264, "requirements": [{"item": "pebi", "amount": 2}, {"item": "waxonium", "amount": 13}, {"item": "kepo", "amount": 7}], "research": "pebi-factory", "consumes": {"powerBuffered": 2991}, "category": "power"}

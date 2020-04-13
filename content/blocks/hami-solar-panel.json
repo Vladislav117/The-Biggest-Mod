@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hami solar panel", "description": "...", "size": 3, "health": 399, "requirements": [{"item": "hami", "amount": 12}, {"item": "yozucunium", "amount": 2}, {"item": "sydeka", "amount": 3}], "research": "hami-factory", "powerProduction": 2.8257891821756753, "category": "power"}

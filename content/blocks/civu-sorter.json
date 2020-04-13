@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "civu sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "civu", "amount": 1}, {"item": "wuniso", "amount": 1}], "research": "civu-conveyor", "category": "distribution", "invert": false}

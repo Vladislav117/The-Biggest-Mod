@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "suzu drill", "description": "...", "size": 2, "health": 118, "tier": 2, "drillTime": 4, "consumes": {"power": 18}, "requirements": [{"item": "suzu", "amount": 6}, {"item": "qylino", "amount": 4}, {"item": "yesolonium", "amount": 6}], "research": "suzu-factory", "category": "production"}

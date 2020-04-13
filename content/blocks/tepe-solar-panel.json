@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tepe solar panel", "description": "...", "size": 3, "health": 146, "requirements": [{"item": "tepe", "amount": 12}, {"item": "seleme", "amount": 15}, {"item": "tiyexenium", "amount": 3}], "research": "tepe-factory", "powerProduction": 7.0588389065172645, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fyrywe battery", "description": "...", "size": 3, "health": 248, "requirements": [{"item": "fyrywe", "amount": 16}, {"item": "pyci", "amount": 15}, {"item": "pibyxenium", "amount": 2}], "research": "fyrywe-factory", "consumes": {"powerBuffered": 2704}, "category": "power"}

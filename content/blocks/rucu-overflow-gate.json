@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rucu overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "rucu", "amount": 5}, {"item": "vyji", "amount": 1}], "research": "rucu-conveyor", "category": "distribution", "invert": false}

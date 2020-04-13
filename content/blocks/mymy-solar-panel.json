@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mymy solar panel", "description": "...", "size": 3, "health": 293, "requirements": [{"item": "mymy", "amount": 9}, {"item": "juge", "amount": 3}, {"item": "bito", "amount": 8}], "research": "mymy-factory", "powerProduction": 0.25096069595218273, "category": "power"}

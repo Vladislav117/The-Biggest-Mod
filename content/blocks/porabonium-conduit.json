@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "porabonium conduit", "description": "...", "health": 66, "requirements": [{"item": "porabonium", "amount": 17}, {"item": "vatecy", "amount": 18}, {"item": "piwu", "amount": 4}], "liquidCapacity": 5, "liquidPressure": 10, "research": "porabonium-factory", "category": "liquid"}

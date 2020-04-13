@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hohisi battery", "description": "...", "size": 1, "health": 373, "requirements": [{"item": "hohisi", "amount": 1}, {"item": "befy", "amount": 10}, {"item": "ryfo", "amount": 9}], "research": "hohisi-factory", "consumes": {"powerBuffered": 1972}, "category": "power"}

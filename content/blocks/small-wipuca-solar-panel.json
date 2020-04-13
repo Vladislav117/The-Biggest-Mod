@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wipuca solar panel", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "wipuca", "amount": 9}, {"item": "raky", "amount": 14}, {"item": "hysivi", "amount": 8}], "research": "wipuca-factory", "powerProduction": 4.21342134342354, "category": "power"}

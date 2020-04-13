@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zofiqo bridge conveyor", "description": "", "health": 20, "range": 7, "speed": 19, "bufferCapacity": 18, "requirements": [{"item": "zofiqo", "amount": 2}, {"item": "lafybe", "amount": 3}], "research": "zofiqo-conveyor", "category": "distribution", "size": 1}

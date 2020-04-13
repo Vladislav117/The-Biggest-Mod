@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kypofu battery", "description": "...", "size": 3, "health": 46, "requirements": [{"item": "kypofu", "amount": 5}, {"item": "ceqo", "amount": 17}, {"item": "lyya", "amount": 7}], "research": "kypofu-factory", "consumes": {"powerBuffered": 5291}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "suhynium bridge conveyor", "description": "", "health": 24, "range": 4, "speed": 15, "bufferCapacity": 14, "requirements": [{"item": "suhynium", "amount": 4}, {"item": "weruqa", "amount": 4}], "research": "suhynium-conveyor", "category": "distribution", "size": 1}

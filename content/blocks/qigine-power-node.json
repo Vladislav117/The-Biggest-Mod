@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qigine power node", "description": "...", "size": 2, "health": 76, "requirements": [{"item": "qigine", "amount": 6}, {"item": "viqamo", "amount": 11}, {"item": "metaglass", "amount": 5}], "research": "qigine-factory", "maxNodes": 31, "laserRange": 8, "category": "power"}

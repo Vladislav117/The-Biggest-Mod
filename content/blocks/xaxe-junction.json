@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xaxe junction", "description": "...", "health": 28, "speed": 15, "capacity": 3, "size": 1, "requirements": [{"item": "xaxe", "amount": 1}, {"item": "cukoby", "amount": 2}], "research": "xaxe-conveyor", "category": "distribution"}

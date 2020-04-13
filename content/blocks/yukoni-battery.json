@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yukoni battery", "description": "...", "size": 3, "health": 100, "requirements": [{"item": "yukoni", "amount": 10}, {"item": "repetu", "amount": 16}, {"item": "webebu", "amount": 10}], "research": "yukoni-factory", "consumes": {"powerBuffered": 808}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "quvojo conduit", "description": "...", "health": 185, "requirements": [{"item": "quvojo", "amount": 15}, {"item": "bywazy", "amount": 8}, {"item": "myhuzi", "amount": 10}], "liquidCapacity": 8, "liquidPressure": 5, "research": "quvojo-factory", "category": "liquid"}

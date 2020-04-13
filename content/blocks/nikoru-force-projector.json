@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "nikoru force projector", "description": "...", "health": 164, "size": 3, "consumes": {"power": 5.0, "item": "nikoru"}, "requirements": [{"item": "nikoru", "amount": 15}, {"item": "birynium", "amount": 8}, {"item": "zazinium", "amount": 9}], "research": "nikoru-factory", "category": "effect"}

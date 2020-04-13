@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jumi sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "jumi", "amount": 3}, {"item": "myvava", "amount": 3}], "research": "jumi-conveyor", "category": "distribution", "invert": false}

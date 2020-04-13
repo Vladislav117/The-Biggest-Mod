@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qivi battery", "description": "...", "size": 3, "health": 28, "requirements": [{"item": "qivi", "amount": 12}, {"item": "horyve", "amount": 11}, {"item": "ryte", "amount": 8}], "research": "qivi-factory", "consumes": {"powerBuffered": 9010}, "category": "power"}

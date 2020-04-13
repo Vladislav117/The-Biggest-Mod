@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wohunium battery", "description": "...", "size": 1, "health": 178, "requirements": [{"item": "wohunium", "amount": 6}, {"item": "qulape", "amount": 9}, {"item": "gihalu", "amount": 4}], "research": "wohunium-factory", "consumes": {"powerBuffered": 926}, "category": "power"}

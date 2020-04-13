@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vohi liquid tank", "description": "...", "health": 133, "size": 3, "requirements": [{"item": "vohi", "amount": 15}, {"item": "pify", "amount": 20}, {"item": "kyvanium", "amount": 7}], "research": "vohi-conduit", "category": "liquid", "liquidCapacity": 93785, "hasLiquids": true}

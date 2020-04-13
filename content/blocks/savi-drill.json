@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "savi drill", "description": "...", "size": 4, "health": 191, "tier": 3, "drillTime": 20, "consumes": {"power": 11}, "requirements": [{"item": "savi", "amount": 13}, {"item": "sacigi", "amount": 17}, {"item": "hugevinium", "amount": 7}], "research": "savi-factory", "category": "production"}

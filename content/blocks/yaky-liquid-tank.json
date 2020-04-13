@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yaky liquid tank", "description": "...", "health": 490, "size": 3, "requirements": [{"item": "yaky", "amount": 12}, {"item": "mygi", "amount": 7}, {"item": "menugonium", "amount": 3}], "research": "yaky-conduit", "category": "liquid", "liquidCapacity": 88597, "hasLiquids": true}

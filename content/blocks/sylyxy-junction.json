@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sylyxy junction", "description": "...", "health": 20, "speed": 17, "capacity": 1, "size": 1, "requirements": [{"item": "sylyxy", "amount": 1}, {"item": "kegiqi", "amount": 1}], "research": "sylyxy-conveyor", "category": "distribution"}

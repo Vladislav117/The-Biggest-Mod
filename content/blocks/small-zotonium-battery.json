@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zotonium battery", "description": "...", "size": 1, "health": 136, "requirements": [{"item": "zotonium", "amount": 3}, {"item": "kaniyy", "amount": 11}, {"item": "nixigunium", "amount": 8}], "research": "zotonium-factory", "consumes": {"powerBuffered": 1512}, "category": "power"}

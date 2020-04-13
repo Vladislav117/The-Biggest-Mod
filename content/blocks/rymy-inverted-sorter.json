@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rymy inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "rymy", "amount": 2}, {"item": "qowepa", "amount": 2}], "research": "rymy-conveyor", "category": "distribution", "invert": true}

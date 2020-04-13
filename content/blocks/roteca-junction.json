@@ -1,0 +1,1 @@
+{"type": "junction", "name": "roteca junction", "description": "...", "health": 24, "speed": 1, "capacity": 6, "size": 1, "requirements": [{"item": "roteca", "amount": 5}, {"item": "yijotu", "amount": 1}], "research": "roteca-conveyor", "category": "distribution"}

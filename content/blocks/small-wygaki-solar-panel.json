@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wygaki solar panel", "description": "...", "size": 1, "health": 269, "requirements": [{"item": "wygaki", "amount": 8}, {"item": "vuyi", "amount": 18}, {"item": "veru", "amount": 7}], "research": "wygaki-factory", "powerProduction": 7.907934942176642, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "daco power node", "description": "...", "size": 2, "health": 198, "requirements": [{"item": "daco", "amount": 7}, {"item": "rotonium", "amount": 20}, {"item": "jyzywy", "amount": 8}], "research": "daco-factory", "maxNodes": 50, "laserRange": 9, "category": "power"}

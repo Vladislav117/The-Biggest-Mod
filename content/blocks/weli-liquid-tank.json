@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "weli liquid tank", "description": "...", "health": 603, "size": 3, "requirements": [{"item": "weli", "amount": 13}, {"item": "qiso", "amount": 8}, {"item": "giho", "amount": 7}], "research": "weli-conduit", "category": "liquid", "liquidCapacity": 28153, "hasLiquids": true}

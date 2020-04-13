@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jimi overflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "jimi", "amount": 2}, {"item": "yedyte", "amount": 1}], "research": "jimi-conveyor", "category": "distribution", "invert": false}

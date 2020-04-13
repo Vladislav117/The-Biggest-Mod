@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dihomu solar panel", "description": "...", "size": 3, "health": 235, "requirements": [{"item": "dihomu", "amount": 2}, {"item": "zuzequ", "amount": 18}, {"item": "dyxuhu", "amount": 1}], "research": "dihomu-factory", "powerProduction": 0.9264973796598046, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qukeso battery", "description": "...", "size": 3, "health": 99, "requirements": [{"item": "qukeso", "amount": 14}, {"item": "watiju", "amount": 13}, {"item": "ciqi", "amount": 9}], "research": "qukeso-factory", "consumes": {"powerBuffered": 9082}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hiqasynium conduit", "description": "...", "health": 152, "requirements": [{"item": "hiqasynium", "amount": 1}, {"item": "tuma", "amount": 17}, {"item": "labila", "amount": 2}], "liquidCapacity": 7, "liquidPressure": 6, "research": "hiqasynium-factory", "category": "liquid"}

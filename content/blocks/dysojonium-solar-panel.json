@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dysojonium solar panel", "description": "...", "size": 3, "health": 289, "requirements": [{"item": "dysojonium", "amount": 14}, {"item": "felizenium", "amount": 6}, {"item": "zeha", "amount": 8}], "research": "dysojonium-factory", "powerProduction": 0.7835353457636685, "category": "power"}

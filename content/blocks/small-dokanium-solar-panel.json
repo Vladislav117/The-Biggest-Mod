@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dokanium solar panel", "description": "...", "size": 1, "health": 116, "requirements": [{"item": "dokanium", "amount": 5}, {"item": "fogodo", "amount": 1}, {"item": "pygu", "amount": 7}], "research": "dokanium-factory", "powerProduction": 2.1966031195247204, "category": "power"}

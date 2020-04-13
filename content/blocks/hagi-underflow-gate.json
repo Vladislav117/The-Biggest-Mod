@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hagi underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "hagi", "amount": 2}, {"item": "titanium", "amount": 2}], "research": "hagi-conveyor", "category": "distribution", "invert": false}

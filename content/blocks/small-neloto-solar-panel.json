@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small neloto solar panel", "description": "...", "size": 1, "health": 182, "requirements": [{"item": "neloto", "amount": 12}, {"item": "hasu", "amount": 14}, {"item": "sumu", "amount": 3}], "research": "neloto-factory", "powerProduction": 2.018887484346309, "category": "power"}

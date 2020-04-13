@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jigosy liquid tank", "description": "...", "health": 445, "size": 3, "requirements": [{"item": "jigosy", "amount": 4}, {"item": "bylo", "amount": 18}, {"item": "muco", "amount": 2}], "research": "jigosy-conduit", "category": "liquid", "liquidCapacity": 60706, "hasLiquids": true}

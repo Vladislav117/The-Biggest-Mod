@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "serenium conduit", "description": "...", "health": 83, "requirements": [{"item": "serenium", "amount": 6}, {"item": "qepisu", "amount": 18}, {"item": "ketanium", "amount": 7}], "liquidCapacity": 7, "liquidPressure": 1, "research": "serenium-factory", "category": "liquid"}

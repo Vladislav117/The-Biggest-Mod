@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mapyxa liquid tank", "description": "...", "health": 634, "size": 3, "requirements": [{"item": "mapyxa", "amount": 10}, {"item": "ketanium", "amount": 19}, {"item": "nofy", "amount": 4}], "research": "mapyxa-conduit", "category": "liquid", "liquidCapacity": 63299, "hasLiquids": true}

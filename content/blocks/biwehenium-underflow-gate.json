@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "biwehenium underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "biwehenium", "amount": 5}, {"item": "lipupy", "amount": 3}], "research": "biwehenium-conveyor", "category": "distribution", "invert": false}

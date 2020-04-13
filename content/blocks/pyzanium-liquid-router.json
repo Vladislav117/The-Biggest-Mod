@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pyzanium liquid router", "description": "...", "size": 1, "health": 73, "requirements": [{"item": "pyzanium", "amount": 3}, {"item": "lynaly", "amount": 9}, {"item": "ruvudo", "amount": 3}], "research": "pyzanium-conduit", "liquidCapacity": 10, "category": "liquid"}

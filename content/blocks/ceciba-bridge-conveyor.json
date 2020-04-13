@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ceciba bridge conveyor", "description": "", "health": 3, "range": 6, "speed": 7, "bufferCapacity": 1, "requirements": [{"item": "ceciba", "amount": 2}, {"item": "kavequ", "amount": 1}], "research": "ceciba-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tidonium conduit", "description": "...", "health": 104, "requirements": [{"item": "tidonium", "amount": 16}, {"item": "zoquqenium", "amount": 8}, {"item": "tydeja", "amount": 9}], "liquidCapacity": 46, "liquidPressure": 3, "research": "tidonium-factory", "category": "liquid"}

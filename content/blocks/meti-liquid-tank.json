@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "meti liquid tank", "description": "...", "health": 587, "size": 3, "requirements": [{"item": "meti", "amount": 16}, {"item": "dakiqu", "amount": 8}, {"item": "zeyeqi", "amount": 3}], "research": "meti-conduit", "category": "liquid", "liquidCapacity": 37770, "hasLiquids": true}

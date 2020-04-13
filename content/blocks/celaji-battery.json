@@ -1,0 +1,1 @@
+{"type": "battery", "name": "celaji battery", "description": "...", "size": 3, "health": 101, "requirements": [{"item": "celaji", "amount": 12}, {"item": "hebohy", "amount": 6}, {"item": "jodezu", "amount": 6}], "research": "celaji-factory", "consumes": {"powerBuffered": 9239}, "category": "power"}

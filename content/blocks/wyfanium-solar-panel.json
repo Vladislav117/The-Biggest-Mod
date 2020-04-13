@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wyfanium solar panel", "description": "...", "size": 3, "health": 348, "requirements": [{"item": "wyfanium", "amount": 7}, {"item": "sohusu", "amount": 12}, {"item": "yadyju", "amount": 9}], "research": "wyfanium-factory", "powerProduction": 0.10185956965248463, "category": "power"}

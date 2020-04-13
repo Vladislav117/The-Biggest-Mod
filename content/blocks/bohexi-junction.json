@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bohexi junction", "description": "...", "health": 44, "speed": 5, "capacity": 12, "size": 1, "requirements": [{"item": "bohexi", "amount": 2}, {"item": "syxidonium", "amount": 5}], "research": "bohexi-conveyor", "category": "distribution"}

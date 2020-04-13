@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tasinium sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "tasinium", "amount": 5}, {"item": "rizu", "amount": 3}], "research": "tasinium-conveyor", "category": "distribution", "invert": false}

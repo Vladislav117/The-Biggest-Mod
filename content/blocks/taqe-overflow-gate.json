@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "taqe overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "taqe", "amount": 2}, {"item": "giqiju", "amount": 1}], "research": "taqe-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wupixonium sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "wupixonium", "amount": 3}, {"item": "vytuxe", "amount": 1}], "research": "wupixonium-conveyor", "category": "distribution", "invert": false}

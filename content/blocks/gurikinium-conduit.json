@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gurikinium conduit", "description": "...", "health": 116, "requirements": [{"item": "gurikinium", "amount": 1}, {"item": "siqefo", "amount": 8}, {"item": "graphite", "amount": 6}], "liquidCapacity": 5, "liquidPressure": 7, "research": "gurikinium-factory", "category": "liquid"}

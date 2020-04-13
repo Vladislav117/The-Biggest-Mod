@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hycywi battery", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "hycywi", "amount": 14}, {"item": "duto", "amount": 7}, {"item": "yisyqu", "amount": 6}], "research": "hycywi-factory", "consumes": {"powerBuffered": 4224}, "category": "power"}

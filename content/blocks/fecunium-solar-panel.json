@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fecunium solar panel", "description": "...", "size": 3, "health": 188, "requirements": [{"item": "fecunium", "amount": 12}, {"item": "qimose", "amount": 19}, {"item": "sypyqanium", "amount": 2}], "research": "fecunium-factory", "powerProduction": 0.05857989683411886, "category": "power"}

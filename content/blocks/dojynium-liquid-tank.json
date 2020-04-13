@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dojynium liquid tank", "description": "...", "health": 618, "size": 3, "requirements": [{"item": "dojynium", "amount": 2}, {"item": "winyjo", "amount": 9}, {"item": "pudoki", "amount": 7}], "research": "dojynium-conduit", "category": "liquid", "liquidCapacity": 27768, "hasLiquids": true}

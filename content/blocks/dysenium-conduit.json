@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dysenium conduit", "description": "...", "health": 104, "requirements": [{"item": "dysenium", "amount": 11}, {"item": "hewy", "amount": 1}, {"item": "bipanium", "amount": 9}], "liquidCapacity": 24, "liquidPressure": 10, "research": "dysenium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "meniko overdrive projector", "description": "...", "health": 51, "consumes": {"power": 3.0, "item": "meniko"}, "size": 2, "requirements": [{"item": "meniko", "amount": 13}, {"item": "dife", "amount": 5}, {"item": "roja", "amount": 10}], "research": "meniko-factory", "category": "effect"}

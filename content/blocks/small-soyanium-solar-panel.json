@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small soyanium solar panel", "description": "...", "size": 1, "health": 211, "requirements": [{"item": "soyanium", "amount": 18}, {"item": "pyce", "amount": 4}, {"item": "wana", "amount": 1}], "research": "soyanium-factory", "powerProduction": 2.19192813709694, "category": "power"}

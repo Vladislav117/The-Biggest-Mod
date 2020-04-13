@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hoqade solar panel", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "hoqade", "amount": 1}, {"item": "wiba", "amount": 11}, {"item": "syteja", "amount": 2}], "research": "hoqade-factory", "powerProduction": 1.5846995032789477, "category": "power"}

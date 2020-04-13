@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dala overflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "dala", "amount": 2}, {"item": "kaye", "amount": 5}], "research": "dala-conveyor", "category": "distribution", "invert": false}

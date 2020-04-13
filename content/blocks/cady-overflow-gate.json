@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cady overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "cady", "amount": 4}, {"item": "yyxafo", "amount": 4}], "research": "cady-conveyor", "category": "distribution", "invert": false}

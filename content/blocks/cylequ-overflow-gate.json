@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cylequ overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "cylequ", "amount": 4}, {"item": "biye", "amount": 3}], "research": "cylequ-conveyor", "category": "distribution", "invert": false}

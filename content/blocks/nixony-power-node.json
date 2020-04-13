@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nixony power node", "description": "...", "size": 2, "health": 516, "requirements": [{"item": "nixony", "amount": 19}, {"item": "roluny", "amount": 1}, {"item": "hivesy", "amount": 2}], "research": "nixony-factory", "maxNodes": 10, "laserRange": 19, "category": "power"}

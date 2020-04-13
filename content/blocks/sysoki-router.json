@@ -1,0 +1,1 @@
+{"type": "router", "name": "sysoki router", "description": "...", "health": 111, "size": 1, "requirements": [{"item": "sysoki", "amount": 8}], "research": "sysoki-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zohura drill", "description": "...", "size": 2, "health": 267, "tier": 3, "drillTime": 18, "consumes": {"power": 12}, "requirements": [{"item": "zohura", "amount": 20}, {"item": "yisyqu", "amount": 6}, {"item": "xylidinium", "amount": 4}], "research": "zohura-factory", "category": "production"}

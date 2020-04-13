@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "humidu liquid tank", "description": "...", "health": 611, "size": 3, "requirements": [{"item": "humidu", "amount": 19}, {"item": "hedi", "amount": 4}, {"item": "kani", "amount": 1}], "research": "humidu-conduit", "category": "liquid", "liquidCapacity": 32854, "hasLiquids": true}

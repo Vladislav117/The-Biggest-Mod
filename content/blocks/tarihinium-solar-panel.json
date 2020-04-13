@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tarihinium solar panel", "description": "...", "size": 3, "health": 162, "requirements": [{"item": "tarihinium", "amount": 9}, {"item": "suminium", "amount": 6}, {"item": "xizejinium", "amount": 9}], "research": "tarihinium-factory", "powerProduction": 0.1906416752586949, "category": "power"}

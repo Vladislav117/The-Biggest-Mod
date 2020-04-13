@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "baxe underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "baxe", "amount": 2}, {"item": "zekaru", "amount": 5}], "research": "baxe-conveyor", "category": "distribution", "invert": false}

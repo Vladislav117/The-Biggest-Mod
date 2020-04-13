@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ziti overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "ziti", "amount": 1}, {"item": "kywowa", "amount": 1}], "research": "ziti-conveyor", "category": "distribution", "invert": false}

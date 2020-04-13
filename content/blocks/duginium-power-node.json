@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "duginium power node", "description": "...", "size": 2, "health": 700, "requirements": [{"item": "duginium", "amount": 14}, {"item": "fuho", "amount": 5}, {"item": "yedunium", "amount": 3}], "research": "duginium-factory", "maxNodes": 27, "laserRange": 27, "category": "power"}

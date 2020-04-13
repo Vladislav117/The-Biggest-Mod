@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ruwecu power node", "description": "...", "size": 2, "health": 773, "requirements": [{"item": "ruwecu", "amount": 3}, {"item": "xaryqo", "amount": 9}, {"item": "mabifunium", "amount": 4}], "research": "ruwecu-factory", "maxNodes": 45, "laserRange": 22, "category": "power"}

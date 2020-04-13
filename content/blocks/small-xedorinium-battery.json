@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xedorinium battery", "description": "...", "size": 1, "health": 264, "requirements": [{"item": "xedorinium", "amount": 14}, {"item": "kiredi", "amount": 9}, {"item": "migube", "amount": 9}], "research": "xedorinium-factory", "consumes": {"powerBuffered": 257}, "category": "power"}

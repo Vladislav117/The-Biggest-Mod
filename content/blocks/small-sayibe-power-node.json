@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sayibe power node", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "sayibe", "amount": 15}, {"item": "zodo", "amount": 7}, {"item": "cyma", "amount": 3}], "research": "sayibe-factory", "maxNodes": 28, "laserRange": 8, "category": "power"}

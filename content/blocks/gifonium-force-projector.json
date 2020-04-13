@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "gifonium force projector", "description": "...", "health": 155, "size": 3, "consumes": {"power": 5.0, "item": "gifonium"}, "requirements": [{"item": "gifonium", "amount": 14}, {"item": "peloronium", "amount": 1}, {"item": "dizuqo", "amount": 7}], "research": "gifonium-factory", "category": "effect"}

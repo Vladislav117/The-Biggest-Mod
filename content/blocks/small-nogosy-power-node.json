@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nogosy power node", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "nogosy", "amount": 20}, {"item": "monu", "amount": 5}, {"item": "hivesy", "amount": 2}], "research": "nogosy-factory", "maxNodes": 15, "laserRange": 16, "category": "power"}

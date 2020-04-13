@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "puhu underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "puhu", "amount": 5}, {"item": "mytati", "amount": 3}], "research": "puhu-conveyor", "category": "distribution", "invert": false}

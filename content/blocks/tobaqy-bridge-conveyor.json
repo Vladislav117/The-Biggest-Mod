@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tobaqy bridge conveyor", "description": "", "health": 22, "range": 9, "speed": 8, "bufferCapacity": 8, "requirements": [{"item": "tobaqy", "amount": 1}, {"item": "vywy", "amount": 3}], "research": "tobaqy-conveyor", "category": "distribution", "size": 1}

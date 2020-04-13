@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cowuse power node", "description": "...", "size": 2, "health": 185, "requirements": [{"item": "cowuse", "amount": 15}, {"item": "suhynium", "amount": 16}, {"item": "fidiho", "amount": 3}], "research": "cowuse-factory", "maxNodes": 23, "laserRange": 8, "category": "power"}

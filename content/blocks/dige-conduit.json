@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dige conduit", "description": "...", "health": 165, "requirements": [{"item": "dige", "amount": 1}, {"item": "hejonium", "amount": 19}, {"item": "xywege", "amount": 8}], "liquidCapacity": 18, "liquidPressure": 10, "research": "dige-factory", "category": "liquid"}

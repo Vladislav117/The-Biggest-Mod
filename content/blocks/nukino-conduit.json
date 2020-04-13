@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nukino conduit", "description": "...", "health": 77, "requirements": [{"item": "nukino", "amount": 5}, {"item": "qyhi", "amount": 6}, {"item": "cafe", "amount": 6}], "liquidCapacity": 42, "liquidPressure": 1, "research": "nukino-factory", "category": "liquid"}

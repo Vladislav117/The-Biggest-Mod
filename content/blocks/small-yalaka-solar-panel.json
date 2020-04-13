@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yalaka solar panel", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "yalaka", "amount": 20}, {"item": "hoqade", "amount": 19}, {"item": "cymaca", "amount": 7}], "research": "yalaka-factory", "powerProduction": 0.11965873311598427, "category": "power"}

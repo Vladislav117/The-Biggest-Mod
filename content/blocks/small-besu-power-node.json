@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small besu power node", "description": "...", "size": 1, "health": 151, "requirements": [{"item": "besu", "amount": 10}, {"item": "yoqy", "amount": 16}, {"item": "lyheti", "amount": 9}], "research": "besu-factory", "maxNodes": 13, "laserRange": 22, "category": "power"}

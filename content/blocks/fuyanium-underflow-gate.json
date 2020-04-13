@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fuyanium underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "fuyanium", "amount": 2}, {"item": "hocode", "amount": 3}], "research": "fuyanium-conveyor", "category": "distribution", "invert": false}

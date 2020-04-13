@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fidiho solar panel", "description": "...", "size": 1, "health": 319, "requirements": [{"item": "fidiho", "amount": 10}, {"item": "coqaqynium", "amount": 8}, {"item": "zyce", "amount": 2}], "research": "fidiho-factory", "powerProduction": 5.746491412659084, "category": "power"}

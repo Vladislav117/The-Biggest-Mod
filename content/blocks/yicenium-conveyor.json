@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "yicenium conveyor", "description": "...", "health": 198, "requirements": [{"item": "yicenium", "amount": 2}, {"item": "sobu", "amount": 5}], "speed": 0.29083543939264694, "research": "yicenium-factory", "category": "distribution"}

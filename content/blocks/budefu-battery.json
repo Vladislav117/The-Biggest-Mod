@@ -1,0 +1,1 @@
+{"type": "battery", "name": "budefu battery", "description": "...", "size": 3, "health": 373, "requirements": [{"item": "budefu", "amount": 9}, {"item": "nataki", "amount": 6}, {"item": "kokonium", "amount": 2}], "research": "budefu-factory", "consumes": {"powerBuffered": 6880}, "category": "power"}

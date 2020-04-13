@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cahi drill", "description": "...", "size": 3, "health": 371, "tier": 2, "drillTime": 5, "consumes": {"power": 1}, "requirements": [{"item": "cahi", "amount": 11}, {"item": "ragezunium", "amount": 7}, {"item": "mynufu", "amount": 5}], "research": "cahi-factory", "category": "production"}

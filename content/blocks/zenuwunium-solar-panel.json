@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zenuwunium solar panel", "description": "...", "size": 3, "health": 256, "requirements": [{"item": "zenuwunium", "amount": 8}, {"item": "hymonium", "amount": 7}, {"item": "yunu", "amount": 3}], "research": "zenuwunium-factory", "powerProduction": 2.401550391109127, "category": "power"}

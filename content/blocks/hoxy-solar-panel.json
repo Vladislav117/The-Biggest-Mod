@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hoxy solar panel", "description": "...", "size": 3, "health": 136, "requirements": [{"item": "hoxy", "amount": 18}, {"item": "sytafe", "amount": 5}, {"item": "vyka", "amount": 5}], "research": "hoxy-factory", "powerProduction": 0.2609880114228123, "category": "power"}

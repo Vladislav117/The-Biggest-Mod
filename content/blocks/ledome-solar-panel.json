@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ledome solar panel", "description": "...", "size": 3, "health": 308, "requirements": [{"item": "ledome", "amount": 12}, {"item": "qano", "amount": 18}, {"item": "wywonium", "amount": 3}], "research": "ledome-factory", "powerProduction": 0.0785724940017394, "category": "power"}

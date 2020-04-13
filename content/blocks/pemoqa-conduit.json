@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pemoqa conduit", "description": "...", "health": 119, "requirements": [{"item": "pemoqa", "amount": 4}, {"item": "wikeyinium", "amount": 3}, {"item": "xoruba", "amount": 9}], "liquidCapacity": 3, "liquidPressure": 10, "research": "pemoqa-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yisupe liquid tank", "description": "...", "health": 486, "size": 3, "requirements": [{"item": "yisupe", "amount": 6}, {"item": "vywy", "amount": 12}, {"item": "kyweru", "amount": 10}], "research": "yisupe-conduit", "category": "liquid", "liquidCapacity": 117733, "hasLiquids": true}

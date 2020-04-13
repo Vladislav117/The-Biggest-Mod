@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "besivi solar panel", "description": "...", "size": 3, "health": 316, "requirements": [{"item": "besivi", "amount": 2}, {"item": "gizomanium", "amount": 18}, {"item": "juwynium", "amount": 5}], "research": "besivi-factory", "powerProduction": 15.854547757358429, "category": "power"}

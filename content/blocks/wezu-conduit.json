@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wezu conduit", "description": "...", "health": 81, "requirements": [{"item": "wezu", "amount": 12}, {"item": "bube", "amount": 20}, {"item": "bosery", "amount": 8}], "liquidCapacity": 4, "liquidPressure": 8, "research": "wezu-factory", "category": "liquid"}

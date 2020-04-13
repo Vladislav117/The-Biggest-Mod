@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "gylananium overdrive projector", "description": "...", "health": 58, "consumes": {"power": 3.0, "item": "gylananium"}, "size": 2, "requirements": [{"item": "gylananium", "amount": 13}, {"item": "pyqynium", "amount": 18}, {"item": "sopage", "amount": 7}], "research": "gylananium-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "subuwi junction", "description": "...", "health": 19, "speed": 17, "capacity": 10, "size": 1, "requirements": [{"item": "subuwi", "amount": 2}, {"item": "syve", "amount": 5}], "research": "subuwi-conveyor", "category": "distribution"}

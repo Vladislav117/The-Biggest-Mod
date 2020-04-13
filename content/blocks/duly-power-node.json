@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "duly power node", "description": "...", "size": 2, "health": 418, "requirements": [{"item": "duly", "amount": 2}, {"item": "cuba", "amount": 2}, {"item": "byzure", "amount": 10}], "research": "duly-factory", "maxNodes": 33, "laserRange": 19, "category": "power"}

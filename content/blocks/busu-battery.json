@@ -1,0 +1,1 @@
+{"type": "battery", "name": "busu battery", "description": "...", "size": 3, "health": 47, "requirements": [{"item": "busu", "amount": 10}, {"item": "dune", "amount": 11}, {"item": "ruwucynium", "amount": 6}], "research": "busu-factory", "consumes": {"powerBuffered": 9971}, "category": "power"}

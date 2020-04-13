@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tipi drill", "description": "...", "size": 2, "health": 431, "tier": 3, "drillTime": 18, "consumes": {"power": 12}, "requirements": [{"item": "tipi", "amount": 13}, {"item": "hagunium", "amount": 15}, {"item": "hezinium", "amount": 9}], "research": "tipi-factory", "category": "production"}

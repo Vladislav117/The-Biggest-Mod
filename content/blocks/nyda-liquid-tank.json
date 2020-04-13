@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nyda liquid tank", "description": "...", "health": 539, "size": 3, "requirements": [{"item": "nyda", "amount": 9}, {"item": "kycuzo", "amount": 13}, {"item": "caxoni", "amount": 5}], "research": "nyda-conduit", "category": "liquid", "liquidCapacity": 65491, "hasLiquids": true}

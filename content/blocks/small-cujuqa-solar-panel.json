@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cujuqa solar panel", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "cujuqa", "amount": 4}, {"item": "rebugunium", "amount": 6}, {"item": "nefuxa", "amount": 6}], "research": "cujuqa-factory", "powerProduction": 0.19893273414646967, "category": "power"}

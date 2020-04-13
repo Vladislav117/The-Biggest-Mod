@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jujo power node", "description": "...", "size": 1, "health": 270, "requirements": [{"item": "jujo", "amount": 20}, {"item": "tusytu", "amount": 18}, {"item": "figu", "amount": 5}], "research": "jujo-factory", "maxNodes": 14, "laserRange": 15, "category": "power"}

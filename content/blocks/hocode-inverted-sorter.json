@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hocode inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "hocode", "amount": 1}, {"item": "sexinium", "amount": 2}], "research": "hocode-conveyor", "category": "distribution", "invert": true}

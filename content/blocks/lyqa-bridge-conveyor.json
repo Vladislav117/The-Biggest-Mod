@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lyqa bridge conveyor", "description": "", "health": 25, "range": 6, "speed": 2, "bufferCapacity": 15, "requirements": [{"item": "lyqa", "amount": 4}, {"item": "luyoyinium", "amount": 4}], "research": "lyqa-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bymenium solar panel", "description": "...", "size": 3, "health": 227, "requirements": [{"item": "bymenium", "amount": 18}, {"item": "ryheco", "amount": 18}, {"item": "jazy", "amount": 4}], "research": "bymenium-factory", "powerProduction": 1.111624670661186, "category": "power"}

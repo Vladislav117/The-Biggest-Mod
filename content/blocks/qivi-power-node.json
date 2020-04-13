@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qivi power node", "description": "...", "size": 2, "health": 452, "requirements": [{"item": "qivi", "amount": 13}, {"item": "metaglass", "amount": 8}, {"item": "riro", "amount": 4}], "research": "qivi-factory", "maxNodes": 18, "laserRange": 8, "category": "power"}

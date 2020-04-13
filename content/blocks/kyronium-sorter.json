@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kyronium sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "kyronium", "amount": 2}, {"item": "tasynium", "amount": 3}], "research": "kyronium-conveyor", "category": "distribution", "invert": false}

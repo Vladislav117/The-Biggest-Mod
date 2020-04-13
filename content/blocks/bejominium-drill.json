@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bejominium drill", "description": "...", "size": 2, "health": 159, "tier": 3, "drillTime": 1, "consumes": {"power": 15}, "requirements": [{"item": "bejominium", "amount": 7}, {"item": "kyco", "amount": 4}, {"item": "qavuhe", "amount": 1}], "research": "bejominium-factory", "category": "production"}

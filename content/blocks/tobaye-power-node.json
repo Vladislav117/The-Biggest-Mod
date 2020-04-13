@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tobaye power node", "description": "...", "size": 2, "health": 117, "requirements": [{"item": "tobaye", "amount": 18}, {"item": "sayo", "amount": 18}, {"item": "nepysi", "amount": 8}], "research": "tobaye-factory", "maxNodes": 44, "laserRange": 8, "category": "power"}

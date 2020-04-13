@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "locycanium bridge conveyor", "description": "", "health": 37, "range": 7, "speed": 19, "bufferCapacity": 9, "requirements": [{"item": "locycanium", "amount": 5}, {"item": "nufuponium", "amount": 5}], "research": "locycanium-conveyor", "category": "distribution", "size": 1}

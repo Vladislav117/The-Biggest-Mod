@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mepoky battery", "description": "...", "size": 1, "health": 191, "requirements": [{"item": "mepoky", "amount": 7}, {"item": "qevije", "amount": 4}, {"item": "rudu", "amount": 9}], "research": "mepoky-factory", "consumes": {"powerBuffered": 2171}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zufo liquid tank", "description": "...", "health": 583, "size": 3, "requirements": [{"item": "zufo", "amount": 20}, {"item": "faqymu", "amount": 18}, {"item": "tire", "amount": 4}], "research": "zufo-conduit", "category": "liquid", "liquidCapacity": 69729, "hasLiquids": true}

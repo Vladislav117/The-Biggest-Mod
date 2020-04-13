@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "savi underflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "savi", "amount": 4}, {"item": "mepunium", "amount": 5}], "research": "savi-conveyor", "category": "distribution", "invert": false}

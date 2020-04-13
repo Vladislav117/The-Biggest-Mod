@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gurale junction", "description": "...", "health": 5, "speed": 2, "capacity": 8, "size": 1, "requirements": [{"item": "gurale", "amount": 1}, {"item": "kokidenium", "amount": 1}], "research": "gurale-conveyor", "category": "distribution"}

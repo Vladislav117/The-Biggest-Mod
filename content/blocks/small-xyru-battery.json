@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xyru battery", "description": "...", "size": 1, "health": 224, "requirements": [{"item": "xyru", "amount": 4}, {"item": "jubuxa", "amount": 3}, {"item": "wuqosenium", "amount": 4}], "research": "xyru-factory", "consumes": {"powerBuffered": 1963}, "category": "power"}

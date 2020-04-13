@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gadocy inverted sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "gadocy", "amount": 1}, {"item": "koge", "amount": 2}], "research": "gadocy-conveyor", "category": "distribution", "invert": true}

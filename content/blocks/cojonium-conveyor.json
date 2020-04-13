@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "cojonium conveyor", "description": "...", "health": 31, "requirements": [{"item": "cojonium", "amount": 9}, {"item": "bosuvynium", "amount": 7}], "speed": 0.19683978051487055, "research": "cojonium-factory", "category": "distribution"}

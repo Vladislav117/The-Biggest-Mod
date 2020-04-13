@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lymo inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "lymo", "amount": 1}, {"item": "byfa", "amount": 5}], "research": "lymo-conveyor", "category": "distribution", "invert": true}

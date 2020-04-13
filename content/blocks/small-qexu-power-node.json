@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qexu power node", "description": "...", "size": 1, "health": 376, "requirements": [{"item": "qexu", "amount": 18}, {"item": "pominium", "amount": 20}, {"item": "havano", "amount": 9}], "research": "qexu-factory", "maxNodes": 20, "laserRange": 9, "category": "power"}

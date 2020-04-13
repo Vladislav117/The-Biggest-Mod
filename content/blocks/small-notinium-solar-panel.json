@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small notinium solar panel", "description": "...", "size": 1, "health": 387, "requirements": [{"item": "notinium", "amount": 16}, {"item": "vuka", "amount": 4}, {"item": "tokote", "amount": 9}], "research": "notinium-factory", "powerProduction": 6.221989369036055, "category": "power"}

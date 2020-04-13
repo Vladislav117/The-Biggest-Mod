@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fasaze battery", "description": "...", "size": 1, "health": 168, "requirements": [{"item": "fasaze", "amount": 18}, {"item": "hoqego", "amount": 13}, {"item": "puwasy", "amount": 10}], "research": "fasaze-factory", "consumes": {"powerBuffered": 2573}, "category": "power"}

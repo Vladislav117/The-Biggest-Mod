@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lequ underflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "lequ", "amount": 5}, {"item": "diwi", "amount": 5}], "research": "lequ-conveyor", "category": "distribution", "invert": false}

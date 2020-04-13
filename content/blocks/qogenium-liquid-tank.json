@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qogenium liquid tank", "description": "...", "health": 619, "size": 3, "requirements": [{"item": "qogenium", "amount": 17}, {"item": "foze", "amount": 19}, {"item": "pijito", "amount": 6}], "research": "qogenium-conduit", "category": "liquid", "liquidCapacity": 73577, "hasLiquids": true}

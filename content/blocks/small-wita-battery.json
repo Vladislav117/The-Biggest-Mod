@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wita battery", "description": "...", "size": 1, "health": 239, "requirements": [{"item": "wita", "amount": 19}, {"item": "mumu", "amount": 9}, {"item": "lisaca", "amount": 7}], "research": "wita-factory", "consumes": {"powerBuffered": 2538}, "category": "power"}

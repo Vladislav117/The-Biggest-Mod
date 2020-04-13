@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cidenium underflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "cidenium", "amount": 1}, {"item": "ceyi", "amount": 4}], "research": "cidenium-conveyor", "category": "distribution", "invert": false}

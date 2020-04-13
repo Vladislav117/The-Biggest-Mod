@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rahu solar panel", "description": "...", "size": 3, "health": 149, "requirements": [{"item": "rahu", "amount": 8}, {"item": "loqy", "amount": 14}, {"item": "sytu", "amount": 9}], "research": "rahu-factory", "powerProduction": 0.1045844756487332, "category": "power"}

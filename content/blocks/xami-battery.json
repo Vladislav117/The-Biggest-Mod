@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xami battery", "description": "...", "size": 3, "health": 348, "requirements": [{"item": "xami", "amount": 18}, {"item": "tanexo", "amount": 9}, {"item": "beronium", "amount": 8}], "research": "xami-factory", "consumes": {"powerBuffered": 7532}, "category": "power"}

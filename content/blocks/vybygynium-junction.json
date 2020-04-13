@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vybygynium junction", "description": "...", "health": 26, "speed": 11, "capacity": 1, "size": 1, "requirements": [{"item": "vybygynium", "amount": 5}, {"item": "xipyvu", "amount": 5}], "research": "vybygynium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cetonium inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "cetonium", "amount": 1}, {"item": "neby", "amount": 3}], "research": "cetonium-conveyor", "category": "distribution", "invert": true}

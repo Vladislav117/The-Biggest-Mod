@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "piqurynium power node", "description": "...", "size": 2, "health": 767, "requirements": [{"item": "piqurynium", "amount": 11}, {"item": "xiqe", "amount": 6}, {"item": "hycywi", "amount": 8}], "research": "piqurynium-factory", "maxNodes": 44, "laserRange": 12, "category": "power"}

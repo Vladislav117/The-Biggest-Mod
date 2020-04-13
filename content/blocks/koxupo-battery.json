@@ -1,0 +1,1 @@
+{"type": "battery", "name": "koxupo battery", "description": "...", "size": 3, "health": 285, "requirements": [{"item": "koxupo", "amount": 17}, {"item": "kegegynium", "amount": 18}, {"item": "ryjy", "amount": 9}], "research": "koxupo-factory", "consumes": {"powerBuffered": 9816}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qytama power node", "description": "...", "size": 2, "health": 457, "requirements": [{"item": "qytama", "amount": 11}, {"item": "deyy", "amount": 9}, {"item": "xuzy", "amount": 7}], "research": "qytama-factory", "maxNodes": 53, "laserRange": 25, "category": "power"}

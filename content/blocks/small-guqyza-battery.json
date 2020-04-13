@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small guqyza battery", "description": "...", "size": 1, "health": 217, "requirements": [{"item": "guqyza", "amount": 19}, {"item": "migube", "amount": 11}, {"item": "gohi", "amount": 5}], "research": "guqyza-factory", "consumes": {"powerBuffered": 2304}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zibe battery", "description": "...", "size": 1, "health": 130, "requirements": [{"item": "zibe", "amount": 19}, {"item": "dutenium", "amount": 20}, {"item": "heso", "amount": 9}], "research": "zibe-factory", "consumes": {"powerBuffered": 2676}, "category": "power"}

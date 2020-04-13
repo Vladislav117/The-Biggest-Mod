@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nihu junction", "description": "...", "health": 16, "speed": 20, "capacity": 7, "size": 1, "requirements": [{"item": "nihu", "amount": 5}, {"item": "pyxoxanium", "amount": 4}], "research": "nihu-conveyor", "category": "distribution"}

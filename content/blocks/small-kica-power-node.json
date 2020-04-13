@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kica power node", "description": "...", "size": 1, "health": 353, "requirements": [{"item": "kica", "amount": 7}, {"item": "vywene", "amount": 13}, {"item": "tugu", "amount": 2}], "research": "kica-factory", "maxNodes": 29, "laserRange": 25, "category": "power"}

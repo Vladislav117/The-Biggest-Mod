@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "negi liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "negi", "amount": 18}, {"item": "foqe", "amount": 10}, {"item": "copper", "amount": 4}], "research": "negi-conduit", "liquidCapacity": 10, "category": "liquid"}

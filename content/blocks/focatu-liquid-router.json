@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "focatu liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "focatu", "amount": 9}, {"item": "myvava", "amount": 2}, {"item": "hewunium", "amount": 10}], "research": "focatu-conduit", "liquidCapacity": 10, "category": "liquid"}

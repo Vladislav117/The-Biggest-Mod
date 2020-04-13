@@ -1,0 +1,1 @@
+{"type": "battery", "name": "byrejenium battery", "description": "...", "size": 3, "health": 12, "requirements": [{"item": "byrejenium", "amount": 2}, {"item": "patyco", "amount": 20}, {"item": "xogo", "amount": 8}], "research": "byrejenium-factory", "consumes": {"powerBuffered": 1019}, "category": "power"}

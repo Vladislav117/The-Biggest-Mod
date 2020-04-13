@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zufy battery", "description": "...", "size": 1, "health": 345, "requirements": [{"item": "zufy", "amount": 20}, {"item": "hytitenium", "amount": 19}, {"item": "yobabynium", "amount": 1}], "research": "zufy-factory", "consumes": {"powerBuffered": 1924}, "category": "power"}

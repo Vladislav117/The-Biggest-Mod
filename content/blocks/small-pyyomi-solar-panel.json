@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pyyomi solar panel", "description": "...", "size": 1, "health": 157, "requirements": [{"item": "pyyomi", "amount": 16}, {"item": "cutecanium", "amount": 15}, {"item": "yeku", "amount": 4}], "research": "pyyomi-factory", "powerProduction": 0.5216704815808485, "category": "power"}

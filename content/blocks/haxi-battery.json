@@ -1,0 +1,1 @@
+{"type": "battery", "name": "haxi battery", "description": "...", "size": 3, "health": 332, "requirements": [{"item": "haxi", "amount": 7}, {"item": "pigagunium", "amount": 3}, {"item": "nejesu", "amount": 10}], "research": "haxi-factory", "consumes": {"powerBuffered": 3982}, "category": "power"}

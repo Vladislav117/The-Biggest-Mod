@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nedihenium power node", "description": "...", "size": 1, "health": 357, "requirements": [{"item": "nedihenium", "amount": 4}, {"item": "vayy", "amount": 9}, {"item": "voya", "amount": 9}], "research": "nedihenium-factory", "maxNodes": 25, "laserRange": 8, "category": "power"}

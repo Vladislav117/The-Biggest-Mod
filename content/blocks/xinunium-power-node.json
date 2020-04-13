@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xinunium power node", "description": "...", "size": 2, "health": 256, "requirements": [{"item": "xinunium", "amount": 14}, {"item": "biye", "amount": 6}, {"item": "zobopanium", "amount": 6}], "research": "xinunium-factory", "maxNodes": 20, "laserRange": 29, "category": "power"}

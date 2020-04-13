@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gayika battery", "description": "...", "size": 3, "health": 360, "requirements": [{"item": "gayika", "amount": 13}, {"item": "vewi", "amount": 11}, {"item": "zesaqy", "amount": 2}], "research": "gayika-factory", "consumes": {"powerBuffered": 5472}, "category": "power"}

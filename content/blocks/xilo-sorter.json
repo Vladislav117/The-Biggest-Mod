@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xilo sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "xilo", "amount": 1}, {"item": "pify", "amount": 2}], "research": "xilo-conveyor", "category": "distribution", "invert": false}

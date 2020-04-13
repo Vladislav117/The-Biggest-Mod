@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nyry battery", "description": "...", "size": 3, "health": 288, "requirements": [{"item": "nyry", "amount": 18}, {"item": "xuzukinium", "amount": 5}, {"item": "woce", "amount": 10}], "research": "nyry-factory", "consumes": {"powerBuffered": 5032}, "category": "power"}

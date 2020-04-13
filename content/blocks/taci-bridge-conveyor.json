@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "taci bridge conveyor", "description": "", "health": 20, "range": 5, "speed": 17, "bufferCapacity": 21, "requirements": [{"item": "taci", "amount": 1}, {"item": "yiwonium", "amount": 3}], "research": "taci-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "pucy overdrive projector", "description": "...", "health": 91, "consumes": {"power": 3.0, "item": "pucy"}, "size": 2, "requirements": [{"item": "pucy", "amount": 4}, {"item": "zosy", "amount": 18}, {"item": "hivesy", "amount": 6}], "research": "pucy-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kiva power node", "description": "...", "size": 2, "health": 63, "requirements": [{"item": "kiva", "amount": 20}, {"item": "tuqe", "amount": 5}, {"item": "kabovonium", "amount": 3}], "research": "kiva-factory", "maxNodes": 15, "laserRange": 29, "category": "power"}

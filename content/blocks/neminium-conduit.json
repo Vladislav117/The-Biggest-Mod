@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "neminium conduit", "description": "...", "health": 100, "requirements": [{"item": "neminium", "amount": 6}, {"item": "qujuyi", "amount": 1}, {"item": "zehonium", "amount": 1}], "liquidCapacity": 1, "liquidPressure": 3, "research": "neminium-factory", "category": "liquid"}

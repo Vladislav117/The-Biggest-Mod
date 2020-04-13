@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rydynium overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "rydynium", "amount": 5}, {"item": "sawy", "amount": 1}], "research": "rydynium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "syhisonium solar panel", "description": "...", "size": 3, "health": 256, "requirements": [{"item": "syhisonium", "amount": 14}, {"item": "sebeki", "amount": 8}, {"item": "padopu", "amount": 8}], "research": "syhisonium-factory", "powerProduction": 2.8270454531376075, "category": "power"}

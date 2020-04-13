@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qaxi drill", "description": "...", "size": 3, "health": 391, "tier": 3, "drillTime": 9, "consumes": {"power": 12}, "requirements": [{"item": "qaxi", "amount": 2}, {"item": "yyludunium", "amount": 20}, {"item": "zuwabo", "amount": 6}], "research": "qaxi-factory", "category": "production"}

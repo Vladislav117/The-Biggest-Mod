@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "waje bridge conveyor", "description": "", "health": 44, "range": 6, "speed": 17, "bufferCapacity": 12, "requirements": [{"item": "waje", "amount": 3}, {"item": "garyda", "amount": 5}], "research": "waje-conveyor", "category": "distribution", "size": 1}

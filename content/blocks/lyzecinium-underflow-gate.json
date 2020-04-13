@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lyzecinium underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "lyzecinium", "amount": 3}, {"item": "qaho", "amount": 1}], "research": "lyzecinium-conveyor", "category": "distribution", "invert": false}

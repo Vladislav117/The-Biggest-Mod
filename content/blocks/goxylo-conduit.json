@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "goxylo conduit", "description": "...", "health": 181, "requirements": [{"item": "goxylo", "amount": 17}, {"item": "sukanium", "amount": 8}, {"item": "nifenium", "amount": 7}], "liquidCapacity": 32, "liquidPressure": 2, "research": "goxylo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "riwi conduit", "description": "...", "health": 97, "requirements": [{"item": "riwi", "amount": 15}, {"item": "fyhuxonium", "amount": 14}, {"item": "gurikinium", "amount": 8}], "liquidCapacity": 12, "liquidPressure": 2, "research": "riwi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rigoyo battery", "description": "...", "size": 3, "health": 120, "requirements": [{"item": "rigoyo", "amount": 20}, {"item": "byja", "amount": 13}, {"item": "zele", "amount": 7}], "research": "rigoyo-factory", "consumes": {"powerBuffered": 5215}, "category": "power"}

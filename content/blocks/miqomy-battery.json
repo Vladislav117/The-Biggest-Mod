@@ -1,0 +1,1 @@
+{"type": "battery", "name": "miqomy battery", "description": "...", "size": 3, "health": 356, "requirements": [{"item": "miqomy", "amount": 17}, {"item": "vove", "amount": 1}, {"item": "yydy", "amount": 10}], "research": "miqomy-factory", "consumes": {"powerBuffered": 9732}, "category": "power"}

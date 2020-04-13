@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tole liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "tole", "amount": 19}, {"item": "suminium", "amount": 8}, {"item": "coka", "amount": 8}], "research": "tole-conduit", "liquidCapacity": 10, "category": "liquid"}

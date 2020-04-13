@@ -1,0 +1,1 @@
+{"type": "battery", "name": "goyinium battery", "description": "...", "size": 3, "health": 207, "requirements": [{"item": "goyinium", "amount": 6}, {"item": "mityya", "amount": 2}, {"item": "kuyome", "amount": 10}], "research": "goyinium-factory", "consumes": {"powerBuffered": 3875}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hikuda power node", "description": "...", "size": 1, "health": 281, "requirements": [{"item": "hikuda", "amount": 17}, {"item": "daqy", "amount": 12}, {"item": "yape", "amount": 9}], "research": "hikuda-factory", "maxNodes": 9, "laserRange": 17, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vatohunium solar panel", "description": "...", "size": 3, "health": 229, "requirements": [{"item": "vatohunium", "amount": 6}, {"item": "miyoqu", "amount": 6}, {"item": "liqunium", "amount": 2}], "research": "vatohunium-factory", "powerProduction": 0.4338542508316265, "category": "power"}

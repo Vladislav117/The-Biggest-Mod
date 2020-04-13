@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "niby liquid tank", "description": "...", "health": 185, "size": 3, "requirements": [{"item": "niby", "amount": 20}, {"item": "kosizi", "amount": 15}, {"item": "cywa", "amount": 4}], "research": "niby-conduit", "category": "liquid", "liquidCapacity": 87211, "hasLiquids": true}

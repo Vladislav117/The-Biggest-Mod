@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cazefu liquid tank", "description": "...", "health": 294, "size": 3, "requirements": [{"item": "cazefu", "amount": 6}, {"item": "dagepanium", "amount": 18}, {"item": "julynium", "amount": 2}], "research": "cazefu-conduit", "category": "liquid", "liquidCapacity": 8946, "hasLiquids": true}

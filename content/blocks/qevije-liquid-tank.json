@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qevije liquid tank", "description": "...", "health": 590, "size": 3, "requirements": [{"item": "qevije", "amount": 10}, {"item": "nepysi", "amount": 20}, {"item": "suminium", "amount": 8}], "research": "qevije-conduit", "category": "liquid", "liquidCapacity": 103871, "hasLiquids": true}

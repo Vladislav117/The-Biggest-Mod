@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "befa bridge conveyor", "description": "", "health": 14, "range": 19, "speed": 20, "bufferCapacity": 2, "requirements": [{"item": "befa", "amount": 2}, {"item": "hulanium", "amount": 3}], "research": "befa-conveyor", "category": "distribution", "size": 1}

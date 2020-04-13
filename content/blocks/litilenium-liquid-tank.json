@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "litilenium liquid tank", "description": "...", "health": 647, "size": 3, "requirements": [{"item": "litilenium", "amount": 5}, {"item": "zexinium", "amount": 16}, {"item": "taja", "amount": 9}], "research": "litilenium-conduit", "category": "liquid", "liquidCapacity": 67331, "hasLiquids": true}

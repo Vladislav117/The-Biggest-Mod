@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hoxy junction", "description": "...", "health": 45, "speed": 13, "capacity": 12, "size": 1, "requirements": [{"item": "hoxy", "amount": 2}, {"item": "qexata", "amount": 1}], "research": "hoxy-conveyor", "category": "distribution"}

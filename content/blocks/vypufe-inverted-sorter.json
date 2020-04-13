@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vypufe inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "vypufe", "amount": 1}, {"item": "byfa", "amount": 4}], "research": "vypufe-conveyor", "category": "distribution", "invert": true}

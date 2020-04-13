@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kobocunium underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "kobocunium", "amount": 3}, {"item": "weva", "amount": 1}], "research": "kobocunium-conveyor", "category": "distribution", "invert": false}

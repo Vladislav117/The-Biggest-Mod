@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cihihenium overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "cihihenium", "amount": 1}, {"item": "wediyu", "amount": 5}], "research": "cihihenium-conveyor", "category": "distribution", "invert": false}

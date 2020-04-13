@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vybuzu liquid tank", "description": "...", "health": 560, "size": 3, "requirements": [{"item": "vybuzu", "amount": 10}, {"item": "xeponium", "amount": 20}, {"item": "xyge", "amount": 1}], "research": "vybuzu-conduit", "category": "liquid", "liquidCapacity": 44421, "hasLiquids": true}

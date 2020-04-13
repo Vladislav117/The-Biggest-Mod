@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mafihy solar panel", "description": "...", "size": 3, "health": 181, "requirements": [{"item": "mafihy", "amount": 8}, {"item": "donysenium", "amount": 14}, {"item": "vove", "amount": 3}], "research": "mafihy-factory", "powerProduction": 1.171021670264025, "category": "power"}

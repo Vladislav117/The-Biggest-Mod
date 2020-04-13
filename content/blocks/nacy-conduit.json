@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nacy conduit", "description": "...", "health": 155, "requirements": [{"item": "nacy", "amount": 16}, {"item": "cyjonium", "amount": 2}, {"item": "hofaju", "amount": 9}], "liquidCapacity": 23, "liquidPressure": 5, "research": "nacy-factory", "category": "liquid"}

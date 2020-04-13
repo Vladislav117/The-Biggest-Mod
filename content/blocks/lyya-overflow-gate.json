@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lyya overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "lyya", "amount": 1}, {"item": "zazinium", "amount": 5}], "research": "lyya-conveyor", "category": "distribution", "invert": false}

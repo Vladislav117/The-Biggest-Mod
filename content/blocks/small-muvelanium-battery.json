@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small muvelanium battery", "description": "...", "size": 1, "health": 250, "requirements": [{"item": "muvelanium", "amount": 16}, {"item": "sygami", "amount": 17}, {"item": "gawazy", "amount": 9}], "research": "muvelanium-factory", "consumes": {"powerBuffered": 674}, "category": "power"}

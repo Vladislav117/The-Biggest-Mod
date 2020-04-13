@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hiwenium drill", "description": "...", "size": 3, "health": 217, "tier": 4, "drillTime": 18, "consumes": {"power": 7}, "requirements": [{"item": "hiwenium", "amount": 2}, {"item": "giha", "amount": 4}, {"item": "rymojanium", "amount": 8}], "research": "hiwenium-factory", "category": "production"}

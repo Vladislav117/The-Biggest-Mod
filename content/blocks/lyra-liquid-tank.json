@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lyra liquid tank", "description": "...", "health": 472, "size": 3, "requirements": [{"item": "lyra", "amount": 18}, {"item": "xeye", "amount": 6}, {"item": "pyto", "amount": 3}], "research": "lyra-conduit", "category": "liquid", "liquidCapacity": 8184, "hasLiquids": true}

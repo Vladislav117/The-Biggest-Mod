@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dowa inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "dowa", "amount": 1}, {"item": "gyzuju", "amount": 1}], "research": "dowa-conveyor", "category": "distribution", "invert": true}

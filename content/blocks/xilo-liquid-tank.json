@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xilo liquid tank", "description": "...", "health": 347, "size": 3, "requirements": [{"item": "xilo", "amount": 15}, {"item": "nogocynium", "amount": 1}, {"item": "tufi", "amount": 2}], "research": "xilo-conduit", "category": "liquid", "liquidCapacity": 106448, "hasLiquids": true}

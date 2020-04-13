@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yyba inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "yyba", "amount": 5}, {"item": "hagunium", "amount": 1}], "research": "yyba-conveyor", "category": "distribution", "invert": true}

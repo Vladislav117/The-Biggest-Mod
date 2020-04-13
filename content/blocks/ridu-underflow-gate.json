@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ridu underflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "ridu", "amount": 1}, {"item": "sore", "amount": 4}], "research": "ridu-conveyor", "category": "distribution", "invert": false}

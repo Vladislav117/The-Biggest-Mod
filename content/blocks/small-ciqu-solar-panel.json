@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ciqu solar panel", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "ciqu", "amount": 5}, {"item": "simiwi", "amount": 7}, {"item": "hogo", "amount": 4}], "research": "ciqu-factory", "powerProduction": 4.107643413664446, "category": "power"}

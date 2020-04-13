@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nahigo sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "nahigo", "amount": 1}, {"item": "yicejanium", "amount": 1}], "research": "nahigo-conveyor", "category": "distribution", "invert": false}

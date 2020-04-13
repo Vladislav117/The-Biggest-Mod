@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dunesy conduit", "description": "...", "health": 139, "requirements": [{"item": "dunesy", "amount": 12}, {"item": "ketanium", "amount": 4}, {"item": "zumyze", "amount": 9}], "liquidCapacity": 2, "liquidPressure": 5, "research": "dunesy-factory", "category": "liquid"}

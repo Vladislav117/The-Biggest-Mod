@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "numuwanium liquid tank", "description": "...", "health": 224, "size": 3, "requirements": [{"item": "numuwanium", "amount": 1}, {"item": "xudujy", "amount": 19}, {"item": "pele", "amount": 9}], "research": "numuwanium-conduit", "category": "liquid", "liquidCapacity": 53842, "hasLiquids": true}

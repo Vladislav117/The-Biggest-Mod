@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qotile solar panel", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "qotile", "amount": 18}, {"item": "xyneyynium", "amount": 16}, {"item": "noqewy", "amount": 3}], "research": "qotile-factory", "powerProduction": 0.8249925316320014, "category": "power"}

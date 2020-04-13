@@ -1,0 +1,1 @@
+{"type": "battery", "name": "julu battery", "description": "...", "size": 3, "health": 301, "requirements": [{"item": "julu", "amount": 5}, {"item": "nohi", "amount": 9}, {"item": "xuve", "amount": 8}], "research": "julu-factory", "consumes": {"powerBuffered": 5406}, "category": "power"}

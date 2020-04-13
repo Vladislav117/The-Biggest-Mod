@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pobeqi battery", "description": "...", "size": 3, "health": 29, "requirements": [{"item": "pobeqi", "amount": 3}, {"item": "yyko", "amount": 1}, {"item": "dipyfonium", "amount": 9}], "research": "pobeqi-factory", "consumes": {"powerBuffered": 2401}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yedyte power node", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "yedyte", "amount": 12}, {"item": "kyna", "amount": 7}, {"item": "lyheti", "amount": 8}], "research": "yedyte-factory", "maxNodes": 3, "laserRange": 12, "category": "power"}

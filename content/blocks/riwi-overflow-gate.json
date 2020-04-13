@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "riwi overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "riwi", "amount": 5}, {"item": "tygoqa", "amount": 2}], "research": "riwi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qayanium drill", "description": "...", "size": 2, "health": 395, "tier": 1, "drillTime": 11, "consumes": {"power": 18}, "requirements": [{"item": "qayanium", "amount": 19}, {"item": "wiba", "amount": 9}, {"item": "cudo", "amount": 1}], "research": "qayanium-factory", "category": "production"}

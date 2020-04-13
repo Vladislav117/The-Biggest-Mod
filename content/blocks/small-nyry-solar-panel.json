@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nyry solar panel", "description": "...", "size": 1, "health": 161, "requirements": [{"item": "nyry", "amount": 4}, {"item": "puziqo", "amount": 10}, {"item": "qudeya", "amount": 1}], "research": "nyry-factory", "powerProduction": 0.43948777786108967, "category": "power"}

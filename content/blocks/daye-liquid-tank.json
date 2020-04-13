@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "daye liquid tank", "description": "...", "health": 252, "size": 3, "requirements": [{"item": "daye", "amount": 17}, {"item": "wareginium", "amount": 10}, {"item": "vigyqinium", "amount": 3}], "research": "daye-conduit", "category": "liquid", "liquidCapacity": 34851, "hasLiquids": true}

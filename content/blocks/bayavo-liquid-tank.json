@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bayavo liquid tank", "description": "...", "health": 278, "size": 3, "requirements": [{"item": "bayavo", "amount": 18}, {"item": "tifi", "amount": 9}, {"item": "genane", "amount": 8}], "research": "bayavo-conduit", "category": "liquid", "liquidCapacity": 27280, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hago battery", "description": "...", "size": 3, "health": 349, "requirements": [{"item": "hago", "amount": 5}, {"item": "fimi", "amount": 18}, {"item": "fytuve", "amount": 4}], "research": "hago-factory", "consumes": {"powerBuffered": 9030}, "category": "power"}

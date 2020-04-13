@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hekika inverted sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "hekika", "amount": 5}, {"item": "bamubu", "amount": 3}], "research": "hekika-conveyor", "category": "distribution", "invert": true}

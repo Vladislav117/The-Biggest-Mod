@@ -1,0 +1,1 @@
+{"type": "junction", "name": "layyzynium junction", "description": "...", "health": 24, "speed": 12, "capacity": 2, "size": 1, "requirements": [{"item": "layyzynium", "amount": 4}, {"item": "vego", "amount": 3}], "research": "layyzynium-conveyor", "category": "distribution"}

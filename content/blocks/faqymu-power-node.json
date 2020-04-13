@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "faqymu power node", "description": "...", "size": 2, "health": 654, "requirements": [{"item": "faqymu", "amount": 4}, {"item": "copper", "amount": 1}, {"item": "graphite", "amount": 3}], "research": "faqymu-factory", "maxNodes": 45, "laserRange": 22, "category": "power"}

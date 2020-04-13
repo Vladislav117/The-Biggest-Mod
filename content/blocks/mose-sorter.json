@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mose sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "mose", "amount": 1}, {"item": "wutize", "amount": 5}], "research": "mose-conveyor", "category": "distribution", "invert": false}

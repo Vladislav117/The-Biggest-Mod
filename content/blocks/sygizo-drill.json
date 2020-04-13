@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sygizo drill", "description": "...", "size": 4, "health": 355, "tier": 2, "drillTime": 17, "consumes": {"power": 20}, "requirements": [{"item": "sygizo", "amount": 4}, {"item": "geguqi", "amount": 4}, {"item": "dyzinium", "amount": 5}], "research": "sygizo-factory", "category": "production"}

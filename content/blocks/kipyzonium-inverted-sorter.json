@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kipyzonium inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "kipyzonium", "amount": 3}, {"item": "joky", "amount": 3}], "research": "kipyzonium-conveyor", "category": "distribution", "invert": true}

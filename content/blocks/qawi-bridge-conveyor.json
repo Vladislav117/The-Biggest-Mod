@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qawi bridge conveyor", "description": "", "health": 30, "range": 1, "speed": 17, "bufferCapacity": 7, "requirements": [{"item": "qawi", "amount": 5}, {"item": "gotomy", "amount": 3}], "research": "qawi-conveyor", "category": "distribution", "size": 1}

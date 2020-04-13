@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gemoco solar panel", "description": "...", "size": 3, "health": 70, "requirements": [{"item": "gemoco", "amount": 19}, {"item": "jiginium", "amount": 14}, {"item": "runohy", "amount": 3}], "research": "gemoco-factory", "powerProduction": 2.7376251680293424, "category": "power"}

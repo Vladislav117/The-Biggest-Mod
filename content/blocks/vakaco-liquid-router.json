@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vakaco liquid router", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "vakaco", "amount": 9}, {"item": "padopu", "amount": 8}, {"item": "jepumi", "amount": 8}], "research": "vakaco-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "puhide overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "puhide", "amount": 2}, {"item": "rawywa", "amount": 2}], "research": "puhide-conveyor", "category": "distribution", "invert": false}

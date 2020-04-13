@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "linu conduit", "description": "...", "health": 49, "requirements": [{"item": "linu", "amount": 5}, {"item": "kelurynium", "amount": 8}, {"item": "geke", "amount": 1}], "liquidCapacity": 13, "liquidPressure": 8, "research": "linu-factory", "category": "liquid"}

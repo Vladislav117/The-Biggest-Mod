@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vine bridge conveyor", "description": "", "health": 43, "range": 16, "speed": 20, "bufferCapacity": 8, "requirements": [{"item": "vine", "amount": 5}, {"item": "pajaka", "amount": 4}], "research": "vine-conveyor", "category": "distribution", "size": 1}

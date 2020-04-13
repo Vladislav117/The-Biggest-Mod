@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "sylupa force projector", "description": "...", "health": 205, "size": 3, "consumes": {"power": 5.0, "item": "sylupa"}, "requirements": [{"item": "sylupa", "amount": 15}, {"item": "lyna", "amount": 2}, {"item": "bulanium", "amount": 5}], "research": "sylupa-factory", "category": "effect"}

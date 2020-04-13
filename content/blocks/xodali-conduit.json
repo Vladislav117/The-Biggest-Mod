@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xodali conduit", "description": "...", "health": 125, "requirements": [{"item": "xodali", "amount": 1}, {"item": "covikinium", "amount": 14}, {"item": "yicejanium", "amount": 9}], "liquidCapacity": 48, "liquidPressure": 8, "research": "xodali-factory", "category": "liquid"}

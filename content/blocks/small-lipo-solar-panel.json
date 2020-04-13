@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lipo solar panel", "description": "...", "size": 1, "health": 170, "requirements": [{"item": "lipo", "amount": 3}, {"item": "kosonium", "amount": 13}, {"item": "depyya", "amount": 8}], "research": "lipo-factory", "powerProduction": 2.824560387229808, "category": "power"}

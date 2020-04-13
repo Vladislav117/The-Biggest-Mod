@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "poxy drill", "description": "...", "size": 2, "health": 250, "tier": 4, "drillTime": 4, "consumes": {"power": 17}, "requirements": [{"item": "poxy", "amount": 20}, {"item": "symeca", "amount": 20}, {"item": "jazu", "amount": 9}], "research": "poxy-factory", "category": "production"}

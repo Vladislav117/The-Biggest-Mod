@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small reno solar panel", "description": "...", "size": 1, "health": 255, "requirements": [{"item": "reno", "amount": 18}, {"item": "qiposa", "amount": 11}, {"item": "bulile", "amount": 5}], "research": "reno-factory", "powerProduction": 1.622672612422161, "category": "power"}

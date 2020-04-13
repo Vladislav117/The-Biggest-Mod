@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cenu bridge conveyor", "description": "", "health": 38, "range": 16, "speed": 8, "bufferCapacity": 16, "requirements": [{"item": "cenu", "amount": 1}, {"item": "siceku", "amount": 1}], "research": "cenu-conveyor", "category": "distribution", "size": 1}

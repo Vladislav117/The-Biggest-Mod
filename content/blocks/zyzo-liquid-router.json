@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zyzo liquid router", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "zyzo", "amount": 4}, {"item": "sixo", "amount": 1}, {"item": "luvonium", "amount": 6}], "research": "zyzo-conduit", "liquidCapacity": 10, "category": "liquid"}

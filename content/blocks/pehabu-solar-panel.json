@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pehabu solar panel", "description": "...", "size": 3, "health": 17, "requirements": [{"item": "pehabu", "amount": 20}, {"item": "lewanium", "amount": 6}, {"item": "tiqi", "amount": 8}], "research": "pehabu-factory", "powerProduction": 0.31467105018424346, "category": "power"}

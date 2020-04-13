@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "luluti overdrive projector", "description": "...", "health": 93, "consumes": {"power": 3.0, "item": "luluti"}, "size": 2, "requirements": [{"item": "luluti", "amount": 6}, {"item": "padi", "amount": 13}, {"item": "dyju", "amount": 8}], "research": "luluti-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tomanium solar panel", "description": "...", "size": 3, "health": 230, "requirements": [{"item": "tomanium", "amount": 19}, {"item": "yyti", "amount": 16}, {"item": "maqe", "amount": 1}], "research": "tomanium-factory", "powerProduction": 0.6012270413240236, "category": "power"}

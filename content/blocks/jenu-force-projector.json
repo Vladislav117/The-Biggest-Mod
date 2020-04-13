@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "jenu force projector", "description": "...", "health": 165, "size": 3, "consumes": {"power": 5.0, "item": "jenu"}, "requirements": [{"item": "jenu", "amount": 17}, {"item": "nilo", "amount": 3}, {"item": "qiposa", "amount": 7}], "research": "jenu-factory", "category": "effect"}

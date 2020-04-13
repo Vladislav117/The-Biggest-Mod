@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gabu liquid tank", "description": "...", "health": 275, "size": 3, "requirements": [{"item": "gabu", "amount": 5}, {"item": "neloto", "amount": 7}, {"item": "xyzeja", "amount": 8}], "research": "gabu-conduit", "category": "liquid", "liquidCapacity": 17577, "hasLiquids": true}

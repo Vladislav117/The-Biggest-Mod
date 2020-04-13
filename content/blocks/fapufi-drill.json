@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fapufi drill", "description": "...", "size": 3, "health": 223, "tier": 3, "drillTime": 8, "consumes": {"power": 4}, "requirements": [{"item": "fapufi", "amount": 18}, {"item": "diyajy", "amount": 2}, {"item": "zixysinium", "amount": 1}], "research": "fapufi-factory", "category": "production"}

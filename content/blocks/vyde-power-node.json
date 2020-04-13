@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vyde power node", "description": "...", "size": 2, "health": 750, "requirements": [{"item": "vyde", "amount": 1}, {"item": "qiquli", "amount": 11}, {"item": "dogo", "amount": 9}], "research": "vyde-factory", "maxNodes": 48, "laserRange": 23, "category": "power"}

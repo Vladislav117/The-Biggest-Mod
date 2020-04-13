@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gemoco battery", "description": "...", "size": 3, "health": 51, "requirements": [{"item": "gemoco", "amount": 17}, {"item": "puwasy", "amount": 13}, {"item": "baqe", "amount": 2}], "research": "gemoco-factory", "consumes": {"powerBuffered": 7030}, "category": "power"}

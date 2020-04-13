@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rymojanium solar panel", "description": "...", "size": 3, "health": 310, "requirements": [{"item": "rymojanium", "amount": 8}, {"item": "plastanium", "amount": 3}, {"item": "haqu", "amount": 7}], "research": "rymojanium-factory", "powerProduction": 3.5143504566319765, "category": "power"}

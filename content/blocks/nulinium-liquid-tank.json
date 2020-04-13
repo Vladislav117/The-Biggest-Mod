@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nulinium liquid tank", "description": "...", "health": 319, "size": 3, "requirements": [{"item": "nulinium", "amount": 8}, {"item": "hixu", "amount": 17}, {"item": "kura", "amount": 7}], "research": "nulinium-conduit", "category": "liquid", "liquidCapacity": 17729, "hasLiquids": true}

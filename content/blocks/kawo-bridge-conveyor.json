@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kawo bridge conveyor", "description": "", "health": 40, "range": 12, "speed": 17, "bufferCapacity": 15, "requirements": [{"item": "kawo", "amount": 4}, {"item": "giha", "amount": 4}], "research": "kawo-conveyor", "category": "distribution", "size": 1}

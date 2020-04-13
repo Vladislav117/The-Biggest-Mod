@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fisy bridge conveyor", "description": "", "health": 40, "range": 11, "speed": 4, "bufferCapacity": 21, "requirements": [{"item": "fisy", "amount": 1}, {"item": "vosenium", "amount": 4}], "research": "fisy-conveyor", "category": "distribution", "size": 1}

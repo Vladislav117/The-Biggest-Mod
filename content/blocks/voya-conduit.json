@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "voya conduit", "description": "...", "health": 114, "requirements": [{"item": "voya", "amount": 7}, {"item": "gizomanium", "amount": 14}, {"item": "hofa", "amount": 2}], "liquidCapacity": 42, "liquidPressure": 8, "research": "voya-factory", "category": "liquid"}

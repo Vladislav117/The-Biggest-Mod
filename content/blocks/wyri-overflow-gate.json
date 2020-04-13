@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wyri overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "wyri", "amount": 2}, {"item": "vapo", "amount": 2}], "research": "wyri-conveyor", "category": "distribution", "invert": false}

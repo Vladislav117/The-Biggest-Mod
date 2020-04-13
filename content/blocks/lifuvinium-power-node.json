@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lifuvinium power node", "description": "...", "size": 2, "health": 387, "requirements": [{"item": "lifuvinium", "amount": 14}, {"item": "lype", "amount": 15}, {"item": "lyru", "amount": 2}], "research": "lifuvinium-factory", "maxNodes": 42, "laserRange": 23, "category": "power"}

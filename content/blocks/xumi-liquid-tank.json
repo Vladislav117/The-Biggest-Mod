@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xumi liquid tank", "description": "...", "health": 403, "size": 3, "requirements": [{"item": "xumi", "amount": 11}, {"item": "fygunium", "amount": 1}, {"item": "wupa", "amount": 2}], "research": "xumi-conduit", "category": "liquid", "liquidCapacity": 1948, "hasLiquids": true}

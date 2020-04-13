@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "qiposa overdrive projector", "description": "...", "health": 86, "consumes": {"power": 3.0, "item": "qiposa"}, "size": 2, "requirements": [{"item": "qiposa", "amount": 14}, {"item": "kyqedu", "amount": 4}, {"item": "rajubanium", "amount": 10}], "research": "qiposa-factory", "category": "effect"}

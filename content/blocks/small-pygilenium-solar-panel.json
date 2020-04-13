@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pygilenium solar panel", "description": "...", "size": 1, "health": 263, "requirements": [{"item": "pygilenium", "amount": 13}, {"item": "motu", "amount": 7}, {"item": "pino", "amount": 9}], "research": "pygilenium-factory", "powerProduction": 4.7215938973097575, "category": "power"}

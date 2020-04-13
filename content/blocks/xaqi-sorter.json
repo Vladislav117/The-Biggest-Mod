@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xaqi sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "xaqi", "amount": 2}, {"item": "fimi", "amount": 1}], "research": "xaqi-conveyor", "category": "distribution", "invert": false}

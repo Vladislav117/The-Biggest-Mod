@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "beronium liquid tank", "description": "...", "health": 166, "size": 3, "requirements": [{"item": "beronium", "amount": 10}, {"item": "qowepa", "amount": 2}, {"item": "tuzy", "amount": 1}], "research": "beronium-conduit", "category": "liquid", "liquidCapacity": 118949, "hasLiquids": true}

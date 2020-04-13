@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "vate force projector", "description": "...", "health": 167, "size": 3, "consumes": {"power": 5.0, "item": "vate"}, "requirements": [{"item": "vate", "amount": 18}, {"item": "beniyi", "amount": 6}, {"item": "cozaxo", "amount": 7}], "research": "vate-factory", "category": "effect"}

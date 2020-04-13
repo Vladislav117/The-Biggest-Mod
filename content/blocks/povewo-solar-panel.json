@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "povewo solar panel", "description": "...", "size": 3, "health": 113, "requirements": [{"item": "povewo", "amount": 12}, {"item": "wupoxy", "amount": 9}, {"item": "povewo", "amount": 3}], "research": "povewo-factory", "powerProduction": 0.22072475475395242, "category": "power"}

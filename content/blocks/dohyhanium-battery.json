@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dohyhanium battery", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "dohyhanium", "amount": 18}, {"item": "wabi", "amount": 5}, {"item": "yama", "amount": 2}], "research": "dohyhanium-factory", "consumes": {"powerBuffered": 6089}, "category": "power"}

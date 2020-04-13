@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "miky liquid tank", "description": "...", "health": 298, "size": 3, "requirements": [{"item": "miky", "amount": 1}, {"item": "zycinium", "amount": 5}, {"item": "kyco", "amount": 5}], "research": "miky-conduit", "category": "liquid", "liquidCapacity": 97164, "hasLiquids": true}

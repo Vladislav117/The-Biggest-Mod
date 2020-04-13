@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hise battery", "description": "...", "size": 3, "health": 28, "requirements": [{"item": "hise", "amount": 7}, {"item": "qesinium", "amount": 17}, {"item": "kurecanium", "amount": 4}], "research": "hise-factory", "consumes": {"powerBuffered": 5013}, "category": "power"}

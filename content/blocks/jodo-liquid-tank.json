@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jodo liquid tank", "description": "...", "health": 125, "size": 3, "requirements": [{"item": "jodo", "amount": 16}, {"item": "vodico", "amount": 13}, {"item": "tewo", "amount": 8}], "research": "jodo-conduit", "category": "liquid", "liquidCapacity": 40762, "hasLiquids": true}

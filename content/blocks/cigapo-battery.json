@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cigapo battery", "description": "...", "size": 3, "health": 91, "requirements": [{"item": "cigapo", "amount": 11}, {"item": "yila", "amount": 16}, {"item": "fuyu", "amount": 5}], "research": "cigapo-factory", "consumes": {"powerBuffered": 9886}, "category": "power"}

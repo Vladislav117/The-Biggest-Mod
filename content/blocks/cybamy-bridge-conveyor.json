@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cybamy bridge conveyor", "description": "", "health": 17, "range": 9, "speed": 5, "bufferCapacity": 1, "requirements": [{"item": "cybamy", "amount": 4}, {"item": "ledome", "amount": 1}], "research": "cybamy-conveyor", "category": "distribution", "size": 1}

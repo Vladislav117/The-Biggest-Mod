@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tumewe junction", "description": "...", "health": 49, "speed": 7, "capacity": 6, "size": 1, "requirements": [{"item": "tumewe", "amount": 1}, {"item": "mada", "amount": 4}], "research": "tumewe-conveyor", "category": "distribution"}

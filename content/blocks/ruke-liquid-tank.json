@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ruke liquid tank", "description": "...", "health": 603, "size": 3, "requirements": [{"item": "ruke", "amount": 11}, {"item": "kohi", "amount": 16}, {"item": "lyjenium", "amount": 9}], "research": "ruke-conduit", "category": "liquid", "liquidCapacity": 90388, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "caqohanium liquid tank", "description": "...", "health": 175, "size": 3, "requirements": [{"item": "caqohanium", "amount": 20}, {"item": "fizi", "amount": 10}, {"item": "dune", "amount": 6}], "research": "caqohanium-conduit", "category": "liquid", "liquidCapacity": 4270, "hasLiquids": true}

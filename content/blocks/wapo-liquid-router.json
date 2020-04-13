@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wapo liquid router", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "wapo", "amount": 10}, {"item": "metaglass", "amount": 6}, {"item": "gotomy", "amount": 3}], "research": "wapo-conduit", "liquidCapacity": 10, "category": "liquid"}

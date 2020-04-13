@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cigifi liquid tank", "description": "...", "health": 352, "size": 3, "requirements": [{"item": "cigifi", "amount": 5}, {"item": "xekota", "amount": 2}, {"item": "miyoqu", "amount": 6}], "research": "cigifi-conduit", "category": "liquid", "liquidCapacity": 20669, "hasLiquids": true}

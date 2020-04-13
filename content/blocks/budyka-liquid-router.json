@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "budyka liquid router", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "budyka", "amount": 20}, {"item": "pupyku", "amount": 17}, {"item": "lebo", "amount": 1}], "research": "budyka-conduit", "liquidCapacity": 10, "category": "liquid"}

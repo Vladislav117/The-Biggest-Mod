@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vygu conduit", "description": "...", "health": 100, "requirements": [{"item": "vygu", "amount": 4}, {"item": "kilu", "amount": 3}, {"item": "rymojanium", "amount": 5}], "liquidCapacity": 33, "liquidPressure": 6, "research": "vygu-factory", "category": "liquid"}

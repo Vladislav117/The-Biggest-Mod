@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wevo liquid router", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "wevo", "amount": 6}, {"item": "yixa", "amount": 11}, {"item": "muqonium", "amount": 5}], "research": "wevo-conduit", "liquidCapacity": 10, "category": "liquid"}

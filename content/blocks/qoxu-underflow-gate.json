@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qoxu underflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "qoxu", "amount": 5}, {"item": "laxu", "amount": 3}], "research": "qoxu-conveyor", "category": "distribution", "invert": false}

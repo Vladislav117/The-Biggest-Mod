@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lojy battery", "description": "...", "size": 1, "health": 273, "requirements": [{"item": "lojy", "amount": 10}, {"item": "roxila", "amount": 7}, {"item": "ryni", "amount": 2}], "research": "lojy-factory", "consumes": {"powerBuffered": 1671}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tate power node", "description": "...", "size": 1, "health": 107, "requirements": [{"item": "tate", "amount": 6}, {"item": "xejo", "amount": 16}, {"item": "biwa", "amount": 1}], "research": "tate-factory", "maxNodes": 10, "laserRange": 14, "category": "power"}

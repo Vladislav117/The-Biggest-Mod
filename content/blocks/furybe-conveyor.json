@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "furybe conveyor", "description": "...", "health": 60, "requirements": [{"item": "furybe", "amount": 9}, {"item": "baboxi", "amount": 2}], "speed": 0.21309377665893708, "research": "furybe-factory", "category": "distribution"}

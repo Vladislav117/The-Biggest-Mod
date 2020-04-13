@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mibyzo bridge conveyor", "description": "", "health": 3, "range": 3, "speed": 2, "bufferCapacity": 25, "requirements": [{"item": "mibyzo", "amount": 5}, {"item": "wano", "amount": 3}], "research": "mibyzo-conveyor", "category": "distribution", "size": 1}

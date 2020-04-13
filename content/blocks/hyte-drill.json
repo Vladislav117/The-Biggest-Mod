@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hyte drill", "description": "...", "size": 3, "health": 114, "tier": 3, "drillTime": 20, "consumes": {"power": 3}, "requirements": [{"item": "hyte", "amount": 16}, {"item": "jaga", "amount": 18}, {"item": "teyigu", "amount": 7}], "research": "hyte-factory", "category": "production"}

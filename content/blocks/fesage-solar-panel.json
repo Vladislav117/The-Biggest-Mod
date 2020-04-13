@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fesage solar panel", "description": "...", "size": 3, "health": 137, "requirements": [{"item": "fesage", "amount": 11}, {"item": "nogi", "amount": 10}, {"item": "zocela", "amount": 1}], "research": "fesage-factory", "powerProduction": 0.0115291348546823, "category": "power"}

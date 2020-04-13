@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jege solar panel", "description": "...", "size": 1, "health": 13, "requirements": [{"item": "jege", "amount": 15}, {"item": "wiyeda", "amount": 6}, {"item": "tenelenium", "amount": 5}], "research": "jege-factory", "powerProduction": 0.4181735149772934, "category": "power"}

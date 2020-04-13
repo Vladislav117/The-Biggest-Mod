@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small myra solar panel", "description": "...", "size": 1, "health": 340, "requirements": [{"item": "myra", "amount": 6}, {"item": "kobocunium", "amount": 16}, {"item": "qimose", "amount": 2}], "research": "myra-factory", "powerProduction": 1.0075543863762717, "category": "power"}

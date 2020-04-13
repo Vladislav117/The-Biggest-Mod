@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lijanium battery", "description": "...", "size": 3, "health": 233, "requirements": [{"item": "lijanium", "amount": 15}, {"item": "duly", "amount": 17}, {"item": "vyjoti", "amount": 2}], "research": "lijanium-factory", "consumes": {"powerBuffered": 2703}, "category": "power"}

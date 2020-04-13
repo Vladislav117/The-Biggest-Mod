@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vapa power node", "description": "...", "size": 2, "health": 435, "requirements": [{"item": "vapa", "amount": 19}, {"item": "zugoni", "amount": 15}, {"item": "genane", "amount": 6}], "research": "vapa-factory", "maxNodes": 58, "laserRange": 9, "category": "power"}

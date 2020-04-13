@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bilupi power node", "description": "...", "size": 2, "health": 527, "requirements": [{"item": "bilupi", "amount": 4}, {"item": "degesy", "amount": 18}, {"item": "tufo", "amount": 5}], "research": "bilupi-factory", "maxNodes": 44, "laserRange": 22, "category": "power"}

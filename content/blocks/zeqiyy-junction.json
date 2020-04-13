@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zeqiyy junction", "description": "...", "health": 26, "speed": 11, "capacity": 2, "size": 1, "requirements": [{"item": "zeqiyy", "amount": 1}, {"item": "fezadunium", "amount": 4}], "research": "zeqiyy-conveyor", "category": "distribution"}

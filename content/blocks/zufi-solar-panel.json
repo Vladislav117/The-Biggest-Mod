@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zufi solar panel", "description": "...", "size": 3, "health": 345, "requirements": [{"item": "zufi", "amount": 4}, {"item": "siwobanium", "amount": 8}, {"item": "rovaqa", "amount": 5}], "research": "zufi-factory", "powerProduction": 0.07884854107915254, "category": "power"}

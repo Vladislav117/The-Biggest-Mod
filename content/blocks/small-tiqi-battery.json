@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tiqi battery", "description": "...", "size": 1, "health": 229, "requirements": [{"item": "tiqi", "amount": 12}, {"item": "dyzaxi", "amount": 14}, {"item": "pypy", "amount": 2}], "research": "tiqi-factory", "consumes": {"powerBuffered": 2805}, "category": "power"}

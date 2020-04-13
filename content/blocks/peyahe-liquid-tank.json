@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "peyahe liquid tank", "description": "...", "health": 508, "size": 3, "requirements": [{"item": "peyahe", "amount": 4}, {"item": "toqo", "amount": 16}, {"item": "pyqynium", "amount": 8}], "research": "peyahe-conduit", "category": "liquid", "liquidCapacity": 43536, "hasLiquids": true}

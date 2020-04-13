@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vepuge drill", "description": "...", "size": 3, "health": 364, "tier": 2, "drillTime": 19, "consumes": {"power": 3}, "requirements": [{"item": "vepuge", "amount": 7}, {"item": "cosizi", "amount": 8}, {"item": "kozivo", "amount": 2}], "research": "vepuge-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "towenium conduit", "description": "...", "health": 119, "requirements": [{"item": "towenium", "amount": 1}, {"item": "rale", "amount": 7}, {"item": "kujodo", "amount": 2}], "liquidCapacity": 19, "liquidPressure": 6, "research": "towenium-factory", "category": "liquid"}

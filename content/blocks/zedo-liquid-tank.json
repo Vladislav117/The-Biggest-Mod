@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zedo liquid tank", "description": "...", "health": 188, "size": 3, "requirements": [{"item": "zedo", "amount": 11}, {"item": "bajenium", "amount": 12}, {"item": "ryte", "amount": 6}], "research": "zedo-conduit", "category": "liquid", "liquidCapacity": 82919, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "diruji power node", "description": "...", "size": 2, "health": 355, "requirements": [{"item": "diruji", "amount": 17}, {"item": "fino", "amount": 7}, {"item": "byveta", "amount": 4}], "research": "diruji-factory", "maxNodes": 23, "laserRange": 27, "category": "power"}

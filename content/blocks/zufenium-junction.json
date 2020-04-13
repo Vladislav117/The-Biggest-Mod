@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zufenium junction", "description": "...", "health": 2, "speed": 18, "capacity": 13, "size": 1, "requirements": [{"item": "zufenium", "amount": 1}, {"item": "vywice", "amount": 1}], "research": "zufenium-conveyor", "category": "distribution"}

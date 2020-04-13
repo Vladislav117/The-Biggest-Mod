@@ -1,0 +1,1 @@
+{"type": "battery", "name": "syhisonium battery", "description": "...", "size": 3, "health": 389, "requirements": [{"item": "syhisonium", "amount": 14}, {"item": "rizu", "amount": 13}, {"item": "vykofa", "amount": 5}], "research": "syhisonium-factory", "consumes": {"powerBuffered": 8271}, "category": "power"}

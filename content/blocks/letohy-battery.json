@@ -1,0 +1,1 @@
+{"type": "battery", "name": "letohy battery", "description": "...", "size": 3, "health": 268, "requirements": [{"item": "letohy", "amount": 17}, {"item": "sovuqu", "amount": 16}, {"item": "yunu", "amount": 5}], "research": "letohy-factory", "consumes": {"powerBuffered": 3664}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zugoni drill", "description": "...", "size": 2, "health": 416, "tier": 3, "drillTime": 13, "consumes": {"power": 9}, "requirements": [{"item": "zugoni", "amount": 12}, {"item": "qulape", "amount": 6}, {"item": "zokacu", "amount": 10}], "research": "zugoni-factory", "category": "production"}

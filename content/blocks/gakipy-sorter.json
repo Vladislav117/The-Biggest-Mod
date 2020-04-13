@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gakipy sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "gakipy", "amount": 5}, {"item": "pufere", "amount": 3}], "research": "gakipy-conveyor", "category": "distribution", "invert": false}

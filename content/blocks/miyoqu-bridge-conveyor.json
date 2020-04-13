@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "miyoqu bridge conveyor", "description": "", "health": 39, "range": 20, "speed": 16, "bufferCapacity": 23, "requirements": [{"item": "miyoqu", "amount": 1}, {"item": "naronium", "amount": 3}], "research": "miyoqu-conveyor", "category": "distribution", "size": 1}

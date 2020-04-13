@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tasanium battery", "description": "...", "size": 3, "health": 263, "requirements": [{"item": "tasanium", "amount": 8}, {"item": "vakaco", "amount": 14}, {"item": "qigine", "amount": 3}], "research": "tasanium-factory", "consumes": {"powerBuffered": 2964}, "category": "power"}

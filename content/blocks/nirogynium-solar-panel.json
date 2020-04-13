@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nirogynium solar panel", "description": "...", "size": 3, "health": 228, "requirements": [{"item": "nirogynium", "amount": 5}, {"item": "mavi", "amount": 7}, {"item": "xavinium", "amount": 2}], "research": "nirogynium-factory", "powerProduction": 2.130606784561761, "category": "power"}

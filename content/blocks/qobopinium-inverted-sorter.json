@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qobopinium inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "qobopinium", "amount": 5}, {"item": "dojynium", "amount": 1}], "research": "qobopinium-conveyor", "category": "distribution", "invert": true}

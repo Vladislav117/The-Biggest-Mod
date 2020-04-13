@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zyluci sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "zyluci", "amount": 1}, {"item": "vevati", "amount": 5}], "research": "zyluci-conveyor", "category": "distribution", "invert": false}

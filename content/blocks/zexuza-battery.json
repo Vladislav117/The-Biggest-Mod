@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zexuza battery", "description": "...", "size": 3, "health": 287, "requirements": [{"item": "zexuza", "amount": 3}, {"item": "hofi", "amount": 14}, {"item": "rale", "amount": 4}], "research": "zexuza-factory", "consumes": {"powerBuffered": 2317}, "category": "power"}

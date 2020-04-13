@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fika power node", "description": "...", "size": 2, "health": 596, "requirements": [{"item": "fika", "amount": 19}, {"item": "zokacu", "amount": 18}, {"item": "buquza", "amount": 1}], "research": "fika-factory", "maxNodes": 20, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "weba overdrive projector", "description": "...", "health": 113, "consumes": {"power": 3.0, "item": "weba"}, "size": 2, "requirements": [{"item": "weba", "amount": 4}, {"item": "yeti", "amount": 2}, {"item": "togi", "amount": 10}], "research": "weba-factory", "category": "effect"}

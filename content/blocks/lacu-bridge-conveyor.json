@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lacu bridge conveyor", "description": "", "health": 10, "range": 5, "speed": 14, "bufferCapacity": 23, "requirements": [{"item": "lacu", "amount": 5}, {"item": "dowoca", "amount": 4}], "research": "lacu-conveyor", "category": "distribution", "size": 1}

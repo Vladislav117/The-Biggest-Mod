@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bedagy conduit", "description": "...", "health": 43, "requirements": [{"item": "bedagy", "amount": 4}, {"item": "qeconium", "amount": 18}, {"item": "harugenium", "amount": 1}], "liquidCapacity": 21, "liquidPressure": 7, "research": "bedagy-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zoda underflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "zoda", "amount": 2}, {"item": "vygu", "amount": 3}], "research": "zoda-conveyor", "category": "distribution", "invert": false}

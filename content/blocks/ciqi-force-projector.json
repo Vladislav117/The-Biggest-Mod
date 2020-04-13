@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "ciqi force projector", "description": "...", "health": 233, "size": 3, "consumes": {"power": 5.0, "item": "ciqi"}, "requirements": [{"item": "ciqi", "amount": 14}, {"item": "yalaka", "amount": 16}, {"item": "qyhi", "amount": 8}], "research": "ciqi-factory", "category": "effect"}

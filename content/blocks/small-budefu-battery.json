@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small budefu battery", "description": "...", "size": 1, "health": 391, "requirements": [{"item": "budefu", "amount": 10}, {"item": "tysi", "amount": 8}, {"item": "nexy", "amount": 8}], "research": "budefu-factory", "consumes": {"powerBuffered": 2864}, "category": "power"}

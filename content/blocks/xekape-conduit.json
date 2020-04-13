@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xekape conduit", "description": "...", "health": 123, "requirements": [{"item": "xekape", "amount": 18}, {"item": "nixyli", "amount": 14}, {"item": "jyti", "amount": 9}], "liquidCapacity": 27, "liquidPressure": 9, "research": "xekape-factory", "category": "liquid"}

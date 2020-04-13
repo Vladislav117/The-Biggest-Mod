@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zapu solar panel", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "zapu", "amount": 14}, {"item": "gina", "amount": 6}, {"item": "potesonium", "amount": 2}], "research": "zapu-factory", "powerProduction": 7.856120138959545, "category": "power"}

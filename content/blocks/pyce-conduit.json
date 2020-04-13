@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pyce conduit", "description": "...", "health": 181, "requirements": [{"item": "pyce", "amount": 9}, {"item": "fahi", "amount": 6}, {"item": "wiba", "amount": 1}], "liquidCapacity": 40, "liquidPressure": 4, "research": "pyce-factory", "category": "liquid"}

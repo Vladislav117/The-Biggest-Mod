@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "muhi inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "muhi", "amount": 3}, {"item": "pygu", "amount": 1}], "research": "muhi-conveyor", "category": "distribution", "invert": true}

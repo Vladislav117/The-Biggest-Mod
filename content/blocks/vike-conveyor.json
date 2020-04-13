@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "vike conveyor", "description": "...", "health": 156, "requirements": [{"item": "vike", "amount": 8}, {"item": "gula", "amount": 7}], "speed": 0.32895035796327077, "research": "vike-factory", "category": "distribution"}

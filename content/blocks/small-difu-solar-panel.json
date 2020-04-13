@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small difu solar panel", "description": "...", "size": 1, "health": 370, "requirements": [{"item": "difu", "amount": 16}, {"item": "lywe", "amount": 13}, {"item": "sosi", "amount": 4}], "research": "difu-factory", "powerProduction": 0.24126295887702465, "category": "power"}

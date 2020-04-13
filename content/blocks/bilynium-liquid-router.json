@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bilynium liquid router", "description": "...", "size": 1, "health": 93, "requirements": [{"item": "bilynium", "amount": 1}, {"item": "ciqi", "amount": 5}, {"item": "rotonium", "amount": 8}], "research": "bilynium-conduit", "liquidCapacity": 10, "category": "liquid"}

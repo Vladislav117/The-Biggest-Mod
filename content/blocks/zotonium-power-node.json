@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zotonium power node", "description": "...", "size": 2, "health": 661, "requirements": [{"item": "zotonium", "amount": 14}, {"item": "xynice", "amount": 16}, {"item": "daryki", "amount": 8}], "research": "zotonium-factory", "maxNodes": 30, "laserRange": 15, "category": "power"}

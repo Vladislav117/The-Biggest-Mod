@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nidenium overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "nidenium", "amount": 3}, {"item": "gecoma", "amount": 3}], "research": "nidenium-conveyor", "category": "distribution", "invert": false}

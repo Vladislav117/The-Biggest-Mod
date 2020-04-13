@@ -1,0 +1,1 @@
+{"type": "router", "name": "tanexo router", "description": "...", "health": 64, "size": 1, "requirements": [{"item": "tanexo", "amount": 2}], "research": "tanexo-conveyor", "category": "distribution"}

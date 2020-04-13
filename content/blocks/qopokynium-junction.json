@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qopokynium junction", "description": "...", "health": 14, "speed": 7, "capacity": 19, "size": 1, "requirements": [{"item": "qopokynium", "amount": 2}, {"item": "yalaka", "amount": 4}], "research": "qopokynium-conveyor", "category": "distribution"}

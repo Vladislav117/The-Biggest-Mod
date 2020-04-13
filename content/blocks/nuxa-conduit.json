@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nuxa conduit", "description": "...", "health": 91, "requirements": [{"item": "nuxa", "amount": 4}, {"item": "nurynium", "amount": 8}, {"item": "diripo", "amount": 9}], "liquidCapacity": 22, "liquidPressure": 1, "research": "nuxa-factory", "category": "liquid"}

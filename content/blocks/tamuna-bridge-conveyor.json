@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tamuna bridge conveyor", "description": "", "health": 43, "range": 11, "speed": 12, "bufferCapacity": 19, "requirements": [{"item": "tamuna", "amount": 5}, {"item": "dukyfe", "amount": 4}], "research": "tamuna-conveyor", "category": "distribution", "size": 1}

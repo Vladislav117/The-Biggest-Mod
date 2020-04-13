@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qoly liquid router", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "qoly", "amount": 3}, {"item": "yywy", "amount": 2}, {"item": "kuyome", "amount": 2}], "research": "qoly-conduit", "liquidCapacity": 10, "category": "liquid"}

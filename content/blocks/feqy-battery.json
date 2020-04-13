@@ -1,0 +1,1 @@
+{"type": "battery", "name": "feqy battery", "description": "...", "size": 3, "health": 118, "requirements": [{"item": "feqy", "amount": 4}, {"item": "yisyqu", "amount": 18}, {"item": "waka", "amount": 9}], "research": "feqy-factory", "consumes": {"powerBuffered": 2297}, "category": "power"}

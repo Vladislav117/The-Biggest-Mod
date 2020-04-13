@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gexa sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "gexa", "amount": 3}, {"item": "suvi", "amount": 5}], "research": "gexa-conveyor", "category": "distribution", "invert": false}

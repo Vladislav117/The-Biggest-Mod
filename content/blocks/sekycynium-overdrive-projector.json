@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "sekycynium overdrive projector", "description": "...", "health": 72, "consumes": {"power": 3.0, "item": "sekycynium"}, "size": 2, "requirements": [{"item": "sekycynium", "amount": 11}, {"item": "kejinium", "amount": 1}, {"item": "kety", "amount": 4}], "research": "sekycynium-factory", "category": "effect"}

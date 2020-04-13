@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "miwu liquid tank", "description": "...", "health": 418, "size": 3, "requirements": [{"item": "miwu", "amount": 14}, {"item": "lyra", "amount": 5}, {"item": "thorium", "amount": 2}], "research": "miwu-conduit", "category": "liquid", "liquidCapacity": 86490, "hasLiquids": true}

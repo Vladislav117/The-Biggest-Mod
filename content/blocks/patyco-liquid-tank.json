@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "patyco liquid tank", "description": "...", "health": 225, "size": 3, "requirements": [{"item": "patyco", "amount": 15}, {"item": "nulyfo", "amount": 19}, {"item": "jaju", "amount": 10}], "research": "patyco-conduit", "category": "liquid", "liquidCapacity": 36771, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small delo battery", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "delo", "amount": 14}, {"item": "qiwise", "amount": 10}, {"item": "laho", "amount": 1}], "research": "delo-factory", "consumes": {"powerBuffered": 1446}, "category": "power"}

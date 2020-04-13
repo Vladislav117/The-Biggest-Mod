@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vini liquid tank", "description": "...", "health": 279, "size": 3, "requirements": [{"item": "vini", "amount": 16}, {"item": "vewi", "amount": 3}, {"item": "muti", "amount": 6}], "research": "vini-conduit", "category": "liquid", "liquidCapacity": 79215, "hasLiquids": true}

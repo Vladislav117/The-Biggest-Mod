@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mywoju battery", "description": "...", "size": 3, "health": 253, "requirements": [{"item": "mywoju", "amount": 9}, {"item": "yudopa", "amount": 19}, {"item": "tihoyanium", "amount": 5}], "research": "mywoju-factory", "consumes": {"powerBuffered": 4339}, "category": "power"}

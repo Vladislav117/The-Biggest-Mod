@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hyvyje power node", "description": "...", "size": 2, "health": 296, "requirements": [{"item": "hyvyje", "amount": 19}, {"item": "tewo", "amount": 8}, {"item": "pezale", "amount": 6}], "research": "hyvyje-factory", "maxNodes": 56, "laserRange": 17, "category": "power"}

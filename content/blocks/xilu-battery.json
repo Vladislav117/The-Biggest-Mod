@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xilu battery", "description": "...", "size": 3, "health": 312, "requirements": [{"item": "xilu", "amount": 5}, {"item": "vakaco", "amount": 2}, {"item": "besu", "amount": 4}], "research": "xilu-factory", "consumes": {"powerBuffered": 6342}, "category": "power"}

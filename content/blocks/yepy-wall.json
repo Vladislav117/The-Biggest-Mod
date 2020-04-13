@@ -1,0 +1,1 @@
+{"type": "Wall", "name": "yepy wall", "description": "...", "health": 360, "size": 2, "requirements": [{"item": "yepy", "amount": 42}], "research": "yepy-factory", "category": "defense"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "japo solar panel", "description": "...", "size": 3, "health": 56, "requirements": [{"item": "japo", "amount": 14}, {"item": "cozaxo", "amount": 6}, {"item": "geciha", "amount": 3}], "research": "japo-factory", "powerProduction": 0.045450084293387046, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ceho liquid tank", "description": "...", "health": 244, "size": 3, "requirements": [{"item": "ceho", "amount": 5}, {"item": "kituhinium", "amount": 6}, {"item": "tozenium", "amount": 1}], "research": "ceho-conduit", "category": "liquid", "liquidCapacity": 98274, "hasLiquids": true}

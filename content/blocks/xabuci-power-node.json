@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xabuci power node", "description": "...", "size": 2, "health": 435, "requirements": [{"item": "xabuci", "amount": 5}, {"item": "nivefu", "amount": 8}, {"item": "mapi", "amount": 1}], "research": "xabuci-factory", "maxNodes": 58, "laserRange": 16, "category": "power"}

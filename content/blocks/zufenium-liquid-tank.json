@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zufenium liquid tank", "description": "...", "health": 535, "size": 3, "requirements": [{"item": "zufenium", "amount": 14}, {"item": "povazu", "amount": 15}, {"item": "byzure", "amount": 6}], "research": "zufenium-conduit", "category": "liquid", "liquidCapacity": 81853, "hasLiquids": true}

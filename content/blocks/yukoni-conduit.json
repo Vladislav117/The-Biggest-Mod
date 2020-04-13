@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yukoni conduit", "description": "...", "health": 128, "requirements": [{"item": "yukoni", "amount": 3}, {"item": "rakuhy", "amount": 5}, {"item": "lype", "amount": 3}], "liquidCapacity": 15, "liquidPressure": 3, "research": "yukoni-factory", "category": "liquid"}

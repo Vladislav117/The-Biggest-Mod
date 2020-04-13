@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ryve solar panel", "description": "...", "size": 3, "health": 115, "requirements": [{"item": "ryve", "amount": 7}, {"item": "xoginium", "amount": 2}, {"item": "kipybi", "amount": 9}], "research": "ryve-factory", "powerProduction": 6.603281215227815, "category": "power"}

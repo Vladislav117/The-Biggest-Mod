@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "xodali overdrive projector", "description": "...", "health": 78, "consumes": {"power": 3.0, "item": "xodali"}, "size": 2, "requirements": [{"item": "xodali", "amount": 20}, {"item": "reju", "amount": 11}, {"item": "mido", "amount": 10}], "research": "xodali-factory", "category": "effect"}

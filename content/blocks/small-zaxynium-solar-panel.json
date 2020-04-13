@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zaxynium solar panel", "description": "...", "size": 1, "health": 293, "requirements": [{"item": "zaxynium", "amount": 11}, {"item": "gyfy", "amount": 4}, {"item": "naconium", "amount": 10}], "research": "zaxynium-factory", "powerProduction": 4.102779257910951, "category": "power"}

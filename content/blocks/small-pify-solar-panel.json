@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pify solar panel", "description": "...", "size": 1, "health": 213, "requirements": [{"item": "pify", "amount": 12}, {"item": "qepusenium", "amount": 19}, {"item": "bole", "amount": 8}], "research": "pify-factory", "powerProduction": 7.920962776006837, "category": "power"}

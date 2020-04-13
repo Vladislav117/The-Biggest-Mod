@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wedu overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "wedu", "amount": 1}, {"item": "vixuca", "amount": 3}], "research": "wedu-conveyor", "category": "distribution", "invert": false}

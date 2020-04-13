@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tuse junction", "description": "...", "health": 1, "speed": 2, "capacity": 18, "size": 1, "requirements": [{"item": "tuse", "amount": 4}, {"item": "yafenium", "amount": 3}], "research": "tuse-conveyor", "category": "distribution"}

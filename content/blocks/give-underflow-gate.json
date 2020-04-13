@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "give underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "give", "amount": 4}, {"item": "hunadanium", "amount": 3}], "research": "give-conveyor", "category": "distribution", "invert": false}

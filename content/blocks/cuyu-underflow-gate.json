@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cuyu underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "cuyu", "amount": 3}, {"item": "wixyti", "amount": 2}], "research": "cuyu-conveyor", "category": "distribution", "invert": false}

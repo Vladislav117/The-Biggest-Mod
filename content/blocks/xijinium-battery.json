@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xijinium battery", "description": "...", "size": 3, "health": 61, "requirements": [{"item": "xijinium", "amount": 2}, {"item": "leyoqo", "amount": 8}, {"item": "kavequ", "amount": 4}], "research": "xijinium-factory", "consumes": {"powerBuffered": 9531}, "category": "power"}

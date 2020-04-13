@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zebe liquid router", "description": "...", "size": 1, "health": 91, "requirements": [{"item": "zebe", "amount": 10}, {"item": "vogeco", "amount": 5}, {"item": "qayy", "amount": 9}], "research": "zebe-conduit", "liquidCapacity": 10, "category": "liquid"}

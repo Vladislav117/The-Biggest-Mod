@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fecime junction", "description": "...", "health": 38, "speed": 2, "capacity": 8, "size": 1, "requirements": [{"item": "fecime", "amount": 4}, {"item": "wynune", "amount": 4}], "research": "fecime-conveyor", "category": "distribution"}

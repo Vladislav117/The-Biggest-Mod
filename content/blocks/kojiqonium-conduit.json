@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kojiqonium conduit", "description": "...", "health": 128, "requirements": [{"item": "kojiqonium", "amount": 12}, {"item": "dituna", "amount": 8}, {"item": "gayywe", "amount": 4}], "liquidCapacity": 32, "liquidPressure": 3, "research": "kojiqonium-factory", "category": "liquid"}

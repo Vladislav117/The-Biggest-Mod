@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pyrynium liquid tank", "description": "...", "health": 659, "size": 3, "requirements": [{"item": "pyrynium", "amount": 14}, {"item": "xuzu", "amount": 7}, {"item": "fomo", "amount": 9}], "research": "pyrynium-conduit", "category": "liquid", "liquidCapacity": 86243, "hasLiquids": true}

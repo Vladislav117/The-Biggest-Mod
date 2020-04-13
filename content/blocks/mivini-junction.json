@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mivini junction", "description": "...", "health": 39, "speed": 5, "capacity": 11, "size": 1, "requirements": [{"item": "mivini", "amount": 3}, {"item": "depyya", "amount": 4}], "research": "mivini-conveyor", "category": "distribution"}

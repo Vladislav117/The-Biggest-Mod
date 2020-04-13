@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qehupunium sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "qehupunium", "amount": 3}, {"item": "mujuly", "amount": 5}], "research": "qehupunium-conveyor", "category": "distribution", "invert": false}

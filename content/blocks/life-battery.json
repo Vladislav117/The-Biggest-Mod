@@ -1,0 +1,1 @@
+{"type": "battery", "name": "life battery", "description": "...", "size": 3, "health": 106, "requirements": [{"item": "life", "amount": 5}, {"item": "qady", "amount": 9}, {"item": "devube", "amount": 5}], "research": "life-factory", "consumes": {"powerBuffered": 3859}, "category": "power"}

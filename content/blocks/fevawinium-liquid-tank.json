@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fevawinium liquid tank", "description": "...", "health": 246, "size": 3, "requirements": [{"item": "fevawinium", "amount": 1}, {"item": "lucohi", "amount": 15}, {"item": "pubado", "amount": 8}], "research": "fevawinium-conduit", "category": "liquid", "liquidCapacity": 86213, "hasLiquids": true}

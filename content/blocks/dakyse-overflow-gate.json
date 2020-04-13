@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dakyse overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "dakyse", "amount": 2}, {"item": "gupyfi", "amount": 3}], "research": "dakyse-conveyor", "category": "distribution", "invert": false}

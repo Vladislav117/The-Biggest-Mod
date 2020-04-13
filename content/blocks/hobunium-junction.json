@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hobunium junction", "description": "...", "health": 3, "speed": 2, "capacity": 19, "size": 1, "requirements": [{"item": "hobunium", "amount": 3}, {"item": "minu", "amount": 4}], "research": "hobunium-conveyor", "category": "distribution"}

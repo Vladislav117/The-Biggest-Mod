@@ -1,0 +1,1 @@
+{"type": "junction", "name": "veqyro junction", "description": "...", "health": 30, "speed": 3, "capacity": 15, "size": 1, "requirements": [{"item": "veqyro", "amount": 3}, {"item": "kywowa", "amount": 1}], "research": "veqyro-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "teyipu solar panel", "description": "...", "size": 3, "health": 198, "requirements": [{"item": "teyipu", "amount": 10}, {"item": "tomufa", "amount": 10}, {"item": "yyko", "amount": 2}], "research": "teyipu-factory", "powerProduction": 2.210177879941962, "category": "power"}

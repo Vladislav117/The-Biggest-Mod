@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zycinium underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "zycinium", "amount": 1}, {"item": "lora", "amount": 4}], "research": "zycinium-conveyor", "category": "distribution", "invert": false}

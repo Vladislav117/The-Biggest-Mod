@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qaho power node", "description": "...", "size": 2, "health": 325, "requirements": [{"item": "qaho", "amount": 8}, {"item": "pero", "amount": 14}, {"item": "cymaca", "amount": 10}], "research": "qaho-factory", "maxNodes": 29, "laserRange": 26, "category": "power"}

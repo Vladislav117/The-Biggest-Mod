@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fipa solar panel", "description": "...", "size": 1, "health": 69, "requirements": [{"item": "fipa", "amount": 16}, {"item": "muvy", "amount": 3}, {"item": "myte", "amount": 9}], "research": "fipa-factory", "powerProduction": 13.928156663902561, "category": "power"}

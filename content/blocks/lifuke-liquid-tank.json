@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lifuke liquid tank", "description": "...", "health": 559, "size": 3, "requirements": [{"item": "lifuke", "amount": 20}, {"item": "tumine", "amount": 20}, {"item": "balyvo", "amount": 4}], "research": "lifuke-conduit", "category": "liquid", "liquidCapacity": 88294, "hasLiquids": true}

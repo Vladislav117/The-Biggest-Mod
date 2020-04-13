@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "racajo conduit", "description": "...", "health": 99, "requirements": [{"item": "racajo", "amount": 14}, {"item": "viva", "amount": 5}, {"item": "luvigu", "amount": 5}], "liquidCapacity": 43, "liquidPressure": 2, "research": "racajo-factory", "category": "liquid"}

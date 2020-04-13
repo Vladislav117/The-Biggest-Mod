@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cafe power node", "description": "...", "size": 2, "health": 345, "requirements": [{"item": "cafe", "amount": 14}, {"item": "yocoke", "amount": 10}, {"item": "yifity", "amount": 3}], "research": "cafe-factory", "maxNodes": 27, "laserRange": 26, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zebe liquid tank", "description": "...", "health": 191, "size": 3, "requirements": [{"item": "zebe", "amount": 18}, {"item": "vocazu", "amount": 12}, {"item": "vilyco", "amount": 1}], "research": "zebe-conduit", "category": "liquid", "liquidCapacity": 109596, "hasLiquids": true}

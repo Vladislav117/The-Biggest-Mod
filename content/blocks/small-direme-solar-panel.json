@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small direme solar panel", "description": "...", "size": 1, "health": 170, "requirements": [{"item": "direme", "amount": 13}, {"item": "keqiny", "amount": 6}, {"item": "garyda", "amount": 9}], "research": "direme-factory", "powerProduction": 1.128864162374867, "category": "power"}

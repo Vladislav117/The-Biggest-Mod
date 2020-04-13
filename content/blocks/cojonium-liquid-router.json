@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cojonium liquid router", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "cojonium", "amount": 2}, {"item": "nitonium", "amount": 8}, {"item": "xofa", "amount": 9}], "research": "cojonium-conduit", "liquidCapacity": 10, "category": "liquid"}

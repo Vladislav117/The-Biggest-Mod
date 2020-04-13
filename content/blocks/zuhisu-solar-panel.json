@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zuhisu solar panel", "description": "...", "size": 3, "health": 187, "requirements": [{"item": "zuhisu", "amount": 1}, {"item": "dywo", "amount": 3}, {"item": "qeze", "amount": 8}], "research": "zuhisu-factory", "powerProduction": 1.5392798835509574, "category": "power"}

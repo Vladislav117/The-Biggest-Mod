@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hycywi drill", "description": "...", "size": 2, "health": 422, "tier": 4, "drillTime": 13, "consumes": {"power": 13}, "requirements": [{"item": "hycywi", "amount": 5}, {"item": "xyco", "amount": 13}, {"item": "cuwe", "amount": 2}], "research": "hycywi-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yypunium power node", "description": "...", "size": 2, "health": 349, "requirements": [{"item": "yypunium", "amount": 2}, {"item": "tupo", "amount": 11}, {"item": "macixy", "amount": 10}], "research": "yypunium-factory", "maxNodes": 45, "laserRange": 24, "category": "power"}

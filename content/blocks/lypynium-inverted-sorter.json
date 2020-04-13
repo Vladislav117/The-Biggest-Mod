@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lypynium inverted sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "lypynium", "amount": 5}, {"item": "dagohe", "amount": 5}], "research": "lypynium-conveyor", "category": "distribution", "invert": true}

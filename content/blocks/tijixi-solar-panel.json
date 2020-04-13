@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tijixi solar panel", "description": "...", "size": 3, "health": 205, "requirements": [{"item": "tijixi", "amount": 18}, {"item": "fahi", "amount": 17}, {"item": "kecufi", "amount": 6}], "research": "tijixi-factory", "powerProduction": 2.0732471588655126, "category": "power"}

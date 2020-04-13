@@ -1,0 +1,1 @@
+{"type": "battery", "name": "falo battery", "description": "...", "size": 3, "health": 193, "requirements": [{"item": "falo", "amount": 7}, {"item": "somy", "amount": 14}, {"item": "xidunium", "amount": 1}], "research": "falo-factory", "consumes": {"powerBuffered": 6421}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nowahy battery", "description": "...", "size": 3, "health": 400, "requirements": [{"item": "nowahy", "amount": 4}, {"item": "cazefu", "amount": 3}, {"item": "yyva", "amount": 2}], "research": "nowahy-factory", "consumes": {"powerBuffered": 8214}, "category": "power"}

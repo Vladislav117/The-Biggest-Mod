@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small giyasu power node", "description": "...", "size": 1, "health": 142, "requirements": [{"item": "giyasu", "amount": 13}, {"item": "hyte", "amount": 5}, {"item": "rixyqu", "amount": 9}], "research": "giyasu-factory", "maxNodes": 26, "laserRange": 20, "category": "power"}

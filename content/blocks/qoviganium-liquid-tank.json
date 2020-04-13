@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qoviganium liquid tank", "description": "...", "health": 581, "size": 3, "requirements": [{"item": "qoviganium", "amount": 16}, {"item": "goqanium", "amount": 3}, {"item": "sopage", "amount": 7}], "research": "qoviganium-conduit", "category": "liquid", "liquidCapacity": 74230, "hasLiquids": true}

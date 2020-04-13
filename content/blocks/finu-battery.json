@@ -1,0 +1,1 @@
+{"type": "battery", "name": "finu battery", "description": "...", "size": 3, "health": 234, "requirements": [{"item": "finu", "amount": 16}, {"item": "puzonium", "amount": 8}, {"item": "selinium", "amount": 7}], "research": "finu-factory", "consumes": {"powerBuffered": 5264}, "category": "power"}

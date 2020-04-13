@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cebaba inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "cebaba", "amount": 1}, {"item": "kyxiwi", "amount": 3}], "research": "cebaba-conveyor", "category": "distribution", "invert": true}

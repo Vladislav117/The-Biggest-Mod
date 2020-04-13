@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "saqe liquid router", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "saqe", "amount": 2}, {"item": "pudogi", "amount": 10}, {"item": "fixe", "amount": 1}], "research": "saqe-conduit", "liquidCapacity": 10, "category": "liquid"}

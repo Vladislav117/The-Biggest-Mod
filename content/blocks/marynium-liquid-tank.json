@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "marynium liquid tank", "description": "...", "health": 457, "size": 3, "requirements": [{"item": "marynium", "amount": 19}, {"item": "judu", "amount": 12}, {"item": "nihy", "amount": 8}], "research": "marynium-conduit", "category": "liquid", "liquidCapacity": 49255, "hasLiquids": true}

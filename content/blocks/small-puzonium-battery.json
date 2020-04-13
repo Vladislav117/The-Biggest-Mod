@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small puzonium battery", "description": "...", "size": 1, "health": 209, "requirements": [{"item": "puzonium", "amount": 14}, {"item": "hymonium", "amount": 10}, {"item": "tybegi", "amount": 9}], "research": "puzonium-factory", "consumes": {"powerBuffered": 1502}, "category": "power"}

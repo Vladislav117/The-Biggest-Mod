@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yisi power node", "description": "...", "size": 2, "health": 89, "requirements": [{"item": "yisi", "amount": 3}, {"item": "hyqyno", "amount": 12}, {"item": "vapoqanium", "amount": 4}], "research": "yisi-factory", "maxNodes": 58, "laserRange": 7, "category": "power"}

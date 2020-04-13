@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vodo power node", "description": "...", "size": 2, "health": 46, "requirements": [{"item": "vodo", "amount": 7}, {"item": "neby", "amount": 11}, {"item": "yikynium", "amount": 4}], "research": "vodo-factory", "maxNodes": 34, "laserRange": 16, "category": "power"}

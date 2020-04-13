@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yuriwu power node", "description": "...", "size": 2, "health": 375, "requirements": [{"item": "yuriwu", "amount": 1}, {"item": "vapa", "amount": 13}, {"item": "xemynium", "amount": 9}], "research": "yuriwu-factory", "maxNodes": 47, "laserRange": 22, "category": "power"}

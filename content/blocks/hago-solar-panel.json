@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hago solar panel", "description": "...", "size": 3, "health": 62, "requirements": [{"item": "hago", "amount": 17}, {"item": "baranium", "amount": 5}, {"item": "hekika", "amount": 10}], "research": "hago-factory", "powerProduction": 2.8283979680870948, "category": "power"}

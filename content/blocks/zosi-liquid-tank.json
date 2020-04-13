@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zosi liquid tank", "description": "...", "health": 312, "size": 3, "requirements": [{"item": "zosi", "amount": 1}, {"item": "kipyzonium", "amount": 13}, {"item": "gado", "amount": 1}], "research": "zosi-conduit", "category": "liquid", "liquidCapacity": 39104, "hasLiquids": true}

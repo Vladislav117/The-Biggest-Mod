@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fuwo battery", "description": "...", "size": 3, "health": 350, "requirements": [{"item": "fuwo", "amount": 5}, {"item": "pawasunium", "amount": 5}, {"item": "fabese", "amount": 5}], "research": "fuwo-factory", "consumes": {"powerBuffered": 263}, "category": "power"}

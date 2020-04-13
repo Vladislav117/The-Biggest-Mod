@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ficebanium junction", "description": "...", "health": 43, "speed": 16, "capacity": 18, "size": 1, "requirements": [{"item": "ficebanium", "amount": 1}, {"item": "musebo", "amount": 2}], "research": "ficebanium-conveyor", "category": "distribution"}

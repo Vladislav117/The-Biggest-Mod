@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rutylo overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "rutylo", "amount": 4}, {"item": "codaxe", "amount": 1}], "research": "rutylo-conveyor", "category": "distribution", "invert": false}

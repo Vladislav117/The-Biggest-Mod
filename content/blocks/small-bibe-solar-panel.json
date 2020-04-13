@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bibe solar panel", "description": "...", "size": 1, "health": 321, "requirements": [{"item": "bibe", "amount": 3}, {"item": "bosery", "amount": 14}, {"item": "xoquge", "amount": 4}], "research": "bibe-factory", "powerProduction": 3.05748213189838, "category": "power"}

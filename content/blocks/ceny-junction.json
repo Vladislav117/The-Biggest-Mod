@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ceny junction", "description": "...", "health": 46, "speed": 9, "capacity": 16, "size": 1, "requirements": [{"item": "ceny", "amount": 1}, {"item": "vywene", "amount": 4}], "research": "ceny-conveyor", "category": "distribution"}

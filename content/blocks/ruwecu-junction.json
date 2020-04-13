@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ruwecu junction", "description": "...", "health": 38, "speed": 15, "capacity": 3, "size": 1, "requirements": [{"item": "ruwecu", "amount": 4}, {"item": "hubezo", "amount": 2}], "research": "ruwecu-conveyor", "category": "distribution"}

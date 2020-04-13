@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vixuca liquid tank", "description": "...", "health": 465, "size": 3, "requirements": [{"item": "vixuca", "amount": 13}, {"item": "byfa", "amount": 12}, {"item": "kosonium", "amount": 3}], "research": "vixuca-conduit", "category": "liquid", "liquidCapacity": 54249, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fecunium battery", "description": "...", "size": 1, "health": 369, "requirements": [{"item": "fecunium", "amount": 20}, {"item": "melula", "amount": 2}, {"item": "qyfyqunium", "amount": 5}], "research": "fecunium-factory", "consumes": {"powerBuffered": 2503}, "category": "power"}

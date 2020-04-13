@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gorenium conduit", "description": "...", "health": 97, "requirements": [{"item": "gorenium", "amount": 15}, {"item": "nitinium", "amount": 5}, {"item": "jalenium", "amount": 8}], "liquidCapacity": 30, "liquidPressure": 8, "research": "gorenium-factory", "category": "liquid"}

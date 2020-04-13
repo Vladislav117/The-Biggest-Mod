@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jayycu solar panel", "description": "...", "size": 3, "health": 352, "requirements": [{"item": "jayycu", "amount": 12}, {"item": "nuko", "amount": 1}, {"item": "kezunium", "amount": 6}], "research": "jayycu-factory", "powerProduction": 0.025569443491980582, "category": "power"}

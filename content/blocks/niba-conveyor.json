@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "niba conveyor", "description": "...", "health": 221, "requirements": [{"item": "niba", "amount": 5}, {"item": "jeve", "amount": 4}], "speed": 0.30859735031760915, "research": "niba-factory", "category": "distribution"}

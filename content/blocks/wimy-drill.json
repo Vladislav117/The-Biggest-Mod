@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wimy drill", "description": "...", "size": 3, "health": 313, "tier": 3, "drillTime": 16, "consumes": {"power": 11}, "requirements": [{"item": "wimy", "amount": 5}, {"item": "yydaqe", "amount": 10}, {"item": "yytiro", "amount": 10}], "research": "wimy-factory", "category": "production"}

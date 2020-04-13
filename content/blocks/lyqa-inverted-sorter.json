@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lyqa inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "lyqa", "amount": 2}, {"item": "menode", "amount": 5}], "research": "lyqa-conveyor", "category": "distribution", "invert": true}

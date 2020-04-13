@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ferykenium bridge conveyor", "description": "", "health": 5, "range": 16, "speed": 2, "bufferCapacity": 25, "requirements": [{"item": "ferykenium", "amount": 4}, {"item": "mobipo", "amount": 4}], "research": "ferykenium-conveyor", "category": "distribution", "size": 1}

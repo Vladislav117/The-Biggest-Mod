@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mimyva conduit", "description": "...", "health": 111, "requirements": [{"item": "mimyva", "amount": 15}, {"item": "puzihanium", "amount": 12}, {"item": "mozy", "amount": 4}], "liquidCapacity": 6, "liquidPressure": 3, "research": "mimyva-factory", "category": "liquid"}

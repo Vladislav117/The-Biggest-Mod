@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fubaza underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "fubaza", "amount": 4}, {"item": "koyiwi", "amount": 1}], "research": "fubaza-conveyor", "category": "distribution", "invert": false}

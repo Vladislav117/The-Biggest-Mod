@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lunido battery", "description": "...", "size": 3, "health": 21, "requirements": [{"item": "lunido", "amount": 5}, {"item": "deteka", "amount": 6}, {"item": "bebofo", "amount": 8}], "research": "lunido-factory", "consumes": {"powerBuffered": 6503}, "category": "power"}

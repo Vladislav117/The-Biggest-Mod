@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wizacy junction", "description": "...", "health": 20, "speed": 11, "capacity": 7, "size": 1, "requirements": [{"item": "wizacy", "amount": 5}, {"item": "vytuxe", "amount": 5}], "research": "wizacy-conveyor", "category": "distribution"}

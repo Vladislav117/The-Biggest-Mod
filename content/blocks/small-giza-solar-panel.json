@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small giza solar panel", "description": "...", "size": 1, "health": 63, "requirements": [{"item": "giza", "amount": 8}, {"item": "nuzivo", "amount": 7}, {"item": "baquyo", "amount": 2}], "research": "giza-factory", "powerProduction": 2.8897576761649373, "category": "power"}

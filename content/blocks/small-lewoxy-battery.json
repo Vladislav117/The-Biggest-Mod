@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lewoxy battery", "description": "...", "size": 1, "health": 173, "requirements": [{"item": "lewoxy", "amount": 11}, {"item": "rolunium", "amount": 6}, {"item": "zoqivanium", "amount": 2}], "research": "lewoxy-factory", "consumes": {"powerBuffered": 320}, "category": "power"}

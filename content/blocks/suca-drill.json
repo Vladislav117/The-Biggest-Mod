@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "suca drill", "description": "...", "size": 3, "health": 229, "tier": 2, "drillTime": 2, "consumes": {"power": 15}, "requirements": [{"item": "suca", "amount": 20}, {"item": "wicowi", "amount": 2}, {"item": "hemumonium", "amount": 5}], "research": "suca-factory", "category": "production"}

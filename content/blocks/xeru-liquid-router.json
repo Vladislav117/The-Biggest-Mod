@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xeru liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "xeru", "amount": 1}, {"item": "zyru", "amount": 5}, {"item": "yowoje", "amount": 2}], "research": "xeru-conduit", "liquidCapacity": 10, "category": "liquid"}

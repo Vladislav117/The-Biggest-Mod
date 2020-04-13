@@ -1,0 +1,1 @@
+{"type": "junction", "name": "soki junction", "description": "...", "health": 35, "speed": 13, "capacity": 9, "size": 1, "requirements": [{"item": "soki", "amount": 4}, {"item": "ryqaje", "amount": 4}], "research": "soki-conveyor", "category": "distribution"}

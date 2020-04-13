@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "suxy liquid tank", "description": "...", "health": 619, "size": 3, "requirements": [{"item": "suxy", "amount": 10}, {"item": "tykuka", "amount": 11}, {"item": "kuwo", "amount": 6}], "research": "suxy-conduit", "category": "liquid", "liquidCapacity": 81004, "hasLiquids": true}

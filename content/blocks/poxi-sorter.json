@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "poxi sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "poxi", "amount": 3}, {"item": "kurecanium", "amount": 1}], "research": "poxi-conveyor", "category": "distribution", "invert": false}

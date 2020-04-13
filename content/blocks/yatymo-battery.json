@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yatymo battery", "description": "...", "size": 3, "health": 400, "requirements": [{"item": "yatymo", "amount": 2}, {"item": "xepe", "amount": 18}, {"item": "vodo", "amount": 8}], "research": "yatymo-factory", "consumes": {"powerBuffered": 2012}, "category": "power"}

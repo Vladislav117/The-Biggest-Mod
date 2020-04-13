@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "budyka underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "budyka", "amount": 1}, {"item": "qeconium", "amount": 1}], "research": "budyka-conveyor", "category": "distribution", "invert": false}

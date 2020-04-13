@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ribuge liquid tank", "description": "...", "health": 437, "size": 3, "requirements": [{"item": "ribuge", "amount": 18}, {"item": "sytafe", "amount": 8}, {"item": "dyguzu", "amount": 7}], "research": "ribuge-conduit", "category": "liquid", "liquidCapacity": 62570, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small secybo battery", "description": "...", "size": 1, "health": 359, "requirements": [{"item": "secybo", "amount": 15}, {"item": "qeyy", "amount": 16}, {"item": "vove", "amount": 5}], "research": "secybo-factory", "consumes": {"powerBuffered": 421}, "category": "power"}

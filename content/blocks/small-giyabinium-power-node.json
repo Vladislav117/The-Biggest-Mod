@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small giyabinium power node", "description": "...", "size": 1, "health": 329, "requirements": [{"item": "giyabinium", "amount": 13}, {"item": "rumo", "amount": 4}, {"item": "qizi", "amount": 6}], "research": "giyabinium-factory", "maxNodes": 29, "laserRange": 17, "category": "power"}

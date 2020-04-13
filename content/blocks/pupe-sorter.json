@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pupe sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "pupe", "amount": 2}, {"item": "nihu", "amount": 2}], "research": "pupe-conveyor", "category": "distribution", "invert": false}

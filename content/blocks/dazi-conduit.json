@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dazi conduit", "description": "...", "health": 102, "requirements": [{"item": "dazi", "amount": 7}, {"item": "pize", "amount": 6}, {"item": "lequ", "amount": 4}], "liquidCapacity": 1, "liquidPressure": 3, "research": "dazi-factory", "category": "liquid"}

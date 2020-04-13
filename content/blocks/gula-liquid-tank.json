@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gula liquid tank", "description": "...", "health": 559, "size": 3, "requirements": [{"item": "gula", "amount": 3}, {"item": "xuhenium", "amount": 13}, {"item": "qygi", "amount": 4}], "research": "gula-conduit", "category": "liquid", "liquidCapacity": 15322, "hasLiquids": true}

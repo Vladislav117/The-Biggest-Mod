@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vysuga power node", "description": "...", "size": 2, "health": 58, "requirements": [{"item": "vysuga", "amount": 2}, {"item": "kuxa", "amount": 10}, {"item": "robyto", "amount": 6}], "research": "vysuga-factory", "maxNodes": 50, "laserRange": 30, "category": "power"}

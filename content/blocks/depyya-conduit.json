@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "depyya conduit", "description": "...", "health": 94, "requirements": [{"item": "depyya", "amount": 10}, {"item": "lyru", "amount": 9}, {"item": "titanium", "amount": 7}], "liquidCapacity": 49, "liquidPressure": 10, "research": "depyya-factory", "category": "liquid"}

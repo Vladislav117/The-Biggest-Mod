@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gaxepu battery", "description": "...", "size": 3, "health": 360, "requirements": [{"item": "gaxepu", "amount": 19}, {"item": "fuji", "amount": 18}, {"item": "hiyyga", "amount": 2}], "research": "gaxepu-factory", "consumes": {"powerBuffered": 3371}, "category": "power"}

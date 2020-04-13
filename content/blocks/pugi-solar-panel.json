@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pugi solar panel", "description": "...", "size": 3, "health": 286, "requirements": [{"item": "pugi", "amount": 18}, {"item": "nikoru", "amount": 3}, {"item": "xavinium", "amount": 1}], "research": "pugi-factory", "powerProduction": 3.39683851512923, "category": "power"}

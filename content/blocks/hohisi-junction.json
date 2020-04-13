@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hohisi junction", "description": "...", "health": 32, "speed": 13, "capacity": 6, "size": 1, "requirements": [{"item": "hohisi", "amount": 2}, {"item": "qywiqi", "amount": 1}], "research": "hohisi-conveyor", "category": "distribution"}

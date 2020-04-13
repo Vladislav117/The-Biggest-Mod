@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "miva power node", "description": "...", "size": 2, "health": 445, "requirements": [{"item": "miva", "amount": 20}, {"item": "kewawa", "amount": 9}, {"item": "cici", "amount": 9}], "research": "miva-factory", "maxNodes": 16, "laserRange": 14, "category": "power"}

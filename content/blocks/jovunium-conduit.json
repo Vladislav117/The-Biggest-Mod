@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jovunium conduit", "description": "...", "health": 88, "requirements": [{"item": "jovunium", "amount": 13}, {"item": "wymywynium", "amount": 2}, {"item": "xovunium", "amount": 5}], "liquidCapacity": 21, "liquidPressure": 5, "research": "jovunium-factory", "category": "liquid"}

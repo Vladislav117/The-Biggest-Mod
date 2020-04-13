@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kepusy liquid router", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "kepusy", "amount": 3}, {"item": "metaglass", "amount": 16}, {"item": "ruji", "amount": 4}], "research": "kepusy-conduit", "liquidCapacity": 10, "category": "liquid"}

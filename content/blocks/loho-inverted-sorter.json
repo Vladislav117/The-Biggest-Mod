@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "loho inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "loho", "amount": 3}, {"item": "wobaxunium", "amount": 1}], "research": "loho-conveyor", "category": "distribution", "invert": true}

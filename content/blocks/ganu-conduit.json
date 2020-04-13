@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ganu conduit", "description": "...", "health": 46, "requirements": [{"item": "ganu", "amount": 17}, {"item": "dicaku", "amount": 5}, {"item": "zagy", "amount": 10}], "liquidCapacity": 1, "liquidPressure": 1, "research": "ganu-factory", "category": "liquid"}

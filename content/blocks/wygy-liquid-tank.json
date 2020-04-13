@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wygy liquid tank", "description": "...", "health": 401, "size": 3, "requirements": [{"item": "wygy", "amount": 8}, {"item": "rikylu", "amount": 8}, {"item": "zyremi", "amount": 3}], "research": "wygy-conduit", "category": "liquid", "liquidCapacity": 36214, "hasLiquids": true}

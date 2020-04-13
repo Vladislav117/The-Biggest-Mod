@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cujori drill", "description": "...", "size": 4, "health": 423, "tier": 4, "drillTime": 11, "consumes": {"power": 1}, "requirements": [{"item": "cujori", "amount": 16}, {"item": "menibonium", "amount": 16}, {"item": "civu", "amount": 7}], "research": "cujori-factory", "category": "production"}

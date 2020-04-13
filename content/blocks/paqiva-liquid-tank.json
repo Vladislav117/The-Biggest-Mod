@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "paqiva liquid tank", "description": "...", "health": 221, "size": 3, "requirements": [{"item": "paqiva", "amount": 3}, {"item": "hufu", "amount": 17}, {"item": "dukyfe", "amount": 5}], "research": "paqiva-conduit", "category": "liquid", "liquidCapacity": 108688, "hasLiquids": true}

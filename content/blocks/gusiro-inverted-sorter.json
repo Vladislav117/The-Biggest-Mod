@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gusiro inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "gusiro", "amount": 3}, {"item": "kosonium", "amount": 1}], "research": "gusiro-conveyor", "category": "distribution", "invert": true}

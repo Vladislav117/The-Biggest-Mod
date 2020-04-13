@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vanofi liquid router", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "vanofi", "amount": 2}, {"item": "rape", "amount": 1}, {"item": "kufuvunium", "amount": 5}], "research": "vanofi-conduit", "liquidCapacity": 10, "category": "liquid"}

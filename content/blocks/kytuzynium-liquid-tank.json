@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kytuzynium liquid tank", "description": "...", "health": 192, "size": 3, "requirements": [{"item": "kytuzynium", "amount": 20}, {"item": "kokidenium", "amount": 9}, {"item": "kebyge", "amount": 10}], "research": "kytuzynium-conduit", "category": "liquid", "liquidCapacity": 53196, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "najy underflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "najy", "amount": 5}, {"item": "plastanium", "amount": 1}], "research": "najy-conveyor", "category": "distribution", "invert": false}

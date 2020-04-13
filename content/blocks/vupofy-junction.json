@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vupofy junction", "description": "...", "health": 24, "speed": 15, "capacity": 7, "size": 1, "requirements": [{"item": "vupofy", "amount": 2}, {"item": "dejoqonium", "amount": 2}], "research": "vupofy-conveyor", "category": "distribution"}

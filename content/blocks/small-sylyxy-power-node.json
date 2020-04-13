@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sylyxy power node", "description": "...", "size": 1, "health": 397, "requirements": [{"item": "sylyxy", "amount": 20}, {"item": "betesa", "amount": 5}, {"item": "wiba", "amount": 6}], "research": "sylyxy-factory", "maxNodes": 27, "laserRange": 13, "category": "power"}

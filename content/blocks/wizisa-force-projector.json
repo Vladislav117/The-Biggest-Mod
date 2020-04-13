@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "wizisa force projector", "description": "...", "health": 197, "size": 3, "consumes": {"power": 5.0, "item": "wizisa"}, "requirements": [{"item": "wizisa", "amount": 20}, {"item": "qevije", "amount": 7}, {"item": "mohoze", "amount": 6}], "research": "wizisa-factory", "category": "effect"}

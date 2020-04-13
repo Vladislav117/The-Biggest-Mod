@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jivanium drill", "description": "...", "size": 3, "health": 202, "tier": 4, "drillTime": 18, "consumes": {"power": 18}, "requirements": [{"item": "jivanium", "amount": 17}, {"item": "tile", "amount": 19}, {"item": "qujuyi", "amount": 5}], "research": "jivanium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qapi liquid tank", "description": "...", "health": 323, "size": 3, "requirements": [{"item": "qapi", "amount": 1}, {"item": "necuwy", "amount": 18}, {"item": "hagunium", "amount": 2}], "research": "qapi-conduit", "category": "liquid", "liquidCapacity": 94411, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yynatu power node", "description": "...", "size": 2, "health": 434, "requirements": [{"item": "yynatu", "amount": 3}, {"item": "lotacu", "amount": 16}, {"item": "vodo", "amount": 3}], "research": "yynatu-factory", "maxNodes": 14, "laserRange": 21, "category": "power"}

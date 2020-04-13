@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rasa conduit", "description": "...", "health": 49, "requirements": [{"item": "rasa", "amount": 6}, {"item": "toma", "amount": 2}, {"item": "furybe", "amount": 1}], "liquidCapacity": 9, "liquidPressure": 2, "research": "rasa-factory", "category": "liquid"}

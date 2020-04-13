@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "piwoci liquid tank", "description": "...", "health": 351, "size": 3, "requirements": [{"item": "piwoci", "amount": 14}, {"item": "nafeya", "amount": 4}, {"item": "zixysinium", "amount": 8}], "research": "piwoci-conduit", "category": "liquid", "liquidCapacity": 16823, "hasLiquids": true}

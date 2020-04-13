@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bacicu conduit", "description": "...", "health": 159, "requirements": [{"item": "bacicu", "amount": 11}, {"item": "mywa", "amount": 12}, {"item": "mebo", "amount": 4}], "liquidCapacity": 22, "liquidPressure": 2, "research": "bacicu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wasu conduit", "description": "...", "health": 172, "requirements": [{"item": "wasu", "amount": 13}, {"item": "silicon", "amount": 15}, {"item": "monu", "amount": 6}], "liquidCapacity": 11, "liquidPressure": 3, "research": "wasu-factory", "category": "liquid"}

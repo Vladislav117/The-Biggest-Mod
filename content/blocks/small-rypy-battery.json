@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rypy battery", "description": "...", "size": 1, "health": 366, "requirements": [{"item": "rypy", "amount": 14}, {"item": "dabi", "amount": 9}, {"item": "dyji", "amount": 1}], "research": "rypy-factory", "consumes": {"powerBuffered": 1986}, "category": "power"}

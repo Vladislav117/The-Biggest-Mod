@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cida solar panel", "description": "...", "size": 3, "health": 276, "requirements": [{"item": "cida", "amount": 11}, {"item": "venuki", "amount": 20}, {"item": "nijuto", "amount": 4}], "research": "cida-factory", "powerProduction": 0.767102679066392, "category": "power"}

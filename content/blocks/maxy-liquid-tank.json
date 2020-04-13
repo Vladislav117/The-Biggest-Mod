@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "maxy liquid tank", "description": "...", "health": 488, "size": 3, "requirements": [{"item": "maxy", "amount": 6}, {"item": "waha", "amount": 11}, {"item": "xigi", "amount": 4}], "research": "maxy-conduit", "category": "liquid", "liquidCapacity": 83506, "hasLiquids": true}

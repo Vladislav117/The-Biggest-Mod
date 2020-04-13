@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lypoje sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "lypoje", "amount": 5}, {"item": "rudu", "amount": 1}], "research": "lypoje-conveyor", "category": "distribution", "invert": false}

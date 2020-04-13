@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hasifa liquid tank", "description": "...", "health": 503, "size": 3, "requirements": [{"item": "hasifa", "amount": 3}, {"item": "sukanium", "amount": 11}, {"item": "pajaka", "amount": 5}], "research": "hasifa-conduit", "category": "liquid", "liquidCapacity": 106254, "hasLiquids": true}

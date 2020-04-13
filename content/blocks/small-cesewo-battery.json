@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cesewo battery", "description": "...", "size": 1, "health": 334, "requirements": [{"item": "cesewo", "amount": 1}, {"item": "kyqu", "amount": 13}, {"item": "bohexi", "amount": 2}], "research": "cesewo-factory", "consumes": {"powerBuffered": 2978}, "category": "power"}

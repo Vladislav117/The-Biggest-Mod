@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kiqunu inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "kiqunu", "amount": 1}, {"item": "cisiwa", "amount": 3}], "research": "kiqunu-conveyor", "category": "distribution", "invert": true}

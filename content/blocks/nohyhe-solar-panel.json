@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nohyhe solar panel", "description": "...", "size": 3, "health": 395, "requirements": [{"item": "nohyhe", "amount": 20}, {"item": "tayo", "amount": 2}, {"item": "dyji", "amount": 10}], "research": "nohyhe-factory", "powerProduction": 0.12755847980486038, "category": "power"}

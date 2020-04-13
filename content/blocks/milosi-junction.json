@@ -1,0 +1,1 @@
+{"type": "junction", "name": "milosi junction", "description": "...", "health": 8, "speed": 11, "capacity": 20, "size": 1, "requirements": [{"item": "milosi", "amount": 2}, {"item": "gypunium", "amount": 2}], "research": "milosi-conveyor", "category": "distribution"}

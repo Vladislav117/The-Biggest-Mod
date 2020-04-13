@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yaxuda conduit", "description": "...", "health": 26, "requirements": [{"item": "yaxuda", "amount": 17}, {"item": "seca", "amount": 13}, {"item": "tezila", "amount": 3}], "liquidCapacity": 21, "liquidPressure": 7, "research": "yaxuda-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xahi liquid router", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "xahi", "amount": 11}, {"item": "byre", "amount": 2}, {"item": "kiva", "amount": 5}], "research": "xahi-conduit", "liquidCapacity": 10, "category": "liquid"}

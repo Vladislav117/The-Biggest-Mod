@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tycomo solar panel", "description": "...", "size": 1, "health": 170, "requirements": [{"item": "tycomo", "amount": 14}, {"item": "kiranium", "amount": 10}, {"item": "mijynium", "amount": 9}], "research": "tycomo-factory", "powerProduction": 0.44426400999568877, "category": "power"}

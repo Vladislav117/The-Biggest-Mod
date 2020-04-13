@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ryxunium bridge conveyor", "description": "", "health": 5, "range": 13, "speed": 7, "bufferCapacity": 14, "requirements": [{"item": "ryxunium", "amount": 1}, {"item": "ruvudo", "amount": 5}], "research": "ryxunium-conveyor", "category": "distribution", "size": 1}

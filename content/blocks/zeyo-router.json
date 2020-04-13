@@ -1,0 +1,1 @@
+{"type": "router", "name": "zeyo router", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "zeyo", "amount": 6}], "research": "zeyo-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "cokigo conveyor", "description": "...", "health": 125, "requirements": [{"item": "cokigo", "amount": 10}, {"item": "migube", "amount": 8}], "speed": 0.16687272450316676, "research": "cokigo-factory", "category": "distribution"}

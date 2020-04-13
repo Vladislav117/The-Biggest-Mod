@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "paba solar panel", "description": "...", "size": 3, "health": 86, "requirements": [{"item": "paba", "amount": 15}, {"item": "tuzy", "amount": 10}, {"item": "dyde", "amount": 5}], "research": "paba-factory", "powerProduction": 5.883381954676366, "category": "power"}

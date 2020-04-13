@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pami solar panel", "description": "...", "size": 3, "health": 12, "requirements": [{"item": "pami", "amount": 6}, {"item": "migube", "amount": 14}, {"item": "picika", "amount": 2}], "research": "pami-factory", "powerProduction": 5.612705576885361, "category": "power"}

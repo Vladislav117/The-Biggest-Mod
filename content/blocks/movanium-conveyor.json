@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "movanium conveyor", "description": "...", "health": 330, "requirements": [{"item": "movanium", "amount": 1}, {"item": "bybity", "amount": 5}], "speed": 0.24353049036050367, "research": "movanium-factory", "category": "distribution"}

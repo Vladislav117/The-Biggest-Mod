@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "riwinium power node", "description": "...", "size": 2, "health": 570, "requirements": [{"item": "riwinium", "amount": 14}, {"item": "limibu", "amount": 14}, {"item": "wypu", "amount": 3}], "research": "riwinium-factory", "maxNodes": 22, "laserRange": 16, "category": "power"}

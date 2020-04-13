@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tugi solar panel", "description": "...", "size": 3, "health": 369, "requirements": [{"item": "tugi", "amount": 16}, {"item": "xodofu", "amount": 18}, {"item": "zocumo", "amount": 3}], "research": "tugi-factory", "powerProduction": 0.28237107055275246, "category": "power"}

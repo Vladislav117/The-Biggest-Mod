@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bomiry solar panel", "description": "...", "size": 3, "health": 224, "requirements": [{"item": "bomiry", "amount": 16}, {"item": "yisyqu", "amount": 18}, {"item": "graphite", "amount": 6}], "research": "bomiry-factory", "powerProduction": 0.32347304218478595, "category": "power"}

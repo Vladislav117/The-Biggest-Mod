@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hyjape underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "hyjape", "amount": 1}, {"item": "dewira", "amount": 4}], "research": "hyjape-conveyor", "category": "distribution", "invert": false}

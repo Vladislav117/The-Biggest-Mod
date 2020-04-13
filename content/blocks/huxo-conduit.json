@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "huxo conduit", "description": "...", "health": 53, "requirements": [{"item": "huxo", "amount": 16}, {"item": "lyheti", "amount": 20}, {"item": "ridu", "amount": 9}], "liquidCapacity": 40, "liquidPressure": 8, "research": "huxo-factory", "category": "liquid"}

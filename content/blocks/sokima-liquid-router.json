@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sokima liquid router", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "sokima", "amount": 15}, {"item": "sysone", "amount": 19}, {"item": "kosonium", "amount": 10}], "research": "sokima-conduit", "liquidCapacity": 10, "category": "liquid"}

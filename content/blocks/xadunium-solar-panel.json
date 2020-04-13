@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xadunium solar panel", "description": "...", "size": 3, "health": 156, "requirements": [{"item": "xadunium", "amount": 7}, {"item": "daqy", "amount": 20}, {"item": "qimose", "amount": 5}], "research": "xadunium-factory", "powerProduction": 2.2444943375790167, "category": "power"}

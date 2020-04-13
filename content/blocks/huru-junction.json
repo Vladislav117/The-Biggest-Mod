@@ -1,0 +1,1 @@
+{"type": "junction", "name": "huru junction", "description": "...", "health": 34, "speed": 10, "capacity": 11, "size": 1, "requirements": [{"item": "huru", "amount": 4}, {"item": "vywice", "amount": 3}], "research": "huru-conveyor", "category": "distribution"}

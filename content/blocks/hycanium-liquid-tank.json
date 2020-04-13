@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hycanium liquid tank", "description": "...", "health": 659, "size": 3, "requirements": [{"item": "hycanium", "amount": 14}, {"item": "buyogenium", "amount": 3}, {"item": "deceqinium", "amount": 3}], "research": "hycanium-conduit", "category": "liquid", "liquidCapacity": 95404, "hasLiquids": true}

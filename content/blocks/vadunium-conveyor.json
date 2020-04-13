@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "vadunium conveyor", "description": "...", "health": 289, "requirements": [{"item": "vadunium", "amount": 2}, {"item": "lelybe", "amount": 7}], "speed": 0.25443185569687704, "research": "vadunium-factory", "category": "distribution"}

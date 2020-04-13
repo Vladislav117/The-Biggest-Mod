@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nurynium power node", "description": "...", "size": 2, "health": 347, "requirements": [{"item": "nurynium", "amount": 18}, {"item": "wana", "amount": 16}, {"item": "siwi", "amount": 8}], "research": "nurynium-factory", "maxNodes": 28, "laserRange": 10, "category": "power"}

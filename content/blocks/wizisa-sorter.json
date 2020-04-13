@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wizisa sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "wizisa", "amount": 5}, {"item": "qimu", "amount": 2}], "research": "wizisa-conveyor", "category": "distribution", "invert": false}

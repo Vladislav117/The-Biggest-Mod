@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yudesinium power node", "description": "...", "size": 2, "health": 727, "requirements": [{"item": "yudesinium", "amount": 8}, {"item": "gineta", "amount": 13}, {"item": "dugypa", "amount": 3}], "research": "yudesinium-factory", "maxNodes": 57, "laserRange": 28, "category": "power"}

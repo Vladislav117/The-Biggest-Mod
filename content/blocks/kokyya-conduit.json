@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kokyya conduit", "description": "...", "health": 134, "requirements": [{"item": "kokyya", "amount": 16}, {"item": "qeka", "amount": 20}, {"item": "quvojo", "amount": 9}], "liquidCapacity": 15, "liquidPressure": 10, "research": "kokyya-factory", "category": "liquid"}

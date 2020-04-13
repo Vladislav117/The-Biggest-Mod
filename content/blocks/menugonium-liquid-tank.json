@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "menugonium liquid tank", "description": "...", "health": 637, "size": 3, "requirements": [{"item": "menugonium", "amount": 10}, {"item": "lynulo", "amount": 6}, {"item": "vygu", "amount": 4}], "research": "menugonium-conduit", "category": "liquid", "liquidCapacity": 3423, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "router", "name": "gemoco router", "description": "...", "health": 80, "size": 1, "requirements": [{"item": "gemoco", "amount": 9}], "research": "gemoco-conveyor", "category": "distribution"}

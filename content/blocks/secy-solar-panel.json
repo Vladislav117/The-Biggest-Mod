@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "secy solar panel", "description": "...", "size": 3, "health": 180, "requirements": [{"item": "secy", "amount": 18}, {"item": "qoza", "amount": 9}, {"item": "waninium", "amount": 9}], "research": "secy-factory", "powerProduction": 0.17842087956344954, "category": "power"}

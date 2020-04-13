@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "dezy force projector", "description": "...", "health": 134, "size": 3, "consumes": {"power": 5.0, "item": "dezy"}, "requirements": [{"item": "dezy", "amount": 18}, {"item": "zehonium", "amount": 8}, {"item": "caxoni", "amount": 5}], "research": "dezy-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rudinium liquid tank", "description": "...", "health": 373, "size": 3, "requirements": [{"item": "rudinium", "amount": 2}, {"item": "fybaze", "amount": 19}, {"item": "sipynium", "amount": 10}], "research": "rudinium-conduit", "category": "liquid", "liquidCapacity": 116046, "hasLiquids": true}

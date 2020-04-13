@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kosonium liquid router", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "kosonium", "amount": 15}, {"item": "pyto", "amount": 4}, {"item": "hivesy", "amount": 3}], "research": "kosonium-conduit", "liquidCapacity": 10, "category": "liquid"}

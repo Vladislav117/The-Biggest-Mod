@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rudy solar panel", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "rudy", "amount": 10}, {"item": "weva", "amount": 14}, {"item": "riro", "amount": 1}], "research": "rudy-factory", "powerProduction": 0.5385655302016993, "category": "power"}

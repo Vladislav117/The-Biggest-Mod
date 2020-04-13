@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qimy junction", "description": "...", "health": 9, "speed": 1, "capacity": 13, "size": 1, "requirements": [{"item": "qimy", "amount": 2}, {"item": "yudesinium", "amount": 4}], "research": "qimy-conveyor", "category": "distribution"}

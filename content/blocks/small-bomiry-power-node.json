@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bomiry power node", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "bomiry", "amount": 16}, {"item": "wadoka", "amount": 18}, {"item": "hurula", "amount": 9}], "research": "bomiry-factory", "maxNodes": 11, "laserRange": 11, "category": "power"}

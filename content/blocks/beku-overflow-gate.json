@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "beku overflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "beku", "amount": 4}, {"item": "vido", "amount": 5}], "research": "beku-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hypotinium battery", "description": "...", "size": 3, "health": 97, "requirements": [{"item": "hypotinium", "amount": 20}, {"item": "kyna", "amount": 15}, {"item": "qegynium", "amount": 1}], "research": "hypotinium-factory", "consumes": {"powerBuffered": 9351}, "category": "power"}

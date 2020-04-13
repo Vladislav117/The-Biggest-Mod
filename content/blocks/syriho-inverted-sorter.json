@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "syriho inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "syriho", "amount": 5}, {"item": "nyboye", "amount": 4}], "research": "syriho-conveyor", "category": "distribution", "invert": true}

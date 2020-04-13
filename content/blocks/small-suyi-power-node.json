@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small suyi power node", "description": "...", "size": 1, "health": 253, "requirements": [{"item": "suyi", "amount": 14}, {"item": "hazi", "amount": 1}, {"item": "qubyra", "amount": 8}], "research": "suyi-factory", "maxNodes": 15, "laserRange": 15, "category": "power"}

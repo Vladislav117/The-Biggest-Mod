@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zokoya liquid tank", "description": "...", "health": 137, "size": 3, "requirements": [{"item": "zokoya", "amount": 3}, {"item": "wypu", "amount": 6}, {"item": "bywazy", "amount": 10}], "research": "zokoya-conduit", "category": "liquid", "liquidCapacity": 94998, "hasLiquids": true}

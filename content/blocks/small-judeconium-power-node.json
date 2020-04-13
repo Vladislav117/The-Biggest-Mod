@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small judeconium power node", "description": "...", "size": 1, "health": 262, "requirements": [{"item": "judeconium", "amount": 15}, {"item": "yyvenium", "amount": 19}, {"item": "qypusa", "amount": 8}], "research": "judeconium-factory", "maxNodes": 14, "laserRange": 13, "category": "power"}

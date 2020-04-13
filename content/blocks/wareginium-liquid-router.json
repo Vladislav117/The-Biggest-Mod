@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wareginium liquid router", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "wareginium", "amount": 8}, {"item": "tuma", "amount": 10}, {"item": "xyweco", "amount": 3}], "research": "wareginium-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ziruzo battery", "description": "...", "size": 3, "health": 343, "requirements": [{"item": "ziruzo", "amount": 18}, {"item": "pyce", "amount": 4}, {"item": "sajoje", "amount": 10}], "research": "ziruzo-factory", "consumes": {"powerBuffered": 2598}, "category": "power"}

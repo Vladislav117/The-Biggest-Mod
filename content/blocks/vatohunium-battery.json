@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vatohunium battery", "description": "...", "size": 3, "health": 348, "requirements": [{"item": "vatohunium", "amount": 3}, {"item": "nyvu", "amount": 2}, {"item": "diyajy", "amount": 4}], "research": "vatohunium-factory", "consumes": {"powerBuffered": 3414}, "category": "power"}

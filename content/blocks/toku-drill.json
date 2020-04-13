@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "toku drill", "description": "...", "size": 2, "health": 446, "tier": 3, "drillTime": 5, "consumes": {"power": 6}, "requirements": [{"item": "toku", "amount": 11}, {"item": "gineta", "amount": 6}, {"item": "menugonium", "amount": 6}], "research": "toku-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kovi overflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "kovi", "amount": 3}, {"item": "fizy", "amount": 3}], "research": "kovi-conveyor", "category": "distribution", "invert": false}

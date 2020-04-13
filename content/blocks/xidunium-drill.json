@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xidunium drill", "description": "...", "size": 2, "health": 183, "tier": 2, "drillTime": 8, "consumes": {"power": 2}, "requirements": [{"item": "xidunium", "amount": 13}, {"item": "tebebe", "amount": 19}, {"item": "lyheti", "amount": 9}], "research": "xidunium-factory", "category": "production"}

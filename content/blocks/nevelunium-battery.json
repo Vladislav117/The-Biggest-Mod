@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nevelunium battery", "description": "...", "size": 3, "health": 81, "requirements": [{"item": "nevelunium", "amount": 8}, {"item": "pero", "amount": 14}, {"item": "giyasu", "amount": 2}], "research": "nevelunium-factory", "consumes": {"powerBuffered": 9493}, "category": "power"}

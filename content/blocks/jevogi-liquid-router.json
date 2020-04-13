@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jevogi liquid router", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "jevogi", "amount": 19}, {"item": "qifi", "amount": 14}, {"item": "zowanium", "amount": 2}], "research": "jevogi-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "furybe liquid tank", "description": "...", "health": 236, "size": 3, "requirements": [{"item": "furybe", "amount": 9}, {"item": "redo", "amount": 12}, {"item": "ciwy", "amount": 8}], "research": "furybe-conduit", "category": "liquid", "liquidCapacity": 53275, "hasLiquids": true}

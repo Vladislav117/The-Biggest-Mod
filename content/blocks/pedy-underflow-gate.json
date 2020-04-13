@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pedy underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "pedy", "amount": 5}, {"item": "vayy", "amount": 1}], "research": "pedy-conveyor", "category": "distribution", "invert": false}

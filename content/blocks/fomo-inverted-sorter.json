@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fomo inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "fomo", "amount": 5}, {"item": "wevo", "amount": 1}], "research": "fomo-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lunido solar panel", "description": "...", "size": 3, "health": 129, "requirements": [{"item": "lunido", "amount": 16}, {"item": "zyhyne", "amount": 18}, {"item": "rebugunium", "amount": 8}], "research": "lunido-factory", "powerProduction": 0.28555661711662195, "category": "power"}

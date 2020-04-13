@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cuha sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "cuha", "amount": 5}, {"item": "myyu", "amount": 2}], "research": "cuha-conveyor", "category": "distribution", "invert": false}

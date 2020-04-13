@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rufi junction", "description": "...", "health": 15, "speed": 4, "capacity": 16, "size": 1, "requirements": [{"item": "rufi", "amount": 3}, {"item": "nepysi", "amount": 5}], "research": "rufi-conveyor", "category": "distribution"}

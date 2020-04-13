@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bopurunium battery", "description": "...", "size": 1, "health": 205, "requirements": [{"item": "bopurunium", "amount": 19}, {"item": "ryfy", "amount": 3}, {"item": "wopawi", "amount": 7}], "research": "bopurunium-factory", "consumes": {"powerBuffered": 2121}, "category": "power"}

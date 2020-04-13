@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "saze liquid tank", "description": "...", "health": 569, "size": 3, "requirements": [{"item": "saze", "amount": 16}, {"item": "vabenium", "amount": 2}, {"item": "duly", "amount": 3}], "research": "saze-conduit", "category": "liquid", "liquidCapacity": 90327, "hasLiquids": true}

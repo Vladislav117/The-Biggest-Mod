@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lybutinium power node", "description": "...", "size": 2, "health": 39, "requirements": [{"item": "lybutinium", "amount": 12}, {"item": "bomedi", "amount": 2}, {"item": "meve", "amount": 9}], "research": "lybutinium-factory", "maxNodes": 60, "laserRange": 5, "category": "power"}

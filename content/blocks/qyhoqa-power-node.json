@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qyhoqa power node", "description": "...", "size": 2, "health": 191, "requirements": [{"item": "qyhoqa", "amount": 1}, {"item": "keze", "amount": 13}, {"item": "qive", "amount": 10}], "research": "qyhoqa-factory", "maxNodes": 13, "laserRange": 9, "category": "power"}

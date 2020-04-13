@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tebi underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "tebi", "amount": 3}, {"item": "xuryvy", "amount": 2}], "research": "tebi-conveyor", "category": "distribution", "invert": false}

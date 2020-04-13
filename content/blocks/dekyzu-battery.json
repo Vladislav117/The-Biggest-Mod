@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dekyzu battery", "description": "...", "size": 3, "health": 338, "requirements": [{"item": "dekyzu", "amount": 13}, {"item": "hedi", "amount": 13}, {"item": "rukycu", "amount": 1}], "research": "dekyzu-factory", "consumes": {"powerBuffered": 1395}, "category": "power"}

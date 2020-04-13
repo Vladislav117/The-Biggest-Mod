@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dohiye conduit", "description": "...", "health": 48, "requirements": [{"item": "dohiye", "amount": 3}, {"item": "lilonium", "amount": 16}, {"item": "cydofunium", "amount": 5}], "liquidCapacity": 31, "liquidPressure": 4, "research": "dohiye-factory", "category": "liquid"}

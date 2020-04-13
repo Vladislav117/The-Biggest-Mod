@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "byhonium solar panel", "description": "...", "size": 3, "health": 185, "requirements": [{"item": "byhonium", "amount": 20}, {"item": "lyheti", "amount": 6}, {"item": "hymonium", "amount": 2}], "research": "byhonium-factory", "powerProduction": 0.02848149766479738, "category": "power"}

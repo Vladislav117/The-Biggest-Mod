@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zijedu power node", "description": "...", "size": 2, "health": 78, "requirements": [{"item": "zijedu", "amount": 18}, {"item": "dykusi", "amount": 6}, {"item": "nypoky", "amount": 4}], "research": "zijedu-factory", "maxNodes": 13, "laserRange": 9, "category": "power"}

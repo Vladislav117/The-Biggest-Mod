@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gado solar panel", "description": "...", "size": 3, "health": 273, "requirements": [{"item": "gado", "amount": 5}, {"item": "xexumi", "amount": 13}, {"item": "juwyso", "amount": 3}], "research": "gado-factory", "powerProduction": 0.3822114740522272, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cenu battery", "description": "...", "size": 3, "health": 202, "requirements": [{"item": "cenu", "amount": 2}, {"item": "wujifi", "amount": 9}, {"item": "mapo", "amount": 10}], "research": "cenu-factory", "consumes": {"powerBuffered": 1695}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vigyqinium liquid tank", "description": "...", "health": 346, "size": 3, "requirements": [{"item": "vigyqinium", "amount": 6}, {"item": "yypedonium", "amount": 3}, {"item": "yudesinium", "amount": 1}], "research": "vigyqinium-conduit", "category": "liquid", "liquidCapacity": 103653, "hasLiquids": true}

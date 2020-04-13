@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "mabe conveyor", "description": "...", "health": 59, "requirements": [{"item": "mabe", "amount": 10}, {"item": "paqiva", "amount": 9}], "speed": 0.41860771073120484, "research": "mabe-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mecyronium liquid router", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "mecyronium", "amount": 12}, {"item": "mido", "amount": 15}, {"item": "zotonium", "amount": 7}], "research": "mecyronium-conduit", "liquidCapacity": 10, "category": "liquid"}

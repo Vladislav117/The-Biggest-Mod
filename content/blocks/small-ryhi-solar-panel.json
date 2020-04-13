@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ryhi solar panel", "description": "...", "size": 1, "health": 242, "requirements": [{"item": "ryhi", "amount": 18}, {"item": "kavequ", "amount": 5}, {"item": "rosiqe", "amount": 9}], "research": "ryhi-factory", "powerProduction": 0.21588784080181592, "category": "power"}

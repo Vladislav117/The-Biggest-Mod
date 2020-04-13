@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qoxida battery", "description": "...", "size": 3, "health": 54, "requirements": [{"item": "qoxida", "amount": 11}, {"item": "duqu", "amount": 9}, {"item": "mivoky", "amount": 2}], "research": "qoxida-factory", "consumes": {"powerBuffered": 8573}, "category": "power"}

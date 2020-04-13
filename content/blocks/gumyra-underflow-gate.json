@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gumyra underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "gumyra", "amount": 4}, {"item": "tupase", "amount": 4}], "research": "gumyra-conveyor", "category": "distribution", "invert": false}

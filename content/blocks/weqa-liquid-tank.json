@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "weqa liquid tank", "description": "...", "health": 426, "size": 3, "requirements": [{"item": "weqa", "amount": 20}, {"item": "rale", "amount": 13}, {"item": "sywuze", "amount": 1}], "research": "weqa-conduit", "category": "liquid", "liquidCapacity": 35878, "hasLiquids": true}

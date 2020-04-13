@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "somufu solar panel", "description": "...", "size": 3, "health": 273, "requirements": [{"item": "somufu", "amount": 9}, {"item": "rohivonium", "amount": 12}, {"item": "cohu", "amount": 5}], "research": "somufu-factory", "powerProduction": 1.6427765860599164, "category": "power"}

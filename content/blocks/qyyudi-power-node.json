@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qyyudi power node", "description": "...", "size": 2, "health": 465, "requirements": [{"item": "qyyudi", "amount": 18}, {"item": "xenira", "amount": 10}, {"item": "vocile", "amount": 5}], "research": "qyyudi-factory", "maxNodes": 37, "laserRange": 21, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sifiwa battery", "description": "...", "size": 3, "health": 108, "requirements": [{"item": "sifiwa", "amount": 14}, {"item": "cecuvinium", "amount": 3}, {"item": "pego", "amount": 10}], "research": "sifiwa-factory", "consumes": {"powerBuffered": 7940}, "category": "power"}

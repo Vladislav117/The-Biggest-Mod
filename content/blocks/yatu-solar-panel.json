@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yatu solar panel", "description": "...", "size": 3, "health": 146, "requirements": [{"item": "yatu", "amount": 4}, {"item": "xyco", "amount": 17}, {"item": "mupa", "amount": 10}], "research": "yatu-factory", "powerProduction": 0.06500802691112723, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mopyqu junction", "description": "...", "health": 48, "speed": 16, "capacity": 4, "size": 1, "requirements": [{"item": "mopyqu", "amount": 2}, {"item": "miro", "amount": 3}], "research": "mopyqu-conveyor", "category": "distribution"}

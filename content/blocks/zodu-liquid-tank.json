@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zodu liquid tank", "description": "...", "health": 367, "size": 3, "requirements": [{"item": "zodu", "amount": 16}, {"item": "cida", "amount": 15}, {"item": "hine", "amount": 3}], "research": "zodu-conduit", "category": "liquid", "liquidCapacity": 96597, "hasLiquids": true}

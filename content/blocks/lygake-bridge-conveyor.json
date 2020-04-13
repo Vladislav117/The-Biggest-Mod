@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lygake bridge conveyor", "description": "", "health": 16, "range": 11, "speed": 3, "bufferCapacity": 1, "requirements": [{"item": "lygake", "amount": 2}, {"item": "jemidu", "amount": 1}], "research": "lygake-conveyor", "category": "distribution", "size": 1}

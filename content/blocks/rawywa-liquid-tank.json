@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rawywa liquid tank", "description": "...", "health": 410, "size": 3, "requirements": [{"item": "rawywa", "amount": 12}, {"item": "cezany", "amount": 15}, {"item": "vyjoti", "amount": 2}], "research": "rawywa-conduit", "category": "liquid", "liquidCapacity": 100622, "hasLiquids": true}

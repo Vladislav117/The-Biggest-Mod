@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jafuja inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "jafuja", "amount": 5}, {"item": "kyculo", "amount": 5}], "research": "jafuja-conveyor", "category": "distribution", "invert": true}

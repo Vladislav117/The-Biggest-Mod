@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xoniqe inverted sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "xoniqe", "amount": 2}, {"item": "bejominium", "amount": 4}], "research": "xoniqe-conveyor", "category": "distribution", "invert": true}

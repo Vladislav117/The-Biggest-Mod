@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qyhoqa liquid tank", "description": "...", "health": 214, "size": 3, "requirements": [{"item": "qyhoqa", "amount": 15}, {"item": "pyge", "amount": 13}, {"item": "hybobenium", "amount": 9}], "research": "qyhoqa-conduit", "category": "liquid", "liquidCapacity": 68795, "hasLiquids": true}

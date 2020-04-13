@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "secybo solar panel", "description": "...", "size": 3, "health": 103, "requirements": [{"item": "secybo", "amount": 1}, {"item": "pegycy", "amount": 8}, {"item": "sepo", "amount": 2}], "research": "secybo-factory", "powerProduction": 0.02623578084504222, "category": "power"}

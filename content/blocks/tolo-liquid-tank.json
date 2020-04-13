@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tolo liquid tank", "description": "...", "health": 189, "size": 3, "requirements": [{"item": "tolo", "amount": 20}, {"item": "cudo", "amount": 14}, {"item": "wiyeda", "amount": 3}], "research": "tolo-conduit", "category": "liquid", "liquidCapacity": 102732, "hasLiquids": true}

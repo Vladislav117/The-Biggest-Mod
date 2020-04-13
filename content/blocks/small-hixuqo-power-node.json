@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hixuqo power node", "description": "...", "size": 1, "health": 244, "requirements": [{"item": "hixuqo", "amount": 13}, {"item": "luwonium", "amount": 17}, {"item": "fufyyu", "amount": 4}], "research": "hixuqo-factory", "maxNodes": 19, "laserRange": 16, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yudesinium bridge conveyor", "description": "", "health": 49, "range": 5, "speed": 19, "bufferCapacity": 2, "requirements": [{"item": "yudesinium", "amount": 5}, {"item": "zufo", "amount": 1}], "research": "yudesinium-conveyor", "category": "distribution", "size": 1}

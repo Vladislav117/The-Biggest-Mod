@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xedorinium overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "xedorinium", "amount": 2}, {"item": "lapydy", "amount": 2}], "research": "xedorinium-conveyor", "category": "distribution", "invert": false}

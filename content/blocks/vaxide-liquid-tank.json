@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vaxide liquid tank", "description": "...", "health": 236, "size": 3, "requirements": [{"item": "vaxide", "amount": 7}, {"item": "paziyanium", "amount": 10}, {"item": "jygowu", "amount": 4}], "research": "vaxide-conduit", "category": "liquid", "liquidCapacity": 5925, "hasLiquids": true}

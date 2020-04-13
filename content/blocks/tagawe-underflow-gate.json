@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tagawe underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "tagawe", "amount": 3}, {"item": "vuzoha", "amount": 1}], "research": "tagawe-conveyor", "category": "distribution", "invert": false}

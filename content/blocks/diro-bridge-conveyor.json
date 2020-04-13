@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "diro bridge conveyor", "description": "", "health": 24, "range": 7, "speed": 14, "bufferCapacity": 12, "requirements": [{"item": "diro", "amount": 3}, {"item": "sibewe", "amount": 4}], "research": "diro-conveyor", "category": "distribution", "size": 1}

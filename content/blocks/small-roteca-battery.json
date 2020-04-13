@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small roteca battery", "description": "...", "size": 1, "health": 269, "requirements": [{"item": "roteca", "amount": 11}, {"item": "kusyny", "amount": 9}, {"item": "pudogi", "amount": 1}], "research": "roteca-factory", "consumes": {"powerBuffered": 2839}, "category": "power"}

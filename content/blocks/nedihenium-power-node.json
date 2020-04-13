@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nedihenium power node", "description": "...", "size": 2, "health": 368, "requirements": [{"item": "nedihenium", "amount": 17}, {"item": "tiqeti", "amount": 19}, {"item": "syso", "amount": 4}], "research": "nedihenium-factory", "maxNodes": 12, "laserRange": 14, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qotile liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "qotile", "amount": 13}, {"item": "nuzivo", "amount": 6}, {"item": "jomoka", "amount": 3}], "research": "qotile-conduit", "liquidCapacity": 10, "category": "liquid"}

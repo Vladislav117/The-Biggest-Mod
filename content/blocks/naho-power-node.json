@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "naho power node", "description": "...", "size": 2, "health": 452, "requirements": [{"item": "naho", "amount": 17}, {"item": "zucanium", "amount": 11}, {"item": "kuxevy", "amount": 4}], "research": "naho-factory", "maxNodes": 18, "laserRange": 8, "category": "power"}

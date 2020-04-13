@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ledome battery", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "ledome", "amount": 13}, {"item": "qeyanium", "amount": 20}, {"item": "fikexonium", "amount": 4}], "research": "ledome-factory", "consumes": {"powerBuffered": 1962}, "category": "power"}

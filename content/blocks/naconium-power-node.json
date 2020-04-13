@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "naconium power node", "description": "...", "size": 2, "health": 85, "requirements": [{"item": "naconium", "amount": 12}, {"item": "nimawo", "amount": 1}, {"item": "kelurynium", "amount": 3}], "research": "naconium-factory", "maxNodes": 16, "laserRange": 24, "category": "power"}

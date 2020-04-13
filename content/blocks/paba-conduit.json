@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "paba conduit", "description": "...", "health": 66, "requirements": [{"item": "paba", "amount": 8}, {"item": "kozivo", "amount": 12}, {"item": "tufo", "amount": 6}], "liquidCapacity": 18, "liquidPressure": 3, "research": "paba-factory", "category": "liquid"}

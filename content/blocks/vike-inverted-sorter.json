@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vike inverted sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "vike", "amount": 5}, {"item": "sidibu", "amount": 3}], "research": "vike-conveyor", "category": "distribution", "invert": true}

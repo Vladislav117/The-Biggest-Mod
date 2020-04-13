@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small noxe battery", "description": "...", "size": 1, "health": 77, "requirements": [{"item": "noxe", "amount": 15}, {"item": "vewavu", "amount": 10}, {"item": "nigu", "amount": 1}], "research": "noxe-factory", "consumes": {"powerBuffered": 2977}, "category": "power"}

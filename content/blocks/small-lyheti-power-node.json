@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lyheti power node", "description": "...", "size": 1, "health": 309, "requirements": [{"item": "lyheti", "amount": 7}, {"item": "surge-alloy", "amount": 1}, {"item": "tiwyna", "amount": 9}], "research": "lyheti-factory", "maxNodes": 15, "laserRange": 24, "category": "power"}

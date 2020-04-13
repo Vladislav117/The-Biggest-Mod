@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vakaco bridge conveyor", "description": "", "health": 47, "range": 16, "speed": 13, "bufferCapacity": 24, "requirements": [{"item": "vakaco", "amount": 5}, {"item": "vohiyynium", "amount": 5}], "research": "vakaco-conveyor", "category": "distribution", "size": 1}

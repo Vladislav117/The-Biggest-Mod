@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pyhune liquid tank", "description": "...", "health": 466, "size": 3, "requirements": [{"item": "pyhune", "amount": 13}, {"item": "kety", "amount": 8}, {"item": "xofa", "amount": 6}], "research": "pyhune-conduit", "category": "liquid", "liquidCapacity": 75741, "hasLiquids": true}

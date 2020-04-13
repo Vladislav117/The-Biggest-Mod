@@ -1,0 +1,1 @@
+{"type": "battery", "name": "neby battery", "description": "...", "size": 3, "health": 355, "requirements": [{"item": "neby", "amount": 8}, {"item": "gyhecu", "amount": 8}, {"item": "tozokinium", "amount": 8}], "research": "neby-factory", "consumes": {"powerBuffered": 1886}, "category": "power"}

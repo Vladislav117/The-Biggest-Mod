@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zedo junction", "description": "...", "health": 4, "speed": 9, "capacity": 9, "size": 1, "requirements": [{"item": "zedo", "amount": 5}, {"item": "wano", "amount": 4}], "research": "zedo-conveyor", "category": "distribution"}

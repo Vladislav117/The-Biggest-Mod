@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sadime sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "sadime", "amount": 2}, {"item": "pubado", "amount": 1}], "research": "sadime-conveyor", "category": "distribution", "invert": false}

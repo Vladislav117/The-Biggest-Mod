@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "giza liquid router", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "giza", "amount": 1}, {"item": "donuba", "amount": 12}, {"item": "fuho", "amount": 1}], "research": "giza-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "viwiwinium battery", "description": "...", "size": 3, "health": 279, "requirements": [{"item": "viwiwinium", "amount": 1}, {"item": "xuze", "amount": 8}, {"item": "hexu", "amount": 5}], "research": "viwiwinium-factory", "consumes": {"powerBuffered": 4475}, "category": "power"}

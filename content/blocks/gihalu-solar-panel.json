@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gihalu solar panel", "description": "...", "size": 3, "health": 258, "requirements": [{"item": "gihalu", "amount": 20}, {"item": "maveju", "amount": 13}, {"item": "nixigunium", "amount": 2}], "research": "gihalu-factory", "powerProduction": 0.09597784027400917, "category": "power"}

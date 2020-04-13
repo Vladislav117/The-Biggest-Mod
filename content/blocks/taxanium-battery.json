@@ -1,0 +1,1 @@
+{"type": "battery", "name": "taxanium battery", "description": "...", "size": 3, "health": 254, "requirements": [{"item": "taxanium", "amount": 6}, {"item": "xysu", "amount": 12}, {"item": "faqymu", "amount": 4}], "research": "taxanium-factory", "consumes": {"powerBuffered": 9757}, "category": "power"}

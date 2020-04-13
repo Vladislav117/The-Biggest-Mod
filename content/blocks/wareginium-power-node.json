@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wareginium power node", "description": "...", "size": 2, "health": 31, "requirements": [{"item": "wareginium", "amount": 10}, {"item": "dyzaxi", "amount": 2}, {"item": "kywowa", "amount": 9}], "research": "wareginium-factory", "maxNodes": 10, "laserRange": 18, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pagopy battery", "description": "...", "size": 1, "health": 320, "requirements": [{"item": "pagopy", "amount": 19}, {"item": "hyryhinium", "amount": 11}, {"item": "vyhizu", "amount": 2}], "research": "pagopy-factory", "consumes": {"powerBuffered": 2345}, "category": "power"}

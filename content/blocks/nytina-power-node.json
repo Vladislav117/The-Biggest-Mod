@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nytina power node", "description": "...", "size": 2, "health": 342, "requirements": [{"item": "nytina", "amount": 18}, {"item": "gypunium", "amount": 8}, {"item": "yaxuda", "amount": 10}], "research": "nytina-factory", "maxNodes": 29, "laserRange": 17, "category": "power"}

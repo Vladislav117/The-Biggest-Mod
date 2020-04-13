@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small busu solar panel", "description": "...", "size": 1, "health": 388, "requirements": [{"item": "busu", "amount": 14}, {"item": "wifa", "amount": 12}, {"item": "pylonium", "amount": 8}], "research": "busu-factory", "powerProduction": 0.4961044488566351, "category": "power"}

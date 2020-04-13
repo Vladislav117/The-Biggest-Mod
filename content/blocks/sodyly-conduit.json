@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sodyly conduit", "description": "...", "health": 165, "requirements": [{"item": "sodyly", "amount": 5}, {"item": "hyko", "amount": 18}, {"item": "qupu", "amount": 5}], "liquidCapacity": 20, "liquidPressure": 1, "research": "sodyly-factory", "category": "liquid"}

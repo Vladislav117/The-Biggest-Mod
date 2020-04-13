@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nedihenium conduit", "description": "...", "health": 181, "requirements": [{"item": "nedihenium", "amount": 17}, {"item": "detadynium", "amount": 19}, {"item": "mynoli", "amount": 5}], "liquidCapacity": 15, "liquidPressure": 8, "research": "nedihenium-factory", "category": "liquid"}

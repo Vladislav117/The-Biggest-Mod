@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qimy liquid tank", "description": "...", "health": 460, "size": 3, "requirements": [{"item": "qimy", "amount": 16}, {"item": "qadoyenium", "amount": 13}, {"item": "depyya", "amount": 5}], "research": "qimy-conduit", "category": "liquid", "liquidCapacity": 81980, "hasLiquids": true}

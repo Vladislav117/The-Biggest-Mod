@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "subuwi underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "subuwi", "amount": 1}, {"item": "fysubi", "amount": 2}], "research": "subuwi-conveyor", "category": "distribution", "invert": false}

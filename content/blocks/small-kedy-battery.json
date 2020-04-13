@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kedy battery", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "kedy", "amount": 8}, {"item": "moje", "amount": 19}, {"item": "lapydy", "amount": 1}], "research": "kedy-factory", "consumes": {"powerBuffered": 585}, "category": "power"}

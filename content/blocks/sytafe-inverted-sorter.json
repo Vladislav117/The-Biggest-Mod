@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sytafe inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "sytafe", "amount": 1}, {"item": "lyru", "amount": 3}], "research": "sytafe-conveyor", "category": "distribution", "invert": true}

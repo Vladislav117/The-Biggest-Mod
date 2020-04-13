@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tepe power node", "description": "...", "size": 2, "health": 369, "requirements": [{"item": "tepe", "amount": 13}, {"item": "ninu", "amount": 18}, {"item": "cuwa", "amount": 6}], "research": "tepe-factory", "maxNodes": 33, "laserRange": 25, "category": "power"}

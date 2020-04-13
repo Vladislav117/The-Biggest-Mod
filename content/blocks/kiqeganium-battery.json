@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kiqeganium battery", "description": "...", "size": 3, "health": 195, "requirements": [{"item": "kiqeganium", "amount": 16}, {"item": "yydaqe", "amount": 2}, {"item": "yyga", "amount": 9}], "research": "kiqeganium-factory", "consumes": {"powerBuffered": 8701}, "category": "power"}

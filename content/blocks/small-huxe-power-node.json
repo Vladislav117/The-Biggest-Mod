@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small huxe power node", "description": "...", "size": 1, "health": 361, "requirements": [{"item": "huxe", "amount": 18}, {"item": "neda", "amount": 15}, {"item": "qevije", "amount": 9}], "research": "huxe-factory", "maxNodes": 28, "laserRange": 5, "category": "power"}

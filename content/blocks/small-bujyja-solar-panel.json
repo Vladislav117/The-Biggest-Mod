@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bujyja solar panel", "description": "...", "size": 1, "health": 307, "requirements": [{"item": "bujyja", "amount": 11}, {"item": "cobunium", "amount": 4}, {"item": "dezy", "amount": 1}], "research": "bujyja-factory", "powerProduction": 0.0006331121070425137, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hibire conduit", "description": "...", "health": 111, "requirements": [{"item": "hibire", "amount": 6}, {"item": "nytina", "amount": 11}, {"item": "ryjo", "amount": 4}], "liquidCapacity": 7, "liquidPressure": 10, "research": "hibire-factory", "category": "liquid"}

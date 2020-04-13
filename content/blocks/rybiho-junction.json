@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rybiho junction", "description": "...", "health": 20, "speed": 5, "capacity": 5, "size": 1, "requirements": [{"item": "rybiho", "amount": 1}, {"item": "gonu", "amount": 3}], "research": "rybiho-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "fipa conveyor", "description": "...", "health": 127, "requirements": [{"item": "fipa", "amount": 6}, {"item": "xivi", "amount": 10}], "speed": 0.4359677317940323, "research": "fipa-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tagawe sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "tagawe", "amount": 4}, {"item": "marici", "amount": 2}], "research": "tagawe-conveyor", "category": "distribution", "invert": false}

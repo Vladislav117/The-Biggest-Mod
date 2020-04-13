@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nogosy junction", "description": "...", "health": 38, "speed": 8, "capacity": 10, "size": 1, "requirements": [{"item": "nogosy", "amount": 3}, {"item": "qeconium", "amount": 1}], "research": "nogosy-conveyor", "category": "distribution"}

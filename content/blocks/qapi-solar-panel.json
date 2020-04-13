@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qapi solar panel", "description": "...", "size": 3, "health": 255, "requirements": [{"item": "qapi", "amount": 4}, {"item": "kule", "amount": 17}, {"item": "vyce", "amount": 8}], "research": "qapi-factory", "powerProduction": 0.009890087376915673, "category": "power"}

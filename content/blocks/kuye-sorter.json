@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kuye sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "kuye", "amount": 1}, {"item": "myhaxu", "amount": 5}], "research": "kuye-conveyor", "category": "distribution", "invert": false}

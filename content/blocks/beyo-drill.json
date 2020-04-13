@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "beyo drill", "description": "...", "size": 3, "health": 398, "tier": 1, "drillTime": 6, "consumes": {"power": 10}, "requirements": [{"item": "beyo", "amount": 15}, {"item": "ciqi", "amount": 19}, {"item": "hugevinium", "amount": 6}], "research": "beyo-factory", "category": "production"}

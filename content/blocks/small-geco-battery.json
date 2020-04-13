@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small geco battery", "description": "...", "size": 1, "health": 112, "requirements": [{"item": "geco", "amount": 13}, {"item": "kohi", "amount": 18}, {"item": "xega", "amount": 7}], "research": "geco-factory", "consumes": {"powerBuffered": 325}, "category": "power"}

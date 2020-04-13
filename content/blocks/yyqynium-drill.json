@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yyqynium drill", "description": "...", "size": 2, "health": 369, "tier": 1, "drillTime": 4, "consumes": {"power": 10}, "requirements": [{"item": "yyqynium", "amount": 17}, {"item": "misu", "amount": 4}, {"item": "vivunium", "amount": 9}], "research": "yyqynium-factory", "category": "production"}

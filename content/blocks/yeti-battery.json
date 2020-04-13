@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yeti battery", "description": "...", "size": 3, "health": 62, "requirements": [{"item": "yeti", "amount": 10}, {"item": "pami", "amount": 19}, {"item": "heby", "amount": 10}], "research": "yeti-factory", "consumes": {"powerBuffered": 9504}, "category": "power"}

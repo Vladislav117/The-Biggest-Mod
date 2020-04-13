@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qowovo inverted sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "qowovo", "amount": 3}, {"item": "numuwanium", "amount": 1}], "research": "qowovo-conveyor", "category": "distribution", "invert": true}

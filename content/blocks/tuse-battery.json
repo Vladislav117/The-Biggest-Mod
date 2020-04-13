@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tuse battery", "description": "...", "size": 3, "health": 67, "requirements": [{"item": "tuse", "amount": 6}, {"item": "lyvewenium", "amount": 15}, {"item": "wuxorunium", "amount": 5}], "research": "tuse-factory", "consumes": {"powerBuffered": 4962}, "category": "power"}

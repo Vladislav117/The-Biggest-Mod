@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zuhisu battery", "description": "...", "size": 1, "health": 263, "requirements": [{"item": "zuhisu", "amount": 8}, {"item": "rybiho", "amount": 15}, {"item": "xedorinium", "amount": 9}], "research": "zuhisu-factory", "consumes": {"powerBuffered": 943}, "category": "power"}

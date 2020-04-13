@@ -1,0 +1,1 @@
+{"type": "junction", "name": "secybo junction", "description": "...", "health": 11, "speed": 3, "capacity": 15, "size": 1, "requirements": [{"item": "secybo", "amount": 4}, {"item": "soqa", "amount": 2}], "research": "secybo-conveyor", "category": "distribution"}

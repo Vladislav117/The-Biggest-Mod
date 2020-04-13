@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nylo solar panel", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "nylo", "amount": 17}, {"item": "nipohu", "amount": 12}, {"item": "vyjoti", "amount": 8}], "research": "nylo-factory", "powerProduction": 3.9712975807742183, "category": "power"}

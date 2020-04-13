@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pemi power node", "description": "...", "size": 1, "health": 314, "requirements": [{"item": "pemi", "amount": 3}, {"item": "nogi", "amount": 13}, {"item": "mimuce", "amount": 10}], "research": "pemi-factory", "maxNodes": 25, "laserRange": 3, "category": "power"}

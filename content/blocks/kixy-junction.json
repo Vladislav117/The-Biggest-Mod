@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kixy junction", "description": "...", "health": 50, "speed": 1, "capacity": 12, "size": 1, "requirements": [{"item": "kixy", "amount": 1}, {"item": "vimynium", "amount": 1}], "research": "kixy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "topiyynium power node", "description": "...", "size": 2, "health": 246, "requirements": [{"item": "topiyynium", "amount": 5}, {"item": "gabu", "amount": 6}, {"item": "kipybi", "amount": 7}], "research": "topiyynium-factory", "maxNodes": 54, "laserRange": 15, "category": "power"}

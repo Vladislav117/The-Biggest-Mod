@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small syjojy battery", "description": "...", "size": 1, "health": 167, "requirements": [{"item": "syjojy", "amount": 1}, {"item": "tadeja", "amount": 16}, {"item": "life", "amount": 1}], "research": "syjojy-factory", "consumes": {"powerBuffered": 977}, "category": "power"}

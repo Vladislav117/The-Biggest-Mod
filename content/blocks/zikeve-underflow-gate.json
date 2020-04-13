@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zikeve underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "zikeve", "amount": 5}, {"item": "vatohunium", "amount": 4}], "research": "zikeve-conveyor", "category": "distribution", "invert": false}

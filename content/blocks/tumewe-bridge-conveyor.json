@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tumewe bridge conveyor", "description": "", "health": 27, "range": 7, "speed": 19, "bufferCapacity": 18, "requirements": [{"item": "tumewe", "amount": 1}, {"item": "qokenium", "amount": 4}], "research": "tumewe-conveyor", "category": "distribution", "size": 1}

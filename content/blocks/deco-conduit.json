@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "deco conduit", "description": "...", "health": 60, "requirements": [{"item": "deco", "amount": 16}, {"item": "poyaye", "amount": 9}, {"item": "wivo", "amount": 7}], "liquidCapacity": 39, "liquidPressure": 3, "research": "deco-factory", "category": "liquid"}

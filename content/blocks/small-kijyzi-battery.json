@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kijyzi battery", "description": "...", "size": 1, "health": 367, "requirements": [{"item": "kijyzi", "amount": 5}, {"item": "kaqyla", "amount": 15}, {"item": "vyqosi", "amount": 4}], "research": "kijyzi-factory", "consumes": {"powerBuffered": 508}, "category": "power"}

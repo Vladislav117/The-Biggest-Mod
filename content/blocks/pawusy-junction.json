@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pawusy junction", "description": "...", "health": 22, "speed": 3, "capacity": 20, "size": 1, "requirements": [{"item": "pawusy", "amount": 1}, {"item": "cavuyi", "amount": 5}], "research": "pawusy-conveyor", "category": "distribution"}

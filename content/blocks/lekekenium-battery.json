@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lekekenium battery", "description": "...", "size": 3, "health": 111, "requirements": [{"item": "lekekenium", "amount": 6}, {"item": "woyu", "amount": 12}, {"item": "beyo", "amount": 8}], "research": "lekekenium-factory", "consumes": {"powerBuffered": 4025}, "category": "power"}

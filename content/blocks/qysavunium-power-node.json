@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qysavunium power node", "description": "...", "size": 2, "health": 548, "requirements": [{"item": "qysavunium", "amount": 6}, {"item": "yuqy", "amount": 3}, {"item": "qixu", "amount": 10}], "research": "qysavunium-factory", "maxNodes": 50, "laserRange": 17, "category": "power"}

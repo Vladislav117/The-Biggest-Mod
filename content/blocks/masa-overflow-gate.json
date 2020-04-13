@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "masa overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "masa", "amount": 2}, {"item": "vuciby", "amount": 1}], "research": "masa-conveyor", "category": "distribution", "invert": false}

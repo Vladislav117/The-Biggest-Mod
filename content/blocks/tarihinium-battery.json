@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tarihinium battery", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "tarihinium", "amount": 9}, {"item": "mivini", "amount": 13}, {"item": "turode", "amount": 2}], "research": "tarihinium-factory", "consumes": {"powerBuffered": 2353}, "category": "power"}

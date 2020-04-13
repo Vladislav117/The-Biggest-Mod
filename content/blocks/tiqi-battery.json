@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tiqi battery", "description": "...", "size": 3, "health": 11, "requirements": [{"item": "tiqi", "amount": 9}, {"item": "dohiye", "amount": 10}, {"item": "nimawo", "amount": 3}], "research": "tiqi-factory", "consumes": {"powerBuffered": 6884}, "category": "power"}

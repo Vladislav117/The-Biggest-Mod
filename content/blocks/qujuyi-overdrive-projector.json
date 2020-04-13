@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "qujuyi overdrive projector", "description": "...", "health": 73, "consumes": {"power": 3.0, "item": "qujuyi"}, "size": 2, "requirements": [{"item": "qujuyi", "amount": 12}, {"item": "xuxugy", "amount": 16}, {"item": "fepiva", "amount": 6}], "research": "qujuyi-factory", "category": "effect"}

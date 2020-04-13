@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bilupi sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "bilupi", "amount": 2}, {"item": "qano", "amount": 4}], "research": "bilupi-conveyor", "category": "distribution", "invert": false}

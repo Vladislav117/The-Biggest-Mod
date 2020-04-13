@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "heruvu drill", "description": "...", "size": 2, "health": 393, "tier": 3, "drillTime": 2, "consumes": {"power": 4}, "requirements": [{"item": "heruvu", "amount": 9}, {"item": "sylyxy", "amount": 3}, {"item": "sytafe", "amount": 10}], "research": "heruvu-factory", "category": "production"}

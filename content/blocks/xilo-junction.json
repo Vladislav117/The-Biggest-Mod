@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xilo junction", "description": "...", "health": 41, "speed": 18, "capacity": 11, "size": 1, "requirements": [{"item": "xilo", "amount": 2}, {"item": "xyru", "amount": 2}], "research": "xilo-conveyor", "category": "distribution"}

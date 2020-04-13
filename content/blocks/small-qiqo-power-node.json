@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qiqo power node", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "qiqo", "amount": 20}, {"item": "gyfeca", "amount": 12}, {"item": "fiyuju", "amount": 1}], "research": "qiqo-factory", "maxNodes": 8, "laserRange": 24, "category": "power"}

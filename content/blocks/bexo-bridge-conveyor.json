@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bexo bridge conveyor", "description": "", "health": 25, "range": 18, "speed": 12, "bufferCapacity": 8, "requirements": [{"item": "bexo", "amount": 1}, {"item": "pyqynium", "amount": 2}], "research": "bexo-conveyor", "category": "distribution", "size": 1}

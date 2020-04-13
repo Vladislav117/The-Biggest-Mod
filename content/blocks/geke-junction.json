@@ -1,0 +1,1 @@
+{"type": "junction", "name": "geke junction", "description": "...", "health": 8, "speed": 8, "capacity": 12, "size": 1, "requirements": [{"item": "geke", "amount": 1}, {"item": "xorele", "amount": 1}], "research": "geke-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xeponium drill", "description": "...", "size": 4, "health": 357, "tier": 2, "drillTime": 16, "consumes": {"power": 5}, "requirements": [{"item": "xeponium", "amount": 4}, {"item": "kufi", "amount": 19}, {"item": "cisiwa", "amount": 8}], "research": "xeponium-factory", "category": "production"}

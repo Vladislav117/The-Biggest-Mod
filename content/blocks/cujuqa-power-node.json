@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cujuqa power node", "description": "...", "size": 2, "health": 628, "requirements": [{"item": "cujuqa", "amount": 11}, {"item": "fahupi", "amount": 12}, {"item": "ticija", "amount": 8}], "research": "cujuqa-factory", "maxNodes": 21, "laserRange": 27, "category": "power"}

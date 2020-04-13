@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zety solar panel", "description": "...", "size": 3, "health": 224, "requirements": [{"item": "zety", "amount": 4}, {"item": "deqo", "amount": 13}, {"item": "cetemy", "amount": 4}], "research": "zety-factory", "powerProduction": 0.6211423204806833, "category": "power"}

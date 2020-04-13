@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wesyko liquid tank", "description": "...", "health": 246, "size": 3, "requirements": [{"item": "wesyko", "amount": 7}, {"item": "wulu", "amount": 8}, {"item": "wiqa", "amount": 8}], "research": "wesyko-conduit", "category": "liquid", "liquidCapacity": 96065, "hasLiquids": true}

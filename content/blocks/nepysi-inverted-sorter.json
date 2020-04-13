@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nepysi inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "nepysi", "amount": 3}, {"item": "yuqy", "amount": 1}], "research": "nepysi-conveyor", "category": "distribution", "invert": true}

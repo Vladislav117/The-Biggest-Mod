@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nukino power node", "description": "...", "size": 1, "health": 280, "requirements": [{"item": "nukino", "amount": 2}, {"item": "besivi", "amount": 3}, {"item": "bugyta", "amount": 5}], "research": "nukino-factory", "maxNodes": 25, "laserRange": 7, "category": "power"}

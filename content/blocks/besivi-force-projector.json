@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "besivi force projector", "description": "...", "health": 196, "size": 3, "consumes": {"power": 5.0, "item": "besivi"}, "requirements": [{"item": "besivi", "amount": 13}, {"item": "qusy", "amount": 4}, {"item": "jasuly", "amount": 4}], "research": "besivi-factory", "category": "effect"}

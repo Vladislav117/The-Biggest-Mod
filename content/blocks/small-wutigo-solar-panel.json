@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wutigo solar panel", "description": "...", "size": 1, "health": 175, "requirements": [{"item": "wutigo", "amount": 20}, {"item": "qerobu", "amount": 8}, {"item": "jetu", "amount": 6}], "research": "wutigo-factory", "powerProduction": 1.3105832757124474, "category": "power"}

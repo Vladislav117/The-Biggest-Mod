@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small basomi power node", "description": "...", "size": 1, "health": 212, "requirements": [{"item": "basomi", "amount": 6}, {"item": "muby", "amount": 7}, {"item": "vodico", "amount": 8}], "research": "basomi-factory", "maxNodes": 9, "laserRange": 17, "category": "power"}

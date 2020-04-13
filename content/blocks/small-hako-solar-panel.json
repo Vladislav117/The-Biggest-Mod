@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hako solar panel", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "hako", "amount": 10}, {"item": "pikoqi", "amount": 7}, {"item": "jepumi", "amount": 5}], "research": "hako-factory", "powerProduction": 2.3078474714183153, "category": "power"}

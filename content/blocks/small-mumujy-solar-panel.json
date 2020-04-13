@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mumujy solar panel", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "mumujy", "amount": 3}, {"item": "fypizy", "amount": 3}, {"item": "kipe", "amount": 9}], "research": "mumujy-factory", "powerProduction": 3.5940395222396972, "category": "power"}

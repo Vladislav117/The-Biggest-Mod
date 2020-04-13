@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rovy battery", "description": "...", "size": 3, "health": 299, "requirements": [{"item": "rovy", "amount": 13}, {"item": "noconium", "amount": 17}, {"item": "pynydanium", "amount": 9}], "research": "rovy-factory", "consumes": {"powerBuffered": 1669}, "category": "power"}

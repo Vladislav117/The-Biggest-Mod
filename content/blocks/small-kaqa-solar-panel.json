@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kaqa solar panel", "description": "...", "size": 1, "health": 362, "requirements": [{"item": "kaqa", "amount": 8}, {"item": "qowepa", "amount": 9}, {"item": "detadynium", "amount": 7}], "research": "kaqa-factory", "powerProduction": 11.51811285531979, "category": "power"}

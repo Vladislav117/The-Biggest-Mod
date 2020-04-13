@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ferykenium sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "ferykenium", "amount": 5}, {"item": "xini", "amount": 1}], "research": "ferykenium-conveyor", "category": "distribution", "invert": false}

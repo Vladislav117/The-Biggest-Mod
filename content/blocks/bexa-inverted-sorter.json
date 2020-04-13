@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bexa inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "bexa", "amount": 4}, {"item": "qepyvonium", "amount": 2}], "research": "bexa-conveyor", "category": "distribution", "invert": true}

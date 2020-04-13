@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bidu battery", "description": "...", "size": 3, "health": 208, "requirements": [{"item": "bidu", "amount": 14}, {"item": "yyqynium", "amount": 13}, {"item": "siwi", "amount": 9}], "research": "bidu-factory", "consumes": {"powerBuffered": 4328}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zipeye junction", "description": "...", "health": 20, "speed": 4, "capacity": 16, "size": 1, "requirements": [{"item": "zipeye", "amount": 1}, {"item": "jazipynium", "amount": 5}], "research": "zipeye-conveyor", "category": "distribution"}

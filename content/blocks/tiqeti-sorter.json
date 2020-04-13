@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tiqeti sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "tiqeti", "amount": 1}, {"item": "tujy", "amount": 3}], "research": "tiqeti-conveyor", "category": "distribution", "invert": false}

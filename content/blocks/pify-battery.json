@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pify battery", "description": "...", "size": 3, "health": 182, "requirements": [{"item": "pify", "amount": 5}, {"item": "lebo", "amount": 6}, {"item": "yebyte", "amount": 9}], "research": "pify-factory", "consumes": {"powerBuffered": 9844}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jaxu liquid tank", "description": "...", "health": 314, "size": 3, "requirements": [{"item": "jaxu", "amount": 11}, {"item": "tivu", "amount": 2}, {"item": "bihifenium", "amount": 5}], "research": "jaxu-conduit", "category": "liquid", "liquidCapacity": 91597, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "muvelanium conduit", "description": "...", "health": 186, "requirements": [{"item": "muvelanium", "amount": 17}, {"item": "vyse", "amount": 18}, {"item": "julu", "amount": 10}], "liquidCapacity": 47, "liquidPressure": 10, "research": "muvelanium-factory", "category": "liquid"}

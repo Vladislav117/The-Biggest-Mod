@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small povewo solar panel", "description": "...", "size": 1, "health": 395, "requirements": [{"item": "povewo", "amount": 3}, {"item": "lohe", "amount": 17}, {"item": "manihe", "amount": 8}], "research": "povewo-factory", "powerProduction": 1.1789715574009307, "category": "power"}

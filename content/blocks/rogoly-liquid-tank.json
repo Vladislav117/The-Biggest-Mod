@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rogoly liquid tank", "description": "...", "health": 474, "size": 3, "requirements": [{"item": "rogoly", "amount": 14}, {"item": "larina", "amount": 20}, {"item": "pezale", "amount": 9}], "research": "rogoly-conduit", "category": "liquid", "liquidCapacity": 62753, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "lixake conveyor", "description": "...", "health": 60, "requirements": [{"item": "lixake", "amount": 7}, {"item": "gawo", "amount": 4}], "speed": 0.38774205784356763, "research": "lixake-factory", "category": "distribution"}

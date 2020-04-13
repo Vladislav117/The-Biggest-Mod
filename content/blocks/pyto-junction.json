@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pyto junction", "description": "...", "health": 8, "speed": 9, "capacity": 8, "size": 1, "requirements": [{"item": "pyto", "amount": 3}, {"item": "kyte", "amount": 2}], "research": "pyto-conveyor", "category": "distribution"}

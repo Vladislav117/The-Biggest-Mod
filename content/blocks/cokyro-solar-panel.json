@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cokyro solar panel", "description": "...", "size": 3, "health": 35, "requirements": [{"item": "cokyro", "amount": 17}, {"item": "yemy", "amount": 7}, {"item": "mywoju", "amount": 1}], "research": "cokyro-factory", "powerProduction": 4.478594532984451, "category": "power"}

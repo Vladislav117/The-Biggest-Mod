@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wehy power node", "description": "...", "size": 2, "health": 791, "requirements": [{"item": "wehy", "amount": 6}, {"item": "wepo", "amount": 20}, {"item": "vyse", "amount": 8}], "research": "wehy-factory", "maxNodes": 10, "laserRange": 26, "category": "power"}

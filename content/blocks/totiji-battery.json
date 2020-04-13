@@ -1,0 +1,1 @@
+{"type": "battery", "name": "totiji battery", "description": "...", "size": 3, "health": 68, "requirements": [{"item": "totiji", "amount": 3}, {"item": "hazi", "amount": 4}, {"item": "yejeqinium", "amount": 6}], "research": "totiji-factory", "consumes": {"powerBuffered": 5716}, "category": "power"}

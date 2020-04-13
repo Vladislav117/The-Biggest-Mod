@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dakoyi liquid tank", "description": "...", "health": 279, "size": 3, "requirements": [{"item": "dakoyi", "amount": 18}, {"item": "hasifa", "amount": 17}, {"item": "guha", "amount": 3}], "research": "dakoyi-conduit", "category": "liquid", "liquidCapacity": 29288, "hasLiquids": true}

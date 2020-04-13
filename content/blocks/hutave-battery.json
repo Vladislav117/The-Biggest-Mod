@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hutave battery", "description": "...", "size": 3, "health": 364, "requirements": [{"item": "hutave", "amount": 13}, {"item": "towyti", "amount": 2}, {"item": "vemame", "amount": 8}], "research": "hutave-factory", "consumes": {"powerBuffered": 4247}, "category": "power"}

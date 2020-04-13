@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wizisa bridge conveyor", "description": "", "health": 2, "range": 9, "speed": 12, "bufferCapacity": 9, "requirements": [{"item": "wizisa", "amount": 3}, {"item": "yiwonium", "amount": 3}], "research": "wizisa-conveyor", "category": "distribution", "size": 1}

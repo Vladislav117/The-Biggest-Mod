@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nopo solar panel", "description": "...", "size": 3, "health": 224, "requirements": [{"item": "nopo", "amount": 1}, {"item": "cujewi", "amount": 8}, {"item": "yajawa", "amount": 1}], "research": "nopo-factory", "powerProduction": 3.3923284404686935, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gorurenium underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "gorurenium", "amount": 3}, {"item": "yopepa", "amount": 2}], "research": "gorurenium-conveyor", "category": "distribution", "invert": false}

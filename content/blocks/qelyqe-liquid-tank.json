@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qelyqe liquid tank", "description": "...", "health": 281, "size": 3, "requirements": [{"item": "qelyqe", "amount": 4}, {"item": "lapydy", "amount": 2}, {"item": "nudo", "amount": 9}], "research": "qelyqe-conduit", "category": "liquid", "liquidCapacity": 39720, "hasLiquids": true}

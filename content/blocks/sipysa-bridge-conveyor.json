@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sipysa bridge conveyor", "description": "", "health": 25, "range": 15, "speed": 15, "bufferCapacity": 19, "requirements": [{"item": "sipysa", "amount": 4}, {"item": "vuzoha", "amount": 1}], "research": "sipysa-conveyor", "category": "distribution", "size": 1}

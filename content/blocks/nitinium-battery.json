@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nitinium battery", "description": "...", "size": 3, "health": 369, "requirements": [{"item": "nitinium", "amount": 7}, {"item": "wuqosenium", "amount": 8}, {"item": "vuzesenium", "amount": 10}], "research": "nitinium-factory", "consumes": {"powerBuffered": 6045}, "category": "power"}

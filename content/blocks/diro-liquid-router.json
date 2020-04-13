@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "diro liquid router", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "diro", "amount": 19}, {"item": "zufo", "amount": 18}, {"item": "muvy", "amount": 4}], "research": "diro-conduit", "liquidCapacity": 10, "category": "liquid"}

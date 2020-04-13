@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "ruji drill", "description": "...", "size": 4, "health": 215, "tier": 3, "drillTime": 18, "consumes": {"power": 17}, "requirements": [{"item": "ruji", "amount": 10}, {"item": "mufosinium", "amount": 18}, {"item": "tire", "amount": 1}], "research": "ruji-factory", "category": "production"}

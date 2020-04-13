@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sybo power node", "description": "...", "size": 2, "health": 47, "requirements": [{"item": "sybo", "amount": 10}, {"item": "vuhu", "amount": 13}, {"item": "garyda", "amount": 7}], "research": "sybo-factory", "maxNodes": 46, "laserRange": 28, "category": "power"}

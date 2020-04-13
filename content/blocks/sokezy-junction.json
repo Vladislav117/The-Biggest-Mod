@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sokezy junction", "description": "...", "health": 22, "speed": 12, "capacity": 1, "size": 1, "requirements": [{"item": "sokezy", "amount": 4}, {"item": "betesa", "amount": 2}], "research": "sokezy-conveyor", "category": "distribution"}

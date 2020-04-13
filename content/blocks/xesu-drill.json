@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xesu drill", "description": "...", "size": 2, "health": 121, "tier": 3, "drillTime": 2, "consumes": {"power": 4}, "requirements": [{"item": "xesu", "amount": 13}, {"item": "xyduda", "amount": 7}, {"item": "pubado", "amount": 5}], "research": "xesu-factory", "category": "production"}

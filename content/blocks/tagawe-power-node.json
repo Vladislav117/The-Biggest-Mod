@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tagawe power node", "description": "...", "size": 2, "health": 506, "requirements": [{"item": "tagawe", "amount": 3}, {"item": "rukonium", "amount": 9}, {"item": "baqilo", "amount": 9}], "research": "tagawe-factory", "maxNodes": 60, "laserRange": 22, "category": "power"}

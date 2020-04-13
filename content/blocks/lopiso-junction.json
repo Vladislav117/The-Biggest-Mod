@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lopiso junction", "description": "...", "health": 21, "speed": 15, "capacity": 8, "size": 1, "requirements": [{"item": "lopiso", "amount": 4}, {"item": "tatu", "amount": 3}], "research": "lopiso-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hocona battery", "description": "...", "size": 3, "health": 44, "requirements": [{"item": "hocona", "amount": 14}, {"item": "lyvewenium", "amount": 17}, {"item": "hona", "amount": 1}], "research": "hocona-factory", "consumes": {"powerBuffered": 9486}, "category": "power"}

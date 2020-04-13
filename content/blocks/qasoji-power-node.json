@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qasoji power node", "description": "...", "size": 2, "health": 675, "requirements": [{"item": "qasoji", "amount": 13}, {"item": "ceyi", "amount": 8}, {"item": "reduty", "amount": 6}], "research": "qasoji-factory", "maxNodes": 38, "laserRange": 11, "category": "power"}

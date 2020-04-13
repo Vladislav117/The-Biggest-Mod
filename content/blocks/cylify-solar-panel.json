@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cylify solar panel", "description": "...", "size": 3, "health": 303, "requirements": [{"item": "cylify", "amount": 10}, {"item": "hozenium", "amount": 2}, {"item": "pucinium", "amount": 8}], "research": "cylify-factory", "powerProduction": 15.43520638481585, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "temi liquid tank", "description": "...", "health": 163, "size": 3, "requirements": [{"item": "temi", "amount": 18}, {"item": "juhura", "amount": 15}, {"item": "miry", "amount": 1}], "research": "temi-conduit", "category": "liquid", "liquidCapacity": 100244, "hasLiquids": true}

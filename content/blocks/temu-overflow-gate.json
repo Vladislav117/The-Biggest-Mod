@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "temu overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "temu", "amount": 4}, {"item": "cozaxo", "amount": 3}], "research": "temu-conveyor", "category": "distribution", "invert": false}

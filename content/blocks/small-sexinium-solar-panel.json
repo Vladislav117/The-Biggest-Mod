@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sexinium solar panel", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "sexinium", "amount": 20}, {"item": "wigyre", "amount": 17}, {"item": "zele", "amount": 2}], "research": "sexinium-factory", "powerProduction": 1.261873110261072, "category": "power"}

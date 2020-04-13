@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "teko inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "teko", "amount": 1}, {"item": "cinynium", "amount": 5}], "research": "teko-conveyor", "category": "distribution", "invert": true}

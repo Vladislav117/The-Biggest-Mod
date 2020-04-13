@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nyquto liquid tank", "description": "...", "health": 614, "size": 3, "requirements": [{"item": "nyquto", "amount": 16}, {"item": "rybiho", "amount": 15}, {"item": "cigifi", "amount": 5}], "research": "nyquto-conduit", "category": "liquid", "liquidCapacity": 27225, "hasLiquids": true}

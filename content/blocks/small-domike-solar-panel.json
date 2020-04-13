@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small domike solar panel", "description": "...", "size": 1, "health": 299, "requirements": [{"item": "domike", "amount": 2}, {"item": "yedunium", "amount": 1}, {"item": "kute", "amount": 8}], "research": "domike-factory", "powerProduction": 6.556169397187611, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bydo junction", "description": "...", "health": 27, "speed": 20, "capacity": 15, "size": 1, "requirements": [{"item": "bydo", "amount": 4}, {"item": "qeriza", "amount": 1}], "research": "bydo-conveyor", "category": "distribution"}

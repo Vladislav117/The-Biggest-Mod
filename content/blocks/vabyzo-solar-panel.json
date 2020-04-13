@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vabyzo solar panel", "description": "...", "size": 3, "health": 63, "requirements": [{"item": "vabyzo", "amount": 1}, {"item": "cucaso", "amount": 11}, {"item": "bube", "amount": 4}], "research": "vabyzo-factory", "powerProduction": 0.049486295817642655, "category": "power"}

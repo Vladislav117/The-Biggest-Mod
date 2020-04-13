@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "butyce liquid tank", "description": "...", "health": 296, "size": 3, "requirements": [{"item": "butyce", "amount": 2}, {"item": "wywelu", "amount": 16}, {"item": "ryhi", "amount": 1}], "research": "butyce-conduit", "category": "liquid", "liquidCapacity": 54039, "hasLiquids": true}

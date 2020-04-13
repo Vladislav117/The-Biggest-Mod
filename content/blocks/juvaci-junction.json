@@ -1,0 +1,1 @@
+{"type": "junction", "name": "juvaci junction", "description": "...", "health": 19, "speed": 15, "capacity": 16, "size": 1, "requirements": [{"item": "juvaci", "amount": 1}, {"item": "pivojunium", "amount": 5}], "research": "juvaci-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vuka junction", "description": "...", "health": 50, "speed": 8, "capacity": 9, "size": 1, "requirements": [{"item": "vuka", "amount": 1}, {"item": "nitonium", "amount": 4}], "research": "vuka-conveyor", "category": "distribution"}

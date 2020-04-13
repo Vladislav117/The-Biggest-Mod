@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fino battery", "description": "...", "size": 3, "health": 96, "requirements": [{"item": "fino", "amount": 1}, {"item": "wuxorunium", "amount": 20}, {"item": "roja", "amount": 3}], "research": "fino-factory", "consumes": {"powerBuffered": 9971}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "liqy junction", "description": "...", "health": 35, "speed": 2, "capacity": 11, "size": 1, "requirements": [{"item": "liqy", "amount": 1}, {"item": "pezale", "amount": 2}], "research": "liqy-conveyor", "category": "distribution"}

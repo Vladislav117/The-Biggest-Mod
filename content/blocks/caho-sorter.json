@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "caho sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "caho", "amount": 2}, {"item": "vosixe", "amount": 1}], "research": "caho-conveyor", "category": "distribution", "invert": false}

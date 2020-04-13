@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fery battery", "description": "...", "size": 1, "health": 129, "requirements": [{"item": "fery", "amount": 1}, {"item": "zazuti", "amount": 9}, {"item": "jyky", "amount": 4}], "research": "fery-factory", "consumes": {"powerBuffered": 2530}, "category": "power"}

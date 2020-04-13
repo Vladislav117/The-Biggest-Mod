@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fare solar panel", "description": "...", "size": 1, "health": 393, "requirements": [{"item": "fare", "amount": 8}, {"item": "zufenium", "amount": 18}, {"item": "xodofu", "amount": 8}], "research": "fare-factory", "powerProduction": 3.292955357092183, "category": "power"}

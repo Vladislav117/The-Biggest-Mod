@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hogyse inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "hogyse", "amount": 2}, {"item": "wasu", "amount": 1}], "research": "hogyse-conveyor", "category": "distribution", "invert": true}

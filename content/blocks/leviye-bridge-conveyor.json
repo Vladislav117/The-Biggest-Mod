@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "leviye bridge conveyor", "description": "", "health": 48, "range": 19, "speed": 15, "bufferCapacity": 7, "requirements": [{"item": "leviye", "amount": 5}, {"item": "qyha", "amount": 5}], "research": "leviye-conveyor", "category": "distribution", "size": 1}

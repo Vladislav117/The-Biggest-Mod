@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zyremi conduit", "description": "...", "health": 125, "requirements": [{"item": "zyremi", "amount": 15}, {"item": "jikesi", "amount": 5}, {"item": "jucinium", "amount": 10}], "liquidCapacity": 7, "liquidPressure": 4, "research": "zyremi-factory", "category": "liquid"}

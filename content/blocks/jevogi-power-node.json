@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jevogi power node", "description": "...", "size": 2, "health": 432, "requirements": [{"item": "jevogi", "amount": 2}, {"item": "hobunium", "amount": 17}, {"item": "yejicunium", "amount": 6}], "research": "jevogi-factory", "maxNodes": 48, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xunize junction", "description": "...", "health": 45, "speed": 6, "capacity": 10, "size": 1, "requirements": [{"item": "xunize", "amount": 5}, {"item": "cumo", "amount": 4}], "research": "xunize-conveyor", "category": "distribution"}

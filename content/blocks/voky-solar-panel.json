@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "voky solar panel", "description": "...", "size": 3, "health": 44, "requirements": [{"item": "voky", "amount": 8}, {"item": "najy", "amount": 16}, {"item": "tegizunium", "amount": 1}], "research": "voky-factory", "powerProduction": 1.376984651352038, "category": "power"}

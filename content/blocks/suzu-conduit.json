@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "suzu conduit", "description": "...", "health": 171, "requirements": [{"item": "suzu", "amount": 14}, {"item": "dyco", "amount": 10}, {"item": "jikesi", "amount": 6}], "liquidCapacity": 45, "liquidPressure": 5, "research": "suzu-factory", "category": "liquid"}

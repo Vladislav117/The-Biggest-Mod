@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lipo power node", "description": "...", "size": 2, "health": 697, "requirements": [{"item": "lipo", "amount": 19}, {"item": "wobuyu", "amount": 12}, {"item": "gydarynium", "amount": 1}], "research": "lipo-factory", "maxNodes": 46, "laserRange": 14, "category": "power"}

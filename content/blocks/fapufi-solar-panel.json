@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fapufi solar panel", "description": "...", "size": 3, "health": 124, "requirements": [{"item": "fapufi", "amount": 8}, {"item": "ciwiwa", "amount": 7}, {"item": "haniva", "amount": 10}], "research": "fapufi-factory", "powerProduction": 0.04242073978456079, "category": "power"}

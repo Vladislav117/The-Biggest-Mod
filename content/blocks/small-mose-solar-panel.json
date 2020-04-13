@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mose solar panel", "description": "...", "size": 1, "health": 158, "requirements": [{"item": "mose", "amount": 6}, {"item": "mepoky", "amount": 8}, {"item": "cobi", "amount": 6}], "research": "mose-factory", "powerProduction": 0.7294686183632044, "category": "power"}

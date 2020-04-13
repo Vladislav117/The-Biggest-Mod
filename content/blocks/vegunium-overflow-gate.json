@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vegunium overflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "vegunium", "amount": 2}, {"item": "xoginium", "amount": 4}], "research": "vegunium-conveyor", "category": "distribution", "invert": false}

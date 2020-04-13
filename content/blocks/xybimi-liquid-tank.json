@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xybimi liquid tank", "description": "...", "health": 124, "size": 3, "requirements": [{"item": "xybimi", "amount": 12}, {"item": "boretu", "amount": 3}, {"item": "ruwecu", "amount": 7}], "research": "xybimi-conduit", "category": "liquid", "liquidCapacity": 2729, "hasLiquids": true}

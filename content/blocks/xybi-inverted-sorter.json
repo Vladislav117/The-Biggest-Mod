@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xybi inverted sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "xybi", "amount": 1}, {"item": "takyhonium", "amount": 5}], "research": "xybi-conveyor", "category": "distribution", "invert": true}

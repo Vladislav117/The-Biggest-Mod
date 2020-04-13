@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gecu junction", "description": "...", "health": 24, "speed": 20, "capacity": 10, "size": 1, "requirements": [{"item": "gecu", "amount": 1}, {"item": "qatoya", "amount": 1}], "research": "gecu-conveyor", "category": "distribution"}

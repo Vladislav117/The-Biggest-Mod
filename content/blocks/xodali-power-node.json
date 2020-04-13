@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xodali power node", "description": "...", "size": 2, "health": 551, "requirements": [{"item": "xodali", "amount": 2}, {"item": "yito", "amount": 7}, {"item": "zuxygo", "amount": 5}], "research": "xodali-factory", "maxNodes": 44, "laserRange": 21, "category": "power"}

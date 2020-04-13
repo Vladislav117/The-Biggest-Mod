@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "miqomy liquid tank", "description": "...", "health": 619, "size": 3, "requirements": [{"item": "miqomy", "amount": 15}, {"item": "qiregynium", "amount": 19}, {"item": "bajenium", "amount": 6}], "research": "miqomy-conduit", "category": "liquid", "liquidCapacity": 30244, "hasLiquids": true}

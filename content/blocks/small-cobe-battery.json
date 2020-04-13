@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cobe battery", "description": "...", "size": 1, "health": 257, "requirements": [{"item": "cobe", "amount": 8}, {"item": "peyyha", "amount": 15}, {"item": "gyga", "amount": 3}], "research": "cobe-factory", "consumes": {"powerBuffered": 1779}, "category": "power"}

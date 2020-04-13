@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small caxoni power node", "description": "...", "size": 1, "health": 376, "requirements": [{"item": "caxoni", "amount": 7}, {"item": "winyjo", "amount": 15}, {"item": "cudo", "amount": 9}], "research": "caxoni-factory", "maxNodes": 24, "laserRange": 24, "category": "power"}

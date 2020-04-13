@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kura liquid tank", "description": "...", "health": 121, "size": 3, "requirements": [{"item": "kura", "amount": 15}, {"item": "pibu", "amount": 15}, {"item": "fysubi", "amount": 1}], "research": "kura-conduit", "category": "liquid", "liquidCapacity": 22198, "hasLiquids": true}

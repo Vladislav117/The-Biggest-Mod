@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wozo battery", "description": "...", "size": 3, "health": 375, "requirements": [{"item": "wozo", "amount": 8}, {"item": "hagi", "amount": 5}, {"item": "zotonium", "amount": 4}], "research": "wozo-factory", "consumes": {"powerBuffered": 8045}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lipo power node", "description": "...", "size": 1, "health": 198, "requirements": [{"item": "lipo", "amount": 3}, {"item": "wabaru", "amount": 7}, {"item": "bajenium", "amount": 6}], "research": "lipo-factory", "maxNodes": 2, "laserRange": 23, "category": "power"}

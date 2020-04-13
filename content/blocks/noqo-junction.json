@@ -1,0 +1,1 @@
+{"type": "junction", "name": "noqo junction", "description": "...", "health": 33, "speed": 16, "capacity": 18, "size": 1, "requirements": [{"item": "noqo", "amount": 3}, {"item": "donuba", "amount": 2}], "research": "noqo-conveyor", "category": "distribution"}

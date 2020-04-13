@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "buri liquid tank", "description": "...", "health": 250, "size": 3, "requirements": [{"item": "buri", "amount": 20}, {"item": "hotose", "amount": 17}, {"item": "qoseji", "amount": 10}], "research": "buri-conduit", "category": "liquid", "liquidCapacity": 23793, "hasLiquids": true}

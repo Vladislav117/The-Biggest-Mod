@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gurikinium battery", "description": "...", "size": 3, "health": 175, "requirements": [{"item": "gurikinium", "amount": 8}, {"item": "tiwyna", "amount": 6}, {"item": "hiki", "amount": 6}], "research": "gurikinium-factory", "consumes": {"powerBuffered": 4042}, "category": "power"}

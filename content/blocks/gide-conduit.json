@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gide conduit", "description": "...", "health": 25, "requirements": [{"item": "gide", "amount": 8}, {"item": "zagy", "amount": 4}, {"item": "qobopinium", "amount": 3}], "liquidCapacity": 26, "liquidPressure": 2, "research": "gide-factory", "category": "liquid"}

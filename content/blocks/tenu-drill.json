@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tenu drill", "description": "...", "size": 3, "health": 292, "tier": 4, "drillTime": 18, "consumes": {"power": 15}, "requirements": [{"item": "tenu", "amount": 9}, {"item": "sosi", "amount": 2}, {"item": "kobocunium", "amount": 7}], "research": "tenu-factory", "category": "production"}

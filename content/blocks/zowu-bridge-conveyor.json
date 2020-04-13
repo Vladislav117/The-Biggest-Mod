@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zowu bridge conveyor", "description": "", "health": 29, "range": 20, "speed": 14, "bufferCapacity": 9, "requirements": [{"item": "zowu", "amount": 3}, {"item": "pyce", "amount": 1}], "research": "zowu-conveyor", "category": "distribution", "size": 1}

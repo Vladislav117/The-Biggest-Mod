@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "turode inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "turode", "amount": 3}, {"item": "bayavo", "amount": 1}], "research": "turode-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ruwy liquid tank", "description": "...", "health": 144, "size": 3, "requirements": [{"item": "ruwy", "amount": 2}, {"item": "siwi", "amount": 4}, {"item": "zaba", "amount": 10}], "research": "ruwy-conduit", "category": "liquid", "liquidCapacity": 35399, "hasLiquids": true}

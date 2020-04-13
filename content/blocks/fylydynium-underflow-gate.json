@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fylydynium underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "fylydynium", "amount": 4}, {"item": "piny", "amount": 3}], "research": "fylydynium-conveyor", "category": "distribution", "invert": false}

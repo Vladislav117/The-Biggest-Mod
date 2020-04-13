@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xoruba liquid router", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "xoruba", "amount": 13}, {"item": "syteja", "amount": 19}, {"item": "vurypo", "amount": 7}], "research": "xoruba-conduit", "liquidCapacity": 10, "category": "liquid"}

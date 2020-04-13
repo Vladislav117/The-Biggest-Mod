@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small life power node", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "life", "amount": 15}, {"item": "rahonium", "amount": 4}, {"item": "nudo", "amount": 6}], "research": "life-factory", "maxNodes": 20, "laserRange": 24, "category": "power"}

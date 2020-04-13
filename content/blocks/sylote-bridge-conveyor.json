@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sylote bridge conveyor", "description": "", "health": 27, "range": 1, "speed": 20, "bufferCapacity": 25, "requirements": [{"item": "sylote", "amount": 2}, {"item": "pojesu", "amount": 4}], "research": "sylote-conveyor", "category": "distribution", "size": 1}

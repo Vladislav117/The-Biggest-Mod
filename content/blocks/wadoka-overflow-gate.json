@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wadoka overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "wadoka", "amount": 3}, {"item": "vygu", "amount": 3}], "research": "wadoka-conveyor", "category": "distribution", "invert": false}

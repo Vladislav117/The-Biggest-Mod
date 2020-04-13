@@ -1,0 +1,1 @@
+{"type": "battery", "name": "woyyni battery", "description": "...", "size": 3, "health": 88, "requirements": [{"item": "woyyni", "amount": 7}, {"item": "fito", "amount": 7}, {"item": "lyruvanium", "amount": 9}], "research": "woyyni-factory", "consumes": {"powerBuffered": 865}, "category": "power"}

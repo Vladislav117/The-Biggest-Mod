@@ -1,0 +1,1 @@
+{"type": "junction", "name": "piqo junction", "description": "...", "health": 9, "speed": 20, "capacity": 3, "size": 1, "requirements": [{"item": "piqo", "amount": 1}, {"item": "qixu", "amount": 4}], "research": "piqo-conveyor", "category": "distribution"}

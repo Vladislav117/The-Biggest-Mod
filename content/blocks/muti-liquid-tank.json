@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "muti liquid tank", "description": "...", "health": 434, "size": 3, "requirements": [{"item": "muti", "amount": 6}, {"item": "muti", "amount": 4}, {"item": "zuzequ", "amount": 7}], "research": "muti-conduit", "category": "liquid", "liquidCapacity": 7020, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pero power node", "description": "...", "size": 2, "health": 582, "requirements": [{"item": "pero", "amount": 6}, {"item": "ragoku", "amount": 10}, {"item": "gokiyi", "amount": 6}], "research": "pero-factory", "maxNodes": 41, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yofonium solar panel", "description": "...", "size": 3, "health": 109, "requirements": [{"item": "yofonium", "amount": 2}, {"item": "yanu", "amount": 6}, {"item": "zogeno", "amount": 1}], "research": "yofonium-factory", "powerProduction": 0.19242443157702363, "category": "power"}

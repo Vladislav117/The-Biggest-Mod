@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cyve conduit", "description": "...", "health": 138, "requirements": [{"item": "cyve", "amount": 3}, {"item": "wixyti", "amount": 9}, {"item": "wisy", "amount": 3}], "liquidCapacity": 32, "liquidPressure": 2, "research": "cyve-factory", "category": "liquid"}

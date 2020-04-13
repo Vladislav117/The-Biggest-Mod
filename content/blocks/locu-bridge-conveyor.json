@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "locu bridge conveyor", "description": "", "health": 33, "range": 13, "speed": 13, "bufferCapacity": 15, "requirements": [{"item": "locu", "amount": 2}, {"item": "miyoqu", "amount": 5}], "research": "locu-conveyor", "category": "distribution", "size": 1}

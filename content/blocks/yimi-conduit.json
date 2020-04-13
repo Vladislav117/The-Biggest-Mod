@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yimi conduit", "description": "...", "health": 136, "requirements": [{"item": "yimi", "amount": 5}, {"item": "hexa", "amount": 18}, {"item": "byru", "amount": 2}], "liquidCapacity": 18, "liquidPressure": 6, "research": "yimi-factory", "category": "liquid"}

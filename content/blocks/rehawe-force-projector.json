@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "rehawe force projector", "description": "...", "health": 216, "size": 3, "consumes": {"power": 5.0, "item": "rehawe"}, "requirements": [{"item": "rehawe", "amount": 18}, {"item": "laso", "amount": 15}, {"item": "seca", "amount": 4}], "research": "rehawe-factory", "category": "effect"}

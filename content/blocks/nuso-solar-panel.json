@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nuso solar panel", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "nuso", "amount": 19}, {"item": "yunu", "amount": 2}, {"item": "dejoqonium", "amount": 7}], "research": "nuso-factory", "powerProduction": 1.1465461125646654, "category": "power"}

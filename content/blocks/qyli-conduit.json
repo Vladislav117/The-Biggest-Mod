@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qyli conduit", "description": "...", "health": 110, "requirements": [{"item": "qyli", "amount": 20}, {"item": "vodynium", "amount": 17}, {"item": "quda", "amount": 8}], "liquidCapacity": 1, "liquidPressure": 2, "research": "qyli-factory", "category": "liquid"}

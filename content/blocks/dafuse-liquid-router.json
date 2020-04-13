@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dafuse liquid router", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "dafuse", "amount": 1}, {"item": "biwa", "amount": 5}, {"item": "sewazo", "amount": 2}], "research": "dafuse-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cobigu liquid router", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "cobigu", "amount": 1}, {"item": "pymu", "amount": 10}, {"item": "fezadunium", "amount": 1}], "research": "cobigu-conduit", "liquidCapacity": 10, "category": "liquid"}

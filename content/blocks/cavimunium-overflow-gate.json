@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cavimunium overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "cavimunium", "amount": 5}, {"item": "socata", "amount": 3}], "research": "cavimunium-conveyor", "category": "distribution", "invert": false}

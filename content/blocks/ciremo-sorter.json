@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ciremo sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "ciremo", "amount": 1}, {"item": "qovy", "amount": 1}], "research": "ciremo-conveyor", "category": "distribution", "invert": false}

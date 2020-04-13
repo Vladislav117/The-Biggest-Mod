@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "qoha overdrive projector", "description": "...", "health": 89, "consumes": {"power": 3.0, "item": "qoha"}, "size": 2, "requirements": [{"item": "qoha", "amount": 13}, {"item": "quvojo", "amount": 13}, {"item": "jebewe", "amount": 9}], "research": "qoha-factory", "category": "effect"}

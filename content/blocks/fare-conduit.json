@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fare conduit", "description": "...", "health": 180, "requirements": [{"item": "fare", "amount": 15}, {"item": "taxidy", "amount": 2}, {"item": "tynipu", "amount": 9}], "liquidCapacity": 48, "liquidPressure": 2, "research": "fare-factory", "category": "liquid"}

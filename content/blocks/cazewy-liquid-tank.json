@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cazewy liquid tank", "description": "...", "health": 509, "size": 3, "requirements": [{"item": "cazewy", "amount": 7}, {"item": "thorium", "amount": 20}, {"item": "loqa", "amount": 6}], "research": "cazewy-conduit", "category": "liquid", "liquidCapacity": 85529, "hasLiquids": true}

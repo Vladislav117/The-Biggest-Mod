@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fici liquid tank", "description": "...", "health": 665, "size": 3, "requirements": [{"item": "fici", "amount": 11}, {"item": "zehonium", "amount": 8}, {"item": "kituhinium", "amount": 6}], "research": "fici-conduit", "category": "liquid", "liquidCapacity": 50139, "hasLiquids": true}

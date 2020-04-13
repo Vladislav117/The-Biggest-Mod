@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "favunium solar panel", "description": "...", "size": 3, "health": 98, "requirements": [{"item": "favunium", "amount": 5}, {"item": "wupera", "amount": 6}, {"item": "yebyte", "amount": 6}], "research": "favunium-factory", "powerProduction": 8.604001907727694, "category": "power"}

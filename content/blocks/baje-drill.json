@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "baje drill", "description": "...", "size": 2, "health": 448, "tier": 4, "drillTime": 20, "consumes": {"power": 17}, "requirements": [{"item": "baje", "amount": 15}, {"item": "lygynium", "amount": 7}, {"item": "winyjo", "amount": 3}], "research": "baje-factory", "category": "production"}

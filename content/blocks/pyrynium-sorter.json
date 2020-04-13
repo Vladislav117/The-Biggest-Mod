@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pyrynium sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "pyrynium", "amount": 5}, {"item": "qipo", "amount": 5}], "research": "pyrynium-conveyor", "category": "distribution", "invert": false}

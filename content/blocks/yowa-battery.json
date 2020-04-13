@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yowa battery", "description": "...", "size": 3, "health": 323, "requirements": [{"item": "yowa", "amount": 16}, {"item": "zocumo", "amount": 1}, {"item": "tobaqy", "amount": 3}], "research": "yowa-factory", "consumes": {"powerBuffered": 8737}, "category": "power"}

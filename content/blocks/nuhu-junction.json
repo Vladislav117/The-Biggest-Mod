@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nuhu junction", "description": "...", "health": 27, "speed": 18, "capacity": 7, "size": 1, "requirements": [{"item": "nuhu", "amount": 2}, {"item": "daryki", "amount": 2}], "research": "nuhu-conveyor", "category": "distribution"}

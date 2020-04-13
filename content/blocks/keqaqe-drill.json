@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "keqaqe drill", "description": "...", "size": 2, "health": 343, "tier": 2, "drillTime": 17, "consumes": {"power": 10}, "requirements": [{"item": "keqaqe", "amount": 5}, {"item": "mefymanium", "amount": 6}, {"item": "bihu", "amount": 4}], "research": "keqaqe-factory", "category": "production"}

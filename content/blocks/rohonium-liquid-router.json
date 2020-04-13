@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "rohonium liquid router", "description": "...", "size": 1, "health": 85, "requirements": [{"item": "rohonium", "amount": 14}, {"item": "lazynu", "amount": 4}, {"item": "dipyfonium", "amount": 5}], "research": "rohonium-conduit", "liquidCapacity": 10, "category": "liquid"}

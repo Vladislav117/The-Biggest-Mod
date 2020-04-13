@@ -1,0 +1,1 @@
+{"type": "battery", "name": "karogi battery", "description": "...", "size": 3, "health": 109, "requirements": [{"item": "karogi", "amount": 12}, {"item": "fucyra", "amount": 15}, {"item": "dituna", "amount": 1}], "research": "karogi-factory", "consumes": {"powerBuffered": 3712}, "category": "power"}

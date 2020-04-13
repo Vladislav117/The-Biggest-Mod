@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jide liquid tank", "description": "...", "health": 247, "size": 3, "requirements": [{"item": "jide", "amount": 1}, {"item": "fygunium", "amount": 8}, {"item": "cuhyrunium", "amount": 9}], "research": "jide-conduit", "category": "liquid", "liquidCapacity": 27543, "hasLiquids": true}

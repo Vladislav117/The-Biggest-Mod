@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kepexe drill", "description": "...", "size": 2, "health": 408, "tier": 2, "drillTime": 4, "consumes": {"power": 20}, "requirements": [{"item": "kepexe", "amount": 5}, {"item": "wuho", "amount": 3}, {"item": "duyi", "amount": 5}], "research": "kepexe-factory", "category": "production"}

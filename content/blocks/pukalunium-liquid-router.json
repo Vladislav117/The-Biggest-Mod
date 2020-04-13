@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pukalunium liquid router", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "pukalunium", "amount": 19}, {"item": "wofiny", "amount": 8}, {"item": "siyenium", "amount": 7}], "research": "pukalunium-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qihy liquid tank", "description": "...", "health": 447, "size": 3, "requirements": [{"item": "qihy", "amount": 19}, {"item": "dewira", "amount": 17}, {"item": "judu", "amount": 10}], "research": "qihy-conduit", "category": "liquid", "liquidCapacity": 54167, "hasLiquids": true}

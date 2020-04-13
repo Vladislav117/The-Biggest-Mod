@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zadohe power node", "description": "...", "size": 1, "health": 321, "requirements": [{"item": "zadohe", "amount": 17}, {"item": "higy", "amount": 15}, {"item": "ninu", "amount": 1}], "research": "zadohe-factory", "maxNodes": 12, "laserRange": 6, "category": "power"}

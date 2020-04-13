@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hatapo liquid tank", "description": "...", "health": 354, "size": 3, "requirements": [{"item": "hatapo", "amount": 3}, {"item": "tagawe", "amount": 4}, {"item": "tycuru", "amount": 7}], "research": "hatapo-conduit", "category": "liquid", "liquidCapacity": 6125, "hasLiquids": true}

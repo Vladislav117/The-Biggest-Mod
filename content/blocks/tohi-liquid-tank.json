@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tohi liquid tank", "description": "...", "health": 148, "size": 3, "requirements": [{"item": "tohi", "amount": 5}, {"item": "vudaxy", "amount": 20}, {"item": "logy", "amount": 8}], "research": "tohi-conduit", "category": "liquid", "liquidCapacity": 53836, "hasLiquids": true}

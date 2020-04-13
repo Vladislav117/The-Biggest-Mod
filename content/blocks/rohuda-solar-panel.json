@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rohuda solar panel", "description": "...", "size": 3, "health": 112, "requirements": [{"item": "rohuda", "amount": 8}, {"item": "gylasa", "amount": 5}, {"item": "cawawo", "amount": 10}], "research": "rohuda-factory", "powerProduction": 0.6467778077421766, "category": "power"}

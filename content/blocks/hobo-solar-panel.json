@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hobo solar panel", "description": "...", "size": 3, "health": 371, "requirements": [{"item": "hobo", "amount": 6}, {"item": "lyra", "amount": 1}, {"item": "fupymi", "amount": 10}], "research": "hobo-factory", "powerProduction": 2.757276785285793, "category": "power"}

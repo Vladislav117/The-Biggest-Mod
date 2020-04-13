@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xetydinium underflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "xetydinium", "amount": 4}, {"item": "koty", "amount": 4}], "research": "xetydinium-conveyor", "category": "distribution", "invert": false}

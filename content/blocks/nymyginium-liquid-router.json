@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nymyginium liquid router", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "nymyginium", "amount": 1}, {"item": "yuyicenium", "amount": 15}, {"item": "hobo", "amount": 5}], "research": "nymyginium-conduit", "liquidCapacity": 10, "category": "liquid"}

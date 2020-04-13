@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "falynium bridge conveyor", "description": "", "health": 6, "range": 14, "speed": 14, "bufferCapacity": 20, "requirements": [{"item": "falynium", "amount": 4}, {"item": "vomo", "amount": 1}], "research": "falynium-conveyor", "category": "distribution", "size": 1}

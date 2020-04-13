@@ -1,0 +1,1 @@
+{"type": "junction", "name": "loho junction", "description": "...", "health": 42, "speed": 2, "capacity": 19, "size": 1, "requirements": [{"item": "loho", "amount": 4}, {"item": "hujy", "amount": 3}], "research": "loho-conveyor", "category": "distribution"}

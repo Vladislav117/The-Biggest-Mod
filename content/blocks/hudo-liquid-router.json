@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hudo liquid router", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "hudo", "amount": 2}, {"item": "nota", "amount": 16}, {"item": "lyzecinium", "amount": 7}], "research": "hudo-conduit", "liquidCapacity": 10, "category": "liquid"}

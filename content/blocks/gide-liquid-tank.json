@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gide liquid tank", "description": "...", "health": 567, "size": 3, "requirements": [{"item": "gide", "amount": 4}, {"item": "tabo", "amount": 11}, {"item": "xyvo", "amount": 6}], "research": "gide-conduit", "category": "liquid", "liquidCapacity": 1642, "hasLiquids": true}

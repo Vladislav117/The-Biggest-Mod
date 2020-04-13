@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sozu sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "sozu", "amount": 3}, {"item": "tebi", "amount": 1}], "research": "sozu-conveyor", "category": "distribution", "invert": false}

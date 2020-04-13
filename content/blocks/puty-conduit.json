@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "puty conduit", "description": "...", "health": 59, "requirements": [{"item": "puty", "amount": 4}, {"item": "cozaxo", "amount": 2}, {"item": "jyluba", "amount": 3}], "liquidCapacity": 16, "liquidPressure": 1, "research": "puty-factory", "category": "liquid"}

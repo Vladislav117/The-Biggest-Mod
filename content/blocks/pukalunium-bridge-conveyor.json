@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pukalunium bridge conveyor", "description": "", "health": 6, "range": 3, "speed": 14, "bufferCapacity": 21, "requirements": [{"item": "pukalunium", "amount": 1}, {"item": "taze", "amount": 1}], "research": "pukalunium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zemo bridge conveyor", "description": "", "health": 44, "range": 20, "speed": 3, "bufferCapacity": 13, "requirements": [{"item": "zemo", "amount": 4}, {"item": "tolo", "amount": 3}], "research": "zemo-conveyor", "category": "distribution", "size": 1}

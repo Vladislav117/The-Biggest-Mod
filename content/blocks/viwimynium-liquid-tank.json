@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "viwimynium liquid tank", "description": "...", "health": 241, "size": 3, "requirements": [{"item": "viwimynium", "amount": 18}, {"item": "wuvonium", "amount": 20}, {"item": "tanexo", "amount": 10}], "research": "viwimynium-conduit", "category": "liquid", "liquidCapacity": 30390, "hasLiquids": true}

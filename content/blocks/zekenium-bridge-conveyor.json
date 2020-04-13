@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zekenium bridge conveyor", "description": "", "health": 24, "range": 10, "speed": 19, "bufferCapacity": 13, "requirements": [{"item": "zekenium", "amount": 1}, {"item": "jafu", "amount": 1}], "research": "zekenium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "judeconium power node", "description": "...", "size": 2, "health": 298, "requirements": [{"item": "judeconium", "amount": 19}, {"item": "fuposy", "amount": 20}, {"item": "vomo", "amount": 7}], "research": "judeconium-factory", "maxNodes": 49, "laserRange": 6, "category": "power"}

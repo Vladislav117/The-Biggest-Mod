@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rita power node", "description": "...", "size": 2, "health": 685, "requirements": [{"item": "rita", "amount": 13}, {"item": "betesa", "amount": 12}, {"item": "bexo", "amount": 10}], "research": "rita-factory", "maxNodes": 23, "laserRange": 15, "category": "power"}

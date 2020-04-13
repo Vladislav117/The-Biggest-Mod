@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small merujynium solar panel", "description": "...", "size": 1, "health": 149, "requirements": [{"item": "merujynium", "amount": 11}, {"item": "xovunium", "amount": 4}, {"item": "genane", "amount": 8}], "research": "merujynium-factory", "powerProduction": 1.2502056540315574, "category": "power"}

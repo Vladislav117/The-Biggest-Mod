@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hytitenium power node", "description": "...", "size": 2, "health": 767, "requirements": [{"item": "hytitenium", "amount": 10}, {"item": "daryki", "amount": 10}, {"item": "ryho", "amount": 9}], "research": "hytitenium-factory", "maxNodes": 48, "laserRange": 17, "category": "power"}

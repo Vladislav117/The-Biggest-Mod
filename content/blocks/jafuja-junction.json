@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jafuja junction", "description": "...", "health": 10, "speed": 11, "capacity": 20, "size": 1, "requirements": [{"item": "jafuja", "amount": 2}, {"item": "rutiri", "amount": 2}], "research": "jafuja-conveyor", "category": "distribution"}

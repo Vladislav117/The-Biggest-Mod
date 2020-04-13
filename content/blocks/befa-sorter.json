@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "befa sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "befa", "amount": 3}, {"item": "kufi", "amount": 3}], "research": "befa-conveyor", "category": "distribution", "invert": false}

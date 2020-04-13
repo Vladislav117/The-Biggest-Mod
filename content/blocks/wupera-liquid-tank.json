@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wupera liquid tank", "description": "...", "health": 424, "size": 3, "requirements": [{"item": "wupera", "amount": 15}, {"item": "laxu", "amount": 11}, {"item": "laxu", "amount": 2}], "research": "wupera-conduit", "category": "liquid", "liquidCapacity": 80708, "hasLiquids": true}

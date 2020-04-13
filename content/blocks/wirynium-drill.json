@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wirynium drill", "description": "...", "size": 2, "health": 165, "tier": 3, "drillTime": 11, "consumes": {"power": 20}, "requirements": [{"item": "wirynium", "amount": 17}, {"item": "yahi", "amount": 16}, {"item": "kepexe", "amount": 10}], "research": "wirynium-factory", "category": "production"}

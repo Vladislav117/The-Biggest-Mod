@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "neqose conduit", "description": "...", "health": 113, "requirements": [{"item": "neqose", "amount": 7}, {"item": "gomuko", "amount": 20}, {"item": "cify", "amount": 1}], "liquidCapacity": 10, "liquidPressure": 0, "research": "neqose-factory", "category": "liquid"}

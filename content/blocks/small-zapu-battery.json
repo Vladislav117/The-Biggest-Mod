@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zapu battery", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "zapu", "amount": 16}, {"item": "sebypa", "amount": 3}, {"item": "soronium", "amount": 5}], "research": "zapu-factory", "consumes": {"powerBuffered": 924}, "category": "power"}

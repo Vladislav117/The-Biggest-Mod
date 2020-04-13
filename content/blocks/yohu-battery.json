@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yohu battery", "description": "...", "size": 3, "health": 191, "requirements": [{"item": "yohu", "amount": 12}, {"item": "culy", "amount": 15}, {"item": "ryma", "amount": 5}], "research": "yohu-factory", "consumes": {"powerBuffered": 7632}, "category": "power"}

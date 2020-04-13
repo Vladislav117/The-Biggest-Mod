@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bezomo solar panel", "description": "...", "size": 1, "health": 164, "requirements": [{"item": "bezomo", "amount": 10}, {"item": "moce", "amount": 8}, {"item": "semy", "amount": 8}], "research": "bezomo-factory", "powerProduction": 2.3061227092015573, "category": "power"}

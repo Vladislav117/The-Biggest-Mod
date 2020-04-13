@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mexa underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "mexa", "amount": 2}, {"item": "lewonium", "amount": 1}], "research": "mexa-conveyor", "category": "distribution", "invert": false}

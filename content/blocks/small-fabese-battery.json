@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fabese battery", "description": "...", "size": 1, "health": 103, "requirements": [{"item": "fabese", "amount": 12}, {"item": "fifyru", "amount": 5}, {"item": "haxi", "amount": 6}], "research": "fabese-factory", "consumes": {"powerBuffered": 1716}, "category": "power"}

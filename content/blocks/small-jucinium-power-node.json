@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jucinium power node", "description": "...", "size": 1, "health": 386, "requirements": [{"item": "jucinium", "amount": 10}, {"item": "wivo", "amount": 19}, {"item": "nudo", "amount": 1}], "research": "jucinium-factory", "maxNodes": 13, "laserRange": 3, "category": "power"}

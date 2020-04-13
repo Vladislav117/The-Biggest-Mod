@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fopo solar panel", "description": "...", "size": 1, "health": 142, "requirements": [{"item": "fopo", "amount": 3}, {"item": "bapu", "amount": 14}, {"item": "veqyro", "amount": 7}], "research": "fopo-factory", "powerProduction": 3.3877213815879395, "category": "power"}

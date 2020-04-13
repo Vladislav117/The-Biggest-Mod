@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small syhisonium power node", "description": "...", "size": 1, "health": 46, "requirements": [{"item": "syhisonium", "amount": 14}, {"item": "vubedi", "amount": 14}, {"item": "qulape", "amount": 7}], "research": "syhisonium-factory", "maxNodes": 8, "laserRange": 13, "category": "power"}

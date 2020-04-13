@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hociku battery", "description": "...", "size": 1, "health": 296, "requirements": [{"item": "hociku", "amount": 8}, {"item": "napunium", "amount": 20}, {"item": "qebiwy", "amount": 2}], "research": "hociku-factory", "consumes": {"powerBuffered": 334}, "category": "power"}

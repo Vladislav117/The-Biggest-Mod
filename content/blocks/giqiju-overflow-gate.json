@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "giqiju overflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "giqiju", "amount": 4}, {"item": "fise", "amount": 2}], "research": "giqiju-conveyor", "category": "distribution", "invert": false}

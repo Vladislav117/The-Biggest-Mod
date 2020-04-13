@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yylove junction", "description": "...", "health": 13, "speed": 19, "capacity": 1, "size": 1, "requirements": [{"item": "yylove", "amount": 5}, {"item": "pihybo", "amount": 5}], "research": "yylove-conveyor", "category": "distribution"}

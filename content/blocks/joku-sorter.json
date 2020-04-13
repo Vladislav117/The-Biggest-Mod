@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "joku sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "joku", "amount": 5}, {"item": "nywo", "amount": 5}], "research": "joku-conveyor", "category": "distribution", "invert": false}

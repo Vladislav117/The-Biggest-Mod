@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hoqego battery", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "hoqego", "amount": 20}, {"item": "lyvewenium", "amount": 20}, {"item": "betesa", "amount": 4}], "research": "hoqego-factory", "consumes": {"powerBuffered": 1437}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "temi liquid router", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "temi", "amount": 8}, {"item": "soronium", "amount": 16}, {"item": "juqerunium", "amount": 6}], "research": "temi-conduit", "liquidCapacity": 10, "category": "liquid"}

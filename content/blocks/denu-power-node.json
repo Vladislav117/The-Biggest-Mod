@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "denu power node", "description": "...", "size": 2, "health": 619, "requirements": [{"item": "denu", "amount": 5}, {"item": "nejesu", "amount": 10}, {"item": "lejara", "amount": 4}], "research": "denu-factory", "maxNodes": 55, "laserRange": 12, "category": "power"}

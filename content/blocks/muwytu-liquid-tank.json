@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "muwytu liquid tank", "description": "...", "health": 265, "size": 3, "requirements": [{"item": "muwytu", "amount": 9}, {"item": "filo", "amount": 20}, {"item": "faqoyynium", "amount": 1}], "research": "muwytu-conduit", "category": "liquid", "liquidCapacity": 115615, "hasLiquids": true}

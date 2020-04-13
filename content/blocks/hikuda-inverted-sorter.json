@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hikuda inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "hikuda", "amount": 3}, {"item": "sysagu", "amount": 2}], "research": "hikuda-conveyor", "category": "distribution", "invert": true}

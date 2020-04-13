@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "viwafy bridge conveyor", "description": "", "health": 46, "range": 20, "speed": 17, "bufferCapacity": 8, "requirements": [{"item": "viwafy", "amount": 5}, {"item": "qyzapa", "amount": 1}], "research": "viwafy-conveyor", "category": "distribution", "size": 1}

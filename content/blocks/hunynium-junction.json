@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hunynium junction", "description": "...", "health": 28, "speed": 2, "capacity": 3, "size": 1, "requirements": [{"item": "hunynium", "amount": 2}, {"item": "bexa", "amount": 5}], "research": "hunynium-conveyor", "category": "distribution"}

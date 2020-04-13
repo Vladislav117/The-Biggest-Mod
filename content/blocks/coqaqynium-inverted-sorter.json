@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "coqaqynium inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "coqaqynium", "amount": 3}, {"item": "vapo", "amount": 5}], "research": "coqaqynium-conveyor", "category": "distribution", "invert": true}

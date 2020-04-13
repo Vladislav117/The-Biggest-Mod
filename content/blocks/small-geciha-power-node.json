@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small geciha power node", "description": "...", "size": 1, "health": 368, "requirements": [{"item": "geciha", "amount": 17}, {"item": "ridu", "amount": 17}, {"item": "nirenium", "amount": 1}], "research": "geciha-factory", "maxNodes": 29, "laserRange": 4, "category": "power"}

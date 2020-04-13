@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wobe bridge conveyor", "description": "", "health": 31, "range": 3, "speed": 3, "bufferCapacity": 6, "requirements": [{"item": "wobe", "amount": 4}, {"item": "rowi", "amount": 4}], "research": "wobe-conveyor", "category": "distribution", "size": 1}

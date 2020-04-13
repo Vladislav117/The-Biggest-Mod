@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cyrase bridge conveyor", "description": "", "health": 4, "range": 15, "speed": 8, "bufferCapacity": 15, "requirements": [{"item": "cyrase", "amount": 5}, {"item": "wuwynium", "amount": 1}], "research": "cyrase-conveyor", "category": "distribution", "size": 1}

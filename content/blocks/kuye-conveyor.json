@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "kuye conveyor", "description": "...", "health": 270, "requirements": [{"item": "kuye", "amount": 2}, {"item": "pyrogonium", "amount": 4}], "speed": 0.1021547055254074, "research": "kuye-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sylunium bridge conveyor", "description": "", "health": 48, "range": 2, "speed": 6, "bufferCapacity": 5, "requirements": [{"item": "sylunium", "amount": 1}, {"item": "fuyoja", "amount": 1}], "research": "sylunium-conveyor", "category": "distribution", "size": 1}

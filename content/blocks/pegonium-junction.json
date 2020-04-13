@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pegonium junction", "description": "...", "health": 37, "speed": 14, "capacity": 6, "size": 1, "requirements": [{"item": "pegonium", "amount": 3}, {"item": "sehopa", "amount": 4}], "research": "pegonium-conveyor", "category": "distribution"}

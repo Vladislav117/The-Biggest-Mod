@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nefuxa liquid tank", "description": "...", "health": 274, "size": 3, "requirements": [{"item": "nefuxa", "amount": 20}, {"item": "fixe", "amount": 20}, {"item": "vini", "amount": 1}], "research": "nefuxa-conduit", "category": "liquid", "liquidCapacity": 17256, "hasLiquids": true}

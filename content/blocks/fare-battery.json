@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fare battery", "description": "...", "size": 3, "health": 160, "requirements": [{"item": "fare", "amount": 12}, {"item": "dekyzu", "amount": 9}, {"item": "terynium", "amount": 2}], "research": "fare-factory", "consumes": {"powerBuffered": 5034}, "category": "power"}

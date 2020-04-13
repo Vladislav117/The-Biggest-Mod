@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vule liquid router", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "vule", "amount": 9}, {"item": "kytuzynium", "amount": 13}, {"item": "zyma", "amount": 8}], "research": "vule-conduit", "liquidCapacity": 10, "category": "liquid"}

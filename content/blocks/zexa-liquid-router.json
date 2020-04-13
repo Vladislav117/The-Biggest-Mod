@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zexa liquid router", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "zexa", "amount": 17}, {"item": "piny", "amount": 4}, {"item": "gujore", "amount": 9}], "research": "zexa-conduit", "liquidCapacity": 10, "category": "liquid"}

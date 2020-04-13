@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small noxy power node", "description": "...", "size": 1, "health": 247, "requirements": [{"item": "noxy", "amount": 16}, {"item": "hyvyje", "amount": 5}, {"item": "yuyicenium", "amount": 1}], "research": "noxy-factory", "maxNodes": 27, "laserRange": 16, "category": "power"}

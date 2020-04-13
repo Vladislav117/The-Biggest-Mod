@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wycumu junction", "description": "...", "health": 23, "speed": 11, "capacity": 18, "size": 1, "requirements": [{"item": "wycumu", "amount": 5}, {"item": "vixonium", "amount": 5}], "research": "wycumu-conveyor", "category": "distribution"}

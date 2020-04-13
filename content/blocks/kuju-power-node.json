@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kuju power node", "description": "...", "size": 2, "health": 653, "requirements": [{"item": "kuju", "amount": 14}, {"item": "xepiqi", "amount": 16}, {"item": "teyonium", "amount": 2}], "research": "kuju-factory", "maxNodes": 52, "laserRange": 28, "category": "power"}

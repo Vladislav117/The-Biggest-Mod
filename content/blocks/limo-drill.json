@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "limo drill", "description": "...", "size": 3, "health": 431, "tier": 4, "drillTime": 15, "consumes": {"power": 10}, "requirements": [{"item": "limo", "amount": 18}, {"item": "tysi", "amount": 6}, {"item": "rudu", "amount": 8}], "research": "limo-factory", "category": "production"}

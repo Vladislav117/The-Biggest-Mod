@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xaxe power node", "description": "...", "size": 2, "health": 260, "requirements": [{"item": "xaxe", "amount": 19}, {"item": "moki", "amount": 18}, {"item": "bohexi", "amount": 8}], "research": "xaxe-factory", "maxNodes": 58, "laserRange": 13, "category": "power"}

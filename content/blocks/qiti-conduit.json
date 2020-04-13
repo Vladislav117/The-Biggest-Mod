@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qiti conduit", "description": "...", "health": 167, "requirements": [{"item": "qiti", "amount": 19}, {"item": "yebyte", "amount": 1}, {"item": "vodynium", "amount": 10}], "liquidCapacity": 36, "liquidPressure": 5, "research": "qiti-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pamufo liquid tank", "description": "...", "health": 467, "size": 3, "requirements": [{"item": "pamufo", "amount": 2}, {"item": "buco", "amount": 15}, {"item": "meranium", "amount": 9}], "research": "pamufo-conduit", "category": "liquid", "liquidCapacity": 31955, "hasLiquids": true}

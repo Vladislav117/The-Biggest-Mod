@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pycuso battery", "description": "...", "size": 3, "health": 13, "requirements": [{"item": "pycuso", "amount": 5}, {"item": "diwyci", "amount": 15}, {"item": "piwu", "amount": 10}], "research": "pycuso-factory", "consumes": {"powerBuffered": 700}, "category": "power"}

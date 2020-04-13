@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nilo battery", "description": "...", "size": 3, "health": 273, "requirements": [{"item": "nilo", "amount": 11}, {"item": "sywuze", "amount": 12}, {"item": "fevy", "amount": 8}], "research": "nilo-factory", "consumes": {"powerBuffered": 6300}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small koxupo battery", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "koxupo", "amount": 3}, {"item": "nikoru", "amount": 13}, {"item": "qujuyi", "amount": 10}], "research": "koxupo-factory", "consumes": {"powerBuffered": 2783}, "category": "power"}

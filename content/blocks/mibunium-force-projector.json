@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "mibunium force projector", "description": "...", "health": 167, "size": 3, "consumes": {"power": 5.0, "item": "mibunium"}, "requirements": [{"item": "mibunium", "amount": 11}, {"item": "towenium", "amount": 17}, {"item": "vyka", "amount": 10}], "research": "mibunium-factory", "category": "effect"}

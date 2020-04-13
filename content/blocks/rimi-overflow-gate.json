@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rimi overflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "rimi", "amount": 5}, {"item": "befy", "amount": 5}], "research": "rimi-conveyor", "category": "distribution", "invert": false}

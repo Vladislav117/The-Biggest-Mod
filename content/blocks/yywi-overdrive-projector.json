@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "yywi overdrive projector", "description": "...", "health": 80, "consumes": {"power": 3.0, "item": "yywi"}, "size": 2, "requirements": [{"item": "yywi", "amount": 7}, {"item": "wuvu", "amount": 14}, {"item": "rukycu", "amount": 8}], "research": "yywi-factory", "category": "effect"}

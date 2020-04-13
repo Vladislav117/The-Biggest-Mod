@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xycowy liquid tank", "description": "...", "health": 439, "size": 3, "requirements": [{"item": "xycowy", "amount": 15}, {"item": "yirere", "amount": 12}, {"item": "yinuze", "amount": 2}], "research": "xycowy-conduit", "category": "liquid", "liquidCapacity": 76362, "hasLiquids": true}

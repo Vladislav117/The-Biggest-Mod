@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lygynium power node", "description": "...", "size": 2, "health": 213, "requirements": [{"item": "lygynium", "amount": 3}, {"item": "fasi", "amount": 8}, {"item": "huxo", "amount": 4}], "research": "lygynium-factory", "maxNodes": 14, "laserRange": 11, "category": "power"}

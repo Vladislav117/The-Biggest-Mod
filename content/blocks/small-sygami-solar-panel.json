@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sygami solar panel", "description": "...", "size": 1, "health": 256, "requirements": [{"item": "sygami", "amount": 3}, {"item": "zuhu", "amount": 15}, {"item": "nuci", "amount": 8}], "research": "sygami-factory", "powerProduction": 2.7125131099924706, "category": "power"}

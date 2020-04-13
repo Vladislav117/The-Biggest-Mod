@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "saxa liquid tank", "description": "...", "health": 290, "size": 3, "requirements": [{"item": "saxa", "amount": 17}, {"item": "kufi", "amount": 1}, {"item": "cymaca", "amount": 6}], "research": "saxa-conduit", "category": "liquid", "liquidCapacity": 46560, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mexa inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "mexa", "amount": 2}, {"item": "rymyva", "amount": 4}], "research": "mexa-conveyor", "category": "distribution", "invert": true}

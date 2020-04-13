@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xuserynium solar panel", "description": "...", "size": 1, "health": 388, "requirements": [{"item": "xuserynium", "amount": 12}, {"item": "yebyte", "amount": 9}, {"item": "zufi", "amount": 5}], "research": "xuserynium-factory", "powerProduction": 2.7382403993825672, "category": "power"}

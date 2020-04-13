@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "siposi sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "siposi", "amount": 5}, {"item": "sajoje", "amount": 1}], "research": "siposi-conveyor", "category": "distribution", "invert": false}

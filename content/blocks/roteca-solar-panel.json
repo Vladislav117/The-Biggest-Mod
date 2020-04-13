@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "roteca solar panel", "description": "...", "size": 3, "health": 198, "requirements": [{"item": "roteca", "amount": 3}, {"item": "vini", "amount": 14}, {"item": "yuwo", "amount": 2}], "research": "roteca-factory", "powerProduction": 0.10359983103308261, "category": "power"}

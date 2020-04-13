@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qiyare overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "qiyare", "amount": 2}, {"item": "fasi", "amount": 3}], "research": "qiyare-conveyor", "category": "distribution", "invert": false}

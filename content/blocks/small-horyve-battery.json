@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small horyve battery", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "horyve", "amount": 13}, {"item": "gurikinium", "amount": 16}, {"item": "heqywanium", "amount": 6}], "research": "horyve-factory", "consumes": {"powerBuffered": 1751}, "category": "power"}

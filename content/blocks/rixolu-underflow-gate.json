@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rixolu underflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "rixolu", "amount": 5}, {"item": "koci", "amount": 1}], "research": "rixolu-conveyor", "category": "distribution", "invert": false}

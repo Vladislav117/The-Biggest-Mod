@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small syto power node", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "syto", "amount": 18}, {"item": "gave", "amount": 2}, {"item": "dejoqonium", "amount": 7}], "research": "syto-factory", "maxNodes": 5, "laserRange": 11, "category": "power"}

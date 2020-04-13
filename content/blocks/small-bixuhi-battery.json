@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bixuhi battery", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "bixuhi", "amount": 4}, {"item": "siwi", "amount": 12}, {"item": "novimo", "amount": 5}], "research": "bixuhi-factory", "consumes": {"powerBuffered": 1739}, "category": "power"}

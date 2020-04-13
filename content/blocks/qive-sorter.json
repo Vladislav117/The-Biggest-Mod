@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qive sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "qive", "amount": 2}, {"item": "vikasynium", "amount": 1}], "research": "qive-conveyor", "category": "distribution", "invert": false}

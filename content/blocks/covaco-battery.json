@@ -1,0 +1,1 @@
+{"type": "battery", "name": "covaco battery", "description": "...", "size": 3, "health": 115, "requirements": [{"item": "covaco", "amount": 14}, {"item": "qopaye", "amount": 2}, {"item": "vepipu", "amount": 5}], "research": "covaco-factory", "consumes": {"powerBuffered": 4094}, "category": "power"}

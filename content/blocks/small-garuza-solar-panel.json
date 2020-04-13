@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small garuza solar panel", "description": "...", "size": 1, "health": 227, "requirements": [{"item": "garuza", "amount": 6}, {"item": "geco", "amount": 16}, {"item": "siyenium", "amount": 8}], "research": "garuza-factory", "powerProduction": 4.367575662574023, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "judu bridge conveyor", "description": "", "health": 18, "range": 1, "speed": 12, "bufferCapacity": 22, "requirements": [{"item": "judu", "amount": 2}, {"item": "vakaco", "amount": 1}], "research": "judu-conveyor", "category": "distribution", "size": 1}

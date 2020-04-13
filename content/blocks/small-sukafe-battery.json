@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sukafe battery", "description": "...", "size": 1, "health": 285, "requirements": [{"item": "sukafe", "amount": 9}, {"item": "sidu", "amount": 20}, {"item": "cudy", "amount": 7}], "research": "sukafe-factory", "consumes": {"powerBuffered": 2909}, "category": "power"}

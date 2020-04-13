@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sawa sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "sawa", "amount": 2}, {"item": "qybasinium", "amount": 4}], "research": "sawa-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cyzo overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "cyzo", "amount": 4}, {"item": "cyma", "amount": 3}], "research": "cyzo-conveyor", "category": "distribution", "invert": false}

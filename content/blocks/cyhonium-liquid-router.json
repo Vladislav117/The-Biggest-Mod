@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cyhonium liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "cyhonium", "amount": 8}, {"item": "webebu", "amount": 1}, {"item": "roxila", "amount": 5}], "research": "cyhonium-conduit", "liquidCapacity": 10, "category": "liquid"}

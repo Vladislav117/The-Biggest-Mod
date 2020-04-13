@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "zupu conveyor", "description": "...", "health": 309, "requirements": [{"item": "zupu", "amount": 1}, {"item": "jawa", "amount": 7}], "speed": 0.2562515591231095, "research": "zupu-factory", "category": "distribution"}

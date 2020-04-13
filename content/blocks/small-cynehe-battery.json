@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cynehe battery", "description": "...", "size": 1, "health": 151, "requirements": [{"item": "cynehe", "amount": 13}, {"item": "kyjyxo", "amount": 9}, {"item": "yyga", "amount": 9}], "research": "cynehe-factory", "consumes": {"powerBuffered": 1242}, "category": "power"}

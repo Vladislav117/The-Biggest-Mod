@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "koxy conduit", "description": "...", "health": 92, "requirements": [{"item": "koxy", "amount": 6}, {"item": "rawywa", "amount": 1}, {"item": "noka", "amount": 1}], "liquidCapacity": 48, "liquidPressure": 6, "research": "koxy-factory", "category": "liquid"}

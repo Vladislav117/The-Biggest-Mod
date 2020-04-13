@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bisy power node", "description": "...", "size": 2, "health": 737, "requirements": [{"item": "bisy", "amount": 9}, {"item": "togygi", "amount": 11}, {"item": "ciqi", "amount": 6}], "research": "bisy-factory", "maxNodes": 13, "laserRange": 19, "category": "power"}

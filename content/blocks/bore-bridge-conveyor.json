@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bore bridge conveyor", "description": "", "health": 6, "range": 18, "speed": 4, "bufferCapacity": 9, "requirements": [{"item": "bore", "amount": 1}, {"item": "siyenium", "amount": 5}], "research": "bore-conveyor", "category": "distribution", "size": 1}

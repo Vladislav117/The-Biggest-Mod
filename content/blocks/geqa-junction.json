@@ -1,0 +1,1 @@
+{"type": "junction", "name": "geqa junction", "description": "...", "health": 39, "speed": 16, "capacity": 5, "size": 1, "requirements": [{"item": "geqa", "amount": 5}, {"item": "bivucunium", "amount": 5}], "research": "geqa-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vocopy battery", "description": "...", "size": 3, "health": 314, "requirements": [{"item": "vocopy", "amount": 9}, {"item": "qacu", "amount": 10}, {"item": "wisi", "amount": 5}], "research": "vocopy-factory", "consumes": {"powerBuffered": 1483}, "category": "power"}

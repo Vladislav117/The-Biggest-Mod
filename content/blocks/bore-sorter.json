@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bore sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "bore", "amount": 3}, {"item": "xyco", "amount": 2}], "research": "bore-conveyor", "category": "distribution", "invert": false}

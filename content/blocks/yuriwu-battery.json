@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yuriwu battery", "description": "...", "size": 3, "health": 379, "requirements": [{"item": "yuriwu", "amount": 13}, {"item": "qivi", "amount": 5}, {"item": "hotonium", "amount": 8}], "research": "yuriwu-factory", "consumes": {"powerBuffered": 6863}, "category": "power"}

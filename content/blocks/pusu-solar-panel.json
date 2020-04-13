@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pusu solar panel", "description": "...", "size": 3, "health": 376, "requirements": [{"item": "pusu", "amount": 11}, {"item": "yyva", "amount": 1}, {"item": "dymu", "amount": 3}], "research": "pusu-factory", "powerProduction": 1.0453466639186637, "category": "power"}

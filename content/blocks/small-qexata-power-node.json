@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qexata power node", "description": "...", "size": 1, "health": 178, "requirements": [{"item": "qexata", "amount": 13}, {"item": "tybegi", "amount": 3}, {"item": "kixihinium", "amount": 9}], "research": "qexata-factory", "maxNodes": 7, "laserRange": 5, "category": "power"}

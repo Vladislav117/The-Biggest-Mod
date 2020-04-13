@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ruzagi overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "ruzagi", "amount": 3}, {"item": "furazinium", "amount": 2}], "research": "ruzagi-conveyor", "category": "distribution", "invert": false}

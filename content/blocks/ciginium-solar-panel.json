@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ciginium solar panel", "description": "...", "size": 3, "health": 314, "requirements": [{"item": "ciginium", "amount": 4}, {"item": "musonium", "amount": 5}, {"item": "cyjonium", "amount": 8}], "research": "ciginium-factory", "powerProduction": 0.0704305626792534, "category": "power"}

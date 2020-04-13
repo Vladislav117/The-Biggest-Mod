@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fikexonium sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "fikexonium", "amount": 1}, {"item": "bylo", "amount": 4}], "research": "fikexonium-conveyor", "category": "distribution", "invert": false}

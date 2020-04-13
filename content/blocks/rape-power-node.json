@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rape power node", "description": "...", "size": 2, "health": 651, "requirements": [{"item": "rape", "amount": 13}, {"item": "bedy", "amount": 16}, {"item": "cypamy", "amount": 9}], "research": "rape-factory", "maxNodes": 46, "laserRange": 29, "category": "power"}

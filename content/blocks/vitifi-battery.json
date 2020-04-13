@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vitifi battery", "description": "...", "size": 3, "health": 230, "requirements": [{"item": "vitifi", "amount": 7}, {"item": "cuso", "amount": 6}, {"item": "relaqo", "amount": 9}], "research": "vitifi-factory", "consumes": {"powerBuffered": 7870}, "category": "power"}

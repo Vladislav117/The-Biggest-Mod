@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tohi conduit", "description": "...", "health": 33, "requirements": [{"item": "tohi", "amount": 13}, {"item": "walinium", "amount": 1}, {"item": "kokonium", "amount": 1}], "liquidCapacity": 29, "liquidPressure": 0, "research": "tohi-factory", "category": "liquid"}

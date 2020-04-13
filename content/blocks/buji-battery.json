@@ -1,0 +1,1 @@
+{"type": "battery", "name": "buji battery", "description": "...", "size": 3, "health": 366, "requirements": [{"item": "buji", "amount": 4}, {"item": "sivaqi", "amount": 10}, {"item": "veco", "amount": 2}], "research": "buji-factory", "consumes": {"powerBuffered": 7609}, "category": "power"}

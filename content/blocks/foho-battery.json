@@ -1,0 +1,1 @@
+{"type": "battery", "name": "foho battery", "description": "...", "size": 3, "health": 350, "requirements": [{"item": "foho", "amount": 12}, {"item": "hotonium", "amount": 9}, {"item": "ciremo", "amount": 7}], "research": "foho-factory", "consumes": {"powerBuffered": 2272}, "category": "power"}

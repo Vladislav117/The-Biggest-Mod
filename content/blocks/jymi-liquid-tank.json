@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jymi liquid tank", "description": "...", "health": 575, "size": 3, "requirements": [{"item": "jymi", "amount": 1}, {"item": "gidu", "amount": 20}, {"item": "xydume", "amount": 9}], "research": "jymi-conduit", "category": "liquid", "liquidCapacity": 82765, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "deqonium drill", "description": "...", "size": 4, "health": 341, "tier": 3, "drillTime": 17, "consumes": {"power": 14}, "requirements": [{"item": "deqonium", "amount": 10}, {"item": "luly", "amount": 8}, {"item": "lero", "amount": 4}], "research": "deqonium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "lihinium force projector", "description": "...", "health": 162, "size": 3, "consumes": {"power": 5.0, "item": "lihinium"}, "requirements": [{"item": "lihinium", "amount": 6}, {"item": "vapa", "amount": 10}, {"item": "yyba", "amount": 5}], "research": "lihinium-factory", "category": "effect"}

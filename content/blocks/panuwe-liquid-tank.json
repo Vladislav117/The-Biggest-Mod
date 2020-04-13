@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "panuwe liquid tank", "description": "...", "health": 554, "size": 3, "requirements": [{"item": "panuwe", "amount": 8}, {"item": "hybobenium", "amount": 5}, {"item": "kyle", "amount": 7}], "research": "panuwe-conduit", "category": "liquid", "liquidCapacity": 104019, "hasLiquids": true}

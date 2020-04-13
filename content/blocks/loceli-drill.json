@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "loceli drill", "description": "...", "size": 2, "health": 169, "tier": 4, "drillTime": 18, "consumes": {"power": 16}, "requirements": [{"item": "loceli", "amount": 18}, {"item": "nayu", "amount": 11}, {"item": "jydo", "amount": 6}], "research": "loceli-factory", "category": "production"}

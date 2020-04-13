@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ziwa bridge conveyor", "description": "", "health": 30, "range": 9, "speed": 8, "bufferCapacity": 8, "requirements": [{"item": "ziwa", "amount": 3}, {"item": "vywene", "amount": 4}], "research": "ziwa-conveyor", "category": "distribution", "size": 1}

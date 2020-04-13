@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xyfi underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "xyfi", "amount": 5}, {"item": "jikanium", "amount": 5}], "research": "xyfi-conveyor", "category": "distribution", "invert": false}

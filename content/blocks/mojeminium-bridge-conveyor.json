@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mojeminium bridge conveyor", "description": "", "health": 43, "range": 14, "speed": 3, "bufferCapacity": 19, "requirements": [{"item": "mojeminium", "amount": 5}, {"item": "zoyasi", "amount": 1}], "research": "mojeminium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "codaxe underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "codaxe", "amount": 4}, {"item": "mepunium", "amount": 3}], "research": "codaxe-conveyor", "category": "distribution", "invert": false}

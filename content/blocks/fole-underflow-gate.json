@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fole underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "fole", "amount": 3}, {"item": "rateju", "amount": 4}], "research": "fole-conveyor", "category": "distribution", "invert": false}

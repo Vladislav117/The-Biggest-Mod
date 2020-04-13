@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "judeconium solar panel", "description": "...", "size": 3, "health": 288, "requirements": [{"item": "judeconium", "amount": 8}, {"item": "yebyte", "amount": 15}, {"item": "zafuqo", "amount": 2}], "research": "judeconium-factory", "powerProduction": 1.4611483294372563, "category": "power"}

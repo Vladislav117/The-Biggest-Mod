@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lyra liquid router", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "lyra", "amount": 3}, {"item": "byyu", "amount": 6}, {"item": "sybo", "amount": 4}], "research": "lyra-conduit", "liquidCapacity": 10, "category": "liquid"}

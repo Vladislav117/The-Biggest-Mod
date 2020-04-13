@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ranyzi inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "ranyzi", "amount": 3}, {"item": "divimenium", "amount": 5}], "research": "ranyzi-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "koxe sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "koxe", "amount": 3}, {"item": "maku", "amount": 2}], "research": "koxe-conveyor", "category": "distribution", "invert": false}

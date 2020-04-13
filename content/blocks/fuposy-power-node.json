@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fuposy power node", "description": "...", "size": 2, "health": 265, "requirements": [{"item": "fuposy", "amount": 4}, {"item": "pygu", "amount": 4}, {"item": "yuqy", "amount": 5}], "research": "fuposy-factory", "maxNodes": 42, "laserRange": 23, "category": "power"}

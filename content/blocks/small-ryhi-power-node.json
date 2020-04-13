@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ryhi power node", "description": "...", "size": 1, "health": 97, "requirements": [{"item": "ryhi", "amount": 18}, {"item": "byzure", "amount": 15}, {"item": "gineta", "amount": 6}], "research": "ryhi-factory", "maxNodes": 13, "laserRange": 4, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hysobe liquid tank", "description": "...", "health": 272, "size": 3, "requirements": [{"item": "hysobe", "amount": 19}, {"item": "sytafe", "amount": 3}, {"item": "surge-alloy", "amount": 2}], "research": "hysobe-conduit", "category": "liquid", "liquidCapacity": 32000, "hasLiquids": true}

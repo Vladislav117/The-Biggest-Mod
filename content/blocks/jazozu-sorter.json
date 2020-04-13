@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jazozu sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "jazozu", "amount": 1}, {"item": "nofy", "amount": 5}], "research": "jazozu-conveyor", "category": "distribution", "invert": false}

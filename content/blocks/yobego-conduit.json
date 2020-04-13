@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yobego conduit", "description": "...", "health": 130, "requirements": [{"item": "yobego", "amount": 19}, {"item": "lyzecinium", "amount": 10}, {"item": "ficido", "amount": 3}], "liquidCapacity": 49, "liquidPressure": 2, "research": "yobego-factory", "category": "liquid"}

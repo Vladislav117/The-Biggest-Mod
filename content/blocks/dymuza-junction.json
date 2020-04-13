@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dymuza junction", "description": "...", "health": 16, "speed": 14, "capacity": 18, "size": 1, "requirements": [{"item": "dymuza", "amount": 3}, {"item": "gedo", "amount": 5}], "research": "dymuza-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zypinium junction", "description": "...", "health": 39, "speed": 5, "capacity": 9, "size": 1, "requirements": [{"item": "zypinium", "amount": 2}, {"item": "mynesa", "amount": 1}], "research": "zypinium-conveyor", "category": "distribution"}

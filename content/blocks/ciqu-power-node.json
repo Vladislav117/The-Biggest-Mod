@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ciqu power node", "description": "...", "size": 2, "health": 725, "requirements": [{"item": "ciqu", "amount": 10}, {"item": "webebu", "amount": 18}, {"item": "xyduda", "amount": 1}], "research": "ciqu-factory", "maxNodes": 35, "laserRange": 23, "category": "power"}

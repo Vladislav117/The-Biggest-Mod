@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "samy liquid tank", "description": "...", "health": 140, "size": 3, "requirements": [{"item": "samy", "amount": 10}, {"item": "moce", "amount": 8}, {"item": "myruhy", "amount": 10}], "research": "samy-conduit", "category": "liquid", "liquidCapacity": 89149, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zilanium junction", "description": "...", "health": 23, "speed": 14, "capacity": 19, "size": 1, "requirements": [{"item": "zilanium", "amount": 4}, {"item": "zohobe", "amount": 1}], "research": "zilanium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gokohunium battery", "description": "...", "size": 3, "health": 131, "requirements": [{"item": "gokohunium", "amount": 10}, {"item": "seca", "amount": 16}, {"item": "pikoqi", "amount": 3}], "research": "gokohunium-factory", "consumes": {"powerBuffered": 5133}, "category": "power"}

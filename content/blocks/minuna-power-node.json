@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "minuna power node", "description": "...", "size": 2, "health": 393, "requirements": [{"item": "minuna", "amount": 17}, {"item": "gujybo", "amount": 7}, {"item": "kyqu", "amount": 4}], "research": "minuna-factory", "maxNodes": 32, "laserRange": 15, "category": "power"}

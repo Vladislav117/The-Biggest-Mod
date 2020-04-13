@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zoxa liquid tank", "description": "...", "health": 153, "size": 3, "requirements": [{"item": "zoxa", "amount": 13}, {"item": "towenium", "amount": 7}, {"item": "mupa", "amount": 1}], "research": "zoxa-conduit", "category": "liquid", "liquidCapacity": 64243, "hasLiquids": true}

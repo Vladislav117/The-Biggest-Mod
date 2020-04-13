@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gevu underflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "gevu", "amount": 5}, {"item": "dyxuhu", "amount": 2}], "research": "gevu-conveyor", "category": "distribution", "invert": false}

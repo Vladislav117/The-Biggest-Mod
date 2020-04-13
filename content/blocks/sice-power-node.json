@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sice power node", "description": "...", "size": 2, "health": 270, "requirements": [{"item": "sice", "amount": 2}, {"item": "teyigu", "amount": 1}, {"item": "codaxe", "amount": 8}], "research": "sice-factory", "maxNodes": 21, "laserRange": 11, "category": "power"}

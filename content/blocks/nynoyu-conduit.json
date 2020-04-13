@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nynoyu conduit", "description": "...", "health": 160, "requirements": [{"item": "nynoyu", "amount": 16}, {"item": "huniji", "amount": 1}, {"item": "qoly", "amount": 2}], "liquidCapacity": 33, "liquidPressure": 7, "research": "nynoyu-factory", "category": "liquid"}

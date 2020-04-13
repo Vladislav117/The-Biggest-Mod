@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small somufu power node", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "somufu", "amount": 2}, {"item": "qelyqe", "amount": 1}, {"item": "nijuto", "amount": 7}], "research": "somufu-factory", "maxNodes": 12, "laserRange": 10, "category": "power"}

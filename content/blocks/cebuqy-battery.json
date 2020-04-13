@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cebuqy battery", "description": "...", "size": 3, "health": 241, "requirements": [{"item": "cebuqy", "amount": 7}, {"item": "xomaja", "amount": 8}, {"item": "pudoki", "amount": 4}], "research": "cebuqy-factory", "consumes": {"powerBuffered": 3438}, "category": "power"}

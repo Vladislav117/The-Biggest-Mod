@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "donuba liquid tank", "description": "...", "health": 569, "size": 3, "requirements": [{"item": "donuba", "amount": 5}, {"item": "qubyra", "amount": 8}, {"item": "suyi", "amount": 1}], "research": "donuba-conduit", "category": "liquid", "liquidCapacity": 35191, "hasLiquids": true}

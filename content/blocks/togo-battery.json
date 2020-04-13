@@ -1,0 +1,1 @@
+{"type": "battery", "name": "togo battery", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "togo", "amount": 7}, {"item": "rahy", "amount": 13}, {"item": "qylino", "amount": 1}], "research": "togo-factory", "consumes": {"powerBuffered": 5466}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kawo conduit", "description": "...", "health": 144, "requirements": [{"item": "kawo", "amount": 14}, {"item": "sacigi", "amount": 19}, {"item": "tuzy", "amount": 1}], "liquidCapacity": 46, "liquidPressure": 8, "research": "kawo-factory", "category": "liquid"}

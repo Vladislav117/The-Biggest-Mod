@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zide liquid router", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "zide", "amount": 5}, {"item": "xayenium", "amount": 6}, {"item": "viqi", "amount": 7}], "research": "zide-conduit", "liquidCapacity": 10, "category": "liquid"}

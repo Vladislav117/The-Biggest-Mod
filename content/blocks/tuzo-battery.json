@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tuzo battery", "description": "...", "size": 3, "health": 75, "requirements": [{"item": "tuzo", "amount": 14}, {"item": "monobu", "amount": 17}, {"item": "wywile", "amount": 7}], "research": "tuzo-factory", "consumes": {"powerBuffered": 7879}, "category": "power"}

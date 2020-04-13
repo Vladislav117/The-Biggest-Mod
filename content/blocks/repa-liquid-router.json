@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "repa liquid router", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "repa", "amount": 7}, {"item": "gafy", "amount": 2}, {"item": "kegi", "amount": 2}], "research": "repa-conduit", "liquidCapacity": 10, "category": "liquid"}

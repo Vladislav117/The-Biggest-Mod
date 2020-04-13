@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ropiki liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "ropiki", "amount": 18}, {"item": "xoquge", "amount": 3}, {"item": "sara", "amount": 8}], "research": "ropiki-conduit", "liquidCapacity": 10, "category": "liquid"}

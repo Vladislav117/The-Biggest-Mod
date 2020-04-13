@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nixaxe solar panel", "description": "...", "size": 3, "health": 169, "requirements": [{"item": "nixaxe", "amount": 5}, {"item": "gineta", "amount": 11}, {"item": "soki", "amount": 1}], "research": "nixaxe-factory", "powerProduction": 0.792683590630221, "category": "power"}

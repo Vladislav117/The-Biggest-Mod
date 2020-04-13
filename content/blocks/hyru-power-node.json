@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hyru power node", "description": "...", "size": 2, "health": 568, "requirements": [{"item": "hyru", "amount": 4}, {"item": "qaho", "amount": 11}, {"item": "lipo", "amount": 2}], "research": "hyru-factory", "maxNodes": 49, "laserRange": 11, "category": "power"}

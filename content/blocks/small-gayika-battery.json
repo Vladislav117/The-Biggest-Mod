@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gayika battery", "description": "...", "size": 1, "health": 286, "requirements": [{"item": "gayika", "amount": 13}, {"item": "nufuponium", "amount": 14}, {"item": "fufyyu", "amount": 2}], "research": "gayika-factory", "consumes": {"powerBuffered": 2267}, "category": "power"}

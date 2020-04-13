@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wulu liquid router", "description": "...", "size": 1, "health": 35, "requirements": [{"item": "wulu", "amount": 3}, {"item": "hyru", "amount": 6}, {"item": "depyya", "amount": 6}], "research": "wulu-conduit", "liquidCapacity": 10, "category": "liquid"}

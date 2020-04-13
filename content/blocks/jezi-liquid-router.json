@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jezi liquid router", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "jezi", "amount": 4}, {"item": "byzure", "amount": 4}, {"item": "xiga", "amount": 1}], "research": "jezi-conduit", "liquidCapacity": 10, "category": "liquid"}

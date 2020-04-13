@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tiyajo battery", "description": "...", "size": 3, "health": 257, "requirements": [{"item": "tiyajo", "amount": 10}, {"item": "dowa", "amount": 6}, {"item": "cuda", "amount": 3}], "research": "tiyajo-factory", "consumes": {"powerBuffered": 1026}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "porabonium junction", "description": "...", "health": 25, "speed": 19, "capacity": 1, "size": 1, "requirements": [{"item": "porabonium", "amount": 3}, {"item": "gosanium", "amount": 4}], "research": "porabonium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gylananium power node", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "gylananium", "amount": 4}, {"item": "tigocenium", "amount": 9}, {"item": "qaje", "amount": 7}], "research": "gylananium-factory", "maxNodes": 16, "laserRange": 10, "category": "power"}

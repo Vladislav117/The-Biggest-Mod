@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nymyginium liquid tank", "description": "...", "health": 499, "size": 3, "requirements": [{"item": "nymyginium", "amount": 3}, {"item": "roja", "amount": 7}, {"item": "zekaru", "amount": 5}], "research": "nymyginium-conduit", "category": "liquid", "liquidCapacity": 24081, "hasLiquids": true}

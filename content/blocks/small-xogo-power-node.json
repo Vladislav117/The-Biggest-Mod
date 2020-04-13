@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xogo power node", "description": "...", "size": 1, "health": 21, "requirements": [{"item": "xogo", "amount": 12}, {"item": "kanuya", "amount": 13}, {"item": "faqymu", "amount": 4}], "research": "xogo-factory", "maxNodes": 15, "laserRange": 7, "category": "power"}

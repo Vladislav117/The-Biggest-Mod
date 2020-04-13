@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mefymanium liquid tank", "description": "...", "health": 291, "size": 3, "requirements": [{"item": "mefymanium", "amount": 8}, {"item": "zuzequ", "amount": 18}, {"item": "jywupa", "amount": 2}], "research": "mefymanium-conduit", "category": "liquid", "liquidCapacity": 47150, "hasLiquids": true}

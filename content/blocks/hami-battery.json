@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hami battery", "description": "...", "size": 3, "health": 380, "requirements": [{"item": "hami", "amount": 12}, {"item": "biza", "amount": 4}, {"item": "nupu", "amount": 3}], "research": "hami-factory", "consumes": {"powerBuffered": 6688}, "category": "power"}

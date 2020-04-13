@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sacy battery", "description": "...", "size": 3, "health": 315, "requirements": [{"item": "sacy", "amount": 9}, {"item": "fuposy", "amount": 7}, {"item": "sysone", "amount": 9}], "research": "sacy-factory", "consumes": {"powerBuffered": 7295}, "category": "power"}

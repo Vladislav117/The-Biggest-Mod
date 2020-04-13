@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zoquqenium liquid tank", "description": "...", "health": 242, "size": 3, "requirements": [{"item": "zoquqenium", "amount": 17}, {"item": "zymi", "amount": 15}, {"item": "logybi", "amount": 7}], "research": "zoquqenium-conduit", "category": "liquid", "liquidCapacity": 52988, "hasLiquids": true}

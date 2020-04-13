@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "muyimy power node", "description": "...", "size": 2, "health": 127, "requirements": [{"item": "muyimy", "amount": 4}, {"item": "yavyra", "amount": 20}, {"item": "sewazo", "amount": 4}], "research": "muyimy-factory", "maxNodes": 34, "laserRange": 12, "category": "power"}

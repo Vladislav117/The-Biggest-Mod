@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dysojonium battery", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "dysojonium", "amount": 13}, {"item": "huyaxo", "amount": 19}, {"item": "hoxy", "amount": 10}], "research": "dysojonium-factory", "consumes": {"powerBuffered": 1906}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zufenium underflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "zufenium", "amount": 2}, {"item": "hocona", "amount": 5}], "research": "zufenium-conveyor", "category": "distribution", "invert": false}

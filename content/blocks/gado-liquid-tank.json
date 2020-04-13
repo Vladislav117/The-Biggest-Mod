@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gado liquid tank", "description": "...", "health": 490, "size": 3, "requirements": [{"item": "gado", "amount": 18}, {"item": "duto", "amount": 10}, {"item": "guvoja", "amount": 2}], "research": "gado-conduit", "category": "liquid", "liquidCapacity": 109172, "hasLiquids": true}

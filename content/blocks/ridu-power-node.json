@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ridu power node", "description": "...", "size": 2, "health": 594, "requirements": [{"item": "ridu", "amount": 15}, {"item": "tezila", "amount": 14}, {"item": "jywupa", "amount": 4}], "research": "ridu-factory", "maxNodes": 60, "laserRange": 12, "category": "power"}

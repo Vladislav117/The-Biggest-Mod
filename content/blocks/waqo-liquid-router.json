@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "waqo liquid router", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "waqo", "amount": 3}, {"item": "jumonium", "amount": 9}, {"item": "melula", "amount": 2}], "research": "waqo-conduit", "liquidCapacity": 10, "category": "liquid"}

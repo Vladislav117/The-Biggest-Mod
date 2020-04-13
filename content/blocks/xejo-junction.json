@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xejo junction", "description": "...", "health": 17, "speed": 3, "capacity": 6, "size": 1, "requirements": [{"item": "xejo", "amount": 1}, {"item": "fyfe", "amount": 5}], "research": "xejo-conveyor", "category": "distribution"}

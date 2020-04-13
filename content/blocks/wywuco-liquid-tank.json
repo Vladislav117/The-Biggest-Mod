@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wywuco liquid tank", "description": "...", "health": 643, "size": 3, "requirements": [{"item": "wywuco", "amount": 11}, {"item": "cedonium", "amount": 9}, {"item": "tuwe", "amount": 9}], "research": "wywuco-conduit", "category": "liquid", "liquidCapacity": 79377, "hasLiquids": true}

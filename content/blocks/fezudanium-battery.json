@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fezudanium battery", "description": "...", "size": 3, "health": 337, "requirements": [{"item": "fezudanium", "amount": 17}, {"item": "sohe", "amount": 3}, {"item": "lebo", "amount": 8}], "research": "fezudanium-factory", "consumes": {"powerBuffered": 5541}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rahasunium battery", "description": "...", "size": 1, "health": 165, "requirements": [{"item": "rahasunium", "amount": 19}, {"item": "marici", "amount": 2}, {"item": "gatajunium", "amount": 9}], "research": "rahasunium-factory", "consumes": {"powerBuffered": 740}, "category": "power"}

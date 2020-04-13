@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sijelu solar panel", "description": "...", "size": 1, "health": 380, "requirements": [{"item": "sijelu", "amount": 14}, {"item": "bayavo", "amount": 7}, {"item": "tozenium", "amount": 4}], "research": "sijelu-factory", "powerProduction": 5.182393807087644, "category": "power"}

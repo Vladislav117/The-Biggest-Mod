@@ -1,0 +1,1 @@
+{"type": "router", "name": "fifa router", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "fifa", "amount": 2}], "research": "fifa-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nuzivo solar panel", "description": "...", "size": 3, "health": 174, "requirements": [{"item": "nuzivo", "amount": 2}, {"item": "vuzoha", "amount": 8}, {"item": "wiba", "amount": 10}], "research": "nuzivo-factory", "powerProduction": 1.6471279146820543, "category": "power"}

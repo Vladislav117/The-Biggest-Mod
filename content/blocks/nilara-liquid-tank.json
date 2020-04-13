@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nilara liquid tank", "description": "...", "health": 619, "size": 3, "requirements": [{"item": "nilara", "amount": 4}, {"item": "tozenium", "amount": 5}, {"item": "myci", "amount": 5}], "research": "nilara-conduit", "category": "liquid", "liquidCapacity": 58075, "hasLiquids": true}

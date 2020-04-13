@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bocu solar panel", "description": "...", "size": 3, "health": 280, "requirements": [{"item": "bocu", "amount": 2}, {"item": "bihu", "amount": 6}, {"item": "body", "amount": 5}], "research": "bocu-factory", "powerProduction": 0.17348816432478922, "category": "power"}

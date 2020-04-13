@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mahe power node", "description": "...", "size": 2, "health": 785, "requirements": [{"item": "mahe", "amount": 13}, {"item": "ruji", "amount": 13}, {"item": "gevu", "amount": 9}], "research": "mahe-factory", "maxNodes": 43, "laserRange": 19, "category": "power"}

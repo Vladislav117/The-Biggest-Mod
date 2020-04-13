@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yudu bridge conveyor", "description": "", "health": 42, "range": 4, "speed": 14, "bufferCapacity": 2, "requirements": [{"item": "yudu", "amount": 4}, {"item": "xavayu", "amount": 1}], "research": "yudu-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fypanium power node", "description": "...", "size": 2, "health": 112, "requirements": [{"item": "fypanium", "amount": 5}, {"item": "hisoye", "amount": 2}, {"item": "qygi", "amount": 7}], "research": "fypanium-factory", "maxNodes": 16, "laserRange": 27, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "baqilo overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "baqilo", "amount": 2}, {"item": "bufywy", "amount": 1}], "research": "baqilo-conveyor", "category": "distribution", "invert": false}

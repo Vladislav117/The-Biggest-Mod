@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dojynium bridge conveyor", "description": "", "health": 50, "range": 7, "speed": 8, "bufferCapacity": 17, "requirements": [{"item": "dojynium", "amount": 3}, {"item": "dugi", "amount": 4}], "research": "dojynium-conveyor", "category": "distribution", "size": 1}

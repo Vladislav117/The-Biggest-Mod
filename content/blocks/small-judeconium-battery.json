@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small judeconium battery", "description": "...", "size": 1, "health": 395, "requirements": [{"item": "judeconium", "amount": 14}, {"item": "finu", "amount": 17}, {"item": "qukeso", "amount": 5}], "research": "judeconium-factory", "consumes": {"powerBuffered": 854}, "category": "power"}

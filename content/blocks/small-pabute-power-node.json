@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pabute power node", "description": "...", "size": 1, "health": 289, "requirements": [{"item": "pabute", "amount": 16}, {"item": "juleve", "amount": 10}, {"item": "sokezy", "amount": 9}], "research": "pabute-factory", "maxNodes": 20, "laserRange": 23, "category": "power"}

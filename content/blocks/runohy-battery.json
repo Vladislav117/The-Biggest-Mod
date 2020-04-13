@@ -1,0 +1,1 @@
+{"type": "battery", "name": "runohy battery", "description": "...", "size": 3, "health": 381, "requirements": [{"item": "runohy", "amount": 17}, {"item": "cuwe", "amount": 6}, {"item": "samivi", "amount": 10}], "research": "runohy-factory", "consumes": {"powerBuffered": 4807}, "category": "power"}

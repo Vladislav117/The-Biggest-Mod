@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vetigu liquid tank", "description": "...", "health": 620, "size": 3, "requirements": [{"item": "vetigu", "amount": 17}, {"item": "wyvuyenium", "amount": 1}, {"item": "mynesa", "amount": 5}], "research": "vetigu-conduit", "category": "liquid", "liquidCapacity": 108321, "hasLiquids": true}

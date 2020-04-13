@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pebi liquid router", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "pebi", "amount": 5}, {"item": "dawe", "amount": 2}, {"item": "wylanium", "amount": 3}], "research": "pebi-conduit", "liquidCapacity": 10, "category": "liquid"}

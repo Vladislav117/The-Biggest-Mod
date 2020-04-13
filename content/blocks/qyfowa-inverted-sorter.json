@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qyfowa inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "qyfowa", "amount": 1}, {"item": "yunu", "amount": 2}], "research": "qyfowa-conveyor", "category": "distribution", "invert": true}

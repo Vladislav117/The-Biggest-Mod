@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "quwyyonium underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "quwyyonium", "amount": 3}, {"item": "mafe", "amount": 5}], "research": "quwyyonium-conveyor", "category": "distribution", "invert": false}

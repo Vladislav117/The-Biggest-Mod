@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zofe power node", "description": "...", "size": 1, "health": 270, "requirements": [{"item": "zofe", "amount": 19}, {"item": "sony", "amount": 10}, {"item": "tofe", "amount": 10}], "research": "zofe-factory", "maxNodes": 21, "laserRange": 17, "category": "power"}

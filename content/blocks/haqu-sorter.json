@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "haqu sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "haqu", "amount": 5}, {"item": "daqy", "amount": 4}], "research": "haqu-conveyor", "category": "distribution", "invert": false}

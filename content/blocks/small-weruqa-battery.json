@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small weruqa battery", "description": "...", "size": 1, "health": 107, "requirements": [{"item": "weruqa", "amount": 5}, {"item": "qefa", "amount": 18}, {"item": "muco", "amount": 7}], "research": "weruqa-factory", "consumes": {"powerBuffered": 2632}, "category": "power"}

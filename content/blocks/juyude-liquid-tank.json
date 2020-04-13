@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "juyude liquid tank", "description": "...", "health": 266, "size": 3, "requirements": [{"item": "juyude", "amount": 20}, {"item": "yuny", "amount": 4}, {"item": "qurehy", "amount": 9}], "research": "juyude-conduit", "category": "liquid", "liquidCapacity": 107023, "hasLiquids": true}

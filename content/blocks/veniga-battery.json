@@ -1,0 +1,1 @@
+{"type": "battery", "name": "veniga battery", "description": "...", "size": 3, "health": 246, "requirements": [{"item": "veniga", "amount": 10}, {"item": "kotinium", "amount": 11}, {"item": "ryfo", "amount": 8}], "research": "veniga-factory", "consumes": {"powerBuffered": 2605}, "category": "power"}

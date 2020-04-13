@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zadi sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "zadi", "amount": 1}, {"item": "kima", "amount": 2}], "research": "zadi-conveyor", "category": "distribution", "invert": false}

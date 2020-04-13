@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tajyku junction", "description": "...", "health": 44, "speed": 20, "capacity": 17, "size": 1, "requirements": [{"item": "tajyku", "amount": 5}, {"item": "gapy", "amount": 2}], "research": "tajyku-conveyor", "category": "distribution"}

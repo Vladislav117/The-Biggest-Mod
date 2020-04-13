@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small miky battery", "description": "...", "size": 1, "health": 151, "requirements": [{"item": "miky", "amount": 3}, {"item": "ceciba", "amount": 13}, {"item": "vesi", "amount": 9}], "research": "miky-factory", "consumes": {"powerBuffered": 1200}, "category": "power"}

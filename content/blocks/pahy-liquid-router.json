@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pahy liquid router", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "pahy", "amount": 18}, {"item": "wuvu", "amount": 6}, {"item": "viwiwinium", "amount": 3}], "research": "pahy-conduit", "liquidCapacity": 10, "category": "liquid"}

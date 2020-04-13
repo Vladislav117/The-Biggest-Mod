@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kusacynium power node", "description": "...", "size": 2, "health": 162, "requirements": [{"item": "kusacynium", "amount": 2}, {"item": "kypofu", "amount": 4}, {"item": "kexaja", "amount": 6}], "research": "kusacynium-factory", "maxNodes": 52, "laserRange": 30, "category": "power"}

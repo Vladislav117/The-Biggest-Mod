@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "duyari power node", "description": "...", "size": 2, "health": 52, "requirements": [{"item": "duyari", "amount": 9}, {"item": "fica", "amount": 15}, {"item": "nivo", "amount": 10}], "research": "duyari-factory", "maxNodes": 41, "laserRange": 14, "category": "power"}

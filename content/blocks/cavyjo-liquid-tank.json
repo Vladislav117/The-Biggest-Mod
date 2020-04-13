@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cavyjo liquid tank", "description": "...", "health": 168, "size": 3, "requirements": [{"item": "cavyjo", "amount": 14}, {"item": "wutigo", "amount": 2}, {"item": "rabe", "amount": 1}], "research": "cavyjo-conduit", "category": "liquid", "liquidCapacity": 76626, "hasLiquids": true}

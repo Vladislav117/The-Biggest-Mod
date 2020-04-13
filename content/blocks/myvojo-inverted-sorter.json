@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "myvojo inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "myvojo", "amount": 4}, {"item": "rilo", "amount": 3}], "research": "myvojo-conveyor", "category": "distribution", "invert": true}

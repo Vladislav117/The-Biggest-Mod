@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qimu power node", "description": "...", "size": 1, "health": 266, "requirements": [{"item": "qimu", "amount": 2}, {"item": "tezila", "amount": 17}, {"item": "jinu", "amount": 7}], "research": "qimu-factory", "maxNodes": 25, "laserRange": 22, "category": "power"}

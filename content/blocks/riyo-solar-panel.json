@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "riyo solar panel", "description": "...", "size": 3, "health": 249, "requirements": [{"item": "riyo", "amount": 10}, {"item": "docinium", "amount": 8}, {"item": "betesa", "amount": 9}], "research": "riyo-factory", "powerProduction": 1.3112886608404641, "category": "power"}

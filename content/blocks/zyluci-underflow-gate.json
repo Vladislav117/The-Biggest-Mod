@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zyluci underflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "zyluci", "amount": 2}, {"item": "tobu", "amount": 3}], "research": "zyluci-conveyor", "category": "distribution", "invert": false}

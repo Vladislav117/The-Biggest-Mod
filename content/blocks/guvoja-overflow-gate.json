@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "guvoja overflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "guvoja", "amount": 5}, {"item": "qano", "amount": 5}], "research": "guvoja-conveyor", "category": "distribution", "invert": false}

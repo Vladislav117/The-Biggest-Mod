@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qiwise battery", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "qiwise", "amount": 11}, {"item": "jozu", "amount": 15}, {"item": "wita", "amount": 5}], "research": "qiwise-factory", "consumes": {"powerBuffered": 1091}, "category": "power"}

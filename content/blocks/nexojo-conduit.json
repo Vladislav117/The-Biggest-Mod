@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nexojo conduit", "description": "...", "health": 85, "requirements": [{"item": "nexojo", "amount": 1}, {"item": "cosizi", "amount": 4}, {"item": "gymypa", "amount": 10}], "liquidCapacity": 14, "liquidPressure": 10, "research": "nexojo-factory", "category": "liquid"}

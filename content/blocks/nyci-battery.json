@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nyci battery", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "nyci", "amount": 12}, {"item": "latycu", "amount": 13}, {"item": "nopenenium", "amount": 2}], "research": "nyci-factory", "consumes": {"powerBuffered": 8919}, "category": "power"}

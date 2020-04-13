@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hewy inverted sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "hewy", "amount": 4}, {"item": "wiba", "amount": 4}], "research": "hewy-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small leyoqo solar panel", "description": "...", "size": 1, "health": 231, "requirements": [{"item": "leyoqo", "amount": 2}, {"item": "higy", "amount": 19}, {"item": "furazinium", "amount": 2}], "research": "leyoqo-factory", "powerProduction": 2.8000093090898126, "category": "power"}

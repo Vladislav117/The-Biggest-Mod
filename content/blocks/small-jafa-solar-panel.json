@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jafa solar panel", "description": "...", "size": 1, "health": 52, "requirements": [{"item": "jafa", "amount": 5}, {"item": "vema", "amount": 7}, {"item": "xylidinium", "amount": 7}], "research": "jafa-factory", "powerProduction": 1.2955231140773347, "category": "power"}

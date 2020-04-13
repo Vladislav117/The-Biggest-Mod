@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qoxida inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "qoxida", "amount": 4}, {"item": "ruvudo", "amount": 5}], "research": "qoxida-conveyor", "category": "distribution", "invert": true}

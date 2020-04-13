@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wybenium junction", "description": "...", "health": 26, "speed": 16, "capacity": 1, "size": 1, "requirements": [{"item": "wybenium", "amount": 1}, {"item": "tupo", "amount": 5}], "research": "wybenium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "negi force projector", "description": "...", "health": 227, "size": 3, "consumes": {"power": 5.0, "item": "negi"}, "requirements": [{"item": "negi", "amount": 4}, {"item": "zodo", "amount": 1}, {"item": "yewininium", "amount": 10}], "research": "negi-factory", "category": "effect"}

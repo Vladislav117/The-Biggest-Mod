@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "neno solar panel", "description": "...", "size": 3, "health": 190, "requirements": [{"item": "neno", "amount": 18}, {"item": "dipyfonium", "amount": 16}, {"item": "xekocanium", "amount": 8}], "research": "neno-factory", "powerProduction": 0.9991782307525171, "category": "power"}

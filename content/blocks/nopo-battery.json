@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nopo battery", "description": "...", "size": 3, "health": 366, "requirements": [{"item": "nopo", "amount": 17}, {"item": "baranium", "amount": 6}, {"item": "vuru", "amount": 9}], "research": "nopo-factory", "consumes": {"powerBuffered": 5916}, "category": "power"}

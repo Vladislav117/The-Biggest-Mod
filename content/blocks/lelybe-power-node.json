@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lelybe power node", "description": "...", "size": 2, "health": 453, "requirements": [{"item": "lelybe", "amount": 7}, {"item": "wuwo", "amount": 9}, {"item": "deyy", "amount": 1}], "research": "lelybe-factory", "maxNodes": 27, "laserRange": 12, "category": "power"}

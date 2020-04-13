@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mywexu solar panel", "description": "...", "size": 3, "health": 112, "requirements": [{"item": "mywexu", "amount": 19}, {"item": "zalirenium", "amount": 9}, {"item": "yeku", "amount": 1}], "research": "mywexu-factory", "powerProduction": 0.4291783105598131, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small juzydu power node", "description": "...", "size": 1, "health": 300, "requirements": [{"item": "juzydu", "amount": 17}, {"item": "pikoqi", "amount": 12}, {"item": "mumu", "amount": 6}], "research": "juzydu-factory", "maxNodes": 30, "laserRange": 17, "category": "power"}

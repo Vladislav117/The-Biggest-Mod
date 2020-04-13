@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cetajenium power node", "description": "...", "size": 1, "health": 172, "requirements": [{"item": "cetajenium", "amount": 5}, {"item": "pominium", "amount": 19}, {"item": "cetemy", "amount": 5}], "research": "cetajenium-factory", "maxNodes": 25, "laserRange": 6, "category": "power"}

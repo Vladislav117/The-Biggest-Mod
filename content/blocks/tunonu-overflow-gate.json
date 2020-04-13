@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tunonu overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "tunonu", "amount": 1}, {"item": "wija", "amount": 2}], "research": "tunonu-conveyor", "category": "distribution", "invert": false}

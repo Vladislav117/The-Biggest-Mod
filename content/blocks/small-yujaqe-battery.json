@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yujaqe battery", "description": "...", "size": 1, "health": 263, "requirements": [{"item": "yujaqe", "amount": 8}, {"item": "gahe", "amount": 6}, {"item": "muco", "amount": 7}], "research": "yujaqe-factory", "consumes": {"powerBuffered": 1372}, "category": "power"}

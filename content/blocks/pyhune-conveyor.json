@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pyhune conveyor", "description": "...", "health": 26, "requirements": [{"item": "pyhune", "amount": 5}, {"item": "lynulo", "amount": 7}], "speed": 0.16357318007045485, "research": "pyhune-factory", "category": "distribution"}

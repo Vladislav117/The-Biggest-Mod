@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zelanium power node", "description": "...", "size": 1, "health": 214, "requirements": [{"item": "zelanium", "amount": 4}, {"item": "tobu", "amount": 6}, {"item": "titanium", "amount": 9}], "research": "zelanium-factory", "maxNodes": 4, "laserRange": 13, "category": "power"}

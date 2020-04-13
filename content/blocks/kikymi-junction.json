@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kikymi junction", "description": "...", "health": 13, "speed": 3, "capacity": 18, "size": 1, "requirements": [{"item": "kikymi", "amount": 4}, {"item": "cyma", "amount": 1}], "research": "kikymi-conveyor", "category": "distribution"}

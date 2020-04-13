@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vuxi power node", "description": "...", "size": 1, "health": 324, "requirements": [{"item": "vuxi", "amount": 17}, {"item": "manihe", "amount": 16}, {"item": "naku", "amount": 7}], "research": "vuxi-factory", "maxNodes": 9, "laserRange": 15, "category": "power"}

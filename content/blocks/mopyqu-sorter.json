@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mopyqu sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "mopyqu", "amount": 1}, {"item": "zymaginium", "amount": 5}], "research": "mopyqu-conveyor", "category": "distribution", "invert": false}

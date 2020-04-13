@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rivy junction", "description": "...", "health": 47, "speed": 12, "capacity": 2, "size": 1, "requirements": [{"item": "rivy", "amount": 5}, {"item": "ligyxe", "amount": 4}], "research": "rivy-conveyor", "category": "distribution"}

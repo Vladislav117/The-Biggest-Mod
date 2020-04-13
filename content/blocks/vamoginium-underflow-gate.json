@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vamoginium underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "vamoginium", "amount": 3}, {"item": "mebu", "amount": 4}], "research": "vamoginium-conveyor", "category": "distribution", "invert": false}

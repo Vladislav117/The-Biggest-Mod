@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pemi battery", "description": "...", "size": 3, "health": 335, "requirements": [{"item": "pemi", "amount": 14}, {"item": "sypyqanium", "amount": 2}, {"item": "hygili", "amount": 2}], "research": "pemi-factory", "consumes": {"powerBuffered": 2421}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "celaji liquid tank", "description": "...", "health": 159, "size": 3, "requirements": [{"item": "celaji", "amount": 11}, {"item": "fuqyty", "amount": 14}, {"item": "pudogi", "amount": 10}], "research": "celaji-conduit", "category": "liquid", "liquidCapacity": 14073, "hasLiquids": true}

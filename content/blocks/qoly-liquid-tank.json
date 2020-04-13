@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qoly liquid tank", "description": "...", "health": 526, "size": 3, "requirements": [{"item": "qoly", "amount": 1}, {"item": "qivi", "amount": 19}, {"item": "yexowy", "amount": 5}], "research": "qoly-conduit", "category": "liquid", "liquidCapacity": 87614, "hasLiquids": true}

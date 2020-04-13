@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jygu overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "jygu", "amount": 3}, {"item": "lijanium", "amount": 1}], "research": "jygu-conveyor", "category": "distribution", "invert": false}

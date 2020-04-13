@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wisipu liquid tank", "description": "...", "health": 621, "size": 3, "requirements": [{"item": "wisipu", "amount": 3}, {"item": "yohu", "amount": 8}, {"item": "yywy", "amount": 5}], "research": "wisipu-conduit", "category": "liquid", "liquidCapacity": 106744, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vuponium liquid router", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "vuponium", "amount": 18}, {"item": "focatu", "amount": 1}, {"item": "xysynium", "amount": 2}], "research": "vuponium-conduit", "liquidCapacity": 10, "category": "liquid"}

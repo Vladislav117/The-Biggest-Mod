@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dysenium liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "dysenium", "amount": 10}, {"item": "zazinium", "amount": 11}, {"item": "zycinium", "amount": 9}], "research": "dysenium-conduit", "liquidCapacity": 10, "category": "liquid"}

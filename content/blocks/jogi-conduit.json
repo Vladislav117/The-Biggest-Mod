@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jogi conduit", "description": "...", "health": 165, "requirements": [{"item": "jogi", "amount": 7}, {"item": "dycimi", "amount": 1}, {"item": "kanuya", "amount": 7}], "liquidCapacity": 36, "liquidPressure": 9, "research": "jogi-factory", "category": "liquid"}

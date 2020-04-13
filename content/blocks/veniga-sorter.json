@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "veniga sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "veniga", "amount": 4}, {"item": "picika", "amount": 4}], "research": "veniga-conveyor", "category": "distribution", "invert": false}

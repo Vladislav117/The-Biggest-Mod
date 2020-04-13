@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qiri battery", "description": "...", "size": 3, "health": 337, "requirements": [{"item": "qiri", "amount": 15}, {"item": "sebobe", "amount": 6}, {"item": "jygery", "amount": 7}], "research": "qiri-factory", "consumes": {"powerBuffered": 4948}, "category": "power"}

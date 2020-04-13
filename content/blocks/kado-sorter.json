@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kado sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "kado", "amount": 2}, {"item": "xywoty", "amount": 4}], "research": "kado-conveyor", "category": "distribution", "invert": false}

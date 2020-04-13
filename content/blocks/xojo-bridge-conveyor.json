@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xojo bridge conveyor", "description": "", "health": 49, "range": 19, "speed": 14, "bufferCapacity": 22, "requirements": [{"item": "xojo", "amount": 5}, {"item": "hiwasi", "amount": 3}], "research": "xojo-conveyor", "category": "distribution", "size": 1}

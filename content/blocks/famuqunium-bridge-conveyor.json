@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "famuqunium bridge conveyor", "description": "", "health": 40, "range": 3, "speed": 4, "bufferCapacity": 7, "requirements": [{"item": "famuqunium", "amount": 1}, {"item": "dezy", "amount": 1}], "research": "famuqunium-conveyor", "category": "distribution", "size": 1}

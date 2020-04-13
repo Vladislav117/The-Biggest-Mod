@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dacira conduit", "description": "...", "health": 101, "requirements": [{"item": "dacira", "amount": 2}, {"item": "wizacy", "amount": 19}, {"item": "yuno", "amount": 7}], "liquidCapacity": 50, "liquidPressure": 8, "research": "dacira-factory", "category": "liquid"}

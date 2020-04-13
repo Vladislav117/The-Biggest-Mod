@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bemu liquid tank", "description": "...", "health": 510, "size": 3, "requirements": [{"item": "bemu", "amount": 6}, {"item": "mifi", "amount": 8}, {"item": "qusy", "amount": 1}], "research": "bemu-conduit", "category": "liquid", "liquidCapacity": 80540, "hasLiquids": true}

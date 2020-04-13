@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dawo liquid tank", "description": "...", "health": 466, "size": 3, "requirements": [{"item": "dawo", "amount": 19}, {"item": "lodowo", "amount": 13}, {"item": "nydinenium", "amount": 4}], "research": "dawo-conduit", "category": "liquid", "liquidCapacity": 48426, "hasLiquids": true}

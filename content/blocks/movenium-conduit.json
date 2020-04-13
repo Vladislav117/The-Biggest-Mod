@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "movenium conduit", "description": "...", "health": 121, "requirements": [{"item": "movenium", "amount": 15}, {"item": "keqiny", "amount": 3}, {"item": "xyge", "amount": 4}], "liquidCapacity": 8, "liquidPressure": 0, "research": "movenium-factory", "category": "liquid"}

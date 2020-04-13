@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zoju battery", "description": "...", "size": 1, "health": 227, "requirements": [{"item": "zoju", "amount": 18}, {"item": "logy", "amount": 12}, {"item": "hazi", "amount": 5}], "research": "zoju-factory", "consumes": {"powerBuffered": 2090}, "category": "power"}

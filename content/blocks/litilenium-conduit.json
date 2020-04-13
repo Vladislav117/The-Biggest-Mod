@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "litilenium conduit", "description": "...", "health": 175, "requirements": [{"item": "litilenium", "amount": 13}, {"item": "silicon", "amount": 9}, {"item": "fesixa", "amount": 6}], "liquidCapacity": 44, "liquidPressure": 8, "research": "litilenium-factory", "category": "liquid"}

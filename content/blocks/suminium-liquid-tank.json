@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "suminium liquid tank", "description": "...", "health": 282, "size": 3, "requirements": [{"item": "suminium", "amount": 18}, {"item": "lynulo", "amount": 11}, {"item": "zivo", "amount": 4}], "research": "suminium-conduit", "category": "liquid", "liquidCapacity": 25095, "hasLiquids": true}

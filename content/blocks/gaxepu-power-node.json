@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gaxepu power node", "description": "...", "size": 2, "health": 690, "requirements": [{"item": "gaxepu", "amount": 9}, {"item": "pyzanium", "amount": 19}, {"item": "dowy", "amount": 7}], "research": "gaxepu-factory", "maxNodes": 32, "laserRange": 20, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small koxupo solar panel", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "koxupo", "amount": 11}, {"item": "qotu", "amount": 4}, {"item": "ciwy", "amount": 8}], "research": "koxupo-factory", "powerProduction": 0.06063912899726508, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rahuko solar panel", "description": "...", "size": 1, "health": 207, "requirements": [{"item": "rahuko", "amount": 11}, {"item": "koge", "amount": 11}, {"item": "rehyce", "amount": 4}], "research": "rahuko-factory", "powerProduction": 2.6835852586913624, "category": "power"}

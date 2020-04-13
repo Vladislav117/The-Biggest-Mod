@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lynu conduit", "description": "...", "health": 180, "requirements": [{"item": "lynu", "amount": 15}, {"item": "tanexo", "amount": 1}, {"item": "cogy", "amount": 10}], "liquidCapacity": 2, "liquidPressure": 4, "research": "lynu-factory", "category": "liquid"}

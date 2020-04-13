@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kado solar panel", "description": "...", "size": 3, "health": 101, "requirements": [{"item": "kado", "amount": 6}, {"item": "kozivo", "amount": 5}, {"item": "hevynium", "amount": 9}], "research": "kado-factory", "powerProduction": 6.837845136858113, "category": "power"}

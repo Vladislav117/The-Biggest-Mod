@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cesunium sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "cesunium", "amount": 5}, {"item": "javo", "amount": 5}], "research": "cesunium-conveyor", "category": "distribution", "invert": false}

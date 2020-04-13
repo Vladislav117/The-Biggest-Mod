@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kilenium underflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "kilenium", "amount": 5}, {"item": "cimafinium", "amount": 5}], "research": "kilenium-conveyor", "category": "distribution", "invert": false}

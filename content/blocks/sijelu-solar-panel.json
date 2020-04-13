@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sijelu solar panel", "description": "...", "size": 3, "health": 312, "requirements": [{"item": "sijelu", "amount": 5}, {"item": "xice", "amount": 3}, {"item": "xoquge", "amount": 8}], "research": "sijelu-factory", "powerProduction": 0.6835299801694825, "category": "power"}

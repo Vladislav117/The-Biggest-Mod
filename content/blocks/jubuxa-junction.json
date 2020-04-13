@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jubuxa junction", "description": "...", "health": 14, "speed": 2, "capacity": 13, "size": 1, "requirements": [{"item": "jubuxa", "amount": 2}, {"item": "wobuyu", "amount": 5}], "research": "jubuxa-conveyor", "category": "distribution"}

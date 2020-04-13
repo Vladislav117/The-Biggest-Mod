@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "budyka liquid tank", "description": "...", "health": 328, "size": 3, "requirements": [{"item": "budyka", "amount": 1}, {"item": "licu", "amount": 11}, {"item": "hidifynium", "amount": 7}], "research": "budyka-conduit", "category": "liquid", "liquidCapacity": 24995, "hasLiquids": true}

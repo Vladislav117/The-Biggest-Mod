@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bacone overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "bacone", "amount": 5}, {"item": "rukycu", "amount": 4}], "research": "bacone-conveyor", "category": "distribution", "invert": false}

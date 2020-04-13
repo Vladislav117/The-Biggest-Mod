@@ -1,0 +1,1 @@
+{"type": "battery", "name": "baquyo battery", "description": "...", "size": 3, "health": 349, "requirements": [{"item": "baquyo", "amount": 9}, {"item": "xysu", "amount": 17}, {"item": "motaty", "amount": 1}], "research": "baquyo-factory", "consumes": {"powerBuffered": 3959}, "category": "power"}

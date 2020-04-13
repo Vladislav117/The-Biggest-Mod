@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pusy bridge conveyor", "description": "", "health": 46, "range": 1, "speed": 7, "bufferCapacity": 19, "requirements": [{"item": "pusy", "amount": 5}, {"item": "yuby", "amount": 2}], "research": "pusy-conveyor", "category": "distribution", "size": 1}

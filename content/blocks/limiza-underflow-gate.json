@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "limiza underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "limiza", "amount": 5}, {"item": "zokoya", "amount": 4}], "research": "limiza-conveyor", "category": "distribution", "invert": false}

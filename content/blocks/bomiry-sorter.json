@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bomiry sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "bomiry", "amount": 1}, {"item": "mepunium", "amount": 2}], "research": "bomiry-conveyor", "category": "distribution", "invert": false}

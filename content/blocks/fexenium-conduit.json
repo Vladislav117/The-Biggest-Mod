@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fexenium conduit", "description": "...", "health": 119, "requirements": [{"item": "fexenium", "amount": 8}, {"item": "tugu", "amount": 4}, {"item": "fevy", "amount": 2}], "liquidCapacity": 31, "liquidPressure": 3, "research": "fexenium-factory", "category": "liquid"}

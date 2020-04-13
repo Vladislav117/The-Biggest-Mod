@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hunaci liquid tank", "description": "...", "health": 284, "size": 3, "requirements": [{"item": "hunaci", "amount": 19}, {"item": "fuho", "amount": 7}, {"item": "sohusu", "amount": 9}], "research": "hunaci-conduit", "category": "liquid", "liquidCapacity": 78170, "hasLiquids": true}

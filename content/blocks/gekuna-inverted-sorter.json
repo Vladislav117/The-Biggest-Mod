@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gekuna inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "gekuna", "amount": 3}, {"item": "yuriwu", "amount": 3}], "research": "gekuna-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small furybe battery", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "furybe", "amount": 6}, {"item": "fuda", "amount": 10}, {"item": "jyky", "amount": 6}], "research": "furybe-factory", "consumes": {"powerBuffered": 1497}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hicoxo power node", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "hicoxo", "amount": 12}, {"item": "xavinium", "amount": 17}, {"item": "neqa", "amount": 5}], "research": "hicoxo-factory", "maxNodes": 28, "laserRange": 16, "category": "power"}

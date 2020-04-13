@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "siwobanium liquid tank", "description": "...", "health": 569, "size": 3, "requirements": [{"item": "siwobanium", "amount": 2}, {"item": "dara", "amount": 7}, {"item": "yebyte", "amount": 9}], "research": "siwobanium-conduit", "category": "liquid", "liquidCapacity": 78631, "hasLiquids": true}

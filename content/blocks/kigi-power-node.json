@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kigi power node", "description": "...", "size": 2, "health": 784, "requirements": [{"item": "kigi", "amount": 15}, {"item": "yypefa", "amount": 8}, {"item": "jydi", "amount": 7}], "research": "kigi-factory", "maxNodes": 53, "laserRange": 10, "category": "power"}

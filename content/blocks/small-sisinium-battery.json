@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sisinium battery", "description": "...", "size": 1, "health": 257, "requirements": [{"item": "sisinium", "amount": 12}, {"item": "sapymanium", "amount": 12}, {"item": "runohy", "amount": 1}], "research": "sisinium-factory", "consumes": {"powerBuffered": 1225}, "category": "power"}

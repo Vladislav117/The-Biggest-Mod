@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tizusa bridge conveyor", "description": "", "health": 48, "range": 5, "speed": 2, "bufferCapacity": 19, "requirements": [{"item": "tizusa", "amount": 5}, {"item": "xidunium", "amount": 2}], "research": "tizusa-conveyor", "category": "distribution", "size": 1}

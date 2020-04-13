@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nyvo battery", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "nyvo", "amount": 2}, {"item": "paba", "amount": 8}, {"item": "rolunium", "amount": 5}], "research": "nyvo-factory", "consumes": {"powerBuffered": 1836}, "category": "power"}

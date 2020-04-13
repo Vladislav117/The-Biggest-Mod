@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hicoxo inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "hicoxo", "amount": 2}, {"item": "mifi", "amount": 4}], "research": "hicoxo-conveyor", "category": "distribution", "invert": true}

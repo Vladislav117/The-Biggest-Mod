@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qupu solar panel", "description": "...", "size": 1, "health": 135, "requirements": [{"item": "qupu", "amount": 9}, {"item": "rexo", "amount": 18}, {"item": "rymeyinium", "amount": 1}], "research": "qupu-factory", "powerProduction": 0.8308152304250475, "category": "power"}

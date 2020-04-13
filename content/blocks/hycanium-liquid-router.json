@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hycanium liquid router", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "hycanium", "amount": 20}, {"item": "sywuze", "amount": 12}, {"item": "niyy", "amount": 5}], "research": "hycanium-conduit", "liquidCapacity": 10, "category": "liquid"}

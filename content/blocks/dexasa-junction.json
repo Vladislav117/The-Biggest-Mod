@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dexasa junction", "description": "...", "health": 19, "speed": 9, "capacity": 15, "size": 1, "requirements": [{"item": "dexasa", "amount": 1}, {"item": "wety", "amount": 4}], "research": "dexasa-conveyor", "category": "distribution"}

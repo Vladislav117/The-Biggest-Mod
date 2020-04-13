@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hovesunium liquid tank", "description": "...", "health": 424, "size": 3, "requirements": [{"item": "hovesunium", "amount": 6}, {"item": "lyva", "amount": 2}, {"item": "tyrolanium", "amount": 6}], "research": "hovesunium-conduit", "category": "liquid", "liquidCapacity": 5546, "hasLiquids": true}

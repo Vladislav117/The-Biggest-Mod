@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rane junction", "description": "...", "health": 32, "speed": 3, "capacity": 7, "size": 1, "requirements": [{"item": "rane", "amount": 1}, {"item": "gasu", "amount": 1}], "research": "rane-conveyor", "category": "distribution"}

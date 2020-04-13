@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gedo power node", "description": "...", "size": 2, "health": 231, "requirements": [{"item": "gedo", "amount": 6}, {"item": "cuyoko", "amount": 13}, {"item": "togo", "amount": 2}], "research": "gedo-factory", "maxNodes": 36, "laserRange": 30, "category": "power"}

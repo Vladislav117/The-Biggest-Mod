@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jafu power node", "description": "...", "size": 1, "health": 303, "requirements": [{"item": "jafu", "amount": 20}, {"item": "tuty", "amount": 9}, {"item": "qywowi", "amount": 10}], "research": "jafu-factory", "maxNodes": 14, "laserRange": 11, "category": "power"}

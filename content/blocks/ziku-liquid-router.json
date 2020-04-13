@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ziku liquid router", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "ziku", "amount": 9}, {"item": "jarugenium", "amount": 5}, {"item": "nohi", "amount": 1}], "research": "ziku-conduit", "liquidCapacity": 10, "category": "liquid"}

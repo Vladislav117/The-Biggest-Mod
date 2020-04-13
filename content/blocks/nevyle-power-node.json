@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nevyle power node", "description": "...", "size": 2, "health": 160, "requirements": [{"item": "nevyle", "amount": 19}, {"item": "cydeyy", "amount": 9}, {"item": "dyqasy", "amount": 8}], "research": "nevyle-factory", "maxNodes": 18, "laserRange": 8, "category": "power"}

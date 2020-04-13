@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bufywy inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "bufywy", "amount": 4}, {"item": "zese", "amount": 4}], "research": "bufywy-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jexanium conduit", "description": "...", "health": 54, "requirements": [{"item": "jexanium", "amount": 10}, {"item": "winyjo", "amount": 7}, {"item": "thorium", "amount": 10}], "liquidCapacity": 2, "liquidPressure": 0, "research": "jexanium-factory", "category": "liquid"}

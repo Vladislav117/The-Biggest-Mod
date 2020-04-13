@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xozasi power node", "description": "...", "size": 1, "health": 361, "requirements": [{"item": "xozasi", "amount": 2}, {"item": "felu", "amount": 13}, {"item": "qobu", "amount": 1}], "research": "xozasi-factory", "maxNodes": 17, "laserRange": 14, "category": "power"}

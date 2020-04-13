@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lolu junction", "description": "...", "health": 7, "speed": 6, "capacity": 7, "size": 1, "requirements": [{"item": "lolu", "amount": 5}, {"item": "donysenium", "amount": 2}], "research": "lolu-conveyor", "category": "distribution"}

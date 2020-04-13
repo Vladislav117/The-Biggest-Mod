@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "turode overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "turode", "amount": 3}, {"item": "ruryjynium", "amount": 4}], "research": "turode-conveyor", "category": "distribution", "invert": false}

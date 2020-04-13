@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small betuto solar panel", "description": "...", "size": 1, "health": 11, "requirements": [{"item": "betuto", "amount": 4}, {"item": "hedege", "amount": 12}, {"item": "payo", "amount": 5}], "research": "betuto-factory", "powerProduction": 0.23462606245492726, "category": "power"}

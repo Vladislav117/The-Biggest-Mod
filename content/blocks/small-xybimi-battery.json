@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xybimi battery", "description": "...", "size": 1, "health": 139, "requirements": [{"item": "xybimi", "amount": 6}, {"item": "jojene", "amount": 15}, {"item": "medide", "amount": 1}], "research": "xybimi-factory", "consumes": {"powerBuffered": 2033}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qyhoqa battery", "description": "...", "size": 1, "health": 375, "requirements": [{"item": "qyhoqa", "amount": 12}, {"item": "zayuku", "amount": 16}, {"item": "yyti", "amount": 5}], "research": "qyhoqa-factory", "consumes": {"powerBuffered": 2274}, "category": "power"}

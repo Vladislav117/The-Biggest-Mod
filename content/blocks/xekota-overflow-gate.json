@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xekota overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "xekota", "amount": 4}, {"item": "tezila", "amount": 4}], "research": "xekota-conveyor", "category": "distribution", "invert": false}

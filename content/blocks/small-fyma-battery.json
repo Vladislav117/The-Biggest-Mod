@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fyma battery", "description": "...", "size": 1, "health": 282, "requirements": [{"item": "fyma", "amount": 4}, {"item": "lyheti", "amount": 3}, {"item": "qybeza", "amount": 5}], "research": "fyma-factory", "consumes": {"powerBuffered": 1711}, "category": "power"}

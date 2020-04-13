@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hihunium solar panel", "description": "...", "size": 1, "health": 201, "requirements": [{"item": "hihunium", "amount": 9}, {"item": "kecufi", "amount": 8}, {"item": "tatavo", "amount": 1}], "research": "hihunium-factory", "powerProduction": 2.8834850788354887, "category": "power"}

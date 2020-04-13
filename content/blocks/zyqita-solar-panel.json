@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zyqita solar panel", "description": "...", "size": 3, "health": 43, "requirements": [{"item": "zyqita", "amount": 17}, {"item": "xynice", "amount": 8}, {"item": "hufema", "amount": 5}], "research": "zyqita-factory", "powerProduction": 1.085945774789718, "category": "power"}

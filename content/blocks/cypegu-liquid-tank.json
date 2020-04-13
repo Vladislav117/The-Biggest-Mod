@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cypegu liquid tank", "description": "...", "health": 545, "size": 3, "requirements": [{"item": "cypegu", "amount": 6}, {"item": "kixo", "amount": 18}, {"item": "jyzywonium", "amount": 9}], "research": "cypegu-conduit", "category": "liquid", "liquidCapacity": 117590, "hasLiquids": true}

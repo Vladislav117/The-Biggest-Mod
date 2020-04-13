@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nupydo power node", "description": "...", "size": 2, "health": 492, "requirements": [{"item": "nupydo", "amount": 6}, {"item": "tusytu", "amount": 15}, {"item": "sayo", "amount": 8}], "research": "nupydo-factory", "maxNodes": 38, "laserRange": 7, "category": "power"}

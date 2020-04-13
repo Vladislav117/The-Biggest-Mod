@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xyfi inverted sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "xyfi", "amount": 1}, {"item": "xepe", "amount": 2}], "research": "xyfi-conveyor", "category": "distribution", "invert": true}

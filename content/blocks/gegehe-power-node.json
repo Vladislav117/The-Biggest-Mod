@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gegehe power node", "description": "...", "size": 2, "health": 59, "requirements": [{"item": "gegehe", "amount": 14}, {"item": "sibewe", "amount": 18}, {"item": "hybexy", "amount": 4}], "research": "gegehe-factory", "maxNodes": 10, "laserRange": 8, "category": "power"}

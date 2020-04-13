@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vetigu overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "vetigu", "amount": 1}, {"item": "wifa", "amount": 2}], "research": "vetigu-conveyor", "category": "distribution", "invert": false}

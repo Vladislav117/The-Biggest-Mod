@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fesage power node", "description": "...", "size": 2, "health": 624, "requirements": [{"item": "fesage", "amount": 6}, {"item": "wupera", "amount": 10}, {"item": "lome", "amount": 7}], "research": "fesage-factory", "maxNodes": 44, "laserRange": 25, "category": "power"}

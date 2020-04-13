@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bexo solar panel", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "bexo", "amount": 1}, {"item": "kudanium", "amount": 16}, {"item": "biny", "amount": 9}], "research": "bexo-factory", "powerProduction": 0.05854429193034332, "category": "power"}

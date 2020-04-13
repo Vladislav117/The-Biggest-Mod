@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qywaha liquid tank", "description": "...", "health": 560, "size": 3, "requirements": [{"item": "qywaha", "amount": 8}, {"item": "nifenium", "amount": 13}, {"item": "bapi", "amount": 5}], "research": "qywaha-conduit", "category": "liquid", "liquidCapacity": 14199, "hasLiquids": true}

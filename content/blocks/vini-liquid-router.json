@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vini liquid router", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "vini", "amount": 7}, {"item": "hyte", "amount": 18}, {"item": "xavinium", "amount": 1}], "research": "vini-conduit", "liquidCapacity": 10, "category": "liquid"}

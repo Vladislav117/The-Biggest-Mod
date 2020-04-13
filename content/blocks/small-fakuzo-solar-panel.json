@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fakuzo solar panel", "description": "...", "size": 1, "health": 368, "requirements": [{"item": "fakuzo", "amount": 5}, {"item": "kujodo", "amount": 15}, {"item": "qidibe", "amount": 10}], "research": "fakuzo-factory", "powerProduction": 0.6382820508211113, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tovyme battery", "description": "...", "size": 1, "health": 392, "requirements": [{"item": "tovyme", "amount": 3}, {"item": "bayavo", "amount": 3}, {"item": "fyyu", "amount": 4}], "research": "tovyme-factory", "consumes": {"powerBuffered": 1662}, "category": "power"}

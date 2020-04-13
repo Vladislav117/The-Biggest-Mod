@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jomoka drill", "description": "...", "size": 2, "health": 358, "tier": 1, "drillTime": 2, "consumes": {"power": 9}, "requirements": [{"item": "jomoka", "amount": 1}, {"item": "wabaru", "amount": 17}, {"item": "nayevynium", "amount": 1}], "research": "jomoka-factory", "category": "production"}

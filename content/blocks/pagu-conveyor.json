@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pagu conveyor", "description": "...", "health": 65, "requirements": [{"item": "pagu", "amount": 7}, {"item": "haqu", "amount": 5}], "speed": 0.1338480832184183, "research": "pagu-factory", "category": "distribution"}

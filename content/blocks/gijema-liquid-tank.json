@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gijema liquid tank", "description": "...", "health": 604, "size": 3, "requirements": [{"item": "gijema", "amount": 17}, {"item": "loqa", "amount": 5}, {"item": "loyomy", "amount": 4}], "research": "gijema-conduit", "category": "liquid", "liquidCapacity": 70821, "hasLiquids": true}

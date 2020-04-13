@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cowi battery", "description": "...", "size": 3, "health": 389, "requirements": [{"item": "cowi", "amount": 8}, {"item": "moqa", "amount": 15}, {"item": "saqoxo", "amount": 3}], "research": "cowi-factory", "consumes": {"powerBuffered": 232}, "category": "power"}

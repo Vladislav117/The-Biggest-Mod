@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tenelenium drill", "description": "...", "size": 2, "health": 289, "tier": 4, "drillTime": 17, "consumes": {"power": 14}, "requirements": [{"item": "tenelenium", "amount": 2}, {"item": "zycuri", "amount": 20}, {"item": "xawogo", "amount": 10}], "research": "tenelenium-factory", "category": "production"}

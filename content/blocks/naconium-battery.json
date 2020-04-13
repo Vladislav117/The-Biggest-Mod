@@ -1,0 +1,1 @@
+{"type": "battery", "name": "naconium battery", "description": "...", "size": 3, "health": 201, "requirements": [{"item": "naconium", "amount": 14}, {"item": "jihanium", "amount": 16}, {"item": "pupyku", "amount": 2}], "research": "naconium-factory", "consumes": {"powerBuffered": 7321}, "category": "power"}

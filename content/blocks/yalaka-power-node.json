@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yalaka power node", "description": "...", "size": 2, "health": 180, "requirements": [{"item": "yalaka", "amount": 5}, {"item": "dejoqonium", "amount": 13}, {"item": "copper", "amount": 2}], "research": "yalaka-factory", "maxNodes": 33, "laserRange": 12, "category": "power"}

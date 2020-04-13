@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nygemonium liquid tank", "description": "...", "health": 426, "size": 3, "requirements": [{"item": "nygemonium", "amount": 2}, {"item": "togo", "amount": 8}, {"item": "pebo", "amount": 10}], "research": "nygemonium-conduit", "category": "liquid", "liquidCapacity": 31819, "hasLiquids": true}

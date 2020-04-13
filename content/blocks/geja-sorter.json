@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "geja sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "geja", "amount": 1}, {"item": "ciqi", "amount": 2}], "research": "geja-conveyor", "category": "distribution", "invert": false}

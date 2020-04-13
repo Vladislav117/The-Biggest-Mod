@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small peze power node", "description": "...", "size": 1, "health": 280, "requirements": [{"item": "peze", "amount": 1}, {"item": "reyezy", "amount": 16}, {"item": "vove", "amount": 10}], "research": "peze-factory", "maxNodes": 9, "laserRange": 19, "category": "power"}

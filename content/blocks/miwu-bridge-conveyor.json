@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "miwu bridge conveyor", "description": "", "health": 13, "range": 19, "speed": 3, "bufferCapacity": 5, "requirements": [{"item": "miwu", "amount": 2}, {"item": "yavyra", "amount": 4}], "research": "miwu-conveyor", "category": "distribution", "size": 1}

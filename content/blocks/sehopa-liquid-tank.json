@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sehopa liquid tank", "description": "...", "health": 548, "size": 3, "requirements": [{"item": "sehopa", "amount": 16}, {"item": "wuvyci", "amount": 15}, {"item": "nogocynium", "amount": 7}], "research": "sehopa-conduit", "category": "liquid", "liquidCapacity": 94913, "hasLiquids": true}

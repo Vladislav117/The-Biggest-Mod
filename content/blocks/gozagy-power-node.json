@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gozagy power node", "description": "...", "size": 2, "health": 650, "requirements": [{"item": "gozagy", "amount": 15}, {"item": "waka", "amount": 7}, {"item": "sukedu", "amount": 10}], "research": "gozagy-factory", "maxNodes": 52, "laserRange": 29, "category": "power"}

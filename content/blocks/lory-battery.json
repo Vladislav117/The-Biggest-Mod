@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lory battery", "description": "...", "size": 3, "health": 44, "requirements": [{"item": "lory", "amount": 13}, {"item": "vawa", "amount": 18}, {"item": "leju", "amount": 5}], "research": "lory-factory", "consumes": {"powerBuffered": 7839}, "category": "power"}

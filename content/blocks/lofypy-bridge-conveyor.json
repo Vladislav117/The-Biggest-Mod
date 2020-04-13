@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lofypy bridge conveyor", "description": "", "health": 36, "range": 16, "speed": 9, "bufferCapacity": 4, "requirements": [{"item": "lofypy", "amount": 3}, {"item": "hayy", "amount": 1}], "research": "lofypy-conveyor", "category": "distribution", "size": 1}

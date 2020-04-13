@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xyyyzy power node", "description": "...", "size": 1, "health": 360, "requirements": [{"item": "xyyyzy", "amount": 11}, {"item": "xydy", "amount": 6}, {"item": "fuposy", "amount": 4}], "research": "xyyyzy-factory", "maxNodes": 24, "laserRange": 11, "category": "power"}

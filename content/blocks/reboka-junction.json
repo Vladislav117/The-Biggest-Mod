@@ -1,0 +1,1 @@
+{"type": "junction", "name": "reboka junction", "description": "...", "health": 39, "speed": 14, "capacity": 20, "size": 1, "requirements": [{"item": "reboka", "amount": 3}, {"item": "make", "amount": 5}], "research": "reboka-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kije solar panel", "description": "...", "size": 3, "health": 371, "requirements": [{"item": "kije", "amount": 19}, {"item": "sorory", "amount": 15}, {"item": "nataki", "amount": 5}], "research": "kije-factory", "powerProduction": 0.6188001664427141, "category": "power"}

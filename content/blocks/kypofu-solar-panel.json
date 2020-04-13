@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kypofu solar panel", "description": "...", "size": 3, "health": 110, "requirements": [{"item": "kypofu", "amount": 10}, {"item": "cosi", "amount": 1}, {"item": "velyma", "amount": 3}], "research": "kypofu-factory", "powerProduction": 3.7920638621864144, "category": "power"}

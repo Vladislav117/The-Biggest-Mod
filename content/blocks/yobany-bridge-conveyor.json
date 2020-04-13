@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yobany bridge conveyor", "description": "", "health": 21, "range": 19, "speed": 13, "bufferCapacity": 9, "requirements": [{"item": "yobany", "amount": 2}, {"item": "xayulu", "amount": 5}], "research": "yobany-conveyor", "category": "distribution", "size": 1}

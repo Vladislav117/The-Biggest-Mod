@@ -1,0 +1,1 @@
+{"type": "battery", "name": "syqyki battery", "description": "...", "size": 3, "health": 335, "requirements": [{"item": "syqyki", "amount": 17}, {"item": "rohonium", "amount": 19}, {"item": "bore", "amount": 2}], "research": "syqyki-factory", "consumes": {"powerBuffered": 5180}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "noveba battery", "description": "...", "size": 3, "health": 313, "requirements": [{"item": "noveba", "amount": 8}, {"item": "cyzoqo", "amount": 14}, {"item": "dycimi", "amount": 7}], "research": "noveba-factory", "consumes": {"powerBuffered": 4061}, "category": "power"}

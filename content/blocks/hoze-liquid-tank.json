@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hoze liquid tank", "description": "...", "health": 368, "size": 3, "requirements": [{"item": "hoze", "amount": 20}, {"item": "cudo", "amount": 20}, {"item": "juwuyu", "amount": 3}], "research": "hoze-conduit", "category": "liquid", "liquidCapacity": 41612, "hasLiquids": true}

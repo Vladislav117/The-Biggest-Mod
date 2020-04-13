@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qosa liquid tank", "description": "...", "health": 166, "size": 3, "requirements": [{"item": "qosa", "amount": 11}, {"item": "zytukenium", "amount": 4}, {"item": "pyxoxanium", "amount": 6}], "research": "qosa-conduit", "category": "liquid", "liquidCapacity": 5743, "hasLiquids": true}

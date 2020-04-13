@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fyponium junction", "description": "...", "health": 33, "speed": 4, "capacity": 15, "size": 1, "requirements": [{"item": "fyponium", "amount": 5}, {"item": "tedu", "amount": 4}], "research": "fyponium-conveyor", "category": "distribution"}

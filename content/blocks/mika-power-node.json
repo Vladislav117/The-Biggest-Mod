@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mika power node", "description": "...", "size": 2, "health": 106, "requirements": [{"item": "mika", "amount": 18}, {"item": "pino", "amount": 1}, {"item": "nufuponium", "amount": 2}], "research": "mika-factory", "maxNodes": 33, "laserRange": 30, "category": "power"}

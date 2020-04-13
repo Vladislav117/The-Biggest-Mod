@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tavohe liquid tank", "description": "...", "health": 475, "size": 3, "requirements": [{"item": "tavohe", "amount": 15}, {"item": "kizywanium", "amount": 20}, {"item": "vywy", "amount": 8}], "research": "tavohe-conduit", "category": "liquid", "liquidCapacity": 53187, "hasLiquids": true}

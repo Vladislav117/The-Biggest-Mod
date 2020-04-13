@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lisaca power node", "description": "...", "size": 1, "health": 159, "requirements": [{"item": "lisaca", "amount": 1}, {"item": "phase-fabric", "amount": 13}, {"item": "viqamo", "amount": 8}], "research": "lisaca-factory", "maxNodes": 2, "laserRange": 7, "category": "power"}

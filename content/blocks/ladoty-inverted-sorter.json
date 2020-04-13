@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ladoty inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "ladoty", "amount": 5}, {"item": "fapufi", "amount": 4}], "research": "ladoty-conveyor", "category": "distribution", "invert": true}

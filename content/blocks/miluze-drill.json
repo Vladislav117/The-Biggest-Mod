@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "miluze drill", "description": "...", "size": 3, "health": 310, "tier": 1, "drillTime": 20, "consumes": {"power": 14}, "requirements": [{"item": "miluze", "amount": 17}, {"item": "bomiry", "amount": 9}, {"item": "masoxo", "amount": 4}], "research": "miluze-factory", "category": "production"}

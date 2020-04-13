@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small temaso battery", "description": "...", "size": 1, "health": 218, "requirements": [{"item": "temaso", "amount": 17}, {"item": "fyfy", "amount": 3}, {"item": "ryxunium", "amount": 6}], "research": "temaso-factory", "consumes": {"powerBuffered": 628}, "category": "power"}

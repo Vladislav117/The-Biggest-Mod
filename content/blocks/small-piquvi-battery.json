@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small piquvi battery", "description": "...", "size": 1, "health": 384, "requirements": [{"item": "piquvi", "amount": 19}, {"item": "puzanium", "amount": 6}, {"item": "fecufy", "amount": 8}], "research": "piquvi-factory", "consumes": {"powerBuffered": 1133}, "category": "power"}

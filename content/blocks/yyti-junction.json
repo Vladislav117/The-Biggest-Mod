@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yyti junction", "description": "...", "health": 20, "speed": 6, "capacity": 8, "size": 1, "requirements": [{"item": "yyti", "amount": 1}, {"item": "tire", "amount": 4}], "research": "yyti-conveyor", "category": "distribution"}

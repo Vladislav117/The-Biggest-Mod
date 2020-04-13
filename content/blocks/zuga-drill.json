@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zuga drill", "description": "...", "size": 4, "health": 284, "tier": 3, "drillTime": 8, "consumes": {"power": 15}, "requirements": [{"item": "zuga", "amount": 18}, {"item": "tysihu", "amount": 13}, {"item": "tumo", "amount": 10}], "research": "zuga-factory", "category": "production"}

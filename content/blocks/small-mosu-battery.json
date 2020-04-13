@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mosu battery", "description": "...", "size": 1, "health": 235, "requirements": [{"item": "mosu", "amount": 18}, {"item": "muwe", "amount": 13}, {"item": "jyta", "amount": 6}], "research": "mosu-factory", "consumes": {"powerBuffered": 467}, "category": "power"}

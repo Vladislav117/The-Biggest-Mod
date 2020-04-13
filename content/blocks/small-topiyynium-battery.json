@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small topiyynium battery", "description": "...", "size": 1, "health": 152, "requirements": [{"item": "topiyynium", "amount": 3}, {"item": "zuva", "amount": 19}, {"item": "misu", "amount": 5}], "research": "topiyynium-factory", "consumes": {"powerBuffered": 1357}, "category": "power"}

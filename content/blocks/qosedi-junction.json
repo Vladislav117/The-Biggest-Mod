@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qosedi junction", "description": "...", "health": 42, "speed": 19, "capacity": 1, "size": 1, "requirements": [{"item": "qosedi", "amount": 1}, {"item": "qycu", "amount": 2}], "research": "qosedi-conveyor", "category": "distribution"}

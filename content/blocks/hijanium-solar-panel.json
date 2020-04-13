@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hijanium solar panel", "description": "...", "size": 3, "health": 347, "requirements": [{"item": "hijanium", "amount": 3}, {"item": "pajaka", "amount": 20}, {"item": "surinium", "amount": 6}], "research": "hijanium-factory", "powerProduction": 0.7653980790650078, "category": "power"}

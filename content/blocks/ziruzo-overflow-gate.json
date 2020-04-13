@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ziruzo overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "ziruzo", "amount": 1}, {"item": "xonanium", "amount": 3}], "research": "ziruzo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cyhonium junction", "description": "...", "health": 1, "speed": 13, "capacity": 10, "size": 1, "requirements": [{"item": "cyhonium", "amount": 2}, {"item": "mini", "amount": 2}], "research": "cyhonium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zedo inverted sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "zedo", "amount": 5}, {"item": "wajese", "amount": 1}], "research": "zedo-conveyor", "category": "distribution", "invert": true}

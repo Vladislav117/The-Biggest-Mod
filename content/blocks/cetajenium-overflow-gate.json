@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cetajenium overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "cetajenium", "amount": 2}, {"item": "hohisi", "amount": 4}], "research": "cetajenium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kepusy solar panel", "description": "...", "size": 3, "health": 310, "requirements": [{"item": "kepusy", "amount": 20}, {"item": "roja", "amount": 20}, {"item": "mygo", "amount": 5}], "research": "kepusy-factory", "powerProduction": 6.01246676065615, "category": "power"}

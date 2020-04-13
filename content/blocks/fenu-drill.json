@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fenu drill", "description": "...", "size": 2, "health": 340, "tier": 2, "drillTime": 8, "consumes": {"power": 13}, "requirements": [{"item": "fenu", "amount": 12}, {"item": "povewo", "amount": 5}, {"item": "meranium", "amount": 1}], "research": "fenu-factory", "category": "production"}

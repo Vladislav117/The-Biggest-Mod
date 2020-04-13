@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "feguga inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "feguga", "amount": 5}, {"item": "wupera", "amount": 2}], "research": "feguga-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hygamunium liquid router", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "hygamunium", "amount": 4}, {"item": "vacoce", "amount": 10}, {"item": "wywonium", "amount": 2}], "research": "hygamunium-conduit", "liquidCapacity": 10, "category": "liquid"}

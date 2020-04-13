@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yidugonium solar panel", "description": "...", "size": 3, "health": 397, "requirements": [{"item": "yidugonium", "amount": 6}, {"item": "neloto", "amount": 20}, {"item": "byzure", "amount": 7}], "research": "yidugonium-factory", "powerProduction": 0.2552554507165933, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kuwo drill", "description": "...", "size": 2, "health": 340, "tier": 3, "drillTime": 9, "consumes": {"power": 8}, "requirements": [{"item": "kuwo", "amount": 10}, {"item": "layyzynium", "amount": 7}, {"item": "qokenium", "amount": 10}], "research": "kuwo-factory", "category": "production"}

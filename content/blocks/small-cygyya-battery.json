@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cygyya battery", "description": "...", "size": 1, "health": 162, "requirements": [{"item": "cygyya", "amount": 14}, {"item": "zexinium", "amount": 14}, {"item": "jylovo", "amount": 7}], "research": "cygyya-factory", "consumes": {"powerBuffered": 1199}, "category": "power"}

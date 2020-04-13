@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mofapu liquid tank", "description": "...", "health": 580, "size": 3, "requirements": [{"item": "mofapu", "amount": 3}, {"item": "pyvunium", "amount": 14}, {"item": "bisy", "amount": 8}], "research": "mofapu-conduit", "category": "liquid", "liquidCapacity": 50579, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mubu overflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "mubu", "amount": 3}, {"item": "vuzesenium", "amount": 4}], "research": "mubu-conveyor", "category": "distribution", "invert": false}

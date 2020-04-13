@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mahe solar panel", "description": "...", "size": 3, "health": 269, "requirements": [{"item": "mahe", "amount": 2}, {"item": "dyma", "amount": 10}, {"item": "xejo", "amount": 8}], "research": "mahe-factory", "powerProduction": 0.007892488574096156, "category": "power"}

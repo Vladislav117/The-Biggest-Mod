@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gyga liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "gyga", "amount": 2}, {"item": "qywiqi", "amount": 5}, {"item": "zyqita", "amount": 4}], "research": "gyga-conduit", "liquidCapacity": 10, "category": "liquid"}

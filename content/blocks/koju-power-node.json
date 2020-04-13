@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "koju power node", "description": "...", "size": 2, "health": 293, "requirements": [{"item": "koju", "amount": 2}, {"item": "cinynium", "amount": 14}, {"item": "yipobe", "amount": 4}], "research": "koju-factory", "maxNodes": 28, "laserRange": 28, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dihomu liquid tank", "description": "...", "health": 157, "size": 3, "requirements": [{"item": "dihomu", "amount": 11}, {"item": "hasu", "amount": 12}, {"item": "fyfe", "amount": 5}], "research": "dihomu-conduit", "category": "liquid", "liquidCapacity": 97289, "hasLiquids": true}

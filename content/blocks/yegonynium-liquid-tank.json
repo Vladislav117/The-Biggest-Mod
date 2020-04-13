@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yegonynium liquid tank", "description": "...", "health": 637, "size": 3, "requirements": [{"item": "yegonynium", "amount": 1}, {"item": "secuqunium", "amount": 6}, {"item": "luny", "amount": 2}], "research": "yegonynium-conduit", "category": "liquid", "liquidCapacity": 106771, "hasLiquids": true}

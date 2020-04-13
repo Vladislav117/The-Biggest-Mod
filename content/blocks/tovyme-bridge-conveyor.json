@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tovyme bridge conveyor", "description": "", "health": 3, "range": 12, "speed": 20, "bufferCapacity": 9, "requirements": [{"item": "tovyme", "amount": 5}, {"item": "qygi", "amount": 2}], "research": "tovyme-conveyor", "category": "distribution", "size": 1}

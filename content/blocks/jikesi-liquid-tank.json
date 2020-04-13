@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jikesi liquid tank", "description": "...", "health": 563, "size": 3, "requirements": [{"item": "jikesi", "amount": 9}, {"item": "yytiro", "amount": 9}, {"item": "deqo", "amount": 2}], "research": "jikesi-conduit", "category": "liquid", "liquidCapacity": 30390, "hasLiquids": true}

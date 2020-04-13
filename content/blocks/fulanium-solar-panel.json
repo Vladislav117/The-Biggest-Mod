@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fulanium solar panel", "description": "...", "size": 3, "health": 328, "requirements": [{"item": "fulanium", "amount": 9}, {"item": "zemyca", "amount": 18}, {"item": "bily", "amount": 10}], "research": "fulanium-factory", "powerProduction": 0.1327218306769468, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jojene drill", "description": "...", "size": 4, "health": 118, "tier": 3, "drillTime": 16, "consumes": {"power": 12}, "requirements": [{"item": "jojene", "amount": 4}, {"item": "gone", "amount": 17}, {"item": "xudujy", "amount": 9}], "research": "jojene-factory", "category": "production"}

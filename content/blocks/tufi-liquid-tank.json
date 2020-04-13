@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tufi liquid tank", "description": "...", "health": 245, "size": 3, "requirements": [{"item": "tufi", "amount": 20}, {"item": "baqo", "amount": 5}, {"item": "tyno", "amount": 1}], "research": "tufi-conduit", "category": "liquid", "liquidCapacity": 3374, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ciginium battery", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "ciginium", "amount": 16}, {"item": "nixigunium", "amount": 3}, {"item": "pijuje", "amount": 8}], "research": "ciginium-factory", "consumes": {"powerBuffered": 1399}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xekybu junction", "description": "...", "health": 23, "speed": 9, "capacity": 16, "size": 1, "requirements": [{"item": "xekybu", "amount": 1}, {"item": "risa", "amount": 4}], "research": "xekybu-conveyor", "category": "distribution"}

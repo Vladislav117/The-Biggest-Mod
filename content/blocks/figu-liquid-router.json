@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "figu liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "figu", "amount": 13}, {"item": "graphite", "amount": 15}, {"item": "dijo", "amount": 1}], "research": "figu-conduit", "liquidCapacity": 10, "category": "liquid"}

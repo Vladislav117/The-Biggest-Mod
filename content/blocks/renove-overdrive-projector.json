@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "renove overdrive projector", "description": "...", "health": 78, "consumes": {"power": 3.0, "item": "renove"}, "size": 2, "requirements": [{"item": "renove", "amount": 16}, {"item": "pyrogonium", "amount": 16}, {"item": "bilupi", "amount": 1}], "research": "renove-factory", "category": "effect"}

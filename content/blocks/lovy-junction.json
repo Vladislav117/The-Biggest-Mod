@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lovy junction", "description": "...", "health": 31, "speed": 5, "capacity": 15, "size": 1, "requirements": [{"item": "lovy", "amount": 4}, {"item": "mimuce", "amount": 5}], "research": "lovy-conveyor", "category": "distribution"}

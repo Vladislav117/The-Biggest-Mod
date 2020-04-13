@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "poyawonium solar panel", "description": "...", "size": 3, "health": 298, "requirements": [{"item": "poyawonium", "amount": 16}, {"item": "sycexi", "amount": 14}, {"item": "cyqanium", "amount": 10}], "research": "poyawonium-factory", "powerProduction": 1.0622101168933331, "category": "power"}

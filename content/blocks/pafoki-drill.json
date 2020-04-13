@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pafoki drill", "description": "...", "size": 2, "health": 208, "tier": 4, "drillTime": 1, "consumes": {"power": 2}, "requirements": [{"item": "pafoki", "amount": 18}, {"item": "fyto", "amount": 1}, {"item": "bace", "amount": 6}], "research": "pafoki-factory", "category": "production"}

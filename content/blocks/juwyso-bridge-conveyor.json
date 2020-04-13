@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "juwyso bridge conveyor", "description": "", "health": 14, "range": 8, "speed": 13, "bufferCapacity": 9, "requirements": [{"item": "juwyso", "amount": 5}, {"item": "hoqade", "amount": 3}], "research": "juwyso-conveyor", "category": "distribution", "size": 1}

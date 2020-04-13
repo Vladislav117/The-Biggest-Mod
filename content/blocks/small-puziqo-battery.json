@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small puziqo battery", "description": "...", "size": 1, "health": 196, "requirements": [{"item": "puziqo", "amount": 13}, {"item": "xozime", "amount": 12}, {"item": "labila", "amount": 4}], "research": "puziqo-factory", "consumes": {"powerBuffered": 294}, "category": "power"}

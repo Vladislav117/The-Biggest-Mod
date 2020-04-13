@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kyji solar panel", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "kyji", "amount": 4}, {"item": "qybeza", "amount": 5}, {"item": "hotonium", "amount": 7}], "research": "kyji-factory", "powerProduction": 0.23567895406361788, "category": "power"}

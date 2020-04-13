@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zetizy liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "zetizy", "amount": 16}, {"item": "hudo", "amount": 2}, {"item": "ceri", "amount": 6}], "research": "zetizy-conduit", "liquidCapacity": 10, "category": "liquid"}

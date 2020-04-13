@@ -1,0 +1,1 @@
+{"type": "junction", "name": "puhu junction", "description": "...", "health": 32, "speed": 11, "capacity": 18, "size": 1, "requirements": [{"item": "puhu", "amount": 3}, {"item": "cusefanium", "amount": 2}], "research": "puhu-conveyor", "category": "distribution"}

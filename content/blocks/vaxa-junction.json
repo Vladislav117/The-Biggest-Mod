@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vaxa junction", "description": "...", "health": 46, "speed": 17, "capacity": 16, "size": 1, "requirements": [{"item": "vaxa", "amount": 2}, {"item": "xyzeja", "amount": 4}], "research": "vaxa-conveyor", "category": "distribution"}

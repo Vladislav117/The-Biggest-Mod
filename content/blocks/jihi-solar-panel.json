@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jihi solar panel", "description": "...", "size": 3, "health": 368, "requirements": [{"item": "jihi", "amount": 16}, {"item": "zereka", "amount": 15}, {"item": "zogeno", "amount": 1}], "research": "jihi-factory", "powerProduction": 0.09647730381808214, "category": "power"}

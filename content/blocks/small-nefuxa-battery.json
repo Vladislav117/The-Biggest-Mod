@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nefuxa battery", "description": "...", "size": 1, "health": 335, "requirements": [{"item": "nefuxa", "amount": 17}, {"item": "muqonium", "amount": 14}, {"item": "xelu", "amount": 9}], "research": "nefuxa-factory", "consumes": {"powerBuffered": 2151}, "category": "power"}

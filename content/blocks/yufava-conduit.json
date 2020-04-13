@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yufava conduit", "description": "...", "health": 65, "requirements": [{"item": "yufava", "amount": 10}, {"item": "jaga", "amount": 9}, {"item": "dyzeky", "amount": 8}], "liquidCapacity": 17, "liquidPressure": 9, "research": "yufava-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zija power node", "description": "...", "size": 2, "health": 719, "requirements": [{"item": "zija", "amount": 1}, {"item": "nejesu", "amount": 17}, {"item": "metaglass", "amount": 4}], "research": "zija-factory", "maxNodes": 25, "laserRange": 17, "category": "power"}

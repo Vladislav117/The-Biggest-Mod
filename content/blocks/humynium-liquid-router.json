@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "humynium liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "humynium", "amount": 4}, {"item": "ravexi", "amount": 10}, {"item": "sacigi", "amount": 6}], "research": "humynium-conduit", "liquidCapacity": 10, "category": "liquid"}

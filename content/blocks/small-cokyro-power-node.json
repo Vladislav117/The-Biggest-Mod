@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cokyro power node", "description": "...", "size": 1, "health": 154, "requirements": [{"item": "cokyro", "amount": 8}, {"item": "xuserynium", "amount": 16}, {"item": "yama", "amount": 8}], "research": "cokyro-factory", "maxNodes": 28, "laserRange": 4, "category": "power"}

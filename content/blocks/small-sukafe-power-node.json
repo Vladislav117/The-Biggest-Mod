@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sukafe power node", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "sukafe", "amount": 1}, {"item": "qeriza", "amount": 11}, {"item": "sexinium", "amount": 2}], "research": "sukafe-factory", "maxNodes": 4, "laserRange": 11, "category": "power"}

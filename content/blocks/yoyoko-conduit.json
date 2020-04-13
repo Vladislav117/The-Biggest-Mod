@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yoyoko conduit", "description": "...", "health": 64, "requirements": [{"item": "yoyoko", "amount": 7}, {"item": "yofonium", "amount": 4}, {"item": "takicynium", "amount": 7}], "liquidCapacity": 35, "liquidPressure": 2, "research": "yoyoko-factory", "category": "liquid"}

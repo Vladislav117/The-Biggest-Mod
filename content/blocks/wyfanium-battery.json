@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wyfanium battery", "description": "...", "size": 3, "health": 21, "requirements": [{"item": "wyfanium", "amount": 4}, {"item": "gineta", "amount": 15}, {"item": "wabaru", "amount": 1}], "research": "wyfanium-factory", "consumes": {"powerBuffered": 1357}, "category": "power"}

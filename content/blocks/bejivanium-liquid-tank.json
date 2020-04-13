@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bejivanium liquid tank", "description": "...", "health": 533, "size": 3, "requirements": [{"item": "bejivanium", "amount": 6}, {"item": "yamyri", "amount": 17}, {"item": "tatavo", "amount": 3}], "research": "bejivanium-conduit", "category": "liquid", "liquidCapacity": 93941, "hasLiquids": true}

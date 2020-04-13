@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "myruhy underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "myruhy", "amount": 1}, {"item": "xuxyvo", "amount": 3}], "research": "myruhy-conveyor", "category": "distribution", "invert": false}

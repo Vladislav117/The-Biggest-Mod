@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ranoxinium junction", "description": "...", "health": 24, "speed": 12, "capacity": 18, "size": 1, "requirements": [{"item": "ranoxinium", "amount": 5}, {"item": "xutire", "amount": 4}], "research": "ranoxinium-conveyor", "category": "distribution"}

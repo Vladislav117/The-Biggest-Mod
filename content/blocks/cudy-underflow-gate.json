@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cudy underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "cudy", "amount": 1}, {"item": "nixigunium", "amount": 4}], "research": "cudy-conveyor", "category": "distribution", "invert": false}

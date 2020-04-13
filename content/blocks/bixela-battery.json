@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bixela battery", "description": "...", "size": 3, "health": 252, "requirements": [{"item": "bixela", "amount": 14}, {"item": "hisa", "amount": 7}, {"item": "yyti", "amount": 8}], "research": "bixela-factory", "consumes": {"powerBuffered": 5571}, "category": "power"}

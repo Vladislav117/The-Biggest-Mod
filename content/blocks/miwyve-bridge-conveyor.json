@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "miwyve bridge conveyor", "description": "", "health": 17, "range": 18, "speed": 9, "bufferCapacity": 2, "requirements": [{"item": "miwyve", "amount": 3}, {"item": "wuqipenium", "amount": 2}], "research": "miwyve-conveyor", "category": "distribution", "size": 1}

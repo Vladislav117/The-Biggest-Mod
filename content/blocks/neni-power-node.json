@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "neni power node", "description": "...", "size": 2, "health": 16, "requirements": [{"item": "neni", "amount": 3}, {"item": "xivi", "amount": 20}, {"item": "yifity", "amount": 8}], "research": "neni-factory", "maxNodes": 22, "laserRange": 12, "category": "power"}

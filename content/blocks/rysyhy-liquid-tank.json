@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rysyhy liquid tank", "description": "...", "health": 269, "size": 3, "requirements": [{"item": "rysyhy", "amount": 10}, {"item": "yaly", "amount": 9}, {"item": "fadakynium", "amount": 9}], "research": "rysyhy-conduit", "category": "liquid", "liquidCapacity": 42031, "hasLiquids": true}

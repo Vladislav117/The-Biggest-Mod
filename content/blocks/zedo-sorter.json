@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zedo sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "zedo", "amount": 5}, {"item": "fikunium", "amount": 3}], "research": "zedo-conveyor", "category": "distribution", "invert": false}

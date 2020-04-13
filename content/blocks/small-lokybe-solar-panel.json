@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lokybe solar panel", "description": "...", "size": 1, "health": 376, "requirements": [{"item": "lokybe", "amount": 15}, {"item": "kawo", "amount": 19}, {"item": "naku", "amount": 5}], "research": "lokybe-factory", "powerProduction": 2.3376595029812592, "category": "power"}

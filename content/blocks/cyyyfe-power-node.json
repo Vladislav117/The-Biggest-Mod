@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cyyyfe power node", "description": "...", "size": 2, "health": 516, "requirements": [{"item": "cyyyfe", "amount": 19}, {"item": "papo", "amount": 4}, {"item": "pyco", "amount": 5}], "research": "cyyyfe-factory", "maxNodes": 17, "laserRange": 27, "category": "power"}

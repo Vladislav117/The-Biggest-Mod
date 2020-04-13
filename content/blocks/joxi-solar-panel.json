@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "joxi solar panel", "description": "...", "size": 3, "health": 351, "requirements": [{"item": "joxi", "amount": 1}, {"item": "xurenium", "amount": 20}, {"item": "zapu", "amount": 9}], "research": "joxi-factory", "powerProduction": 0.028901242079483906, "category": "power"}

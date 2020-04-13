@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "peje overflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "peje", "amount": 3}, {"item": "tasanium", "amount": 1}], "research": "peje-conveyor", "category": "distribution", "invert": false}

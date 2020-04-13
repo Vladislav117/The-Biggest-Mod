@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lilipenium solar panel", "description": "...", "size": 3, "health": 312, "requirements": [{"item": "lilipenium", "amount": 2}, {"item": "lyjenium", "amount": 14}, {"item": "zuva", "amount": 4}], "research": "lilipenium-factory", "powerProduction": 3.844053944568277, "category": "power"}

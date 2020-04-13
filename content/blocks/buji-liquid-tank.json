@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "buji liquid tank", "description": "...", "health": 607, "size": 3, "requirements": [{"item": "buji", "amount": 17}, {"item": "juzu", "amount": 20}, {"item": "bily", "amount": 2}], "research": "buji-conduit", "category": "liquid", "liquidCapacity": 101994, "hasLiquids": true}

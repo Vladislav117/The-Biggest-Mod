@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qepu liquid tank", "description": "...", "health": 327, "size": 3, "requirements": [{"item": "qepu", "amount": 7}, {"item": "ryqaje", "amount": 14}, {"item": "koci", "amount": 5}], "research": "qepu-conduit", "category": "liquid", "liquidCapacity": 29443, "hasLiquids": true}

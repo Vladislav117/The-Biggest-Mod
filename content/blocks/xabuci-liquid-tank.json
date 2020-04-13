@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xabuci liquid tank", "description": "...", "health": 486, "size": 3, "requirements": [{"item": "xabuci", "amount": 20}, {"item": "luyo", "amount": 5}, {"item": "cupedi", "amount": 6}], "research": "xabuci-conduit", "category": "liquid", "liquidCapacity": 108779, "hasLiquids": true}

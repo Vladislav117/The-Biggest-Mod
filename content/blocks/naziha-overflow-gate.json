@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "naziha overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "naziha", "amount": 1}, {"item": "fisi", "amount": 5}], "research": "naziha-conveyor", "category": "distribution", "invert": false}

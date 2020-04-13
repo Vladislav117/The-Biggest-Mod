@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "syminium liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "syminium", "amount": 4}, {"item": "fezudanium", "amount": 14}, {"item": "laho", "amount": 3}], "research": "syminium-conduit", "liquidCapacity": 10, "category": "liquid"}

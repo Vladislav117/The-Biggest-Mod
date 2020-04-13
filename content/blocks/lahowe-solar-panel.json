@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lahowe solar panel", "description": "...", "size": 3, "health": 118, "requirements": [{"item": "lahowe", "amount": 19}, {"item": "laxu", "amount": 2}, {"item": "reyezy", "amount": 9}], "research": "lahowe-factory", "powerProduction": 3.2612432172069625, "category": "power"}

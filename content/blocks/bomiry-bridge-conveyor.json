@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bomiry bridge conveyor", "description": "", "health": 39, "range": 17, "speed": 11, "bufferCapacity": 24, "requirements": [{"item": "bomiry", "amount": 1}, {"item": "dekeko", "amount": 1}], "research": "bomiry-conveyor", "category": "distribution", "size": 1}

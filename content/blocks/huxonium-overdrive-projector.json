@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "huxonium overdrive projector", "description": "...", "health": 72, "consumes": {"power": 3.0, "item": "huxonium"}, "size": 2, "requirements": [{"item": "huxonium", "amount": 8}, {"item": "cyxibe", "amount": 18}, {"item": "metaglass", "amount": 7}], "research": "huxonium-factory", "category": "effect"}

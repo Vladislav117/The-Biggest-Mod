@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "lifuke overdrive projector", "description": "...", "health": 100, "consumes": {"power": 3.0, "item": "lifuke"}, "size": 2, "requirements": [{"item": "lifuke", "amount": 20}, {"item": "duqu", "amount": 2}, {"item": "wamu", "amount": 7}], "research": "lifuke-factory", "category": "effect"}

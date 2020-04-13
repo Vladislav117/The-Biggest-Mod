@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tuyo power node", "description": "...", "size": 2, "health": 110, "requirements": [{"item": "tuyo", "amount": 17}, {"item": "lylisa", "amount": 4}, {"item": "vipe", "amount": 10}], "research": "tuyo-factory", "maxNodes": 16, "laserRange": 22, "category": "power"}

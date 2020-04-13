@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jede drill", "description": "...", "size": 3, "health": 266, "tier": 4, "drillTime": 13, "consumes": {"power": 16}, "requirements": [{"item": "jede", "amount": 20}, {"item": "rymyfanium", "amount": 16}, {"item": "xuhenium", "amount": 9}], "research": "jede-factory", "category": "production"}

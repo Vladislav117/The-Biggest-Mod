@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyweru liquid tank", "description": "...", "health": 569, "size": 3, "requirements": [{"item": "kyweru", "amount": 13}, {"item": "syxidonium", "amount": 4}, {"item": "wabaru", "amount": 3}], "research": "kyweru-conduit", "category": "liquid", "liquidCapacity": 116475, "hasLiquids": true}

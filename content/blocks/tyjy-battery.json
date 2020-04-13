@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tyjy battery", "description": "...", "size": 3, "health": 45, "requirements": [{"item": "tyjy", "amount": 12}, {"item": "nybinium", "amount": 17}, {"item": "xozime", "amount": 9}], "research": "tyjy-factory", "consumes": {"powerBuffered": 1406}, "category": "power"}

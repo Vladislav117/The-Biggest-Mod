@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kedy liquid tank", "description": "...", "health": 194, "size": 3, "requirements": [{"item": "kedy", "amount": 4}, {"item": "belynium", "amount": 12}, {"item": "locu", "amount": 8}], "research": "kedy-conduit", "category": "liquid", "liquidCapacity": 39223, "hasLiquids": true}

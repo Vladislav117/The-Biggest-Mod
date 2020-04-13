@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gawo bridge conveyor", "description": "", "health": 27, "range": 17, "speed": 14, "bufferCapacity": 20, "requirements": [{"item": "gawo", "amount": 5}, {"item": "cosizi", "amount": 2}], "research": "gawo-conveyor", "category": "distribution", "size": 1}

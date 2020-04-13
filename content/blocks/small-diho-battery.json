@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small diho battery", "description": "...", "size": 1, "health": 377, "requirements": [{"item": "diho", "amount": 7}, {"item": "qyhi", "amount": 8}, {"item": "vuna", "amount": 4}], "research": "diho-factory", "consumes": {"powerBuffered": 2180}, "category": "power"}

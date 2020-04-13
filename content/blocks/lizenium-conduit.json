@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lizenium conduit", "description": "...", "health": 186, "requirements": [{"item": "lizenium", "amount": 16}, {"item": "zyzo", "amount": 20}, {"item": "pobeqi", "amount": 3}], "liquidCapacity": 39, "liquidPressure": 5, "research": "lizenium-factory", "category": "liquid"}

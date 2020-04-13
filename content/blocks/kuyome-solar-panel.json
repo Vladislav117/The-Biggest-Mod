@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kuyome solar panel", "description": "...", "size": 3, "health": 95, "requirements": [{"item": "kuyome", "amount": 9}, {"item": "gakipy", "amount": 19}, {"item": "bilyvanium", "amount": 6}], "research": "kuyome-factory", "powerProduction": 13.423696561661185, "category": "power"}

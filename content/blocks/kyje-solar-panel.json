@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kyje solar panel", "description": "...", "size": 3, "health": 121, "requirements": [{"item": "kyje", "amount": 14}, {"item": "hogo", "amount": 9}, {"item": "giyiya", "amount": 6}], "research": "kyje-factory", "powerProduction": 5.285336099495131, "category": "power"}

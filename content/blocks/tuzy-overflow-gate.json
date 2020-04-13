@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tuzy overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "tuzy", "amount": 5}, {"item": "laxu", "amount": 5}], "research": "tuzy-conveyor", "category": "distribution", "invert": false}

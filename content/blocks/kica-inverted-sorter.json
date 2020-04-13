@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kica inverted sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "kica", "amount": 4}, {"item": "beyo", "amount": 2}], "research": "kica-conveyor", "category": "distribution", "invert": true}

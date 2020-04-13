@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kuku liquid tank", "description": "...", "health": 476, "size": 3, "requirements": [{"item": "kuku", "amount": 2}, {"item": "hofa", "amount": 18}, {"item": "horyve", "amount": 5}], "research": "kuku-conduit", "category": "liquid", "liquidCapacity": 3787, "hasLiquids": true}

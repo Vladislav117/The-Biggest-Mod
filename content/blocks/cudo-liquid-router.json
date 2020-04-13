@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cudo liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "cudo", "amount": 10}, {"item": "jumonium", "amount": 4}, {"item": "tezila", "amount": 10}], "research": "cudo-conduit", "liquidCapacity": 10, "category": "liquid"}

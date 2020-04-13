@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bisy battery", "description": "...", "size": 3, "health": 358, "requirements": [{"item": "bisy", "amount": 1}, {"item": "kufi", "amount": 13}, {"item": "boqi", "amount": 3}], "research": "bisy-factory", "consumes": {"powerBuffered": 2581}, "category": "power"}

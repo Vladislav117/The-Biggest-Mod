@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jatyjenium battery", "description": "...", "size": 3, "health": 213, "requirements": [{"item": "jatyjenium", "amount": 20}, {"item": "nuci", "amount": 3}, {"item": "seca", "amount": 8}], "research": "jatyjenium-factory", "consumes": {"powerBuffered": 3304}, "category": "power"}

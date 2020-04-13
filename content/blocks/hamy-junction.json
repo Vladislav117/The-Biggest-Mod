@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hamy junction", "description": "...", "health": 45, "speed": 14, "capacity": 6, "size": 1, "requirements": [{"item": "hamy", "amount": 4}, {"item": "qeraxu", "amount": 2}], "research": "hamy-conveyor", "category": "distribution"}

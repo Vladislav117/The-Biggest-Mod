@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wybenium solar panel", "description": "...", "size": 3, "health": 94, "requirements": [{"item": "wybenium", "amount": 3}, {"item": "nevyle", "amount": 5}, {"item": "dogequ", "amount": 8}], "research": "wybenium-factory", "powerProduction": 0.023717050383300145, "category": "power"}

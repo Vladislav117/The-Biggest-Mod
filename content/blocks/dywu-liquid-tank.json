@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dywu liquid tank", "description": "...", "health": 547, "size": 3, "requirements": [{"item": "dywu", "amount": 1}, {"item": "jiry", "amount": 17}, {"item": "wisi", "amount": 6}], "research": "dywu-conduit", "category": "liquid", "liquidCapacity": 84237, "hasLiquids": true}

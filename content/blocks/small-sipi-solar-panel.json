@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sipi solar panel", "description": "...", "size": 1, "health": 204, "requirements": [{"item": "sipi", "amount": 3}, {"item": "ligyxe", "amount": 11}, {"item": "wafe", "amount": 1}], "research": "sipi-factory", "powerProduction": 0.08985781127299723, "category": "power"}

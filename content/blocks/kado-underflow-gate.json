@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kado underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "kado", "amount": 4}, {"item": "hisywy", "amount": 2}], "research": "kado-conveyor", "category": "distribution", "invert": false}

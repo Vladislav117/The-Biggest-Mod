@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ribuge junction", "description": "...", "health": 47, "speed": 2, "capacity": 17, "size": 1, "requirements": [{"item": "ribuge", "amount": 4}, {"item": "hufema", "amount": 5}], "research": "ribuge-conveyor", "category": "distribution"}

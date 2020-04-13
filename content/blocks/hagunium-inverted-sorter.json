@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hagunium inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "hagunium", "amount": 5}, {"item": "beyo", "amount": 1}], "research": "hagunium-conveyor", "category": "distribution", "invert": true}

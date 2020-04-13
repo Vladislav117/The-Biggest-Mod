@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lizenium liquid router", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "lizenium", "amount": 14}, {"item": "nufa", "amount": 17}, {"item": "guniwa", "amount": 8}], "research": "lizenium-conduit", "liquidCapacity": 10, "category": "liquid"}

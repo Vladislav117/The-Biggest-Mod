@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small leyyde power node", "description": "...", "size": 1, "health": 364, "requirements": [{"item": "leyyde", "amount": 8}, {"item": "cuso", "amount": 14}, {"item": "ragezunium", "amount": 6}], "research": "leyyde-factory", "maxNodes": 19, "laserRange": 12, "category": "power"}

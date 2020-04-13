@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "liyavu liquid tank", "description": "...", "health": 578, "size": 3, "requirements": [{"item": "liyavu", "amount": 12}, {"item": "jypi", "amount": 19}, {"item": "qebu", "amount": 10}], "research": "liyavu-conduit", "category": "liquid", "liquidCapacity": 40614, "hasLiquids": true}

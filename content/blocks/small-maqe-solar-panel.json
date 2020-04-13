@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small maqe solar panel", "description": "...", "size": 1, "health": 194, "requirements": [{"item": "maqe", "amount": 6}, {"item": "zyqita", "amount": 11}, {"item": "seca", "amount": 3}], "research": "maqe-factory", "powerProduction": 2.3555439236056457, "category": "power"}

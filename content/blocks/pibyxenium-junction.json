@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pibyxenium junction", "description": "...", "health": 22, "speed": 16, "capacity": 4, "size": 1, "requirements": [{"item": "pibyxenium", "amount": 5}, {"item": "tisi", "amount": 2}], "research": "pibyxenium-conveyor", "category": "distribution"}

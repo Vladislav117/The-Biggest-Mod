@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kary junction", "description": "...", "health": 48, "speed": 6, "capacity": 1, "size": 1, "requirements": [{"item": "kary", "amount": 2}, {"item": "yuny", "amount": 5}], "research": "kary-conveyor", "category": "distribution"}

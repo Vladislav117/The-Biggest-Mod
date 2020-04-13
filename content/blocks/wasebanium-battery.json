@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wasebanium battery", "description": "...", "size": 3, "health": 20, "requirements": [{"item": "wasebanium", "amount": 14}, {"item": "xejo", "amount": 8}, {"item": "nepysi", "amount": 5}], "research": "wasebanium-factory", "consumes": {"powerBuffered": 8362}, "category": "power"}

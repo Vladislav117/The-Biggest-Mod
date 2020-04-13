@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nihalonium underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "nihalonium", "amount": 4}, {"item": "kebyge", "amount": 3}], "research": "nihalonium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small baxe solar panel", "description": "...", "size": 1, "health": 353, "requirements": [{"item": "baxe", "amount": 2}, {"item": "xyzu", "amount": 15}, {"item": "mebu", "amount": 6}], "research": "baxe-factory", "powerProduction": 2.316104333661627, "category": "power"}

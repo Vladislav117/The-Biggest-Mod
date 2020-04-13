@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vubedi underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "vubedi", "amount": 1}, {"item": "ketanium", "amount": 4}], "research": "vubedi-conveyor", "category": "distribution", "invert": false}

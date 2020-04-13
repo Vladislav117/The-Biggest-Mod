@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xetydinium junction", "description": "...", "health": 17, "speed": 18, "capacity": 2, "size": 1, "requirements": [{"item": "xetydinium", "amount": 3}, {"item": "zyremi", "amount": 4}], "research": "xetydinium-conveyor", "category": "distribution"}

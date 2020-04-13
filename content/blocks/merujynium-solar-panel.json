@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "merujynium solar panel", "description": "...", "size": 3, "health": 98, "requirements": [{"item": "merujynium", "amount": 8}, {"item": "vohiyynium", "amount": 7}, {"item": "ceyi", "amount": 6}], "research": "merujynium-factory", "powerProduction": 0.24755307150688727, "category": "power"}

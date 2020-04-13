@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pijebu battery", "description": "...", "size": 1, "health": 94, "requirements": [{"item": "pijebu", "amount": 3}, {"item": "xyka", "amount": 5}, {"item": "nazyfa", "amount": 6}], "research": "pijebu-factory", "consumes": {"powerBuffered": 1769}, "category": "power"}

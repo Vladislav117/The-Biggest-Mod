@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wibasi liquid router", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "wibasi", "amount": 2}, {"item": "heso", "amount": 1}, {"item": "qokenium", "amount": 8}], "research": "wibasi-conduit", "liquidCapacity": 10, "category": "liquid"}

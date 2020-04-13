@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sado drill", "description": "...", "size": 3, "health": 186, "tier": 3, "drillTime": 17, "consumes": {"power": 3}, "requirements": [{"item": "sado", "amount": 12}, {"item": "denu", "amount": 7}, {"item": "zynenium", "amount": 5}], "research": "sado-factory", "category": "production"}

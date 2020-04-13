@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vupofy overflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "vupofy", "amount": 5}, {"item": "lowapo", "amount": 2}], "research": "vupofy-conveyor", "category": "distribution", "invert": false}

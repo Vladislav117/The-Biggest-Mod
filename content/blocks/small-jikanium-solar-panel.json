@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jikanium solar panel", "description": "...", "size": 1, "health": 357, "requirements": [{"item": "jikanium", "amount": 11}, {"item": "joqopy", "amount": 3}, {"item": "rehyce", "amount": 2}], "research": "jikanium-factory", "powerProduction": 4.102936069405637, "category": "power"}

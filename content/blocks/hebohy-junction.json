@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hebohy junction", "description": "...", "health": 12, "speed": 3, "capacity": 10, "size": 1, "requirements": [{"item": "hebohy", "amount": 4}, {"item": "kyqu", "amount": 2}], "research": "hebohy-conveyor", "category": "distribution"}

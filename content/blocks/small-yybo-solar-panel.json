@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yybo solar panel", "description": "...", "size": 1, "health": 181, "requirements": [{"item": "yybo", "amount": 16}, {"item": "dase", "amount": 6}, {"item": "mytati", "amount": 10}], "research": "yybo-factory", "powerProduction": 0.26362785627444235, "category": "power"}

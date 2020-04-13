@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hatinium liquid tank", "description": "...", "health": 643, "size": 3, "requirements": [{"item": "hatinium", "amount": 13}, {"item": "pegarunium", "amount": 13}, {"item": "juvaci", "amount": 6}], "research": "hatinium-conduit", "category": "liquid", "liquidCapacity": 41264, "hasLiquids": true}

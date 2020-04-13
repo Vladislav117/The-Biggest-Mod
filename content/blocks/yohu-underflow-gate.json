@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yohu underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "yohu", "amount": 2}, {"item": "linu", "amount": 3}], "research": "yohu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cebuqy power node", "description": "...", "size": 2, "health": 118, "requirements": [{"item": "cebuqy", "amount": 8}, {"item": "nyli", "amount": 13}, {"item": "yocoke", "amount": 3}], "research": "cebuqy-factory", "maxNodes": 28, "laserRange": 10, "category": "power"}

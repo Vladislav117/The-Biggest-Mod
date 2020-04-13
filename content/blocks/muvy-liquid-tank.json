@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "muvy liquid tank", "description": "...", "health": 261, "size": 3, "requirements": [{"item": "muvy", "amount": 3}, {"item": "gyhecu", "amount": 2}, {"item": "wuqosenium", "amount": 4}], "research": "muvy-conduit", "category": "liquid", "liquidCapacity": 108259, "hasLiquids": true}

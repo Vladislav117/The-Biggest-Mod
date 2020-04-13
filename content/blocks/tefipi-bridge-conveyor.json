@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tefipi bridge conveyor", "description": "", "health": 24, "range": 8, "speed": 17, "bufferCapacity": 10, "requirements": [{"item": "tefipi", "amount": 1}, {"item": "winyjo", "amount": 2}], "research": "tefipi-conveyor", "category": "distribution", "size": 1}

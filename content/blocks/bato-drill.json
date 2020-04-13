@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bato drill", "description": "...", "size": 3, "health": 234, "tier": 1, "drillTime": 6, "consumes": {"power": 10}, "requirements": [{"item": "bato", "amount": 12}, {"item": "huru", "amount": 1}, {"item": "qasysi", "amount": 8}], "research": "bato-factory", "category": "production"}

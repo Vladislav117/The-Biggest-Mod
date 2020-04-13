@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mixy liquid tank", "description": "...", "health": 141, "size": 3, "requirements": [{"item": "mixy", "amount": 19}, {"item": "yunu", "amount": 9}, {"item": "yuly", "amount": 10}], "research": "mixy-conduit", "category": "liquid", "liquidCapacity": 61767, "hasLiquids": true}

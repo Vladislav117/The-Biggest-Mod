@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xikexi overflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "xikexi", "amount": 4}, {"item": "lewanium", "amount": 1}], "research": "xikexi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fogu bridge conveyor", "description": "", "health": 1, "range": 9, "speed": 19, "bufferCapacity": 5, "requirements": [{"item": "fogu", "amount": 4}, {"item": "kuteme", "amount": 5}], "research": "fogu-conveyor", "category": "distribution", "size": 1}

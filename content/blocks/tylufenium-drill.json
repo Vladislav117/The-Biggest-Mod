@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tylufenium drill", "description": "...", "size": 2, "health": 250, "tier": 3, "drillTime": 8, "consumes": {"power": 1}, "requirements": [{"item": "tylufenium", "amount": 5}, {"item": "waka", "amount": 15}, {"item": "larina", "amount": 4}], "research": "tylufenium-factory", "category": "production"}

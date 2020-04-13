@@ -1,0 +1,1 @@
+{"type": "router", "name": "maqa router", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "maqa", "amount": 5}], "research": "maqa-conveyor", "category": "distribution"}

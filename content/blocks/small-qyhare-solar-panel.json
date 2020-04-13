@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qyhare solar panel", "description": "...", "size": 1, "health": 215, "requirements": [{"item": "qyhare", "amount": 13}, {"item": "sylyxy", "amount": 1}, {"item": "hula", "amount": 5}], "research": "qyhare-factory", "powerProduction": 0.2662497899444669, "category": "power"}

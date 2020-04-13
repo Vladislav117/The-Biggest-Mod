@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cady junction", "description": "...", "health": 17, "speed": 10, "capacity": 19, "size": 1, "requirements": [{"item": "cady", "amount": 1}, {"item": "xydy", "amount": 3}], "research": "cady-conveyor", "category": "distribution"}

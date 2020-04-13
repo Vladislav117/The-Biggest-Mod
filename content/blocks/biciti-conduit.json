@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "biciti conduit", "description": "...", "health": 65, "requirements": [{"item": "biciti", "amount": 2}, {"item": "doluka", "amount": 11}, {"item": "ruvudo", "amount": 5}], "liquidCapacity": 11, "liquidPressure": 2, "research": "biciti-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "negi inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "negi", "amount": 2}, {"item": "suyi", "amount": 5}], "research": "negi-conveyor", "category": "distribution", "invert": true}

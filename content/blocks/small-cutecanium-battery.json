@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cutecanium battery", "description": "...", "size": 1, "health": 349, "requirements": [{"item": "cutecanium", "amount": 12}, {"item": "tate", "amount": 12}, {"item": "vusi", "amount": 9}], "research": "cutecanium-factory", "consumes": {"powerBuffered": 1922}, "category": "power"}

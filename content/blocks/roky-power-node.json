@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "roky power node", "description": "...", "size": 2, "health": 747, "requirements": [{"item": "roky", "amount": 6}, {"item": "biciti", "amount": 8}, {"item": "qicu", "amount": 6}], "research": "roky-factory", "maxNodes": 30, "laserRange": 18, "category": "power"}

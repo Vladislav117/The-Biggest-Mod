@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "puke overflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "puke", "amount": 5}, {"item": "nydinenium", "amount": 2}], "research": "puke-conveyor", "category": "distribution", "invert": false}

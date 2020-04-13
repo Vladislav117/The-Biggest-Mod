@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jepi power node", "description": "...", "size": 1, "health": 326, "requirements": [{"item": "jepi", "amount": 10}, {"item": "goduji", "amount": 20}, {"item": "kexaja", "amount": 10}], "research": "jepi-factory", "maxNodes": 11, "laserRange": 18, "category": "power"}

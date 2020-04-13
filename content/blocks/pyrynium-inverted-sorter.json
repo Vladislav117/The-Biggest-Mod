@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pyrynium inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "pyrynium", "amount": 2}, {"item": "goxize", "amount": 1}], "research": "pyrynium-conveyor", "category": "distribution", "invert": true}

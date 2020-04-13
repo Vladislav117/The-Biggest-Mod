@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "moxi liquid router", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "moxi", "amount": 20}, {"item": "lyzy", "amount": 10}, {"item": "dabi", "amount": 5}], "research": "moxi-conduit", "liquidCapacity": 10, "category": "liquid"}

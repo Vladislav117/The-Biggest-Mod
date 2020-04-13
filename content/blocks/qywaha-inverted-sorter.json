@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qywaha inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "qywaha", "amount": 2}, {"item": "zadajo", "amount": 5}], "research": "qywaha-conveyor", "category": "distribution", "invert": true}

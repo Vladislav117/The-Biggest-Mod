@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "divimenium solar panel", "description": "...", "size": 3, "health": 174, "requirements": [{"item": "divimenium", "amount": 9}, {"item": "cetemy", "amount": 17}, {"item": "nufuponium", "amount": 10}], "research": "divimenium-factory", "powerProduction": 1.3916775328914686, "category": "power"}

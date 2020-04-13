@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tavohe bridge conveyor", "description": "", "health": 17, "range": 15, "speed": 2, "bufferCapacity": 16, "requirements": [{"item": "tavohe", "amount": 4}, {"item": "cayy", "amount": 2}], "research": "tavohe-conveyor", "category": "distribution", "size": 1}

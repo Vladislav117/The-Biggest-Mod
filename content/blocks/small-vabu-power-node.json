@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vabu power node", "description": "...", "size": 1, "health": 129, "requirements": [{"item": "vabu", "amount": 7}, {"item": "dexe", "amount": 4}, {"item": "mudo", "amount": 3}], "research": "vabu-factory", "maxNodes": 18, "laserRange": 20, "category": "power"}

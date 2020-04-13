@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qiwise solar panel", "description": "...", "size": 3, "health": 257, "requirements": [{"item": "qiwise", "amount": 8}, {"item": "hurula", "amount": 14}, {"item": "wawu", "amount": 4}], "research": "qiwise-factory", "powerProduction": 4.477549185421107, "category": "power"}

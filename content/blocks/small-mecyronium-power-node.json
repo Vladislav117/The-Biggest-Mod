@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mecyronium power node", "description": "...", "size": 1, "health": 324, "requirements": [{"item": "mecyronium", "amount": 19}, {"item": "ligyxe", "amount": 2}, {"item": "yicavu", "amount": 2}], "research": "mecyronium-factory", "maxNodes": 13, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "life overflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "life", "amount": 1}, {"item": "cevu", "amount": 5}], "research": "life-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zivo junction", "description": "...", "health": 34, "speed": 15, "capacity": 15, "size": 1, "requirements": [{"item": "zivo", "amount": 5}, {"item": "vewavu", "amount": 5}], "research": "zivo-conveyor", "category": "distribution"}

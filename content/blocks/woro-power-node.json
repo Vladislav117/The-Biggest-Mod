@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "woro power node", "description": "...", "size": 2, "health": 29, "requirements": [{"item": "woro", "amount": 18}, {"item": "yylove", "amount": 10}, {"item": "nisowi", "amount": 9}], "research": "woro-factory", "maxNodes": 18, "laserRange": 10, "category": "power"}

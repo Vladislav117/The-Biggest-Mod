@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bome bridge conveyor", "description": "", "health": 15, "range": 14, "speed": 18, "bufferCapacity": 24, "requirements": [{"item": "bome", "amount": 5}, {"item": "porafa", "amount": 1}], "research": "bome-conveyor", "category": "distribution", "size": 1}

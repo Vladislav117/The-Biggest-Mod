@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "meru liquid tank", "description": "...", "health": 324, "size": 3, "requirements": [{"item": "meru", "amount": 2}, {"item": "wypu", "amount": 13}, {"item": "vabenium", "amount": 10}], "research": "meru-conduit", "category": "liquid", "liquidCapacity": 56037, "hasLiquids": true}

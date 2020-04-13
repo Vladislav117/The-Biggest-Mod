@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zesi solar panel", "description": "...", "size": 3, "health": 178, "requirements": [{"item": "zesi", "amount": 14}, {"item": "vurewe", "amount": 12}, {"item": "neqa", "amount": 7}], "research": "zesi-factory", "powerProduction": 1.0556674675020776, "category": "power"}

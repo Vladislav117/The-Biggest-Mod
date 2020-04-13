@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rizope liquid tank", "description": "...", "health": 195, "size": 3, "requirements": [{"item": "rizope", "amount": 16}, {"item": "cokigo", "amount": 10}, {"item": "jafi", "amount": 9}], "research": "rizope-conduit", "category": "liquid", "liquidCapacity": 21306, "hasLiquids": true}

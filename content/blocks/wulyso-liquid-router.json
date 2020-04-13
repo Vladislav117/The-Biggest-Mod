@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wulyso liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "wulyso", "amount": 17}, {"item": "xedorinium", "amount": 2}, {"item": "fyfoni", "amount": 6}], "research": "wulyso-conduit", "liquidCapacity": 10, "category": "liquid"}

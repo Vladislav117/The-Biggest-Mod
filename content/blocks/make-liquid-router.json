@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "make liquid router", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "make", "amount": 10}, {"item": "ryzyzi", "amount": 20}, {"item": "luvonium", "amount": 8}], "research": "make-conduit", "liquidCapacity": 10, "category": "liquid"}

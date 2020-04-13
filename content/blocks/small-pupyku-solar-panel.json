@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pupyku solar panel", "description": "...", "size": 1, "health": 287, "requirements": [{"item": "pupyku", "amount": 2}, {"item": "jyluba", "amount": 2}, {"item": "puzybo", "amount": 2}], "research": "pupyku-factory", "powerProduction": 11.200818218571435, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hycanium power node", "description": "...", "size": 2, "health": 396, "requirements": [{"item": "hycanium", "amount": 13}, {"item": "zucanium", "amount": 2}, {"item": "hago", "amount": 3}], "research": "hycanium-factory", "maxNodes": 35, "laserRange": 27, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qoly solar panel", "description": "...", "size": 1, "health": 231, "requirements": [{"item": "qoly", "amount": 13}, {"item": "lahydo", "amount": 19}, {"item": "sygoqu", "amount": 6}], "research": "qoly-factory", "powerProduction": 1.667840246906472, "category": "power"}

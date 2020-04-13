@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yiveni power node", "description": "...", "size": 1, "health": 150, "requirements": [{"item": "yiveni", "amount": 19}, {"item": "guwinium", "amount": 6}, {"item": "qoseve", "amount": 9}], "research": "yiveni-factory", "maxNodes": 24, "laserRange": 14, "category": "power"}

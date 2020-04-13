@@ -1,0 +1,1 @@
+{"type": "battery", "name": "woze battery", "description": "...", "size": 3, "health": 258, "requirements": [{"item": "woze", "amount": 3}, {"item": "gogajy", "amount": 19}, {"item": "velewo", "amount": 6}], "research": "woze-factory", "consumes": {"powerBuffered": 6819}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vodo power node", "description": "...", "size": 1, "health": 282, "requirements": [{"item": "vodo", "amount": 15}, {"item": "yufava", "amount": 1}, {"item": "vurypo", "amount": 5}], "research": "vodo-factory", "maxNodes": 16, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hijaju bridge conveyor", "description": "", "health": 20, "range": 7, "speed": 20, "bufferCapacity": 1, "requirements": [{"item": "hijaju", "amount": 4}, {"item": "yajawa", "amount": 2}], "research": "hijaju-conveyor", "category": "distribution", "size": 1}

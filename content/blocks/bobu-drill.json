@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bobu drill", "description": "...", "size": 2, "health": 209, "tier": 4, "drillTime": 16, "consumes": {"power": 12}, "requirements": [{"item": "bobu", "amount": 7}, {"item": "kyna", "amount": 15}, {"item": "xiga", "amount": 1}], "research": "bobu-factory", "category": "production"}

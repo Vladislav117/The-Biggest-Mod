@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yidako overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "yidako", "amount": 2}, {"item": "nazyfa", "amount": 1}], "research": "yidako-conveyor", "category": "distribution", "invert": false}

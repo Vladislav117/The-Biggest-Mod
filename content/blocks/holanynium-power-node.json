@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "holanynium power node", "description": "...", "size": 2, "health": 498, "requirements": [{"item": "holanynium", "amount": 8}, {"item": "sywuze", "amount": 14}, {"item": "yanu", "amount": 4}], "research": "holanynium-factory", "maxNodes": 56, "laserRange": 18, "category": "power"}

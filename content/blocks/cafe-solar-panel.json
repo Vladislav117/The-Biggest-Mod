@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cafe solar panel", "description": "...", "size": 3, "health": 223, "requirements": [{"item": "cafe", "amount": 3}, {"item": "movanium", "amount": 18}, {"item": "qady", "amount": 7}], "research": "cafe-factory", "powerProduction": 7.998084897349374, "category": "power"}

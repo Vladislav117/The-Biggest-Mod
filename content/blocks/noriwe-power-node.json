@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "noriwe power node", "description": "...", "size": 2, "health": 719, "requirements": [{"item": "noriwe", "amount": 11}, {"item": "gizomanium", "amount": 7}, {"item": "deco", "amount": 5}], "research": "noriwe-factory", "maxNodes": 38, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "teyime solar panel", "description": "...", "size": 3, "health": 385, "requirements": [{"item": "teyime", "amount": 16}, {"item": "kivefu", "amount": 17}, {"item": "numy", "amount": 6}], "research": "teyime-factory", "powerProduction": 0.5884212204093541, "category": "power"}

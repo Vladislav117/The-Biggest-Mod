@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dywu solar panel", "description": "...", "size": 3, "health": 149, "requirements": [{"item": "dywu", "amount": 3}, {"item": "cifo", "amount": 16}, {"item": "leyoqo", "amount": 8}], "research": "dywu-factory", "powerProduction": 0.562190869318631, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jatyjenium solar panel", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "jatyjenium", "amount": 8}, {"item": "nyboye", "amount": 19}, {"item": "vosamo", "amount": 8}], "research": "jatyjenium-factory", "powerProduction": 0.6395181489190847, "category": "power"}

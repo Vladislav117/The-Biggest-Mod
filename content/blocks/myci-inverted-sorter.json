@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "myci inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "myci", "amount": 4}, {"item": "qypusa", "amount": 1}], "research": "myci-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sore power node", "description": "...", "size": 2, "health": 77, "requirements": [{"item": "sore", "amount": 10}, {"item": "bajenium", "amount": 4}, {"item": "wiba", "amount": 8}], "research": "sore-factory", "maxNodes": 40, "laserRange": 11, "category": "power"}

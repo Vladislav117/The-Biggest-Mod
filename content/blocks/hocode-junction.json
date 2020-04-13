@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hocode junction", "description": "...", "health": 49, "speed": 20, "capacity": 10, "size": 1, "requirements": [{"item": "hocode", "amount": 3}, {"item": "hofa", "amount": 2}], "research": "hocode-conveyor", "category": "distribution"}

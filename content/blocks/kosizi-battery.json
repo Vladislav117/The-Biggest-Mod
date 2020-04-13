@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kosizi battery", "description": "...", "size": 3, "health": 258, "requirements": [{"item": "kosizi", "amount": 5}, {"item": "fayenium", "amount": 19}, {"item": "qukeso", "amount": 9}], "research": "kosizi-factory", "consumes": {"powerBuffered": 2115}, "category": "power"}

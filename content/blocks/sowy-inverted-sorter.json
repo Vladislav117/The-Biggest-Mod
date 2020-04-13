@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sowy inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "sowy", "amount": 4}, {"item": "wosefanium", "amount": 4}], "research": "sowy-conveyor", "category": "distribution", "invert": true}

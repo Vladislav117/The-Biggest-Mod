@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wyme liquid tank", "description": "...", "health": 665, "size": 3, "requirements": [{"item": "wyme", "amount": 5}, {"item": "kozypi", "amount": 1}, {"item": "jeqenium", "amount": 8}], "research": "wyme-conduit", "category": "liquid", "liquidCapacity": 31252, "hasLiquids": true}

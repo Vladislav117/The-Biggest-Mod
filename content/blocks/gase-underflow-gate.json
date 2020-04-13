@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gase underflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "gase", "amount": 4}, {"item": "nabopy", "amount": 4}], "research": "gase-conveyor", "category": "distribution", "invert": false}

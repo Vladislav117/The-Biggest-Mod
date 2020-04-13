@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zolosi inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "zolosi", "amount": 5}, {"item": "qopaye", "amount": 4}], "research": "zolosi-conveyor", "category": "distribution", "invert": true}

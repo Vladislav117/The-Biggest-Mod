@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pehabu solar panel", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "pehabu", "amount": 5}, {"item": "bofe", "amount": 6}, {"item": "fipa", "amount": 5}], "research": "pehabu-factory", "powerProduction": 2.886169816418947, "category": "power"}

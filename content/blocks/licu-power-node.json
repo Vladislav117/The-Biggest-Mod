@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "licu power node", "description": "...", "size": 2, "health": 587, "requirements": [{"item": "licu", "amount": 3}, {"item": "zivo", "amount": 6}, {"item": "mika", "amount": 5}], "research": "licu-factory", "maxNodes": 30, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vodynium junction", "description": "...", "health": 45, "speed": 10, "capacity": 14, "size": 1, "requirements": [{"item": "vodynium", "amount": 5}, {"item": "moje", "amount": 1}], "research": "vodynium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "faruna overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "faruna", "amount": 2}, {"item": "hyte", "amount": 5}], "research": "faruna-conveyor", "category": "distribution", "invert": false}

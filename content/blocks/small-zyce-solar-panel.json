@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zyce solar panel", "description": "...", "size": 1, "health": 209, "requirements": [{"item": "zyce", "amount": 8}, {"item": "horyve", "amount": 5}, {"item": "sumu", "amount": 6}], "research": "zyce-factory", "powerProduction": 2.9550818198817947, "category": "power"}

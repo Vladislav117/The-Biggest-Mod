@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vini battery", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "vini", "amount": 8}, {"item": "qekaye", "amount": 20}, {"item": "nogu", "amount": 4}], "research": "vini-factory", "consumes": {"powerBuffered": 2492}, "category": "power"}

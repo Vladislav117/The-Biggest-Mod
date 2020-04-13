@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "waby solar panel", "description": "...", "size": 3, "health": 267, "requirements": [{"item": "waby", "amount": 8}, {"item": "wusupy", "amount": 8}, {"item": "hicy", "amount": 4}], "research": "waby-factory", "powerProduction": 1.5780175865856807, "category": "power"}

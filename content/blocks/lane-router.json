@@ -1,0 +1,1 @@
+{"type": "router", "name": "lane router", "description": "...", "health": 99, "size": 1, "requirements": [{"item": "lane", "amount": 5}], "research": "lane-conveyor", "category": "distribution"}

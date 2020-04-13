@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nefanium solar panel", "description": "...", "size": 3, "health": 82, "requirements": [{"item": "nefanium", "amount": 10}, {"item": "qodanunium", "amount": 19}, {"item": "xydy", "amount": 8}], "research": "nefanium-factory", "powerProduction": 0.2630031318530395, "category": "power"}

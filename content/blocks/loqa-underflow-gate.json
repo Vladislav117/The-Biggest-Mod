@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "loqa underflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "loqa", "amount": 1}, {"item": "copper", "amount": 3}], "research": "loqa-conveyor", "category": "distribution", "invert": false}

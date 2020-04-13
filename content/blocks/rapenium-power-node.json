@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rapenium power node", "description": "...", "size": 2, "health": 783, "requirements": [{"item": "rapenium", "amount": 14}, {"item": "tatupo", "amount": 9}, {"item": "medide", "amount": 6}], "research": "rapenium-factory", "maxNodes": 24, "laserRange": 24, "category": "power"}

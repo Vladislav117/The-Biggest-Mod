@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yaky solar panel", "description": "...", "size": 3, "health": 393, "requirements": [{"item": "yaky", "amount": 10}, {"item": "fevawinium", "amount": 2}, {"item": "zucy", "amount": 6}], "research": "yaky-factory", "powerProduction": 0.40691496114833947, "category": "power"}

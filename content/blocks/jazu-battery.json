@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jazu battery", "description": "...", "size": 3, "health": 107, "requirements": [{"item": "jazu", "amount": 18}, {"item": "siceku", "amount": 20}, {"item": "siqefo", "amount": 9}], "research": "jazu-factory", "consumes": {"powerBuffered": 6021}, "category": "power"}

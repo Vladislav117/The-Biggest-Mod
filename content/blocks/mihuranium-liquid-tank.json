@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mihuranium liquid tank", "description": "...", "health": 175, "size": 3, "requirements": [{"item": "mihuranium", "amount": 19}, {"item": "labila", "amount": 10}, {"item": "pygu", "amount": 2}], "research": "mihuranium-conduit", "category": "liquid", "liquidCapacity": 71663, "hasLiquids": true}

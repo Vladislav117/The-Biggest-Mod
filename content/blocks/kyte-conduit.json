@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kyte conduit", "description": "...", "health": 132, "requirements": [{"item": "kyte", "amount": 20}, {"item": "zuzequ", "amount": 17}, {"item": "kyte", "amount": 10}], "liquidCapacity": 4, "liquidPressure": 9, "research": "kyte-factory", "category": "liquid"}

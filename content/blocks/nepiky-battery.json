@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nepiky battery", "description": "...", "size": 3, "health": 106, "requirements": [{"item": "nepiky", "amount": 3}, {"item": "liny", "amount": 8}, {"item": "vosenium", "amount": 5}], "research": "nepiky-factory", "consumes": {"powerBuffered": 486}, "category": "power"}

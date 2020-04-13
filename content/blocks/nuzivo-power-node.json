@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nuzivo power node", "description": "...", "size": 2, "health": 652, "requirements": [{"item": "nuzivo", "amount": 15}, {"item": "toni", "amount": 8}, {"item": "qepusenium", "amount": 1}], "research": "nuzivo-factory", "maxNodes": 13, "laserRange": 7, "category": "power"}

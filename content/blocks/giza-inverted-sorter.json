@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "giza inverted sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "giza", "amount": 2}, {"item": "feqinium", "amount": 1}], "research": "giza-conveyor", "category": "distribution", "invert": true}

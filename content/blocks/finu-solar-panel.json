@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "finu solar panel", "description": "...", "size": 3, "health": 128, "requirements": [{"item": "finu", "amount": 12}, {"item": "caqohanium", "amount": 5}, {"item": "jayi", "amount": 4}], "research": "finu-factory", "powerProduction": 2.360532181673574, "category": "power"}

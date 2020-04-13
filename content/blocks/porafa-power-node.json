@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "porafa power node", "description": "...", "size": 2, "health": 344, "requirements": [{"item": "porafa", "amount": 17}, {"item": "zoda", "amount": 4}, {"item": "cuhynenium", "amount": 6}], "research": "porafa-factory", "maxNodes": 23, "laserRange": 27, "category": "power"}

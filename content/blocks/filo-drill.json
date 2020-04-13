@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "filo drill", "description": "...", "size": 4, "health": 164, "tier": 1, "drillTime": 13, "consumes": {"power": 9}, "requirements": [{"item": "filo", "amount": 7}, {"item": "fyyu", "amount": 3}, {"item": "qicu", "amount": 8}], "research": "filo-factory", "category": "production"}

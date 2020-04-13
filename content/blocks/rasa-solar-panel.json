@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rasa solar panel", "description": "...", "size": 3, "health": 15, "requirements": [{"item": "rasa", "amount": 10}, {"item": "tole", "amount": 17}, {"item": "yobabynium", "amount": 10}], "research": "rasa-factory", "powerProduction": 0.44132771479523325, "category": "power"}

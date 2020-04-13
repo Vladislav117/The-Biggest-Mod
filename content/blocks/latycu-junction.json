@@ -1,0 +1,1 @@
+{"type": "junction", "name": "latycu junction", "description": "...", "health": 43, "speed": 20, "capacity": 5, "size": 1, "requirements": [{"item": "latycu", "amount": 1}, {"item": "covikinium", "amount": 5}], "research": "latycu-conveyor", "category": "distribution"}

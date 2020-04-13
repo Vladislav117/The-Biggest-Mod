@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lype liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "lype", "amount": 14}, {"item": "feqy", "amount": 9}, {"item": "zosy", "amount": 10}], "research": "lype-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lebu conduit", "description": "...", "health": 145, "requirements": [{"item": "lebu", "amount": 18}, {"item": "lynulo", "amount": 17}, {"item": "tiwyna", "amount": 10}], "liquidCapacity": 27, "liquidPressure": 4, "research": "lebu-factory", "category": "liquid"}

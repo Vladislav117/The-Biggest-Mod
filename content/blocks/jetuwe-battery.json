@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jetuwe battery", "description": "...", "size": 3, "health": 58, "requirements": [{"item": "jetuwe", "amount": 17}, {"item": "xiguri", "amount": 8}, {"item": "jozu", "amount": 2}], "research": "jetuwe-factory", "consumes": {"powerBuffered": 4311}, "category": "power"}

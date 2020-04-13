@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pyyomi solar panel", "description": "...", "size": 3, "health": 278, "requirements": [{"item": "pyyomi", "amount": 14}, {"item": "hygili", "amount": 9}, {"item": "wedu", "amount": 9}], "research": "pyyomi-factory", "powerProduction": 0.050616770299079614, "category": "power"}

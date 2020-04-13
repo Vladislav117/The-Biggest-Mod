@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yypefa liquid tank", "description": "...", "health": 623, "size": 3, "requirements": [{"item": "yypefa", "amount": 1}, {"item": "tobu", "amount": 10}, {"item": "rukonium", "amount": 8}], "research": "yypefa-conduit", "category": "liquid", "liquidCapacity": 43489, "hasLiquids": true}

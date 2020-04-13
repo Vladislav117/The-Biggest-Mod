@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qoxu inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "qoxu", "amount": 5}, {"item": "koju", "amount": 4}], "research": "qoxu-conveyor", "category": "distribution", "invert": true}

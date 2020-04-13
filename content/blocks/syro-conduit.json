@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "syro conduit", "description": "...", "health": 97, "requirements": [{"item": "syro", "amount": 1}, {"item": "zusi", "amount": 5}, {"item": "rovo", "amount": 1}], "liquidCapacity": 14, "liquidPressure": 10, "research": "syro-factory", "category": "liquid"}

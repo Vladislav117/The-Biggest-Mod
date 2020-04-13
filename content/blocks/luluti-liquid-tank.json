@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "luluti liquid tank", "description": "...", "health": 242, "size": 3, "requirements": [{"item": "luluti", "amount": 4}, {"item": "milusunium", "amount": 18}, {"item": "gypunium", "amount": 3}], "research": "luluti-conduit", "category": "liquid", "liquidCapacity": 95713, "hasLiquids": true}

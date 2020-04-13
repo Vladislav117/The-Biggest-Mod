@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ciwy solar panel", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "ciwy", "amount": 14}, {"item": "jyluba", "amount": 3}, {"item": "xujo", "amount": 5}], "research": "ciwy-factory", "powerProduction": 0.4070853423007349, "category": "power"}

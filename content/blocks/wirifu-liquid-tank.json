@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wirifu liquid tank", "description": "...", "health": 141, "size": 3, "requirements": [{"item": "wirifu", "amount": 11}, {"item": "vusy", "amount": 10}, {"item": "cydofunium", "amount": 4}], "research": "wirifu-conduit", "category": "liquid", "liquidCapacity": 79059, "hasLiquids": true}

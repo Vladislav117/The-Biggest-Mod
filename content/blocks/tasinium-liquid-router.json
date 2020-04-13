@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tasinium liquid router", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "tasinium", "amount": 11}, {"item": "puqege", "amount": 2}, {"item": "jyryze", "amount": 2}], "research": "tasinium-conduit", "liquidCapacity": 10, "category": "liquid"}

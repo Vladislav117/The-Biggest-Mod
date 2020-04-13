@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sawa liquid tank", "description": "...", "health": 513, "size": 3, "requirements": [{"item": "sawa", "amount": 20}, {"item": "jamidi", "amount": 15}, {"item": "bujeqa", "amount": 1}], "research": "sawa-conduit", "category": "liquid", "liquidCapacity": 119103, "hasLiquids": true}

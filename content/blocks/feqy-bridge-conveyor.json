@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "feqy bridge conveyor", "description": "", "health": 48, "range": 10, "speed": 18, "bufferCapacity": 25, "requirements": [{"item": "feqy", "amount": 5}, {"item": "ceciba", "amount": 3}], "research": "feqy-conveyor", "category": "distribution", "size": 1}

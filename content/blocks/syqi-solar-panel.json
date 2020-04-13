@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "syqi solar panel", "description": "...", "size": 3, "health": 232, "requirements": [{"item": "syqi", "amount": 3}, {"item": "hukebi", "amount": 15}, {"item": "ryzyzi", "amount": 6}], "research": "syqi-factory", "powerProduction": 13.965380698804717, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bepoxu liquid tank", "description": "...", "health": 362, "size": 3, "requirements": [{"item": "bepoxu", "amount": 11}, {"item": "lymo", "amount": 12}, {"item": "dafa", "amount": 4}], "research": "bepoxu-conduit", "category": "liquid", "liquidCapacity": 6551, "hasLiquids": true}

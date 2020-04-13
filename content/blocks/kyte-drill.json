@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kyte drill", "description": "...", "size": 2, "health": 389, "tier": 1, "drillTime": 6, "consumes": {"power": 5}, "requirements": [{"item": "kyte", "amount": 2}, {"item": "metaglass", "amount": 9}, {"item": "graphite", "amount": 6}], "research": "kyte-factory", "category": "production"}

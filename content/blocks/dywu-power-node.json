@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dywu power node", "description": "...", "size": 2, "health": 142, "requirements": [{"item": "dywu", "amount": 2}, {"item": "pedy", "amount": 3}, {"item": "cuso", "amount": 1}], "research": "dywu-factory", "maxNodes": 25, "laserRange": 10, "category": "power"}

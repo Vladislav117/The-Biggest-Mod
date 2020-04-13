@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qobopinium junction", "description": "...", "health": 22, "speed": 5, "capacity": 9, "size": 1, "requirements": [{"item": "qobopinium", "amount": 5}, {"item": "zumyze", "amount": 4}], "research": "qobopinium-conveyor", "category": "distribution"}

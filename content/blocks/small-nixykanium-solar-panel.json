@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nixykanium solar panel", "description": "...", "size": 1, "health": 286, "requirements": [{"item": "nixykanium", "amount": 12}, {"item": "bururinium", "amount": 14}, {"item": "vodico", "amount": 6}], "research": "nixykanium-factory", "powerProduction": 0.22115427222085463, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wosefanium power node", "description": "...", "size": 1, "health": 275, "requirements": [{"item": "wosefanium", "amount": 18}, {"item": "winyjo", "amount": 19}, {"item": "bilyvanium", "amount": 1}], "research": "wosefanium-factory", "maxNodes": 29, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xyqehe power node", "description": "...", "size": 2, "health": 608, "requirements": [{"item": "xyqehe", "amount": 4}, {"item": "gonu", "amount": 18}, {"item": "kacoju", "amount": 10}], "research": "xyqehe-factory", "maxNodes": 31, "laserRange": 19, "category": "power"}

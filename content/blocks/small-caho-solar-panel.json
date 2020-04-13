@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small caho solar panel", "description": "...", "size": 1, "health": 167, "requirements": [{"item": "caho", "amount": 19}, {"item": "bimi", "amount": 11}, {"item": "hofa", "amount": 7}], "research": "caho-factory", "powerProduction": 2.5872884559352, "category": "power"}

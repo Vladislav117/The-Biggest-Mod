@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dafuse liquid tank", "description": "...", "health": 624, "size": 3, "requirements": [{"item": "dafuse", "amount": 12}, {"item": "kyya", "amount": 2}, {"item": "yibefanium", "amount": 4}], "research": "dafuse-conduit", "category": "liquid", "liquidCapacity": 110026, "hasLiquids": true}

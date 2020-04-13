@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cudy liquid tank", "description": "...", "health": 480, "size": 3, "requirements": [{"item": "cudy", "amount": 4}, {"item": "cokigo", "amount": 17}, {"item": "cobunium", "amount": 1}], "research": "cudy-conduit", "category": "liquid", "liquidCapacity": 76876, "hasLiquids": true}

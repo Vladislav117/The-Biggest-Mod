@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "woro conduit", "description": "...", "health": 147, "requirements": [{"item": "woro", "amount": 9}, {"item": "webebu", "amount": 10}, {"item": "liqohy", "amount": 10}], "liquidCapacity": 16, "liquidPressure": 10, "research": "woro-factory", "category": "liquid"}

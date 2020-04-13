@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pify power node", "description": "...", "size": 2, "health": 61, "requirements": [{"item": "pify", "amount": 11}, {"item": "veqyro", "amount": 13}, {"item": "qacu", "amount": 8}], "research": "pify-factory", "maxNodes": 51, "laserRange": 8, "category": "power"}

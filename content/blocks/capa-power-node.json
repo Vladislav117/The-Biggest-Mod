@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "capa power node", "description": "...", "size": 2, "health": 572, "requirements": [{"item": "capa", "amount": 5}, {"item": "felu", "amount": 9}, {"item": "qiyo", "amount": 5}], "research": "capa-factory", "maxNodes": 51, "laserRange": 29, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wupoxy junction", "description": "...", "health": 33, "speed": 6, "capacity": 11, "size": 1, "requirements": [{"item": "wupoxy", "amount": 5}, {"item": "fahi", "amount": 3}], "research": "wupoxy-conveyor", "category": "distribution"}

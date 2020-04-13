@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tiyajo power node", "description": "...", "size": 2, "health": 149, "requirements": [{"item": "tiyajo", "amount": 8}, {"item": "titenium", "amount": 13}, {"item": "fayenium", "amount": 5}], "research": "tiyajo-factory", "maxNodes": 15, "laserRange": 11, "category": "power"}

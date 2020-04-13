@@ -1,0 +1,1 @@
+{"type": "junction", "name": "poxi junction", "description": "...", "health": 50, "speed": 5, "capacity": 10, "size": 1, "requirements": [{"item": "poxi", "amount": 3}, {"item": "bome", "amount": 2}], "research": "poxi-conveyor", "category": "distribution"}

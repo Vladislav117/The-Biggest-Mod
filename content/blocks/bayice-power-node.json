@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bayice power node", "description": "...", "size": 2, "health": 126, "requirements": [{"item": "bayice", "amount": 10}, {"item": "xyzeja", "amount": 20}, {"item": "kute", "amount": 6}], "research": "bayice-factory", "maxNodes": 50, "laserRange": 14, "category": "power"}

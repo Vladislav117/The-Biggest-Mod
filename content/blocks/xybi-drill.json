@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xybi drill", "description": "...", "size": 2, "health": 288, "tier": 4, "drillTime": 4, "consumes": {"power": 2}, "requirements": [{"item": "xybi", "amount": 15}, {"item": "dyxuhu", "amount": 14}, {"item": "cyzofanium", "amount": 4}], "research": "xybi-factory", "category": "production"}

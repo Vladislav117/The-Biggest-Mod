@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tytyfanium liquid tank", "description": "...", "health": 318, "size": 3, "requirements": [{"item": "tytyfanium", "amount": 3}, {"item": "holepinium", "amount": 2}, {"item": "gofyfy", "amount": 6}], "research": "tytyfanium-conduit", "category": "liquid", "liquidCapacity": 64309, "hasLiquids": true}

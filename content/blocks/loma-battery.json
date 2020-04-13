@@ -1,0 +1,1 @@
+{"type": "battery", "name": "loma battery", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "loma", "amount": 3}, {"item": "ruzeru", "amount": 11}, {"item": "tykyfo", "amount": 2}], "research": "loma-factory", "consumes": {"powerBuffered": 1093}, "category": "power"}

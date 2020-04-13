@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "boretu sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "boretu", "amount": 2}, {"item": "jumonium", "amount": 5}], "research": "boretu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "raso solar panel", "description": "...", "size": 3, "health": 246, "requirements": [{"item": "raso", "amount": 10}, {"item": "cynehe", "amount": 6}, {"item": "pozilonium", "amount": 5}], "research": "raso-factory", "powerProduction": 1.4216902937935643, "category": "power"}

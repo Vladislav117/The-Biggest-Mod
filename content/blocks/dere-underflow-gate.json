@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dere underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "dere", "amount": 3}, {"item": "zenuwunium", "amount": 3}], "research": "dere-conveyor", "category": "distribution", "invert": false}

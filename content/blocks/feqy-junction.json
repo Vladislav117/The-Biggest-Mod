@@ -1,0 +1,1 @@
+{"type": "junction", "name": "feqy junction", "description": "...", "health": 1, "speed": 20, "capacity": 9, "size": 1, "requirements": [{"item": "feqy", "amount": 4}, {"item": "hufema", "amount": 1}], "research": "feqy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hociku solar panel", "description": "...", "size": 3, "health": 220, "requirements": [{"item": "hociku", "amount": 10}, {"item": "vuganium", "amount": 10}, {"item": "lidori", "amount": 5}], "research": "hociku-factory", "powerProduction": 0.6251861537634207, "category": "power"}

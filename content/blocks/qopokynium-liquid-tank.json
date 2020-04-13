@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qopokynium liquid tank", "description": "...", "health": 537, "size": 3, "requirements": [{"item": "qopokynium", "amount": 12}, {"item": "rivy", "amount": 13}, {"item": "yove", "amount": 4}], "research": "qopokynium-conduit", "category": "liquid", "liquidCapacity": 104863, "hasLiquids": true}

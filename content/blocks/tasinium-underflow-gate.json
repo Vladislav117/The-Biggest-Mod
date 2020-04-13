@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tasinium underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "tasinium", "amount": 1}, {"item": "hewunium", "amount": 3}], "research": "tasinium-conveyor", "category": "distribution", "invert": false}

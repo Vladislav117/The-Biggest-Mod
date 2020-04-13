@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rysi power node", "description": "...", "size": 2, "health": 386, "requirements": [{"item": "rysi", "amount": 15}, {"item": "jumonium", "amount": 20}, {"item": "yipobe", "amount": 10}], "research": "rysi-factory", "maxNodes": 50, "laserRange": 8, "category": "power"}

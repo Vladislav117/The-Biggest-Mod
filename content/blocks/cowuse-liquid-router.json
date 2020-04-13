@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cowuse liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "cowuse", "amount": 10}, {"item": "dodyvo", "amount": 16}, {"item": "zupisy", "amount": 5}], "research": "cowuse-conduit", "liquidCapacity": 10, "category": "liquid"}

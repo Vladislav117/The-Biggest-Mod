@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gohyce battery", "description": "...", "size": 3, "health": 206, "requirements": [{"item": "gohyce", "amount": 19}, {"item": "futaxunium", "amount": 17}, {"item": "relaqo", "amount": 6}], "research": "gohyce-factory", "consumes": {"powerBuffered": 6469}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fecufy power node", "description": "...", "size": 2, "health": 409, "requirements": [{"item": "fecufy", "amount": 11}, {"item": "yito", "amount": 11}, {"item": "sivaqi", "amount": 1}], "research": "fecufy-factory", "maxNodes": 15, "laserRange": 9, "category": "power"}

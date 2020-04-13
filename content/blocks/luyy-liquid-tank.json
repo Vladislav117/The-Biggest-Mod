@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "luyy liquid tank", "description": "...", "health": 155, "size": 3, "requirements": [{"item": "luyy", "amount": 6}, {"item": "kiza", "amount": 6}, {"item": "noxy", "amount": 6}], "research": "luyy-conduit", "category": "liquid", "liquidCapacity": 78343, "hasLiquids": true}

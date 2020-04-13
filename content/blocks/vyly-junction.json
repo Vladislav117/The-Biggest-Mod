@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vyly junction", "description": "...", "health": 7, "speed": 10, "capacity": 2, "size": 1, "requirements": [{"item": "vyly", "amount": 3}, {"item": "typi", "amount": 5}], "research": "vyly-conveyor", "category": "distribution"}

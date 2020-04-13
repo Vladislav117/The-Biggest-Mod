@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kosonium overflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "kosonium", "amount": 1}, {"item": "laxu", "amount": 2}], "research": "kosonium-conveyor", "category": "distribution", "invert": false}

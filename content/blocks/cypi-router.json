@@ -1,0 +1,1 @@
+{"type": "router", "name": "cypi router", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "cypi", "amount": 3}], "research": "cypi-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cavuyi battery", "description": "...", "size": 1, "health": 314, "requirements": [{"item": "cavuyi", "amount": 2}, {"item": "tujy", "amount": 19}, {"item": "yuqy", "amount": 10}], "research": "cavuyi-factory", "consumes": {"powerBuffered": 655}, "category": "power"}

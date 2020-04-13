@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "daci liquid tank", "description": "...", "health": 471, "size": 3, "requirements": [{"item": "daci", "amount": 3}, {"item": "ryho", "amount": 7}, {"item": "yowa", "amount": 3}], "research": "daci-conduit", "category": "liquid", "liquidCapacity": 37674, "hasLiquids": true}

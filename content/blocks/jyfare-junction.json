@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jyfare junction", "description": "...", "health": 43, "speed": 12, "capacity": 15, "size": 1, "requirements": [{"item": "jyfare", "amount": 3}, {"item": "qybasinium", "amount": 2}], "research": "jyfare-conveyor", "category": "distribution"}

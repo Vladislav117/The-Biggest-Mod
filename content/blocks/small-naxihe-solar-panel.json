@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small naxihe solar panel", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "naxihe", "amount": 1}, {"item": "rajubanium", "amount": 11}, {"item": "mefymanium", "amount": 5}], "research": "naxihe-factory", "powerProduction": 1.238426923234558, "category": "power"}

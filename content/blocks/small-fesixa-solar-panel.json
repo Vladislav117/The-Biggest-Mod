@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fesixa solar panel", "description": "...", "size": 1, "health": 219, "requirements": [{"item": "fesixa", "amount": 10}, {"item": "guwinium", "amount": 6}, {"item": "rymojanium", "amount": 9}], "research": "fesixa-factory", "powerProduction": 1.1109448084798252, "category": "power"}

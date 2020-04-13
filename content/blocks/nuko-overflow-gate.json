@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nuko overflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "nuko", "amount": 4}, {"item": "kavequ", "amount": 5}], "research": "nuko-conveyor", "category": "distribution", "invert": false}

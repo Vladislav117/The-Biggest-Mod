@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nyry power node", "description": "...", "size": 2, "health": 210, "requirements": [{"item": "nyry", "amount": 16}, {"item": "sytu", "amount": 12}, {"item": "nyli", "amount": 10}], "research": "nyry-factory", "maxNodes": 45, "laserRange": 12, "category": "power"}

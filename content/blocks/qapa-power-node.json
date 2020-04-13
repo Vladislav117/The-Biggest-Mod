@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qapa power node", "description": "...", "size": 2, "health": 279, "requirements": [{"item": "qapa", "amount": 4}, {"item": "yokofu", "amount": 15}, {"item": "vole", "amount": 10}], "research": "qapa-factory", "maxNodes": 31, "laserRange": 27, "category": "power"}

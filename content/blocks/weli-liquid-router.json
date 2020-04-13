@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "weli liquid router", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "weli", "amount": 17}, {"item": "yatu", "amount": 12}, {"item": "holepinium", "amount": 9}], "research": "weli-conduit", "liquidCapacity": 10, "category": "liquid"}

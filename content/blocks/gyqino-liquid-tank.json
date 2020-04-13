@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gyqino liquid tank", "description": "...", "health": 351, "size": 3, "requirements": [{"item": "gyqino", "amount": 14}, {"item": "fizi", "amount": 9}, {"item": "rigo", "amount": 5}], "research": "gyqino-conduit", "category": "liquid", "liquidCapacity": 12987, "hasLiquids": true}

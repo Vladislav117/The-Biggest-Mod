@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hiwinium solar panel", "description": "...", "size": 3, "health": 212, "requirements": [{"item": "hiwinium", "amount": 11}, {"item": "vosamo", "amount": 14}, {"item": "fise", "amount": 9}], "research": "hiwinium-factory", "powerProduction": 0.29103119450659803, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xejo liquid tank", "description": "...", "health": 249, "size": 3, "requirements": [{"item": "xejo", "amount": 20}, {"item": "xikogo", "amount": 16}, {"item": "dywo", "amount": 6}], "research": "xejo-conduit", "category": "liquid", "liquidCapacity": 19253, "hasLiquids": true}

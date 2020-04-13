@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "luvaji solar panel", "description": "...", "size": 3, "health": 262, "requirements": [{"item": "luvaji", "amount": 6}, {"item": "nurynium", "amount": 4}, {"item": "vitina", "amount": 1}], "research": "luvaji-factory", "powerProduction": 0.0032313938855605354, "category": "power"}

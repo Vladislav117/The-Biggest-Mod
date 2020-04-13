@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "rehawe overdrive projector", "description": "...", "health": 107, "consumes": {"power": 3.0, "item": "rehawe"}, "size": 2, "requirements": [{"item": "rehawe", "amount": 17}, {"item": "laho", "amount": 11}, {"item": "pyfa", "amount": 7}], "research": "rehawe-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small veqyro power node", "description": "...", "size": 1, "health": 257, "requirements": [{"item": "veqyro", "amount": 3}, {"item": "hiwenium", "amount": 6}, {"item": "vakyxinium", "amount": 7}], "research": "veqyro-factory", "maxNodes": 4, "laserRange": 11, "category": "power"}

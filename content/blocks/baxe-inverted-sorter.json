@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "baxe inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "baxe", "amount": 3}, {"item": "sebobe", "amount": 4}], "research": "baxe-conveyor", "category": "distribution", "invert": true}

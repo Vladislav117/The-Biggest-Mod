@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kuyome bridge conveyor", "description": "", "health": 21, "range": 19, "speed": 11, "bufferCapacity": 16, "requirements": [{"item": "kuyome", "amount": 1}, {"item": "gydarynium", "amount": 5}], "research": "kuyome-conveyor", "category": "distribution", "size": 1}

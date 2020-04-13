@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lywe underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "lywe", "amount": 4}, {"item": "zuwydy", "amount": 4}], "research": "lywe-conveyor", "category": "distribution", "invert": false}

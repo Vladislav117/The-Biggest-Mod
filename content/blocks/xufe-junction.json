@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xufe junction", "description": "...", "health": 12, "speed": 9, "capacity": 12, "size": 1, "requirements": [{"item": "xufe", "amount": 5}, {"item": "mewy", "amount": 2}], "research": "xufe-conveyor", "category": "distribution"}

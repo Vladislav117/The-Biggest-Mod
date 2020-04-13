@@ -1,0 +1,1 @@
+{"type": "junction", "name": "faky junction", "description": "...", "health": 26, "speed": 14, "capacity": 11, "size": 1, "requirements": [{"item": "faky", "amount": 3}, {"item": "fuho", "amount": 3}], "research": "faky-conveyor", "category": "distribution"}

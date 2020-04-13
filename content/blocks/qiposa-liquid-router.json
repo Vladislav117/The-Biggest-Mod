@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qiposa liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "qiposa", "amount": 6}, {"item": "bybity", "amount": 3}, {"item": "hiwenium", "amount": 9}], "research": "qiposa-conduit", "liquidCapacity": 10, "category": "liquid"}

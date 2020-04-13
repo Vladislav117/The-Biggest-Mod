@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pijuje underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "pijuje", "amount": 5}, {"item": "kywowa", "amount": 5}], "research": "pijuje-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zekaru liquid tank", "description": "...", "health": 352, "size": 3, "requirements": [{"item": "zekaru", "amount": 5}, {"item": "yidugonium", "amount": 5}, {"item": "sore", "amount": 5}], "research": "zekaru-conduit", "category": "liquid", "liquidCapacity": 50647, "hasLiquids": true}

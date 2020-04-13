@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zoqivanium battery", "description": "...", "size": 3, "health": 165, "requirements": [{"item": "zoqivanium", "amount": 13}, {"item": "vywene", "amount": 20}, {"item": "kurecanium", "amount": 10}], "research": "zoqivanium-factory", "consumes": {"powerBuffered": 1863}, "category": "power"}

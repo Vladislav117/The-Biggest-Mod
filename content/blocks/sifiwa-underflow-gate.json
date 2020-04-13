@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sifiwa underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "sifiwa", "amount": 4}, {"item": "huxydi", "amount": 2}], "research": "sifiwa-conveyor", "category": "distribution", "invert": false}

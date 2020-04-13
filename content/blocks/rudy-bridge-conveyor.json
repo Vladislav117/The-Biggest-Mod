@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rudy bridge conveyor", "description": "", "health": 4, "range": 1, "speed": 16, "bufferCapacity": 16, "requirements": [{"item": "rudy", "amount": 1}, {"item": "tuzy", "amount": 1}], "research": "rudy-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lybazi liquid router", "description": "...", "size": 1, "health": 85, "requirements": [{"item": "lybazi", "amount": 12}, {"item": "deke", "amount": 6}, {"item": "qerobu", "amount": 2}], "research": "lybazi-conduit", "liquidCapacity": 10, "category": "liquid"}

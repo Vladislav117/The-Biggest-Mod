@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qatu bridge conveyor", "description": "", "health": 18, "range": 11, "speed": 13, "bufferCapacity": 23, "requirements": [{"item": "qatu", "amount": 5}, {"item": "jetu", "amount": 4}], "research": "qatu-conveyor", "category": "distribution", "size": 1}

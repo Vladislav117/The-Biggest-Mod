@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yicazunium power node", "description": "...", "size": 1, "health": 294, "requirements": [{"item": "yicazunium", "amount": 2}, {"item": "mywoju", "amount": 7}, {"item": "decifonium", "amount": 2}], "research": "yicazunium-factory", "maxNodes": 17, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vapo power node", "description": "...", "size": 2, "health": 346, "requirements": [{"item": "vapo", "amount": 18}, {"item": "nupu", "amount": 20}, {"item": "juvaci", "amount": 8}], "research": "vapo-factory", "maxNodes": 50, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kexaja conduit", "description": "...", "health": 85, "requirements": [{"item": "kexaja", "amount": 19}, {"item": "xyzeja", "amount": 19}, {"item": "xuze", "amount": 1}], "liquidCapacity": 1, "liquidPressure": 10, "research": "kexaja-factory", "category": "liquid"}

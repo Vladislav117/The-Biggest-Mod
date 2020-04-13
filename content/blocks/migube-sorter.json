@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "migube sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "migube", "amount": 1}, {"item": "giho", "amount": 1}], "research": "migube-conveyor", "category": "distribution", "invert": false}

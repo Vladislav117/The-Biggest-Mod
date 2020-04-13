@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rufi overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "rufi", "amount": 2}, {"item": "sexinium", "amount": 3}], "research": "rufi-conveyor", "category": "distribution", "invert": false}

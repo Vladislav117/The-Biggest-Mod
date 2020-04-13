@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bazidu conduit", "description": "...", "health": 63, "requirements": [{"item": "bazidu", "amount": 1}, {"item": "biye", "amount": 7}, {"item": "goqanium", "amount": 3}], "liquidCapacity": 24, "liquidPressure": 10, "research": "bazidu-factory", "category": "liquid"}

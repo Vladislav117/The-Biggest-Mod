@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qywaha underflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "qywaha", "amount": 1}, {"item": "xovunium", "amount": 5}], "research": "qywaha-conveyor", "category": "distribution", "invert": false}

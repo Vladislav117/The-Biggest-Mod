@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "puli conduit", "description": "...", "health": 62, "requirements": [{"item": "puli", "amount": 16}, {"item": "muby", "amount": 10}, {"item": "kavequ", "amount": 5}], "liquidCapacity": 40, "liquidPressure": 1, "research": "puli-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xuve liquid tank", "description": "...", "health": 348, "size": 3, "requirements": [{"item": "xuve", "amount": 8}, {"item": "furazinium", "amount": 8}, {"item": "keqiny", "amount": 2}], "research": "xuve-conduit", "category": "liquid", "liquidCapacity": 15161, "hasLiquids": true}

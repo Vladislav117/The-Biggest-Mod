@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "roca liquid router", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "roca", "amount": 5}, {"item": "wezu", "amount": 19}, {"item": "leyyde", "amount": 6}], "research": "roca-conduit", "liquidCapacity": 10, "category": "liquid"}

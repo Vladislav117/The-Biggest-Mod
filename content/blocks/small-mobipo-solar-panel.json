@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mobipo solar panel", "description": "...", "size": 1, "health": 298, "requirements": [{"item": "mobipo", "amount": 8}, {"item": "fahi", "amount": 15}, {"item": "pyzemu", "amount": 10}], "research": "mobipo-factory", "powerProduction": 6.0468863416188805, "category": "power"}

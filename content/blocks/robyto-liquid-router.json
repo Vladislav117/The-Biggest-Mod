@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "robyto liquid router", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "robyto", "amount": 1}, {"item": "xovunium", "amount": 18}, {"item": "kofynium", "amount": 8}], "research": "robyto-conduit", "liquidCapacity": 10, "category": "liquid"}

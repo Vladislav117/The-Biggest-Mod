@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jyfare underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "jyfare", "amount": 3}, {"item": "ciqu", "amount": 1}], "research": "jyfare-conveyor", "category": "distribution", "invert": false}

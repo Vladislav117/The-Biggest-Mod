@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "guha bridge conveyor", "description": "", "health": 4, "range": 20, "speed": 12, "bufferCapacity": 13, "requirements": [{"item": "guha", "amount": 5}, {"item": "ruryjynium", "amount": 5}], "research": "guha-conveyor", "category": "distribution", "size": 1}

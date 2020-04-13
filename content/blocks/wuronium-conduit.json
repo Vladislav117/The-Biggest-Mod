@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wuronium conduit", "description": "...", "health": 55, "requirements": [{"item": "wuronium", "amount": 4}, {"item": "lufe", "amount": 1}, {"item": "zuzequ", "amount": 5}], "liquidCapacity": 39, "liquidPressure": 6, "research": "wuronium-factory", "category": "liquid"}

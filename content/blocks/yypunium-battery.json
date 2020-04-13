@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yypunium battery", "description": "...", "size": 3, "health": 114, "requirements": [{"item": "yypunium", "amount": 3}, {"item": "ruyyto", "amount": 16}, {"item": "fexenium", "amount": 6}], "research": "yypunium-factory", "consumes": {"powerBuffered": 3527}, "category": "power"}

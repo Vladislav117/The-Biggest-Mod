@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small muho solar panel", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "muho", "amount": 16}, {"item": "gobenium", "amount": 7}, {"item": "vove", "amount": 6}], "research": "muho-factory", "powerProduction": 5.196930102561846, "category": "power"}

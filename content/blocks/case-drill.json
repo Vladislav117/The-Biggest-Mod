@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "case drill", "description": "...", "size": 2, "health": 241, "tier": 2, "drillTime": 6, "consumes": {"power": 20}, "requirements": [{"item": "case", "amount": 3}, {"item": "xodofu", "amount": 14}, {"item": "mapyxa", "amount": 7}], "research": "case-factory", "category": "production"}

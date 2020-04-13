@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yage power node", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "yage", "amount": 6}, {"item": "vyhizu", "amount": 3}, {"item": "roma", "amount": 2}], "research": "yage-factory", "maxNodes": 3, "laserRange": 9, "category": "power"}

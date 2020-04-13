@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sefy liquid router", "description": "...", "size": 1, "health": 97, "requirements": [{"item": "sefy", "amount": 8}, {"item": "kiyavu", "amount": 10}, {"item": "kuvinium", "amount": 9}], "research": "sefy-conduit", "liquidCapacity": 10, "category": "liquid"}

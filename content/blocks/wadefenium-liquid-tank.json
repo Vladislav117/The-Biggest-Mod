@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wadefenium liquid tank", "description": "...", "health": 421, "size": 3, "requirements": [{"item": "wadefenium", "amount": 18}, {"item": "rigo", "amount": 12}, {"item": "jimi", "amount": 10}], "research": "wadefenium-conduit", "category": "liquid", "liquidCapacity": 117189, "hasLiquids": true}

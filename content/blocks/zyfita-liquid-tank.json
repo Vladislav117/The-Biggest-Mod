@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyfita liquid tank", "description": "...", "health": 429, "size": 3, "requirements": [{"item": "zyfita", "amount": 20}, {"item": "huxo", "amount": 14}, {"item": "magu", "amount": 6}], "research": "zyfita-conduit", "category": "liquid", "liquidCapacity": 71655, "hasLiquids": true}

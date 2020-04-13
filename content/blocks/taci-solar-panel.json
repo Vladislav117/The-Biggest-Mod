@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "taci solar panel", "description": "...", "size": 3, "health": 206, "requirements": [{"item": "taci", "amount": 9}, {"item": "begerynium", "amount": 7}, {"item": "vyqosi", "amount": 9}], "research": "taci-factory", "powerProduction": 0.32317008529583785, "category": "power"}

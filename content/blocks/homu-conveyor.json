@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "homu conveyor", "description": "...", "health": 65, "requirements": [{"item": "homu", "amount": 7}, {"item": "yanawa", "amount": 8}], "speed": 0.20837903565731708, "research": "homu-factory", "category": "distribution"}

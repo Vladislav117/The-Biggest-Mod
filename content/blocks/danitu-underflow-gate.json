@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "danitu underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "danitu", "amount": 1}, {"item": "vove", "amount": 2}], "research": "danitu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wusupy inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "wusupy", "amount": 4}, {"item": "ruvudo", "amount": 4}], "research": "wusupy-conveyor", "category": "distribution", "invert": true}

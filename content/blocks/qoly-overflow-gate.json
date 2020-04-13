@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qoly overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "qoly", "amount": 1}, {"item": "nuko", "amount": 4}], "research": "qoly-conveyor", "category": "distribution", "invert": false}

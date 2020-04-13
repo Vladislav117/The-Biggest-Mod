@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "botynium sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "botynium", "amount": 2}, {"item": "rovaqa", "amount": 2}], "research": "botynium-conveyor", "category": "distribution", "invert": false}

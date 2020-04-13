@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "huky liquid tank", "description": "...", "health": 429, "size": 3, "requirements": [{"item": "huky", "amount": 7}, {"item": "yuvynium", "amount": 9}, {"item": "gyfeca", "amount": 10}], "research": "huky-conduit", "category": "liquid", "liquidCapacity": 5788, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wuna junction", "description": "...", "health": 25, "speed": 20, "capacity": 15, "size": 1, "requirements": [{"item": "wuna", "amount": 4}, {"item": "yirere", "amount": 1}], "research": "wuna-conveyor", "category": "distribution"}

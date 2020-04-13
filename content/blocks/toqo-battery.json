@@ -1,0 +1,1 @@
+{"type": "battery", "name": "toqo battery", "description": "...", "size": 3, "health": 193, "requirements": [{"item": "toqo", "amount": 14}, {"item": "qolo", "amount": 9}, {"item": "tiqeti", "amount": 2}], "research": "toqo-factory", "consumes": {"powerBuffered": 7061}, "category": "power"}

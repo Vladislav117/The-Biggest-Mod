@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "waje conduit", "description": "...", "health": 131, "requirements": [{"item": "waje", "amount": 13}, {"item": "vybygynium", "amount": 20}, {"item": "qoseve", "amount": 9}], "liquidCapacity": 30, "liquidPressure": 10, "research": "waje-factory", "category": "liquid"}

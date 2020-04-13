@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "seqi power node", "description": "...", "size": 2, "health": 542, "requirements": [{"item": "seqi", "amount": 4}, {"item": "gytegy", "amount": 12}, {"item": "lesycunium", "amount": 4}], "research": "seqi-factory", "maxNodes": 42, "laserRange": 22, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "befe power node", "description": "...", "size": 2, "health": 788, "requirements": [{"item": "befe", "amount": 16}, {"item": "kagopy", "amount": 18}, {"item": "wypa", "amount": 5}], "research": "befe-factory", "maxNodes": 11, "laserRange": 15, "category": "power"}

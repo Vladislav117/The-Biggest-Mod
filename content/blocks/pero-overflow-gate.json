@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pero overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "pero", "amount": 3}, {"item": "graphite", "amount": 5}], "research": "pero-conveyor", "category": "distribution", "invert": false}

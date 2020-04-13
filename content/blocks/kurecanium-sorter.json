@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kurecanium sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "kurecanium", "amount": 3}, {"item": "kavequ", "amount": 1}], "research": "kurecanium-conveyor", "category": "distribution", "invert": false}

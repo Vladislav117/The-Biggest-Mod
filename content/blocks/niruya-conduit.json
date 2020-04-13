@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "niruya conduit", "description": "...", "health": 121, "requirements": [{"item": "niruya", "amount": 5}, {"item": "merule", "amount": 5}, {"item": "bomynium", "amount": 5}], "liquidCapacity": 13, "liquidPressure": 5, "research": "niruya-factory", "category": "liquid"}

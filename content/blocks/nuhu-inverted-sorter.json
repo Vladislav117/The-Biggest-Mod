@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nuhu inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "nuhu", "amount": 4}, {"item": "xice", "amount": 5}], "research": "nuhu-conveyor", "category": "distribution", "invert": true}

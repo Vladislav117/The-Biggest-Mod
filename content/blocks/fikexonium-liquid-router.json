@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fikexonium liquid router", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "fikexonium", "amount": 7}, {"item": "larina", "amount": 12}, {"item": "dituna", "amount": 1}], "research": "fikexonium-conduit", "liquidCapacity": 10, "category": "liquid"}

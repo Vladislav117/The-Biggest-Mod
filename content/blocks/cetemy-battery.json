@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cetemy battery", "description": "...", "size": 3, "health": 394, "requirements": [{"item": "cetemy", "amount": 17}, {"item": "rajubanium", "amount": 14}, {"item": "biciti", "amount": 5}], "research": "cetemy-factory", "consumes": {"powerBuffered": 1582}, "category": "power"}

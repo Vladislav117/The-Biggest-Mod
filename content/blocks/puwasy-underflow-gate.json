@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "puwasy underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "puwasy", "amount": 5}, {"item": "pyce", "amount": 2}], "research": "puwasy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nyzubonium power node", "description": "...", "size": 2, "health": 582, "requirements": [{"item": "nyzubonium", "amount": 18}, {"item": "wapexo", "amount": 11}, {"item": "dowa", "amount": 3}], "research": "nyzubonium-factory", "maxNodes": 46, "laserRange": 5, "category": "power"}

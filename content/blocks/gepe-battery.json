@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gepe battery", "description": "...", "size": 3, "health": 359, "requirements": [{"item": "gepe", "amount": 10}, {"item": "mapanium", "amount": 5}, {"item": "nunanunium", "amount": 4}], "research": "gepe-factory", "consumes": {"powerBuffered": 7920}, "category": "power"}

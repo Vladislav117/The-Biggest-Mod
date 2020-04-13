@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qivoha power node", "description": "...", "size": 1, "health": 336, "requirements": [{"item": "qivoha", "amount": 15}, {"item": "soronium", "amount": 20}, {"item": "piyovy", "amount": 6}], "research": "qivoha-factory", "maxNodes": 29, "laserRange": 11, "category": "power"}

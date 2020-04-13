@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wadoka bridge conveyor", "description": "", "health": 47, "range": 8, "speed": 7, "bufferCapacity": 8, "requirements": [{"item": "wadoka", "amount": 4}, {"item": "cujyda", "amount": 4}], "research": "wadoka-conveyor", "category": "distribution", "size": 1}

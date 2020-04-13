@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pydi underflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "pydi", "amount": 1}, {"item": "yomema", "amount": 2}], "research": "pydi-conveyor", "category": "distribution", "invert": false}

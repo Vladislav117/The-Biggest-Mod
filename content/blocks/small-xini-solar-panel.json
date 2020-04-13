@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xini solar panel", "description": "...", "size": 1, "health": 305, "requirements": [{"item": "xini", "amount": 17}, {"item": "hyvyje", "amount": 9}, {"item": "sihynium", "amount": 8}], "research": "xini-factory", "powerProduction": 1.8793451984126297, "category": "power"}

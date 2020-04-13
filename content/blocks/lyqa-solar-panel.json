@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lyqa solar panel", "description": "...", "size": 3, "health": 376, "requirements": [{"item": "lyqa", "amount": 8}, {"item": "roluny", "amount": 2}, {"item": "filu", "amount": 4}], "research": "lyqa-factory", "powerProduction": 0.8950874115055659, "category": "power"}

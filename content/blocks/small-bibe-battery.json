@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bibe battery", "description": "...", "size": 1, "health": 178, "requirements": [{"item": "bibe", "amount": 9}, {"item": "surenium", "amount": 7}, {"item": "boretu", "amount": 6}], "research": "bibe-factory", "consumes": {"powerBuffered": 292}, "category": "power"}

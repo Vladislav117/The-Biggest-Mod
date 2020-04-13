@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qiyo liquid tank", "description": "...", "health": 157, "size": 3, "requirements": [{"item": "qiyo", "amount": 1}, {"item": "butuhi", "amount": 10}, {"item": "hyla", "amount": 7}], "research": "qiyo-conduit", "category": "liquid", "liquidCapacity": 36752, "hasLiquids": true}

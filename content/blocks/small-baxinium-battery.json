@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small baxinium battery", "description": "...", "size": 1, "health": 142, "requirements": [{"item": "baxinium", "amount": 1}, {"item": "dofy", "amount": 6}, {"item": "taci", "amount": 9}], "research": "baxinium-factory", "consumes": {"powerBuffered": 2208}, "category": "power"}

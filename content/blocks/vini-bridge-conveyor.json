@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vini bridge conveyor", "description": "", "health": 29, "range": 5, "speed": 18, "bufferCapacity": 13, "requirements": [{"item": "vini", "amount": 5}, {"item": "teyigu", "amount": 4}], "research": "vini-conveyor", "category": "distribution", "size": 1}

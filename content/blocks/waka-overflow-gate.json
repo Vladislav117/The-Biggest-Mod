@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "waka overflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "waka", "amount": 2}, {"item": "lepe", "amount": 1}], "research": "waka-conveyor", "category": "distribution", "invert": false}

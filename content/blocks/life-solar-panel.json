@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "life solar panel", "description": "...", "size": 3, "health": 127, "requirements": [{"item": "life", "amount": 1}, {"item": "qeze", "amount": 18}, {"item": "nuko", "amount": 5}], "research": "life-factory", "powerProduction": 0.16712279497883234, "category": "power"}

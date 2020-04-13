@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pyce power node", "description": "...", "size": 1, "health": 267, "requirements": [{"item": "pyce", "amount": 7}, {"item": "besu", "amount": 10}, {"item": "niqy", "amount": 7}], "research": "pyce-factory", "maxNodes": 11, "laserRange": 3, "category": "power"}

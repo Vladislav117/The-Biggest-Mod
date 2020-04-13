@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pihybo junction", "description": "...", "health": 7, "speed": 2, "capacity": 1, "size": 1, "requirements": [{"item": "pihybo", "amount": 1}, {"item": "felu", "amount": 4}], "research": "pihybo-conveyor", "category": "distribution"}

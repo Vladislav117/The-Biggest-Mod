@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "soni overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "soni", "amount": 3}, {"item": "jigame", "amount": 3}], "research": "soni-conveyor", "category": "distribution", "invert": false}

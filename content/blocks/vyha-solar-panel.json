@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vyha solar panel", "description": "...", "size": 3, "health": 164, "requirements": [{"item": "vyha", "amount": 3}, {"item": "niso", "amount": 6}, {"item": "dowynium", "amount": 5}], "research": "vyha-factory", "powerProduction": 0.14712698706923488, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nolo sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "nolo", "amount": 1}, {"item": "taja", "amount": 5}], "research": "nolo-conveyor", "category": "distribution", "invert": false}

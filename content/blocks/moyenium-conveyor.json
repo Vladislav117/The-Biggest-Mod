@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "moyenium conveyor", "description": "...", "health": 100, "requirements": [{"item": "moyenium", "amount": 3}, {"item": "zowanium", "amount": 10}], "speed": 0.22499767339212146, "research": "moyenium-factory", "category": "distribution"}

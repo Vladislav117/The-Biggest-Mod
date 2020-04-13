@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small niruya solar panel", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "niruya", "amount": 4}, {"item": "dufekunium", "amount": 18}, {"item": "qodanunium", "amount": 5}], "research": "niruya-factory", "powerProduction": 0.18252896791739256, "category": "power"}

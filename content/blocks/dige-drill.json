@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "dige drill", "description": "...", "size": 2, "health": 105, "tier": 2, "drillTime": 20, "consumes": {"power": 3}, "requirements": [{"item": "dige", "amount": 2}, {"item": "nigucy", "amount": 15}, {"item": "peloronium", "amount": 10}], "research": "dige-factory", "category": "production"}

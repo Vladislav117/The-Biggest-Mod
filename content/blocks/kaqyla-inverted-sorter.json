@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kaqyla inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "kaqyla", "amount": 3}, {"item": "pylonium", "amount": 4}], "research": "kaqyla-conveyor", "category": "distribution", "invert": true}

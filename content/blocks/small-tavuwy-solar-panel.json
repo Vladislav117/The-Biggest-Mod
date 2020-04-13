@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tavuwy solar panel", "description": "...", "size": 1, "health": 246, "requirements": [{"item": "tavuwy", "amount": 8}, {"item": "bopa", "amount": 7}, {"item": "tuty", "amount": 4}], "research": "tavuwy-factory", "powerProduction": 0.6435972188423963, "category": "power"}

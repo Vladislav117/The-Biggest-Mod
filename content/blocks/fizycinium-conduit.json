@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fizycinium conduit", "description": "...", "health": 148, "requirements": [{"item": "fizycinium", "amount": 16}, {"item": "huxo", "amount": 3}, {"item": "vuxi", "amount": 9}], "liquidCapacity": 1, "liquidPressure": 0, "research": "fizycinium-factory", "category": "liquid"}

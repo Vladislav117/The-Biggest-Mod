@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yucy solar panel", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "yucy", "amount": 4}, {"item": "jeqenium", "amount": 11}, {"item": "kixihinium", "amount": 10}], "research": "yucy-factory", "powerProduction": 3.05513076430242, "category": "power"}

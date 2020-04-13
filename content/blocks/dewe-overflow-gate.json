@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dewe overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "dewe", "amount": 3}, {"item": "mefymanium", "amount": 4}], "research": "dewe-conveyor", "category": "distribution", "invert": false}

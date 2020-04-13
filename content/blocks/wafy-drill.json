@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wafy drill", "description": "...", "size": 2, "health": 217, "tier": 3, "drillTime": 1, "consumes": {"power": 1}, "requirements": [{"item": "wafy", "amount": 18}, {"item": "huxe", "amount": 5}, {"item": "yidugonium", "amount": 8}], "research": "wafy-factory", "category": "production"}

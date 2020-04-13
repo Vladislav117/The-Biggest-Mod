@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qyhocenium power node", "description": "...", "size": 2, "health": 191, "requirements": [{"item": "qyhocenium", "amount": 13}, {"item": "nufaye", "amount": 11}, {"item": "miluze", "amount": 7}], "research": "qyhocenium-factory", "maxNodes": 18, "laserRange": 5, "category": "power"}

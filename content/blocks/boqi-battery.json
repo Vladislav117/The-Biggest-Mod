@@ -1,0 +1,1 @@
+{"type": "battery", "name": "boqi battery", "description": "...", "size": 3, "health": 126, "requirements": [{"item": "boqi", "amount": 3}, {"item": "xedorinium", "amount": 17}, {"item": "sacigi", "amount": 2}], "research": "boqi-factory", "consumes": {"powerBuffered": 8929}, "category": "power"}

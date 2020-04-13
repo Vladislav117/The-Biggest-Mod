@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "furiva conveyor", "description": "...", "health": 340, "requirements": [{"item": "furiva", "amount": 3}, {"item": "tify", "amount": 5}], "speed": 0.004539960921835229, "research": "furiva-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wety liquid tank", "description": "...", "health": 360, "size": 3, "requirements": [{"item": "wety", "amount": 20}, {"item": "nijuto", "amount": 1}, {"item": "dyqasy", "amount": 5}], "research": "wety-conduit", "category": "liquid", "liquidCapacity": 46750, "hasLiquids": true}

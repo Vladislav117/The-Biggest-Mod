@@ -1,0 +1,1 @@
+{"type": "junction", "name": "woyyni junction", "description": "...", "health": 15, "speed": 16, "capacity": 5, "size": 1, "requirements": [{"item": "woyyni", "amount": 2}, {"item": "qerobu", "amount": 1}], "research": "woyyni-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bejominium battery", "description": "...", "size": 1, "health": 376, "requirements": [{"item": "bejominium", "amount": 5}, {"item": "nidujo", "amount": 2}, {"item": "napunium", "amount": 9}], "research": "bejominium-factory", "consumes": {"powerBuffered": 1853}, "category": "power"}

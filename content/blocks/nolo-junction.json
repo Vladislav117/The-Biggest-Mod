@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nolo junction", "description": "...", "health": 42, "speed": 16, "capacity": 3, "size": 1, "requirements": [{"item": "nolo", "amount": 4}, {"item": "kipybi", "amount": 5}], "research": "nolo-conveyor", "category": "distribution"}

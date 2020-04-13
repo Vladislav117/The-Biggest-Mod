@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qexata solar panel", "description": "...", "size": 3, "health": 221, "requirements": [{"item": "qexata", "amount": 6}, {"item": "gyzuju", "amount": 13}, {"item": "lewanium", "amount": 1}], "research": "qexata-factory", "powerProduction": 1.4880638236566002, "category": "power"}

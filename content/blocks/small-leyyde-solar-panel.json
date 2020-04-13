@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small leyyde solar panel", "description": "...", "size": 1, "health": 365, "requirements": [{"item": "leyyde", "amount": 16}, {"item": "kyya", "amount": 10}, {"item": "zawyjy", "amount": 5}], "research": "leyyde-factory", "powerProduction": 2.4696776230739923, "category": "power"}

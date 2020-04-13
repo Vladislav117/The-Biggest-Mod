@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hohisi sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "hohisi", "amount": 5}, {"item": "duvi", "amount": 1}], "research": "hohisi-conveyor", "category": "distribution", "invert": false}

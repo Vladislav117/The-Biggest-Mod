@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sufeca solar panel", "description": "...", "size": 3, "health": 337, "requirements": [{"item": "sufeca", "amount": 8}, {"item": "kiqeganium", "amount": 9}, {"item": "zydu", "amount": 1}], "research": "sufeca-factory", "powerProduction": 0.31783901144653676, "category": "power"}

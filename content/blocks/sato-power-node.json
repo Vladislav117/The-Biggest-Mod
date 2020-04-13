@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sato power node", "description": "...", "size": 2, "health": 335, "requirements": [{"item": "sato", "amount": 1}, {"item": "cozuja", "amount": 11}, {"item": "cavuyi", "amount": 10}], "research": "sato-factory", "maxNodes": 33, "laserRange": 26, "category": "power"}

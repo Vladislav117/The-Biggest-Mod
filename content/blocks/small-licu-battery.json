@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small licu battery", "description": "...", "size": 1, "health": 165, "requirements": [{"item": "licu", "amount": 13}, {"item": "sobiye", "amount": 10}, {"item": "viliti", "amount": 7}], "research": "licu-factory", "consumes": {"powerBuffered": 2848}, "category": "power"}

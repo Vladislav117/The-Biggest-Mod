@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nuci battery", "description": "...", "size": 3, "health": 163, "requirements": [{"item": "nuci", "amount": 4}, {"item": "ruvudo", "amount": 4}, {"item": "haqu", "amount": 4}], "research": "nuci-factory", "consumes": {"powerBuffered": 2005}, "category": "power"}

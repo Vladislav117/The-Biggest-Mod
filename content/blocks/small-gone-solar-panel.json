@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gone solar panel", "description": "...", "size": 1, "health": 316, "requirements": [{"item": "gone", "amount": 16}, {"item": "nimawo", "amount": 13}, {"item": "cotyyo", "amount": 10}], "research": "gone-factory", "powerProduction": 0.9022887000445153, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vunijy drill", "description": "...", "size": 2, "health": 260, "tier": 1, "drillTime": 6, "consumes": {"power": 15}, "requirements": [{"item": "vunijy", "amount": 15}, {"item": "zuzequ", "amount": 19}, {"item": "vove", "amount": 1}], "research": "vunijy-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "giyafynium bridge conveyor", "description": "", "health": 48, "range": 3, "speed": 18, "bufferCapacity": 18, "requirements": [{"item": "giyafynium", "amount": 5}, {"item": "baguyu", "amount": 5}], "research": "giyafynium-conveyor", "category": "distribution", "size": 1}

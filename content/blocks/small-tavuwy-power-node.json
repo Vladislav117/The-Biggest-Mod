@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tavuwy power node", "description": "...", "size": 1, "health": 274, "requirements": [{"item": "tavuwy", "amount": 20}, {"item": "kikytanium", "amount": 13}, {"item": "rebugunium", "amount": 3}], "research": "tavuwy-factory", "maxNodes": 19, "laserRange": 16, "category": "power"}

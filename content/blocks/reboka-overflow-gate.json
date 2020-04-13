@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "reboka overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "reboka", "amount": 5}, {"item": "xysu", "amount": 5}], "research": "reboka-conveyor", "category": "distribution", "invert": false}

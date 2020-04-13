@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gotepy drill", "description": "...", "size": 3, "health": 374, "tier": 1, "drillTime": 7, "consumes": {"power": 3}, "requirements": [{"item": "gotepy", "amount": 1}, {"item": "mygi", "amount": 5}, {"item": "daxyse", "amount": 8}], "research": "gotepy-factory", "category": "production"}

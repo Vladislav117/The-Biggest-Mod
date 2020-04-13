@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wupi solar panel", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "wupi", "amount": 6}, {"item": "vogeco", "amount": 20}, {"item": "cozaxo", "amount": 4}], "research": "wupi-factory", "powerProduction": 0.850691749905274, "category": "power"}

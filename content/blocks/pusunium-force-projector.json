@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "pusunium force projector", "description": "...", "health": 212, "size": 3, "consumes": {"power": 5.0, "item": "pusunium"}, "requirements": [{"item": "pusunium", "amount": 11}, {"item": "yyle", "amount": 2}, {"item": "dugi", "amount": 5}], "research": "pusunium-factory", "category": "effect"}

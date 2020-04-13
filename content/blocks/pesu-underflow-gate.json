@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pesu underflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "pesu", "amount": 5}, {"item": "judu", "amount": 4}], "research": "pesu-conveyor", "category": "distribution", "invert": false}

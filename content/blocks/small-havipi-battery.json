@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small havipi battery", "description": "...", "size": 1, "health": 209, "requirements": [{"item": "havipi", "amount": 5}, {"item": "xehuxy", "amount": 15}, {"item": "hajybe", "amount": 9}], "research": "havipi-factory", "consumes": {"powerBuffered": 1998}, "category": "power"}

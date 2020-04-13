@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tenuty overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "tenuty", "amount": 2}, {"item": "rigiro", "amount": 4}], "research": "tenuty-conveyor", "category": "distribution", "invert": false}

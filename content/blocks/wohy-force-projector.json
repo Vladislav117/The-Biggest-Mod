@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "wohy force projector", "description": "...", "health": 107, "size": 3, "consumes": {"power": 5.0, "item": "wohy"}, "requirements": [{"item": "wohy", "amount": 18}, {"item": "fexaja", "amount": 16}, {"item": "rixyqu", "amount": 6}], "research": "wohy-factory", "category": "effect"}

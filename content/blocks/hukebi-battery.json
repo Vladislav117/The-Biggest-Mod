@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hukebi battery", "description": "...", "size": 3, "health": 147, "requirements": [{"item": "hukebi", "amount": 10}, {"item": "wajese", "amount": 1}, {"item": "xuryvy", "amount": 6}], "research": "hukebi-factory", "consumes": {"powerBuffered": 7412}, "category": "power"}

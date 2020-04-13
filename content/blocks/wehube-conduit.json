@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wehube conduit", "description": "...", "health": 107, "requirements": [{"item": "wehube", "amount": 20}, {"item": "pato", "amount": 2}, {"item": "nujunium", "amount": 5}], "liquidCapacity": 28, "liquidPressure": 0, "research": "wehube-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rigiro conduit", "description": "...", "health": 45, "requirements": [{"item": "rigiro", "amount": 11}, {"item": "yuhusi", "amount": 19}, {"item": "movibi", "amount": 7}], "liquidCapacity": 28, "liquidPressure": 9, "research": "rigiro-factory", "category": "liquid"}

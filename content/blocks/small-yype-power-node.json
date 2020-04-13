@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yype power node", "description": "...", "size": 1, "health": 108, "requirements": [{"item": "yype", "amount": 17}, {"item": "xami", "amount": 10}, {"item": "kiqe", "amount": 2}], "research": "yype-factory", "maxNodes": 17, "laserRange": 3, "category": "power"}

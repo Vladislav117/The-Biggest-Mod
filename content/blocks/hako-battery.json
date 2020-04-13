@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hako battery", "description": "...", "size": 3, "health": 136, "requirements": [{"item": "hako", "amount": 2}, {"item": "rudy", "amount": 12}, {"item": "lubaco", "amount": 6}], "research": "hako-factory", "consumes": {"powerBuffered": 3798}, "category": "power"}

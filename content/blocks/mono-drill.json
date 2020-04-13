@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mono drill", "description": "...", "size": 3, "health": 420, "tier": 4, "drillTime": 17, "consumes": {"power": 3}, "requirements": [{"item": "mono", "amount": 1}, {"item": "dabi", "amount": 18}, {"item": "teku", "amount": 7}], "research": "mono-factory", "category": "production"}

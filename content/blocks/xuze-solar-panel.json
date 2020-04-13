@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xuze solar panel", "description": "...", "size": 3, "health": 51, "requirements": [{"item": "xuze", "amount": 4}, {"item": "mygo", "amount": 4}, {"item": "mygo", "amount": 9}], "research": "xuze-factory", "powerProduction": 0.07080892104578508, "category": "power"}

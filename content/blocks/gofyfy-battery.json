@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gofyfy battery", "description": "...", "size": 3, "health": 227, "requirements": [{"item": "gofyfy", "amount": 15}, {"item": "vakyxinium", "amount": 9}, {"item": "nexojo", "amount": 1}], "research": "gofyfy-factory", "consumes": {"powerBuffered": 7958}, "category": "power"}

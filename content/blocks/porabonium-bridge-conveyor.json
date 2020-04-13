@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "porabonium bridge conveyor", "description": "", "health": 44, "range": 14, "speed": 5, "bufferCapacity": 21, "requirements": [{"item": "porabonium", "amount": 5}, {"item": "cupedi", "amount": 3}], "research": "porabonium-conveyor", "category": "distribution", "size": 1}

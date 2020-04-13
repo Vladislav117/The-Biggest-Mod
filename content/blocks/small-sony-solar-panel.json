@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sony solar panel", "description": "...", "size": 1, "health": 287, "requirements": [{"item": "sony", "amount": 3}, {"item": "rudinium", "amount": 2}, {"item": "hiwahe", "amount": 7}], "research": "sony-factory", "powerProduction": 2.909864130469452, "category": "power"}

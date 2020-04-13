@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mijinium power node", "description": "...", "size": 2, "health": 185, "requirements": [{"item": "mijinium", "amount": 19}, {"item": "pezale", "amount": 17}, {"item": "divi", "amount": 9}], "research": "mijinium-factory", "maxNodes": 39, "laserRange": 7, "category": "power"}

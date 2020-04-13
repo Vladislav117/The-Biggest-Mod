@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "logybi liquid tank", "description": "...", "health": 489, "size": 3, "requirements": [{"item": "logybi", "amount": 20}, {"item": "dymu", "amount": 18}, {"item": "hyru", "amount": 6}], "research": "logybi-conduit", "category": "liquid", "liquidCapacity": 58285, "hasLiquids": true}

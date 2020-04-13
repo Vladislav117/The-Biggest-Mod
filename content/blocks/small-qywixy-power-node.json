@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qywixy power node", "description": "...", "size": 1, "health": 141, "requirements": [{"item": "qywixy", "amount": 3}, {"item": "qoki", "amount": 3}, {"item": "jovojy", "amount": 4}], "research": "qywixy-factory", "maxNodes": 20, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "hozenium force projector", "description": "...", "health": 108, "size": 3, "consumes": {"power": 5.0, "item": "hozenium"}, "requirements": [{"item": "hozenium", "amount": 12}, {"item": "gabu", "amount": 10}, {"item": "caqohanium", "amount": 4}], "research": "hozenium-factory", "category": "effect"}

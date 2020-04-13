@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "siyake liquid tank", "description": "...", "health": 606, "size": 3, "requirements": [{"item": "siyake", "amount": 4}, {"item": "fuposy", "amount": 3}, {"item": "nytu", "amount": 9}], "research": "siyake-conduit", "category": "liquid", "liquidCapacity": 84656, "hasLiquids": true}

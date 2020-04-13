@@ -1,0 +1,1 @@
+{"type": "junction", "name": "letipy junction", "description": "...", "health": 16, "speed": 3, "capacity": 18, "size": 1, "requirements": [{"item": "letipy", "amount": 1}, {"item": "ziti", "amount": 4}], "research": "letipy-conveyor", "category": "distribution"}

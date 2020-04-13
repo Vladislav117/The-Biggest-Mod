@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lewonium power node", "description": "...", "size": 2, "health": 521, "requirements": [{"item": "lewonium", "amount": 16}, {"item": "cuha", "amount": 14}, {"item": "fica", "amount": 5}], "research": "lewonium-factory", "maxNodes": 14, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nuyo junction", "description": "...", "health": 32, "speed": 3, "capacity": 10, "size": 1, "requirements": [{"item": "nuyo", "amount": 1}, {"item": "qakynunium", "amount": 1}], "research": "nuyo-conveyor", "category": "distribution"}

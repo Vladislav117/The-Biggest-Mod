@@ -1,0 +1,1 @@
+{"type": "battery", "name": "velany battery", "description": "...", "size": 3, "health": 201, "requirements": [{"item": "velany", "amount": 19}, {"item": "buhoci", "amount": 6}, {"item": "qawy", "amount": 1}], "research": "velany-factory", "consumes": {"powerBuffered": 1557}, "category": "power"}

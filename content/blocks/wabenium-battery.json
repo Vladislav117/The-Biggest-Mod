@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wabenium battery", "description": "...", "size": 3, "health": 162, "requirements": [{"item": "wabenium", "amount": 18}, {"item": "siyunynium", "amount": 11}, {"item": "jodezu", "amount": 10}], "research": "wabenium-factory", "consumes": {"powerBuffered": 2091}, "category": "power"}

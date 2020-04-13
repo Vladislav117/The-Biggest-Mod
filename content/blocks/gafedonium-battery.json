@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gafedonium battery", "description": "...", "size": 3, "health": 317, "requirements": [{"item": "gafedonium", "amount": 3}, {"item": "xojinium", "amount": 16}, {"item": "hamo", "amount": 9}], "research": "gafedonium-factory", "consumes": {"powerBuffered": 1773}, "category": "power"}

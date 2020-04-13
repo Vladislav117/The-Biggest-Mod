@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hoxy power node", "description": "...", "size": 1, "health": 288, "requirements": [{"item": "hoxy", "amount": 20}, {"item": "vocazu", "amount": 12}, {"item": "cokyqo", "amount": 7}], "research": "hoxy-factory", "maxNodes": 18, "laserRange": 17, "category": "power"}

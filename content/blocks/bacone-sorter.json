@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bacone sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "bacone", "amount": 4}, {"item": "xinodunium", "amount": 5}], "research": "bacone-conveyor", "category": "distribution", "invert": false}

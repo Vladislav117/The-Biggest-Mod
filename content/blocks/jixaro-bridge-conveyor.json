@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jixaro bridge conveyor", "description": "", "health": 7, "range": 7, "speed": 8, "bufferCapacity": 23, "requirements": [{"item": "jixaro", "amount": 4}, {"item": "cydofunium", "amount": 5}], "research": "jixaro-conveyor", "category": "distribution", "size": 1}

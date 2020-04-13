@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xylyhu liquid tank", "description": "...", "health": 559, "size": 3, "requirements": [{"item": "xylyhu", "amount": 2}, {"item": "hisywy", "amount": 17}, {"item": "jacala", "amount": 5}], "research": "xylyhu-conduit", "category": "liquid", "liquidCapacity": 64082, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "motu liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "motu", "amount": 17}, {"item": "lohe", "amount": 18}, {"item": "zygomy", "amount": 7}], "research": "motu-conduit", "liquidCapacity": 10, "category": "liquid"}

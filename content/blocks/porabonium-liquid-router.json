@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "porabonium liquid router", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "porabonium", "amount": 16}, {"item": "sylyxy", "amount": 18}, {"item": "nixony", "amount": 8}], "research": "porabonium-conduit", "liquidCapacity": 10, "category": "liquid"}

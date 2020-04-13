@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dycimi power node", "description": "...", "size": 2, "health": 186, "requirements": [{"item": "dycimi", "amount": 20}, {"item": "xikogo", "amount": 8}, {"item": "tusico", "amount": 8}], "research": "dycimi-factory", "maxNodes": 54, "laserRange": 25, "category": "power"}

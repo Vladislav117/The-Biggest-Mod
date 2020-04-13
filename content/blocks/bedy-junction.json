@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bedy junction", "description": "...", "health": 46, "speed": 18, "capacity": 6, "size": 1, "requirements": [{"item": "bedy", "amount": 3}, {"item": "myzu", "amount": 3}], "research": "bedy-conveyor", "category": "distribution"}

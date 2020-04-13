@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vihy battery", "description": "...", "size": 3, "health": 113, "requirements": [{"item": "vihy", "amount": 7}, {"item": "visuco", "amount": 11}, {"item": "hogazanium", "amount": 9}], "research": "vihy-factory", "consumes": {"powerBuffered": 6185}, "category": "power"}

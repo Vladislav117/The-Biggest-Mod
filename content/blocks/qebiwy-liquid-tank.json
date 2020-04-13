@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qebiwy liquid tank", "description": "...", "health": 471, "size": 3, "requirements": [{"item": "qebiwy", "amount": 12}, {"item": "pyvunium", "amount": 4}, {"item": "qixu", "amount": 10}], "research": "qebiwy-conduit", "category": "liquid", "liquidCapacity": 42744, "hasLiquids": true}

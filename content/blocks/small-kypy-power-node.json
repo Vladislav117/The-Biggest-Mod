@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kypy power node", "description": "...", "size": 1, "health": 310, "requirements": [{"item": "kypy", "amount": 16}, {"item": "dugi", "amount": 12}, {"item": "venuki", "amount": 1}], "research": "kypy-factory", "maxNodes": 15, "laserRange": 10, "category": "power"}

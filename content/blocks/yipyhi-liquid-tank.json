@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yipyhi liquid tank", "description": "...", "health": 580, "size": 3, "requirements": [{"item": "yipyhi", "amount": 9}, {"item": "vunehy", "amount": 5}, {"item": "wewuyi", "amount": 1}], "research": "yipyhi-conduit", "category": "liquid", "liquidCapacity": 42336, "hasLiquids": true}

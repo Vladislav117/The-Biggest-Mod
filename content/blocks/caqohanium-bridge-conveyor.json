@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "caqohanium bridge conveyor", "description": "", "health": 11, "range": 18, "speed": 12, "bufferCapacity": 16, "requirements": [{"item": "caqohanium", "amount": 1}, {"item": "dafa", "amount": 4}], "research": "caqohanium-conveyor", "category": "distribution", "size": 1}

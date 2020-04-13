@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qimu battery", "description": "...", "size": 1, "health": 170, "requirements": [{"item": "qimu", "amount": 9}, {"item": "pojesu", "amount": 17}, {"item": "mavitu", "amount": 4}], "research": "qimu-factory", "consumes": {"powerBuffered": 394}, "category": "power"}

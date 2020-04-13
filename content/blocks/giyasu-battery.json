@@ -1,0 +1,1 @@
+{"type": "battery", "name": "giyasu battery", "description": "...", "size": 3, "health": 245, "requirements": [{"item": "giyasu", "amount": 14}, {"item": "wuga", "amount": 7}, {"item": "pyga", "amount": 4}], "research": "giyasu-factory", "consumes": {"powerBuffered": 7812}, "category": "power"}

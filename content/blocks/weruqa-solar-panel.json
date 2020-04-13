@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "weruqa solar panel", "description": "...", "size": 3, "health": 134, "requirements": [{"item": "weruqa", "amount": 5}, {"item": "yikynium", "amount": 11}, {"item": "rukycu", "amount": 4}], "research": "weruqa-factory", "powerProduction": 7.39356895282396, "category": "power"}

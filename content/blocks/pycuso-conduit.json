@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pycuso conduit", "description": "...", "health": 78, "requirements": [{"item": "pycuso", "amount": 19}, {"item": "tugu", "amount": 1}, {"item": "musonium", "amount": 4}], "liquidCapacity": 23, "liquidPressure": 4, "research": "pycuso-factory", "category": "liquid"}

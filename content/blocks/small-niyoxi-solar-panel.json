@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small niyoxi solar panel", "description": "...", "size": 1, "health": 274, "requirements": [{"item": "niyoxi", "amount": 3}, {"item": "xopano", "amount": 19}, {"item": "pavanium", "amount": 9}], "research": "niyoxi-factory", "powerProduction": 2.4393806966742577, "category": "power"}

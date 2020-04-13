@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kobocunium inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "kobocunium", "amount": 4}, {"item": "tybegi", "amount": 2}], "research": "kobocunium-conveyor", "category": "distribution", "invert": true}

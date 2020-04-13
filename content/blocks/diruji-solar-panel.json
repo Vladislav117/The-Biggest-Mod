@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "diruji solar panel", "description": "...", "size": 3, "health": 69, "requirements": [{"item": "diruji", "amount": 4}, {"item": "bezomo", "amount": 4}, {"item": "yinugunium", "amount": 10}], "research": "diruji-factory", "powerProduction": 0.12491372279901794, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yixa drill", "description": "...", "size": 2, "health": 283, "tier": 3, "drillTime": 11, "consumes": {"power": 10}, "requirements": [{"item": "yixa", "amount": 17}, {"item": "baqo", "amount": 10}, {"item": "zotonium", "amount": 5}], "research": "yixa-factory", "category": "production"}

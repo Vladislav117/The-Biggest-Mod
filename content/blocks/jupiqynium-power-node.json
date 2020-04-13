@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jupiqynium power node", "description": "...", "size": 2, "health": 156, "requirements": [{"item": "jupiqynium", "amount": 5}, {"item": "ceri", "amount": 16}, {"item": "bumaqa", "amount": 3}], "research": "jupiqynium-factory", "maxNodes": 30, "laserRange": 24, "category": "power"}

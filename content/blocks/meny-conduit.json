@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "meny conduit", "description": "...", "health": 113, "requirements": [{"item": "meny", "amount": 12}, {"item": "lyhu", "amount": 2}, {"item": "xini", "amount": 10}], "liquidCapacity": 44, "liquidPressure": 4, "research": "meny-factory", "category": "liquid"}

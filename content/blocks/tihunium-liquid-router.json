@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tihunium liquid router", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "tihunium", "amount": 20}, {"item": "jebewe", "amount": 14}, {"item": "jucinium", "amount": 9}], "research": "tihunium-conduit", "liquidCapacity": 10, "category": "liquid"}

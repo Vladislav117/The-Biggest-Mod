@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vabenium power node", "description": "...", "size": 1, "health": 98, "requirements": [{"item": "vabenium", "amount": 12}, {"item": "dyguzu", "amount": 14}, {"item": "xusunium", "amount": 8}], "research": "vabenium-factory", "maxNodes": 27, "laserRange": 14, "category": "power"}

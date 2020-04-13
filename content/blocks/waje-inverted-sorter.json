@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "waje inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "waje", "amount": 2}, {"item": "sylunium", "amount": 2}], "research": "waje-conveyor", "category": "distribution", "invert": true}

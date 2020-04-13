@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zycuri power node", "description": "...", "size": 1, "health": 316, "requirements": [{"item": "zycuri", "amount": 8}, {"item": "wozyju", "amount": 17}, {"item": "qasoji", "amount": 6}], "research": "zycuri-factory", "maxNodes": 22, "laserRange": 11, "category": "power"}

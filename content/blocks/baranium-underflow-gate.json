@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "baranium underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "baranium", "amount": 1}, {"item": "fohebi", "amount": 5}], "research": "baranium-conveyor", "category": "distribution", "invert": false}

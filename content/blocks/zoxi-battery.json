@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zoxi battery", "description": "...", "size": 3, "health": 184, "requirements": [{"item": "zoxi", "amount": 11}, {"item": "jyluba", "amount": 6}, {"item": "gyduyi", "amount": 7}], "research": "zoxi-factory", "consumes": {"powerBuffered": 3878}, "category": "power"}

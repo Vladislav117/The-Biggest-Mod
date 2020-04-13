@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small juqaqi battery", "description": "...", "size": 1, "health": 176, "requirements": [{"item": "juqaqi", "amount": 17}, {"item": "ceyi", "amount": 1}, {"item": "zuhele", "amount": 10}], "research": "juqaqi-factory", "consumes": {"powerBuffered": 2284}, "category": "power"}

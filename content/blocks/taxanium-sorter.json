@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "taxanium sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "taxanium", "amount": 3}, {"item": "fulyzynium", "amount": 4}], "research": "taxanium-conveyor", "category": "distribution", "invert": false}

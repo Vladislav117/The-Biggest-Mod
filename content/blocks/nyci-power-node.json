@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nyci power node", "description": "...", "size": 2, "health": 555, "requirements": [{"item": "nyci", "amount": 3}, {"item": "nafeya", "amount": 5}, {"item": "wiwo", "amount": 10}], "research": "nyci-factory", "maxNodes": 54, "laserRange": 16, "category": "power"}

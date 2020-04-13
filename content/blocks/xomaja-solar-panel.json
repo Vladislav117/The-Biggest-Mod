@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xomaja solar panel", "description": "...", "size": 3, "health": 385, "requirements": [{"item": "xomaja", "amount": 17}, {"item": "vakyxinium", "amount": 4}, {"item": "vykynium", "amount": 3}], "research": "xomaja-factory", "powerProduction": 1.9269179249886375, "category": "power"}

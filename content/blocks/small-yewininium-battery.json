@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yewininium battery", "description": "...", "size": 1, "health": 167, "requirements": [{"item": "yewininium", "amount": 1}, {"item": "plastanium", "amount": 6}, {"item": "sysone", "amount": 7}], "research": "yewininium-factory", "consumes": {"powerBuffered": 2551}, "category": "power"}

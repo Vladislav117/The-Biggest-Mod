@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "danitu inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "danitu", "amount": 4}, {"item": "dihomu", "amount": 3}], "research": "danitu-conveyor", "category": "distribution", "invert": true}

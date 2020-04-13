@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kago battery", "description": "...", "size": 1, "health": 365, "requirements": [{"item": "kago", "amount": 8}, {"item": "kagunium", "amount": 3}, {"item": "quje", "amount": 8}], "research": "kago-factory", "consumes": {"powerBuffered": 882}, "category": "power"}

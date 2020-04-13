@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "ninyfe overdrive projector", "description": "...", "health": 102, "consumes": {"power": 3.0, "item": "ninyfe"}, "size": 2, "requirements": [{"item": "ninyfe", "amount": 10}, {"item": "bamubu", "amount": 5}, {"item": "vyvuqy", "amount": 9}], "research": "ninyfe-factory", "category": "effect"}

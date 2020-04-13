@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "homu inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "homu", "amount": 2}, {"item": "fuda", "amount": 4}], "research": "homu-conveyor", "category": "distribution", "invert": true}

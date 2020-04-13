@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hami power node", "description": "...", "size": 2, "health": 762, "requirements": [{"item": "hami", "amount": 18}, {"item": "tygo", "amount": 20}, {"item": "yopu", "amount": 2}], "research": "hami-factory", "maxNodes": 43, "laserRange": 19, "category": "power"}

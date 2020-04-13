@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "powidu sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "powidu", "amount": 3}, {"item": "mowu", "amount": 2}], "research": "powidu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hikana inverted sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "hikana", "amount": 3}, {"item": "zyhyne", "amount": 2}], "research": "hikana-conveyor", "category": "distribution", "invert": true}

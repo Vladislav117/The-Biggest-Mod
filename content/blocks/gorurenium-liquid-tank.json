@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gorurenium liquid tank", "description": "...", "health": 465, "size": 3, "requirements": [{"item": "gorurenium", "amount": 9}, {"item": "tehepy", "amount": 6}, {"item": "mojeminium", "amount": 9}], "research": "gorurenium-conduit", "category": "liquid", "liquidCapacity": 55185, "hasLiquids": true}

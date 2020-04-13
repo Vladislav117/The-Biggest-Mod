@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bimi liquid tank", "description": "...", "health": 330, "size": 3, "requirements": [{"item": "bimi", "amount": 19}, {"item": "diforinium", "amount": 19}, {"item": "zija", "amount": 6}], "research": "bimi-conduit", "category": "liquid", "liquidCapacity": 26479, "hasLiquids": true}

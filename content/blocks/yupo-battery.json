@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yupo battery", "description": "...", "size": 3, "health": 137, "requirements": [{"item": "yupo", "amount": 8}, {"item": "fogodo", "amount": 3}, {"item": "syteja", "amount": 6}], "research": "yupo-factory", "consumes": {"powerBuffered": 2264}, "category": "power"}

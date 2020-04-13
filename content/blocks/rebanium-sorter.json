@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rebanium sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "rebanium", "amount": 5}, {"item": "vuyenium", "amount": 2}], "research": "rebanium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small puhu battery", "description": "...", "size": 1, "health": 385, "requirements": [{"item": "puhu", "amount": 15}, {"item": "padopu", "amount": 17}, {"item": "lynyyi", "amount": 2}], "research": "puhu-factory", "consumes": {"powerBuffered": 1860}, "category": "power"}

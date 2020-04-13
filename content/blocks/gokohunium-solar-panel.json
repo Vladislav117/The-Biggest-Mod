@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gokohunium solar panel", "description": "...", "size": 3, "health": 96, "requirements": [{"item": "gokohunium", "amount": 20}, {"item": "xuve", "amount": 16}, {"item": "kywowa", "amount": 4}], "research": "gokohunium-factory", "powerProduction": 1.3684908196324894, "category": "power"}

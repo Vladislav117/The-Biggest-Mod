@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vykynium liquid router", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "vykynium", "amount": 14}, {"item": "kavequ", "amount": 3}, {"item": "gimy", "amount": 5}], "research": "vykynium-conduit", "liquidCapacity": 10, "category": "liquid"}

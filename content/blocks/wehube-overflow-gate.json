@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wehube overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "wehube", "amount": 2}, {"item": "maya", "amount": 4}], "research": "wehube-conveyor", "category": "distribution", "invert": false}

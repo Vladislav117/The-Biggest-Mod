@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lyvewenium solar panel", "description": "...", "size": 3, "health": 291, "requirements": [{"item": "lyvewenium", "amount": 2}, {"item": "pele", "amount": 13}, {"item": "xydume", "amount": 6}], "research": "lyvewenium-factory", "powerProduction": 0.001599436035231491, "category": "power"}

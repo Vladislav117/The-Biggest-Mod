@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small netonium solar panel", "description": "...", "size": 1, "health": 292, "requirements": [{"item": "netonium", "amount": 11}, {"item": "hasifa", "amount": 11}, {"item": "jodezu", "amount": 10}], "research": "netonium-factory", "powerProduction": 0.19823469403936825, "category": "power"}

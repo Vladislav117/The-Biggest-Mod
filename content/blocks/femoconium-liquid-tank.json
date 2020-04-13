@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "femoconium liquid tank", "description": "...", "health": 423, "size": 3, "requirements": [{"item": "femoconium", "amount": 12}, {"item": "nuko", "amount": 10}, {"item": "hogyse", "amount": 3}], "research": "femoconium-conduit", "category": "liquid", "liquidCapacity": 2845, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "macurenium liquid tank", "description": "...", "health": 461, "size": 3, "requirements": [{"item": "macurenium", "amount": 4}, {"item": "yuqy", "amount": 19}, {"item": "fizy", "amount": 7}], "research": "macurenium-conduit", "category": "liquid", "liquidCapacity": 68805, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vuru liquid tank", "description": "...", "health": 413, "size": 3, "requirements": [{"item": "vuru", "amount": 3}, {"item": "harugenium", "amount": 13}, {"item": "sarijynium", "amount": 2}], "research": "vuru-conduit", "category": "liquid", "liquidCapacity": 107485, "hasLiquids": true}

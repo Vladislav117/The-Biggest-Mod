@@ -1,0 +1,1 @@
+{"type": "battery", "name": "devo battery", "description": "...", "size": 3, "health": 343, "requirements": [{"item": "devo", "amount": 18}, {"item": "kokonium", "amount": 13}, {"item": "ryfo", "amount": 9}], "research": "devo-factory", "consumes": {"powerBuffered": 3547}, "category": "power"}

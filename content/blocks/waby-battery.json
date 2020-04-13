@@ -1,0 +1,1 @@
+{"type": "battery", "name": "waby battery", "description": "...", "size": 3, "health": 76, "requirements": [{"item": "waby", "amount": 11}, {"item": "cifo", "amount": 15}, {"item": "siwi", "amount": 10}], "research": "waby-factory", "consumes": {"powerBuffered": 8362}, "category": "power"}

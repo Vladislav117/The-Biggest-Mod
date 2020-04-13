@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kasaxe bridge conveyor", "description": "", "health": 14, "range": 5, "speed": 12, "bufferCapacity": 17, "requirements": [{"item": "kasaxe", "amount": 3}, {"item": "gyri", "amount": 5}], "research": "kasaxe-conveyor", "category": "distribution", "size": 1}
