@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yusona solar panel", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "yusona", "amount": 16}, {"item": "nejunium", "amount": 7}, {"item": "bilyvanium", "amount": 1}], "research": "yusona-factory", "powerProduction": 10.60293861277777, "category": "power"}

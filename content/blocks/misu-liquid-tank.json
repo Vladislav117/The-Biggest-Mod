@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "misu liquid tank", "description": "...", "health": 538, "size": 3, "requirements": [{"item": "misu", "amount": 16}, {"item": "noqaty", "amount": 9}, {"item": "mumujy", "amount": 8}], "research": "misu-conduit", "category": "liquid", "liquidCapacity": 110971, "hasLiquids": true}

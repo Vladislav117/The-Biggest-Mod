@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nuko junction", "description": "...", "health": 8, "speed": 19, "capacity": 11, "size": 1, "requirements": [{"item": "nuko", "amount": 2}, {"item": "tezila", "amount": 2}], "research": "nuko-conveyor", "category": "distribution"}

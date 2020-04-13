@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qera liquid router", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "qera", "amount": 16}, {"item": "mapibi", "amount": 19}, {"item": "howu", "amount": 8}], "research": "qera-conduit", "liquidCapacity": 10, "category": "liquid"}

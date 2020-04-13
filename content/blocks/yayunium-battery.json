@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yayunium battery", "description": "...", "size": 3, "health": 184, "requirements": [{"item": "yayunium", "amount": 3}, {"item": "hexa", "amount": 18}, {"item": "pyrynium", "amount": 6}], "research": "yayunium-factory", "consumes": {"powerBuffered": 9329}, "category": "power"}

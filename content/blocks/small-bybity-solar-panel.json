@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bybity solar panel", "description": "...", "size": 1, "health": 282, "requirements": [{"item": "bybity", "amount": 5}, {"item": "graphite", "amount": 18}, {"item": "mefymanium", "amount": 10}], "research": "bybity-factory", "powerProduction": 2.778868891326939, "category": "power"}

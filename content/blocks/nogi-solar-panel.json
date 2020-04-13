@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nogi solar panel", "description": "...", "size": 3, "health": 123, "requirements": [{"item": "nogi", "amount": 4}, {"item": "juwynium", "amount": 13}, {"item": "woce", "amount": 5}], "research": "nogi-factory", "powerProduction": 0.14647627321733023, "category": "power"}

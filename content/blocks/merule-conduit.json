@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "merule conduit", "description": "...", "health": 148, "requirements": [{"item": "merule", "amount": 19}, {"item": "hyla", "amount": 18}, {"item": "wasebanium", "amount": 6}], "liquidCapacity": 27, "liquidPressure": 4, "research": "merule-factory", "category": "liquid"}

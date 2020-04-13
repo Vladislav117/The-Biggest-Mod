@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qenu bridge conveyor", "description": "", "health": 30, "range": 20, "speed": 5, "bufferCapacity": 21, "requirements": [{"item": "qenu", "amount": 1}, {"item": "tydy", "amount": 4}], "research": "qenu-conveyor", "category": "distribution", "size": 1}

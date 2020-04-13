@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lulomu solar panel", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "lulomu", "amount": 19}, {"item": "yihe", "amount": 11}, {"item": "kovi", "amount": 6}], "research": "lulomu-factory", "powerProduction": 2.418457037390134, "category": "power"}

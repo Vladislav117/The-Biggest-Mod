@@ -1,0 +1,1 @@
+{"type": "junction", "name": "muzu junction", "description": "...", "health": 12, "speed": 4, "capacity": 14, "size": 1, "requirements": [{"item": "muzu", "amount": 3}, {"item": "diripo", "amount": 4}], "research": "muzu-conveyor", "category": "distribution"}

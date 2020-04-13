@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small focatu battery", "description": "...", "size": 1, "health": 294, "requirements": [{"item": "focatu", "amount": 20}, {"item": "maveju", "amount": 10}, {"item": "toma", "amount": 7}], "research": "focatu-factory", "consumes": {"powerBuffered": 2060}, "category": "power"}

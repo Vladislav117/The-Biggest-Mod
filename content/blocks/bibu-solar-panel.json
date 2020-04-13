@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bibu solar panel", "description": "...", "size": 3, "health": 365, "requirements": [{"item": "bibu", "amount": 2}, {"item": "qyjysu", "amount": 18}, {"item": "haniva", "amount": 4}], "research": "bibu-factory", "powerProduction": 0.9548340042729333, "category": "power"}

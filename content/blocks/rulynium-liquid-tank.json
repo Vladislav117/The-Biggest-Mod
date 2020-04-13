@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rulynium liquid tank", "description": "...", "health": 402, "size": 3, "requirements": [{"item": "rulynium", "amount": 4}, {"item": "jane", "amount": 17}, {"item": "wehiga", "amount": 8}], "research": "rulynium-conduit", "category": "liquid", "liquidCapacity": 24338, "hasLiquids": true}

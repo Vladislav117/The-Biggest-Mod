@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gypupe inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "gypupe", "amount": 1}, {"item": "qiseho", "amount": 2}], "research": "gypupe-conveyor", "category": "distribution", "invert": true}

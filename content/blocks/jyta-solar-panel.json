@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jyta solar panel", "description": "...", "size": 3, "health": 137, "requirements": [{"item": "jyta", "amount": 11}, {"item": "zupisy", "amount": 3}, {"item": "yeri", "amount": 4}], "research": "jyta-factory", "powerProduction": 5.791531707469365, "category": "power"}

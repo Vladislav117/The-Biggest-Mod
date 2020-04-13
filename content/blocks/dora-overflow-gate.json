@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dora overflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "dora", "amount": 5}, {"item": "tyqi", "amount": 5}], "research": "dora-conveyor", "category": "distribution", "invert": false}

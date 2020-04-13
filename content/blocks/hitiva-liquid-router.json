@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hitiva liquid router", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "hitiva", "amount": 2}, {"item": "vakaco", "amount": 3}, {"item": "syteja", "amount": 4}], "research": "hitiva-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jugowe power node", "description": "...", "size": 2, "health": 542, "requirements": [{"item": "jugowe", "amount": 16}, {"item": "wuna", "amount": 7}, {"item": "vyjoti", "amount": 4}], "research": "jugowe-factory", "maxNodes": 60, "laserRange": 25, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qatu sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "qatu", "amount": 1}, {"item": "ryzote", "amount": 4}], "research": "qatu-conveyor", "category": "distribution", "invert": false}

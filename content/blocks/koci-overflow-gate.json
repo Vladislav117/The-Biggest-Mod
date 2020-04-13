@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "koci overflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "koci", "amount": 2}, {"item": "monu", "amount": 1}], "research": "koci-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zypinium underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "zypinium", "amount": 5}, {"item": "wogugenium", "amount": 1}], "research": "zypinium-conveyor", "category": "distribution", "invert": false}

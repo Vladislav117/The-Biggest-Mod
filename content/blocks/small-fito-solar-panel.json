@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fito solar panel", "description": "...", "size": 1, "health": 331, "requirements": [{"item": "fito", "amount": 8}, {"item": "cosizi", "amount": 9}, {"item": "fulyzynium", "amount": 8}], "research": "fito-factory", "powerProduction": 0.00012994522104690015, "category": "power"}

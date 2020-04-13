@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sado sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "sado", "amount": 3}, {"item": "qube", "amount": 5}], "research": "sado-conveyor", "category": "distribution", "invert": false}

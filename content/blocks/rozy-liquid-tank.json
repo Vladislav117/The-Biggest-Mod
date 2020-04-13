@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rozy liquid tank", "description": "...", "health": 648, "size": 3, "requirements": [{"item": "rozy", "amount": 13}, {"item": "tohi", "amount": 13}, {"item": "taji", "amount": 4}], "research": "rozy-conduit", "category": "liquid", "liquidCapacity": 73582, "hasLiquids": true}

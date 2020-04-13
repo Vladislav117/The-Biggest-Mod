@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "meru conduit", "description": "...", "health": 93, "requirements": [{"item": "meru", "amount": 9}, {"item": "zele", "amount": 19}, {"item": "culy", "amount": 2}], "liquidCapacity": 19, "liquidPressure": 2, "research": "meru-factory", "category": "liquid"}

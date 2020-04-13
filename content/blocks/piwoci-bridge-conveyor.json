@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "piwoci bridge conveyor", "description": "", "health": 27, "range": 4, "speed": 4, "bufferCapacity": 22, "requirements": [{"item": "piwoci", "amount": 4}, {"item": "kojavi", "amount": 5}], "research": "piwoci-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yejicunium liquid tank", "description": "...", "health": 439, "size": 3, "requirements": [{"item": "yejicunium", "amount": 6}, {"item": "qoly", "amount": 17}, {"item": "mylenium", "amount": 4}], "research": "yejicunium-conduit", "category": "liquid", "liquidCapacity": 84774, "hasLiquids": true}

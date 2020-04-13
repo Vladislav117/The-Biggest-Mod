@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fopuru solar panel", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "fopuru", "amount": 17}, {"item": "focatu", "amount": 15}, {"item": "logy", "amount": 9}], "research": "fopuru-factory", "powerProduction": 1.3005234165950987, "category": "power"}

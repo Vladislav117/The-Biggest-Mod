@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kegiqi power node", "description": "...", "size": 2, "health": 35, "requirements": [{"item": "kegiqi", "amount": 3}, {"item": "xype", "amount": 20}, {"item": "byhonium", "amount": 9}], "research": "kegiqi-factory", "maxNodes": 18, "laserRange": 7, "category": "power"}

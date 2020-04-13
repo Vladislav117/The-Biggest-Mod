@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fysubi battery", "description": "...", "size": 3, "health": 118, "requirements": [{"item": "fysubi", "amount": 17}, {"item": "xomaja", "amount": 19}, {"item": "duqu", "amount": 6}], "research": "fysubi-factory", "consumes": {"powerBuffered": 3707}, "category": "power"}

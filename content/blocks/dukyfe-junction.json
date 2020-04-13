@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dukyfe junction", "description": "...", "health": 21, "speed": 20, "capacity": 16, "size": 1, "requirements": [{"item": "dukyfe", "amount": 1}, {"item": "maku", "amount": 1}], "research": "dukyfe-conveyor", "category": "distribution"}

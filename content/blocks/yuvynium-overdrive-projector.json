@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "yuvynium overdrive projector", "description": "...", "health": 98, "consumes": {"power": 3.0, "item": "yuvynium"}, "size": 2, "requirements": [{"item": "yuvynium", "amount": 15}, {"item": "lufe", "amount": 5}, {"item": "ryzyzi", "amount": 2}], "research": "yuvynium-factory", "category": "effect"}

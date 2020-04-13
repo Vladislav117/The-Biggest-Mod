@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fodeby solar panel", "description": "...", "size": 3, "health": 349, "requirements": [{"item": "fodeby", "amount": 5}, {"item": "hako", "amount": 5}, {"item": "neronium", "amount": 4}], "research": "fodeby-factory", "powerProduction": 0.21624213061800546, "category": "power"}

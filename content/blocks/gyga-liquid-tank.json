@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gyga liquid tank", "description": "...", "health": 508, "size": 3, "requirements": [{"item": "gyga", "amount": 8}, {"item": "vyqosi", "amount": 17}, {"item": "wazo", "amount": 9}], "research": "gyga-conduit", "category": "liquid", "liquidCapacity": 77575, "hasLiquids": true}

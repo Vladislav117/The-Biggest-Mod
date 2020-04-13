@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "doya conduit", "description": "...", "health": 62, "requirements": [{"item": "doya", "amount": 1}, {"item": "qeconium", "amount": 17}, {"item": "cuwa", "amount": 2}], "liquidCapacity": 12, "liquidPressure": 6, "research": "doya-factory", "category": "liquid"}

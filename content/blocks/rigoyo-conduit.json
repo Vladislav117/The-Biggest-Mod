@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rigoyo conduit", "description": "...", "health": 35, "requirements": [{"item": "rigoyo", "amount": 10}, {"item": "qetyginium", "amount": 6}, {"item": "make", "amount": 4}], "liquidCapacity": 23, "liquidPressure": 5, "research": "rigoyo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tiqeti power node", "description": "...", "size": 2, "health": 221, "requirements": [{"item": "tiqeti", "amount": 11}, {"item": "wavoli", "amount": 7}, {"item": "cupedi", "amount": 6}], "research": "tiqeti-factory", "maxNodes": 45, "laserRange": 27, "category": "power"}

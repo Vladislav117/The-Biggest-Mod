@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yijotu drill", "description": "...", "size": 2, "health": 429, "tier": 2, "drillTime": 17, "consumes": {"power": 9}, "requirements": [{"item": "yijotu", "amount": 3}, {"item": "cavuyi", "amount": 17}, {"item": "yytiye", "amount": 1}], "research": "yijotu-factory", "category": "production"}

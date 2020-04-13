@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rafyti liquid tank", "description": "...", "health": 498, "size": 3, "requirements": [{"item": "rafyti", "amount": 1}, {"item": "guvoja", "amount": 11}, {"item": "fizunium", "amount": 8}], "research": "rafyti-conduit", "category": "liquid", "liquidCapacity": 72611, "hasLiquids": true}

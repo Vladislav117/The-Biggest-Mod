@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "moxi solar panel", "description": "...", "size": 3, "health": 347, "requirements": [{"item": "moxi", "amount": 13}, {"item": "fygonium", "amount": 8}, {"item": "xiga", "amount": 5}], "research": "moxi-factory", "powerProduction": 0.7794346202728684, "category": "power"}

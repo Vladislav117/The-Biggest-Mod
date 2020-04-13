@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tufo liquid router", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "tufo", "amount": 12}, {"item": "rehodunium", "amount": 16}, {"item": "sekele", "amount": 5}], "research": "tufo-conduit", "liquidCapacity": 10, "category": "liquid"}

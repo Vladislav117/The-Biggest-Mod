@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nuniyi liquid tank", "description": "...", "health": 610, "size": 3, "requirements": [{"item": "nuniyi", "amount": 9}, {"item": "xogy", "amount": 8}, {"item": "cykayu", "amount": 4}], "research": "nuniyi-conduit", "category": "liquid", "liquidCapacity": 28751, "hasLiquids": true}

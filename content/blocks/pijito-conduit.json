@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pijito conduit", "description": "...", "health": 110, "requirements": [{"item": "pijito", "amount": 19}, {"item": "hasoye", "amount": 15}, {"item": "pacezu", "amount": 6}], "liquidCapacity": 2, "liquidPressure": 8, "research": "pijito-factory", "category": "liquid"}

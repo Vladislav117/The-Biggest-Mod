@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small domike power node", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "domike", "amount": 9}, {"item": "cesewo", "amount": 14}, {"item": "xuri", "amount": 7}], "research": "domike-factory", "maxNodes": 16, "laserRange": 20, "category": "power"}

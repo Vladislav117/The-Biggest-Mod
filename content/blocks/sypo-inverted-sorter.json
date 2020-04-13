@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sypo inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "sypo", "amount": 4}, {"item": "sukanium", "amount": 2}], "research": "sypo-conveyor", "category": "distribution", "invert": true}

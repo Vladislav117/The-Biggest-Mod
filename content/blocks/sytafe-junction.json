@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sytafe junction", "description": "...", "health": 48, "speed": 8, "capacity": 1, "size": 1, "requirements": [{"item": "sytafe", "amount": 1}, {"item": "syxidonium", "amount": 4}], "research": "sytafe-conveyor", "category": "distribution"}

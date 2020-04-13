@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xydy solar panel", "description": "...", "size": 3, "health": 150, "requirements": [{"item": "xydy", "amount": 8}, {"item": "cyru", "amount": 7}, {"item": "surenium", "amount": 4}], "research": "xydy-factory", "powerProduction": 0.009098084191927846, "category": "power"}

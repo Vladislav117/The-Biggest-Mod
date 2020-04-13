@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pyqynium battery", "description": "...", "size": 3, "health": 146, "requirements": [{"item": "pyqynium", "amount": 12}, {"item": "vewavu", "amount": 7}, {"item": "wajese", "amount": 7}], "research": "pyqynium-factory", "consumes": {"powerBuffered": 5142}, "category": "power"}

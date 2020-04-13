@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zanuja inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "zanuja", "amount": 3}, {"item": "dukyfe", "amount": 2}], "research": "zanuja-conveyor", "category": "distribution", "invert": true}

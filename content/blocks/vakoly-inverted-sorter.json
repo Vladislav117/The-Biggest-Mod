@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vakoly inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "vakoly", "amount": 4}, {"item": "hexa", "amount": 4}], "research": "vakoly-conveyor", "category": "distribution", "invert": true}

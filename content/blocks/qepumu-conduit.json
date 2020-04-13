@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qepumu conduit", "description": "...", "health": 103, "requirements": [{"item": "qepumu", "amount": 7}, {"item": "jilunium", "amount": 17}, {"item": "menibonium", "amount": 2}], "liquidCapacity": 4, "liquidPressure": 8, "research": "qepumu-factory", "category": "liquid"}

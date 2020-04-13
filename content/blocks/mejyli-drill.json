@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mejyli drill", "description": "...", "size": 2, "health": 187, "tier": 1, "drillTime": 14, "consumes": {"power": 3}, "requirements": [{"item": "mejyli", "amount": 16}, {"item": "wabaru", "amount": 17}, {"item": "decifonium", "amount": 8}], "research": "mejyli-factory", "category": "production"}

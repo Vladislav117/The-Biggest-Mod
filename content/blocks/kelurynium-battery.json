@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kelurynium battery", "description": "...", "size": 3, "health": 315, "requirements": [{"item": "kelurynium", "amount": 2}, {"item": "zivo", "amount": 2}, {"item": "bybity", "amount": 6}], "research": "kelurynium-factory", "consumes": {"powerBuffered": 2429}, "category": "power"}

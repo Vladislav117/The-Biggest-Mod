@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small woze battery", "description": "...", "size": 1, "health": 367, "requirements": [{"item": "woze", "amount": 7}, {"item": "xebili", "amount": 2}, {"item": "zivo", "amount": 7}], "research": "woze-factory", "consumes": {"powerBuffered": 2584}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fuqyty battery", "description": "...", "size": 1, "health": 389, "requirements": [{"item": "fuqyty", "amount": 18}, {"item": "rega", "amount": 15}, {"item": "xuzy", "amount": 9}], "research": "fuqyty-factory", "consumes": {"powerBuffered": 2191}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fecime inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "fecime", "amount": 4}, {"item": "ledome", "amount": 1}], "research": "fecime-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xuserynium junction", "description": "...", "health": 16, "speed": 10, "capacity": 1, "size": 1, "requirements": [{"item": "xuserynium", "amount": 1}, {"item": "gonu", "amount": 2}], "research": "xuserynium-conveyor", "category": "distribution"}

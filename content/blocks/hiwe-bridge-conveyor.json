@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hiwe bridge conveyor", "description": "", "health": 41, "range": 1, "speed": 15, "bufferCapacity": 23, "requirements": [{"item": "hiwe", "amount": 3}, {"item": "wiba", "amount": 4}], "research": "hiwe-conveyor", "category": "distribution", "size": 1}

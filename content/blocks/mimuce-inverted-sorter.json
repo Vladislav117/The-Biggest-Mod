@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mimuce inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "mimuce", "amount": 4}, {"item": "qiregynium", "amount": 1}], "research": "mimuce-conveyor", "category": "distribution", "invert": true}

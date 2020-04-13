@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qysavunium solar panel", "description": "...", "size": 3, "health": 42, "requirements": [{"item": "qysavunium", "amount": 2}, {"item": "hysobe", "amount": 13}, {"item": "thorium", "amount": 9}], "research": "qysavunium-factory", "powerProduction": 0.35562801932367577, "category": "power"}

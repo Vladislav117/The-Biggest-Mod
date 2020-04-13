@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qoti junction", "description": "...", "health": 2, "speed": 3, "capacity": 11, "size": 1, "requirements": [{"item": "qoti", "amount": 3}, {"item": "suyi", "amount": 5}], "research": "qoti-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cigapo power node", "description": "...", "size": 2, "health": 134, "requirements": [{"item": "cigapo", "amount": 12}, {"item": "yuwo", "amount": 6}, {"item": "peqora", "amount": 1}], "research": "cigapo-factory", "maxNodes": 58, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hagunium sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "hagunium", "amount": 1}, {"item": "qady", "amount": 2}], "research": "hagunium-conveyor", "category": "distribution", "invert": false}

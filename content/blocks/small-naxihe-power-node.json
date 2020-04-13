@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small naxihe power node", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "naxihe", "amount": 10}, {"item": "lahowe", "amount": 17}, {"item": "yebyte", "amount": 6}], "research": "naxihe-factory", "maxNodes": 6, "laserRange": 15, "category": "power"}

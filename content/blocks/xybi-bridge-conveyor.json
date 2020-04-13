@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xybi bridge conveyor", "description": "", "health": 39, "range": 9, "speed": 2, "bufferCapacity": 1, "requirements": [{"item": "xybi", "amount": 2}, {"item": "niruya", "amount": 5}], "research": "xybi-conveyor", "category": "distribution", "size": 1}

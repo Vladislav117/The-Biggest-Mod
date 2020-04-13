@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "cepa conveyor", "description": "...", "health": 310, "requirements": [{"item": "cepa", "amount": 6}, {"item": "bihu", "amount": 6}], "speed": 0.3974392809824641, "research": "cepa-factory", "category": "distribution"}

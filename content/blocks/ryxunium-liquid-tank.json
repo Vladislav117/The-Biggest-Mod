@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ryxunium liquid tank", "description": "...", "health": 374, "size": 3, "requirements": [{"item": "ryxunium", "amount": 19}, {"item": "vytuxe", "amount": 18}, {"item": "vosixe", "amount": 6}], "research": "ryxunium-conduit", "category": "liquid", "liquidCapacity": 46607, "hasLiquids": true}

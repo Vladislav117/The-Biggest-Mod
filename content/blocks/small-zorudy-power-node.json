@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zorudy power node", "description": "...", "size": 1, "health": 251, "requirements": [{"item": "zorudy", "amount": 4}, {"item": "tuzo", "amount": 5}, {"item": "nuzivo", "amount": 4}], "research": "zorudy-factory", "maxNodes": 23, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vipybi power node", "description": "...", "size": 1, "health": 220, "requirements": [{"item": "vipybi", "amount": 20}, {"item": "tynipu", "amount": 4}, {"item": "sebeki", "amount": 1}], "research": "vipybi-factory", "maxNodes": 13, "laserRange": 24, "category": "power"}

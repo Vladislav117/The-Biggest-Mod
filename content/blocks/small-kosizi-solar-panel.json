@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kosizi solar panel", "description": "...", "size": 1, "health": 354, "requirements": [{"item": "kosizi", "amount": 9}, {"item": "nypenium", "amount": 4}, {"item": "tohi", "amount": 4}], "research": "kosizi-factory", "powerProduction": 0.328731173027635, "category": "power"}

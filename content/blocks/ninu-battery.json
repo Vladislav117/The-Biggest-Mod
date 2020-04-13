@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ninu battery", "description": "...", "size": 3, "health": 26, "requirements": [{"item": "ninu", "amount": 13}, {"item": "besivi", "amount": 14}, {"item": "tise", "amount": 2}], "research": "ninu-factory", "consumes": {"powerBuffered": 9377}, "category": "power"}

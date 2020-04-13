@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyxini liquid tank", "description": "...", "health": 535, "size": 3, "requirements": [{"item": "fyxini", "amount": 9}, {"item": "qepyvonium", "amount": 16}, {"item": "hewunium", "amount": 5}], "research": "fyxini-conduit", "category": "liquid", "liquidCapacity": 32133, "hasLiquids": true}

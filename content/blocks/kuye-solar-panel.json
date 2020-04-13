@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kuye solar panel", "description": "...", "size": 3, "health": 134, "requirements": [{"item": "kuye", "amount": 6}, {"item": "ceyi", "amount": 13}, {"item": "subuwi", "amount": 5}], "research": "kuye-factory", "powerProduction": 1.6282071885189102, "category": "power"}

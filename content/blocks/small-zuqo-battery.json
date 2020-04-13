@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zuqo battery", "description": "...", "size": 1, "health": 294, "requirements": [{"item": "zuqo", "amount": 9}, {"item": "xaceti", "amount": 13}, {"item": "cuha", "amount": 8}], "research": "zuqo-factory", "consumes": {"powerBuffered": 1501}, "category": "power"}

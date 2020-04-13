@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qivoha junction", "description": "...", "health": 35, "speed": 12, "capacity": 13, "size": 1, "requirements": [{"item": "qivoha", "amount": 1}, {"item": "vevi", "amount": 4}], "research": "qivoha-conveyor", "category": "distribution"}

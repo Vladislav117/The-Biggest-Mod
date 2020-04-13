@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "maqini liquid tank", "description": "...", "health": 310, "size": 3, "requirements": [{"item": "maqini", "amount": 3}, {"item": "maveju", "amount": 18}, {"item": "siceku", "amount": 9}], "research": "maqini-conduit", "category": "liquid", "liquidCapacity": 117857, "hasLiquids": true}

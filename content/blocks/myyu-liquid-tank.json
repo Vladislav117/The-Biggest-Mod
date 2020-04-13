@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "myyu liquid tank", "description": "...", "health": 177, "size": 3, "requirements": [{"item": "myyu", "amount": 11}, {"item": "kavequ", "amount": 7}, {"item": "mehenium", "amount": 6}], "research": "myyu-conduit", "category": "liquid", "liquidCapacity": 111906, "hasLiquids": true}

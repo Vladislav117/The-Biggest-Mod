@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mewe power node", "description": "...", "size": 1, "health": 215, "requirements": [{"item": "mewe", "amount": 14}, {"item": "zuhele", "amount": 6}, {"item": "cuwe", "amount": 5}], "research": "mewe-factory", "maxNodes": 9, "laserRange": 9, "category": "power"}

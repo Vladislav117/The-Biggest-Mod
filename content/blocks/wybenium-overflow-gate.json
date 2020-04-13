@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wybenium overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "wybenium", "amount": 2}, {"item": "layyzynium", "amount": 5}], "research": "wybenium-conveyor", "category": "distribution", "invert": false}

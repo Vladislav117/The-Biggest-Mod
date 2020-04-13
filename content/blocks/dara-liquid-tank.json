@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dara liquid tank", "description": "...", "health": 258, "size": 3, "requirements": [{"item": "dara", "amount": 10}, {"item": "maku", "amount": 13}, {"item": "xevenium", "amount": 8}], "research": "dara-conduit", "category": "liquid", "liquidCapacity": 98904, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nedybu solar panel", "description": "...", "size": 3, "health": 343, "requirements": [{"item": "nedybu", "amount": 13}, {"item": "menode", "amount": 12}, {"item": "heruru", "amount": 10}], "research": "nedybu-factory", "powerProduction": 0.4681220269429255, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "huky bridge conveyor", "description": "", "health": 31, "range": 13, "speed": 6, "bufferCapacity": 11, "requirements": [{"item": "huky", "amount": 1}, {"item": "fusaji", "amount": 2}], "research": "huky-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small winynium solar panel", "description": "...", "size": 1, "health": 311, "requirements": [{"item": "winynium", "amount": 3}, {"item": "jucinium", "amount": 8}, {"item": "liyu", "amount": 4}], "research": "winynium-factory", "powerProduction": 2.885569340635512, "category": "power"}

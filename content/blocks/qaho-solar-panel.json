@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qaho solar panel", "description": "...", "size": 3, "health": 278, "requirements": [{"item": "qaho", "amount": 14}, {"item": "jeqenium", "amount": 5}, {"item": "yepy", "amount": 3}], "research": "qaho-factory", "powerProduction": 2.539710260367849, "category": "power"}

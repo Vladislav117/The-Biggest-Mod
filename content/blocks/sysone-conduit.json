@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sysone conduit", "description": "...", "health": 135, "requirements": [{"item": "sysone", "amount": 3}, {"item": "zuwydy", "amount": 8}, {"item": "nimy", "amount": 10}], "liquidCapacity": 19, "liquidPressure": 3, "research": "sysone-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qetyginium liquid tank", "description": "...", "health": 398, "size": 3, "requirements": [{"item": "qetyginium", "amount": 17}, {"item": "zaba", "amount": 5}, {"item": "nyli", "amount": 10}], "research": "qetyginium-conduit", "category": "liquid", "liquidCapacity": 18832, "hasLiquids": true}

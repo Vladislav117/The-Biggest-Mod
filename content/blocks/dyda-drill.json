@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "dyda drill", "description": "...", "size": 2, "health": 204, "tier": 3, "drillTime": 11, "consumes": {"power": 15}, "requirements": [{"item": "dyda", "amount": 2}, {"item": "tanexo", "amount": 6}, {"item": "cypegu", "amount": 10}], "research": "dyda-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hohisi bridge conveyor", "description": "", "health": 37, "range": 11, "speed": 15, "bufferCapacity": 16, "requirements": [{"item": "hohisi", "amount": 4}, {"item": "focewu", "amount": 1}], "research": "hohisi-conveyor", "category": "distribution", "size": 1}

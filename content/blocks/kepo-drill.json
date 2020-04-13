@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kepo drill", "description": "...", "size": 3, "health": 301, "tier": 2, "drillTime": 13, "consumes": {"power": 2}, "requirements": [{"item": "kepo", "amount": 6}, {"item": "bexa", "amount": 16}, {"item": "medide", "amount": 1}], "research": "kepo-factory", "category": "production"}

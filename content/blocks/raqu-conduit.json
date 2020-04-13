@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "raqu conduit", "description": "...", "health": 127, "requirements": [{"item": "raqu", "amount": 9}, {"item": "yatu", "amount": 15}, {"item": "viwahe", "amount": 9}], "liquidCapacity": 14, "liquidPressure": 7, "research": "raqu-factory", "category": "liquid"}

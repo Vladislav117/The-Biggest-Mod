@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "dowynium overdrive projector", "description": "...", "health": 57, "consumes": {"power": 3.0, "item": "dowynium"}, "size": 2, "requirements": [{"item": "dowynium", "amount": 18}, {"item": "byqymo", "amount": 16}, {"item": "qiso", "amount": 1}], "research": "dowynium-factory", "category": "effect"}

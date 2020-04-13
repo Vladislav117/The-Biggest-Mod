@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xeke power node", "description": "...", "size": 2, "health": 149, "requirements": [{"item": "xeke", "amount": 13}, {"item": "boja", "amount": 19}, {"item": "qera", "amount": 9}], "research": "xeke-factory", "maxNodes": 45, "laserRange": 29, "category": "power"}

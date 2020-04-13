@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "quxu liquid tank", "description": "...", "health": 554, "size": 3, "requirements": [{"item": "quxu", "amount": 5}, {"item": "befy", "amount": 17}, {"item": "fuji", "amount": 5}], "research": "quxu-conduit", "category": "liquid", "liquidCapacity": 118193, "hasLiquids": true}

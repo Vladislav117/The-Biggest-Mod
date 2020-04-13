@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kibanium conduit", "description": "...", "health": 185, "requirements": [{"item": "kibanium", "amount": 3}, {"item": "bosery", "amount": 9}, {"item": "qurehy", "amount": 10}], "liquidCapacity": 18, "liquidPressure": 10, "research": "kibanium-factory", "category": "liquid"}

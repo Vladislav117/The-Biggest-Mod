@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "giyiya power node", "description": "...", "size": 2, "health": 727, "requirements": [{"item": "giyiya", "amount": 2}, {"item": "mapi", "amount": 7}, {"item": "yuwo", "amount": 10}], "research": "giyiya-factory", "maxNodes": 45, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nyvifo battery", "description": "...", "size": 3, "health": 139, "requirements": [{"item": "nyvifo", "amount": 6}, {"item": "huxonium", "amount": 18}, {"item": "myyave", "amount": 3}], "research": "nyvifo-factory", "consumes": {"powerBuffered": 1310}, "category": "power"}

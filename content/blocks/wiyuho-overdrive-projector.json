@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "wiyuho overdrive projector", "description": "...", "health": 108, "consumes": {"power": 3.0, "item": "wiyuho"}, "size": 2, "requirements": [{"item": "wiyuho", "amount": 20}, {"item": "gotomy", "amount": 8}, {"item": "vewavu", "amount": 1}], "research": "wiyuho-factory", "category": "effect"}

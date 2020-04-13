@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cetonium overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "cetonium", "amount": 2}, {"item": "vyma", "amount": 1}], "research": "cetonium-conveyor", "category": "distribution", "invert": false}

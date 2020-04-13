@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "buzu overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "buzu", "amount": 3}, {"item": "wiqa", "amount": 4}], "research": "buzu-conveyor", "category": "distribution", "invert": false}

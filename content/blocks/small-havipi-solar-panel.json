@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small havipi solar panel", "description": "...", "size": 1, "health": 359, "requirements": [{"item": "havipi", "amount": 3}, {"item": "moki", "amount": 4}, {"item": "fica", "amount": 7}], "research": "havipi-factory", "powerProduction": 0.9019878272745278, "category": "power"}

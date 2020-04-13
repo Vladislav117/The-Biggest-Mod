@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hayu power node", "description": "...", "size": 2, "health": 224, "requirements": [{"item": "hayu", "amount": 15}, {"item": "geqa", "amount": 12}, {"item": "mubu", "amount": 1}], "research": "hayu-factory", "maxNodes": 58, "laserRange": 30, "category": "power"}

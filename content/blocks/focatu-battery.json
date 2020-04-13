@@ -1,0 +1,1 @@
+{"type": "battery", "name": "focatu battery", "description": "...", "size": 3, "health": 164, "requirements": [{"item": "focatu", "amount": 10}, {"item": "qyryyunium", "amount": 1}, {"item": "yoqije", "amount": 9}], "research": "focatu-factory", "consumes": {"powerBuffered": 7950}, "category": "power"}

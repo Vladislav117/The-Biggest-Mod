@@ -1,0 +1,1 @@
+{"type": "battery", "name": "myzu battery", "description": "...", "size": 3, "health": 121, "requirements": [{"item": "myzu", "amount": 16}, {"item": "qojuhi", "amount": 3}, {"item": "hosa", "amount": 3}], "research": "myzu-factory", "consumes": {"powerBuffered": 338}, "category": "power"}

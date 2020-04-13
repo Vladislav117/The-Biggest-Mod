@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "siyenium overflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "siyenium", "amount": 3}, {"item": "kyna", "amount": 3}], "research": "siyenium-conveyor", "category": "distribution", "invert": false}

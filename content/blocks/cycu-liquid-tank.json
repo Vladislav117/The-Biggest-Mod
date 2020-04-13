@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cycu liquid tank", "description": "...", "health": 148, "size": 3, "requirements": [{"item": "cycu", "amount": 9}, {"item": "nevyle", "amount": 16}, {"item": "mowygu", "amount": 3}], "research": "cycu-conduit", "category": "liquid", "liquidCapacity": 63768, "hasLiquids": true}

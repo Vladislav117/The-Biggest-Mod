@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yuriwu liquid tank", "description": "...", "health": 280, "size": 3, "requirements": [{"item": "yuriwu", "amount": 5}, {"item": "kotinium", "amount": 18}, {"item": "sixo", "amount": 9}], "research": "yuriwu-conduit", "category": "liquid", "liquidCapacity": 48895, "hasLiquids": true}

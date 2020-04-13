@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gifonium inverted sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "gifonium", "amount": 3}, {"item": "gogajy", "amount": 4}], "research": "gifonium-conveyor", "category": "distribution", "invert": true}

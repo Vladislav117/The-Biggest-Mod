@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "ziruzo drill", "description": "...", "size": 3, "health": 136, "tier": 2, "drillTime": 11, "consumes": {"power": 2}, "requirements": [{"item": "ziruzo", "amount": 6}, {"item": "qamo", "amount": 20}, {"item": "bipanium", "amount": 8}], "research": "ziruzo-factory", "category": "production"}

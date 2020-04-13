@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dere liquid tank", "description": "...", "health": 123, "size": 3, "requirements": [{"item": "dere", "amount": 9}, {"item": "hunadanium", "amount": 16}, {"item": "lamuya", "amount": 9}], "research": "dere-conduit", "category": "liquid", "liquidCapacity": 38734, "hasLiquids": true}

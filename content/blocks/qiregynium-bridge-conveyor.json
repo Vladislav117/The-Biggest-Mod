@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qiregynium bridge conveyor", "description": "", "health": 36, "range": 14, "speed": 15, "bufferCapacity": 11, "requirements": [{"item": "qiregynium", "amount": 4}, {"item": "guliyu", "amount": 5}], "research": "qiregynium-conveyor", "category": "distribution", "size": 1}

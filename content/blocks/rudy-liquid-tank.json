@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rudy liquid tank", "description": "...", "health": 434, "size": 3, "requirements": [{"item": "rudy", "amount": 9}, {"item": "vevudinium", "amount": 3}, {"item": "daryki", "amount": 3}], "research": "rudy-conduit", "category": "liquid", "liquidCapacity": 22132, "hasLiquids": true}

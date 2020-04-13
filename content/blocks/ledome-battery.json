@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ledome battery", "description": "...", "size": 3, "health": 383, "requirements": [{"item": "ledome", "amount": 6}, {"item": "reyyma", "amount": 5}, {"item": "lylisa", "amount": 7}], "research": "ledome-factory", "consumes": {"powerBuffered": 9542}, "category": "power"}

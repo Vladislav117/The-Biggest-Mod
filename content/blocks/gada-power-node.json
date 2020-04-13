@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gada power node", "description": "...", "size": 2, "health": 732, "requirements": [{"item": "gada", "amount": 4}, {"item": "nybaranium", "amount": 11}, {"item": "zafuqo", "amount": 5}], "research": "gada-factory", "maxNodes": 60, "laserRange": 8, "category": "power"}

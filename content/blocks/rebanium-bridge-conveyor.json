@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rebanium bridge conveyor", "description": "", "health": 35, "range": 8, "speed": 13, "bufferCapacity": 19, "requirements": [{"item": "rebanium", "amount": 2}, {"item": "bepoxu", "amount": 2}], "research": "rebanium-conveyor", "category": "distribution", "size": 1}

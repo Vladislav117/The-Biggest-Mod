@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lewonium sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "lewonium", "amount": 4}, {"item": "yudafa", "amount": 2}], "research": "lewonium-conveyor", "category": "distribution", "invert": false}

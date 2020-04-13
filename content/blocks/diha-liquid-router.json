@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "diha liquid router", "description": "...", "size": 1, "health": 25, "requirements": [{"item": "diha", "amount": 4}, {"item": "buco", "amount": 14}, {"item": "pujaka", "amount": 7}], "research": "diha-conduit", "liquidCapacity": 10, "category": "liquid"}

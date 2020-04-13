@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yebunonium power node", "description": "...", "size": 2, "health": 103, "requirements": [{"item": "yebunonium", "amount": 1}, {"item": "hikuda", "amount": 15}, {"item": "zuzu", "amount": 10}], "research": "yebunonium-factory", "maxNodes": 33, "laserRange": 16, "category": "power"}

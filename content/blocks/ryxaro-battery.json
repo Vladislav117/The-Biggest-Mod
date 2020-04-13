@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ryxaro battery", "description": "...", "size": 3, "health": 31, "requirements": [{"item": "ryxaro", "amount": 16}, {"item": "secuqunium", "amount": 9}, {"item": "lewana", "amount": 6}], "research": "ryxaro-factory", "consumes": {"powerBuffered": 7920}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vecifu bridge conveyor", "description": "", "health": 45, "range": 1, "speed": 18, "bufferCapacity": 24, "requirements": [{"item": "vecifu", "amount": 5}, {"item": "qiyy", "amount": 1}], "research": "vecifu-conveyor", "category": "distribution", "size": 1}

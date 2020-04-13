@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tupo bridge conveyor", "description": "", "health": 15, "range": 6, "speed": 7, "bufferCapacity": 6, "requirements": [{"item": "tupo", "amount": 3}, {"item": "gizomanium", "amount": 2}], "research": "tupo-conveyor", "category": "distribution", "size": 1}

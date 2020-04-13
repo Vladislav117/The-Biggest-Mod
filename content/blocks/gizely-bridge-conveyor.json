@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gizely bridge conveyor", "description": "", "health": 12, "range": 3, "speed": 18, "bufferCapacity": 7, "requirements": [{"item": "gizely", "amount": 3}, {"item": "monu", "amount": 1}], "research": "gizely-conveyor", "category": "distribution", "size": 1}

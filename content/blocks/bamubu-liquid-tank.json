@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bamubu liquid tank", "description": "...", "health": 309, "size": 3, "requirements": [{"item": "bamubu", "amount": 16}, {"item": "sebypa", "amount": 15}, {"item": "kiqeganium", "amount": 2}], "research": "bamubu-conduit", "category": "liquid", "liquidCapacity": 9732, "hasLiquids": true}

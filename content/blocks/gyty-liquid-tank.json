@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gyty liquid tank", "description": "...", "health": 394, "size": 3, "requirements": [{"item": "gyty", "amount": 16}, {"item": "syjo", "amount": 16}, {"item": "sudu", "amount": 9}], "research": "gyty-conduit", "category": "liquid", "liquidCapacity": 115857, "hasLiquids": true}

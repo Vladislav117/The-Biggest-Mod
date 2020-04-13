@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lidori liquid tank", "description": "...", "health": 184, "size": 3, "requirements": [{"item": "lidori", "amount": 19}, {"item": "cafy", "amount": 7}, {"item": "medeno", "amount": 3}], "research": "lidori-conduit", "category": "liquid", "liquidCapacity": 81077, "hasLiquids": true}

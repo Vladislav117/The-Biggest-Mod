@@ -1,0 +1,1 @@
+{"type": "router", "name": "pubado router", "description": "...", "health": 70, "size": 1, "requirements": [{"item": "pubado", "amount": 3}], "research": "pubado-conveyor", "category": "distribution"}

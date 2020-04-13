@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wivo liquid tank", "description": "...", "health": 326, "size": 3, "requirements": [{"item": "wivo", "amount": 9}, {"item": "xodofu", "amount": 15}, {"item": "wuxorunium", "amount": 1}], "research": "wivo-conduit", "category": "liquid", "liquidCapacity": 30732, "hasLiquids": true}

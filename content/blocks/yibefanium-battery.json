@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yibefanium battery", "description": "...", "size": 3, "health": 312, "requirements": [{"item": "yibefanium", "amount": 6}, {"item": "xorele", "amount": 10}, {"item": "guvoja", "amount": 7}], "research": "yibefanium-factory", "consumes": {"powerBuffered": 5195}, "category": "power"}

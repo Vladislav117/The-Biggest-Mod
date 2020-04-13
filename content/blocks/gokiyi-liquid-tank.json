@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gokiyi liquid tank", "description": "...", "health": 275, "size": 3, "requirements": [{"item": "gokiyi", "amount": 16}, {"item": "vevudinium", "amount": 17}, {"item": "rysi", "amount": 1}], "research": "gokiyi-conduit", "category": "liquid", "liquidCapacity": 110836, "hasLiquids": true}

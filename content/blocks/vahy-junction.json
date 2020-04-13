@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vahy junction", "description": "...", "health": 5, "speed": 1, "capacity": 5, "size": 1, "requirements": [{"item": "vahy", "amount": 1}, {"item": "hakenium", "amount": 2}], "research": "vahy-conveyor", "category": "distribution"}

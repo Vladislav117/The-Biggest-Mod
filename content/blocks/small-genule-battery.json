@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small genule battery", "description": "...", "size": 1, "health": 338, "requirements": [{"item": "genule", "amount": 9}, {"item": "dugypa", "amount": 4}, {"item": "gygi", "amount": 1}], "research": "genule-factory", "consumes": {"powerBuffered": 2671}, "category": "power"}

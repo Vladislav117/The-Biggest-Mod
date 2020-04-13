@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cydyby solar panel", "description": "...", "size": 1, "health": 310, "requirements": [{"item": "cydyby", "amount": 2}, {"item": "mihuranium", "amount": 9}, {"item": "dimizy", "amount": 1}], "research": "cydyby-factory", "powerProduction": 10.792837138779788, "category": "power"}

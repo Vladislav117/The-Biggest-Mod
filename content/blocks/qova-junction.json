@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qova junction", "description": "...", "health": 44, "speed": 17, "capacity": 16, "size": 1, "requirements": [{"item": "qova", "amount": 5}, {"item": "qiwise", "amount": 4}], "research": "qova-conveyor", "category": "distribution"}

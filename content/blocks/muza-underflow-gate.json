@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "muza underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "muza", "amount": 5}, {"item": "zynenium", "amount": 4}], "research": "muza-conveyor", "category": "distribution", "invert": false}

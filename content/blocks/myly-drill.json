@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "myly drill", "description": "...", "size": 2, "health": 247, "tier": 2, "drillTime": 16, "consumes": {"power": 3}, "requirements": [{"item": "myly", "amount": 2}, {"item": "meranium", "amount": 9}, {"item": "capa", "amount": 2}], "research": "myly-factory", "category": "production"}

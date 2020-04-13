@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cusefanium battery", "description": "...", "size": 3, "health": 251, "requirements": [{"item": "cusefanium", "amount": 12}, {"item": "sytu", "amount": 19}, {"item": "bedagy", "amount": 4}], "research": "cusefanium-factory", "consumes": {"powerBuffered": 5061}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pixuhynium power node", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "pixuhynium", "amount": 16}, {"item": "siyunynium", "amount": 2}, {"item": "lora", "amount": 2}], "research": "pixuhynium-factory", "maxNodes": 13, "laserRange": 11, "category": "power"}

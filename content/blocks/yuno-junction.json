@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yuno junction", "description": "...", "health": 8, "speed": 1, "capacity": 15, "size": 1, "requirements": [{"item": "yuno", "amount": 4}, {"item": "veqyro", "amount": 5}], "research": "yuno-conveyor", "category": "distribution"}

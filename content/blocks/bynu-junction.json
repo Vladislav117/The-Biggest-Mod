@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bynu junction", "description": "...", "health": 8, "speed": 5, "capacity": 4, "size": 1, "requirements": [{"item": "bynu", "amount": 1}, {"item": "nufa", "amount": 1}], "research": "bynu-conveyor", "category": "distribution"}

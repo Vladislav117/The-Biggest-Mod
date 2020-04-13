@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zadajo conduit", "description": "...", "health": 84, "requirements": [{"item": "zadajo", "amount": 15}, {"item": "wana", "amount": 10}, {"item": "wisy", "amount": 4}], "liquidCapacity": 35, "liquidPressure": 3, "research": "zadajo-factory", "category": "liquid"}

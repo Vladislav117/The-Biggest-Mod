@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zadajo junction", "description": "...", "health": 37, "speed": 18, "capacity": 9, "size": 1, "requirements": [{"item": "zadajo", "amount": 4}, {"item": "viqamo", "amount": 5}], "research": "zadajo-conveyor", "category": "distribution"}

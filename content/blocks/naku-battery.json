@@ -1,0 +1,1 @@
+{"type": "battery", "name": "naku battery", "description": "...", "size": 3, "health": 198, "requirements": [{"item": "naku", "amount": 19}, {"item": "reyezy", "amount": 9}, {"item": "yunu", "amount": 1}], "research": "naku-factory", "consumes": {"powerBuffered": 1315}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lavi solar panel", "description": "...", "size": 3, "health": 235, "requirements": [{"item": "lavi", "amount": 15}, {"item": "tymy", "amount": 8}, {"item": "gygi", "amount": 9}], "research": "lavi-factory", "powerProduction": 0.24202928766315615, "category": "power"}

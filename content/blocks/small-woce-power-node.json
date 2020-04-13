@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small woce power node", "description": "...", "size": 1, "health": 226, "requirements": [{"item": "woce", "amount": 13}, {"item": "suyi", "amount": 11}, {"item": "myxo", "amount": 5}], "research": "woce-factory", "maxNodes": 19, "laserRange": 5, "category": "power"}

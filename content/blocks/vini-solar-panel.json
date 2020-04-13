@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vini solar panel", "description": "...", "size": 3, "health": 91, "requirements": [{"item": "vini", "amount": 4}, {"item": "horyve", "amount": 14}, {"item": "rajubanium", "amount": 3}], "research": "vini-factory", "powerProduction": 1.1387153434730721, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "seyo overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "seyo", "amount": 2}, {"item": "zagy", "amount": 3}], "research": "seyo-conveyor", "category": "distribution", "invert": false}

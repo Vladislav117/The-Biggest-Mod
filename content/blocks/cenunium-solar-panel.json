@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cenunium solar panel", "description": "...", "size": 3, "health": 55, "requirements": [{"item": "cenunium", "amount": 12}, {"item": "dizuqo", "amount": 5}, {"item": "sofowo", "amount": 6}], "research": "cenunium-factory", "powerProduction": 0.17072308525496238, "category": "power"}

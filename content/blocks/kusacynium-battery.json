@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kusacynium battery", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "kusacynium", "amount": 2}, {"item": "pozilonium", "amount": 1}, {"item": "wygaki", "amount": 3}], "research": "kusacynium-factory", "consumes": {"powerBuffered": 7214}, "category": "power"}

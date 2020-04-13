@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lisaca power node", "description": "...", "size": 2, "health": 350, "requirements": [{"item": "lisaca", "amount": 9}, {"item": "heqywanium", "amount": 10}, {"item": "migube", "amount": 5}], "research": "lisaca-factory", "maxNodes": 56, "laserRange": 27, "category": "power"}

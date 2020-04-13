@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jide underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "jide", "amount": 3}, {"item": "piro", "amount": 1}], "research": "jide-conveyor", "category": "distribution", "invert": false}

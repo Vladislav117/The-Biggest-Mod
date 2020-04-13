@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yegy junction", "description": "...", "health": 5, "speed": 14, "capacity": 19, "size": 1, "requirements": [{"item": "yegy", "amount": 2}, {"item": "nimyla", "amount": 4}], "research": "yegy-conveyor", "category": "distribution"}

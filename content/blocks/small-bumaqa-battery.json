@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bumaqa battery", "description": "...", "size": 1, "health": 130, "requirements": [{"item": "bumaqa", "amount": 12}, {"item": "bivucunium", "amount": 2}, {"item": "hyfeho", "amount": 9}], "research": "bumaqa-factory", "consumes": {"powerBuffered": 2248}, "category": "power"}

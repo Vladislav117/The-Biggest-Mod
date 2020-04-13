@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wifa underflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "wifa", "amount": 1}, {"item": "duto", "amount": 2}], "research": "wifa-conveyor", "category": "distribution", "invert": false}

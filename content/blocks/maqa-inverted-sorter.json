@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "maqa inverted sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "maqa", "amount": 4}, {"item": "ribuge", "amount": 5}], "research": "maqa-conveyor", "category": "distribution", "invert": true}

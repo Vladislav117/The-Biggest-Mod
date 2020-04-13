@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gafy liquid tank", "description": "...", "health": 227, "size": 3, "requirements": [{"item": "gafy", "amount": 5}, {"item": "minu", "amount": 16}, {"item": "rehawe", "amount": 9}], "research": "gafy-conduit", "category": "liquid", "liquidCapacity": 79090, "hasLiquids": true}

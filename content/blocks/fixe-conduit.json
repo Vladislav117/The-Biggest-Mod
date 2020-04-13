@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fixe conduit", "description": "...", "health": 97, "requirements": [{"item": "fixe", "amount": 9}, {"item": "zivo", "amount": 12}, {"item": "heda", "amount": 10}], "liquidCapacity": 25, "liquidPressure": 10, "research": "fixe-factory", "category": "liquid"}

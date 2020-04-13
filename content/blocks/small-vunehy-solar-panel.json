@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vunehy solar panel", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "vunehy", "amount": 7}, {"item": "zufy", "amount": 13}, {"item": "simiwi", "amount": 6}], "research": "vunehy-factory", "powerProduction": 9.507779278055894, "category": "power"}

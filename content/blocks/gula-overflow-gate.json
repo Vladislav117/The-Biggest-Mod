@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gula overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "gula", "amount": 3}, {"item": "pufere", "amount": 2}], "research": "gula-conveyor", "category": "distribution", "invert": false}

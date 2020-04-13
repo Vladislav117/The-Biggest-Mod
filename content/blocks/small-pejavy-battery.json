@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pejavy battery", "description": "...", "size": 1, "health": 376, "requirements": [{"item": "pejavy", "amount": 2}, {"item": "pomagu", "amount": 15}, {"item": "lyfydy", "amount": 2}], "research": "pejavy-factory", "consumes": {"powerBuffered": 1214}, "category": "power"}

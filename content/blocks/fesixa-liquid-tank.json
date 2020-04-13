@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fesixa liquid tank", "description": "...", "health": 585, "size": 3, "requirements": [{"item": "fesixa", "amount": 11}, {"item": "yytiye", "amount": 2}, {"item": "hayy", "amount": 7}], "research": "fesixa-conduit", "category": "liquid", "liquidCapacity": 106171, "hasLiquids": true}

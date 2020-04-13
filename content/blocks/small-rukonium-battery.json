@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rukonium battery", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "rukonium", "amount": 5}, {"item": "fogodo", "amount": 1}, {"item": "yunu", "amount": 4}], "research": "rukonium-factory", "consumes": {"powerBuffered": 2902}, "category": "power"}

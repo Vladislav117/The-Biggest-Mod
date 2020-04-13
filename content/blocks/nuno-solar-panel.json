@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nuno solar panel", "description": "...", "size": 3, "health": 262, "requirements": [{"item": "nuno", "amount": 2}, {"item": "muby", "amount": 16}, {"item": "tewo", "amount": 4}], "research": "nuno-factory", "powerProduction": 1.0874415017253716, "category": "power"}

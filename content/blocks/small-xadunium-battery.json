@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xadunium battery", "description": "...", "size": 1, "health": 381, "requirements": [{"item": "xadunium", "amount": 9}, {"item": "kani", "amount": 7}, {"item": "ruzagi", "amount": 7}], "research": "xadunium-factory", "consumes": {"powerBuffered": 2357}, "category": "power"}

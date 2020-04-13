@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zigije battery", "description": "...", "size": 3, "health": 322, "requirements": [{"item": "zigije", "amount": 20}, {"item": "raqo", "amount": 19}, {"item": "ruxa", "amount": 7}], "research": "zigije-factory", "consumes": {"powerBuffered": 2502}, "category": "power"}

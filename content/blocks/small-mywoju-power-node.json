@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mywoju power node", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "mywoju", "amount": 10}, {"item": "logybi", "amount": 12}, {"item": "zycinium", "amount": 5}], "research": "mywoju-factory", "maxNodes": 11, "laserRange": 12, "category": "power"}

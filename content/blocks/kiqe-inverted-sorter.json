@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kiqe inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "kiqe", "amount": 4}, {"item": "bofe", "amount": 4}], "research": "kiqe-conveyor", "category": "distribution", "invert": true}

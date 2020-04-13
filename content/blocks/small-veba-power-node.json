@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small veba power node", "description": "...", "size": 1, "health": 348, "requirements": [{"item": "veba", "amount": 17}, {"item": "fulyzynium", "amount": 4}, {"item": "risa", "amount": 4}], "research": "veba-factory", "maxNodes": 9, "laserRange": 13, "category": "power"}

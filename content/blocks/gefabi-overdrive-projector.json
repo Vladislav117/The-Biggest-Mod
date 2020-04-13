@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "gefabi overdrive projector", "description": "...", "health": 73, "consumes": {"power": 3.0, "item": "gefabi"}, "size": 2, "requirements": [{"item": "gefabi", "amount": 2}, {"item": "xenira", "amount": 15}, {"item": "rebugunium", "amount": 10}], "research": "gefabi-factory", "category": "effect"}

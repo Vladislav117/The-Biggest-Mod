@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dayumo battery", "description": "...", "size": 3, "health": 225, "requirements": [{"item": "dayumo", "amount": 10}, {"item": "huqiby", "amount": 3}, {"item": "mase", "amount": 6}], "research": "dayumo-factory", "consumes": {"powerBuffered": 7948}, "category": "power"}

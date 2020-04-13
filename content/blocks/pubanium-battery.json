@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pubanium battery", "description": "...", "size": 3, "health": 244, "requirements": [{"item": "pubanium", "amount": 18}, {"item": "qoxanium", "amount": 16}, {"item": "piqori", "amount": 2}], "research": "pubanium-factory", "consumes": {"powerBuffered": 3510}, "category": "power"}

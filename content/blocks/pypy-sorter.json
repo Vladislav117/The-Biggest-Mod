@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pypy sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "pypy", "amount": 4}, {"item": "winyjo", "amount": 3}], "research": "pypy-conveyor", "category": "distribution", "invert": false}

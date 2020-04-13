@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vyraqonium conduit", "description": "...", "health": 115, "requirements": [{"item": "vyraqonium", "amount": 6}, {"item": "zube", "amount": 15}, {"item": "luvigu", "amount": 2}], "liquidCapacity": 33, "liquidPressure": 2, "research": "vyraqonium-factory", "category": "liquid"}

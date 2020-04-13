@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pejavy battery", "description": "...", "size": 3, "health": 33, "requirements": [{"item": "pejavy", "amount": 6}, {"item": "dyde", "amount": 5}, {"item": "wupa", "amount": 8}], "research": "pejavy-factory", "consumes": {"powerBuffered": 1950}, "category": "power"}

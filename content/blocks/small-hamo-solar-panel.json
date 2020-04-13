@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hamo solar panel", "description": "...", "size": 1, "health": 256, "requirements": [{"item": "hamo", "amount": 16}, {"item": "wojenium", "amount": 10}, {"item": "xevenium", "amount": 4}], "research": "hamo-factory", "powerProduction": 7.075459183603127, "category": "power"}

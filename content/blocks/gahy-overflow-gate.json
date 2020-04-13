@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gahy overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "gahy", "amount": 1}, {"item": "quvojo", "amount": 5}], "research": "gahy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nedihenium liquid tank", "description": "...", "health": 183, "size": 3, "requirements": [{"item": "nedihenium", "amount": 13}, {"item": "xywoty", "amount": 16}, {"item": "lexo", "amount": 4}], "research": "nedihenium-conduit", "category": "liquid", "liquidCapacity": 68193, "hasLiquids": true}

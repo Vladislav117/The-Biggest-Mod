@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vety solar panel", "description": "...", "size": 1, "health": 400, "requirements": [{"item": "vety", "amount": 4}, {"item": "goqanium", "amount": 2}, {"item": "zivoginium", "amount": 5}], "research": "vety-factory", "powerProduction": 0.6594501244284144, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fixe battery", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "fixe", "amount": 7}, {"item": "hyxy", "amount": 1}, {"item": "siyenium", "amount": 6}], "research": "fixe-factory", "consumes": {"powerBuffered": 579}, "category": "power"}

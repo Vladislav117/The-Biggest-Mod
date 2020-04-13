@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tidonium liquid tank", "description": "...", "health": 319, "size": 3, "requirements": [{"item": "tidonium", "amount": 15}, {"item": "gyfifo", "amount": 16}, {"item": "cigita", "amount": 8}], "research": "tidonium-conduit", "category": "liquid", "liquidCapacity": 85240, "hasLiquids": true}

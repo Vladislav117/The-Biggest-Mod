@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jugowe liquid tank", "description": "...", "health": 634, "size": 3, "requirements": [{"item": "jugowe", "amount": 13}, {"item": "duginium", "amount": 5}, {"item": "sezuke", "amount": 10}], "research": "jugowe-conduit", "category": "liquid", "liquidCapacity": 66514, "hasLiquids": true}

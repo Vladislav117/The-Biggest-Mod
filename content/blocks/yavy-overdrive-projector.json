@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "yavy overdrive projector", "description": "...", "health": 67, "consumes": {"power": 3.0, "item": "yavy"}, "size": 2, "requirements": [{"item": "yavy", "amount": 2}, {"item": "fote", "amount": 14}, {"item": "raru", "amount": 1}], "research": "yavy-factory", "category": "effect"}

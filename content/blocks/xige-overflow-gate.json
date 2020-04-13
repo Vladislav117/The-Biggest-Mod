@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xige overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "xige", "amount": 2}, {"item": "myra", "amount": 4}], "research": "xige-conveyor", "category": "distribution", "invert": false}

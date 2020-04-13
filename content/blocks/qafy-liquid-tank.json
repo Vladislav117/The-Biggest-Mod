@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qafy liquid tank", "description": "...", "health": 196, "size": 3, "requirements": [{"item": "qafy", "amount": 11}, {"item": "kety", "amount": 15}, {"item": "fasi", "amount": 9}], "research": "qafy-conduit", "category": "liquid", "liquidCapacity": 32943, "hasLiquids": true}

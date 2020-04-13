@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "haxi sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "haxi", "amount": 4}, {"item": "hurula", "amount": 1}], "research": "haxi-conveyor", "category": "distribution", "invert": false}

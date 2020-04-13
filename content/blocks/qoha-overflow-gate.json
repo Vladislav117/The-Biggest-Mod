@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qoha overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "qoha", "amount": 1}, {"item": "pucy", "amount": 1}], "research": "qoha-conveyor", "category": "distribution", "invert": false}

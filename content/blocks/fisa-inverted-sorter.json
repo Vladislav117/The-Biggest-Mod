@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fisa inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "fisa", "amount": 4}, {"item": "xaji", "amount": 5}], "research": "fisa-conveyor", "category": "distribution", "invert": true}

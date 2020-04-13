@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bole conduit", "description": "...", "health": 40, "requirements": [{"item": "bole", "amount": 7}, {"item": "gago", "amount": 1}, {"item": "qovy", "amount": 2}], "liquidCapacity": 36, "liquidPressure": 5, "research": "bole-factory", "category": "liquid"}

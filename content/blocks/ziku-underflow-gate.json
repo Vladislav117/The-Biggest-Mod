@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ziku underflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "ziku", "amount": 2}, {"item": "tijixi", "amount": 3}], "research": "ziku-conveyor", "category": "distribution", "invert": false}

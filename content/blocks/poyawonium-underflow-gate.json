@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "poyawonium underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "poyawonium", "amount": 3}, {"item": "tybegi", "amount": 4}], "research": "poyawonium-conveyor", "category": "distribution", "invert": false}

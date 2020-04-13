@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mixiwu conduit", "description": "...", "health": 70, "requirements": [{"item": "mixiwu", "amount": 20}, {"item": "lufe", "amount": 8}, {"item": "voky", "amount": 7}], "liquidCapacity": 50, "liquidPressure": 3, "research": "mixiwu-factory", "category": "liquid"}

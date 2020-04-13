@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pebi conduit", "description": "...", "health": 106, "requirements": [{"item": "pebi", "amount": 8}, {"item": "tiwyna", "amount": 15}, {"item": "gyporu", "amount": 6}], "liquidCapacity": 42, "liquidPressure": 8, "research": "pebi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tikonium power node", "description": "...", "size": 2, "health": 358, "requirements": [{"item": "tikonium", "amount": 7}, {"item": "bexo", "amount": 20}, {"item": "qalo", "amount": 1}], "research": "tikonium-factory", "maxNodes": 37, "laserRange": 21, "category": "power"}

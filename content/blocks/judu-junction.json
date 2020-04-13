@@ -1,0 +1,1 @@
+{"type": "junction", "name": "judu junction", "description": "...", "health": 33, "speed": 1, "capacity": 1, "size": 1, "requirements": [{"item": "judu", "amount": 4}, {"item": "yucy", "amount": 5}], "research": "judu-conveyor", "category": "distribution"}

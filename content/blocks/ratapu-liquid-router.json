@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ratapu liquid router", "description": "...", "size": 1, "health": 52, "requirements": [{"item": "ratapu", "amount": 2}, {"item": "wujifi", "amount": 15}, {"item": "masoxo", "amount": 4}], "research": "ratapu-conduit", "liquidCapacity": 10, "category": "liquid"}

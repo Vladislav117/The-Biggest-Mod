@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jyluba bridge conveyor", "description": "", "health": 41, "range": 1, "speed": 11, "bufferCapacity": 8, "requirements": [{"item": "jyluba", "amount": 1}, {"item": "boretu", "amount": 5}], "research": "jyluba-conveyor", "category": "distribution", "size": 1}

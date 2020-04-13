@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hutave solar panel", "description": "...", "size": 3, "health": 22, "requirements": [{"item": "hutave", "amount": 13}, {"item": "roja", "amount": 4}, {"item": "tavohe", "amount": 3}], "research": "hutave-factory", "powerProduction": 0.12610475662955226, "category": "power"}

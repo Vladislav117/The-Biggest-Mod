@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small taci solar panel", "description": "...", "size": 1, "health": 336, "requirements": [{"item": "taci", "amount": 13}, {"item": "wezu", "amount": 4}, {"item": "baranium", "amount": 7}], "research": "taci-factory", "powerProduction": 0.9481311339080075, "category": "power"}

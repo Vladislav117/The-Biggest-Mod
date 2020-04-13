@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qasysi solar panel", "description": "...", "size": 3, "health": 40, "requirements": [{"item": "qasysi", "amount": 11}, {"item": "rukycu", "amount": 7}, {"item": "lyceca", "amount": 1}], "research": "qasysi-factory", "powerProduction": 0.37268304288337173, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "loyomy conduit", "description": "...", "health": 190, "requirements": [{"item": "loyomy", "amount": 13}, {"item": "furiva", "amount": 16}, {"item": "vevevi", "amount": 3}], "liquidCapacity": 15, "liquidPressure": 8, "research": "loyomy-factory", "category": "liquid"}

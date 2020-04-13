@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "noxy conduit", "description": "...", "health": 121, "requirements": [{"item": "noxy", "amount": 9}, {"item": "tyzonium", "amount": 1}, {"item": "xegonium", "amount": 1}], "liquidCapacity": 6, "liquidPressure": 5, "research": "noxy-factory", "category": "liquid"}

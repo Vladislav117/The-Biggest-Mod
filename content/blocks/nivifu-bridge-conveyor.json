@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nivifu bridge conveyor", "description": "", "health": 2, "range": 4, "speed": 12, "bufferCapacity": 5, "requirements": [{"item": "nivifu", "amount": 3}, {"item": "vuzesenium", "amount": 2}], "research": "nivifu-conveyor", "category": "distribution", "size": 1}

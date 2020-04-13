@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yimo underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "yimo", "amount": 3}, {"item": "silicon", "amount": 1}], "research": "yimo-conveyor", "category": "distribution", "invert": false}

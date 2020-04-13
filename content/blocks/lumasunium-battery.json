@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lumasunium battery", "description": "...", "size": 3, "health": 187, "requirements": [{"item": "lumasunium", "amount": 10}, {"item": "yowiminium", "amount": 18}, {"item": "nejesu", "amount": 2}], "research": "lumasunium-factory", "consumes": {"powerBuffered": 5902}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wyrali solar panel", "description": "...", "size": 3, "health": 28, "requirements": [{"item": "wyrali", "amount": 1}, {"item": "xafeku", "amount": 5}, {"item": "zadajo", "amount": 7}], "research": "wyrali-factory", "powerProduction": 1.4259863466523488, "category": "power"}

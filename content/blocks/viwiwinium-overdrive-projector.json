@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "viwiwinium overdrive projector", "description": "...", "health": 119, "consumes": {"power": 3.0, "item": "viwiwinium"}, "size": 2, "requirements": [{"item": "viwiwinium", "amount": 17}, {"item": "moro", "amount": 14}, {"item": "gypunium", "amount": 2}], "research": "viwiwinium-factory", "category": "effect"}

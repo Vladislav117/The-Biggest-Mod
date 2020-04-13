@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gedo battery", "description": "...", "size": 1, "health": 274, "requirements": [{"item": "gedo", "amount": 19}, {"item": "kepa", "amount": 8}, {"item": "desadu", "amount": 5}], "research": "gedo-factory", "consumes": {"powerBuffered": 1593}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zodyju conduit", "description": "...", "health": 90, "requirements": [{"item": "zodyju", "amount": 15}, {"item": "wupixonium", "amount": 12}, {"item": "kezunium", "amount": 9}], "liquidCapacity": 17, "liquidPressure": 0, "research": "zodyju-factory", "category": "liquid"}

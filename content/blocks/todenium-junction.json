@@ -1,0 +1,1 @@
+{"type": "junction", "name": "todenium junction", "description": "...", "health": 19, "speed": 9, "capacity": 2, "size": 1, "requirements": [{"item": "todenium", "amount": 2}, {"item": "masa", "amount": 2}], "research": "todenium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pihitonium liquid tank", "description": "...", "health": 481, "size": 3, "requirements": [{"item": "pihitonium", "amount": 4}, {"item": "xige", "amount": 9}, {"item": "vawa", "amount": 10}], "research": "pihitonium-conduit", "category": "liquid", "liquidCapacity": 87249, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "gofyfy force projector", "description": "...", "health": 189, "size": 3, "consumes": {"power": 5.0, "item": "gofyfy"}, "requirements": [{"item": "gofyfy", "amount": 8}, {"item": "gykenium", "amount": 8}, {"item": "siga", "amount": 10}], "research": "gofyfy-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "soki solar panel", "description": "...", "size": 3, "health": 390, "requirements": [{"item": "soki", "amount": 17}, {"item": "qubyra", "amount": 18}, {"item": "pylonium", "amount": 6}], "research": "soki-factory", "powerProduction": 5.867231670328129, "category": "power"}

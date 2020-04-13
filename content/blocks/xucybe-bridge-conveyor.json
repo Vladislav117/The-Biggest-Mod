@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xucybe bridge conveyor", "description": "", "health": 43, "range": 16, "speed": 2, "bufferCapacity": 10, "requirements": [{"item": "xucybe", "amount": 3}, {"item": "naha", "amount": 4}], "research": "xucybe-conveyor", "category": "distribution", "size": 1}

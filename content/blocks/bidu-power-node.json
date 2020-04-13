@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bidu power node", "description": "...", "size": 2, "health": 618, "requirements": [{"item": "bidu", "amount": 7}, {"item": "bogovy", "amount": 5}, {"item": "gebonium", "amount": 8}], "research": "bidu-factory", "maxNodes": 31, "laserRange": 29, "category": "power"}

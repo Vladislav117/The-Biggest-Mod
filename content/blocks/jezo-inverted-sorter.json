@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jezo inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "jezo", "amount": 5}, {"item": "fawa", "amount": 3}], "research": "jezo-conveyor", "category": "distribution", "invert": true}

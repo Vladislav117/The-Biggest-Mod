@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fusaji battery", "description": "...", "size": 3, "health": 396, "requirements": [{"item": "fusaji", "amount": 18}, {"item": "lipo", "amount": 19}, {"item": "reyezy", "amount": 1}], "research": "fusaji-factory", "consumes": {"powerBuffered": 1142}, "category": "power"}

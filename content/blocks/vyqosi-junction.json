@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vyqosi junction", "description": "...", "health": 31, "speed": 9, "capacity": 8, "size": 1, "requirements": [{"item": "vyqosi", "amount": 1}, {"item": "yymujy", "amount": 3}], "research": "vyqosi-conveyor", "category": "distribution"}

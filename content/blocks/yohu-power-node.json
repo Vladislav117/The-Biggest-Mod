@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yohu power node", "description": "...", "size": 2, "health": 708, "requirements": [{"item": "yohu", "amount": 17}, {"item": "ragoku", "amount": 14}, {"item": "rakuhy", "amount": 4}], "research": "yohu-factory", "maxNodes": 41, "laserRange": 11, "category": "power"}

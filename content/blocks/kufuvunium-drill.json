@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kufuvunium drill", "description": "...", "size": 4, "health": 204, "tier": 1, "drillTime": 7, "consumes": {"power": 15}, "requirements": [{"item": "kufuvunium", "amount": 3}, {"item": "weva", "amount": 1}, {"item": "duto", "amount": 10}], "research": "kufuvunium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nivuji junction", "description": "...", "health": 18, "speed": 4, "capacity": 3, "size": 1, "requirements": [{"item": "nivuji", "amount": 3}, {"item": "pejavy", "amount": 4}], "research": "nivuji-conveyor", "category": "distribution"}

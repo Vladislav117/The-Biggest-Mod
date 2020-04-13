@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gunery sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "gunery", "amount": 1}, {"item": "depyya", "amount": 3}], "research": "gunery-conveyor", "category": "distribution", "invert": false}

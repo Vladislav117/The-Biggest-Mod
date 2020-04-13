@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tefexe liquid tank", "description": "...", "health": 504, "size": 3, "requirements": [{"item": "tefexe", "amount": 14}, {"item": "rijago", "amount": 3}, {"item": "xuryvy", "amount": 7}], "research": "tefexe-conduit", "category": "liquid", "liquidCapacity": 99674, "hasLiquids": true}

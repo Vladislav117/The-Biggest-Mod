@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pyjorenium battery", "description": "...", "size": 3, "health": 122, "requirements": [{"item": "pyjorenium", "amount": 1}, {"item": "pegycy", "amount": 13}, {"item": "hobunium", "amount": 1}], "research": "pyjorenium-factory", "consumes": {"powerBuffered": 6922}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jebexo liquid tank", "description": "...", "health": 155, "size": 3, "requirements": [{"item": "jebexo", "amount": 1}, {"item": "ruwucynium", "amount": 18}, {"item": "cujori", "amount": 8}], "research": "jebexo-conduit", "category": "liquid", "liquidCapacity": 32087, "hasLiquids": true}

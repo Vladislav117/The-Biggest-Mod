@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kixo junction", "description": "...", "health": 31, "speed": 10, "capacity": 15, "size": 1, "requirements": [{"item": "kixo", "amount": 4}, {"item": "pigagunium", "amount": 1}], "research": "kixo-conveyor", "category": "distribution"}

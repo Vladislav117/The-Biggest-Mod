@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "laho bridge conveyor", "description": "", "health": 18, "range": 12, "speed": 17, "bufferCapacity": 9, "requirements": [{"item": "laho", "amount": 1}, {"item": "mepunium", "amount": 3}], "research": "laho-conveyor", "category": "distribution", "size": 1}

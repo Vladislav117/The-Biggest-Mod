@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xala liquid tank", "description": "...", "health": 565, "size": 3, "requirements": [{"item": "xala", "amount": 3}, {"item": "hosa", "amount": 20}, {"item": "pehabu", "amount": 5}], "research": "xala-conduit", "category": "liquid", "liquidCapacity": 11639, "hasLiquids": true}

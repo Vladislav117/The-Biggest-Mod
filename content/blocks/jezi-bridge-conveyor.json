@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jezi bridge conveyor", "description": "", "health": 33, "range": 14, "speed": 18, "bufferCapacity": 13, "requirements": [{"item": "jezi", "amount": 4}, {"item": "butuhi", "amount": 1}], "research": "jezi-conveyor", "category": "distribution", "size": 1}

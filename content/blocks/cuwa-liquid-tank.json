@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuwa liquid tank", "description": "...", "health": 363, "size": 3, "requirements": [{"item": "cuwa", "amount": 1}, {"item": "hitiva", "amount": 17}, {"item": "ruteqa", "amount": 2}], "research": "cuwa-conduit", "category": "liquid", "liquidCapacity": 96932, "hasLiquids": true}

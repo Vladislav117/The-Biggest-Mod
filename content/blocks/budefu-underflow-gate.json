@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "budefu underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "budefu", "amount": 2}, {"item": "haxi", "amount": 4}], "research": "budefu-conveyor", "category": "distribution", "invert": false}

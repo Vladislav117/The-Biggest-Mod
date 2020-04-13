@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ziti power node", "description": "...", "size": 1, "health": 272, "requirements": [{"item": "ziti", "amount": 10}, {"item": "lyheti", "amount": 11}, {"item": "tusico", "amount": 2}], "research": "ziti-factory", "maxNodes": 19, "laserRange": 14, "category": "power"}

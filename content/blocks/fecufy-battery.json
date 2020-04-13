@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fecufy battery", "description": "...", "size": 3, "health": 136, "requirements": [{"item": "fecufy", "amount": 8}, {"item": "qepisu", "amount": 8}, {"item": "wohy", "amount": 3}], "research": "fecufy-factory", "consumes": {"powerBuffered": 8687}, "category": "power"}

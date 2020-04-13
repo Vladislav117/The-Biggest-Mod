@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lipupy junction", "description": "...", "health": 39, "speed": 6, "capacity": 14, "size": 1, "requirements": [{"item": "lipupy", "amount": 5}, {"item": "julynium", "amount": 2}], "research": "lipupy-conveyor", "category": "distribution"}

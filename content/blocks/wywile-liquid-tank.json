@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wywile liquid tank", "description": "...", "health": 279, "size": 3, "requirements": [{"item": "wywile", "amount": 10}, {"item": "wuwo", "amount": 6}, {"item": "reximo", "amount": 8}], "research": "wywile-conduit", "category": "liquid", "liquidCapacity": 32350, "hasLiquids": true}

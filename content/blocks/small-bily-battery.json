@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bily battery", "description": "...", "size": 1, "health": 362, "requirements": [{"item": "bily", "amount": 18}, {"item": "yyti", "amount": 9}, {"item": "beniyi", "amount": 9}], "research": "bily-factory", "consumes": {"powerBuffered": 766}, "category": "power"}

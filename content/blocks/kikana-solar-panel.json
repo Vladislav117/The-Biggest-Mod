@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kikana solar panel", "description": "...", "size": 3, "health": 346, "requirements": [{"item": "kikana", "amount": 13}, {"item": "ruqako", "amount": 8}, {"item": "zoquqenium", "amount": 6}], "research": "kikana-factory", "powerProduction": 0.7933818859388226, "category": "power"}

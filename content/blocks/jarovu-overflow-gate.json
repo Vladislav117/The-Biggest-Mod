@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jarovu overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "jarovu", "amount": 1}, {"item": "xedorinium", "amount": 4}], "research": "jarovu-conveyor", "category": "distribution", "invert": false}

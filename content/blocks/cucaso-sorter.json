@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cucaso sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "cucaso", "amount": 1}, {"item": "walinium", "amount": 5}], "research": "cucaso-conveyor", "category": "distribution", "invert": false}

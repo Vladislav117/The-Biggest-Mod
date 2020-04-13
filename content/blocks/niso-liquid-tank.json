@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "niso liquid tank", "description": "...", "health": 199, "size": 3, "requirements": [{"item": "niso", "amount": 13}, {"item": "wywonium", "amount": 8}, {"item": "qiyo", "amount": 4}], "research": "niso-conduit", "category": "liquid", "liquidCapacity": 5114, "hasLiquids": true}

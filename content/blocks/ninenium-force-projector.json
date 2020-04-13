@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "ninenium force projector", "description": "...", "health": 249, "size": 3, "consumes": {"power": 5.0, "item": "ninenium"}, "requirements": [{"item": "ninenium", "amount": 8}, {"item": "fino", "amount": 16}, {"item": "fahi", "amount": 1}], "research": "ninenium-factory", "category": "effect"}

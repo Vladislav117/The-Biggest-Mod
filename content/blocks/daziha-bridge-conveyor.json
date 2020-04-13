@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "daziha bridge conveyor", "description": "", "health": 2, "range": 13, "speed": 16, "bufferCapacity": 15, "requirements": [{"item": "daziha", "amount": 1}, {"item": "makonium", "amount": 5}], "research": "daziha-conveyor", "category": "distribution", "size": 1}

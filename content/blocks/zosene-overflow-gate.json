@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zosene overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "zosene", "amount": 5}, {"item": "subece", "amount": 2}], "research": "zosene-conveyor", "category": "distribution", "invert": false}

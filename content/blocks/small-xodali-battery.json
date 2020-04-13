@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xodali battery", "description": "...", "size": 1, "health": 121, "requirements": [{"item": "xodali", "amount": 5}, {"item": "dyguzu", "amount": 2}, {"item": "vove", "amount": 1}], "research": "xodali-factory", "consumes": {"powerBuffered": 2107}, "category": "power"}

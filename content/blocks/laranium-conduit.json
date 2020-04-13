@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "laranium conduit", "description": "...", "health": 190, "requirements": [{"item": "laranium", "amount": 14}, {"item": "vayera", "amount": 18}, {"item": "gydarynium", "amount": 2}], "liquidCapacity": 46, "liquidPressure": 10, "research": "laranium-factory", "category": "liquid"}

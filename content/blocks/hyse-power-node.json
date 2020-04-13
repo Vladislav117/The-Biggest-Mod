@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hyse power node", "description": "...", "size": 2, "health": 154, "requirements": [{"item": "hyse", "amount": 9}, {"item": "sibewe", "amount": 17}, {"item": "zigy", "amount": 6}], "research": "hyse-factory", "maxNodes": 23, "laserRange": 10, "category": "power"}

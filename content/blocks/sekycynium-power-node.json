@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sekycynium power node", "description": "...", "size": 2, "health": 19, "requirements": [{"item": "sekycynium", "amount": 1}, {"item": "bayury", "amount": 4}, {"item": "rymyfanium", "amount": 3}], "research": "sekycynium-factory", "maxNodes": 38, "laserRange": 11, "category": "power"}

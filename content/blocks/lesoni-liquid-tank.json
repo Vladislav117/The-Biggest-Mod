@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lesoni liquid tank", "description": "...", "health": 392, "size": 3, "requirements": [{"item": "lesoni", "amount": 7}, {"item": "gino", "amount": 7}, {"item": "jyzywonium", "amount": 6}], "research": "lesoni-conduit", "category": "liquid", "liquidCapacity": 97096, "hasLiquids": true}

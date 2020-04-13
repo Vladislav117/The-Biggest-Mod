@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fusaji junction", "description": "...", "health": 7, "speed": 17, "capacity": 5, "size": 1, "requirements": [{"item": "fusaji", "amount": 3}, {"item": "yaxuda", "amount": 2}], "research": "fusaji-conveyor", "category": "distribution"}

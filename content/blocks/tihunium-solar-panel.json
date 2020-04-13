@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tihunium solar panel", "description": "...", "size": 3, "health": 325, "requirements": [{"item": "tihunium", "amount": 11}, {"item": "qoly", "amount": 18}, {"item": "dyjami", "amount": 3}], "research": "tihunium-factory", "powerProduction": 0.534341968618928, "category": "power"}

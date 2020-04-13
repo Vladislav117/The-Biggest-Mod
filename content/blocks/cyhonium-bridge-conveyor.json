@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cyhonium bridge conveyor", "description": "", "health": 35, "range": 1, "speed": 18, "bufferCapacity": 18, "requirements": [{"item": "cyhonium", "amount": 3}, {"item": "rypy", "amount": 4}], "research": "cyhonium-conveyor", "category": "distribution", "size": 1}

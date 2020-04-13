@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jumi inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "jumi", "amount": 5}, {"item": "viqamo", "amount": 1}], "research": "jumi-conveyor", "category": "distribution", "invert": true}

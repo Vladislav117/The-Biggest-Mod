@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vakoly junction", "description": "...", "health": 8, "speed": 14, "capacity": 12, "size": 1, "requirements": [{"item": "vakoly", "amount": 1}, {"item": "gupyfi", "amount": 1}], "research": "vakoly-conveyor", "category": "distribution"}

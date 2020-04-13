@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pepo liquid tank", "description": "...", "health": 222, "size": 3, "requirements": [{"item": "pepo", "amount": 18}, {"item": "jyma", "amount": 7}, {"item": "fapufi", "amount": 3}], "research": "pepo-conduit", "category": "liquid", "liquidCapacity": 13771, "hasLiquids": true}

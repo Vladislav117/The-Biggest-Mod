@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "niyoxi power node", "description": "...", "size": 2, "health": 306, "requirements": [{"item": "niyoxi", "amount": 7}, {"item": "wirifu", "amount": 5}, {"item": "wowyvi", "amount": 2}], "research": "niyoxi-factory", "maxNodes": 35, "laserRange": 13, "category": "power"}

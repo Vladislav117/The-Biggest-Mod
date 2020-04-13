@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "geke overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "geke", "amount": 2}, {"item": "xoquge", "amount": 2}], "research": "geke-conveyor", "category": "distribution", "invert": false}

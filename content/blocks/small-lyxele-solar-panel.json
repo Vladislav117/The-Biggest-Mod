@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lyxele solar panel", "description": "...", "size": 1, "health": 395, "requirements": [{"item": "lyxele", "amount": 8}, {"item": "rigo", "amount": 2}, {"item": "deru", "amount": 2}], "research": "lyxele-factory", "powerProduction": 2.9431198432645456, "category": "power"}

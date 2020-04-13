@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wuna overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "wuna", "amount": 3}, {"item": "dipyfonium", "amount": 3}], "research": "wuna-conveyor", "category": "distribution", "invert": false}

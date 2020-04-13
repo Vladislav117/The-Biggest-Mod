@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kygarynium liquid tank", "description": "...", "health": 458, "size": 3, "requirements": [{"item": "kygarynium", "amount": 9}, {"item": "waha", "amount": 18}, {"item": "dekeko", "amount": 5}], "research": "kygarynium-conduit", "category": "liquid", "liquidCapacity": 81238, "hasLiquids": true}

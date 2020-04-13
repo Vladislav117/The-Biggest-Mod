@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "subece underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "subece", "amount": 4}, {"item": "ceyuwy", "amount": 3}], "research": "subece-conveyor", "category": "distribution", "invert": false}

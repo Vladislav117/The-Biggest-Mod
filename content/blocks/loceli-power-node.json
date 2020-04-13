@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "loceli power node", "description": "...", "size": 2, "health": 649, "requirements": [{"item": "loceli", "amount": 3}, {"item": "zefapynium", "amount": 11}, {"item": "rypenium", "amount": 5}], "research": "loceli-factory", "maxNodes": 21, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yovawo bridge conveyor", "description": "", "health": 11, "range": 7, "speed": 3, "bufferCapacity": 25, "requirements": [{"item": "yovawo", "amount": 5}, {"item": "hisa", "amount": 1}], "research": "yovawo-conveyor", "category": "distribution", "size": 1}

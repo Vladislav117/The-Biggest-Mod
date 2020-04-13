@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dugi liquid tank", "description": "...", "health": 138, "size": 3, "requirements": [{"item": "dugi", "amount": 4}, {"item": "yuly", "amount": 8}, {"item": "byhonium", "amount": 10}], "research": "dugi-conduit", "category": "liquid", "liquidCapacity": 60172, "hasLiquids": true}

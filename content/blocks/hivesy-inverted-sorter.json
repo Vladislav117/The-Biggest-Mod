@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hivesy inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "hivesy", "amount": 3}, {"item": "depyya", "amount": 5}], "research": "hivesy-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "laxoty liquid tank", "description": "...", "health": 254, "size": 3, "requirements": [{"item": "laxoty", "amount": 5}, {"item": "rohonium", "amount": 20}, {"item": "quvojo", "amount": 3}], "research": "laxoty-conduit", "category": "liquid", "liquidCapacity": 72275, "hasLiquids": true}

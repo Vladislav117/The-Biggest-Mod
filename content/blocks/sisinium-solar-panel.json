@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sisinium solar panel", "description": "...", "size": 3, "health": 32, "requirements": [{"item": "sisinium", "amount": 5}, {"item": "nazananium", "amount": 3}, {"item": "xemynium", "amount": 6}], "research": "sisinium-factory", "powerProduction": 0.06886907871595883, "category": "power"}

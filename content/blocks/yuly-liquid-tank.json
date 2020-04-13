@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yuly liquid tank", "description": "...", "health": 627, "size": 3, "requirements": [{"item": "yuly", "amount": 11}, {"item": "rukycu", "amount": 15}, {"item": "velewo", "amount": 4}], "research": "yuly-conduit", "category": "liquid", "liquidCapacity": 26163, "hasLiquids": true}

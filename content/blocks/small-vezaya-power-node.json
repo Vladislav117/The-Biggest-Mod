@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vezaya power node", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "vezaya", "amount": 13}, {"item": "beqeyenium", "amount": 6}, {"item": "heda", "amount": 6}], "research": "vezaya-factory", "maxNodes": 2, "laserRange": 16, "category": "power"}

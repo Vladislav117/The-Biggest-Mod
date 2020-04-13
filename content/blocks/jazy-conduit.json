@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jazy conduit", "description": "...", "health": 126, "requirements": [{"item": "jazy", "amount": 13}, {"item": "sore", "amount": 3}, {"item": "liqohy", "amount": 2}], "liquidCapacity": 34, "liquidPressure": 2, "research": "jazy-factory", "category": "liquid"}

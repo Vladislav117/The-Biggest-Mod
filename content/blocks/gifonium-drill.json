@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gifonium drill", "description": "...", "size": 2, "health": 256, "tier": 1, "drillTime": 13, "consumes": {"power": 3}, "requirements": [{"item": "gifonium", "amount": 1}, {"item": "tatavo", "amount": 12}, {"item": "pygu", "amount": 4}], "research": "gifonium-factory", "category": "production"}

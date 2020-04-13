@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sahylu solar panel", "description": "...", "size": 1, "health": 88, "requirements": [{"item": "sahylu", "amount": 2}, {"item": "zatire", "amount": 20}, {"item": "kafulu", "amount": 7}], "research": "sahylu-factory", "powerProduction": 0.034404216377433613, "category": "power"}

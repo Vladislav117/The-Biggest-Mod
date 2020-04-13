@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gokiyi liquid router", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "gokiyi", "amount": 8}, {"item": "qubyra", "amount": 17}, {"item": "qudy", "amount": 4}], "research": "gokiyi-conduit", "liquidCapacity": 10, "category": "liquid"}

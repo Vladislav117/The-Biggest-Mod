@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fukoqe liquid tank", "description": "...", "health": 537, "size": 3, "requirements": [{"item": "fukoqe", "amount": 19}, {"item": "wawu", "amount": 16}, {"item": "kokyya", "amount": 3}], "research": "fukoqe-conduit", "category": "liquid", "liquidCapacity": 50278, "hasLiquids": true}

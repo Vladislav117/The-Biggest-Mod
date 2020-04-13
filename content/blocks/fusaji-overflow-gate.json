@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fusaji overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "fusaji", "amount": 4}, {"item": "dewira", "amount": 2}], "research": "fusaji-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "povygy inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "povygy", "amount": 3}, {"item": "bube", "amount": 4}], "research": "povygy-conveyor", "category": "distribution", "invert": true}

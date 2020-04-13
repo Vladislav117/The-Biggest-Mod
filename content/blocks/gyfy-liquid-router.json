@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gyfy liquid router", "description": "...", "size": 1, "health": 85, "requirements": [{"item": "gyfy", "amount": 7}, {"item": "kanano", "amount": 1}, {"item": "raru", "amount": 2}], "research": "gyfy-conduit", "liquidCapacity": 10, "category": "liquid"}

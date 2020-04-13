@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qoxu liquid tank", "description": "...", "health": 293, "size": 3, "requirements": [{"item": "qoxu", "amount": 13}, {"item": "boseho", "amount": 5}, {"item": "xutire", "amount": 6}], "research": "qoxu-conduit", "category": "liquid", "liquidCapacity": 57743, "hasLiquids": true}

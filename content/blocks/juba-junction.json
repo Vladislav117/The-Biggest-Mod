@@ -1,0 +1,1 @@
+{"type": "junction", "name": "juba junction", "description": "...", "health": 41, "speed": 4, "capacity": 12, "size": 1, "requirements": [{"item": "juba", "amount": 2}, {"item": "qypaty", "amount": 1}], "research": "juba-conveyor", "category": "distribution"}

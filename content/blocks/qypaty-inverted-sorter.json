@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qypaty inverted sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "qypaty", "amount": 4}, {"item": "wazo", "amount": 2}], "research": "qypaty-conveyor", "category": "distribution", "invert": true}

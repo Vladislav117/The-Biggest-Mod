@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bino conduit", "description": "...", "health": 152, "requirements": [{"item": "bino", "amount": 18}, {"item": "byzure", "amount": 9}, {"item": "dojove", "amount": 5}], "liquidCapacity": 34, "liquidPressure": 4, "research": "bino-factory", "category": "liquid"}

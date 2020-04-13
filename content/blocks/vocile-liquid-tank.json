@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vocile liquid tank", "description": "...", "health": 311, "size": 3, "requirements": [{"item": "vocile", "amount": 17}, {"item": "xiga", "amount": 8}, {"item": "lora", "amount": 9}], "research": "vocile-conduit", "category": "liquid", "liquidCapacity": 13824, "hasLiquids": true}

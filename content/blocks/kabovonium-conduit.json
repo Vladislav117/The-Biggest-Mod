@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kabovonium conduit", "description": "...", "health": 152, "requirements": [{"item": "kabovonium", "amount": 10}, {"item": "tebebe", "amount": 2}, {"item": "giho", "amount": 6}], "liquidCapacity": 50, "liquidPressure": 5, "research": "kabovonium-factory", "category": "liquid"}

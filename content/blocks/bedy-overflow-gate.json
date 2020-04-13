@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bedy overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "bedy", "amount": 1}, {"item": "dawo", "amount": 2}], "research": "bedy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gasagu power node", "description": "...", "size": 2, "health": 583, "requirements": [{"item": "gasagu", "amount": 12}, {"item": "bihu", "amount": 15}, {"item": "puziqo", "amount": 1}], "research": "gasagu-factory", "maxNodes": 40, "laserRange": 22, "category": "power"}

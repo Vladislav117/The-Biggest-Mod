@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "beka power node", "description": "...", "size": 2, "health": 549, "requirements": [{"item": "beka", "amount": 6}, {"item": "lybazanium", "amount": 8}, {"item": "baqo", "amount": 4}], "research": "beka-factory", "maxNodes": 30, "laserRange": 25, "category": "power"}

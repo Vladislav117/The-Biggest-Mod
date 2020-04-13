@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qocynium liquid tank", "description": "...", "health": 483, "size": 3, "requirements": [{"item": "qocynium", "amount": 10}, {"item": "jelu", "amount": 12}, {"item": "mycynium", "amount": 3}], "research": "qocynium-conduit", "category": "liquid", "liquidCapacity": 6111, "hasLiquids": true}

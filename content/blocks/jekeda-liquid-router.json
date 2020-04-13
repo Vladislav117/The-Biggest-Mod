@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jekeda liquid router", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "jekeda", "amount": 8}, {"item": "tedi", "amount": 4}, {"item": "rohonium", "amount": 8}], "research": "jekeda-conduit", "liquidCapacity": 10, "category": "liquid"}

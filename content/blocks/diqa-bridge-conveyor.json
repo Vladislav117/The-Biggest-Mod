@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "diqa bridge conveyor", "description": "", "health": 31, "range": 2, "speed": 18, "bufferCapacity": 9, "requirements": [{"item": "diqa", "amount": 5}, {"item": "dalire", "amount": 4}], "research": "diqa-conveyor", "category": "distribution", "size": 1}

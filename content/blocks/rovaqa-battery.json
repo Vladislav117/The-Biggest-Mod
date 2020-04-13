@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rovaqa battery", "description": "...", "size": 3, "health": 197, "requirements": [{"item": "rovaqa", "amount": 10}, {"item": "diforinium", "amount": 5}, {"item": "sacigi", "amount": 8}], "research": "rovaqa-factory", "consumes": {"powerBuffered": 9156}, "category": "power"}

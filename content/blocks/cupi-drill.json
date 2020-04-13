@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cupi drill", "description": "...", "size": 2, "health": 254, "tier": 4, "drillTime": 3, "consumes": {"power": 7}, "requirements": [{"item": "cupi", "amount": 16}, {"item": "weju", "amount": 1}, {"item": "higyhy", "amount": 10}], "research": "cupi-factory", "category": "production"}

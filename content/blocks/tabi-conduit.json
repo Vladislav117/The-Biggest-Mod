@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tabi conduit", "description": "...", "health": 171, "requirements": [{"item": "tabi", "amount": 16}, {"item": "dewe", "amount": 19}, {"item": "gagyya", "amount": 3}], "liquidCapacity": 30, "liquidPressure": 8, "research": "tabi-factory", "category": "liquid"}

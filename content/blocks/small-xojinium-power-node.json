@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xojinium power node", "description": "...", "size": 1, "health": 342, "requirements": [{"item": "xojinium", "amount": 2}, {"item": "yupo", "amount": 5}, {"item": "cyma", "amount": 5}], "research": "xojinium-factory", "maxNodes": 13, "laserRange": 7, "category": "power"}

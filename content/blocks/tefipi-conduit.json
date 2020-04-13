@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tefipi conduit", "description": "...", "health": 64, "requirements": [{"item": "tefipi", "amount": 10}, {"item": "yyga", "amount": 5}, {"item": "cuhynenium", "amount": 2}], "liquidCapacity": 28, "liquidPressure": 3, "research": "tefipi-factory", "category": "liquid"}

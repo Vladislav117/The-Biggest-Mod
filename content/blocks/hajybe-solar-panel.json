@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hajybe solar panel", "description": "...", "size": 3, "health": 351, "requirements": [{"item": "hajybe", "amount": 9}, {"item": "ryve", "amount": 10}, {"item": "yypedonium", "amount": 6}], "research": "hajybe-factory", "powerProduction": 1.658324363729058, "category": "power"}

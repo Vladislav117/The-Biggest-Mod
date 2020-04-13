@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gone power node", "description": "...", "size": 2, "health": 254, "requirements": [{"item": "gone", "amount": 2}, {"item": "haniva", "amount": 18}, {"item": "siceku", "amount": 1}], "research": "gone-factory", "maxNodes": 41, "laserRange": 25, "category": "power"}

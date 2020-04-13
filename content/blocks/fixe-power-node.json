@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fixe power node", "description": "...", "size": 2, "health": 791, "requirements": [{"item": "fixe", "amount": 14}, {"item": "nihy", "amount": 4}, {"item": "gydarynium", "amount": 6}], "research": "fixe-factory", "maxNodes": 22, "laserRange": 17, "category": "power"}

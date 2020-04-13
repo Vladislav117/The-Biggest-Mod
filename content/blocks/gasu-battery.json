@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gasu battery", "description": "...", "size": 3, "health": 66, "requirements": [{"item": "gasu", "amount": 5}, {"item": "qudy", "amount": 20}, {"item": "qaje", "amount": 7}], "research": "gasu-factory", "consumes": {"powerBuffered": 7784}, "category": "power"}

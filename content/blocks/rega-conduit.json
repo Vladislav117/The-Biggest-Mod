@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rega conduit", "description": "...", "health": 173, "requirements": [{"item": "rega", "amount": 7}, {"item": "ryho", "amount": 1}, {"item": "mapi", "amount": 10}], "liquidCapacity": 36, "liquidPressure": 6, "research": "rega-factory", "category": "liquid"}

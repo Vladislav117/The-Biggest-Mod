@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "maqe solar panel", "description": "...", "size": 3, "health": 198, "requirements": [{"item": "maqe", "amount": 1}, {"item": "betesa", "amount": 12}, {"item": "yywy", "amount": 5}], "research": "maqe-factory", "powerProduction": 0.7849263940317001, "category": "power"}

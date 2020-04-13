@@ -1,0 +1,1 @@
+{"type": "router", "name": "safe router", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "safe", "amount": 10}], "research": "safe-conveyor", "category": "distribution"}

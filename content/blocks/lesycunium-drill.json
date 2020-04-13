@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lesycunium drill", "description": "...", "size": 2, "health": 163, "tier": 3, "drillTime": 19, "consumes": {"power": 18}, "requirements": [{"item": "lesycunium", "amount": 10}, {"item": "tayo", "amount": 11}, {"item": "gyfa", "amount": 4}], "research": "lesycunium-factory", "category": "production"}

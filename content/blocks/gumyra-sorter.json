@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gumyra sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "gumyra", "amount": 4}, {"item": "yirere", "amount": 4}], "research": "gumyra-conveyor", "category": "distribution", "invert": false}

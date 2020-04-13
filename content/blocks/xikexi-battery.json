@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xikexi battery", "description": "...", "size": 3, "health": 256, "requirements": [{"item": "xikexi", "amount": 10}, {"item": "lyva", "amount": 10}, {"item": "yape", "amount": 8}], "research": "xikexi-factory", "consumes": {"powerBuffered": 8116}, "category": "power"}

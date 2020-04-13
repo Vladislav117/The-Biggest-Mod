@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lywe power node", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "lywe", "amount": 19}, {"item": "bofazy", "amount": 12}, {"item": "thorium", "amount": 9}], "research": "lywe-factory", "maxNodes": 25, "laserRange": 24, "category": "power"}

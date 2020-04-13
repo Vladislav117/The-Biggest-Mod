@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yeli power node", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "yeli", "amount": 3}, {"item": "nuzivo", "amount": 10}, {"item": "kipybi", "amount": 8}], "research": "yeli-factory", "maxNodes": 22, "laserRange": 18, "category": "power"}

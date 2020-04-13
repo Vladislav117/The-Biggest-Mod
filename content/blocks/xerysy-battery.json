@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xerysy battery", "description": "...", "size": 3, "health": 359, "requirements": [{"item": "xerysy", "amount": 16}, {"item": "vaqeca", "amount": 20}, {"item": "yavyra", "amount": 3}], "research": "xerysy-factory", "consumes": {"powerBuffered": 8004}, "category": "power"}

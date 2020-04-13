@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small secy power node", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "secy", "amount": 20}, {"item": "yyjola", "amount": 16}, {"item": "nebiwy", "amount": 4}], "research": "secy-factory", "maxNodes": 11, "laserRange": 11, "category": "power"}

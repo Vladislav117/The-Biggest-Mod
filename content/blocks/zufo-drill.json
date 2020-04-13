@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zufo drill", "description": "...", "size": 4, "health": 402, "tier": 3, "drillTime": 8, "consumes": {"power": 1}, "requirements": [{"item": "zufo", "amount": 5}, {"item": "wabaru", "amount": 12}, {"item": "nevyle", "amount": 6}], "research": "zufo-factory", "category": "production"}

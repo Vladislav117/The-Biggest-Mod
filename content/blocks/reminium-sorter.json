@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "reminium sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "reminium", "amount": 1}, {"item": "fayenium", "amount": 5}], "research": "reminium-conveyor", "category": "distribution", "invert": false}

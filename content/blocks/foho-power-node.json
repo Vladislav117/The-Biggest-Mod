@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "foho power node", "description": "...", "size": 2, "health": 791, "requirements": [{"item": "foho", "amount": 9}, {"item": "wuvonium", "amount": 9}, {"item": "zesaqy", "amount": 8}], "research": "foho-factory", "maxNodes": 11, "laserRange": 9, "category": "power"}

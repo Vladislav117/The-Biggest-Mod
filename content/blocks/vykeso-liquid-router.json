@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vykeso liquid router", "description": "...", "size": 1, "health": 73, "requirements": [{"item": "vykeso", "amount": 20}, {"item": "xofa", "amount": 7}, {"item": "deriye", "amount": 7}], "research": "vykeso-conduit", "liquidCapacity": 10, "category": "liquid"}

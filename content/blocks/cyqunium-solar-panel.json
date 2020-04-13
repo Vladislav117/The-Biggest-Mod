@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cyqunium solar panel", "description": "...", "size": 3, "health": 38, "requirements": [{"item": "cyqunium", "amount": 5}, {"item": "gineta", "amount": 8}, {"item": "ciqu", "amount": 8}], "research": "cyqunium-factory", "powerProduction": 0.017892077281554414, "category": "power"}

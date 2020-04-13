@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xomaja power node", "description": "...", "size": 2, "health": 752, "requirements": [{"item": "xomaja", "amount": 7}, {"item": "cevu", "amount": 15}, {"item": "dituna", "amount": 1}], "research": "xomaja-factory", "maxNodes": 45, "laserRange": 7, "category": "power"}

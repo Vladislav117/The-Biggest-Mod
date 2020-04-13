@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gyfi power node", "description": "...", "size": 2, "health": 181, "requirements": [{"item": "gyfi", "amount": 7}, {"item": "filo", "amount": 5}, {"item": "buyogenium", "amount": 2}], "research": "gyfi-factory", "maxNodes": 40, "laserRange": 12, "category": "power"}

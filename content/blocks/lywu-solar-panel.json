@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lywu solar panel", "description": "...", "size": 3, "health": 44, "requirements": [{"item": "lywu", "amount": 8}, {"item": "cyjonium", "amount": 7}, {"item": "dymu", "amount": 9}], "research": "lywu-factory", "powerProduction": 0.6608645872824036, "category": "power"}

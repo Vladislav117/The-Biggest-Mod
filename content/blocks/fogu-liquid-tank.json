@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fogu liquid tank", "description": "...", "health": 393, "size": 3, "requirements": [{"item": "fogu", "amount": 16}, {"item": "kyle", "amount": 17}, {"item": "wylobo", "amount": 5}], "research": "fogu-conduit", "category": "liquid", "liquidCapacity": 84910, "hasLiquids": true}

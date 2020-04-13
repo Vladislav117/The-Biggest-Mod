@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jojene battery", "description": "...", "size": 3, "health": 69, "requirements": [{"item": "jojene", "amount": 8}, {"item": "lekewy", "amount": 16}, {"item": "nepysi", "amount": 2}], "research": "jojene-factory", "consumes": {"powerBuffered": 3151}, "category": "power"}

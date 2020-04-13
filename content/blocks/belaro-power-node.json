@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "belaro power node", "description": "...", "size": 2, "health": 16, "requirements": [{"item": "belaro", "amount": 5}, {"item": "qelyqe", "amount": 2}, {"item": "koju", "amount": 6}], "research": "belaro-factory", "maxNodes": 12, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "feyyqe power node", "description": "...", "size": 2, "health": 256, "requirements": [{"item": "feyyqe", "amount": 13}, {"item": "kosonium", "amount": 12}, {"item": "mapibi", "amount": 9}], "research": "feyyqe-factory", "maxNodes": 38, "laserRange": 30, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vucazy solar panel", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "vucazy", "amount": 3}, {"item": "vigyqinium", "amount": 20}, {"item": "nipe", "amount": 10}], "research": "vucazy-factory", "powerProduction": 9.808259583632594, "category": "power"}

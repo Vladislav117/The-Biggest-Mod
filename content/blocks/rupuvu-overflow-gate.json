@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rupuvu overflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "rupuvu", "amount": 2}, {"item": "vayixo", "amount": 2}], "research": "rupuvu-conveyor", "category": "distribution", "invert": false}

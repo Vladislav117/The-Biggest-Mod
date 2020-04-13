@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sywuze liquid tank", "description": "...", "health": 143, "size": 3, "requirements": [{"item": "sywuze", "amount": 4}, {"item": "vadoda", "amount": 13}, {"item": "faqymu", "amount": 4}], "research": "sywuze-conduit", "category": "liquid", "liquidCapacity": 52081, "hasLiquids": true}

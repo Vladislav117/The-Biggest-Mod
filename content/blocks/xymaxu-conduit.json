@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xymaxu conduit", "description": "...", "health": 30, "requirements": [{"item": "xymaxu", "amount": 10}, {"item": "genane", "amount": 16}, {"item": "piyovy", "amount": 3}], "liquidCapacity": 2, "liquidPressure": 2, "research": "xymaxu-factory", "category": "liquid"}

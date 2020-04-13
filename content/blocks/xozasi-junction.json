@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xozasi junction", "description": "...", "health": 26, "speed": 14, "capacity": 6, "size": 1, "requirements": [{"item": "xozasi", "amount": 2}, {"item": "ryna", "amount": 1}], "research": "xozasi-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jafuja sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "jafuja", "amount": 3}, {"item": "dywu", "amount": 4}], "research": "jafuja-conveyor", "category": "distribution", "invert": false}

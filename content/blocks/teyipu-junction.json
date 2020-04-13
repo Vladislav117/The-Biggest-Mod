@@ -1,0 +1,1 @@
+{"type": "junction", "name": "teyipu junction", "description": "...", "health": 36, "speed": 1, "capacity": 13, "size": 1, "requirements": [{"item": "teyipu", "amount": 1}, {"item": "kyfahu", "amount": 2}], "research": "teyipu-conveyor", "category": "distribution"}

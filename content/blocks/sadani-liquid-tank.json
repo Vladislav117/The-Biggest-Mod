@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sadani liquid tank", "description": "...", "health": 306, "size": 3, "requirements": [{"item": "sadani", "amount": 14}, {"item": "direme", "amount": 4}, {"item": "lyceca", "amount": 4}], "research": "sadani-conduit", "category": "liquid", "liquidCapacity": 12935, "hasLiquids": true}

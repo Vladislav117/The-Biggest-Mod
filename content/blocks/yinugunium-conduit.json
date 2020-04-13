@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yinugunium conduit", "description": "...", "health": 70, "requirements": [{"item": "yinugunium", "amount": 9}, {"item": "cafy", "amount": 7}, {"item": "ximy", "amount": 10}], "liquidCapacity": 42, "liquidPressure": 2, "research": "yinugunium-factory", "category": "liquid"}

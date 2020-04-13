@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small veru battery", "description": "...", "size": 1, "health": 210, "requirements": [{"item": "veru", "amount": 1}, {"item": "webebu", "amount": 5}, {"item": "niqy", "amount": 8}], "research": "veru-factory", "consumes": {"powerBuffered": 1456}, "category": "power"}

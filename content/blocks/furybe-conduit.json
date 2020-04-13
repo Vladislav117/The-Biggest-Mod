@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "furybe conduit", "description": "...", "health": 80, "requirements": [{"item": "furybe", "amount": 20}, {"item": "zube", "amount": 12}, {"item": "yytusa", "amount": 4}], "liquidCapacity": 37, "liquidPressure": 7, "research": "furybe-factory", "category": "liquid"}

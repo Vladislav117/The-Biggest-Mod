@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "boyanium sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "boyanium", "amount": 4}, {"item": "koqoze", "amount": 1}], "research": "boyanium-conveyor", "category": "distribution", "invert": false}

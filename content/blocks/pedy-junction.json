@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pedy junction", "description": "...", "health": 13, "speed": 14, "capacity": 8, "size": 1, "requirements": [{"item": "pedy", "amount": 5}, {"item": "jeqenium", "amount": 1}], "research": "pedy-conveyor", "category": "distribution"}

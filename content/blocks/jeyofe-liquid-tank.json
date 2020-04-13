@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jeyofe liquid tank", "description": "...", "health": 360, "size": 3, "requirements": [{"item": "jeyofe", "amount": 7}, {"item": "telinium", "amount": 5}, {"item": "fica", "amount": 4}], "research": "jeyofe-conduit", "category": "liquid", "liquidCapacity": 56554, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "vurewe force projector", "description": "...", "health": 177, "size": 3, "consumes": {"power": 5.0, "item": "vurewe"}, "requirements": [{"item": "vurewe", "amount": 15}, {"item": "ruqype", "amount": 13}, {"item": "sawy", "amount": 6}], "research": "vurewe-factory", "category": "effect"}

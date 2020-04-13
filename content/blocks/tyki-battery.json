@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tyki battery", "description": "...", "size": 3, "health": 227, "requirements": [{"item": "tyki", "amount": 16}, {"item": "qowepa", "amount": 3}, {"item": "haxi", "amount": 2}], "research": "tyki-factory", "consumes": {"powerBuffered": 1643}, "category": "power"}

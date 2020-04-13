@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nuci battery", "description": "...", "size": 1, "health": 175, "requirements": [{"item": "nuci", "amount": 13}, {"item": "wobuyu", "amount": 18}, {"item": "xydume", "amount": 1}], "research": "nuci-factory", "consumes": {"powerBuffered": 1522}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "reboka inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "reboka", "amount": 2}, {"item": "yunu", "amount": 3}], "research": "reboka-conveyor", "category": "distribution", "invert": true}

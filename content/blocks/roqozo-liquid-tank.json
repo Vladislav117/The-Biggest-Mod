@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "roqozo liquid tank", "description": "...", "health": 279, "size": 3, "requirements": [{"item": "roqozo", "amount": 7}, {"item": "bopu", "amount": 17}, {"item": "rowi", "amount": 10}], "research": "roqozo-conduit", "category": "liquid", "liquidCapacity": 83445, "hasLiquids": true}

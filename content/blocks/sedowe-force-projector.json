@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "sedowe force projector", "description": "...", "health": 192, "size": 3, "consumes": {"power": 5.0, "item": "sedowe"}, "requirements": [{"item": "sedowe", "amount": 9}, {"item": "xyweco", "amount": 9}, {"item": "cyyenium", "amount": 8}], "research": "sedowe-factory", "category": "effect"}

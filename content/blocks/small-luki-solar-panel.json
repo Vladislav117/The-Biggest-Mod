@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small luki solar panel", "description": "...", "size": 1, "health": 134, "requirements": [{"item": "luki", "amount": 17}, {"item": "yadyju", "amount": 13}, {"item": "puyysonium", "amount": 6}], "research": "luki-factory", "powerProduction": 11.13827550624426, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fusaji conduit", "description": "...", "health": 31, "requirements": [{"item": "fusaji", "amount": 6}, {"item": "yifity", "amount": 7}, {"item": "pikoqi", "amount": 1}], "liquidCapacity": 10, "liquidPressure": 1, "research": "fusaji-factory", "category": "liquid"}

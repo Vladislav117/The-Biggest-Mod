@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "furazinium inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "furazinium", "amount": 5}, {"item": "lyheti", "amount": 1}], "research": "furazinium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hihunium conduit", "description": "...", "health": 67, "requirements": [{"item": "hihunium", "amount": 2}, {"item": "winyjo", "amount": 4}, {"item": "metaglass", "amount": 1}], "liquidCapacity": 15, "liquidPressure": 3, "research": "hihunium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jawo drill", "description": "...", "size": 3, "health": 254, "tier": 2, "drillTime": 19, "consumes": {"power": 10}, "requirements": [{"item": "jawo", "amount": 5}, {"item": "pino", "amount": 5}, {"item": "xavinium", "amount": 4}], "research": "jawo-factory", "category": "production"}

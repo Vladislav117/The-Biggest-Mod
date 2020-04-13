@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fino solar panel", "description": "...", "size": 3, "health": 37, "requirements": [{"item": "fino", "amount": 15}, {"item": "fizunium", "amount": 19}, {"item": "fevy", "amount": 2}], "research": "fino-factory", "powerProduction": 0.11538228766009576, "category": "power"}

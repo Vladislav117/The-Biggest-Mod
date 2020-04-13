@@ -1,0 +1,1 @@
+{"type": "router", "name": "bexa router", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "bexa", "amount": 10}], "research": "bexa-conveyor", "category": "distribution"}

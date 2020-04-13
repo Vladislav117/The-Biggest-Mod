@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rafikanium power node", "description": "...", "size": 2, "health": 321, "requirements": [{"item": "rafikanium", "amount": 5}, {"item": "ciba", "amount": 16}, {"item": "daka", "amount": 10}], "research": "rafikanium-factory", "maxNodes": 15, "laserRange": 10, "category": "power"}

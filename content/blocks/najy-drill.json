@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "najy drill", "description": "...", "size": 2, "health": 426, "tier": 4, "drillTime": 7, "consumes": {"power": 5}, "requirements": [{"item": "najy", "amount": 11}, {"item": "dugi", "amount": 7}, {"item": "dekeko", "amount": 7}], "research": "najy-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "desadu underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "desadu", "amount": 4}, {"item": "zydu", "amount": 5}], "research": "desadu-conveyor", "category": "distribution", "invert": false}

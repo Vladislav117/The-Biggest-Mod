@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tole battery", "description": "...", "size": 1, "health": 238, "requirements": [{"item": "tole", "amount": 16}, {"item": "takyhonium", "amount": 4}, {"item": "juyude", "amount": 9}], "research": "tole-factory", "consumes": {"powerBuffered": 303}, "category": "power"}

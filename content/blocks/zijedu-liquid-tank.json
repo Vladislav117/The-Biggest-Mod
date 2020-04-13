@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zijedu liquid tank", "description": "...", "health": 460, "size": 3, "requirements": [{"item": "zijedu", "amount": 11}, {"item": "molikonium", "amount": 18}, {"item": "jiyifynium", "amount": 5}], "research": "zijedu-conduit", "category": "liquid", "liquidCapacity": 57671, "hasLiquids": true}

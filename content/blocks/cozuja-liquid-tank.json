@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cozuja liquid tank", "description": "...", "health": 366, "size": 3, "requirements": [{"item": "cozuja", "amount": 1}, {"item": "kyte", "amount": 9}, {"item": "yoqy", "amount": 5}], "research": "cozuja-conduit", "category": "liquid", "liquidCapacity": 103505, "hasLiquids": true}

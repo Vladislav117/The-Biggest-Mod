@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "minoxa bridge conveyor", "description": "", "health": 39, "range": 15, "speed": 12, "bufferCapacity": 7, "requirements": [{"item": "minoxa", "amount": 1}, {"item": "madosy", "amount": 4}], "research": "minoxa-conveyor", "category": "distribution", "size": 1}

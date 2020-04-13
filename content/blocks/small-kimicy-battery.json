@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kimicy battery", "description": "...", "size": 1, "health": 345, "requirements": [{"item": "kimicy", "amount": 8}, {"item": "xype", "amount": 15}, {"item": "nurynium", "amount": 1}], "research": "kimicy-factory", "consumes": {"powerBuffered": 619}, "category": "power"}

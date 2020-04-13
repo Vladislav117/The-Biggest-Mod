@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kegiqi bridge conveyor", "description": "", "health": 39, "range": 19, "speed": 16, "bufferCapacity": 6, "requirements": [{"item": "kegiqi", "amount": 3}, {"item": "nejesu", "amount": 1}], "research": "kegiqi-conveyor", "category": "distribution", "size": 1}

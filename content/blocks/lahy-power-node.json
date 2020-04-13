@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lahy power node", "description": "...", "size": 2, "health": 466, "requirements": [{"item": "lahy", "amount": 7}, {"item": "xyko", "amount": 12}, {"item": "pivojunium", "amount": 8}], "research": "lahy-factory", "maxNodes": 50, "laserRange": 29, "category": "power"}

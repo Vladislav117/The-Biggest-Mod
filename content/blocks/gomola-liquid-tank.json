@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gomola liquid tank", "description": "...", "health": 475, "size": 3, "requirements": [{"item": "gomola", "amount": 13}, {"item": "tipi", "amount": 3}, {"item": "kite", "amount": 2}], "research": "gomola-conduit", "category": "liquid", "liquidCapacity": 61040, "hasLiquids": true}

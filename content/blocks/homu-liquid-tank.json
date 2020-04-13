@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "homu liquid tank", "description": "...", "health": 185, "size": 3, "requirements": [{"item": "homu", "amount": 7}, {"item": "qicinium", "amount": 12}, {"item": "rehyce", "amount": 4}], "research": "homu-conduit", "category": "liquid", "liquidCapacity": 82152, "hasLiquids": true}

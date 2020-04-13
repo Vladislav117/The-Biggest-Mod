@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qipy solar panel", "description": "...", "size": 3, "health": 144, "requirements": [{"item": "qipy", "amount": 16}, {"item": "wiba", "amount": 12}, {"item": "cejy", "amount": 2}], "research": "qipy-factory", "powerProduction": 0.1702793506262313, "category": "power"}

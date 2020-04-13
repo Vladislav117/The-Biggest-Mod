@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gemoco solar panel", "description": "...", "size": 1, "health": 348, "requirements": [{"item": "gemoco", "amount": 11}, {"item": "cafazu", "amount": 11}, {"item": "tise", "amount": 2}], "research": "gemoco-factory", "powerProduction": 0.06058298921784896, "category": "power"}

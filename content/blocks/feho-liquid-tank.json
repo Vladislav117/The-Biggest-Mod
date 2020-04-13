@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "feho liquid tank", "description": "...", "health": 175, "size": 3, "requirements": [{"item": "feho", "amount": 1}, {"item": "sexinium", "amount": 7}, {"item": "temi", "amount": 7}], "research": "feho-conduit", "category": "liquid", "liquidCapacity": 108506, "hasLiquids": true}

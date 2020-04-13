@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yeli solar panel", "description": "...", "size": 3, "health": 313, "requirements": [{"item": "yeli", "amount": 8}, {"item": "heqywanium", "amount": 16}, {"item": "mawanium", "amount": 10}], "research": "yeli-factory", "powerProduction": 0.14323087336648596, "category": "power"}

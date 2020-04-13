@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bibu solar panel", "description": "...", "size": 1, "health": 323, "requirements": [{"item": "bibu", "amount": 16}, {"item": "ropa", "amount": 11}, {"item": "hylu", "amount": 1}], "research": "bibu-factory", "powerProduction": 2.0268538991625977, "category": "power"}

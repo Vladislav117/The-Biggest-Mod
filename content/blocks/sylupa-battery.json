@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sylupa battery", "description": "...", "size": 3, "health": 322, "requirements": [{"item": "sylupa", "amount": 1}, {"item": "cuzy", "amount": 4}, {"item": "pikoqi", "amount": 2}], "research": "sylupa-factory", "consumes": {"powerBuffered": 2308}, "category": "power"}

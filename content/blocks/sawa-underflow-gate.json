@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sawa underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "sawa", "amount": 3}, {"item": "balinu", "amount": 5}], "research": "sawa-conveyor", "category": "distribution", "invert": false}

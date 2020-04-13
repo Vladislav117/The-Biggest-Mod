@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qexata battery", "description": "...", "size": 3, "health": 20, "requirements": [{"item": "qexata", "amount": 8}, {"item": "werexo", "amount": 11}, {"item": "wovazo", "amount": 6}], "research": "qexata-factory", "consumes": {"powerBuffered": 4418}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "daci underflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "daci", "amount": 3}, {"item": "veba", "amount": 1}], "research": "daci-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cosi solar panel", "description": "...", "size": 3, "health": 223, "requirements": [{"item": "cosi", "amount": 8}, {"item": "zilida", "amount": 10}, {"item": "jozu", "amount": 4}], "research": "cosi-factory", "powerProduction": 0.22380011071719857, "category": "power"}

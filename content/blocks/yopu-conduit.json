@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yopu conduit", "description": "...", "health": 72, "requirements": [{"item": "yopu", "amount": 12}, {"item": "hocona", "amount": 3}, {"item": "gagowi", "amount": 7}], "liquidCapacity": 4, "liquidPressure": 2, "research": "yopu-factory", "category": "liquid"}

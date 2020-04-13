@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hyryhinium liquid tank", "description": "...", "health": 369, "size": 3, "requirements": [{"item": "hyryhinium", "amount": 12}, {"item": "pydudanium", "amount": 9}, {"item": "divimenium", "amount": 1}], "research": "hyryhinium-conduit", "category": "liquid", "liquidCapacity": 49164, "hasLiquids": true}

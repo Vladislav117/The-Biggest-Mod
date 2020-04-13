@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bebexu power node", "description": "...", "size": 2, "health": 708, "requirements": [{"item": "bebexu", "amount": 2}, {"item": "latycu", "amount": 15}, {"item": "nixigunium", "amount": 4}], "research": "bebexu-factory", "maxNodes": 20, "laserRange": 8, "category": "power"}

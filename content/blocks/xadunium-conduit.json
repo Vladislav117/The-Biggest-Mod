@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xadunium conduit", "description": "...", "health": 29, "requirements": [{"item": "xadunium", "amount": 16}, {"item": "pyxoxanium", "amount": 6}, {"item": "jihu", "amount": 8}], "liquidCapacity": 20, "liquidPressure": 2, "research": "xadunium-factory", "category": "liquid"}

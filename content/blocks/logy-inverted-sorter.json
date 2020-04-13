@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "logy inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "logy", "amount": 5}, {"item": "duqu", "amount": 3}], "research": "logy-conveyor", "category": "distribution", "invert": true}

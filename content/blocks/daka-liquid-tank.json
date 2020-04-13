@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "daka liquid tank", "description": "...", "health": 638, "size": 3, "requirements": [{"item": "daka", "amount": 10}, {"item": "qujunium", "amount": 1}, {"item": "yejicunium", "amount": 6}], "research": "daka-conduit", "category": "liquid", "liquidCapacity": 10909, "hasLiquids": true}

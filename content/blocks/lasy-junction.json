@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lasy junction", "description": "...", "health": 44, "speed": 9, "capacity": 12, "size": 1, "requirements": [{"item": "lasy", "amount": 3}, {"item": "waje", "amount": 3}], "research": "lasy-conveyor", "category": "distribution"}

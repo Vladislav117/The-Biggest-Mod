@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qyyalo power node", "description": "...", "size": 2, "health": 593, "requirements": [{"item": "qyyalo", "amount": 12}, {"item": "jimi", "amount": 2}, {"item": "muvy", "amount": 2}], "research": "qyyalo-factory", "maxNodes": 27, "laserRange": 21, "category": "power"}

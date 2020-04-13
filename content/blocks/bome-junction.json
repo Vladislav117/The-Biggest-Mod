@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bome junction", "description": "...", "health": 26, "speed": 17, "capacity": 19, "size": 1, "requirements": [{"item": "bome", "amount": 2}, {"item": "cupedi", "amount": 4}], "research": "bome-conveyor", "category": "distribution"}

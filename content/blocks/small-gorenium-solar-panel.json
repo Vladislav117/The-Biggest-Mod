@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gorenium solar panel", "description": "...", "size": 1, "health": 103, "requirements": [{"item": "gorenium", "amount": 4}, {"item": "ruvudo", "amount": 17}, {"item": "pero", "amount": 1}], "research": "gorenium-factory", "powerProduction": 1.7760891990813317, "category": "power"}

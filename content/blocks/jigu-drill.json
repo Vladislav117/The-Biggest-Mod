@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jigu drill", "description": "...", "size": 3, "health": 247, "tier": 3, "drillTime": 2, "consumes": {"power": 3}, "requirements": [{"item": "jigu", "amount": 5}, {"item": "susi", "amount": 2}, {"item": "qowepa", "amount": 4}], "research": "jigu-factory", "category": "production"}

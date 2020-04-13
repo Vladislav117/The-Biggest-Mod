@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xafi liquid router", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "xafi", "amount": 4}, {"item": "vego", "amount": 13}, {"item": "zypiqi", "amount": 9}], "research": "xafi-conduit", "liquidCapacity": 10, "category": "liquid"}

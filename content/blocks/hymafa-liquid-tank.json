@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hymafa liquid tank", "description": "...", "health": 392, "size": 3, "requirements": [{"item": "hymafa", "amount": 8}, {"item": "lyhu", "amount": 6}, {"item": "yahi", "amount": 2}], "research": "hymafa-conduit", "category": "liquid", "liquidCapacity": 76706, "hasLiquids": true}

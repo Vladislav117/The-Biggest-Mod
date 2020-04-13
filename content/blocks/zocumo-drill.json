@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zocumo drill", "description": "...", "size": 2, "health": 238, "tier": 2, "drillTime": 17, "consumes": {"power": 3}, "requirements": [{"item": "zocumo", "amount": 6}, {"item": "yisyqu", "amount": 8}, {"item": "wore", "amount": 2}], "research": "zocumo-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "makonium sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "makonium", "amount": 5}, {"item": "pyvunium", "amount": 2}], "research": "makonium-conveyor", "category": "distribution", "invert": false}

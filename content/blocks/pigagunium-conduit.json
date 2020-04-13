@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pigagunium conduit", "description": "...", "health": 90, "requirements": [{"item": "pigagunium", "amount": 18}, {"item": "xyyira", "amount": 17}, {"item": "graphite", "amount": 8}], "liquidCapacity": 11, "liquidPressure": 6, "research": "pigagunium-factory", "category": "liquid"}

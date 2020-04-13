@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hijanium drill", "description": "...", "size": 3, "health": 309, "tier": 4, "drillTime": 10, "consumes": {"power": 1}, "requirements": [{"item": "hijanium", "amount": 5}, {"item": "maqini", "amount": 11}, {"item": "pudoki", "amount": 4}], "research": "hijanium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xuve underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "xuve", "amount": 1}, {"item": "wuniso", "amount": 1}], "research": "xuve-conveyor", "category": "distribution", "invert": false}

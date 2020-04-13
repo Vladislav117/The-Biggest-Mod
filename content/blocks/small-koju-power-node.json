@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small koju power node", "description": "...", "size": 1, "health": 308, "requirements": [{"item": "koju", "amount": 4}, {"item": "deru", "amount": 10}, {"item": "wibasi", "amount": 2}], "research": "koju-factory", "maxNodes": 5, "laserRange": 6, "category": "power"}

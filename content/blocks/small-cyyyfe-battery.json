@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cyyyfe battery", "description": "...", "size": 1, "health": 118, "requirements": [{"item": "cyyyfe", "amount": 5}, {"item": "bejominium", "amount": 6}, {"item": "ruhuya", "amount": 5}], "research": "cyyyfe-factory", "consumes": {"powerBuffered": 1269}, "category": "power"}

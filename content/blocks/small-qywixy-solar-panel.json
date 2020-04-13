@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qywixy solar panel", "description": "...", "size": 1, "health": 261, "requirements": [{"item": "qywixy", "amount": 8}, {"item": "thorium", "amount": 5}, {"item": "myvedi", "amount": 5}], "research": "qywixy-factory", "powerProduction": 0.3512377268864543, "category": "power"}

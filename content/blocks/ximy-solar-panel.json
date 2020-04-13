@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ximy solar panel", "description": "...", "size": 3, "health": 309, "requirements": [{"item": "ximy", "amount": 16}, {"item": "lyceca", "amount": 15}, {"item": "tozenium", "amount": 6}], "research": "ximy-factory", "powerProduction": 0.7794213763023781, "category": "power"}

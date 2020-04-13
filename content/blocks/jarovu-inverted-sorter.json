@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jarovu inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "jarovu", "amount": 5}, {"item": "vamoginium", "amount": 1}], "research": "jarovu-conveyor", "category": "distribution", "invert": true}

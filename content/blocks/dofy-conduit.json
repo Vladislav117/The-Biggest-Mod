@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dofy conduit", "description": "...", "health": 152, "requirements": [{"item": "dofy", "amount": 7}, {"item": "nuyo", "amount": 10}, {"item": "yytiye", "amount": 9}], "liquidCapacity": 30, "liquidPressure": 5, "research": "dofy-factory", "category": "liquid"}

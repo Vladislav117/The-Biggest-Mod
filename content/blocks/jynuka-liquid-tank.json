@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jynuka liquid tank", "description": "...", "health": 292, "size": 3, "requirements": [{"item": "jynuka", "amount": 6}, {"item": "jafu", "amount": 2}, {"item": "lixake", "amount": 3}], "research": "jynuka-conduit", "category": "liquid", "liquidCapacity": 91604, "hasLiquids": true}

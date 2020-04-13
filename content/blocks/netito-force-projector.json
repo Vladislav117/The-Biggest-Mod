@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "netito force projector", "description": "...", "health": 243, "size": 3, "consumes": {"power": 5.0, "item": "netito"}, "requirements": [{"item": "netito", "amount": 11}, {"item": "feqy", "amount": 18}, {"item": "buro", "amount": 7}], "research": "netito-factory", "category": "effect"}

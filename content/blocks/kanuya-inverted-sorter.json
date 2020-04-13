@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kanuya inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "kanuya", "amount": 2}, {"item": "gotomy", "amount": 3}], "research": "kanuya-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wifu battery", "description": "...", "size": 3, "health": 213, "requirements": [{"item": "wifu", "amount": 20}, {"item": "virema", "amount": 15}, {"item": "dewe", "amount": 1}], "research": "wifu-factory", "consumes": {"powerBuffered": 6380}, "category": "power"}

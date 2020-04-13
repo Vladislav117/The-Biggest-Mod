@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zofe power node", "description": "...", "size": 2, "health": 610, "requirements": [{"item": "zofe", "amount": 5}, {"item": "muryrenium", "amount": 8}, {"item": "qoseve", "amount": 6}], "research": "zofe-factory", "maxNodes": 24, "laserRange": 28, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fyvuyy junction", "description": "...", "health": 16, "speed": 11, "capacity": 12, "size": 1, "requirements": [{"item": "fyvuyy", "amount": 4}, {"item": "docinium", "amount": 4}], "research": "fyvuyy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vykynium battery", "description": "...", "size": 1, "health": 347, "requirements": [{"item": "vykynium", "amount": 7}, {"item": "nifego", "amount": 8}, {"item": "zodo", "amount": 2}], "research": "vykynium-factory", "consumes": {"powerBuffered": 1529}, "category": "power"}

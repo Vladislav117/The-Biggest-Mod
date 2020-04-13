@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xoruba sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "xoruba", "amount": 5}, {"item": "moki", "amount": 5}], "research": "xoruba-conveyor", "category": "distribution", "invert": false}

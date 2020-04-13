@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pijuje battery", "description": "...", "size": 3, "health": 352, "requirements": [{"item": "pijuje", "amount": 18}, {"item": "zyce", "amount": 12}, {"item": "ropiki", "amount": 7}], "research": "pijuje-factory", "consumes": {"powerBuffered": 9909}, "category": "power"}

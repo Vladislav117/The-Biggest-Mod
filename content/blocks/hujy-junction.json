@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hujy junction", "description": "...", "health": 11, "speed": 20, "capacity": 20, "size": 1, "requirements": [{"item": "hujy", "amount": 3}, {"item": "wevaze", "amount": 2}], "research": "hujy-conveyor", "category": "distribution"}

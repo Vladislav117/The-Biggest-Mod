@@ -1,0 +1,1 @@
+{"type": "junction", "name": "desadu junction", "description": "...", "health": 23, "speed": 15, "capacity": 9, "size": 1, "requirements": [{"item": "desadu", "amount": 3}, {"item": "hine", "amount": 2}], "research": "desadu-conveyor", "category": "distribution"}

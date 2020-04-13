@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mahe battery", "description": "...", "size": 1, "health": 207, "requirements": [{"item": "mahe", "amount": 5}, {"item": "wajese", "amount": 5}, {"item": "nafamy", "amount": 9}], "research": "mahe-factory", "consumes": {"powerBuffered": 527}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rebifo power node", "description": "...", "size": 2, "health": 51, "requirements": [{"item": "rebifo", "amount": 2}, {"item": "zuxygo", "amount": 3}, {"item": "sigu", "amount": 5}], "research": "rebifo-factory", "maxNodes": 34, "laserRange": 6, "category": "power"}

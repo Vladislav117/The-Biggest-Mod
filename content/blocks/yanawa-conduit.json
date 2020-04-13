@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yanawa conduit", "description": "...", "health": 132, "requirements": [{"item": "yanawa", "amount": 2}, {"item": "yajawa", "amount": 17}, {"item": "huxo", "amount": 8}], "liquidCapacity": 31, "liquidPressure": 5, "research": "yanawa-factory", "category": "liquid"}

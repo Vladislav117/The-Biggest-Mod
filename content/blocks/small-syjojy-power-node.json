@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small syjojy power node", "description": "...", "size": 1, "health": 200, "requirements": [{"item": "syjojy", "amount": 1}, {"item": "zire", "amount": 12}, {"item": "pami", "amount": 4}], "research": "syjojy-factory", "maxNodes": 29, "laserRange": 16, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yajawa solar panel", "description": "...", "size": 3, "health": 288, "requirements": [{"item": "yajawa", "amount": 5}, {"item": "feyyqe", "amount": 11}, {"item": "nudo", "amount": 10}], "research": "yajawa-factory", "powerProduction": 5.4879176085058345, "category": "power"}

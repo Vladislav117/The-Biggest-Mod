@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pinuzu power node", "description": "...", "size": 2, "health": 453, "requirements": [{"item": "pinuzu", "amount": 1}, {"item": "vapa", "amount": 6}, {"item": "soqohynium", "amount": 1}], "research": "pinuzu-factory", "maxNodes": 58, "laserRange": 21, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "peso underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "peso", "amount": 5}, {"item": "hywinium", "amount": 5}], "research": "peso-conveyor", "category": "distribution", "invert": false}

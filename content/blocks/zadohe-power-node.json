@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zadohe power node", "description": "...", "size": 2, "health": 655, "requirements": [{"item": "zadohe", "amount": 4}, {"item": "vinizy", "amount": 16}, {"item": "mynufu", "amount": 8}], "research": "zadohe-factory", "maxNodes": 36, "laserRange": 24, "category": "power"}

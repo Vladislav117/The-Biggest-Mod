@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wybenium power node", "description": "...", "size": 1, "health": 356, "requirements": [{"item": "wybenium", "amount": 8}, {"item": "cejy", "amount": 3}, {"item": "biqa", "amount": 7}], "research": "wybenium-factory", "maxNodes": 22, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ninenium junction", "description": "...", "health": 1, "speed": 8, "capacity": 3, "size": 1, "requirements": [{"item": "ninenium", "amount": 3}, {"item": "gepe", "amount": 4}], "research": "ninenium-conveyor", "category": "distribution"}

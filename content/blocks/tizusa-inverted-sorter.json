@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tizusa inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "tizusa", "amount": 1}, {"item": "lumasunium", "amount": 1}], "research": "tizusa-conveyor", "category": "distribution", "invert": true}

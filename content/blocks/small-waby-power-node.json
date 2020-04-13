@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small waby power node", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "waby", "amount": 2}, {"item": "qedene", "amount": 16}, {"item": "seqyyi", "amount": 6}], "research": "waby-factory", "maxNodes": 27, "laserRange": 16, "category": "power"}

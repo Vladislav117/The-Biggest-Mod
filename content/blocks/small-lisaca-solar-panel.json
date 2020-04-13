@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lisaca solar panel", "description": "...", "size": 1, "health": 110, "requirements": [{"item": "lisaca", "amount": 12}, {"item": "jylovo", "amount": 10}, {"item": "betesa", "amount": 10}], "research": "lisaca-factory", "powerProduction": 0.937789625013169, "category": "power"}

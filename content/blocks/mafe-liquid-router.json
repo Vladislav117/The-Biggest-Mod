@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mafe liquid router", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "mafe", "amount": 2}, {"item": "mymynium", "amount": 6}, {"item": "soki", "amount": 4}], "research": "mafe-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tayo conduit", "description": "...", "health": 160, "requirements": [{"item": "tayo", "amount": 20}, {"item": "mafy", "amount": 8}, {"item": "fezo", "amount": 4}], "liquidCapacity": 48, "liquidPressure": 8, "research": "tayo-factory", "category": "liquid"}

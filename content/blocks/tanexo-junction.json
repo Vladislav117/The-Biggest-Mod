@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tanexo junction", "description": "...", "health": 24, "speed": 11, "capacity": 2, "size": 1, "requirements": [{"item": "tanexo", "amount": 4}, {"item": "qovy", "amount": 1}], "research": "tanexo-conveyor", "category": "distribution"}

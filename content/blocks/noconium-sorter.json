@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "noconium sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "noconium", "amount": 2}, {"item": "gypunium", "amount": 3}], "research": "noconium-conveyor", "category": "distribution", "invert": false}

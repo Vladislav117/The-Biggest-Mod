@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "docinium conduit", "description": "...", "health": 20, "requirements": [{"item": "docinium", "amount": 7}, {"item": "rovaqa", "amount": 5}, {"item": "jewa", "amount": 10}], "liquidCapacity": 43, "liquidPressure": 2, "research": "docinium-factory", "category": "liquid"}

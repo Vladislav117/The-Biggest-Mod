@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "locycanium drill", "description": "...", "size": 2, "health": 330, "tier": 2, "drillTime": 15, "consumes": {"power": 4}, "requirements": [{"item": "locycanium", "amount": 6}, {"item": "kyna", "amount": 11}, {"item": "sebypa", "amount": 9}], "research": "locycanium-factory", "category": "production"}

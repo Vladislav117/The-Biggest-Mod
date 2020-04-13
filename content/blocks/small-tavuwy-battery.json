@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tavuwy battery", "description": "...", "size": 1, "health": 111, "requirements": [{"item": "tavuwy", "amount": 5}, {"item": "nigamy", "amount": 15}, {"item": "xaji", "amount": 8}], "research": "tavuwy-factory", "consumes": {"powerBuffered": 1141}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small geco solar panel", "description": "...", "size": 1, "health": 276, "requirements": [{"item": "geco", "amount": 5}, {"item": "zapu", "amount": 17}, {"item": "hurula", "amount": 10}], "research": "geco-factory", "powerProduction": 1.9687015753930663, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mefymanium underflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "mefymanium", "amount": 3}, {"item": "kubi", "amount": 5}], "research": "mefymanium-conveyor", "category": "distribution", "invert": false}

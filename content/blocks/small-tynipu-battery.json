@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tynipu battery", "description": "...", "size": 1, "health": 97, "requirements": [{"item": "tynipu", "amount": 18}, {"item": "biciti", "amount": 13}, {"item": "yepy", "amount": 8}], "research": "tynipu-factory", "consumes": {"powerBuffered": 903}, "category": "power"}

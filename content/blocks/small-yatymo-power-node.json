@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yatymo power node", "description": "...", "size": 1, "health": 233, "requirements": [{"item": "yatymo", "amount": 11}, {"item": "viqamo", "amount": 7}, {"item": "tifi", "amount": 9}], "research": "yatymo-factory", "maxNodes": 6, "laserRange": 15, "category": "power"}

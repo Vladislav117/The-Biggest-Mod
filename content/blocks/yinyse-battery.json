@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yinyse battery", "description": "...", "size": 3, "health": 355, "requirements": [{"item": "yinyse", "amount": 9}, {"item": "hujenium", "amount": 11}, {"item": "yeyy", "amount": 9}], "research": "yinyse-factory", "consumes": {"powerBuffered": 8622}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dogo conduit", "description": "...", "health": 45, "requirements": [{"item": "dogo", "amount": 11}, {"item": "sopage", "amount": 14}, {"item": "dowy", "amount": 10}], "liquidCapacity": 30, "liquidPressure": 0, "research": "dogo-factory", "category": "liquid"}

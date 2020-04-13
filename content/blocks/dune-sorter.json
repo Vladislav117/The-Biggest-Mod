@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dune sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "dune", "amount": 1}, {"item": "dara", "amount": 5}], "research": "dune-conveyor", "category": "distribution", "invert": false}

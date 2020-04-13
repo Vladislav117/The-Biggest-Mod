@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yonegi battery", "description": "...", "size": 3, "health": 142, "requirements": [{"item": "yonegi", "amount": 3}, {"item": "kite", "amount": 2}, {"item": "tefipi", "amount": 4}], "research": "yonegi-factory", "consumes": {"powerBuffered": 7122}, "category": "power"}

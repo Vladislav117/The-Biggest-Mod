@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small baly solar panel", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "baly", "amount": 4}, {"item": "nybaranium", "amount": 3}, {"item": "nexojo", "amount": 2}], "research": "baly-factory", "powerProduction": 1.056422773078384, "category": "power"}

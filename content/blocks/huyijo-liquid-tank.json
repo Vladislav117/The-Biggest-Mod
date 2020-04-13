@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "huyijo liquid tank", "description": "...", "health": 501, "size": 3, "requirements": [{"item": "huyijo", "amount": 11}, {"item": "teza", "amount": 17}, {"item": "lobu", "amount": 7}], "research": "huyijo-conduit", "category": "liquid", "liquidCapacity": 38265, "hasLiquids": true}

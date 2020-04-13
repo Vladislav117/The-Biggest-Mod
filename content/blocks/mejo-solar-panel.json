@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mejo solar panel", "description": "...", "size": 3, "health": 110, "requirements": [{"item": "mejo", "amount": 10}, {"item": "cahi", "amount": 7}, {"item": "roja", "amount": 3}], "research": "mejo-factory", "powerProduction": 4.902458640115886, "category": "power"}

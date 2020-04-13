@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wapo underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "wapo", "amount": 3}, {"item": "vevudinium", "amount": 3}], "research": "wapo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vybuzu bridge conveyor", "description": "", "health": 32, "range": 12, "speed": 17, "bufferCapacity": 3, "requirements": [{"item": "vybuzu", "amount": 2}, {"item": "wabaru", "amount": 4}], "research": "vybuzu-conveyor", "category": "distribution", "size": 1}

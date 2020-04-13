@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yaxuda liquid tank", "description": "...", "health": 417, "size": 3, "requirements": [{"item": "yaxuda", "amount": 15}, {"item": "yalaka", "amount": 8}, {"item": "phase-fabric", "amount": 1}], "research": "yaxuda-conduit", "category": "liquid", "liquidCapacity": 71489, "hasLiquids": true}

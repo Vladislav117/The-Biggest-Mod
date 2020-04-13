@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sisitonium battery", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "sisitonium", "amount": 14}, {"item": "diha", "amount": 9}, {"item": "zilanium", "amount": 6}], "research": "sisitonium-factory", "consumes": {"powerBuffered": 2038}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jida solar panel", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "jida", "amount": 16}, {"item": "pyrynium", "amount": 14}, {"item": "jahunium", "amount": 4}], "research": "jida-factory", "powerProduction": 1.7503775842057254, "category": "power"}

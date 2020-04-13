@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yeci power node", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "yeci", "amount": 19}, {"item": "rapenium", "amount": 6}, {"item": "janinium", "amount": 4}], "research": "yeci-factory", "maxNodes": 18, "laserRange": 13, "category": "power"}

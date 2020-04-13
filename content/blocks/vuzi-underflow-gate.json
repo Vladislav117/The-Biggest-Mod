@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vuzi underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "vuzi", "amount": 3}, {"item": "qicu", "amount": 5}], "research": "vuzi-conveyor", "category": "distribution", "invert": false}

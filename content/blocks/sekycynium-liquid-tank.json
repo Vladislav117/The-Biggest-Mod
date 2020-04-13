@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sekycynium liquid tank", "description": "...", "health": 607, "size": 3, "requirements": [{"item": "sekycynium", "amount": 11}, {"item": "fufyyu", "amount": 5}, {"item": "cujyda", "amount": 5}], "research": "sekycynium-conduit", "category": "liquid", "liquidCapacity": 117221, "hasLiquids": true}

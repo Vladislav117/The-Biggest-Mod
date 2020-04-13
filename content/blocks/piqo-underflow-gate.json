@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "piqo underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "piqo", "amount": 3}, {"item": "zili", "amount": 3}], "research": "piqo-conveyor", "category": "distribution", "invert": false}

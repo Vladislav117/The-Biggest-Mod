@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "garuza liquid router", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "garuza", "amount": 17}, {"item": "judu", "amount": 14}, {"item": "savi", "amount": 5}], "research": "garuza-conduit", "liquidCapacity": 10, "category": "liquid"}

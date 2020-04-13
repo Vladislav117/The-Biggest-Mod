@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mawanium power node", "description": "...", "size": 2, "health": 591, "requirements": [{"item": "mawanium", "amount": 12}, {"item": "kecufi", "amount": 10}, {"item": "seca", "amount": 2}], "research": "mawanium-factory", "maxNodes": 17, "laserRange": 26, "category": "power"}

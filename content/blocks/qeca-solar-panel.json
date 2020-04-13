@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qeca solar panel", "description": "...", "size": 3, "health": 230, "requirements": [{"item": "qeca", "amount": 5}, {"item": "zexinium", "amount": 8}, {"item": "tuwe", "amount": 5}], "research": "qeca-factory", "powerProduction": 1.0607266800874602, "category": "power"}

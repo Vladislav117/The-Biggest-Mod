@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cizi battery", "description": "...", "size": 3, "health": 318, "requirements": [{"item": "cizi", "amount": 17}, {"item": "silicon", "amount": 10}, {"item": "liza", "amount": 2}], "research": "cizi-factory", "consumes": {"powerBuffered": 2727}, "category": "power"}

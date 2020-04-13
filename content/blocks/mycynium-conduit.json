@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mycynium conduit", "description": "...", "health": 60, "requirements": [{"item": "mycynium", "amount": 3}, {"item": "ciwy", "amount": 14}, {"item": "toyynium", "amount": 5}], "liquidCapacity": 24, "liquidPressure": 7, "research": "mycynium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "muho power node", "description": "...", "size": 2, "health": 209, "requirements": [{"item": "muho", "amount": 11}, {"item": "hise", "amount": 2}, {"item": "gufanium", "amount": 2}], "research": "muho-factory", "maxNodes": 54, "laserRange": 14, "category": "power"}

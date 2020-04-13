@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yowa sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "yowa", "amount": 3}, {"item": "xihu", "amount": 5}], "research": "yowa-conveyor", "category": "distribution", "invert": false}

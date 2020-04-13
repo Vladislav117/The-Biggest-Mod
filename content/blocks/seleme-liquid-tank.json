@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "seleme liquid tank", "description": "...", "health": 181, "size": 3, "requirements": [{"item": "seleme", "amount": 18}, {"item": "xapu", "amount": 17}, {"item": "huro", "amount": 5}], "research": "seleme-conduit", "category": "liquid", "liquidCapacity": 107895, "hasLiquids": true}

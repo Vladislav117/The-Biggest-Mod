@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bapi overflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "bapi", "amount": 3}, {"item": "dekeko", "amount": 1}], "research": "bapi-conveyor", "category": "distribution", "invert": false}

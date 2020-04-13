@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "neqa underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "neqa", "amount": 3}, {"item": "bulanium", "amount": 1}], "research": "neqa-conveyor", "category": "distribution", "invert": false}

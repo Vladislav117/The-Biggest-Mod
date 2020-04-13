@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yusona power node", "description": "...", "size": 1, "health": 365, "requirements": [{"item": "yusona", "amount": 4}, {"item": "qaje", "amount": 9}, {"item": "raqo", "amount": 6}], "research": "yusona-factory", "maxNodes": 9, "laserRange": 11, "category": "power"}

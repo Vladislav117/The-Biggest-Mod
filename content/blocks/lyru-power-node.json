@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lyru power node", "description": "...", "size": 2, "health": 114, "requirements": [{"item": "lyru", "amount": 2}, {"item": "syxidonium", "amount": 11}, {"item": "lyru", "amount": 5}], "research": "lyru-factory", "maxNodes": 47, "laserRange": 22, "category": "power"}

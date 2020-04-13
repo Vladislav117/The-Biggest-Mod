@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tiqeti overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "tiqeti", "amount": 1}, {"item": "docinium", "amount": 5}], "research": "tiqeti-conveyor", "category": "distribution", "invert": false}

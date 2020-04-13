@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "leriki underflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "leriki", "amount": 3}, {"item": "laxu", "amount": 4}], "research": "leriki-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cozaxo inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "cozaxo", "amount": 4}, {"item": "rateju", "amount": 2}], "research": "cozaxo-conveyor", "category": "distribution", "invert": true}

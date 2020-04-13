@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bibu battery", "description": "...", "size": 3, "health": 241, "requirements": [{"item": "bibu", "amount": 8}, {"item": "lesycunium", "amount": 5}, {"item": "hymafa", "amount": 1}], "research": "bibu-factory", "consumes": {"powerBuffered": 520}, "category": "power"}

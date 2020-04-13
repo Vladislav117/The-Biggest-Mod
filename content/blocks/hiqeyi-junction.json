@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hiqeyi junction", "description": "...", "health": 40, "speed": 4, "capacity": 12, "size": 1, "requirements": [{"item": "hiqeyi", "amount": 3}, {"item": "jiyomonium", "amount": 2}], "research": "hiqeyi-conveyor", "category": "distribution"}

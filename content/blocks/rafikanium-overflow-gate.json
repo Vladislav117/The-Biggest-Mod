@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rafikanium overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "rafikanium", "amount": 5}, {"item": "xaqi", "amount": 1}], "research": "rafikanium-conveyor", "category": "distribution", "invert": false}

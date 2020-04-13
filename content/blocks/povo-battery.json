@@ -1,0 +1,1 @@
+{"type": "battery", "name": "povo battery", "description": "...", "size": 3, "health": 303, "requirements": [{"item": "povo", "amount": 5}, {"item": "juge", "amount": 3}, {"item": "mowu", "amount": 7}], "research": "povo-factory", "consumes": {"powerBuffered": 8120}, "category": "power"}

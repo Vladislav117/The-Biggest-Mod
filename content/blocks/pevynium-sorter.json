@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pevynium sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "pevynium", "amount": 2}, {"item": "hezinium", "amount": 4}], "research": "pevynium-conveyor", "category": "distribution", "invert": false}

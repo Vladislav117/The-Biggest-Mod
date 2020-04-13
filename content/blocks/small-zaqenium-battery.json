@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zaqenium battery", "description": "...", "size": 1, "health": 273, "requirements": [{"item": "zaqenium", "amount": 14}, {"item": "yifity", "amount": 14}, {"item": "zary", "amount": 5}], "research": "zaqenium-factory", "consumes": {"powerBuffered": 387}, "category": "power"}

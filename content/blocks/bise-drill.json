@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bise drill", "description": "...", "size": 3, "health": 140, "tier": 1, "drillTime": 16, "consumes": {"power": 11}, "requirements": [{"item": "bise", "amount": 11}, {"item": "yyti", "amount": 10}, {"item": "winyjo", "amount": 10}], "research": "bise-factory", "category": "production"}

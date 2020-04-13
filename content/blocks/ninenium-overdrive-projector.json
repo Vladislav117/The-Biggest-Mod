@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "ninenium overdrive projector", "description": "...", "health": 97, "consumes": {"power": 3.0, "item": "ninenium"}, "size": 2, "requirements": [{"item": "ninenium", "amount": 20}, {"item": "sebypa", "amount": 5}, {"item": "havano", "amount": 1}], "research": "ninenium-factory", "category": "effect"}

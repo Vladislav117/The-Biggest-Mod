@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hufi liquid tank", "description": "...", "health": 534, "size": 3, "requirements": [{"item": "hufi", "amount": 2}, {"item": "lyzy", "amount": 9}, {"item": "jepumi", "amount": 7}], "research": "hufi-conduit", "category": "liquid", "liquidCapacity": 54924, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tuyo battery", "description": "...", "size": 3, "health": 285, "requirements": [{"item": "tuyo", "amount": 4}, {"item": "wewaya", "amount": 18}, {"item": "qanupenium", "amount": 7}], "research": "tuyo-factory", "consumes": {"powerBuffered": 2202}, "category": "power"}

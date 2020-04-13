@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tehepy junction", "description": "...", "health": 40, "speed": 10, "capacity": 17, "size": 1, "requirements": [{"item": "tehepy", "amount": 5}, {"item": "hakenium", "amount": 1}], "research": "tehepy-conveyor", "category": "distribution"}

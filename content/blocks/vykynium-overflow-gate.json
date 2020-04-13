@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vykynium overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "vykynium", "amount": 3}, {"item": "yirere", "amount": 2}], "research": "vykynium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cuwenium inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "cuwenium", "amount": 3}, {"item": "ryte", "amount": 1}], "research": "cuwenium-conveyor", "category": "distribution", "invert": true}

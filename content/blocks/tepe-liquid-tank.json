@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tepe liquid tank", "description": "...", "health": 364, "size": 3, "requirements": [{"item": "tepe", "amount": 11}, {"item": "gaxunium", "amount": 12}, {"item": "meny", "amount": 3}], "research": "tepe-conduit", "category": "liquid", "liquidCapacity": 114239, "hasLiquids": true}

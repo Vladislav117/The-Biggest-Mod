@@ -1,0 +1,1 @@
+{"type": "battery", "name": "falynium battery", "description": "...", "size": 3, "health": 276, "requirements": [{"item": "falynium", "amount": 6}, {"item": "cedonium", "amount": 8}, {"item": "tefaco", "amount": 3}], "research": "falynium-factory", "consumes": {"powerBuffered": 854}, "category": "power"}

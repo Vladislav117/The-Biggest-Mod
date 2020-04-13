@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yejicunium conduit", "description": "...", "health": 60, "requirements": [{"item": "yejicunium", "amount": 16}, {"item": "jacala", "amount": 9}, {"item": "baly", "amount": 10}], "liquidCapacity": 49, "liquidPressure": 5, "research": "yejicunium-factory", "category": "liquid"}

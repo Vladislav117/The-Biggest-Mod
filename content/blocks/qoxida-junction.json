@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qoxida junction", "description": "...", "health": 34, "speed": 11, "capacity": 12, "size": 1, "requirements": [{"item": "qoxida", "amount": 5}, {"item": "ruzagi", "amount": 4}], "research": "qoxida-conveyor", "category": "distribution"}

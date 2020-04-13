@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pykeby liquid tank", "description": "...", "health": 214, "size": 3, "requirements": [{"item": "pykeby", "amount": 4}, {"item": "kyna", "amount": 3}, {"item": "vivunium", "amount": 5}], "research": "pykeby-conduit", "category": "liquid", "liquidCapacity": 73086, "hasLiquids": true}

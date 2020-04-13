@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qireru solar panel", "description": "...", "size": 1, "health": 307, "requirements": [{"item": "qireru", "amount": 12}, {"item": "fete", "amount": 6}, {"item": "deqohu", "amount": 9}], "research": "qireru-factory", "powerProduction": 6.4386172382977875, "category": "power"}

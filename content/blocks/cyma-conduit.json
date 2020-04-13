@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cyma conduit", "description": "...", "health": 107, "requirements": [{"item": "cyma", "amount": 13}, {"item": "zityyanium", "amount": 16}, {"item": "yamyri", "amount": 8}], "liquidCapacity": 3, "liquidPressure": 10, "research": "cyma-factory", "category": "liquid"}

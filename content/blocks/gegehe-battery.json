@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gegehe battery", "description": "...", "size": 3, "health": 39, "requirements": [{"item": "gegehe", "amount": 17}, {"item": "mejoly", "amount": 3}, {"item": "qeje", "amount": 1}], "research": "gegehe-factory", "consumes": {"powerBuffered": 1625}, "category": "power"}

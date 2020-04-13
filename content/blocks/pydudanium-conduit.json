@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pydudanium conduit", "description": "...", "health": 35, "requirements": [{"item": "pydudanium", "amount": 8}, {"item": "tobu", "amount": 12}, {"item": "kuwunium", "amount": 1}], "liquidCapacity": 4, "liquidPressure": 9, "research": "pydudanium-factory", "category": "liquid"}

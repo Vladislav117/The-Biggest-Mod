@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cici junction", "description": "...", "health": 34, "speed": 5, "capacity": 6, "size": 1, "requirements": [{"item": "cici", "amount": 4}, {"item": "cezi", "amount": 5}], "research": "cici-conveyor", "category": "distribution"}

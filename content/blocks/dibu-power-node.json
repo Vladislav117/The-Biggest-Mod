@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dibu power node", "description": "...", "size": 2, "health": 380, "requirements": [{"item": "dibu", "amount": 9}, {"item": "wiba", "amount": 11}, {"item": "wobuyu", "amount": 8}], "research": "dibu-factory", "maxNodes": 29, "laserRange": 25, "category": "power"}

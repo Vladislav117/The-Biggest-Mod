@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "saqe liquid tank", "description": "...", "health": 540, "size": 3, "requirements": [{"item": "saqe", "amount": 5}, {"item": "rymeyinium", "amount": 6}, {"item": "kyya", "amount": 4}], "research": "saqe-conduit", "category": "liquid", "liquidCapacity": 9944, "hasLiquids": true}

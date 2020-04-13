@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gylananium sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "gylananium", "amount": 4}, {"item": "zilida", "amount": 4}], "research": "gylananium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pipohy battery", "description": "...", "size": 1, "health": 261, "requirements": [{"item": "pipohy", "amount": 6}, {"item": "wicy", "amount": 10}, {"item": "towenium", "amount": 6}], "research": "pipohy-factory", "consumes": {"powerBuffered": 2368}, "category": "power"}

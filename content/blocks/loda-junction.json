@@ -1,0 +1,1 @@
+{"type": "junction", "name": "loda junction", "description": "...", "health": 48, "speed": 11, "capacity": 17, "size": 1, "requirements": [{"item": "loda", "amount": 2}, {"item": "rixolu", "amount": 3}], "research": "loda-conveyor", "category": "distribution"}

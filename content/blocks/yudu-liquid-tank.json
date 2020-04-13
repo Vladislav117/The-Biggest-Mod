@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yudu liquid tank", "description": "...", "health": 309, "size": 3, "requirements": [{"item": "yudu", "amount": 9}, {"item": "juwynium", "amount": 1}, {"item": "necuwy", "amount": 2}], "research": "yudu-conduit", "category": "liquid", "liquidCapacity": 73046, "hasLiquids": true}

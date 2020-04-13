@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zagaza solar panel", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "zagaza", "amount": 9}, {"item": "fyhi", "amount": 4}, {"item": "ruxyye", "amount": 2}], "research": "zagaza-factory", "powerProduction": 11.590047635289732, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tomanium conduit", "description": "...", "health": 146, "requirements": [{"item": "tomanium", "amount": 20}, {"item": "lobu", "amount": 1}, {"item": "jakate", "amount": 8}], "liquidCapacity": 49, "liquidPressure": 2, "research": "tomanium-factory", "category": "liquid"}

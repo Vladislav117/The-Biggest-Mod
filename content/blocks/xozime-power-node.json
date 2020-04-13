@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xozime power node", "description": "...", "size": 2, "health": 575, "requirements": [{"item": "xozime", "amount": 15}, {"item": "maku", "amount": 10}, {"item": "wace", "amount": 5}], "research": "xozime-factory", "maxNodes": 33, "laserRange": 15, "category": "power"}

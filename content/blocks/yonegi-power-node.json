@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yonegi power node", "description": "...", "size": 2, "health": 760, "requirements": [{"item": "yonegi", "amount": 12}, {"item": "bapi", "amount": 18}, {"item": "wajese", "amount": 9}], "research": "yonegi-factory", "maxNodes": 12, "laserRange": 23, "category": "power"}

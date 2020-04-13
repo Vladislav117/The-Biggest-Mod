@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mepysynium bridge conveyor", "description": "", "health": 17, "range": 9, "speed": 20, "bufferCapacity": 7, "requirements": [{"item": "mepysynium", "amount": 4}, {"item": "daxyse", "amount": 5}], "research": "mepysynium-conveyor", "category": "distribution", "size": 1}

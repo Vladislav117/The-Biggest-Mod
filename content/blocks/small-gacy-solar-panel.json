@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gacy solar panel", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "gacy", "amount": 18}, {"item": "suminium", "amount": 14}, {"item": "nytina", "amount": 5}], "research": "gacy-factory", "powerProduction": 11.21320550283585, "category": "power"}

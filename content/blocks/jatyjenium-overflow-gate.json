@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jatyjenium overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "jatyjenium", "amount": 5}, {"item": "xoquge", "amount": 5}], "research": "jatyjenium-conveyor", "category": "distribution", "invert": false}

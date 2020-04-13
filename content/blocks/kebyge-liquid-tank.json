@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kebyge liquid tank", "description": "...", "health": 228, "size": 3, "requirements": [{"item": "kebyge", "amount": 10}, {"item": "wutize", "amount": 4}, {"item": "dimysynium", "amount": 2}], "research": "kebyge-conduit", "category": "liquid", "liquidCapacity": 106332, "hasLiquids": true}

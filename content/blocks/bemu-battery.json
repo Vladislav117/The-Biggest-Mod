@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bemu battery", "description": "...", "size": 3, "health": 221, "requirements": [{"item": "bemu", "amount": 20}, {"item": "fehi", "amount": 18}, {"item": "xyyyzy", "amount": 1}], "research": "bemu-factory", "consumes": {"powerBuffered": 5921}, "category": "power"}

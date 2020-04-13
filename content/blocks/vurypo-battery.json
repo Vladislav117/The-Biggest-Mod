@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vurypo battery", "description": "...", "size": 3, "health": 345, "requirements": [{"item": "vurypo", "amount": 19}, {"item": "baqo", "amount": 14}, {"item": "huwydy", "amount": 3}], "research": "vurypo-factory", "consumes": {"powerBuffered": 6279}, "category": "power"}

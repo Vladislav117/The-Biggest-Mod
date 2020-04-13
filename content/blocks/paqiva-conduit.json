@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "paqiva conduit", "description": "...", "health": 99, "requirements": [{"item": "paqiva", "amount": 15}, {"item": "tere", "amount": 9}, {"item": "fyte", "amount": 9}], "liquidCapacity": 13, "liquidPressure": 6, "research": "paqiva-factory", "category": "liquid"}

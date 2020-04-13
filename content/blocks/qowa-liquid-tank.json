@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qowa liquid tank", "description": "...", "health": 138, "size": 3, "requirements": [{"item": "qowa", "amount": 17}, {"item": "yuduse", "amount": 9}, {"item": "liyu", "amount": 6}], "research": "qowa-conduit", "category": "liquid", "liquidCapacity": 19148, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zonufu solar panel", "description": "...", "size": 1, "health": 335, "requirements": [{"item": "zonufu", "amount": 18}, {"item": "rybiho", "amount": 5}, {"item": "qeconium", "amount": 7}], "research": "zonufu-factory", "powerProduction": 1.011817964314282, "category": "power"}

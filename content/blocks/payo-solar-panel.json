@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "payo solar panel", "description": "...", "size": 3, "health": 291, "requirements": [{"item": "payo", "amount": 2}, {"item": "mavi", "amount": 15}, {"item": "poxy", "amount": 10}], "research": "payo-factory", "powerProduction": 1.1099608235941105, "category": "power"}

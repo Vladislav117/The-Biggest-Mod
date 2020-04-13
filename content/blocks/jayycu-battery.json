@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jayycu battery", "description": "...", "size": 3, "health": 141, "requirements": [{"item": "jayycu", "amount": 20}, {"item": "sivaqi", "amount": 9}, {"item": "wasu", "amount": 4}], "research": "jayycu-factory", "consumes": {"powerBuffered": 6277}, "category": "power"}

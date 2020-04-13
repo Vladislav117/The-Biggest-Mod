@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wecoci bridge conveyor", "description": "", "health": 45, "range": 11, "speed": 13, "bufferCapacity": 23, "requirements": [{"item": "wecoci", "amount": 2}, {"item": "nuso", "amount": 2}], "research": "wecoci-conveyor", "category": "distribution", "size": 1}

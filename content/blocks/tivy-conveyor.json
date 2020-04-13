@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "tivy conveyor", "description": "...", "health": 160, "requirements": [{"item": "tivy", "amount": 8}, {"item": "judu", "amount": 7}], "speed": 0.46767052539126525, "research": "tivy-factory", "category": "distribution"}

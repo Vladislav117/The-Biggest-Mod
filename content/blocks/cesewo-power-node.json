@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cesewo power node", "description": "...", "size": 2, "health": 586, "requirements": [{"item": "cesewo", "amount": 9}, {"item": "nigucy", "amount": 13}, {"item": "miry", "amount": 4}], "research": "cesewo-factory", "maxNodes": 28, "laserRange": 21, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zaya overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "zaya", "amount": 4}, {"item": "moyenium", "amount": 4}], "research": "zaya-conveyor", "category": "distribution", "invert": false}

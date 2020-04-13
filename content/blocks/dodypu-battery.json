@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dodypu battery", "description": "...", "size": 3, "health": 117, "requirements": [{"item": "dodypu", "amount": 12}, {"item": "fuhixunium", "amount": 1}, {"item": "wisy", "amount": 5}], "research": "dodypu-factory", "consumes": {"powerBuffered": 3124}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "towynium conduit", "description": "...", "health": 86, "requirements": [{"item": "towynium", "amount": 7}, {"item": "dojynium", "amount": 19}, {"item": "qeconium", "amount": 3}], "liquidCapacity": 32, "liquidPressure": 3, "research": "towynium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zydinium drill", "description": "...", "size": 4, "health": 381, "tier": 4, "drillTime": 2, "consumes": {"power": 13}, "requirements": [{"item": "zydinium", "amount": 15}, {"item": "wuqosenium", "amount": 10}, {"item": "xadunium", "amount": 6}], "research": "zydinium-factory", "category": "production"}

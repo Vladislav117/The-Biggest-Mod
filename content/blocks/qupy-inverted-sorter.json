@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qupy inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "qupy", "amount": 2}, {"item": "gone", "amount": 2}], "research": "qupy-conveyor", "category": "distribution", "invert": true}

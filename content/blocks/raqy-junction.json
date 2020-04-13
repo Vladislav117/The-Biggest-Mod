@@ -1,0 +1,1 @@
+{"type": "junction", "name": "raqy junction", "description": "...", "health": 20, "speed": 2, "capacity": 14, "size": 1, "requirements": [{"item": "raqy", "amount": 2}, {"item": "xujo", "amount": 1}], "research": "raqy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lopiso sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "lopiso", "amount": 5}, {"item": "surenium", "amount": 4}], "research": "lopiso-conveyor", "category": "distribution", "invert": false}

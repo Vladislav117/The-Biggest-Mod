@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fukapinium power node", "description": "...", "size": 1, "health": 84, "requirements": [{"item": "fukapinium", "amount": 13}, {"item": "yexowy", "amount": 7}, {"item": "doya", "amount": 1}], "research": "fukapinium-factory", "maxNodes": 11, "laserRange": 13, "category": "power"}

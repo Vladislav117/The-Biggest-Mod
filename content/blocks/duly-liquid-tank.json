@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "duly liquid tank", "description": "...", "health": 173, "size": 3, "requirements": [{"item": "duly", "amount": 5}, {"item": "myfo", "amount": 20}, {"item": "joky", "amount": 9}], "research": "duly-conduit", "category": "liquid", "liquidCapacity": 73318, "hasLiquids": true}

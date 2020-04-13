@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sivaqi battery", "description": "...", "size": 1, "health": 332, "requirements": [{"item": "sivaqi", "amount": 12}, {"item": "kojavi", "amount": 14}, {"item": "yytiye", "amount": 4}], "research": "sivaqi-factory", "consumes": {"powerBuffered": 1883}, "category": "power"}

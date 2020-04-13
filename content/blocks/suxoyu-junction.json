@@ -1,0 +1,1 @@
+{"type": "junction", "name": "suxoyu junction", "description": "...", "health": 43, "speed": 12, "capacity": 15, "size": 1, "requirements": [{"item": "suxoyu", "amount": 4}, {"item": "hiki", "amount": 1}], "research": "suxoyu-conveyor", "category": "distribution"}

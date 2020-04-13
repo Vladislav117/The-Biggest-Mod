@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lawa battery", "description": "...", "size": 3, "health": 310, "requirements": [{"item": "lawa", "amount": 3}, {"item": "jayaye", "amount": 4}, {"item": "rizope", "amount": 8}], "research": "lawa-factory", "consumes": {"powerBuffered": 3365}, "category": "power"}

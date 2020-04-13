@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cizyqe junction", "description": "...", "health": 7, "speed": 15, "capacity": 11, "size": 1, "requirements": [{"item": "cizyqe", "amount": 3}, {"item": "lemoqa", "amount": 2}], "research": "cizyqe-conveyor", "category": "distribution"}

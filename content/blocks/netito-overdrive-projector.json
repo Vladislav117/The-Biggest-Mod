@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "netito overdrive projector", "description": "...", "health": 115, "consumes": {"power": 3.0, "item": "netito"}, "size": 2, "requirements": [{"item": "netito", "amount": 20}, {"item": "nataki", "amount": 20}, {"item": "dyziqanium", "amount": 5}], "research": "netito-factory", "category": "effect"}

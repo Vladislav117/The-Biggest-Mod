@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cupi junction", "description": "...", "health": 36, "speed": 13, "capacity": 5, "size": 1, "requirements": [{"item": "cupi", "amount": 1}, {"item": "kyfahu", "amount": 4}], "research": "cupi-conveyor", "category": "distribution"}

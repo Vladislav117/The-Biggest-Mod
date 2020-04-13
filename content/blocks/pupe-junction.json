@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pupe junction", "description": "...", "health": 29, "speed": 16, "capacity": 10, "size": 1, "requirements": [{"item": "pupe", "amount": 4}, {"item": "reximo", "amount": 3}], "research": "pupe-conveyor", "category": "distribution"}

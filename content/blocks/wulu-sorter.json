@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wulu sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "wulu", "amount": 1}, {"item": "jaga", "amount": 1}], "research": "wulu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vyre bridge conveyor", "description": "", "health": 36, "range": 8, "speed": 14, "bufferCapacity": 2, "requirements": [{"item": "vyre", "amount": 2}, {"item": "coka", "amount": 1}], "research": "vyre-conveyor", "category": "distribution", "size": 1}

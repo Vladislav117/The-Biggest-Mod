@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pukusu battery", "description": "...", "size": 3, "health": 358, "requirements": [{"item": "pukusu", "amount": 15}, {"item": "pihybo", "amount": 18}, {"item": "cuzyko", "amount": 7}], "research": "pukusu-factory", "consumes": {"powerBuffered": 7723}, "category": "power"}

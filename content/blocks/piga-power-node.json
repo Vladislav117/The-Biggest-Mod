@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "piga power node", "description": "...", "size": 2, "health": 171, "requirements": [{"item": "piga", "amount": 6}, {"item": "cinunium", "amount": 17}, {"item": "lamuya", "amount": 8}], "research": "piga-factory", "maxNodes": 36, "laserRange": 20, "category": "power"}

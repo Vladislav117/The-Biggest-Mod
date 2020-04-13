@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "daxyse overflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "daxyse", "amount": 1}, {"item": "tyjexanium", "amount": 4}], "research": "daxyse-conveyor", "category": "distribution", "invert": false}

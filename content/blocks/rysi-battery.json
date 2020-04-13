@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rysi battery", "description": "...", "size": 3, "health": 94, "requirements": [{"item": "rysi", "amount": 13}, {"item": "pubado", "amount": 5}, {"item": "dejoqonium", "amount": 2}], "research": "rysi-factory", "consumes": {"powerBuffered": 1357}, "category": "power"}

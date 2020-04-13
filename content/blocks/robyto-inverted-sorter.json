@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "robyto inverted sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "robyto", "amount": 3}, {"item": "dyco", "amount": 3}], "research": "robyto-conveyor", "category": "distribution", "invert": true}

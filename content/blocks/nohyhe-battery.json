@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nohyhe battery", "description": "...", "size": 3, "health": 103, "requirements": [{"item": "nohyhe", "amount": 6}, {"item": "kivomo", "amount": 5}, {"item": "janinium", "amount": 10}], "research": "nohyhe-factory", "consumes": {"powerBuffered": 4437}, "category": "power"}

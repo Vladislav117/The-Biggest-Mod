@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "megida solar panel", "description": "...", "size": 3, "health": 153, "requirements": [{"item": "megida", "amount": 20}, {"item": "cupo", "amount": 4}, {"item": "judu", "amount": 8}], "research": "megida-factory", "powerProduction": 0.21436431989027227, "category": "power"}

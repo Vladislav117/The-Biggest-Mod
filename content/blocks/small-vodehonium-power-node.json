@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vodehonium power node", "description": "...", "size": 1, "health": 104, "requirements": [{"item": "vodehonium", "amount": 17}, {"item": "lifuvinium", "amount": 19}, {"item": "sozi", "amount": 5}], "research": "vodehonium-factory", "maxNodes": 26, "laserRange": 20, "category": "power"}

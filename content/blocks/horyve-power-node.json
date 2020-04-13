@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "horyve power node", "description": "...", "size": 2, "health": 637, "requirements": [{"item": "horyve", "amount": 16}, {"item": "zija", "amount": 7}, {"item": "zuwydy", "amount": 2}], "research": "horyve-factory", "maxNodes": 20, "laserRange": 16, "category": "power"}

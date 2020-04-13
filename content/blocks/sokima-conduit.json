@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sokima conduit", "description": "...", "health": 147, "requirements": [{"item": "sokima", "amount": 18}, {"item": "kelurynium", "amount": 3}, {"item": "kuwo", "amount": 7}], "liquidCapacity": 3, "liquidPressure": 6, "research": "sokima-factory", "category": "liquid"}

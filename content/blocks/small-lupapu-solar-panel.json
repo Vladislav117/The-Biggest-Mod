@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lupapu solar panel", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "lupapu", "amount": 19}, {"item": "zaba", "amount": 3}, {"item": "wahape", "amount": 2}], "research": "lupapu-factory", "powerProduction": 4.987609473566089, "category": "power"}

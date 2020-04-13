@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wivo liquid router", "description": "...", "size": 1, "health": 69, "requirements": [{"item": "wivo", "amount": 6}, {"item": "tifi", "amount": 10}, {"item": "zodo", "amount": 2}], "research": "wivo-conduit", "liquidCapacity": 10, "category": "liquid"}

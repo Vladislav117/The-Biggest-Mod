@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zexa liquid tank", "description": "...", "health": 633, "size": 3, "requirements": [{"item": "zexa", "amount": 17}, {"item": "zilida", "amount": 15}, {"item": "wigyre", "amount": 1}], "research": "zexa-conduit", "category": "liquid", "liquidCapacity": 75447, "hasLiquids": true}

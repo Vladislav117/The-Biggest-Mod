@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small redo power node", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "redo", "amount": 14}, {"item": "vohiyynium", "amount": 5}, {"item": "muhura", "amount": 4}], "research": "redo-factory", "maxNodes": 4, "laserRange": 4, "category": "power"}

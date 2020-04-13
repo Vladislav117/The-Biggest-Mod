@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vitifi conduit", "description": "...", "health": 34, "requirements": [{"item": "vitifi", "amount": 11}, {"item": "bocu", "amount": 5}, {"item": "lyzy", "amount": 2}], "liquidCapacity": 30, "liquidPressure": 4, "research": "vitifi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zoda liquid tank", "description": "...", "health": 153, "size": 3, "requirements": [{"item": "zoda", "amount": 20}, {"item": "tybegi", "amount": 17}, {"item": "kipyzonium", "amount": 2}], "research": "zoda-conduit", "category": "liquid", "liquidCapacity": 109994, "hasLiquids": true}

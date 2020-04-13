@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gozagy solar panel", "description": "...", "size": 1, "health": 265, "requirements": [{"item": "gozagy", "amount": 5}, {"item": "nyyonium", "amount": 19}, {"item": "kopyto", "amount": 2}], "research": "gozagy-factory", "powerProduction": 0.16732523430493876, "category": "power"}

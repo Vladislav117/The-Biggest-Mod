@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fopuru overflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "fopuru", "amount": 3}, {"item": "xoxu", "amount": 3}], "research": "fopuru-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "veny drill", "description": "...", "size": 3, "health": 435, "tier": 4, "drillTime": 20, "consumes": {"power": 8}, "requirements": [{"item": "veny", "amount": 18}, {"item": "lovy", "amount": 16}, {"item": "nejesu", "amount": 7}], "research": "veny-factory", "category": "production"}

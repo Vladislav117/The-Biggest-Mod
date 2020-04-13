@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "noveba conduit", "description": "...", "health": 97, "requirements": [{"item": "noveba", "amount": 1}, {"item": "haniva", "amount": 11}, {"item": "duto", "amount": 1}], "liquidCapacity": 1, "liquidPressure": 3, "research": "noveba-factory", "category": "liquid"}

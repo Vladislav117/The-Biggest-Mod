@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jazozu conduit", "description": "...", "health": 147, "requirements": [{"item": "jazozu", "amount": 1}, {"item": "rahy", "amount": 8}, {"item": "monobu", "amount": 3}], "liquidCapacity": 6, "liquidPressure": 5, "research": "jazozu-factory", "category": "liquid"}

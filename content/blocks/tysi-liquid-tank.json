@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tysi liquid tank", "description": "...", "health": 124, "size": 3, "requirements": [{"item": "tysi", "amount": 2}, {"item": "duginium", "amount": 17}, {"item": "yuly", "amount": 1}], "research": "tysi-conduit", "category": "liquid", "liquidCapacity": 33413, "hasLiquids": true}

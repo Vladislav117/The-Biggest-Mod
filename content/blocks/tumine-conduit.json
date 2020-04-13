@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tumine conduit", "description": "...", "health": 100, "requirements": [{"item": "tumine", "amount": 4}, {"item": "pynebi", "amount": 1}, {"item": "dexe", "amount": 6}], "liquidCapacity": 49, "liquidPressure": 0, "research": "tumine-factory", "category": "liquid"}

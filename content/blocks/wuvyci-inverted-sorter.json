@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wuvyci inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "wuvyci", "amount": 4}, {"item": "gizomanium", "amount": 5}], "research": "wuvyci-conveyor", "category": "distribution", "invert": true}

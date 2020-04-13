@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qobopinium liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "qobopinium", "amount": 6}, {"item": "patyco", "amount": 12}, {"item": "fino", "amount": 8}], "research": "qobopinium-conduit", "liquidCapacity": 10, "category": "liquid"}

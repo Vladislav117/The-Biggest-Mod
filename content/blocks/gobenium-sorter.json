@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gobenium sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "gobenium", "amount": 2}, {"item": "julynium", "amount": 2}], "research": "gobenium-conveyor", "category": "distribution", "invert": false}

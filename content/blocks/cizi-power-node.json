@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cizi power node", "description": "...", "size": 2, "health": 615, "requirements": [{"item": "cizi", "amount": 18}, {"item": "gyfeca", "amount": 14}, {"item": "gomuko", "amount": 2}], "research": "cizi-factory", "maxNodes": 10, "laserRange": 6, "category": "power"}

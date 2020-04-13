@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cefi underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "cefi", "amount": 4}, {"item": "joku", "amount": 5}], "research": "cefi-conveyor", "category": "distribution", "invert": false}

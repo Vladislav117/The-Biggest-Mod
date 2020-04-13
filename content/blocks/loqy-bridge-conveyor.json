@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "loqy bridge conveyor", "description": "", "health": 27, "range": 4, "speed": 10, "bufferCapacity": 4, "requirements": [{"item": "loqy", "amount": 1}, {"item": "fuposy", "amount": 4}], "research": "loqy-conveyor", "category": "distribution", "size": 1}

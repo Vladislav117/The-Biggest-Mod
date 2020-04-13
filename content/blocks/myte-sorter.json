@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "myte sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "myte", "amount": 5}, {"item": "hihunium", "amount": 2}], "research": "myte-conveyor", "category": "distribution", "invert": false}

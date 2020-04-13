@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "butyce liquid router", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "butyce", "amount": 14}, {"item": "byre", "amount": 17}, {"item": "merule", "amount": 6}], "research": "butyce-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pixuhynium battery", "description": "...", "size": 1, "health": 324, "requirements": [{"item": "pixuhynium", "amount": 18}, {"item": "sumu", "amount": 18}, {"item": "maveju", "amount": 2}], "research": "pixuhynium-factory", "consumes": {"powerBuffered": 2370}, "category": "power"}

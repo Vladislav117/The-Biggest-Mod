@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "getolu conduit", "description": "...", "health": 115, "requirements": [{"item": "getolu", "amount": 14}, {"item": "meve", "amount": 16}, {"item": "cemo", "amount": 3}], "liquidCapacity": 45, "liquidPressure": 10, "research": "getolu-factory", "category": "liquid"}

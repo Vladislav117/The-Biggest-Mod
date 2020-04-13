@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fuwo power node", "description": "...", "size": 2, "health": 471, "requirements": [{"item": "fuwo", "amount": 20}, {"item": "tabi", "amount": 5}, {"item": "lesyha", "amount": 7}], "research": "fuwo-factory", "maxNodes": 23, "laserRange": 15, "category": "power"}

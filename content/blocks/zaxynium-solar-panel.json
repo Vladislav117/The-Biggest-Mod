@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zaxynium solar panel", "description": "...", "size": 3, "health": 30, "requirements": [{"item": "zaxynium", "amount": 19}, {"item": "fykemi", "amount": 4}, {"item": "mavitu", "amount": 5}], "research": "zaxynium-factory", "powerProduction": 6.710890885454889, "category": "power"}

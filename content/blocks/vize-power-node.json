@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vize power node", "description": "...", "size": 2, "health": 288, "requirements": [{"item": "vize", "amount": 14}, {"item": "zilida", "amount": 5}, {"item": "boryvi", "amount": 7}], "research": "vize-factory", "maxNodes": 34, "laserRange": 26, "category": "power"}

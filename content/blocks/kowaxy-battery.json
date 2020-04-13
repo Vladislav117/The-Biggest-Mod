@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kowaxy battery", "description": "...", "size": 3, "health": 171, "requirements": [{"item": "kowaxy", "amount": 6}, {"item": "cyyy", "amount": 13}, {"item": "herege", "amount": 7}], "research": "kowaxy-factory", "consumes": {"powerBuffered": 6124}, "category": "power"}

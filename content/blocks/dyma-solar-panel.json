@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dyma solar panel", "description": "...", "size": 3, "health": 105, "requirements": [{"item": "dyma", "amount": 1}, {"item": "byja", "amount": 8}, {"item": "wiyeda", "amount": 7}], "research": "dyma-factory", "powerProduction": 1.3982048284543747, "category": "power"}

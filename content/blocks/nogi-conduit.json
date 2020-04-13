@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nogi conduit", "description": "...", "health": 81, "requirements": [{"item": "nogi", "amount": 18}, {"item": "veco", "amount": 17}, {"item": "hivesy", "amount": 1}], "liquidCapacity": 20, "liquidPressure": 7, "research": "nogi-factory", "category": "liquid"}

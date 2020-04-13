@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ridivinium overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "ridivinium", "amount": 1}, {"item": "fogu", "amount": 2}], "research": "ridivinium-conveyor", "category": "distribution", "invert": false}

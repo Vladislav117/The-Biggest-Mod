@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gusavunium liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "gusavunium", "amount": 17}, {"item": "rahonium", "amount": 9}, {"item": "fyhuxonium", "amount": 5}], "research": "gusavunium-conduit", "liquidCapacity": 10, "category": "liquid"}

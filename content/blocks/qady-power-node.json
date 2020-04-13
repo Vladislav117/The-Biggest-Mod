@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qady power node", "description": "...", "size": 2, "health": 283, "requirements": [{"item": "qady", "amount": 18}, {"item": "gonu", "amount": 9}, {"item": "qudy", "amount": 7}], "research": "qady-factory", "maxNodes": 53, "laserRange": 7, "category": "power"}

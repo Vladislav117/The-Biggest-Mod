@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tigu bridge conveyor", "description": "", "health": 9, "range": 1, "speed": 20, "bufferCapacity": 23, "requirements": [{"item": "tigu", "amount": 4}, {"item": "qyfyqunium", "amount": 2}], "research": "tigu-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zyluci battery", "description": "...", "size": 1, "health": 168, "requirements": [{"item": "zyluci", "amount": 19}, {"item": "kufi", "amount": 18}, {"item": "fofoco", "amount": 8}], "research": "zyluci-factory", "consumes": {"powerBuffered": 2156}, "category": "power"}

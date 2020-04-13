@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "winynium sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "winynium", "amount": 5}, {"item": "lilyro", "amount": 3}], "research": "winynium-conveyor", "category": "distribution", "invert": false}

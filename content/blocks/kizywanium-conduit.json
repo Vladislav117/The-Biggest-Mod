@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kizywanium conduit", "description": "...", "health": 120, "requirements": [{"item": "kizywanium", "amount": 10}, {"item": "fezadunium", "amount": 11}, {"item": "julynium", "amount": 10}], "liquidCapacity": 22, "liquidPressure": 1, "research": "kizywanium-factory", "category": "liquid"}

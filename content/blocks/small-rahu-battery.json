@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rahu battery", "description": "...", "size": 1, "health": 157, "requirements": [{"item": "rahu", "amount": 18}, {"item": "vusi", "amount": 10}, {"item": "dywusunium", "amount": 6}], "research": "rahu-factory", "consumes": {"powerBuffered": 2240}, "category": "power"}

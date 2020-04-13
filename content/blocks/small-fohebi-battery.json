@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fohebi battery", "description": "...", "size": 1, "health": 266, "requirements": [{"item": "fohebi", "amount": 19}, {"item": "gyporu", "amount": 14}, {"item": "kecufi", "amount": 8}], "research": "fohebi-factory", "consumes": {"powerBuffered": 285}, "category": "power"}

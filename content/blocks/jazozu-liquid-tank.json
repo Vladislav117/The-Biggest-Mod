@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jazozu liquid tank", "description": "...", "health": 159, "size": 3, "requirements": [{"item": "jazozu", "amount": 10}, {"item": "qoxida", "amount": 3}, {"item": "wohy", "amount": 6}], "research": "jazozu-conduit", "category": "liquid", "liquidCapacity": 1430, "hasLiquids": true}

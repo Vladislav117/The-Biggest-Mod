@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qasysi liquid tank", "description": "...", "health": 594, "size": 3, "requirements": [{"item": "qasysi", "amount": 5}, {"item": "xafi", "amount": 14}, {"item": "wace", "amount": 1}], "research": "qasysi-conduit", "category": "liquid", "liquidCapacity": 43437, "hasLiquids": true}

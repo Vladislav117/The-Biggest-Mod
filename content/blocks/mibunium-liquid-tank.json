@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mibunium liquid tank", "description": "...", "health": 620, "size": 3, "requirements": [{"item": "mibunium", "amount": 19}, {"item": "jayaye", "amount": 10}, {"item": "cysobe", "amount": 1}], "research": "mibunium-conduit", "category": "liquid", "liquidCapacity": 48788, "hasLiquids": true}

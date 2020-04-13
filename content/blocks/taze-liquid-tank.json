@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "taze liquid tank", "description": "...", "health": 182, "size": 3, "requirements": [{"item": "taze", "amount": 17}, {"item": "nifego", "amount": 19}, {"item": "rybiho", "amount": 7}], "research": "taze-conduit", "category": "liquid", "liquidCapacity": 106887, "hasLiquids": true}

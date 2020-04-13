@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yocenium overflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "yocenium", "amount": 1}, {"item": "hysobe", "amount": 4}], "research": "yocenium-conveyor", "category": "distribution", "invert": false}

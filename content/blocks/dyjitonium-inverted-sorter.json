@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dyjitonium inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "dyjitonium", "amount": 5}, {"item": "hiwinium", "amount": 1}], "research": "dyjitonium-conveyor", "category": "distribution", "invert": true}

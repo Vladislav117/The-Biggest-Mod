@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qukeso power node", "description": "...", "size": 2, "health": 387, "requirements": [{"item": "qukeso", "amount": 12}, {"item": "mygo", "amount": 17}, {"item": "xexumi", "amount": 5}], "research": "qukeso-factory", "maxNodes": 21, "laserRange": 28, "category": "power"}

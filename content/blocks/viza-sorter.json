@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "viza sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "viza", "amount": 1}, {"item": "pyge", "amount": 4}], "research": "viza-conveyor", "category": "distribution", "invert": false}

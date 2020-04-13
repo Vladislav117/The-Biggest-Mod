@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tiwiyu liquid tank", "description": "...", "health": 413, "size": 3, "requirements": [{"item": "tiwiyu", "amount": 6}, {"item": "qubyzi", "amount": 3}, {"item": "yytiye", "amount": 9}], "research": "tiwiyu-conduit", "category": "liquid", "liquidCapacity": 7827, "hasLiquids": true}

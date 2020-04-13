@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fopuru battery", "description": "...", "size": 1, "health": 306, "requirements": [{"item": "fopuru", "amount": 19}, {"item": "xuzukinium", "amount": 3}, {"item": "bobu", "amount": 1}], "research": "fopuru-factory", "consumes": {"powerBuffered": 2497}, "category": "power"}

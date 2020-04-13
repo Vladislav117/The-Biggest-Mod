@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hedege overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "hedege", "amount": 2}, {"item": "qoseji", "amount": 2}], "research": "hedege-conveyor", "category": "distribution", "invert": false}

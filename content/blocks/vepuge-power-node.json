@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vepuge power node", "description": "...", "size": 2, "health": 120, "requirements": [{"item": "vepuge", "amount": 18}, {"item": "qepyvonium", "amount": 8}, {"item": "zyzofo", "amount": 9}], "research": "vepuge-factory", "maxNodes": 21, "laserRange": 9, "category": "power"}

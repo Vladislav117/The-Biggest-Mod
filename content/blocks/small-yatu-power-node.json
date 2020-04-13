@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yatu power node", "description": "...", "size": 1, "health": 25, "requirements": [{"item": "yatu", "amount": 2}, {"item": "huxonium", "amount": 9}, {"item": "ciyo", "amount": 7}], "research": "yatu-factory", "maxNodes": 25, "laserRange": 14, "category": "power"}

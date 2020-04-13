@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cylequ inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "cylequ", "amount": 4}, {"item": "buru", "amount": 1}], "research": "cylequ-conveyor", "category": "distribution", "invert": true}

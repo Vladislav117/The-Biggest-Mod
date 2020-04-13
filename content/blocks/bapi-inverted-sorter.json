@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bapi inverted sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "bapi", "amount": 1}, {"item": "naronium", "amount": 5}], "research": "bapi-conveyor", "category": "distribution", "invert": true}

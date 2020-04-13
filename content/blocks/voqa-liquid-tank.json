@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "voqa liquid tank", "description": "...", "health": 501, "size": 3, "requirements": [{"item": "voqa", "amount": 8}, {"item": "yuqu", "amount": 7}, {"item": "nusenium", "amount": 1}], "research": "voqa-conduit", "category": "liquid", "liquidCapacity": 41763, "hasLiquids": true}

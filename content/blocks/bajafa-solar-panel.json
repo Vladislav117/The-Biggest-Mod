@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bajafa solar panel", "description": "...", "size": 3, "health": 202, "requirements": [{"item": "bajafa", "amount": 8}, {"item": "nafeya", "amount": 2}, {"item": "ravyku", "amount": 5}], "research": "bajafa-factory", "powerProduction": 2.735018467422272, "category": "power"}

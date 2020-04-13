@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fare solar panel", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "fare", "amount": 5}, {"item": "ninyfe", "amount": 9}, {"item": "gyri", "amount": 10}], "research": "fare-factory", "powerProduction": 0.2185984752440571, "category": "power"}

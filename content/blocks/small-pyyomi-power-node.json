@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pyyomi power node", "description": "...", "size": 1, "health": 176, "requirements": [{"item": "pyyomi", "amount": 11}, {"item": "hudunium", "amount": 19}, {"item": "myjeke", "amount": 8}], "research": "pyyomi-factory", "maxNodes": 6, "laserRange": 13, "category": "power"}

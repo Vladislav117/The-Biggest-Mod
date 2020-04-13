@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zyma overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "zyma", "amount": 3}, {"item": "kowonium", "amount": 2}], "research": "zyma-conveyor", "category": "distribution", "invert": false}

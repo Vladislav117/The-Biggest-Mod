@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qano liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "qano", "amount": 1}, {"item": "siqefo", "amount": 20}, {"item": "wiba", "amount": 10}], "research": "qano-conduit", "liquidCapacity": 10, "category": "liquid"}

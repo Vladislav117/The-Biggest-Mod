@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "netonium drill", "description": "...", "size": 2, "health": 177, "tier": 3, "drillTime": 16, "consumes": {"power": 9}, "requirements": [{"item": "netonium", "amount": 3}, {"item": "tujy", "amount": 6}, {"item": "higucu", "amount": 1}], "research": "netonium-factory", "category": "production"}

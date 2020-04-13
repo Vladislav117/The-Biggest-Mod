@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "byzure drill", "description": "...", "size": 2, "health": 282, "tier": 3, "drillTime": 14, "consumes": {"power": 10}, "requirements": [{"item": "byzure", "amount": 9}, {"item": "fizy", "amount": 16}, {"item": "fygunium", "amount": 6}], "research": "byzure-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lyru solar panel", "description": "...", "size": 3, "health": 184, "requirements": [{"item": "lyru", "amount": 19}, {"item": "lyru", "amount": 15}, {"item": "surge-alloy", "amount": 9}], "research": "lyru-factory", "powerProduction": 1.1481737752542058, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zeyeqi bridge conveyor", "description": "", "health": 38, "range": 14, "speed": 15, "bufferCapacity": 20, "requirements": [{"item": "zeyeqi", "amount": 1}, {"item": "dojove", "amount": 2}], "research": "zeyeqi-conveyor", "category": "distribution", "size": 1}

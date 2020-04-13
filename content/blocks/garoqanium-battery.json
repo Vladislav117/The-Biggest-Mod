@@ -1,0 +1,1 @@
+{"type": "battery", "name": "garoqanium battery", "description": "...", "size": 3, "health": 106, "requirements": [{"item": "garoqanium", "amount": 18}, {"item": "puwasy", "amount": 6}, {"item": "julynium", "amount": 1}], "research": "garoqanium-factory", "consumes": {"powerBuffered": 4371}, "category": "power"}

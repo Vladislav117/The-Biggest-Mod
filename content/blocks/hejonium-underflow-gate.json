@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hejonium underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "hejonium", "amount": 2}, {"item": "tadeja", "amount": 5}], "research": "hejonium-conveyor", "category": "distribution", "invert": false}

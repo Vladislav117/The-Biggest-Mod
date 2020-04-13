@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gunery solar panel", "description": "...", "size": 3, "health": 60, "requirements": [{"item": "gunery", "amount": 18}, {"item": "qusy", "amount": 15}, {"item": "wugyjinium", "amount": 4}], "research": "gunery-factory", "powerProduction": 2.5918093717194384, "category": "power"}

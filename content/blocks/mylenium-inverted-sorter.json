@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mylenium inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "mylenium", "amount": 1}, {"item": "mefymanium", "amount": 1}], "research": "mylenium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kykaya liquid tank", "description": "...", "health": 398, "size": 3, "requirements": [{"item": "kykaya", "amount": 17}, {"item": "cify", "amount": 13}, {"item": "typi", "amount": 1}], "research": "kykaya-conduit", "category": "liquid", "liquidCapacity": 6310, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xunize inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "xunize", "amount": 3}, {"item": "wita", "amount": 4}], "research": "xunize-conveyor", "category": "distribution", "invert": true}

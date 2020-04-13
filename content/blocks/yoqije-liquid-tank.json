@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yoqije liquid tank", "description": "...", "health": 247, "size": 3, "requirements": [{"item": "yoqije", "amount": 15}, {"item": "nufuponium", "amount": 16}, {"item": "labila", "amount": 2}], "research": "yoqije-conduit", "category": "liquid", "liquidCapacity": 43493, "hasLiquids": true}

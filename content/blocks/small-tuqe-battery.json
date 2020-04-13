@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tuqe battery", "description": "...", "size": 1, "health": 63, "requirements": [{"item": "tuqe", "amount": 7}, {"item": "xaqi", "amount": 19}, {"item": "hasoye", "amount": 10}], "research": "tuqe-factory", "consumes": {"powerBuffered": 1250}, "category": "power"}

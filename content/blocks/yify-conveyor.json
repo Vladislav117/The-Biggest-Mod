@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "yify conveyor", "description": "...", "health": 64, "requirements": [{"item": "yify", "amount": 7}, {"item": "jetu", "amount": 1}], "speed": 0.49707016185166003, "research": "yify-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yywy solar panel", "description": "...", "size": 1, "health": 264, "requirements": [{"item": "yywy", "amount": 6}, {"item": "garyda", "amount": 8}, {"item": "moje", "amount": 5}], "research": "yywy-factory", "powerProduction": 0.1359123300325718, "category": "power"}

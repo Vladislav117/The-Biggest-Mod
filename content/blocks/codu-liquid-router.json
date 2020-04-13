@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "codu liquid router", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "codu", "amount": 10}, {"item": "fyze", "amount": 2}, {"item": "qysoke", "amount": 5}], "research": "codu-conduit", "liquidCapacity": 10, "category": "liquid"}

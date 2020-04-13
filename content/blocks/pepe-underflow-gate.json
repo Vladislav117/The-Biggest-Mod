@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pepe underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "pepe", "amount": 5}, {"item": "jere", "amount": 1}], "research": "pepe-conveyor", "category": "distribution", "invert": false}

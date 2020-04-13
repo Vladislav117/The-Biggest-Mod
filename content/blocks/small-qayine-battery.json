@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qayine battery", "description": "...", "size": 1, "health": 101, "requirements": [{"item": "qayine", "amount": 9}, {"item": "guwinium", "amount": 15}, {"item": "qysavunium", "amount": 4}], "research": "qayine-factory", "consumes": {"powerBuffered": 2207}, "category": "power"}

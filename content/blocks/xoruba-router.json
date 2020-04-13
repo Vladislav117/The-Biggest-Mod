@@ -1,0 +1,1 @@
+{"type": "router", "name": "xoruba router", "description": "...", "health": 150, "size": 1, "requirements": [{"item": "xoruba", "amount": 1}], "research": "xoruba-conveyor", "category": "distribution"}

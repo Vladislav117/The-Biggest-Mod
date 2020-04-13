@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kibanium solar panel", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "kibanium", "amount": 3}, {"item": "sebobe", "amount": 10}, {"item": "puqu", "amount": 4}], "research": "kibanium-factory", "powerProduction": 5.7115671494940345, "category": "power"}

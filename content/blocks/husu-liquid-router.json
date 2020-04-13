@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "husu liquid router", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "husu", "amount": 10}, {"item": "becugi", "amount": 3}, {"item": "fahupi", "amount": 6}], "research": "husu-conduit", "liquidCapacity": 10, "category": "liquid"}

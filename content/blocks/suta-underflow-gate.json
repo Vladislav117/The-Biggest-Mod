@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "suta underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "suta", "amount": 1}, {"item": "byja", "amount": 3}], "research": "suta-conveyor", "category": "distribution", "invert": false}

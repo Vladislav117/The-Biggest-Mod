@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pify underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "pify", "amount": 1}, {"item": "tuxu", "amount": 4}], "research": "pify-conveyor", "category": "distribution", "invert": false}

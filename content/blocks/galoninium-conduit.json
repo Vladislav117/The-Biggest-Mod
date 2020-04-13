@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "galoninium conduit", "description": "...", "health": 160, "requirements": [{"item": "galoninium", "amount": 1}, {"item": "cizi", "amount": 1}, {"item": "gupyfi", "amount": 6}], "liquidCapacity": 36, "liquidPressure": 6, "research": "galoninium-factory", "category": "liquid"}

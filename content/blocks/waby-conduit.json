@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "waby conduit", "description": "...", "health": 26, "requirements": [{"item": "waby", "amount": 6}, {"item": "rymojanium", "amount": 4}, {"item": "qeje", "amount": 8}], "liquidCapacity": 8, "liquidPressure": 6, "research": "waby-factory", "category": "liquid"}

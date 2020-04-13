@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cujuqa battery", "description": "...", "size": 3, "health": 352, "requirements": [{"item": "cujuqa", "amount": 15}, {"item": "dakiqu", "amount": 15}, {"item": "qalo", "amount": 2}], "research": "cujuqa-factory", "consumes": {"powerBuffered": 3745}, "category": "power"}

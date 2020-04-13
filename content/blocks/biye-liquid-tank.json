@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "biye liquid tank", "description": "...", "health": 369, "size": 3, "requirements": [{"item": "biye", "amount": 14}, {"item": "nyboye", "amount": 19}, {"item": "keqiny", "amount": 2}], "research": "biye-conduit", "category": "liquid", "liquidCapacity": 12331, "hasLiquids": true}

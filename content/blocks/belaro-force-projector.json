@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "belaro force projector", "description": "...", "health": 127, "size": 3, "consumes": {"power": 5.0, "item": "belaro"}, "requirements": [{"item": "belaro", "amount": 20}, {"item": "myci", "amount": 13}, {"item": "jawo", "amount": 9}], "research": "belaro-factory", "category": "effect"}

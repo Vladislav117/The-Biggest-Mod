@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wymosy solar panel", "description": "...", "size": 1, "health": 281, "requirements": [{"item": "wymosy", "amount": 14}, {"item": "sekele", "amount": 5}, {"item": "dimizy", "amount": 9}], "research": "wymosy-factory", "powerProduction": 0.7373937076074516, "category": "power"}

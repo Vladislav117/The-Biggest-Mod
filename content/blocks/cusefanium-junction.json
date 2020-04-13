@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cusefanium junction", "description": "...", "health": 27, "speed": 6, "capacity": 16, "size": 1, "requirements": [{"item": "cusefanium", "amount": 3}, {"item": "vuru", "amount": 1}], "research": "cusefanium-conveyor", "category": "distribution"}

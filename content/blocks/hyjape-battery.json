@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hyjape battery", "description": "...", "size": 3, "health": 99, "requirements": [{"item": "hyjape", "amount": 11}, {"item": "sewazo", "amount": 7}, {"item": "hicy", "amount": 8}], "research": "hyjape-factory", "consumes": {"powerBuffered": 5595}, "category": "power"}

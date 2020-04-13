@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jyzy power node", "description": "...", "size": 1, "health": 174, "requirements": [{"item": "jyzy", "amount": 12}, {"item": "byja", "amount": 15}, {"item": "mebu", "amount": 5}], "research": "jyzy-factory", "maxNodes": 25, "laserRange": 10, "category": "power"}

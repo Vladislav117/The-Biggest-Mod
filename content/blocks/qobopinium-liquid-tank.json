@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qobopinium liquid tank", "description": "...", "health": 649, "size": 3, "requirements": [{"item": "qobopinium", "amount": 1}, {"item": "luvonium", "amount": 6}, {"item": "fexenium", "amount": 9}], "research": "qobopinium-conduit", "category": "liquid", "liquidCapacity": 2749, "hasLiquids": true}

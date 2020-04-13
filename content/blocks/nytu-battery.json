@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nytu battery", "description": "...", "size": 3, "health": 194, "requirements": [{"item": "nytu", "amount": 6}, {"item": "gurikinium", "amount": 16}, {"item": "wace", "amount": 1}], "research": "nytu-factory", "consumes": {"powerBuffered": 8309}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small voky battery", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "voky", "amount": 18}, {"item": "faba", "amount": 8}, {"item": "viqi", "amount": 7}], "research": "voky-factory", "consumes": {"powerBuffered": 738}, "category": "power"}

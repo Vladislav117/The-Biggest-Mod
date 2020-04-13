@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nyry conduit", "description": "...", "health": 111, "requirements": [{"item": "nyry", "amount": 1}, {"item": "qicu", "amount": 2}, {"item": "biwa", "amount": 9}], "liquidCapacity": 14, "liquidPressure": 4, "research": "nyry-factory", "category": "liquid"}

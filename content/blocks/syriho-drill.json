@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "syriho drill", "description": "...", "size": 2, "health": 345, "tier": 2, "drillTime": 18, "consumes": {"power": 7}, "requirements": [{"item": "syriho", "amount": 14}, {"item": "vikasynium", "amount": 16}, {"item": "yixo", "amount": 2}], "research": "syriho-factory", "category": "production"}

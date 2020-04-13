@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sokima bridge conveyor", "description": "", "health": 46, "range": 15, "speed": 20, "bufferCapacity": 18, "requirements": [{"item": "sokima", "amount": 2}, {"item": "nezexe", "amount": 5}], "research": "sokima-conveyor", "category": "distribution", "size": 1}

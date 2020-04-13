@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sice solar panel", "description": "...", "size": 1, "health": 226, "requirements": [{"item": "sice", "amount": 6}, {"item": "qudeya", "amount": 8}, {"item": "tire", "amount": 6}], "research": "sice-factory", "powerProduction": 3.912860838334313, "category": "power"}

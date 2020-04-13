@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "porafa liquid router", "description": "...", "size": 1, "health": 24, "requirements": [{"item": "porafa", "amount": 13}, {"item": "faba", "amount": 17}, {"item": "qiqe", "amount": 6}], "research": "porafa-conduit", "liquidCapacity": 10, "category": "liquid"}

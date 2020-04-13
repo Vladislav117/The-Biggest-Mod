@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rigoyo battery", "description": "...", "size": 1, "health": 52, "requirements": [{"item": "rigoyo", "amount": 14}, {"item": "mihuranium", "amount": 4}, {"item": "nago", "amount": 9}], "research": "rigoyo-factory", "consumes": {"powerBuffered": 282}, "category": "power"}

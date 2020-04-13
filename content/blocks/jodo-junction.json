@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jodo junction", "description": "...", "health": 10, "speed": 9, "capacity": 5, "size": 1, "requirements": [{"item": "jodo", "amount": 2}, {"item": "daqy", "amount": 2}], "research": "jodo-conveyor", "category": "distribution"}

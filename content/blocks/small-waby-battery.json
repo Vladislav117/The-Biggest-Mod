@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small waby battery", "description": "...", "size": 1, "health": 133, "requirements": [{"item": "waby", "amount": 14}, {"item": "qaho", "amount": 16}, {"item": "kiza", "amount": 8}], "research": "waby-factory", "consumes": {"powerBuffered": 2505}, "category": "power"}

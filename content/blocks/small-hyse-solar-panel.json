@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hyse solar panel", "description": "...", "size": 1, "health": 63, "requirements": [{"item": "hyse", "amount": 11}, {"item": "luvonium", "amount": 11}, {"item": "baranium", "amount": 1}], "research": "hyse-factory", "powerProduction": 1.2023310348120706, "category": "power"}

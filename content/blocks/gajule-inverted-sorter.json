@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gajule inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "gajule", "amount": 5}, {"item": "qowepa", "amount": 1}], "research": "gajule-conveyor", "category": "distribution", "invert": true}

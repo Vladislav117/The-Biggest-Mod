@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kegiqi underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "kegiqi", "amount": 2}, {"item": "qimose", "amount": 2}], "research": "kegiqi-conveyor", "category": "distribution", "invert": false}

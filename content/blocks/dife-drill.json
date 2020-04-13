@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "dife drill", "description": "...", "size": 4, "health": 318, "tier": 1, "drillTime": 2, "consumes": {"power": 19}, "requirements": [{"item": "dife", "amount": 20}, {"item": "gimy", "amount": 16}, {"item": "gona", "amount": 5}], "research": "dife-factory", "category": "production"}

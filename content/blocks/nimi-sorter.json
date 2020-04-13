@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nimi sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "nimi", "amount": 1}, {"item": "kegiqi", "amount": 4}], "research": "nimi-conveyor", "category": "distribution", "invert": false}

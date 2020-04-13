@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small noveba solar panel", "description": "...", "size": 1, "health": 77, "requirements": [{"item": "noveba", "amount": 19}, {"item": "juvaci", "amount": 4}, {"item": "poheny", "amount": 9}], "research": "noveba-factory", "powerProduction": 0.7877291588749937, "category": "power"}

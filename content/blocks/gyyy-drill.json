@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gyyy drill", "description": "...", "size": 4, "health": 127, "tier": 2, "drillTime": 17, "consumes": {"power": 10}, "requirements": [{"item": "gyyy", "amount": 9}, {"item": "gonu", "amount": 14}, {"item": "fyfoni", "amount": 4}], "research": "gyyy-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fesixa power node", "description": "...", "size": 1, "health": 200, "requirements": [{"item": "fesixa", "amount": 9}, {"item": "yihe", "amount": 10}, {"item": "reju", "amount": 7}], "research": "fesixa-factory", "maxNodes": 4, "laserRange": 3, "category": "power"}

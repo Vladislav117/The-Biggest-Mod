@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qopokynium bridge conveyor", "description": "", "health": 1, "range": 20, "speed": 14, "bufferCapacity": 8, "requirements": [{"item": "qopokynium", "amount": 1}, {"item": "xuxido", "amount": 4}], "research": "qopokynium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sewazo battery", "description": "...", "size": 1, "health": 174, "requirements": [{"item": "sewazo", "amount": 5}, {"item": "yipobe", "amount": 15}, {"item": "cafe", "amount": 1}], "research": "sewazo-factory", "consumes": {"powerBuffered": 2452}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fohebi solar panel", "description": "...", "size": 3, "health": 210, "requirements": [{"item": "fohebi", "amount": 7}, {"item": "fuda", "amount": 4}, {"item": "fohebi", "amount": 4}], "research": "fohebi-factory", "powerProduction": 1.3762868350284225, "category": "power"}

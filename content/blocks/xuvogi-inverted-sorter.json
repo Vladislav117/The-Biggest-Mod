@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xuvogi inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "xuvogi", "amount": 4}, {"item": "kiduka", "amount": 5}], "research": "xuvogi-conveyor", "category": "distribution", "invert": true}

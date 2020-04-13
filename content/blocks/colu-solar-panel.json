@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "colu solar panel", "description": "...", "size": 3, "health": 347, "requirements": [{"item": "colu", "amount": 9}, {"item": "kosonium", "amount": 7}, {"item": "metaglass", "amount": 2}], "research": "colu-factory", "powerProduction": 3.87221098201941, "category": "power"}

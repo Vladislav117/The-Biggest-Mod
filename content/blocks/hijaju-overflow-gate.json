@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hijaju overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "hijaju", "amount": 2}, {"item": "dogequ", "amount": 2}], "research": "hijaju-conveyor", "category": "distribution", "invert": false}

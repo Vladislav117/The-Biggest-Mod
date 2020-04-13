@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zeka battery", "description": "...", "size": 1, "health": 158, "requirements": [{"item": "zeka", "amount": 6}, {"item": "lemoqa", "amount": 5}, {"item": "yujaqe", "amount": 2}], "research": "zeka-factory", "consumes": {"powerBuffered": 2120}, "category": "power"}

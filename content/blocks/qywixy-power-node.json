@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qywixy power node", "description": "...", "size": 2, "health": 315, "requirements": [{"item": "qywixy", "amount": 6}, {"item": "wulu", "amount": 7}, {"item": "nusenium", "amount": 9}], "research": "qywixy-factory", "maxNodes": 45, "laserRange": 17, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xadunium drill", "description": "...", "size": 3, "health": 373, "tier": 4, "drillTime": 14, "consumes": {"power": 17}, "requirements": [{"item": "xadunium", "amount": 6}, {"item": "copper", "amount": 20}, {"item": "yadyju", "amount": 4}], "research": "xadunium-factory", "category": "production"}

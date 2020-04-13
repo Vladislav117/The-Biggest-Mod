@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xylyhu junction", "description": "...", "health": 49, "speed": 6, "capacity": 8, "size": 1, "requirements": [{"item": "xylyhu", "amount": 1}, {"item": "veza", "amount": 1}], "research": "xylyhu-conveyor", "category": "distribution"}

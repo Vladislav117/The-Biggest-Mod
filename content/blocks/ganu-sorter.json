@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ganu sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "ganu", "amount": 3}, {"item": "vuxi", "amount": 5}], "research": "ganu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gupohu battery", "description": "...", "size": 3, "health": 110, "requirements": [{"item": "gupohu", "amount": 2}, {"item": "fahu", "amount": 4}, {"item": "diforinium", "amount": 7}], "research": "gupohu-factory", "consumes": {"powerBuffered": 4275}, "category": "power"}

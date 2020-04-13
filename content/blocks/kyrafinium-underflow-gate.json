@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kyrafinium underflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "kyrafinium", "amount": 1}, {"item": "fana", "amount": 2}], "research": "kyrafinium-conveyor", "category": "distribution", "invert": false}

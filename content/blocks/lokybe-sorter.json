@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lokybe sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "lokybe", "amount": 3}, {"item": "siga", "amount": 5}], "research": "lokybe-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "byyu inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "byyu", "amount": 1}, {"item": "dukyfe", "amount": 4}], "research": "byyu-conveyor", "category": "distribution", "invert": true}

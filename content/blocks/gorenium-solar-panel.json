@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gorenium solar panel", "description": "...", "size": 3, "health": 135, "requirements": [{"item": "gorenium", "amount": 6}, {"item": "fygunium", "amount": 5}, {"item": "wasu", "amount": 4}], "research": "gorenium-factory", "powerProduction": 2.4141708273304205, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zawo liquid tank", "description": "...", "health": 206, "size": 3, "requirements": [{"item": "zawo", "amount": 6}, {"item": "syriho", "amount": 20}, {"item": "melula", "amount": 1}], "research": "zawo-conduit", "category": "liquid", "liquidCapacity": 36841, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "naho underflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "naho", "amount": 5}, {"item": "locu", "amount": 5}], "research": "naho-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "veco overdrive projector", "description": "...", "health": 114, "consumes": {"power": 3.0, "item": "veco"}, "size": 2, "requirements": [{"item": "veco", "amount": 17}, {"item": "mefymanium", "amount": 7}, {"item": "tuzy", "amount": 3}], "research": "veco-factory", "category": "effect"}

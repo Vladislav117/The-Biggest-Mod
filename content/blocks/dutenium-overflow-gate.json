@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dutenium overflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "dutenium", "amount": 1}, {"item": "hufema", "amount": 4}], "research": "dutenium-conveyor", "category": "distribution", "invert": false}

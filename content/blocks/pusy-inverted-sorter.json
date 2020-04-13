@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pusy inverted sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "pusy", "amount": 4}, {"item": "qigybynium", "amount": 1}], "research": "pusy-conveyor", "category": "distribution", "invert": true}

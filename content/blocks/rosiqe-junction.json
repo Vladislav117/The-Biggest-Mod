@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rosiqe junction", "description": "...", "health": 18, "speed": 14, "capacity": 6, "size": 1, "requirements": [{"item": "rosiqe", "amount": 3}, {"item": "sytafe", "amount": 3}], "research": "rosiqe-conveyor", "category": "distribution"}

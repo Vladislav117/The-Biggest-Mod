@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mepunium power node", "description": "...", "size": 1, "health": 106, "requirements": [{"item": "mepunium", "amount": 19}, {"item": "rosiqe", "amount": 8}, {"item": "dejoqonium", "amount": 7}], "research": "mepunium-factory", "maxNodes": 4, "laserRange": 18, "category": "power"}

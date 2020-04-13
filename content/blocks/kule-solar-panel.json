@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kule solar panel", "description": "...", "size": 3, "health": 178, "requirements": [{"item": "kule", "amount": 19}, {"item": "kyweru", "amount": 9}, {"item": "guhile", "amount": 8}], "research": "kule-factory", "powerProduction": 0.19523174933737797, "category": "power"}

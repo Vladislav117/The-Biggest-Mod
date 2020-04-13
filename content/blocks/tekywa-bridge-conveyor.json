@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tekywa bridge conveyor", "description": "", "health": 16, "range": 2, "speed": 3, "bufferCapacity": 22, "requirements": [{"item": "tekywa", "amount": 1}, {"item": "lycyqe", "amount": 5}], "research": "tekywa-conveyor", "category": "distribution", "size": 1}

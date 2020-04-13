@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "norydo liquid tank", "description": "...", "health": 142, "size": 3, "requirements": [{"item": "norydo", "amount": 8}, {"item": "sysone", "amount": 12}, {"item": "tise", "amount": 5}], "research": "norydo-conduit", "category": "liquid", "liquidCapacity": 58202, "hasLiquids": true}

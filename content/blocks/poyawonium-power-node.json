@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "poyawonium power node", "description": "...", "size": 2, "health": 414, "requirements": [{"item": "poyawonium", "amount": 14}, {"item": "pogoqe", "amount": 6}, {"item": "jubuxa", "amount": 7}], "research": "poyawonium-factory", "maxNodes": 23, "laserRange": 23, "category": "power"}

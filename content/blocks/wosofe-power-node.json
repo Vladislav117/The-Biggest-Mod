@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wosofe power node", "description": "...", "size": 2, "health": 257, "requirements": [{"item": "wosofe", "amount": 12}, {"item": "wiwo", "amount": 3}, {"item": "hyxunium", "amount": 7}], "research": "wosofe-factory", "maxNodes": 46, "laserRange": 25, "category": "power"}

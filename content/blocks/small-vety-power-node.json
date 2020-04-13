@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vety power node", "description": "...", "size": 1, "health": 29, "requirements": [{"item": "vety", "amount": 20}, {"item": "ruvudo", "amount": 19}, {"item": "vego", "amount": 1}], "research": "vety-factory", "maxNodes": 19, "laserRange": 4, "category": "power"}

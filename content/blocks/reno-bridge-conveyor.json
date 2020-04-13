@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "reno bridge conveyor", "description": "", "health": 41, "range": 7, "speed": 16, "bufferCapacity": 24, "requirements": [{"item": "reno", "amount": 2}, {"item": "lavi", "amount": 3}], "research": "reno-conveyor", "category": "distribution", "size": 1}

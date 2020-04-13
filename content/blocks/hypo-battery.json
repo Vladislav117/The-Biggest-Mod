@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hypo battery", "description": "...", "size": 3, "health": 31, "requirements": [{"item": "hypo", "amount": 11}, {"item": "dagohe", "amount": 8}, {"item": "lafybe", "amount": 1}], "research": "hypo-factory", "consumes": {"powerBuffered": 7812}, "category": "power"}

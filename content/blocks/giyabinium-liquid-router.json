@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "giyabinium liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "giyabinium", "amount": 4}, {"item": "soqa", "amount": 4}, {"item": "roxila", "amount": 10}], "research": "giyabinium-conduit", "liquidCapacity": 10, "category": "liquid"}

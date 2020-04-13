@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sumu power node", "description": "...", "size": 2, "health": 722, "requirements": [{"item": "sumu", "amount": 5}, {"item": "ruvudo", "amount": 14}, {"item": "vosixe", "amount": 10}], "research": "sumu-factory", "maxNodes": 15, "laserRange": 14, "category": "power"}

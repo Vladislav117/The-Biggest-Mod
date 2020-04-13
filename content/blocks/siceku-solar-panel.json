@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "siceku solar panel", "description": "...", "size": 3, "health": 43, "requirements": [{"item": "siceku", "amount": 20}, {"item": "zufo", "amount": 10}, {"item": "copper", "amount": 4}], "research": "siceku-factory", "powerProduction": 0.18211882708517377, "category": "power"}

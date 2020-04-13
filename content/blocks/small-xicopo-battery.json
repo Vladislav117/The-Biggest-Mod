@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xicopo battery", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "xicopo", "amount": 1}, {"item": "nafeya", "amount": 11}, {"item": "paba", "amount": 9}], "research": "xicopo-factory", "consumes": {"powerBuffered": 2813}, "category": "power"}

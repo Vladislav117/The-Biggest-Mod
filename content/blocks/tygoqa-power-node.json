@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tygoqa power node", "description": "...", "size": 2, "health": 10, "requirements": [{"item": "tygoqa", "amount": 10}, {"item": "zekaru", "amount": 8}, {"item": "lilyro", "amount": 10}], "research": "tygoqa-factory", "maxNodes": 34, "laserRange": 30, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zibe power node", "description": "...", "size": 2, "health": 495, "requirements": [{"item": "zibe", "amount": 6}, {"item": "yunu", "amount": 9}, {"item": "mojeminium", "amount": 2}], "research": "zibe-factory", "maxNodes": 51, "laserRange": 12, "category": "power"}

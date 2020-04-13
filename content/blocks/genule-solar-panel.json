@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "genule solar panel", "description": "...", "size": 3, "health": 319, "requirements": [{"item": "genule", "amount": 2}, {"item": "fyte", "amount": 2}, {"item": "cuzy", "amount": 3}], "research": "genule-factory", "powerProduction": 1.5577783889528445, "category": "power"}

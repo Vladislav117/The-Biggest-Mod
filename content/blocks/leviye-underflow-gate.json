@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "leviye underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "leviye", "amount": 4}, {"item": "pyce", "amount": 5}], "research": "leviye-conveyor", "category": "distribution", "invert": false}

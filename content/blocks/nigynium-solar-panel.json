@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nigynium solar panel", "description": "...", "size": 3, "health": 120, "requirements": [{"item": "nigynium", "amount": 13}, {"item": "zyzo", "amount": 5}, {"item": "bosuvynium", "amount": 8}], "research": "nigynium-factory", "powerProduction": 0.4273902333624525, "category": "power"}

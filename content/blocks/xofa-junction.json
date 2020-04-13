@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xofa junction", "description": "...", "health": 37, "speed": 2, "capacity": 17, "size": 1, "requirements": [{"item": "xofa", "amount": 3}, {"item": "xuhenium", "amount": 5}], "research": "xofa-conveyor", "category": "distribution"}

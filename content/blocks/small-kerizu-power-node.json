@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kerizu power node", "description": "...", "size": 1, "health": 310, "requirements": [{"item": "kerizu", "amount": 8}, {"item": "gabipi", "amount": 13}, {"item": "hifu", "amount": 8}], "research": "kerizu-factory", "maxNodes": 21, "laserRange": 23, "category": "power"}

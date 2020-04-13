@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ryfy power node", "description": "...", "size": 2, "health": 108, "requirements": [{"item": "ryfy", "amount": 17}, {"item": "nayevynium", "amount": 8}, {"item": "muremi", "amount": 8}], "research": "ryfy-factory", "maxNodes": 52, "laserRange": 5, "category": "power"}

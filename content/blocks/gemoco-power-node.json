@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gemoco power node", "description": "...", "size": 2, "health": 266, "requirements": [{"item": "gemoco", "amount": 12}, {"item": "paba", "amount": 10}, {"item": "mepoky", "amount": 5}], "research": "gemoco-factory", "maxNodes": 52, "laserRange": 7, "category": "power"}

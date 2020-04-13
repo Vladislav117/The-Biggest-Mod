@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cyyenium conduit", "description": "...", "health": 121, "requirements": [{"item": "cyyenium", "amount": 17}, {"item": "zityyanium", "amount": 9}, {"item": "cyyenium", "amount": 1}], "liquidCapacity": 10, "liquidPressure": 4, "research": "cyyenium-factory", "category": "liquid"}

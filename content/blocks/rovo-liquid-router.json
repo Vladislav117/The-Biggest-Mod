@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "rovo liquid router", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "rovo", "amount": 5}, {"item": "vawa", "amount": 11}, {"item": "bylo", "amount": 10}], "research": "rovo-conduit", "liquidCapacity": 10, "category": "liquid"}

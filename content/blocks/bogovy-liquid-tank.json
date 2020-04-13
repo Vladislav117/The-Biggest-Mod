@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bogovy liquid tank", "description": "...", "health": 642, "size": 3, "requirements": [{"item": "bogovy", "amount": 12}, {"item": "pyto", "amount": 15}, {"item": "sibewe", "amount": 5}], "research": "bogovy-conduit", "category": "liquid", "liquidCapacity": 64046, "hasLiquids": true}

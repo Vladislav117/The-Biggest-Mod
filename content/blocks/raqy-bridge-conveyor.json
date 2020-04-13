@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "raqy bridge conveyor", "description": "", "health": 36, "range": 18, "speed": 8, "bufferCapacity": 13, "requirements": [{"item": "raqy", "amount": 1}, {"item": "qireru", "amount": 2}], "research": "raqy-conveyor", "category": "distribution", "size": 1}

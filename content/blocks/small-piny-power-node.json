@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small piny power node", "description": "...", "size": 1, "health": 323, "requirements": [{"item": "piny", "amount": 15}, {"item": "pohyva", "amount": 2}, {"item": "jytubinium", "amount": 2}], "research": "piny-factory", "maxNodes": 10, "laserRange": 11, "category": "power"}

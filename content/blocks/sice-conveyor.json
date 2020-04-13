@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "sice conveyor", "description": "...", "health": 303, "requirements": [{"item": "sice", "amount": 2}, {"item": "zuva", "amount": 6}], "speed": 0.20633355284283805, "research": "sice-factory", "category": "distribution"}

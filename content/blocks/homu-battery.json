@@ -1,0 +1,1 @@
+{"type": "battery", "name": "homu battery", "description": "...", "size": 3, "health": 29, "requirements": [{"item": "homu", "amount": 17}, {"item": "qihy", "amount": 18}, {"item": "jufyxo", "amount": 1}], "research": "homu-factory", "consumes": {"powerBuffered": 1357}, "category": "power"}

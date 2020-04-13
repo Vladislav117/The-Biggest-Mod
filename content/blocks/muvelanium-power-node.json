@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "muvelanium power node", "description": "...", "size": 2, "health": 545, "requirements": [{"item": "muvelanium", "amount": 12}, {"item": "zoku", "amount": 8}, {"item": "gujybo", "amount": 7}], "research": "muvelanium-factory", "maxNodes": 14, "laserRange": 29, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "labonium solar panel", "description": "...", "size": 3, "health": 393, "requirements": [{"item": "labonium", "amount": 19}, {"item": "xice", "amount": 6}, {"item": "zanuja", "amount": 1}], "research": "labonium-factory", "powerProduction": 0.5384144428241128, "category": "power"}

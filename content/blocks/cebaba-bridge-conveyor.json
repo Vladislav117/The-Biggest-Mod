@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cebaba bridge conveyor", "description": "", "health": 46, "range": 18, "speed": 20, "bufferCapacity": 13, "requirements": [{"item": "cebaba", "amount": 5}, {"item": "sytu", "amount": 3}], "research": "cebaba-conveyor", "category": "distribution", "size": 1}

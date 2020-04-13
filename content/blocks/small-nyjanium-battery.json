@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nyjanium battery", "description": "...", "size": 1, "health": 384, "requirements": [{"item": "nyjanium", "amount": 8}, {"item": "guniwa", "amount": 6}, {"item": "vedapa", "amount": 10}], "research": "nyjanium-factory", "consumes": {"powerBuffered": 1436}, "category": "power"}

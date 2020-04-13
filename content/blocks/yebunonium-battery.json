@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yebunonium battery", "description": "...", "size": 3, "health": 214, "requirements": [{"item": "yebunonium", "amount": 7}, {"item": "yymujy", "amount": 19}, {"item": "cuxenium", "amount": 10}], "research": "yebunonium-factory", "consumes": {"powerBuffered": 4645}, "category": "power"}

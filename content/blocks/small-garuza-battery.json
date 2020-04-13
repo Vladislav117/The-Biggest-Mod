@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small garuza battery", "description": "...", "size": 1, "health": 265, "requirements": [{"item": "garuza", "amount": 14}, {"item": "zeca", "amount": 6}, {"item": "syxube", "amount": 5}], "research": "garuza-factory", "consumes": {"powerBuffered": 510}, "category": "power"}

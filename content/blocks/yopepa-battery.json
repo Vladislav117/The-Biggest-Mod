@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yopepa battery", "description": "...", "size": 3, "health": 329, "requirements": [{"item": "yopepa", "amount": 10}, {"item": "rytysynium", "amount": 1}, {"item": "cazefu", "amount": 9}], "research": "yopepa-factory", "consumes": {"powerBuffered": 5708}, "category": "power"}

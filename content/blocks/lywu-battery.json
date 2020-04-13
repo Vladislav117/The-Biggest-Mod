@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lywu battery", "description": "...", "size": 3, "health": 343, "requirements": [{"item": "lywu", "amount": 1}, {"item": "lifuvinium", "amount": 10}, {"item": "wadiyonium", "amount": 3}], "research": "lywu-factory", "consumes": {"powerBuffered": 7248}, "category": "power"}

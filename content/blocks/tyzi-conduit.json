@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tyzi conduit", "description": "...", "health": 110, "requirements": [{"item": "tyzi", "amount": 9}, {"item": "cuxenium", "amount": 9}, {"item": "taxidy", "amount": 9}], "liquidCapacity": 3, "liquidPressure": 10, "research": "tyzi-factory", "category": "liquid"}

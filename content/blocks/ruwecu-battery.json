@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ruwecu battery", "description": "...", "size": 3, "health": 335, "requirements": [{"item": "ruwecu", "amount": 12}, {"item": "yemy", "amount": 12}, {"item": "wuniso", "amount": 4}], "research": "ruwecu-factory", "consumes": {"powerBuffered": 569}, "category": "power"}

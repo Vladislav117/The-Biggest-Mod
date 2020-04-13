@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fuyanium sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "fuyanium", "amount": 3}, {"item": "hocona", "amount": 5}], "research": "fuyanium-conveyor", "category": "distribution", "invert": false}

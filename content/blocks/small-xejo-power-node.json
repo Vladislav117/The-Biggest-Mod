@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xejo power node", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "xejo", "amount": 19}, {"item": "zele", "amount": 5}, {"item": "syjilanium", "amount": 7}], "research": "xejo-factory", "maxNodes": 11, "laserRange": 16, "category": "power"}

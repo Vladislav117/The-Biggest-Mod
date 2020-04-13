@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cydeyy liquid tank", "description": "...", "health": 329, "size": 3, "requirements": [{"item": "cydeyy", "amount": 18}, {"item": "vewavu", "amount": 3}, {"item": "graphite", "amount": 9}], "research": "cydeyy-conduit", "category": "liquid", "liquidCapacity": 73243, "hasLiquids": true}

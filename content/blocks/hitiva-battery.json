@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hitiva battery", "description": "...", "size": 3, "health": 170, "requirements": [{"item": "hitiva", "amount": 14}, {"item": "xujo", "amount": 3}, {"item": "mijynium", "amount": 4}], "research": "hitiva-factory", "consumes": {"powerBuffered": 6132}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jeqenium battery", "description": "...", "size": 3, "health": 97, "requirements": [{"item": "jeqenium", "amount": 9}, {"item": "ryte", "amount": 5}, {"item": "tatavo", "amount": 8}], "research": "jeqenium-factory", "consumes": {"powerBuffered": 2493}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bekoyinium drill", "description": "...", "size": 4, "health": 168, "tier": 3, "drillTime": 9, "consumes": {"power": 12}, "requirements": [{"item": "bekoyinium", "amount": 4}, {"item": "kycuzo", "amount": 16}, {"item": "wino", "amount": 4}], "research": "bekoyinium-factory", "category": "production"}

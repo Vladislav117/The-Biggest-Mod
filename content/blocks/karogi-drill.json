@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "karogi drill", "description": "...", "size": 2, "health": 156, "tier": 1, "drillTime": 18, "consumes": {"power": 19}, "requirements": [{"item": "karogi", "amount": 20}, {"item": "xuhenium", "amount": 17}, {"item": "nota", "amount": 8}], "research": "karogi-factory", "category": "production"}

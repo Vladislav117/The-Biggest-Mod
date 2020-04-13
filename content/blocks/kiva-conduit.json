@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kiva conduit", "description": "...", "health": 171, "requirements": [{"item": "kiva", "amount": 8}, {"item": "bopu", "amount": 19}, {"item": "zymi", "amount": 8}], "liquidCapacity": 16, "liquidPressure": 10, "research": "kiva-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "roqeki bridge conveyor", "description": "", "health": 48, "range": 17, "speed": 11, "bufferCapacity": 12, "requirements": [{"item": "roqeki", "amount": 1}, {"item": "xyyira", "amount": 4}], "research": "roqeki-conveyor", "category": "distribution", "size": 1}

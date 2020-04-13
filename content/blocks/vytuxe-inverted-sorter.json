@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vytuxe inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "vytuxe", "amount": 2}, {"item": "puzybo", "amount": 1}], "research": "vytuxe-conveyor", "category": "distribution", "invert": true}

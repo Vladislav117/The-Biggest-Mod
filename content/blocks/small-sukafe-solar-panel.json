@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sukafe solar panel", "description": "...", "size": 1, "health": 393, "requirements": [{"item": "sukafe", "amount": 14}, {"item": "hiwe", "amount": 15}, {"item": "bulanium", "amount": 10}], "research": "sukafe-factory", "powerProduction": 0.8343512567520889, "category": "power"}

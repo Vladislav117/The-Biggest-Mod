@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sanely liquid tank", "description": "...", "health": 437, "size": 3, "requirements": [{"item": "sanely", "amount": 8}, {"item": "seqynium", "amount": 13}, {"item": "qujunium", "amount": 8}], "research": "sanely-conduit", "category": "liquid", "liquidCapacity": 83434, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kado solar panel", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "kado", "amount": 6}, {"item": "cujuqa", "amount": 16}, {"item": "gapa", "amount": 1}], "research": "kado-factory", "powerProduction": 0.06567442958239388, "category": "power"}

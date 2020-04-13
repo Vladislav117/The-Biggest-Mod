@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ficido power node", "description": "...", "size": 2, "health": 280, "requirements": [{"item": "ficido", "amount": 10}, {"item": "tebebe", "amount": 5}, {"item": "yydy", "amount": 10}], "research": "ficido-factory", "maxNodes": 22, "laserRange": 22, "category": "power"}

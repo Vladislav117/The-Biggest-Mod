@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hyru solar panel", "description": "...", "size": 3, "health": 123, "requirements": [{"item": "hyru", "amount": 6}, {"item": "muti", "amount": 13}, {"item": "lebu", "amount": 9}], "research": "hyru-factory", "powerProduction": 0.026275845617058258, "category": "power"}

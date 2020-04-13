@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qegy solar panel", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "qegy", "amount": 7}, {"item": "selinium", "amount": 20}, {"item": "gybu", "amount": 4}], "research": "qegy-factory", "powerProduction": 7.203342653027463, "category": "power"}

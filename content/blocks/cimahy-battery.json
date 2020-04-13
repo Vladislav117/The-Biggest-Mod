@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cimahy battery", "description": "...", "size": 3, "health": 149, "requirements": [{"item": "cimahy", "amount": 18}, {"item": "milu", "amount": 19}, {"item": "keqaqe", "amount": 4}], "research": "cimahy-factory", "consumes": {"powerBuffered": 6185}, "category": "power"}

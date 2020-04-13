@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gafy power node", "description": "...", "size": 1, "health": 318, "requirements": [{"item": "gafy", "amount": 20}, {"item": "puho", "amount": 3}, {"item": "nufa", "amount": 8}], "research": "gafy-factory", "maxNodes": 15, "laserRange": 25, "category": "power"}

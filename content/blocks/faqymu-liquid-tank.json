@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "faqymu liquid tank", "description": "...", "health": 201, "size": 3, "requirements": [{"item": "faqymu", "amount": 14}, {"item": "heqywanium", "amount": 9}, {"item": "yunu", "amount": 7}], "research": "faqymu-conduit", "category": "liquid", "liquidCapacity": 99981, "hasLiquids": true}

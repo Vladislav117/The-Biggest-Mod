@@ -1,0 +1,1 @@
+{"type": "battery", "name": "secy battery", "description": "...", "size": 3, "health": 337, "requirements": [{"item": "secy", "amount": 19}, {"item": "musonium", "amount": 2}, {"item": "hunu", "amount": 6}], "research": "secy-factory", "consumes": {"powerBuffered": 9540}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vybemi bridge conveyor", "description": "", "health": 11, "range": 20, "speed": 11, "bufferCapacity": 17, "requirements": [{"item": "vybemi", "amount": 1}, {"item": "rozy", "amount": 5}], "research": "vybemi-conveyor", "category": "distribution", "size": 1}

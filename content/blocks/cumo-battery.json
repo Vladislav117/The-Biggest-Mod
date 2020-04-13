@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cumo battery", "description": "...", "size": 3, "health": 227, "requirements": [{"item": "cumo", "amount": 5}, {"item": "peyyha", "amount": 20}, {"item": "tygozu", "amount": 10}], "research": "cumo-factory", "consumes": {"powerBuffered": 5382}, "category": "power"}

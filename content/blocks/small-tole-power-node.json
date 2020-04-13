@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tole power node", "description": "...", "size": 1, "health": 355, "requirements": [{"item": "tole", "amount": 6}, {"item": "piny", "amount": 9}, {"item": "xifuli", "amount": 1}], "research": "tole-factory", "maxNodes": 19, "laserRange": 24, "category": "power"}

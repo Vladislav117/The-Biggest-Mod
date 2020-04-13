@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xinodunium liquid tank", "description": "...", "health": 259, "size": 3, "requirements": [{"item": "xinodunium", "amount": 6}, {"item": "zityyanium", "amount": 20}, {"item": "julynium", "amount": 7}], "research": "xinodunium-conduit", "category": "liquid", "liquidCapacity": 29753, "hasLiquids": true}

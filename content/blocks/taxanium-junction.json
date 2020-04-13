@@ -1,0 +1,1 @@
+{"type": "junction", "name": "taxanium junction", "description": "...", "health": 2, "speed": 13, "capacity": 20, "size": 1, "requirements": [{"item": "taxanium", "amount": 3}, {"item": "nayevynium", "amount": 2}], "research": "taxanium-conveyor", "category": "distribution"}

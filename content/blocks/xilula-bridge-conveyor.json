@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xilula bridge conveyor", "description": "", "health": 20, "range": 4, "speed": 13, "bufferCapacity": 10, "requirements": [{"item": "xilula", "amount": 1}, {"item": "kiyavu", "amount": 5}], "research": "xilula-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hyji liquid router", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "hyji", "amount": 12}, {"item": "lovy", "amount": 2}, {"item": "wisi", "amount": 1}], "research": "hyji-conduit", "liquidCapacity": 10, "category": "liquid"}

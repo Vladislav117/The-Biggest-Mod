@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small myfo solar panel", "description": "...", "size": 1, "health": 175, "requirements": [{"item": "myfo", "amount": 5}, {"item": "holipu", "amount": 15}, {"item": "vosamo", "amount": 6}], "research": "myfo-factory", "powerProduction": 0.4765574902902497, "category": "power"}

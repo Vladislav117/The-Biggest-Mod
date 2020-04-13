@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yuyy power node", "description": "...", "size": 2, "health": 370, "requirements": [{"item": "yuyy", "amount": 2}, {"item": "byqi", "amount": 19}, {"item": "hybexy", "amount": 8}], "research": "yuyy-factory", "maxNodes": 15, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyculo liquid tank", "description": "...", "health": 630, "size": 3, "requirements": [{"item": "kyculo", "amount": 15}, {"item": "cyyenium", "amount": 9}, {"item": "titenium", "amount": 2}], "research": "kyculo-conduit", "category": "liquid", "liquidCapacity": 104550, "hasLiquids": true}

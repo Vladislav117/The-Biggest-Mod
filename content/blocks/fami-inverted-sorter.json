@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fami inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "fami", "amount": 3}, {"item": "zigije", "amount": 5}], "research": "fami-conveyor", "category": "distribution", "invert": true}

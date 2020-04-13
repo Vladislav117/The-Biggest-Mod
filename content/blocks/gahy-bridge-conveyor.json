@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gahy bridge conveyor", "description": "", "health": 41, "range": 6, "speed": 6, "bufferCapacity": 24, "requirements": [{"item": "gahy", "amount": 4}, {"item": "byzure", "amount": 2}], "research": "gahy-conveyor", "category": "distribution", "size": 1}

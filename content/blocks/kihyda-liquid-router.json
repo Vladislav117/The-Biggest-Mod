@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kihyda liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "kihyda", "amount": 20}, {"item": "qova", "amount": 3}, {"item": "qihy", "amount": 1}], "research": "kihyda-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yewininium solar panel", "description": "...", "size": 3, "health": 202, "requirements": [{"item": "yewininium", "amount": 3}, {"item": "lufe", "amount": 5}, {"item": "yewininium", "amount": 8}], "research": "yewininium-factory", "powerProduction": 0.4066162836046218, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bibe liquid router", "description": "...", "size": 1, "health": 85, "requirements": [{"item": "bibe", "amount": 4}, {"item": "celaji", "amount": 17}, {"item": "fevy", "amount": 8}], "research": "bibe-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mygenium solar panel", "description": "...", "size": 3, "health": 133, "requirements": [{"item": "mygenium", "amount": 6}, {"item": "zotonium", "amount": 17}, {"item": "lyva", "amount": 10}], "research": "mygenium-factory", "powerProduction": 0.06971363841690471, "category": "power"}

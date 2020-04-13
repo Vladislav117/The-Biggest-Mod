@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mivini liquid tank", "description": "...", "health": 366, "size": 3, "requirements": [{"item": "mivini", "amount": 12}, {"item": "fexaja", "amount": 11}, {"item": "hazi", "amount": 7}], "research": "mivini-conduit", "category": "liquid", "liquidCapacity": 3015, "hasLiquids": true}

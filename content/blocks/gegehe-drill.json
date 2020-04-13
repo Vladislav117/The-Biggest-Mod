@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gegehe drill", "description": "...", "size": 3, "health": 272, "tier": 2, "drillTime": 12, "consumes": {"power": 14}, "requirements": [{"item": "gegehe", "amount": 16}, {"item": "roja", "amount": 14}, {"item": "buvizi", "amount": 3}], "research": "gegehe-factory", "category": "production"}

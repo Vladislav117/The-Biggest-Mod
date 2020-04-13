@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xyfi battery", "description": "...", "size": 3, "health": 207, "requirements": [{"item": "xyfi", "amount": 5}, {"item": "rajela", "amount": 5}, {"item": "holy", "amount": 9}], "research": "xyfi-factory", "consumes": {"powerBuffered": 5560}, "category": "power"}

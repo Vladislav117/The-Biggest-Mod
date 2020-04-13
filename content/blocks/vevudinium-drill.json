@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vevudinium drill", "description": "...", "size": 3, "health": 447, "tier": 2, "drillTime": 5, "consumes": {"power": 2}, "requirements": [{"item": "vevudinium", "amount": 7}, {"item": "surge-alloy", "amount": 4}, {"item": "tatavo", "amount": 8}], "research": "vevudinium-factory", "category": "production"}

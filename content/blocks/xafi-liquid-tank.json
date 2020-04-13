@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xafi liquid tank", "description": "...", "health": 544, "size": 3, "requirements": [{"item": "xafi", "amount": 14}, {"item": "gydarynium", "amount": 14}, {"item": "kaniyy", "amount": 4}], "research": "xafi-conduit", "category": "liquid", "liquidCapacity": 87643, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kilu power node", "description": "...", "size": 2, "health": 249, "requirements": [{"item": "kilu", "amount": 16}, {"item": "graphite", "amount": 7}, {"item": "hivesy", "amount": 1}], "research": "kilu-factory", "maxNodes": 53, "laserRange": 20, "category": "power"}

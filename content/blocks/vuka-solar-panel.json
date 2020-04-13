@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vuka solar panel", "description": "...", "size": 3, "health": 258, "requirements": [{"item": "vuka", "amount": 5}, {"item": "yugy", "amount": 8}, {"item": "cyqunium", "amount": 2}], "research": "vuka-factory", "powerProduction": 0.5335676756031659, "category": "power"}

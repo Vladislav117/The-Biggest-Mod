@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tomanium bridge conveyor", "description": "", "health": 10, "range": 5, "speed": 4, "bufferCapacity": 24, "requirements": [{"item": "tomanium", "amount": 4}, {"item": "qyyalo", "amount": 2}], "research": "tomanium-conveyor", "category": "distribution", "size": 1}

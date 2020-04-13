@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yifi underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "yifi", "amount": 3}, {"item": "tuma", "amount": 1}], "research": "yifi-conveyor", "category": "distribution", "invert": false}

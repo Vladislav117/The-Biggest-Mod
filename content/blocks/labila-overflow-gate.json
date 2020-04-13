@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "labila overflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "labila", "amount": 2}, {"item": "boqi", "amount": 1}], "research": "labila-conveyor", "category": "distribution", "invert": false}

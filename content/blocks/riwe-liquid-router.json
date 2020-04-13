@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "riwe liquid router", "description": "...", "size": 1, "health": 77, "requirements": [{"item": "riwe", "amount": 8}, {"item": "rega", "amount": 20}, {"item": "sonydu", "amount": 6}], "research": "riwe-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sewazo battery", "description": "...", "size": 3, "health": 21, "requirements": [{"item": "sewazo", "amount": 12}, {"item": "toni", "amount": 3}, {"item": "jepumi", "amount": 9}], "research": "sewazo-factory", "consumes": {"powerBuffered": 3148}, "category": "power"}

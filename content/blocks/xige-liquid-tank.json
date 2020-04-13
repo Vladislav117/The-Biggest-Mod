@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xige liquid tank", "description": "...", "health": 317, "size": 3, "requirements": [{"item": "xige", "amount": 4}, {"item": "jizi", "amount": 14}, {"item": "yidugonium", "amount": 8}], "research": "xige-conduit", "category": "liquid", "liquidCapacity": 109622, "hasLiquids": true}

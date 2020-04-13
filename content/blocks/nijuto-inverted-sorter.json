@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nijuto inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "nijuto", "amount": 4}, {"item": "qokenium", "amount": 1}], "research": "nijuto-conveyor", "category": "distribution", "invert": true}

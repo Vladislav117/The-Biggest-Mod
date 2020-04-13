@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nogosy power node", "description": "...", "size": 2, "health": 459, "requirements": [{"item": "nogosy", "amount": 6}, {"item": "zayuku", "amount": 3}, {"item": "bybity", "amount": 8}], "research": "nogosy-factory", "maxNodes": 24, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "wuvyci force projector", "description": "...", "health": 197, "size": 3, "consumes": {"power": 5.0, "item": "wuvyci"}, "requirements": [{"item": "wuvyci", "amount": 4}, {"item": "motaty", "amount": 3}, {"item": "kanuya", "amount": 6}], "research": "wuvyci-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kiye conduit", "description": "...", "health": 50, "requirements": [{"item": "kiye", "amount": 17}, {"item": "cafe", "amount": 18}, {"item": "susi", "amount": 3}], "liquidCapacity": 46, "liquidPressure": 4, "research": "kiye-factory", "category": "liquid"}

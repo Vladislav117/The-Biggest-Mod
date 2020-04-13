@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "netalu conduit", "description": "...", "health": 184, "requirements": [{"item": "netalu", "amount": 9}, {"item": "deco", "amount": 7}, {"item": "jinu", "amount": 4}], "liquidCapacity": 25, "liquidPressure": 5, "research": "netalu-factory", "category": "liquid"}

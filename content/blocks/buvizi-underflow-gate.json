@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "buvizi underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "buvizi", "amount": 1}, {"item": "lypoje", "amount": 4}], "research": "buvizi-conveyor", "category": "distribution", "invert": false}

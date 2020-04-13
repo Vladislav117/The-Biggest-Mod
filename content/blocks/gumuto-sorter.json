@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gumuto sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "gumuto", "amount": 5}, {"item": "kilu", "amount": 2}], "research": "gumuto-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kyrafinium inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "kyrafinium", "amount": 5}, {"item": "jomoka", "amount": 5}], "research": "kyrafinium-conveyor", "category": "distribution", "invert": true}

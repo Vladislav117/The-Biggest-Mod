@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "haviyunium power node", "description": "...", "size": 2, "health": 281, "requirements": [{"item": "haviyunium", "amount": 2}, {"item": "hakenium", "amount": 5}, {"item": "hitiva", "amount": 5}], "research": "haviyunium-factory", "maxNodes": 21, "laserRange": 12, "category": "power"}

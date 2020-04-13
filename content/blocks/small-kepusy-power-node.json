@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kepusy power node", "description": "...", "size": 1, "health": 145, "requirements": [{"item": "kepusy", "amount": 1}, {"item": "lahydo", "amount": 13}, {"item": "hebohy", "amount": 8}], "research": "kepusy-factory", "maxNodes": 11, "laserRange": 18, "category": "power"}

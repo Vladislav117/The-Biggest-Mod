@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cire junction", "description": "...", "health": 20, "speed": 19, "capacity": 3, "size": 1, "requirements": [{"item": "cire", "amount": 2}, {"item": "guto", "amount": 4}], "research": "cire-conveyor", "category": "distribution"}

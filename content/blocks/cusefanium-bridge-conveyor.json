@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cusefanium bridge conveyor", "description": "", "health": 46, "range": 7, "speed": 13, "bufferCapacity": 21, "requirements": [{"item": "cusefanium", "amount": 1}, {"item": "cupo", "amount": 1}], "research": "cusefanium-conveyor", "category": "distribution", "size": 1}

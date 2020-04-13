@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "sadani overdrive projector", "description": "...", "health": 94, "consumes": {"power": 3.0, "item": "sadani"}, "size": 2, "requirements": [{"item": "sadani", "amount": 7}, {"item": "gymypa", "amount": 10}, {"item": "sewazo", "amount": 10}], "research": "sadani-factory", "category": "effect"}

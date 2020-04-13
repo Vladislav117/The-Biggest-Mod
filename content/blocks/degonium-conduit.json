@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "degonium conduit", "description": "...", "health": 39, "requirements": [{"item": "degonium", "amount": 13}, {"item": "tigocenium", "amount": 13}, {"item": "reduty", "amount": 1}], "liquidCapacity": 13, "liquidPressure": 6, "research": "degonium-factory", "category": "liquid"}

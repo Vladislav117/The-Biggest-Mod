@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qayine overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "qayine", "amount": 5}, {"item": "garoqanium", "amount": 4}], "research": "qayine-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "doya solar panel", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "doya", "amount": 2}, {"item": "hezinium", "amount": 5}, {"item": "zoqivanium", "amount": 1}], "research": "doya-factory", "powerProduction": 11.976298326365304, "category": "power"}

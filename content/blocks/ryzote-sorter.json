@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ryzote sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "ryzote", "amount": 3}, {"item": "lolu", "amount": 3}], "research": "ryzote-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fubaza junction", "description": "...", "health": 41, "speed": 18, "capacity": 15, "size": 1, "requirements": [{"item": "fubaza", "amount": 3}, {"item": "valetynium", "amount": 3}], "research": "fubaza-conveyor", "category": "distribution"}

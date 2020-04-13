@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bapu junction", "description": "...", "health": 29, "speed": 14, "capacity": 4, "size": 1, "requirements": [{"item": "bapu", "amount": 5}, {"item": "yifity", "amount": 1}], "research": "bapu-conveyor", "category": "distribution"}

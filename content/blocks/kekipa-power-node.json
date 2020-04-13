@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kekipa power node", "description": "...", "size": 2, "health": 325, "requirements": [{"item": "kekipa", "amount": 2}, {"item": "kudohi", "amount": 10}, {"item": "lanaja", "amount": 9}], "research": "kekipa-factory", "maxNodes": 16, "laserRange": 18, "category": "power"}

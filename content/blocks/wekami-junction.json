@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wekami junction", "description": "...", "health": 35, "speed": 10, "capacity": 3, "size": 1, "requirements": [{"item": "wekami", "amount": 5}, {"item": "xyzeja", "amount": 5}], "research": "wekami-conveyor", "category": "distribution"}

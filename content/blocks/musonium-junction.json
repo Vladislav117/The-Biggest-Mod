@@ -1,0 +1,1 @@
+{"type": "junction", "name": "musonium junction", "description": "...", "health": 43, "speed": 12, "capacity": 7, "size": 1, "requirements": [{"item": "musonium", "amount": 4}, {"item": "deriye", "amount": 1}], "research": "musonium-conveyor", "category": "distribution"}

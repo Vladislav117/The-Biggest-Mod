@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lekekenium conduit", "description": "...", "health": 33, "requirements": [{"item": "lekekenium", "amount": 7}, {"item": "lyvukynium", "amount": 8}, {"item": "rytysynium", "amount": 5}], "liquidCapacity": 31, "liquidPressure": 2, "research": "lekekenium-factory", "category": "liquid"}

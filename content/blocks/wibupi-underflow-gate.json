@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wibupi underflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "wibupi", "amount": 3}, {"item": "rigozo", "amount": 4}], "research": "wibupi-conveyor", "category": "distribution", "invert": false}

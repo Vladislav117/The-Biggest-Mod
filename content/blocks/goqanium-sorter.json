@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "goqanium sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "goqanium", "amount": 2}, {"item": "besu", "amount": 4}], "research": "goqanium-conveyor", "category": "distribution", "invert": false}

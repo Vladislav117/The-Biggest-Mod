@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "soki conveyor", "description": "...", "health": 305, "requirements": [{"item": "soki", "amount": 10}, {"item": "zokacu", "amount": 5}], "speed": 0.10776429583107527, "research": "soki-factory", "category": "distribution"}

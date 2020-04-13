@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "goqanium conveyor", "description": "...", "health": 192, "requirements": [{"item": "goqanium", "amount": 6}, {"item": "nevyle", "amount": 8}], "speed": 0.2719939899545114, "research": "goqanium-factory", "category": "distribution"}

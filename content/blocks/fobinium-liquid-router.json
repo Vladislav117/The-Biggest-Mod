@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fobinium liquid router", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "fobinium", "amount": 10}, {"item": "zube", "amount": 7}, {"item": "jycepynium", "amount": 8}], "research": "fobinium-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "letohy solar panel", "description": "...", "size": 3, "health": 41, "requirements": [{"item": "letohy", "amount": 3}, {"item": "qehynium", "amount": 6}, {"item": "xybi", "amount": 9}], "research": "letohy-factory", "powerProduction": 15.294828924653947, "category": "power"}

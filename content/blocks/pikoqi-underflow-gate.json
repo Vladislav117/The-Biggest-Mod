@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pikoqi underflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "pikoqi", "amount": 1}, {"item": "vadoda", "amount": 2}], "research": "pikoqi-conveyor", "category": "distribution", "invert": false}

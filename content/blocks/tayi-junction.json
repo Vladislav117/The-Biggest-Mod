@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tayi junction", "description": "...", "health": 31, "speed": 18, "capacity": 14, "size": 1, "requirements": [{"item": "tayi", "amount": 1}, {"item": "nimi", "amount": 4}], "research": "tayi-conveyor", "category": "distribution"}

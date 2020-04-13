@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "toqe liquid tank", "description": "...", "health": 607, "size": 3, "requirements": [{"item": "toqe", "amount": 10}, {"item": "wama", "amount": 8}, {"item": "viza", "amount": 2}], "research": "toqe-conduit", "category": "liquid", "liquidCapacity": 92461, "hasLiquids": true}

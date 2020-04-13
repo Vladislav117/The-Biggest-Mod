@@ -1,0 +1,1 @@
+{"type": "router", "name": "muza router", "description": "...", "health": 200, "size": 1, "requirements": [{"item": "muza", "amount": 5}], "research": "muza-conveyor", "category": "distribution"}

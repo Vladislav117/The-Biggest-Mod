@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "daci inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "daci", "amount": 5}, {"item": "sija", "amount": 4}], "research": "daci-conveyor", "category": "distribution", "invert": true}

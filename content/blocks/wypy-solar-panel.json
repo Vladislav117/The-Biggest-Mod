@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wypy solar panel", "description": "...", "size": 3, "health": 13, "requirements": [{"item": "wypy", "amount": 6}, {"item": "nevyle", "amount": 6}, {"item": "tyno", "amount": 10}], "research": "wypy-factory", "powerProduction": 1.8845323826794762, "category": "power"}

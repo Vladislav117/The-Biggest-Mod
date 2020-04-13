@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qadezu solar panel", "description": "...", "size": 3, "health": 195, "requirements": [{"item": "qadezu", "amount": 15}, {"item": "boseho", "amount": 6}, {"item": "zesi", "amount": 1}], "research": "qadezu-factory", "powerProduction": 3.4100714252413176, "category": "power"}

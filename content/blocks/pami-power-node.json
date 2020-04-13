@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pami power node", "description": "...", "size": 2, "health": 85, "requirements": [{"item": "pami", "amount": 12}, {"item": "qidibe", "amount": 20}, {"item": "zywave", "amount": 6}], "research": "pami-factory", "maxNodes": 60, "laserRange": 17, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "miva battery", "description": "...", "size": 3, "health": 47, "requirements": [{"item": "miva", "amount": 7}, {"item": "zary", "amount": 16}, {"item": "qijy", "amount": 7}], "research": "miva-factory", "consumes": {"powerBuffered": 2179}, "category": "power"}

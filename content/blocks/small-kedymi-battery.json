@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kedymi battery", "description": "...", "size": 1, "health": 119, "requirements": [{"item": "kedymi", "amount": 17}, {"item": "zotonium", "amount": 12}, {"item": "kokyya", "amount": 5}], "research": "kedymi-factory", "consumes": {"powerBuffered": 1084}, "category": "power"}

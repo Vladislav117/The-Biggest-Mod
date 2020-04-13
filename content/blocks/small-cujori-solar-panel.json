@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cujori solar panel", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "cujori", "amount": 6}, {"item": "caho", "amount": 8}, {"item": "zahaqa", "amount": 3}], "research": "cujori-factory", "powerProduction": 2.8132284076538174, "category": "power"}

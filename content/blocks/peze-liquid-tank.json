@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "peze liquid tank", "description": "...", "health": 480, "size": 3, "requirements": [{"item": "peze", "amount": 15}, {"item": "kiredi", "amount": 16}, {"item": "fuyoja", "amount": 7}], "research": "peze-conduit", "category": "liquid", "liquidCapacity": 25775, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gahy junction", "description": "...", "health": 42, "speed": 7, "capacity": 11, "size": 1, "requirements": [{"item": "gahy", "amount": 2}, {"item": "diforinium", "amount": 1}], "research": "gahy-conveyor", "category": "distribution"}

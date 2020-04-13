@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sore conduit", "description": "...", "health": 147, "requirements": [{"item": "sore", "amount": 17}, {"item": "graphite", "amount": 11}, {"item": "lyru", "amount": 6}], "liquidCapacity": 22, "liquidPressure": 9, "research": "sore-factory", "category": "liquid"}

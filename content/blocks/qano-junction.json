@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qano junction", "description": "...", "health": 4, "speed": 20, "capacity": 17, "size": 1, "requirements": [{"item": "qano", "amount": 5}, {"item": "gonu", "amount": 4}], "research": "qano-conveyor", "category": "distribution"}

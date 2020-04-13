@@ -1,0 +1,1 @@
+{"type": "battery", "name": "peloronium battery", "description": "...", "size": 3, "health": 31, "requirements": [{"item": "peloronium", "amount": 5}, {"item": "maqe", "amount": 20}, {"item": "yuvynium", "amount": 2}], "research": "peloronium-factory", "consumes": {"powerBuffered": 745}, "category": "power"}

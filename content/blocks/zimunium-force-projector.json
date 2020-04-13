@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "zimunium force projector", "description": "...", "health": 197, "size": 3, "consumes": {"power": 5.0, "item": "zimunium"}, "requirements": [{"item": "zimunium", "amount": 18}, {"item": "cuso", "amount": 8}, {"item": "wozyju", "amount": 4}], "research": "zimunium-factory", "category": "effect"}

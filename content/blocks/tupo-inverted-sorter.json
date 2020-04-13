@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tupo inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "tupo", "amount": 3}, {"item": "gotomy", "amount": 4}], "research": "tupo-conveyor", "category": "distribution", "invert": true}

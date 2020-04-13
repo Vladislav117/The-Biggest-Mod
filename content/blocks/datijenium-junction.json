@@ -1,0 +1,1 @@
+{"type": "junction", "name": "datijenium junction", "description": "...", "health": 12, "speed": 1, "capacity": 14, "size": 1, "requirements": [{"item": "datijenium", "amount": 1}, {"item": "tenuty", "amount": 4}], "research": "datijenium-conveyor", "category": "distribution"}

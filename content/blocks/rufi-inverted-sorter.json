@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rufi inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "rufi", "amount": 2}, {"item": "zypiqi", "amount": 4}], "research": "rufi-conveyor", "category": "distribution", "invert": true}

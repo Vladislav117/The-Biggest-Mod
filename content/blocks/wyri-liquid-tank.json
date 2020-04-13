@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wyri liquid tank", "description": "...", "health": 389, "size": 3, "requirements": [{"item": "wyri", "amount": 13}, {"item": "dase", "amount": 11}, {"item": "byfa", "amount": 5}], "research": "wyri-conduit", "category": "liquid", "liquidCapacity": 98915, "hasLiquids": true}

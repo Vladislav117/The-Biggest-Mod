@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gohi power node", "description": "...", "size": 1, "health": 105, "requirements": [{"item": "gohi", "amount": 18}, {"item": "ruwy", "amount": 12}, {"item": "vesy", "amount": 10}], "research": "gohi-factory", "maxNodes": 7, "laserRange": 20, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tuse solar panel", "description": "...", "size": 1, "health": 191, "requirements": [{"item": "tuse", "amount": 1}, {"item": "cuwe", "amount": 7}, {"item": "vuponium", "amount": 8}], "research": "tuse-factory", "powerProduction": 1.8729310079217831, "category": "power"}

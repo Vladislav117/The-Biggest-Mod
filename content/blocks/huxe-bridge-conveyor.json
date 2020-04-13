@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "huxe bridge conveyor", "description": "", "health": 38, "range": 12, "speed": 12, "bufferCapacity": 9, "requirements": [{"item": "huxe", "amount": 4}, {"item": "vapoqanium", "amount": 5}], "research": "huxe-conveyor", "category": "distribution", "size": 1}

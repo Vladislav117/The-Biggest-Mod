@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kikanium junction", "description": "...", "health": 50, "speed": 6, "capacity": 18, "size": 1, "requirements": [{"item": "kikanium", "amount": 4}, {"item": "hazi", "amount": 3}], "research": "kikanium-conveyor", "category": "distribution"}

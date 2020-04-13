@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "culy solar panel", "description": "...", "size": 3, "health": 25, "requirements": [{"item": "culy", "amount": 10}, {"item": "xapu", "amount": 3}, {"item": "xuze", "amount": 2}], "research": "culy-factory", "powerProduction": 1.1358781611496975, "category": "power"}

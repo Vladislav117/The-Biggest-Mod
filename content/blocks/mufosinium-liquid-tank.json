@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mufosinium liquid tank", "description": "...", "health": 663, "size": 3, "requirements": [{"item": "mufosinium", "amount": 8}, {"item": "syxidonium", "amount": 4}, {"item": "daqy", "amount": 2}], "research": "mufosinium-conduit", "category": "liquid", "liquidCapacity": 83109, "hasLiquids": true}

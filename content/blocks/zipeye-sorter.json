@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zipeye sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "zipeye", "amount": 4}, {"item": "loja", "amount": 4}], "research": "zipeye-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "siceku battery", "description": "...", "size": 3, "health": 225, "requirements": [{"item": "siceku", "amount": 1}, {"item": "ryzyzi", "amount": 2}, {"item": "jumonium", "amount": 9}], "research": "siceku-factory", "consumes": {"powerBuffered": 1465}, "category": "power"}

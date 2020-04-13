@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sygami liquid router", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "sygami", "amount": 5}, {"item": "rahu", "amount": 3}, {"item": "migy", "amount": 6}], "research": "sygami-conduit", "liquidCapacity": 10, "category": "liquid"}

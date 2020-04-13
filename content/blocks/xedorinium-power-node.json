@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xedorinium power node", "description": "...", "size": 2, "health": 411, "requirements": [{"item": "xedorinium", "amount": 15}, {"item": "besu", "amount": 11}, {"item": "jeqidynium", "amount": 9}], "research": "xedorinium-factory", "maxNodes": 15, "laserRange": 16, "category": "power"}

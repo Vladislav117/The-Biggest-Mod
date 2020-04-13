@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small somufu solar panel", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "somufu", "amount": 20}, {"item": "zexi", "amount": 3}, {"item": "zuwabo", "amount": 6}], "research": "somufu-factory", "powerProduction": 0.18043311014286192, "category": "power"}

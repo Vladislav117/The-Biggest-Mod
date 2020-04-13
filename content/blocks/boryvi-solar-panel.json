@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "boryvi solar panel", "description": "...", "size": 3, "health": 331, "requirements": [{"item": "boryvi", "amount": 8}, {"item": "zotonium", "amount": 15}, {"item": "reduty", "amount": 1}], "research": "boryvi-factory", "powerProduction": 0.007918819423931418, "category": "power"}

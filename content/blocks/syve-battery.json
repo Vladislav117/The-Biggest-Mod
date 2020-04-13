@@ -1,0 +1,1 @@
+{"type": "battery", "name": "syve battery", "description": "...", "size": 3, "health": 377, "requirements": [{"item": "syve", "amount": 6}, {"item": "siwi", "amount": 11}, {"item": "kepy", "amount": 3}], "research": "syve-factory", "consumes": {"powerBuffered": 7111}, "category": "power"}

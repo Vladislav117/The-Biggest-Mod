@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kuyome liquid router", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "kuyome", "amount": 1}, {"item": "cupedi", "amount": 10}, {"item": "sofowo", "amount": 10}], "research": "kuyome-conduit", "liquidCapacity": 10, "category": "liquid"}

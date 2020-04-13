@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zuga battery", "description": "...", "size": 1, "health": 63, "requirements": [{"item": "zuga", "amount": 20}, {"item": "ravexi", "amount": 14}, {"item": "qepusenium", "amount": 6}], "research": "zuga-factory", "consumes": {"powerBuffered": 1019}, "category": "power"}

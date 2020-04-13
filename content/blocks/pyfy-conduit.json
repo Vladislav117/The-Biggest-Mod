@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pyfy conduit", "description": "...", "health": 135, "requirements": [{"item": "pyfy", "amount": 17}, {"item": "hofa", "amount": 12}, {"item": "hihuly", "amount": 9}], "liquidCapacity": 29, "liquidPressure": 4, "research": "pyfy-factory", "category": "liquid"}

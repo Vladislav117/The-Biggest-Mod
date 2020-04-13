@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xuhenium junction", "description": "...", "health": 41, "speed": 14, "capacity": 17, "size": 1, "requirements": [{"item": "xuhenium", "amount": 2}, {"item": "tewo", "amount": 3}], "research": "xuhenium-conveyor", "category": "distribution"}

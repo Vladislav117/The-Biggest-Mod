@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jerenium bridge conveyor", "description": "", "health": 27, "range": 3, "speed": 19, "bufferCapacity": 19, "requirements": [{"item": "jerenium", "amount": 4}, {"item": "zadi", "amount": 3}], "research": "jerenium-conveyor", "category": "distribution", "size": 1}

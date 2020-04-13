@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "huxo liquid tank", "description": "...", "health": 498, "size": 3, "requirements": [{"item": "huxo", "amount": 3}, {"item": "surge-alloy", "amount": 4}, {"item": "lyceca", "amount": 5}], "research": "huxo-conduit", "category": "liquid", "liquidCapacity": 119878, "hasLiquids": true}

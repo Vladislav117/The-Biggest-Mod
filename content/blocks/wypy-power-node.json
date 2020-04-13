@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wypy power node", "description": "...", "size": 2, "health": 797, "requirements": [{"item": "wypy", "amount": 2}, {"item": "mote", "amount": 4}, {"item": "zapu", "amount": 4}], "research": "wypy-factory", "maxNodes": 54, "laserRange": 10, "category": "power"}

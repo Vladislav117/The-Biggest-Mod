@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "beku conveyor", "description": "...", "health": 140, "requirements": [{"item": "beku", "amount": 1}, {"item": "netonium", "amount": 2}], "speed": 0.19237162714569944, "research": "beku-factory", "category": "distribution"}

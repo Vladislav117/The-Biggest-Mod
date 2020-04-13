@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hegyzi battery", "description": "...", "size": 1, "health": 200, "requirements": [{"item": "hegyzi", "amount": 7}, {"item": "qihy", "amount": 4}, {"item": "ledome", "amount": 4}], "research": "hegyzi-factory", "consumes": {"powerBuffered": 2693}, "category": "power"}

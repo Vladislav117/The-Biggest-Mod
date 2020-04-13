@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tiqeti solar panel", "description": "...", "size": 1, "health": 174, "requirements": [{"item": "tiqeti", "amount": 1}, {"item": "laho", "amount": 9}, {"item": "xusunium", "amount": 10}], "research": "tiqeti-factory", "powerProduction": 8.472343970301171, "category": "power"}

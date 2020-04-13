@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lewoxy solar panel", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "lewoxy", "amount": 6}, {"item": "kaye", "amount": 3}, {"item": "vulo", "amount": 4}], "research": "lewoxy-factory", "powerProduction": 0.3087600017171751, "category": "power"}

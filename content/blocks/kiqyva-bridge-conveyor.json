@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kiqyva bridge conveyor", "description": "", "health": 7, "range": 19, "speed": 4, "bufferCapacity": 22, "requirements": [{"item": "kiqyva", "amount": 4}, {"item": "buji", "amount": 5}], "research": "kiqyva-conveyor", "category": "distribution", "size": 1}

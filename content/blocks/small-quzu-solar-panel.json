@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small quzu solar panel", "description": "...", "size": 1, "health": 255, "requirements": [{"item": "quzu", "amount": 18}, {"item": "noxy", "amount": 10}, {"item": "mepysynium", "amount": 8}], "research": "quzu-factory", "powerProduction": 0.04418749127567299, "category": "power"}

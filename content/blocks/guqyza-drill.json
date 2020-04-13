@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "guqyza drill", "description": "...", "size": 4, "health": 387, "tier": 1, "drillTime": 20, "consumes": {"power": 6}, "requirements": [{"item": "guqyza", "amount": 14}, {"item": "cynehe", "amount": 19}, {"item": "deqo", "amount": 6}], "research": "guqyza-factory", "category": "production"}

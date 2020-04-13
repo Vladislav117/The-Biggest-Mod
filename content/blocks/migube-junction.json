@@ -1,0 +1,1 @@
+{"type": "junction", "name": "migube junction", "description": "...", "health": 36, "speed": 13, "capacity": 8, "size": 1, "requirements": [{"item": "migube", "amount": 1}, {"item": "syxidonium", "amount": 4}], "research": "migube-conveyor", "category": "distribution"}

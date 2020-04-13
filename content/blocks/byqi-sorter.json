@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "byqi sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "byqi", "amount": 5}, {"item": "syqelu", "amount": 1}], "research": "byqi-conveyor", "category": "distribution", "invert": false}

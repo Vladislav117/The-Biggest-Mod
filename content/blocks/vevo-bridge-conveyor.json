@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vevo bridge conveyor", "description": "", "health": 16, "range": 8, "speed": 5, "bufferCapacity": 14, "requirements": [{"item": "vevo", "amount": 1}, {"item": "jigobanium", "amount": 4}], "research": "vevo-conveyor", "category": "distribution", "size": 1}

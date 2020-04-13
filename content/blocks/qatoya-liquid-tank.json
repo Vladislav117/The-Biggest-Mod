@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qatoya liquid tank", "description": "...", "health": 371, "size": 3, "requirements": [{"item": "qatoya", "amount": 18}, {"item": "yyle", "amount": 11}, {"item": "kiye", "amount": 6}], "research": "qatoya-conduit", "category": "liquid", "liquidCapacity": 12212, "hasLiquids": true}

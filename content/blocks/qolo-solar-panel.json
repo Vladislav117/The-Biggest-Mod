@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qolo solar panel", "description": "...", "size": 3, "health": 67, "requirements": [{"item": "qolo", "amount": 20}, {"item": "yeyunonium", "amount": 19}, {"item": "cibu", "amount": 6}], "research": "qolo-factory", "powerProduction": 0.5129931475689168, "category": "power"}

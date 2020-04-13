@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dose solar panel", "description": "...", "size": 3, "health": 235, "requirements": [{"item": "dose", "amount": 12}, {"item": "huwydy", "amount": 17}, {"item": "nytina", "amount": 10}], "research": "dose-factory", "powerProduction": 0.509691098965135, "category": "power"}

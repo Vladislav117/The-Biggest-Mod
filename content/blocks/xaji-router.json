@@ -1,0 +1,1 @@
+{"type": "router", "name": "xaji router", "description": "...", "health": 80, "size": 1, "requirements": [{"item": "xaji", "amount": 5}], "research": "xaji-conveyor", "category": "distribution"}

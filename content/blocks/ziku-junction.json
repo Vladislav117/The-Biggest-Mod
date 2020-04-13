@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ziku junction", "description": "...", "health": 46, "speed": 11, "capacity": 3, "size": 1, "requirements": [{"item": "ziku", "amount": 4}, {"item": "tiwyna", "amount": 1}], "research": "ziku-conveyor", "category": "distribution"}

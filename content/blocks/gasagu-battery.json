@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gasagu battery", "description": "...", "size": 3, "health": 357, "requirements": [{"item": "gasagu", "amount": 7}, {"item": "nufa", "amount": 9}, {"item": "cowi", "amount": 1}], "research": "gasagu-factory", "consumes": {"powerBuffered": 7049}, "category": "power"}

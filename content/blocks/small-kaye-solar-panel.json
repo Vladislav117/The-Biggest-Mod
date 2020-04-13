@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kaye solar panel", "description": "...", "size": 1, "health": 69, "requirements": [{"item": "kaye", "amount": 1}, {"item": "sewa", "amount": 18}, {"item": "bipanium", "amount": 6}], "research": "kaye-factory", "powerProduction": 0.11148021656398101, "category": "power"}

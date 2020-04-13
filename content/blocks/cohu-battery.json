@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cohu battery", "description": "...", "size": 3, "health": 28, "requirements": [{"item": "cohu", "amount": 4}, {"item": "yoleqy", "amount": 13}, {"item": "yowiminium", "amount": 8}], "research": "cohu-factory", "consumes": {"powerBuffered": 3901}, "category": "power"}

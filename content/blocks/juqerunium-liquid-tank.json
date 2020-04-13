@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "juqerunium liquid tank", "description": "...", "health": 287, "size": 3, "requirements": [{"item": "juqerunium", "amount": 15}, {"item": "yuhy", "amount": 17}, {"item": "coqaqynium", "amount": 1}], "research": "juqerunium-conduit", "category": "liquid", "liquidCapacity": 96206, "hasLiquids": true}

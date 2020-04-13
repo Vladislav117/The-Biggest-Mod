@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dyqo underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "dyqo", "amount": 4}, {"item": "fysubi", "amount": 5}], "research": "dyqo-conveyor", "category": "distribution", "invert": false}

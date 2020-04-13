@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "buvizi liquid router", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "buvizi", "amount": 2}, {"item": "zeqonium", "amount": 8}, {"item": "tybunium", "amount": 9}], "research": "buvizi-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yeby drill", "description": "...", "size": 3, "health": 220, "tier": 1, "drillTime": 20, "consumes": {"power": 4}, "requirements": [{"item": "yeby", "amount": 5}, {"item": "fupymi", "amount": 16}, {"item": "ryheco", "amount": 4}], "research": "yeby-factory", "category": "production"}

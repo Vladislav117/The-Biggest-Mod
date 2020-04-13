@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fusaji solar panel", "description": "...", "size": 1, "health": 399, "requirements": [{"item": "fusaji", "amount": 19}, {"item": "myhuzi", "amount": 13}, {"item": "pele", "amount": 1}], "research": "fusaji-factory", "powerProduction": 2.367644226986123, "category": "power"}

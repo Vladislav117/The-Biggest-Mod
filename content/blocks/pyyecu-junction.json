@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pyyecu junction", "description": "...", "health": 27, "speed": 12, "capacity": 16, "size": 1, "requirements": [{"item": "pyyecu", "amount": 2}, {"item": "ciyo", "amount": 1}], "research": "pyyecu-conveyor", "category": "distribution"}

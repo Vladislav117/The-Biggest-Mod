@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nihy power node", "description": "...", "size": 2, "health": 306, "requirements": [{"item": "nihy", "amount": 3}, {"item": "qerobu", "amount": 11}, {"item": "puwasy", "amount": 4}], "research": "nihy-factory", "maxNodes": 34, "laserRange": 30, "category": "power"}

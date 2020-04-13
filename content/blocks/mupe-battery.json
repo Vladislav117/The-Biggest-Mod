@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mupe battery", "description": "...", "size": 3, "health": 176, "requirements": [{"item": "mupe", "amount": 1}, {"item": "vene", "amount": 14}, {"item": "myyu", "amount": 6}], "research": "mupe-factory", "consumes": {"powerBuffered": 8042}, "category": "power"}

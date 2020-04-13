@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ledome liquid tank", "description": "...", "health": 363, "size": 3, "requirements": [{"item": "ledome", "amount": 1}, {"item": "hakenium", "amount": 1}, {"item": "zoju", "amount": 10}], "research": "ledome-conduit", "category": "liquid", "liquidCapacity": 74696, "hasLiquids": true}

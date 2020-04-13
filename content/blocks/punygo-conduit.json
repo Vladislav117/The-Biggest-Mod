@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "punygo conduit", "description": "...", "health": 151, "requirements": [{"item": "punygo", "amount": 16}, {"item": "zywave", "amount": 3}, {"item": "bugyta", "amount": 1}], "liquidCapacity": 7, "liquidPressure": 10, "research": "punygo-factory", "category": "liquid"}

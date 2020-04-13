@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small genule power node", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "genule", "amount": 13}, {"item": "cusefanium", "amount": 4}, {"item": "xasahu", "amount": 9}], "research": "genule-factory", "maxNodes": 28, "laserRange": 14, "category": "power"}

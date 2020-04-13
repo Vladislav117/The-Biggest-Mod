@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gihalu conduit", "description": "...", "health": 195, "requirements": [{"item": "gihalu", "amount": 14}, {"item": "tifi", "amount": 16}, {"item": "xadunium", "amount": 8}], "liquidCapacity": 12, "liquidPressure": 7, "research": "gihalu-factory", "category": "liquid"}

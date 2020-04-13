@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "darunium power node", "description": "...", "size": 2, "health": 707, "requirements": [{"item": "darunium", "amount": 20}, {"item": "tujy", "amount": 6}, {"item": "zodo", "amount": 2}], "research": "darunium-factory", "maxNodes": 50, "laserRange": 9, "category": "power"}

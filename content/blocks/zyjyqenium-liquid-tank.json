@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyjyqenium liquid tank", "description": "...", "health": 600, "size": 3, "requirements": [{"item": "zyjyqenium", "amount": 9}, {"item": "vole", "amount": 10}, {"item": "jywupa", "amount": 4}], "research": "zyjyqenium-conduit", "category": "liquid", "liquidCapacity": 107530, "hasLiquids": true}

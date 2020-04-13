@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "siviny liquid tank", "description": "...", "health": 156, "size": 3, "requirements": [{"item": "siviny", "amount": 14}, {"item": "bexa", "amount": 7}, {"item": "pijebu", "amount": 8}], "research": "siviny-conduit", "category": "liquid", "liquidCapacity": 102373, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gecoma conduit", "description": "...", "health": 34, "requirements": [{"item": "gecoma", "amount": 6}, {"item": "cyyo", "amount": 17}, {"item": "genane", "amount": 9}], "liquidCapacity": 38, "liquidPressure": 7, "research": "gecoma-factory", "category": "liquid"}

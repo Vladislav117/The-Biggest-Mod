@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sygami liquid tank", "description": "...", "health": 143, "size": 3, "requirements": [{"item": "sygami", "amount": 5}, {"item": "vewi", "amount": 17}, {"item": "qukeso", "amount": 8}], "research": "sygami-conduit", "category": "liquid", "liquidCapacity": 63963, "hasLiquids": true}

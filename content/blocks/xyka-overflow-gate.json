@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xyka overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "xyka", "amount": 1}, {"item": "hyvyje", "amount": 1}], "research": "xyka-conveyor", "category": "distribution", "invert": false}

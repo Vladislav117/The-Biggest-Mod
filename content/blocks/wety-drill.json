@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wety drill", "description": "...", "size": 3, "health": 354, "tier": 2, "drillTime": 20, "consumes": {"power": 13}, "requirements": [{"item": "wety", "amount": 20}, {"item": "wasebanium", "amount": 3}, {"item": "naku", "amount": 5}], "research": "wety-factory", "category": "production"}

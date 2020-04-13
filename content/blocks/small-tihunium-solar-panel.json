@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tihunium solar panel", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "tihunium", "amount": 14}, {"item": "jidy", "amount": 14}, {"item": "nofy", "amount": 2}], "research": "tihunium-factory", "powerProduction": 6.290297232957794, "category": "power"}

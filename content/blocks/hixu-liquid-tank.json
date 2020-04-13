@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hixu liquid tank", "description": "...", "health": 349, "size": 3, "requirements": [{"item": "hixu", "amount": 4}, {"item": "gonu", "amount": 1}, {"item": "ceyuwy", "amount": 6}], "research": "hixu-conduit", "category": "liquid", "liquidCapacity": 31762, "hasLiquids": true}

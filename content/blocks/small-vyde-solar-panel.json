@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vyde solar panel", "description": "...", "size": 1, "health": 386, "requirements": [{"item": "vyde", "amount": 13}, {"item": "zire", "amount": 12}, {"item": "sesico", "amount": 3}], "research": "vyde-factory", "powerProduction": 8.9751315790063, "category": "power"}

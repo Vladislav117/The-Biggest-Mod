@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "demu sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "demu", "amount": 3}, {"item": "nogosy", "amount": 3}], "research": "demu-conveyor", "category": "distribution", "invert": false}

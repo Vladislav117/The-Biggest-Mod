@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sigu battery", "description": "...", "size": 1, "health": 130, "requirements": [{"item": "sigu", "amount": 14}, {"item": "fyye", "amount": 2}, {"item": "vilyco", "amount": 8}], "research": "sigu-factory", "consumes": {"powerBuffered": 1189}, "category": "power"}

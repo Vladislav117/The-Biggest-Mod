@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jypanium liquid tank", "description": "...", "health": 286, "size": 3, "requirements": [{"item": "jypanium", "amount": 6}, {"item": "wavoli", "amount": 6}, {"item": "xovunium", "amount": 5}], "research": "jypanium-conduit", "category": "liquid", "liquidCapacity": 96895, "hasLiquids": true}

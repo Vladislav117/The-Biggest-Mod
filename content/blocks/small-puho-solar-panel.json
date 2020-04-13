@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small puho solar panel", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "puho", "amount": 18}, {"item": "qupu", "amount": 19}, {"item": "byxyvi", "amount": 6}], "research": "puho-factory", "powerProduction": 0.8739817366597704, "category": "power"}

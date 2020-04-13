@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pacezu conduit", "description": "...", "health": 21, "requirements": [{"item": "pacezu", "amount": 1}, {"item": "rawynium", "amount": 10}, {"item": "muqonium", "amount": 9}], "liquidCapacity": 35, "liquidPressure": 6, "research": "pacezu-factory", "category": "liquid"}

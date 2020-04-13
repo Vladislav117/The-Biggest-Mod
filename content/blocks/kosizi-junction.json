@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kosizi junction", "description": "...", "health": 34, "speed": 15, "capacity": 18, "size": 1, "requirements": [{"item": "kosizi", "amount": 2}, {"item": "wycumu", "amount": 2}], "research": "kosizi-conveyor", "category": "distribution"}

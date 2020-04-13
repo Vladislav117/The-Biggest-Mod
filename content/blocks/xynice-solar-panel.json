@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xynice solar panel", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "xynice", "amount": 12}, {"item": "pikoqi", "amount": 3}, {"item": "muby", "amount": 2}], "research": "xynice-factory", "powerProduction": 0.5120045420604247, "category": "power"}

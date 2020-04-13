@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "joku conduit", "description": "...", "health": 196, "requirements": [{"item": "joku", "amount": 14}, {"item": "zuva", "amount": 7}, {"item": "linu", "amount": 6}], "liquidCapacity": 50, "liquidPressure": 4, "research": "joku-factory", "category": "liquid"}

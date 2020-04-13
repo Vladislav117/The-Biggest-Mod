@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "momosa overdrive projector", "description": "...", "health": 108, "consumes": {"power": 3.0, "item": "momosa"}, "size": 2, "requirements": [{"item": "momosa", "amount": 10}, {"item": "tujy", "amount": 18}, {"item": "yebyte", "amount": 5}], "research": "momosa-factory", "category": "effect"}

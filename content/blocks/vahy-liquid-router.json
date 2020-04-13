@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vahy liquid router", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "vahy", "amount": 9}, {"item": "baqo", "amount": 8}, {"item": "qerobu", "amount": 4}], "research": "vahy-conduit", "liquidCapacity": 10, "category": "liquid"}

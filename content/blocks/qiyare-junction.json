@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qiyare junction", "description": "...", "health": 33, "speed": 4, "capacity": 7, "size": 1, "requirements": [{"item": "qiyare", "amount": 3}, {"item": "higy", "amount": 3}], "research": "qiyare-conveyor", "category": "distribution"}

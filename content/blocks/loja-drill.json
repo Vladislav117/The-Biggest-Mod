@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "loja drill", "description": "...", "size": 4, "health": 325, "tier": 1, "drillTime": 19, "consumes": {"power": 13}, "requirements": [{"item": "loja", "amount": 3}, {"item": "daye", "amount": 3}, {"item": "juwynium", "amount": 10}], "research": "loja-factory", "category": "production"}

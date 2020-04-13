@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jexanium liquid router", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "jexanium", "amount": 15}, {"item": "cazewy", "amount": 20}, {"item": "yonegi", "amount": 8}], "research": "jexanium-conduit", "liquidCapacity": 10, "category": "liquid"}

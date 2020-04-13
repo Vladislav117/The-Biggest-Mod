@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nuhixonium battery", "description": "...", "size": 1, "health": 340, "requirements": [{"item": "nuhixonium", "amount": 2}, {"item": "nipapu", "amount": 3}, {"item": "zywave", "amount": 5}], "research": "nuhixonium-factory", "consumes": {"powerBuffered": 1284}, "category": "power"}

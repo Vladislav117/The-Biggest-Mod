@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "datijenium liquid tank", "description": "...", "health": 457, "size": 3, "requirements": [{"item": "datijenium", "amount": 1}, {"item": "fezudanium", "amount": 1}, {"item": "heke", "amount": 6}], "research": "datijenium-conduit", "category": "liquid", "liquidCapacity": 111741, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sorory battery", "description": "...", "size": 3, "health": 203, "requirements": [{"item": "sorory", "amount": 15}, {"item": "xedorinium", "amount": 5}, {"item": "voqa", "amount": 10}], "research": "sorory-factory", "consumes": {"powerBuffered": 4737}, "category": "power"}

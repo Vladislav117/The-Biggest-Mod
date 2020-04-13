@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qadezu power node", "description": "...", "size": 2, "health": 458, "requirements": [{"item": "qadezu", "amount": 9}, {"item": "wimu", "amount": 5}, {"item": "lyqyqo", "amount": 2}], "research": "qadezu-factory", "maxNodes": 52, "laserRange": 13, "category": "power"}

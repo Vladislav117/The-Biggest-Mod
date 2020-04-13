@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lulo bridge conveyor", "description": "", "health": 35, "range": 6, "speed": 15, "bufferCapacity": 5, "requirements": [{"item": "lulo", "amount": 4}, {"item": "zowenium", "amount": 2}], "research": "lulo-conveyor", "category": "distribution", "size": 1}

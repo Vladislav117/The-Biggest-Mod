@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bylo liquid tank", "description": "...", "health": 528, "size": 3, "requirements": [{"item": "bylo", "amount": 6}, {"item": "danitu", "amount": 5}, {"item": "wajese", "amount": 4}], "research": "bylo-conduit", "category": "liquid", "liquidCapacity": 79275, "hasLiquids": true}

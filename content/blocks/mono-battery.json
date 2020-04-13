@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mono battery", "description": "...", "size": 3, "health": 284, "requirements": [{"item": "mono", "amount": 20}, {"item": "kokidenium", "amount": 19}, {"item": "vavaqi", "amount": 3}], "research": "mono-factory", "consumes": {"powerBuffered": 9122}, "category": "power"}

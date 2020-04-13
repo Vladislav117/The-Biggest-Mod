@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wafa junction", "description": "...", "health": 35, "speed": 14, "capacity": 18, "size": 1, "requirements": [{"item": "wafa", "amount": 2}, {"item": "dogequ", "amount": 5}], "research": "wafa-conveyor", "category": "distribution"}

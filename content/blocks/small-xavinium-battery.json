@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xavinium battery", "description": "...", "size": 1, "health": 391, "requirements": [{"item": "xavinium", "amount": 11}, {"item": "bajenium", "amount": 13}, {"item": "phase-fabric", "amount": 8}], "research": "xavinium-factory", "consumes": {"powerBuffered": 1113}, "category": "power"}

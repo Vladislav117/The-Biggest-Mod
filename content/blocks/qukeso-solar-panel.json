@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qukeso solar panel", "description": "...", "size": 3, "health": 98, "requirements": [{"item": "qukeso", "amount": 16}, {"item": "seyo", "amount": 8}, {"item": "juyy", "amount": 5}], "research": "qukeso-factory", "powerProduction": 0.6692164013661324, "category": "power"}

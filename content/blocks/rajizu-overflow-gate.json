@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rajizu overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "rajizu", "amount": 2}, {"item": "yydaqe", "amount": 2}], "research": "rajizu-conveyor", "category": "distribution", "invert": false}

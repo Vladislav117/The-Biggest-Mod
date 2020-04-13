@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pijunynium battery", "description": "...", "size": 3, "health": 235, "requirements": [{"item": "pijunynium", "amount": 7}, {"item": "hypi", "amount": 17}, {"item": "zele", "amount": 4}], "research": "pijunynium-factory", "consumes": {"powerBuffered": 4286}, "category": "power"}

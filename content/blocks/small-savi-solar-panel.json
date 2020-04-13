@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small savi solar panel", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "savi", "amount": 19}, {"item": "kovi", "amount": 8}, {"item": "qari", "amount": 1}], "research": "savi-factory", "powerProduction": 0.2575841948611235, "category": "power"}

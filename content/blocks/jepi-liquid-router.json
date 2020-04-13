@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jepi liquid router", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "jepi", "amount": 17}, {"item": "fukapinium", "amount": 10}, {"item": "tivo", "amount": 1}], "research": "jepi-conduit", "liquidCapacity": 10, "category": "liquid"}

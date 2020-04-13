@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vypo battery", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "vypo", "amount": 7}, {"item": "kani", "amount": 16}, {"item": "kygarynium", "amount": 9}], "research": "vypo-factory", "consumes": {"powerBuffered": 2616}, "category": "power"}

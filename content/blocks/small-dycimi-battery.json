@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dycimi battery", "description": "...", "size": 1, "health": 175, "requirements": [{"item": "dycimi", "amount": 3}, {"item": "fahi", "amount": 11}, {"item": "nejesu", "amount": 7}], "research": "dycimi-factory", "consumes": {"powerBuffered": 920}, "category": "power"}

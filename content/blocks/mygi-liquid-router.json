@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mygi liquid router", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "mygi", "amount": 6}, {"item": "baqilo", "amount": 1}, {"item": "rymyfanium", "amount": 8}], "research": "mygi-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jubu junction", "description": "...", "health": 34, "speed": 15, "capacity": 18, "size": 1, "requirements": [{"item": "jubu", "amount": 1}, {"item": "dipyfonium", "amount": 2}], "research": "jubu-conveyor", "category": "distribution"}

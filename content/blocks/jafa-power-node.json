@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jafa power node", "description": "...", "size": 2, "health": 357, "requirements": [{"item": "jafa", "amount": 2}, {"item": "xylidinium", "amount": 3}, {"item": "linu", "amount": 2}], "research": "jafa-factory", "maxNodes": 58, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "siwi junction", "description": "...", "health": 6, "speed": 7, "capacity": 5, "size": 1, "requirements": [{"item": "siwi", "amount": 4}, {"item": "qerobu", "amount": 4}], "research": "siwi-conveyor", "category": "distribution"}

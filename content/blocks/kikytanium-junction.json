@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kikytanium junction", "description": "...", "health": 49, "speed": 15, "capacity": 8, "size": 1, "requirements": [{"item": "kikytanium", "amount": 5}, {"item": "rymyfanium", "amount": 2}], "research": "kikytanium-conveyor", "category": "distribution"}

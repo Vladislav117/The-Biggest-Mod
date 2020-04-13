@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "temu bridge conveyor", "description": "", "health": 42, "range": 8, "speed": 3, "bufferCapacity": 6, "requirements": [{"item": "temu", "amount": 2}, {"item": "bilyvanium", "amount": 1}], "research": "temu-conveyor", "category": "distribution", "size": 1}

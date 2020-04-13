@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "piqo liquid router", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "piqo", "amount": 6}, {"item": "lymy", "amount": 1}, {"item": "mavitu", "amount": 5}], "research": "piqo-conduit", "liquidCapacity": 10, "category": "liquid"}

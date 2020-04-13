@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zosy solar panel", "description": "...", "size": 3, "health": 349, "requirements": [{"item": "zosy", "amount": 5}, {"item": "rehyce", "amount": 3}, {"item": "hugevinium", "amount": 5}], "research": "zosy-factory", "powerProduction": 0.38653471844162884, "category": "power"}

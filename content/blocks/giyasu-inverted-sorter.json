@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "giyasu inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "giyasu", "amount": 3}, {"item": "genekinium", "amount": 3}], "research": "giyasu-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "papo battery", "description": "...", "size": 3, "health": 129, "requirements": [{"item": "papo", "amount": 5}, {"item": "yepufi", "amount": 3}, {"item": "wavoli", "amount": 10}], "research": "papo-factory", "consumes": {"powerBuffered": 4858}, "category": "power"}

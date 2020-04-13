@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kecufi inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "kecufi", "amount": 5}, {"item": "lynulo", "amount": 1}], "research": "kecufi-conveyor", "category": "distribution", "invert": true}

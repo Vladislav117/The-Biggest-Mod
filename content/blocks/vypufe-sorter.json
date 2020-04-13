@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vypufe sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "vypufe", "amount": 4}, {"item": "loyomy", "amount": 1}], "research": "vypufe-conveyor", "category": "distribution", "invert": false}

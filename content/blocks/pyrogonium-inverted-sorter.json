@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pyrogonium inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "pyrogonium", "amount": 5}, {"item": "woze", "amount": 3}], "research": "pyrogonium-conveyor", "category": "distribution", "invert": true}

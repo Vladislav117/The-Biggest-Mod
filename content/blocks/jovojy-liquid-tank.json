@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jovojy liquid tank", "description": "...", "health": 329, "size": 3, "requirements": [{"item": "jovojy", "amount": 20}, {"item": "ceyuwy", "amount": 5}, {"item": "nynoyu", "amount": 7}], "research": "jovojy-conduit", "category": "liquid", "liquidCapacity": 91635, "hasLiquids": true}

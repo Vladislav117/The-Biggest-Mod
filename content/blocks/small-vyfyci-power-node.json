@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vyfyci power node", "description": "...", "size": 1, "health": 199, "requirements": [{"item": "vyfyci", "amount": 11}, {"item": "goti", "amount": 1}, {"item": "mapanium", "amount": 5}], "research": "vyfyci-factory", "maxNodes": 11, "laserRange": 3, "category": "power"}

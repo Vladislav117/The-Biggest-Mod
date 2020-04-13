@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yatu battery", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "yatu", "amount": 12}, {"item": "bufywy", "amount": 10}, {"item": "cafe", "amount": 6}], "research": "yatu-factory", "consumes": {"powerBuffered": 7458}, "category": "power"}

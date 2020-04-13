@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rebanium junction", "description": "...", "health": 9, "speed": 15, "capacity": 1, "size": 1, "requirements": [{"item": "rebanium", "amount": 4}, {"item": "wuvu", "amount": 5}], "research": "rebanium-conveyor", "category": "distribution"}

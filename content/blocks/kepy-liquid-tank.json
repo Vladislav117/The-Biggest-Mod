@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kepy liquid tank", "description": "...", "health": 200, "size": 3, "requirements": [{"item": "kepy", "amount": 15}, {"item": "kilu", "amount": 7}, {"item": "fyfoni", "amount": 7}], "research": "kepy-conduit", "category": "liquid", "liquidCapacity": 66417, "hasLiquids": true}

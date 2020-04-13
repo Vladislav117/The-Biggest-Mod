@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hunadanium power node", "description": "...", "size": 2, "health": 585, "requirements": [{"item": "hunadanium", "amount": 13}, {"item": "naronium", "amount": 4}, {"item": "maya", "amount": 10}], "research": "hunadanium-factory", "maxNodes": 60, "laserRange": 27, "category": "power"}

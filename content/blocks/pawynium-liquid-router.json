@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pawynium liquid router", "description": "...", "size": 1, "health": 24, "requirements": [{"item": "pawynium", "amount": 12}, {"item": "pyhune", "amount": 5}, {"item": "befy", "amount": 8}], "research": "pawynium-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "weva overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "weva", "amount": 4}, {"item": "dizuqo", "amount": 1}], "research": "weva-conveyor", "category": "distribution", "invert": false}

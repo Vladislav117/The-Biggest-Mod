@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kupu liquid router", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "kupu", "amount": 1}, {"item": "hiwenium", "amount": 4}, {"item": "tupo", "amount": 2}], "research": "kupu-conduit", "liquidCapacity": 10, "category": "liquid"}

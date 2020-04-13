@@ -1,0 +1,1 @@
+{"type": "junction", "name": "joluxinium junction", "description": "...", "health": 34, "speed": 17, "capacity": 5, "size": 1, "requirements": [{"item": "joluxinium", "amount": 3}, {"item": "lowapo", "amount": 4}], "research": "joluxinium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nybinium drill", "description": "...", "size": 2, "health": 164, "tier": 1, "drillTime": 6, "consumes": {"power": 17}, "requirements": [{"item": "nybinium", "amount": 18}, {"item": "byja", "amount": 5}, {"item": "balyvo", "amount": 9}], "research": "nybinium-factory", "category": "production"}

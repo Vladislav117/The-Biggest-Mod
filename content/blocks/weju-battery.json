@@ -1,0 +1,1 @@
+{"type": "battery", "name": "weju battery", "description": "...", "size": 3, "health": 15, "requirements": [{"item": "weju", "amount": 4}, {"item": "kexebinium", "amount": 2}, {"item": "furazinium", "amount": 3}], "research": "weju-factory", "consumes": {"powerBuffered": 8896}, "category": "power"}

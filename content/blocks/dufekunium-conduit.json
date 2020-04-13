@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dufekunium conduit", "description": "...", "health": 175, "requirements": [{"item": "dufekunium", "amount": 6}, {"item": "neloto", "amount": 20}, {"item": "pyhune", "amount": 4}], "liquidCapacity": 46, "liquidPressure": 9, "research": "dufekunium-factory", "category": "liquid"}

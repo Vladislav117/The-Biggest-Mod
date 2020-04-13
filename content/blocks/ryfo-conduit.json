@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ryfo conduit", "description": "...", "health": 21, "requirements": [{"item": "ryfo", "amount": 17}, {"item": "pazanium", "amount": 5}, {"item": "zugoni", "amount": 1}], "liquidCapacity": 13, "liquidPressure": 9, "research": "ryfo-factory", "category": "liquid"}

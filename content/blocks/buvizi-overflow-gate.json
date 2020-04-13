@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "buvizi overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "buvizi", "amount": 5}, {"item": "hyxunium", "amount": 2}], "research": "buvizi-conveyor", "category": "distribution", "invert": false}

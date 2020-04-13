@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jidy liquid tank", "description": "...", "health": 269, "size": 3, "requirements": [{"item": "jidy", "amount": 13}, {"item": "cuxenium", "amount": 3}, {"item": "gahe", "amount": 5}], "research": "jidy-conduit", "category": "liquid", "liquidCapacity": 72456, "hasLiquids": true}

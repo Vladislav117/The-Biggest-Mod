@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "bekoyinium overdrive projector", "description": "...", "health": 99, "consumes": {"power": 3.0, "item": "bekoyinium"}, "size": 2, "requirements": [{"item": "bekoyinium", "amount": 6}, {"item": "fukapinium", "amount": 6}, {"item": "hudolo", "amount": 5}], "research": "bekoyinium-factory", "category": "effect"}

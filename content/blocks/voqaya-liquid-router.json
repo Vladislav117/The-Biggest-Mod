@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "voqaya liquid router", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "voqaya", "amount": 18}, {"item": "wewaya", "amount": 3}, {"item": "rakuhy", "amount": 7}], "research": "voqaya-conduit", "liquidCapacity": 10, "category": "liquid"}

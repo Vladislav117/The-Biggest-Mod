@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dyri conduit", "description": "...", "health": 150, "requirements": [{"item": "dyri", "amount": 8}, {"item": "siyenium", "amount": 8}, {"item": "cuwe", "amount": 4}], "liquidCapacity": 28, "liquidPressure": 8, "research": "dyri-factory", "category": "liquid"}

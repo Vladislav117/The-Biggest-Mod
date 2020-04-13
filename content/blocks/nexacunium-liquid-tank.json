@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nexacunium liquid tank", "description": "...", "health": 404, "size": 3, "requirements": [{"item": "nexacunium", "amount": 9}, {"item": "qepyvonium", "amount": 6}, {"item": "laqu", "amount": 5}], "research": "nexacunium-conduit", "category": "liquid", "liquidCapacity": 41410, "hasLiquids": true}

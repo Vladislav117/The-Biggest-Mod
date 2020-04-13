@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "juwomi bridge conveyor", "description": "", "health": 18, "range": 8, "speed": 4, "bufferCapacity": 13, "requirements": [{"item": "juwomi", "amount": 4}, {"item": "xozime", "amount": 1}], "research": "juwomi-conveyor", "category": "distribution", "size": 1}

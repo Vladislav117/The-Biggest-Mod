@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yoqaja power node", "description": "...", "size": 1, "health": 146, "requirements": [{"item": "yoqaja", "amount": 16}, {"item": "zocela", "amount": 13}, {"item": "meny", "amount": 5}], "research": "yoqaja-factory", "maxNodes": 5, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "peguca junction", "description": "...", "health": 27, "speed": 8, "capacity": 7, "size": 1, "requirements": [{"item": "peguca", "amount": 1}, {"item": "yonegi", "amount": 5}], "research": "peguca-conveyor", "category": "distribution"}

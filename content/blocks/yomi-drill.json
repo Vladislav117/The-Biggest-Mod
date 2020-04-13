@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yomi drill", "description": "...", "size": 2, "health": 406, "tier": 3, "drillTime": 18, "consumes": {"power": 13}, "requirements": [{"item": "yomi", "amount": 13}, {"item": "hisoye", "amount": 2}, {"item": "cavyjo", "amount": 10}], "research": "yomi-factory", "category": "production"}

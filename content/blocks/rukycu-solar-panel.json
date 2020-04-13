@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rukycu solar panel", "description": "...", "size": 3, "health": 148, "requirements": [{"item": "rukycu", "amount": 11}, {"item": "lead", "amount": 4}, {"item": "kubi", "amount": 2}], "research": "rukycu-factory", "powerProduction": 0.41122198122789777, "category": "power"}

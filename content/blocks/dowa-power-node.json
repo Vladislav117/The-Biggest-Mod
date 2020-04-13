@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dowa power node", "description": "...", "size": 2, "health": 736, "requirements": [{"item": "dowa", "amount": 16}, {"item": "sytafe", "amount": 17}, {"item": "tydy", "amount": 6}], "research": "dowa-factory", "maxNodes": 10, "laserRange": 12, "category": "power"}

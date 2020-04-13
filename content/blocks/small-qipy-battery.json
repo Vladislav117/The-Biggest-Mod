@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qipy battery", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "qipy", "amount": 19}, {"item": "siwobanium", "amount": 8}, {"item": "tohi", "amount": 2}], "research": "qipy-factory", "consumes": {"powerBuffered": 1240}, "category": "power"}

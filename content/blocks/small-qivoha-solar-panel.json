@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qivoha solar panel", "description": "...", "size": 1, "health": 256, "requirements": [{"item": "qivoha", "amount": 20}, {"item": "qokike", "amount": 12}, {"item": "kosonium", "amount": 5}], "research": "qivoha-factory", "powerProduction": 2.590586952978368, "category": "power"}

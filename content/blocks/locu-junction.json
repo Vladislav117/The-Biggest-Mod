@@ -1,0 +1,1 @@
+{"type": "junction", "name": "locu junction", "description": "...", "health": 20, "speed": 16, "capacity": 20, "size": 1, "requirements": [{"item": "locu", "amount": 3}, {"item": "naku", "amount": 1}], "research": "locu-conveyor", "category": "distribution"}

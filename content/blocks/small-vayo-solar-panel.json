@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vayo solar panel", "description": "...", "size": 1, "health": 355, "requirements": [{"item": "vayo", "amount": 1}, {"item": "zumi", "amount": 4}, {"item": "vusy", "amount": 6}], "research": "vayo-factory", "powerProduction": 11.268630339432207, "category": "power"}

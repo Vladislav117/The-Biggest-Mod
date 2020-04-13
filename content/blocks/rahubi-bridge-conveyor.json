@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rahubi bridge conveyor", "description": "", "health": 31, "range": 18, "speed": 6, "bufferCapacity": 3, "requirements": [{"item": "rahubi", "amount": 2}, {"item": "fumena", "amount": 3}], "research": "rahubi-conveyor", "category": "distribution", "size": 1}

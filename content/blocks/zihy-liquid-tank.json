@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zihy liquid tank", "description": "...", "health": 293, "size": 3, "requirements": [{"item": "zihy", "amount": 8}, {"item": "dyzo", "amount": 1}, {"item": "vewavu", "amount": 4}], "research": "zihy-conduit", "category": "liquid", "liquidCapacity": 62013, "hasLiquids": true}

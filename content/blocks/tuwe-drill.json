@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tuwe drill", "description": "...", "size": 4, "health": 126, "tier": 1, "drillTime": 1, "consumes": {"power": 4}, "requirements": [{"item": "tuwe", "amount": 14}, {"item": "vakyxinium", "amount": 10}, {"item": "gabipi", "amount": 10}], "research": "tuwe-factory", "category": "production"}

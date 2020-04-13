@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qoxida bridge conveyor", "description": "", "health": 11, "range": 14, "speed": 4, "bufferCapacity": 24, "requirements": [{"item": "qoxida", "amount": 5}, {"item": "paky", "amount": 2}], "research": "qoxida-conveyor", "category": "distribution", "size": 1}

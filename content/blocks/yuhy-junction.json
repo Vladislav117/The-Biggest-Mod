@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yuhy junction", "description": "...", "health": 32, "speed": 13, "capacity": 19, "size": 1, "requirements": [{"item": "yuhy", "amount": 5}, {"item": "wiba", "amount": 2}], "research": "yuhy-conveyor", "category": "distribution"}

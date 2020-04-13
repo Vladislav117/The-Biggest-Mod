@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fuza liquid tank", "description": "...", "health": 264, "size": 3, "requirements": [{"item": "fuza", "amount": 16}, {"item": "becugi", "amount": 18}, {"item": "zekaru", "amount": 8}], "research": "fuza-conduit", "category": "liquid", "liquidCapacity": 94097, "hasLiquids": true}

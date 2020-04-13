@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zyqita battery", "description": "...", "size": 3, "health": 99, "requirements": [{"item": "zyqita", "amount": 15}, {"item": "yijotu", "amount": 15}, {"item": "zityyanium", "amount": 7}], "research": "zyqita-factory", "consumes": {"powerBuffered": 6670}, "category": "power"}

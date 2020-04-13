@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zemo liquid tank", "description": "...", "health": 273, "size": 3, "requirements": [{"item": "zemo", "amount": 14}, {"item": "tyqylo", "amount": 2}, {"item": "hopinium", "amount": 9}], "research": "zemo-conduit", "category": "liquid", "liquidCapacity": 103054, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fixunium liquid tank", "description": "...", "health": 386, "size": 3, "requirements": [{"item": "fixunium", "amount": 15}, {"item": "dawe", "amount": 20}, {"item": "laqunium", "amount": 9}], "research": "fixunium-conduit", "category": "liquid", "liquidCapacity": 5741, "hasLiquids": true}

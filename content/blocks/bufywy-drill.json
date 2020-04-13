@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bufywy drill", "description": "...", "size": 2, "health": 419, "tier": 2, "drillTime": 13, "consumes": {"power": 8}, "requirements": [{"item": "bufywy", "amount": 10}, {"item": "rutylo", "amount": 15}, {"item": "yucy", "amount": 5}], "research": "bufywy-factory", "category": "production"}

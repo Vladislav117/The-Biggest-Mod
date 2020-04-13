@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vosenium solar panel", "description": "...", "size": 3, "health": 147, "requirements": [{"item": "vosenium", "amount": 9}, {"item": "cydeyy", "amount": 7}, {"item": "rowi", "amount": 6}], "research": "vosenium-factory", "powerProduction": 0.39178885746617464, "category": "power"}

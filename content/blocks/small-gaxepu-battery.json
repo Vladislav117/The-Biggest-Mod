@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gaxepu battery", "description": "...", "size": 1, "health": 299, "requirements": [{"item": "gaxepu", "amount": 5}, {"item": "nuno", "amount": 16}, {"item": "famynium", "amount": 9}], "research": "gaxepu-factory", "consumes": {"powerBuffered": 2077}, "category": "power"}

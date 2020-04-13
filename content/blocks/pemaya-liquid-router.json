@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pemaya liquid router", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "pemaya", "amount": 2}, {"item": "cuhynenium", "amount": 6}, {"item": "tupo", "amount": 1}], "research": "pemaya-conduit", "liquidCapacity": 10, "category": "liquid"}

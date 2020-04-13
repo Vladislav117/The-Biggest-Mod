@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yymujy liquid tank", "description": "...", "health": 598, "size": 3, "requirements": [{"item": "yymujy", "amount": 3}, {"item": "tise", "amount": 3}, {"item": "cozuja", "amount": 1}], "research": "yymujy-conduit", "category": "liquid", "liquidCapacity": 21623, "hasLiquids": true}

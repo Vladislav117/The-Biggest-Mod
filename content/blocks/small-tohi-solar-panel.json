@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tohi solar panel", "description": "...", "size": 1, "health": 155, "requirements": [{"item": "tohi", "amount": 4}, {"item": "lyfydy", "amount": 4}, {"item": "wuniso", "amount": 10}], "research": "tohi-factory", "powerProduction": 1.5345771178190357, "category": "power"}

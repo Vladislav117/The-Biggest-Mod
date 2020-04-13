@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hebijanium conduit", "description": "...", "health": 140, "requirements": [{"item": "hebijanium", "amount": 15}, {"item": "cymaca", "amount": 19}, {"item": "toma", "amount": 1}], "liquidCapacity": 7, "liquidPressure": 10, "research": "hebijanium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kekipa battery", "description": "...", "size": 1, "health": 248, "requirements": [{"item": "kekipa", "amount": 7}, {"item": "body", "amount": 9}, {"item": "pyce", "amount": 8}], "research": "kekipa-factory", "consumes": {"powerBuffered": 1121}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "capy liquid tank", "description": "...", "health": 398, "size": 3, "requirements": [{"item": "capy", "amount": 8}, {"item": "mapi", "amount": 6}, {"item": "hociku", "amount": 4}], "research": "capy-conduit", "category": "liquid", "liquidCapacity": 49154, "hasLiquids": true}

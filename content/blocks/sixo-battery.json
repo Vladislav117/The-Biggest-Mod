@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sixo battery", "description": "...", "size": 3, "health": 291, "requirements": [{"item": "sixo", "amount": 7}, {"item": "bixehy", "amount": 3}, {"item": "hunadanium", "amount": 5}], "research": "sixo-factory", "consumes": {"powerBuffered": 7661}, "category": "power"}

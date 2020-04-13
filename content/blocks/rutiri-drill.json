@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "rutiri drill", "description": "...", "size": 4, "health": 213, "tier": 4, "drillTime": 6, "consumes": {"power": 12}, "requirements": [{"item": "rutiri", "amount": 12}, {"item": "yicavu", "amount": 2}, {"item": "sofowo", "amount": 6}], "research": "rutiri-factory", "category": "production"}

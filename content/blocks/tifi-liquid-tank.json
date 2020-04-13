@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tifi liquid tank", "description": "...", "health": 191, "size": 3, "requirements": [{"item": "tifi", "amount": 15}, {"item": "pygu", "amount": 5}, {"item": "socyhi", "amount": 9}], "research": "tifi-conduit", "category": "liquid", "liquidCapacity": 53797, "hasLiquids": true}

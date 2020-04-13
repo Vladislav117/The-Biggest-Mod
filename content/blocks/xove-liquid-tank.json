@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xove liquid tank", "description": "...", "health": 482, "size": 3, "requirements": [{"item": "xove", "amount": 16}, {"item": "cyxibe", "amount": 20}, {"item": "toku", "amount": 7}], "research": "xove-conduit", "category": "liquid", "liquidCapacity": 79805, "hasLiquids": true}

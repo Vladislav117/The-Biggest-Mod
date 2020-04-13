@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hegyzi solar panel", "description": "...", "size": 1, "health": 206, "requirements": [{"item": "hegyzi", "amount": 4}, {"item": "vaqo", "amount": 16}, {"item": "qiqole", "amount": 6}], "research": "hegyzi-factory", "powerProduction": 2.1791574314236146, "category": "power"}

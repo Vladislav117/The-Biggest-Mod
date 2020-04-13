@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wisipu conduit", "description": "...", "health": 195, "requirements": [{"item": "wisipu", "amount": 3}, {"item": "wycenu", "amount": 18}, {"item": "rawynium", "amount": 2}], "liquidCapacity": 49, "liquidPressure": 6, "research": "wisipu-factory", "category": "liquid"}

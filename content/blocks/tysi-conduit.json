@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tysi conduit", "description": "...", "health": 67, "requirements": [{"item": "tysi", "amount": 18}, {"item": "fuji", "amount": 4}, {"item": "nilara", "amount": 6}], "liquidCapacity": 28, "liquidPressure": 6, "research": "tysi-factory", "category": "liquid"}

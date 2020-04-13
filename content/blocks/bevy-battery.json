@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bevy battery", "description": "...", "size": 3, "health": 275, "requirements": [{"item": "bevy", "amount": 10}, {"item": "mumu", "amount": 6}, {"item": "loceli", "amount": 3}], "research": "bevy-factory", "consumes": {"powerBuffered": 4953}, "category": "power"}

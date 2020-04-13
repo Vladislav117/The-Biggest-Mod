@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vosamo bridge conveyor", "description": "", "health": 39, "range": 4, "speed": 19, "bufferCapacity": 21, "requirements": [{"item": "vosamo", "amount": 5}, {"item": "nifego", "amount": 1}], "research": "vosamo-conveyor", "category": "distribution", "size": 1}

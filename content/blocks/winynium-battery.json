@@ -1,0 +1,1 @@
+{"type": "battery", "name": "winynium battery", "description": "...", "size": 3, "health": 166, "requirements": [{"item": "winynium", "amount": 14}, {"item": "cogy", "amount": 14}, {"item": "goxize", "amount": 10}], "research": "winynium-factory", "consumes": {"powerBuffered": 9975}, "category": "power"}

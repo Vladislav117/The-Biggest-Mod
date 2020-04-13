@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gahe battery", "description": "...", "size": 3, "health": 157, "requirements": [{"item": "gahe", "amount": 15}, {"item": "gyporu", "amount": 5}, {"item": "vilyco", "amount": 5}], "research": "gahe-factory", "consumes": {"powerBuffered": 5714}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xebili liquid tank", "description": "...", "health": 384, "size": 3, "requirements": [{"item": "xebili", "amount": 20}, {"item": "qepusenium", "amount": 2}, {"item": "ryte", "amount": 7}], "research": "xebili-conduit", "category": "liquid", "liquidCapacity": 94540, "hasLiquids": true}

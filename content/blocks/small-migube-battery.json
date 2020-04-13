@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small migube battery", "description": "...", "size": 1, "health": 191, "requirements": [{"item": "migube", "amount": 13}, {"item": "depyya", "amount": 5}, {"item": "xeye", "amount": 3}], "research": "migube-factory", "consumes": {"powerBuffered": 1136}, "category": "power"}

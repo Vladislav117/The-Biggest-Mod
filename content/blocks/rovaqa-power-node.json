@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rovaqa power node", "description": "...", "size": 2, "health": 71, "requirements": [{"item": "rovaqa", "amount": 15}, {"item": "padopu", "amount": 8}, {"item": "bihu", "amount": 3}], "research": "rovaqa-factory", "maxNodes": 31, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "loho bridge conveyor", "description": "", "health": 44, "range": 14, "speed": 7, "bufferCapacity": 5, "requirements": [{"item": "loho", "amount": 3}, {"item": "sezuke", "amount": 2}], "research": "loho-conveyor", "category": "distribution", "size": 1}

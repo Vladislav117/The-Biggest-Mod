@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mono liquid tank", "description": "...", "health": 590, "size": 3, "requirements": [{"item": "mono", "amount": 19}, {"item": "jebexo", "amount": 20}, {"item": "wafa", "amount": 3}], "research": "mono-conduit", "category": "liquid", "liquidCapacity": 45536, "hasLiquids": true}

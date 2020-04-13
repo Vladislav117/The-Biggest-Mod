@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wehynium liquid tank", "description": "...", "health": 599, "size": 3, "requirements": [{"item": "wehynium", "amount": 9}, {"item": "hugive", "amount": 1}, {"item": "yuly", "amount": 4}], "research": "wehynium-conduit", "category": "liquid", "liquidCapacity": 42410, "hasLiquids": true}

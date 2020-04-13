@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zori power node", "description": "...", "size": 1, "health": 205, "requirements": [{"item": "zori", "amount": 10}, {"item": "xyduda", "amount": 16}, {"item": "zokacu", "amount": 10}], "research": "zori-factory", "maxNodes": 20, "laserRange": 10, "category": "power"}

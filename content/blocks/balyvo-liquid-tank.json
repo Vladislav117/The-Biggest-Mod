@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "balyvo liquid tank", "description": "...", "health": 543, "size": 3, "requirements": [{"item": "balyvo", "amount": 6}, {"item": "ruryjynium", "amount": 6}, {"item": "yudesinium", "amount": 9}], "research": "balyvo-conduit", "category": "liquid", "liquidCapacity": 19451, "hasLiquids": true}

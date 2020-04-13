@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "liseso liquid tank", "description": "...", "health": 400, "size": 3, "requirements": [{"item": "liseso", "amount": 10}, {"item": "xahyli", "amount": 11}, {"item": "nujunium", "amount": 8}], "research": "liseso-conduit", "category": "liquid", "liquidCapacity": 86480, "hasLiquids": true}

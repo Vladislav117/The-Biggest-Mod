@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sifiwa power node", "description": "...", "size": 1, "health": 131, "requirements": [{"item": "sifiwa", "amount": 6}, {"item": "tuzy", "amount": 1}, {"item": "roky", "amount": 10}], "research": "sifiwa-factory", "maxNodes": 8, "laserRange": 11, "category": "power"}

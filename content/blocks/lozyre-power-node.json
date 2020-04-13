@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lozyre power node", "description": "...", "size": 2, "health": 660, "requirements": [{"item": "lozyre", "amount": 8}, {"item": "sapymanium", "amount": 15}, {"item": "byhonium", "amount": 4}], "research": "lozyre-factory", "maxNodes": 14, "laserRange": 24, "category": "power"}

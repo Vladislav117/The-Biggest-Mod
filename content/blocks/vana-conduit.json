@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vana conduit", "description": "...", "health": 99, "requirements": [{"item": "vana", "amount": 18}, {"item": "qiqe", "amount": 12}, {"item": "nyqepinium", "amount": 9}], "liquidCapacity": 20, "liquidPressure": 9, "research": "vana-factory", "category": "liquid"}

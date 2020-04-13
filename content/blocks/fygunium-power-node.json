@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fygunium power node", "description": "...", "size": 2, "health": 527, "requirements": [{"item": "fygunium", "amount": 9}, {"item": "hyla", "amount": 20}, {"item": "qigine", "amount": 8}], "research": "fygunium-factory", "maxNodes": 12, "laserRange": 26, "category": "power"}

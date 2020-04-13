@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gedo conduit", "description": "...", "health": 25, "requirements": [{"item": "gedo", "amount": 8}, {"item": "puho", "amount": 8}, {"item": "fime", "amount": 1}], "liquidCapacity": 18, "liquidPressure": 8, "research": "gedo-factory", "category": "liquid"}

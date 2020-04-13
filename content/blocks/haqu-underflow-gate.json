@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "haqu underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "haqu", "amount": 3}, {"item": "sytafe", "amount": 2}], "research": "haqu-conveyor", "category": "distribution", "invert": false}

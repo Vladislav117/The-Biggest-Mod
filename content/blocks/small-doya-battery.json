@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small doya battery", "description": "...", "size": 1, "health": 385, "requirements": [{"item": "doya", "amount": 16}, {"item": "rigo", "amount": 20}, {"item": "milosi", "amount": 6}], "research": "doya-factory", "consumes": {"powerBuffered": 2673}, "category": "power"}

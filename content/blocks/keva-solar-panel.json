@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "keva solar panel", "description": "...", "size": 3, "health": 381, "requirements": [{"item": "keva", "amount": 5}, {"item": "sebobe", "amount": 14}, {"item": "dezi", "amount": 7}], "research": "keva-factory", "powerProduction": 0.5043821521911223, "category": "power"}

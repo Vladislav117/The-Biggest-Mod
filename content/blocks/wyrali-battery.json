@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wyrali battery", "description": "...", "size": 3, "health": 347, "requirements": [{"item": "wyrali", "amount": 20}, {"item": "wofu", "amount": 1}, {"item": "nazi", "amount": 7}], "research": "wyrali-factory", "consumes": {"powerBuffered": 4792}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jevufu junction", "description": "...", "health": 33, "speed": 2, "capacity": 20, "size": 1, "requirements": [{"item": "jevufu", "amount": 4}, {"item": "nirenium", "amount": 4}], "research": "jevufu-conveyor", "category": "distribution"}

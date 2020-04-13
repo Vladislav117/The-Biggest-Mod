@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pawusy overflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "pawusy", "amount": 4}, {"item": "mote", "amount": 1}], "research": "pawusy-conveyor", "category": "distribution", "invert": false}

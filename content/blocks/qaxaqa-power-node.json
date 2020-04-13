@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qaxaqa power node", "description": "...", "size": 2, "health": 44, "requirements": [{"item": "qaxaqa", "amount": 15}, {"item": "vawybo", "amount": 20}, {"item": "nuzivo", "amount": 4}], "research": "qaxaqa-factory", "maxNodes": 58, "laserRange": 5, "category": "power"}

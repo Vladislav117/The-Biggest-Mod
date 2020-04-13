@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nimi solar panel", "description": "...", "size": 1, "health": 228, "requirements": [{"item": "nimi", "amount": 12}, {"item": "yajawa", "amount": 2}, {"item": "carani", "amount": 3}], "research": "nimi-factory", "powerProduction": 0.2626194810562787, "category": "power"}

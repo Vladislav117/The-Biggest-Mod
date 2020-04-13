@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kelyqi solar panel", "description": "...", "size": 3, "health": 260, "requirements": [{"item": "kelyqi", "amount": 1}, {"item": "kaniyy", "amount": 8}, {"item": "jaweki", "amount": 2}], "research": "kelyqi-factory", "powerProduction": 2.6278597517047895, "category": "power"}

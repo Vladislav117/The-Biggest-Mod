@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qoqi liquid tank", "description": "...", "health": 212, "size": 3, "requirements": [{"item": "qoqi", "amount": 20}, {"item": "sifony", "amount": 17}, {"item": "qokenium", "amount": 4}], "research": "qoqi-conduit", "category": "liquid", "liquidCapacity": 82831, "hasLiquids": true}

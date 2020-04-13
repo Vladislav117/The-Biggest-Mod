@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fery power node", "description": "...", "size": 2, "health": 543, "requirements": [{"item": "fery", "amount": 11}, {"item": "qehynium", "amount": 9}, {"item": "zimabe", "amount": 3}], "research": "fery-factory", "maxNodes": 43, "laserRange": 13, "category": "power"}

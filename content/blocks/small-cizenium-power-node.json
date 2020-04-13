@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cizenium power node", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "cizenium", "amount": 16}, {"item": "yeci", "amount": 20}, {"item": "heqywanium", "amount": 4}], "research": "cizenium-factory", "maxNodes": 14, "laserRange": 4, "category": "power"}

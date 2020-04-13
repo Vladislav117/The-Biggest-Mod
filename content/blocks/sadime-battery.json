@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sadime battery", "description": "...", "size": 3, "health": 103, "requirements": [{"item": "sadime", "amount": 11}, {"item": "nago", "amount": 12}, {"item": "jafi", "amount": 5}], "research": "sadime-factory", "consumes": {"powerBuffered": 1559}, "category": "power"}

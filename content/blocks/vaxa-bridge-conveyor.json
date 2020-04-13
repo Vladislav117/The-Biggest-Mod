@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vaxa bridge conveyor", "description": "", "health": 18, "range": 19, "speed": 4, "bufferCapacity": 9, "requirements": [{"item": "vaxa", "amount": 3}, {"item": "cisiwa", "amount": 2}], "research": "vaxa-conveyor", "category": "distribution", "size": 1}

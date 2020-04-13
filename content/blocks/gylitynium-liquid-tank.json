@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gylitynium liquid tank", "description": "...", "health": 133, "size": 3, "requirements": [{"item": "gylitynium", "amount": 19}, {"item": "gyhecu", "amount": 1}, {"item": "xega", "amount": 6}], "research": "gylitynium-conduit", "category": "liquid", "liquidCapacity": 113824, "hasLiquids": true}

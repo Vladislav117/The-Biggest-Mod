@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zirive liquid tank", "description": "...", "health": 251, "size": 3, "requirements": [{"item": "zirive", "amount": 2}, {"item": "kupu", "amount": 1}, {"item": "sivaqi", "amount": 6}], "research": "zirive-conduit", "category": "liquid", "liquidCapacity": 72580, "hasLiquids": true}

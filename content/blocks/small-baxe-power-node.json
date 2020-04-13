@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small baxe power node", "description": "...", "size": 1, "health": 288, "requirements": [{"item": "baxe", "amount": 11}, {"item": "ravynium", "amount": 10}, {"item": "jaju", "amount": 1}], "research": "baxe-factory", "maxNodes": 8, "laserRange": 15, "category": "power"}

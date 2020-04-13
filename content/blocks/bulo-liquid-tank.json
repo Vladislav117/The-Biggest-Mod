@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bulo liquid tank", "description": "...", "health": 454, "size": 3, "requirements": [{"item": "bulo", "amount": 11}, {"item": "giyaju", "amount": 5}, {"item": "yatu", "amount": 5}], "research": "bulo-conduit", "category": "liquid", "liquidCapacity": 32046, "hasLiquids": true}

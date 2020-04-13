@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nudo liquid tank", "description": "...", "health": 215, "size": 3, "requirements": [{"item": "nudo", "amount": 17}, {"item": "lyru", "amount": 4}, {"item": "rymojanium", "amount": 3}], "research": "nudo-conduit", "category": "liquid", "liquidCapacity": 39525, "hasLiquids": true}

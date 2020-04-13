@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jafu liquid tank", "description": "...", "health": 562, "size": 3, "requirements": [{"item": "jafu", "amount": 12}, {"item": "vocazu", "amount": 12}, {"item": "fohebi", "amount": 1}], "research": "jafu-conduit", "category": "liquid", "liquidCapacity": 17619, "hasLiquids": true}

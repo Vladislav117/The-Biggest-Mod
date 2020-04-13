@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kypy battery", "description": "...", "size": 1, "health": 237, "requirements": [{"item": "kypy", "amount": 12}, {"item": "pawusy", "amount": 8}, {"item": "xoginium", "amount": 3}], "research": "kypy-factory", "consumes": {"powerBuffered": 1254}, "category": "power"}

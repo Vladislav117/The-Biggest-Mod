@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small foze power node", "description": "...", "size": 1, "health": 63, "requirements": [{"item": "foze", "amount": 16}, {"item": "nifonium", "amount": 4}, {"item": "mimuce", "amount": 5}], "research": "foze-factory", "maxNodes": 30, "laserRange": 11, "category": "power"}

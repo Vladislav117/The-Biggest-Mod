@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pegonium bridge conveyor", "description": "", "health": 44, "range": 8, "speed": 14, "bufferCapacity": 11, "requirements": [{"item": "pegonium", "amount": 4}, {"item": "haviyunium", "amount": 4}], "research": "pegonium-conveyor", "category": "distribution", "size": 1}

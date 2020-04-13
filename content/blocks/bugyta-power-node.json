@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bugyta power node", "description": "...", "size": 2, "health": 516, "requirements": [{"item": "bugyta", "amount": 13}, {"item": "yicejanium", "amount": 12}, {"item": "taci", "amount": 2}], "research": "bugyta-factory", "maxNodes": 28, "laserRange": 28, "category": "power"}

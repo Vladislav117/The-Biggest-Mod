@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vohu liquid tank", "description": "...", "health": 240, "size": 3, "requirements": [{"item": "vohu", "amount": 11}, {"item": "hycywi", "amount": 7}, {"item": "xelu", "amount": 5}], "research": "vohu-conduit", "category": "liquid", "liquidCapacity": 21625, "hasLiquids": true}

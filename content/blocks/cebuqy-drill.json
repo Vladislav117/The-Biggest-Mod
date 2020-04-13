@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cebuqy drill", "description": "...", "size": 4, "health": 327, "tier": 3, "drillTime": 1, "consumes": {"power": 3}, "requirements": [{"item": "cebuqy", "amount": 17}, {"item": "lihinium", "amount": 6}, {"item": "cymaca", "amount": 7}], "research": "cebuqy-factory", "category": "production"}

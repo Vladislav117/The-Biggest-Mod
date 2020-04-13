@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "cafy force projector", "description": "...", "health": 142, "size": 3, "consumes": {"power": 5.0, "item": "cafy"}, "requirements": [{"item": "cafy", "amount": 7}, {"item": "yuvynium", "amount": 9}, {"item": "mivuwa", "amount": 8}], "research": "cafy-factory", "category": "effect"}

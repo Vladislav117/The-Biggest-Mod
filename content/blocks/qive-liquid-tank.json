@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qive liquid tank", "description": "...", "health": 652, "size": 3, "requirements": [{"item": "qive", "amount": 9}, {"item": "miyoqu", "amount": 17}, {"item": "koyiwi", "amount": 10}], "research": "qive-conduit", "category": "liquid", "liquidCapacity": 111209, "hasLiquids": true}

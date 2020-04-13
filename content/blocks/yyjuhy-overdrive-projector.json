@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "yyjuhy overdrive projector", "description": "...", "health": 96, "consumes": {"power": 3.0, "item": "yyjuhy"}, "size": 2, "requirements": [{"item": "yyjuhy", "amount": 20}, {"item": "sofowo", "amount": 20}, {"item": "laxu", "amount": 6}], "research": "yyjuhy-factory", "category": "effect"}

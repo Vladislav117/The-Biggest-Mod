@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "qatu conveyor", "description": "...", "health": 36, "requirements": [{"item": "qatu", "amount": 3}, {"item": "duginium", "amount": 8}], "speed": 0.40268128551071786, "research": "qatu-factory", "category": "distribution"}

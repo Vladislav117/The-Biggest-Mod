@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small falynium battery", "description": "...", "size": 1, "health": 143, "requirements": [{"item": "falynium", "amount": 7}, {"item": "luki", "amount": 4}, {"item": "soqa", "amount": 5}], "research": "falynium-factory", "consumes": {"powerBuffered": 2405}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "syre conveyor", "description": "...", "health": 129, "requirements": [{"item": "syre", "amount": 10}, {"item": "dipyfonium", "amount": 3}], "speed": 0.3872873190594025, "research": "syre-factory", "category": "distribution"}

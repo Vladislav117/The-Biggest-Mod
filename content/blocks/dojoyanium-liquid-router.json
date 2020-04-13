@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dojoyanium liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "dojoyanium", "amount": 12}, {"item": "dicaku", "amount": 3}, {"item": "geqanium", "amount": 6}], "research": "dojoyanium-conduit", "liquidCapacity": 10, "category": "liquid"}

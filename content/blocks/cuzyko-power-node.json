@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cuzyko power node", "description": "...", "size": 2, "health": 578, "requirements": [{"item": "cuzyko", "amount": 1}, {"item": "laso", "amount": 18}, {"item": "fusyle", "amount": 9}], "research": "cuzyko-factory", "maxNodes": 32, "laserRange": 28, "category": "power"}

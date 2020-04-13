@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sivaqi power node", "description": "...", "size": 2, "health": 396, "requirements": [{"item": "sivaqi", "amount": 9}, {"item": "higy", "amount": 2}, {"item": "fuho", "amount": 1}], "research": "sivaqi-factory", "maxNodes": 48, "laserRange": 24, "category": "power"}

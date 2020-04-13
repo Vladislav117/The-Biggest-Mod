@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pydudanium overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "pydudanium", "amount": 3}, {"item": "vevati", "amount": 5}], "research": "pydudanium-conveyor", "category": "distribution", "invert": false}

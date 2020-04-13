@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zoqivanium junction", "description": "...", "health": 19, "speed": 10, "capacity": 6, "size": 1, "requirements": [{"item": "zoqivanium", "amount": 1}, {"item": "yexowy", "amount": 5}], "research": "zoqivanium-conveyor", "category": "distribution"}

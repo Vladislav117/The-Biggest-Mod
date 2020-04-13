@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small liyavu battery", "description": "...", "size": 1, "health": 203, "requirements": [{"item": "liyavu", "amount": 4}, {"item": "bovu", "amount": 19}, {"item": "sara", "amount": 2}], "research": "liyavu-factory", "consumes": {"powerBuffered": 2793}, "category": "power"}

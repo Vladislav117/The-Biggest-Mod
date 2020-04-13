@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nehudo junction", "description": "...", "health": 33, "speed": 20, "capacity": 4, "size": 1, "requirements": [{"item": "nehudo", "amount": 5}, {"item": "sebypa", "amount": 1}], "research": "nehudo-conveyor", "category": "distribution"}

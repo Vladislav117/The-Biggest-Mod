@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dowoca junction", "description": "...", "health": 45, "speed": 11, "capacity": 7, "size": 1, "requirements": [{"item": "dowoca", "amount": 5}, {"item": "horyve", "amount": 1}], "research": "dowoca-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zacaki liquid tank", "description": "...", "health": 390, "size": 3, "requirements": [{"item": "zacaki", "amount": 6}, {"item": "wiyeda", "amount": 11}, {"item": "sacigi", "amount": 2}], "research": "zacaki-conduit", "category": "liquid", "liquidCapacity": 13600, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dyguzu power node", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "dyguzu", "amount": 9}, {"item": "kawo", "amount": 18}, {"item": "bexo", "amount": 1}], "research": "dyguzu-factory", "maxNodes": 11, "laserRange": 9, "category": "power"}

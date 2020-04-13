@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wuho inverted sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "wuho", "amount": 1}, {"item": "lumasunium", "amount": 1}], "research": "wuho-conveyor", "category": "distribution", "invert": true}

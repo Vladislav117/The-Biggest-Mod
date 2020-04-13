@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pyvohe junction", "description": "...", "health": 28, "speed": 2, "capacity": 6, "size": 1, "requirements": [{"item": "pyvohe", "amount": 1}, {"item": "sayibe", "amount": 4}], "research": "pyvohe-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rivezo power node", "description": "...", "size": 1, "health": 364, "requirements": [{"item": "rivezo", "amount": 15}, {"item": "yiveni", "amount": 19}, {"item": "hise", "amount": 9}], "research": "rivezo-factory", "maxNodes": 25, "laserRange": 13, "category": "power"}

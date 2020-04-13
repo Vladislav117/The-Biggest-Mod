@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "laqunium conduit", "description": "...", "health": 62, "requirements": [{"item": "laqunium", "amount": 16}, {"item": "sobu", "amount": 10}, {"item": "tiwyna", "amount": 1}], "liquidCapacity": 28, "liquidPressure": 8, "research": "laqunium-factory", "category": "liquid"}

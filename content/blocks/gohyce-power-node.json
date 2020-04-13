@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gohyce power node", "description": "...", "size": 2, "health": 793, "requirements": [{"item": "gohyce", "amount": 17}, {"item": "temyfu", "amount": 5}, {"item": "zuva", "amount": 8}], "research": "gohyce-factory", "maxNodes": 58, "laserRange": 23, "category": "power"}

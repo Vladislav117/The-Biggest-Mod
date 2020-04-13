@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small taxanium solar panel", "description": "...", "size": 1, "health": 290, "requirements": [{"item": "taxanium", "amount": 20}, {"item": "qeze", "amount": 15}, {"item": "duto", "amount": 7}], "research": "taxanium-factory", "powerProduction": 2.352356480377015, "category": "power"}

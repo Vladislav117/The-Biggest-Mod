@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rebanium power node", "description": "...", "size": 1, "health": 297, "requirements": [{"item": "rebanium", "amount": 17}, {"item": "dyfi", "amount": 1}, {"item": "cyqanium", "amount": 5}], "research": "rebanium-factory", "maxNodes": 27, "laserRange": 19, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qyhaja underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "qyhaja", "amount": 2}, {"item": "gimy", "amount": 4}], "research": "qyhaja-conveyor", "category": "distribution", "invert": false}

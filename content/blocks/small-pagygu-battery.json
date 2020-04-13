@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pagygu battery", "description": "...", "size": 1, "health": 382, "requirements": [{"item": "pagygu", "amount": 13}, {"item": "qypy", "amount": 8}, {"item": "peqininium", "amount": 2}], "research": "pagygu-factory", "consumes": {"powerBuffered": 1181}, "category": "power"}

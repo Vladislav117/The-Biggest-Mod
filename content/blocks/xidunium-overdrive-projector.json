@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "xidunium overdrive projector", "description": "...", "health": 62, "consumes": {"power": 3.0, "item": "xidunium"}, "size": 2, "requirements": [{"item": "xidunium", "amount": 8}, {"item": "lygynium", "amount": 12}, {"item": "yijotu", "amount": 10}], "research": "xidunium-factory", "category": "effect"}

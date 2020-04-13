@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sixo underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "sixo", "amount": 2}, {"item": "kopyto", "amount": 3}], "research": "sixo-conveyor", "category": "distribution", "invert": false}

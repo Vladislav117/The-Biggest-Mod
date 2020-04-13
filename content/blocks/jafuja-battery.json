@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jafuja battery", "description": "...", "size": 3, "health": 352, "requirements": [{"item": "jafuja", "amount": 1}, {"item": "jone", "amount": 13}, {"item": "gumuto", "amount": 8}], "research": "jafuja-factory", "consumes": {"powerBuffered": 3752}, "category": "power"}

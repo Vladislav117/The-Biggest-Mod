@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kozapu drill", "description": "...", "size": 2, "health": 356, "tier": 3, "drillTime": 4, "consumes": {"power": 19}, "requirements": [{"item": "kozapu", "amount": 14}, {"item": "kica", "amount": 7}, {"item": "rymyva", "amount": 5}], "research": "kozapu-factory", "category": "production"}

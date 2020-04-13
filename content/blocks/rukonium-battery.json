@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rukonium battery", "description": "...", "size": 3, "health": 210, "requirements": [{"item": "rukonium", "amount": 7}, {"item": "byfa", "amount": 17}, {"item": "tuzy", "amount": 5}], "research": "rukonium-factory", "consumes": {"powerBuffered": 2217}, "category": "power"}

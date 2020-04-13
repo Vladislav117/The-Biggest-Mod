@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yanu conduit", "description": "...", "health": 172, "requirements": [{"item": "yanu", "amount": 9}, {"item": "gozefynium", "amount": 14}, {"item": "wapo", "amount": 9}], "liquidCapacity": 6, "liquidPressure": 4, "research": "yanu-factory", "category": "liquid"}

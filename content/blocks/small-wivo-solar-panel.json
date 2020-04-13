@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wivo solar panel", "description": "...", "size": 1, "health": 29, "requirements": [{"item": "wivo", "amount": 6}, {"item": "xeza", "amount": 5}, {"item": "wano", "amount": 7}], "research": "wivo-factory", "powerProduction": 0.3283168835136441, "category": "power"}

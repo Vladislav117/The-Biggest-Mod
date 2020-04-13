@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "hocode conveyor", "description": "...", "health": 136, "requirements": [{"item": "hocode", "amount": 8}, {"item": "puzybo", "amount": 9}], "speed": 0.19167115963550835, "research": "hocode-factory", "category": "distribution"}

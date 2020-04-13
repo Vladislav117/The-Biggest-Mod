@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lilyro conduit", "description": "...", "health": 76, "requirements": [{"item": "lilyro", "amount": 2}, {"item": "yajawa", "amount": 20}, {"item": "byja", "amount": 5}], "liquidCapacity": 43, "liquidPressure": 1, "research": "lilyro-factory", "category": "liquid"}

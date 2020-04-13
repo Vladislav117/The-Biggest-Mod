@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gyhecu liquid router", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "gyhecu", "amount": 1}, {"item": "bywazy", "amount": 7}, {"item": "puli", "amount": 6}], "research": "gyhecu-conduit", "liquidCapacity": 10, "category": "liquid"}

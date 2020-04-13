@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ciginium battery", "description": "...", "size": 1, "health": 360, "requirements": [{"item": "ciginium", "amount": 10}, {"item": "qolo", "amount": 8}, {"item": "xyduda", "amount": 8}], "research": "ciginium-factory", "consumes": {"powerBuffered": 1915}, "category": "power"}

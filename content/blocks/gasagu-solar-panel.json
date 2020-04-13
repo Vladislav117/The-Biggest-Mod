@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gasagu solar panel", "description": "...", "size": 3, "health": 200, "requirements": [{"item": "gasagu", "amount": 9}, {"item": "fyziro", "amount": 8}, {"item": "sylyxy", "amount": 8}], "research": "gasagu-factory", "powerProduction": 0.006631137439169552, "category": "power"}

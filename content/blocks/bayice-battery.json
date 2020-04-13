@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bayice battery", "description": "...", "size": 3, "health": 33, "requirements": [{"item": "bayice", "amount": 18}, {"item": "tozuza", "amount": 1}, {"item": "vywice", "amount": 4}], "research": "bayice-factory", "consumes": {"powerBuffered": 7602}, "category": "power"}

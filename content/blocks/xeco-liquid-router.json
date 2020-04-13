@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xeco liquid router", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "xeco", "amount": 18}, {"item": "latycu", "amount": 11}, {"item": "gago", "amount": 2}], "research": "xeco-conduit", "liquidCapacity": 10, "category": "liquid"}

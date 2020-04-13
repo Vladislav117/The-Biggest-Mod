@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "musonium overflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "musonium", "amount": 1}, {"item": "qiyare", "amount": 1}], "research": "musonium-conveyor", "category": "distribution", "invert": false}

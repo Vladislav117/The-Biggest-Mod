@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wewaya conduit", "description": "...", "health": 165, "requirements": [{"item": "wewaya", "amount": 18}, {"item": "nyli", "amount": 6}, {"item": "geco", "amount": 5}], "liquidCapacity": 21, "liquidPressure": 0, "research": "wewaya-factory", "category": "liquid"}

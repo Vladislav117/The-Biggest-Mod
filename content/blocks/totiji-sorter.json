@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "totiji sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "totiji", "amount": 3}, {"item": "xiga", "amount": 3}], "research": "totiji-conveyor", "category": "distribution", "invert": false}

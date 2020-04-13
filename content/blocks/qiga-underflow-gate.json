@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qiga underflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "qiga", "amount": 4}, {"item": "pubado", "amount": 4}], "research": "qiga-conveyor", "category": "distribution", "invert": false}

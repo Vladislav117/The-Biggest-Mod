@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bujyja battery", "description": "...", "size": 3, "health": 67, "requirements": [{"item": "bujyja", "amount": 13}, {"item": "bemu", "amount": 14}, {"item": "poce", "amount": 10}], "research": "bujyja-factory", "consumes": {"powerBuffered": 6998}, "category": "power"}

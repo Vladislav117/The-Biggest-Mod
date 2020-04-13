@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small goyinium solar panel", "description": "...", "size": 1, "health": 317, "requirements": [{"item": "goyinium", "amount": 5}, {"item": "runohy", "amount": 20}, {"item": "qoly", "amount": 9}], "research": "goyinium-factory", "powerProduction": 0.7670610495053181, "category": "power"}

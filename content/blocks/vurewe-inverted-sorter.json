@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vurewe inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "vurewe", "amount": 3}, {"item": "zelanium", "amount": 1}], "research": "vurewe-conveyor", "category": "distribution", "invert": true}

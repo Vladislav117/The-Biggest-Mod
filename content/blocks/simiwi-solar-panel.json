@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "simiwi solar panel", "description": "...", "size": 3, "health": 339, "requirements": [{"item": "simiwi", "amount": 15}, {"item": "qamo", "amount": 7}, {"item": "lynaly", "amount": 2}], "research": "simiwi-factory", "powerProduction": 1.2484734489916929, "category": "power"}

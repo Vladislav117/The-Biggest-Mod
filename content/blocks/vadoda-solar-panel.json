@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vadoda solar panel", "description": "...", "size": 3, "health": 204, "requirements": [{"item": "vadoda", "amount": 13}, {"item": "qylino", "amount": 11}, {"item": "hymonium", "amount": 8}], "research": "vadoda-factory", "powerProduction": 0.018976921792494817, "category": "power"}

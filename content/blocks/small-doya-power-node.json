@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small doya power node", "description": "...", "size": 1, "health": 103, "requirements": [{"item": "doya", "amount": 16}, {"item": "lyceca", "amount": 19}, {"item": "jylovo", "amount": 5}], "research": "doya-factory", "maxNodes": 30, "laserRange": 18, "category": "power"}

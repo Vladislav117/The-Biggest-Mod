@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pocunium power node", "description": "...", "size": 1, "health": 244, "requirements": [{"item": "pocunium", "amount": 8}, {"item": "sewazo", "amount": 7}, {"item": "sidu", "amount": 8}], "research": "pocunium-factory", "maxNodes": 7, "laserRange": 12, "category": "power"}

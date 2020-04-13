@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qasy solar panel", "description": "...", "size": 1, "health": 77, "requirements": [{"item": "qasy", "amount": 17}, {"item": "cazewy", "amount": 3}, {"item": "dyco", "amount": 6}], "research": "qasy-factory", "powerProduction": 0.2773270380049971, "category": "power"}

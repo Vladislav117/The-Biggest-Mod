@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xerysy drill", "description": "...", "size": 2, "health": 193, "tier": 4, "drillTime": 6, "consumes": {"power": 5}, "requirements": [{"item": "xerysy", "amount": 13}, {"item": "cymaca", "amount": 2}, {"item": "voky", "amount": 9}], "research": "xerysy-factory", "category": "production"}

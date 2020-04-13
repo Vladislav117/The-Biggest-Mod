@@ -1,0 +1,1 @@
+{"type": "battery", "name": "peze battery", "description": "...", "size": 3, "health": 333, "requirements": [{"item": "peze", "amount": 15}, {"item": "jalenium", "amount": 16}, {"item": "yikynium", "amount": 2}], "research": "peze-factory", "consumes": {"powerBuffered": 9146}, "category": "power"}

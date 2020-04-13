@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gysawa sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "gysawa", "amount": 1}, {"item": "puta", "amount": 3}], "research": "gysawa-conveyor", "category": "distribution", "invert": false}

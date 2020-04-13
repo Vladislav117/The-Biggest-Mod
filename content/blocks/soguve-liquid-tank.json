@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "soguve liquid tank", "description": "...", "health": 393, "size": 3, "requirements": [{"item": "soguve", "amount": 15}, {"item": "mofapu", "amount": 3}, {"item": "pyzemu", "amount": 10}], "research": "soguve-conduit", "category": "liquid", "liquidCapacity": 93413, "hasLiquids": true}

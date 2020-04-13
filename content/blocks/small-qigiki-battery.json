@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qigiki battery", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "qigiki", "amount": 4}, {"item": "saqoxo", "amount": 7}, {"item": "toqo", "amount": 5}], "research": "qigiki-factory", "consumes": {"powerBuffered": 1216}, "category": "power"}

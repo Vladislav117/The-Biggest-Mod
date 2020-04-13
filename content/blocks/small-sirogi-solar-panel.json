@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sirogi solar panel", "description": "...", "size": 1, "health": 148, "requirements": [{"item": "sirogi", "amount": 18}, {"item": "zyma", "amount": 16}, {"item": "luyy", "amount": 2}], "research": "sirogi-factory", "powerProduction": 0.7339733467302147, "category": "power"}

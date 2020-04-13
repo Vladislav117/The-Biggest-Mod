@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hunu solar panel", "description": "...", "size": 3, "health": 291, "requirements": [{"item": "hunu", "amount": 20}, {"item": "jahuxynium", "amount": 18}, {"item": "necuwy", "amount": 10}], "research": "hunu-factory", "powerProduction": 1.1575398668300267, "category": "power"}

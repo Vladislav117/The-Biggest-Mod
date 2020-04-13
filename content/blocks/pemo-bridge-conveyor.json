@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pemo bridge conveyor", "description": "", "health": 50, "range": 2, "speed": 9, "bufferCapacity": 14, "requirements": [{"item": "pemo", "amount": 5}, {"item": "sukanium", "amount": 5}], "research": "pemo-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "loha junction", "description": "...", "health": 25, "speed": 16, "capacity": 19, "size": 1, "requirements": [{"item": "loha", "amount": 3}, {"item": "hise", "amount": 5}], "research": "loha-conveyor", "category": "distribution"}

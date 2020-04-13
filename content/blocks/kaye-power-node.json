@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kaye power node", "description": "...", "size": 2, "health": 323, "requirements": [{"item": "kaye", "amount": 10}, {"item": "tuzo", "amount": 14}, {"item": "soyase", "amount": 8}], "research": "kaye-factory", "maxNodes": 45, "laserRange": 7, "category": "power"}

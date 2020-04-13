@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nurynium overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "nurynium", "amount": 3}, {"item": "temu", "amount": 2}], "research": "nurynium-conveyor", "category": "distribution", "invert": false}

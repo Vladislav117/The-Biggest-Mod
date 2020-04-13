@@ -1,0 +1,1 @@
+{"type": "battery", "name": "raqo battery", "description": "...", "size": 3, "health": 32, "requirements": [{"item": "raqo", "amount": 11}, {"item": "jyzywonium", "amount": 6}, {"item": "joky", "amount": 5}], "research": "raqo-factory", "consumes": {"powerBuffered": 3572}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kefy battery", "description": "...", "size": 3, "health": 266, "requirements": [{"item": "kefy", "amount": 17}, {"item": "maku", "amount": 17}, {"item": "pyce", "amount": 7}], "research": "kefy-factory", "consumes": {"powerBuffered": 4377}, "category": "power"}

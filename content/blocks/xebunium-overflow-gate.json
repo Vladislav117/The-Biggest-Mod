@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xebunium overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "xebunium", "amount": 5}, {"item": "baqyrinium", "amount": 1}], "research": "xebunium-conveyor", "category": "distribution", "invert": false}

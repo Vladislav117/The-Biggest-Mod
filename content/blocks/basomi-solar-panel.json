@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "basomi solar panel", "description": "...", "size": 3, "health": 42, "requirements": [{"item": "basomi", "amount": 4}, {"item": "bileyu", "amount": 15}, {"item": "qepusenium", "amount": 8}], "research": "basomi-factory", "powerProduction": 1.0189926867841754, "category": "power"}

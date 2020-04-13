@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "liseso bridge conveyor", "description": "", "health": 15, "range": 13, "speed": 17, "bufferCapacity": 24, "requirements": [{"item": "liseso", "amount": 3}, {"item": "nelose", "amount": 1}], "research": "liseso-conveyor", "category": "distribution", "size": 1}

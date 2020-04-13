@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fuvy liquid tank", "description": "...", "health": 536, "size": 3, "requirements": [{"item": "fuvy", "amount": 19}, {"item": "ryloxi", "amount": 16}, {"item": "yeti", "amount": 10}], "research": "fuvy-conduit", "category": "liquid", "liquidCapacity": 15947, "hasLiquids": true}

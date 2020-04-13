@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "majo inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "majo", "amount": 4}, {"item": "vanuhenium", "amount": 1}], "research": "majo-conveyor", "category": "distribution", "invert": true}

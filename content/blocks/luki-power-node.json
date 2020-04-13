@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "luki power node", "description": "...", "size": 2, "health": 404, "requirements": [{"item": "luki", "amount": 5}, {"item": "qyha", "amount": 18}, {"item": "bavivo", "amount": 4}], "research": "luki-factory", "maxNodes": 14, "laserRange": 7, "category": "power"}

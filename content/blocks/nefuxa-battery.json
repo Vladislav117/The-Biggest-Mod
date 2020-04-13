@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nefuxa battery", "description": "...", "size": 3, "health": 339, "requirements": [{"item": "nefuxa", "amount": 8}, {"item": "puri", "amount": 16}, {"item": "kite", "amount": 3}], "research": "nefuxa-factory", "consumes": {"powerBuffered": 3160}, "category": "power"}

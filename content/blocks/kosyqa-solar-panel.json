@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kosyqa solar panel", "description": "...", "size": 3, "health": 76, "requirements": [{"item": "kosyqa", "amount": 11}, {"item": "miro", "amount": 4}, {"item": "kixy", "amount": 5}], "research": "kosyqa-factory", "powerProduction": 0.8282646845527339, "category": "power"}

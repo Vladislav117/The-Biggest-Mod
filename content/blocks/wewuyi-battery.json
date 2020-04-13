@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wewuyi battery", "description": "...", "size": 3, "health": 335, "requirements": [{"item": "wewuyi", "amount": 10}, {"item": "pyci", "amount": 18}, {"item": "jepumi", "amount": 5}], "research": "wewuyi-factory", "consumes": {"powerBuffered": 1780}, "category": "power"}

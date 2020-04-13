@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "galy drill", "description": "...", "size": 2, "health": 123, "tier": 2, "drillTime": 6, "consumes": {"power": 16}, "requirements": [{"item": "galy", "amount": 11}, {"item": "vuzoha", "amount": 1}, {"item": "sylunium", "amount": 10}], "research": "galy-factory", "category": "production"}

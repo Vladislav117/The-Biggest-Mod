@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "netonium power node", "description": "...", "size": 2, "health": 574, "requirements": [{"item": "netonium", "amount": 12}, {"item": "huxo", "amount": 2}, {"item": "tizusa", "amount": 6}], "research": "netonium-factory", "maxNodes": 33, "laserRange": 29, "category": "power"}

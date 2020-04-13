@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "ratapu conveyor", "description": "...", "health": 251, "requirements": [{"item": "ratapu", "amount": 5}, {"item": "gasu", "amount": 2}], "speed": 0.37549331141730735, "research": "ratapu-factory", "category": "distribution"}

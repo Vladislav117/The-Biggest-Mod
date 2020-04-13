@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small somufu battery", "description": "...", "size": 1, "health": 187, "requirements": [{"item": "somufu", "amount": 13}, {"item": "xicyru", "amount": 6}, {"item": "zyly", "amount": 1}], "research": "somufu-factory", "consumes": {"powerBuffered": 1413}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "lero overdrive projector", "description": "...", "health": 74, "consumes": {"power": 3.0, "item": "lero"}, "size": 2, "requirements": [{"item": "lero", "amount": 19}, {"item": "caho", "amount": 5}, {"item": "turode", "amount": 9}], "research": "lero-factory", "category": "effect"}

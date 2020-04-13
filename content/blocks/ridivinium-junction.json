@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ridivinium junction", "description": "...", "health": 35, "speed": 13, "capacity": 8, "size": 1, "requirements": [{"item": "ridivinium", "amount": 3}, {"item": "kypewenium", "amount": 1}], "research": "ridivinium-conveyor", "category": "distribution"}

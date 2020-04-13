@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sihi junction", "description": "...", "health": 43, "speed": 3, "capacity": 7, "size": 1, "requirements": [{"item": "sihi", "amount": 1}, {"item": "jadu", "amount": 2}], "research": "sihi-conveyor", "category": "distribution"}

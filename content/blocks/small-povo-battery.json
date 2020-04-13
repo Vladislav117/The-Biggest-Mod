@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small povo battery", "description": "...", "size": 1, "health": 282, "requirements": [{"item": "povo", "amount": 4}, {"item": "dowynium", "amount": 11}, {"item": "nevyle", "amount": 7}], "research": "povo-factory", "consumes": {"powerBuffered": 636}, "category": "power"}

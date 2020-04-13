@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vimynium solar panel", "description": "...", "size": 1, "health": 238, "requirements": [{"item": "vimynium", "amount": 5}, {"item": "kozivo", "amount": 4}, {"item": "pezale", "amount": 2}], "research": "vimynium-factory", "powerProduction": 1.7944545100235043, "category": "power"}

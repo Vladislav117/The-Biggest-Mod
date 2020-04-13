@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mifi liquid tank", "description": "...", "health": 631, "size": 3, "requirements": [{"item": "mifi", "amount": 18}, {"item": "zymi", "amount": 18}, {"item": "koyiwi", "amount": 9}], "research": "mifi-conduit", "category": "liquid", "liquidCapacity": 82224, "hasLiquids": true}

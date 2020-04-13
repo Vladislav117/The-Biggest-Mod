@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fise liquid router", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "fise", "amount": 18}, {"item": "nudequ", "amount": 2}, {"item": "vevudinium", "amount": 6}], "research": "fise-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lyxa battery", "description": "...", "size": 3, "health": 183, "requirements": [{"item": "lyxa", "amount": 10}, {"item": "suminium", "amount": 8}, {"item": "qukeso", "amount": 2}], "research": "lyxa-factory", "consumes": {"powerBuffered": 5105}, "category": "power"}

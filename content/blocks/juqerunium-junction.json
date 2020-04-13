@@ -1,0 +1,1 @@
+{"type": "junction", "name": "juqerunium junction", "description": "...", "health": 24, "speed": 7, "capacity": 8, "size": 1, "requirements": [{"item": "juqerunium", "amount": 4}, {"item": "gepe", "amount": 2}], "research": "juqerunium-conveyor", "category": "distribution"}

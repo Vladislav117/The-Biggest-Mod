@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gyfa inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "gyfa", "amount": 1}, {"item": "sivaqi", "amount": 3}], "research": "gyfa-conveyor", "category": "distribution", "invert": true}

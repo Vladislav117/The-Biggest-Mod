@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tulotu solar panel", "description": "...", "size": 3, "health": 44, "requirements": [{"item": "tulotu", "amount": 4}, {"item": "tahysonium", "amount": 4}, {"item": "nayayi", "amount": 8}], "research": "tulotu-factory", "powerProduction": 1.2812556105440438, "category": "power"}

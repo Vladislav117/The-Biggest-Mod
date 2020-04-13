@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gurale battery", "description": "...", "size": 1, "health": 274, "requirements": [{"item": "gurale", "amount": 13}, {"item": "moce", "amount": 7}, {"item": "kokemy", "amount": 1}], "research": "gurale-factory", "consumes": {"powerBuffered": 2758}, "category": "power"}

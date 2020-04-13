@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fipa battery", "description": "...", "size": 3, "health": 163, "requirements": [{"item": "fipa", "amount": 7}, {"item": "wace", "amount": 6}, {"item": "mynizo", "amount": 1}], "research": "fipa-factory", "consumes": {"powerBuffered": 8591}, "category": "power"}

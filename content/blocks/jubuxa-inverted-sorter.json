@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jubuxa inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "jubuxa", "amount": 4}, {"item": "hysobe", "amount": 1}], "research": "jubuxa-conveyor", "category": "distribution", "invert": true}

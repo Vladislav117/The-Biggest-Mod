@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "mewe overdrive projector", "description": "...", "health": 73, "consumes": {"power": 3.0, "item": "mewe"}, "size": 2, "requirements": [{"item": "mewe", "amount": 20}, {"item": "jumi", "amount": 13}, {"item": "togi", "amount": 7}], "research": "mewe-factory", "category": "effect"}

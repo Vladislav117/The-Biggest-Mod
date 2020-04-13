@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wyra junction", "description": "...", "health": 17, "speed": 17, "capacity": 12, "size": 1, "requirements": [{"item": "wyra", "amount": 2}, {"item": "nuzivo", "amount": 4}], "research": "wyra-conveyor", "category": "distribution"}

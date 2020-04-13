@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gepyna solar panel", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "gepyna", "amount": 12}, {"item": "rikylu", "amount": 11}, {"item": "hyji", "amount": 5}], "research": "gepyna-factory", "powerProduction": 0.038379549424758325, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "feqy solar panel", "description": "...", "size": 3, "health": 301, "requirements": [{"item": "feqy", "amount": 5}, {"item": "leriki", "amount": 10}, {"item": "dycimi", "amount": 4}], "research": "feqy-factory", "powerProduction": 3.255941129912096, "category": "power"}

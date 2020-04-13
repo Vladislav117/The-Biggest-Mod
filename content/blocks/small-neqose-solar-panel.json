@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small neqose solar panel", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "neqose", "amount": 1}, {"item": "higy", "amount": 19}, {"item": "mymysynium", "amount": 4}], "research": "neqose-factory", "powerProduction": 1.704703096382276, "category": "power"}

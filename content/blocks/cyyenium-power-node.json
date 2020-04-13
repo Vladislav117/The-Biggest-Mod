@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cyyenium power node", "description": "...", "size": 2, "health": 506, "requirements": [{"item": "cyyenium", "amount": 10}, {"item": "zija", "amount": 6}, {"item": "furazinium", "amount": 6}], "research": "cyyenium-factory", "maxNodes": 56, "laserRange": 22, "category": "power"}

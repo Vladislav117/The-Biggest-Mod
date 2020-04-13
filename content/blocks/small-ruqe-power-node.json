@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ruqe power node", "description": "...", "size": 1, "health": 313, "requirements": [{"item": "ruqe", "amount": 10}, {"item": "qyha", "amount": 10}, {"item": "nogosy", "amount": 1}], "research": "ruqe-factory", "maxNodes": 14, "laserRange": 21, "category": "power"}

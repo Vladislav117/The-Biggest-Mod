@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sagenium junction", "description": "...", "health": 2, "speed": 14, "capacity": 9, "size": 1, "requirements": [{"item": "sagenium", "amount": 1}, {"item": "mepunium", "amount": 3}], "research": "sagenium-conveyor", "category": "distribution"}

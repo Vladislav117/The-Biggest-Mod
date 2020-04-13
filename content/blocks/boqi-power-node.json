@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "boqi power node", "description": "...", "size": 2, "health": 199, "requirements": [{"item": "boqi", "amount": 11}, {"item": "giho", "amount": 8}, {"item": "mawanium", "amount": 3}], "research": "boqi-factory", "maxNodes": 13, "laserRange": 18, "category": "power"}

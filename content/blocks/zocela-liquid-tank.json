@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zocela liquid tank", "description": "...", "health": 368, "size": 3, "requirements": [{"item": "zocela", "amount": 14}, {"item": "nofy", "amount": 9}, {"item": "zereka", "amount": 10}], "research": "zocela-conduit", "category": "liquid", "liquidCapacity": 85276, "hasLiquids": true}

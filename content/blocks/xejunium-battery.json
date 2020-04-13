@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xejunium battery", "description": "...", "size": 3, "health": 271, "requirements": [{"item": "xejunium", "amount": 14}, {"item": "fegy", "amount": 8}, {"item": "lesyha", "amount": 10}], "research": "xejunium-factory", "consumes": {"powerBuffered": 7859}, "category": "power"}

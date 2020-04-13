@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zacaki solar panel", "description": "...", "size": 3, "health": 211, "requirements": [{"item": "zacaki", "amount": 5}, {"item": "wyri", "amount": 8}, {"item": "hymonium", "amount": 10}], "research": "zacaki-factory", "powerProduction": 0.23357018379611713, "category": "power"}

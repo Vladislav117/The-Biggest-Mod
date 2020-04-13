@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nybaranium power node", "description": "...", "size": 2, "health": 432, "requirements": [{"item": "nybaranium", "amount": 19}, {"item": "venuki", "amount": 5}, {"item": "ryzyzi", "amount": 1}], "research": "nybaranium-factory", "maxNodes": 30, "laserRange": 14, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hiba solar panel", "description": "...", "size": 3, "health": 219, "requirements": [{"item": "hiba", "amount": 13}, {"item": "yusona", "amount": 14}, {"item": "milusunium", "amount": 7}], "research": "hiba-factory", "powerProduction": 0.01129352215280574, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "rane conveyor", "description": "...", "health": 245, "requirements": [{"item": "rane", "amount": 10}, {"item": "kavequ", "amount": 9}], "speed": 0.4087152612596895, "research": "rane-factory", "category": "distribution"}

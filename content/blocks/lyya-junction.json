@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lyya junction", "description": "...", "health": 38, "speed": 2, "capacity": 9, "size": 1, "requirements": [{"item": "lyya", "amount": 2}, {"item": "ruryjynium", "amount": 3}], "research": "lyya-conveyor", "category": "distribution"}

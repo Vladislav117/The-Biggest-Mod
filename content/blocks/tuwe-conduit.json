@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tuwe conduit", "description": "...", "health": 180, "requirements": [{"item": "tuwe", "amount": 9}, {"item": "xynice", "amount": 5}, {"item": "loqa", "amount": 7}], "liquidCapacity": 9, "liquidPressure": 9, "research": "tuwe-factory", "category": "liquid"}

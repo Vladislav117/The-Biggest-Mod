@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vezaya power node", "description": "...", "size": 2, "health": 224, "requirements": [{"item": "vezaya", "amount": 3}, {"item": "qepyvonium", "amount": 5}, {"item": "kozivo", "amount": 3}], "research": "vezaya-factory", "maxNodes": 26, "laserRange": 19, "category": "power"}

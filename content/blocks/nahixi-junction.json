@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nahixi junction", "description": "...", "health": 16, "speed": 6, "capacity": 14, "size": 1, "requirements": [{"item": "nahixi", "amount": 3}, {"item": "qaranium", "amount": 2}], "research": "nahixi-conveyor", "category": "distribution"}

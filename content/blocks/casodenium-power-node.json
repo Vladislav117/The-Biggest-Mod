@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "casodenium power node", "description": "...", "size": 2, "health": 211, "requirements": [{"item": "casodenium", "amount": 14}, {"item": "roqozo", "amount": 1}, {"item": "letohy", "amount": 8}], "research": "casodenium-factory", "maxNodes": 36, "laserRange": 13, "category": "power"}

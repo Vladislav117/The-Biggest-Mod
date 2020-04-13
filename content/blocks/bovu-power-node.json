@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bovu power node", "description": "...", "size": 2, "health": 665, "requirements": [{"item": "bovu", "amount": 17}, {"item": "kype", "amount": 8}, {"item": "sonydu", "amount": 4}], "research": "bovu-factory", "maxNodes": 41, "laserRange": 22, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "rulynium drill", "description": "...", "size": 2, "health": 242, "tier": 2, "drillTime": 6, "consumes": {"power": 17}, "requirements": [{"item": "rulynium", "amount": 14}, {"item": "sifiwa", "amount": 5}, {"item": "ribugi", "amount": 7}], "research": "rulynium-factory", "category": "production"}

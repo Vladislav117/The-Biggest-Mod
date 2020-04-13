@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cigapo solar panel", "description": "...", "size": 1, "health": 290, "requirements": [{"item": "cigapo", "amount": 17}, {"item": "lidinium", "amount": 9}, {"item": "yijotu", "amount": 6}], "research": "cigapo-factory", "powerProduction": 0.6082088019851768, "category": "power"}

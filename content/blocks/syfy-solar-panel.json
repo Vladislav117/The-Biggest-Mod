@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "syfy solar panel", "description": "...", "size": 3, "health": 291, "requirements": [{"item": "syfy", "amount": 4}, {"item": "tadeja", "amount": 7}, {"item": "qerobu", "amount": 5}], "research": "syfy-factory", "powerProduction": 0.31181808697444235, "category": "power"}

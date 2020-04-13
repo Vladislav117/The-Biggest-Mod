@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kytynium overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "kytynium", "amount": 2}, {"item": "kovewinium", "amount": 4}], "research": "kytynium-conveyor", "category": "distribution", "invert": false}

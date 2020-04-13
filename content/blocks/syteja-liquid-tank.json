@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "syteja liquid tank", "description": "...", "health": 235, "size": 3, "requirements": [{"item": "syteja", "amount": 2}, {"item": "syxidonium", "amount": 5}, {"item": "plastanium", "amount": 1}], "research": "syteja-conduit", "category": "liquid", "liquidCapacity": 116949, "hasLiquids": true}

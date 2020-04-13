@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hopinium drill", "description": "...", "size": 3, "health": 306, "tier": 3, "drillTime": 7, "consumes": {"power": 15}, "requirements": [{"item": "hopinium", "amount": 19}, {"item": "limibu", "amount": 16}, {"item": "hicewi", "amount": 2}], "research": "hopinium-factory", "category": "production"}

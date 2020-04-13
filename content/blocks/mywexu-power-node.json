@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mywexu power node", "description": "...", "size": 2, "health": 680, "requirements": [{"item": "mywexu", "amount": 11}, {"item": "sepo", "amount": 9}, {"item": "sixo", "amount": 4}], "research": "mywexu-factory", "maxNodes": 18, "laserRange": 13, "category": "power"}

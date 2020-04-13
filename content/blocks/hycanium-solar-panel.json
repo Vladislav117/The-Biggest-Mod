@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hycanium solar panel", "description": "...", "size": 3, "health": 66, "requirements": [{"item": "hycanium", "amount": 14}, {"item": "reyezy", "amount": 16}, {"item": "moqa", "amount": 2}], "research": "hycanium-factory", "powerProduction": 2.2899439698667106, "category": "power"}

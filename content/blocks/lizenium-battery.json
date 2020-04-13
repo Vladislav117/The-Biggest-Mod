@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lizenium battery", "description": "...", "size": 3, "health": 342, "requirements": [{"item": "lizenium", "amount": 17}, {"item": "wobaxunium", "amount": 2}, {"item": "yiveni", "amount": 2}], "research": "lizenium-factory", "consumes": {"powerBuffered": 1699}, "category": "power"}

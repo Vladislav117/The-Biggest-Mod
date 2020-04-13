@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dibu junction", "description": "...", "health": 46, "speed": 20, "capacity": 5, "size": 1, "requirements": [{"item": "dibu", "amount": 3}, {"item": "mohoze", "amount": 3}], "research": "dibu-conveyor", "category": "distribution"}

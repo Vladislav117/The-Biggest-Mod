@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "niruya overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "niruya", "amount": 1}, {"item": "dyji", "amount": 1}], "research": "niruya-conveyor", "category": "distribution", "invert": false}

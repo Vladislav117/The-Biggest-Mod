@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xylyhu battery", "description": "...", "size": 3, "health": 263, "requirements": [{"item": "xylyhu", "amount": 20}, {"item": "yytusa", "amount": 18}, {"item": "syqelu", "amount": 3}], "research": "xylyhu-factory", "consumes": {"powerBuffered": 7151}, "category": "power"}

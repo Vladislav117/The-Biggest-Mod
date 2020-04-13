@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wabi liquid tank", "description": "...", "health": 538, "size": 3, "requirements": [{"item": "wabi", "amount": 20}, {"item": "kihyda", "amount": 16}, {"item": "kepo", "amount": 10}], "research": "wabi-conduit", "category": "liquid", "liquidCapacity": 95745, "hasLiquids": true}

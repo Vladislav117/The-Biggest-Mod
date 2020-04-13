@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "weba force projector", "description": "...", "health": 128, "size": 3, "consumes": {"power": 5.0, "item": "weba"}, "requirements": [{"item": "weba", "amount": 20}, {"item": "jyxexi", "amount": 9}, {"item": "byxo", "amount": 10}], "research": "weba-factory", "category": "effect"}

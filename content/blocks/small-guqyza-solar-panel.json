@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small guqyza solar panel", "description": "...", "size": 1, "health": 292, "requirements": [{"item": "guqyza", "amount": 20}, {"item": "nyryfenium", "amount": 19}, {"item": "nytu", "amount": 5}], "research": "guqyza-factory", "powerProduction": 1.725965653730641, "category": "power"}

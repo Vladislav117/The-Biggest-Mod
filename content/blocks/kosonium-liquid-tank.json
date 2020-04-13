@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kosonium liquid tank", "description": "...", "health": 395, "size": 3, "requirements": [{"item": "kosonium", "amount": 4}, {"item": "rymojanium", "amount": 19}, {"item": "dyzo", "amount": 8}], "research": "kosonium-conduit", "category": "liquid", "liquidCapacity": 8841, "hasLiquids": true}

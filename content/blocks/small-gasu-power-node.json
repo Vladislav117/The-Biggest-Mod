@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gasu power node", "description": "...", "size": 1, "health": 377, "requirements": [{"item": "gasu", "amount": 2}, {"item": "wyfanium", "amount": 7}, {"item": "goduji", "amount": 9}], "research": "gasu-factory", "maxNodes": 13, "laserRange": 12, "category": "power"}

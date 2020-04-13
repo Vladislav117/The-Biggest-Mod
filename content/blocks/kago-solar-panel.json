@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kago solar panel", "description": "...", "size": 3, "health": 376, "requirements": [{"item": "kago", "amount": 3}, {"item": "dacira", "amount": 7}, {"item": "bovu", "amount": 2}], "research": "kago-factory", "powerProduction": 0.16636170622188357, "category": "power"}

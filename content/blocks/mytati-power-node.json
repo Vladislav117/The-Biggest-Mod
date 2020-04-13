@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mytati power node", "description": "...", "size": 2, "health": 279, "requirements": [{"item": "mytati", "amount": 3}, {"item": "pigagunium", "amount": 12}, {"item": "qimose", "amount": 8}], "research": "mytati-factory", "maxNodes": 52, "laserRange": 8, "category": "power"}

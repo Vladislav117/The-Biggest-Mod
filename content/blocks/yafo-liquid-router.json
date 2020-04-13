@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yafo liquid router", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "yafo", "amount": 2}, {"item": "yila", "amount": 4}, {"item": "hihuly", "amount": 6}], "research": "yafo-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bimi solar panel", "description": "...", "size": 3, "health": 205, "requirements": [{"item": "bimi", "amount": 7}, {"item": "yymujy", "amount": 7}, {"item": "cuxenium", "amount": 9}], "research": "bimi-factory", "powerProduction": 0.1444641525809369, "category": "power"}

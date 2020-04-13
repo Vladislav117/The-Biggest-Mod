@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fare power node", "description": "...", "size": 2, "health": 41, "requirements": [{"item": "fare", "amount": 13}, {"item": "vulo", "amount": 8}, {"item": "coqinium", "amount": 1}], "research": "fare-factory", "maxNodes": 23, "laserRange": 20, "category": "power"}

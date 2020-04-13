@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "geja bridge conveyor", "description": "", "health": 29, "range": 15, "speed": 8, "bufferCapacity": 16, "requirements": [{"item": "geja", "amount": 1}, {"item": "yicavu", "amount": 1}], "research": "geja-conveyor", "category": "distribution", "size": 1}

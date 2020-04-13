@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pepe bridge conveyor", "description": "", "health": 7, "range": 3, "speed": 12, "bufferCapacity": 12, "requirements": [{"item": "pepe", "amount": 4}, {"item": "wehynium", "amount": 1}], "research": "pepe-conveyor", "category": "distribution", "size": 1}

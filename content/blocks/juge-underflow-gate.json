@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "juge underflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "juge", "amount": 3}, {"item": "siyenium", "amount": 2}], "research": "juge-conveyor", "category": "distribution", "invert": false}

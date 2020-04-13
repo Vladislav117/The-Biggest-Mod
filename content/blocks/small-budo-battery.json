@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small budo battery", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "budo", "amount": 19}, {"item": "xehuxy", "amount": 17}, {"item": "mygaso", "amount": 1}], "research": "budo-factory", "consumes": {"powerBuffered": 1787}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rusiqy bridge conveyor", "description": "", "health": 36, "range": 9, "speed": 20, "bufferCapacity": 15, "requirements": [{"item": "rusiqy", "amount": 2}, {"item": "waka", "amount": 5}], "research": "rusiqy-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "moxi conduit", "description": "...", "health": 144, "requirements": [{"item": "moxi", "amount": 15}, {"item": "qeraxu", "amount": 9}, {"item": "wyri", "amount": 7}], "liquidCapacity": 39, "liquidPressure": 8, "research": "moxi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "surinium overflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "surinium", "amount": 2}, {"item": "xywoty", "amount": 1}], "research": "surinium-conveyor", "category": "distribution", "invert": false}

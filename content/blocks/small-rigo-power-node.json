@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rigo power node", "description": "...", "size": 1, "health": 180, "requirements": [{"item": "rigo", "amount": 2}, {"item": "zereka", "amount": 15}, {"item": "monu", "amount": 10}], "research": "rigo-factory", "maxNodes": 22, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wemi solar panel", "description": "...", "size": 3, "health": 259, "requirements": [{"item": "wemi", "amount": 13}, {"item": "xecy", "amount": 20}, {"item": "yuhy", "amount": 7}], "research": "wemi-factory", "powerProduction": 6.733947291731489, "category": "power"}

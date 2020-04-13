@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "wazo overdrive projector", "description": "...", "health": 75, "consumes": {"power": 3.0, "item": "wazo"}, "size": 2, "requirements": [{"item": "wazo", "amount": 20}, {"item": "nyquto", "amount": 16}, {"item": "fifyru", "amount": 8}], "research": "wazo-factory", "category": "effect"}

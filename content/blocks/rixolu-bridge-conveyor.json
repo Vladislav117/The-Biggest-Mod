@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rixolu bridge conveyor", "description": "", "health": 1, "range": 19, "speed": 6, "bufferCapacity": 23, "requirements": [{"item": "rixolu", "amount": 3}, {"item": "mujuly", "amount": 4}], "research": "rixolu-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vowato battery", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "vowato", "amount": 5}, {"item": "zajenium", "amount": 2}, {"item": "zyly", "amount": 9}], "research": "vowato-factory", "consumes": {"powerBuffered": 3730}, "category": "power"}

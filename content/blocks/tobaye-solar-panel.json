@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tobaye solar panel", "description": "...", "size": 3, "health": 229, "requirements": [{"item": "tobaye", "amount": 8}, {"item": "xavayu", "amount": 9}, {"item": "saze", "amount": 7}], "research": "tobaye-factory", "powerProduction": 3.59030712858624, "category": "power"}

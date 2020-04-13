@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hiteye power node", "description": "...", "size": 2, "health": 612, "requirements": [{"item": "hiteye", "amount": 3}, {"item": "gevu", "amount": 15}, {"item": "kexebinium", "amount": 1}], "research": "hiteye-factory", "maxNodes": 22, "laserRange": 8, "category": "power"}

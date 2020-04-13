@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yofopy sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "yofopy", "amount": 5}, {"item": "zazinium", "amount": 4}], "research": "yofopy-conveyor", "category": "distribution", "invert": false}

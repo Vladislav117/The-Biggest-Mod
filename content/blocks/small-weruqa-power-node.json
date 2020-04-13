@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small weruqa power node", "description": "...", "size": 1, "health": 387, "requirements": [{"item": "weruqa", "amount": 17}, {"item": "qigine", "amount": 19}, {"item": "kufi", "amount": 5}], "research": "weruqa-factory", "maxNodes": 24, "laserRange": 3, "category": "power"}

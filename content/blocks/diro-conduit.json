@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "diro conduit", "description": "...", "health": 118, "requirements": [{"item": "diro", "amount": 4}, {"item": "hufema", "amount": 17}, {"item": "cavuyi", "amount": 5}], "liquidCapacity": 2, "liquidPressure": 0, "research": "diro-factory", "category": "liquid"}

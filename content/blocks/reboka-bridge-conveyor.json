@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "reboka bridge conveyor", "description": "", "health": 10, "range": 8, "speed": 20, "bufferCapacity": 9, "requirements": [{"item": "reboka", "amount": 1}, {"item": "yeku", "amount": 2}], "research": "reboka-conveyor", "category": "distribution", "size": 1}

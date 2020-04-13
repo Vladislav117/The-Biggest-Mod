@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rihonium battery", "description": "...", "size": 1, "health": 298, "requirements": [{"item": "rihonium", "amount": 12}, {"item": "maqufu", "amount": 1}, {"item": "nifa", "amount": 8}], "research": "rihonium-factory", "consumes": {"powerBuffered": 1487}, "category": "power"}

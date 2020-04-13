@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "viwymynium liquid tank", "description": "...", "health": 494, "size": 3, "requirements": [{"item": "viwymynium", "amount": 4}, {"item": "sato", "amount": 16}, {"item": "huwydy", "amount": 4}], "research": "viwymynium-conduit", "category": "liquid", "liquidCapacity": 47655, "hasLiquids": true}

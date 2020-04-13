@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mefymanium bridge conveyor", "description": "", "health": 44, "range": 5, "speed": 3, "bufferCapacity": 24, "requirements": [{"item": "mefymanium", "amount": 1}, {"item": "kubi", "amount": 5}], "research": "mefymanium-conveyor", "category": "distribution", "size": 1}

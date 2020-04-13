@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gumyra liquid tank", "description": "...", "health": 447, "size": 3, "requirements": [{"item": "gumyra", "amount": 16}, {"item": "duyi", "amount": 3}, {"item": "kuwy", "amount": 4}], "research": "gumyra-conduit", "category": "liquid", "liquidCapacity": 99356, "hasLiquids": true}

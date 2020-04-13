@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hago power node", "description": "...", "size": 2, "health": 771, "requirements": [{"item": "hago", "amount": 20}, {"item": "xavidu", "amount": 1}, {"item": "kabovonium", "amount": 4}], "research": "hago-factory", "maxNodes": 42, "laserRange": 23, "category": "power"}

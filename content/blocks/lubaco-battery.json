@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lubaco battery", "description": "...", "size": 3, "health": 116, "requirements": [{"item": "lubaco", "amount": 1}, {"item": "quyina", "amount": 7}, {"item": "cady", "amount": 10}], "research": "lubaco-factory", "consumes": {"powerBuffered": 5826}, "category": "power"}

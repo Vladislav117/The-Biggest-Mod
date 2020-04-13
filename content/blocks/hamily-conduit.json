@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hamily conduit", "description": "...", "health": 25, "requirements": [{"item": "hamily", "amount": 15}, {"item": "nuko", "amount": 6}, {"item": "rikylu", "amount": 3}], "liquidCapacity": 10, "liquidPressure": 4, "research": "hamily-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qaya power node", "description": "...", "size": 2, "health": 615, "requirements": [{"item": "qaya", "amount": 11}, {"item": "xekafu", "amount": 8}, {"item": "zeka", "amount": 8}], "research": "qaya-factory", "maxNodes": 24, "laserRange": 10, "category": "power"}

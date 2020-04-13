@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rehyce liquid tank", "description": "...", "health": 200, "size": 3, "requirements": [{"item": "rehyce", "amount": 15}, {"item": "cydeyy", "amount": 16}, {"item": "heqywanium", "amount": 6}], "research": "rehyce-conduit", "category": "liquid", "liquidCapacity": 48897, "hasLiquids": true}

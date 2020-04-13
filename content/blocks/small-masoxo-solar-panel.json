@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small masoxo solar panel", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "masoxo", "amount": 11}, {"item": "jaju", "amount": 15}, {"item": "qepyvonium", "amount": 1}], "research": "masoxo-factory", "powerProduction": 4.42014740362829, "category": "power"}

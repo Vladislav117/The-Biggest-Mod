@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gyga conduit", "description": "...", "health": 192, "requirements": [{"item": "gyga", "amount": 1}, {"item": "donunium", "amount": 12}, {"item": "cizenium", "amount": 7}], "liquidCapacity": 49, "liquidPressure": 10, "research": "gyga-factory", "category": "liquid"}

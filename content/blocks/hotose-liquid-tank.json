@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hotose liquid tank", "description": "...", "health": 418, "size": 3, "requirements": [{"item": "hotose", "amount": 7}, {"item": "quvojo", "amount": 4}, {"item": "cymaca", "amount": 8}], "research": "hotose-conduit", "category": "liquid", "liquidCapacity": 58597, "hasLiquids": true}

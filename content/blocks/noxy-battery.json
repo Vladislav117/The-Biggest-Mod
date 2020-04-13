@@ -1,0 +1,1 @@
+{"type": "battery", "name": "noxy battery", "description": "...", "size": 3, "health": 322, "requirements": [{"item": "noxy", "amount": 16}, {"item": "zary", "amount": 12}, {"item": "vimynium", "amount": 9}], "research": "noxy-factory", "consumes": {"powerBuffered": 5500}, "category": "power"}

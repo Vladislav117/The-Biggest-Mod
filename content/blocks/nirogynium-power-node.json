@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nirogynium power node", "description": "...", "size": 2, "health": 244, "requirements": [{"item": "nirogynium", "amount": 17}, {"item": "zoqivanium", "amount": 17}, {"item": "xuxyvo", "amount": 2}], "research": "nirogynium-factory", "maxNodes": 14, "laserRange": 26, "category": "power"}

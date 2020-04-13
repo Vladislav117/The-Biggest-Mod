@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mimyva solar panel", "description": "...", "size": 1, "health": 237, "requirements": [{"item": "mimyva", "amount": 3}, {"item": "lyzy", "amount": 7}, {"item": "humidu", "amount": 5}], "research": "mimyva-factory", "powerProduction": 0.0095145547683821, "category": "power"}

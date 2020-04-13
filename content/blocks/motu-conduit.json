@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "motu conduit", "description": "...", "health": 147, "requirements": [{"item": "motu", "amount": 15}, {"item": "horyve", "amount": 15}, {"item": "semy", "amount": 9}], "liquidCapacity": 35, "liquidPressure": 9, "research": "motu-factory", "category": "liquid"}

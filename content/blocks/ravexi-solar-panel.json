@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ravexi solar panel", "description": "...", "size": 3, "health": 372, "requirements": [{"item": "ravexi", "amount": 13}, {"item": "qaho", "amount": 11}, {"item": "zekaru", "amount": 7}], "research": "ravexi-factory", "powerProduction": 0.006055431999438785, "category": "power"}

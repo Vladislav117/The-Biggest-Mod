@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "humynium liquid tank", "description": "...", "health": 131, "size": 3, "requirements": [{"item": "humynium", "amount": 15}, {"item": "rapuvo", "amount": 4}, {"item": "fyhynium", "amount": 4}], "research": "humynium-conduit", "category": "liquid", "liquidCapacity": 95390, "hasLiquids": true}

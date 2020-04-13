@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lyqa overflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "lyqa", "amount": 4}, {"item": "duto", "amount": 1}], "research": "lyqa-conveyor", "category": "distribution", "invert": false}

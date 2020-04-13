@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "laho drill", "description": "...", "size": 2, "health": 110, "tier": 3, "drillTime": 18, "consumes": {"power": 15}, "requirements": [{"item": "laho", "amount": 7}, {"item": "lead", "amount": 1}, {"item": "vosixe", "amount": 8}], "research": "laho-factory", "category": "production"}

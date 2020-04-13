@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yuduse battery", "description": "...", "size": 3, "health": 32, "requirements": [{"item": "yuduse", "amount": 3}, {"item": "famuqunium", "amount": 20}, {"item": "mywoju", "amount": 8}], "research": "yuduse-factory", "consumes": {"powerBuffered": 302}, "category": "power"}

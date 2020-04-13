@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mivuwa bridge conveyor", "description": "", "health": 24, "range": 15, "speed": 13, "bufferCapacity": 19, "requirements": [{"item": "mivuwa", "amount": 4}, {"item": "mygo", "amount": 4}], "research": "mivuwa-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kura power node", "description": "...", "size": 2, "health": 65, "requirements": [{"item": "kura", "amount": 5}, {"item": "xyyira", "amount": 9}, {"item": "socyhi", "amount": 10}], "research": "kura-factory", "maxNodes": 15, "laserRange": 11, "category": "power"}

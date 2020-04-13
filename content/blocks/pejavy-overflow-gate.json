@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pejavy overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "pejavy", "amount": 2}, {"item": "noca", "amount": 2}], "research": "pejavy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "doxenium power node", "description": "...", "size": 2, "health": 280, "requirements": [{"item": "doxenium", "amount": 20}, {"item": "zoju", "amount": 1}, {"item": "sodyly", "amount": 1}], "research": "doxenium-factory", "maxNodes": 14, "laserRange": 6, "category": "power"}

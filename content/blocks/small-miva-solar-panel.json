@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small miva solar panel", "description": "...", "size": 1, "health": 175, "requirements": [{"item": "miva", "amount": 3}, {"item": "vezaya", "amount": 9}, {"item": "secuqunium", "amount": 4}], "research": "miva-factory", "powerProduction": 1.016023800728936, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jahunium junction", "description": "...", "health": 24, "speed": 10, "capacity": 7, "size": 1, "requirements": [{"item": "jahunium", "amount": 5}, {"item": "relaqo", "amount": 2}], "research": "jahunium-conveyor", "category": "distribution"}

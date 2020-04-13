@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "genule power node", "description": "...", "size": 2, "health": 576, "requirements": [{"item": "genule", "amount": 17}, {"item": "dyqasy", "amount": 19}, {"item": "qowa", "amount": 8}], "research": "genule-factory", "maxNodes": 11, "laserRange": 22, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vetigu bridge conveyor", "description": "", "health": 17, "range": 12, "speed": 11, "bufferCapacity": 15, "requirements": [{"item": "vetigu", "amount": 2}, {"item": "syxube", "amount": 4}], "research": "vetigu-conveyor", "category": "distribution", "size": 1}

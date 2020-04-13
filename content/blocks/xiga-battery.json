@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xiga battery", "description": "...", "size": 3, "health": 80, "requirements": [{"item": "xiga", "amount": 14}, {"item": "sore", "amount": 2}, {"item": "rukycu", "amount": 5}], "research": "xiga-factory", "consumes": {"powerBuffered": 1321}, "category": "power"}

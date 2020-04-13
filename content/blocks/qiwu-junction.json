@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qiwu junction", "description": "...", "health": 9, "speed": 14, "capacity": 3, "size": 1, "requirements": [{"item": "qiwu", "amount": 2}, {"item": "myhuzi", "amount": 4}], "research": "qiwu-conveyor", "category": "distribution"}

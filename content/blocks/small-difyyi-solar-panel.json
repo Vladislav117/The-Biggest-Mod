@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small difyyi solar panel", "description": "...", "size": 1, "health": 103, "requirements": [{"item": "difyyi", "amount": 20}, {"item": "temu", "amount": 15}, {"item": "tavu", "amount": 9}], "research": "difyyi-factory", "powerProduction": 0.794150205116633, "category": "power"}

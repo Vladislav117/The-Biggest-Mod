@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yanawa power node", "description": "...", "size": 1, "health": 126, "requirements": [{"item": "yanawa", "amount": 16}, {"item": "ruji", "amount": 10}, {"item": "yupo", "amount": 6}], "research": "yanawa-factory", "maxNodes": 12, "laserRange": 11, "category": "power"}

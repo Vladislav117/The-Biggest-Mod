@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gemoco underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "gemoco", "amount": 1}, {"item": "yimo", "amount": 2}], "research": "gemoco-conveyor", "category": "distribution", "invert": false}

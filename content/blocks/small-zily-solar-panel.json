@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zily solar panel", "description": "...", "size": 1, "health": 222, "requirements": [{"item": "zily", "amount": 11}, {"item": "jusybynium", "amount": 19}, {"item": "kefy", "amount": 1}], "research": "zily-factory", "powerProduction": 2.457674901832107, "category": "power"}

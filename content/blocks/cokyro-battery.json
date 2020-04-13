@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cokyro battery", "description": "...", "size": 3, "health": 184, "requirements": [{"item": "cokyro", "amount": 20}, {"item": "riyi", "amount": 3}, {"item": "carani", "amount": 8}], "research": "cokyro-factory", "consumes": {"powerBuffered": 3530}, "category": "power"}

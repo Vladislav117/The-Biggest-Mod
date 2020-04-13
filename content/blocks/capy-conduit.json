@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "capy conduit", "description": "...", "health": 35, "requirements": [{"item": "capy", "amount": 20}, {"item": "kafulu", "amount": 18}, {"item": "qoqygi", "amount": 6}], "liquidCapacity": 48, "liquidPressure": 2, "research": "capy-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pufu solar panel", "description": "...", "size": 3, "health": 284, "requirements": [{"item": "pufu", "amount": 13}, {"item": "gaxenium", "amount": 20}, {"item": "lepe", "amount": 10}], "research": "pufu-factory", "powerProduction": 0.026781809671294732, "category": "power"}

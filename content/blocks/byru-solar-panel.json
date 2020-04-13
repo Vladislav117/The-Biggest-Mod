@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "byru solar panel", "description": "...", "size": 3, "health": 394, "requirements": [{"item": "byru", "amount": 20}, {"item": "dimysynium", "amount": 4}, {"item": "biny", "amount": 7}], "research": "byru-factory", "powerProduction": 1.5560585585582973, "category": "power"}

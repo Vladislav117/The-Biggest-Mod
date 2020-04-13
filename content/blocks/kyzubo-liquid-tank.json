@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyzubo liquid tank", "description": "...", "health": 415, "size": 3, "requirements": [{"item": "kyzubo", "amount": 16}, {"item": "qakynunium", "amount": 12}, {"item": "balyvo", "amount": 2}], "research": "kyzubo-conduit", "category": "liquid", "liquidCapacity": 101904, "hasLiquids": true}

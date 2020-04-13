@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small boni solar panel", "description": "...", "size": 1, "health": 157, "requirements": [{"item": "boni", "amount": 15}, {"item": "niqy", "amount": 17}, {"item": "yuwu", "amount": 6}], "research": "boni-factory", "powerProduction": 0.5759841275050895, "category": "power"}

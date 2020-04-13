@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kilu solar panel", "description": "...", "size": 3, "health": 147, "requirements": [{"item": "kilu", "amount": 19}, {"item": "tire", "amount": 18}, {"item": "kilu", "amount": 8}], "research": "kilu-factory", "powerProduction": 0.6599089701118591, "category": "power"}

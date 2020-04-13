@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ficynium overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "ficynium", "amount": 1}, {"item": "dafa", "amount": 1}], "research": "ficynium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "netito conduit", "description": "...", "health": 103, "requirements": [{"item": "netito", "amount": 7}, {"item": "yypunium", "amount": 5}, {"item": "vosenium", "amount": 2}], "liquidCapacity": 25, "liquidPressure": 9, "research": "netito-factory", "category": "liquid"}

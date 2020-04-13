@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mapu drill", "description": "...", "size": 3, "health": 429, "tier": 4, "drillTime": 18, "consumes": {"power": 3}, "requirements": [{"item": "mapu", "amount": 14}, {"item": "ruginium", "amount": 12}, {"item": "baci", "amount": 9}], "research": "mapu-factory", "category": "production"}

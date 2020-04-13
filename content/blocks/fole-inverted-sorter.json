@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fole inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "fole", "amount": 2}, {"item": "dukyfe", "amount": 2}], "research": "fole-conveyor", "category": "distribution", "invert": true}

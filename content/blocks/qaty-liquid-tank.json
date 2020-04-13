@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qaty liquid tank", "description": "...", "health": 642, "size": 3, "requirements": [{"item": "qaty", "amount": 17}, {"item": "yytiro", "amount": 10}, {"item": "kixihinium", "amount": 1}], "research": "qaty-conduit", "category": "liquid", "liquidCapacity": 87997, "hasLiquids": true}

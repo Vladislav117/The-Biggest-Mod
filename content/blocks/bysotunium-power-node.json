@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bysotunium power node", "description": "...", "size": 2, "health": 464, "requirements": [{"item": "bysotunium", "amount": 6}, {"item": "sebeki", "amount": 14}, {"item": "cylequ", "amount": 9}], "research": "bysotunium-factory", "maxNodes": 40, "laserRange": 19, "category": "power"}

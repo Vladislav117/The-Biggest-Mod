@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rahubi inverted sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "rahubi", "amount": 1}, {"item": "typy", "amount": 1}], "research": "rahubi-conveyor", "category": "distribution", "invert": true}

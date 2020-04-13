@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tugi battery", "description": "...", "size": 3, "health": 299, "requirements": [{"item": "tugi", "amount": 10}, {"item": "muvy", "amount": 11}, {"item": "fusi", "amount": 1}], "research": "tugi-factory", "consumes": {"powerBuffered": 1861}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "huxe overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "huxe", "amount": 2}, {"item": "wapo", "amount": 4}], "research": "huxe-conveyor", "category": "distribution", "invert": false}

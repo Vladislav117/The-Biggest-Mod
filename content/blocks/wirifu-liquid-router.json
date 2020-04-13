@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wirifu liquid router", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "wirifu", "amount": 8}, {"item": "lyvukynium", "amount": 10}, {"item": "hisoye", "amount": 6}], "research": "wirifu-conduit", "liquidCapacity": 10, "category": "liquid"}

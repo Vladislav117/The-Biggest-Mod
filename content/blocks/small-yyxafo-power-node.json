@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yyxafo power node", "description": "...", "size": 1, "health": 287, "requirements": [{"item": "yyxafo", "amount": 5}, {"item": "nuno", "amount": 16}, {"item": "qoki", "amount": 1}], "research": "yyxafo-factory", "maxNodes": 10, "laserRange": 25, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small havipi power node", "description": "...", "size": 1, "health": 301, "requirements": [{"item": "havipi", "amount": 11}, {"item": "siwobanium", "amount": 15}, {"item": "xyzeja", "amount": 5}], "research": "havipi-factory", "maxNodes": 8, "laserRange": 17, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xapa battery", "description": "...", "size": 3, "health": 54, "requirements": [{"item": "xapa", "amount": 20}, {"item": "ruvudo", "amount": 14}, {"item": "yape", "amount": 6}], "research": "xapa-factory", "consumes": {"powerBuffered": 9249}, "category": "power"}

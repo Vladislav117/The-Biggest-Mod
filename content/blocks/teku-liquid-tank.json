@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "teku liquid tank", "description": "...", "health": 202, "size": 3, "requirements": [{"item": "teku", "amount": 17}, {"item": "tobaye", "amount": 9}, {"item": "kavequ", "amount": 5}], "research": "teku-conduit", "category": "liquid", "liquidCapacity": 41186, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mika solar panel", "description": "...", "size": 3, "health": 40, "requirements": [{"item": "mika", "amount": 19}, {"item": "huwydy", "amount": 17}, {"item": "qowepa", "amount": 6}], "research": "mika-factory", "powerProduction": 0.9154293843853413, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qosedi inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "qosedi", "amount": 2}, {"item": "yomema", "amount": 2}], "research": "qosedi-conveyor", "category": "distribution", "invert": true}

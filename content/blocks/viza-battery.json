@@ -1,0 +1,1 @@
+{"type": "battery", "name": "viza battery", "description": "...", "size": 3, "health": 180, "requirements": [{"item": "viza", "amount": 5}, {"item": "jepumi", "amount": 6}, {"item": "zore", "amount": 4}], "research": "viza-factory", "consumes": {"powerBuffered": 8123}, "category": "power"}

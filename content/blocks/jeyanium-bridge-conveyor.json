@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jeyanium bridge conveyor", "description": "", "health": 16, "range": 10, "speed": 15, "bufferCapacity": 14, "requirements": [{"item": "jeyanium", "amount": 5}, {"item": "colu", "amount": 1}], "research": "jeyanium-conveyor", "category": "distribution", "size": 1}

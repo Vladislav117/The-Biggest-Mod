@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xuserynium battery", "description": "...", "size": 3, "health": 246, "requirements": [{"item": "xuserynium", "amount": 19}, {"item": "nota", "amount": 10}, {"item": "yynylo", "amount": 6}], "research": "xuserynium-factory", "consumes": {"powerBuffered": 9342}, "category": "power"}

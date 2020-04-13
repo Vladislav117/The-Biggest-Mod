@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bitaba power node", "description": "...", "size": 2, "health": 271, "requirements": [{"item": "bitaba", "amount": 14}, {"item": "gave", "amount": 7}, {"item": "wuronium", "amount": 4}], "research": "bitaba-factory", "maxNodes": 46, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sepo solar panel", "description": "...", "size": 3, "health": 65, "requirements": [{"item": "sepo", "amount": 3}, {"item": "ragoku", "amount": 20}, {"item": "sepo", "amount": 2}], "research": "sepo-factory", "powerProduction": 0.012542251907389515, "category": "power"}

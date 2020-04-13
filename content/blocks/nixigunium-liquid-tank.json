@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nixigunium liquid tank", "description": "...", "health": 168, "size": 3, "requirements": [{"item": "nixigunium", "amount": 19}, {"item": "feyyqe", "amount": 1}, {"item": "nunanunium", "amount": 4}], "research": "nixigunium-conduit", "category": "liquid", "liquidCapacity": 16644, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vivunium conduit", "description": "...", "health": 28, "requirements": [{"item": "vivunium", "amount": 17}, {"item": "kica", "amount": 15}, {"item": "mepunium", "amount": 2}], "liquidCapacity": 43, "liquidPressure": 7, "research": "vivunium-factory", "category": "liquid"}

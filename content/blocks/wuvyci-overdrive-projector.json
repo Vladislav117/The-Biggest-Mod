@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "wuvyci overdrive projector", "description": "...", "health": 67, "consumes": {"power": 3.0, "item": "wuvyci"}, "size": 2, "requirements": [{"item": "wuvyci", "amount": 14}, {"item": "vohiyynium", "amount": 8}, {"item": "vuzoha", "amount": 10}], "research": "wuvyci-factory", "category": "effect"}

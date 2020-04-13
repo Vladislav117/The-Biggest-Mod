@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fami underflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "fami", "amount": 2}, {"item": "xyka", "amount": 5}], "research": "fami-conveyor", "category": "distribution", "invert": false}

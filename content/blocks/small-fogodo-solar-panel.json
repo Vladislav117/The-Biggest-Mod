@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fogodo solar panel", "description": "...", "size": 1, "health": 279, "requirements": [{"item": "fogodo", "amount": 20}, {"item": "syteja", "amount": 18}, {"item": "metaglass", "amount": 6}], "research": "fogodo-factory", "powerProduction": 3.1913386293230452, "category": "power"}

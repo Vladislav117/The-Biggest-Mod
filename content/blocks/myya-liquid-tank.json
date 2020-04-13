@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "myya liquid tank", "description": "...", "health": 558, "size": 3, "requirements": [{"item": "myya", "amount": 16}, {"item": "bejominium", "amount": 1}, {"item": "kosyqa", "amount": 1}], "research": "myya-conduit", "category": "liquid", "liquidCapacity": 5518, "hasLiquids": true}

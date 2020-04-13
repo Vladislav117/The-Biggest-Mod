@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zewe solar panel", "description": "...", "size": 3, "health": 53, "requirements": [{"item": "zewe", "amount": 5}, {"item": "qipy", "amount": 20}, {"item": "fyqy", "amount": 8}], "research": "zewe-factory", "powerProduction": 0.2700202283962434, "category": "power"}

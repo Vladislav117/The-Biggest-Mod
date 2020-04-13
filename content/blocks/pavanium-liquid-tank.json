@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pavanium liquid tank", "description": "...", "health": 517, "size": 3, "requirements": [{"item": "pavanium", "amount": 19}, {"item": "zele", "amount": 13}, {"item": "sekele", "amount": 2}], "research": "pavanium-conduit", "category": "liquid", "liquidCapacity": 11071, "hasLiquids": true}

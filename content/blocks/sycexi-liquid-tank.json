@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sycexi liquid tank", "description": "...", "health": 539, "size": 3, "requirements": [{"item": "sycexi", "amount": 1}, {"item": "goku", "amount": 15}, {"item": "tijixi", "amount": 2}], "research": "sycexi-conduit", "category": "liquid", "liquidCapacity": 49213, "hasLiquids": true}

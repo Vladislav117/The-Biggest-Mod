@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zori power node", "description": "...", "size": 2, "health": 746, "requirements": [{"item": "zori", "amount": 19}, {"item": "luvonium", "amount": 15}, {"item": "lyva", "amount": 6}], "research": "zori-factory", "maxNodes": 59, "laserRange": 20, "category": "power"}

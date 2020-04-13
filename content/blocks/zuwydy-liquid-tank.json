@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zuwydy liquid tank", "description": "...", "health": 415, "size": 3, "requirements": [{"item": "zuwydy", "amount": 16}, {"item": "qylino", "amount": 4}, {"item": "seyuwa", "amount": 6}], "research": "zuwydy-conduit", "category": "liquid", "liquidCapacity": 118059, "hasLiquids": true}

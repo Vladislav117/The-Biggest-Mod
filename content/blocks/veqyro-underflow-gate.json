@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "veqyro underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "veqyro", "amount": 5}, {"item": "yipobe", "amount": 2}], "research": "veqyro-conveyor", "category": "distribution", "invert": false}

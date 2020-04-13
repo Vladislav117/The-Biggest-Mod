@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cygeqy battery", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "cygeqy", "amount": 13}, {"item": "yowiminium", "amount": 1}, {"item": "qodanunium", "amount": 7}], "research": "cygeqy-factory", "consumes": {"powerBuffered": 1915}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bapu underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "bapu", "amount": 1}, {"item": "hudolo", "amount": 3}], "research": "bapu-conveyor", "category": "distribution", "invert": false}

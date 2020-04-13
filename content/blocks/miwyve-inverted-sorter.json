@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "miwyve inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "miwyve", "amount": 1}, {"item": "bumaqa", "amount": 2}], "research": "miwyve-conveyor", "category": "distribution", "invert": true}

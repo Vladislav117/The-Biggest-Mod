@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fyze battery", "description": "...", "size": 3, "health": 274, "requirements": [{"item": "fyze", "amount": 2}, {"item": "rigoyo", "amount": 7}, {"item": "lahowe", "amount": 3}], "research": "fyze-factory", "consumes": {"powerBuffered": 6403}, "category": "power"}

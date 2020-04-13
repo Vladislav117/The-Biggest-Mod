@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jyta battery", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "jyta", "amount": 9}, {"item": "gonu", "amount": 1}, {"item": "kyka", "amount": 4}], "research": "jyta-factory", "consumes": {"powerBuffered": 4328}, "category": "power"}

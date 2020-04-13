@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zycinium junction", "description": "...", "health": 49, "speed": 13, "capacity": 11, "size": 1, "requirements": [{"item": "zycinium", "amount": 3}, {"item": "lynaly", "amount": 2}], "research": "zycinium-conveyor", "category": "distribution"}

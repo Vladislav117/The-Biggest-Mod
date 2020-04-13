@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "dycimi force projector", "description": "...", "health": 216, "size": 3, "consumes": {"power": 5.0, "item": "dycimi"}, "requirements": [{"item": "dycimi", "amount": 6}, {"item": "monu", "amount": 14}, {"item": "jytubinium", "amount": 5}], "research": "dycimi-factory", "category": "effect"}

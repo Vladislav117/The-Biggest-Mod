@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jynuka solar panel", "description": "...", "size": 1, "health": 380, "requirements": [{"item": "jynuka", "amount": 9}, {"item": "xinodunium", "amount": 1}, {"item": "kowonium", "amount": 5}], "research": "jynuka-factory", "powerProduction": 5.335264121789697, "category": "power"}

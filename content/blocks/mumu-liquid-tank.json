@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mumu liquid tank", "description": "...", "health": 507, "size": 3, "requirements": [{"item": "mumu", "amount": 14}, {"item": "qerobu", "amount": 6}, {"item": "zivo", "amount": 9}], "research": "mumu-conduit", "category": "liquid", "liquidCapacity": 13535, "hasLiquids": true}

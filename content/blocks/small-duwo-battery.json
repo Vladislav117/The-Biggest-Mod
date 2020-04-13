@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small duwo battery", "description": "...", "size": 1, "health": 378, "requirements": [{"item": "duwo", "amount": 2}, {"item": "lahydo", "amount": 9}, {"item": "gawazy", "amount": 8}], "research": "duwo-factory", "consumes": {"powerBuffered": 689}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "licu liquid tank", "description": "...", "health": 146, "size": 3, "requirements": [{"item": "licu", "amount": 1}, {"item": "jawo", "amount": 1}, {"item": "cusunium", "amount": 6}], "research": "licu-conduit", "category": "liquid", "liquidCapacity": 38674, "hasLiquids": true}

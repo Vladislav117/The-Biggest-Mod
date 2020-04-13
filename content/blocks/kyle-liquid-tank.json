@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyle liquid tank", "description": "...", "health": 565, "size": 3, "requirements": [{"item": "kyle", "amount": 8}, {"item": "lyheti", "amount": 16}, {"item": "donysenium", "amount": 9}], "research": "kyle-conduit", "category": "liquid", "liquidCapacity": 42946, "hasLiquids": true}

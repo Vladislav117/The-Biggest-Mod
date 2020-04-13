@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "biryqa liquid tank", "description": "...", "health": 434, "size": 3, "requirements": [{"item": "biryqa", "amount": 8}, {"item": "sysoki", "amount": 3}, {"item": "yebyte", "amount": 9}], "research": "biryqa-conduit", "category": "liquid", "liquidCapacity": 13746, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vevo inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "vevo", "amount": 5}, {"item": "wiba", "amount": 1}], "research": "vevo-conveyor", "category": "distribution", "invert": true}

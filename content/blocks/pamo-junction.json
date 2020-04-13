@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pamo junction", "description": "...", "health": 45, "speed": 20, "capacity": 20, "size": 1, "requirements": [{"item": "pamo", "amount": 2}, {"item": "zufi", "amount": 4}], "research": "pamo-conveyor", "category": "distribution"}

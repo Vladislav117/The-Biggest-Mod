@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zefa liquid tank", "description": "...", "health": 621, "size": 3, "requirements": [{"item": "zefa", "amount": 16}, {"item": "yyze", "amount": 4}, {"item": "wypy", "amount": 9}], "research": "zefa-conduit", "category": "liquid", "liquidCapacity": 99859, "hasLiquids": true}

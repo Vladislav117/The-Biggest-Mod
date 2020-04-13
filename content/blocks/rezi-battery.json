@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rezi battery", "description": "...", "size": 3, "health": 339, "requirements": [{"item": "rezi", "amount": 9}, {"item": "yanawa", "amount": 15}, {"item": "wiqa", "amount": 6}], "research": "rezi-factory", "consumes": {"powerBuffered": 7640}, "category": "power"}

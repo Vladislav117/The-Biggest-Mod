@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nyry battery", "description": "...", "size": 1, "health": 94, "requirements": [{"item": "nyry", "amount": 14}, {"item": "kokonium", "amount": 18}, {"item": "bedi", "amount": 9}], "research": "nyry-factory", "consumes": {"powerBuffered": 1178}, "category": "power"}

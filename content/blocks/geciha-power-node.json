@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "geciha power node", "description": "...", "size": 2, "health": 469, "requirements": [{"item": "geciha", "amount": 14}, {"item": "qevije", "amount": 17}, {"item": "cebuqy", "amount": 5}], "research": "geciha-factory", "maxNodes": 27, "laserRange": 20, "category": "power"}

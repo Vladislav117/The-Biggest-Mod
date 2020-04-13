@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qakynunium underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "qakynunium", "amount": 2}, {"item": "zazinium", "amount": 4}], "research": "qakynunium-conveyor", "category": "distribution", "invert": false}

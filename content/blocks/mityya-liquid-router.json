@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mityya liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "mityya", "amount": 12}, {"item": "hiqasynium", "amount": 1}, {"item": "rateju", "amount": 7}], "research": "mityya-conduit", "liquidCapacity": 10, "category": "liquid"}

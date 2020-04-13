@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "merule liquid tank", "description": "...", "health": 402, "size": 3, "requirements": [{"item": "merule", "amount": 8}, {"item": "yisupe", "amount": 20}, {"item": "heqywanium", "amount": 9}], "research": "merule-conduit", "category": "liquid", "liquidCapacity": 22712, "hasLiquids": true}

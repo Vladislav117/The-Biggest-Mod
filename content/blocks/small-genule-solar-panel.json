@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small genule solar panel", "description": "...", "size": 1, "health": 141, "requirements": [{"item": "genule", "amount": 8}, {"item": "meze", "amount": 12}, {"item": "rajizu", "amount": 1}], "research": "genule-factory", "powerProduction": 4.8570097360453435, "category": "power"}

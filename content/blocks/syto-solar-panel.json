@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "syto solar panel", "description": "...", "size": 3, "health": 236, "requirements": [{"item": "syto", "amount": 4}, {"item": "gide", "amount": 7}, {"item": "yidude", "amount": 2}], "research": "syto-factory", "powerProduction": 11.299309244460952, "category": "power"}

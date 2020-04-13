@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wigyre inverted sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "wigyre", "amount": 3}, {"item": "lyheti", "amount": 1}], "research": "wigyre-conveyor", "category": "distribution", "invert": true}

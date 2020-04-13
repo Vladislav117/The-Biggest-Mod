@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vepuge solar panel", "description": "...", "size": 3, "health": 374, "requirements": [{"item": "vepuge", "amount": 9}, {"item": "riro", "amount": 1}, {"item": "yewininium", "amount": 8}], "research": "vepuge-factory", "powerProduction": 8.40374804306477, "category": "power"}

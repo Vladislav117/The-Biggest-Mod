@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cone liquid router", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "cone", "amount": 8}, {"item": "yuhy", "amount": 3}, {"item": "kyqu", "amount": 8}], "research": "cone-conduit", "liquidCapacity": 10, "category": "liquid"}

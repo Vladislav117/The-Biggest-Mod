@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tenelenium liquid tank", "description": "...", "health": 123, "size": 3, "requirements": [{"item": "tenelenium", "amount": 13}, {"item": "fixunium", "amount": 19}, {"item": "yicavu", "amount": 1}], "research": "tenelenium-conduit", "category": "liquid", "liquidCapacity": 41621, "hasLiquids": true}

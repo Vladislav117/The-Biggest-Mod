@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fare liquid router", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "fare", "amount": 4}, {"item": "pamufo", "amount": 10}, {"item": "fexuxy", "amount": 1}], "research": "fare-conduit", "liquidCapacity": 10, "category": "liquid"}

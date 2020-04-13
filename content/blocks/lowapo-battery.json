@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lowapo battery", "description": "...", "size": 3, "health": 308, "requirements": [{"item": "lowapo", "amount": 10}, {"item": "mefymanium", "amount": 11}, {"item": "yifity", "amount": 2}], "research": "lowapo-factory", "consumes": {"powerBuffered": 3522}, "category": "power"}

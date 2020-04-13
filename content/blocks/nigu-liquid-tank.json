@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nigu liquid tank", "description": "...", "health": 410, "size": 3, "requirements": [{"item": "nigu", "amount": 12}, {"item": "tuxalu", "amount": 19}, {"item": "duly", "amount": 1}], "research": "nigu-conduit", "category": "liquid", "liquidCapacity": 36828, "hasLiquids": true}

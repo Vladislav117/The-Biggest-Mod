@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tohi liquid router", "description": "...", "size": 1, "health": 67, "requirements": [{"item": "tohi", "amount": 11}, {"item": "vodynium", "amount": 10}, {"item": "motaty", "amount": 8}], "research": "tohi-conduit", "liquidCapacity": 10, "category": "liquid"}

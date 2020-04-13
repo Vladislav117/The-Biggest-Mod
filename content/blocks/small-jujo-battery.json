@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jujo battery", "description": "...", "size": 1, "health": 330, "requirements": [{"item": "jujo", "amount": 5}, {"item": "vego", "amount": 17}, {"item": "zilida", "amount": 6}], "research": "jujo-factory", "consumes": {"powerBuffered": 1451}, "category": "power"}

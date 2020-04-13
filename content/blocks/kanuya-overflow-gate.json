@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kanuya overflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "kanuya", "amount": 2}, {"item": "jaweki", "amount": 5}], "research": "kanuya-conveyor", "category": "distribution", "invert": false}

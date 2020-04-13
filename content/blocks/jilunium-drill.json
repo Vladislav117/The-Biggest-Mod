@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jilunium drill", "description": "...", "size": 3, "health": 427, "tier": 4, "drillTime": 19, "consumes": {"power": 19}, "requirements": [{"item": "jilunium", "amount": 14}, {"item": "nileru", "amount": 10}, {"item": "wovazo", "amount": 10}], "research": "jilunium-factory", "category": "production"}

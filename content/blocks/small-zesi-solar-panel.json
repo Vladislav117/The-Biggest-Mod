@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zesi solar panel", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "zesi", "amount": 18}, {"item": "hoqego", "amount": 5}, {"item": "dipyfonium", "amount": 2}], "research": "zesi-factory", "powerProduction": 1.8897742639780453, "category": "power"}

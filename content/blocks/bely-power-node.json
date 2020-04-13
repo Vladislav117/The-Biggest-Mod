@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bely power node", "description": "...", "size": 2, "health": 676, "requirements": [{"item": "bely", "amount": 7}, {"item": "yuvynium", "amount": 4}, {"item": "titenium", "amount": 4}], "research": "bely-factory", "maxNodes": 33, "laserRange": 27, "category": "power"}

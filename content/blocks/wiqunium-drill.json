@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wiqunium drill", "description": "...", "size": 3, "health": 372, "tier": 3, "drillTime": 9, "consumes": {"power": 17}, "requirements": [{"item": "wiqunium", "amount": 8}, {"item": "sytafe", "amount": 7}, {"item": "ridu", "amount": 10}], "research": "wiqunium-factory", "category": "production"}

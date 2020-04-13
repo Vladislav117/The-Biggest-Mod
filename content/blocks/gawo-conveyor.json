@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "gawo conveyor", "description": "...", "health": 35, "requirements": [{"item": "gawo", "amount": 3}, {"item": "kery", "amount": 1}], "speed": 0.47199781468261454, "research": "gawo-factory", "category": "distribution"}

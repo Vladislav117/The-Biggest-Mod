@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cezany liquid tank", "description": "...", "health": 443, "size": 3, "requirements": [{"item": "cezany", "amount": 4}, {"item": "giho", "amount": 10}, {"item": "liqy", "amount": 9}], "research": "cezany-conduit", "category": "liquid", "liquidCapacity": 3966, "hasLiquids": true}

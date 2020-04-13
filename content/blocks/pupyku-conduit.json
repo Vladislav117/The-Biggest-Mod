@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pupyku conduit", "description": "...", "health": 40, "requirements": [{"item": "pupyku", "amount": 19}, {"item": "feqy", "amount": 7}, {"item": "baquyo", "amount": 5}], "liquidCapacity": 7, "liquidPressure": 7, "research": "pupyku-factory", "category": "liquid"}

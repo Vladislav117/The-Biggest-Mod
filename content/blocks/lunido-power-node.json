@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lunido power node", "description": "...", "size": 2, "health": 103, "requirements": [{"item": "lunido", "amount": 4}, {"item": "fote", "amount": 13}, {"item": "gunery", "amount": 8}], "research": "lunido-factory", "maxNodes": 45, "laserRange": 11, "category": "power"}

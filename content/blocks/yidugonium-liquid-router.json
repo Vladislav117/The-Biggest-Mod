@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yidugonium liquid router", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "yidugonium", "amount": 13}, {"item": "xemynium", "amount": 11}, {"item": "tuma", "amount": 5}], "research": "yidugonium-conduit", "liquidCapacity": 10, "category": "liquid"}

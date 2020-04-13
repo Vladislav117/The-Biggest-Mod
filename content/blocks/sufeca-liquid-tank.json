@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sufeca liquid tank", "description": "...", "health": 231, "size": 3, "requirements": [{"item": "sufeca", "amount": 1}, {"item": "rajizu", "amount": 4}, {"item": "gino", "amount": 5}], "research": "sufeca-conduit", "category": "liquid", "liquidCapacity": 116107, "hasLiquids": true}

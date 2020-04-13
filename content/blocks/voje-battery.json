@@ -1,0 +1,1 @@
+{"type": "battery", "name": "voje battery", "description": "...", "size": 3, "health": 166, "requirements": [{"item": "voje", "amount": 1}, {"item": "fevy", "amount": 1}, {"item": "byhonium", "amount": 4}], "research": "voje-factory", "consumes": {"powerBuffered": 6000}, "category": "power"}

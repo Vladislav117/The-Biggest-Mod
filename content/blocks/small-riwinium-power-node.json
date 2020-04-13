@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small riwinium power node", "description": "...", "size": 1, "health": 338, "requirements": [{"item": "riwinium", "amount": 9}, {"item": "mizeqy", "amount": 20}, {"item": "zuzequ", "amount": 9}], "research": "riwinium-factory", "maxNodes": 8, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hopyca bridge conveyor", "description": "", "health": 42, "range": 13, "speed": 19, "bufferCapacity": 1, "requirements": [{"item": "hopyca", "amount": 1}, {"item": "jihaconium", "amount": 5}], "research": "hopyca-conveyor", "category": "distribution", "size": 1}

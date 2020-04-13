@@ -1,0 +1,1 @@
+{"type": "battery", "name": "niruya battery", "description": "...", "size": 3, "health": 103, "requirements": [{"item": "niruya", "amount": 16}, {"item": "gyhecu", "amount": 13}, {"item": "gacy", "amount": 10}], "research": "niruya-factory", "consumes": {"powerBuffered": 7261}, "category": "power"}

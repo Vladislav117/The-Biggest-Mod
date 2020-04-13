@@ -1,0 +1,1 @@
+{"type": "junction", "name": "doluka junction", "description": "...", "health": 41, "speed": 10, "capacity": 20, "size": 1, "requirements": [{"item": "doluka", "amount": 4}, {"item": "tyno", "amount": 1}], "research": "doluka-conveyor", "category": "distribution"}

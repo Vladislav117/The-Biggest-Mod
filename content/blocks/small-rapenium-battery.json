@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rapenium battery", "description": "...", "size": 1, "health": 247, "requirements": [{"item": "rapenium", "amount": 4}, {"item": "rymyfanium", "amount": 14}, {"item": "ryfo", "amount": 9}], "research": "rapenium-factory", "consumes": {"powerBuffered": 2909}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yeku solar panel", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "yeku", "amount": 19}, {"item": "labila", "amount": 4}, {"item": "naku", "amount": 3}], "research": "yeku-factory", "powerProduction": 0.0005309513813184091, "category": "power"}

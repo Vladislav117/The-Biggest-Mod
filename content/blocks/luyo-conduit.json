@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "luyo conduit", "description": "...", "health": 138, "requirements": [{"item": "luyo", "amount": 10}, {"item": "lahydo", "amount": 3}, {"item": "lunido", "amount": 6}], "liquidCapacity": 16, "liquidPressure": 5, "research": "luyo-factory", "category": "liquid"}

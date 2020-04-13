@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qiditinium overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "qiditinium", "amount": 2}, {"item": "mucige", "amount": 3}], "research": "qiditinium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fohebi power node", "description": "...", "size": 2, "health": 472, "requirements": [{"item": "fohebi", "amount": 2}, {"item": "viqamo", "amount": 14}, {"item": "tusico", "amount": 10}], "research": "fohebi-factory", "maxNodes": 20, "laserRange": 7, "category": "power"}

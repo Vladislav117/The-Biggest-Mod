@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "giho bridge conveyor", "description": "", "health": 35, "range": 12, "speed": 7, "bufferCapacity": 25, "requirements": [{"item": "giho", "amount": 5}, {"item": "gizomanium", "amount": 1}], "research": "giho-conveyor", "category": "distribution", "size": 1}

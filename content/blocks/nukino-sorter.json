@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nukino sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "nukino", "amount": 4}, {"item": "jihi", "amount": 3}], "research": "nukino-conveyor", "category": "distribution", "invert": false}

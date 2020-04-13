@@ -1,0 +1,1 @@
+{"type": "battery", "name": "takicynium battery", "description": "...", "size": 3, "health": 336, "requirements": [{"item": "takicynium", "amount": 2}, {"item": "zufi", "amount": 16}, {"item": "jerenium", "amount": 4}], "research": "takicynium-factory", "consumes": {"powerBuffered": 4031}, "category": "power"}

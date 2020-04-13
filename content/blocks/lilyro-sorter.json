@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lilyro sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "lilyro", "amount": 1}, {"item": "nuzivo", "amount": 4}], "research": "lilyro-conveyor", "category": "distribution", "invert": false}

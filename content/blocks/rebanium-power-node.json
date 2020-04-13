@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rebanium power node", "description": "...", "size": 2, "health": 662, "requirements": [{"item": "rebanium", "amount": 7}, {"item": "gohyce", "amount": 4}, {"item": "rytysynium", "amount": 3}], "research": "rebanium-factory", "maxNodes": 43, "laserRange": 7, "category": "power"}

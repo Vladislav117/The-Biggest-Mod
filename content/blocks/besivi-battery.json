@@ -1,0 +1,1 @@
+{"type": "battery", "name": "besivi battery", "description": "...", "size": 3, "health": 328, "requirements": [{"item": "besivi", "amount": 3}, {"item": "pyto", "amount": 3}, {"item": "jeqenium", "amount": 1}], "research": "besivi-factory", "consumes": {"powerBuffered": 6515}, "category": "power"}

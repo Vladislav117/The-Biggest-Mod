@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ciwy battery", "description": "...", "size": 1, "health": 267, "requirements": [{"item": "ciwy", "amount": 15}, {"item": "keqaqe", "amount": 12}, {"item": "pato", "amount": 5}], "research": "ciwy-factory", "consumes": {"powerBuffered": 2645}, "category": "power"}

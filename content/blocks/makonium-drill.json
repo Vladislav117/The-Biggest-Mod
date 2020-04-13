@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "makonium drill", "description": "...", "size": 3, "health": 139, "tier": 3, "drillTime": 13, "consumes": {"power": 15}, "requirements": [{"item": "makonium", "amount": 1}, {"item": "qiposa", "amount": 3}, {"item": "giha", "amount": 1}], "research": "makonium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dibu overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "dibu", "amount": 2}, {"item": "rysenium", "amount": 1}], "research": "dibu-conveyor", "category": "distribution", "invert": false}

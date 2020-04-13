@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gyfy conduit", "description": "...", "health": 123, "requirements": [{"item": "gyfy", "amount": 14}, {"item": "xiga", "amount": 19}, {"item": "foho", "amount": 6}], "liquidCapacity": 12, "liquidPressure": 10, "research": "gyfy-factory", "category": "liquid"}

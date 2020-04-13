@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "togygi power node", "description": "...", "size": 2, "health": 378, "requirements": [{"item": "togygi", "amount": 20}, {"item": "hihunium", "amount": 11}, {"item": "gineta", "amount": 1}], "research": "togygi-factory", "maxNodes": 49, "laserRange": 30, "category": "power"}

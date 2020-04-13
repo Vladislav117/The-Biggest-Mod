@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mijinium battery", "description": "...", "size": 1, "health": 186, "requirements": [{"item": "mijinium", "amount": 6}, {"item": "bydo", "amount": 16}, {"item": "tyzonium", "amount": 4}], "research": "mijinium-factory", "consumes": {"powerBuffered": 1753}, "category": "power"}

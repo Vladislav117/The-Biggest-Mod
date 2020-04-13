@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "beku conduit", "description": "...", "health": 176, "requirements": [{"item": "beku", "amount": 15}, {"item": "kagunium", "amount": 3}, {"item": "kykegi", "amount": 7}], "liquidCapacity": 10, "liquidPressure": 5, "research": "beku-factory", "category": "liquid"}

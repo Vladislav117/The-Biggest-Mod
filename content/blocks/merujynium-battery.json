@@ -1,0 +1,1 @@
+{"type": "battery", "name": "merujynium battery", "description": "...", "size": 3, "health": 133, "requirements": [{"item": "merujynium", "amount": 14}, {"item": "tiyexenium", "amount": 8}, {"item": "mivini", "amount": 4}], "research": "merujynium-factory", "consumes": {"powerBuffered": 1098}, "category": "power"}

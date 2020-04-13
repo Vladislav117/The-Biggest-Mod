@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cafazu battery", "description": "...", "size": 3, "health": 373, "requirements": [{"item": "cafazu", "amount": 4}, {"item": "xesu", "amount": 5}, {"item": "wisi", "amount": 9}], "research": "cafazu-factory", "consumes": {"powerBuffered": 3811}, "category": "power"}

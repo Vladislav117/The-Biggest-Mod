@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pafyvi drill", "description": "...", "size": 2, "health": 158, "tier": 4, "drillTime": 3, "consumes": {"power": 15}, "requirements": [{"item": "pafyvi", "amount": 20}, {"item": "kedy", "amount": 10}, {"item": "tebebe", "amount": 7}], "research": "pafyvi-factory", "category": "production"}

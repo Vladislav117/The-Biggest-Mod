@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zupisy solar panel", "description": "...", "size": 3, "health": 112, "requirements": [{"item": "zupisy", "amount": 13}, {"item": "wadoka", "amount": 16}, {"item": "lora", "amount": 3}], "research": "zupisy-factory", "powerProduction": 2.6279116746485593, "category": "power"}

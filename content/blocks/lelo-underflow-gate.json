@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lelo underflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "lelo", "amount": 1}, {"item": "yidude", "amount": 4}], "research": "lelo-conveyor", "category": "distribution", "invert": false}

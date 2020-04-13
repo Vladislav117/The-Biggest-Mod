@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qycozi drill", "description": "...", "size": 3, "health": 107, "tier": 3, "drillTime": 8, "consumes": {"power": 14}, "requirements": [{"item": "qycozi", "amount": 16}, {"item": "woqyfu", "amount": 8}, {"item": "goxylo", "amount": 3}], "research": "qycozi-factory", "category": "production"}

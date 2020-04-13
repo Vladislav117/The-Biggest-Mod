@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cuyu junction", "description": "...", "health": 40, "speed": 4, "capacity": 11, "size": 1, "requirements": [{"item": "cuyu", "amount": 3}, {"item": "jigame", "amount": 2}], "research": "cuyu-conveyor", "category": "distribution"}

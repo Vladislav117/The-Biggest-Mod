@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kobynium overflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "kobynium", "amount": 3}, {"item": "lybazi", "amount": 3}], "research": "kobynium-conveyor", "category": "distribution", "invert": false}

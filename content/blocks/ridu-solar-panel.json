@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ridu solar panel", "description": "...", "size": 3, "health": 36, "requirements": [{"item": "ridu", "amount": 16}, {"item": "bywazy", "amount": 19}, {"item": "muby", "amount": 4}], "research": "ridu-factory", "powerProduction": 3.6659515947301085, "category": "power"}

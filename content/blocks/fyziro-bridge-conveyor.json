@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fyziro bridge conveyor", "description": "", "health": 31, "range": 5, "speed": 5, "bufferCapacity": 6, "requirements": [{"item": "fyziro", "amount": 2}, {"item": "cudy", "amount": 3}], "research": "fyziro-conveyor", "category": "distribution", "size": 1}

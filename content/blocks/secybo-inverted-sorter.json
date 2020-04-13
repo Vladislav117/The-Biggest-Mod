@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "secybo inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "secybo", "amount": 5}, {"item": "gyduyi", "amount": 4}], "research": "secybo-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "deqo conduit", "description": "...", "health": 84, "requirements": [{"item": "deqo", "amount": 11}, {"item": "bisy", "amount": 5}, {"item": "qady", "amount": 1}], "liquidCapacity": 30, "liquidPressure": 2, "research": "deqo-factory", "category": "liquid"}

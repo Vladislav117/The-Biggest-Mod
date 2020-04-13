@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bezomo battery", "description": "...", "size": 3, "health": 396, "requirements": [{"item": "bezomo", "amount": 9}, {"item": "zoku", "amount": 10}, {"item": "rane", "amount": 3}], "research": "bezomo-factory", "consumes": {"powerBuffered": 5871}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nivifu overflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "nivifu", "amount": 4}, {"item": "kopyto", "amount": 4}], "research": "nivifu-conveyor", "category": "distribution", "invert": false}

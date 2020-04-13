@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "rysi liquid router", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "rysi", "amount": 5}, {"item": "yijotu", "amount": 12}, {"item": "nevyle", "amount": 2}], "research": "rysi-conduit", "liquidCapacity": 10, "category": "liquid"}

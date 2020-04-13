@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "lipo conveyor", "description": "...", "health": 132, "requirements": [{"item": "lipo", "amount": 1}, {"item": "ridu", "amount": 9}], "speed": 0.24494158788850867, "research": "lipo-factory", "category": "distribution"}

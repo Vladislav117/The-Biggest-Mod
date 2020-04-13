@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nimynium sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "nimynium", "amount": 1}, {"item": "vadoda", "amount": 1}], "research": "nimynium-conveyor", "category": "distribution", "invert": false}

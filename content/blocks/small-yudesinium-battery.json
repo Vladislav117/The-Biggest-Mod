@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yudesinium battery", "description": "...", "size": 1, "health": 340, "requirements": [{"item": "yudesinium", "amount": 16}, {"item": "dekeko", "amount": 4}, {"item": "nyboye", "amount": 1}], "research": "yudesinium-factory", "consumes": {"powerBuffered": 720}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nuto power node", "description": "...", "size": 1, "health": 275, "requirements": [{"item": "nuto", "amount": 2}, {"item": "lyra", "amount": 2}, {"item": "liwafa", "amount": 7}], "research": "nuto-factory", "maxNodes": 6, "laserRange": 23, "category": "power"}

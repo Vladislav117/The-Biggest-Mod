@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zibe drill", "description": "...", "size": 3, "health": 236, "tier": 3, "drillTime": 3, "consumes": {"power": 7}, "requirements": [{"item": "zibe", "amount": 11}, {"item": "ragezunium", "amount": 1}, {"item": "duto", "amount": 6}], "research": "zibe-factory", "category": "production"}

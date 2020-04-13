@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tabo battery", "description": "...", "size": 3, "health": 296, "requirements": [{"item": "tabo", "amount": 17}, {"item": "woyu", "amount": 11}, {"item": "tomufa", "amount": 5}], "research": "tabo-factory", "consumes": {"powerBuffered": 4261}, "category": "power"}

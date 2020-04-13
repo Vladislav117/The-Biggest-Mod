@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qapi power node", "description": "...", "size": 2, "health": 496, "requirements": [{"item": "qapi", "amount": 14}, {"item": "wino", "amount": 20}, {"item": "qesinium", "amount": 3}], "research": "qapi-factory", "maxNodes": 32, "laserRange": 25, "category": "power"}

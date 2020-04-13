@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hojanium liquid router", "description": "...", "size": 1, "health": 93, "requirements": [{"item": "hojanium", "amount": 4}, {"item": "wypy", "amount": 6}, {"item": "jaga", "amount": 4}], "research": "hojanium-conduit", "liquidCapacity": 10, "category": "liquid"}

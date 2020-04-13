@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "baranium bridge conveyor", "description": "", "health": 4, "range": 2, "speed": 6, "bufferCapacity": 13, "requirements": [{"item": "baranium", "amount": 4}, {"item": "jepumi", "amount": 2}], "research": "baranium-conveyor", "category": "distribution", "size": 1}

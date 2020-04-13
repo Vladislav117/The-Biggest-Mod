@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "koli overflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "koli", "amount": 1}, {"item": "kimicy", "amount": 1}], "research": "koli-conveyor", "category": "distribution", "invert": false}

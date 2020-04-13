@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "juwynium power node", "description": "...", "size": 2, "health": 171, "requirements": [{"item": "juwynium", "amount": 8}, {"item": "laxu", "amount": 14}, {"item": "furazinium", "amount": 1}], "research": "juwynium-factory", "maxNodes": 41, "laserRange": 30, "category": "power"}

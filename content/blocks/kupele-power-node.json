@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kupele power node", "description": "...", "size": 2, "health": 490, "requirements": [{"item": "kupele", "amount": 20}, {"item": "qudy", "amount": 5}, {"item": "vize", "amount": 2}], "research": "kupele-factory", "maxNodes": 27, "laserRange": 12, "category": "power"}

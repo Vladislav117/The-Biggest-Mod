@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yinyse power node", "description": "...", "size": 2, "health": 317, "requirements": [{"item": "yinyse", "amount": 5}, {"item": "lify", "amount": 6}, {"item": "bihu", "amount": 6}], "research": "yinyse-factory", "maxNodes": 46, "laserRange": 16, "category": "power"}

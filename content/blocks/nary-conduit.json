@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nary conduit", "description": "...", "health": 149, "requirements": [{"item": "nary", "amount": 18}, {"item": "gigevonium", "amount": 16}, {"item": "hufu", "amount": 1}], "liquidCapacity": 2, "liquidPressure": 3, "research": "nary-factory", "category": "liquid"}

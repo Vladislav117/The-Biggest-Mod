@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "paziyanium liquid tank", "description": "...", "health": 495, "size": 3, "requirements": [{"item": "paziyanium", "amount": 1}, {"item": "qobu", "amount": 2}, {"item": "qiga", "amount": 1}], "research": "paziyanium-conduit", "category": "liquid", "liquidCapacity": 62020, "hasLiquids": true}

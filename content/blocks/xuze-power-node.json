@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xuze power node", "description": "...", "size": 2, "health": 176, "requirements": [{"item": "xuze", "amount": 2}, {"item": "copper", "amount": 19}, {"item": "bybity", "amount": 6}], "research": "xuze-factory", "maxNodes": 11, "laserRange": 5, "category": "power"}

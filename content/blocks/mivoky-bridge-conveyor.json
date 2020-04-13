@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mivoky bridge conveyor", "description": "", "health": 11, "range": 7, "speed": 10, "bufferCapacity": 12, "requirements": [{"item": "mivoky", "amount": 5}, {"item": "logy", "amount": 4}], "research": "mivoky-conveyor", "category": "distribution", "size": 1}

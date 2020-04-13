@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small garoqanium power node", "description": "...", "size": 1, "health": 269, "requirements": [{"item": "garoqanium", "amount": 7}, {"item": "mabyra", "amount": 13}, {"item": "donuba", "amount": 10}], "research": "garoqanium-factory", "maxNodes": 6, "laserRange": 20, "category": "power"}

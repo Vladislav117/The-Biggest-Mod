@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "byveta conduit", "description": "...", "health": 88, "requirements": [{"item": "byveta", "amount": 6}, {"item": "kubi", "amount": 1}, {"item": "heda", "amount": 10}], "liquidCapacity": 30, "liquidPressure": 8, "research": "byveta-factory", "category": "liquid"}

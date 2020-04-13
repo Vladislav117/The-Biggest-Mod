@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "buhyjanium liquid tank", "description": "...", "health": 125, "size": 3, "requirements": [{"item": "buhyjanium", "amount": 20}, {"item": "bakiyy", "amount": 10}, {"item": "yopu", "amount": 7}], "research": "buhyjanium-conduit", "category": "liquid", "liquidCapacity": 105501, "hasLiquids": true}

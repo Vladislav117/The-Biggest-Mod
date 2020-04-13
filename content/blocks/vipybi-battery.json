@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vipybi battery", "description": "...", "size": 3, "health": 264, "requirements": [{"item": "vipybi", "amount": 3}, {"item": "tenuty", "amount": 12}, {"item": "yito", "amount": 3}], "research": "vipybi-factory", "consumes": {"powerBuffered": 272}, "category": "power"}

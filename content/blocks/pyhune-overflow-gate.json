@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pyhune overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "pyhune", "amount": 1}, {"item": "nudo", "amount": 1}], "research": "pyhune-conveyor", "category": "distribution", "invert": false}

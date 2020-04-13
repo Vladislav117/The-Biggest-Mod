@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lane inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "lane", "amount": 5}, {"item": "kurecanium", "amount": 5}], "research": "lane-conveyor", "category": "distribution", "invert": true}

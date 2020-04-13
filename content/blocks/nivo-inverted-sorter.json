@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nivo inverted sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "nivo", "amount": 3}, {"item": "nimi", "amount": 2}], "research": "nivo-conveyor", "category": "distribution", "invert": true}

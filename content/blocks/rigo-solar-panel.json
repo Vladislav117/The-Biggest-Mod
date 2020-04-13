@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rigo solar panel", "description": "...", "size": 3, "health": 71, "requirements": [{"item": "rigo", "amount": 9}, {"item": "gyza", "amount": 11}, {"item": "roja", "amount": 8}], "research": "rigo-factory", "powerProduction": 2.576874733853569, "category": "power"}

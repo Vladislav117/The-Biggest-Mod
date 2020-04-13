@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cuvanium battery", "description": "...", "size": 1, "health": 116, "requirements": [{"item": "cuvanium", "amount": 5}, {"item": "rutylo", "amount": 1}, {"item": "sofo", "amount": 5}], "research": "cuvanium-factory", "consumes": {"powerBuffered": 552}, "category": "power"}

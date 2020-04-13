@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "foho liquid tank", "description": "...", "health": 276, "size": 3, "requirements": [{"item": "foho", "amount": 16}, {"item": "wupixonium", "amount": 15}, {"item": "nevyle", "amount": 3}], "research": "foho-conduit", "category": "liquid", "liquidCapacity": 6045, "hasLiquids": true}

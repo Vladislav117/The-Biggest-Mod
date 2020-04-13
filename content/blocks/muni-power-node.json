@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "muni power node", "description": "...", "size": 2, "health": 99, "requirements": [{"item": "muni", "amount": 13}, {"item": "zazuji", "amount": 16}, {"item": "gybeya", "amount": 9}], "research": "muni-factory", "maxNodes": 29, "laserRange": 22, "category": "power"}

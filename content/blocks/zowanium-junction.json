@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zowanium junction", "description": "...", "health": 39, "speed": 20, "capacity": 8, "size": 1, "requirements": [{"item": "zowanium", "amount": 3}, {"item": "tify", "amount": 1}], "research": "zowanium-conveyor", "category": "distribution"}

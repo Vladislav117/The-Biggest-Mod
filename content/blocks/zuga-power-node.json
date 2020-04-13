@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zuga power node", "description": "...", "size": 2, "health": 311, "requirements": [{"item": "zuga", "amount": 17}, {"item": "mefymanium", "amount": 13}, {"item": "bole", "amount": 7}], "research": "zuga-factory", "maxNodes": 27, "laserRange": 21, "category": "power"}

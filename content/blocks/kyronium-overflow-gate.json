@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kyronium overflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "kyronium", "amount": 3}, {"item": "bumaqa", "amount": 1}], "research": "kyronium-conveyor", "category": "distribution", "invert": false}

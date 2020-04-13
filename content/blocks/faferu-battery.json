@@ -1,0 +1,1 @@
+{"type": "battery", "name": "faferu battery", "description": "...", "size": 3, "health": 227, "requirements": [{"item": "faferu", "amount": 2}, {"item": "safe", "amount": 17}, {"item": "cogy", "amount": 7}], "research": "faferu-factory", "consumes": {"powerBuffered": 2656}, "category": "power"}

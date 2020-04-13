@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tuzy solar panel", "description": "...", "size": 1, "health": 368, "requirements": [{"item": "tuzy", "amount": 7}, {"item": "vewavu", "amount": 12}, {"item": "muti", "amount": 5}], "research": "tuzy-factory", "powerProduction": 1.0635795189040531, "category": "power"}

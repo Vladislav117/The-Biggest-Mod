@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dysojonium power node", "description": "...", "size": 2, "health": 531, "requirements": [{"item": "dysojonium", "amount": 9}, {"item": "noyayu", "amount": 14}, {"item": "vakyxinium", "amount": 2}], "research": "dysojonium-factory", "maxNodes": 23, "laserRange": 9, "category": "power"}

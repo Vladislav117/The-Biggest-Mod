@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mufosinium conduit", "description": "...", "health": 180, "requirements": [{"item": "mufosinium", "amount": 14}, {"item": "fifyru", "amount": 12}, {"item": "metaglass", "amount": 6}], "liquidCapacity": 47, "liquidPressure": 4, "research": "mufosinium-factory", "category": "liquid"}

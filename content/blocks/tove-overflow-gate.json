@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tove overflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "tove", "amount": 2}, {"item": "titanium", "amount": 1}], "research": "tove-conveyor", "category": "distribution", "invert": false}

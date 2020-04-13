@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mafapu bridge conveyor", "description": "", "health": 39, "range": 10, "speed": 8, "bufferCapacity": 13, "requirements": [{"item": "mafapu", "amount": 4}, {"item": "kedixe", "amount": 4}], "research": "mafapu-conveyor", "category": "distribution", "size": 1}

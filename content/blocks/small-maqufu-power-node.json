@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small maqufu power node", "description": "...", "size": 1, "health": 355, "requirements": [{"item": "maqufu", "amount": 18}, {"item": "civu", "amount": 20}, {"item": "xekocanium", "amount": 10}], "research": "maqufu-factory", "maxNodes": 27, "laserRange": 17, "category": "power"}

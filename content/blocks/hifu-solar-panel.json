@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hifu solar panel", "description": "...", "size": 3, "health": 137, "requirements": [{"item": "hifu", "amount": 5}, {"item": "hujenium", "amount": 6}, {"item": "muqonium", "amount": 2}], "research": "hifu-factory", "powerProduction": 0.17704876842332928, "category": "power"}

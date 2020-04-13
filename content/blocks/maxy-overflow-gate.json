@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "maxy overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "maxy", "amount": 2}, {"item": "vemame", "amount": 4}], "research": "maxy-conveyor", "category": "distribution", "invert": false}

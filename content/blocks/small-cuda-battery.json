@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cuda battery", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "cuda", "amount": 14}, {"item": "xylidinium", "amount": 8}, {"item": "leyoqo", "amount": 10}], "research": "cuda-factory", "consumes": {"powerBuffered": 375}, "category": "power"}

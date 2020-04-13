@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mika conduit", "description": "...", "health": 157, "requirements": [{"item": "mika", "amount": 12}, {"item": "zadajo", "amount": 9}, {"item": "xomaja", "amount": 9}], "liquidCapacity": 35, "liquidPressure": 8, "research": "mika-factory", "category": "liquid"}

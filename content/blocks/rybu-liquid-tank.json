@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rybu liquid tank", "description": "...", "health": 577, "size": 3, "requirements": [{"item": "rybu", "amount": 18}, {"item": "harugenium", "amount": 12}, {"item": "leqe", "amount": 10}], "research": "rybu-conduit", "category": "liquid", "liquidCapacity": 30001, "hasLiquids": true}

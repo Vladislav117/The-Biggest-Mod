@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mimyva liquid tank", "description": "...", "health": 654, "size": 3, "requirements": [{"item": "mimyva", "amount": 19}, {"item": "wuniso", "amount": 18}, {"item": "goti", "amount": 9}], "research": "mimyva-conduit", "category": "liquid", "liquidCapacity": 90166, "hasLiquids": true}

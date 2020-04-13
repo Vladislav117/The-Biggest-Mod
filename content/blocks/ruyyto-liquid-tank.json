@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ruyyto liquid tank", "description": "...", "health": 648, "size": 3, "requirements": [{"item": "ruyyto", "amount": 4}, {"item": "jetu", "amount": 12}, {"item": "luly", "amount": 3}], "research": "ruyyto-conduit", "category": "liquid", "liquidCapacity": 20033, "hasLiquids": true}

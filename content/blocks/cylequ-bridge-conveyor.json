@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cylequ bridge conveyor", "description": "", "health": 33, "range": 9, "speed": 20, "bufferCapacity": 21, "requirements": [{"item": "cylequ", "amount": 4}, {"item": "menode", "amount": 4}], "research": "cylequ-conveyor", "category": "distribution", "size": 1}

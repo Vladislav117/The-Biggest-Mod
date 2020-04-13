@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "moxi conveyor", "description": "...", "health": 95, "requirements": [{"item": "moxi", "amount": 6}, {"item": "nusenium", "amount": 3}], "speed": 0.1523168302572408, "research": "moxi-factory", "category": "distribution"}

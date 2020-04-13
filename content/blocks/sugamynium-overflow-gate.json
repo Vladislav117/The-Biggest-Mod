@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sugamynium overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "sugamynium", "amount": 4}, {"item": "tivu", "amount": 3}], "research": "sugamynium-conveyor", "category": "distribution", "invert": false}

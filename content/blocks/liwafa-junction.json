@@ -1,0 +1,1 @@
+{"type": "junction", "name": "liwafa junction", "description": "...", "health": 21, "speed": 2, "capacity": 1, "size": 1, "requirements": [{"item": "liwafa", "amount": 4}, {"item": "dojynium", "amount": 1}], "research": "liwafa-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "myci sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "myci", "amount": 3}, {"item": "hite", "amount": 2}], "research": "myci-conveyor", "category": "distribution", "invert": false}

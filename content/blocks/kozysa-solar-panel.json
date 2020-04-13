@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kozysa solar panel", "description": "...", "size": 3, "health": 229, "requirements": [{"item": "kozysa", "amount": 13}, {"item": "make", "amount": 17}, {"item": "jucinium", "amount": 3}], "research": "kozysa-factory", "powerProduction": 0.9520823662835421, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xoniqe battery", "description": "...", "size": 1, "health": 295, "requirements": [{"item": "xoniqe", "amount": 17}, {"item": "xesinynium", "amount": 5}, {"item": "juhenium", "amount": 7}], "research": "xoniqe-factory", "consumes": {"powerBuffered": 1241}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "locu conduit", "description": "...", "health": 37, "requirements": [{"item": "locu", "amount": 16}, {"item": "mygo", "amount": 20}, {"item": "milosi", "amount": 3}], "liquidCapacity": 1, "liquidPressure": 3, "research": "locu-factory", "category": "liquid"}

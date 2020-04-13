@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bafy overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "bafy", "amount": 2}, {"item": "zanuja", "amount": 4}], "research": "bafy-conveyor", "category": "distribution", "invert": false}

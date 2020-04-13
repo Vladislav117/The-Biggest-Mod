@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jone liquid tank", "description": "...", "health": 226, "size": 3, "requirements": [{"item": "jone", "amount": 9}, {"item": "syjilanium", "amount": 18}, {"item": "horyve", "amount": 3}], "research": "jone-conduit", "category": "liquid", "liquidCapacity": 42042, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zowy liquid tank", "description": "...", "health": 353, "size": 3, "requirements": [{"item": "zowy", "amount": 14}, {"item": "bixela", "amount": 4}, {"item": "lelybe", "amount": 6}], "research": "zowy-conduit", "category": "liquid", "liquidCapacity": 10340, "hasLiquids": true}

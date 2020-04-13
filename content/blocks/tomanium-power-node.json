@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tomanium power node", "description": "...", "size": 2, "health": 629, "requirements": [{"item": "tomanium", "amount": 17}, {"item": "byzure", "amount": 5}, {"item": "gohyce", "amount": 8}], "research": "tomanium-factory", "maxNodes": 35, "laserRange": 5, "category": "power"}

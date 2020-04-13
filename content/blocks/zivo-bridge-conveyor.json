@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zivo bridge conveyor", "description": "", "health": 35, "range": 10, "speed": 13, "bufferCapacity": 18, "requirements": [{"item": "zivo", "amount": 4}, {"item": "kavequ", "amount": 2}], "research": "zivo-conveyor", "category": "distribution", "size": 1}

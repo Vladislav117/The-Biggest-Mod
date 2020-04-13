@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lobojenium liquid tank", "description": "...", "health": 132, "size": 3, "requirements": [{"item": "lobojenium", "amount": 9}, {"item": "mygyyy", "amount": 20}, {"item": "xekota", "amount": 9}], "research": "lobojenium-conduit", "category": "liquid", "liquidCapacity": 107993, "hasLiquids": true}

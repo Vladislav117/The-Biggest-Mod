@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sopage underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "sopage", "amount": 1}, {"item": "jimi", "amount": 4}], "research": "sopage-conveyor", "category": "distribution", "invert": false}

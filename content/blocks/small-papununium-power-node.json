@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small papununium power node", "description": "...", "size": 1, "health": 341, "requirements": [{"item": "papununium", "amount": 8}, {"item": "towyti", "amount": 15}, {"item": "zonufu", "amount": 6}], "research": "papununium-factory", "maxNodes": 9, "laserRange": 3, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "naxynium battery", "description": "...", "size": 3, "health": 268, "requirements": [{"item": "naxynium", "amount": 13}, {"item": "cizyqe", "amount": 3}, {"item": "puma", "amount": 8}], "research": "naxynium-factory", "consumes": {"powerBuffered": 1176}, "category": "power"}

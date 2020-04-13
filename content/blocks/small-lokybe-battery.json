@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lokybe battery", "description": "...", "size": 1, "health": 198, "requirements": [{"item": "lokybe", "amount": 5}, {"item": "tasusynium", "amount": 20}, {"item": "simiwi", "amount": 8}], "research": "lokybe-factory", "consumes": {"powerBuffered": 1321}, "category": "power"}

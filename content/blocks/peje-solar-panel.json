@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "peje solar panel", "description": "...", "size": 3, "health": 176, "requirements": [{"item": "peje", "amount": 6}, {"item": "bimi", "amount": 4}, {"item": "huwydy", "amount": 2}], "research": "peje-factory", "powerProduction": 0.8340152097069441, "category": "power"}

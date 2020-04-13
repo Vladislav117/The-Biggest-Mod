@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mivoky junction", "description": "...", "health": 14, "speed": 3, "capacity": 16, "size": 1, "requirements": [{"item": "mivoky", "amount": 4}, {"item": "padopu", "amount": 5}], "research": "mivoky-conveyor", "category": "distribution"}

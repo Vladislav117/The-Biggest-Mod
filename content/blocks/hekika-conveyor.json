@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "hekika conveyor", "description": "...", "health": 150, "requirements": [{"item": "hekika", "amount": 7}, {"item": "zyce", "amount": 1}], "speed": 0.29522426235532073, "research": "hekika-factory", "category": "distribution"}

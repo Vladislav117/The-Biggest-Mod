@@ -1,0 +1,1 @@
+{"type": "router", "name": "venuki router", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "venuki", "amount": 7}], "research": "venuki-conveyor", "category": "distribution"}

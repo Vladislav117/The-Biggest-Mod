@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tepe liquid router", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "tepe", "amount": 8}, {"item": "sagenium", "amount": 2}, {"item": "pagopy", "amount": 2}], "research": "tepe-conduit", "liquidCapacity": 10, "category": "liquid"}

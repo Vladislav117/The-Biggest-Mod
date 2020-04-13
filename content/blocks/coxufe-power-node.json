@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "coxufe power node", "description": "...", "size": 2, "health": 94, "requirements": [{"item": "coxufe", "amount": 18}, {"item": "sudu", "amount": 13}, {"item": "zityyanium", "amount": 2}], "research": "coxufe-factory", "maxNodes": 18, "laserRange": 20, "category": "power"}

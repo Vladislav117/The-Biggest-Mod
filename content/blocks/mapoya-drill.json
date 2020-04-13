@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mapoya drill", "description": "...", "size": 4, "health": 399, "tier": 1, "drillTime": 10, "consumes": {"power": 2}, "requirements": [{"item": "mapoya", "amount": 4}, {"item": "xelu", "amount": 11}, {"item": "rakuhy", "amount": 3}], "research": "mapoya-factory", "category": "production"}

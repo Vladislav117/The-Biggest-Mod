@@ -1,0 +1,1 @@
+{"type": "junction", "name": "logy junction", "description": "...", "health": 27, "speed": 7, "capacity": 10, "size": 1, "requirements": [{"item": "logy", "amount": 5}, {"item": "dagepanium", "amount": 4}], "research": "logy-conveyor", "category": "distribution"}

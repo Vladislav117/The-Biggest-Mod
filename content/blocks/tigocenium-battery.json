@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tigocenium battery", "description": "...", "size": 3, "health": 266, "requirements": [{"item": "tigocenium", "amount": 18}, {"item": "qasysi", "amount": 20}, {"item": "heruru", "amount": 6}], "research": "tigocenium-factory", "consumes": {"powerBuffered": 2985}, "category": "power"}

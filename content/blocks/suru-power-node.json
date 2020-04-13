@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "suru power node", "description": "...", "size": 2, "health": 631, "requirements": [{"item": "suru", "amount": 3}, {"item": "donuba", "amount": 10}, {"item": "quje", "amount": 10}], "research": "suru-factory", "maxNodes": 45, "laserRange": 24, "category": "power"}

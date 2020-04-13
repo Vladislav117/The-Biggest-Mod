@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yanawa battery", "description": "...", "size": 3, "health": 304, "requirements": [{"item": "yanawa", "amount": 5}, {"item": "rysi", "amount": 16}, {"item": "kosonium", "amount": 7}], "research": "yanawa-factory", "consumes": {"powerBuffered": 1339}, "category": "power"}

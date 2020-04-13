@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "filu force projector", "description": "...", "health": 225, "size": 3, "consumes": {"power": 5.0, "item": "filu"}, "requirements": [{"item": "filu", "amount": 14}, {"item": "togi", "amount": 19}, {"item": "dawe", "amount": 9}], "research": "filu-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "famo battery", "description": "...", "size": 3, "health": 73, "requirements": [{"item": "famo", "amount": 7}, {"item": "nenu", "amount": 13}, {"item": "fykemi", "amount": 7}], "research": "famo-factory", "consumes": {"powerBuffered": 901}, "category": "power"}

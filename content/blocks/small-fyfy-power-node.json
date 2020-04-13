@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fyfy power node", "description": "...", "size": 1, "health": 107, "requirements": [{"item": "fyfy", "amount": 10}, {"item": "capa", "amount": 20}, {"item": "yama", "amount": 10}], "research": "fyfy-factory", "maxNodes": 25, "laserRange": 12, "category": "power"}

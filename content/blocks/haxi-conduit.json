@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "haxi conduit", "description": "...", "health": 28, "requirements": [{"item": "haxi", "amount": 8}, {"item": "yupo", "amount": 4}, {"item": "xozime", "amount": 1}], "liquidCapacity": 28, "liquidPressure": 8, "research": "haxi-factory", "category": "liquid"}

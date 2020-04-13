@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kyxiwi power node", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "kyxiwi", "amount": 1}, {"item": "wiyuho", "amount": 18}, {"item": "qady", "amount": 10}], "research": "kyxiwi-factory", "maxNodes": 29, "laserRange": 25, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kyqu junction", "description": "...", "health": 46, "speed": 7, "capacity": 18, "size": 1, "requirements": [{"item": "kyqu", "amount": 2}, {"item": "jihu", "amount": 5}], "research": "kyqu-conveyor", "category": "distribution"}

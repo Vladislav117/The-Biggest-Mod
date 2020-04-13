@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yikynium liquid tank", "description": "...", "health": 262, "size": 3, "requirements": [{"item": "yikynium", "amount": 7}, {"item": "lapydy", "amount": 11}, {"item": "higy", "amount": 3}], "research": "yikynium-conduit", "category": "liquid", "liquidCapacity": 49155, "hasLiquids": true}

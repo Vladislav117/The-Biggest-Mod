@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "yypedonium force projector", "description": "...", "health": 176, "size": 3, "consumes": {"power": 5.0, "item": "yypedonium"}, "requirements": [{"item": "yypedonium", "amount": 16}, {"item": "duto", "amount": 14}, {"item": "tebi", "amount": 2}], "research": "yypedonium-factory", "category": "effect"}

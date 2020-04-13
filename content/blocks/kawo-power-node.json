@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kawo power node", "description": "...", "size": 2, "health": 251, "requirements": [{"item": "kawo", "amount": 2}, {"item": "wapo", "amount": 10}, {"item": "qeyanium", "amount": 3}], "research": "kawo-factory", "maxNodes": 53, "laserRange": 24, "category": "power"}

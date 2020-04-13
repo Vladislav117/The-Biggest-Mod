@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mowygu liquid tank", "description": "...", "health": 279, "size": 3, "requirements": [{"item": "mowygu", "amount": 17}, {"item": "numuwanium", "amount": 6}, {"item": "tujy", "amount": 2}], "research": "mowygu-conduit", "category": "liquid", "liquidCapacity": 32992, "hasLiquids": true}

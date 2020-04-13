@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zija power node", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "zija", "amount": 2}, {"item": "zokacu", "amount": 7}, {"item": "mapibi", "amount": 5}], "research": "zija-factory", "maxNodes": 29, "laserRange": 9, "category": "power"}

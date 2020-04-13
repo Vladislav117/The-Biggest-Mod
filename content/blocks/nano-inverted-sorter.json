@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nano inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "nano", "amount": 4}, {"item": "hosa", "amount": 4}], "research": "nano-conveyor", "category": "distribution", "invert": true}

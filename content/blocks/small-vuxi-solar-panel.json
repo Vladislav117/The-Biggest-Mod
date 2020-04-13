@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vuxi solar panel", "description": "...", "size": 1, "health": 354, "requirements": [{"item": "vuxi", "amount": 16}, {"item": "fifyru", "amount": 8}, {"item": "codaxe", "amount": 9}], "research": "vuxi-factory", "powerProduction": 0.11831425628792827, "category": "power"}

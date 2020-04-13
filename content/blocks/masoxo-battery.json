@@ -1,0 +1,1 @@
+{"type": "battery", "name": "masoxo battery", "description": "...", "size": 3, "health": 365, "requirements": [{"item": "masoxo", "amount": 7}, {"item": "gurikinium", "amount": 8}, {"item": "xuryvy", "amount": 1}], "research": "masoxo-factory", "consumes": {"powerBuffered": 2837}, "category": "power"}

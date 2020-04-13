@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lunurinium inverted sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "lunurinium", "amount": 4}, {"item": "kani", "amount": 3}], "research": "lunurinium-conveyor", "category": "distribution", "invert": true}

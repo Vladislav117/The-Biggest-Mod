@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "moro bridge conveyor", "description": "", "health": 34, "range": 4, "speed": 20, "bufferCapacity": 24, "requirements": [{"item": "moro", "amount": 5}, {"item": "sore", "amount": 3}], "research": "moro-conveyor", "category": "distribution", "size": 1}

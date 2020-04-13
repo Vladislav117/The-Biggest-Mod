@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xoruba junction", "description": "...", "health": 25, "speed": 16, "capacity": 11, "size": 1, "requirements": [{"item": "xoruba", "amount": 2}, {"item": "qyzapa", "amount": 1}], "research": "xoruba-conveyor", "category": "distribution"}

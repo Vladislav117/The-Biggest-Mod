@@ -1,0 +1,1 @@
+{"type": "junction", "name": "junoxo junction", "description": "...", "health": 23, "speed": 7, "capacity": 16, "size": 1, "requirements": [{"item": "junoxo", "amount": 1}, {"item": "niso", "amount": 5}], "research": "junoxo-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xomaja battery", "description": "...", "size": 1, "health": 386, "requirements": [{"item": "xomaja", "amount": 8}, {"item": "yavyra", "amount": 2}, {"item": "waka", "amount": 6}], "research": "xomaja-factory", "consumes": {"powerBuffered": 2129}, "category": "power"}

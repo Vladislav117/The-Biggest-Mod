@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "diha drill", "description": "...", "size": 2, "health": 126, "tier": 1, "drillTime": 3, "consumes": {"power": 13}, "requirements": [{"item": "diha", "amount": 14}, {"item": "zexinium", "amount": 8}, {"item": "tavu", "amount": 5}], "research": "diha-factory", "category": "production"}

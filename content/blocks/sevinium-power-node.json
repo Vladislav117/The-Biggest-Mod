@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sevinium power node", "description": "...", "size": 2, "health": 84, "requirements": [{"item": "sevinium", "amount": 4}, {"item": "vapoqanium", "amount": 9}, {"item": "tasinium", "amount": 2}], "research": "sevinium-factory", "maxNodes": 49, "laserRange": 25, "category": "power"}

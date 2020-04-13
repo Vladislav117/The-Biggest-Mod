@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rehawe junction", "description": "...", "health": 19, "speed": 3, "capacity": 13, "size": 1, "requirements": [{"item": "rehawe", "amount": 1}, {"item": "qulape", "amount": 5}], "research": "rehawe-conveyor", "category": "distribution"}

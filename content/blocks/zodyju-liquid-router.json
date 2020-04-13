@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zodyju liquid router", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "zodyju", "amount": 15}, {"item": "qysavunium", "amount": 12}, {"item": "ruve", "amount": 4}], "research": "zodyju-conduit", "liquidCapacity": 10, "category": "liquid"}

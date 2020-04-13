@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wusa conduit", "description": "...", "health": 148, "requirements": [{"item": "wusa", "amount": 2}, {"item": "kiyavu", "amount": 14}, {"item": "yape", "amount": 9}], "liquidCapacity": 19, "liquidPressure": 9, "research": "wusa-factory", "category": "liquid"}

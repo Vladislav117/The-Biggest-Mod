@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nepiky solar panel", "description": "...", "size": 3, "health": 358, "requirements": [{"item": "nepiky", "amount": 11}, {"item": "puye", "amount": 11}, {"item": "jyreki", "amount": 9}], "research": "nepiky-factory", "powerProduction": 0.24820749436798273, "category": "power"}

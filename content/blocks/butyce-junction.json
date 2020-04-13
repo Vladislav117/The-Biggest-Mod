@@ -1,0 +1,1 @@
+{"type": "junction", "name": "butyce junction", "description": "...", "health": 15, "speed": 3, "capacity": 18, "size": 1, "requirements": [{"item": "butyce", "amount": 5}, {"item": "wyfanium", "amount": 3}], "research": "butyce-conveyor", "category": "distribution"}

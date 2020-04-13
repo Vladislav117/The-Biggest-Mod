@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small quxyqe battery", "description": "...", "size": 1, "health": 154, "requirements": [{"item": "quxyqe", "amount": 10}, {"item": "quda", "amount": 14}, {"item": "vosamo", "amount": 10}], "research": "quxyqe-factory", "consumes": {"powerBuffered": 333}, "category": "power"}

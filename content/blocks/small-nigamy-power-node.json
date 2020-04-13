@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nigamy power node", "description": "...", "size": 1, "health": 254, "requirements": [{"item": "nigamy", "amount": 8}, {"item": "zanuja", "amount": 2}, {"item": "vapofu", "amount": 6}], "research": "nigamy-factory", "maxNodes": 12, "laserRange": 4, "category": "power"}

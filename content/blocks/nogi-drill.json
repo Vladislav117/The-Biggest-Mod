@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nogi drill", "description": "...", "size": 2, "health": 316, "tier": 1, "drillTime": 7, "consumes": {"power": 5}, "requirements": [{"item": "nogi", "amount": 6}, {"item": "dejoqonium", "amount": 17}, {"item": "sore", "amount": 2}], "research": "nogi-factory", "category": "production"}

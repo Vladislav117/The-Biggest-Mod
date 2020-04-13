@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bifaqunium battery", "description": "...", "size": 1, "health": 198, "requirements": [{"item": "bifaqunium", "amount": 13}, {"item": "qokenium", "amount": 2}, {"item": "fery", "amount": 8}], "research": "bifaqunium-factory", "consumes": {"powerBuffered": 515}, "category": "power"}

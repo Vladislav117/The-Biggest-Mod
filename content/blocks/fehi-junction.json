@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fehi junction", "description": "...", "health": 4, "speed": 5, "capacity": 2, "size": 1, "requirements": [{"item": "fehi", "amount": 2}, {"item": "zyremi", "amount": 2}], "research": "fehi-conveyor", "category": "distribution"}

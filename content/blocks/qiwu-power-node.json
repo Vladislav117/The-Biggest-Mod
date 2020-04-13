@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qiwu power node", "description": "...", "size": 2, "health": 586, "requirements": [{"item": "qiwu", "amount": 10}, {"item": "yywa", "amount": 1}, {"item": "fakuzo", "amount": 2}], "research": "qiwu-factory", "maxNodes": 19, "laserRange": 20, "category": "power"}

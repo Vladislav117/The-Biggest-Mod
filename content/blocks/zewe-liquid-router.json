@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zewe liquid router", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "zewe", "amount": 19}, {"item": "ximy", "amount": 5}, {"item": "dune", "amount": 8}], "research": "zewe-conduit", "liquidCapacity": 10, "category": "liquid"}

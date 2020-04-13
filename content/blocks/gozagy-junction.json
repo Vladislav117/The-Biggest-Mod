@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gozagy junction", "description": "...", "health": 10, "speed": 16, "capacity": 7, "size": 1, "requirements": [{"item": "gozagy", "amount": 1}, {"item": "fosu", "amount": 5}], "research": "gozagy-conveyor", "category": "distribution"}

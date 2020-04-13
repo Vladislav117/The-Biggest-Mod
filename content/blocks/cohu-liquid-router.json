@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cohu liquid router", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "cohu", "amount": 19}, {"item": "sebypa", "amount": 5}, {"item": "coka", "amount": 5}], "research": "cohu-conduit", "liquidCapacity": 10, "category": "liquid"}

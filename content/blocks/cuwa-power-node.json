@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cuwa power node", "description": "...", "size": 2, "health": 583, "requirements": [{"item": "cuwa", "amount": 19}, {"item": "yifity", "amount": 20}, {"item": "mumu", "amount": 7}], "research": "cuwa-factory", "maxNodes": 39, "laserRange": 20, "category": "power"}

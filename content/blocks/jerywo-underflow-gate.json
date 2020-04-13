@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jerywo underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "jerywo", "amount": 2}, {"item": "gonu", "amount": 1}], "research": "jerywo-conveyor", "category": "distribution", "invert": false}

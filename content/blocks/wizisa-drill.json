@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wizisa drill", "description": "...", "size": 3, "health": 256, "tier": 4, "drillTime": 15, "consumes": {"power": 4}, "requirements": [{"item": "wizisa", "amount": 4}, {"item": "yynuqu", "amount": 20}, {"item": "decifonium", "amount": 8}], "research": "wizisa-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gasagu liquid tank", "description": "...", "health": 131, "size": 3, "requirements": [{"item": "gasagu", "amount": 20}, {"item": "bipanium", "amount": 7}, {"item": "kujayonium", "amount": 2}], "research": "gasagu-conduit", "category": "liquid", "liquidCapacity": 39940, "hasLiquids": true}

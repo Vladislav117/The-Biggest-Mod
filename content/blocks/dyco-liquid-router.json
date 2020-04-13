@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dyco liquid router", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "dyco", "amount": 1}, {"item": "momosa", "amount": 7}, {"item": "qacu", "amount": 10}], "research": "dyco-conduit", "liquidCapacity": 10, "category": "liquid"}

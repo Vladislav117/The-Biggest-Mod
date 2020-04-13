@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wymosy battery", "description": "...", "size": 1, "health": 144, "requirements": [{"item": "wymosy", "amount": 5}, {"item": "xidunium", "amount": 13}, {"item": "jigu", "amount": 9}], "research": "wymosy-factory", "consumes": {"powerBuffered": 481}, "category": "power"}

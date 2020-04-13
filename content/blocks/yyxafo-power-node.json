@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yyxafo power node", "description": "...", "size": 2, "health": 792, "requirements": [{"item": "yyxafo", "amount": 10}, {"item": "wano", "amount": 17}, {"item": "liqy", "amount": 2}], "research": "yyxafo-factory", "maxNodes": 15, "laserRange": 7, "category": "power"}

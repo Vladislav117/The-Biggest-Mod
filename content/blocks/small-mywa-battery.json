@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mywa battery", "description": "...", "size": 1, "health": 334, "requirements": [{"item": "mywa", "amount": 18}, {"item": "hiqasynium", "amount": 14}, {"item": "miry", "amount": 9}], "research": "mywa-factory", "consumes": {"powerBuffered": 434}, "category": "power"}

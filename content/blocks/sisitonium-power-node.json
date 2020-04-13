@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sisitonium power node", "description": "...", "size": 2, "health": 415, "requirements": [{"item": "sisitonium", "amount": 11}, {"item": "soda", "amount": 13}, {"item": "meranium", "amount": 10}], "research": "sisitonium-factory", "maxNodes": 17, "laserRange": 21, "category": "power"}

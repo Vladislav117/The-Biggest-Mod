@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vabyzo power node", "description": "...", "size": 2, "health": 486, "requirements": [{"item": "vabyzo", "amount": 5}, {"item": "jyzy", "amount": 14}, {"item": "copper", "amount": 6}], "research": "vabyzo-factory", "maxNodes": 52, "laserRange": 19, "category": "power"}

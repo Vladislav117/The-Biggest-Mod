@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jepi drill", "description": "...", "size": 4, "health": 342, "tier": 1, "drillTime": 1, "consumes": {"power": 13}, "requirements": [{"item": "jepi", "amount": 14}, {"item": "yofopy", "amount": 8}, {"item": "gifonium", "amount": 9}], "research": "jepi-factory", "category": "production"}

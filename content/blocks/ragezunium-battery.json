@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ragezunium battery", "description": "...", "size": 3, "health": 41, "requirements": [{"item": "ragezunium", "amount": 2}, {"item": "karu", "amount": 16}, {"item": "jygery", "amount": 1}], "research": "ragezunium-factory", "consumes": {"powerBuffered": 480}, "category": "power"}

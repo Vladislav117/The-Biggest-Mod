@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yizo power node", "description": "...", "size": 1, "health": 104, "requirements": [{"item": "yizo", "amount": 10}, {"item": "zofuxe", "amount": 4}, {"item": "tavupi", "amount": 8}], "research": "yizo-factory", "maxNodes": 11, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qoxida solar panel", "description": "...", "size": 3, "health": 285, "requirements": [{"item": "qoxida", "amount": 17}, {"item": "jalenium", "amount": 3}, {"item": "rytysynium", "amount": 3}], "research": "qoxida-factory", "powerProduction": 0.6863304891064189, "category": "power"}

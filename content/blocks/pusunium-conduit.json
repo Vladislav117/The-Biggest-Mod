@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pusunium conduit", "description": "...", "health": 103, "requirements": [{"item": "pusunium", "amount": 12}, {"item": "gagyya", "amount": 4}, {"item": "xaji", "amount": 2}], "liquidCapacity": 1, "liquidPressure": 4, "research": "pusunium-factory", "category": "liquid"}

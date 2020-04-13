@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sawa conduit", "description": "...", "health": 59, "requirements": [{"item": "sawa", "amount": 16}, {"item": "jihanium", "amount": 2}, {"item": "fodyby", "amount": 6}], "liquidCapacity": 18, "liquidPressure": 10, "research": "sawa-factory", "category": "liquid"}

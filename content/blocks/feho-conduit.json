@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "feho conduit", "description": "...", "health": 126, "requirements": [{"item": "feho", "amount": 20}, {"item": "voqaya", "amount": 10}, {"item": "bobowe", "amount": 8}], "liquidCapacity": 38, "liquidPressure": 0, "research": "feho-factory", "category": "liquid"}

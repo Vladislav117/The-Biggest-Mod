@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wifu power node", "description": "...", "size": 2, "health": 406, "requirements": [{"item": "wifu", "amount": 19}, {"item": "sewa", "amount": 6}, {"item": "dyzo", "amount": 8}], "research": "wifu-factory", "maxNodes": 11, "laserRange": 27, "category": "power"}

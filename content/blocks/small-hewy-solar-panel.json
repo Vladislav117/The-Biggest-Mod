@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hewy solar panel", "description": "...", "size": 1, "health": 323, "requirements": [{"item": "hewy", "amount": 3}, {"item": "vywy", "amount": 2}, {"item": "xavinium", "amount": 1}], "research": "hewy-factory", "powerProduction": 1.757494719404449, "category": "power"}

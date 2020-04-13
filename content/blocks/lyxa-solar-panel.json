@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lyxa solar panel", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "lyxa", "amount": 16}, {"item": "jeku", "amount": 2}, {"item": "ciwiwa", "amount": 6}], "research": "lyxa-factory", "powerProduction": 1.4279387619650665, "category": "power"}

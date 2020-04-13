@@ -1,0 +1,1 @@
+{"type": "battery", "name": "muvelanium battery", "description": "...", "size": 3, "health": 160, "requirements": [{"item": "muvelanium", "amount": 17}, {"item": "visuco", "amount": 19}, {"item": "cyxibe", "amount": 6}], "research": "muvelanium-factory", "consumes": {"powerBuffered": 4212}, "category": "power"}

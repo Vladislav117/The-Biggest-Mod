@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yilynium solar panel", "description": "...", "size": 3, "health": 89, "requirements": [{"item": "yilynium", "amount": 16}, {"item": "ceny", "amount": 11}, {"item": "kivuzi", "amount": 9}], "research": "yilynium-factory", "powerProduction": 1.1626936201826275, "category": "power"}

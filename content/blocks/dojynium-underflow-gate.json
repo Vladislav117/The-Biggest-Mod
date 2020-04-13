@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dojynium underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "dojynium", "amount": 3}, {"item": "vuciby", "amount": 1}], "research": "dojynium-conveyor", "category": "distribution", "invert": false}

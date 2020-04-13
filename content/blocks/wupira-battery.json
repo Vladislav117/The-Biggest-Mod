@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wupira battery", "description": "...", "size": 3, "health": 380, "requirements": [{"item": "wupira", "amount": 14}, {"item": "zacaki", "amount": 12}, {"item": "wumepi", "amount": 10}], "research": "wupira-factory", "consumes": {"powerBuffered": 6391}, "category": "power"}

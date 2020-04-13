@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rebanium overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "rebanium", "amount": 5}, {"item": "tavanium", "amount": 4}], "research": "rebanium-conveyor", "category": "distribution", "invert": false}

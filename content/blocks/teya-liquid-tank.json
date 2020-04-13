@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "teya liquid tank", "description": "...", "health": 273, "size": 3, "requirements": [{"item": "teya", "amount": 15}, {"item": "liki", "amount": 20}, {"item": "sirila", "amount": 4}], "research": "teya-conduit", "category": "liquid", "liquidCapacity": 100410, "hasLiquids": true}

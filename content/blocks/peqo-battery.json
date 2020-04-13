@@ -1,0 +1,1 @@
+{"type": "battery", "name": "peqo battery", "description": "...", "size": 3, "health": 251, "requirements": [{"item": "peqo", "amount": 12}, {"item": "biho", "amount": 2}, {"item": "jasuly", "amount": 9}], "research": "peqo-factory", "consumes": {"powerBuffered": 9003}, "category": "power"}

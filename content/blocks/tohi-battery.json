@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tohi battery", "description": "...", "size": 3, "health": 296, "requirements": [{"item": "tohi", "amount": 13}, {"item": "sexinium", "amount": 6}, {"item": "mebu", "amount": 9}], "research": "tohi-factory", "consumes": {"powerBuffered": 9212}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "daci liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "daci", "amount": 5}, {"item": "razi", "amount": 12}, {"item": "jebexo", "amount": 9}], "research": "daci-conduit", "liquidCapacity": 10, "category": "liquid"}

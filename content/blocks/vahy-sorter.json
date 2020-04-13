@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vahy sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "vahy", "amount": 2}, {"item": "wozego", "amount": 1}], "research": "vahy-conveyor", "category": "distribution", "invert": false}

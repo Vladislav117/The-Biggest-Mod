@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pyce battery", "description": "...", "size": 1, "health": 220, "requirements": [{"item": "pyce", "amount": 14}, {"item": "seca", "amount": 2}, {"item": "xeye", "amount": 6}], "research": "pyce-factory", "consumes": {"powerBuffered": 721}, "category": "power"}

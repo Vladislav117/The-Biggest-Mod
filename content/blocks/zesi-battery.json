@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zesi battery", "description": "...", "size": 3, "health": 181, "requirements": [{"item": "zesi", "amount": 12}, {"item": "kite", "amount": 11}, {"item": "xoginium", "amount": 4}], "research": "zesi-factory", "consumes": {"powerBuffered": 1973}, "category": "power"}

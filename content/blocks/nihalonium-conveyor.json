@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "nihalonium conveyor", "description": "...", "health": 108, "requirements": [{"item": "nihalonium", "amount": 5}, {"item": "pala", "amount": 5}], "speed": 0.003794058466451977, "research": "nihalonium-factory", "category": "distribution"}

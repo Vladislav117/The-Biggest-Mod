@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vafo drill", "description": "...", "size": 3, "health": 337, "tier": 4, "drillTime": 2, "consumes": {"power": 8}, "requirements": [{"item": "vafo", "amount": 10}, {"item": "luluti", "amount": 14}, {"item": "hamily", "amount": 1}], "research": "vafo-factory", "category": "production"}

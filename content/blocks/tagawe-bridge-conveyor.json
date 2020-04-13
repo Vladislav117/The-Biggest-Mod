@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tagawe bridge conveyor", "description": "", "health": 42, "range": 11, "speed": 16, "bufferCapacity": 16, "requirements": [{"item": "tagawe", "amount": 2}, {"item": "gokiyi", "amount": 4}], "research": "tagawe-conveyor", "category": "distribution", "size": 1}

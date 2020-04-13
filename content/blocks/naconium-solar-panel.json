@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "naconium solar panel", "description": "...", "size": 3, "health": 232, "requirements": [{"item": "naconium", "amount": 9}, {"item": "cifo", "amount": 15}, {"item": "vema", "amount": 7}], "research": "naconium-factory", "powerProduction": 1.0953968886943666, "category": "power"}

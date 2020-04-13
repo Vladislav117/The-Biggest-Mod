@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nenu power node", "description": "...", "size": 1, "health": 319, "requirements": [{"item": "nenu", "amount": 10}, {"item": "zokiry", "amount": 16}, {"item": "sovuqu", "amount": 2}], "research": "nenu-factory", "maxNodes": 25, "laserRange": 3, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "padopu drill", "description": "...", "size": 3, "health": 252, "tier": 3, "drillTime": 6, "consumes": {"power": 8}, "requirements": [{"item": "padopu", "amount": 5}, {"item": "giha", "amount": 15}, {"item": "hugevinium", "amount": 6}], "research": "padopu-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "piqymunium liquid tank", "description": "...", "health": 547, "size": 3, "requirements": [{"item": "piqymunium", "amount": 7}, {"item": "nolo", "amount": 1}, {"item": "gygi", "amount": 2}], "research": "piqymunium-conduit", "category": "liquid", "liquidCapacity": 16586, "hasLiquids": true}

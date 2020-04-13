@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tuse inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "tuse", "amount": 3}, {"item": "yamyri", "amount": 1}], "research": "tuse-conveyor", "category": "distribution", "invert": true}

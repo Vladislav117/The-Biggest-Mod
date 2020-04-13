@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mexa overflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "mexa", "amount": 2}, {"item": "meve", "amount": 4}], "research": "mexa-conveyor", "category": "distribution", "invert": false}

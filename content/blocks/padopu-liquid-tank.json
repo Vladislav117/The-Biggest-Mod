@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "padopu liquid tank", "description": "...", "health": 489, "size": 3, "requirements": [{"item": "padopu", "amount": 3}, {"item": "ryte", "amount": 20}, {"item": "yalaka", "amount": 2}], "research": "padopu-conduit", "category": "liquid", "liquidCapacity": 44236, "hasLiquids": true}

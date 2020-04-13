@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ficido power node", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "ficido", "amount": 14}, {"item": "moxi", "amount": 6}, {"item": "hicy", "amount": 1}], "research": "ficido-factory", "maxNodes": 10, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zucanium drill", "description": "...", "size": 2, "health": 348, "tier": 4, "drillTime": 6, "consumes": {"power": 18}, "requirements": [{"item": "zucanium", "amount": 13}, {"item": "dagepanium", "amount": 10}, {"item": "beronium", "amount": 10}], "research": "zucanium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jujo solar panel", "description": "...", "size": 3, "health": 155, "requirements": [{"item": "jujo", "amount": 7}, {"item": "zuce", "amount": 17}, {"item": "niso", "amount": 10}], "research": "jujo-factory", "powerProduction": 0.036529941765247535, "category": "power"}

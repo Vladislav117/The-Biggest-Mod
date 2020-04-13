@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jyta conduit", "description": "...", "health": 120, "requirements": [{"item": "jyta", "amount": 15}, {"item": "hiwe", "amount": 9}, {"item": "nogi", "amount": 6}], "liquidCapacity": 12, "liquidPressure": 0, "research": "jyta-factory", "category": "liquid"}

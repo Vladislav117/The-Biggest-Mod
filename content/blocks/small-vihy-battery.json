@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vihy battery", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "vihy", "amount": 14}, {"item": "marici", "amount": 7}, {"item": "naquhonium", "amount": 2}], "research": "vihy-factory", "consumes": {"powerBuffered": 1017}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cyxazi power node", "description": "...", "size": 2, "health": 575, "requirements": [{"item": "cyxazi", "amount": 14}, {"item": "suzu", "amount": 11}, {"item": "pudoki", "amount": 5}], "research": "cyxazi-factory", "maxNodes": 58, "laserRange": 15, "category": "power"}

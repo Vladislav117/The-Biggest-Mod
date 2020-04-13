@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tivo bridge conveyor", "description": "", "health": 11, "range": 9, "speed": 13, "bufferCapacity": 14, "requirements": [{"item": "tivo", "amount": 1}, {"item": "baqyrinium", "amount": 1}], "research": "tivo-conveyor", "category": "distribution", "size": 1}

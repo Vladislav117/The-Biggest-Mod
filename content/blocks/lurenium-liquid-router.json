@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lurenium liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "lurenium", "amount": 7}, {"item": "riro", "amount": 11}, {"item": "wusa", "amount": 2}], "research": "lurenium-conduit", "liquidCapacity": 10, "category": "liquid"}

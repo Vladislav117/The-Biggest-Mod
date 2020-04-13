@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bely solar panel", "description": "...", "size": 3, "health": 129, "requirements": [{"item": "bely", "amount": 5}, {"item": "sawy", "amount": 5}, {"item": "hikana", "amount": 7}], "research": "bely-factory", "powerProduction": 1.3898369302329405, "category": "power"}

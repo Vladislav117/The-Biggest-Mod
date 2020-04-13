@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tiqeti conduit", "description": "...", "health": 171, "requirements": [{"item": "tiqeti", "amount": 12}, {"item": "siyunynium", "amount": 2}, {"item": "hajo", "amount": 5}], "liquidCapacity": 50, "liquidPressure": 7, "research": "tiqeti-factory", "category": "liquid"}

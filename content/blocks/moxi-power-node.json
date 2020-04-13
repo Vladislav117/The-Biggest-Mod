@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "moxi power node", "description": "...", "size": 2, "health": 465, "requirements": [{"item": "moxi", "amount": 13}, {"item": "veco", "amount": 14}, {"item": "dojove", "amount": 1}], "research": "moxi-factory", "maxNodes": 44, "laserRange": 29, "category": "power"}

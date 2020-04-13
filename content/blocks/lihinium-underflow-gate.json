@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lihinium underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "lihinium", "amount": 2}, {"item": "rose", "amount": 5}], "research": "lihinium-conveyor", "category": "distribution", "invert": false}

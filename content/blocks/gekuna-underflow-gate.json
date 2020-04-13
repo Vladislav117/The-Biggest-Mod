@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gekuna underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "gekuna", "amount": 4}, {"item": "lora", "amount": 2}], "research": "gekuna-conveyor", "category": "distribution", "invert": false}

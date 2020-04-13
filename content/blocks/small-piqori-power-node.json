@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small piqori power node", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "piqori", "amount": 1}, {"item": "losenium", "amount": 12}, {"item": "vezaya", "amount": 7}], "research": "piqori-factory", "maxNodes": 2, "laserRange": 14, "category": "power"}

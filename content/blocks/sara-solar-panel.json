@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sara solar panel", "description": "...", "size": 3, "health": 373, "requirements": [{"item": "sara", "amount": 6}, {"item": "mixy", "amount": 16}, {"item": "dyxuhu", "amount": 2}], "research": "sara-factory", "powerProduction": 0.1432007602669309, "category": "power"}

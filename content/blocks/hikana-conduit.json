@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hikana conduit", "description": "...", "health": 22, "requirements": [{"item": "hikana", "amount": 19}, {"item": "rahy", "amount": 9}, {"item": "vomo", "amount": 2}], "liquidCapacity": 30, "liquidPressure": 5, "research": "hikana-factory", "category": "liquid"}

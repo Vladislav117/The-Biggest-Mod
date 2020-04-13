@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cesipe sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "cesipe", "amount": 3}, {"item": "vaxa", "amount": 5}], "research": "cesipe-conveyor", "category": "distribution", "invert": false}

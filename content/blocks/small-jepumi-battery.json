@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jepumi battery", "description": "...", "size": 1, "health": 24, "requirements": [{"item": "jepumi", "amount": 1}, {"item": "sofowo", "amount": 11}, {"item": "cymaca", "amount": 9}], "research": "jepumi-factory", "consumes": {"powerBuffered": 1435}, "category": "power"}

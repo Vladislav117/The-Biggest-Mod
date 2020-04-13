@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rivezo sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "rivezo", "amount": 2}, {"item": "ciqu", "amount": 3}], "research": "rivezo-conveyor", "category": "distribution", "invert": false}

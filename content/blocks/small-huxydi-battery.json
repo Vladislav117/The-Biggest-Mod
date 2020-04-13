@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small huxydi battery", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "huxydi", "amount": 8}, {"item": "datijenium", "amount": 14}, {"item": "xojo", "amount": 10}], "research": "huxydi-factory", "consumes": {"powerBuffered": 1243}, "category": "power"}

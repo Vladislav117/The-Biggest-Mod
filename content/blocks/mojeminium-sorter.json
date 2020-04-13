@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mojeminium sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "mojeminium", "amount": 5}, {"item": "razi", "amount": 2}], "research": "mojeminium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zofeya battery", "description": "...", "size": 3, "health": 59, "requirements": [{"item": "zofeya", "amount": 8}, {"item": "mixy", "amount": 12}, {"item": "kyte", "amount": 8}], "research": "zofeya-factory", "consumes": {"powerBuffered": 2529}, "category": "power"}

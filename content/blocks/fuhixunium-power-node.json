@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fuhixunium power node", "description": "...", "size": 2, "health": 616, "requirements": [{"item": "fuhixunium", "amount": 8}, {"item": "kupanium", "amount": 4}, {"item": "qaya", "amount": 9}], "research": "fuhixunium-factory", "maxNodes": 32, "laserRange": 27, "category": "power"}

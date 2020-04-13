@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yypunium battery", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "yypunium", "amount": 17}, {"item": "leriki", "amount": 3}, {"item": "kusyny", "amount": 2}], "research": "yypunium-factory", "consumes": {"powerBuffered": 2301}, "category": "power"}

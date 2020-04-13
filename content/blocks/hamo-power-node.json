@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hamo power node", "description": "...", "size": 2, "health": 59, "requirements": [{"item": "hamo", "amount": 1}, {"item": "cibu", "amount": 20}, {"item": "pavanium", "amount": 9}], "research": "hamo-factory", "maxNodes": 59, "laserRange": 6, "category": "power"}

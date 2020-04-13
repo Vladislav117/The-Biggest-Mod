@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wybenium solar panel", "description": "...", "size": 1, "health": 197, "requirements": [{"item": "wybenium", "amount": 20}, {"item": "kufi", "amount": 11}, {"item": "xapa", "amount": 7}], "research": "wybenium-factory", "powerProduction": 3.052855455426328, "category": "power"}

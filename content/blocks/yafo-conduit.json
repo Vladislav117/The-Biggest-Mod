@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yafo conduit", "description": "...", "health": 20, "requirements": [{"item": "yafo", "amount": 4}, {"item": "cucaso", "amount": 5}, {"item": "ticija", "amount": 1}], "liquidCapacity": 21, "liquidPressure": 6, "research": "yafo-factory", "category": "liquid"}

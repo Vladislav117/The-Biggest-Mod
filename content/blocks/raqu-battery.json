@@ -1,0 +1,1 @@
+{"type": "battery", "name": "raqu battery", "description": "...", "size": 3, "health": 278, "requirements": [{"item": "raqu", "amount": 11}, {"item": "jyreki", "amount": 16}, {"item": "vegunium", "amount": 4}], "research": "raqu-factory", "consumes": {"powerBuffered": 1222}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "geco power node", "description": "...", "size": 2, "health": 775, "requirements": [{"item": "geco", "amount": 1}, {"item": "dipewanium", "amount": 9}, {"item": "cafe", "amount": 8}], "research": "geco-factory", "maxNodes": 11, "laserRange": 9, "category": "power"}

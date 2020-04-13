@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yoqy power node", "description": "...", "size": 2, "health": 314, "requirements": [{"item": "yoqy", "amount": 9}, {"item": "kavequ", "amount": 16}, {"item": "lynulo", "amount": 10}], "research": "yoqy-factory", "maxNodes": 28, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vyroca battery", "description": "...", "size": 1, "health": 142, "requirements": [{"item": "vyroca", "amount": 5}, {"item": "wequnium", "amount": 10}, {"item": "ceny", "amount": 7}], "research": "vyroca-factory", "consumes": {"powerBuffered": 2818}, "category": "power"}

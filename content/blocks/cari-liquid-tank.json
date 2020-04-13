@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cari liquid tank", "description": "...", "health": 607, "size": 3, "requirements": [{"item": "cari", "amount": 16}, {"item": "wugyjinium", "amount": 7}, {"item": "pero", "amount": 10}], "research": "cari-conduit", "category": "liquid", "liquidCapacity": 107803, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vini power node", "description": "...", "size": 1, "health": 151, "requirements": [{"item": "vini", "amount": 12}, {"item": "sovuqu", "amount": 19}, {"item": "manihe", "amount": 2}], "research": "vini-factory", "maxNodes": 27, "laserRange": 14, "category": "power"}

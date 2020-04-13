@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "neqose solar panel", "description": "...", "size": 3, "health": 101, "requirements": [{"item": "neqose", "amount": 12}, {"item": "gacy", "amount": 3}, {"item": "kixo", "amount": 1}], "research": "neqose-factory", "powerProduction": 0.14530757624248286, "category": "power"}

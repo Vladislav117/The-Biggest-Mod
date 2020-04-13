@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nyzubonium solar panel", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "nyzubonium", "amount": 18}, {"item": "ceqo", "amount": 9}, {"item": "zuvuze", "amount": 9}], "research": "nyzubonium-factory", "powerProduction": 0.5361362716103943, "category": "power"}

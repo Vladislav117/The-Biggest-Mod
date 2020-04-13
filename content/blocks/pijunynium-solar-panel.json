@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pijunynium solar panel", "description": "...", "size": 3, "health": 206, "requirements": [{"item": "pijunynium", "amount": 8}, {"item": "cejuru", "amount": 5}, {"item": "xejo", "amount": 5}], "research": "pijunynium-factory", "powerProduction": 0.06997557165371676, "category": "power"}

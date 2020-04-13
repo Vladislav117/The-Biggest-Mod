@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tarihinium battery", "description": "...", "size": 1, "health": 239, "requirements": [{"item": "tarihinium", "amount": 2}, {"item": "jeziri", "amount": 8}, {"item": "tomaby", "amount": 4}], "research": "tarihinium-factory", "consumes": {"powerBuffered": 1187}, "category": "power"}

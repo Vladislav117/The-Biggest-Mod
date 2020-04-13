@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hite liquid tank", "description": "...", "health": 471, "size": 3, "requirements": [{"item": "hite", "amount": 16}, {"item": "qubironium", "amount": 13}, {"item": "padi", "amount": 10}], "research": "hite-conduit", "category": "liquid", "liquidCapacity": 47271, "hasLiquids": true}

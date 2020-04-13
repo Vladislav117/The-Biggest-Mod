@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "casodenium solar panel", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "casodenium", "amount": 4}, {"item": "feyyqe", "amount": 11}, {"item": "qudeya", "amount": 8}], "research": "casodenium-factory", "powerProduction": 0.03512605821273818, "category": "power"}

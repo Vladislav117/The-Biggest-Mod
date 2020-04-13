@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sifony bridge conveyor", "description": "", "health": 45, "range": 11, "speed": 2, "bufferCapacity": 13, "requirements": [{"item": "sifony", "amount": 2}, {"item": "cavuyi", "amount": 4}], "research": "sifony-conveyor", "category": "distribution", "size": 1}

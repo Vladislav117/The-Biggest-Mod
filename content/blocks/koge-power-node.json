@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "koge power node", "description": "...", "size": 2, "health": 31, "requirements": [{"item": "koge", "amount": 12}, {"item": "dimumi", "amount": 14}, {"item": "jilunium", "amount": 10}], "research": "koge-factory", "maxNodes": 34, "laserRange": 29, "category": "power"}

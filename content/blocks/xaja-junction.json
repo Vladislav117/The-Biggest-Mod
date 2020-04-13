@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xaja junction", "description": "...", "health": 22, "speed": 15, "capacity": 14, "size": 1, "requirements": [{"item": "xaja", "amount": 5}, {"item": "zokoya", "amount": 3}], "research": "xaja-conveyor", "category": "distribution"}

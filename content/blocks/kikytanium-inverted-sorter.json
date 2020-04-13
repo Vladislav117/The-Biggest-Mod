@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kikytanium inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "kikytanium", "amount": 3}, {"item": "ruwysu", "amount": 4}], "research": "kikytanium-conveyor", "category": "distribution", "invert": true}

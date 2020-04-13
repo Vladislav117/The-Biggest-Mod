@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qaxaqa junction", "description": "...", "health": 48, "speed": 5, "capacity": 6, "size": 1, "requirements": [{"item": "qaxaqa", "amount": 2}, {"item": "juhura", "amount": 1}], "research": "qaxaqa-conveyor", "category": "distribution"}

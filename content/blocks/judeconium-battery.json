@@ -1,0 +1,1 @@
+{"type": "battery", "name": "judeconium battery", "description": "...", "size": 3, "health": 212, "requirements": [{"item": "judeconium", "amount": 1}, {"item": "seca", "amount": 10}, {"item": "syteja", "amount": 10}], "research": "judeconium-factory", "consumes": {"powerBuffered": 946}, "category": "power"}

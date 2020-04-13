@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xabuci battery", "description": "...", "size": 3, "health": 380, "requirements": [{"item": "xabuci", "amount": 10}, {"item": "rayenium", "amount": 6}, {"item": "jaga", "amount": 5}], "research": "xabuci-factory", "consumes": {"powerBuffered": 7759}, "category": "power"}

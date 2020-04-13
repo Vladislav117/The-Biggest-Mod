@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "quxu solar panel", "description": "...", "size": 3, "health": 32, "requirements": [{"item": "quxu", "amount": 17}, {"item": "tyno", "amount": 6}, {"item": "wulyso", "amount": 1}], "research": "quxu-factory", "powerProduction": 6.0531955513156115, "category": "power"}

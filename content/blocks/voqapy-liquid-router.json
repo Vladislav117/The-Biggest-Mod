@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "voqapy liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "voqapy", "amount": 8}, {"item": "fecufy", "amount": 19}, {"item": "fixe", "amount": 7}], "research": "voqapy-conduit", "liquidCapacity": 10, "category": "liquid"}

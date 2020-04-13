@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cuvino conduit", "description": "...", "health": 140, "requirements": [{"item": "cuvino", "amount": 12}, {"item": "sofowo", "amount": 20}, {"item": "faqymu", "amount": 4}], "liquidCapacity": 4, "liquidPressure": 0, "research": "cuvino-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mylenium underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "mylenium", "amount": 2}, {"item": "hihunium", "amount": 3}], "research": "mylenium-conveyor", "category": "distribution", "invert": false}

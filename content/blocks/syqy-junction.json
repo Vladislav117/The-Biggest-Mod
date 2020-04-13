@@ -1,0 +1,1 @@
+{"type": "junction", "name": "syqy junction", "description": "...", "health": 43, "speed": 2, "capacity": 5, "size": 1, "requirements": [{"item": "syqy", "amount": 3}, {"item": "zalirenium", "amount": 2}], "research": "syqy-conveyor", "category": "distribution"}

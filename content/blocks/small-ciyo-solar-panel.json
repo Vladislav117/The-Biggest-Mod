@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ciyo solar panel", "description": "...", "size": 1, "health": 347, "requirements": [{"item": "ciyo", "amount": 14}, {"item": "deqo", "amount": 7}, {"item": "qavuhe", "amount": 10}], "research": "ciyo-factory", "powerProduction": 4.258597035262175, "category": "power"}

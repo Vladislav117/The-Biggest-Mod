@@ -1,0 +1,1 @@
+{"type": "junction", "name": "myzu junction", "description": "...", "health": 45, "speed": 18, "capacity": 16, "size": 1, "requirements": [{"item": "myzu", "amount": 4}, {"item": "vepuge", "amount": 4}], "research": "myzu-conveyor", "category": "distribution"}

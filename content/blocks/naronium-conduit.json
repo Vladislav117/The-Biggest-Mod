@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "naronium conduit", "description": "...", "health": 71, "requirements": [{"item": "naronium", "amount": 14}, {"item": "dycimi", "amount": 20}, {"item": "zytukenium", "amount": 2}], "liquidCapacity": 40, "liquidPressure": 7, "research": "naronium-factory", "category": "liquid"}

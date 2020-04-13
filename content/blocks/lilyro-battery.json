@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lilyro battery", "description": "...", "size": 3, "health": 105, "requirements": [{"item": "lilyro", "amount": 20}, {"item": "hogyse", "amount": 11}, {"item": "cavuyi", "amount": 6}], "research": "lilyro-factory", "consumes": {"powerBuffered": 4011}, "category": "power"}

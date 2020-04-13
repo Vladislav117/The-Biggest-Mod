@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "caqyna liquid tank", "description": "...", "health": 378, "size": 3, "requirements": [{"item": "caqyna", "amount": 15}, {"item": "xepiqi", "amount": 12}, {"item": "zayuku", "amount": 1}], "research": "caqyna-conduit", "category": "liquid", "liquidCapacity": 14049, "hasLiquids": true}

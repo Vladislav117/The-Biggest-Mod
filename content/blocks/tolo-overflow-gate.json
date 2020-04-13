@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tolo overflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "tolo", "amount": 5}, {"item": "qehynium", "amount": 3}], "research": "tolo-conveyor", "category": "distribution", "invert": false}

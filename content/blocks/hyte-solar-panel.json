@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hyte solar panel", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "hyte", "amount": 15}, {"item": "cujyda", "amount": 8}, {"item": "vakyxinium", "amount": 7}], "research": "hyte-factory", "powerProduction": 0.008466077574673807, "category": "power"}

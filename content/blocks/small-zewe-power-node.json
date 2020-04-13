@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zewe power node", "description": "...", "size": 1, "health": 256, "requirements": [{"item": "zewe", "amount": 5}, {"item": "maku", "amount": 12}, {"item": "wequky", "amount": 5}], "research": "zewe-factory", "maxNodes": 4, "laserRange": 5, "category": "power"}

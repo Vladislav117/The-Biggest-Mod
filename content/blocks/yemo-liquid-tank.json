@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yemo liquid tank", "description": "...", "health": 378, "size": 3, "requirements": [{"item": "yemo", "amount": 2}, {"item": "qawy", "amount": 19}, {"item": "kixy", "amount": 4}], "research": "yemo-conduit", "category": "liquid", "liquidCapacity": 23107, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hekate bridge conveyor", "description": "", "health": 20, "range": 16, "speed": 16, "bufferCapacity": 4, "requirements": [{"item": "hekate", "amount": 4}, {"item": "rape", "amount": 1}], "research": "hekate-conveyor", "category": "distribution", "size": 1}

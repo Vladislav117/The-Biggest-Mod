@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "moro liquid tank", "description": "...", "health": 334, "size": 3, "requirements": [{"item": "moro", "amount": 2}, {"item": "reju", "amount": 3}, {"item": "fuda", "amount": 9}], "research": "moro-conduit", "category": "liquid", "liquidCapacity": 71620, "hasLiquids": true}

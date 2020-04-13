@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zorudy solar panel", "description": "...", "size": 3, "health": 96, "requirements": [{"item": "zorudy", "amount": 5}, {"item": "yiru", "amount": 10}, {"item": "fyvuyy", "amount": 3}], "research": "zorudy-factory", "powerProduction": 2.158861366541672, "category": "power"}

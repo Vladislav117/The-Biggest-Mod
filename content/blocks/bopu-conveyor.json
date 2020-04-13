@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "bopu conveyor", "description": "...", "health": 190, "requirements": [{"item": "bopu", "amount": 1}, {"item": "bajenium", "amount": 7}], "speed": 0.2285942259782573, "research": "bopu-factory", "category": "distribution"}

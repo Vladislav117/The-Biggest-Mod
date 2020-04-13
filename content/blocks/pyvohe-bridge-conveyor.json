@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pyvohe bridge conveyor", "description": "", "health": 39, "range": 5, "speed": 12, "bufferCapacity": 25, "requirements": [{"item": "pyvohe", "amount": 4}, {"item": "gyfahanium", "amount": 4}], "research": "pyvohe-conveyor", "category": "distribution", "size": 1}

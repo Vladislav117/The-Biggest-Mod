@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tamuna inverted sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "tamuna", "amount": 4}, {"item": "labila", "amount": 3}], "research": "tamuna-conveyor", "category": "distribution", "invert": true}

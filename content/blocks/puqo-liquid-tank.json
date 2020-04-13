@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "puqo liquid tank", "description": "...", "health": 609, "size": 3, "requirements": [{"item": "puqo", "amount": 7}, {"item": "torufonium", "amount": 6}, {"item": "jyya", "amount": 5}], "research": "puqo-conduit", "category": "liquid", "liquidCapacity": 64692, "hasLiquids": true}

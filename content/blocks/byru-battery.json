@@ -1,0 +1,1 @@
+{"type": "battery", "name": "byru battery", "description": "...", "size": 3, "health": 338, "requirements": [{"item": "byru", "amount": 19}, {"item": "yugy", "amount": 13}, {"item": "nuzivo", "amount": 8}], "research": "byru-factory", "consumes": {"powerBuffered": 6674}, "category": "power"}

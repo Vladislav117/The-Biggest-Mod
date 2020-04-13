@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "codaxe bridge conveyor", "description": "", "health": 44, "range": 5, "speed": 16, "bufferCapacity": 10, "requirements": [{"item": "codaxe", "amount": 1}, {"item": "yifity", "amount": 1}], "research": "codaxe-conveyor", "category": "distribution", "size": 1}

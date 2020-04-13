@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qaxi conduit", "description": "...", "health": 120, "requirements": [{"item": "qaxi", "amount": 17}, {"item": "dohyhanium", "amount": 5}, {"item": "cepi", "amount": 2}], "liquidCapacity": 21, "liquidPressure": 10, "research": "qaxi-factory", "category": "liquid"}

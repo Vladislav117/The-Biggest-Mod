@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qigiki battery", "description": "...", "size": 3, "health": 198, "requirements": [{"item": "qigiki", "amount": 7}, {"item": "lewi", "amount": 13}, {"item": "vabyzo", "amount": 10}], "research": "qigiki-factory", "consumes": {"powerBuffered": 6248}, "category": "power"}

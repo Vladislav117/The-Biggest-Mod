@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zymaginium sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "zymaginium", "amount": 3}, {"item": "yucy", "amount": 5}], "research": "zymaginium-conveyor", "category": "distribution", "invert": false}

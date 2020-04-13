@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qoqi junction", "description": "...", "health": 7, "speed": 14, "capacity": 13, "size": 1, "requirements": [{"item": "qoqi", "amount": 1}, {"item": "dokanium", "amount": 3}], "research": "qoqi-conveyor", "category": "distribution"}

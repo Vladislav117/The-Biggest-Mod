@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "myhaxu liquid tank", "description": "...", "health": 300, "size": 3, "requirements": [{"item": "myhaxu", "amount": 5}, {"item": "cozaxo", "amount": 10}, {"item": "cecuvinium", "amount": 9}], "research": "myhaxu-conduit", "category": "liquid", "liquidCapacity": 106954, "hasLiquids": true}

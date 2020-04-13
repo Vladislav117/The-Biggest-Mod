@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qeze power node", "description": "...", "size": 2, "health": 406, "requirements": [{"item": "qeze", "amount": 14}, {"item": "nynoyu", "amount": 10}, {"item": "pazanium", "amount": 1}], "research": "qeze-factory", "maxNodes": 13, "laserRange": 27, "category": "power"}

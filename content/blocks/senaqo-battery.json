@@ -1,0 +1,1 @@
+{"type": "battery", "name": "senaqo battery", "description": "...", "size": 3, "health": 277, "requirements": [{"item": "senaqo", "amount": 19}, {"item": "cyjonium", "amount": 6}, {"item": "mimyva", "amount": 1}], "research": "senaqo-factory", "consumes": {"powerBuffered": 4301}, "category": "power"}

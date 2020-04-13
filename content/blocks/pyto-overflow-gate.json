@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pyto overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "pyto", "amount": 1}, {"item": "jumonium", "amount": 3}], "research": "pyto-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yobany underflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "yobany", "amount": 5}, {"item": "xuhefonium", "amount": 4}], "research": "yobany-conveyor", "category": "distribution", "invert": false}

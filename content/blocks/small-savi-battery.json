@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small savi battery", "description": "...", "size": 1, "health": 279, "requirements": [{"item": "savi", "amount": 16}, {"item": "kiza", "amount": 20}, {"item": "yytiro", "amount": 9}], "research": "savi-factory", "consumes": {"powerBuffered": 549}, "category": "power"}

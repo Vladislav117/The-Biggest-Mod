@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kepusy liquid tank", "description": "...", "health": 491, "size": 3, "requirements": [{"item": "kepusy", "amount": 2}, {"item": "sarijynium", "amount": 4}, {"item": "hoqade", "amount": 3}], "research": "kepusy-conduit", "category": "liquid", "liquidCapacity": 67988, "hasLiquids": true}

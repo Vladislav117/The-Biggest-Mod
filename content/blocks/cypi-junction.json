@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cypi junction", "description": "...", "health": 6, "speed": 10, "capacity": 12, "size": 1, "requirements": [{"item": "cypi", "amount": 2}, {"item": "giqonium", "amount": 1}], "research": "cypi-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "labila inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "labila", "amount": 1}, {"item": "wana", "amount": 1}], "research": "labila-conveyor", "category": "distribution", "invert": true}

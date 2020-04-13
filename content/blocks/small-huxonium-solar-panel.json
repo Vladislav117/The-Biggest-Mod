@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small huxonium solar panel", "description": "...", "size": 1, "health": 120, "requirements": [{"item": "huxonium", "amount": 17}, {"item": "lynulo", "amount": 12}, {"item": "zapu", "amount": 9}], "research": "huxonium-factory", "powerProduction": 0.3497251512682459, "category": "power"}

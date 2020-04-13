@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pujaka drill", "description": "...", "size": 2, "health": 273, "tier": 1, "drillTime": 7, "consumes": {"power": 18}, "requirements": [{"item": "pujaka", "amount": 3}, {"item": "qobenium", "amount": 16}, {"item": "wuronium", "amount": 9}], "research": "pujaka-factory", "category": "production"}

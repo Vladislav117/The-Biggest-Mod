@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xucyfy junction", "description": "...", "health": 50, "speed": 10, "capacity": 20, "size": 1, "requirements": [{"item": "xucyfy", "amount": 3}, {"item": "poyaye", "amount": 1}], "research": "xucyfy-conveyor", "category": "distribution"}

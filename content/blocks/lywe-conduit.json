@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lywe conduit", "description": "...", "health": 199, "requirements": [{"item": "lywe", "amount": 8}, {"item": "selinium", "amount": 15}, {"item": "zodo", "amount": 6}], "liquidCapacity": 48, "liquidPressure": 7, "research": "lywe-factory", "category": "liquid"}

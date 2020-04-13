@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "potesonium power node", "description": "...", "size": 2, "health": 214, "requirements": [{"item": "potesonium", "amount": 12}, {"item": "mivuwa", "amount": 13}, {"item": "bohexi", "amount": 2}], "research": "potesonium-factory", "maxNodes": 30, "laserRange": 6, "category": "power"}

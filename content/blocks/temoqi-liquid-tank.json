@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "temoqi liquid tank", "description": "...", "health": 369, "size": 3, "requirements": [{"item": "temoqi", "amount": 18}, {"item": "taze", "amount": 9}, {"item": "lebu", "amount": 7}], "research": "temoqi-conduit", "category": "liquid", "liquidCapacity": 44323, "hasLiquids": true}

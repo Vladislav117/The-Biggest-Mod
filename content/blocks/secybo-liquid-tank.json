@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "secybo liquid tank", "description": "...", "health": 562, "size": 3, "requirements": [{"item": "secybo", "amount": 13}, {"item": "dowy", "amount": 18}, {"item": "turode", "amount": 5}], "research": "secybo-conduit", "category": "liquid", "liquidCapacity": 93020, "hasLiquids": true}

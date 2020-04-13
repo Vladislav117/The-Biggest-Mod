@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rasa battery", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "rasa", "amount": 9}, {"item": "pyfy", "amount": 14}, {"item": "pydudanium", "amount": 5}], "research": "rasa-factory", "consumes": {"powerBuffered": 1627}, "category": "power"}

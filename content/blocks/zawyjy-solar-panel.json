@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zawyjy solar panel", "description": "...", "size": 3, "health": 64, "requirements": [{"item": "zawyjy", "amount": 15}, {"item": "siwi", "amount": 4}, {"item": "milu", "amount": 10}], "research": "zawyjy-factory", "powerProduction": 0.9551515993012951, "category": "power"}

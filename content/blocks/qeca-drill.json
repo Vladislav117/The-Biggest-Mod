@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qeca drill", "description": "...", "size": 3, "health": 123, "tier": 3, "drillTime": 16, "consumes": {"power": 10}, "requirements": [{"item": "qeca", "amount": 14}, {"item": "giyaju", "amount": 19}, {"item": "xuri", "amount": 4}], "research": "qeca-factory", "category": "production"}

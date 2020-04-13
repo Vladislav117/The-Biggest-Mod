@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pamufo conduit", "description": "...", "health": 30, "requirements": [{"item": "pamufo", "amount": 8}, {"item": "heke", "amount": 15}, {"item": "fito", "amount": 10}], "liquidCapacity": 29, "liquidPressure": 4, "research": "pamufo-factory", "category": "liquid"}

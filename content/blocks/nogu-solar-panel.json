@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nogu solar panel", "description": "...", "size": 3, "health": 121, "requirements": [{"item": "nogu", "amount": 18}, {"item": "werexo", "amount": 7}, {"item": "nuci", "amount": 6}], "research": "nogu-factory", "powerProduction": 0.22779804551385535, "category": "power"}

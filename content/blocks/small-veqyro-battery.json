@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small veqyro battery", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "veqyro", "amount": 3}, {"item": "cavuyi", "amount": 5}, {"item": "kyte", "amount": 1}], "research": "veqyro-factory", "consumes": {"powerBuffered": 2070}, "category": "power"}

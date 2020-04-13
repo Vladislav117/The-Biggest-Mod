@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zosy power node", "description": "...", "size": 2, "health": 554, "requirements": [{"item": "zosy", "amount": 16}, {"item": "yytiye", "amount": 17}, {"item": "cafe", "amount": 6}], "research": "zosy-factory", "maxNodes": 51, "laserRange": 13, "category": "power"}

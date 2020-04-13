@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "saze power node", "description": "...", "size": 2, "health": 468, "requirements": [{"item": "saze", "amount": 13}, {"item": "qano", "amount": 9}, {"item": "hofa", "amount": 2}], "research": "saze-factory", "maxNodes": 16, "laserRange": 21, "category": "power"}

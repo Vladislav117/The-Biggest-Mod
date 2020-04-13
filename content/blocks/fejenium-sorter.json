@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fejenium sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "fejenium", "amount": 1}, {"item": "zekaru", "amount": 1}], "research": "fejenium-conveyor", "category": "distribution", "invert": false}

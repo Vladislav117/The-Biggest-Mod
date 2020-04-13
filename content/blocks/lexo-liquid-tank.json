@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lexo liquid tank", "description": "...", "health": 661, "size": 3, "requirements": [{"item": "lexo", "amount": 3}, {"item": "medide", "amount": 8}, {"item": "zuva", "amount": 4}], "research": "lexo-conduit", "category": "liquid", "liquidCapacity": 20932, "hasLiquids": true}

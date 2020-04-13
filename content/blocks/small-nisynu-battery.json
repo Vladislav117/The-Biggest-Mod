@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nisynu battery", "description": "...", "size": 1, "health": 399, "requirements": [{"item": "nisynu", "amount": 15}, {"item": "yaly", "amount": 20}, {"item": "jyluba", "amount": 7}], "research": "nisynu-factory", "consumes": {"powerBuffered": 1926}, "category": "power"}

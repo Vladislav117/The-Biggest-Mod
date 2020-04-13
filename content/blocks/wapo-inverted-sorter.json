@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wapo inverted sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "wapo", "amount": 1}, {"item": "tatavo", "amount": 5}], "research": "wapo-conveyor", "category": "distribution", "invert": true}

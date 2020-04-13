@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nohi liquid tank", "description": "...", "health": 595, "size": 3, "requirements": [{"item": "nohi", "amount": 8}, {"item": "qelyqe", "amount": 16}, {"item": "yebyte", "amount": 9}], "research": "nohi-conduit", "category": "liquid", "liquidCapacity": 71077, "hasLiquids": true}

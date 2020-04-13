@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jaweki battery", "description": "...", "size": 3, "health": 382, "requirements": [{"item": "jaweki", "amount": 7}, {"item": "xexumi", "amount": 14}, {"item": "rajubanium", "amount": 6}], "research": "jaweki-factory", "consumes": {"powerBuffered": 3438}, "category": "power"}

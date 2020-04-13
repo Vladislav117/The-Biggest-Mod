@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yelo solar panel", "description": "...", "size": 3, "health": 368, "requirements": [{"item": "yelo", "amount": 5}, {"item": "wuho", "amount": 19}, {"item": "heruvu", "amount": 7}], "research": "yelo-factory", "powerProduction": 0.8704800525671134, "category": "power"}

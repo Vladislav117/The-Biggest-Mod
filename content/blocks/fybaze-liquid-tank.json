@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fybaze liquid tank", "description": "...", "health": 431, "size": 3, "requirements": [{"item": "fybaze", "amount": 20}, {"item": "nyboye", "amount": 13}, {"item": "tomufa", "amount": 9}], "research": "fybaze-conduit", "category": "liquid", "liquidCapacity": 8878, "hasLiquids": true}

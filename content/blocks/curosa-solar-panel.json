@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "curosa solar panel", "description": "...", "size": 3, "health": 150, "requirements": [{"item": "curosa", "amount": 20}, {"item": "lynu", "amount": 8}, {"item": "wylobo", "amount": 5}], "research": "curosa-factory", "powerProduction": 3.0417220408384784, "category": "power"}

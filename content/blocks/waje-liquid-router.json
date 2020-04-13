@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "waje liquid router", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "waje", "amount": 9}, {"item": "deteka", "amount": 11}, {"item": "hunaci", "amount": 4}], "research": "waje-conduit", "liquidCapacity": 10, "category": "liquid"}

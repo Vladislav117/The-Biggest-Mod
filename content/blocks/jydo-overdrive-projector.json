@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "jydo overdrive projector", "description": "...", "health": 90, "consumes": {"power": 3.0, "item": "jydo"}, "size": 2, "requirements": [{"item": "jydo", "amount": 11}, {"item": "gykenium", "amount": 8}, {"item": "vove", "amount": 10}], "research": "jydo-factory", "category": "effect"}

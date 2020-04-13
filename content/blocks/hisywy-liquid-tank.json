@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hisywy liquid tank", "description": "...", "health": 275, "size": 3, "requirements": [{"item": "hisywy", "amount": 10}, {"item": "vodehonium", "amount": 1}, {"item": "menode", "amount": 5}], "research": "hisywy-conduit", "category": "liquid", "liquidCapacity": 97706, "hasLiquids": true}

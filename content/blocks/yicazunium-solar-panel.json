@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yicazunium solar panel", "description": "...", "size": 3, "health": 181, "requirements": [{"item": "yicazunium", "amount": 6}, {"item": "nexojo", "amount": 10}, {"item": "gino", "amount": 8}], "research": "yicazunium-factory", "powerProduction": 1.0291658954842586, "category": "power"}

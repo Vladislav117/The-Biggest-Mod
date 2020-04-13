@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kopyto liquid tank", "description": "...", "health": 416, "size": 3, "requirements": [{"item": "kopyto", "amount": 12}, {"item": "bole", "amount": 20}, {"item": "miyoqu", "amount": 2}], "research": "kopyto-conduit", "category": "liquid", "liquidCapacity": 36668, "hasLiquids": true}

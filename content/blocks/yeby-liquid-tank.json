@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yeby liquid tank", "description": "...", "health": 519, "size": 3, "requirements": [{"item": "yeby", "amount": 18}, {"item": "tufi", "amount": 17}, {"item": "takyhonium", "amount": 8}], "research": "yeby-conduit", "category": "liquid", "liquidCapacity": 19935, "hasLiquids": true}

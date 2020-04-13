@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "teyipu liquid tank", "description": "...", "health": 469, "size": 3, "requirements": [{"item": "teyipu", "amount": 9}, {"item": "kegiqi", "amount": 10}, {"item": "papo", "amount": 7}], "research": "teyipu-conduit", "category": "liquid", "liquidCapacity": 72780, "hasLiquids": true}

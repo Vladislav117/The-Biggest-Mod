@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyxyfo liquid tank", "description": "...", "health": 125, "size": 3, "requirements": [{"item": "zyxyfo", "amount": 7}, {"item": "lesy", "amount": 8}, {"item": "logybi", "amount": 7}], "research": "zyxyfo-conduit", "category": "liquid", "liquidCapacity": 33914, "hasLiquids": true}

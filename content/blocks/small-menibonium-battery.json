@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small menibonium battery", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "menibonium", "amount": 20}, {"item": "hetuxo", "amount": 19}, {"item": "heho", "amount": 2}], "research": "menibonium-factory", "consumes": {"powerBuffered": 1088}, "category": "power"}

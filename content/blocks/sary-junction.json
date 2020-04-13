@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sary junction", "description": "...", "health": 20, "speed": 10, "capacity": 3, "size": 1, "requirements": [{"item": "sary", "amount": 2}, {"item": "fuho", "amount": 5}], "research": "sary-conveyor", "category": "distribution"}

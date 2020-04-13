@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hako liquid tank", "description": "...", "health": 484, "size": 3, "requirements": [{"item": "hako", "amount": 10}, {"item": "hedi", "amount": 10}, {"item": "vohiyynium", "amount": 4}], "research": "hako-conduit", "category": "liquid", "liquidCapacity": 83015, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "foqa power node", "description": "...", "size": 2, "health": 758, "requirements": [{"item": "foqa", "amount": 12}, {"item": "kegegynium", "amount": 15}, {"item": "nisynu", "amount": 9}], "research": "foqa-factory", "maxNodes": 43, "laserRange": 15, "category": "power"}

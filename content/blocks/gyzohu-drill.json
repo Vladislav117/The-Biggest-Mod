@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gyzohu drill", "description": "...", "size": 2, "health": 303, "tier": 3, "drillTime": 9, "consumes": {"power": 13}, "requirements": [{"item": "gyzohu", "amount": 2}, {"item": "puqege", "amount": 6}, {"item": "wipuca", "amount": 8}], "research": "gyzohu-factory", "category": "production"}

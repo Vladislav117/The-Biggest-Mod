@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kike battery", "description": "...", "size": 1, "health": 307, "requirements": [{"item": "kike", "amount": 8}, {"item": "bebexu", "amount": 19}, {"item": "rahonium", "amount": 10}], "research": "kike-factory", "consumes": {"powerBuffered": 1764}, "category": "power"}

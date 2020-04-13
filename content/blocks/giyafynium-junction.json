@@ -1,0 +1,1 @@
+{"type": "junction", "name": "giyafynium junction", "description": "...", "health": 31, "speed": 5, "capacity": 15, "size": 1, "requirements": [{"item": "giyafynium", "amount": 1}, {"item": "zoqy", "amount": 1}], "research": "giyafynium-conveyor", "category": "distribution"}

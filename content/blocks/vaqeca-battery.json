@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vaqeca battery", "description": "...", "size": 3, "health": 95, "requirements": [{"item": "vaqeca", "amount": 13}, {"item": "duhexi", "amount": 13}, {"item": "vaso", "amount": 10}], "research": "vaqeca-factory", "consumes": {"powerBuffered": 5741}, "category": "power"}

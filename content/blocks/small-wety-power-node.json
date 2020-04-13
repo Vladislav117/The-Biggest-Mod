@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wety power node", "description": "...", "size": 1, "health": 162, "requirements": [{"item": "wety", "amount": 13}, {"item": "miyoqu", "amount": 1}, {"item": "quda", "amount": 4}], "research": "wety-factory", "maxNodes": 14, "laserRange": 23, "category": "power"}

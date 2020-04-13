@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wiba junction", "description": "...", "health": 16, "speed": 12, "capacity": 14, "size": 1, "requirements": [{"item": "wiba", "amount": 1}, {"item": "plastanium", "amount": 3}], "research": "wiba-conveyor", "category": "distribution"}

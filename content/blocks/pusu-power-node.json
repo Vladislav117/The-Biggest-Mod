@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pusu power node", "description": "...", "size": 2, "health": 88, "requirements": [{"item": "pusu", "amount": 13}, {"item": "lahydo", "amount": 1}, {"item": "xepe", "amount": 6}], "research": "pusu-factory", "maxNodes": 42, "laserRange": 10, "category": "power"}

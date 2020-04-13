@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gepyna overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "gepyna", "amount": 2}, {"item": "yelo", "amount": 1}], "research": "gepyna-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hisywy liquid router", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "hisywy", "amount": 13}, {"item": "haxi", "amount": 3}, {"item": "jikesi", "amount": 5}], "research": "hisywy-conduit", "liquidCapacity": 10, "category": "liquid"}

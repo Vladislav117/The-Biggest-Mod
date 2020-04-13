@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xynice solar panel", "description": "...", "size": 1, "health": 334, "requirements": [{"item": "xynice", "amount": 12}, {"item": "xekota", "amount": 1}, {"item": "qylino", "amount": 8}], "research": "xynice-factory", "powerProduction": 2.244707133703516, "category": "power"}

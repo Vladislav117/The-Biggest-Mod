@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yopu power node", "description": "...", "size": 2, "health": 171, "requirements": [{"item": "yopu", "amount": 11}, {"item": "fabese", "amount": 16}, {"item": "bidynium", "amount": 5}], "research": "yopu-factory", "maxNodes": 49, "laserRange": 11, "category": "power"}

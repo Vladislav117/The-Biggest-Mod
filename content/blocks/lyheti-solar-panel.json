@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lyheti solar panel", "description": "...", "size": 3, "health": 375, "requirements": [{"item": "lyheti", "amount": 3}, {"item": "xutire", "amount": 20}, {"item": "nejesu", "amount": 4}], "research": "lyheti-factory", "powerProduction": 0.8413036704460249, "category": "power"}

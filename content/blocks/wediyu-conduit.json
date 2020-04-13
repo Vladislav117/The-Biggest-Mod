@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wediyu conduit", "description": "...", "health": 189, "requirements": [{"item": "wediyu", "amount": 7}, {"item": "heda", "amount": 20}, {"item": "rebugunium", "amount": 4}], "liquidCapacity": 20, "liquidPressure": 7, "research": "wediyu-factory", "category": "liquid"}

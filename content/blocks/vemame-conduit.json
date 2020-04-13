@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vemame conduit", "description": "...", "health": 97, "requirements": [{"item": "vemame", "amount": 3}, {"item": "xeza", "amount": 9}, {"item": "xice", "amount": 4}], "liquidCapacity": 38, "liquidPressure": 6, "research": "vemame-factory", "category": "liquid"}

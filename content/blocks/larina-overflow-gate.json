@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "larina overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "larina", "amount": 1}, {"item": "walinium", "amount": 4}], "research": "larina-conveyor", "category": "distribution", "invert": false}

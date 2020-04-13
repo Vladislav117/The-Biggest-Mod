@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qyhocenium solar panel", "description": "...", "size": 3, "health": 141, "requirements": [{"item": "qyhocenium", "amount": 15}, {"item": "terepy", "amount": 3}, {"item": "laranium", "amount": 3}], "research": "qyhocenium-factory", "powerProduction": 0.28985193152434036, "category": "power"}

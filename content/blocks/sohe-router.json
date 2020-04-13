@@ -1,0 +1,1 @@
+{"type": "router", "name": "sohe router", "description": "...", "health": 200, "size": 1, "requirements": [{"item": "sohe", "amount": 2}], "research": "sohe-conveyor", "category": "distribution"}

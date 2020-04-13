@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small veny solar panel", "description": "...", "size": 1, "health": 379, "requirements": [{"item": "veny", "amount": 1}, {"item": "gado", "amount": 10}, {"item": "sulu", "amount": 3}], "research": "veny-factory", "powerProduction": 2.6240178411831256, "category": "power"}

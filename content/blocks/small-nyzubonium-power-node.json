@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nyzubonium power node", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "nyzubonium", "amount": 17}, {"item": "muyimy", "amount": 6}, {"item": "cuqi", "amount": 10}], "research": "nyzubonium-factory", "maxNodes": 25, "laserRange": 21, "category": "power"}

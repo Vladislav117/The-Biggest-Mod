@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sebutu battery", "description": "...", "size": 3, "health": 285, "requirements": [{"item": "sebutu", "amount": 20}, {"item": "riyi", "amount": 12}, {"item": "wafa", "amount": 6}], "research": "sebutu-factory", "consumes": {"powerBuffered": 7391}, "category": "power"}

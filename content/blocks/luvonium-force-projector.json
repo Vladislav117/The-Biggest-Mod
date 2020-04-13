@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "luvonium force projector", "description": "...", "health": 186, "size": 3, "consumes": {"power": 5.0, "item": "luvonium"}, "requirements": [{"item": "luvonium", "amount": 18}, {"item": "dugi", "amount": 1}, {"item": "kuxevy", "amount": 6}], "research": "luvonium-factory", "category": "effect"}

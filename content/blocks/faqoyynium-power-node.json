@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "faqoyynium power node", "description": "...", "size": 2, "health": 690, "requirements": [{"item": "faqoyynium", "amount": 18}, {"item": "kyqu", "amount": 20}, {"item": "kavequ", "amount": 1}], "research": "faqoyynium-factory", "maxNodes": 28, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gyri power node", "description": "...", "size": 2, "health": 650, "requirements": [{"item": "gyri", "amount": 4}, {"item": "nudequ", "amount": 2}, {"item": "jaju", "amount": 5}], "research": "gyri-factory", "maxNodes": 28, "laserRange": 12, "category": "power"}

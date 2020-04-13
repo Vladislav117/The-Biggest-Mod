@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ferykenium conduit", "description": "...", "health": 110, "requirements": [{"item": "ferykenium", "amount": 10}, {"item": "wygaki", "amount": 7}, {"item": "sivaqi", "amount": 4}], "liquidCapacity": 38, "liquidPressure": 7, "research": "ferykenium-factory", "category": "liquid"}

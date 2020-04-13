@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jega overflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "jega", "amount": 3}, {"item": "reduty", "amount": 5}], "research": "jega-conveyor", "category": "distribution", "invert": false}

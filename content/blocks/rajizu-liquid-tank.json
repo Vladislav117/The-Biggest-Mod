@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rajizu liquid tank", "description": "...", "health": 228, "size": 3, "requirements": [{"item": "rajizu", "amount": 2}, {"item": "yinuze", "amount": 3}, {"item": "jyluba", "amount": 4}], "research": "rajizu-conduit", "category": "liquid", "liquidCapacity": 2299, "hasLiquids": true}

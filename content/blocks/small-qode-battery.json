@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qode battery", "description": "...", "size": 1, "health": 248, "requirements": [{"item": "qode", "amount": 17}, {"item": "zofiqo", "amount": 5}, {"item": "yake", "amount": 5}], "research": "qode-factory", "consumes": {"powerBuffered": 1910}, "category": "power"}

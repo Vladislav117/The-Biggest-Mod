@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small naqade battery", "description": "...", "size": 1, "health": 287, "requirements": [{"item": "naqade", "amount": 17}, {"item": "covikinium", "amount": 16}, {"item": "kawo", "amount": 10}], "research": "naqade-factory", "consumes": {"powerBuffered": 411}, "category": "power"}

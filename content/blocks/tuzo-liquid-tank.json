@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tuzo liquid tank", "description": "...", "health": 157, "size": 3, "requirements": [{"item": "tuzo", "amount": 11}, {"item": "madosy", "amount": 16}, {"item": "bamubu", "amount": 8}], "research": "tuzo-conduit", "category": "liquid", "liquidCapacity": 83823, "hasLiquids": true}

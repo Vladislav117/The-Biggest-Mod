@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rumo conduit", "description": "...", "health": 159, "requirements": [{"item": "rumo", "amount": 8}, {"item": "fyziro", "amount": 16}, {"item": "mymynium", "amount": 1}], "liquidCapacity": 19, "liquidPressure": 9, "research": "rumo-factory", "category": "liquid"}

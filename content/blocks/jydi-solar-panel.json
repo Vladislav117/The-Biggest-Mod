@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jydi solar panel", "description": "...", "size": 3, "health": 383, "requirements": [{"item": "jydi", "amount": 20}, {"item": "foze", "amount": 9}, {"item": "kaqyla", "amount": 8}], "research": "jydi-factory", "powerProduction": 4.675064295370614, "category": "power"}

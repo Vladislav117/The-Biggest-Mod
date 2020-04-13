@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pukusu solar panel", "description": "...", "size": 3, "health": 399, "requirements": [{"item": "pukusu", "amount": 13}, {"item": "siwicunium", "amount": 6}, {"item": "sisitonium", "amount": 10}], "research": "pukusu-factory", "powerProduction": 0.33767457436274034, "category": "power"}

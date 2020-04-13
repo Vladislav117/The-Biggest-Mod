@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small giku battery", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "giku", "amount": 19}, {"item": "pegycy", "amount": 9}, {"item": "tere", "amount": 9}], "research": "giku-factory", "consumes": {"powerBuffered": 2547}, "category": "power"}

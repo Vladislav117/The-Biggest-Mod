@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "meva liquid router", "description": "...", "size": 1, "health": 98, "requirements": [{"item": "meva", "amount": 11}, {"item": "vemohy", "amount": 6}, {"item": "vitina", "amount": 1}], "research": "meva-conduit", "liquidCapacity": 10, "category": "liquid"}

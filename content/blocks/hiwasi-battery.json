@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hiwasi battery", "description": "...", "size": 3, "health": 33, "requirements": [{"item": "hiwasi", "amount": 17}, {"item": "gizomanium", "amount": 6}, {"item": "hagi", "amount": 10}], "research": "hiwasi-factory", "consumes": {"powerBuffered": 3415}, "category": "power"}

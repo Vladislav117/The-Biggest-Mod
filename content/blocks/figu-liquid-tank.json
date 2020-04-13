@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "figu liquid tank", "description": "...", "health": 425, "size": 3, "requirements": [{"item": "figu", "amount": 3}, {"item": "xycaqunium", "amount": 11}, {"item": "heke", "amount": 1}], "research": "figu-conduit", "category": "liquid", "liquidCapacity": 15977, "hasLiquids": true}

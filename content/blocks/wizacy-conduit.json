@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wizacy conduit", "description": "...", "health": 178, "requirements": [{"item": "wizacy", "amount": 15}, {"item": "mepunium", "amount": 18}, {"item": "colu", "amount": 3}], "liquidCapacity": 25, "liquidPressure": 0, "research": "wizacy-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hiwenium conduit", "description": "...", "health": 142, "requirements": [{"item": "hiwenium", "amount": 1}, {"item": "puli", "amount": 19}, {"item": "kilu", "amount": 9}], "liquidCapacity": 17, "liquidPressure": 6, "research": "hiwenium-factory", "category": "liquid"}

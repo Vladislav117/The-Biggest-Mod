@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sisinium power node", "description": "...", "size": 2, "health": 369, "requirements": [{"item": "sisinium", "amount": 17}, {"item": "yixa", "amount": 16}, {"item": "qopaye", "amount": 4}], "research": "sisinium-factory", "maxNodes": 51, "laserRange": 29, "category": "power"}

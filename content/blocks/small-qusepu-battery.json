@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qusepu battery", "description": "...", "size": 1, "health": 298, "requirements": [{"item": "qusepu", "amount": 2}, {"item": "cuqolu", "amount": 16}, {"item": "beronium", "amount": 1}], "research": "qusepu-factory", "consumes": {"powerBuffered": 631}, "category": "power"}

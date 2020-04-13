@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jyta liquid tank", "description": "...", "health": 552, "size": 3, "requirements": [{"item": "jyta", "amount": 20}, {"item": "cayy", "amount": 2}, {"item": "rafyti", "amount": 1}], "research": "jyta-conduit", "category": "liquid", "liquidCapacity": 100826, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "siyunynium overdrive projector", "description": "...", "health": 120, "consumes": {"power": 3.0, "item": "siyunynium"}, "size": 2, "requirements": [{"item": "siyunynium", "amount": 18}, {"item": "yesolonium", "amount": 9}, {"item": "fifyru", "amount": 1}], "research": "siyunynium-factory", "category": "effect"}

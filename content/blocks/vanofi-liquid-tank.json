@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vanofi liquid tank", "description": "...", "health": 345, "size": 3, "requirements": [{"item": "vanofi", "amount": 19}, {"item": "xegonium", "amount": 2}, {"item": "vuvy", "amount": 10}], "research": "vanofi-conduit", "category": "liquid", "liquidCapacity": 21686, "hasLiquids": true}

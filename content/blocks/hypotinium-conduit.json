@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hypotinium conduit", "description": "...", "health": 62, "requirements": [{"item": "hypotinium", "amount": 9}, {"item": "poquko", "amount": 11}, {"item": "wugyjinium", "amount": 5}], "liquidCapacity": 30, "liquidPressure": 9, "research": "hypotinium-factory", "category": "liquid"}

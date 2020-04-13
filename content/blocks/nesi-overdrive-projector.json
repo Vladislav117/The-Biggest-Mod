@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "nesi overdrive projector", "description": "...", "health": 106, "consumes": {"power": 3.0, "item": "nesi"}, "size": 2, "requirements": [{"item": "nesi", "amount": 5}, {"item": "zazuji", "amount": 9}, {"item": "lapydy", "amount": 5}], "research": "nesi-factory", "category": "effect"}

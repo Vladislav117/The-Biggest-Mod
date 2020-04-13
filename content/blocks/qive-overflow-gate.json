@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qive overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "qive", "amount": 1}, {"item": "myfo", "amount": 4}], "research": "qive-conveyor", "category": "distribution", "invert": false}

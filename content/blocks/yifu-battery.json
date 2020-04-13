@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yifu battery", "description": "...", "size": 3, "health": 41, "requirements": [{"item": "yifu", "amount": 11}, {"item": "popa", "amount": 16}, {"item": "qesinium", "amount": 9}], "research": "yifu-factory", "consumes": {"powerBuffered": 4025}, "category": "power"}

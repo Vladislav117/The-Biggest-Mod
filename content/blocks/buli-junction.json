@@ -1,0 +1,1 @@
+{"type": "junction", "name": "buli junction", "description": "...", "health": 8, "speed": 14, "capacity": 3, "size": 1, "requirements": [{"item": "buli", "amount": 1}, {"item": "zoyasi", "amount": 4}], "research": "buli-conveyor", "category": "distribution"}

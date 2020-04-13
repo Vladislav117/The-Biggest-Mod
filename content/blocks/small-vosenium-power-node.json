@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vosenium power node", "description": "...", "size": 1, "health": 230, "requirements": [{"item": "vosenium", "amount": 8}, {"item": "qylino", "amount": 1}, {"item": "jitefu", "amount": 6}], "research": "vosenium-factory", "maxNodes": 5, "laserRange": 11, "category": "power"}

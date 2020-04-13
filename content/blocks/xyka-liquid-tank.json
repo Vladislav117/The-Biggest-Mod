@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xyka liquid tank", "description": "...", "health": 547, "size": 3, "requirements": [{"item": "xyka", "amount": 11}, {"item": "nezexe", "amount": 10}, {"item": "gogajy", "amount": 9}], "research": "xyka-conduit", "category": "liquid", "liquidCapacity": 52760, "hasLiquids": true}

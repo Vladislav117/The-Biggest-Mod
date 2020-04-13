@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pominium liquid tank", "description": "...", "health": 361, "size": 3, "requirements": [{"item": "pominium", "amount": 11}, {"item": "kelurynium", "amount": 13}, {"item": "qutonium", "amount": 8}], "research": "pominium-conduit", "category": "liquid", "liquidCapacity": 67189, "hasLiquids": true}

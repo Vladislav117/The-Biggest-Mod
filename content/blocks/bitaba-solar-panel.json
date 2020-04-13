@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bitaba solar panel", "description": "...", "size": 3, "health": 318, "requirements": [{"item": "bitaba", "amount": 13}, {"item": "ryte", "amount": 6}, {"item": "hudo", "amount": 8}], "research": "bitaba-factory", "powerProduction": 2.458290254298312, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "joku junction", "description": "...", "health": 22, "speed": 12, "capacity": 19, "size": 1, "requirements": [{"item": "joku", "amount": 4}, {"item": "pufu", "amount": 1}], "research": "joku-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "genohu junction", "description": "...", "health": 31, "speed": 4, "capacity": 19, "size": 1, "requirements": [{"item": "genohu", "amount": 2}, {"item": "kuxanium", "amount": 4}], "research": "genohu-conveyor", "category": "distribution"}

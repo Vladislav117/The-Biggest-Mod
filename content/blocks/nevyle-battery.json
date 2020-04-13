@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nevyle battery", "description": "...", "size": 3, "health": 282, "requirements": [{"item": "nevyle", "amount": 10}, {"item": "bywazy", "amount": 6}, {"item": "ciqi", "amount": 5}], "research": "nevyle-factory", "consumes": {"powerBuffered": 7913}, "category": "power"}

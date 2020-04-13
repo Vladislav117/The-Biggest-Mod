@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zumi overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "zumi", "amount": 5}, {"item": "vodynium", "amount": 1}], "research": "zumi-conveyor", "category": "distribution", "invert": false}

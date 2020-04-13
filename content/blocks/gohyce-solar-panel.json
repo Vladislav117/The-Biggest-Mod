@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gohyce solar panel", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "gohyce", "amount": 8}, {"item": "fofoco", "amount": 19}, {"item": "melepi", "amount": 4}], "research": "gohyce-factory", "powerProduction": 0.10151607478517326, "category": "power"}

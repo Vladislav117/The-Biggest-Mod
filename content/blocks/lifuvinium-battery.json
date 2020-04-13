@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lifuvinium battery", "description": "...", "size": 3, "health": 271, "requirements": [{"item": "lifuvinium", "amount": 20}, {"item": "dihomu", "amount": 20}, {"item": "jucoqe", "amount": 4}], "research": "lifuvinium-factory", "consumes": {"powerBuffered": 9400}, "category": "power"}

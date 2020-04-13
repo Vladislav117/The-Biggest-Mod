@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "syve power node", "description": "...", "size": 2, "health": 263, "requirements": [{"item": "syve", "amount": 19}, {"item": "qudy", "amount": 13}, {"item": "siveyu", "amount": 6}], "research": "syve-factory", "maxNodes": 16, "laserRange": 11, "category": "power"}

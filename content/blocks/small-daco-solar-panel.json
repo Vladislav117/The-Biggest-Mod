@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small daco solar panel", "description": "...", "size": 1, "health": 398, "requirements": [{"item": "daco", "amount": 9}, {"item": "jaga", "amount": 16}, {"item": "rafyti", "amount": 1}], "research": "daco-factory", "powerProduction": 2.1206740284778207, "category": "power"}

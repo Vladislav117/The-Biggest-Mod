@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nivo power node", "description": "...", "size": 2, "health": 560, "requirements": [{"item": "nivo", "amount": 12}, {"item": "wypy", "amount": 4}, {"item": "bixehy", "amount": 10}], "research": "nivo-factory", "maxNodes": 45, "laserRange": 29, "category": "power"}

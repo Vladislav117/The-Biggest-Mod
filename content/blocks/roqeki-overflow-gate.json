@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "roqeki overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "roqeki", "amount": 3}, {"item": "nolo", "amount": 2}], "research": "roqeki-conveyor", "category": "distribution", "invert": false}

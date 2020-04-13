@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "feguga liquid tank", "description": "...", "health": 461, "size": 3, "requirements": [{"item": "feguga", "amount": 20}, {"item": "yymujy", "amount": 10}, {"item": "quda", "amount": 5}], "research": "feguga-conduit", "category": "liquid", "liquidCapacity": 21432, "hasLiquids": true}

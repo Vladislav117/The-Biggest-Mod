@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small heti power node", "description": "...", "size": 1, "health": 394, "requirements": [{"item": "heti", "amount": 14}, {"item": "zyrufu", "amount": 11}, {"item": "minoxa", "amount": 8}], "research": "heti-factory", "maxNodes": 5, "laserRange": 22, "category": "power"}

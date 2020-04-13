@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vosamo underflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "vosamo", "amount": 3}, {"item": "biqa", "amount": 4}], "research": "vosamo-conveyor", "category": "distribution", "invert": false}

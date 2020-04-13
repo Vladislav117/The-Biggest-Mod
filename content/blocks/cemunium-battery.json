@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cemunium battery", "description": "...", "size": 3, "health": 287, "requirements": [{"item": "cemunium", "amount": 10}, {"item": "yedyte", "amount": 6}, {"item": "decifonium", "amount": 3}], "research": "cemunium-factory", "consumes": {"powerBuffered": 9973}, "category": "power"}

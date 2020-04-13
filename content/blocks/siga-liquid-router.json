@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "siga liquid router", "description": "...", "size": 1, "health": 84, "requirements": [{"item": "siga", "amount": 19}, {"item": "wibasi", "amount": 13}, {"item": "liba", "amount": 5}], "research": "siga-conduit", "liquidCapacity": 10, "category": "liquid"}

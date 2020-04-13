@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pamufo battery", "description": "...", "size": 3, "health": 385, "requirements": [{"item": "pamufo", "amount": 5}, {"item": "pify", "amount": 10}, {"item": "ziha", "amount": 3}], "research": "pamufo-factory", "consumes": {"powerBuffered": 3178}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small notinium battery", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "notinium", "amount": 11}, {"item": "luweninium", "amount": 16}, {"item": "bybo", "amount": 5}], "research": "notinium-factory", "consumes": {"powerBuffered": 1429}, "category": "power"}

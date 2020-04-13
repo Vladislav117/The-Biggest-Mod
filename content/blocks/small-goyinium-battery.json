@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small goyinium battery", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "goyinium", "amount": 16}, {"item": "juhura", "amount": 12}, {"item": "dyqasy", "amount": 8}], "research": "goyinium-factory", "consumes": {"powerBuffered": 1138}, "category": "power"}

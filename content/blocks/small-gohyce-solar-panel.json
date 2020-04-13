@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gohyce solar panel", "description": "...", "size": 1, "health": 322, "requirements": [{"item": "gohyce", "amount": 10}, {"item": "ninu", "amount": 19}, {"item": "pygu", "amount": 1}], "research": "gohyce-factory", "powerProduction": 2.0448877997330235, "category": "power"}

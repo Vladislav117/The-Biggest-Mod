@@ -1,0 +1,1 @@
+{"type": "battery", "name": "neminium battery", "description": "...", "size": 3, "health": 124, "requirements": [{"item": "neminium", "amount": 12}, {"item": "sedowe", "amount": 2}, {"item": "lyra", "amount": 10}], "research": "neminium-factory", "consumes": {"powerBuffered": 8440}, "category": "power"}

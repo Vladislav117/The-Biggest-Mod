@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kure bridge conveyor", "description": "", "health": 6, "range": 7, "speed": 6, "bufferCapacity": 9, "requirements": [{"item": "kure", "amount": 4}, {"item": "tosuzy", "amount": 2}], "research": "kure-conveyor", "category": "distribution", "size": 1}

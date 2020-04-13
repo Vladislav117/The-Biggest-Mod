@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "byqi overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "byqi", "amount": 4}, {"item": "siyunynium", "amount": 5}], "research": "byqi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nudady bridge conveyor", "description": "", "health": 45, "range": 3, "speed": 8, "bufferCapacity": 20, "requirements": [{"item": "nudady", "amount": 1}, {"item": "zywave", "amount": 3}], "research": "nudady-conveyor", "category": "distribution", "size": 1}

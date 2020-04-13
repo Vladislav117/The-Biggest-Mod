@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zimabe power node", "description": "...", "size": 2, "health": 399, "requirements": [{"item": "zimabe", "amount": 18}, {"item": "jawa", "amount": 8}, {"item": "xuri", "amount": 7}], "research": "zimabe-factory", "maxNodes": 46, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kegi power node", "description": "...", "size": 2, "health": 21, "requirements": [{"item": "kegi", "amount": 15}, {"item": "detadynium", "amount": 3}, {"item": "viwiwinium", "amount": 9}], "research": "kegi-factory", "maxNodes": 43, "laserRange": 14, "category": "power"}

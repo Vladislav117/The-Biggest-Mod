@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cahi junction", "description": "...", "health": 18, "speed": 6, "capacity": 20, "size": 1, "requirements": [{"item": "cahi", "amount": 5}, {"item": "xejunium", "amount": 1}], "research": "cahi-conveyor", "category": "distribution"}

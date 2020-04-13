@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hopyca liquid tank", "description": "...", "health": 639, "size": 3, "requirements": [{"item": "hopyca", "amount": 3}, {"item": "lidinium", "amount": 7}, {"item": "qoseve", "amount": 10}], "research": "hopyca-conduit", "category": "liquid", "liquidCapacity": 23650, "hasLiquids": true}

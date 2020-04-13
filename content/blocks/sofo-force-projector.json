@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "sofo force projector", "description": "...", "health": 234, "size": 3, "consumes": {"power": 5.0, "item": "sofo"}, "requirements": [{"item": "sofo", "amount": 3}, {"item": "danitu", "amount": 15}, {"item": "jepinium", "amount": 4}], "research": "sofo-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small neloto battery", "description": "...", "size": 1, "health": 332, "requirements": [{"item": "neloto", "amount": 11}, {"item": "vodico", "amount": 17}, {"item": "huxo", "amount": 6}], "research": "neloto-factory", "consumes": {"powerBuffered": 521}, "category": "power"}

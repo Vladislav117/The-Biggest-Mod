@@ -1,0 +1,1 @@
+{"type": "junction", "name": "makonium junction", "description": "...", "health": 10, "speed": 12, "capacity": 2, "size": 1, "requirements": [{"item": "makonium", "amount": 5}, {"item": "beronium", "amount": 3}], "research": "makonium-conveyor", "category": "distribution"}

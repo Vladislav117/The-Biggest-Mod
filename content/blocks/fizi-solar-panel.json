@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fizi solar panel", "description": "...", "size": 3, "health": 367, "requirements": [{"item": "fizi", "amount": 11}, {"item": "metaglass", "amount": 11}, {"item": "cebaba", "amount": 7}], "research": "fizi-factory", "powerProduction": 4.8912250119769745, "category": "power"}

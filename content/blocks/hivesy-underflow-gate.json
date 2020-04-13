@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hivesy underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "hivesy", "amount": 5}, {"item": "silicon", "amount": 1}], "research": "hivesy-conveyor", "category": "distribution", "invert": false}

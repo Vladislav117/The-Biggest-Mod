@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xuwa underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "xuwa", "amount": 1}, {"item": "lyqa", "amount": 2}], "research": "xuwa-conveyor", "category": "distribution", "invert": false}

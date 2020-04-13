@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nixony junction", "description": "...", "health": 17, "speed": 5, "capacity": 11, "size": 1, "requirements": [{"item": "nixony", "amount": 3}, {"item": "jizi", "amount": 5}], "research": "nixony-conveyor", "category": "distribution"}

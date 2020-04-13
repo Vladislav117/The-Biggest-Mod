@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bitaba solar panel", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "bitaba", "amount": 3}, {"item": "xylu", "amount": 9}, {"item": "miqomy", "amount": 4}], "research": "bitaba-factory", "powerProduction": 9.654114971689525, "category": "power"}

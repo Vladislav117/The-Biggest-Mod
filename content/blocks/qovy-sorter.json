@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qovy sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "qovy", "amount": 3}, {"item": "xavinium", "amount": 1}], "research": "qovy-conveyor", "category": "distribution", "invert": false}

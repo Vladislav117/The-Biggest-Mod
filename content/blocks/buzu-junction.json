@@ -1,0 +1,1 @@
+{"type": "junction", "name": "buzu junction", "description": "...", "health": 48, "speed": 4, "capacity": 10, "size": 1, "requirements": [{"item": "buzu", "amount": 4}, {"item": "hobunium", "amount": 4}], "research": "buzu-conveyor", "category": "distribution"}

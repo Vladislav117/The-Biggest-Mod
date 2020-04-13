@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bywobu power node", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "bywobu", "amount": 3}, {"item": "nano", "amount": 1}, {"item": "lywu", "amount": 9}], "research": "bywobu-factory", "maxNodes": 13, "laserRange": 24, "category": "power"}

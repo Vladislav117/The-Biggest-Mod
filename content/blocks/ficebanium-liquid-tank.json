@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ficebanium liquid tank", "description": "...", "health": 186, "size": 3, "requirements": [{"item": "ficebanium", "amount": 12}, {"item": "tasusynium", "amount": 1}, {"item": "nigucy", "amount": 2}], "research": "ficebanium-conduit", "category": "liquid", "liquidCapacity": 73014, "hasLiquids": true}

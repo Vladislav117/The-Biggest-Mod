@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ridu sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "ridu", "amount": 5}, {"item": "tiwyna", "amount": 2}], "research": "ridu-conveyor", "category": "distribution", "invert": false}

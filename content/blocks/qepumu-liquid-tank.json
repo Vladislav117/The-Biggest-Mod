@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qepumu liquid tank", "description": "...", "health": 387, "size": 3, "requirements": [{"item": "qepumu", "amount": 2}, {"item": "lynu", "amount": 19}, {"item": "lyxeta", "amount": 1}], "research": "qepumu-conduit", "category": "liquid", "liquidCapacity": 28713, "hasLiquids": true}

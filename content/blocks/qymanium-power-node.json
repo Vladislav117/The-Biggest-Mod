@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qymanium power node", "description": "...", "size": 2, "health": 602, "requirements": [{"item": "qymanium", "amount": 16}, {"item": "qacu", "amount": 6}, {"item": "jonyci", "amount": 7}], "research": "qymanium-factory", "maxNodes": 37, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zoku liquid tank", "description": "...", "health": 392, "size": 3, "requirements": [{"item": "zoku", "amount": 9}, {"item": "wuqosenium", "amount": 15}, {"item": "xyfynium", "amount": 10}], "research": "zoku-conduit", "category": "liquid", "liquidCapacity": 104046, "hasLiquids": true}

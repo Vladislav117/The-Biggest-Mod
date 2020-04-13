@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "taxanium overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "taxanium", "amount": 2}, {"item": "ryzote", "amount": 2}], "research": "taxanium-conveyor", "category": "distribution", "invert": false}

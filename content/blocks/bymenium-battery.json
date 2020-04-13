@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bymenium battery", "description": "...", "size": 3, "health": 239, "requirements": [{"item": "bymenium", "amount": 20}, {"item": "jozu", "amount": 17}, {"item": "moye", "amount": 5}], "research": "bymenium-factory", "consumes": {"powerBuffered": 1927}, "category": "power"}

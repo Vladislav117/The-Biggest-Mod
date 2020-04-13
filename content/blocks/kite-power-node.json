@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kite power node", "description": "...", "size": 2, "health": 674, "requirements": [{"item": "kite", "amount": 2}, {"item": "qoxida", "amount": 8}, {"item": "fikexonium", "amount": 10}], "research": "kite-factory", "maxNodes": 32, "laserRange": 22, "category": "power"}

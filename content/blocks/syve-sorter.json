@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "syve sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "syve", "amount": 4}, {"item": "vocile", "amount": 2}], "research": "syve-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hufu junction", "description": "...", "health": 27, "speed": 17, "capacity": 5, "size": 1, "requirements": [{"item": "hufu", "amount": 1}, {"item": "caho", "amount": 2}], "research": "hufu-conveyor", "category": "distribution"}

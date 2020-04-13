@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gajule junction", "description": "...", "health": 32, "speed": 6, "capacity": 9, "size": 1, "requirements": [{"item": "gajule", "amount": 5}, {"item": "gaxunium", "amount": 1}], "research": "gajule-conveyor", "category": "distribution"}

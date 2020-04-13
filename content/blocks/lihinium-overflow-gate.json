@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lihinium overflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "lihinium", "amount": 1}, {"item": "qexata", "amount": 2}], "research": "lihinium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "helojanium liquid tank", "description": "...", "health": 320, "size": 3, "requirements": [{"item": "helojanium", "amount": 15}, {"item": "kofynium", "amount": 14}, {"item": "daxyse", "amount": 1}], "research": "helojanium-conduit", "category": "liquid", "liquidCapacity": 119844, "hasLiquids": true}

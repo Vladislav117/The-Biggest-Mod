@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sebawi battery", "description": "...", "size": 3, "health": 164, "requirements": [{"item": "sebawi", "amount": 12}, {"item": "vahy", "amount": 19}, {"item": "vudaxy", "amount": 5}], "research": "sebawi-factory", "consumes": {"powerBuffered": 4361}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yujaqe power node", "description": "...", "size": 1, "health": 247, "requirements": [{"item": "yujaqe", "amount": 17}, {"item": "ryte", "amount": 2}, {"item": "xoge", "amount": 10}], "research": "yujaqe-factory", "maxNodes": 4, "laserRange": 24, "category": "power"}

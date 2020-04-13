@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mawanium solar panel", "description": "...", "size": 3, "health": 310, "requirements": [{"item": "mawanium", "amount": 11}, {"item": "gonu", "amount": 17}, {"item": "bybity", "amount": 3}], "research": "mawanium-factory", "powerProduction": 0.019150444756547338, "category": "power"}

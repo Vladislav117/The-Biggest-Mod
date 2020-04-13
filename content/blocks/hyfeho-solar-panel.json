@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hyfeho solar panel", "description": "...", "size": 3, "health": 41, "requirements": [{"item": "hyfeho", "amount": 10}, {"item": "fytuve", "amount": 12}, {"item": "xafi", "amount": 1}], "research": "hyfeho-factory", "powerProduction": 0.23822530264968259, "category": "power"}

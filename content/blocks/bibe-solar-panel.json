@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bibe solar panel", "description": "...", "size": 3, "health": 300, "requirements": [{"item": "bibe", "amount": 20}, {"item": "nulinium", "amount": 10}, {"item": "tizusa", "amount": 5}], "research": "bibe-factory", "powerProduction": 0.7261155148828277, "category": "power"}

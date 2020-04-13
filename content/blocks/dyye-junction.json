@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dyye junction", "description": "...", "health": 34, "speed": 12, "capacity": 8, "size": 1, "requirements": [{"item": "dyye", "amount": 3}, {"item": "mivoky", "amount": 2}], "research": "dyye-conveyor", "category": "distribution"}

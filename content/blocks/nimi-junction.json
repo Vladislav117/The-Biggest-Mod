@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nimi junction", "description": "...", "health": 35, "speed": 9, "capacity": 10, "size": 1, "requirements": [{"item": "nimi", "amount": 3}, {"item": "yixo", "amount": 1}], "research": "nimi-conveyor", "category": "distribution"}

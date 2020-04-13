@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qedydy junction", "description": "...", "health": 28, "speed": 6, "capacity": 7, "size": 1, "requirements": [{"item": "qedydy", "amount": 5}, {"item": "sehopa", "amount": 5}], "research": "qedydy-conveyor", "category": "distribution"}

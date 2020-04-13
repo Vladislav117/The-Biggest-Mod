@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fuma liquid tank", "description": "...", "health": 426, "size": 3, "requirements": [{"item": "fuma", "amount": 18}, {"item": "jugowe", "amount": 1}, {"item": "sygizo", "amount": 10}], "research": "fuma-conduit", "category": "liquid", "liquidCapacity": 78422, "hasLiquids": true}

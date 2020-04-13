@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "koci power node", "description": "...", "size": 2, "health": 706, "requirements": [{"item": "koci", "amount": 14}, {"item": "hasu", "amount": 14}, {"item": "wajese", "amount": 4}], "research": "koci-factory", "maxNodes": 35, "laserRange": 10, "category": "power"}

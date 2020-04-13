@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dige liquid tank", "description": "...", "health": 273, "size": 3, "requirements": [{"item": "dige", "amount": 18}, {"item": "tivy", "amount": 5}, {"item": "tihunium", "amount": 2}], "research": "dige-conduit", "category": "liquid", "liquidCapacity": 84667, "hasLiquids": true}

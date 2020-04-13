@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dagepanium inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "dagepanium", "amount": 4}, {"item": "yoqy", "amount": 5}], "research": "dagepanium-conveyor", "category": "distribution", "invert": true}

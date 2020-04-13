@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nyquto conduit", "description": "...", "health": 111, "requirements": [{"item": "nyquto", "amount": 14}, {"item": "muby", "amount": 8}, {"item": "muhi", "amount": 5}], "liquidCapacity": 15, "liquidPressure": 10, "research": "nyquto-factory", "category": "liquid"}

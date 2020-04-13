@@ -1,0 +1,1 @@
+{"type": "junction", "name": "womisa junction", "description": "...", "health": 19, "speed": 7, "capacity": 7, "size": 1, "requirements": [{"item": "womisa", "amount": 5}, {"item": "graphite", "amount": 2}], "research": "womisa-conveyor", "category": "distribution"}

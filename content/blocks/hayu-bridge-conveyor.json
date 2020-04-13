@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hayu bridge conveyor", "description": "", "health": 7, "range": 2, "speed": 10, "bufferCapacity": 7, "requirements": [{"item": "hayu", "amount": 5}, {"item": "sopage", "amount": 5}], "research": "hayu-conveyor", "category": "distribution", "size": 1}

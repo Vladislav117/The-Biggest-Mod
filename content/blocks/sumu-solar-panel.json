@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sumu solar panel", "description": "...", "size": 3, "health": 78, "requirements": [{"item": "sumu", "amount": 2}, {"item": "vakyxinium", "amount": 20}, {"item": "xuze", "amount": 4}], "research": "sumu-factory", "powerProduction": 0.12897305791050812, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small toma battery", "description": "...", "size": 1, "health": 377, "requirements": [{"item": "toma", "amount": 20}, {"item": "fuho", "amount": 2}, {"item": "syxidonium", "amount": 5}], "research": "toma-factory", "consumes": {"powerBuffered": 2943}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zedunium solar panel", "description": "...", "size": 3, "health": 399, "requirements": [{"item": "zedunium", "amount": 16}, {"item": "kimicy", "amount": 3}, {"item": "yonegi", "amount": 3}], "research": "zedunium-factory", "powerProduction": 1.9857355357401467, "category": "power"}

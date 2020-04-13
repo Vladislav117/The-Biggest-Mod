@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wety battery", "description": "...", "size": 3, "health": 372, "requirements": [{"item": "wety", "amount": 3}, {"item": "rosiqe", "amount": 15}, {"item": "wupa", "amount": 3}], "research": "wety-factory", "consumes": {"powerBuffered": 4508}, "category": "power"}

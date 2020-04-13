@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "temoqi inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "temoqi", "amount": 2}, {"item": "zemy", "amount": 3}], "research": "temoqi-conveyor", "category": "distribution", "invert": true}

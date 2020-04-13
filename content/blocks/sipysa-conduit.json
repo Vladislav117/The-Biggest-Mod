@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sipysa conduit", "description": "...", "health": 121, "requirements": [{"item": "sipysa", "amount": 18}, {"item": "fote", "amount": 6}, {"item": "cucaso", "amount": 5}], "liquidCapacity": 46, "liquidPressure": 6, "research": "sipysa-factory", "category": "liquid"}

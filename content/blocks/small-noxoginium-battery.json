@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small noxoginium battery", "description": "...", "size": 1, "health": 397, "requirements": [{"item": "noxoginium", "amount": 9}, {"item": "duto", "amount": 18}, {"item": "gahy", "amount": 10}], "research": "noxoginium-factory", "consumes": {"powerBuffered": 2337}, "category": "power"}

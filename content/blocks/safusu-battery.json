@@ -1,0 +1,1 @@
+{"type": "battery", "name": "safusu battery", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "safusu", "amount": 7}, {"item": "xinodunium", "amount": 15}, {"item": "femoconium", "amount": 1}], "research": "safusu-factory", "consumes": {"powerBuffered": 6406}, "category": "power"}

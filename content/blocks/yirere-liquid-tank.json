@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yirere liquid tank", "description": "...", "health": 545, "size": 3, "requirements": [{"item": "yirere", "amount": 1}, {"item": "xicyru", "amount": 10}, {"item": "gineta", "amount": 4}], "research": "yirere-conduit", "category": "liquid", "liquidCapacity": 41194, "hasLiquids": true}

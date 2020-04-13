@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dela underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "dela", "amount": 5}, {"item": "zogeno", "amount": 3}], "research": "dela-conveyor", "category": "distribution", "invert": false}

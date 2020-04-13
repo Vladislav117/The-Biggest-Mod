@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jucinium battery", "description": "...", "size": 1, "health": 181, "requirements": [{"item": "jucinium", "amount": 17}, {"item": "peloronium", "amount": 15}, {"item": "labila", "amount": 1}], "research": "jucinium-factory", "consumes": {"powerBuffered": 1703}, "category": "power"}

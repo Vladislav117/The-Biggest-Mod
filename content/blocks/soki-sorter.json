@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "soki sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "soki", "amount": 1}, {"item": "dekeko", "amount": 1}], "research": "soki-conveyor", "category": "distribution", "invert": false}

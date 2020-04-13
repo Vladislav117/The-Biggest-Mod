@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lyxele battery", "description": "...", "size": 3, "health": 237, "requirements": [{"item": "lyxele", "amount": 17}, {"item": "heda", "amount": 12}, {"item": "kipyzonium", "amount": 1}], "research": "lyxele-factory", "consumes": {"powerBuffered": 7759}, "category": "power"}

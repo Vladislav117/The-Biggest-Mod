@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zuvivynium underflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "zuvivynium", "amount": 3}, {"item": "fabese", "amount": 5}], "research": "zuvivynium-conveyor", "category": "distribution", "invert": false}

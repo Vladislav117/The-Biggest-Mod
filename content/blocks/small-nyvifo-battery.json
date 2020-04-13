@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nyvifo battery", "description": "...", "size": 1, "health": 358, "requirements": [{"item": "nyvifo", "amount": 2}, {"item": "byyu", "amount": 13}, {"item": "covikinium", "amount": 4}], "research": "nyvifo-factory", "consumes": {"powerBuffered": 2588}, "category": "power"}

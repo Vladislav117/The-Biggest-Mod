@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "syxy liquid router", "description": "...", "size": 1, "health": 18, "requirements": [{"item": "syxy", "amount": 1}, {"item": "birynium", "amount": 19}, {"item": "mote", "amount": 5}], "research": "syxy-conduit", "liquidCapacity": 10, "category": "liquid"}

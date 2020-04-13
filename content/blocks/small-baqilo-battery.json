@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small baqilo battery", "description": "...", "size": 1, "health": 167, "requirements": [{"item": "baqilo", "amount": 19}, {"item": "jyluba", "amount": 18}, {"item": "lead", "amount": 4}], "research": "baqilo-factory", "consumes": {"powerBuffered": 2209}, "category": "power"}

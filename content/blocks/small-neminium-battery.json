@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small neminium battery", "description": "...", "size": 1, "health": 85, "requirements": [{"item": "neminium", "amount": 11}, {"item": "gujybo", "amount": 12}, {"item": "jizi", "amount": 4}], "research": "neminium-factory", "consumes": {"powerBuffered": 2369}, "category": "power"}

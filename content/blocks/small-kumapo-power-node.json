@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kumapo power node", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "kumapo", "amount": 9}, {"item": "halyqinium", "amount": 13}, {"item": "qeba", "amount": 1}], "research": "kumapo-factory", "maxNodes": 17, "laserRange": 9, "category": "power"}

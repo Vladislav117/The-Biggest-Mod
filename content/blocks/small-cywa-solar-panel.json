@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cywa solar panel", "description": "...", "size": 1, "health": 144, "requirements": [{"item": "cywa", "amount": 16}, {"item": "vezafa", "amount": 17}, {"item": "rycara", "amount": 1}], "research": "cywa-factory", "powerProduction": 1.0441314901955865, "category": "power"}

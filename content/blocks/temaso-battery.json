@@ -1,0 +1,1 @@
+{"type": "battery", "name": "temaso battery", "description": "...", "size": 3, "health": 131, "requirements": [{"item": "temaso", "amount": 13}, {"item": "zemy", "amount": 15}, {"item": "kiza", "amount": 4}], "research": "temaso-factory", "consumes": {"powerBuffered": 1708}, "category": "power"}

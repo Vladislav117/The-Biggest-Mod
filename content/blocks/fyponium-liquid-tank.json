@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyponium liquid tank", "description": "...", "health": 528, "size": 3, "requirements": [{"item": "fyponium", "amount": 18}, {"item": "wupa", "amount": 9}, {"item": "hicy", "amount": 9}], "research": "fyponium-conduit", "category": "liquid", "liquidCapacity": 119730, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "loyomy overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "loyomy", "amount": 1}, {"item": "mopyqu", "amount": 4}], "research": "loyomy-conveyor", "category": "distribution", "invert": false}

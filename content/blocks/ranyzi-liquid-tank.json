@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ranyzi liquid tank", "description": "...", "health": 410, "size": 3, "requirements": [{"item": "ranyzi", "amount": 14}, {"item": "nyma", "amount": 1}, {"item": "fikyyy", "amount": 10}], "research": "ranyzi-conduit", "category": "liquid", "liquidCapacity": 70110, "hasLiquids": true}

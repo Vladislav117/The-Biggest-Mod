@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yyvenium drill", "description": "...", "size": 4, "health": 260, "tier": 1, "drillTime": 16, "consumes": {"power": 3}, "requirements": [{"item": "yyvenium", "amount": 5}, {"item": "faruna", "amount": 6}, {"item": "jafi", "amount": 8}], "research": "yyvenium-factory", "category": "production"}

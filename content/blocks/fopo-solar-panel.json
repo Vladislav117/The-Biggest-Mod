@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fopo solar panel", "description": "...", "size": 3, "health": 304, "requirements": [{"item": "fopo", "amount": 17}, {"item": "faky", "amount": 2}, {"item": "baranium", "amount": 5}], "research": "fopo-factory", "powerProduction": 0.17169569299181023, "category": "power"}

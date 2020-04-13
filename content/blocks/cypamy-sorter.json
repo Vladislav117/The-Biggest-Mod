@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cypamy sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "cypamy", "amount": 1}, {"item": "garoqanium", "amount": 4}], "research": "cypamy-conveyor", "category": "distribution", "invert": false}

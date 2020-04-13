@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cojonium liquid tank", "description": "...", "health": 511, "size": 3, "requirements": [{"item": "cojonium", "amount": 9}, {"item": "dyri", "amount": 10}, {"item": "byveta", "amount": 1}], "research": "cojonium-conduit", "category": "liquid", "liquidCapacity": 102947, "hasLiquids": true}

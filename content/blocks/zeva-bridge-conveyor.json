@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zeva bridge conveyor", "description": "", "health": 4, "range": 7, "speed": 15, "bufferCapacity": 9, "requirements": [{"item": "zeva", "amount": 4}, {"item": "mefymanium", "amount": 4}], "research": "zeva-conveyor", "category": "distribution", "size": 1}

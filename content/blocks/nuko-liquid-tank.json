@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nuko liquid tank", "description": "...", "health": 526, "size": 3, "requirements": [{"item": "nuko", "amount": 12}, {"item": "tuxu", "amount": 18}, {"item": "gineta", "amount": 8}], "research": "nuko-conduit", "category": "liquid", "liquidCapacity": 44531, "hasLiquids": true}

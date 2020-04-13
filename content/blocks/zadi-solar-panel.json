@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zadi solar panel", "description": "...", "size": 3, "health": 47, "requirements": [{"item": "zadi", "amount": 7}, {"item": "ceqo", "amount": 13}, {"item": "byqo", "amount": 2}], "research": "zadi-factory", "powerProduction": 0.5232679862974767, "category": "power"}

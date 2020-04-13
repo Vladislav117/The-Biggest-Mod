@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "syro power node", "description": "...", "size": 2, "health": 180, "requirements": [{"item": "syro", "amount": 19}, {"item": "bapi", "amount": 14}, {"item": "biye", "amount": 6}], "research": "syro-factory", "maxNodes": 20, "laserRange": 9, "category": "power"}

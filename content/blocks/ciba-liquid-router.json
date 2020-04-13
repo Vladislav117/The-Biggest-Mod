@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ciba liquid router", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "ciba", "amount": 14}, {"item": "vyqosi", "amount": 13}, {"item": "vykypanium", "amount": 4}], "research": "ciba-conduit", "liquidCapacity": 10, "category": "liquid"}

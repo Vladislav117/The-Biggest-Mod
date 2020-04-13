@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small finu battery", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "finu", "amount": 5}, {"item": "rafe", "amount": 16}, {"item": "tugu", "amount": 4}], "research": "finu-factory", "consumes": {"powerBuffered": 2152}, "category": "power"}

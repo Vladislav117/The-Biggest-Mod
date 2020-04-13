@@ -1,0 +1,1 @@
+{"type": "junction", "name": "maqufu junction", "description": "...", "health": 28, "speed": 15, "capacity": 12, "size": 1, "requirements": [{"item": "maqufu", "amount": 5}, {"item": "dyme", "amount": 2}], "research": "maqufu-conveyor", "category": "distribution"}

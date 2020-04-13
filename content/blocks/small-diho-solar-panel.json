@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small diho solar panel", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "diho", "amount": 13}, {"item": "zurehy", "amount": 4}, {"item": "fyye", "amount": 8}], "research": "diho-factory", "powerProduction": 4.966908876769027, "category": "power"}

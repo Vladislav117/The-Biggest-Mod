@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wofu liquid tank", "description": "...", "health": 301, "size": 3, "requirements": [{"item": "wofu", "amount": 12}, {"item": "nogocynium", "amount": 19}, {"item": "nedybu", "amount": 10}], "research": "wofu-conduit", "category": "liquid", "liquidCapacity": 61803, "hasLiquids": true}

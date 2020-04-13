@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cygeqy drill", "description": "...", "size": 2, "health": 319, "tier": 1, "drillTime": 1, "consumes": {"power": 7}, "requirements": [{"item": "cygeqy", "amount": 7}, {"item": "kipyzonium", "amount": 3}, {"item": "nepysi", "amount": 10}], "research": "cygeqy-factory", "category": "production"}

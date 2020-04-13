@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qiyatonium bridge conveyor", "description": "", "health": 36, "range": 9, "speed": 2, "bufferCapacity": 8, "requirements": [{"item": "qiyatonium", "amount": 1}, {"item": "vuxi", "amount": 2}], "research": "qiyatonium-conveyor", "category": "distribution", "size": 1}

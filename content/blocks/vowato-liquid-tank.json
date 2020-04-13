@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vowato liquid tank", "description": "...", "health": 479, "size": 3, "requirements": [{"item": "vowato", "amount": 11}, {"item": "pero", "amount": 6}, {"item": "jahezu", "amount": 5}], "research": "vowato-conduit", "category": "liquid", "liquidCapacity": 34614, "hasLiquids": true}

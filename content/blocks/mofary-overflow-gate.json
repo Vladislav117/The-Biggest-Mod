@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mofary overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "mofary", "amount": 2}, {"item": "zadajo", "amount": 1}], "research": "mofary-conveyor", "category": "distribution", "invert": false}

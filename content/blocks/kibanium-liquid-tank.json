@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kibanium liquid tank", "description": "...", "health": 555, "size": 3, "requirements": [{"item": "kibanium", "amount": 18}, {"item": "julo", "amount": 11}, {"item": "tenu", "amount": 4}], "research": "kibanium-conduit", "category": "liquid", "liquidCapacity": 38185, "hasLiquids": true}

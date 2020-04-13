@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kavenium solar panel", "description": "...", "size": 1, "health": 322, "requirements": [{"item": "kavenium", "amount": 17}, {"item": "zazuti", "amount": 20}, {"item": "dimysynium", "amount": 2}], "research": "kavenium-factory", "powerProduction": 1.8797591182629327, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cozuja conduit", "description": "...", "health": 36, "requirements": [{"item": "cozuja", "amount": 5}, {"item": "jomoka", "amount": 8}, {"item": "qimose", "amount": 5}], "liquidCapacity": 28, "liquidPressure": 0, "research": "cozuja-factory", "category": "liquid"}

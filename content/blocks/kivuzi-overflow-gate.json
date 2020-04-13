@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kivuzi overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "kivuzi", "amount": 2}, {"item": "tatupo", "amount": 4}], "research": "kivuzi-conveyor", "category": "distribution", "invert": false}

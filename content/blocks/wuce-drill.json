@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wuce drill", "description": "...", "size": 3, "health": 397, "tier": 2, "drillTime": 19, "consumes": {"power": 3}, "requirements": [{"item": "wuce", "amount": 20}, {"item": "syxy", "amount": 14}, {"item": "tusico", "amount": 9}], "research": "wuce-factory", "category": "production"}

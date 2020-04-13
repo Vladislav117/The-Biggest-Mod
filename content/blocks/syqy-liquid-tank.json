@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "syqy liquid tank", "description": "...", "health": 429, "size": 3, "requirements": [{"item": "syqy", "amount": 3}, {"item": "zesi", "amount": 18}, {"item": "dyzinium", "amount": 3}], "research": "syqy-conduit", "category": "liquid", "liquidCapacity": 106410, "hasLiquids": true}

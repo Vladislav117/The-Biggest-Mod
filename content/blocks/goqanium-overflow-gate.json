@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "goqanium overflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "goqanium", "amount": 5}, {"item": "bilyvanium", "amount": 4}], "research": "goqanium-conveyor", "category": "distribution", "invert": false}

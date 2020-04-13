@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bevy solar panel", "description": "...", "size": 3, "health": 190, "requirements": [{"item": "bevy", "amount": 2}, {"item": "mymynium", "amount": 18}, {"item": "kyxiwi", "amount": 8}], "research": "bevy-factory", "powerProduction": 0.07130359585039027, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yage battery", "description": "...", "size": 3, "health": 276, "requirements": [{"item": "yage", "amount": 14}, {"item": "xapa", "amount": 16}, {"item": "cesewo", "amount": 10}], "research": "yage-factory", "consumes": {"powerBuffered": 8563}, "category": "power"}

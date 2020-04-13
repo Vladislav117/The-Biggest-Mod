@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "garuza force projector", "description": "...", "health": 136, "size": 3, "consumes": {"power": 5.0, "item": "garuza"}, "requirements": [{"item": "garuza", "amount": 15}, {"item": "pylonium", "amount": 8}, {"item": "logy", "amount": 3}], "research": "garuza-factory", "category": "effect"}

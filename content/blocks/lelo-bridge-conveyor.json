@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lelo bridge conveyor", "description": "", "health": 40, "range": 8, "speed": 2, "bufferCapacity": 24, "requirements": [{"item": "lelo", "amount": 3}, {"item": "wyfanium", "amount": 2}], "research": "lelo-conveyor", "category": "distribution", "size": 1}

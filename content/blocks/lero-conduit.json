@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lero conduit", "description": "...", "health": 150, "requirements": [{"item": "lero", "amount": 18}, {"item": "qiga", "amount": 2}, {"item": "qiqole", "amount": 2}], "liquidCapacity": 42, "liquidPressure": 2, "research": "lero-factory", "category": "liquid"}

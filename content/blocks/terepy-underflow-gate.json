@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "terepy underflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "terepy", "amount": 3}, {"item": "pivojunium", "amount": 3}], "research": "terepy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ciginium liquid tank", "description": "...", "health": 203, "size": 3, "requirements": [{"item": "ciginium", "amount": 18}, {"item": "qeka", "amount": 16}, {"item": "cesewo", "amount": 4}], "research": "ciginium-conduit", "category": "liquid", "liquidCapacity": 96439, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kigi conduit", "description": "...", "health": 81, "requirements": [{"item": "kigi", "amount": 4}, {"item": "rohivonium", "amount": 4}, {"item": "saqe", "amount": 5}], "liquidCapacity": 7, "liquidPressure": 6, "research": "kigi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kite conduit", "description": "...", "health": 162, "requirements": [{"item": "kite", "amount": 3}, {"item": "geke", "amount": 15}, {"item": "kuwy", "amount": 7}], "liquidCapacity": 21, "liquidPressure": 7, "research": "kite-factory", "category": "liquid"}

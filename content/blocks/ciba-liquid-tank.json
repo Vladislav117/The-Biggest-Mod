@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ciba liquid tank", "description": "...", "health": 259, "size": 3, "requirements": [{"item": "ciba", "amount": 11}, {"item": "paba", "amount": 11}, {"item": "tuty", "amount": 1}], "research": "ciba-conduit", "category": "liquid", "liquidCapacity": 116488, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yeci solar panel", "description": "...", "size": 1, "health": 336, "requirements": [{"item": "yeci", "amount": 8}, {"item": "roxila", "amount": 18}, {"item": "seca", "amount": 6}], "research": "yeci-factory", "powerProduction": 1.6909477133606605, "category": "power"}

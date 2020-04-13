@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "losenium conduit", "description": "...", "health": 51, "requirements": [{"item": "losenium", "amount": 20}, {"item": "cotyyo", "amount": 7}, {"item": "nupu", "amount": 9}], "liquidCapacity": 12, "liquidPressure": 8, "research": "losenium-factory", "category": "liquid"}

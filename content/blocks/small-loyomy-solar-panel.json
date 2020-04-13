@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small loyomy solar panel", "description": "...", "size": 1, "health": 264, "requirements": [{"item": "loyomy", "amount": 9}, {"item": "qubyzi", "amount": 9}, {"item": "fobinium", "amount": 9}], "research": "loyomy-factory", "powerProduction": 2.1202934155833333, "category": "power"}

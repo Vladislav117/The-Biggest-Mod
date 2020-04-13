@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rohivonium bridge conveyor", "description": "", "health": 6, "range": 3, "speed": 4, "bufferCapacity": 6, "requirements": [{"item": "rohivonium", "amount": 4}, {"item": "nixony", "amount": 2}], "research": "rohivonium-conveyor", "category": "distribution", "size": 1}

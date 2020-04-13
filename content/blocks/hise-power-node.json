@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hise power node", "description": "...", "size": 2, "health": 225, "requirements": [{"item": "hise", "amount": 19}, {"item": "qady", "amount": 17}, {"item": "najy", "amount": 4}], "research": "hise-factory", "maxNodes": 50, "laserRange": 20, "category": "power"}

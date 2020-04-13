@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tupo power node", "description": "...", "size": 1, "health": 362, "requirements": [{"item": "tupo", "amount": 19}, {"item": "heqywanium", "amount": 5}, {"item": "jywupa", "amount": 10}], "research": "tupo-factory", "maxNodes": 6, "laserRange": 20, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vezafa solar panel", "description": "...", "size": 3, "health": 23, "requirements": [{"item": "vezafa", "amount": 20}, {"item": "dyme", "amount": 13}, {"item": "yoxyzo", "amount": 4}], "research": "vezafa-factory", "powerProduction": 0.08668454892004822, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lero drill", "description": "...", "size": 2, "health": 421, "tier": 1, "drillTime": 17, "consumes": {"power": 17}, "requirements": [{"item": "lero", "amount": 19}, {"item": "tofe", "amount": 9}, {"item": "qyha", "amount": 6}], "research": "lero-factory", "category": "production"}

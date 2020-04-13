@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tavuwy overflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "tavuwy", "amount": 2}, {"item": "nuzivo", "amount": 4}], "research": "tavuwy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hyji inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "hyji", "amount": 2}, {"item": "rehodunium", "amount": 5}], "research": "hyji-conveyor", "category": "distribution", "invert": true}

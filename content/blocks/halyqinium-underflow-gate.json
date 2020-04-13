@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "halyqinium underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "halyqinium", "amount": 3}, {"item": "viqamo", "amount": 2}], "research": "halyqinium-conveyor", "category": "distribution", "invert": false}

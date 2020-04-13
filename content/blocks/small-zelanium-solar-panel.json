@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zelanium solar panel", "description": "...", "size": 1, "health": 338, "requirements": [{"item": "zelanium", "amount": 19}, {"item": "yufava", "amount": 1}, {"item": "xepe", "amount": 4}], "research": "zelanium-factory", "powerProduction": 7.198249428174739, "category": "power"}

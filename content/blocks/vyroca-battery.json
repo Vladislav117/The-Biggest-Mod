@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vyroca battery", "description": "...", "size": 3, "health": 255, "requirements": [{"item": "vyroca", "amount": 18}, {"item": "fole", "amount": 16}, {"item": "sopage", "amount": 2}], "research": "vyroca-factory", "consumes": {"powerBuffered": 251}, "category": "power"}

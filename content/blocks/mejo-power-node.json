@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mejo power node", "description": "...", "size": 2, "health": 126, "requirements": [{"item": "mejo", "amount": 10}, {"item": "tepe", "amount": 15}, {"item": "tozokinium", "amount": 2}], "research": "mejo-factory", "maxNodes": 20, "laserRange": 15, "category": "power"}

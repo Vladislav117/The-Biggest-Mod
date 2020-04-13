@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ketanium liquid tank", "description": "...", "health": 360, "size": 3, "requirements": [{"item": "ketanium", "amount": 7}, {"item": "myjeke", "amount": 13}, {"item": "muhi", "amount": 6}], "research": "ketanium-conduit", "category": "liquid", "liquidCapacity": 35849, "hasLiquids": true}

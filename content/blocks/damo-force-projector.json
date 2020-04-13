@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "damo force projector", "description": "...", "health": 202, "size": 3, "consumes": {"power": 5.0, "item": "damo"}, "requirements": [{"item": "damo", "amount": 15}, {"item": "fywynium", "amount": 6}, {"item": "qyfyqunium", "amount": 3}], "research": "damo-factory", "category": "effect"}

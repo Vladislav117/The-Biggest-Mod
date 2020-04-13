@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kudyxe battery", "description": "...", "size": 3, "health": 395, "requirements": [{"item": "kudyxe", "amount": 5}, {"item": "myyave", "amount": 20}, {"item": "kosonium", "amount": 7}], "research": "kudyxe-factory", "consumes": {"powerBuffered": 3359}, "category": "power"}

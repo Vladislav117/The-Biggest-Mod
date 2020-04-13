@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rovu underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "rovu", "amount": 1}, {"item": "qokygi", "amount": 5}], "research": "rovu-conveyor", "category": "distribution", "invert": false}

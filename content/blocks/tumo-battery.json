@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tumo battery", "description": "...", "size": 3, "health": 121, "requirements": [{"item": "tumo", "amount": 18}, {"item": "xufonium", "amount": 16}, {"item": "nekyse", "amount": 9}], "research": "tumo-factory", "consumes": {"powerBuffered": 4275}, "category": "power"}

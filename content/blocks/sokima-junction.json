@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sokima junction", "description": "...", "health": 33, "speed": 19, "capacity": 10, "size": 1, "requirements": [{"item": "sokima", "amount": 2}, {"item": "pomagu", "amount": 4}], "research": "sokima-conveyor", "category": "distribution"}

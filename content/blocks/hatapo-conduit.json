@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hatapo conduit", "description": "...", "health": 66, "requirements": [{"item": "hatapo", "amount": 4}, {"item": "rawynium", "amount": 1}, {"item": "nexojo", "amount": 4}], "liquidCapacity": 24, "liquidPressure": 3, "research": "hatapo-factory", "category": "liquid"}

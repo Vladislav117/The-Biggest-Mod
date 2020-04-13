@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xexumi junction", "description": "...", "health": 3, "speed": 18, "capacity": 11, "size": 1, "requirements": [{"item": "xexumi", "amount": 2}, {"item": "depyya", "amount": 5}], "research": "xexumi-conveyor", "category": "distribution"}

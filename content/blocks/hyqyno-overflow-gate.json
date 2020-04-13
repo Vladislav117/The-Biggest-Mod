@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hyqyno overflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "hyqyno", "amount": 1}, {"item": "huci", "amount": 1}], "research": "hyqyno-conveyor", "category": "distribution", "invert": false}

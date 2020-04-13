@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gihalu battery", "description": "...", "size": 3, "health": 190, "requirements": [{"item": "gihalu", "amount": 2}, {"item": "vunijy", "amount": 18}, {"item": "kecufi", "amount": 4}], "research": "gihalu-factory", "consumes": {"powerBuffered": 9107}, "category": "power"}

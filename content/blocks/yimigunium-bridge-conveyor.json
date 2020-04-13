@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yimigunium bridge conveyor", "description": "", "health": 40, "range": 13, "speed": 19, "bufferCapacity": 24, "requirements": [{"item": "yimigunium", "amount": 4}, {"item": "lisy", "amount": 2}], "research": "yimigunium-conveyor", "category": "distribution", "size": 1}

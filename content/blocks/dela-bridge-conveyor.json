@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dela bridge conveyor", "description": "", "health": 28, "range": 4, "speed": 11, "bufferCapacity": 21, "requirements": [{"item": "dela", "amount": 4}, {"item": "xebu", "amount": 3}], "research": "dela-conveyor", "category": "distribution", "size": 1}

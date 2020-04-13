@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gizely overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "gizely", "amount": 4}, {"item": "jarovu", "amount": 3}], "research": "gizely-conveyor", "category": "distribution", "invert": false}

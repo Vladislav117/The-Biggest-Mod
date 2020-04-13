@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "musonium power node", "description": "...", "size": 2, "health": 416, "requirements": [{"item": "musonium", "amount": 2}, {"item": "vadunium", "amount": 14}, {"item": "muby", "amount": 1}], "research": "musonium-factory", "maxNodes": 11, "laserRange": 6, "category": "power"}

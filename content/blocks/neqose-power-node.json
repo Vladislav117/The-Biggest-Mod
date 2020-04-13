@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "neqose power node", "description": "...", "size": 2, "health": 586, "requirements": [{"item": "neqose", "amount": 12}, {"item": "begerynium", "amount": 10}, {"item": "mutevi", "amount": 5}], "research": "neqose-factory", "maxNodes": 42, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "duwo battery", "description": "...", "size": 3, "health": 148, "requirements": [{"item": "duwo", "amount": 18}, {"item": "huxo", "amount": 16}, {"item": "tebi", "amount": 6}], "research": "duwo-factory", "consumes": {"powerBuffered": 6541}, "category": "power"}

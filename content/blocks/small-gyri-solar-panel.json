@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gyri solar panel", "description": "...", "size": 1, "health": 245, "requirements": [{"item": "gyri", "amount": 5}, {"item": "risa", "amount": 2}, {"item": "zireli", "amount": 10}], "research": "gyri-factory", "powerProduction": 2.6163057443361875, "category": "power"}

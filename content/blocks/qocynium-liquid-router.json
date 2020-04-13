@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qocynium liquid router", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "qocynium", "amount": 12}, {"item": "jaweki", "amount": 9}, {"item": "molikonium", "amount": 1}], "research": "qocynium-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "risa liquid router", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "risa", "amount": 13}, {"item": "zuwonium", "amount": 4}, {"item": "hywinium", "amount": 9}], "research": "risa-conduit", "liquidCapacity": 10, "category": "liquid"}

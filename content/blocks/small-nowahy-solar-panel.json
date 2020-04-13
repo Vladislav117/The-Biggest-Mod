@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nowahy solar panel", "description": "...", "size": 1, "health": 271, "requirements": [{"item": "nowahy", "amount": 17}, {"item": "qolo", "amount": 17}, {"item": "jodezu", "amount": 2}], "research": "nowahy-factory", "powerProduction": 0.5711127076622042, "category": "power"}

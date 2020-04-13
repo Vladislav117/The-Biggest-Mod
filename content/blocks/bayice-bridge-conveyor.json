@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bayice bridge conveyor", "description": "", "health": 17, "range": 19, "speed": 5, "bufferCapacity": 3, "requirements": [{"item": "bayice", "amount": 4}, {"item": "lavi", "amount": 1}], "research": "bayice-conveyor", "category": "distribution", "size": 1}

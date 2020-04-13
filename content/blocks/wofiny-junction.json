@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wofiny junction", "description": "...", "health": 7, "speed": 14, "capacity": 14, "size": 1, "requirements": [{"item": "wofiny", "amount": 1}, {"item": "duhexi", "amount": 1}], "research": "wofiny-conveyor", "category": "distribution"}

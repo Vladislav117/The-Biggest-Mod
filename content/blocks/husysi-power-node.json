@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "husysi power node", "description": "...", "size": 2, "health": 526, "requirements": [{"item": "husysi", "amount": 17}, {"item": "byxyvi", "amount": 11}, {"item": "jayycu", "amount": 3}], "research": "husysi-factory", "maxNodes": 59, "laserRange": 18, "category": "power"}

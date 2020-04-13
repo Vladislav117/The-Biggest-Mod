@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "neni solar panel", "description": "...", "size": 3, "health": 143, "requirements": [{"item": "neni", "amount": 11}, {"item": "nuyo", "amount": 3}, {"item": "kyvanium", "amount": 2}], "research": "neni-factory", "powerProduction": 0.09639439011140374, "category": "power"}

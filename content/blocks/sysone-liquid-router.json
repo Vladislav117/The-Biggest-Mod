@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sysone liquid router", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "sysone", "amount": 3}, {"item": "laxu", "amount": 8}, {"item": "velewo", "amount": 10}], "research": "sysone-conduit", "liquidCapacity": 10, "category": "liquid"}

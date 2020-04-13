@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vaqeca power node", "description": "...", "size": 2, "health": 466, "requirements": [{"item": "vaqeca", "amount": 3}, {"item": "fyqy", "amount": 3}, {"item": "gyza", "amount": 9}], "research": "vaqeca-factory", "maxNodes": 29, "laserRange": 16, "category": "power"}

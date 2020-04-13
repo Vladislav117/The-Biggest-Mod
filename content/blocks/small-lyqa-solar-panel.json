@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lyqa solar panel", "description": "...", "size": 1, "health": 268, "requirements": [{"item": "lyqa", "amount": 3}, {"item": "fexenium", "amount": 6}, {"item": "bomiry", "amount": 4}], "research": "lyqa-factory", "powerProduction": 1.5786119421354894, "category": "power"}

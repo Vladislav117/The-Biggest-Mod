@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pehy liquid tank", "description": "...", "health": 478, "size": 3, "requirements": [{"item": "pehy", "amount": 9}, {"item": "sofowo", "amount": 16}, {"item": "nimawo", "amount": 5}], "research": "pehy-conduit", "category": "liquid", "liquidCapacity": 37258, "hasLiquids": true}

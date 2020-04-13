@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xijinium battery", "description": "...", "size": 1, "health": 164, "requirements": [{"item": "xijinium", "amount": 5}, {"item": "hisa", "amount": 10}, {"item": "sywuze", "amount": 1}], "research": "xijinium-factory", "consumes": {"powerBuffered": 1586}, "category": "power"}

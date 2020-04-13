@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "danava conduit", "description": "...", "health": 123, "requirements": [{"item": "danava", "amount": 1}, {"item": "qera", "amount": 14}, {"item": "gobenium", "amount": 5}], "liquidCapacity": 27, "liquidPressure": 0, "research": "danava-factory", "category": "liquid"}

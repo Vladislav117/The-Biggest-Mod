@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cypi drill", "description": "...", "size": 4, "health": 293, "tier": 3, "drillTime": 8, "consumes": {"power": 3}, "requirements": [{"item": "cypi", "amount": 15}, {"item": "tydeja", "amount": 2}, {"item": "tulotu", "amount": 4}], "research": "cypi-factory", "category": "production"}

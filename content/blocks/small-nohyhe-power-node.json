@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nohyhe power node", "description": "...", "size": 1, "health": 150, "requirements": [{"item": "nohyhe", "amount": 7}, {"item": "bigi", "amount": 16}, {"item": "pygilenium", "amount": 6}], "research": "nohyhe-factory", "maxNodes": 18, "laserRange": 11, "category": "power"}

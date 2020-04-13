@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sesico bridge conveyor", "description": "", "health": 6, "range": 9, "speed": 5, "bufferCapacity": 23, "requirements": [{"item": "sesico", "amount": 2}, {"item": "myyave", "amount": 1}], "research": "sesico-conveyor", "category": "distribution", "size": 1}

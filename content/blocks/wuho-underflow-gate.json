@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wuho underflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "wuho", "amount": 5}, {"item": "kopyto", "amount": 2}], "research": "wuho-conveyor", "category": "distribution", "invert": false}

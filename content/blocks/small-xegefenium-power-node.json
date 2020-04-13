@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xegefenium power node", "description": "...", "size": 1, "health": 205, "requirements": [{"item": "xegefenium", "amount": 17}, {"item": "magu", "amount": 1}, {"item": "yidyxi", "amount": 1}], "research": "xegefenium-factory", "maxNodes": 5, "laserRange": 18, "category": "power"}

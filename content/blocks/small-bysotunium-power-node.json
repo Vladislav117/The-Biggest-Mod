@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bysotunium power node", "description": "...", "size": 1, "health": 137, "requirements": [{"item": "bysotunium", "amount": 7}, {"item": "pocunium", "amount": 6}, {"item": "ruji", "amount": 10}], "research": "bysotunium-factory", "maxNodes": 19, "laserRange": 11, "category": "power"}

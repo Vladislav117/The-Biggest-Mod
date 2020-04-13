@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wohunium liquid tank", "description": "...", "health": 600, "size": 3, "requirements": [{"item": "wohunium", "amount": 18}, {"item": "zyfita", "amount": 6}, {"item": "dowa", "amount": 8}], "research": "wohunium-conduit", "category": "liquid", "liquidCapacity": 48199, "hasLiquids": true}

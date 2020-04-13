@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kide battery", "description": "...", "size": 1, "health": 280, "requirements": [{"item": "kide", "amount": 19}, {"item": "maku", "amount": 14}, {"item": "plastanium", "amount": 1}], "research": "kide-factory", "consumes": {"powerBuffered": 2419}, "category": "power"}

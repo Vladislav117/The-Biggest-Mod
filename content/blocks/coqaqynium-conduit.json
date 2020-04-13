@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "coqaqynium conduit", "description": "...", "health": 91, "requirements": [{"item": "coqaqynium", "amount": 8}, {"item": "qiregynium", "amount": 5}, {"item": "morila", "amount": 8}], "liquidCapacity": 2, "liquidPressure": 3, "research": "coqaqynium-factory", "category": "liquid"}

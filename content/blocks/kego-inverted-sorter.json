@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kego inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "kego", "amount": 1}, {"item": "fakuzo", "amount": 2}], "research": "kego-conveyor", "category": "distribution", "invert": true}

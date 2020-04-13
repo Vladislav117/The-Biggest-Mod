@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mapanium solar panel", "description": "...", "size": 3, "health": 102, "requirements": [{"item": "mapanium", "amount": 6}, {"item": "nuzivo", "amount": 8}, {"item": "qamo", "amount": 2}], "research": "mapanium-factory", "powerProduction": 4.455046500431136, "category": "power"}

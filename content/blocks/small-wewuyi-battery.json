@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wewuyi battery", "description": "...", "size": 1, "health": 354, "requirements": [{"item": "wewuyi", "amount": 9}, {"item": "voje", "amount": 9}, {"item": "dycimi", "amount": 3}], "research": "wewuyi-factory", "consumes": {"powerBuffered": 1754}, "category": "power"}

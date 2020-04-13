@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wadoka conduit", "description": "...", "health": 186, "requirements": [{"item": "wadoka", "amount": 4}, {"item": "mepunium", "amount": 17}, {"item": "qeka", "amount": 9}], "liquidCapacity": 26, "liquidPressure": 0, "research": "wadoka-factory", "category": "liquid"}

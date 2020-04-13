@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "woyu liquid router", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "woyu", "amount": 8}, {"item": "thorium", "amount": 7}, {"item": "bybity", "amount": 6}], "research": "woyu-conduit", "liquidCapacity": 10, "category": "liquid"}

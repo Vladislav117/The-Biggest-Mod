@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "togonium bridge conveyor", "description": "", "health": 41, "range": 18, "speed": 2, "bufferCapacity": 21, "requirements": [{"item": "togonium", "amount": 2}, {"item": "tivu", "amount": 2}], "research": "togonium-conveyor", "category": "distribution", "size": 1}

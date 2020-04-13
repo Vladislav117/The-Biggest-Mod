@@ -1,0 +1,1 @@
+{"type": "junction", "name": "beta junction", "description": "...", "health": 15, "speed": 11, "capacity": 20, "size": 1, "requirements": [{"item": "beta", "amount": 3}, {"item": "nehudo", "amount": 4}], "research": "beta-conveyor", "category": "distribution"}

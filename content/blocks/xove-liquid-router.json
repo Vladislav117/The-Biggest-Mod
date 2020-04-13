@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xove liquid router", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "xove", "amount": 17}, {"item": "gyfi", "amount": 17}, {"item": "hago", "amount": 10}], "research": "xove-conduit", "liquidCapacity": 10, "category": "liquid"}

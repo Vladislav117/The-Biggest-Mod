@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nilara bridge conveyor", "description": "", "health": 28, "range": 9, "speed": 8, "bufferCapacity": 16, "requirements": [{"item": "nilara", "amount": 5}, {"item": "qiseho", "amount": 5}], "research": "nilara-conveyor", "category": "distribution", "size": 1}

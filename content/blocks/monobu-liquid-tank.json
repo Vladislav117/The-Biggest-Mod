@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "monobu liquid tank", "description": "...", "health": 352, "size": 3, "requirements": [{"item": "monobu", "amount": 8}, {"item": "gayika", "amount": 7}, {"item": "minuna", "amount": 3}], "research": "monobu-conduit", "category": "liquid", "liquidCapacity": 31664, "hasLiquids": true}

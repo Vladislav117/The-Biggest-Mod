@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jeviyu liquid tank", "description": "...", "health": 648, "size": 3, "requirements": [{"item": "jeviyu", "amount": 9}, {"item": "wozyju", "amount": 16}, {"item": "butuhi", "amount": 10}], "research": "jeviyu-conduit", "category": "liquid", "liquidCapacity": 102250, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pizi junction", "description": "...", "health": 40, "speed": 20, "capacity": 5, "size": 1, "requirements": [{"item": "pizi", "amount": 5}, {"item": "nifego", "amount": 1}], "research": "pizi-conveyor", "category": "distribution"}

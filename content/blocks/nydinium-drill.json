@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nydinium drill", "description": "...", "size": 2, "health": 414, "tier": 3, "drillTime": 8, "consumes": {"power": 6}, "requirements": [{"item": "nydinium", "amount": 12}, {"item": "syjo", "amount": 6}, {"item": "mutevi", "amount": 1}], "research": "nydinium-factory", "category": "production"}

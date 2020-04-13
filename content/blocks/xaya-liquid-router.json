@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xaya liquid router", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "xaya", "amount": 19}, {"item": "zucanium", "amount": 19}, {"item": "xesu", "amount": 2}], "research": "xaya-conduit", "liquidCapacity": 10, "category": "liquid"}

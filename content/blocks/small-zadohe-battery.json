@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zadohe battery", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "zadohe", "amount": 18}, {"item": "zawyjy", "amount": 13}, {"item": "wafa", "amount": 10}], "research": "zadohe-factory", "consumes": {"powerBuffered": 642}, "category": "power"}

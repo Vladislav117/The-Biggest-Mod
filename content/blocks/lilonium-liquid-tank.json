@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lilonium liquid tank", "description": "...", "health": 481, "size": 3, "requirements": [{"item": "lilonium", "amount": 17}, {"item": "tezila", "amount": 16}, {"item": "cyxibe", "amount": 5}], "research": "lilonium-conduit", "category": "liquid", "liquidCapacity": 34017, "hasLiquids": true}

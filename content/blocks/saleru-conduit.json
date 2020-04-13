@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "saleru conduit", "description": "...", "health": 60, "requirements": [{"item": "saleru", "amount": 16}, {"item": "yucy", "amount": 15}, {"item": "neby", "amount": 4}], "liquidCapacity": 37, "liquidPressure": 5, "research": "saleru-factory", "category": "liquid"}

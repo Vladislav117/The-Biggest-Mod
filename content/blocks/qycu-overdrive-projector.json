@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "qycu overdrive projector", "description": "...", "health": 103, "consumes": {"power": 3.0, "item": "qycu"}, "size": 2, "requirements": [{"item": "qycu", "amount": 5}, {"item": "tozokinium", "amount": 3}, {"item": "tuma", "amount": 9}], "research": "qycu-factory", "category": "effect"}

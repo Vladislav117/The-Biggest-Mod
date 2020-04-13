@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "safe conveyor", "description": "...", "health": 322, "requirements": [{"item": "safe", "amount": 9}, {"item": "lilonium", "amount": 8}], "speed": 0.4331799301893921, "research": "safe-factory", "category": "distribution"}

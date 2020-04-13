@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "susi power node", "description": "...", "size": 2, "health": 594, "requirements": [{"item": "susi", "amount": 7}, {"item": "jyzywy", "amount": 7}, {"item": "jumonium", "amount": 2}], "research": "susi-factory", "maxNodes": 20, "laserRange": 16, "category": "power"}

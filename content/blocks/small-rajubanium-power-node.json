@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rajubanium power node", "description": "...", "size": 1, "health": 305, "requirements": [{"item": "rajubanium", "amount": 2}, {"item": "cavuyi", "amount": 3}, {"item": "haqu", "amount": 4}], "research": "rajubanium-factory", "maxNodes": 27, "laserRange": 14, "category": "power"}

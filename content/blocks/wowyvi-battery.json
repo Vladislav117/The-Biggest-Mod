@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wowyvi battery", "description": "...", "size": 3, "health": 246, "requirements": [{"item": "wowyvi", "amount": 7}, {"item": "jafi", "amount": 5}, {"item": "jetu", "amount": 2}], "research": "wowyvi-factory", "consumes": {"powerBuffered": 9467}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "laqu conduit", "description": "...", "health": 30, "requirements": [{"item": "laqu", "amount": 15}, {"item": "titanium", "amount": 14}, {"item": "yedyte", "amount": 1}], "liquidCapacity": 11, "liquidPressure": 2, "research": "laqu-factory", "category": "liquid"}

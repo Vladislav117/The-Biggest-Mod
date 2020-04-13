@@ -1,0 +1,1 @@
+{"type": "router", "name": "fayenium router", "description": "...", "health": 65, "size": 1, "requirements": [{"item": "fayenium", "amount": 2}], "research": "fayenium-conveyor", "category": "distribution"}

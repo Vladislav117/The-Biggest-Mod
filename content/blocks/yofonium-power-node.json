@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yofonium power node", "description": "...", "size": 2, "health": 695, "requirements": [{"item": "yofonium", "amount": 20}, {"item": "donysenium", "amount": 18}, {"item": "tuty", "amount": 1}], "research": "yofonium-factory", "maxNodes": 56, "laserRange": 11, "category": "power"}

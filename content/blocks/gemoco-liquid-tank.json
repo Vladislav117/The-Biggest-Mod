@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gemoco liquid tank", "description": "...", "health": 185, "size": 3, "requirements": [{"item": "gemoco", "amount": 11}, {"item": "byfa", "amount": 8}, {"item": "nipi", "amount": 7}], "research": "gemoco-conduit", "category": "liquid", "liquidCapacity": 47404, "hasLiquids": true}

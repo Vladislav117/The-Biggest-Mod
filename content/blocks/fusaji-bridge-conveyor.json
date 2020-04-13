@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fusaji bridge conveyor", "description": "", "health": 36, "range": 18, "speed": 17, "bufferCapacity": 2, "requirements": [{"item": "fusaji", "amount": 2}, {"item": "xinodunium", "amount": 3}], "research": "fusaji-conveyor", "category": "distribution", "size": 1}

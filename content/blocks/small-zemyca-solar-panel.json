@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zemyca solar panel", "description": "...", "size": 1, "health": 194, "requirements": [{"item": "zemyca", "amount": 18}, {"item": "hoqade", "amount": 19}, {"item": "lora", "amount": 6}], "research": "zemyca-factory", "powerProduction": 0.2668329745210333, "category": "power"}

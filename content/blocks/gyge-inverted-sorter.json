@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gyge inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "gyge", "amount": 4}, {"item": "yypefa", "amount": 5}], "research": "gyge-conveyor", "category": "distribution", "invert": true}

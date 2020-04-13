@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xifuli inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "xifuli", "amount": 2}, {"item": "bysyqa", "amount": 4}], "research": "xifuli-conveyor", "category": "distribution", "invert": true}

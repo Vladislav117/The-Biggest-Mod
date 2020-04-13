@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yobany power node", "description": "...", "size": 2, "health": 146, "requirements": [{"item": "yobany", "amount": 14}, {"item": "fujunium", "amount": 7}, {"item": "yypunium", "amount": 6}], "research": "yobany-factory", "maxNodes": 10, "laserRange": 21, "category": "power"}

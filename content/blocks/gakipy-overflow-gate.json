@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gakipy overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "gakipy", "amount": 4}, {"item": "kide", "amount": 1}], "research": "gakipy-conveyor", "category": "distribution", "invert": false}

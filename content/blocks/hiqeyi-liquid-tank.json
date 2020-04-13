@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hiqeyi liquid tank", "description": "...", "health": 306, "size": 3, "requirements": [{"item": "hiqeyi", "amount": 1}, {"item": "juwyso", "amount": 13}, {"item": "vurypo", "amount": 9}], "research": "hiqeyi-conduit", "category": "liquid", "liquidCapacity": 41533, "hasLiquids": true}

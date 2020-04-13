@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qasoji liquid router", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "qasoji", "amount": 17}, {"item": "gusiro", "amount": 5}, {"item": "maya", "amount": 8}], "research": "qasoji-conduit", "liquidCapacity": 10, "category": "liquid"}

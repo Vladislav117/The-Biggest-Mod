@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yoli overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "yoli", "amount": 1}, {"item": "cyqunium", "amount": 4}], "research": "yoli-conveyor", "category": "distribution", "invert": false}

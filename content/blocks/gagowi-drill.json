@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gagowi drill", "description": "...", "size": 2, "health": 448, "tier": 2, "drillTime": 13, "consumes": {"power": 2}, "requirements": [{"item": "gagowi", "amount": 19}, {"item": "yupo", "amount": 19}, {"item": "xaqi", "amount": 10}], "research": "gagowi-factory", "category": "production"}

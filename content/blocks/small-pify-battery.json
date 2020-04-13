@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pify battery", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "pify", "amount": 9}, {"item": "luvonium", "amount": 14}, {"item": "pero", "amount": 5}], "research": "pify-factory", "consumes": {"powerBuffered": 2803}, "category": "power"}

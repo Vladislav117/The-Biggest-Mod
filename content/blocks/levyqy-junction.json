@@ -1,0 +1,1 @@
+{"type": "junction", "name": "levyqy junction", "description": "...", "health": 33, "speed": 11, "capacity": 1, "size": 1, "requirements": [{"item": "levyqy", "amount": 2}, {"item": "buro", "amount": 1}], "research": "levyqy-conveyor", "category": "distribution"}

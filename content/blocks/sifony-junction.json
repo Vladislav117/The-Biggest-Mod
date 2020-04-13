@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sifony junction", "description": "...", "health": 15, "speed": 7, "capacity": 19, "size": 1, "requirements": [{"item": "sifony", "amount": 3}, {"item": "wazo", "amount": 4}], "research": "sifony-conveyor", "category": "distribution"}

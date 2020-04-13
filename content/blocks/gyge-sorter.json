@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gyge sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "gyge", "amount": 3}, {"item": "negi", "amount": 4}], "research": "gyge-conveyor", "category": "distribution", "invert": false}

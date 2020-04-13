@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yidugonium battery", "description": "...", "size": 3, "health": 207, "requirements": [{"item": "yidugonium", "amount": 5}, {"item": "rabe", "amount": 11}, {"item": "zivo", "amount": 6}], "research": "yidugonium-factory", "consumes": {"powerBuffered": 5664}, "category": "power"}

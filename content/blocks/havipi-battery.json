@@ -1,0 +1,1 @@
+{"type": "battery", "name": "havipi battery", "description": "...", "size": 3, "health": 10, "requirements": [{"item": "havipi", "amount": 10}, {"item": "gabipi", "amount": 13}, {"item": "nypoky", "amount": 8}], "research": "havipi-factory", "consumes": {"powerBuffered": 4944}, "category": "power"}

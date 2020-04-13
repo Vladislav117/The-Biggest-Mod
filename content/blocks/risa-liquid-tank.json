@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "risa liquid tank", "description": "...", "health": 254, "size": 3, "requirements": [{"item": "risa", "amount": 20}, {"item": "wuxorunium", "amount": 10}, {"item": "niyy", "amount": 10}], "research": "risa-conduit", "category": "liquid", "liquidCapacity": 75919, "hasLiquids": true}

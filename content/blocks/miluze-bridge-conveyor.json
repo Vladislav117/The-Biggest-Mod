@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "miluze bridge conveyor", "description": "", "health": 13, "range": 18, "speed": 14, "bufferCapacity": 22, "requirements": [{"item": "miluze", "amount": 2}, {"item": "pudoki", "amount": 4}], "research": "miluze-conveyor", "category": "distribution", "size": 1}

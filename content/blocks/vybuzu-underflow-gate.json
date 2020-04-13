@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vybuzu underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "vybuzu", "amount": 1}, {"item": "fiva", "amount": 1}], "research": "vybuzu-conveyor", "category": "distribution", "invert": false}

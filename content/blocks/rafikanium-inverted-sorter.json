@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rafikanium inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "rafikanium", "amount": 2}, {"item": "jyreki", "amount": 3}], "research": "rafikanium-conveyor", "category": "distribution", "invert": true}

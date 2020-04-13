@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "geke underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "geke", "amount": 1}, {"item": "cupedi", "amount": 4}], "research": "geke-conveyor", "category": "distribution", "invert": false}

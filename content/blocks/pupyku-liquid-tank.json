@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pupyku liquid tank", "description": "...", "health": 232, "size": 3, "requirements": [{"item": "pupyku", "amount": 3}, {"item": "beronium", "amount": 6}, {"item": "hayy", "amount": 7}], "research": "pupyku-conduit", "category": "liquid", "liquidCapacity": 63468, "hasLiquids": true}

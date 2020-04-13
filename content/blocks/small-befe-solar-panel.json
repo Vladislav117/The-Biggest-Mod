@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small befe solar panel", "description": "...", "size": 1, "health": 370, "requirements": [{"item": "befe", "amount": 11}, {"item": "secybo", "amount": 20}, {"item": "pegycy", "amount": 4}], "research": "befe-factory", "powerProduction": 0.8597436087102124, "category": "power"}

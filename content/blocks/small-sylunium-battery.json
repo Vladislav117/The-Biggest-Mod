@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sylunium battery", "description": "...", "size": 1, "health": 394, "requirements": [{"item": "sylunium", "amount": 14}, {"item": "jaga", "amount": 6}, {"item": "winyjo", "amount": 2}], "research": "sylunium-factory", "consumes": {"powerBuffered": 1724}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tate solar panel", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "tate", "amount": 5}, {"item": "yykole", "amount": 19}, {"item": "hiqeyi", "amount": 7}], "research": "tate-factory", "powerProduction": 1.5625472961089024, "category": "power"}

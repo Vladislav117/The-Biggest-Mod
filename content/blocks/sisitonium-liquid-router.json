@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sisitonium liquid router", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "sisitonium", "amount": 6}, {"item": "jydi", "amount": 17}, {"item": "vini", "amount": 5}], "research": "sisitonium-conduit", "liquidCapacity": 10, "category": "liquid"}

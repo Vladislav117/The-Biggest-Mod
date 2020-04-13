@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jexanium solar panel", "description": "...", "size": 3, "health": 168, "requirements": [{"item": "jexanium", "amount": 17}, {"item": "boqi", "amount": 10}, {"item": "ciyo", "amount": 8}], "research": "jexanium-factory", "powerProduction": 9.260648374753185, "category": "power"}

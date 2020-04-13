@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "koku bridge conveyor", "description": "", "health": 42, "range": 11, "speed": 9, "bufferCapacity": 18, "requirements": [{"item": "koku", "amount": 5}, {"item": "dose", "amount": 2}], "research": "koku-conveyor", "category": "distribution", "size": 1}

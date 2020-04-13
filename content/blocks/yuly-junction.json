@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yuly junction", "description": "...", "health": 24, "speed": 18, "capacity": 3, "size": 1, "requirements": [{"item": "yuly", "amount": 3}, {"item": "gurikinium", "amount": 1}], "research": "yuly-conveyor", "category": "distribution"}

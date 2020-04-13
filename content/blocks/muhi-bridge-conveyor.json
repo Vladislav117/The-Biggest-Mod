@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "muhi bridge conveyor", "description": "", "health": 39, "range": 4, "speed": 17, "bufferCapacity": 17, "requirements": [{"item": "muhi", "amount": 5}, {"item": "haqu", "amount": 2}], "research": "muhi-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "huxe power node", "description": "...", "size": 2, "health": 304, "requirements": [{"item": "huxe", "amount": 9}, {"item": "pazanium", "amount": 3}, {"item": "ryfy", "amount": 3}], "research": "huxe-factory", "maxNodes": 51, "laserRange": 13, "category": "power"}

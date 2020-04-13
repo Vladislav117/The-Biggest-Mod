@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qicuwe junction", "description": "...", "health": 23, "speed": 19, "capacity": 19, "size": 1, "requirements": [{"item": "qicuwe", "amount": 1}, {"item": "xyvenium", "amount": 3}], "research": "qicuwe-conveyor", "category": "distribution"}

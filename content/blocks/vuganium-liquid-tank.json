@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vuganium liquid tank", "description": "...", "health": 610, "size": 3, "requirements": [{"item": "vuganium", "amount": 8}, {"item": "taci", "amount": 20}, {"item": "vycici", "amount": 1}], "research": "vuganium-conduit", "category": "liquid", "liquidCapacity": 79156, "hasLiquids": true}

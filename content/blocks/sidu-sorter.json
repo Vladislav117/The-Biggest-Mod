@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sidu sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "sidu", "amount": 4}, {"item": "hocode", "amount": 4}], "research": "sidu-conveyor", "category": "distribution", "invert": false}

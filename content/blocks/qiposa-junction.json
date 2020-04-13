@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qiposa junction", "description": "...", "health": 45, "speed": 17, "capacity": 9, "size": 1, "requirements": [{"item": "qiposa", "amount": 3}, {"item": "pamyka", "amount": 4}], "research": "qiposa-conveyor", "category": "distribution"}

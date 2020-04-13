@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jugowe liquid router", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "jugowe", "amount": 20}, {"item": "risa", "amount": 13}, {"item": "fixe", "amount": 6}], "research": "jugowe-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "beronium battery", "description": "...", "size": 3, "health": 223, "requirements": [{"item": "beronium", "amount": 18}, {"item": "tatavo", "amount": 18}, {"item": "wadoka", "amount": 2}], "research": "beronium-factory", "consumes": {"powerBuffered": 7033}, "category": "power"}

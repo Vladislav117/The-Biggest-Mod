@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "waby power node", "description": "...", "size": 2, "health": 485, "requirements": [{"item": "waby", "amount": 17}, {"item": "ranoxinium", "amount": 19}, {"item": "haviyunium", "amount": 2}], "research": "waby-factory", "maxNodes": 42, "laserRange": 18, "category": "power"}

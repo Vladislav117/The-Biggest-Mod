@@ -1,0 +1,1 @@
+{"type": "battery", "name": "myvava battery", "description": "...", "size": 3, "health": 202, "requirements": [{"item": "myvava", "amount": 15}, {"item": "lowapo", "amount": 17}, {"item": "monobu", "amount": 1}], "research": "myvava-factory", "consumes": {"powerBuffered": 8352}, "category": "power"}

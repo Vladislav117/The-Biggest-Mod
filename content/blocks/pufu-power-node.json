@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pufu power node", "description": "...", "size": 2, "health": 597, "requirements": [{"item": "pufu", "amount": 1}, {"item": "zoqa", "amount": 3}, {"item": "fuyoja", "amount": 4}], "research": "pufu-factory", "maxNodes": 59, "laserRange": 11, "category": "power"}

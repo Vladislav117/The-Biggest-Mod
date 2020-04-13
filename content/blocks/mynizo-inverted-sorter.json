@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mynizo inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "mynizo", "amount": 4}, {"item": "rega", "amount": 4}], "research": "mynizo-conveyor", "category": "distribution", "invert": true}

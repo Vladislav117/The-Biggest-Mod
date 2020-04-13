@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kide battery", "description": "...", "size": 3, "health": 224, "requirements": [{"item": "kide", "amount": 8}, {"item": "hixu", "amount": 7}, {"item": "hyla", "amount": 8}], "research": "kide-factory", "consumes": {"powerBuffered": 2433}, "category": "power"}

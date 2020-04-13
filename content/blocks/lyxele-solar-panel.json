@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lyxele solar panel", "description": "...", "size": 3, "health": 73, "requirements": [{"item": "lyxele", "amount": 20}, {"item": "sevo", "amount": 7}, {"item": "zelanium", "amount": 4}], "research": "lyxele-factory", "powerProduction": 0.7226088847039455, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "neqose force projector", "description": "...", "health": 134, "size": 3, "consumes": {"power": 5.0, "item": "neqose"}, "requirements": [{"item": "neqose", "amount": 14}, {"item": "boretu", "amount": 10}, {"item": "jumonium", "amount": 6}], "research": "neqose-factory", "category": "effect"}

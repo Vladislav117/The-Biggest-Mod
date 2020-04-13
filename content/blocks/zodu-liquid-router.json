@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zodu liquid router", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "zodu", "amount": 11}, {"item": "noxanium", "amount": 17}, {"item": "zary", "amount": 4}], "research": "zodu-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bijunium conduit", "description": "...", "health": 179, "requirements": [{"item": "bijunium", "amount": 18}, {"item": "jepiti", "amount": 17}, {"item": "zoqa", "amount": 10}], "liquidCapacity": 24, "liquidPressure": 0, "research": "bijunium-factory", "category": "liquid"}

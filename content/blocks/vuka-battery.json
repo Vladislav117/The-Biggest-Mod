@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vuka battery", "description": "...", "size": 3, "health": 368, "requirements": [{"item": "vuka", "amount": 14}, {"item": "movibi", "amount": 4}, {"item": "jyly", "amount": 10}], "research": "vuka-factory", "consumes": {"powerBuffered": 9695}, "category": "power"}

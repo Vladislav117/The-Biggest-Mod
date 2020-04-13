@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "pyrogonium overdrive projector", "description": "...", "health": 115, "consumes": {"power": 3.0, "item": "pyrogonium"}, "size": 2, "requirements": [{"item": "pyrogonium", "amount": 5}, {"item": "dipewanium", "amount": 19}, {"item": "rajela", "amount": 9}], "research": "pyrogonium-factory", "category": "effect"}

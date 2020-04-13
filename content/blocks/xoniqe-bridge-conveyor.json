@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xoniqe bridge conveyor", "description": "", "health": 36, "range": 4, "speed": 4, "bufferCapacity": 8, "requirements": [{"item": "xoniqe", "amount": 4}, {"item": "covaco", "amount": 3}], "research": "xoniqe-conveyor", "category": "distribution", "size": 1}

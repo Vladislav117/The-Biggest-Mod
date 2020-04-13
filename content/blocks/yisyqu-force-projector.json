@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "yisyqu force projector", "description": "...", "health": 196, "size": 3, "consumes": {"power": 5.0, "item": "yisyqu"}, "requirements": [{"item": "yisyqu", "amount": 3}, {"item": "surge-alloy", "amount": 6}, {"item": "beyo", "amount": 3}], "research": "yisyqu-factory", "category": "effect"}

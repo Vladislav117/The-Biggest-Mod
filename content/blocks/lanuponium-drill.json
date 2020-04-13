@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lanuponium drill", "description": "...", "size": 3, "health": 435, "tier": 4, "drillTime": 19, "consumes": {"power": 2}, "requirements": [{"item": "lanuponium", "amount": 13}, {"item": "sapymanium", "amount": 18}, {"item": "giho", "amount": 4}], "research": "lanuponium-factory", "category": "production"}

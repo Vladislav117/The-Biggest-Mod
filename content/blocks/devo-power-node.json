@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "devo power node", "description": "...", "size": 2, "health": 358, "requirements": [{"item": "devo", "amount": 11}, {"item": "wozego", "amount": 10}, {"item": "qivi", "amount": 5}], "research": "devo-factory", "maxNodes": 56, "laserRange": 9, "category": "power"}

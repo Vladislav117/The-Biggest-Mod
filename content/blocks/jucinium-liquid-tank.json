@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jucinium liquid tank", "description": "...", "health": 372, "size": 3, "requirements": [{"item": "jucinium", "amount": 13}, {"item": "tivy", "amount": 1}, {"item": "dyzo", "amount": 2}], "research": "jucinium-conduit", "category": "liquid", "liquidCapacity": 90672, "hasLiquids": true}

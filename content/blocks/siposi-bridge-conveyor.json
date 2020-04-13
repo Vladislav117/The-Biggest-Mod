@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "siposi bridge conveyor", "description": "", "health": 47, "range": 10, "speed": 16, "bufferCapacity": 2, "requirements": [{"item": "siposi", "amount": 2}, {"item": "foze", "amount": 1}], "research": "siposi-conveyor", "category": "distribution", "size": 1}

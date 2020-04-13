@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "genule liquid tank", "description": "...", "health": 579, "size": 3, "requirements": [{"item": "genule", "amount": 3}, {"item": "qatu", "amount": 7}, {"item": "roca", "amount": 2}], "research": "genule-conduit", "category": "liquid", "liquidCapacity": 45970, "hasLiquids": true}

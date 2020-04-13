@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "viwiwinium solar panel", "description": "...", "size": 3, "health": 302, "requirements": [{"item": "viwiwinium", "amount": 1}, {"item": "pypy", "amount": 17}, {"item": "duvadi", "amount": 6}], "research": "viwiwinium-factory", "powerProduction": 0.6823032842324739, "category": "power"}

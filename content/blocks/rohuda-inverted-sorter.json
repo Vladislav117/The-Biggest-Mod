@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rohuda inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "rohuda", "amount": 1}, {"item": "miyaxanium", "amount": 5}], "research": "rohuda-conveyor", "category": "distribution", "invert": true}

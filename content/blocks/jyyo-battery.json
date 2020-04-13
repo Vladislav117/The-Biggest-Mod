@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jyyo battery", "description": "...", "size": 3, "health": 136, "requirements": [{"item": "jyyo", "amount": 10}, {"item": "fyyu", "amount": 8}, {"item": "wavoli", "amount": 3}], "research": "jyyo-factory", "consumes": {"powerBuffered": 6922}, "category": "power"}

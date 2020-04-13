@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rovu junction", "description": "...", "health": 36, "speed": 7, "capacity": 6, "size": 1, "requirements": [{"item": "rovu", "amount": 2}, {"item": "titanium", "amount": 1}], "research": "rovu-conveyor", "category": "distribution"}

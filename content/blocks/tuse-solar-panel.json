@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tuse solar panel", "description": "...", "size": 3, "health": 389, "requirements": [{"item": "tuse", "amount": 17}, {"item": "qiga", "amount": 6}, {"item": "teyigu", "amount": 1}], "research": "tuse-factory", "powerProduction": 0.5908490681304255, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rebifo battery", "description": "...", "size": 1, "health": 365, "requirements": [{"item": "rebifo", "amount": 15}, {"item": "fevu", "amount": 14}, {"item": "ruvudo", "amount": 7}], "research": "rebifo-factory", "consumes": {"powerBuffered": 436}, "category": "power"}

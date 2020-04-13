@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pepu liquid tank", "description": "...", "health": 349, "size": 3, "requirements": [{"item": "pepu", "amount": 20}, {"item": "duto", "amount": 5}, {"item": "sytafe", "amount": 8}], "research": "pepu-conduit", "category": "liquid", "liquidCapacity": 34105, "hasLiquids": true}

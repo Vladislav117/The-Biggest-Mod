@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jide battery", "description": "...", "size": 3, "health": 262, "requirements": [{"item": "jide", "amount": 13}, {"item": "giwasanium", "amount": 17}, {"item": "muhura", "amount": 5}], "research": "jide-factory", "consumes": {"powerBuffered": 2558}, "category": "power"}

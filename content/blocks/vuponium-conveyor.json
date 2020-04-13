@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "vuponium conveyor", "description": "...", "health": 110, "requirements": [{"item": "vuponium", "amount": 5}, {"item": "tulotu", "amount": 9}], "speed": 0.07082943395361574, "research": "vuponium-factory", "category": "distribution"}

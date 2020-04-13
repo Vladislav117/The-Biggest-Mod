@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yidugonium battery", "description": "...", "size": 1, "health": 216, "requirements": [{"item": "yidugonium", "amount": 9}, {"item": "qimose", "amount": 20}, {"item": "xype", "amount": 5}], "research": "yidugonium-factory", "consumes": {"powerBuffered": 1762}, "category": "power"}

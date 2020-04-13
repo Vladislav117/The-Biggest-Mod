@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "netalu inverted sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "netalu", "amount": 3}, {"item": "daryki", "amount": 5}], "research": "netalu-conveyor", "category": "distribution", "invert": true}

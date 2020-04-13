@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "domike liquid tank", "description": "...", "health": 639, "size": 3, "requirements": [{"item": "domike", "amount": 10}, {"item": "rita", "amount": 4}, {"item": "hedi", "amount": 10}], "research": "domike-conduit", "category": "liquid", "liquidCapacity": 12856, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qiyo conduit", "description": "...", "health": 185, "requirements": [{"item": "qiyo", "amount": 7}, {"item": "laho", "amount": 10}, {"item": "dagepanium", "amount": 6}], "liquidCapacity": 45, "liquidPressure": 2, "research": "qiyo-factory", "category": "liquid"}

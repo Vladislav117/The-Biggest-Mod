@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qiyatonium inverted sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "qiyatonium", "amount": 3}, {"item": "tobu", "amount": 1}], "research": "qiyatonium-conveyor", "category": "distribution", "invert": true}

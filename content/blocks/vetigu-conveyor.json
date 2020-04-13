@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "vetigu conveyor", "description": "...", "health": 42, "requirements": [{"item": "vetigu", "amount": 10}, {"item": "koyiwi", "amount": 4}], "speed": 0.07628508759001063, "research": "vetigu-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "judeconium liquid tank", "description": "...", "health": 563, "size": 3, "requirements": [{"item": "judeconium", "amount": 11}, {"item": "kagopy", "amount": 1}, {"item": "lesoxonium", "amount": 4}], "research": "judeconium-conduit", "category": "liquid", "liquidCapacity": 112342, "hasLiquids": true}

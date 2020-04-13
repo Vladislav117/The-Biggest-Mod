@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wepo liquid tank", "description": "...", "health": 267, "size": 3, "requirements": [{"item": "wepo", "amount": 2}, {"item": "wybenium", "amount": 7}, {"item": "saqoxo", "amount": 2}], "research": "wepo-conduit", "category": "liquid", "liquidCapacity": 31289, "hasLiquids": true}

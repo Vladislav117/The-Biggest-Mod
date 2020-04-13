@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "minoxa underflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "minoxa", "amount": 1}, {"item": "ruginium", "amount": 1}], "research": "minoxa-conveyor", "category": "distribution", "invert": false}

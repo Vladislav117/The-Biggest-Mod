@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gona liquid tank", "description": "...", "health": 274, "size": 3, "requirements": [{"item": "gona", "amount": 1}, {"item": "zyqita", "amount": 3}, {"item": "nupu", "amount": 6}], "research": "gona-conduit", "category": "liquid", "liquidCapacity": 13890, "hasLiquids": true}

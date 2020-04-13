@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "furybe drill", "description": "...", "size": 3, "health": 112, "tier": 3, "drillTime": 15, "consumes": {"power": 5}, "requirements": [{"item": "furybe", "amount": 15}, {"item": "caxu", "amount": 5}, {"item": "muqonium", "amount": 7}], "research": "furybe-factory", "category": "production"}

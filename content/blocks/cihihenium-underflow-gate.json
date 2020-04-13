@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cihihenium underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "cihihenium", "amount": 3}, {"item": "mofapu", "amount": 3}], "research": "cihihenium-conveyor", "category": "distribution", "invert": false}

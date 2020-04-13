@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hocona power node", "description": "...", "size": 2, "health": 542, "requirements": [{"item": "hocona", "amount": 10}, {"item": "zori", "amount": 1}, {"item": "jakate", "amount": 6}], "research": "hocona-factory", "maxNodes": 34, "laserRange": 12, "category": "power"}

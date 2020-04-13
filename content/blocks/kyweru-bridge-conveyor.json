@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kyweru bridge conveyor", "description": "", "health": 42, "range": 7, "speed": 12, "bufferCapacity": 21, "requirements": [{"item": "kyweru", "amount": 5}, {"item": "pubado", "amount": 3}], "research": "kyweru-conveyor", "category": "distribution", "size": 1}

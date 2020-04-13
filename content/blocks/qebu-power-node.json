@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qebu power node", "description": "...", "size": 2, "health": 644, "requirements": [{"item": "qebu", "amount": 1}, {"item": "diro", "amount": 14}, {"item": "cyqanium", "amount": 3}], "research": "qebu-factory", "maxNodes": 46, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tiqeti inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "tiqeti", "amount": 3}, {"item": "cabyzo", "amount": 2}], "research": "tiqeti-conveyor", "category": "distribution", "invert": true}

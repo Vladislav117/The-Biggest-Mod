@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tavupi power node", "description": "...", "size": 2, "health": 108, "requirements": [{"item": "tavupi", "amount": 12}, {"item": "qyhocenium", "amount": 15}, {"item": "ryfy", "amount": 1}], "research": "tavupi-factory", "maxNodes": 22, "laserRange": 8, "category": "power"}

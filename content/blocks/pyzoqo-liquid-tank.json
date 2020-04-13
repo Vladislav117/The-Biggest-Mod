@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pyzoqo liquid tank", "description": "...", "health": 363, "size": 3, "requirements": [{"item": "pyzoqo", "amount": 3}, {"item": "deyy", "amount": 10}, {"item": "xuroji", "amount": 1}], "research": "pyzoqo-conduit", "category": "liquid", "liquidCapacity": 116146, "hasLiquids": true}

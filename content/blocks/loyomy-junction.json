@@ -1,0 +1,1 @@
+{"type": "junction", "name": "loyomy junction", "description": "...", "health": 28, "speed": 17, "capacity": 11, "size": 1, "requirements": [{"item": "loyomy", "amount": 4}, {"item": "qiloka", "amount": 5}], "research": "loyomy-conveyor", "category": "distribution"}

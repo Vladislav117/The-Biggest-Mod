@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xawogo battery", "description": "...", "size": 1, "health": 189, "requirements": [{"item": "xawogo", "amount": 9}, {"item": "toti", "amount": 8}, {"item": "yusica", "amount": 5}], "research": "xawogo-factory", "consumes": {"powerBuffered": 780}, "category": "power"}

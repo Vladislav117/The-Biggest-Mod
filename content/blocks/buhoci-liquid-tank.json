@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "buhoci liquid tank", "description": "...", "health": 442, "size": 3, "requirements": [{"item": "buhoci", "amount": 11}, {"item": "pyto", "amount": 7}, {"item": "rosiqe", "amount": 10}], "research": "buhoci-conduit", "category": "liquid", "liquidCapacity": 75058, "hasLiquids": true}

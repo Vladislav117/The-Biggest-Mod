@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nogosy bridge conveyor", "description": "", "health": 36, "range": 16, "speed": 7, "bufferCapacity": 21, "requirements": [{"item": "nogosy", "amount": 1}, {"item": "veco", "amount": 2}], "research": "nogosy-conveyor", "category": "distribution", "size": 1}

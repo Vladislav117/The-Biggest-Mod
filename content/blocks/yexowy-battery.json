@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yexowy battery", "description": "...", "size": 3, "health": 82, "requirements": [{"item": "yexowy", "amount": 7}, {"item": "tezila", "amount": 16}, {"item": "gypunium", "amount": 5}], "research": "yexowy-factory", "consumes": {"powerBuffered": 5183}, "category": "power"}

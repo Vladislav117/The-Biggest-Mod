@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mopyqu overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "mopyqu", "amount": 2}, {"item": "sukanium", "amount": 4}], "research": "mopyqu-conveyor", "category": "distribution", "invert": false}

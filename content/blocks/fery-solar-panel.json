@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fery solar panel", "description": "...", "size": 3, "health": 150, "requirements": [{"item": "fery", "amount": 12}, {"item": "cucaso", "amount": 6}, {"item": "miro", "amount": 2}], "research": "fery-factory", "powerProduction": 0.7087571498367301, "category": "power"}

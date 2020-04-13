@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zemo underflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "zemo", "amount": 2}, {"item": "wana", "amount": 1}], "research": "zemo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ryhi battery", "description": "...", "size": 3, "health": 214, "requirements": [{"item": "ryhi", "amount": 17}, {"item": "xoquge", "amount": 15}, {"item": "gydarynium", "amount": 2}], "research": "ryhi-factory", "consumes": {"powerBuffered": 8968}, "category": "power"}

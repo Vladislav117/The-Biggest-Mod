@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zusi sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "zusi", "amount": 3}, {"item": "yanawa", "amount": 1}], "research": "zusi-conveyor", "category": "distribution", "invert": false}

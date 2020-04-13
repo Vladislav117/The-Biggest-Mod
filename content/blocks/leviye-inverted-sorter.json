@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "leviye inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "leviye", "amount": 4}, {"item": "pomagu", "amount": 1}], "research": "leviye-conveyor", "category": "distribution", "invert": true}

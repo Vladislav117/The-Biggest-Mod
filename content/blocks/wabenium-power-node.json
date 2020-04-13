@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wabenium power node", "description": "...", "size": 2, "health": 732, "requirements": [{"item": "wabenium", "amount": 19}, {"item": "pize", "amount": 14}, {"item": "fufyyu", "amount": 6}], "research": "wabenium-factory", "maxNodes": 41, "laserRange": 5, "category": "power"}

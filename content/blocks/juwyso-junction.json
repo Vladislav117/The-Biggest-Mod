@@ -1,0 +1,1 @@
+{"type": "junction", "name": "juwyso junction", "description": "...", "health": 45, "speed": 15, "capacity": 8, "size": 1, "requirements": [{"item": "juwyso", "amount": 4}, {"item": "nunanunium", "amount": 5}], "research": "juwyso-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "moki underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "moki", "amount": 1}, {"item": "rehodunium", "amount": 1}], "research": "moki-conveyor", "category": "distribution", "invert": false}

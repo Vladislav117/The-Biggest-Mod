@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "juqaqi power node", "description": "...", "size": 2, "health": 58, "requirements": [{"item": "juqaqi", "amount": 20}, {"item": "myvedi", "amount": 9}, {"item": "pyrogonium", "amount": 8}], "research": "juqaqi-factory", "maxNodes": 28, "laserRange": 23, "category": "power"}

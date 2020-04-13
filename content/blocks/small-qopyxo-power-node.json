@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qopyxo power node", "description": "...", "size": 1, "health": 239, "requirements": [{"item": "qopyxo", "amount": 1}, {"item": "xaky", "amount": 7}, {"item": "karu", "amount": 9}], "research": "qopyxo-factory", "maxNodes": 4, "laserRange": 11, "category": "power"}

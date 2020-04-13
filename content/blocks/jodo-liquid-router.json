@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jodo liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "jodo", "amount": 1}, {"item": "juqinium", "amount": 10}, {"item": "soda", "amount": 2}], "research": "jodo-conduit", "liquidCapacity": 10, "category": "liquid"}

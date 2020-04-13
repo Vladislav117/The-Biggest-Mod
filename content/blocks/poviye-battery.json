@@ -1,0 +1,1 @@
+{"type": "battery", "name": "poviye battery", "description": "...", "size": 3, "health": 15, "requirements": [{"item": "poviye", "amount": 17}, {"item": "qupu", "amount": 1}, {"item": "bohexi", "amount": 8}], "research": "poviye-factory", "consumes": {"powerBuffered": 5719}, "category": "power"}

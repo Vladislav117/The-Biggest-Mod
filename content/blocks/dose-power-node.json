@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dose power node", "description": "...", "size": 2, "health": 592, "requirements": [{"item": "dose", "amount": 12}, {"item": "makonium", "amount": 9}, {"item": "hebohy", "amount": 3}], "research": "dose-factory", "maxNodes": 19, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vimynium solar panel", "description": "...", "size": 3, "health": 14, "requirements": [{"item": "vimynium", "amount": 14}, {"item": "mytati", "amount": 19}, {"item": "qubyra", "amount": 10}], "research": "vimynium-factory", "powerProduction": 1.3950808087365354, "category": "power"}

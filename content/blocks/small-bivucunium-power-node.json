@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bivucunium power node", "description": "...", "size": 1, "health": 210, "requirements": [{"item": "bivucunium", "amount": 4}, {"item": "fulyzynium", "amount": 17}, {"item": "giho", "amount": 7}], "research": "bivucunium-factory", "maxNodes": 25, "laserRange": 23, "category": "power"}

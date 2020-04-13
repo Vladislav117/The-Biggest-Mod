@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gohyce battery", "description": "...", "size": 1, "health": 101, "requirements": [{"item": "gohyce", "amount": 18}, {"item": "bufywy", "amount": 14}, {"item": "leqe", "amount": 5}], "research": "gohyce-factory", "consumes": {"powerBuffered": 1004}, "category": "power"}

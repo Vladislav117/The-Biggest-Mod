@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "daziha power node", "description": "...", "size": 2, "health": 324, "requirements": [{"item": "daziha", "amount": 10}, {"item": "ranoxinium", "amount": 4}, {"item": "qokepynium", "amount": 1}], "research": "daziha-factory", "maxNodes": 23, "laserRange": 7, "category": "power"}

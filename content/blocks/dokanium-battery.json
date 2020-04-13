@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dokanium battery", "description": "...", "size": 3, "health": 212, "requirements": [{"item": "dokanium", "amount": 16}, {"item": "byfyge", "amount": 7}, {"item": "patyco", "amount": 9}], "research": "dokanium-factory", "consumes": {"powerBuffered": 1768}, "category": "power"}

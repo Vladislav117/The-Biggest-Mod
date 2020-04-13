@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wypy liquid tank", "description": "...", "health": 145, "size": 3, "requirements": [{"item": "wypy", "amount": 19}, {"item": "gogajy", "amount": 2}, {"item": "qulape", "amount": 8}], "research": "wypy-conduit", "category": "liquid", "liquidCapacity": 1840, "hasLiquids": true}

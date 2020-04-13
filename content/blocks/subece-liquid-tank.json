@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "subece liquid tank", "description": "...", "health": 584, "size": 3, "requirements": [{"item": "subece", "amount": 9}, {"item": "sacy", "amount": 13}, {"item": "wabaru", "amount": 1}], "research": "subece-conduit", "category": "liquid", "liquidCapacity": 20349, "hasLiquids": true}

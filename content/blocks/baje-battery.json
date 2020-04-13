@@ -1,0 +1,1 @@
+{"type": "battery", "name": "baje battery", "description": "...", "size": 3, "health": 167, "requirements": [{"item": "baje", "amount": 15}, {"item": "jiyomonium", "amount": 9}, {"item": "sayo", "amount": 9}], "research": "baje-factory", "consumes": {"powerBuffered": 5767}, "category": "power"}

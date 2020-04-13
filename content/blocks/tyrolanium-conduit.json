@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tyrolanium conduit", "description": "...", "health": 155, "requirements": [{"item": "tyrolanium", "amount": 20}, {"item": "xuwa", "amount": 16}, {"item": "fypanium", "amount": 1}], "liquidCapacity": 30, "liquidPressure": 3, "research": "tyrolanium-factory", "category": "liquid"}

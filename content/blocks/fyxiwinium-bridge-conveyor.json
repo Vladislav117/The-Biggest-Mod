@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fyxiwinium bridge conveyor", "description": "", "health": 22, "range": 19, "speed": 8, "bufferCapacity": 19, "requirements": [{"item": "fyxiwinium", "amount": 4}, {"item": "loqy", "amount": 3}], "research": "fyxiwinium-conveyor", "category": "distribution", "size": 1}

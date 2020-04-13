@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wupera conduit", "description": "...", "health": 134, "requirements": [{"item": "wupera", "amount": 6}, {"item": "fygunium", "amount": 4}, {"item": "kegiqi", "amount": 5}], "liquidCapacity": 30, "liquidPressure": 1, "research": "wupera-factory", "category": "liquid"}

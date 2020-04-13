@@ -1,0 +1,1 @@
+{"type": "junction", "name": "geno junction", "description": "...", "health": 17, "speed": 6, "capacity": 4, "size": 1, "requirements": [{"item": "geno", "amount": 4}, {"item": "jypi", "amount": 1}], "research": "geno-conveyor", "category": "distribution"}

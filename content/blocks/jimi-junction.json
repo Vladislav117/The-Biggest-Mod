@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jimi junction", "description": "...", "health": 42, "speed": 20, "capacity": 15, "size": 1, "requirements": [{"item": "jimi", "amount": 1}, {"item": "vevudinium", "amount": 2}], "research": "jimi-conveyor", "category": "distribution"}

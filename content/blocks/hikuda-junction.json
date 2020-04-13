@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hikuda junction", "description": "...", "health": 35, "speed": 3, "capacity": 15, "size": 1, "requirements": [{"item": "hikuda", "amount": 4}, {"item": "sywuze", "amount": 1}], "research": "hikuda-conveyor", "category": "distribution"}

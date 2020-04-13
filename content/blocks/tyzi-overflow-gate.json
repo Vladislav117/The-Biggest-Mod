@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tyzi overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "tyzi", "amount": 5}, {"item": "pusu", "amount": 5}], "research": "tyzi-conveyor", "category": "distribution", "invert": false}

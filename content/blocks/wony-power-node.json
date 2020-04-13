@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wony power node", "description": "...", "size": 2, "health": 58, "requirements": [{"item": "wony", "amount": 9}, {"item": "pino", "amount": 1}, {"item": "kudanium", "amount": 10}], "research": "wony-factory", "maxNodes": 20, "laserRange": 21, "category": "power"}

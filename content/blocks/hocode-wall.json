@@ -1,0 +1,1 @@
+{"type": "Wall", "name": "hocode wall", "description": "...", "health": 1000, "size": 2, "requirements": [{"item": "hocode", "amount": 22}], "research": "hocode-factory", "category": "defense"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vova liquid tank", "description": "...", "health": 140, "size": 3, "requirements": [{"item": "vova", "amount": 15}, {"item": "zide", "amount": 7}, {"item": "coxufe", "amount": 6}], "research": "vova-conduit", "category": "liquid", "liquidCapacity": 68765, "hasLiquids": true}

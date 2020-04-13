@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small roky power node", "description": "...", "size": 1, "health": 116, "requirements": [{"item": "roky", "amount": 11}, {"item": "fikexonium", "amount": 14}, {"item": "nytu", "amount": 1}], "research": "roky-factory", "maxNodes": 29, "laserRange": 25, "category": "power"}

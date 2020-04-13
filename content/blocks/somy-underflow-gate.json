@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "somy underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "somy", "amount": 1}, {"item": "wylobo", "amount": 1}], "research": "somy-conveyor", "category": "distribution", "invert": false}

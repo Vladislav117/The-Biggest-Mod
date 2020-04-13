@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "valabi liquid tank", "description": "...", "health": 461, "size": 3, "requirements": [{"item": "valabi", "amount": 6}, {"item": "jygowu", "amount": 7}, {"item": "miqomy", "amount": 6}], "research": "valabi-conduit", "category": "liquid", "liquidCapacity": 24696, "hasLiquids": true}

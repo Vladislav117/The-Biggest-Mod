@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pubanium solar panel", "description": "...", "size": 3, "health": 334, "requirements": [{"item": "pubanium", "amount": 14}, {"item": "fyvuyy", "amount": 15}, {"item": "wupira", "amount": 1}], "research": "pubanium-factory", "powerProduction": 0.1643226147366252, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tasanium power node", "description": "...", "size": 2, "health": 637, "requirements": [{"item": "tasanium", "amount": 1}, {"item": "porafa", "amount": 20}, {"item": "tisanium", "amount": 9}], "research": "tasanium-factory", "maxNodes": 41, "laserRange": 28, "category": "power"}

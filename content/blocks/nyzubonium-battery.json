@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nyzubonium battery", "description": "...", "size": 3, "health": 381, "requirements": [{"item": "nyzubonium", "amount": 20}, {"item": "heruru", "amount": 13}, {"item": "mafihy", "amount": 7}], "research": "nyzubonium-factory", "consumes": {"powerBuffered": 6556}, "category": "power"}

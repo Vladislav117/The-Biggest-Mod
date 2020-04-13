@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "heqywanium liquid tank", "description": "...", "health": 248, "size": 3, "requirements": [{"item": "heqywanium", "amount": 18}, {"item": "lead", "amount": 2}, {"item": "thorium", "amount": 4}], "research": "heqywanium-conduit", "category": "liquid", "liquidCapacity": 50623, "hasLiquids": true}

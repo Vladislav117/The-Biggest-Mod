@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fipa solar panel", "description": "...", "size": 3, "health": 244, "requirements": [{"item": "fipa", "amount": 19}, {"item": "mumu", "amount": 5}, {"item": "sulu", "amount": 8}], "research": "fipa-factory", "powerProduction": 5.9758629903486415, "category": "power"}

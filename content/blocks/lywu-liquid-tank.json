@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lywu liquid tank", "description": "...", "health": 230, "size": 3, "requirements": [{"item": "lywu", "amount": 17}, {"item": "zurehy", "amount": 2}, {"item": "toyynium", "amount": 10}], "research": "lywu-conduit", "category": "liquid", "liquidCapacity": 45585, "hasLiquids": true}

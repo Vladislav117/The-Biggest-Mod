@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "surinium bridge conveyor", "description": "", "health": 19, "range": 4, "speed": 8, "bufferCapacity": 12, "requirements": [{"item": "surinium", "amount": 3}, {"item": "zedo", "amount": 4}], "research": "surinium-conveyor", "category": "distribution", "size": 1}

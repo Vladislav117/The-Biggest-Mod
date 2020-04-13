@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pufu liquid router", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "pufu", "amount": 18}, {"item": "feyyqe", "amount": 5}, {"item": "hekika", "amount": 4}], "research": "pufu-conduit", "liquidCapacity": 10, "category": "liquid"}

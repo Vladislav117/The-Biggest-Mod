@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fupupy power node", "description": "...", "size": 2, "health": 417, "requirements": [{"item": "fupupy", "amount": 13}, {"item": "gokiyi", "amount": 17}, {"item": "qigiki", "amount": 1}], "research": "fupupy-factory", "maxNodes": 50, "laserRange": 11, "category": "power"}

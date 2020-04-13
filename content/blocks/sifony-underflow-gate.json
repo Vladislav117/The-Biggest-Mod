@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sifony underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "sifony", "amount": 2}, {"item": "puho", "amount": 5}], "research": "sifony-conveyor", "category": "distribution", "invert": false}

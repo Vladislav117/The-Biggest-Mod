@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small homu solar panel", "description": "...", "size": 1, "health": 343, "requirements": [{"item": "homu", "amount": 11}, {"item": "ruwucynium", "amount": 3}, {"item": "byfa", "amount": 4}], "research": "homu-factory", "powerProduction": 0.05565024459701285, "category": "power"}

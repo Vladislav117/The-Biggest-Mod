@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gujybo solar panel", "description": "...", "size": 3, "health": 49, "requirements": [{"item": "gujybo", "amount": 13}, {"item": "dojove", "amount": 4}, {"item": "kyqu", "amount": 9}], "research": "gujybo-factory", "powerProduction": 0.01611955117578093, "category": "power"}

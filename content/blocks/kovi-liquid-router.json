@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kovi liquid router", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "kovi", "amount": 14}, {"item": "qobu", "amount": 1}, {"item": "rudy", "amount": 1}], "research": "kovi-conduit", "liquidCapacity": 10, "category": "liquid"}

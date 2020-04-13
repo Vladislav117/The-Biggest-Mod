@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fisa overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "fisa", "amount": 4}, {"item": "tole", "amount": 3}], "research": "fisa-conveyor", "category": "distribution", "invert": false}

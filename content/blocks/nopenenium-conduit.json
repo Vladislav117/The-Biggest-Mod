@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nopenenium conduit", "description": "...", "health": 42, "requirements": [{"item": "nopenenium", "amount": 3}, {"item": "qiqe", "amount": 2}, {"item": "zexi", "amount": 9}], "liquidCapacity": 12, "liquidPressure": 3, "research": "nopenenium-factory", "category": "liquid"}

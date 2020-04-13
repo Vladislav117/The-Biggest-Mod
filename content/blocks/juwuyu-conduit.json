@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "juwuyu conduit", "description": "...", "health": 64, "requirements": [{"item": "juwuyu", "amount": 8}, {"item": "tuwe", "amount": 9}, {"item": "makajo", "amount": 4}], "liquidCapacity": 3, "liquidPressure": 7, "research": "juwuyu-factory", "category": "liquid"}

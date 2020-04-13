@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "togygi drill", "description": "...", "size": 2, "health": 391, "tier": 4, "drillTime": 18, "consumes": {"power": 8}, "requirements": [{"item": "togygi", "amount": 10}, {"item": "hiwenium", "amount": 14}, {"item": "cymaca", "amount": 7}], "research": "togygi-factory", "category": "production"}

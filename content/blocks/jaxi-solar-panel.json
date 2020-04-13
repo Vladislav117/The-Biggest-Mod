@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jaxi solar panel", "description": "...", "size": 3, "health": 312, "requirements": [{"item": "jaxi", "amount": 10}, {"item": "zuxygo", "amount": 17}, {"item": "zeyeqi", "amount": 6}], "research": "jaxi-factory", "powerProduction": 1.5914573685718885, "category": "power"}

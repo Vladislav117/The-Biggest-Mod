@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ruginium sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "ruginium", "amount": 4}, {"item": "jayaye", "amount": 4}], "research": "ruginium-conveyor", "category": "distribution", "invert": false}

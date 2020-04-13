@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zelanium liquid tank", "description": "...", "health": 209, "size": 3, "requirements": [{"item": "zelanium", "amount": 9}, {"item": "mygyyy", "amount": 9}, {"item": "muti", "amount": 9}], "research": "zelanium-conduit", "category": "liquid", "liquidCapacity": 15567, "hasLiquids": true}

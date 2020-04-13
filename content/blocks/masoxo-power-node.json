@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "masoxo power node", "description": "...", "size": 2, "health": 647, "requirements": [{"item": "masoxo", "amount": 7}, {"item": "kecufi", "amount": 2}, {"item": "duhexi", "amount": 1}], "research": "masoxo-factory", "maxNodes": 13, "laserRange": 23, "category": "power"}

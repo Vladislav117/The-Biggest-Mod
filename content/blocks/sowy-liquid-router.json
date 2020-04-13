@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sowy liquid router", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "sowy", "amount": 20}, {"item": "zorudy", "amount": 20}, {"item": "fezadunium", "amount": 7}], "research": "sowy-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small haxi battery", "description": "...", "size": 1, "health": 284, "requirements": [{"item": "haxi", "amount": 6}, {"item": "pufere", "amount": 12}, {"item": "zoju", "amount": 5}], "research": "haxi-factory", "consumes": {"powerBuffered": 2211}, "category": "power"}

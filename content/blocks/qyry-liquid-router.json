@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qyry liquid router", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "qyry", "amount": 2}, {"item": "butuhi", "amount": 16}, {"item": "bapi", "amount": 4}], "research": "qyry-conduit", "liquidCapacity": 10, "category": "liquid"}

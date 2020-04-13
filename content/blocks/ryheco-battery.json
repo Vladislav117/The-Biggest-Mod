@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ryheco battery", "description": "...", "size": 3, "health": 93, "requirements": [{"item": "ryheco", "amount": 3}, {"item": "sovuqu", "amount": 13}, {"item": "tufi", "amount": 7}], "research": "ryheco-factory", "consumes": {"powerBuffered": 1398}, "category": "power"}

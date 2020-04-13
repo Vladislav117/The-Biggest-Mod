@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sipi battery", "description": "...", "size": 3, "health": 255, "requirements": [{"item": "sipi", "amount": 12}, {"item": "vabenium", "amount": 13}, {"item": "zafuqo", "amount": 5}], "research": "sipi-factory", "consumes": {"powerBuffered": 2781}, "category": "power"}

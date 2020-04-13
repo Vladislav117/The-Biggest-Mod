@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bybo liquid tank", "description": "...", "health": 307, "size": 3, "requirements": [{"item": "bybo", "amount": 1}, {"item": "focewu", "amount": 4}, {"item": "xugo", "amount": 10}], "research": "bybo-conduit", "category": "liquid", "liquidCapacity": 55064, "hasLiquids": true}

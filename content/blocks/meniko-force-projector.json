@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "meniko force projector", "description": "...", "health": 163, "size": 3, "consumes": {"power": 5.0, "item": "meniko"}, "requirements": [{"item": "meniko", "amount": 2}, {"item": "cozaxo", "amount": 13}, {"item": "sice", "amount": 6}], "research": "meniko-factory", "category": "effect"}

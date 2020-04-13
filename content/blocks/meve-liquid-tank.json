@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "meve liquid tank", "description": "...", "health": 318, "size": 3, "requirements": [{"item": "meve", "amount": 13}, {"item": "nyvifo", "amount": 2}, {"item": "tetivy", "amount": 1}], "research": "meve-conduit", "category": "liquid", "liquidCapacity": 50681, "hasLiquids": true}

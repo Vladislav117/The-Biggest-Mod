@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pyvunium sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "pyvunium", "amount": 5}, {"item": "pemo", "amount": 3}], "research": "pyvunium-conveyor", "category": "distribution", "invert": false}

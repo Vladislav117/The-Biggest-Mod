@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gonehy junction", "description": "...", "health": 3, "speed": 6, "capacity": 15, "size": 1, "requirements": [{"item": "gonehy", "amount": 2}, {"item": "baqilo", "amount": 2}], "research": "gonehy-conveyor", "category": "distribution"}

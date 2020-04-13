@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wizacy liquid tank", "description": "...", "health": 495, "size": 3, "requirements": [{"item": "wizacy", "amount": 17}, {"item": "xivi", "amount": 18}, {"item": "rymojanium", "amount": 8}], "research": "wizacy-conduit", "category": "liquid", "liquidCapacity": 61537, "hasLiquids": true}

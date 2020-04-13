@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rebanium solar panel", "description": "...", "size": 3, "health": 258, "requirements": [{"item": "rebanium", "amount": 16}, {"item": "qasysi", "amount": 18}, {"item": "vuxi", "amount": 2}], "research": "rebanium-factory", "powerProduction": 0.06792222596556408, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dora junction", "description": "...", "health": 50, "speed": 17, "capacity": 2, "size": 1, "requirements": [{"item": "dora", "amount": 4}, {"item": "sekele", "amount": 1}], "research": "dora-conveyor", "category": "distribution"}

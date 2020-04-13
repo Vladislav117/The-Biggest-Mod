@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "piqori liquid tank", "description": "...", "health": 341, "size": 3, "requirements": [{"item": "piqori", "amount": 7}, {"item": "pavanium", "amount": 7}, {"item": "cupedi", "amount": 7}], "research": "piqori-conduit", "category": "liquid", "liquidCapacity": 71291, "hasLiquids": true}

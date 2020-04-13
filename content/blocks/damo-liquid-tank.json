@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "damo liquid tank", "description": "...", "health": 140, "size": 3, "requirements": [{"item": "damo", "amount": 8}, {"item": "jyka", "amount": 6}, {"item": "kudyxe", "amount": 6}], "research": "damo-conduit", "category": "liquid", "liquidCapacity": 23725, "hasLiquids": true}

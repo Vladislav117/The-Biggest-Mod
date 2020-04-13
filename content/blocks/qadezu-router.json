@@ -1,0 +1,1 @@
+{"type": "router", "name": "qadezu router", "description": "...", "health": 200, "size": 1, "requirements": [{"item": "qadezu", "amount": 3}], "research": "qadezu-conveyor", "category": "distribution"}

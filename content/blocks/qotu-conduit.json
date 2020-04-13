@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qotu conduit", "description": "...", "health": 33, "requirements": [{"item": "qotu", "amount": 8}, {"item": "yegy", "amount": 10}, {"item": "gyyy", "amount": 2}], "liquidCapacity": 36, "liquidPressure": 1, "research": "qotu-factory", "category": "liquid"}

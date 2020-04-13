@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qiqo power node", "description": "...", "size": 2, "health": 736, "requirements": [{"item": "qiqo", "amount": 5}, {"item": "gypupe", "amount": 1}, {"item": "wypy", "amount": 9}], "research": "qiqo-factory", "maxNodes": 50, "laserRange": 25, "category": "power"}

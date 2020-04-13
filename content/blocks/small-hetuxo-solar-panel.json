@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hetuxo solar panel", "description": "...", "size": 1, "health": 135, "requirements": [{"item": "hetuxo", "amount": 4}, {"item": "neby", "amount": 13}, {"item": "wajese", "amount": 3}], "research": "hetuxo-factory", "powerProduction": 2.6869935200074866, "category": "power"}

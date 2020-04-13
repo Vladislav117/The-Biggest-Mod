@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tyrolanium liquid tank", "description": "...", "health": 185, "size": 3, "requirements": [{"item": "tyrolanium", "amount": 8}, {"item": "kacoju", "amount": 3}, {"item": "zumi", "amount": 3}], "research": "tyrolanium-conduit", "category": "liquid", "liquidCapacity": 111691, "hasLiquids": true}

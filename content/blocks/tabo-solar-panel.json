@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tabo solar panel", "description": "...", "size": 3, "health": 330, "requirements": [{"item": "tabo", "amount": 7}, {"item": "yoqy", "amount": 6}, {"item": "wadoka", "amount": 9}], "research": "tabo-factory", "powerProduction": 0.27272278768310343, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rahonium liquid tank", "description": "...", "health": 498, "size": 3, "requirements": [{"item": "rahonium", "amount": 4}, {"item": "yuly", "amount": 19}, {"item": "vapa", "amount": 6}], "research": "rahonium-conduit", "category": "liquid", "liquidCapacity": 77123, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qele junction", "description": "...", "health": 40, "speed": 5, "capacity": 9, "size": 1, "requirements": [{"item": "qele", "amount": 1}, {"item": "dune", "amount": 5}], "research": "qele-conveyor", "category": "distribution"}

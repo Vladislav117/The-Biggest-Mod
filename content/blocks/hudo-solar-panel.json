@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hudo solar panel", "description": "...", "size": 3, "health": 208, "requirements": [{"item": "hudo", "amount": 11}, {"item": "dihomu", "amount": 18}, {"item": "tiwyna", "amount": 9}], "research": "hudo-factory", "powerProduction": 0.05249132453224237, "category": "power"}

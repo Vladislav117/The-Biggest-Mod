@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "liryfa solar panel", "description": "...", "size": 3, "health": 204, "requirements": [{"item": "liryfa", "amount": 20}, {"item": "fuho", "amount": 3}, {"item": "docyya", "amount": 10}], "research": "liryfa-factory", "powerProduction": 4.87188657494272, "category": "power"}

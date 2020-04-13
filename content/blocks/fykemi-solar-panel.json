@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fykemi solar panel", "description": "...", "size": 3, "health": 287, "requirements": [{"item": "fykemi", "amount": 12}, {"item": "naku", "amount": 5}, {"item": "siqefo", "amount": 1}], "research": "fykemi-factory", "powerProduction": 0.3146085759165583, "category": "power"}

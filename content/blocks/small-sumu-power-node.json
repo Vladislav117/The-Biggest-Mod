@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sumu power node", "description": "...", "size": 1, "health": 248, "requirements": [{"item": "sumu", "amount": 13}, {"item": "thorium", "amount": 6}, {"item": "vego", "amount": 10}], "research": "sumu-factory", "maxNodes": 5, "laserRange": 15, "category": "power"}

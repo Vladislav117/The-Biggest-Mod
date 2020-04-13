@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "leguny drill", "description": "...", "size": 2, "health": 384, "tier": 1, "drillTime": 16, "consumes": {"power": 8}, "requirements": [{"item": "leguny", "amount": 17}, {"item": "hyxinium", "amount": 12}, {"item": "lyruvanium", "amount": 1}], "research": "leguny-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "miyaxanium liquid tank", "description": "...", "health": 178, "size": 3, "requirements": [{"item": "miyaxanium", "amount": 10}, {"item": "qyryyunium", "amount": 20}, {"item": "yyko", "amount": 1}], "research": "miyaxanium-conduit", "category": "liquid", "liquidCapacity": 20175, "hasLiquids": true}

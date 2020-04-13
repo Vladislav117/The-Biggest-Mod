@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dutohu liquid tank", "description": "...", "health": 564, "size": 3, "requirements": [{"item": "dutohu", "amount": 9}, {"item": "noxoginium", "amount": 1}, {"item": "cokyro", "amount": 6}], "research": "dutohu-conduit", "category": "liquid", "liquidCapacity": 76795, "hasLiquids": true}

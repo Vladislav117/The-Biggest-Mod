@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nydinenium sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "nydinenium", "amount": 4}, {"item": "cuda", "amount": 4}], "research": "nydinenium-conveyor", "category": "distribution", "invert": false}

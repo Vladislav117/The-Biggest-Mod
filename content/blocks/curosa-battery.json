@@ -1,0 +1,1 @@
+{"type": "battery", "name": "curosa battery", "description": "...", "size": 3, "health": 284, "requirements": [{"item": "curosa", "amount": 3}, {"item": "zypiqi", "amount": 18}, {"item": "qowepa", "amount": 2}], "research": "curosa-factory", "consumes": {"powerBuffered": 2929}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dokanium sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "dokanium", "amount": 3}, {"item": "puzybo", "amount": 4}], "research": "dokanium-conveyor", "category": "distribution", "invert": false}

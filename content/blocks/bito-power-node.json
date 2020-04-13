@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bito power node", "description": "...", "size": 2, "health": 735, "requirements": [{"item": "bito", "amount": 7}, {"item": "wiqe", "amount": 12}, {"item": "buzu", "amount": 4}], "research": "bito-factory", "maxNodes": 45, "laserRange": 20, "category": "power"}

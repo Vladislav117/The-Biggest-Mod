@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yejicunium underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "yejicunium", "amount": 5}, {"item": "cigifi", "amount": 3}], "research": "yejicunium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "syxija junction", "description": "...", "health": 49, "speed": 13, "capacity": 13, "size": 1, "requirements": [{"item": "syxija", "amount": 3}, {"item": "life", "amount": 5}], "research": "syxija-conveyor", "category": "distribution"}

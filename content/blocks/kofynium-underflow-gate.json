@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kofynium underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "kofynium", "amount": 5}, {"item": "kiredi", "amount": 5}], "research": "kofynium-conveyor", "category": "distribution", "invert": false}

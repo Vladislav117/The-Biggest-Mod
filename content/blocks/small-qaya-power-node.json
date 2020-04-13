@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qaya power node", "description": "...", "size": 1, "health": 349, "requirements": [{"item": "qaya", "amount": 14}, {"item": "puzi", "amount": 20}, {"item": "xafi", "amount": 1}], "research": "qaya-factory", "maxNodes": 29, "laserRange": 17, "category": "power"}

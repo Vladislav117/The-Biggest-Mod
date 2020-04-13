@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "finu power node", "description": "...", "size": 2, "health": 404, "requirements": [{"item": "finu", "amount": 5}, {"item": "joqoranium", "amount": 20}, {"item": "peqora", "amount": 10}], "research": "finu-factory", "maxNodes": 34, "laserRange": 28, "category": "power"}

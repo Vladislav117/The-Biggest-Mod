@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hyjape solar panel", "description": "...", "size": 1, "health": 188, "requirements": [{"item": "hyjape", "amount": 6}, {"item": "zeva", "amount": 3}, {"item": "rowi", "amount": 8}], "research": "hyjape-factory", "powerProduction": 1.220769960796154, "category": "power"}

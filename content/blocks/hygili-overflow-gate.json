@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hygili overflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "hygili", "amount": 1}, {"item": "fyhuxonium", "amount": 2}], "research": "hygili-conveyor", "category": "distribution", "invert": false}

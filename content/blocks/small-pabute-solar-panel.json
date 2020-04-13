@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pabute solar panel", "description": "...", "size": 1, "health": 386, "requirements": [{"item": "pabute", "amount": 12}, {"item": "vowato", "amount": 16}, {"item": "wosefanium", "amount": 9}], "research": "pabute-factory", "powerProduction": 2.959506544256867, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nynoyu underflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "nynoyu", "amount": 2}, {"item": "paky", "amount": 4}], "research": "nynoyu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gorenium liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "gorenium", "amount": 20}, {"item": "birynium", "amount": 8}, {"item": "sekele", "amount": 7}], "research": "gorenium-conduit", "liquidCapacity": 10, "category": "liquid"}

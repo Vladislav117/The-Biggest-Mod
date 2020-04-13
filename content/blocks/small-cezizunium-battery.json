@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cezizunium battery", "description": "...", "size": 1, "health": 326, "requirements": [{"item": "cezizunium", "amount": 20}, {"item": "jahuxynium", "amount": 9}, {"item": "xoruba", "amount": 6}], "research": "cezizunium-factory", "consumes": {"powerBuffered": 1530}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nuve battery", "description": "...", "size": 1, "health": 241, "requirements": [{"item": "nuve", "amount": 5}, {"item": "zivo", "amount": 19}, {"item": "neloto", "amount": 10}], "research": "nuve-factory", "consumes": {"powerBuffered": 1198}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hajybe battery", "description": "...", "size": 3, "health": 400, "requirements": [{"item": "hajybe", "amount": 2}, {"item": "xafi", "amount": 10}, {"item": "fabese", "amount": 5}], "research": "hajybe-factory", "consumes": {"powerBuffered": 6099}, "category": "power"}

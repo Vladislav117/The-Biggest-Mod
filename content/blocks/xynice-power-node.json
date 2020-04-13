@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xynice power node", "description": "...", "size": 2, "health": 742, "requirements": [{"item": "xynice", "amount": 6}, {"item": "daqy", "amount": 8}, {"item": "wabaru", "amount": 1}], "research": "xynice-factory", "maxNodes": 17, "laserRange": 6, "category": "power"}

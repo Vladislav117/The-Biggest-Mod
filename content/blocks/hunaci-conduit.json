@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hunaci conduit", "description": "...", "health": 58, "requirements": [{"item": "hunaci", "amount": 16}, {"item": "kilu", "amount": 19}, {"item": "pikoqi", "amount": 5}], "liquidCapacity": 46, "liquidPressure": 5, "research": "hunaci-factory", "category": "liquid"}

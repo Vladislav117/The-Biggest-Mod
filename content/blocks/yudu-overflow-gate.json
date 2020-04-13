@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yudu overflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "yudu", "amount": 1}, {"item": "sore", "amount": 1}], "research": "yudu-conveyor", "category": "distribution", "invert": false}

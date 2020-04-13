@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rowi battery", "description": "...", "size": 3, "health": 195, "requirements": [{"item": "rowi", "amount": 17}, {"item": "pebi", "amount": 7}, {"item": "qeka", "amount": 2}], "research": "rowi-factory", "consumes": {"powerBuffered": 1068}, "category": "power"}

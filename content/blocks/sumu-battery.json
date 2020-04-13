@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sumu battery", "description": "...", "size": 3, "health": 286, "requirements": [{"item": "sumu", "amount": 20}, {"item": "cydeyy", "amount": 20}, {"item": "lapydy", "amount": 1}], "research": "sumu-factory", "consumes": {"powerBuffered": 1726}, "category": "power"}

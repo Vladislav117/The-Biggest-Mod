@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tycomo power node", "description": "...", "size": 1, "health": 281, "requirements": [{"item": "tycomo", "amount": 6}, {"item": "nylo", "amount": 1}, {"item": "siry", "amount": 9}], "research": "tycomo-factory", "maxNodes": 19, "laserRange": 24, "category": "power"}

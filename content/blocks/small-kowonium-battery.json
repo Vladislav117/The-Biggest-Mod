@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kowonium battery", "description": "...", "size": 1, "health": 149, "requirements": [{"item": "kowonium", "amount": 19}, {"item": "qycu", "amount": 2}, {"item": "noyayu", "amount": 4}], "research": "kowonium-factory", "consumes": {"powerBuffered": 1712}, "category": "power"}

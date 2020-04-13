@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ranoxinium conduit", "description": "...", "health": 69, "requirements": [{"item": "ranoxinium", "amount": 20}, {"item": "riro", "amount": 10}, {"item": "qudy", "amount": 7}], "liquidCapacity": 24, "liquidPressure": 3, "research": "ranoxinium-factory", "category": "liquid"}

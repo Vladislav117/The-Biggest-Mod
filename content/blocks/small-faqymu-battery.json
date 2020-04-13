@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small faqymu battery", "description": "...", "size": 1, "health": 189, "requirements": [{"item": "faqymu", "amount": 5}, {"item": "tuxu", "amount": 3}, {"item": "depyya", "amount": 1}], "research": "faqymu-factory", "consumes": {"powerBuffered": 1694}, "category": "power"}

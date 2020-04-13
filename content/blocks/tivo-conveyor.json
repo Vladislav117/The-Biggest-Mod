@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "tivo conveyor", "description": "...", "health": 221, "requirements": [{"item": "tivo", "amount": 4}, {"item": "sypo", "amount": 3}], "speed": 0.023114132780372665, "research": "tivo-factory", "category": "distribution"}

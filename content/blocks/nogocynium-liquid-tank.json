@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nogocynium liquid tank", "description": "...", "health": 132, "size": 3, "requirements": [{"item": "nogocynium", "amount": 17}, {"item": "gyty", "amount": 7}, {"item": "hysobe", "amount": 9}], "research": "nogocynium-conduit", "category": "liquid", "liquidCapacity": 114280, "hasLiquids": true}

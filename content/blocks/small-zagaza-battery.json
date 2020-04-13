@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zagaza battery", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "zagaza", "amount": 19}, {"item": "nijunium", "amount": 20}, {"item": "newenium", "amount": 10}], "research": "zagaza-factory", "consumes": {"powerBuffered": 632}, "category": "power"}

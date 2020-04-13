@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small boryvi solar panel", "description": "...", "size": 1, "health": 142, "requirements": [{"item": "boryvi", "amount": 13}, {"item": "nupafu", "amount": 18}, {"item": "zafuqo", "amount": 9}], "research": "boryvi-factory", "powerProduction": 0.7254223907611688, "category": "power"}

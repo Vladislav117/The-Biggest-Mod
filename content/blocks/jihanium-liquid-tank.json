@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jihanium liquid tank", "description": "...", "health": 544, "size": 3, "requirements": [{"item": "jihanium", "amount": 1}, {"item": "wigyre", "amount": 4}, {"item": "xudujy", "amount": 2}], "research": "jihanium-conduit", "category": "liquid", "liquidCapacity": 58687, "hasLiquids": true}

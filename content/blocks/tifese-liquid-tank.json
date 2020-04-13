@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tifese liquid tank", "description": "...", "health": 228, "size": 3, "requirements": [{"item": "tifese", "amount": 18}, {"item": "wypu", "amount": 17}, {"item": "vuvonium", "amount": 8}], "research": "tifese-conduit", "category": "liquid", "liquidCapacity": 3657, "hasLiquids": true}

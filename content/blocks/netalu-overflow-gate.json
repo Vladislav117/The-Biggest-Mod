@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "netalu overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "netalu", "amount": 2}, {"item": "xutire", "amount": 2}], "research": "netalu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zawo junction", "description": "...", "health": 27, "speed": 11, "capacity": 14, "size": 1, "requirements": [{"item": "zawo", "amount": 3}, {"item": "rale", "amount": 3}], "research": "zawo-conveyor", "category": "distribution"}

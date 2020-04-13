@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yidako bridge conveyor", "description": "", "health": 15, "range": 3, "speed": 7, "bufferCapacity": 18, "requirements": [{"item": "yidako", "amount": 4}, {"item": "pigydinium", "amount": 2}], "research": "yidako-conveyor", "category": "distribution", "size": 1}

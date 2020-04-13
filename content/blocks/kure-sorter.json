@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kure sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "kure", "amount": 4}, {"item": "nybinium", "amount": 2}], "research": "kure-conveyor", "category": "distribution", "invert": false}

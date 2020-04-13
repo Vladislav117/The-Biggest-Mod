@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "kosonium conveyor", "description": "...", "health": 64, "requirements": [{"item": "kosonium", "amount": 6}, {"item": "vakarinium", "amount": 7}], "speed": 0.10571244190808793, "research": "kosonium-factory", "category": "distribution"}

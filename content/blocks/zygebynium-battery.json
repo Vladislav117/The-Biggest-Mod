@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zygebynium battery", "description": "...", "size": 3, "health": 29, "requirements": [{"item": "zygebynium", "amount": 13}, {"item": "gyfeca", "amount": 17}, {"item": "dimysynium", "amount": 1}], "research": "zygebynium-factory", "consumes": {"powerBuffered": 521}, "category": "power"}

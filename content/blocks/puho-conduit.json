@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "puho conduit", "description": "...", "health": 110, "requirements": [{"item": "puho", "amount": 6}, {"item": "wisipu", "amount": 5}, {"item": "hiki", "amount": 6}], "liquidCapacity": 2, "liquidPressure": 2, "research": "puho-factory", "category": "liquid"}

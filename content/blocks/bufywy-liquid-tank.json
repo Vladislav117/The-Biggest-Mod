@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bufywy liquid tank", "description": "...", "health": 351, "size": 3, "requirements": [{"item": "bufywy", "amount": 20}, {"item": "zoqivanium", "amount": 4}, {"item": "vuzoha", "amount": 7}], "research": "bufywy-conduit", "category": "liquid", "liquidCapacity": 33000, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tiyajo solar panel", "description": "...", "size": 1, "health": 263, "requirements": [{"item": "tiyajo", "amount": 13}, {"item": "tujy", "amount": 18}, {"item": "vodaxa", "amount": 9}], "research": "tiyajo-factory", "powerProduction": 4.181373713847048, "category": "power"}

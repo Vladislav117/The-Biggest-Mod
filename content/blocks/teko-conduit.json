@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "teko conduit", "description": "...", "health": 170, "requirements": [{"item": "teko", "amount": 19}, {"item": "julynium", "amount": 1}, {"item": "goxize", "amount": 1}], "liquidCapacity": 19, "liquidPressure": 0, "research": "teko-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "saleru liquid tank", "description": "...", "health": 361, "size": 3, "requirements": [{"item": "saleru", "amount": 10}, {"item": "vayy", "amount": 15}, {"item": "pudoki", "amount": 8}], "research": "saleru-conduit", "category": "liquid", "liquidCapacity": 109239, "hasLiquids": true}

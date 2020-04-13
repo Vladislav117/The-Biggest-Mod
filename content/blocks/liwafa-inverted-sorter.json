@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "liwafa inverted sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "liwafa", "amount": 5}, {"item": "vove", "amount": 1}], "research": "liwafa-conveyor", "category": "distribution", "invert": true}

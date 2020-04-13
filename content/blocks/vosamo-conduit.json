@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vosamo conduit", "description": "...", "health": 142, "requirements": [{"item": "vosamo", "amount": 10}, {"item": "jayi", "amount": 3}, {"item": "julynium", "amount": 9}], "liquidCapacity": 2, "liquidPressure": 6, "research": "vosamo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dibu battery", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "dibu", "amount": 18}, {"item": "pawusy", "amount": 13}, {"item": "tomufa", "amount": 10}], "research": "dibu-factory", "consumes": {"powerBuffered": 2748}, "category": "power"}

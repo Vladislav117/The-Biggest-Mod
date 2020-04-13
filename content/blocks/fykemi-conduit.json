@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fykemi conduit", "description": "...", "health": 122, "requirements": [{"item": "fykemi", "amount": 18}, {"item": "kani", "amount": 20}, {"item": "zyqita", "amount": 6}], "liquidCapacity": 16, "liquidPressure": 9, "research": "fykemi-factory", "category": "liquid"}

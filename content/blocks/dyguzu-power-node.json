@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dyguzu power node", "description": "...", "size": 2, "health": 21, "requirements": [{"item": "dyguzu", "amount": 11}, {"item": "kipybi", "amount": 16}, {"item": "gurikinium", "amount": 1}], "research": "dyguzu-factory", "maxNodes": 40, "laserRange": 22, "category": "power"}

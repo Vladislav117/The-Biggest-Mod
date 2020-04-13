@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "reqynu inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "reqynu", "amount": 5}, {"item": "jayi", "amount": 4}], "research": "reqynu-conveyor", "category": "distribution", "invert": true}

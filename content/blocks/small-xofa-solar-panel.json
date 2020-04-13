@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xofa solar panel", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "xofa", "amount": 10}, {"item": "yixo", "amount": 13}, {"item": "gozefynium", "amount": 1}], "research": "xofa-factory", "powerProduction": 0.5225359787106786, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "biwehenium bridge conveyor", "description": "", "health": 16, "range": 1, "speed": 19, "bufferCapacity": 12, "requirements": [{"item": "biwehenium", "amount": 4}, {"item": "kyjyxo", "amount": 2}], "research": "biwehenium-conveyor", "category": "distribution", "size": 1}

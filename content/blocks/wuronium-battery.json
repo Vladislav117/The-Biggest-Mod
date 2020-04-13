@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wuronium battery", "description": "...", "size": 3, "health": 270, "requirements": [{"item": "wuronium", "amount": 9}, {"item": "nimawo", "amount": 1}, {"item": "tomufa", "amount": 8}], "research": "wuronium-factory", "consumes": {"powerBuffered": 8409}, "category": "power"}

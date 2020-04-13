@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ruqe solar panel", "description": "...", "size": 1, "health": 353, "requirements": [{"item": "ruqe", "amount": 8}, {"item": "heruru", "amount": 1}, {"item": "nupu", "amount": 7}], "research": "ruqe-factory", "powerProduction": 2.5315125241735856, "category": "power"}

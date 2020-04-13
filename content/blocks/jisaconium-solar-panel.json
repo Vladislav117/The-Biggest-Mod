@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jisaconium solar panel", "description": "...", "size": 3, "health": 237, "requirements": [{"item": "jisaconium", "amount": 10}, {"item": "lifuvinium", "amount": 5}, {"item": "dyqo", "amount": 1}], "research": "jisaconium-factory", "powerProduction": 1.062225649492341, "category": "power"}

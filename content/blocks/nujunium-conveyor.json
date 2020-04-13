@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "nujunium conveyor", "description": "...", "health": 225, "requirements": [{"item": "nujunium", "amount": 10}, {"item": "fusaji", "amount": 3}], "speed": 0.3779457673127294, "research": "nujunium-factory", "category": "distribution"}

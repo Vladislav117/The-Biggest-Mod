@@ -1,0 +1,1 @@
+{"type": "battery", "name": "halyqinium battery", "description": "...", "size": 3, "health": 396, "requirements": [{"item": "halyqinium", "amount": 5}, {"item": "yynylo", "amount": 20}, {"item": "muhi", "amount": 5}], "research": "halyqinium-factory", "consumes": {"powerBuffered": 4175}, "category": "power"}

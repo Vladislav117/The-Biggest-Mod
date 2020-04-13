@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bivucunium power node", "description": "...", "size": 2, "health": 633, "requirements": [{"item": "bivucunium", "amount": 7}, {"item": "muti", "amount": 9}, {"item": "pomagu", "amount": 2}], "research": "bivucunium-factory", "maxNodes": 18, "laserRange": 20, "category": "power"}

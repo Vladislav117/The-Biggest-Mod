@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mynizo underflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "mynizo", "amount": 1}, {"item": "kima", "amount": 1}], "research": "mynizo-conveyor", "category": "distribution", "invert": false}

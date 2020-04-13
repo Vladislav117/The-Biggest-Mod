@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lywe inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "lywe", "amount": 2}, {"item": "suzu", "amount": 2}], "research": "lywe-conveyor", "category": "distribution", "invert": true}

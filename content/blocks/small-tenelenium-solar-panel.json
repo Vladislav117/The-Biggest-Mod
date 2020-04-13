@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tenelenium solar panel", "description": "...", "size": 1, "health": 374, "requirements": [{"item": "tenelenium", "amount": 19}, {"item": "meve", "amount": 12}, {"item": "fyhynium", "amount": 1}], "research": "tenelenium-factory", "powerProduction": 0.44941924178750564, "category": "power"}

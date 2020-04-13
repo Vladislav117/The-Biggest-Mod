@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sobiye bridge conveyor", "description": "", "health": 28, "range": 11, "speed": 1, "bufferCapacity": 17, "requirements": [{"item": "sobiye", "amount": 4}, {"item": "qujuyi", "amount": 2}], "research": "sobiye-conveyor", "category": "distribution", "size": 1}

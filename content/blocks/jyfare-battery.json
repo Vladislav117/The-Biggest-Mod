@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jyfare battery", "description": "...", "size": 3, "health": 260, "requirements": [{"item": "jyfare", "amount": 5}, {"item": "myyave", "amount": 7}, {"item": "netalu", "amount": 1}], "research": "jyfare-factory", "consumes": {"powerBuffered": 9788}, "category": "power"}

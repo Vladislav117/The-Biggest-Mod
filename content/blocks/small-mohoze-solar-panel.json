@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mohoze solar panel", "description": "...", "size": 1, "health": 237, "requirements": [{"item": "mohoze", "amount": 2}, {"item": "kupanium", "amount": 11}, {"item": "qyhoqa", "amount": 5}], "research": "mohoze-factory", "powerProduction": 6.302971882720171, "category": "power"}

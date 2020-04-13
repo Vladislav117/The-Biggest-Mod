@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fecunium power node", "description": "...", "size": 1, "health": 327, "requirements": [{"item": "fecunium", "amount": 9}, {"item": "lejara", "amount": 10}, {"item": "jinu", "amount": 1}], "research": "fecunium-factory", "maxNodes": 5, "laserRange": 12, "category": "power"}

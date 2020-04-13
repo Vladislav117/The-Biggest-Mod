@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hyryhinium underflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "hyryhinium", "amount": 5}, {"item": "labila", "amount": 5}], "research": "hyryhinium-conveyor", "category": "distribution", "invert": false}

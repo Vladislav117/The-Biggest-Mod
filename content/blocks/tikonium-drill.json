@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tikonium drill", "description": "...", "size": 2, "health": 224, "tier": 2, "drillTime": 19, "consumes": {"power": 6}, "requirements": [{"item": "tikonium", "amount": 3}, {"item": "kiranium", "amount": 2}, {"item": "pero", "amount": 1}], "research": "tikonium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mawanium power node", "description": "...", "size": 1, "health": 168, "requirements": [{"item": "mawanium", "amount": 20}, {"item": "hakenium", "amount": 2}, {"item": "vewavu", "amount": 2}], "research": "mawanium-factory", "maxNodes": 11, "laserRange": 5, "category": "power"}

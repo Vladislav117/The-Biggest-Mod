@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pycuso solar panel", "description": "...", "size": 1, "health": 270, "requirements": [{"item": "pycuso", "amount": 14}, {"item": "jyluba", "amount": 6}, {"item": "soyanium", "amount": 2}], "research": "pycuso-factory", "powerProduction": 4.386160417427309, "category": "power"}

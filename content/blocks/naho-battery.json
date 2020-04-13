@@ -1,0 +1,1 @@
+{"type": "battery", "name": "naho battery", "description": "...", "size": 3, "health": 381, "requirements": [{"item": "naho", "amount": 9}, {"item": "milosi", "amount": 11}, {"item": "kuza", "amount": 8}], "research": "naho-factory", "consumes": {"powerBuffered": 4351}, "category": "power"}

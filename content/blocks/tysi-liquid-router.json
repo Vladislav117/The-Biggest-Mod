@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tysi liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "tysi", "amount": 9}, {"item": "rysyhy", "amount": 17}, {"item": "cuzyko", "amount": 5}], "research": "tysi-conduit", "liquidCapacity": 10, "category": "liquid"}

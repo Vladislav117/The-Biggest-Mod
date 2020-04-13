@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fazame liquid tank", "description": "...", "health": 451, "size": 3, "requirements": [{"item": "fazame", "amount": 17}, {"item": "kosonium", "amount": 20}, {"item": "yepufi", "amount": 6}], "research": "fazame-conduit", "category": "liquid", "liquidCapacity": 35168, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hebijanium liquid tank", "description": "...", "health": 279, "size": 3, "requirements": [{"item": "hebijanium", "amount": 13}, {"item": "lome", "amount": 19}, {"item": "yyti", "amount": 9}], "research": "hebijanium-conduit", "category": "liquid", "liquidCapacity": 116595, "hasLiquids": true}

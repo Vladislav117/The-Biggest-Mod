@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lapydy liquid tank", "description": "...", "health": 486, "size": 3, "requirements": [{"item": "lapydy", "amount": 18}, {"item": "coqinium", "amount": 11}, {"item": "yijotu", "amount": 7}], "research": "lapydy-conduit", "category": "liquid", "liquidCapacity": 71812, "hasLiquids": true}

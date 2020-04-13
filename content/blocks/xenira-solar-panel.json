@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xenira solar panel", "description": "...", "size": 3, "health": 143, "requirements": [{"item": "xenira", "amount": 5}, {"item": "poxy", "amount": 20}, {"item": "qiqe", "amount": 4}], "research": "xenira-factory", "powerProduction": 3.193147565282718, "category": "power"}

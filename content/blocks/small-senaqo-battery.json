@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small senaqo battery", "description": "...", "size": 1, "health": 308, "requirements": [{"item": "senaqo", "amount": 11}, {"item": "yeyabi", "amount": 4}, {"item": "cuhynu", "amount": 10}], "research": "senaqo-factory", "consumes": {"powerBuffered": 2875}, "category": "power"}

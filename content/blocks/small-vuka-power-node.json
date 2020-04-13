@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vuka power node", "description": "...", "size": 1, "health": 349, "requirements": [{"item": "vuka", "amount": 12}, {"item": "riniqi", "amount": 3}, {"item": "faruna", "amount": 10}], "research": "vuka-factory", "maxNodes": 22, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fuxo drill", "description": "...", "size": 2, "health": 258, "tier": 2, "drillTime": 19, "consumes": {"power": 1}, "requirements": [{"item": "fuxo", "amount": 16}, {"item": "wymywynium", "amount": 15}, {"item": "vole", "amount": 9}], "research": "fuxo-factory", "category": "production"}

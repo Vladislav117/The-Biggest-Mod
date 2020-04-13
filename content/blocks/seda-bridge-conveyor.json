@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "seda bridge conveyor", "description": "", "health": 37, "range": 13, "speed": 6, "bufferCapacity": 14, "requirements": [{"item": "seda", "amount": 3}, {"item": "lofypy", "amount": 3}], "research": "seda-conveyor", "category": "distribution", "size": 1}

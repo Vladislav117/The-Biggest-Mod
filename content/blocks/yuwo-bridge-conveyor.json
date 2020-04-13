@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yuwo bridge conveyor", "description": "", "health": 21, "range": 12, "speed": 6, "bufferCapacity": 6, "requirements": [{"item": "yuwo", "amount": 2}, {"item": "dyguzu", "amount": 4}], "research": "yuwo-conveyor", "category": "distribution", "size": 1}

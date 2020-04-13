@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yolyzu solar panel", "description": "...", "size": 3, "health": 213, "requirements": [{"item": "yolyzu", "amount": 8}, {"item": "moje", "amount": 6}, {"item": "semy", "amount": 2}], "research": "yolyzu-factory", "powerProduction": 1.4004839381723961, "category": "power"}

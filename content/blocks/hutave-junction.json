@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hutave junction", "description": "...", "health": 32, "speed": 12, "capacity": 16, "size": 1, "requirements": [{"item": "hutave", "amount": 4}, {"item": "wusupy", "amount": 1}], "research": "hutave-conveyor", "category": "distribution"}

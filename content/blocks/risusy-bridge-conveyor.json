@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "risusy bridge conveyor", "description": "", "health": 10, "range": 5, "speed": 20, "bufferCapacity": 18, "requirements": [{"item": "risusy", "amount": 1}, {"item": "hoqego", "amount": 4}], "research": "risusy-conveyor", "category": "distribution", "size": 1}

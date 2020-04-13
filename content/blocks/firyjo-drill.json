@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "firyjo drill", "description": "...", "size": 2, "health": 281, "tier": 3, "drillTime": 15, "consumes": {"power": 5}, "requirements": [{"item": "firyjo", "amount": 16}, {"item": "hugevinium", "amount": 2}, {"item": "yufava", "amount": 7}], "research": "firyjo-factory", "category": "production"}

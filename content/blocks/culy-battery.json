@@ -1,0 +1,1 @@
+{"type": "battery", "name": "culy battery", "description": "...", "size": 3, "health": 115, "requirements": [{"item": "culy", "amount": 2}, {"item": "qady", "amount": 7}, {"item": "nudo", "amount": 5}], "research": "culy-factory", "consumes": {"powerBuffered": 1958}, "category": "power"}

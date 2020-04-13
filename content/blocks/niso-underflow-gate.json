@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "niso underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "niso", "amount": 1}, {"item": "vodaxa", "amount": 3}], "research": "niso-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dyqasy bridge conveyor", "description": "", "health": 49, "range": 1, "speed": 9, "bufferCapacity": 13, "requirements": [{"item": "dyqasy", "amount": 2}, {"item": "fifyru", "amount": 2}], "research": "dyqasy-conveyor", "category": "distribution", "size": 1}

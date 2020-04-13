@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sokima sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "sokima", "amount": 5}, {"item": "kyte", "amount": 2}], "research": "sokima-conveyor", "category": "distribution", "invert": false}

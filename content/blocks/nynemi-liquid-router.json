@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nynemi liquid router", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "nynemi", "amount": 10}, {"item": "teko", "amount": 13}, {"item": "rawywa", "amount": 5}], "research": "nynemi-conduit", "liquidCapacity": 10, "category": "liquid"}

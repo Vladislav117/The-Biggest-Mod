@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dimy liquid router", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "dimy", "amount": 4}, {"item": "duginium", "amount": 1}, {"item": "wuwo", "amount": 9}], "research": "dimy-conduit", "liquidCapacity": 10, "category": "liquid"}

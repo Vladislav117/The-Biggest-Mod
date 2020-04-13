@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nyzubonium underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "nyzubonium", "amount": 3}, {"item": "kaqyla", "amount": 1}], "research": "nyzubonium-conveyor", "category": "distribution", "invert": false}

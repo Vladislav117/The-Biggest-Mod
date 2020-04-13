@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "goti liquid tank", "description": "...", "health": 215, "size": 3, "requirements": [{"item": "goti", "amount": 15}, {"item": "kefy", "amount": 6}, {"item": "xynice", "amount": 3}], "research": "goti-conduit", "category": "liquid", "liquidCapacity": 70096, "hasLiquids": true}

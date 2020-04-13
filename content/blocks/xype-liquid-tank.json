@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xype liquid tank", "description": "...", "health": 189, "size": 3, "requirements": [{"item": "xype", "amount": 5}, {"item": "qyha", "amount": 20}, {"item": "byhonium", "amount": 9}], "research": "xype-conduit", "category": "liquid", "liquidCapacity": 52072, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tuxu power node", "description": "...", "size": 2, "health": 514, "requirements": [{"item": "tuxu", "amount": 17}, {"item": "kubi", "amount": 11}, {"item": "thorium", "amount": 9}], "research": "tuxu-factory", "maxNodes": 43, "laserRange": 26, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kyje solar panel", "description": "...", "size": 1, "health": 337, "requirements": [{"item": "kyje", "amount": 15}, {"item": "pacezu", "amount": 6}, {"item": "dituna", "amount": 2}], "research": "kyje-factory", "powerProduction": 6.079672985519258, "category": "power"}

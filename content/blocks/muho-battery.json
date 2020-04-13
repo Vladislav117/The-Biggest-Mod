@@ -1,0 +1,1 @@
+{"type": "battery", "name": "muho battery", "description": "...", "size": 3, "health": 310, "requirements": [{"item": "muho", "amount": 9}, {"item": "coxufe", "amount": 8}, {"item": "xyyira", "amount": 5}], "research": "muho-factory", "consumes": {"powerBuffered": 4389}, "category": "power"}

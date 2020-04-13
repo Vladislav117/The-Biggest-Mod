@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "koci inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "koci", "amount": 3}, {"item": "birynium", "amount": 4}], "research": "koci-conveyor", "category": "distribution", "invert": true}

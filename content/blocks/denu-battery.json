@@ -1,0 +1,1 @@
+{"type": "battery", "name": "denu battery", "description": "...", "size": 3, "health": 93, "requirements": [{"item": "denu", "amount": 8}, {"item": "faqymu", "amount": 8}, {"item": "plastanium", "amount": 3}], "research": "denu-factory", "consumes": {"powerBuffered": 4985}, "category": "power"}

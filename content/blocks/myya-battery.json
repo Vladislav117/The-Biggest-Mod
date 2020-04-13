@@ -1,0 +1,1 @@
+{"type": "battery", "name": "myya battery", "description": "...", "size": 3, "health": 76, "requirements": [{"item": "myya", "amount": 8}, {"item": "quda", "amount": 2}, {"item": "buhyjanium", "amount": 6}], "research": "myya-factory", "consumes": {"powerBuffered": 6877}, "category": "power"}

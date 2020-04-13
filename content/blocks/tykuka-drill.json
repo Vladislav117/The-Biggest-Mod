@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tykuka drill", "description": "...", "size": 4, "health": 193, "tier": 4, "drillTime": 6, "consumes": {"power": 6}, "requirements": [{"item": "tykuka", "amount": 17}, {"item": "fufyyu", "amount": 8}, {"item": "vipoja", "amount": 10}], "research": "tykuka-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "koyiwi conduit", "description": "...", "health": 23, "requirements": [{"item": "koyiwi", "amount": 11}, {"item": "baqo", "amount": 20}, {"item": "coqinium", "amount": 4}], "liquidCapacity": 8, "liquidPressure": 0, "research": "koyiwi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "veza sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "veza", "amount": 4}, {"item": "minu", "amount": 1}], "research": "veza-conveyor", "category": "distribution", "invert": false}

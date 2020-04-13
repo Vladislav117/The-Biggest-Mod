@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qireru power node", "description": "...", "size": 2, "health": 703, "requirements": [{"item": "qireru", "amount": 1}, {"item": "jyly", "amount": 16}, {"item": "mififi", "amount": 2}], "research": "qireru-factory", "maxNodes": 42, "laserRange": 13, "category": "power"}

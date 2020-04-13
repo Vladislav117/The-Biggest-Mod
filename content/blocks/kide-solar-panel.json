@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kide solar panel", "description": "...", "size": 3, "health": 12, "requirements": [{"item": "kide", "amount": 3}, {"item": "niqy", "amount": 6}, {"item": "vego", "amount": 6}], "research": "kide-factory", "powerProduction": 1.389512148724908, "category": "power"}

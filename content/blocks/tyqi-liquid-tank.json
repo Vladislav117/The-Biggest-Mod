@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tyqi liquid tank", "description": "...", "health": 226, "size": 3, "requirements": [{"item": "tyqi", "amount": 9}, {"item": "vyma", "amount": 12}, {"item": "qixu", "amount": 10}], "research": "tyqi-conduit", "category": "liquid", "liquidCapacity": 49540, "hasLiquids": true}

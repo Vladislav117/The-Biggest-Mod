@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bito battery", "description": "...", "size": 3, "health": 228, "requirements": [{"item": "bito", "amount": 1}, {"item": "yesolonium", "amount": 1}, {"item": "rita", "amount": 2}], "research": "bito-factory", "consumes": {"powerBuffered": 6171}, "category": "power"}

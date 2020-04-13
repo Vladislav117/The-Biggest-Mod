@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small voky solar panel", "description": "...", "size": 1, "health": 201, "requirements": [{"item": "voky", "amount": 17}, {"item": "yajawa", "amount": 6}, {"item": "puri", "amount": 6}], "research": "voky-factory", "powerProduction": 0.15995067601732646, "category": "power"}

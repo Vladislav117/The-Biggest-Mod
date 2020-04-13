@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tomanium battery", "description": "...", "size": 3, "health": 363, "requirements": [{"item": "tomanium", "amount": 12}, {"item": "nyvexo", "amount": 20}, {"item": "fela", "amount": 4}], "research": "tomanium-factory", "consumes": {"powerBuffered": 7783}, "category": "power"}

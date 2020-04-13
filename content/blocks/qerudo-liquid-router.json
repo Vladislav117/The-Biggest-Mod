@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qerudo liquid router", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "qerudo", "amount": 5}, {"item": "cyjonium", "amount": 12}, {"item": "ceho", "amount": 7}], "research": "qerudo-conduit", "liquidCapacity": 10, "category": "liquid"}

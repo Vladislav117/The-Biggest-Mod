@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yezaku underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "yezaku", "amount": 1}, {"item": "kagopy", "amount": 4}], "research": "yezaku-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gyfa bridge conveyor", "description": "", "health": 49, "range": 15, "speed": 8, "bufferCapacity": 24, "requirements": [{"item": "gyfa", "amount": 5}, {"item": "heso", "amount": 4}], "research": "gyfa-conveyor", "category": "distribution", "size": 1}

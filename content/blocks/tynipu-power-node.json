@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tynipu power node", "description": "...", "size": 2, "health": 664, "requirements": [{"item": "tynipu", "amount": 7}, {"item": "lanaja", "amount": 15}, {"item": "fyvuyy", "amount": 1}], "research": "tynipu-factory", "maxNodes": 25, "laserRange": 11, "category": "power"}

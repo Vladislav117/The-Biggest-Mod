@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "tovyme overdrive projector", "description": "...", "health": 61, "consumes": {"power": 3.0, "item": "tovyme"}, "size": 2, "requirements": [{"item": "tovyme", "amount": 17}, {"item": "rymyva", "amount": 2}, {"item": "lejara", "amount": 8}], "research": "tovyme-factory", "category": "effect"}

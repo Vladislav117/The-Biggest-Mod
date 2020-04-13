@@ -1,0 +1,1 @@
+{"type": "junction", "name": "puti junction", "description": "...", "health": 11, "speed": 12, "capacity": 17, "size": 1, "requirements": [{"item": "puti", "amount": 4}, {"item": "wuwo", "amount": 5}], "research": "puti-conveyor", "category": "distribution"}

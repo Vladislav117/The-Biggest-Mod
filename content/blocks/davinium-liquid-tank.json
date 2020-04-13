@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "davinium liquid tank", "description": "...", "health": 123, "size": 3, "requirements": [{"item": "davinium", "amount": 14}, {"item": "myte", "amount": 20}, {"item": "qelyqe", "amount": 3}], "research": "davinium-conduit", "category": "liquid", "liquidCapacity": 87994, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kijyzi solar panel", "description": "...", "size": 1, "health": 93, "requirements": [{"item": "kijyzi", "amount": 9}, {"item": "rylyki", "amount": 18}, {"item": "qiri", "amount": 3}], "research": "kijyzi-factory", "powerProduction": 0.6475123746575104, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tybunium conduit", "description": "...", "health": 149, "requirements": [{"item": "tybunium", "amount": 5}, {"item": "foli", "amount": 4}, {"item": "mygi", "amount": 9}], "liquidCapacity": 45, "liquidPressure": 7, "research": "tybunium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hihuly junction", "description": "...", "health": 48, "speed": 5, "capacity": 7, "size": 1, "requirements": [{"item": "hihuly", "amount": 1}, {"item": "kiduka", "amount": 3}], "research": "hihuly-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "risusy liquid tank", "description": "...", "health": 278, "size": 3, "requirements": [{"item": "risusy", "amount": 12}, {"item": "cecuvinium", "amount": 15}, {"item": "zytukenium", "amount": 2}], "research": "risusy-conduit", "category": "liquid", "liquidCapacity": 6991, "hasLiquids": true}

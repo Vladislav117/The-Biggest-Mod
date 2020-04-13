@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "byfyge inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "byfyge", "amount": 4}, {"item": "nirogynium", "amount": 1}], "research": "byfyge-conveyor", "category": "distribution", "invert": true}

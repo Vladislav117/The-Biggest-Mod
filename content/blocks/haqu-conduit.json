@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "haqu conduit", "description": "...", "health": 23, "requirements": [{"item": "haqu", "amount": 8}, {"item": "bajenium", "amount": 17}, {"item": "thorium", "amount": 3}], "liquidCapacity": 37, "liquidPressure": 7, "research": "haqu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "meyo overdrive projector", "description": "...", "health": 107, "consumes": {"power": 3.0, "item": "meyo"}, "size": 2, "requirements": [{"item": "meyo", "amount": 6}, {"item": "nyry", "amount": 14}, {"item": "yeyyry", "amount": 8}], "research": "meyo-factory", "category": "effect"}

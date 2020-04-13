@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pyzemu battery", "description": "...", "size": 3, "health": 155, "requirements": [{"item": "pyzemu", "amount": 10}, {"item": "reyezy", "amount": 5}, {"item": "pyce", "amount": 2}], "research": "pyzemu-factory", "consumes": {"powerBuffered": 9497}, "category": "power"}

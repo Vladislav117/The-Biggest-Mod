@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mubu underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "mubu", "amount": 4}, {"item": "tynipu", "amount": 4}], "research": "mubu-conveyor", "category": "distribution", "invert": false}

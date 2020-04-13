@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jumonium liquid router", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "jumonium", "amount": 10}, {"item": "phase-fabric", "amount": 16}, {"item": "bywazy", "amount": 4}], "research": "jumonium-conduit", "liquidCapacity": 10, "category": "liquid"}

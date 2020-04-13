@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mupe power node", "description": "...", "size": 2, "health": 266, "requirements": [{"item": "mupe", "amount": 11}, {"item": "yoqy", "amount": 17}, {"item": "minuna", "amount": 7}], "research": "mupe-factory", "maxNodes": 51, "laserRange": 19, "category": "power"}

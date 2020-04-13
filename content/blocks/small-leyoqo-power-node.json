@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small leyoqo power node", "description": "...", "size": 1, "health": 323, "requirements": [{"item": "leyoqo", "amount": 16}, {"item": "viqamo", "amount": 9}, {"item": "puzonium", "amount": 2}], "research": "leyoqo-factory", "maxNodes": 10, "laserRange": 25, "category": "power"}

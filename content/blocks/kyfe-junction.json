@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kyfe junction", "description": "...", "health": 8, "speed": 5, "capacity": 9, "size": 1, "requirements": [{"item": "kyfe", "amount": 4}, {"item": "qubyra", "amount": 1}], "research": "kyfe-conveyor", "category": "distribution"}

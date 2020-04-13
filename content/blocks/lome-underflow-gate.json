@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lome underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "lome", "amount": 2}, {"item": "xapa", "amount": 1}], "research": "lome-conveyor", "category": "distribution", "invert": false}

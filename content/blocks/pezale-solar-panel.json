@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pezale solar panel", "description": "...", "size": 3, "health": 367, "requirements": [{"item": "pezale", "amount": 19}, {"item": "jeqenium", "amount": 3}, {"item": "sysone", "amount": 1}], "research": "pezale-factory", "powerProduction": 0.02558314022216818, "category": "power"}

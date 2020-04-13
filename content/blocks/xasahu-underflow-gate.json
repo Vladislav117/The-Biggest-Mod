@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xasahu underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "xasahu", "amount": 3}, {"item": "toyynium", "amount": 3}], "research": "xasahu-conveyor", "category": "distribution", "invert": false}

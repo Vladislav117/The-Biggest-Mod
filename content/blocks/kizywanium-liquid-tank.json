@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kizywanium liquid tank", "description": "...", "health": 342, "size": 3, "requirements": [{"item": "kizywanium", "amount": 4}, {"item": "hukebi", "amount": 11}, {"item": "metaglass", "amount": 8}], "research": "kizywanium-conduit", "category": "liquid", "liquidCapacity": 110155, "hasLiquids": true}

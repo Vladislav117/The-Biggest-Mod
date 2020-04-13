@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rahuko solar panel", "description": "...", "size": 3, "health": 233, "requirements": [{"item": "rahuko", "amount": 5}, {"item": "xywege", "amount": 18}, {"item": "gomola", "amount": 8}], "research": "rahuko-factory", "powerProduction": 0.2396301453204382, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cuhynu overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "cuhynu", "amount": 1}, {"item": "dimysynium", "amount": 2}], "research": "cuhynu-conveyor", "category": "distribution", "invert": false}

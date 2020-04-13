@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hebohy liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "hebohy", "amount": 5}, {"item": "locycanium", "amount": 12}, {"item": "roja", "amount": 7}], "research": "hebohy-conduit", "liquidCapacity": 10, "category": "liquid"}

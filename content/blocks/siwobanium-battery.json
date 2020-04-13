@@ -1,0 +1,1 @@
+{"type": "battery", "name": "siwobanium battery", "description": "...", "size": 3, "health": 380, "requirements": [{"item": "siwobanium", "amount": 19}, {"item": "jumonium", "amount": 6}, {"item": "bybity", "amount": 9}], "research": "siwobanium-factory", "consumes": {"powerBuffered": 3655}, "category": "power"}

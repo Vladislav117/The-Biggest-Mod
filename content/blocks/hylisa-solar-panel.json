@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hylisa solar panel", "description": "...", "size": 3, "health": 350, "requirements": [{"item": "hylisa", "amount": 1}, {"item": "qixu", "amount": 1}, {"item": "vulu", "amount": 1}], "research": "hylisa-factory", "powerProduction": 1.5426288705973394, "category": "power"}

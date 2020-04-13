@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cygyya power node", "description": "...", "size": 2, "health": 58, "requirements": [{"item": "cygyya", "amount": 9}, {"item": "biqa", "amount": 17}, {"item": "nehudo", "amount": 9}], "research": "cygyya-factory", "maxNodes": 55, "laserRange": 15, "category": "power"}

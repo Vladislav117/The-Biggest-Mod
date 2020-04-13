@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hiwinium battery", "description": "...", "size": 3, "health": 52, "requirements": [{"item": "hiwinium", "amount": 10}, {"item": "secybo", "amount": 16}, {"item": "norydo", "amount": 1}], "research": "hiwinium-factory", "consumes": {"powerBuffered": 7723}, "category": "power"}

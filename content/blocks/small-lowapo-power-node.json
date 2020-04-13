@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lowapo power node", "description": "...", "size": 1, "health": 322, "requirements": [{"item": "lowapo", "amount": 13}, {"item": "venuki", "amount": 1}, {"item": "jetu", "amount": 7}], "research": "lowapo-factory", "maxNodes": 28, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "piga drill", "description": "...", "size": 2, "health": 125, "tier": 2, "drillTime": 2, "consumes": {"power": 17}, "requirements": [{"item": "piga", "amount": 9}, {"item": "milu", "amount": 5}, {"item": "ruqe", "amount": 7}], "research": "piga-factory", "category": "production"}

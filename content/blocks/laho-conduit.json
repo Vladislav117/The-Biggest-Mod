@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "laho conduit", "description": "...", "health": 184, "requirements": [{"item": "laho", "amount": 14}, {"item": "birynium", "amount": 5}, {"item": "ruvudo", "amount": 8}], "liquidCapacity": 16, "liquidPressure": 9, "research": "laho-factory", "category": "liquid"}

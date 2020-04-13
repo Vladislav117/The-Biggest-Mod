@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lumasunium underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "lumasunium", "amount": 3}, {"item": "ruzagi", "amount": 1}], "research": "lumasunium-conveyor", "category": "distribution", "invert": false}

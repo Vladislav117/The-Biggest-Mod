@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "veco solar panel", "description": "...", "size": 3, "health": 301, "requirements": [{"item": "veco", "amount": 18}, {"item": "xikogo", "amount": 5}, {"item": "zese", "amount": 4}], "research": "veco-factory", "powerProduction": 0.004932557332353358, "category": "power"}

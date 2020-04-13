@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qamo liquid tank", "description": "...", "health": 574, "size": 3, "requirements": [{"item": "qamo", "amount": 17}, {"item": "mawanium", "amount": 10}, {"item": "zehonium", "amount": 6}], "research": "qamo-conduit", "category": "liquid", "liquidCapacity": 60122, "hasLiquids": true}

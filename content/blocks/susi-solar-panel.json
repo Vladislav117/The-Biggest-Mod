@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "susi solar panel", "description": "...", "size": 3, "health": 82, "requirements": [{"item": "susi", "amount": 10}, {"item": "ciqi", "amount": 20}, {"item": "jywupa", "amount": 1}], "research": "susi-factory", "powerProduction": 0.3862273174088971, "category": "power"}

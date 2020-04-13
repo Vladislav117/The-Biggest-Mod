@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tanexo solar panel", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "tanexo", "amount": 8}, {"item": "zyru", "amount": 8}, {"item": "hogyse", "amount": 8}], "research": "tanexo-factory", "powerProduction": 8.005289675106177, "category": "power"}

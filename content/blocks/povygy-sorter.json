@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "povygy sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "povygy", "amount": 4}, {"item": "jaxu", "amount": 5}], "research": "povygy-conveyor", "category": "distribution", "invert": false}

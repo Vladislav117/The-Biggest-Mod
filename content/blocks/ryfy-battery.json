@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ryfy battery", "description": "...", "size": 3, "health": 222, "requirements": [{"item": "ryfy", "amount": 13}, {"item": "wace", "amount": 4}, {"item": "xyduda", "amount": 5}], "research": "ryfy-factory", "consumes": {"powerBuffered": 6710}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tupo battery", "description": "...", "size": 1, "health": 262, "requirements": [{"item": "tupo", "amount": 13}, {"item": "rosiqe", "amount": 4}, {"item": "kaniyy", "amount": 5}], "research": "tupo-factory", "consumes": {"powerBuffered": 2195}, "category": "power"}

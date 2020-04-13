@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cizenium solar panel", "description": "...", "size": 1, "health": 161, "requirements": [{"item": "cizenium", "amount": 3}, {"item": "vapu", "amount": 12}, {"item": "zajenium", "amount": 7}], "research": "cizenium-factory", "powerProduction": 3.8155525306854727, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "logy overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "logy", "amount": 3}, {"item": "bywazy", "amount": 5}], "research": "logy-conveyor", "category": "distribution", "invert": false}

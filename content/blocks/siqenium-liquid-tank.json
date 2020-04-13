@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "siqenium liquid tank", "description": "...", "health": 539, "size": 3, "requirements": [{"item": "siqenium", "amount": 7}, {"item": "huro", "amount": 15}, {"item": "byro", "amount": 8}], "research": "siqenium-conduit", "category": "liquid", "liquidCapacity": 24857, "hasLiquids": true}

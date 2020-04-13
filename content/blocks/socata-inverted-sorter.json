@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "socata inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "socata", "amount": 4}, {"item": "cuzyko", "amount": 5}], "research": "socata-conveyor", "category": "distribution", "invert": true}

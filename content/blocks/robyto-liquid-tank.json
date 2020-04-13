@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "robyto liquid tank", "description": "...", "health": 262, "size": 3, "requirements": [{"item": "robyto", "amount": 7}, {"item": "gotomy", "amount": 11}, {"item": "bulile", "amount": 7}], "research": "robyto-conduit", "category": "liquid", "liquidCapacity": 106441, "hasLiquids": true}

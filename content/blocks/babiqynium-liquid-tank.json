@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "babiqynium liquid tank", "description": "...", "health": 615, "size": 3, "requirements": [{"item": "babiqynium", "amount": 2}, {"item": "kokyya", "amount": 16}, {"item": "vuponium", "amount": 2}], "research": "babiqynium-conduit", "category": "liquid", "liquidCapacity": 16251, "hasLiquids": true}

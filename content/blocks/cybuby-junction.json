@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cybuby junction", "description": "...", "health": 7, "speed": 16, "capacity": 11, "size": 1, "requirements": [{"item": "cybuby", "amount": 1}, {"item": "qokenium", "amount": 5}], "research": "cybuby-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cobe power node", "description": "...", "size": 2, "health": 341, "requirements": [{"item": "cobe", "amount": 9}, {"item": "zivoginium", "amount": 7}, {"item": "jeqenium", "amount": 7}], "research": "cobe-factory", "maxNodes": 30, "laserRange": 19, "category": "power"}

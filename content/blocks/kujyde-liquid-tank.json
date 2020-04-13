@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kujyde liquid tank", "description": "...", "health": 496, "size": 3, "requirements": [{"item": "kujyde", "amount": 18}, {"item": "hurula", "amount": 12}, {"item": "powa", "amount": 3}], "research": "kujyde-conduit", "category": "liquid", "liquidCapacity": 78036, "hasLiquids": true}

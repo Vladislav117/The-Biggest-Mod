@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xijinium power node", "description": "...", "size": 2, "health": 679, "requirements": [{"item": "xijinium", "amount": 9}, {"item": "towenium", "amount": 1}, {"item": "wybenium", "amount": 5}], "research": "xijinium-factory", "maxNodes": 18, "laserRange": 10, "category": "power"}

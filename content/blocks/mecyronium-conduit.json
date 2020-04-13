@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mecyronium conduit", "description": "...", "health": 144, "requirements": [{"item": "mecyronium", "amount": 19}, {"item": "wuna", "amount": 12}, {"item": "cavyjo", "amount": 4}], "liquidCapacity": 1, "liquidPressure": 0, "research": "mecyronium-factory", "category": "liquid"}

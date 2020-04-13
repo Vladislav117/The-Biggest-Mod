@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vocopy power node", "description": "...", "size": 2, "health": 140, "requirements": [{"item": "vocopy", "amount": 8}, {"item": "joqoranium", "amount": 8}, {"item": "lobu", "amount": 4}], "research": "vocopy-factory", "maxNodes": 42, "laserRange": 18, "category": "power"}

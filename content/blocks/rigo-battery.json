@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rigo battery", "description": "...", "size": 3, "health": 225, "requirements": [{"item": "rigo", "amount": 15}, {"item": "lahowe", "amount": 4}, {"item": "baqo", "amount": 4}], "research": "rigo-factory", "consumes": {"powerBuffered": 9948}, "category": "power"}

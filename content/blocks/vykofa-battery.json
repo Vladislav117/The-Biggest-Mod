@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vykofa battery", "description": "...", "size": 3, "health": 155, "requirements": [{"item": "vykofa", "amount": 20}, {"item": "sacigi", "amount": 7}, {"item": "vodynium", "amount": 1}], "research": "vykofa-factory", "consumes": {"powerBuffered": 7546}, "category": "power"}

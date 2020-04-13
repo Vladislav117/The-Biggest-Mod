@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gagyby battery", "description": "...", "size": 3, "health": 12, "requirements": [{"item": "gagyby", "amount": 19}, {"item": "qiqole", "amount": 11}, {"item": "zonufu", "amount": 5}], "research": "gagyby-factory", "consumes": {"powerBuffered": 3283}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jyreki battery", "description": "...", "size": 3, "health": 360, "requirements": [{"item": "jyreki", "amount": 4}, {"item": "pupyku", "amount": 19}, {"item": "dekaga", "amount": 7}], "research": "jyreki-factory", "consumes": {"powerBuffered": 3506}, "category": "power"}

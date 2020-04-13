@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vitifi overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "vitifi", "amount": 1}, {"item": "felomo", "amount": 3}], "research": "vitifi-conveyor", "category": "distribution", "invert": false}

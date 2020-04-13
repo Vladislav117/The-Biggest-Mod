@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "diha liquid tank", "description": "...", "health": 149, "size": 3, "requirements": [{"item": "diha", "amount": 6}, {"item": "locu", "amount": 2}, {"item": "sypyqanium", "amount": 4}], "research": "diha-conduit", "category": "liquid", "liquidCapacity": 39071, "hasLiquids": true}

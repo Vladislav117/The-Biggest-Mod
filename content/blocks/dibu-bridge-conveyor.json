@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dibu bridge conveyor", "description": "", "health": 33, "range": 5, "speed": 20, "bufferCapacity": 1, "requirements": [{"item": "dibu", "amount": 5}, {"item": "degesy", "amount": 4}], "research": "dibu-conveyor", "category": "distribution", "size": 1}

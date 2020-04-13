@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rahuko power node", "description": "...", "size": 2, "health": 579, "requirements": [{"item": "rahuko", "amount": 18}, {"item": "jogi", "amount": 14}, {"item": "mimunium", "amount": 2}], "research": "rahuko-factory", "maxNodes": 31, "laserRange": 16, "category": "power"}

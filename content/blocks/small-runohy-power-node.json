@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small runohy power node", "description": "...", "size": 1, "health": 265, "requirements": [{"item": "runohy", "amount": 3}, {"item": "nifonium", "amount": 18}, {"item": "tebebe", "amount": 4}], "research": "runohy-factory", "maxNodes": 20, "laserRange": 24, "category": "power"}

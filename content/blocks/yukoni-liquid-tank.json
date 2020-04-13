@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yukoni liquid tank", "description": "...", "health": 654, "size": 3, "requirements": [{"item": "yukoni", "amount": 3}, {"item": "larina", "amount": 8}, {"item": "xuricy", "amount": 1}], "research": "yukoni-conduit", "category": "liquid", "liquidCapacity": 15320, "hasLiquids": true}

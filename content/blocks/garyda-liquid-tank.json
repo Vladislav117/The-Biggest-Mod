@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "garyda liquid tank", "description": "...", "health": 266, "size": 3, "requirements": [{"item": "garyda", "amount": 20}, {"item": "toni", "amount": 1}, {"item": "velewo", "amount": 5}], "research": "garyda-conduit", "category": "liquid", "liquidCapacity": 81843, "hasLiquids": true}

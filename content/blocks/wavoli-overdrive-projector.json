@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "wavoli overdrive projector", "description": "...", "health": 67, "consumes": {"power": 3.0, "item": "wavoli"}, "size": 2, "requirements": [{"item": "wavoli", "amount": 10}, {"item": "metaglass", "amount": 19}, {"item": "wiba", "amount": 4}], "research": "wavoli-factory", "category": "effect"}

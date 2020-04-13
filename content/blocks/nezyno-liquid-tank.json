@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nezyno liquid tank", "description": "...", "health": 217, "size": 3, "requirements": [{"item": "nezyno", "amount": 14}, {"item": "zagy", "amount": 19}, {"item": "jiyomonium", "amount": 9}], "research": "nezyno-conduit", "category": "liquid", "liquidCapacity": 41594, "hasLiquids": true}

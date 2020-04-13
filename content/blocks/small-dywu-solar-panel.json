@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dywu solar panel", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "dywu", "amount": 16}, {"item": "juwynium", "amount": 10}, {"item": "pyso", "amount": 7}], "research": "dywu-factory", "powerProduction": 8.327934305341214, "category": "power"}

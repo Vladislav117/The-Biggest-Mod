@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hiwenium solar panel", "description": "...", "size": 1, "health": 139, "requirements": [{"item": "hiwenium", "amount": 5}, {"item": "fyfoni", "amount": 17}, {"item": "hedi", "amount": 10}], "research": "hiwenium-factory", "powerProduction": 0.7169356778546736, "category": "power"}

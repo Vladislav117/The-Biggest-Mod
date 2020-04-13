@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qysyka junction", "description": "...", "health": 41, "speed": 15, "capacity": 5, "size": 1, "requirements": [{"item": "qysyka", "amount": 5}, {"item": "quda", "amount": 2}], "research": "qysyka-conveyor", "category": "distribution"}

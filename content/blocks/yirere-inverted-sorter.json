@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yirere inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "yirere", "amount": 1}, {"item": "baqilo", "amount": 1}], "research": "yirere-conveyor", "category": "distribution", "invert": true}

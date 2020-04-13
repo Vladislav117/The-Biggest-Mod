@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "minuna solar panel", "description": "...", "size": 3, "health": 48, "requirements": [{"item": "minuna", "amount": 1}, {"item": "niyi", "amount": 8}, {"item": "caxoni", "amount": 10}], "research": "minuna-factory", "powerProduction": 0.39787690187012464, "category": "power"}

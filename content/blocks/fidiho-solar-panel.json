@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fidiho solar panel", "description": "...", "size": 3, "health": 200, "requirements": [{"item": "fidiho", "amount": 1}, {"item": "hocona", "amount": 9}, {"item": "vyjoti", "amount": 7}], "research": "fidiho-factory", "powerProduction": 0.5961902631699033, "category": "power"}

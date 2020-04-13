@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xygu liquid tank", "description": "...", "health": 131, "size": 3, "requirements": [{"item": "xygu", "amount": 16}, {"item": "cowi", "amount": 18}, {"item": "bixehy", "amount": 2}], "research": "xygu-conduit", "category": "liquid", "liquidCapacity": 16381, "hasLiquids": true}

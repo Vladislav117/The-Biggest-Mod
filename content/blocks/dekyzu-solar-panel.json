@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dekyzu solar panel", "description": "...", "size": 3, "health": 41, "requirements": [{"item": "dekyzu", "amount": 19}, {"item": "hyna", "amount": 11}, {"item": "wapo", "amount": 2}], "research": "dekyzu-factory", "powerProduction": 1.4770421895533223, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bezomo battery", "description": "...", "size": 1, "health": 348, "requirements": [{"item": "bezomo", "amount": 13}, {"item": "sary", "amount": 8}, {"item": "sary", "amount": 2}], "research": "bezomo-factory", "consumes": {"powerBuffered": 1708}, "category": "power"}

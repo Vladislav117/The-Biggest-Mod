@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "goli sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "goli", "amount": 3}, {"item": "lype", "amount": 5}], "research": "goli-conveyor", "category": "distribution", "invert": false}

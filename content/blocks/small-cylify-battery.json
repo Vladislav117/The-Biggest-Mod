@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cylify battery", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "cylify", "amount": 8}, {"item": "xoxuma", "amount": 15}, {"item": "gyhecu", "amount": 4}], "research": "cylify-factory", "consumes": {"powerBuffered": 1650}, "category": "power"}

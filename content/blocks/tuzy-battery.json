@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tuzy battery", "description": "...", "size": 3, "health": 34, "requirements": [{"item": "tuzy", "amount": 8}, {"item": "metaglass", "amount": 3}, {"item": "nuko", "amount": 5}], "research": "tuzy-factory", "consumes": {"powerBuffered": 9168}, "category": "power"}

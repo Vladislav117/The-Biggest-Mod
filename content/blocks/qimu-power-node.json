@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qimu power node", "description": "...", "size": 2, "health": 195, "requirements": [{"item": "qimu", "amount": 18}, {"item": "pubado", "amount": 1}, {"item": "papo", "amount": 7}], "research": "qimu-factory", "maxNodes": 27, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yicazunium solar panel", "description": "...", "size": 1, "health": 251, "requirements": [{"item": "yicazunium", "amount": 12}, {"item": "maqapy", "amount": 10}, {"item": "motu", "amount": 5}], "research": "yicazunium-factory", "powerProduction": 5.282723859668028, "category": "power"}

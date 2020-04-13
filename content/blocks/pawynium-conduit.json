@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pawynium conduit", "description": "...", "health": 55, "requirements": [{"item": "pawynium", "amount": 4}, {"item": "zaba", "amount": 5}, {"item": "xaky", "amount": 10}], "liquidCapacity": 40, "liquidPressure": 0, "research": "pawynium-factory", "category": "liquid"}

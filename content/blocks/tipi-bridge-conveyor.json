@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tipi bridge conveyor", "description": "", "health": 13, "range": 5, "speed": 15, "bufferCapacity": 9, "requirements": [{"item": "tipi", "amount": 2}, {"item": "faruna", "amount": 1}], "research": "tipi-conveyor", "category": "distribution", "size": 1}

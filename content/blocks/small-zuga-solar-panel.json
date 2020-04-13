@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zuga solar panel", "description": "...", "size": 1, "health": 288, "requirements": [{"item": "zuga", "amount": 3}, {"item": "baje", "amount": 3}, {"item": "wohunium", "amount": 6}], "research": "zuga-factory", "powerProduction": 3.879323343259356, "category": "power"}

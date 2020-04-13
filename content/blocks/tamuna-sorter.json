@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tamuna sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "tamuna", "amount": 1}, {"item": "haqu", "amount": 5}], "research": "tamuna-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vodaxa battery", "description": "...", "size": 1, "health": 303, "requirements": [{"item": "vodaxa", "amount": 9}, {"item": "nigucy", "amount": 16}, {"item": "mynufu", "amount": 2}], "research": "vodaxa-factory", "consumes": {"powerBuffered": 237}, "category": "power"}

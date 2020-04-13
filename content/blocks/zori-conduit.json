@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zori conduit", "description": "...", "health": 88, "requirements": [{"item": "zori", "amount": 20}, {"item": "kype", "amount": 9}, {"item": "pikoqi", "amount": 10}], "liquidCapacity": 13, "liquidPressure": 6, "research": "zori-factory", "category": "liquid"}

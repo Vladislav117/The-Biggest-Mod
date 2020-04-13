@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mimunium power node", "description": "...", "size": 1, "health": 239, "requirements": [{"item": "mimunium", "amount": 8}, {"item": "nayayi", "amount": 16}, {"item": "xojinium", "amount": 9}], "research": "mimunium-factory", "maxNodes": 29, "laserRange": 18, "category": "power"}

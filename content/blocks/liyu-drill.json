@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "liyu drill", "description": "...", "size": 2, "health": 286, "tier": 1, "drillTime": 4, "consumes": {"power": 19}, "requirements": [{"item": "liyu", "amount": 16}, {"item": "cedonium", "amount": 15}, {"item": "gonu", "amount": 7}], "research": "liyu-factory", "category": "production"}

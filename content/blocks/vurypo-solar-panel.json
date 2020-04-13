@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vurypo solar panel", "description": "...", "size": 3, "health": 161, "requirements": [{"item": "vurypo", "amount": 8}, {"item": "myyu", "amount": 10}, {"item": "lora", "amount": 10}], "research": "vurypo-factory", "powerProduction": 1.6780917915073874, "category": "power"}

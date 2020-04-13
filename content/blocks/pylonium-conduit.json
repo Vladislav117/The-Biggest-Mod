@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pylonium conduit", "description": "...", "health": 105, "requirements": [{"item": "pylonium", "amount": 16}, {"item": "sipynium", "amount": 13}, {"item": "zuva", "amount": 10}], "liquidCapacity": 38, "liquidPressure": 1, "research": "pylonium-factory", "category": "liquid"}

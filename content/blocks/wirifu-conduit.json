@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wirifu conduit", "description": "...", "health": 163, "requirements": [{"item": "wirifu", "amount": 1}, {"item": "cyqanium", "amount": 6}, {"item": "syjilanium", "amount": 8}], "liquidCapacity": 30, "liquidPressure": 0, "research": "wirifu-factory", "category": "liquid"}

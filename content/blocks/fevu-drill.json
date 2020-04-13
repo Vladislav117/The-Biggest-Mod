@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fevu drill", "description": "...", "size": 2, "health": 132, "tier": 2, "drillTime": 10, "consumes": {"power": 15}, "requirements": [{"item": "fevu", "amount": 20}, {"item": "tasusynium", "amount": 17}, {"item": "symeca", "amount": 2}], "research": "fevu-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "voky underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "voky", "amount": 4}, {"item": "rytysynium", "amount": 1}], "research": "voky-conveyor", "category": "distribution", "invert": false}

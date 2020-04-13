@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nota liquid router", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "nota", "amount": 7}, {"item": "lyva", "amount": 14}, {"item": "veco", "amount": 1}], "research": "nota-conduit", "liquidCapacity": 10, "category": "liquid"}

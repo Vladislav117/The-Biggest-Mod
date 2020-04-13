@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small locycanium solar panel", "description": "...", "size": 1, "health": 169, "requirements": [{"item": "locycanium", "amount": 4}, {"item": "diro", "amount": 8}, {"item": "hufema", "amount": 8}], "research": "locycanium-factory", "powerProduction": 4.617167258777698, "category": "power"}

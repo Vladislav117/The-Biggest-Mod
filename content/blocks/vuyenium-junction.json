@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vuyenium junction", "description": "...", "health": 27, "speed": 5, "capacity": 20, "size": 1, "requirements": [{"item": "vuyenium", "amount": 4}, {"item": "penabi", "amount": 2}], "research": "vuyenium-conveyor", "category": "distribution"}

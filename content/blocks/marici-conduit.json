@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "marici conduit", "description": "...", "health": 128, "requirements": [{"item": "marici", "amount": 20}, {"item": "manihe", "amount": 8}, {"item": "qovy", "amount": 9}], "liquidCapacity": 28, "liquidPressure": 6, "research": "marici-factory", "category": "liquid"}

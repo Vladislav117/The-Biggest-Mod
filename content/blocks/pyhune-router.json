@@ -1,0 +1,1 @@
+{"type": "router", "name": "pyhune router", "description": "...", "health": 100, "size": 1, "requirements": [{"item": "pyhune", "amount": 8}], "research": "pyhune-conveyor", "category": "distribution"}

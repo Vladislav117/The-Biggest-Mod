@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qova overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "qova", "amount": 3}, {"item": "yyba", "amount": 1}], "research": "qova-conveyor", "category": "distribution", "invert": false}

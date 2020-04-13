@@ -1,0 +1,1 @@
+{"type": "junction", "name": "defa junction", "description": "...", "health": 35, "speed": 7, "capacity": 7, "size": 1, "requirements": [{"item": "defa", "amount": 3}, {"item": "hajybe", "amount": 5}], "research": "defa-conveyor", "category": "distribution"}

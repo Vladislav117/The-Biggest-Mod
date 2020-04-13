@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mapanium battery", "description": "...", "size": 3, "health": 256, "requirements": [{"item": "mapanium", "amount": 20}, {"item": "xyco", "amount": 6}, {"item": "gydarynium", "amount": 7}], "research": "mapanium-factory", "consumes": {"powerBuffered": 8733}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cobe solar panel", "description": "...", "size": 1, "health": 113, "requirements": [{"item": "cobe", "amount": 14}, {"item": "ruqako", "amount": 10}, {"item": "cujyda", "amount": 9}], "research": "cobe-factory", "powerProduction": 0.9017308942898359, "category": "power"}

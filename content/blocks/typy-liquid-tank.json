@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "typy liquid tank", "description": "...", "health": 531, "size": 3, "requirements": [{"item": "typy", "amount": 17}, {"item": "suwaxy", "amount": 18}, {"item": "cevu", "amount": 4}], "research": "typy-conduit", "category": "liquid", "liquidCapacity": 15961, "hasLiquids": true}

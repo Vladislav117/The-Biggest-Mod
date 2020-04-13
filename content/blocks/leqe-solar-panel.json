@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "leqe solar panel", "description": "...", "size": 3, "health": 349, "requirements": [{"item": "leqe", "amount": 20}, {"item": "minu", "amount": 5}, {"item": "tehepy", "amount": 1}], "research": "leqe-factory", "powerProduction": 1.6685946553685453, "category": "power"}

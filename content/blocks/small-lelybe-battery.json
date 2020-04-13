@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lelybe battery", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "lelybe", "amount": 20}, {"item": "saleru", "amount": 12}, {"item": "tobaye", "amount": 3}], "research": "lelybe-factory", "consumes": {"powerBuffered": 2702}, "category": "power"}

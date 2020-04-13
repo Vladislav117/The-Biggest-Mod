@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bywobu battery", "description": "...", "size": 1, "health": 303, "requirements": [{"item": "bywobu", "amount": 5}, {"item": "kelurynium", "amount": 20}, {"item": "fici", "amount": 7}], "research": "bywobu-factory", "consumes": {"powerBuffered": 2566}, "category": "power"}

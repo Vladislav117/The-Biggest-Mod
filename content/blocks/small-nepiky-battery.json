@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nepiky battery", "description": "...", "size": 1, "health": 145, "requirements": [{"item": "nepiky", "amount": 8}, {"item": "paboya", "amount": 2}, {"item": "suru", "amount": 10}], "research": "nepiky-factory", "consumes": {"powerBuffered": 2910}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "suyi power node", "description": "...", "size": 2, "health": 258, "requirements": [{"item": "suyi", "amount": 18}, {"item": "xuxyvo", "amount": 15}, {"item": "luzini", "amount": 6}], "research": "suyi-factory", "maxNodes": 51, "laserRange": 14, "category": "power"}

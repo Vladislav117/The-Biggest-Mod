@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nofy power node", "description": "...", "size": 2, "health": 428, "requirements": [{"item": "nofy", "amount": 11}, {"item": "luzinium", "amount": 16}, {"item": "tatavo", "amount": 8}], "research": "nofy-factory", "maxNodes": 57, "laserRange": 24, "category": "power"}

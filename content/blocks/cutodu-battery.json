@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cutodu battery", "description": "...", "size": 3, "health": 60, "requirements": [{"item": "cutodu", "amount": 1}, {"item": "luyoyinium", "amount": 2}, {"item": "kyrafinium", "amount": 4}], "research": "cutodu-factory", "consumes": {"powerBuffered": 9054}, "category": "power"}

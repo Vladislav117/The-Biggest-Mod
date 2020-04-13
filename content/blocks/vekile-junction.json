@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vekile junction", "description": "...", "health": 45, "speed": 14, "capacity": 12, "size": 1, "requirements": [{"item": "vekile", "amount": 3}, {"item": "mife", "amount": 2}], "research": "vekile-conveyor", "category": "distribution"}

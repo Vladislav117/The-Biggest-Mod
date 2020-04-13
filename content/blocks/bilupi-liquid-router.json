@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bilupi liquid router", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "bilupi", "amount": 15}, {"item": "neloto", "amount": 12}, {"item": "rovaqa", "amount": 9}], "research": "bilupi-conduit", "liquidCapacity": 10, "category": "liquid"}

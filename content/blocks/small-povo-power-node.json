@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small povo power node", "description": "...", "size": 1, "health": 175, "requirements": [{"item": "povo", "amount": 13}, {"item": "ruyyto", "amount": 11}, {"item": "suta", "amount": 8}], "research": "povo-factory", "maxNodes": 22, "laserRange": 20, "category": "power"}

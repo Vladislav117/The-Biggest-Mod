@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "leloyi overdrive projector", "description": "...", "health": 79, "consumes": {"power": 3.0, "item": "leloyi"}, "size": 2, "requirements": [{"item": "leloyi", "amount": 19}, {"item": "sibewe", "amount": 14}, {"item": "wavoli", "amount": 9}], "research": "leloyi-factory", "category": "effect"}

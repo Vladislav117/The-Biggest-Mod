@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kyle inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "kyle", "amount": 5}, {"item": "qidibe", "amount": 5}], "research": "kyle-conveyor", "category": "distribution", "invert": true}

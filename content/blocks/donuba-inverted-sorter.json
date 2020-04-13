@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "donuba inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "donuba", "amount": 2}, {"item": "cyru", "amount": 2}], "research": "donuba-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tihoyanium drill", "description": "...", "size": 3, "health": 359, "tier": 3, "drillTime": 2, "consumes": {"power": 17}, "requirements": [{"item": "tihoyanium", "amount": 11}, {"item": "xydume", "amount": 8}, {"item": "luyy", "amount": 2}], "research": "tihoyanium-factory", "category": "production"}

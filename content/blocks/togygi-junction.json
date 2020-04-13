@@ -1,0 +1,1 @@
+{"type": "junction", "name": "togygi junction", "description": "...", "health": 12, "speed": 18, "capacity": 20, "size": 1, "requirements": [{"item": "togygi", "amount": 1}, {"item": "seca", "amount": 2}], "research": "togygi-conveyor", "category": "distribution"}

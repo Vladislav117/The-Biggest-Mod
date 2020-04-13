@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yafo sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "yafo", "amount": 5}, {"item": "nefuxa", "amount": 4}], "research": "yafo-conveyor", "category": "distribution", "invert": false}

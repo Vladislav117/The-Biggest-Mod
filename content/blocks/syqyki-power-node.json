@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "syqyki power node", "description": "...", "size": 2, "health": 723, "requirements": [{"item": "syqyki", "amount": 5}, {"item": "qulihe", "amount": 17}, {"item": "tuxu", "amount": 3}], "research": "syqyki-factory", "maxNodes": 10, "laserRange": 25, "category": "power"}

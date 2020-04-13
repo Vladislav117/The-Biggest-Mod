@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ledome power node", "description": "...", "size": 2, "health": 101, "requirements": [{"item": "ledome", "amount": 1}, {"item": "rutiri", "amount": 14}, {"item": "nyboye", "amount": 4}], "research": "ledome-factory", "maxNodes": 12, "laserRange": 13, "category": "power"}

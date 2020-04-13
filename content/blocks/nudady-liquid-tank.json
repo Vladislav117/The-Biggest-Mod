@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nudady liquid tank", "description": "...", "health": 122, "size": 3, "requirements": [{"item": "nudady", "amount": 15}, {"item": "qivohe", "amount": 5}, {"item": "xadyyo", "amount": 2}], "research": "nudady-conduit", "category": "liquid", "liquidCapacity": 10405, "hasLiquids": true}

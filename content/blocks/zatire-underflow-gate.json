@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zatire underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "zatire", "amount": 5}, {"item": "vuzoha", "amount": 2}], "research": "zatire-conveyor", "category": "distribution", "invert": false}

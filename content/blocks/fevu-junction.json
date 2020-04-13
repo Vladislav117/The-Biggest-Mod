@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fevu junction", "description": "...", "health": 6, "speed": 10, "capacity": 19, "size": 1, "requirements": [{"item": "fevu", "amount": 3}, {"item": "wana", "amount": 4}], "research": "fevu-conveyor", "category": "distribution"}

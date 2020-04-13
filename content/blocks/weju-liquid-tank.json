@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "weju liquid tank", "description": "...", "health": 352, "size": 3, "requirements": [{"item": "weju", "amount": 8}, {"item": "dekaga", "amount": 2}, {"item": "gihalu", "amount": 5}], "research": "weju-conduit", "category": "liquid", "liquidCapacity": 33868, "hasLiquids": true}

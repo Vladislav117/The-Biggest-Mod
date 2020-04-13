@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hoxy liquid tank", "description": "...", "health": 302, "size": 3, "requirements": [{"item": "hoxy", "amount": 16}, {"item": "vevevi", "amount": 7}, {"item": "ryzyzi", "amount": 10}], "research": "hoxy-conduit", "category": "liquid", "liquidCapacity": 22099, "hasLiquids": true}

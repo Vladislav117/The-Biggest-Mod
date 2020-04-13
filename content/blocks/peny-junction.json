@@ -1,0 +1,1 @@
+{"type": "junction", "name": "peny junction", "description": "...", "health": 38, "speed": 20, "capacity": 12, "size": 1, "requirements": [{"item": "peny", "amount": 1}, {"item": "qepusenium", "amount": 3}], "research": "peny-conveyor", "category": "distribution"}

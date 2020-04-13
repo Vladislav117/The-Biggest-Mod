@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bomu junction", "description": "...", "health": 11, "speed": 17, "capacity": 8, "size": 1, "requirements": [{"item": "bomu", "amount": 2}, {"item": "zyqita", "amount": 4}], "research": "bomu-conveyor", "category": "distribution"}

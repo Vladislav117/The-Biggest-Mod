@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xolo solar panel", "description": "...", "size": 1, "health": 280, "requirements": [{"item": "xolo", "amount": 2}, {"item": "saciwy", "amount": 11}, {"item": "zilida", "amount": 1}], "research": "xolo-factory", "powerProduction": 2.4916357200240884, "category": "power"}

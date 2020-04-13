@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "furica inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "furica", "amount": 1}, {"item": "vamoginium", "amount": 5}], "research": "furica-conveyor", "category": "distribution", "invert": true}

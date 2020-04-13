@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small savi power node", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "savi", "amount": 4}, {"item": "yavyra", "amount": 13}, {"item": "beniyi", "amount": 8}], "research": "savi-factory", "maxNodes": 20, "laserRange": 17, "category": "power"}

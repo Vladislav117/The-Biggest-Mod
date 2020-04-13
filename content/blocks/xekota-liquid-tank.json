@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xekota liquid tank", "description": "...", "health": 588, "size": 3, "requirements": [{"item": "xekota", "amount": 4}, {"item": "xekota", "amount": 1}, {"item": "lisaca", "amount": 4}], "research": "xekota-conduit", "category": "liquid", "liquidCapacity": 69590, "hasLiquids": true}

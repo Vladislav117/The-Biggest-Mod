@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vody conduit", "description": "...", "health": 114, "requirements": [{"item": "vody", "amount": 13}, {"item": "gotepy", "amount": 12}, {"item": "loda", "amount": 1}], "liquidCapacity": 31, "liquidPressure": 6, "research": "vody-factory", "category": "liquid"}

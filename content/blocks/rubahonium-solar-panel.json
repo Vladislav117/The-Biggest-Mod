@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rubahonium solar panel", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "rubahonium", "amount": 12}, {"item": "ravexi", "amount": 19}, {"item": "jahezu", "amount": 5}], "research": "rubahonium-factory", "powerProduction": 0.03210393058648752, "category": "power"}

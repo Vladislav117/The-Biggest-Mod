@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gorurenium bridge conveyor", "description": "", "health": 2, "range": 16, "speed": 20, "bufferCapacity": 11, "requirements": [{"item": "gorurenium", "amount": 2}, {"item": "jigobanium", "amount": 4}], "research": "gorurenium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yama liquid tank", "description": "...", "health": 210, "size": 3, "requirements": [{"item": "yama", "amount": 10}, {"item": "neloto", "amount": 14}, {"item": "rajela", "amount": 1}], "research": "yama-conduit", "category": "liquid", "liquidCapacity": 20427, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cohu liquid tank", "description": "...", "health": 429, "size": 3, "requirements": [{"item": "cohu", "amount": 9}, {"item": "fise", "amount": 15}, {"item": "fopo", "amount": 10}], "research": "cohu-conduit", "category": "liquid", "liquidCapacity": 31681, "hasLiquids": true}

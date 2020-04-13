@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zayuzi power node", "description": "...", "size": 2, "health": 343, "requirements": [{"item": "zayuzi", "amount": 17}, {"item": "huqiby", "amount": 5}, {"item": "nabu", "amount": 9}], "research": "zayuzi-factory", "maxNodes": 17, "laserRange": 25, "category": "power"}

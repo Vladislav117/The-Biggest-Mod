@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bacone power node", "description": "...", "size": 2, "health": 759, "requirements": [{"item": "bacone", "amount": 15}, {"item": "naku", "amount": 15}, {"item": "jewa", "amount": 5}], "research": "bacone-factory", "maxNodes": 27, "laserRange": 6, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "weqa conduit", "description": "...", "health": 140, "requirements": [{"item": "weqa", "amount": 3}, {"item": "qoki", "amount": 11}, {"item": "sopy", "amount": 6}], "liquidCapacity": 49, "liquidPressure": 9, "research": "weqa-factory", "category": "liquid"}

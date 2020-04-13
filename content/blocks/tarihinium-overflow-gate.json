@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tarihinium overflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "tarihinium", "amount": 1}, {"item": "sawy", "amount": 4}], "research": "tarihinium-conveyor", "category": "distribution", "invert": false}

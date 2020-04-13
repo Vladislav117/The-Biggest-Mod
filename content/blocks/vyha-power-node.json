@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vyha power node", "description": "...", "size": 2, "health": 690, "requirements": [{"item": "vyha", "amount": 13}, {"item": "gusiro", "amount": 19}, {"item": "jihaconium", "amount": 5}], "research": "vyha-factory", "maxNodes": 36, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small colu power node", "description": "...", "size": 1, "health": 297, "requirements": [{"item": "colu", "amount": 4}, {"item": "caxoni", "amount": 10}, {"item": "kecufi", "amount": 10}], "research": "colu-factory", "maxNodes": 21, "laserRange": 18, "category": "power"}

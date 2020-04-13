@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nafamy junction", "description": "...", "health": 17, "speed": 17, "capacity": 16, "size": 1, "requirements": [{"item": "nafamy", "amount": 2}, {"item": "wiyuho", "amount": 3}], "research": "nafamy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vini inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "vini", "amount": 3}, {"item": "fevy", "amount": 1}], "research": "vini-conveyor", "category": "distribution", "invert": true}

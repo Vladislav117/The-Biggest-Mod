@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ruqype liquid tank", "description": "...", "health": 334, "size": 3, "requirements": [{"item": "ruqype", "amount": 3}, {"item": "sarijynium", "amount": 4}, {"item": "qiso", "amount": 8}], "research": "ruqype-conduit", "category": "liquid", "liquidCapacity": 5162, "hasLiquids": true}

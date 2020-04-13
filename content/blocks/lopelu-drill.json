@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lopelu drill", "description": "...", "size": 2, "health": 293, "tier": 3, "drillTime": 4, "consumes": {"power": 10}, "requirements": [{"item": "lopelu", "amount": 10}, {"item": "jahuxynium", "amount": 13}, {"item": "sihynium", "amount": 2}], "research": "lopelu-factory", "category": "production"}

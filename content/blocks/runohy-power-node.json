@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "runohy power node", "description": "...", "size": 2, "health": 484, "requirements": [{"item": "runohy", "amount": 11}, {"item": "mimyva", "amount": 12}, {"item": "yibufe", "amount": 7}], "research": "runohy-factory", "maxNodes": 11, "laserRange": 6, "category": "power"}

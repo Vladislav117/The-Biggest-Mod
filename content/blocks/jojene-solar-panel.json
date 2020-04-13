@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jojene solar panel", "description": "...", "size": 3, "health": 398, "requirements": [{"item": "jojene", "amount": 10}, {"item": "dacira", "amount": 2}, {"item": "tewo", "amount": 3}], "research": "jojene-factory", "powerProduction": 2.4331089701783926, "category": "power"}

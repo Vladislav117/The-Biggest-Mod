@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zanuja underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "zanuja", "amount": 3}, {"item": "zosy", "amount": 2}], "research": "zanuja-conveyor", "category": "distribution", "invert": false}

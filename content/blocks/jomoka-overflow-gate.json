@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jomoka overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "jomoka", "amount": 5}, {"item": "xeye", "amount": 2}], "research": "jomoka-conveyor", "category": "distribution", "invert": false}

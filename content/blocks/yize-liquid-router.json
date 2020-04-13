@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yize liquid router", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "yize", "amount": 16}, {"item": "makajo", "amount": 15}, {"item": "cyru", "amount": 10}], "research": "yize-conduit", "liquidCapacity": 10, "category": "liquid"}

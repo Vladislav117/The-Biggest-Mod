@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "niruya underflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "niruya", "amount": 1}, {"item": "suminium", "amount": 1}], "research": "niruya-conveyor", "category": "distribution", "invert": false}

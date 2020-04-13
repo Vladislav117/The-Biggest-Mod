@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mece power node", "description": "...", "size": 1, "health": 169, "requirements": [{"item": "mece", "amount": 19}, {"item": "vawybo", "amount": 10}, {"item": "yyjy", "amount": 1}], "research": "mece-factory", "maxNodes": 6, "laserRange": 10, "category": "power"}

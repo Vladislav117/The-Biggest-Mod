@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zyly inverted sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "zyly", "amount": 5}, {"item": "jumi", "amount": 4}], "research": "zyly-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jixaro sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "jixaro", "amount": 1}, {"item": "xilo", "amount": 4}], "research": "jixaro-conveyor", "category": "distribution", "invert": false}

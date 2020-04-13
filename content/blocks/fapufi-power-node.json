@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fapufi power node", "description": "...", "size": 2, "health": 707, "requirements": [{"item": "fapufi", "amount": 7}, {"item": "titanium", "amount": 7}, {"item": "yifity", "amount": 9}], "research": "fapufi-factory", "maxNodes": 11, "laserRange": 22, "category": "power"}

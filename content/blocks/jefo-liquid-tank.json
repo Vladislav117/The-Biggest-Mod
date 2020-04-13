@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jefo liquid tank", "description": "...", "health": 551, "size": 3, "requirements": [{"item": "jefo", "amount": 19}, {"item": "sayibe", "amount": 2}, {"item": "zili", "amount": 8}], "research": "jefo-conduit", "category": "liquid", "liquidCapacity": 65567, "hasLiquids": true}

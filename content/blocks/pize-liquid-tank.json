@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pize liquid tank", "description": "...", "health": 280, "size": 3, "requirements": [{"item": "pize", "amount": 20}, {"item": "qaty", "amount": 7}, {"item": "dyzaxi", "amount": 5}], "research": "pize-conduit", "category": "liquid", "liquidCapacity": 39216, "hasLiquids": true}

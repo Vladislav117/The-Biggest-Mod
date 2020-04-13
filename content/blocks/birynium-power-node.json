@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "birynium power node", "description": "...", "size": 2, "health": 104, "requirements": [{"item": "birynium", "amount": 2}, {"item": "yupo", "amount": 20}, {"item": "titanium", "amount": 6}], "research": "birynium-factory", "maxNodes": 39, "laserRange": 11, "category": "power"}

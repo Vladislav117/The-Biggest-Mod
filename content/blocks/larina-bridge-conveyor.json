@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "larina bridge conveyor", "description": "", "health": 30, "range": 6, "speed": 4, "bufferCapacity": 16, "requirements": [{"item": "larina", "amount": 2}, {"item": "pupyku", "amount": 1}], "research": "larina-conveyor", "category": "distribution", "size": 1}

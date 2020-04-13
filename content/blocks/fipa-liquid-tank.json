@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fipa liquid tank", "description": "...", "health": 299, "size": 3, "requirements": [{"item": "fipa", "amount": 20}, {"item": "nidenium", "amount": 16}, {"item": "dyzo", "amount": 6}], "research": "fipa-conduit", "category": "liquid", "liquidCapacity": 87190, "hasLiquids": true}

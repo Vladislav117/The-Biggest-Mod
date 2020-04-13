@@ -1,0 +1,1 @@
+{"type": "battery", "name": "furybe battery", "description": "...", "size": 3, "health": 147, "requirements": [{"item": "furybe", "amount": 10}, {"item": "lojy", "amount": 1}, {"item": "kyrafinium", "amount": 1}], "research": "furybe-factory", "consumes": {"powerBuffered": 1587}, "category": "power"}

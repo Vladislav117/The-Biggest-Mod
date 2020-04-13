@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xiga solar panel", "description": "...", "size": 3, "health": 346, "requirements": [{"item": "xiga", "amount": 13}, {"item": "cozuja", "amount": 9}, {"item": "yisyqu", "amount": 9}], "research": "xiga-factory", "powerProduction": 1.6355375439079674, "category": "power"}

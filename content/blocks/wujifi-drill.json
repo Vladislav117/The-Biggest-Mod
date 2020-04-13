@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wujifi drill", "description": "...", "size": 2, "health": 117, "tier": 1, "drillTime": 13, "consumes": {"power": 1}, "requirements": [{"item": "wujifi", "amount": 18}, {"item": "fise", "amount": 15}, {"item": "yymujy", "amount": 2}], "research": "wujifi-factory", "category": "production"}

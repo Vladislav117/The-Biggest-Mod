@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "myjeke conduit", "description": "...", "health": 100, "requirements": [{"item": "myjeke", "amount": 17}, {"item": "hazi", "amount": 6}, {"item": "joqopy", "amount": 4}], "liquidCapacity": 45, "liquidPressure": 9, "research": "myjeke-factory", "category": "liquid"}

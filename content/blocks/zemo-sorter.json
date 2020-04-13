@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zemo sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "zemo", "amount": 1}, {"item": "xujo", "amount": 1}], "research": "zemo-conveyor", "category": "distribution", "invert": false}

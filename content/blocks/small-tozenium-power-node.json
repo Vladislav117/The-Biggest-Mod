@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tozenium power node", "description": "...", "size": 1, "health": 342, "requirements": [{"item": "tozenium", "amount": 6}, {"item": "kubi", "amount": 2}, {"item": "xiga", "amount": 5}], "research": "tozenium-factory", "maxNodes": 4, "laserRange": 11, "category": "power"}

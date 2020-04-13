@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xeji inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "xeji", "amount": 3}, {"item": "zusi", "amount": 3}], "research": "xeji-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "goxize inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "goxize", "amount": 1}, {"item": "hukebi", "amount": 1}], "research": "goxize-conveyor", "category": "distribution", "invert": true}

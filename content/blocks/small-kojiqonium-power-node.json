@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kojiqonium power node", "description": "...", "size": 1, "health": 197, "requirements": [{"item": "kojiqonium", "amount": 4}, {"item": "nigaya", "amount": 17}, {"item": "futaxunium", "amount": 7}], "research": "kojiqonium-factory", "maxNodes": 19, "laserRange": 14, "category": "power"}

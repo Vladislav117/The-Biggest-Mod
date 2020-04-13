@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lijanium power node", "description": "...", "size": 2, "health": 564, "requirements": [{"item": "lijanium", "amount": 18}, {"item": "merule", "amount": 15}, {"item": "takyhonium", "amount": 2}], "research": "lijanium-factory", "maxNodes": 48, "laserRange": 6, "category": "power"}

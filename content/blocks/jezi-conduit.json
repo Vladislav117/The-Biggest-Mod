@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jezi conduit", "description": "...", "health": 158, "requirements": [{"item": "jezi", "amount": 18}, {"item": "lyra", "amount": 19}, {"item": "vepuge", "amount": 5}], "liquidCapacity": 19, "liquidPressure": 8, "research": "jezi-factory", "category": "liquid"}

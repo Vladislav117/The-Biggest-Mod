@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "hihuly overdrive projector", "description": "...", "health": 59, "consumes": {"power": 3.0, "item": "hihuly"}, "size": 2, "requirements": [{"item": "hihuly", "amount": 2}, {"item": "nujunium", "amount": 18}, {"item": "fyvuyy", "amount": 3}], "research": "hihuly-factory", "category": "effect"}

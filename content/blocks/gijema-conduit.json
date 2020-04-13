@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gijema conduit", "description": "...", "health": 116, "requirements": [{"item": "gijema", "amount": 1}, {"item": "vodico", "amount": 13}, {"item": "sinawenium", "amount": 9}], "liquidCapacity": 13, "liquidPressure": 10, "research": "gijema-factory", "category": "liquid"}

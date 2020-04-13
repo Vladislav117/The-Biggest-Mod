@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qoti battery", "description": "...", "size": 3, "health": 367, "requirements": [{"item": "qoti", "amount": 7}, {"item": "webebu", "amount": 5}, {"item": "weka", "amount": 8}], "research": "qoti-factory", "consumes": {"powerBuffered": 1658}, "category": "power"}

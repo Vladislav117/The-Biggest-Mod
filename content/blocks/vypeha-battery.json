@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vypeha battery", "description": "...", "size": 3, "health": 100, "requirements": [{"item": "vypeha", "amount": 6}, {"item": "diqa", "amount": 10}, {"item": "guvoja", "amount": 6}], "research": "vypeha-factory", "consumes": {"powerBuffered": 6250}, "category": "power"}

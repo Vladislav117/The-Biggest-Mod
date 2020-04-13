@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cafe battery", "description": "...", "size": 1, "health": 334, "requirements": [{"item": "cafe", "amount": 12}, {"item": "sore", "amount": 2}, {"item": "biqa", "amount": 5}], "research": "cafe-factory", "consumes": {"powerBuffered": 588}, "category": "power"}

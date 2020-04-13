@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "joxi power node", "description": "...", "size": 2, "health": 303, "requirements": [{"item": "joxi", "amount": 14}, {"item": "nytu", "amount": 20}, {"item": "zefapynium", "amount": 4}], "research": "joxi-factory", "maxNodes": 57, "laserRange": 22, "category": "power"}

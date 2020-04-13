@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gayika power node", "description": "...", "size": 1, "health": 233, "requirements": [{"item": "gayika", "amount": 6}, {"item": "kosonium", "amount": 9}, {"item": "gytegy", "amount": 5}], "research": "gayika-factory", "maxNodes": 8, "laserRange": 18, "category": "power"}

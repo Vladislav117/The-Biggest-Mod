@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qolo battery", "description": "...", "size": 3, "health": 36, "requirements": [{"item": "qolo", "amount": 4}, {"item": "fufyyu", "amount": 11}, {"item": "jiyifynium", "amount": 8}], "research": "qolo-factory", "consumes": {"powerBuffered": 8511}, "category": "power"}

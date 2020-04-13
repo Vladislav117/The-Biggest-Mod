@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fevu inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "fevu", "amount": 1}, {"item": "puli", "amount": 4}], "research": "fevu-conveyor", "category": "distribution", "invert": true}

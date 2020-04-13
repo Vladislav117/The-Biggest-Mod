@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vohu liquid router", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "vohu", "amount": 11}, {"item": "bedi", "amount": 5}, {"item": "yodo", "amount": 6}], "research": "vohu-conduit", "liquidCapacity": 10, "category": "liquid"}

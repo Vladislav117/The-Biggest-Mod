@@ -1,0 +1,1 @@
+{"type": "junction", "name": "haqu junction", "description": "...", "health": 12, "speed": 19, "capacity": 5, "size": 1, "requirements": [{"item": "haqu", "amount": 1}, {"item": "jumonium", "amount": 5}], "research": "haqu-conveyor", "category": "distribution"}

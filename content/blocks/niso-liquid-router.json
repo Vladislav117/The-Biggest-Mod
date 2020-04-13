@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "niso liquid router", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "niso", "amount": 1}, {"item": "doluka", "amount": 2}, {"item": "watiju", "amount": 7}], "research": "niso-conduit", "liquidCapacity": 10, "category": "liquid"}

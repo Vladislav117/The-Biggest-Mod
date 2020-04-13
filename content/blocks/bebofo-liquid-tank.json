@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bebofo liquid tank", "description": "...", "health": 356, "size": 3, "requirements": [{"item": "bebofo", "amount": 6}, {"item": "cuhynenium", "amount": 13}, {"item": "maqe", "amount": 8}], "research": "bebofo-conduit", "category": "liquid", "liquidCapacity": 18084, "hasLiquids": true}

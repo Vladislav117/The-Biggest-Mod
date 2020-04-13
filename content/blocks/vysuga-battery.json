@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vysuga battery", "description": "...", "size": 3, "health": 48, "requirements": [{"item": "vysuga", "amount": 12}, {"item": "pegonium", "amount": 17}, {"item": "gomaly", "amount": 5}], "research": "vysuga-factory", "consumes": {"powerBuffered": 3719}, "category": "power"}

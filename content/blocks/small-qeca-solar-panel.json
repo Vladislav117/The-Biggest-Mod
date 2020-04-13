@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qeca solar panel", "description": "...", "size": 1, "health": 361, "requirements": [{"item": "qeca", "amount": 8}, {"item": "vivunium", "amount": 20}, {"item": "kixihinium", "amount": 8}], "research": "qeca-factory", "powerProduction": 1.5483400132338028, "category": "power"}

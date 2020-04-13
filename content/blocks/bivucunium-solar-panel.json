@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bivucunium solar panel", "description": "...", "size": 3, "health": 133, "requirements": [{"item": "bivucunium", "amount": 12}, {"item": "xedorinium", "amount": 17}, {"item": "sebypa", "amount": 3}], "research": "bivucunium-factory", "powerProduction": 3.313426652939064, "category": "power"}

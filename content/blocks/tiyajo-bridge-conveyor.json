@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tiyajo bridge conveyor", "description": "", "health": 49, "range": 9, "speed": 11, "bufferCapacity": 2, "requirements": [{"item": "tiyajo", "amount": 3}, {"item": "mepunium", "amount": 3}], "research": "tiyajo-conveyor", "category": "distribution", "size": 1}

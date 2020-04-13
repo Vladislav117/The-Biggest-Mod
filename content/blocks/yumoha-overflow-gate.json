@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yumoha overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "yumoha", "amount": 3}, {"item": "giqonium", "amount": 2}], "research": "yumoha-conveyor", "category": "distribution", "invert": false}

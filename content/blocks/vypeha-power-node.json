@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vypeha power node", "description": "...", "size": 2, "health": 48, "requirements": [{"item": "vypeha", "amount": 11}, {"item": "qebu", "amount": 12}, {"item": "zehonium", "amount": 7}], "research": "vypeha-factory", "maxNodes": 24, "laserRange": 21, "category": "power"}

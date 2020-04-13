@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qera power node", "description": "...", "size": 2, "health": 762, "requirements": [{"item": "qera", "amount": 9}, {"item": "gagyya", "amount": 20}, {"item": "dyjami", "amount": 7}], "research": "qera-factory", "maxNodes": 52, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "syjije liquid tank", "description": "...", "health": 124, "size": 3, "requirements": [{"item": "syjije", "amount": 3}, {"item": "litilenium", "amount": 7}, {"item": "vemohy", "amount": 4}], "research": "syjije-conduit", "category": "liquid", "liquidCapacity": 62878, "hasLiquids": true}

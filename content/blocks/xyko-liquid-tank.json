@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xyko liquid tank", "description": "...", "health": 520, "size": 3, "requirements": [{"item": "xyko", "amount": 11}, {"item": "sygoqu", "amount": 14}, {"item": "bivucunium", "amount": 8}], "research": "xyko-conduit", "category": "liquid", "liquidCapacity": 101874, "hasLiquids": true}

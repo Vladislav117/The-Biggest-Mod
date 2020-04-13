@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gawo junction", "description": "...", "health": 32, "speed": 7, "capacity": 8, "size": 1, "requirements": [{"item": "gawo", "amount": 5}, {"item": "mapanium", "amount": 5}], "research": "gawo-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tufo bridge conveyor", "description": "", "health": 7, "range": 6, "speed": 8, "bufferCapacity": 16, "requirements": [{"item": "tufo", "amount": 4}, {"item": "laqunium", "amount": 1}], "research": "tufo-conveyor", "category": "distribution", "size": 1}

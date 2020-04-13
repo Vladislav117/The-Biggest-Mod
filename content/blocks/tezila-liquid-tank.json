@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tezila liquid tank", "description": "...", "health": 214, "size": 3, "requirements": [{"item": "tezila", "amount": 12}, {"item": "kubi", "amount": 12}, {"item": "bajenium", "amount": 6}], "research": "tezila-conduit", "category": "liquid", "liquidCapacity": 23432, "hasLiquids": true}

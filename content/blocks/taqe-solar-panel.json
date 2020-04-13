@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "taqe solar panel", "description": "...", "size": 3, "health": 336, "requirements": [{"item": "taqe", "amount": 9}, {"item": "jivanium", "amount": 11}, {"item": "kuteme", "amount": 3}], "research": "taqe-factory", "powerProduction": 1.840908978708634, "category": "power"}

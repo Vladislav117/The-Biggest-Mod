@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "nogosy overdrive projector", "description": "...", "health": 58, "consumes": {"power": 3.0, "item": "nogosy"}, "size": 2, "requirements": [{"item": "nogosy", "amount": 16}, {"item": "gyfeca", "amount": 6}, {"item": "vyjoti", "amount": 9}], "research": "nogosy-factory", "category": "effect"}

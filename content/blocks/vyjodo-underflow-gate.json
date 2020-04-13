@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vyjodo underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "vyjodo", "amount": 3}, {"item": "ninu", "amount": 4}], "research": "vyjodo-conveyor", "category": "distribution", "invert": false}

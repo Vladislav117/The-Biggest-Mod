@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jygu liquid tank", "description": "...", "health": 568, "size": 3, "requirements": [{"item": "jygu", "amount": 15}, {"item": "qurehy", "amount": 14}, {"item": "yegy", "amount": 4}], "research": "jygu-conduit", "category": "liquid", "liquidCapacity": 85825, "hasLiquids": true}

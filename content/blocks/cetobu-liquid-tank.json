@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cetobu liquid tank", "description": "...", "health": 209, "size": 3, "requirements": [{"item": "cetobu", "amount": 12}, {"item": "sytu", "amount": 1}, {"item": "wofiny", "amount": 3}], "research": "cetobu-conduit", "category": "liquid", "liquidCapacity": 9230, "hasLiquids": true}

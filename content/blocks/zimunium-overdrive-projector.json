@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "zimunium overdrive projector", "description": "...", "health": 65, "consumes": {"power": 3.0, "item": "zimunium"}, "size": 2, "requirements": [{"item": "zimunium", "amount": 3}, {"item": "mozo", "amount": 15}, {"item": "haqu", "amount": 9}], "research": "zimunium-factory", "category": "effect"}

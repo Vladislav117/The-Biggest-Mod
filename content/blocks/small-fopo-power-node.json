@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fopo power node", "description": "...", "size": 1, "health": 222, "requirements": [{"item": "fopo", "amount": 8}, {"item": "pavanium", "amount": 16}, {"item": "gyzuju", "amount": 8}], "research": "fopo-factory", "maxNodes": 3, "laserRange": 4, "category": "power"}

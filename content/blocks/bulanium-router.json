@@ -1,0 +1,1 @@
+{"type": "router", "name": "bulanium router", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "bulanium", "amount": 5}], "research": "bulanium-conveyor", "category": "distribution"}

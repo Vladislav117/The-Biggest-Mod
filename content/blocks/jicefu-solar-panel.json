@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jicefu solar panel", "description": "...", "size": 3, "health": 179, "requirements": [{"item": "jicefu", "amount": 1}, {"item": "pymu", "amount": 11}, {"item": "giha", "amount": 4}], "research": "jicefu-factory", "powerProduction": 0.46801170595418623, "category": "power"}

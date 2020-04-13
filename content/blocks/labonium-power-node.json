@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "labonium power node", "description": "...", "size": 2, "health": 309, "requirements": [{"item": "labonium", "amount": 14}, {"item": "xecoky", "amount": 15}, {"item": "jayi", "amount": 9}], "research": "labonium-factory", "maxNodes": 57, "laserRange": 30, "category": "power"}

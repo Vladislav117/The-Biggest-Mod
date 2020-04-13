@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lunido inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "lunido", "amount": 1}, {"item": "sysagu", "amount": 1}], "research": "lunido-conveyor", "category": "distribution", "invert": true}

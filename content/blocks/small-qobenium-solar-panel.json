@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qobenium solar panel", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "qobenium", "amount": 4}, {"item": "jicefu", "amount": 19}, {"item": "cuwa", "amount": 7}], "research": "qobenium-factory", "powerProduction": 7.706291555599621, "category": "power"}

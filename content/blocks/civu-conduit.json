@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "civu conduit", "description": "...", "health": 68, "requirements": [{"item": "civu", "amount": 9}, {"item": "minu", "amount": 1}, {"item": "jymi", "amount": 5}], "liquidCapacity": 17, "liquidPressure": 10, "research": "civu-factory", "category": "liquid"}

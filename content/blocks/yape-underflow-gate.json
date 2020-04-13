@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yape underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "yape", "amount": 5}, {"item": "zuwydy", "amount": 4}], "research": "yape-conveyor", "category": "distribution", "invert": false}

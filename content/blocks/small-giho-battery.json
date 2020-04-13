@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small giho battery", "description": "...", "size": 1, "health": 111, "requirements": [{"item": "giho", "amount": 8}, {"item": "kubi", "amount": 1}, {"item": "tezila", "amount": 5}], "research": "giho-factory", "consumes": {"powerBuffered": 375}, "category": "power"}

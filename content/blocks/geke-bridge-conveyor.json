@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "geke bridge conveyor", "description": "", "health": 4, "range": 11, "speed": 20, "bufferCapacity": 6, "requirements": [{"item": "geke", "amount": 3}, {"item": "dyqasy", "amount": 2}], "research": "geke-conveyor", "category": "distribution", "size": 1}

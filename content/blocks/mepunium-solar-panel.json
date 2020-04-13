@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mepunium solar panel", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "mepunium", "amount": 20}, {"item": "bajenium", "amount": 20}, {"item": "seca", "amount": 1}], "research": "mepunium-factory", "powerProduction": 3.328738080349028, "category": "power"}

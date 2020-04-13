@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pegonium overflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "pegonium", "amount": 4}, {"item": "vocazu", "amount": 4}], "research": "pegonium-conveyor", "category": "distribution", "invert": false}

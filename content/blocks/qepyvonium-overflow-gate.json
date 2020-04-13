@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qepyvonium overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "qepyvonium", "amount": 1}, {"item": "metaglass", "amount": 1}], "research": "qepyvonium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tivy bridge conveyor", "description": "", "health": 36, "range": 7, "speed": 12, "bufferCapacity": 9, "requirements": [{"item": "tivy", "amount": 1}, {"item": "rita", "amount": 4}], "research": "tivy-conveyor", "category": "distribution", "size": 1}

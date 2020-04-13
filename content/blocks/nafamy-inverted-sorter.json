@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nafamy inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "nafamy", "amount": 5}, {"item": "tasinium", "amount": 4}], "research": "nafamy-conveyor", "category": "distribution", "invert": true}

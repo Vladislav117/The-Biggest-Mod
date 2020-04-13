@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "siqenium conduit", "description": "...", "health": 169, "requirements": [{"item": "siqenium", "amount": 20}, {"item": "mada", "amount": 11}, {"item": "tijixi", "amount": 2}], "liquidCapacity": 4, "liquidPressure": 10, "research": "siqenium-factory", "category": "liquid"}

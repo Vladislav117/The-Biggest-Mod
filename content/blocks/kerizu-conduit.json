@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kerizu conduit", "description": "...", "health": 105, "requirements": [{"item": "kerizu", "amount": 2}, {"item": "qiwise", "amount": 7}, {"item": "tibu", "amount": 4}], "liquidCapacity": 41, "liquidPressure": 1, "research": "kerizu-factory", "category": "liquid"}

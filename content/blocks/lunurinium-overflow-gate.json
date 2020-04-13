@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lunurinium overflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "lunurinium", "amount": 5}, {"item": "luvonium", "amount": 1}], "research": "lunurinium-conveyor", "category": "distribution", "invert": false}

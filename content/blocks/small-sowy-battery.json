@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sowy battery", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "sowy", "amount": 6}, {"item": "rumo", "amount": 12}, {"item": "sony", "amount": 10}], "research": "sowy-factory", "consumes": {"powerBuffered": 1727}, "category": "power"}

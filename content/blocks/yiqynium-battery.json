@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yiqynium battery", "description": "...", "size": 3, "health": 46, "requirements": [{"item": "yiqynium", "amount": 6}, {"item": "nyvexo", "amount": 16}, {"item": "vaxenium", "amount": 3}], "research": "yiqynium-factory", "consumes": {"powerBuffered": 4105}, "category": "power"}

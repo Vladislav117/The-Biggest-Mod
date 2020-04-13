@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yobito junction", "description": "...", "health": 50, "speed": 19, "capacity": 18, "size": 1, "requirements": [{"item": "yobito", "amount": 5}, {"item": "dyzeky", "amount": 4}], "research": "yobito-conveyor", "category": "distribution"}

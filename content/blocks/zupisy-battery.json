@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zupisy battery", "description": "...", "size": 3, "health": 208, "requirements": [{"item": "zupisy", "amount": 17}, {"item": "togi", "amount": 6}, {"item": "kuza", "amount": 1}], "research": "zupisy-factory", "consumes": {"powerBuffered": 3055}, "category": "power"}

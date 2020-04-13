@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tuzo junction", "description": "...", "health": 32, "speed": 14, "capacity": 17, "size": 1, "requirements": [{"item": "tuzo", "amount": 3}, {"item": "yeku", "amount": 5}], "research": "tuzo-conveyor", "category": "distribution"}

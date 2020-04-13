@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fazame drill", "description": "...", "size": 3, "health": 145, "tier": 1, "drillTime": 6, "consumes": {"power": 11}, "requirements": [{"item": "fazame", "amount": 20}, {"item": "cycu", "amount": 13}, {"item": "tabi", "amount": 3}], "research": "fazame-factory", "category": "production"}

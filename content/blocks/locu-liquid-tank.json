@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "locu liquid tank", "description": "...", "health": 159, "size": 3, "requirements": [{"item": "locu", "amount": 11}, {"item": "hakenium", "amount": 2}, {"item": "reyezy", "amount": 10}], "research": "locu-conduit", "category": "liquid", "liquidCapacity": 117066, "hasLiquids": true}

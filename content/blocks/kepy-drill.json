@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kepy drill", "description": "...", "size": 3, "health": 259, "tier": 2, "drillTime": 10, "consumes": {"power": 10}, "requirements": [{"item": "kepy", "amount": 9}, {"item": "xusunium", "amount": 7}, {"item": "yuly", "amount": 4}], "research": "kepy-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qaryzi liquid tank", "description": "...", "health": 134, "size": 3, "requirements": [{"item": "qaryzi", "amount": 5}, {"item": "foze", "amount": 18}, {"item": "nixony", "amount": 4}], "research": "qaryzi-conduit", "category": "liquid", "liquidCapacity": 78701, "hasLiquids": true}

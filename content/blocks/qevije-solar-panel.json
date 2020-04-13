@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qevije solar panel", "description": "...", "size": 3, "health": 235, "requirements": [{"item": "qevije", "amount": 6}, {"item": "vocazu", "amount": 9}, {"item": "dugypa", "amount": 1}], "research": "qevije-factory", "powerProduction": 6.542237758069568, "category": "power"}

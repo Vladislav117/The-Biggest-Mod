@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nevelunium power node", "description": "...", "size": 2, "health": 532, "requirements": [{"item": "nevelunium", "amount": 18}, {"item": "zafuqo", "amount": 11}, {"item": "weka", "amount": 9}], "research": "nevelunium-factory", "maxNodes": 59, "laserRange": 23, "category": "power"}

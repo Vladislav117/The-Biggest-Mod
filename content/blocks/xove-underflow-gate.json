@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xove underflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "xove", "amount": 4}, {"item": "wace", "amount": 1}], "research": "xove-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yuwu solar panel", "description": "...", "size": 3, "health": 222, "requirements": [{"item": "yuwu", "amount": 13}, {"item": "xydume", "amount": 16}, {"item": "wasebanium", "amount": 6}], "research": "yuwu-factory", "powerProduction": 14.583456537829235, "category": "power"}

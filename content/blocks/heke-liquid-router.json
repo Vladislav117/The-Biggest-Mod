@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "heke liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "heke", "amount": 11}, {"item": "mavitu", "amount": 13}, {"item": "venuki", "amount": 5}], "research": "heke-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hufema battery", "description": "...", "size": 3, "health": 171, "requirements": [{"item": "hufema", "amount": 11}, {"item": "hoqade", "amount": 2}, {"item": "mapibi", "amount": 5}], "research": "hufema-factory", "consumes": {"powerBuffered": 2549}, "category": "power"}

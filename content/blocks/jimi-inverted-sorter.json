@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jimi inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "jimi", "amount": 3}, {"item": "hysobe", "amount": 3}], "research": "jimi-conveyor", "category": "distribution", "invert": true}

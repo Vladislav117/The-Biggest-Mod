@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qeba liquid router", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "qeba", "amount": 14}, {"item": "wywile", "amount": 12}, {"item": "geguqi", "amount": 3}], "research": "qeba-conduit", "liquidCapacity": 10, "category": "liquid"}

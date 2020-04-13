@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hijanium power node", "description": "...", "size": 1, "health": 335, "requirements": [{"item": "hijanium", "amount": 12}, {"item": "gobenium", "amount": 14}, {"item": "cogy", "amount": 8}], "research": "hijanium-factory", "maxNodes": 4, "laserRange": 22, "category": "power"}

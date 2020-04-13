@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hidifynium drill", "description": "...", "size": 4, "health": 405, "tier": 2, "drillTime": 13, "consumes": {"power": 6}, "requirements": [{"item": "hidifynium", "amount": 16}, {"item": "liryfa", "amount": 5}, {"item": "jifilo", "amount": 1}], "research": "hidifynium-factory", "category": "production"}

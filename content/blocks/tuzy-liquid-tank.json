@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tuzy liquid tank", "description": "...", "health": 602, "size": 3, "requirements": [{"item": "tuzy", "amount": 5}, {"item": "mapibi", "amount": 14}, {"item": "vadoda", "amount": 5}], "research": "tuzy-conduit", "category": "liquid", "liquidCapacity": 26043, "hasLiquids": true}

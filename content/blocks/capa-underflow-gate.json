@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "capa underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "capa", "amount": 1}, {"item": "ropa", "amount": 2}], "research": "capa-conveyor", "category": "distribution", "invert": false}

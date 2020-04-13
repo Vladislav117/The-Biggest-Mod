@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "botynium bridge conveyor", "description": "", "health": 12, "range": 18, "speed": 5, "bufferCapacity": 18, "requirements": [{"item": "botynium", "amount": 3}, {"item": "qexata", "amount": 4}], "research": "botynium-conveyor", "category": "distribution", "size": 1}

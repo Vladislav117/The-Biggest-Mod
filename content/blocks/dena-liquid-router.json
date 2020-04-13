@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "dena liquid router", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "dena", "amount": 19}, {"item": "pibu", "amount": 20}, {"item": "cyzofanium", "amount": 1}], "research": "dena-conduit", "liquidCapacity": 10, "category": "liquid"}

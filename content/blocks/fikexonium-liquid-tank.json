@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fikexonium liquid tank", "description": "...", "health": 353, "size": 3, "requirements": [{"item": "fikexonium", "amount": 11}, {"item": "diforinium", "amount": 12}, {"item": "qiti", "amount": 1}], "research": "fikexonium-conduit", "category": "liquid", "liquidCapacity": 58592, "hasLiquids": true}

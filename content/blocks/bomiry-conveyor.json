@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "bomiry conveyor", "description": "...", "health": 325, "requirements": [{"item": "bomiry", "amount": 6}, {"item": "xyfynium", "amount": 10}], "speed": 0.3205998449024526, "research": "bomiry-factory", "category": "distribution"}

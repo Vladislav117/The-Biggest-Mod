@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mabyra solar panel", "description": "...", "size": 3, "health": 230, "requirements": [{"item": "mabyra", "amount": 10}, {"item": "fuyoja", "amount": 12}, {"item": "jaga", "amount": 1}], "research": "mabyra-factory", "powerProduction": 0.4413937107195287, "category": "power"}

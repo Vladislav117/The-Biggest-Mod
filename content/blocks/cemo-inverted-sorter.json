@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cemo inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "cemo", "amount": 3}, {"item": "cudo", "amount": 4}], "research": "cemo-conveyor", "category": "distribution", "invert": true}

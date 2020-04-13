@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yirere power node", "description": "...", "size": 2, "health": 561, "requirements": [{"item": "yirere", "amount": 19}, {"item": "cymaca", "amount": 13}, {"item": "qelyqe", "amount": 4}], "research": "yirere-factory", "maxNodes": 21, "laserRange": 7, "category": "power"}

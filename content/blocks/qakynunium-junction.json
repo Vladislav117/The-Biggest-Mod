@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qakynunium junction", "description": "...", "health": 23, "speed": 5, "capacity": 13, "size": 1, "requirements": [{"item": "qakynunium", "amount": 3}, {"item": "heruru", "amount": 3}], "research": "qakynunium-conveyor", "category": "distribution"}

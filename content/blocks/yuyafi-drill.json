@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yuyafi drill", "description": "...", "size": 3, "health": 377, "tier": 2, "drillTime": 2, "consumes": {"power": 3}, "requirements": [{"item": "yuyafi", "amount": 6}, {"item": "yofopy", "amount": 5}, {"item": "fure", "amount": 2}], "research": "yuyafi-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gevewu power node", "description": "...", "size": 2, "health": 376, "requirements": [{"item": "gevewu", "amount": 5}, {"item": "rehawe", "amount": 2}, {"item": "jayaye", "amount": 1}], "research": "gevewu-factory", "maxNodes": 51, "laserRange": 24, "category": "power"}

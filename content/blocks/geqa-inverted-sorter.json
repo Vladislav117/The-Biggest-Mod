@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "geqa inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "geqa", "amount": 1}, {"item": "jevogi", "amount": 5}], "research": "geqa-conveyor", "category": "distribution", "invert": true}

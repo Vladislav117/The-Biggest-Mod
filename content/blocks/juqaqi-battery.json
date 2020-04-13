@@ -1,0 +1,1 @@
+{"type": "battery", "name": "juqaqi battery", "description": "...", "size": 3, "health": 276, "requirements": [{"item": "juqaqi", "amount": 8}, {"item": "fezadunium", "amount": 3}, {"item": "qepyvonium", "amount": 9}], "research": "juqaqi-factory", "consumes": {"powerBuffered": 8929}, "category": "power"}

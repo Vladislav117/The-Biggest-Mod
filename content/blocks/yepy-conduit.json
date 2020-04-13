@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yepy conduit", "description": "...", "health": 66, "requirements": [{"item": "yepy", "amount": 16}, {"item": "nuko", "amount": 11}, {"item": "gimy", "amount": 2}], "liquidCapacity": 2, "liquidPressure": 0, "research": "yepy-factory", "category": "liquid"}

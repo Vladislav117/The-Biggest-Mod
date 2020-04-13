@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cusefanium sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "cusefanium", "amount": 4}, {"item": "manihe", "amount": 5}], "research": "cusefanium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gacy power node", "description": "...", "size": 1, "health": 374, "requirements": [{"item": "gacy", "amount": 19}, {"item": "hiki", "amount": 11}, {"item": "qudy", "amount": 5}], "research": "gacy-factory", "maxNodes": 28, "laserRange": 5, "category": "power"}

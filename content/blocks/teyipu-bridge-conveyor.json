@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "teyipu bridge conveyor", "description": "", "health": 1, "range": 3, "speed": 3, "bufferCapacity": 17, "requirements": [{"item": "teyipu", "amount": 2}, {"item": "joluxinium", "amount": 5}], "research": "teyipu-conveyor", "category": "distribution", "size": 1}

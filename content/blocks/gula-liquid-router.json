@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gula liquid router", "description": "...", "size": 1, "health": 13, "requirements": [{"item": "gula", "amount": 2}, {"item": "zeha", "amount": 7}, {"item": "cyzofanium", "amount": 1}], "research": "gula-conduit", "liquidCapacity": 10, "category": "liquid"}

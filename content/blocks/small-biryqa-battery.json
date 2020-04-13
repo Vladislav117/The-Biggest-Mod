@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small biryqa battery", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "biryqa", "amount": 20}, {"item": "guda", "amount": 9}, {"item": "kexyco", "amount": 8}], "research": "biryqa-factory", "consumes": {"powerBuffered": 1852}, "category": "power"}

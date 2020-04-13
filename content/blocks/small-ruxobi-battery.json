@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ruxobi battery", "description": "...", "size": 1, "health": 237, "requirements": [{"item": "ruxobi", "amount": 8}, {"item": "zufy", "amount": 7}, {"item": "faqymu", "amount": 7}], "research": "ruxobi-factory", "consumes": {"powerBuffered": 2975}, "category": "power"}

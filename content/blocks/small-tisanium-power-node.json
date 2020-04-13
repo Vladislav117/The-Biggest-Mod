@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tisanium power node", "description": "...", "size": 1, "health": 186, "requirements": [{"item": "tisanium", "amount": 17}, {"item": "lype", "amount": 8}, {"item": "kohi", "amount": 9}], "research": "tisanium-factory", "maxNodes": 19, "laserRange": 13, "category": "power"}

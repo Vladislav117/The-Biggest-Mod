@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cypamy conduit", "description": "...", "health": 86, "requirements": [{"item": "cypamy", "amount": 13}, {"item": "gydarynium", "amount": 15}, {"item": "halyqinium", "amount": 6}], "liquidCapacity": 3, "liquidPressure": 6, "research": "cypamy-factory", "category": "liquid"}

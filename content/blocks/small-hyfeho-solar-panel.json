@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hyfeho solar panel", "description": "...", "size": 1, "health": 331, "requirements": [{"item": "hyfeho", "amount": 7}, {"item": "qylino", "amount": 3}, {"item": "nehudo", "amount": 5}], "research": "hyfeho-factory", "powerProduction": 5.639926912410243, "category": "power"}

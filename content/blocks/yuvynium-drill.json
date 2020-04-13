@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yuvynium drill", "description": "...", "size": 3, "health": 227, "tier": 2, "drillTime": 16, "consumes": {"power": 5}, "requirements": [{"item": "yuvynium", "amount": 19}, {"item": "jubuxa", "amount": 1}, {"item": "wulyso", "amount": 6}], "research": "yuvynium-factory", "category": "production"}

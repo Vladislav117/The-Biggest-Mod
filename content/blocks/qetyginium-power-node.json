@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qetyginium power node", "description": "...", "size": 2, "health": 563, "requirements": [{"item": "qetyginium", "amount": 2}, {"item": "gotomy", "amount": 1}, {"item": "lilyro", "amount": 8}], "research": "qetyginium-factory", "maxNodes": 13, "laserRange": 19, "category": "power"}

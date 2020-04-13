@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bily liquid router", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "bily", "amount": 20}, {"item": "rosiqe", "amount": 16}, {"item": "tiwyna", "amount": 1}], "research": "bily-conduit", "liquidCapacity": 10, "category": "liquid"}

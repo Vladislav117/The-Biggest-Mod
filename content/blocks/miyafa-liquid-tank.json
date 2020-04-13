@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "miyafa liquid tank", "description": "...", "health": 409, "size": 3, "requirements": [{"item": "miyafa", "amount": 16}, {"item": "mapi", "amount": 11}, {"item": "yibufe", "amount": 3}], "research": "miyafa-conduit", "category": "liquid", "liquidCapacity": 12760, "hasLiquids": true}

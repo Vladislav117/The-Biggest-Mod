@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lyxa power node", "description": "...", "size": 2, "health": 780, "requirements": [{"item": "lyxa", "amount": 7}, {"item": "vicimi", "amount": 14}, {"item": "fevawinium", "amount": 9}], "research": "lyxa-factory", "maxNodes": 10, "laserRange": 12, "category": "power"}

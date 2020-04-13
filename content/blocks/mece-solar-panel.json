@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mece solar panel", "description": "...", "size": 3, "health": 14, "requirements": [{"item": "mece", "amount": 5}, {"item": "jygery", "amount": 11}, {"item": "zida", "amount": 4}], "research": "mece-factory", "powerProduction": 0.4560376494975092, "category": "power"}

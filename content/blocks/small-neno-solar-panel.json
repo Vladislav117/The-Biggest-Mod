@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small neno solar panel", "description": "...", "size": 1, "health": 362, "requirements": [{"item": "neno", "amount": 1}, {"item": "kituhinium", "amount": 15}, {"item": "wybenium", "amount": 1}], "research": "neno-factory", "powerProduction": 11.561085397656598, "category": "power"}

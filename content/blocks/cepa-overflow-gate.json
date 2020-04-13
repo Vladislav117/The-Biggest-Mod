@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cepa overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "cepa", "amount": 3}, {"item": "yocenium", "amount": 2}], "research": "cepa-conveyor", "category": "distribution", "invert": false}

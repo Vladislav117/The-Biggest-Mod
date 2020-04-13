@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jorydy power node", "description": "...", "size": 1, "health": 201, "requirements": [{"item": "jorydy", "amount": 11}, {"item": "pusy", "amount": 19}, {"item": "dyco", "amount": 8}], "research": "jorydy-factory", "maxNodes": 16, "laserRange": 5, "category": "power"}

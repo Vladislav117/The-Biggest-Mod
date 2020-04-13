@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "lahowe overdrive projector", "description": "...", "health": 89, "consumes": {"power": 3.0, "item": "lahowe"}, "size": 2, "requirements": [{"item": "lahowe", "amount": 7}, {"item": "vuxi", "amount": 3}, {"item": "puye", "amount": 10}], "research": "lahowe-factory", "category": "effect"}

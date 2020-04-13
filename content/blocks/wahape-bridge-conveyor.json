@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wahape bridge conveyor", "description": "", "health": 6, "range": 11, "speed": 17, "bufferCapacity": 2, "requirements": [{"item": "wahape", "amount": 3}, {"item": "kizywanium", "amount": 1}], "research": "wahape-conveyor", "category": "distribution", "size": 1}

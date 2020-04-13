@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xoniqe battery", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "xoniqe", "amount": 7}, {"item": "yogocu", "amount": 17}, {"item": "jubuxa", "amount": 4}], "research": "xoniqe-factory", "consumes": {"powerBuffered": 229}, "category": "power"}

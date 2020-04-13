@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pobeqi liquid tank", "description": "...", "health": 473, "size": 3, "requirements": [{"item": "pobeqi", "amount": 14}, {"item": "gomuko", "amount": 9}, {"item": "fytuve", "amount": 10}], "research": "pobeqi-conduit", "category": "liquid", "liquidCapacity": 109590, "hasLiquids": true}

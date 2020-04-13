@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "julu solar panel", "description": "...", "size": 3, "health": 369, "requirements": [{"item": "julu", "amount": 4}, {"item": "riyo", "amount": 4}, {"item": "falo", "amount": 5}], "research": "julu-factory", "powerProduction": 0.1740733104224325, "category": "power"}

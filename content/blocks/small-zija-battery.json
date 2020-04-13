@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zija battery", "description": "...", "size": 1, "health": 134, "requirements": [{"item": "zija", "amount": 4}, {"item": "gineta", "amount": 1}, {"item": "kaniyy", "amount": 8}], "research": "zija-factory", "consumes": {"powerBuffered": 1872}, "category": "power"}

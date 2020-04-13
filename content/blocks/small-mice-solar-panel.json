@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mice solar panel", "description": "...", "size": 1, "health": 119, "requirements": [{"item": "mice", "amount": 17}, {"item": "mapanium", "amount": 1}, {"item": "wutigo", "amount": 10}], "research": "mice-factory", "powerProduction": 0.17181336571998418, "category": "power"}

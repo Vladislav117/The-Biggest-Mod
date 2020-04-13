@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sobiye conduit", "description": "...", "health": 192, "requirements": [{"item": "sobiye", "amount": 10}, {"item": "zityyanium", "amount": 5}, {"item": "sigu", "amount": 5}], "liquidCapacity": 4, "liquidPressure": 1, "research": "sobiye-factory", "category": "liquid"}

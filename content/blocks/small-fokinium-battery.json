@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fokinium battery", "description": "...", "size": 1, "health": 225, "requirements": [{"item": "fokinium", "amount": 2}, {"item": "vygu", "amount": 7}, {"item": "gozefynium", "amount": 2}], "research": "fokinium-factory", "consumes": {"powerBuffered": 1773}, "category": "power"}

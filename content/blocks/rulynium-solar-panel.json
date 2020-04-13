@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rulynium solar panel", "description": "...", "size": 3, "health": 71, "requirements": [{"item": "rulynium", "amount": 12}, {"item": "qigiki", "amount": 13}, {"item": "naziha", "amount": 5}], "research": "rulynium-factory", "powerProduction": 1.5539820093946022, "category": "power"}

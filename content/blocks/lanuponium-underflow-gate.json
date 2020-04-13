@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lanuponium underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "lanuponium", "amount": 3}, {"item": "fyjylu", "amount": 5}], "research": "lanuponium-conveyor", "category": "distribution", "invert": false}

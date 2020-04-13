@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gecu sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "gecu", "amount": 5}, {"item": "reyezy", "amount": 5}], "research": "gecu-conveyor", "category": "distribution", "invert": false}

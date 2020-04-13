@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small felomo battery", "description": "...", "size": 1, "health": 140, "requirements": [{"item": "felomo", "amount": 15}, {"item": "ryfo", "amount": 6}, {"item": "lylisa", "amount": 3}], "research": "felomo-factory", "consumes": {"powerBuffered": 727}, "category": "power"}

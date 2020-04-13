@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hotonium conduit", "description": "...", "health": 27, "requirements": [{"item": "hotonium", "amount": 18}, {"item": "pemo", "amount": 5}, {"item": "myvedi", "amount": 4}], "liquidCapacity": 40, "liquidPressure": 10, "research": "hotonium-factory", "category": "liquid"}

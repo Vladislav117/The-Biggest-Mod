@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small civu power node", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "civu", "amount": 6}, {"item": "hisucy", "amount": 13}, {"item": "wuwo", "amount": 1}], "research": "civu-factory", "maxNodes": 5, "laserRange": 10, "category": "power"}

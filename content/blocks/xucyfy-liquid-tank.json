@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xucyfy liquid tank", "description": "...", "health": 411, "size": 3, "requirements": [{"item": "xucyfy", "amount": 14}, {"item": "donuba", "amount": 12}, {"item": "veco", "amount": 7}], "research": "xucyfy-conduit", "category": "liquid", "liquidCapacity": 34962, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kype liquid tank", "description": "...", "health": 560, "size": 3, "requirements": [{"item": "kype", "amount": 2}, {"item": "syjilanium", "amount": 5}, {"item": "vewavu", "amount": 8}], "research": "kype-conduit", "category": "liquid", "liquidCapacity": 70483, "hasLiquids": true}

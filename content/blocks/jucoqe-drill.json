@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jucoqe drill", "description": "...", "size": 2, "health": 275, "tier": 4, "drillTime": 8, "consumes": {"power": 18}, "requirements": [{"item": "jucoqe", "amount": 3}, {"item": "gakipy", "amount": 19}, {"item": "zoyasi", "amount": 6}], "research": "jucoqe-factory", "category": "production"}

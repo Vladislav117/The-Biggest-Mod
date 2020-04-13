@@ -1,0 +1,1 @@
+{"type": "battery", "name": "muni battery", "description": "...", "size": 3, "health": 364, "requirements": [{"item": "muni", "amount": 2}, {"item": "gyzuqo", "amount": 19}, {"item": "ryhi", "amount": 1}], "research": "muni-factory", "consumes": {"powerBuffered": 7919}, "category": "power"}

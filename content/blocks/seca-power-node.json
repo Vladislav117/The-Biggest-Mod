@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "seca power node", "description": "...", "size": 2, "health": 603, "requirements": [{"item": "seca", "amount": 11}, {"item": "seca", "amount": 2}, {"item": "kubi", "amount": 8}], "research": "seca-factory", "maxNodes": 33, "laserRange": 30, "category": "power"}

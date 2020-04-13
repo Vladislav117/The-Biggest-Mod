@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qanupenium battery", "description": "...", "size": 3, "health": 46, "requirements": [{"item": "qanupenium", "amount": 12}, {"item": "nivifu", "amount": 15}, {"item": "dyzeky", "amount": 4}], "research": "qanupenium-factory", "consumes": {"powerBuffered": 5347}, "category": "power"}

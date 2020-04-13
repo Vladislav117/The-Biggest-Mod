@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vodaxa battery", "description": "...", "size": 3, "health": 165, "requirements": [{"item": "vodaxa", "amount": 4}, {"item": "kywowa", "amount": 11}, {"item": "guvoja", "amount": 9}], "research": "vodaxa-factory", "consumes": {"powerBuffered": 5818}, "category": "power"}

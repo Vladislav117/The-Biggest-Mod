@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xilu solar panel", "description": "...", "size": 3, "health": 117, "requirements": [{"item": "xilu", "amount": 2}, {"item": "loja", "amount": 13}, {"item": "puziqo", "amount": 2}], "research": "xilu-factory", "powerProduction": 0.4171655352677139, "category": "power"}

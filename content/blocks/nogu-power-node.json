@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nogu power node", "description": "...", "size": 2, "health": 694, "requirements": [{"item": "nogu", "amount": 7}, {"item": "cudy", "amount": 11}, {"item": "tusico", "amount": 4}], "research": "nogu-factory", "maxNodes": 21, "laserRange": 20, "category": "power"}

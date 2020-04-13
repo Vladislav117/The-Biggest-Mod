@@ -1,0 +1,1 @@
+{"type": "battery", "name": "geco battery", "description": "...", "size": 3, "health": 82, "requirements": [{"item": "geco", "amount": 1}, {"item": "jidy", "amount": 17}, {"item": "cecuvinium", "amount": 2}], "research": "geco-factory", "consumes": {"powerBuffered": 917}, "category": "power"}

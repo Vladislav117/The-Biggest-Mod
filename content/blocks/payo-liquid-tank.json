@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "payo liquid tank", "description": "...", "health": 422, "size": 3, "requirements": [{"item": "payo", "amount": 4}, {"item": "feyyqe", "amount": 14}, {"item": "jaki", "amount": 5}], "research": "payo-conduit", "category": "liquid", "liquidCapacity": 26662, "hasLiquids": true}

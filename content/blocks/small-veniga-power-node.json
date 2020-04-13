@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small veniga power node", "description": "...", "size": 1, "health": 236, "requirements": [{"item": "veniga", "amount": 15}, {"item": "zokiry", "amount": 17}, {"item": "yynylo", "amount": 7}], "research": "veniga-factory", "maxNodes": 6, "laserRange": 22, "category": "power"}

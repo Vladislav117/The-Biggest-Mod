@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pawusy inverted sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "pawusy", "amount": 1}, {"item": "seyuwa", "amount": 2}], "research": "pawusy-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xolo battery", "description": "...", "size": 3, "health": 125, "requirements": [{"item": "xolo", "amount": 5}, {"item": "dodyvo", "amount": 20}, {"item": "xehuxy", "amount": 9}], "research": "xolo-factory", "consumes": {"powerBuffered": 7414}, "category": "power"}

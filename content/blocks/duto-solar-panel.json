@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "duto solar panel", "description": "...", "size": 3, "health": 159, "requirements": [{"item": "duto", "amount": 14}, {"item": "qari", "amount": 11}, {"item": "sofowo", "amount": 10}], "research": "duto-factory", "powerProduction": 0.8622179077926039, "category": "power"}

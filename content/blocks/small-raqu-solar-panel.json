@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small raqu solar panel", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "raqu", "amount": 6}, {"item": "hicoxo", "amount": 13}, {"item": "zukolunium", "amount": 1}], "research": "raqu-factory", "powerProduction": 2.1409443877000633, "category": "power"}

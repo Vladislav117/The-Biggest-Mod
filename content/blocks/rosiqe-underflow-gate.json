@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rosiqe underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "rosiqe", "amount": 2}, {"item": "giho", "amount": 4}], "research": "rosiqe-conveyor", "category": "distribution", "invert": false}

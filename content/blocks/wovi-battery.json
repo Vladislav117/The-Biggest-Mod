@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wovi battery", "description": "...", "size": 3, "health": 348, "requirements": [{"item": "wovi", "amount": 6}, {"item": "netalu", "amount": 6}, {"item": "body", "amount": 7}], "research": "wovi-factory", "consumes": {"powerBuffered": 5131}, "category": "power"}

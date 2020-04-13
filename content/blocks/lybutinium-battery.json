@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lybutinium battery", "description": "...", "size": 3, "health": 311, "requirements": [{"item": "lybutinium", "amount": 6}, {"item": "riwi", "amount": 18}, {"item": "titanium", "amount": 1}], "research": "lybutinium-factory", "consumes": {"powerBuffered": 5535}, "category": "power"}

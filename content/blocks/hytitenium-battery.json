@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hytitenium battery", "description": "...", "size": 3, "health": 196, "requirements": [{"item": "hytitenium", "amount": 12}, {"item": "jiyomonium", "amount": 10}, {"item": "joky", "amount": 5}], "research": "hytitenium-factory", "consumes": {"powerBuffered": 4077}, "category": "power"}

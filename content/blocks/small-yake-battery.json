@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yake battery", "description": "...", "size": 1, "health": 366, "requirements": [{"item": "yake", "amount": 15}, {"item": "tufi", "amount": 18}, {"item": "goduji", "amount": 4}], "research": "yake-factory", "consumes": {"powerBuffered": 1434}, "category": "power"}

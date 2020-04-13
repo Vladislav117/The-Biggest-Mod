@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nerymi underflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "nerymi", "amount": 4}, {"item": "hajo", "amount": 5}], "research": "nerymi-conveyor", "category": "distribution", "invert": false}

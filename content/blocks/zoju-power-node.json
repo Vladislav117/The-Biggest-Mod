@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zoju power node", "description": "...", "size": 2, "health": 279, "requirements": [{"item": "zoju", "amount": 11}, {"item": "ridu", "amount": 8}, {"item": "fizy", "amount": 5}], "research": "zoju-factory", "maxNodes": 60, "laserRange": 25, "category": "power"}

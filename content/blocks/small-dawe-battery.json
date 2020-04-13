@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dawe battery", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "dawe", "amount": 20}, {"item": "jomoka", "amount": 17}, {"item": "yuly", "amount": 6}], "research": "dawe-factory", "consumes": {"powerBuffered": 381}, "category": "power"}

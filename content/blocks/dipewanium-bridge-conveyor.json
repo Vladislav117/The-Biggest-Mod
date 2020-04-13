@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dipewanium bridge conveyor", "description": "", "health": 44, "range": 5, "speed": 14, "bufferCapacity": 24, "requirements": [{"item": "dipewanium", "amount": 1}, {"item": "pyxoxanium", "amount": 2}], "research": "dipewanium-conveyor", "category": "distribution", "size": 1}

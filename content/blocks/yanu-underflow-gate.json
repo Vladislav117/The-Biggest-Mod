@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yanu underflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "yanu", "amount": 3}, {"item": "venuki", "amount": 5}], "research": "yanu-conveyor", "category": "distribution", "invert": false}

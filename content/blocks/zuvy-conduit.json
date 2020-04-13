@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zuvy conduit", "description": "...", "health": 76, "requirements": [{"item": "zuvy", "amount": 9}, {"item": "hymonium", "amount": 5}, {"item": "gahy", "amount": 5}], "liquidCapacity": 24, "liquidPressure": 0, "research": "zuvy-factory", "category": "liquid"}

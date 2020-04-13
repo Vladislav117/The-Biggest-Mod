@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wety solar panel", "description": "...", "size": 3, "health": 211, "requirements": [{"item": "wety", "amount": 19}, {"item": "wajese", "amount": 4}, {"item": "lero", "amount": 4}], "research": "wety-factory", "powerProduction": 7.368504282678369, "category": "power"}

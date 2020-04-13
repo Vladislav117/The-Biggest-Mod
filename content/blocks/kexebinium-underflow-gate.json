@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kexebinium underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "kexebinium", "amount": 3}, {"item": "vodico", "amount": 2}], "research": "kexebinium-conveyor", "category": "distribution", "invert": false}

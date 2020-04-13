@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cydi solar panel", "description": "...", "size": 3, "health": 92, "requirements": [{"item": "cydi", "amount": 7}, {"item": "yicazunium", "amount": 9}, {"item": "liqohy", "amount": 1}], "research": "cydi-factory", "powerProduction": 4.188248195414629, "category": "power"}

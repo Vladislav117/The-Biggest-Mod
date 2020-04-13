@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "toqe overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "toqe", "amount": 5}, {"item": "gasunium", "amount": 1}], "research": "toqe-conveyor", "category": "distribution", "invert": false}

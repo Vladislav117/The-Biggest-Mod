@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cedonium power node", "description": "...", "size": 1, "health": 303, "requirements": [{"item": "cedonium", "amount": 1}, {"item": "jyma", "amount": 18}, {"item": "wace", "amount": 9}], "research": "cedonium-factory", "maxNodes": 4, "laserRange": 7, "category": "power"}

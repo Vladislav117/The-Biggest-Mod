@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nihu bridge conveyor", "description": "", "health": 17, "range": 19, "speed": 11, "bufferCapacity": 7, "requirements": [{"item": "nihu", "amount": 3}, {"item": "lahydo", "amount": 2}], "research": "nihu-conveyor", "category": "distribution", "size": 1}

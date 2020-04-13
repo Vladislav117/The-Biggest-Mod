@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "coxufe solar panel", "description": "...", "size": 3, "health": 252, "requirements": [{"item": "coxufe", "amount": 19}, {"item": "jyzywy", "amount": 9}, {"item": "dipyfonium", "amount": 2}], "research": "coxufe-factory", "powerProduction": 3.1082328058453985, "category": "power"}

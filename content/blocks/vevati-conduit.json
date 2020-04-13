@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vevati conduit", "description": "...", "health": 172, "requirements": [{"item": "vevati", "amount": 8}, {"item": "hyla", "amount": 18}, {"item": "zyru", "amount": 8}], "liquidCapacity": 11, "liquidPressure": 5, "research": "vevati-factory", "category": "liquid"}

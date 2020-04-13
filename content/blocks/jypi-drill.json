@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jypi drill", "description": "...", "size": 2, "health": 350, "tier": 4, "drillTime": 17, "consumes": {"power": 6}, "requirements": [{"item": "jypi", "amount": 3}, {"item": "pufere", "amount": 7}, {"item": "foqe", "amount": 3}], "research": "jypi-factory", "category": "production"}

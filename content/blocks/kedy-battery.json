@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kedy battery", "description": "...", "size": 3, "health": 232, "requirements": [{"item": "kedy", "amount": 20}, {"item": "padopu", "amount": 15}, {"item": "togygi", "amount": 10}], "research": "kedy-factory", "consumes": {"powerBuffered": 1397}, "category": "power"}

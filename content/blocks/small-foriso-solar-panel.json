@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small foriso solar panel", "description": "...", "size": 1, "health": 167, "requirements": [{"item": "foriso", "amount": 16}, {"item": "wamu", "amount": 3}, {"item": "qosa", "amount": 5}], "research": "foriso-factory", "powerProduction": 3.2564984925580296, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vupofy bridge conveyor", "description": "", "health": 5, "range": 3, "speed": 3, "bufferCapacity": 8, "requirements": [{"item": "vupofy", "amount": 1}, {"item": "thorium", "amount": 3}], "research": "vupofy-conveyor", "category": "distribution", "size": 1}

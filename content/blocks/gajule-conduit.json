@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gajule conduit", "description": "...", "health": 145, "requirements": [{"item": "gajule", "amount": 15}, {"item": "kesyginium", "amount": 16}, {"item": "suminium", "amount": 7}], "liquidCapacity": 21, "liquidPressure": 9, "research": "gajule-factory", "category": "liquid"}

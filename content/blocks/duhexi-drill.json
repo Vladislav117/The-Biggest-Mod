@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "duhexi drill", "description": "...", "size": 3, "health": 182, "tier": 1, "drillTime": 20, "consumes": {"power": 10}, "requirements": [{"item": "duhexi", "amount": 20}, {"item": "myyu", "amount": 13}, {"item": "velewo", "amount": 3}], "research": "duhexi-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tumybi solar panel", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "tumybi", "amount": 17}, {"item": "reminium", "amount": 2}, {"item": "numy", "amount": 8}], "research": "tumybi-factory", "powerProduction": 0.5089482194200976, "category": "power"}

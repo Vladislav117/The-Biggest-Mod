@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "xeye force projector", "description": "...", "health": 217, "size": 3, "consumes": {"power": 5.0, "item": "xeye"}, "requirements": [{"item": "xeye", "amount": 11}, {"item": "bywazy", "amount": 11}, {"item": "surge-alloy", "amount": 3}], "research": "xeye-factory", "category": "effect"}

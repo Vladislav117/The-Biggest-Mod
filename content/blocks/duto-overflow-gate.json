@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "duto overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "duto", "amount": 1}, {"item": "jepumi", "amount": 4}], "research": "duto-conveyor", "category": "distribution", "invert": false}

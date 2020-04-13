@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gekuna overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "gekuna", "amount": 1}, {"item": "togygi", "amount": 1}], "research": "gekuna-conveyor", "category": "distribution", "invert": false}

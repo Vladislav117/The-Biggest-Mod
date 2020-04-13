@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cybamy sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "cybamy", "amount": 3}, {"item": "kado", "amount": 5}], "research": "cybamy-conveyor", "category": "distribution", "invert": false}

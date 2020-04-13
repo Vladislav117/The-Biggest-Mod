@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tedu conduit", "description": "...", "health": 110, "requirements": [{"item": "tedu", "amount": 6}, {"item": "piyovy", "amount": 16}, {"item": "lexo", "amount": 3}], "liquidCapacity": 21, "liquidPressure": 2, "research": "tedu-factory", "category": "liquid"}

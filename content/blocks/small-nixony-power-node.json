@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nixony power node", "description": "...", "size": 1, "health": 121, "requirements": [{"item": "nixony", "amount": 1}, {"item": "jomoka", "amount": 6}, {"item": "maqe", "amount": 7}], "research": "nixony-factory", "maxNodes": 13, "laserRange": 25, "category": "power"}

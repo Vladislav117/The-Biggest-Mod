@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hygili inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "hygili", "amount": 5}, {"item": "hoqade", "amount": 5}], "research": "hygili-conveyor", "category": "distribution", "invert": true}

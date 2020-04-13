@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "punygo liquid tank", "description": "...", "health": 435, "size": 3, "requirements": [{"item": "punygo", "amount": 15}, {"item": "tove", "amount": 10}, {"item": "qiyo", "amount": 9}], "research": "punygo-conduit", "category": "liquid", "liquidCapacity": 41635, "hasLiquids": true}

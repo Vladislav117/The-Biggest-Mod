@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "delu liquid tank", "description": "...", "health": 520, "size": 3, "requirements": [{"item": "delu", "amount": 8}, {"item": "liba", "amount": 18}, {"item": "vuvonium", "amount": 1}], "research": "delu-conduit", "category": "liquid", "liquidCapacity": 10171, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vapo solar panel", "description": "...", "size": 3, "health": 321, "requirements": [{"item": "vapo", "amount": 2}, {"item": "xorele", "amount": 10}, {"item": "tebi", "amount": 7}], "research": "vapo-factory", "powerProduction": 1.492859675347871, "category": "power"}

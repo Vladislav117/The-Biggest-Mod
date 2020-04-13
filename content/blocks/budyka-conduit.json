@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "budyka conduit", "description": "...", "health": 90, "requirements": [{"item": "budyka", "amount": 12}, {"item": "cywynium", "amount": 10}, {"item": "hubezo", "amount": 4}], "liquidCapacity": 9, "liquidPressure": 0, "research": "budyka-factory", "category": "liquid"}

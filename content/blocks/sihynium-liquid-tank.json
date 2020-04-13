@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sihynium liquid tank", "description": "...", "health": 236, "size": 3, "requirements": [{"item": "sihynium", "amount": 1}, {"item": "kyte", "amount": 10}, {"item": "qepusenium", "amount": 10}], "research": "sihynium-conduit", "category": "liquid", "liquidCapacity": 18349, "hasLiquids": true}

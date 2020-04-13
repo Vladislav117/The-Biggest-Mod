@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "veqyro inverted sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "veqyro", "amount": 3}, {"item": "kilu", "amount": 2}], "research": "veqyro-conveyor", "category": "distribution", "invert": true}

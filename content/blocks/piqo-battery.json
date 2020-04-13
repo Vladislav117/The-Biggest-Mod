@@ -1,0 +1,1 @@
+{"type": "battery", "name": "piqo battery", "description": "...", "size": 3, "health": 364, "requirements": [{"item": "piqo", "amount": 5}, {"item": "pojesu", "amount": 10}, {"item": "pacezu", "amount": 2}], "research": "piqo-factory", "consumes": {"powerBuffered": 2491}, "category": "power"}

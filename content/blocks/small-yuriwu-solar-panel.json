@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yuriwu solar panel", "description": "...", "size": 1, "health": 210, "requirements": [{"item": "yuriwu", "amount": 7}, {"item": "miqomy", "amount": 19}, {"item": "vudoca", "amount": 6}], "research": "yuriwu-factory", "powerProduction": 9.77498073574222, "category": "power"}

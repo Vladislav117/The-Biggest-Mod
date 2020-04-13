@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dora inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "dora", "amount": 5}, {"item": "tobu", "amount": 1}], "research": "dora-conveyor", "category": "distribution", "invert": true}

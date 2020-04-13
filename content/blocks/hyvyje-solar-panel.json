@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hyvyje solar panel", "description": "...", "size": 3, "health": 162, "requirements": [{"item": "hyvyje", "amount": 16}, {"item": "lapydy", "amount": 1}, {"item": "bileyu", "amount": 9}], "research": "hyvyje-factory", "powerProduction": 5.475400949854356, "category": "power"}

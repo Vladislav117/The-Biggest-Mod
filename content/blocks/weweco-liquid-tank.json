@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "weweco liquid tank", "description": "...", "health": 453, "size": 3, "requirements": [{"item": "weweco", "amount": 2}, {"item": "horyve", "amount": 9}, {"item": "yixa", "amount": 7}], "research": "weweco-conduit", "category": "liquid", "liquidCapacity": 23032, "hasLiquids": true}

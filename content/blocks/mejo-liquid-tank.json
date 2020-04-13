@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mejo liquid tank", "description": "...", "health": 609, "size": 3, "requirements": [{"item": "mejo", "amount": 1}, {"item": "saze", "amount": 14}, {"item": "wusa", "amount": 4}], "research": "mejo-conduit", "category": "liquid", "liquidCapacity": 102180, "hasLiquids": true}

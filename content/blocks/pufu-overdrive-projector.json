@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "pufu overdrive projector", "description": "...", "health": 93, "consumes": {"power": 3.0, "item": "pufu"}, "size": 2, "requirements": [{"item": "pufu", "amount": 2}, {"item": "noninium", "amount": 3}, {"item": "copa", "amount": 8}], "research": "pufu-factory", "category": "effect"}

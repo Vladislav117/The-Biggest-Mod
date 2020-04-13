@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "danitu liquid tank", "description": "...", "health": 217, "size": 3, "requirements": [{"item": "danitu", "amount": 1}, {"item": "wita", "amount": 9}, {"item": "pyto", "amount": 2}], "research": "danitu-conduit", "category": "liquid", "liquidCapacity": 77994, "hasLiquids": true}

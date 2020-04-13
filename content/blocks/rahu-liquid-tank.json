@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rahu liquid tank", "description": "...", "health": 146, "size": 3, "requirements": [{"item": "rahu", "amount": 15}, {"item": "mytati", "amount": 18}, {"item": "duginium", "amount": 3}], "research": "rahu-conduit", "category": "liquid", "liquidCapacity": 27816, "hasLiquids": true}

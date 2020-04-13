@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yatymo solar panel", "description": "...", "size": 3, "health": 171, "requirements": [{"item": "yatymo", "amount": 9}, {"item": "nezexe", "amount": 18}, {"item": "qeyanium", "amount": 5}], "research": "yatymo-factory", "powerProduction": 0.3583885889561717, "category": "power"}

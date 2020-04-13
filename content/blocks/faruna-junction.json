@@ -1,0 +1,1 @@
+{"type": "junction", "name": "faruna junction", "description": "...", "health": 23, "speed": 19, "capacity": 19, "size": 1, "requirements": [{"item": "faruna", "amount": 5}, {"item": "ragoku", "amount": 4}], "research": "faruna-conveyor", "category": "distribution"}

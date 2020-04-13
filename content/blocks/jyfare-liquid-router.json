@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jyfare liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "jyfare", "amount": 5}, {"item": "ruxyye", "amount": 5}, {"item": "hasoye", "amount": 7}], "research": "jyfare-conduit", "liquidCapacity": 10, "category": "liquid"}

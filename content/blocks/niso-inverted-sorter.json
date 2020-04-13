@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "niso inverted sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "niso", "amount": 5}, {"item": "pify", "amount": 2}], "research": "niso-conveyor", "category": "distribution", "invert": true}

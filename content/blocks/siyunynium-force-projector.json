@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "siyunynium force projector", "description": "...", "health": 229, "size": 3, "consumes": {"power": 5.0, "item": "siyunynium"}, "requirements": [{"item": "siyunynium", "amount": 19}, {"item": "zuwydy", "amount": 6}, {"item": "kituhinium", "amount": 9}], "research": "siyunynium-factory", "category": "effect"}

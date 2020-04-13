@@ -1,0 +1,1 @@
+{"type": "battery", "name": "neni battery", "description": "...", "size": 3, "health": 73, "requirements": [{"item": "neni", "amount": 14}, {"item": "dala", "amount": 13}, {"item": "migy", "amount": 10}], "research": "neni-factory", "consumes": {"powerBuffered": 8332}, "category": "power"}

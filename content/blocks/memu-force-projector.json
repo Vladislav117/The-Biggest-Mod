@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "memu force projector", "description": "...", "health": 108, "size": 3, "consumes": {"power": 5.0, "item": "memu"}, "requirements": [{"item": "memu", "amount": 15}, {"item": "qari", "amount": 13}, {"item": "fiyuju", "amount": 1}], "research": "memu-factory", "category": "effect"}

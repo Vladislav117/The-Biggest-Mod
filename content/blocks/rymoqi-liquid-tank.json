@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rymoqi liquid tank", "description": "...", "health": 605, "size": 3, "requirements": [{"item": "rymoqi", "amount": 9}, {"item": "hiqasynium", "amount": 11}, {"item": "dyda", "amount": 7}], "research": "rymoqi-conduit", "category": "liquid", "liquidCapacity": 7774, "hasLiquids": true}

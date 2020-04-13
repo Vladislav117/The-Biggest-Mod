@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hyru battery", "description": "...", "size": 3, "health": 113, "requirements": [{"item": "hyru", "amount": 2}, {"item": "nepysi", "amount": 16}, {"item": "labila", "amount": 2}], "research": "hyru-factory", "consumes": {"powerBuffered": 5566}, "category": "power"}

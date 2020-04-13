@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dora bridge conveyor", "description": "", "health": 10, "range": 16, "speed": 19, "bufferCapacity": 18, "requirements": [{"item": "dora", "amount": 3}, {"item": "bazidu", "amount": 2}], "research": "dora-conveyor", "category": "distribution", "size": 1}

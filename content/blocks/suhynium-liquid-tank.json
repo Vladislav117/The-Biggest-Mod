@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "suhynium liquid tank", "description": "...", "health": 405, "size": 3, "requirements": [{"item": "suhynium", "amount": 6}, {"item": "vunijy", "amount": 14}, {"item": "nytohi", "amount": 9}], "research": "suhynium-conduit", "category": "liquid", "liquidCapacity": 75375, "hasLiquids": true}

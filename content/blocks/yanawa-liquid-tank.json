@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yanawa liquid tank", "description": "...", "health": 189, "size": 3, "requirements": [{"item": "yanawa", "amount": 16}, {"item": "dogequ", "amount": 17}, {"item": "heqywanium", "amount": 7}], "research": "yanawa-conduit", "category": "liquid", "liquidCapacity": 61194, "hasLiquids": true}

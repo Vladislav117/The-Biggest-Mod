@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pamufo inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "pamufo", "amount": 4}, {"item": "zodo", "amount": 3}], "research": "pamufo-conveyor", "category": "distribution", "invert": true}

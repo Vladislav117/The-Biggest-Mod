@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qaxi power node", "description": "...", "size": 1, "health": 380, "requirements": [{"item": "qaxi", "amount": 2}, {"item": "sayo", "amount": 17}, {"item": "myfo", "amount": 1}], "research": "qaxi-factory", "maxNodes": 3, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "basomi battery", "description": "...", "size": 3, "health": 155, "requirements": [{"item": "basomi", "amount": 19}, {"item": "zuzequ", "amount": 15}, {"item": "gogajy", "amount": 5}], "research": "basomi-factory", "consumes": {"powerBuffered": 4527}, "category": "power"}

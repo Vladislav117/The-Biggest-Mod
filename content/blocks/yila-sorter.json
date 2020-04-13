@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yila sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "yila", "amount": 5}, {"item": "xadunium", "amount": 2}], "research": "yila-conveyor", "category": "distribution", "invert": false}

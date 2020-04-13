@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nixyli liquid router", "description": "...", "size": 1, "health": 73, "requirements": [{"item": "nixyli", "amount": 15}, {"item": "jepumi", "amount": 4}, {"item": "yeli", "amount": 4}], "research": "nixyli-conduit", "liquidCapacity": 10, "category": "liquid"}

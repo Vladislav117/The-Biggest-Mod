@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vodehonium power node", "description": "...", "size": 2, "health": 690, "requirements": [{"item": "vodehonium", "amount": 20}, {"item": "yyva", "amount": 18}, {"item": "merujynium", "amount": 6}], "research": "vodehonium-factory", "maxNodes": 30, "laserRange": 13, "category": "power"}

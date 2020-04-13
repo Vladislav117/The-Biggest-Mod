@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qoti power node", "description": "...", "size": 2, "health": 411, "requirements": [{"item": "qoti", "amount": 15}, {"item": "yynylo", "amount": 18}, {"item": "dyma", "amount": 6}], "research": "qoti-factory", "maxNodes": 10, "laserRange": 7, "category": "power"}

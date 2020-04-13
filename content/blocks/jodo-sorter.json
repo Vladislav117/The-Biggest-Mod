@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jodo sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "jodo", "amount": 2}, {"item": "wino", "amount": 4}], "research": "jodo-conveyor", "category": "distribution", "invert": false}

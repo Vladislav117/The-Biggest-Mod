@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mebo solar panel", "description": "...", "size": 1, "health": 297, "requirements": [{"item": "mebo", "amount": 11}, {"item": "vewavu", "amount": 14}, {"item": "wibasi", "amount": 1}], "research": "mebo-factory", "powerProduction": 0.029299811215386173, "category": "power"}

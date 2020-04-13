@@ -1,0 +1,1 @@
+{"type": "junction", "name": "feyyqe junction", "description": "...", "health": 40, "speed": 12, "capacity": 18, "size": 1, "requirements": [{"item": "feyyqe", "amount": 1}, {"item": "giha", "amount": 5}], "research": "feyyqe-conveyor", "category": "distribution"}

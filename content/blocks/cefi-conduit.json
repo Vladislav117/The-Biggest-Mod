@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cefi conduit", "description": "...", "health": 21, "requirements": [{"item": "cefi", "amount": 3}, {"item": "jaxi", "amount": 8}, {"item": "yiveni", "amount": 4}], "liquidCapacity": 49, "liquidPressure": 4, "research": "cefi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dono conduit", "description": "...", "health": 146, "requirements": [{"item": "dono", "amount": 18}, {"item": "wyra", "amount": 6}, {"item": "puzybo", "amount": 4}], "liquidCapacity": 35, "liquidPressure": 8, "research": "dono-factory", "category": "liquid"}

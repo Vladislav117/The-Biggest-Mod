@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nisynu power node", "description": "...", "size": 2, "health": 509, "requirements": [{"item": "nisynu", "amount": 10}, {"item": "wygy", "amount": 14}, {"item": "vacoce", "amount": 6}], "research": "nisynu-factory", "maxNodes": 11, "laserRange": 30, "category": "power"}

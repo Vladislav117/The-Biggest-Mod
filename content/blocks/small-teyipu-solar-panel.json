@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small teyipu solar panel", "description": "...", "size": 1, "health": 318, "requirements": [{"item": "teyipu", "amount": 15}, {"item": "hagunium", "amount": 16}, {"item": "ropa", "amount": 4}], "research": "teyipu-factory", "powerProduction": 0.14168977092759258, "category": "power"}

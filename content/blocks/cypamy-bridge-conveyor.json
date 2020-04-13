@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cypamy bridge conveyor", "description": "", "health": 28, "range": 7, "speed": 17, "bufferCapacity": 10, "requirements": [{"item": "cypamy", "amount": 3}, {"item": "vodaxa", "amount": 5}], "research": "cypamy-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "wovi conveyor", "description": "...", "health": 109, "requirements": [{"item": "wovi", "amount": 4}, {"item": "bevy", "amount": 2}], "speed": 0.09301935957276214, "research": "wovi-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "router", "name": "zocumo router", "description": "...", "health": 90, "size": 1, "requirements": [{"item": "zocumo", "amount": 5}], "research": "zocumo-conveyor", "category": "distribution"}

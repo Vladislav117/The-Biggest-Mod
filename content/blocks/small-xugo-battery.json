@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xugo battery", "description": "...", "size": 1, "health": 393, "requirements": [{"item": "xugo", "amount": 20}, {"item": "jede", "amount": 6}, {"item": "gacy", "amount": 6}], "research": "xugo-factory", "consumes": {"powerBuffered": 1319}, "category": "power"}

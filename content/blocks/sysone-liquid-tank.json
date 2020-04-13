@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sysone liquid tank", "description": "...", "health": 382, "size": 3, "requirements": [{"item": "sysone", "amount": 9}, {"item": "tezila", "amount": 5}, {"item": "byyu", "amount": 9}], "research": "sysone-conduit", "category": "liquid", "liquidCapacity": 37852, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small papununium battery", "description": "...", "size": 1, "health": 157, "requirements": [{"item": "papununium", "amount": 9}, {"item": "nuci", "amount": 5}, {"item": "jazozu", "amount": 1}], "research": "papununium-factory", "consumes": {"powerBuffered": 2546}, "category": "power"}

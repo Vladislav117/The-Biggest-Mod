@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pydi liquid tank", "description": "...", "health": 329, "size": 3, "requirements": [{"item": "pydi", "amount": 8}, {"item": "xudujy", "amount": 2}, {"item": "kokyya", "amount": 3}], "research": "pydi-conduit", "category": "liquid", "liquidCapacity": 56693, "hasLiquids": true}

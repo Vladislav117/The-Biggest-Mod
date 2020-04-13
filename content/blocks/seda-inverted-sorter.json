@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "seda inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "seda", "amount": 1}, {"item": "kosonium", "amount": 2}], "research": "seda-conveyor", "category": "distribution", "invert": true}

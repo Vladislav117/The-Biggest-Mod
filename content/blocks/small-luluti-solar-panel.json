@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small luluti solar panel", "description": "...", "size": 1, "health": 127, "requirements": [{"item": "luluti", "amount": 5}, {"item": "vilyco", "amount": 14}, {"item": "cinunium", "amount": 4}], "research": "luluti-factory", "powerProduction": 0.18586977112129235, "category": "power"}

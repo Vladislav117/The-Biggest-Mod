@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kibanium power node", "description": "...", "size": 2, "health": 124, "requirements": [{"item": "kibanium", "amount": 12}, {"item": "wizisa", "amount": 17}, {"item": "yuno", "amount": 10}], "research": "kibanium-factory", "maxNodes": 20, "laserRange": 10, "category": "power"}

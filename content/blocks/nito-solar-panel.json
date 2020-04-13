@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nito solar panel", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "nito", "amount": 7}, {"item": "kituhinium", "amount": 20}, {"item": "vyma", "amount": 3}], "research": "nito-factory", "powerProduction": 3.2665266153254597, "category": "power"}

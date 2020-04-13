@@ -1,0 +1,1 @@
+{"type": "battery", "name": "baxe battery", "description": "...", "size": 3, "health": 176, "requirements": [{"item": "baxe", "amount": 12}, {"item": "mavitu", "amount": 20}, {"item": "vesycynium", "amount": 3}], "research": "baxe-factory", "consumes": {"powerBuffered": 2761}, "category": "power"}

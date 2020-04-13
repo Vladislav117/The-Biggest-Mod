@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "koxy liquid tank", "description": "...", "health": 313, "size": 3, "requirements": [{"item": "koxy", "amount": 7}, {"item": "puta", "amount": 15}, {"item": "kegiqi", "amount": 7}], "research": "koxy-conduit", "category": "liquid", "liquidCapacity": 44605, "hasLiquids": true}

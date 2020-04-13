@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jahunium bridge conveyor", "description": "", "health": 10, "range": 20, "speed": 14, "bufferCapacity": 18, "requirements": [{"item": "jahunium", "amount": 3}, {"item": "gele", "amount": 3}], "research": "jahunium-conveyor", "category": "distribution", "size": 1}

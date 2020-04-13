@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kazo liquid tank", "description": "...", "health": 281, "size": 3, "requirements": [{"item": "kazo", "amount": 15}, {"item": "nybinium", "amount": 7}, {"item": "hogazanium", "amount": 3}], "research": "kazo-conduit", "category": "liquid", "liquidCapacity": 58279, "hasLiquids": true}

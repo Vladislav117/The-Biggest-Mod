@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kupu conduit", "description": "...", "health": 36, "requirements": [{"item": "kupu", "amount": 5}, {"item": "dihomu", "amount": 1}, {"item": "syxidonium", "amount": 2}], "liquidCapacity": 2, "liquidPressure": 10, "research": "kupu-factory", "category": "liquid"}

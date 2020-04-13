@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "cafy overdrive projector", "description": "...", "health": 79, "consumes": {"power": 3.0, "item": "cafy"}, "size": 2, "requirements": [{"item": "cafy", "amount": 2}, {"item": "bohexi", "amount": 6}, {"item": "cobunium", "amount": 10}], "research": "cafy-factory", "category": "effect"}

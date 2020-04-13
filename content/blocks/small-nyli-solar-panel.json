@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nyli solar panel", "description": "...", "size": 1, "health": 140, "requirements": [{"item": "nyli", "amount": 7}, {"item": "pyce", "amount": 13}, {"item": "vuciby", "amount": 2}], "research": "nyli-factory", "powerProduction": 3.6740693591114084, "category": "power"}

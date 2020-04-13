@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xylipe underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "xylipe", "amount": 1}, {"item": "jiyomonium", "amount": 1}], "research": "xylipe-conveyor", "category": "distribution", "invert": false}

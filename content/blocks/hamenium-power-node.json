@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hamenium power node", "description": "...", "size": 2, "health": 475, "requirements": [{"item": "hamenium", "amount": 17}, {"item": "qysacy", "amount": 7}, {"item": "zydinium", "amount": 1}], "research": "hamenium-factory", "maxNodes": 56, "laserRange": 10, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bitaba conduit", "description": "...", "health": 69, "requirements": [{"item": "bitaba", "amount": 18}, {"item": "cuda", "amount": 6}, {"item": "yify", "amount": 4}], "liquidCapacity": 13, "liquidPressure": 3, "research": "bitaba-factory", "category": "liquid"}

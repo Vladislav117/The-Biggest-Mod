@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qolone battery", "description": "...", "size": 3, "health": 171, "requirements": [{"item": "qolone", "amount": 14}, {"item": "milusunium", "amount": 8}, {"item": "nupu", "amount": 4}], "research": "qolone-factory", "consumes": {"powerBuffered": 5172}, "category": "power"}

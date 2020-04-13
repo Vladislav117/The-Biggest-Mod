@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yedunium power node", "description": "...", "size": 1, "health": 21, "requirements": [{"item": "yedunium", "amount": 12}, {"item": "fyfy", "amount": 2}, {"item": "liqy", "amount": 4}], "research": "yedunium-factory", "maxNodes": 21, "laserRange": 18, "category": "power"}

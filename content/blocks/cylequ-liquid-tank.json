@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cylequ liquid tank", "description": "...", "health": 200, "size": 3, "requirements": [{"item": "cylequ", "amount": 8}, {"item": "zagy", "amount": 12}, {"item": "fole", "amount": 4}], "research": "cylequ-conduit", "category": "liquid", "liquidCapacity": 7280, "hasLiquids": true}

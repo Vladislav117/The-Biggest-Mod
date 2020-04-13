@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vuna conduit", "description": "...", "health": 42, "requirements": [{"item": "vuna", "amount": 9}, {"item": "bilyvanium", "amount": 5}, {"item": "qudy", "amount": 2}], "liquidCapacity": 48, "liquidPressure": 6, "research": "vuna-factory", "category": "liquid"}

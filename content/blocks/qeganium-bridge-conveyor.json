@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qeganium bridge conveyor", "description": "", "health": 18, "range": 16, "speed": 12, "bufferCapacity": 13, "requirements": [{"item": "qeganium", "amount": 3}, {"item": "fohebi", "amount": 3}], "research": "qeganium-conveyor", "category": "distribution", "size": 1}

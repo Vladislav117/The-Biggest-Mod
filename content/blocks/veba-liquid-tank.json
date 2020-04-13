@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "veba liquid tank", "description": "...", "health": 362, "size": 3, "requirements": [{"item": "veba", "amount": 13}, {"item": "deqohu", "amount": 11}, {"item": "buwozy", "amount": 4}], "research": "veba-conduit", "category": "liquid", "liquidCapacity": 30292, "hasLiquids": true}

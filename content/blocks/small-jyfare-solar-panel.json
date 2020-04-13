@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jyfare solar panel", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "jyfare", "amount": 12}, {"item": "tenu", "amount": 10}, {"item": "ligyxe", "amount": 6}], "research": "jyfare-factory", "powerProduction": 0.050251143323178, "category": "power"}

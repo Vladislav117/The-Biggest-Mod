@@ -1,0 +1,1 @@
+{"type": "junction", "name": "diripo junction", "description": "...", "health": 13, "speed": 17, "capacity": 19, "size": 1, "requirements": [{"item": "diripo", "amount": 4}, {"item": "gaxunium", "amount": 5}], "research": "diripo-conveyor", "category": "distribution"}

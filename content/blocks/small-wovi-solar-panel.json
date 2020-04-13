@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wovi solar panel", "description": "...", "size": 1, "health": 296, "requirements": [{"item": "wovi", "amount": 6}, {"item": "fevu", "amount": 7}, {"item": "reminium", "amount": 2}], "research": "wovi-factory", "powerProduction": 1.3229895218770555, "category": "power"}

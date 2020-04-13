@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lilyro liquid tank", "description": "...", "health": 301, "size": 3, "requirements": [{"item": "lilyro", "amount": 18}, {"item": "bybity", "amount": 6}, {"item": "fofoco", "amount": 8}], "research": "lilyro-conduit", "category": "liquid", "liquidCapacity": 41392, "hasLiquids": true}

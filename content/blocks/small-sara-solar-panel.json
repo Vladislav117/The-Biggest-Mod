@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sara solar panel", "description": "...", "size": 1, "health": 380, "requirements": [{"item": "sara", "amount": 7}, {"item": "pyxoxanium", "amount": 4}, {"item": "wozego", "amount": 5}], "research": "sara-factory", "powerProduction": 0.3873655302438252, "category": "power"}

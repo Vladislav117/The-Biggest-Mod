@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nimawo liquid tank", "description": "...", "health": 470, "size": 3, "requirements": [{"item": "nimawo", "amount": 2}, {"item": "vego", "amount": 2}, {"item": "feyyqe", "amount": 8}], "research": "nimawo-conduit", "category": "liquid", "liquidCapacity": 115799, "hasLiquids": true}

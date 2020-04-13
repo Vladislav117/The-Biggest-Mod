@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bafo liquid tank", "description": "...", "health": 354, "size": 3, "requirements": [{"item": "bafo", "amount": 7}, {"item": "ceny", "amount": 7}, {"item": "suzu", "amount": 10}], "research": "bafo-conduit", "category": "liquid", "liquidCapacity": 79047, "hasLiquids": true}

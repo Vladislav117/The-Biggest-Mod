@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nyvexo solar panel", "description": "...", "size": 3, "health": 63, "requirements": [{"item": "nyvexo", "amount": 15}, {"item": "hiwe", "amount": 10}, {"item": "syteja", "amount": 5}], "research": "nyvexo-factory", "powerProduction": 0.4548038362391775, "category": "power"}

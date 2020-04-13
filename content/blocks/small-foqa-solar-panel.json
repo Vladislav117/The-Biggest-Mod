@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small foqa solar panel", "description": "...", "size": 1, "health": 256, "requirements": [{"item": "foqa", "amount": 4}, {"item": "qipo", "amount": 11}, {"item": "hiwahe", "amount": 1}], "research": "foqa-factory", "powerProduction": 0.6190157617055064, "category": "power"}

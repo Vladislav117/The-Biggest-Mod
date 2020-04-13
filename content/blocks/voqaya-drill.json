@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "voqaya drill", "description": "...", "size": 2, "health": 268, "tier": 4, "drillTime": 3, "consumes": {"power": 19}, "requirements": [{"item": "voqaya", "amount": 11}, {"item": "make", "amount": 11}, {"item": "ticyxi", "amount": 8}], "research": "voqaya-factory", "category": "production"}

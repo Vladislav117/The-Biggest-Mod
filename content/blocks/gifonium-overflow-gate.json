@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gifonium overflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "gifonium", "amount": 1}, {"item": "mebu", "amount": 2}], "research": "gifonium-conveyor", "category": "distribution", "invert": false}

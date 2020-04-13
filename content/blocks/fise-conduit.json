@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fise conduit", "description": "...", "health": 152, "requirements": [{"item": "fise", "amount": 9}, {"item": "bohexi", "amount": 19}, {"item": "pohyva", "amount": 2}], "liquidCapacity": 26, "liquidPressure": 1, "research": "fise-factory", "category": "liquid"}

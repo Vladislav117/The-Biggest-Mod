@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "zokiry overdrive projector", "description": "...", "health": 69, "consumes": {"power": 3.0, "item": "zokiry"}, "size": 2, "requirements": [{"item": "zokiry", "amount": 2}, {"item": "hugevinium", "amount": 3}, {"item": "hocode", "amount": 10}], "research": "zokiry-factory", "category": "effect"}

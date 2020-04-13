@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pozilonium battery", "description": "...", "size": 3, "health": 68, "requirements": [{"item": "pozilonium", "amount": 12}, {"item": "laxu", "amount": 6}, {"item": "lead", "amount": 9}], "research": "pozilonium-factory", "consumes": {"powerBuffered": 1233}, "category": "power"}

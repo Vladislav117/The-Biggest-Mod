@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sihynium drill", "description": "...", "size": 2, "health": 440, "tier": 1, "drillTime": 10, "consumes": {"power": 8}, "requirements": [{"item": "sihynium", "amount": 4}, {"item": "zyqita", "amount": 20}, {"item": "hyfeho", "amount": 5}], "research": "sihynium-factory", "category": "production"}

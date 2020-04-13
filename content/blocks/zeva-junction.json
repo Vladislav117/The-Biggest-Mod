@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zeva junction", "description": "...", "health": 40, "speed": 9, "capacity": 10, "size": 1, "requirements": [{"item": "zeva", "amount": 4}, {"item": "waka", "amount": 4}], "research": "zeva-conveyor", "category": "distribution"}

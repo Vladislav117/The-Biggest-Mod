@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zada battery", "description": "...", "size": 1, "health": 127, "requirements": [{"item": "zada", "amount": 9}, {"item": "caho", "amount": 19}, {"item": "tohi", "amount": 4}], "research": "zada-factory", "consumes": {"powerBuffered": 459}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bosery sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "bosery", "amount": 4}, {"item": "tuma", "amount": 5}], "research": "bosery-conveyor", "category": "distribution", "invert": false}

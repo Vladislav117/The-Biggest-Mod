@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cesewo battery", "description": "...", "size": 3, "health": 235, "requirements": [{"item": "cesewo", "amount": 11}, {"item": "mygyyy", "amount": 13}, {"item": "horyve", "amount": 10}], "research": "cesewo-factory", "consumes": {"powerBuffered": 6808}, "category": "power"}

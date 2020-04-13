@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zigije battery", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "zigije", "amount": 3}, {"item": "xikogo", "amount": 11}, {"item": "wisi", "amount": 9}], "research": "zigije-factory", "consumes": {"powerBuffered": 1900}, "category": "power"}

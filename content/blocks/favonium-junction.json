@@ -1,0 +1,1 @@
+{"type": "junction", "name": "favonium junction", "description": "...", "health": 38, "speed": 3, "capacity": 14, "size": 1, "requirements": [{"item": "favonium", "amount": 4}, {"item": "pafyvi", "amount": 1}], "research": "favonium-conveyor", "category": "distribution"}

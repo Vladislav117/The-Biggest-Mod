@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nefuxa solar panel", "description": "...", "size": 1, "health": 126, "requirements": [{"item": "nefuxa", "amount": 7}, {"item": "zeyeqi", "amount": 6}, {"item": "vikasynium", "amount": 9}], "research": "nefuxa-factory", "powerProduction": 0.8781353315890235, "category": "power"}

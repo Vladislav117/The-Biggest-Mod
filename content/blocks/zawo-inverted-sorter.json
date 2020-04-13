@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zawo inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "zawo", "amount": 1}, {"item": "hogyse", "amount": 1}], "research": "zawo-conveyor", "category": "distribution", "invert": true}

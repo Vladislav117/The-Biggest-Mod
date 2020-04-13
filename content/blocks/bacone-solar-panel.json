@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bacone solar panel", "description": "...", "size": 3, "health": 148, "requirements": [{"item": "bacone", "amount": 13}, {"item": "nevyle", "amount": 2}, {"item": "qeka", "amount": 8}], "research": "bacone-factory", "powerProduction": 0.5343952785822611, "category": "power"}

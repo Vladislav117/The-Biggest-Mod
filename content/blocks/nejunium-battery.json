@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nejunium battery", "description": "...", "size": 3, "health": 346, "requirements": [{"item": "nejunium", "amount": 19}, {"item": "nayevynium", "amount": 13}, {"item": "lebu", "amount": 5}], "research": "nejunium-factory", "consumes": {"powerBuffered": 8798}, "category": "power"}

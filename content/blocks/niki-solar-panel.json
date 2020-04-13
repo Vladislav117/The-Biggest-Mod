@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "niki solar panel", "description": "...", "size": 3, "health": 75, "requirements": [{"item": "niki", "amount": 12}, {"item": "nabu", "amount": 5}, {"item": "vogeco", "amount": 7}], "research": "niki-factory", "powerProduction": 3.28930532295318, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "devube sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "devube", "amount": 4}, {"item": "zefu", "amount": 2}], "research": "devube-conveyor", "category": "distribution", "invert": false}

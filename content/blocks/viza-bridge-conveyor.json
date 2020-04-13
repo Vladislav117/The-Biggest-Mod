@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "viza bridge conveyor", "description": "", "health": 32, "range": 16, "speed": 2, "bufferCapacity": 4, "requirements": [{"item": "viza", "amount": 3}, {"item": "qexata", "amount": 1}], "research": "viza-conveyor", "category": "distribution", "size": 1}

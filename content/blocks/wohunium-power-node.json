@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wohunium power node", "description": "...", "size": 2, "health": 702, "requirements": [{"item": "wohunium", "amount": 13}, {"item": "zoxi", "amount": 10}, {"item": "xurenium", "amount": 10}], "research": "wohunium-factory", "maxNodes": 58, "laserRange": 18, "category": "power"}

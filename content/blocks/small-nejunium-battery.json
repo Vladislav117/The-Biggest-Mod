@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nejunium battery", "description": "...", "size": 1, "health": 29, "requirements": [{"item": "nejunium", "amount": 19}, {"item": "qelyqe", "amount": 3}, {"item": "nihu", "amount": 2}], "research": "nejunium-factory", "consumes": {"powerBuffered": 200}, "category": "power"}

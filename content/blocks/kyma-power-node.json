@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kyma power node", "description": "...", "size": 2, "health": 483, "requirements": [{"item": "kyma", "amount": 19}, {"item": "yyjuhy", "amount": 14}, {"item": "puzihanium", "amount": 5}], "research": "kyma-factory", "maxNodes": 36, "laserRange": 7, "category": "power"}

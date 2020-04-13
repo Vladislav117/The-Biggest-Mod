@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qyyalo power node", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "qyyalo", "amount": 4}, {"item": "dakyse", "amount": 18}, {"item": "wasebanium", "amount": 1}], "research": "qyyalo-factory", "maxNodes": 30, "laserRange": 3, "category": "power"}

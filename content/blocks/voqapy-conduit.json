@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "voqapy conduit", "description": "...", "health": 125, "requirements": [{"item": "voqapy", "amount": 10}, {"item": "hyvyje", "amount": 7}, {"item": "jatopa", "amount": 4}], "liquidCapacity": 23, "liquidPressure": 7, "research": "voqapy-factory", "category": "liquid"}

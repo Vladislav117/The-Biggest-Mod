@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fasaze overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "fasaze", "amount": 5}, {"item": "dewira", "amount": 2}], "research": "fasaze-conveyor", "category": "distribution", "invert": false}

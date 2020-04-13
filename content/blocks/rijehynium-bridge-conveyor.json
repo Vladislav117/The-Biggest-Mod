@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rijehynium bridge conveyor", "description": "", "health": 46, "range": 5, "speed": 11, "bufferCapacity": 1, "requirements": [{"item": "rijehynium", "amount": 4}, {"item": "xesu", "amount": 2}], "research": "rijehynium-conveyor", "category": "distribution", "size": 1}

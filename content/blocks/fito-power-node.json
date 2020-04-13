@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fito power node", "description": "...", "size": 2, "health": 201, "requirements": [{"item": "fito", "amount": 20}, {"item": "myvedi", "amount": 10}, {"item": "qelyqe", "amount": 6}], "research": "fito-factory", "maxNodes": 58, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qigiki solar panel", "description": "...", "size": 3, "health": 54, "requirements": [{"item": "qigiki", "amount": 9}, {"item": "peyyha", "amount": 6}, {"item": "nevyle", "amount": 8}], "research": "qigiki-factory", "powerProduction": 0.9215130696321586, "category": "power"}

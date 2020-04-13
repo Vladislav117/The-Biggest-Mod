@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hocode solar panel", "description": "...", "size": 1, "health": 286, "requirements": [{"item": "hocode", "amount": 19}, {"item": "lapydy", "amount": 13}, {"item": "kejinium", "amount": 7}], "research": "hocode-factory", "powerProduction": 2.2985454565957975, "category": "power"}

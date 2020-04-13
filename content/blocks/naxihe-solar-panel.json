@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "naxihe solar panel", "description": "...", "size": 3, "health": 189, "requirements": [{"item": "naxihe", "amount": 12}, {"item": "wace", "amount": 20}, {"item": "hugevinium", "amount": 2}], "research": "naxihe-factory", "powerProduction": 0.37410174639724875, "category": "power"}

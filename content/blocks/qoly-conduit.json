@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qoly conduit", "description": "...", "health": 99, "requirements": [{"item": "qoly", "amount": 18}, {"item": "pyqynium", "amount": 17}, {"item": "xevenium", "amount": 1}], "liquidCapacity": 37, "liquidPressure": 2, "research": "qoly-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "syso sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "syso", "amount": 2}, {"item": "vabenium", "amount": 5}], "research": "syso-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nogi battery", "description": "...", "size": 3, "health": 256, "requirements": [{"item": "nogi", "amount": 15}, {"item": "pypy", "amount": 13}, {"item": "ryzyzi", "amount": 7}], "research": "nogi-factory", "consumes": {"powerBuffered": 2663}, "category": "power"}

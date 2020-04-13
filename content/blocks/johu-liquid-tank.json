@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "johu liquid tank", "description": "...", "health": 238, "size": 3, "requirements": [{"item": "johu", "amount": 14}, {"item": "ruryjynium", "amount": 19}, {"item": "gufanium", "amount": 2}], "research": "johu-conduit", "category": "liquid", "liquidCapacity": 116320, "hasLiquids": true}

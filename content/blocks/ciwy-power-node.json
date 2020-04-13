@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ciwy power node", "description": "...", "size": 2, "health": 105, "requirements": [{"item": "ciwy", "amount": 7}, {"item": "nihu", "amount": 15}, {"item": "coto", "amount": 1}], "research": "ciwy-factory", "maxNodes": 19, "laserRange": 5, "category": "power"}

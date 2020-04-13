@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kyzubo solar panel", "description": "...", "size": 1, "health": 198, "requirements": [{"item": "kyzubo", "amount": 19}, {"item": "kotinium", "amount": 8}, {"item": "foze", "amount": 3}], "research": "kyzubo-factory", "powerProduction": 1.4438010147593243, "category": "power"}

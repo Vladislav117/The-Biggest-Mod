@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hutave battery", "description": "...", "size": 1, "health": 133, "requirements": [{"item": "hutave", "amount": 11}, {"item": "yipobe", "amount": 4}, {"item": "milosi", "amount": 10}], "research": "hutave-factory", "consumes": {"powerBuffered": 1001}, "category": "power"}

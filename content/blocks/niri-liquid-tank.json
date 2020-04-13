@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "niri liquid tank", "description": "...", "health": 337, "size": 3, "requirements": [{"item": "niri", "amount": 3}, {"item": "jayaye", "amount": 3}, {"item": "mylenium", "amount": 7}], "research": "niri-conduit", "category": "liquid", "liquidCapacity": 110956, "hasLiquids": true}

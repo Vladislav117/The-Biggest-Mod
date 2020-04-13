@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xuve liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "xuve", "amount": 15}, {"item": "lilyro", "amount": 3}, {"item": "dyzeky", "amount": 6}], "research": "xuve-conduit", "liquidCapacity": 10, "category": "liquid"}

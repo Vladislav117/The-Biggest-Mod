@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wiyuho battery", "description": "...", "size": 3, "health": 123, "requirements": [{"item": "wiyuho", "amount": 5}, {"item": "ryzyzi", "amount": 4}, {"item": "qano", "amount": 9}], "research": "wiyuho-factory", "consumes": {"powerBuffered": 9618}, "category": "power"}

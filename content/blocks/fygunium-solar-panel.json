@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fygunium solar panel", "description": "...", "size": 3, "health": 35, "requirements": [{"item": "fygunium", "amount": 1}, {"item": "movanium", "amount": 20}, {"item": "rehyce", "amount": 7}], "research": "fygunium-factory", "powerProduction": 0.6923435031003893, "category": "power"}

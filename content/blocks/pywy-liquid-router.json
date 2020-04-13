@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pywy liquid router", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "pywy", "amount": 11}, {"item": "qefa", "amount": 2}, {"item": "xabuci", "amount": 3}], "research": "pywy-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nuso battery", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "nuso", "amount": 13}, {"item": "nejesu", "amount": 11}, {"item": "ridu", "amount": 10}], "research": "nuso-factory", "consumes": {"powerBuffered": 521}, "category": "power"}

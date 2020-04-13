@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jide conduit", "description": "...", "health": 53, "requirements": [{"item": "jide", "amount": 20}, {"item": "bulanium", "amount": 7}, {"item": "sipynium", "amount": 10}], "liquidCapacity": 35, "liquidPressure": 5, "research": "jide-factory", "category": "liquid"}

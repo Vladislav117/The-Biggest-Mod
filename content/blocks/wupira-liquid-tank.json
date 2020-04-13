@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wupira liquid tank", "description": "...", "health": 251, "size": 3, "requirements": [{"item": "wupira", "amount": 13}, {"item": "bejivanium", "amount": 8}, {"item": "xyza", "amount": 10}], "research": "wupira-conduit", "category": "liquid", "liquidCapacity": 59058, "hasLiquids": true}

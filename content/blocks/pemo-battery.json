@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pemo battery", "description": "...", "size": 3, "health": 273, "requirements": [{"item": "pemo", "amount": 9}, {"item": "qacu", "amount": 13}, {"item": "suyi", "amount": 1}], "research": "pemo-factory", "consumes": {"powerBuffered": 6174}, "category": "power"}

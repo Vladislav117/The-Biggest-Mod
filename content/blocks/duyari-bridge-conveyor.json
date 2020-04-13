@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "duyari bridge conveyor", "description": "", "health": 45, "range": 18, "speed": 12, "bufferCapacity": 19, "requirements": [{"item": "duyari", "amount": 2}, {"item": "viwafy", "amount": 2}], "research": "duyari-conveyor", "category": "distribution", "size": 1}

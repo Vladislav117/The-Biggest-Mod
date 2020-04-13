@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jezi battery", "description": "...", "size": 3, "health": 325, "requirements": [{"item": "jezi", "amount": 12}, {"item": "xyzeja", "amount": 20}, {"item": "ryqaje", "amount": 1}], "research": "jezi-factory", "consumes": {"powerBuffered": 3896}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lyya underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "lyya", "amount": 3}, {"item": "linu", "amount": 1}], "research": "lyya-conveyor", "category": "distribution", "invert": false}

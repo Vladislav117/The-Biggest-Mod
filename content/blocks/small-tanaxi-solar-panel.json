@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tanaxi solar panel", "description": "...", "size": 1, "health": 274, "requirements": [{"item": "tanaxi", "amount": 5}, {"item": "coqaqynium", "amount": 20}, {"item": "fyfe", "amount": 10}], "research": "tanaxi-factory", "powerProduction": 0.3709322598160121, "category": "power"}

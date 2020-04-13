@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hipowu battery", "description": "...", "size": 3, "health": 177, "requirements": [{"item": "hipowu", "amount": 15}, {"item": "baqe", "amount": 3}, {"item": "hiwenium", "amount": 9}], "research": "hipowu-factory", "consumes": {"powerBuffered": 6870}, "category": "power"}

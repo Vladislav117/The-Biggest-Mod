@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kytynium junction", "description": "...", "health": 6, "speed": 9, "capacity": 12, "size": 1, "requirements": [{"item": "kytynium", "amount": 3}, {"item": "quge", "amount": 2}], "research": "kytynium-conveyor", "category": "distribution"}

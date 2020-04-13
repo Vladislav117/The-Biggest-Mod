@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jafu battery", "description": "...", "size": 3, "health": 220, "requirements": [{"item": "jafu", "amount": 8}, {"item": "kaniyy", "amount": 19}, {"item": "gyfa", "amount": 1}], "research": "jafu-factory", "consumes": {"powerBuffered": 8336}, "category": "power"}

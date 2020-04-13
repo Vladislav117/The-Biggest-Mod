@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sowy battery", "description": "...", "size": 3, "health": 315, "requirements": [{"item": "sowy", "amount": 15}, {"item": "mupa", "amount": 3}, {"item": "yikynium", "amount": 4}], "research": "sowy-factory", "consumes": {"powerBuffered": 6753}, "category": "power"}

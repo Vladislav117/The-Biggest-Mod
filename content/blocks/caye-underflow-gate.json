@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "caye underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "caye", "amount": 1}, {"item": "nilara", "amount": 4}], "research": "caye-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sony power node", "description": "...", "size": 2, "health": 599, "requirements": [{"item": "sony", "amount": 20}, {"item": "paso", "amount": 12}, {"item": "leloyi", "amount": 4}], "research": "sony-factory", "maxNodes": 27, "laserRange": 5, "category": "power"}

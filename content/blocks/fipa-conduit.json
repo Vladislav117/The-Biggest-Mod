@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fipa conduit", "description": "...", "health": 169, "requirements": [{"item": "fipa", "amount": 8}, {"item": "jyta", "amount": 17}, {"item": "waxonium", "amount": 10}], "liquidCapacity": 29, "liquidPressure": 10, "research": "fipa-factory", "category": "liquid"}

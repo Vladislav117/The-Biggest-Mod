@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mozo battery", "description": "...", "size": 3, "health": 91, "requirements": [{"item": "mozo", "amount": 11}, {"item": "cyqanium", "amount": 20}, {"item": "vuru", "amount": 8}], "research": "mozo-factory", "consumes": {"powerBuffered": 2705}, "category": "power"}

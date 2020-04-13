@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lahowe solar panel", "description": "...", "size": 1, "health": 284, "requirements": [{"item": "lahowe", "amount": 1}, {"item": "xafi", "amount": 11}, {"item": "ruteqa", "amount": 3}], "research": "lahowe-factory", "powerProduction": 0.0345711727274549, "category": "power"}

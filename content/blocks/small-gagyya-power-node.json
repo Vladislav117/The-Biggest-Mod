@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gagyya power node", "description": "...", "size": 1, "health": 379, "requirements": [{"item": "gagyya", "amount": 3}, {"item": "jihu", "amount": 14}, {"item": "tugu", "amount": 6}], "research": "gagyya-factory", "maxNodes": 16, "laserRange": 6, "category": "power"}

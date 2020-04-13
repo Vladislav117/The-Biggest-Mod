@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lewonium battery", "description": "...", "size": 1, "health": 397, "requirements": [{"item": "lewonium", "amount": 10}, {"item": "dyme", "amount": 20}, {"item": "wulyso", "amount": 5}], "research": "lewonium-factory", "consumes": {"powerBuffered": 657}, "category": "power"}

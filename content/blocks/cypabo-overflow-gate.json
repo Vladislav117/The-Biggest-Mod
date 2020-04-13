@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cypabo overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "cypabo", "amount": 5}, {"item": "qiditinium", "amount": 2}], "research": "cypabo-conveyor", "category": "distribution", "invert": false}

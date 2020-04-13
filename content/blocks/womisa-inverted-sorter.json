@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "womisa inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "womisa", "amount": 2}, {"item": "bufywy", "amount": 3}], "research": "womisa-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "medeno conduit", "description": "...", "health": 186, "requirements": [{"item": "medeno", "amount": 20}, {"item": "musebo", "amount": 5}, {"item": "dipy", "amount": 7}], "liquidCapacity": 45, "liquidPressure": 4, "research": "medeno-factory", "category": "liquid"}

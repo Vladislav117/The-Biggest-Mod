@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dyzo liquid tank", "description": "...", "health": 538, "size": 3, "requirements": [{"item": "dyzo", "amount": 3}, {"item": "xeye", "amount": 18}, {"item": "mapibi", "amount": 7}], "research": "dyzo-conduit", "category": "liquid", "liquidCapacity": 62361, "hasLiquids": true}

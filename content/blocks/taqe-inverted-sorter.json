@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "taqe inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "taqe", "amount": 2}, {"item": "gifu", "amount": 1}], "research": "taqe-conveyor", "category": "distribution", "invert": true}

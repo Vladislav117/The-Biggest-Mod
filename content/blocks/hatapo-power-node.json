@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hatapo power node", "description": "...", "size": 2, "health": 215, "requirements": [{"item": "hatapo", "amount": 6}, {"item": "paba", "amount": 1}, {"item": "rytysynium", "amount": 1}], "research": "hatapo-factory", "maxNodes": 42, "laserRange": 28, "category": "power"}

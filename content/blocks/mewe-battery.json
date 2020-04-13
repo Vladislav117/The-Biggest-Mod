@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mewe battery", "description": "...", "size": 3, "health": 119, "requirements": [{"item": "mewe", "amount": 10}, {"item": "waxonium", "amount": 9}, {"item": "cinynium", "amount": 1}], "research": "mewe-factory", "consumes": {"powerBuffered": 7085}, "category": "power"}

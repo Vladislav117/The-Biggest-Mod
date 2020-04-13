@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qasoji overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "qasoji", "amount": 3}, {"item": "jazozu", "amount": 5}], "research": "qasoji-conveyor", "category": "distribution", "invert": false}

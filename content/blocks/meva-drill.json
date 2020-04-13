@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "meva drill", "description": "...", "size": 4, "health": 374, "tier": 1, "drillTime": 5, "consumes": {"power": 7}, "requirements": [{"item": "meva", "amount": 10}, {"item": "viwafy", "amount": 20}, {"item": "fahu", "amount": 5}], "research": "meva-factory", "category": "production"}

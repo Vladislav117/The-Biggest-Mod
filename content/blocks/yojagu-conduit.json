@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yojagu conduit", "description": "...", "health": 116, "requirements": [{"item": "yojagu", "amount": 19}, {"item": "kubi", "amount": 3}, {"item": "leyyde", "amount": 9}], "liquidCapacity": 20, "liquidPressure": 4, "research": "yojagu-factory", "category": "liquid"}

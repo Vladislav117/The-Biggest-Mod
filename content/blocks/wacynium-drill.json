@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wacynium drill", "description": "...", "size": 2, "health": 128, "tier": 3, "drillTime": 7, "consumes": {"power": 16}, "requirements": [{"item": "wacynium", "amount": 20}, {"item": "nixony", "amount": 19}, {"item": "coqaqynium", "amount": 8}], "research": "wacynium-factory", "category": "production"}

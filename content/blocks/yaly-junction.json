@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yaly junction", "description": "...", "health": 25, "speed": 16, "capacity": 9, "size": 1, "requirements": [{"item": "yaly", "amount": 2}, {"item": "tyzonium", "amount": 2}], "research": "yaly-conveyor", "category": "distribution"}

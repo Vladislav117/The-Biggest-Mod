@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pyrynium bridge conveyor", "description": "", "health": 1, "range": 1, "speed": 13, "bufferCapacity": 16, "requirements": [{"item": "pyrynium", "amount": 5}, {"item": "hiwahe", "amount": 4}], "research": "pyrynium-conveyor", "category": "distribution", "size": 1}

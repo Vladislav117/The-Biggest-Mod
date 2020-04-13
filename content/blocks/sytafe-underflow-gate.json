@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sytafe underflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "sytafe", "amount": 3}, {"item": "daqy", "amount": 3}], "research": "sytafe-conveyor", "category": "distribution", "invert": false}

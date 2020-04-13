@@ -1,0 +1,1 @@
+{"type": "battery", "name": "delo battery", "description": "...", "size": 3, "health": 120, "requirements": [{"item": "delo", "amount": 18}, {"item": "qehynium", "amount": 7}, {"item": "sijelu", "amount": 9}], "research": "delo-factory", "consumes": {"powerBuffered": 6925}, "category": "power"}

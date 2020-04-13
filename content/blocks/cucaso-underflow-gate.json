@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cucaso underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "cucaso", "amount": 2}, {"item": "wace", "amount": 2}], "research": "cucaso-conveyor", "category": "distribution", "invert": false}

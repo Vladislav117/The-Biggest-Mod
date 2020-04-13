@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hifu battery", "description": "...", "size": 1, "health": 243, "requirements": [{"item": "hifu", "amount": 14}, {"item": "fulyzynium", "amount": 3}, {"item": "wuxorunium", "amount": 4}], "research": "hifu-factory", "consumes": {"powerBuffered": 614}, "category": "power"}

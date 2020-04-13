@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "redo solar panel", "description": "...", "size": 3, "health": 174, "requirements": [{"item": "redo", "amount": 13}, {"item": "qepisu", "amount": 10}, {"item": "pizi", "amount": 4}], "research": "redo-factory", "powerProduction": 5.000278808810419, "category": "power"}

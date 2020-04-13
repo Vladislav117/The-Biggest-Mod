@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nigucy inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "nigucy", "amount": 3}, {"item": "cucaso", "amount": 1}], "research": "nigucy-conveyor", "category": "distribution", "invert": true}

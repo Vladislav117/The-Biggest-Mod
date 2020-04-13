@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "boretu underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "boretu", "amount": 4}, {"item": "zivo", "amount": 5}], "research": "boretu-conveyor", "category": "distribution", "invert": false}

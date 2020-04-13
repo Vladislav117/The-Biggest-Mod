@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "hivesy conveyor", "description": "...", "health": 230, "requirements": [{"item": "hivesy", "amount": 3}, {"item": "cudo", "amount": 10}], "speed": 0.18495556437910193, "research": "hivesy-factory", "category": "distribution"}

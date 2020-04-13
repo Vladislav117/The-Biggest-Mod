@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "piqori solar panel", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "piqori", "amount": 4}, {"item": "yadyju", "amount": 18}, {"item": "pehy", "amount": 5}], "research": "piqori-factory", "powerProduction": 0.015835241798557345, "category": "power"}

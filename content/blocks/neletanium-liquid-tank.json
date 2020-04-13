@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "neletanium liquid tank", "description": "...", "health": 453, "size": 3, "requirements": [{"item": "neletanium", "amount": 20}, {"item": "dyzeky", "amount": 6}, {"item": "lyfydy", "amount": 9}], "research": "neletanium-conduit", "category": "liquid", "liquidCapacity": 64961, "hasLiquids": true}

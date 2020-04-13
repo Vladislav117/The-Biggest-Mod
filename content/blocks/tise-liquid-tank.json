@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tise liquid tank", "description": "...", "health": 291, "size": 3, "requirements": [{"item": "tise", "amount": 3}, {"item": "puli", "amount": 8}, {"item": "pypy", "amount": 1}], "research": "tise-conduit", "category": "liquid", "liquidCapacity": 66598, "hasLiquids": true}

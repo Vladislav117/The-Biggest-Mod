@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "daxury inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "daxury", "amount": 1}, {"item": "megida", "amount": 3}], "research": "daxury-conveyor", "category": "distribution", "invert": true}

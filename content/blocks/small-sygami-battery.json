@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sygami battery", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "sygami", "amount": 4}, {"item": "leriki", "amount": 3}, {"item": "laqunium", "amount": 2}], "research": "sygami-factory", "consumes": {"powerBuffered": 1174}, "category": "power"}

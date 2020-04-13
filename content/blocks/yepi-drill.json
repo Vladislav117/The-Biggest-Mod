@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yepi drill", "description": "...", "size": 2, "health": 412, "tier": 1, "drillTime": 5, "consumes": {"power": 5}, "requirements": [{"item": "yepi", "amount": 14}, {"item": "teza", "amount": 19}, {"item": "feqy", "amount": 1}], "research": "yepi-factory", "category": "production"}

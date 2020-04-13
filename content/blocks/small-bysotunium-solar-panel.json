@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bysotunium solar panel", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "bysotunium", "amount": 18}, {"item": "gunery", "amount": 9}, {"item": "jimi", "amount": 4}], "research": "bysotunium-factory", "powerProduction": 8.09089979757182, "category": "power"}

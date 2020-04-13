@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jetuwe solar panel", "description": "...", "size": 3, "health": 380, "requirements": [{"item": "jetuwe", "amount": 9}, {"item": "hozanium", "amount": 8}, {"item": "ryti", "amount": 6}], "research": "jetuwe-factory", "powerProduction": 4.0467547918896045, "category": "power"}

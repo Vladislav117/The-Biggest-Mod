@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xifuli drill", "description": "...", "size": 2, "health": 159, "tier": 2, "drillTime": 17, "consumes": {"power": 8}, "requirements": [{"item": "xifuli", "amount": 16}, {"item": "sekycynium", "amount": 10}, {"item": "wino", "amount": 3}], "research": "xifuli-factory", "category": "production"}

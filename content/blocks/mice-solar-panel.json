@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mice solar panel", "description": "...", "size": 3, "health": 33, "requirements": [{"item": "mice", "amount": 4}, {"item": "dere", "amount": 9}, {"item": "muqanium", "amount": 7}], "research": "mice-factory", "powerProduction": 0.11096308869597672, "category": "power"}

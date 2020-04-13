@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vuganium junction", "description": "...", "health": 15, "speed": 3, "capacity": 10, "size": 1, "requirements": [{"item": "vuganium", "amount": 5}, {"item": "cuwe", "amount": 3}], "research": "vuganium-conveyor", "category": "distribution"}

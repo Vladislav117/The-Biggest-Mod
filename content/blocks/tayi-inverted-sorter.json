@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tayi inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "tayi", "amount": 4}, {"item": "gymypa", "amount": 5}], "research": "tayi-conveyor", "category": "distribution", "invert": true}

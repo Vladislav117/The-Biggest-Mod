@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small baguyu power node", "description": "...", "size": 1, "health": 341, "requirements": [{"item": "baguyu", "amount": 11}, {"item": "rumigonium", "amount": 9}, {"item": "yuly", "amount": 6}], "research": "baguyu-factory", "maxNodes": 27, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rozy junction", "description": "...", "health": 36, "speed": 1, "capacity": 16, "size": 1, "requirements": [{"item": "rozy", "amount": 1}, {"item": "kyna", "amount": 1}], "research": "rozy-conveyor", "category": "distribution"}

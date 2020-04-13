@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "dutenium conveyor", "description": "...", "health": 150, "requirements": [{"item": "dutenium", "amount": 5}, {"item": "rosiqe", "amount": 4}], "speed": 0.46394410458601204, "research": "dutenium-factory", "category": "distribution"}

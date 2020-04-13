@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yukoni solar panel", "description": "...", "size": 3, "health": 216, "requirements": [{"item": "yukoni", "amount": 3}, {"item": "cavuyi", "amount": 19}, {"item": "kejinium", "amount": 1}], "research": "yukoni-factory", "powerProduction": 2.7866047388974313, "category": "power"}

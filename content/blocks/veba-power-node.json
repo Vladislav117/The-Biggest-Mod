@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "veba power node", "description": "...", "size": 2, "health": 710, "requirements": [{"item": "veba", "amount": 12}, {"item": "jumozo", "amount": 5}, {"item": "kawo", "amount": 9}], "research": "veba-factory", "maxNodes": 42, "laserRange": 22, "category": "power"}

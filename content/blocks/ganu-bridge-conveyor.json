@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ganu bridge conveyor", "description": "", "health": 20, "range": 15, "speed": 19, "bufferCapacity": 21, "requirements": [{"item": "ganu", "amount": 1}, {"item": "yavyra", "amount": 4}], "research": "ganu-conveyor", "category": "distribution", "size": 1}

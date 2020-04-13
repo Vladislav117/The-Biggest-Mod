@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cetobu power node", "description": "...", "size": 1, "health": 277, "requirements": [{"item": "cetobu", "amount": 16}, {"item": "dyxuhu", "amount": 4}, {"item": "peloronium", "amount": 4}], "research": "cetobu-factory", "maxNodes": 23, "laserRange": 22, "category": "power"}

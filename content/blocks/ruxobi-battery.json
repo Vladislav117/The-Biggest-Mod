@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ruxobi battery", "description": "...", "size": 3, "health": 250, "requirements": [{"item": "ruxobi", "amount": 10}, {"item": "beqeyenium", "amount": 1}, {"item": "gina", "amount": 4}], "research": "ruxobi-factory", "consumes": {"powerBuffered": 4462}, "category": "power"}

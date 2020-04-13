@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vivunium liquid tank", "description": "...", "health": 165, "size": 3, "requirements": [{"item": "vivunium", "amount": 11}, {"item": "zoyasi", "amount": 5}, {"item": "rabe", "amount": 8}], "research": "vivunium-conduit", "category": "liquid", "liquidCapacity": 26861, "hasLiquids": true}

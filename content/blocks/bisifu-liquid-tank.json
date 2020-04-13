@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bisifu liquid tank", "description": "...", "health": 531, "size": 3, "requirements": [{"item": "bisifu", "amount": 13}, {"item": "roqeki", "amount": 16}, {"item": "hysivi", "amount": 8}], "research": "bisifu-conduit", "category": "liquid", "liquidCapacity": 74115, "hasLiquids": true}

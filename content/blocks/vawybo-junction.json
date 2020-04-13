@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vawybo junction", "description": "...", "health": 20, "speed": 6, "capacity": 16, "size": 1, "requirements": [{"item": "vawybo", "amount": 1}, {"item": "togygi", "amount": 4}], "research": "vawybo-conveyor", "category": "distribution"}

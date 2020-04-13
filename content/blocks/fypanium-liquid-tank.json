@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fypanium liquid tank", "description": "...", "health": 282, "size": 3, "requirements": [{"item": "fypanium", "amount": 5}, {"item": "yudafa", "amount": 16}, {"item": "pamufo", "amount": 3}], "research": "fypanium-conduit", "category": "liquid", "liquidCapacity": 15743, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nudo conduit", "description": "...", "health": 123, "requirements": [{"item": "nudo", "amount": 17}, {"item": "qari", "amount": 4}, {"item": "rajubanium", "amount": 5}], "liquidCapacity": 27, "liquidPressure": 6, "research": "nudo-factory", "category": "liquid"}

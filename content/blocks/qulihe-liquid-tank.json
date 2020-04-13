@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qulihe liquid tank", "description": "...", "health": 623, "size": 3, "requirements": [{"item": "qulihe", "amount": 8}, {"item": "qutonium", "amount": 3}, {"item": "hebohy", "amount": 9}], "research": "qulihe-conduit", "category": "liquid", "liquidCapacity": 41508, "hasLiquids": true}

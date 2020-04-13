@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tuma conduit", "description": "...", "health": 157, "requirements": [{"item": "tuma", "amount": 18}, {"item": "nudo", "amount": 18}, {"item": "jeqenium", "amount": 6}], "liquidCapacity": 40, "liquidPressure": 3, "research": "tuma-factory", "category": "liquid"}

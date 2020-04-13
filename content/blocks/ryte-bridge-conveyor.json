@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ryte bridge conveyor", "description": "", "health": 46, "range": 9, "speed": 15, "bufferCapacity": 4, "requirements": [{"item": "ryte", "amount": 3}, {"item": "haqu", "amount": 5}], "research": "ryte-conveyor", "category": "distribution", "size": 1}

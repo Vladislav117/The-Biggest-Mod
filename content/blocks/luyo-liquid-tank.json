@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "luyo liquid tank", "description": "...", "health": 124, "size": 3, "requirements": [{"item": "luyo", "amount": 14}, {"item": "roqeki", "amount": 1}, {"item": "rylyki", "amount": 2}], "research": "luyo-conduit", "category": "liquid", "liquidCapacity": 8114, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hotose junction", "description": "...", "health": 15, "speed": 18, "capacity": 2, "size": 1, "requirements": [{"item": "hotose", "amount": 2}, {"item": "hiqasynium", "amount": 4}], "research": "hotose-conveyor", "category": "distribution"}

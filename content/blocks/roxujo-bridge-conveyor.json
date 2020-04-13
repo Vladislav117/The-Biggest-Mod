@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "roxujo bridge conveyor", "description": "", "health": 24, "range": 20, "speed": 11, "bufferCapacity": 14, "requirements": [{"item": "roxujo", "amount": 3}, {"item": "xujo", "amount": 1}], "research": "roxujo-conveyor", "category": "distribution", "size": 1}

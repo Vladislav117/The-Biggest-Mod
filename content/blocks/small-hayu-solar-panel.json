@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hayu solar panel", "description": "...", "size": 1, "health": 271, "requirements": [{"item": "hayu", "amount": 18}, {"item": "taja", "amount": 11}, {"item": "nisowi", "amount": 2}], "research": "hayu-factory", "powerProduction": 2.3850747702010535, "category": "power"}

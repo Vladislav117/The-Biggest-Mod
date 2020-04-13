@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "piqori liquid router", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "piqori", "amount": 17}, {"item": "cupedi", "amount": 12}, {"item": "rahonium", "amount": 2}], "research": "piqori-conduit", "liquidCapacity": 10, "category": "liquid"}

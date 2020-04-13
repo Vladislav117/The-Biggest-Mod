@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "duly solar panel", "description": "...", "size": 3, "health": 270, "requirements": [{"item": "duly", "amount": 5}, {"item": "pavanium", "amount": 1}, {"item": "sybo", "amount": 10}], "research": "duly-factory", "powerProduction": 3.0286044369352387, "category": "power"}

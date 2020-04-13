@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tabo power node", "description": "...", "size": 2, "health": 307, "requirements": [{"item": "tabo", "amount": 20}, {"item": "zese", "amount": 10}, {"item": "rehyce", "amount": 7}], "research": "tabo-factory", "maxNodes": 35, "laserRange": 24, "category": "power"}

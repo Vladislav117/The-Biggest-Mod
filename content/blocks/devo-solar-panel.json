@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "devo solar panel", "description": "...", "size": 3, "health": 215, "requirements": [{"item": "devo", "amount": 12}, {"item": "weweco", "amount": 13}, {"item": "yixo", "amount": 9}], "research": "devo-factory", "powerProduction": 2.142922554747104, "category": "power"}

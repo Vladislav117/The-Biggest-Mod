@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qizuxynium solar panel", "description": "...", "size": 3, "health": 275, "requirements": [{"item": "qizuxynium", "amount": 3}, {"item": "zonufu", "amount": 18}, {"item": "liryfa", "amount": 5}], "research": "qizuxynium-factory", "powerProduction": 0.006729800132736819, "category": "power"}

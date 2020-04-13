@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yigonenium power node", "description": "...", "size": 2, "health": 367, "requirements": [{"item": "yigonenium", "amount": 10}, {"item": "hyqyno", "amount": 3}, {"item": "fasaze", "amount": 4}], "research": "yigonenium-factory", "maxNodes": 45, "laserRange": 23, "category": "power"}

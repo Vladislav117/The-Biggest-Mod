@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "taxanium solar panel", "description": "...", "size": 3, "health": 372, "requirements": [{"item": "taxanium", "amount": 4}, {"item": "redo", "amount": 3}, {"item": "judu", "amount": 5}], "research": "taxanium-factory", "powerProduction": 3.789405625496011, "category": "power"}

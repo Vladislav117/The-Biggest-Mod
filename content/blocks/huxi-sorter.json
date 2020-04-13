@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "huxi sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "huxi", "amount": 4}, {"item": "yedyte", "amount": 3}], "research": "huxi-conveyor", "category": "distribution", "invert": false}

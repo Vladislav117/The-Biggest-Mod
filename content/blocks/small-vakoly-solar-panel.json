@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vakoly solar panel", "description": "...", "size": 1, "health": 208, "requirements": [{"item": "vakoly", "amount": 12}, {"item": "tufi", "amount": 9}, {"item": "giho", "amount": 1}], "research": "vakoly-factory", "powerProduction": 5.0855200271871395, "category": "power"}

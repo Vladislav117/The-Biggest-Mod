@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hicewi bridge conveyor", "description": "", "health": 27, "range": 5, "speed": 9, "bufferCapacity": 6, "requirements": [{"item": "hicewi", "amount": 3}, {"item": "fole", "amount": 2}], "research": "hicewi-conveyor", "category": "distribution", "size": 1}

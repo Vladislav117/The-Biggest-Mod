@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tanexo sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "tanexo", "amount": 5}, {"item": "tugu", "amount": 5}], "research": "tanexo-conveyor", "category": "distribution", "invert": false}

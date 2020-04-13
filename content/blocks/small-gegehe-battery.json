@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gegehe battery", "description": "...", "size": 1, "health": 126, "requirements": [{"item": "gegehe", "amount": 13}, {"item": "womisa", "amount": 19}, {"item": "luwetu", "amount": 7}], "research": "gegehe-factory", "consumes": {"powerBuffered": 467}, "category": "power"}

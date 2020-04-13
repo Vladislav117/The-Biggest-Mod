@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gepyna battery", "description": "...", "size": 3, "health": 108, "requirements": [{"item": "gepyna", "amount": 8}, {"item": "jayaye", "amount": 2}, {"item": "muqy", "amount": 5}], "research": "gepyna-factory", "consumes": {"powerBuffered": 3307}, "category": "power"}

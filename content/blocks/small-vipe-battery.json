@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vipe battery", "description": "...", "size": 1, "health": 24, "requirements": [{"item": "vipe", "amount": 11}, {"item": "qoseve", "amount": 13}, {"item": "cyxazi", "amount": 1}], "research": "vipe-factory", "consumes": {"powerBuffered": 2732}, "category": "power"}

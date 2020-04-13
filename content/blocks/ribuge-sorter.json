@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ribuge sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "ribuge", "amount": 3}, {"item": "maku", "amount": 4}], "research": "ribuge-conveyor", "category": "distribution", "invert": false}

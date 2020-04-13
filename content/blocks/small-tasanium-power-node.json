@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tasanium power node", "description": "...", "size": 1, "health": 198, "requirements": [{"item": "tasanium", "amount": 15}, {"item": "kani", "amount": 2}, {"item": "yeyunonium", "amount": 2}], "research": "tasanium-factory", "maxNodes": 10, "laserRange": 8, "category": "power"}

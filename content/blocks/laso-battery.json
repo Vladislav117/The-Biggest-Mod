@@ -1,0 +1,1 @@
+{"type": "battery", "name": "laso battery", "description": "...", "size": 3, "health": 63, "requirements": [{"item": "laso", "amount": 14}, {"item": "qudeya", "amount": 3}, {"item": "mylenium", "amount": 6}], "research": "laso-factory", "consumes": {"powerBuffered": 3465}, "category": "power"}

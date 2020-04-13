@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small heruvu solar panel", "description": "...", "size": 1, "health": 177, "requirements": [{"item": "heruvu", "amount": 1}, {"item": "tyjexanium", "amount": 18}, {"item": "codaxe", "amount": 4}], "research": "heruvu-factory", "powerProduction": 4.864849819558011, "category": "power"}

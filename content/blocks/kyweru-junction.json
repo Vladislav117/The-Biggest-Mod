@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kyweru junction", "description": "...", "health": 7, "speed": 14, "capacity": 19, "size": 1, "requirements": [{"item": "kyweru", "amount": 3}, {"item": "hedi", "amount": 1}], "research": "kyweru-conveyor", "category": "distribution"}

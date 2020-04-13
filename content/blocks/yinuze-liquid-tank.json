@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yinuze liquid tank", "description": "...", "health": 645, "size": 3, "requirements": [{"item": "yinuze", "amount": 10}, {"item": "nunanunium", "amount": 5}, {"item": "wore", "amount": 7}], "research": "yinuze-conduit", "category": "liquid", "liquidCapacity": 86016, "hasLiquids": true}

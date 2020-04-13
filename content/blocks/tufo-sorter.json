@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tufo sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "tufo", "amount": 3}, {"item": "qayanium", "amount": 1}], "research": "tufo-conveyor", "category": "distribution", "invert": false}

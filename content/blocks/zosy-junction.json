@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zosy junction", "description": "...", "health": 13, "speed": 16, "capacity": 16, "size": 1, "requirements": [{"item": "zosy", "amount": 3}, {"item": "kilu", "amount": 4}], "research": "zosy-conveyor", "category": "distribution"}

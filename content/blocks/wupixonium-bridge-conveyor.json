@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wupixonium bridge conveyor", "description": "", "health": 10, "range": 9, "speed": 1, "bufferCapacity": 20, "requirements": [{"item": "wupixonium", "amount": 2}, {"item": "nudo", "amount": 5}], "research": "wupixonium-conveyor", "category": "distribution", "size": 1}

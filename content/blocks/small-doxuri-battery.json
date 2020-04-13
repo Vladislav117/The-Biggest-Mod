@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small doxuri battery", "description": "...", "size": 1, "health": 305, "requirements": [{"item": "doxuri", "amount": 13}, {"item": "qycozi", "amount": 14}, {"item": "fysubi", "amount": 10}], "research": "doxuri-factory", "consumes": {"powerBuffered": 1016}, "category": "power"}

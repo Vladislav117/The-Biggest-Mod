@@ -1,0 +1,1 @@
+{"type": "battery", "name": "migube battery", "description": "...", "size": 3, "health": 125, "requirements": [{"item": "migube", "amount": 15}, {"item": "nejesu", "amount": 9}, {"item": "sacigi", "amount": 7}], "research": "migube-factory", "consumes": {"powerBuffered": 1467}, "category": "power"}

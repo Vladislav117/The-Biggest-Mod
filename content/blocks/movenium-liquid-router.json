@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "movenium liquid router", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "movenium", "amount": 6}, {"item": "jytubinium", "amount": 16}, {"item": "pyvunium", "amount": 5}], "research": "movenium-conduit", "liquidCapacity": 10, "category": "liquid"}

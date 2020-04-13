@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hypo solar panel", "description": "...", "size": 3, "health": 75, "requirements": [{"item": "hypo", "amount": 3}, {"item": "fifyru", "amount": 18}, {"item": "yaxuda", "amount": 7}], "research": "hypo-factory", "powerProduction": 2.094948427167964, "category": "power"}

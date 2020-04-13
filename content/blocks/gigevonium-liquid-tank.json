@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gigevonium liquid tank", "description": "...", "health": 538, "size": 3, "requirements": [{"item": "gigevonium", "amount": 16}, {"item": "gyza", "amount": 8}, {"item": "weweco", "amount": 6}], "research": "gigevonium-conduit", "category": "liquid", "liquidCapacity": 31934, "hasLiquids": true}

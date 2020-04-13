@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wipori conduit", "description": "...", "health": 109, "requirements": [{"item": "wipori", "amount": 7}, {"item": "bafy", "amount": 15}, {"item": "vodynium", "amount": 5}], "liquidCapacity": 25, "liquidPressure": 4, "research": "wipori-factory", "category": "liquid"}

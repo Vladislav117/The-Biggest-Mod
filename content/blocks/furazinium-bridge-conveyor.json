@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "furazinium bridge conveyor", "description": "", "health": 41, "range": 4, "speed": 12, "bufferCapacity": 11, "requirements": [{"item": "furazinium", "amount": 5}, {"item": "xekota", "amount": 4}], "research": "furazinium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jodo inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "jodo", "amount": 4}, {"item": "gozagy", "amount": 1}], "research": "jodo-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xaxe inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "xaxe", "amount": 5}, {"item": "zalirenium", "amount": 2}], "research": "xaxe-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hohisi solar panel", "description": "...", "size": 1, "health": 236, "requirements": [{"item": "hohisi", "amount": 4}, {"item": "jazozu", "amount": 1}, {"item": "guhile", "amount": 10}], "research": "hohisi-factory", "powerProduction": 0.26242242317164144, "category": "power"}

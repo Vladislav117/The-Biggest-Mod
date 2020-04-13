@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small doxuri solar panel", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "doxuri", "amount": 1}, {"item": "wybenium", "amount": 3}, {"item": "jeyanium", "amount": 9}], "research": "doxuri-factory", "powerProduction": 0.49863266955569674, "category": "power"}

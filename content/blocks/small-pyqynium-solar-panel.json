@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pyqynium solar panel", "description": "...", "size": 1, "health": 253, "requirements": [{"item": "pyqynium", "amount": 15}, {"item": "baqo", "amount": 6}, {"item": "holipu", "amount": 9}], "research": "pyqynium-factory", "powerProduction": 8.234517899126406, "category": "power"}

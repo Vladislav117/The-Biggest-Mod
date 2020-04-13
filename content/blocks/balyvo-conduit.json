@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "balyvo conduit", "description": "...", "health": 127, "requirements": [{"item": "balyvo", "amount": 10}, {"item": "kiredi", "amount": 5}, {"item": "liza", "amount": 4}], "liquidCapacity": 14, "liquidPressure": 0, "research": "balyvo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qexu conduit", "description": "...", "health": 20, "requirements": [{"item": "qexu", "amount": 16}, {"item": "tewo", "amount": 2}, {"item": "havipi", "amount": 1}], "liquidCapacity": 48, "liquidPressure": 3, "research": "qexu-factory", "category": "liquid"}

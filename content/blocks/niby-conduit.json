@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "niby conduit", "description": "...", "health": 150, "requirements": [{"item": "niby", "amount": 10}, {"item": "motu", "amount": 10}, {"item": "zigy", "amount": 10}], "liquidCapacity": 30, "liquidPressure": 8, "research": "niby-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fusofonium junction", "description": "...", "health": 4, "speed": 4, "capacity": 11, "size": 1, "requirements": [{"item": "fusofonium", "amount": 3}, {"item": "xevanium", "amount": 2}], "research": "fusofonium-conveyor", "category": "distribution"}

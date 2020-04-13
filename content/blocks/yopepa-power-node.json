@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yopepa power node", "description": "...", "size": 2, "health": 29, "requirements": [{"item": "yopepa", "amount": 3}, {"item": "basomi", "amount": 18}, {"item": "wana", "amount": 9}], "research": "yopepa-factory", "maxNodes": 18, "laserRange": 9, "category": "power"}

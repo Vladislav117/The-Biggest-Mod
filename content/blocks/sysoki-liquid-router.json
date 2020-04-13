@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sysoki liquid router", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "sysoki", "amount": 10}, {"item": "pyci", "amount": 3}, {"item": "layi", "amount": 2}], "research": "sysoki-conduit", "liquidCapacity": 10, "category": "liquid"}

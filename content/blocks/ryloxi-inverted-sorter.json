@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ryloxi inverted sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "ryloxi", "amount": 1}, {"item": "favunium", "amount": 1}], "research": "ryloxi-conveyor", "category": "distribution", "invert": true}

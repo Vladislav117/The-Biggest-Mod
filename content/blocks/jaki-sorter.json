@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jaki sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "jaki", "amount": 2}, {"item": "sukafe", "amount": 1}], "research": "jaki-conveyor", "category": "distribution", "invert": false}

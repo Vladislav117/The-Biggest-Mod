@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xotomu inverted sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "xotomu", "amount": 3}, {"item": "zyqita", "amount": 2}], "research": "xotomu-conveyor", "category": "distribution", "invert": true}

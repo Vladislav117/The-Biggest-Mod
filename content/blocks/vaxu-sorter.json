@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vaxu sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "vaxu", "amount": 4}, {"item": "nary", "amount": 2}], "research": "vaxu-conveyor", "category": "distribution", "invert": false}

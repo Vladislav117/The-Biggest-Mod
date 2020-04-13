@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bovu solar panel", "description": "...", "size": 3, "health": 296, "requirements": [{"item": "bovu", "amount": 20}, {"item": "muvy", "amount": 9}, {"item": "neloto", "amount": 6}], "research": "bovu-factory", "powerProduction": 0.06960384342670388, "category": "power"}

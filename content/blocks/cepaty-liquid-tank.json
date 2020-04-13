@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cepaty liquid tank", "description": "...", "health": 277, "size": 3, "requirements": [{"item": "cepaty", "amount": 9}, {"item": "zoqivanium", "amount": 4}, {"item": "cesewo", "amount": 7}], "research": "cepaty-conduit", "category": "liquid", "liquidCapacity": 50457, "hasLiquids": true}

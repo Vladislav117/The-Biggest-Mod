@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vyse solar panel", "description": "...", "size": 1, "health": 136, "requirements": [{"item": "vyse", "amount": 19}, {"item": "zoqy", "amount": 1}, {"item": "vamoginium", "amount": 10}], "research": "vyse-factory", "powerProduction": 1.0688128921963598, "category": "power"}

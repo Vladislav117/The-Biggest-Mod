@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xohy liquid tank", "description": "...", "health": 449, "size": 3, "requirements": [{"item": "xohy", "amount": 10}, {"item": "dala", "amount": 1}, {"item": "zyqita", "amount": 6}], "research": "xohy-conduit", "category": "liquid", "liquidCapacity": 20358, "hasLiquids": true}

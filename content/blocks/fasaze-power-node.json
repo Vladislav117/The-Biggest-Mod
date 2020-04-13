@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fasaze power node", "description": "...", "size": 2, "health": 265, "requirements": [{"item": "fasaze", "amount": 5}, {"item": "byhonium", "amount": 6}, {"item": "biqa", "amount": 9}], "research": "fasaze-factory", "maxNodes": 15, "laserRange": 27, "category": "power"}

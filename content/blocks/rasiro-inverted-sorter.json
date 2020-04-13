@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rasiro inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "rasiro", "amount": 5}, {"item": "vurewe", "amount": 1}], "research": "rasiro-conveyor", "category": "distribution", "invert": true}

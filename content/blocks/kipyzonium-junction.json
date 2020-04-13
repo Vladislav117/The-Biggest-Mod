@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kipyzonium junction", "description": "...", "health": 6, "speed": 1, "capacity": 7, "size": 1, "requirements": [{"item": "kipyzonium", "amount": 5}, {"item": "ryqaje", "amount": 5}], "research": "kipyzonium-conveyor", "category": "distribution"}

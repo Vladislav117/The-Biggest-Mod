@@ -1,0 +1,1 @@
+{"type": "battery", "name": "feby battery", "description": "...", "size": 3, "health": 216, "requirements": [{"item": "feby", "amount": 2}, {"item": "geco", "amount": 18}, {"item": "cabyzo", "amount": 8}], "research": "feby-factory", "consumes": {"powerBuffered": 3087}, "category": "power"}

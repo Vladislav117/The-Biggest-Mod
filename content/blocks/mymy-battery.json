@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mymy battery", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "mymy", "amount": 14}, {"item": "kuye", "amount": 5}, {"item": "holipu", "amount": 10}], "research": "mymy-factory", "consumes": {"powerBuffered": 1458}, "category": "power"}

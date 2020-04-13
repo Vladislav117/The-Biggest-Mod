@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "teko sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "teko", "amount": 1}, {"item": "yemy", "amount": 4}], "research": "teko-conveyor", "category": "distribution", "invert": false}

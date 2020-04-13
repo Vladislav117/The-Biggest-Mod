@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wehynium drill", "description": "...", "size": 2, "health": 337, "tier": 2, "drillTime": 17, "consumes": {"power": 2}, "requirements": [{"item": "wehynium", "amount": 3}, {"item": "jucinium", "amount": 11}, {"item": "kypy", "amount": 9}], "research": "wehynium-factory", "category": "production"}

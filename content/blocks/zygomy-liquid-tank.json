@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zygomy liquid tank", "description": "...", "health": 562, "size": 3, "requirements": [{"item": "zygomy", "amount": 5}, {"item": "zazinium", "amount": 10}, {"item": "seleme", "amount": 5}], "research": "zygomy-conduit", "category": "liquid", "liquidCapacity": 4703, "hasLiquids": true}

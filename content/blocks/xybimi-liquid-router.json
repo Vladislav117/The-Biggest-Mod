@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xybimi liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "xybimi", "amount": 20}, {"item": "hewunium", "amount": 8}, {"item": "pyto", "amount": 1}], "research": "xybimi-conduit", "liquidCapacity": 10, "category": "liquid"}

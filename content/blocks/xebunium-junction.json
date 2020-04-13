@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xebunium junction", "description": "...", "health": 31, "speed": 16, "capacity": 19, "size": 1, "requirements": [{"item": "xebunium", "amount": 5}, {"item": "maqufu", "amount": 5}], "research": "xebunium-conveyor", "category": "distribution"}

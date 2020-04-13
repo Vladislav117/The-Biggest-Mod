@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pyzemu battery", "description": "...", "size": 1, "health": 106, "requirements": [{"item": "pyzemu", "amount": 6}, {"item": "jycepynium", "amount": 4}, {"item": "qacu", "amount": 2}], "research": "pyzemu-factory", "consumes": {"powerBuffered": 524}, "category": "power"}

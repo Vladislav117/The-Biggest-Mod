@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xesinynium battery", "description": "...", "size": 3, "health": 177, "requirements": [{"item": "xesinynium", "amount": 5}, {"item": "wofu", "amount": 4}, {"item": "ruji", "amount": 2}], "research": "xesinynium-factory", "consumes": {"powerBuffered": 6728}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "logybi drill", "description": "...", "size": 4, "health": 269, "tier": 2, "drillTime": 19, "consumes": {"power": 13}, "requirements": [{"item": "logybi", "amount": 5}, {"item": "pehy", "amount": 10}, {"item": "dakiqu", "amount": 10}], "research": "logybi-factory", "category": "production"}

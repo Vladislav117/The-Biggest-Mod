@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tuxalu drill", "description": "...", "size": 2, "health": 146, "tier": 1, "drillTime": 11, "consumes": {"power": 9}, "requirements": [{"item": "tuxalu", "amount": 7}, {"item": "naxihe", "amount": 16}, {"item": "gaxunium", "amount": 9}], "research": "tuxalu-factory", "category": "production"}

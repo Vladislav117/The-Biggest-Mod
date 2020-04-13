@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small citygo battery", "description": "...", "size": 1, "health": 116, "requirements": [{"item": "citygo", "amount": 4}, {"item": "kupanium", "amount": 19}, {"item": "kuvinium", "amount": 7}], "research": "citygo-factory", "consumes": {"powerBuffered": 1257}, "category": "power"}

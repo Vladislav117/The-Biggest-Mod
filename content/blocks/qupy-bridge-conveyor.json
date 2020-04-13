@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qupy bridge conveyor", "description": "", "health": 32, "range": 3, "speed": 15, "bufferCapacity": 15, "requirements": [{"item": "qupy", "amount": 4}, {"item": "raqo", "amount": 4}], "research": "qupy-conveyor", "category": "distribution", "size": 1}

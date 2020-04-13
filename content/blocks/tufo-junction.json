@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tufo junction", "description": "...", "health": 13, "speed": 1, "capacity": 20, "size": 1, "requirements": [{"item": "tufo", "amount": 3}, {"item": "lafybe", "amount": 1}], "research": "tufo-conveyor", "category": "distribution"}

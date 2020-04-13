@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "qicu conveyor", "description": "...", "health": 215, "requirements": [{"item": "qicu", "amount": 10}, {"item": "jaju", "amount": 5}], "speed": 0.08516926278118259, "research": "qicu-factory", "category": "distribution"}

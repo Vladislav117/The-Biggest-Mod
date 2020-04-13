@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tefexe underflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "tefexe", "amount": 4}, {"item": "hufema", "amount": 1}], "research": "tefexe-conveyor", "category": "distribution", "invert": false}

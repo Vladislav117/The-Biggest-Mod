@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mewe solar panel", "description": "...", "size": 3, "health": 142, "requirements": [{"item": "mewe", "amount": 14}, {"item": "pyzanium", "amount": 17}, {"item": "hasifa", "amount": 8}], "research": "mewe-factory", "powerProduction": 0.0008372378506229747, "category": "power"}

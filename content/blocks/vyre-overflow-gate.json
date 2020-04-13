@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vyre overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "vyre", "amount": 3}, {"item": "resenium", "amount": 4}], "research": "vyre-conveyor", "category": "distribution", "invert": false}

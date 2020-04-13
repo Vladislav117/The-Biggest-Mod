@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yeti liquid tank", "description": "...", "health": 614, "size": 3, "requirements": [{"item": "yeti", "amount": 2}, {"item": "milusunium", "amount": 2}, {"item": "rogoly", "amount": 1}], "research": "yeti-conduit", "category": "liquid", "liquidCapacity": 69009, "hasLiquids": true}

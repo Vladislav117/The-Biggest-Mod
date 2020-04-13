@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "galoninium liquid tank", "description": "...", "health": 253, "size": 3, "requirements": [{"item": "galoninium", "amount": 20}, {"item": "jonaqu", "amount": 14}, {"item": "zogeno", "amount": 5}], "research": "galoninium-conduit", "category": "liquid", "liquidCapacity": 112711, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sato junction", "description": "...", "health": 16, "speed": 14, "capacity": 3, "size": 1, "requirements": [{"item": "sato", "amount": 3}, {"item": "qari", "amount": 1}], "research": "sato-conveyor", "category": "distribution"}

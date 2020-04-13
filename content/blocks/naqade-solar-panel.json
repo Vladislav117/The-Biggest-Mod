@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "naqade solar panel", "description": "...", "size": 3, "health": 391, "requirements": [{"item": "naqade", "amount": 17}, {"item": "kipybi", "amount": 2}, {"item": "depyya", "amount": 4}], "research": "naqade-factory", "powerProduction": 0.22976529283572922, "category": "power"}

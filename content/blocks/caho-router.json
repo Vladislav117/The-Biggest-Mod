@@ -1,0 +1,1 @@
+{"type": "router", "name": "caho router", "description": "...", "health": 70, "size": 1, "requirements": [{"item": "caho", "amount": 7}], "research": "caho-conveyor", "category": "distribution"}

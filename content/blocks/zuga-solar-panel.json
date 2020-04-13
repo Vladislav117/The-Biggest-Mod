@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zuga solar panel", "description": "...", "size": 3, "health": 229, "requirements": [{"item": "zuga", "amount": 20}, {"item": "wiba", "amount": 3}, {"item": "kuqyki", "amount": 7}], "research": "zuga-factory", "powerProduction": 0.032425706833725663, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "muhi junction", "description": "...", "health": 20, "speed": 19, "capacity": 7, "size": 1, "requirements": [{"item": "muhi", "amount": 2}, {"item": "zuwydy", "amount": 5}], "research": "muhi-conveyor", "category": "distribution"}

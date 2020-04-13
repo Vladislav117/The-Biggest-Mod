@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rilo junction", "description": "...", "health": 34, "speed": 17, "capacity": 20, "size": 1, "requirements": [{"item": "rilo", "amount": 2}, {"item": "nybinium", "amount": 1}], "research": "rilo-conveyor", "category": "distribution"}

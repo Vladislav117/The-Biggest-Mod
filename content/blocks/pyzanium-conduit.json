@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pyzanium conduit", "description": "...", "health": 119, "requirements": [{"item": "pyzanium", "amount": 14}, {"item": "rizu", "amount": 18}, {"item": "yypefa", "amount": 8}], "liquidCapacity": 15, "liquidPressure": 0, "research": "pyzanium-factory", "category": "liquid"}

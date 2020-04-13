@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "rafikanium overdrive projector", "description": "...", "health": 86, "consumes": {"power": 3.0, "item": "rafikanium"}, "size": 2, "requirements": [{"item": "rafikanium", "amount": 8}, {"item": "syre", "amount": 17}, {"item": "bide", "amount": 5}], "research": "rafikanium-factory", "category": "effect"}

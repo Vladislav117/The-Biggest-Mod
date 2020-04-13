@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "roqeki liquid tank", "description": "...", "health": 331, "size": 3, "requirements": [{"item": "roqeki", "amount": 5}, {"item": "xeqikynium", "amount": 15}, {"item": "yywy", "amount": 2}], "research": "roqeki-conduit", "category": "liquid", "liquidCapacity": 18041, "hasLiquids": true}

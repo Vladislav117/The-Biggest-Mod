@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mika liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "mika", "amount": 14}, {"item": "fybaze", "amount": 18}, {"item": "dufekunium", "amount": 9}], "research": "mika-conduit", "liquidCapacity": 10, "category": "liquid"}

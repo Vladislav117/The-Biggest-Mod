@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yeci power node", "description": "...", "size": 2, "health": 206, "requirements": [{"item": "yeci", "amount": 10}, {"item": "furiva", "amount": 2}, {"item": "pebi", "amount": 5}], "research": "yeci-factory", "maxNodes": 57, "laserRange": 16, "category": "power"}

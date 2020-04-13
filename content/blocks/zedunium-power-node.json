@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zedunium power node", "description": "...", "size": 2, "health": 709, "requirements": [{"item": "zedunium", "amount": 4}, {"item": "sosi", "amount": 3}, {"item": "lyjenium", "amount": 6}], "research": "zedunium-factory", "maxNodes": 45, "laserRange": 28, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "puxyci solar panel", "description": "...", "size": 3, "health": 248, "requirements": [{"item": "puxyci", "amount": 4}, {"item": "jewa", "amount": 15}, {"item": "moye", "amount": 6}], "research": "puxyci-factory", "powerProduction": 0.4777639748594286, "category": "power"}

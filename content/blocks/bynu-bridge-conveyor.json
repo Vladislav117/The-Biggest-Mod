@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bynu bridge conveyor", "description": "", "health": 38, "range": 7, "speed": 20, "bufferCapacity": 19, "requirements": [{"item": "bynu", "amount": 3}, {"item": "pafyvi", "amount": 4}], "research": "bynu-conveyor", "category": "distribution", "size": 1}

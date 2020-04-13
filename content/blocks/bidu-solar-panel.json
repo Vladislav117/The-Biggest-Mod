@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bidu solar panel", "description": "...", "size": 3, "health": 335, "requirements": [{"item": "bidu", "amount": 18}, {"item": "potesonium", "amount": 19}, {"item": "hula", "amount": 4}], "research": "bidu-factory", "powerProduction": 1.7262531789954496, "category": "power"}

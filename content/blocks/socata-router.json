@@ -1,0 +1,1 @@
+{"type": "router", "name": "socata router", "description": "...", "health": 180, "size": 1, "requirements": [{"item": "socata", "amount": 2}], "research": "socata-conveyor", "category": "distribution"}

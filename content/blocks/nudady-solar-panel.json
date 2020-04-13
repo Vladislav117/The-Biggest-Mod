@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nudady solar panel", "description": "...", "size": 3, "health": 125, "requirements": [{"item": "nudady", "amount": 4}, {"item": "hetyjo", "amount": 4}, {"item": "zyqita", "amount": 4}], "research": "nudady-factory", "powerProduction": 0.41609412972911675, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "koty bridge conveyor", "description": "", "health": 42, "range": 14, "speed": 10, "bufferCapacity": 2, "requirements": [{"item": "koty", "amount": 4}, {"item": "sore", "amount": 2}], "research": "koty-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cuwa conduit", "description": "...", "health": 42, "requirements": [{"item": "cuwa", "amount": 11}, {"item": "hoqade", "amount": 3}, {"item": "tomufa", "amount": 2}], "liquidCapacity": 47, "liquidPressure": 8, "research": "cuwa-factory", "category": "liquid"}

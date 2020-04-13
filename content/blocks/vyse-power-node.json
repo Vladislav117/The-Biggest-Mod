@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vyse power node", "description": "...", "size": 2, "health": 790, "requirements": [{"item": "vyse", "amount": 4}, {"item": "gago", "amount": 10}, {"item": "gapa", "amount": 9}], "research": "vyse-factory", "maxNodes": 35, "laserRange": 28, "category": "power"}

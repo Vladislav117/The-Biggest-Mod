@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pamo liquid tank", "description": "...", "health": 347, "size": 3, "requirements": [{"item": "pamo", "amount": 4}, {"item": "xobasonium", "amount": 15}, {"item": "xinodunium", "amount": 10}], "research": "pamo-conduit", "category": "liquid", "liquidCapacity": 12119, "hasLiquids": true}

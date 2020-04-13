@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yowa inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "yowa", "amount": 2}, {"item": "mabifunium", "amount": 4}], "research": "yowa-conveyor", "category": "distribution", "invert": true}

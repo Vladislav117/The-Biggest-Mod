@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hozanium liquid tank", "description": "...", "health": 588, "size": 3, "requirements": [{"item": "hozanium", "amount": 20}, {"item": "napunium", "amount": 11}, {"item": "dimizy", "amount": 10}], "research": "hozanium-conduit", "category": "liquid", "liquidCapacity": 21385, "hasLiquids": true}

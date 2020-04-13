@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "waha liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "waha", "amount": 3}, {"item": "hihunium", "amount": 10}, {"item": "puye", "amount": 7}], "research": "waha-conduit", "liquidCapacity": 10, "category": "liquid"}

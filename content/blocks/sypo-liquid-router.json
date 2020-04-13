@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sypo liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "sypo", "amount": 17}, {"item": "woyu", "amount": 17}, {"item": "donuba", "amount": 5}], "research": "sypo-conduit", "liquidCapacity": 10, "category": "liquid"}

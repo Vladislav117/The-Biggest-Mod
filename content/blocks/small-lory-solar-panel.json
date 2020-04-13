@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lory solar panel", "description": "...", "size": 1, "health": 131, "requirements": [{"item": "lory", "amount": 17}, {"item": "woze", "amount": 6}, {"item": "tivu", "amount": 1}], "research": "lory-factory", "powerProduction": 0.5109001754613332, "category": "power"}

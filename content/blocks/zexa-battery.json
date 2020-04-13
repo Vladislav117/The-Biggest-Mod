@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zexa battery", "description": "...", "size": 3, "health": 380, "requirements": [{"item": "zexa", "amount": 19}, {"item": "tasynium", "amount": 14}, {"item": "gohi", "amount": 6}], "research": "zexa-factory", "consumes": {"powerBuffered": 8528}, "category": "power"}

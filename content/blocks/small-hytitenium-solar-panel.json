@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hytitenium solar panel", "description": "...", "size": 1, "health": 265, "requirements": [{"item": "hytitenium", "amount": 20}, {"item": "ceyuwy", "amount": 15}, {"item": "fufyyu", "amount": 3}], "research": "hytitenium-factory", "powerProduction": 6.733791052667228, "category": "power"}

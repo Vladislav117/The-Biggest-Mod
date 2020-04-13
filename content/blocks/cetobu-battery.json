@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cetobu battery", "description": "...", "size": 3, "health": 205, "requirements": [{"item": "cetobu", "amount": 6}, {"item": "tefaco", "amount": 12}, {"item": "covikinium", "amount": 4}], "research": "cetobu-factory", "consumes": {"powerBuffered": 4480}, "category": "power"}

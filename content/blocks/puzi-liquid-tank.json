@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "puzi liquid tank", "description": "...", "health": 411, "size": 3, "requirements": [{"item": "puzi", "amount": 2}, {"item": "xafeku", "amount": 16}, {"item": "pufere", "amount": 3}], "research": "puzi-conduit", "category": "liquid", "liquidCapacity": 35420, "hasLiquids": true}

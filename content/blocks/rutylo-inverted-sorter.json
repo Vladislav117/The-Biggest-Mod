@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rutylo inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "rutylo", "amount": 4}, {"item": "yowiminium", "amount": 5}], "research": "rutylo-conveyor", "category": "distribution", "invert": true}

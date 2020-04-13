@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qosedi bridge conveyor", "description": "", "health": 3, "range": 5, "speed": 13, "bufferCapacity": 11, "requirements": [{"item": "qosedi", "amount": 1}, {"item": "fobige", "amount": 4}], "research": "qosedi-conveyor", "category": "distribution", "size": 1}

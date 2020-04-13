@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small halyqinium solar panel", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "halyqinium", "amount": 7}, {"item": "ciyo", "amount": 4}, {"item": "rymyfanium", "amount": 7}], "research": "halyqinium-factory", "powerProduction": 1.8452140627544362, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kagunium junction", "description": "...", "health": 45, "speed": 8, "capacity": 15, "size": 1, "requirements": [{"item": "kagunium", "amount": 3}, {"item": "qiwypa", "amount": 5}], "research": "kagunium-conveyor", "category": "distribution"}

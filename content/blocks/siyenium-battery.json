@@ -1,0 +1,1 @@
+{"type": "battery", "name": "siyenium battery", "description": "...", "size": 3, "health": 69, "requirements": [{"item": "siyenium", "amount": 1}, {"item": "vuhu", "amount": 13}, {"item": "wadoka", "amount": 7}], "research": "siyenium-factory", "consumes": {"powerBuffered": 3235}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "veco force projector", "description": "...", "health": 125, "size": 3, "consumes": {"power": 5.0, "item": "veco"}, "requirements": [{"item": "veco", "amount": 6}, {"item": "cuxenium", "amount": 14}, {"item": "nuso", "amount": 6}], "research": "veco-factory", "category": "effect"}

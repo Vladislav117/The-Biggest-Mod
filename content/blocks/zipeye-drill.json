@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zipeye drill", "description": "...", "size": 3, "health": 349, "tier": 4, "drillTime": 14, "consumes": {"power": 14}, "requirements": [{"item": "zipeye", "amount": 6}, {"item": "nunuwy", "amount": 19}, {"item": "fifoxo", "amount": 5}], "research": "zipeye-factory", "category": "production"}

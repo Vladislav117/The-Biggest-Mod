@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yowenium junction", "description": "...", "health": 4, "speed": 8, "capacity": 16, "size": 1, "requirements": [{"item": "yowenium", "amount": 4}, {"item": "zipy", "amount": 1}], "research": "yowenium-conveyor", "category": "distribution"}

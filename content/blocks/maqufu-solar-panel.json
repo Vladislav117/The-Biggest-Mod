@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "maqufu solar panel", "description": "...", "size": 3, "health": 31, "requirements": [{"item": "maqufu", "amount": 19}, {"item": "wumuge", "amount": 11}, {"item": "plastanium", "amount": 5}], "research": "maqufu-factory", "powerProduction": 1.4811432385426044, "category": "power"}

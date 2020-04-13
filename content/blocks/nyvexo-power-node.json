@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nyvexo power node", "description": "...", "size": 2, "health": 725, "requirements": [{"item": "nyvexo", "amount": 5}, {"item": "xuze", "amount": 1}, {"item": "qady", "amount": 4}], "research": "nyvexo-factory", "maxNodes": 26, "laserRange": 21, "category": "power"}

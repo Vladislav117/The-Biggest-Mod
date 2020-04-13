@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yanawa solar panel", "description": "...", "size": 3, "health": 341, "requirements": [{"item": "yanawa", "amount": 15}, {"item": "kefy", "amount": 12}, {"item": "tomufa", "amount": 4}], "research": "yanawa-factory", "powerProduction": 1.8188033670191885, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kizywanium power node", "description": "...", "size": 2, "health": 115, "requirements": [{"item": "kizywanium", "amount": 15}, {"item": "locycanium", "amount": 15}, {"item": "pyce", "amount": 6}], "research": "kizywanium-factory", "maxNodes": 34, "laserRange": 28, "category": "power"}

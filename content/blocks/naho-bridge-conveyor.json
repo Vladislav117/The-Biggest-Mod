@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "naho bridge conveyor", "description": "", "health": 13, "range": 8, "speed": 19, "bufferCapacity": 15, "requirements": [{"item": "naho", "amount": 5}, {"item": "hitiva", "amount": 5}], "research": "naho-conveyor", "category": "distribution", "size": 1}

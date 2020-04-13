@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zorudy solar panel", "description": "...", "size": 1, "health": 149, "requirements": [{"item": "zorudy", "amount": 12}, {"item": "lesyha", "amount": 16}, {"item": "wuwo", "amount": 6}], "research": "zorudy-factory", "powerProduction": 3.464042768793206, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kipybi conduit", "description": "...", "health": 70, "requirements": [{"item": "kipybi", "amount": 11}, {"item": "mygo", "amount": 9}, {"item": "cuvino", "amount": 1}], "liquidCapacity": 40, "liquidPressure": 4, "research": "kipybi-factory", "category": "liquid"}

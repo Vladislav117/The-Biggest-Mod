@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yiqynium solar panel", "description": "...", "size": 3, "health": 215, "requirements": [{"item": "yiqynium", "amount": 11}, {"item": "wykanium", "amount": 18}, {"item": "renove", "amount": 8}], "research": "yiqynium-factory", "powerProduction": 6.702332847114969, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "faba underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "faba", "amount": 5}, {"item": "xyfynium", "amount": 3}], "research": "faba-conveyor", "category": "distribution", "invert": false}

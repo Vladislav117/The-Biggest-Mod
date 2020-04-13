@@ -1,0 +1,1 @@
+{"type": "router", "name": "fogu router", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "fogu", "amount": 9}], "research": "fogu-conveyor", "category": "distribution"}

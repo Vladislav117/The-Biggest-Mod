@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cujori solar panel", "description": "...", "size": 3, "health": 88, "requirements": [{"item": "cujori", "amount": 4}, {"item": "hozanium", "amount": 17}, {"item": "dyxuhu", "amount": 10}], "research": "cujori-factory", "powerProduction": 10.113563824482767, "category": "power"}

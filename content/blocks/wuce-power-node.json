@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wuce power node", "description": "...", "size": 2, "health": 459, "requirements": [{"item": "wuce", "amount": 13}, {"item": "deyy", "amount": 18}, {"item": "hiqasynium", "amount": 10}], "research": "wuce-factory", "maxNodes": 59, "laserRange": 26, "category": "power"}

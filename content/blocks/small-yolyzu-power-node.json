@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yolyzu power node", "description": "...", "size": 1, "health": 170, "requirements": [{"item": "yolyzu", "amount": 19}, {"item": "zadi", "amount": 14}, {"item": "rahy", "amount": 4}], "research": "yolyzu-factory", "maxNodes": 14, "laserRange": 14, "category": "power"}

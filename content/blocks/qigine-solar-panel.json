@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qigine solar panel", "description": "...", "size": 3, "health": 34, "requirements": [{"item": "qigine", "amount": 13}, {"item": "kurecanium", "amount": 8}, {"item": "venuki", "amount": 2}], "research": "qigine-factory", "powerProduction": 2.4658856113555827, "category": "power"}

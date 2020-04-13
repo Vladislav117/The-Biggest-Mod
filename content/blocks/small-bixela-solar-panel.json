@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bixela solar panel", "description": "...", "size": 1, "health": 183, "requirements": [{"item": "bixela", "amount": 17}, {"item": "vedapa", "amount": 18}, {"item": "mififi", "amount": 5}], "research": "bixela-factory", "powerProduction": 2.5687751422275484, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kexebinium sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "kexebinium", "amount": 1}, {"item": "tivu", "amount": 5}], "research": "kexebinium-conveyor", "category": "distribution", "invert": false}

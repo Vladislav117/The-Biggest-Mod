@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fete liquid tank", "description": "...", "health": 232, "size": 3, "requirements": [{"item": "fete", "amount": 13}, {"item": "hamo", "amount": 13}, {"item": "zufenium", "amount": 4}], "research": "fete-conduit", "category": "liquid", "liquidCapacity": 63635, "hasLiquids": true}

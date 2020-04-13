@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xodali inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "xodali", "amount": 5}, {"item": "haxi", "amount": 2}], "research": "xodali-conveyor", "category": "distribution", "invert": true}

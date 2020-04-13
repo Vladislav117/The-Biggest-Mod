@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zeyeqi junction", "description": "...", "health": 28, "speed": 14, "capacity": 14, "size": 1, "requirements": [{"item": "zeyeqi", "amount": 2}, {"item": "kixo", "amount": 1}], "research": "zeyeqi-conveyor", "category": "distribution"}

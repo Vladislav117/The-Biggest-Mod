@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "huxi liquid tank", "description": "...", "health": 519, "size": 3, "requirements": [{"item": "huxi", "amount": 16}, {"item": "moqa", "amount": 20}, {"item": "rodi", "amount": 5}], "research": "huxi-conduit", "category": "liquid", "liquidCapacity": 74197, "hasLiquids": true}

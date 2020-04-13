@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sytu junction", "description": "...", "health": 14, "speed": 7, "capacity": 4, "size": 1, "requirements": [{"item": "sytu", "amount": 3}, {"item": "hyte", "amount": 5}], "research": "sytu-conveyor", "category": "distribution"}

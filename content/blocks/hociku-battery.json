@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hociku battery", "description": "...", "size": 3, "health": 248, "requirements": [{"item": "hociku", "amount": 14}, {"item": "walinium", "amount": 15}, {"item": "myfo", "amount": 6}], "research": "hociku-factory", "consumes": {"powerBuffered": 2079}, "category": "power"}

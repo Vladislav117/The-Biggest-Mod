@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qady junction", "description": "...", "health": 22, "speed": 7, "capacity": 14, "size": 1, "requirements": [{"item": "qady", "amount": 2}, {"item": "plastanium", "amount": 2}], "research": "qady-conveyor", "category": "distribution"}

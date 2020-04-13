@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small feby power node", "description": "...", "size": 1, "health": 269, "requirements": [{"item": "feby", "amount": 7}, {"item": "pyvunium", "amount": 7}, {"item": "mapu", "amount": 5}], "research": "feby-factory", "maxNodes": 5, "laserRange": 10, "category": "power"}

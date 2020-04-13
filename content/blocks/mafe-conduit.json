@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mafe conduit", "description": "...", "health": 123, "requirements": [{"item": "mafe", "amount": 8}, {"item": "qopaye", "amount": 19}, {"item": "befy", "amount": 6}], "liquidCapacity": 40, "liquidPressure": 4, "research": "mafe-factory", "category": "liquid"}

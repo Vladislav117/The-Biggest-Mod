@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cupo liquid tank", "description": "...", "health": 200, "size": 3, "requirements": [{"item": "cupo", "amount": 18}, {"item": "reboka", "amount": 10}, {"item": "pami", "amount": 6}], "research": "cupo-conduit", "category": "liquid", "liquidCapacity": 22580, "hasLiquids": true}

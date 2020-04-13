@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lelo inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "lelo", "amount": 3}, {"item": "siyenium", "amount": 3}], "research": "lelo-conveyor", "category": "distribution", "invert": true}

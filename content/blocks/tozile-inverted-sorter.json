@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tozile inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "tozile", "amount": 3}, {"item": "hidifynium", "amount": 5}], "research": "tozile-conveyor", "category": "distribution", "invert": true}

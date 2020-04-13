@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small viqamo solar panel", "description": "...", "size": 1, "health": 151, "requirements": [{"item": "viqamo", "amount": 19}, {"item": "viqamo", "amount": 12}, {"item": "silicon", "amount": 9}], "research": "viqamo-factory", "powerProduction": 0.17346236665481934, "category": "power"}

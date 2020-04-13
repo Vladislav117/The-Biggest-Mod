@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kawo drill", "description": "...", "size": 2, "health": 159, "tier": 1, "drillTime": 2, "consumes": {"power": 7}, "requirements": [{"item": "kawo", "amount": 16}, {"item": "graphite", "amount": 17}, {"item": "mijynium", "amount": 10}], "research": "kawo-factory", "category": "production"}

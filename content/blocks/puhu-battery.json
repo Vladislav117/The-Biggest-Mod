@@ -1,0 +1,1 @@
+{"type": "battery", "name": "puhu battery", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "puhu", "amount": 19}, {"item": "biny", "amount": 1}, {"item": "zowi", "amount": 7}], "research": "puhu-factory", "consumes": {"powerBuffered": 1997}, "category": "power"}

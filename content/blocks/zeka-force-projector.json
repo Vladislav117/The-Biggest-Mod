@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "zeka force projector", "description": "...", "health": 101, "size": 3, "consumes": {"power": 5.0, "item": "zeka"}, "requirements": [{"item": "zeka", "amount": 14}, {"item": "ruginium", "amount": 1}, {"item": "xebili", "amount": 4}], "research": "zeka-factory", "category": "effect"}

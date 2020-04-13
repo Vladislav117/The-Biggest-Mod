@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zebe power node", "description": "...", "size": 2, "health": 540, "requirements": [{"item": "zebe", "amount": 4}, {"item": "pebi", "amount": 17}, {"item": "vyyuhu", "amount": 7}], "research": "zebe-factory", "maxNodes": 14, "laserRange": 22, "category": "power"}

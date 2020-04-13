@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "diqa overflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "diqa", "amount": 5}, {"item": "bube", "amount": 3}], "research": "diqa-conveyor", "category": "distribution", "invert": false}

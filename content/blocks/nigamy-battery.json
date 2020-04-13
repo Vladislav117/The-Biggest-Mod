@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nigamy battery", "description": "...", "size": 3, "health": 361, "requirements": [{"item": "nigamy", "amount": 4}, {"item": "taxidy", "amount": 20}, {"item": "juzu", "amount": 8}], "research": "nigamy-factory", "consumes": {"powerBuffered": 2838}, "category": "power"}

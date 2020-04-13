@@ -1,0 +1,1 @@
+{"type": "router", "name": "qihy router", "description": "...", "health": 90, "size": 1, "requirements": [{"item": "qihy", "amount": 8}], "research": "qihy-conveyor", "category": "distribution"}

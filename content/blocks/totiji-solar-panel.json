@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "totiji solar panel", "description": "...", "size": 3, "health": 239, "requirements": [{"item": "totiji", "amount": 13}, {"item": "xyduda", "amount": 15}, {"item": "fegy", "amount": 1}], "research": "totiji-factory", "powerProduction": 13.410663199945832, "category": "power"}

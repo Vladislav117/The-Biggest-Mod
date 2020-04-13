@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "teda inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "teda", "amount": 2}, {"item": "dufekunium", "amount": 5}], "research": "teda-conveyor", "category": "distribution", "invert": true}

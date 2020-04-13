@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rozy conduit", "description": "...", "health": 165, "requirements": [{"item": "rozy", "amount": 15}, {"item": "vapa", "amount": 3}, {"item": "xayugynium", "amount": 2}], "liquidCapacity": 17, "liquidPressure": 9, "research": "rozy-factory", "category": "liquid"}

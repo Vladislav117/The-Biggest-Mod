@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tayo liquid tank", "description": "...", "health": 252, "size": 3, "requirements": [{"item": "tayo", "amount": 7}, {"item": "tybunium", "amount": 11}, {"item": "jypanium", "amount": 2}], "research": "tayo-conduit", "category": "liquid", "liquidCapacity": 11927, "hasLiquids": true}

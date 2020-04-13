@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lamopi junction", "description": "...", "health": 35, "speed": 9, "capacity": 15, "size": 1, "requirements": [{"item": "lamopi", "amount": 3}, {"item": "kelyqi", "amount": 5}], "research": "lamopi-conveyor", "category": "distribution"}

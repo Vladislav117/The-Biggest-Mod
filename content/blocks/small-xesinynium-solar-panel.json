@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xesinynium solar panel", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "xesinynium", "amount": 14}, {"item": "xyvenium", "amount": 2}, {"item": "reyyma", "amount": 1}], "research": "xesinynium-factory", "powerProduction": 3.161966404185889, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tehepy inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "tehepy", "amount": 4}, {"item": "mapi", "amount": 5}], "research": "tehepy-conveyor", "category": "distribution", "invert": true}

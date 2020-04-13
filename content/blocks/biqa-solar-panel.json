@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "biqa solar panel", "description": "...", "size": 3, "health": 311, "requirements": [{"item": "biqa", "amount": 15}, {"item": "vosixe", "amount": 13}, {"item": "phase-fabric", "amount": 9}], "research": "biqa-factory", "powerProduction": 12.155809778552362, "category": "power"}

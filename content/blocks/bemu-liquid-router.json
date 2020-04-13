@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bemu liquid router", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "bemu", "amount": 10}, {"item": "lavysunium", "amount": 7}, {"item": "hijaju", "amount": 2}], "research": "bemu-conduit", "liquidCapacity": 10, "category": "liquid"}

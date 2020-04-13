@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jidy junction", "description": "...", "health": 16, "speed": 6, "capacity": 14, "size": 1, "requirements": [{"item": "jidy", "amount": 3}, {"item": "nipohu", "amount": 2}], "research": "jidy-conveyor", "category": "distribution"}

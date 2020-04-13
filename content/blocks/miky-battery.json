@@ -1,0 +1,1 @@
+{"type": "battery", "name": "miky battery", "description": "...", "size": 3, "health": 347, "requirements": [{"item": "miky", "amount": 3}, {"item": "rawywa", "amount": 3}, {"item": "nufa", "amount": 9}], "research": "miky-factory", "consumes": {"powerBuffered": 9352}, "category": "power"}

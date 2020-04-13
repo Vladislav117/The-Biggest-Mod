@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hiqeyi bridge conveyor", "description": "", "health": 13, "range": 7, "speed": 7, "bufferCapacity": 18, "requirements": [{"item": "hiqeyi", "amount": 1}, {"item": "yuly", "amount": 4}], "research": "hiqeyi-conveyor", "category": "distribution", "size": 1}

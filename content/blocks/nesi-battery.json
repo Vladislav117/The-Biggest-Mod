@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nesi battery", "description": "...", "size": 3, "health": 364, "requirements": [{"item": "nesi", "amount": 13}, {"item": "bavivo", "amount": 16}, {"item": "liqy", "amount": 4}], "research": "nesi-factory", "consumes": {"powerBuffered": 2749}, "category": "power"}

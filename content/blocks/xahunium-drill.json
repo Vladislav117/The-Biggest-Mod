@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xahunium drill", "description": "...", "size": 4, "health": 192, "tier": 3, "drillTime": 8, "consumes": {"power": 12}, "requirements": [{"item": "xahunium", "amount": 10}, {"item": "keqaqe", "amount": 20}, {"item": "typy", "amount": 5}], "research": "xahunium-factory", "category": "production"}

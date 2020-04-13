@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kica liquid tank", "description": "...", "health": 323, "size": 3, "requirements": [{"item": "kica", "amount": 14}, {"item": "dyqasy", "amount": 9}, {"item": "kiredi", "amount": 7}], "research": "kica-conduit", "category": "liquid", "liquidCapacity": 103579, "hasLiquids": true}

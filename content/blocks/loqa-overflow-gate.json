@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "loqa overflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "loqa", "amount": 1}, {"item": "kubi", "amount": 5}], "research": "loqa-conveyor", "category": "distribution", "invert": false}

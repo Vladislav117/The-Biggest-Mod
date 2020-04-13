@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zyhebe battery", "description": "...", "size": 3, "health": 365, "requirements": [{"item": "zyhebe", "amount": 19}, {"item": "yake", "amount": 12}, {"item": "nixigunium", "amount": 8}], "research": "zyhebe-factory", "consumes": {"powerBuffered": 2651}, "category": "power"}

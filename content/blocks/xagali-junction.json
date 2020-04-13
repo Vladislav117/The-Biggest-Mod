@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xagali junction", "description": "...", "health": 38, "speed": 11, "capacity": 13, "size": 1, "requirements": [{"item": "xagali", "amount": 5}, {"item": "zada", "amount": 3}], "research": "xagali-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nudady battery", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "nudady", "amount": 2}, {"item": "fycy", "amount": 19}, {"item": "nufuponium", "amount": 8}], "research": "nudady-factory", "consumes": {"powerBuffered": 2293}, "category": "power"}

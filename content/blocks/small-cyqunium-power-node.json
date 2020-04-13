@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cyqunium power node", "description": "...", "size": 1, "health": 358, "requirements": [{"item": "cyqunium", "amount": 9}, {"item": "nixigunium", "amount": 9}, {"item": "fusaji", "amount": 7}], "research": "cyqunium-factory", "maxNodes": 8, "laserRange": 21, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "banogu battery", "description": "...", "size": 3, "health": 166, "requirements": [{"item": "banogu", "amount": 18}, {"item": "muco", "amount": 16}, {"item": "sojile", "amount": 5}], "research": "banogu-factory", "consumes": {"powerBuffered": 7916}, "category": "power"}

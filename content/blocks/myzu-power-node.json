@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "myzu power node", "description": "...", "size": 2, "health": 525, "requirements": [{"item": "myzu", "amount": 5}, {"item": "bylo", "amount": 16}, {"item": "byqi", "amount": 5}], "research": "myzu-factory", "maxNodes": 24, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cosa liquid tank", "description": "...", "health": 446, "size": 3, "requirements": [{"item": "cosa", "amount": 11}, {"item": "beyuxy", "amount": 7}, {"item": "lodowo", "amount": 9}], "research": "cosa-conduit", "category": "liquid", "liquidCapacity": 51955, "hasLiquids": true}

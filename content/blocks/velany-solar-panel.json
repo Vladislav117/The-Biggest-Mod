@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "velany solar panel", "description": "...", "size": 3, "health": 120, "requirements": [{"item": "velany", "amount": 13}, {"item": "tomufa", "amount": 7}, {"item": "vomo", "amount": 5}], "research": "velany-factory", "powerProduction": 0.6513335262414339, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "curosa conduit", "description": "...", "health": 173, "requirements": [{"item": "curosa", "amount": 4}, {"item": "qiqo", "amount": 16}, {"item": "rigiro", "amount": 6}], "liquidCapacity": 35, "liquidPressure": 10, "research": "curosa-factory", "category": "liquid"}

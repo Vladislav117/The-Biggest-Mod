@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ziku liquid tank", "description": "...", "health": 539, "size": 3, "requirements": [{"item": "ziku", "amount": 4}, {"item": "geponium", "amount": 11}, {"item": "tegi", "amount": 8}], "research": "ziku-conduit", "category": "liquid", "liquidCapacity": 88146, "hasLiquids": true}

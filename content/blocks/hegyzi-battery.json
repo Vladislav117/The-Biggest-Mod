@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hegyzi battery", "description": "...", "size": 3, "health": 303, "requirements": [{"item": "hegyzi", "amount": 7}, {"item": "figu", "amount": 7}, {"item": "relaqo", "amount": 2}], "research": "hegyzi-factory", "consumes": {"powerBuffered": 7053}, "category": "power"}

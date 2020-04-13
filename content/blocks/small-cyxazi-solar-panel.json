@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cyxazi solar panel", "description": "...", "size": 1, "health": 108, "requirements": [{"item": "cyxazi", "amount": 8}, {"item": "qekaye", "amount": 20}, {"item": "yylonium", "amount": 2}], "research": "cyxazi-factory", "powerProduction": 0.17174982404586223, "category": "power"}

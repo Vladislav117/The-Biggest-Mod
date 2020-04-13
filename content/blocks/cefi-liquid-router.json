@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cefi liquid router", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "cefi", "amount": 17}, {"item": "vywene", "amount": 15}, {"item": "mygaso", "amount": 1}], "research": "cefi-conduit", "liquidCapacity": 10, "category": "liquid"}

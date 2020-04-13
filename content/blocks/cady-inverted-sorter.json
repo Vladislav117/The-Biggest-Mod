@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cady inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "cady", "amount": 4}, {"item": "kefy", "amount": 4}], "research": "cady-conveyor", "category": "distribution", "invert": true}

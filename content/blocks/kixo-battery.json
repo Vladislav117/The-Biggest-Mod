@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kixo battery", "description": "...", "size": 3, "health": 341, "requirements": [{"item": "kixo", "amount": 15}, {"item": "xafi", "amount": 15}, {"item": "duvadi", "amount": 5}], "research": "kixo-factory", "consumes": {"powerBuffered": 5376}, "category": "power"}

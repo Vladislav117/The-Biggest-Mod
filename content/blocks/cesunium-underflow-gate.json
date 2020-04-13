@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cesunium underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "cesunium", "amount": 3}, {"item": "xekafu", "amount": 1}], "research": "cesunium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zagy battery", "description": "...", "size": 3, "health": 54, "requirements": [{"item": "zagy", "amount": 17}, {"item": "birynium", "amount": 6}, {"item": "sacigi", "amount": 3}], "research": "zagy-factory", "consumes": {"powerBuffered": 1280}, "category": "power"}

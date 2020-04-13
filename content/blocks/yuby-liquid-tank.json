@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yuby liquid tank", "description": "...", "health": 423, "size": 3, "requirements": [{"item": "yuby", "amount": 2}, {"item": "yisupe", "amount": 4}, {"item": "gabipi", "amount": 4}], "research": "yuby-conduit", "category": "liquid", "liquidCapacity": 31456, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vuye liquid tank", "description": "...", "health": 325, "size": 3, "requirements": [{"item": "vuye", "amount": 5}, {"item": "xycowy", "amount": 12}, {"item": "fezadunium", "amount": 2}], "research": "vuye-conduit", "category": "liquid", "liquidCapacity": 32664, "hasLiquids": true}

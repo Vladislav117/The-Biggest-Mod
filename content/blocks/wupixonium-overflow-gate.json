@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wupixonium overflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "wupixonium", "amount": 1}, {"item": "goduji", "amount": 2}], "research": "wupixonium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fezo conduit", "description": "...", "health": 86, "requirements": [{"item": "fezo", "amount": 20}, {"item": "diyajy", "amount": 19}, {"item": "yape", "amount": 8}], "liquidCapacity": 25, "liquidPressure": 2, "research": "fezo-factory", "category": "liquid"}

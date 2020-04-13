@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tebi inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "tebi", "amount": 4}, {"item": "gahy", "amount": 1}], "research": "tebi-conveyor", "category": "distribution", "invert": true}

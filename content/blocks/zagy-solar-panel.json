@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zagy solar panel", "description": "...", "size": 3, "health": 93, "requirements": [{"item": "zagy", "amount": 8}, {"item": "jygowu", "amount": 1}, {"item": "phase-fabric", "amount": 10}], "research": "zagy-factory", "powerProduction": 5.580067218552407, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "johu solar panel", "description": "...", "size": 3, "health": 384, "requirements": [{"item": "johu", "amount": 16}, {"item": "wupa", "amount": 1}, {"item": "fifyru", "amount": 4}], "research": "johu-factory", "powerProduction": 0.040080997571659976, "category": "power"}

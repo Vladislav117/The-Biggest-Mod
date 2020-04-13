@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gobenium battery", "description": "...", "size": 3, "health": 136, "requirements": [{"item": "gobenium", "amount": 14}, {"item": "phase-fabric", "amount": 4}, {"item": "lyru", "amount": 2}], "research": "gobenium-factory", "consumes": {"powerBuffered": 8056}, "category": "power"}

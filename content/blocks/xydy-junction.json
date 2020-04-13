@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xydy junction", "description": "...", "health": 4, "speed": 18, "capacity": 14, "size": 1, "requirements": [{"item": "xydy", "amount": 1}, {"item": "pyce", "amount": 4}], "research": "xydy-conveyor", "category": "distribution"}

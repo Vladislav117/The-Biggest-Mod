@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hybobenium overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "hybobenium", "amount": 3}, {"item": "bileyu", "amount": 1}], "research": "hybobenium-conveyor", "category": "distribution", "invert": false}

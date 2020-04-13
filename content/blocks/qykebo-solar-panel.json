@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qykebo solar panel", "description": "...", "size": 3, "health": 155, "requirements": [{"item": "qykebo", "amount": 15}, {"item": "xoginium", "amount": 12}, {"item": "sipynium", "amount": 7}], "research": "qykebo-factory", "powerProduction": 0.26406931318948007, "category": "power"}

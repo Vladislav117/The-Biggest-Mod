@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "menibonium solar panel", "description": "...", "size": 3, "health": 333, "requirements": [{"item": "menibonium", "amount": 8}, {"item": "wiwo", "amount": 12}, {"item": "raqo", "amount": 7}], "research": "menibonium-factory", "powerProduction": 3.350057269523954, "category": "power"}

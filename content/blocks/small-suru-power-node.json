@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small suru power node", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "suru", "amount": 14}, {"item": "nepysi", "amount": 12}, {"item": "cyzo", "amount": 2}], "research": "suru-factory", "maxNodes": 28, "laserRange": 10, "category": "power"}

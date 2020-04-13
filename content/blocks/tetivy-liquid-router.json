@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tetivy liquid router", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "tetivy", "amount": 3}, {"item": "qeyanium", "amount": 14}, {"item": "cafe", "amount": 4}], "research": "tetivy-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cetobu solar panel", "description": "...", "size": 3, "health": 162, "requirements": [{"item": "cetobu", "amount": 4}, {"item": "ceri", "amount": 8}, {"item": "pihybo", "amount": 2}], "research": "cetobu-factory", "powerProduction": 4.565035842995574, "category": "power"}

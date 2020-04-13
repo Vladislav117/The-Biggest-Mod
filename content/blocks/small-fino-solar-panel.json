@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fino solar panel", "description": "...", "size": 1, "health": 336, "requirements": [{"item": "fino", "amount": 16}, {"item": "baquyo", "amount": 20}, {"item": "yomema", "amount": 2}], "research": "fino-factory", "powerProduction": 1.821990719371503, "category": "power"}

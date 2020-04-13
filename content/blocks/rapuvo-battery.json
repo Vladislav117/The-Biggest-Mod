@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rapuvo battery", "description": "...", "size": 3, "health": 268, "requirements": [{"item": "rapuvo", "amount": 1}, {"item": "fopo", "amount": 18}, {"item": "yuwu", "amount": 8}], "research": "rapuvo-factory", "consumes": {"powerBuffered": 6641}, "category": "power"}

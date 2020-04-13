@@ -1,0 +1,1 @@
+{"type": "battery", "name": "taqe battery", "description": "...", "size": 3, "health": 109, "requirements": [{"item": "taqe", "amount": 8}, {"item": "rape", "amount": 6}, {"item": "kepo", "amount": 9}], "research": "taqe-factory", "consumes": {"powerBuffered": 423}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "soda liquid tank", "description": "...", "health": 490, "size": 3, "requirements": [{"item": "soda", "amount": 12}, {"item": "difyyi", "amount": 6}, {"item": "pafyvi", "amount": 6}], "research": "soda-conduit", "category": "liquid", "liquidCapacity": 19170, "hasLiquids": true}

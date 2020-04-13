@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "danitu conduit", "description": "...", "health": 160, "requirements": [{"item": "danitu", "amount": 2}, {"item": "genane", "amount": 2}, {"item": "kipyzonium", "amount": 8}], "liquidCapacity": 6, "liquidPressure": 0, "research": "danitu-factory", "category": "liquid"}

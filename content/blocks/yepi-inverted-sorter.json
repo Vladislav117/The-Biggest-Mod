@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yepi inverted sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "yepi", "amount": 1}, {"item": "nusenium", "amount": 4}], "research": "yepi-conveyor", "category": "distribution", "invert": true}

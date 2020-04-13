@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cire inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "cire", "amount": 1}, {"item": "wuniso", "amount": 4}], "research": "cire-conveyor", "category": "distribution", "invert": true}

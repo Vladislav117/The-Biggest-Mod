@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bato overflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "bato", "amount": 4}, {"item": "vyvuqy", "amount": 5}], "research": "bato-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qytama drill", "description": "...", "size": 3, "health": 283, "tier": 3, "drillTime": 10, "consumes": {"power": 11}, "requirements": [{"item": "qytama", "amount": 8}, {"item": "gahe", "amount": 20}, {"item": "rymyfanium", "amount": 7}], "research": "qytama-factory", "category": "production"}

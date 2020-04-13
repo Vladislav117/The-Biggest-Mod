@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zyzuha power node", "description": "...", "size": 2, "health": 241, "requirements": [{"item": "zyzuha", "amount": 3}, {"item": "noxoginium", "amount": 15}, {"item": "vodehonium", "amount": 7}], "research": "zyzuha-factory", "maxNodes": 55, "laserRange": 6, "category": "power"}

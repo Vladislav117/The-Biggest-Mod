@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mifynium underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "mifynium", "amount": 1}, {"item": "vakaco", "amount": 1}], "research": "mifynium-conveyor", "category": "distribution", "invert": false}

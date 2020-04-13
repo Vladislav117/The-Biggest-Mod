@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vezafa power node", "description": "...", "size": 2, "health": 171, "requirements": [{"item": "vezafa", "amount": 12}, {"item": "diwyci", "amount": 20}, {"item": "hoqade", "amount": 9}], "research": "vezafa-factory", "maxNodes": 35, "laserRange": 29, "category": "power"}

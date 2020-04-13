@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zoquqenium drill", "description": "...", "size": 2, "health": 349, "tier": 4, "drillTime": 3, "consumes": {"power": 15}, "requirements": [{"item": "zoquqenium", "amount": 5}, {"item": "peyahe", "amount": 6}, {"item": "suwaxy", "amount": 2}], "research": "zoquqenium-factory", "category": "production"}

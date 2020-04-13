@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sokima liquid tank", "description": "...", "health": 199, "size": 3, "requirements": [{"item": "sokima", "amount": 4}, {"item": "nuno", "amount": 15}, {"item": "pazanium", "amount": 1}], "research": "sokima-conduit", "category": "liquid", "liquidCapacity": 64701, "hasLiquids": true}

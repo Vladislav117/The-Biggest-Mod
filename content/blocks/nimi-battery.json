@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nimi battery", "description": "...", "size": 3, "health": 304, "requirements": [{"item": "nimi", "amount": 15}, {"item": "julynium", "amount": 11}, {"item": "zihy", "amount": 7}], "research": "nimi-factory", "consumes": {"powerBuffered": 2347}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vykynium drill", "description": "...", "size": 2, "health": 197, "tier": 2, "drillTime": 3, "consumes": {"power": 5}, "requirements": [{"item": "vykynium", "amount": 15}, {"item": "wemenium", "amount": 4}, {"item": "pigagunium", "amount": 1}], "research": "vykynium-factory", "category": "production"}

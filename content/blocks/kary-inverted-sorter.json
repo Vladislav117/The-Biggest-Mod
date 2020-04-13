@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kary inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "kary", "amount": 3}, {"item": "seyuwa", "amount": 5}], "research": "kary-conveyor", "category": "distribution", "invert": true}

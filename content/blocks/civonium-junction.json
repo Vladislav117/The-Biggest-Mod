@@ -1,0 +1,1 @@
+{"type": "junction", "name": "civonium junction", "description": "...", "health": 18, "speed": 9, "capacity": 4, "size": 1, "requirements": [{"item": "civonium", "amount": 3}, {"item": "wapo", "amount": 4}], "research": "civonium-conveyor", "category": "distribution"}

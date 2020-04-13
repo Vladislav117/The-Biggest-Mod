@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xabixanium power node", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "xabixanium", "amount": 15}, {"item": "zyluci", "amount": 15}, {"item": "cutodu", "amount": 2}], "research": "xabixanium-factory", "maxNodes": 6, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tivy power node", "description": "...", "size": 1, "health": 338, "requirements": [{"item": "tivy", "amount": 9}, {"item": "hezinium", "amount": 20}, {"item": "gupyfi", "amount": 10}], "research": "tivy-factory", "maxNodes": 9, "laserRange": 18, "category": "power"}

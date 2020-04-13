@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xylipe bridge conveyor", "description": "", "health": 27, "range": 4, "speed": 14, "bufferCapacity": 17, "requirements": [{"item": "xylipe", "amount": 4}, {"item": "ratapu", "amount": 4}], "research": "xylipe-conveyor", "category": "distribution", "size": 1}

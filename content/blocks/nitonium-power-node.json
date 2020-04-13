@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nitonium power node", "description": "...", "size": 2, "health": 616, "requirements": [{"item": "nitonium", "amount": 5}, {"item": "fohebi", "amount": 14}, {"item": "kyweru", "amount": 4}], "research": "nitonium-factory", "maxNodes": 29, "laserRange": 20, "category": "power"}

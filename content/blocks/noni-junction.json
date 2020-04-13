@@ -1,0 +1,1 @@
+{"type": "junction", "name": "noni junction", "description": "...", "health": 30, "speed": 16, "capacity": 14, "size": 1, "requirements": [{"item": "noni", "amount": 4}, {"item": "kilu", "amount": 4}], "research": "noni-conveyor", "category": "distribution"}

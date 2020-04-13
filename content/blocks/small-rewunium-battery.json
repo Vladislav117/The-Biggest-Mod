@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rewunium battery", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "rewunium", "amount": 6}, {"item": "buquza", "amount": 18}, {"item": "yoqy", "amount": 2}], "research": "rewunium-factory", "consumes": {"powerBuffered": 869}, "category": "power"}

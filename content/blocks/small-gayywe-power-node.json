@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gayywe power node", "description": "...", "size": 1, "health": 343, "requirements": [{"item": "gayywe", "amount": 19}, {"item": "pawynium", "amount": 18}, {"item": "bofazy", "amount": 2}], "research": "gayywe-factory", "maxNodes": 12, "laserRange": 20, "category": "power"}

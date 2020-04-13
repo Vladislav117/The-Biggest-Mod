@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qifu solar panel", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "qifu", "amount": 9}, {"item": "mabyra", "amount": 4}, {"item": "jalenium", "amount": 8}], "research": "qifu-factory", "powerProduction": 0.013209069920985226, "category": "power"}

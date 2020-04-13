@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qiqike liquid tank", "description": "...", "health": 649, "size": 3, "requirements": [{"item": "qiqike", "amount": 10}, {"item": "zoda", "amount": 3}, {"item": "goku", "amount": 1}], "research": "qiqike-conduit", "category": "liquid", "liquidCapacity": 7890, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cyhonium underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "cyhonium", "amount": 5}, {"item": "tygoqa", "amount": 4}], "research": "cyhonium-conveyor", "category": "distribution", "invert": false}

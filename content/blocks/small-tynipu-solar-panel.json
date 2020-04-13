@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tynipu solar panel", "description": "...", "size": 1, "health": 229, "requirements": [{"item": "tynipu", "amount": 4}, {"item": "bole", "amount": 17}, {"item": "gymypa", "amount": 2}], "research": "tynipu-factory", "powerProduction": 0.11696460470177218, "category": "power"}

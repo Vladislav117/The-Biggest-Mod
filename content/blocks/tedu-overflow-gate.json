@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tedu overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "tedu", "amount": 5}, {"item": "tewo", "amount": 3}], "research": "tedu-conveyor", "category": "distribution", "invert": false}

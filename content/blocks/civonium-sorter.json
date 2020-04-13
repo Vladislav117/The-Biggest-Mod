@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "civonium sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "civonium", "amount": 4}, {"item": "movanium", "amount": 1}], "research": "civonium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lobu conduit", "description": "...", "health": 85, "requirements": [{"item": "lobu", "amount": 16}, {"item": "vuciby", "amount": 14}, {"item": "wafe", "amount": 3}], "liquidCapacity": 2, "liquidPressure": 4, "research": "lobu-factory", "category": "liquid"}

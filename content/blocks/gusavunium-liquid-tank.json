@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gusavunium liquid tank", "description": "...", "health": 405, "size": 3, "requirements": [{"item": "gusavunium", "amount": 7}, {"item": "lidori", "amount": 18}, {"item": "fepiva", "amount": 6}], "research": "gusavunium-conduit", "category": "liquid", "liquidCapacity": 11931, "hasLiquids": true}

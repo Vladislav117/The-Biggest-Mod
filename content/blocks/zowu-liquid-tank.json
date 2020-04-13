@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zowu liquid tank", "description": "...", "health": 176, "size": 3, "requirements": [{"item": "zowu", "amount": 8}, {"item": "bome", "amount": 10}, {"item": "bufywy", "amount": 5}], "research": "zowu-conduit", "category": "liquid", "liquidCapacity": 48250, "hasLiquids": true}

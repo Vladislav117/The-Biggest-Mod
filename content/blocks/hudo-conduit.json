@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hudo conduit", "description": "...", "health": 72, "requirements": [{"item": "hudo", "amount": 15}, {"item": "yamyri", "amount": 9}, {"item": "goti", "amount": 9}], "liquidCapacity": 45, "liquidPressure": 2, "research": "hudo-factory", "category": "liquid"}

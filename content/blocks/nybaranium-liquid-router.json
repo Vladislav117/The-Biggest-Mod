@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nybaranium liquid router", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "nybaranium", "amount": 17}, {"item": "weva", "amount": 8}, {"item": "kipybi", "amount": 7}], "research": "nybaranium-conduit", "liquidCapacity": 10, "category": "liquid"}

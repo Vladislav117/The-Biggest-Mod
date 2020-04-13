@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tiqeti battery", "description": "...", "size": 3, "health": 283, "requirements": [{"item": "tiqeti", "amount": 14}, {"item": "huxo", "amount": 20}, {"item": "bileyu", "amount": 4}], "research": "tiqeti-factory", "consumes": {"powerBuffered": 4165}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zipeye bridge conveyor", "description": "", "health": 12, "range": 16, "speed": 18, "bufferCapacity": 6, "requirements": [{"item": "zipeye", "amount": 1}, {"item": "ciba", "amount": 2}], "research": "zipeye-conveyor", "category": "distribution", "size": 1}

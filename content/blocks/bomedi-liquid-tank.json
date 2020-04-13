@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bomedi liquid tank", "description": "...", "health": 405, "size": 3, "requirements": [{"item": "bomedi", "amount": 14}, {"item": "yuyicenium", "amount": 12}, {"item": "sonydu", "amount": 6}], "research": "bomedi-conduit", "category": "liquid", "liquidCapacity": 89690, "hasLiquids": true}

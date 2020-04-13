@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cyhunium power node", "description": "...", "size": 1, "health": 218, "requirements": [{"item": "cyhunium", "amount": 1}, {"item": "cisiwa", "amount": 3}, {"item": "kaheni", "amount": 4}], "research": "cyhunium-factory", "maxNodes": 30, "laserRange": 7, "category": "power"}

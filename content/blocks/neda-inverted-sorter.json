@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "neda inverted sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "neda", "amount": 5}, {"item": "duqu", "amount": 5}], "research": "neda-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pywy liquid tank", "description": "...", "health": 353, "size": 3, "requirements": [{"item": "pywy", "amount": 7}, {"item": "xerysy", "amount": 11}, {"item": "basomi", "amount": 9}], "research": "pywy-conduit", "category": "liquid", "liquidCapacity": 115904, "hasLiquids": true}

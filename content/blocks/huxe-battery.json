@@ -1,0 +1,1 @@
+{"type": "battery", "name": "huxe battery", "description": "...", "size": 3, "health": 124, "requirements": [{"item": "huxe", "amount": 10}, {"item": "vuxi", "amount": 18}, {"item": "sarijynium", "amount": 1}], "research": "huxe-factory", "consumes": {"powerBuffered": 7231}, "category": "power"}

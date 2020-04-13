@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "syxidonium power node", "description": "...", "size": 2, "health": 185, "requirements": [{"item": "syxidonium", "amount": 11}, {"item": "sacigi", "amount": 8}, {"item": "metaglass", "amount": 6}], "research": "syxidonium-factory", "maxNodes": 39, "laserRange": 27, "category": "power"}

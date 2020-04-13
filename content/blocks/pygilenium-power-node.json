@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pygilenium power node", "description": "...", "size": 2, "health": 601, "requirements": [{"item": "pygilenium", "amount": 9}, {"item": "vinizy", "amount": 4}, {"item": "vaxa", "amount": 7}], "research": "pygilenium-factory", "maxNodes": 12, "laserRange": 25, "category": "power"}

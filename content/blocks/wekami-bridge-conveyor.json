@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wekami bridge conveyor", "description": "", "health": 24, "range": 6, "speed": 4, "bufferCapacity": 16, "requirements": [{"item": "wekami", "amount": 5}, {"item": "bajenium", "amount": 2}], "research": "wekami-conveyor", "category": "distribution", "size": 1}

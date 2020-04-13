@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vakoly battery", "description": "...", "size": 3, "health": 290, "requirements": [{"item": "vakoly", "amount": 14}, {"item": "hozivi", "amount": 15}, {"item": "zoyasi", "amount": 10}], "research": "vakoly-factory", "consumes": {"powerBuffered": 2037}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small roteca solar panel", "description": "...", "size": 1, "health": 98, "requirements": [{"item": "roteca", "amount": 14}, {"item": "fexuxy", "amount": 10}, {"item": "yudopa", "amount": 5}], "research": "roteca-factory", "powerProduction": 16.143811489519784, "category": "power"}

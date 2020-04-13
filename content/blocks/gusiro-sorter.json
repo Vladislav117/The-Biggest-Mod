@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gusiro sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "gusiro", "amount": 5}, {"item": "nypenium", "amount": 5}], "research": "gusiro-conveyor", "category": "distribution", "invert": false}

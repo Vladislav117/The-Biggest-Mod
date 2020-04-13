@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "reqynu drill", "description": "...", "size": 2, "health": 249, "tier": 2, "drillTime": 14, "consumes": {"power": 7}, "requirements": [{"item": "reqynu", "amount": 14}, {"item": "lahowe", "amount": 15}, {"item": "xyko", "amount": 5}], "research": "reqynu-factory", "category": "production"}

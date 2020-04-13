@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tulotu power node", "description": "...", "size": 1, "health": 371, "requirements": [{"item": "tulotu", "amount": 4}, {"item": "cynehe", "amount": 19}, {"item": "saqe", "amount": 10}], "research": "tulotu-factory", "maxNodes": 10, "laserRange": 23, "category": "power"}

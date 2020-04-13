@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lane conduit", "description": "...", "health": 71, "requirements": [{"item": "lane", "amount": 14}, {"item": "hyvyje", "amount": 13}, {"item": "pazanium", "amount": 7}], "liquidCapacity": 34, "liquidPressure": 0, "research": "lane-factory", "category": "liquid"}

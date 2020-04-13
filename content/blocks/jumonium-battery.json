@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jumonium battery", "description": "...", "size": 3, "health": 94, "requirements": [{"item": "jumonium", "amount": 8}, {"item": "daqy", "amount": 19}, {"item": "copper", "amount": 2}], "research": "jumonium-factory", "consumes": {"powerBuffered": 7620}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "myci underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "myci", "amount": 2}, {"item": "hosa", "amount": 4}], "research": "myci-conveyor", "category": "distribution", "invert": false}

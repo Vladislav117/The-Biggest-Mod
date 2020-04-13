@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dywo liquid tank", "description": "...", "health": 619, "size": 3, "requirements": [{"item": "dywo", "amount": 12}, {"item": "qepyvonium", "amount": 3}, {"item": "gonu", "amount": 8}], "research": "dywo-conduit", "category": "liquid", "liquidCapacity": 86429, "hasLiquids": true}

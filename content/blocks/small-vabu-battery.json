@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vabu battery", "description": "...", "size": 1, "health": 378, "requirements": [{"item": "vabu", "amount": 1}, {"item": "ridurinium", "amount": 2}, {"item": "huniji", "amount": 3}], "research": "vabu-factory", "consumes": {"powerBuffered": 2362}, "category": "power"}

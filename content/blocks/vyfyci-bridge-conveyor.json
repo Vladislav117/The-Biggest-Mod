@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vyfyci bridge conveyor", "description": "", "health": 24, "range": 1, "speed": 15, "bufferCapacity": 9, "requirements": [{"item": "vyfyci", "amount": 3}, {"item": "zokacu", "amount": 5}], "research": "vyfyci-conveyor", "category": "distribution", "size": 1}

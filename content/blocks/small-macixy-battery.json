@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small macixy battery", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "macixy", "amount": 13}, {"item": "werexo", "amount": 20}, {"item": "reqynu", "amount": 4}], "research": "macixy-factory", "consumes": {"powerBuffered": 1996}, "category": "power"}

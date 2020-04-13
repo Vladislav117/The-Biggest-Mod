@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gula inverted sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "gula", "amount": 3}, {"item": "tydy", "amount": 2}], "research": "gula-conveyor", "category": "distribution", "invert": true}

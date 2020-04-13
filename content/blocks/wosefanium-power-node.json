@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wosefanium power node", "description": "...", "size": 2, "health": 583, "requirements": [{"item": "wosefanium", "amount": 13}, {"item": "yugy", "amount": 6}, {"item": "fevy", "amount": 4}], "research": "wosefanium-factory", "maxNodes": 38, "laserRange": 28, "category": "power"}

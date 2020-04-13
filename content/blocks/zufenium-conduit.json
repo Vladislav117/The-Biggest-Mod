@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zufenium conduit", "description": "...", "health": 120, "requirements": [{"item": "zufenium", "amount": 18}, {"item": "sewazo", "amount": 5}, {"item": "rudy", "amount": 5}], "liquidCapacity": 6, "liquidPressure": 5, "research": "zufenium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kituhinium battery", "description": "...", "size": 1, "health": 305, "requirements": [{"item": "kituhinium", "amount": 12}, {"item": "fytuve", "amount": 4}, {"item": "fygunium", "amount": 9}], "research": "kituhinium-factory", "consumes": {"powerBuffered": 1653}, "category": "power"}

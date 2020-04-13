@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dekaga underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "dekaga", "amount": 3}, {"item": "nuso", "amount": 1}], "research": "dekaga-conveyor", "category": "distribution", "invert": false}

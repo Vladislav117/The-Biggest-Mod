@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gide liquid router", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "gide", "amount": 5}, {"item": "rovu", "amount": 3}, {"item": "magu", "amount": 6}], "research": "gide-conduit", "liquidCapacity": 10, "category": "liquid"}

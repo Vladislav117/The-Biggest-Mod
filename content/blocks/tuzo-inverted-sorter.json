@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tuzo inverted sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "tuzo", "amount": 5}, {"item": "yifity", "amount": 1}], "research": "tuzo-conveyor", "category": "distribution", "invert": true}

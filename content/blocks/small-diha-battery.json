@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small diha battery", "description": "...", "size": 1, "health": 25, "requirements": [{"item": "diha", "amount": 1}, {"item": "tere", "amount": 11}, {"item": "lunido", "amount": 9}], "research": "diha-factory", "consumes": {"powerBuffered": 1483}, "category": "power"}

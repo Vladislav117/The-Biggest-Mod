@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "nikoru overdrive projector", "description": "...", "health": 58, "consumes": {"power": 3.0, "item": "nikoru"}, "size": 2, "requirements": [{"item": "nikoru", "amount": 1}, {"item": "paky", "amount": 14}, {"item": "gozefynium", "amount": 9}], "research": "nikoru-factory", "category": "effect"}

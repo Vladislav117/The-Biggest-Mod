@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ryloxi junction", "description": "...", "health": 42, "speed": 3, "capacity": 2, "size": 1, "requirements": [{"item": "ryloxi", "amount": 3}, {"item": "gayika", "amount": 2}], "research": "ryloxi-conveyor", "category": "distribution"}

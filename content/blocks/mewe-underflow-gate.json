@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mewe underflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "mewe", "amount": 4}, {"item": "jylovo", "amount": 2}], "research": "mewe-conveyor", "category": "distribution", "invert": false}

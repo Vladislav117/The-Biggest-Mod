@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gozagy power node", "description": "...", "size": 1, "health": 280, "requirements": [{"item": "gozagy", "amount": 15}, {"item": "kezunium", "amount": 17}, {"item": "wareginium", "amount": 4}], "research": "gozagy-factory", "maxNodes": 26, "laserRange": 4, "category": "power"}

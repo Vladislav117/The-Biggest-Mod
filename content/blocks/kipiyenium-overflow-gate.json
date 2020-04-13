@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kipiyenium overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "kipiyenium", "amount": 3}, {"item": "quda", "amount": 3}], "research": "kipiyenium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hikuda conduit", "description": "...", "health": 169, "requirements": [{"item": "hikuda", "amount": 20}, {"item": "wutigo", "amount": 10}, {"item": "qudeya", "amount": 6}], "liquidCapacity": 22, "liquidPressure": 0, "research": "hikuda-factory", "category": "liquid"}

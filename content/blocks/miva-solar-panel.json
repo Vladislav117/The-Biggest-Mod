@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "miva solar panel", "description": "...", "size": 3, "health": 99, "requirements": [{"item": "miva", "amount": 2}, {"item": "bezy", "amount": 16}, {"item": "kepexe", "amount": 1}], "research": "miva-factory", "powerProduction": 6.10847135674417, "category": "power"}

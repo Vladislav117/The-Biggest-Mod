@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dacira bridge conveyor", "description": "", "health": 13, "range": 3, "speed": 15, "bufferCapacity": 15, "requirements": [{"item": "dacira", "amount": 1}, {"item": "byficy", "amount": 2}], "research": "dacira-conveyor", "category": "distribution", "size": 1}

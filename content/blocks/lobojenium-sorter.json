@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lobojenium sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "lobojenium", "amount": 5}, {"item": "bayury", "amount": 2}], "research": "lobojenium-conveyor", "category": "distribution", "invert": false}

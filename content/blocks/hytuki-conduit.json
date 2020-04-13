@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hytuki conduit", "description": "...", "health": 25, "requirements": [{"item": "hytuki", "amount": 14}, {"item": "linu", "amount": 5}, {"item": "vanuhenium", "amount": 7}], "liquidCapacity": 4, "liquidPressure": 6, "research": "hytuki-factory", "category": "liquid"}

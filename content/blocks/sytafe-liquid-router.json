@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sytafe liquid router", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "sytafe", "amount": 6}, {"item": "silicon", "amount": 13}, {"item": "phase-fabric", "amount": 6}], "research": "sytafe-conduit", "liquidCapacity": 10, "category": "liquid"}

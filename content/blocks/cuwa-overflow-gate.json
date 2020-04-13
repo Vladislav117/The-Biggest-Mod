@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cuwa overflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "cuwa", "amount": 1}, {"item": "qokenium", "amount": 4}], "research": "cuwa-conveyor", "category": "distribution", "invert": false}

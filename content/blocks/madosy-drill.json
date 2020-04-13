@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "madosy drill", "description": "...", "size": 4, "health": 292, "tier": 1, "drillTime": 7, "consumes": {"power": 5}, "requirements": [{"item": "madosy", "amount": 18}, {"item": "hayy", "amount": 7}, {"item": "qygi", "amount": 4}], "research": "madosy-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lizenium liquid tank", "description": "...", "health": 644, "size": 3, "requirements": [{"item": "lizenium", "amount": 11}, {"item": "yama", "amount": 16}, {"item": "nivefu", "amount": 8}], "research": "lizenium-conduit", "category": "liquid", "liquidCapacity": 84326, "hasLiquids": true}

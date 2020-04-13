@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "goli bridge conveyor", "description": "", "health": 39, "range": 12, "speed": 13, "bufferCapacity": 2, "requirements": [{"item": "goli", "amount": 5}, {"item": "maku", "amount": 1}], "research": "goli-conveyor", "category": "distribution", "size": 1}

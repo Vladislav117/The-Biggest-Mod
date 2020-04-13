@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cayy power node", "description": "...", "size": 2, "health": 95, "requirements": [{"item": "cayy", "amount": 18}, {"item": "tumine", "amount": 10}, {"item": "yoxyzo", "amount": 4}], "research": "cayy-factory", "maxNodes": 50, "laserRange": 27, "category": "power"}

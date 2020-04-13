@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yihe liquid tank", "description": "...", "health": 544, "size": 3, "requirements": [{"item": "yihe", "amount": 5}, {"item": "nunanunium", "amount": 11}, {"item": "xexumi", "amount": 1}], "research": "yihe-conduit", "category": "liquid", "liquidCapacity": 104237, "hasLiquids": true}

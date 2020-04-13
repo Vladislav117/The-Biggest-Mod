@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cinunium conduit", "description": "...", "health": 60, "requirements": [{"item": "cinunium", "amount": 17}, {"item": "bacone", "amount": 6}, {"item": "fobige", "amount": 10}], "liquidCapacity": 25, "liquidPressure": 8, "research": "cinunium-factory", "category": "liquid"}

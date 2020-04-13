@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jerenium solar panel", "description": "...", "size": 1, "health": 278, "requirements": [{"item": "jerenium", "amount": 2}, {"item": "qepisu", "amount": 15}, {"item": "bebofo", "amount": 5}], "research": "jerenium-factory", "powerProduction": 11.666240738718045, "category": "power"}

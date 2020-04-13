@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sylote junction", "description": "...", "health": 44, "speed": 1, "capacity": 8, "size": 1, "requirements": [{"item": "sylote", "amount": 3}, {"item": "yidyxi", "amount": 2}], "research": "sylote-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "syfy underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "syfy", "amount": 4}, {"item": "ximy", "amount": 1}], "research": "syfy-conveyor", "category": "distribution", "invert": false}

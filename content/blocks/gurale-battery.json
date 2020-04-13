@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gurale battery", "description": "...", "size": 3, "health": 391, "requirements": [{"item": "gurale", "amount": 8}, {"item": "qivoha", "amount": 6}, {"item": "kawo", "amount": 6}], "research": "gurale-factory", "consumes": {"powerBuffered": 2987}, "category": "power"}

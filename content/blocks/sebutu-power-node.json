@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sebutu power node", "description": "...", "size": 2, "health": 144, "requirements": [{"item": "sebutu", "amount": 5}, {"item": "yobabynium", "amount": 9}, {"item": "yesolonium", "amount": 2}], "research": "sebutu-factory", "maxNodes": 32, "laserRange": 23, "category": "power"}

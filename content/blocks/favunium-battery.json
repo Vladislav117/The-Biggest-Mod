@@ -1,0 +1,1 @@
+{"type": "battery", "name": "favunium battery", "description": "...", "size": 3, "health": 204, "requirements": [{"item": "favunium", "amount": 12}, {"item": "kokonium", "amount": 19}, {"item": "tiwyna", "amount": 2}], "research": "favunium-factory", "consumes": {"powerBuffered": 5288}, "category": "power"}

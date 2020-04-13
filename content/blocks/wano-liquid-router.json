@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wano liquid router", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "wano", "amount": 20}, {"item": "rysi", "amount": 11}, {"item": "xejo", "amount": 7}], "research": "wano-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "haviyunium junction", "description": "...", "health": 3, "speed": 20, "capacity": 10, "size": 1, "requirements": [{"item": "haviyunium", "amount": 4}, {"item": "zyly", "amount": 1}], "research": "haviyunium-conveyor", "category": "distribution"}

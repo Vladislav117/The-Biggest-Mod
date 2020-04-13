@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hypotinium battery", "description": "...", "size": 1, "health": 295, "requirements": [{"item": "hypotinium", "amount": 2}, {"item": "xepiqi", "amount": 3}, {"item": "kituhinium", "amount": 5}], "research": "hypotinium-factory", "consumes": {"powerBuffered": 2439}, "category": "power"}

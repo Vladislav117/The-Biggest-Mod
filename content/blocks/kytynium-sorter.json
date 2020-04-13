@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kytynium sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "kytynium", "amount": 4}, {"item": "quyina", "amount": 3}], "research": "kytynium-conveyor", "category": "distribution", "invert": false}

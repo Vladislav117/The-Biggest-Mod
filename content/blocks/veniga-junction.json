@@ -1,0 +1,1 @@
+{"type": "junction", "name": "veniga junction", "description": "...", "health": 21, "speed": 9, "capacity": 4, "size": 1, "requirements": [{"item": "veniga", "amount": 2}, {"item": "guvoja", "amount": 3}], "research": "veniga-conveyor", "category": "distribution"}

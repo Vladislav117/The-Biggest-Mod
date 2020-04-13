@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yisi conduit", "description": "...", "health": 160, "requirements": [{"item": "yisi", "amount": 8}, {"item": "gomuko", "amount": 20}, {"item": "siyake", "amount": 9}], "liquidCapacity": 16, "liquidPressure": 0, "research": "yisi-factory", "category": "liquid"}

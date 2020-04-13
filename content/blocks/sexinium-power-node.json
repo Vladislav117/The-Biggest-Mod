@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sexinium power node", "description": "...", "size": 2, "health": 471, "requirements": [{"item": "sexinium", "amount": 1}, {"item": "vewavu", "amount": 12}, {"item": "hugevinium", "amount": 4}], "research": "sexinium-factory", "maxNodes": 49, "laserRange": 20, "category": "power"}

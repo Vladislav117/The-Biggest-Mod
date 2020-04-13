@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "befa inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "befa", "amount": 3}, {"item": "byguvenium", "amount": 2}], "research": "befa-conveyor", "category": "distribution", "invert": true}

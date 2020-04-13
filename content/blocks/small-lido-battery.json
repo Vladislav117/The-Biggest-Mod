@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lido battery", "description": "...", "size": 1, "health": 129, "requirements": [{"item": "lido", "amount": 7}, {"item": "kazo", "amount": 8}, {"item": "zopyxo", "amount": 6}], "research": "lido-factory", "consumes": {"powerBuffered": 1277}, "category": "power"}

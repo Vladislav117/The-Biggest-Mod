@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lunido overflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "lunido", "amount": 4}, {"item": "dezy", "amount": 3}], "research": "lunido-conveyor", "category": "distribution", "invert": false}

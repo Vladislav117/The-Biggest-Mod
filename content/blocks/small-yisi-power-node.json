@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yisi power node", "description": "...", "size": 1, "health": 272, "requirements": [{"item": "yisi", "amount": 4}, {"item": "siqefo", "amount": 8}, {"item": "wulyso", "amount": 8}], "research": "yisi-factory", "maxNodes": 19, "laserRange": 3, "category": "power"}

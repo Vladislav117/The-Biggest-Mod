@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tumewe overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "tumewe", "amount": 5}, {"item": "hogazanium", "amount": 3}], "research": "tumewe-conveyor", "category": "distribution", "invert": false}

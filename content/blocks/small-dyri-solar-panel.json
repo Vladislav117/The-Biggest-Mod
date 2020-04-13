@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dyri solar panel", "description": "...", "size": 1, "health": 373, "requirements": [{"item": "dyri", "amount": 12}, {"item": "mowu", "amount": 16}, {"item": "jonaqu", "amount": 4}], "research": "dyri-factory", "powerProduction": 5.406819691715786, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lydoze liquid tank", "description": "...", "health": 449, "size": 3, "requirements": [{"item": "lydoze", "amount": 2}, {"item": "wuna", "amount": 19}, {"item": "ryve", "amount": 1}], "research": "lydoze-conduit", "category": "liquid", "liquidCapacity": 80537, "hasLiquids": true}

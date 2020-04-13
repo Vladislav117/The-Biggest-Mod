@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zori bridge conveyor", "description": "", "health": 21, "range": 19, "speed": 1, "bufferCapacity": 9, "requirements": [{"item": "zori", "amount": 1}, {"item": "rateju", "amount": 1}], "research": "zori-conveyor", "category": "distribution", "size": 1}

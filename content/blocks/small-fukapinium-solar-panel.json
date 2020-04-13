@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fukapinium solar panel", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "fukapinium", "amount": 11}, {"item": "lebu", "amount": 4}, {"item": "baqo", "amount": 5}], "research": "fukapinium-factory", "powerProduction": 1.0449414655851215, "category": "power"}

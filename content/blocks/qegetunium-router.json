@@ -1,0 +1,1 @@
+{"type": "router", "name": "qegetunium router", "description": "...", "health": 100, "size": 1, "requirements": [{"item": "qegetunium", "amount": 9}], "research": "qegetunium-conveyor", "category": "distribution"}

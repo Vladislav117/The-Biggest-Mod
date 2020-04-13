@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xuri liquid tank", "description": "...", "health": 186, "size": 3, "requirements": [{"item": "xuri", "amount": 7}, {"item": "wisy", "amount": 9}, {"item": "foli", "amount": 10}], "research": "xuri-conduit", "category": "liquid", "liquidCapacity": 47132, "hasLiquids": true}

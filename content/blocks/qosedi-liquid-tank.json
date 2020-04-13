@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qosedi liquid tank", "description": "...", "health": 547, "size": 3, "requirements": [{"item": "qosedi", "amount": 18}, {"item": "gabipi", "amount": 3}, {"item": "sayibe", "amount": 8}], "research": "qosedi-conduit", "category": "liquid", "liquidCapacity": 41398, "hasLiquids": true}

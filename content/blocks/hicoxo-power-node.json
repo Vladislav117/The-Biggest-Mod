@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hicoxo power node", "description": "...", "size": 2, "health": 570, "requirements": [{"item": "hicoxo", "amount": 6}, {"item": "vene", "amount": 14}, {"item": "zyce", "amount": 8}], "research": "hicoxo-factory", "maxNodes": 48, "laserRange": 7, "category": "power"}

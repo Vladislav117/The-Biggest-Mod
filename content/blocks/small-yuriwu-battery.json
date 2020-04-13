@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yuriwu battery", "description": "...", "size": 1, "health": 209, "requirements": [{"item": "yuriwu", "amount": 19}, {"item": "mimuce", "amount": 16}, {"item": "ciremo", "amount": 6}], "research": "yuriwu-factory", "consumes": {"powerBuffered": 1200}, "category": "power"}

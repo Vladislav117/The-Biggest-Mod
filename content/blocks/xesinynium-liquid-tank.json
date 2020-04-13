@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xesinynium liquid tank", "description": "...", "health": 281, "size": 3, "requirements": [{"item": "xesinynium", "amount": 9}, {"item": "dela", "amount": 12}, {"item": "qatu", "amount": 8}], "research": "xesinynium-conduit", "category": "liquid", "liquidCapacity": 97632, "hasLiquids": true}

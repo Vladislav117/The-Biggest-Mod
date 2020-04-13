@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kica conduit", "description": "...", "health": 97, "requirements": [{"item": "kica", "amount": 8}, {"item": "yupo", "amount": 5}, {"item": "woyu", "amount": 4}], "liquidCapacity": 17, "liquidPressure": 1, "research": "kica-factory", "category": "liquid"}

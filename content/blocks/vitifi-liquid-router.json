@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vitifi liquid router", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "vitifi", "amount": 6}, {"item": "biny", "amount": 15}, {"item": "fevy", "amount": 4}], "research": "vitifi-conduit", "liquidCapacity": 10, "category": "liquid"}

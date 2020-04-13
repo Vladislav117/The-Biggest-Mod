@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rovy power node", "description": "...", "size": 2, "health": 228, "requirements": [{"item": "rovy", "amount": 6}, {"item": "soronium", "amount": 8}, {"item": "kituhinium", "amount": 1}], "research": "rovy-factory", "maxNodes": 58, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jepumi inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "jepumi", "amount": 3}, {"item": "sapymanium", "amount": 1}], "research": "jepumi-conveyor", "category": "distribution", "invert": true}

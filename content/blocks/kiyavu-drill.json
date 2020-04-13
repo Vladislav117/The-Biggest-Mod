@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kiyavu drill", "description": "...", "size": 2, "health": 395, "tier": 4, "drillTime": 19, "consumes": {"power": 3}, "requirements": [{"item": "kiyavu", "amount": 8}, {"item": "yeli", "amount": 3}, {"item": "wuqosenium", "amount": 7}], "research": "kiyavu-factory", "category": "production"}

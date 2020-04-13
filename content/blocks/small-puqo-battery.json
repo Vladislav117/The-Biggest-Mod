@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small puqo battery", "description": "...", "size": 1, "health": 63, "requirements": [{"item": "puqo", "amount": 14}, {"item": "jovunium", "amount": 17}, {"item": "syxija", "amount": 1}], "research": "puqo-factory", "consumes": {"powerBuffered": 2802}, "category": "power"}

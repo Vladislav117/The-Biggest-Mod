@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bagy overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "bagy", "amount": 1}, {"item": "cupyvu", "amount": 4}], "research": "bagy-conveyor", "category": "distribution", "invert": false}

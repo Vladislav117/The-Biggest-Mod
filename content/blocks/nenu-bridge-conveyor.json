@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nenu bridge conveyor", "description": "", "health": 4, "range": 13, "speed": 1, "bufferCapacity": 5, "requirements": [{"item": "nenu", "amount": 3}, {"item": "yejeqinium", "amount": 4}], "research": "nenu-conveyor", "category": "distribution", "size": 1}

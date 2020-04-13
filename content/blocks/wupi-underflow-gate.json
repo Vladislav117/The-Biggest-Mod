@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wupi underflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "wupi", "amount": 4}, {"item": "cepi", "amount": 5}], "research": "wupi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Wall", "name": "tile small wall", "description": "...", "health": 220, "size": 1, "requirements": [{"item": "tile", "amount": 4}], "research": "tile-factory", "category": "defense"}

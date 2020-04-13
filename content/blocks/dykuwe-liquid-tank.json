@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dykuwe liquid tank", "description": "...", "health": 212, "size": 3, "requirements": [{"item": "dykuwe", "amount": 12}, {"item": "beyy", "amount": 16}, {"item": "towyti", "amount": 10}], "research": "dykuwe-conduit", "category": "liquid", "liquidCapacity": 20716, "hasLiquids": true}

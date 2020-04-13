@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kamu inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "kamu", "amount": 3}, {"item": "voky", "amount": 4}], "research": "kamu-conveyor", "category": "distribution", "invert": true}

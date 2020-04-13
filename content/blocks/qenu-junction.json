@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qenu junction", "description": "...", "health": 48, "speed": 13, "capacity": 16, "size": 1, "requirements": [{"item": "qenu", "amount": 3}, {"item": "baly", "amount": 2}], "research": "qenu-conveyor", "category": "distribution"}

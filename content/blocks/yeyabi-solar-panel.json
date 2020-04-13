@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yeyabi solar panel", "description": "...", "size": 3, "health": 240, "requirements": [{"item": "yeyabi", "amount": 17}, {"item": "suvi", "amount": 12}, {"item": "yowiminium", "amount": 8}], "research": "yeyabi-factory", "powerProduction": 0.24790092989583407, "category": "power"}

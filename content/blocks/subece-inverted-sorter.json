@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "subece inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "subece", "amount": 5}, {"item": "sygoqu", "amount": 1}], "research": "subece-conveyor", "category": "distribution", "invert": true}

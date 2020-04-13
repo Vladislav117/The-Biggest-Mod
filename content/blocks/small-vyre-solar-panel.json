@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vyre solar panel", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "vyre", "amount": 8}, {"item": "delo", "amount": 15}, {"item": "jugowe", "amount": 8}], "research": "vyre-factory", "powerProduction": 6.789013306199851, "category": "power"}

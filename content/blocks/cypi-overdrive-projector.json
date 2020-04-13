@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "cypi overdrive projector", "description": "...", "health": 83, "consumes": {"power": 3.0, "item": "cypi"}, "size": 2, "requirements": [{"item": "cypi", "amount": 19}, {"item": "kozysa", "amount": 20}, {"item": "nogocynium", "amount": 3}], "research": "cypi-factory", "category": "effect"}

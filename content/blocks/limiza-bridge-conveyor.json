@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "limiza bridge conveyor", "description": "", "health": 28, "range": 14, "speed": 18, "bufferCapacity": 14, "requirements": [{"item": "limiza", "amount": 5}, {"item": "howu", "amount": 2}], "research": "limiza-conveyor", "category": "distribution", "size": 1}

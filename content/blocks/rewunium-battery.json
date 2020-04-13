@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rewunium battery", "description": "...", "size": 3, "health": 245, "requirements": [{"item": "rewunium", "amount": 5}, {"item": "nitinium", "amount": 8}, {"item": "hasu", "amount": 7}], "research": "rewunium-factory", "consumes": {"powerBuffered": 7325}, "category": "power"}

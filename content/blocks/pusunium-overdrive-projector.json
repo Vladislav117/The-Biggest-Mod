@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "pusunium overdrive projector", "description": "...", "health": 74, "consumes": {"power": 3.0, "item": "pusunium"}, "size": 2, "requirements": [{"item": "pusunium", "amount": 19}, {"item": "nigucy", "amount": 9}, {"item": "dubi", "amount": 7}], "research": "pusunium-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zagy power node", "description": "...", "size": 2, "health": 43, "requirements": [{"item": "zagy", "amount": 11}, {"item": "zohura", "amount": 14}, {"item": "ravyku", "amount": 3}], "research": "zagy-factory", "maxNodes": 53, "laserRange": 17, "category": "power"}

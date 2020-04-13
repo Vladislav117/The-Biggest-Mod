@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tiqi power node", "description": "...", "size": 2, "health": 537, "requirements": [{"item": "tiqi", "amount": 14}, {"item": "xexocunium", "amount": 2}, {"item": "hikuda", "amount": 2}], "research": "tiqi-factory", "maxNodes": 44, "laserRange": 5, "category": "power"}

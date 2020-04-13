@@ -1,0 +1,1 @@
+{"type": "battery", "name": "quxyqe battery", "description": "...", "size": 3, "health": 66, "requirements": [{"item": "quxyqe", "amount": 12}, {"item": "wumuge", "amount": 9}, {"item": "syre", "amount": 9}], "research": "quxyqe-factory", "consumes": {"powerBuffered": 9509}, "category": "power"}

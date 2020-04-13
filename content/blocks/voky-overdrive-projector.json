@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "voky overdrive projector", "description": "...", "health": 52, "consumes": {"power": 3.0, "item": "voky"}, "size": 2, "requirements": [{"item": "voky", "amount": 19}, {"item": "devo", "amount": 5}, {"item": "tise", "amount": 1}], "research": "voky-factory", "category": "effect"}

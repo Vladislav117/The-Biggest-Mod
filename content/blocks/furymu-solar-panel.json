@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "furymu solar panel", "description": "...", "size": 3, "health": 323, "requirements": [{"item": "furymu", "amount": 18}, {"item": "vatohunium", "amount": 8}, {"item": "wehynium", "amount": 4}], "research": "furymu-factory", "powerProduction": 0.8492976507923538, "category": "power"}

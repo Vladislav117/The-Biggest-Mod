@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "siwobanium underflow gate", "description": "...", "health": 19, "size": 1, "requirements": [{"item": "siwobanium", "amount": 1}, {"item": "vewavu", "amount": 4}], "research": "siwobanium-conveyor", "category": "distribution", "invert": false}

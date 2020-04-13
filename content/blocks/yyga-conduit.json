@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yyga conduit", "description": "...", "health": 50, "requirements": [{"item": "yyga", "amount": 8}, {"item": "gupyfi", "amount": 11}, {"item": "ceny", "amount": 9}], "liquidCapacity": 7, "liquidPressure": 9, "research": "yyga-factory", "category": "liquid"}

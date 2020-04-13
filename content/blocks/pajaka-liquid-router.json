@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pajaka liquid router", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "pajaka", "amount": 2}, {"item": "gotomy", "amount": 4}, {"item": "manihe", "amount": 2}], "research": "pajaka-conduit", "liquidCapacity": 10, "category": "liquid"}

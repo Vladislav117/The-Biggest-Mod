@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vusi solar panel", "description": "...", "size": 3, "health": 207, "requirements": [{"item": "vusi", "amount": 15}, {"item": "xorele", "amount": 15}, {"item": "ruwysu", "amount": 1}], "research": "vusi-factory", "powerProduction": 0.4680063160797487, "category": "power"}

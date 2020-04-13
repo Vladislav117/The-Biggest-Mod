@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xolo power node", "description": "...", "size": 2, "health": 582, "requirements": [{"item": "xolo", "amount": 9}, {"item": "bybity", "amount": 6}, {"item": "diro", "amount": 6}], "research": "xolo-factory", "maxNodes": 26, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qanupenium bridge conveyor", "description": "", "health": 38, "range": 17, "speed": 11, "bufferCapacity": 24, "requirements": [{"item": "qanupenium", "amount": 5}, {"item": "yuno", "amount": 4}], "research": "qanupenium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mivini drill", "description": "...", "size": 2, "health": 114, "tier": 3, "drillTime": 5, "consumes": {"power": 2}, "requirements": [{"item": "mivini", "amount": 2}, {"item": "vate", "amount": 14}, {"item": "dakyse", "amount": 1}], "research": "mivini-factory", "category": "production"}

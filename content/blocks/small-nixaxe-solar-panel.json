@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nixaxe solar panel", "description": "...", "size": 1, "health": 296, "requirements": [{"item": "nixaxe", "amount": 16}, {"item": "zemo", "amount": 6}, {"item": "lefelenium", "amount": 3}], "research": "nixaxe-factory", "powerProduction": 1.2091219558891013, "category": "power"}

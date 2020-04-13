@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zumyze liquid router", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "zumyze", "amount": 13}, {"item": "woze", "amount": 16}, {"item": "milu", "amount": 10}], "research": "zumyze-conduit", "liquidCapacity": 10, "category": "liquid"}

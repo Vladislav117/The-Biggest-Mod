@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vecifu overflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "vecifu", "amount": 4}, {"item": "zipy", "amount": 5}], "research": "vecifu-conveyor", "category": "distribution", "invert": false}

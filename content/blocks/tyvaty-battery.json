@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tyvaty battery", "description": "...", "size": 3, "health": 328, "requirements": [{"item": "tyvaty", "amount": 13}, {"item": "symeca", "amount": 3}, {"item": "judu", "amount": 2}], "research": "tyvaty-factory", "consumes": {"powerBuffered": 4742}, "category": "power"}

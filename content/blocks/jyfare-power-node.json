@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jyfare power node", "description": "...", "size": 2, "health": 150, "requirements": [{"item": "jyfare", "amount": 9}, {"item": "mynesa", "amount": 1}, {"item": "tatupo", "amount": 3}], "research": "jyfare-factory", "maxNodes": 57, "laserRange": 29, "category": "power"}

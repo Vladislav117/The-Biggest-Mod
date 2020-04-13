@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small byjy power node", "description": "...", "size": 1, "health": 46, "requirements": [{"item": "byjy", "amount": 5}, {"item": "wocu", "amount": 14}, {"item": "lyruvanium", "amount": 7}], "research": "byjy-factory", "maxNodes": 5, "laserRange": 3, "category": "power"}

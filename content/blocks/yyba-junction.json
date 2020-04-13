@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yyba junction", "description": "...", "health": 39, "speed": 17, "capacity": 4, "size": 1, "requirements": [{"item": "yyba", "amount": 2}, {"item": "kuyome", "amount": 5}], "research": "yyba-conveyor", "category": "distribution"}

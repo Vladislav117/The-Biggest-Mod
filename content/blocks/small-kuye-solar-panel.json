@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kuye solar panel", "description": "...", "size": 1, "health": 367, "requirements": [{"item": "kuye", "amount": 19}, {"item": "danitu", "amount": 1}, {"item": "yaxuda", "amount": 3}], "research": "kuye-factory", "powerProduction": 0.8159662678384307, "category": "power"}

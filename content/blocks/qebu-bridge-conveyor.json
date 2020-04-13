@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qebu bridge conveyor", "description": "", "health": 2, "range": 2, "speed": 8, "bufferCapacity": 5, "requirements": [{"item": "qebu", "amount": 1}, {"item": "fyfoni", "amount": 5}], "research": "qebu-conveyor", "category": "distribution", "size": 1}

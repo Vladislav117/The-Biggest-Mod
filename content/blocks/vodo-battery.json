@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vodo battery", "description": "...", "size": 3, "health": 54, "requirements": [{"item": "vodo", "amount": 14}, {"item": "qovy", "amount": 3}, {"item": "qowepa", "amount": 1}], "research": "vodo-factory", "consumes": {"powerBuffered": 8264}, "category": "power"}

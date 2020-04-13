@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bogovy battery", "description": "...", "size": 3, "health": 362, "requirements": [{"item": "bogovy", "amount": 1}, {"item": "fusyle", "amount": 4}, {"item": "vodico", "amount": 9}], "research": "bogovy-factory", "consumes": {"powerBuffered": 2939}, "category": "power"}

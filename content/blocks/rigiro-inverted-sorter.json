@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rigiro inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "rigiro", "amount": 3}, {"item": "gorenium", "amount": 1}], "research": "rigiro-conveyor", "category": "distribution", "invert": true}

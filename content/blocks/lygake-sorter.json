@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lygake sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "lygake", "amount": 4}, {"item": "dohiye", "amount": 1}], "research": "lygake-conveyor", "category": "distribution", "invert": false}

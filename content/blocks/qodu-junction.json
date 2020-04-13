@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qodu junction", "description": "...", "health": 48, "speed": 18, "capacity": 9, "size": 1, "requirements": [{"item": "qodu", "amount": 3}, {"item": "degesy", "amount": 1}], "research": "qodu-conveyor", "category": "distribution"}

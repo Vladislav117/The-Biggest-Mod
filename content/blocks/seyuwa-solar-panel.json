@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "seyuwa solar panel", "description": "...", "size": 3, "health": 316, "requirements": [{"item": "seyuwa", "amount": 11}, {"item": "syteja", "amount": 1}, {"item": "titanium", "amount": 2}], "research": "seyuwa-factory", "powerProduction": 0.11201509391162988, "category": "power"}

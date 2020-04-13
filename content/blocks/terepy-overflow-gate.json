@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "terepy overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "terepy", "amount": 1}, {"item": "deqohu", "amount": 2}], "research": "terepy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gorurenium inverted sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "gorurenium", "amount": 2}, {"item": "yusica", "amount": 2}], "research": "gorurenium-conveyor", "category": "distribution", "invert": true}

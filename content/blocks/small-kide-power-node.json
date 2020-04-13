@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kide power node", "description": "...", "size": 1, "health": 136, "requirements": [{"item": "kide", "amount": 3}, {"item": "lyru", "amount": 5}, {"item": "wulyso", "amount": 7}], "research": "kide-factory", "maxNodes": 9, "laserRange": 17, "category": "power"}

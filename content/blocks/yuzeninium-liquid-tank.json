@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yuzeninium liquid tank", "description": "...", "health": 562, "size": 3, "requirements": [{"item": "yuzeninium", "amount": 1}, {"item": "yypefa", "amount": 1}, {"item": "sara", "amount": 3}], "research": "yuzeninium-conduit", "category": "liquid", "liquidCapacity": 36053, "hasLiquids": true}

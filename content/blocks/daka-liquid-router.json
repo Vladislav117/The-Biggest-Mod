@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "daka liquid router", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "daka", "amount": 3}, {"item": "jeve", "amount": 17}, {"item": "gafedonium", "amount": 5}], "research": "daka-conduit", "liquidCapacity": 10, "category": "liquid"}

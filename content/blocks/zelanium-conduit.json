@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zelanium conduit", "description": "...", "health": 172, "requirements": [{"item": "zelanium", "amount": 16}, {"item": "qady", "amount": 6}, {"item": "jaju", "amount": 1}], "liquidCapacity": 32, "liquidPressure": 5, "research": "zelanium-factory", "category": "liquid"}

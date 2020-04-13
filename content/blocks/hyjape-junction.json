@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hyjape junction", "description": "...", "health": 2, "speed": 7, "capacity": 15, "size": 1, "requirements": [{"item": "hyjape", "amount": 1}, {"item": "hojinium", "amount": 3}], "research": "hyjape-conveyor", "category": "distribution"}

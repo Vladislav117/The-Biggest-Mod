@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "soni conduit", "description": "...", "health": 43, "requirements": [{"item": "soni", "amount": 15}, {"item": "bulo", "amount": 7}, {"item": "halyqinium", "amount": 1}], "liquidCapacity": 11, "liquidPressure": 8, "research": "soni-factory", "category": "liquid"}

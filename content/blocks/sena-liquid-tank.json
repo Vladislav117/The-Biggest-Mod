@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sena liquid tank", "description": "...", "health": 405, "size": 3, "requirements": [{"item": "sena", "amount": 13}, {"item": "wuvonium", "amount": 11}, {"item": "qypaty", "amount": 9}], "research": "sena-conduit", "category": "liquid", "liquidCapacity": 98626, "hasLiquids": true}

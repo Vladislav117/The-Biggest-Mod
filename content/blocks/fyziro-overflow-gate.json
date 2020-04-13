@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fyziro overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "fyziro", "amount": 3}, {"item": "rose", "amount": 4}], "research": "fyziro-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kyculo conduit", "description": "...", "health": 63, "requirements": [{"item": "kyculo", "amount": 20}, {"item": "ruteqa", "amount": 5}, {"item": "wywelu", "amount": 10}], "liquidCapacity": 8, "liquidPressure": 3, "research": "kyculo-factory", "category": "liquid"}

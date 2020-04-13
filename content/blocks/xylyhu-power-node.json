@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xylyhu power node", "description": "...", "size": 2, "health": 49, "requirements": [{"item": "xylyhu", "amount": 19}, {"item": "fogodo", "amount": 10}, {"item": "kery", "amount": 9}], "research": "xylyhu-factory", "maxNodes": 11, "laserRange": 15, "category": "power"}

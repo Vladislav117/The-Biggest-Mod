@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nity liquid tank", "description": "...", "health": 405, "size": 3, "requirements": [{"item": "nity", "amount": 19}, {"item": "giyafynium", "amount": 18}, {"item": "wikeyinium", "amount": 4}], "research": "nity-conduit", "category": "liquid", "liquidCapacity": 69449, "hasLiquids": true}

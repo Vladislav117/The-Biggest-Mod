@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fisa liquid tank", "description": "...", "health": 155, "size": 3, "requirements": [{"item": "fisa", "amount": 3}, {"item": "sysone", "amount": 10}, {"item": "meny", "amount": 2}], "research": "fisa-conduit", "category": "liquid", "liquidCapacity": 27773, "hasLiquids": true}

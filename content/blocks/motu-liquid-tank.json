@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "motu liquid tank", "description": "...", "health": 238, "size": 3, "requirements": [{"item": "motu", "amount": 9}, {"item": "yylove", "amount": 19}, {"item": "hitiva", "amount": 2}], "research": "motu-conduit", "category": "liquid", "liquidCapacity": 116718, "hasLiquids": true}

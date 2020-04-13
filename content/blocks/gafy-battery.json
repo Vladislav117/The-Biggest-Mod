@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gafy battery", "description": "...", "size": 3, "health": 373, "requirements": [{"item": "gafy", "amount": 8}, {"item": "pizi", "amount": 9}, {"item": "jylovo", "amount": 8}], "research": "gafy-factory", "consumes": {"powerBuffered": 6543}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jeviyu battery", "description": "...", "size": 3, "health": 275, "requirements": [{"item": "jeviyu", "amount": 10}, {"item": "puwasy", "amount": 12}, {"item": "dyji", "amount": 3}], "research": "jeviyu-factory", "consumes": {"powerBuffered": 2363}, "category": "power"}

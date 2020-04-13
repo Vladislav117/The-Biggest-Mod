@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mumujy battery", "description": "...", "size": 3, "health": 97, "requirements": [{"item": "mumujy", "amount": 16}, {"item": "qari", "amount": 15}, {"item": "vupofy", "amount": 4}], "research": "mumujy-factory", "consumes": {"powerBuffered": 5543}, "category": "power"}

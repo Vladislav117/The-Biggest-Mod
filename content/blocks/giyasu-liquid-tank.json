@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "giyasu liquid tank", "description": "...", "health": 208, "size": 3, "requirements": [{"item": "giyasu", "amount": 8}, {"item": "kyvanium", "amount": 18}, {"item": "buji", "amount": 5}], "research": "giyasu-conduit", "category": "liquid", "liquidCapacity": 2687, "hasLiquids": true}

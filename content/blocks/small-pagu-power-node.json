@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pagu power node", "description": "...", "size": 1, "health": 344, "requirements": [{"item": "pagu", "amount": 8}, {"item": "penabi", "amount": 15}, {"item": "zowi", "amount": 8}], "research": "pagu-factory", "maxNodes": 13, "laserRange": 22, "category": "power"}

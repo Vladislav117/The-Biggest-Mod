@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mofapu overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "mofapu", "amount": 4}, {"item": "xuryvy", "amount": 2}], "research": "mofapu-conveyor", "category": "distribution", "invert": false}

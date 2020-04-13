@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lypoje underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "lypoje", "amount": 2}, {"item": "wiqunium", "amount": 4}], "research": "lypoje-conveyor", "category": "distribution", "invert": false}

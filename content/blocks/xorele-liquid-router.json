@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xorele liquid router", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "xorele", "amount": 15}, {"item": "ryte", "amount": 11}, {"item": "hoqade", "amount": 10}], "research": "xorele-conduit", "liquidCapacity": 10, "category": "liquid"}

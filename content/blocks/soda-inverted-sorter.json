@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "soda inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "soda", "amount": 2}, {"item": "wiwo", "amount": 2}], "research": "soda-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jayycu liquid tank", "description": "...", "health": 403, "size": 3, "requirements": [{"item": "jayycu", "amount": 7}, {"item": "lyra", "amount": 14}, {"item": "bylo", "amount": 8}], "research": "jayycu-conduit", "category": "liquid", "liquidCapacity": 118727, "hasLiquids": true}

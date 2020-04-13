@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zusi junction", "description": "...", "health": 40, "speed": 9, "capacity": 3, "size": 1, "requirements": [{"item": "zusi", "amount": 2}, {"item": "rabe", "amount": 5}], "research": "zusi-conveyor", "category": "distribution"}

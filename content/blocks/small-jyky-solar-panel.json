@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jyky solar panel", "description": "...", "size": 1, "health": 140, "requirements": [{"item": "jyky", "amount": 6}, {"item": "poquko", "amount": 10}, {"item": "niba", "amount": 2}], "research": "jyky-factory", "powerProduction": 1.3741961817670993, "category": "power"}

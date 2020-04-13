@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yahi solar panel", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "yahi", "amount": 12}, {"item": "beniyi", "amount": 3}, {"item": "gomola", "amount": 4}], "research": "yahi-factory", "powerProduction": 5.217702563513117, "category": "power"}

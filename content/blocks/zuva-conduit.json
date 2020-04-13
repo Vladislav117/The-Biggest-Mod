@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zuva conduit", "description": "...", "health": 23, "requirements": [{"item": "zuva", "amount": 20}, {"item": "furazinium", "amount": 7}, {"item": "yesolonium", "amount": 1}], "liquidCapacity": 46, "liquidPressure": 2, "research": "zuva-factory", "category": "liquid"}

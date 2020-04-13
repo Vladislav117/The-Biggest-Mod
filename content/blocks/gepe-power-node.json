@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gepe power node", "description": "...", "size": 2, "health": 669, "requirements": [{"item": "gepe", "amount": 8}, {"item": "temu", "amount": 3}, {"item": "padopu", "amount": 8}], "research": "gepe-factory", "maxNodes": 43, "laserRange": 13, "category": "power"}

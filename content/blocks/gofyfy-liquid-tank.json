@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gofyfy liquid tank", "description": "...", "health": 406, "size": 3, "requirements": [{"item": "gofyfy", "amount": 7}, {"item": "pami", "amount": 5}, {"item": "pego", "amount": 5}], "research": "gofyfy-conduit", "category": "liquid", "liquidCapacity": 55303, "hasLiquids": true}

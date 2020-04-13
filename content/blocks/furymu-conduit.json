@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "furymu conduit", "description": "...", "health": 31, "requirements": [{"item": "furymu", "amount": 13}, {"item": "rutylo", "amount": 14}, {"item": "fazame", "amount": 5}], "liquidCapacity": 2, "liquidPressure": 10, "research": "furymu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "samy inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "samy", "amount": 3}, {"item": "myvava", "amount": 4}], "research": "samy-conveyor", "category": "distribution", "invert": true}

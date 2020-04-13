@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tyqi junction", "description": "...", "health": 20, "speed": 19, "capacity": 6, "size": 1, "requirements": [{"item": "tyqi", "amount": 3}, {"item": "vigyqinium", "amount": 2}], "research": "tyqi-conveyor", "category": "distribution"}

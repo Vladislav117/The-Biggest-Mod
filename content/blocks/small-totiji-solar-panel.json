@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small totiji solar panel", "description": "...", "size": 1, "health": 292, "requirements": [{"item": "totiji", "amount": 20}, {"item": "hexa", "amount": 6}, {"item": "melula", "amount": 6}], "research": "totiji-factory", "powerProduction": 6.7632145823790015, "category": "power"}

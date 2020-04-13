@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qesinium conduit", "description": "...", "health": 80, "requirements": [{"item": "qesinium", "amount": 6}, {"item": "zugoni", "amount": 19}, {"item": "makonium", "amount": 9}], "liquidCapacity": 21, "liquidPressure": 0, "research": "qesinium-factory", "category": "liquid"}

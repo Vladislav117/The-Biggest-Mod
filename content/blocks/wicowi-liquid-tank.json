@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wicowi liquid tank", "description": "...", "health": 527, "size": 3, "requirements": [{"item": "wicowi", "amount": 14}, {"item": "nepysi", "amount": 20}, {"item": "kuwunium", "amount": 5}], "research": "wicowi-conduit", "category": "liquid", "liquidCapacity": 119167, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nijuto conduit", "description": "...", "health": 140, "requirements": [{"item": "nijuto", "amount": 16}, {"item": "yipobe", "amount": 12}, {"item": "vego", "amount": 4}], "liquidCapacity": 3, "liquidPressure": 6, "research": "nijuto-factory", "category": "liquid"}

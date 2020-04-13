@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "moki overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "moki", "amount": 1}, {"item": "koci", "amount": 4}], "research": "moki-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fezudanium battery", "description": "...", "size": 1, "health": 130, "requirements": [{"item": "fezudanium", "amount": 14}, {"item": "qiwypa", "amount": 7}, {"item": "riyo", "amount": 7}], "research": "fezudanium-factory", "consumes": {"powerBuffered": 1118}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kozapu solar panel", "description": "...", "size": 3, "health": 400, "requirements": [{"item": "kozapu", "amount": 10}, {"item": "sayo", "amount": 11}, {"item": "kixihinium", "amount": 6}], "research": "kozapu-factory", "powerProduction": 1.2657849201050542, "category": "power"}

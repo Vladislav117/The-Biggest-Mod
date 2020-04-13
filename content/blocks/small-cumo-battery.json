@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cumo battery", "description": "...", "size": 1, "health": 347, "requirements": [{"item": "cumo", "amount": 8}, {"item": "denu", "amount": 7}, {"item": "laho", "amount": 1}], "research": "cumo-factory", "consumes": {"powerBuffered": 879}, "category": "power"}

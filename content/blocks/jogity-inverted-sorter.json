@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jogity inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "jogity", "amount": 3}, {"item": "jyzywy", "amount": 5}], "research": "jogity-conveyor", "category": "distribution", "invert": true}

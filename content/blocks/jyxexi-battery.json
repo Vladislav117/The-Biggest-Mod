@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jyxexi battery", "description": "...", "size": 3, "health": 68, "requirements": [{"item": "jyxexi", "amount": 10}, {"item": "vuxi", "amount": 5}, {"item": "fyfoni", "amount": 6}], "research": "jyxexi-factory", "consumes": {"powerBuffered": 6586}, "category": "power"}

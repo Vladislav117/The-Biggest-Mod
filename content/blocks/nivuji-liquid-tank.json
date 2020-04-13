@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nivuji liquid tank", "description": "...", "health": 649, "size": 3, "requirements": [{"item": "nivuji", "amount": 10}, {"item": "xyyira", "amount": 10}, {"item": "byfyge", "amount": 9}], "research": "nivuji-conduit", "category": "liquid", "liquidCapacity": 79647, "hasLiquids": true}

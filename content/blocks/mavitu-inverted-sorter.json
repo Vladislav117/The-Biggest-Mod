@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mavitu inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "mavitu", "amount": 1}, {"item": "tiwyna", "amount": 1}], "research": "mavitu-conveyor", "category": "distribution", "invert": true}

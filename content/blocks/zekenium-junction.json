@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zekenium junction", "description": "...", "health": 28, "speed": 9, "capacity": 13, "size": 1, "requirements": [{"item": "zekenium", "amount": 2}, {"item": "fahupi", "amount": 1}], "research": "zekenium-conveyor", "category": "distribution"}

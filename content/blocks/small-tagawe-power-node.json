@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tagawe power node", "description": "...", "size": 1, "health": 201, "requirements": [{"item": "tagawe", "amount": 9}, {"item": "jicefu", "amount": 9}, {"item": "xyfynium", "amount": 1}], "research": "tagawe-factory", "maxNodes": 16, "laserRange": 8, "category": "power"}

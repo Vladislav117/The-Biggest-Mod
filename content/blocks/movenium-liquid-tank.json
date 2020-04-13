@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "movenium liquid tank", "description": "...", "health": 390, "size": 3, "requirements": [{"item": "movenium", "amount": 6}, {"item": "tuwe", "amount": 2}, {"item": "pawasunium", "amount": 9}], "research": "movenium-conduit", "category": "liquid", "liquidCapacity": 105064, "hasLiquids": true}

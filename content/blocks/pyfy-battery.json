@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pyfy battery", "description": "...", "size": 3, "health": 87, "requirements": [{"item": "pyfy", "amount": 5}, {"item": "tise", "amount": 16}, {"item": "fyye", "amount": 5}], "research": "pyfy-factory", "consumes": {"powerBuffered": 2315}, "category": "power"}

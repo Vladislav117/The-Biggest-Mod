@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jyfare power node", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "jyfare", "amount": 19}, {"item": "nefanium", "amount": 14}, {"item": "gumyra", "amount": 10}], "research": "jyfare-factory", "maxNodes": 29, "laserRange": 17, "category": "power"}

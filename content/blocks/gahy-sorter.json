@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gahy sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "gahy", "amount": 1}, {"item": "geke", "amount": 5}], "research": "gahy-conveyor", "category": "distribution", "invert": false}

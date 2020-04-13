@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small joxi solar panel", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "joxi", "amount": 8}, {"item": "zeka", "amount": 8}, {"item": "qari", "amount": 6}], "research": "joxi-factory", "powerProduction": 0.034860988867019806, "category": "power"}

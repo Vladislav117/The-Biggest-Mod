@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "segi drill", "description": "...", "size": 4, "health": 150, "tier": 1, "drillTime": 17, "consumes": {"power": 18}, "requirements": [{"item": "segi", "amount": 1}, {"item": "hebe", "amount": 19}, {"item": "wiyuho", "amount": 1}], "research": "segi-factory", "category": "production"}

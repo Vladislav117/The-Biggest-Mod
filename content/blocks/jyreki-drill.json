@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jyreki drill", "description": "...", "size": 4, "health": 404, "tier": 1, "drillTime": 3, "consumes": {"power": 18}, "requirements": [{"item": "jyreki", "amount": 17}, {"item": "gevu", "amount": 18}, {"item": "tugo", "amount": 1}], "research": "jyreki-factory", "category": "production"}

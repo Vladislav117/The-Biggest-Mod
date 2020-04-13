@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nepysi liquid tank", "description": "...", "health": 240, "size": 3, "requirements": [{"item": "nepysi", "amount": 18}, {"item": "muti", "amount": 5}, {"item": "daqy", "amount": 8}], "research": "nepysi-conduit", "category": "liquid", "liquidCapacity": 113947, "hasLiquids": true}

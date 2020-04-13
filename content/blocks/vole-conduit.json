@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vole conduit", "description": "...", "health": 109, "requirements": [{"item": "vole", "amount": 7}, {"item": "julynium", "amount": 18}, {"item": "goqanium", "amount": 1}], "liquidCapacity": 30, "liquidPressure": 9, "research": "vole-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tegi drill", "description": "...", "size": 3, "health": 151, "tier": 4, "drillTime": 5, "consumes": {"power": 7}, "requirements": [{"item": "tegi", "amount": 16}, {"item": "tavupi", "amount": 5}, {"item": "pazanium", "amount": 5}], "research": "tegi-factory", "category": "production"}

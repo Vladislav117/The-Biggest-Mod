@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gobenium underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "gobenium", "amount": 2}, {"item": "leyoqo", "amount": 5}], "research": "gobenium-conveyor", "category": "distribution", "invert": false}

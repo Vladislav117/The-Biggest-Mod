@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qiditinium solar panel", "description": "...", "size": 1, "health": 12, "requirements": [{"item": "qiditinium", "amount": 1}, {"item": "dicaku", "amount": 3}, {"item": "kyqedu", "amount": 7}], "research": "qiditinium-factory", "powerProduction": 0.02603124825189975, "category": "power"}

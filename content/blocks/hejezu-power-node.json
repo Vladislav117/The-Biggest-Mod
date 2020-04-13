@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hejezu power node", "description": "...", "size": 2, "health": 41, "requirements": [{"item": "hejezu", "amount": 18}, {"item": "xofa", "amount": 8}, {"item": "xecy", "amount": 6}], "research": "hejezu-factory", "maxNodes": 12, "laserRange": 22, "category": "power"}

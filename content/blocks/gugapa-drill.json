@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gugapa drill", "description": "...", "size": 2, "health": 341, "tier": 3, "drillTime": 8, "consumes": {"power": 19}, "requirements": [{"item": "gugapa", "amount": 5}, {"item": "qyjysu", "amount": 11}, {"item": "befy", "amount": 4}], "research": "gugapa-factory", "category": "production"}

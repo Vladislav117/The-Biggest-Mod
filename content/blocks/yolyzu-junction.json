@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yolyzu junction", "description": "...", "health": 44, "speed": 8, "capacity": 2, "size": 1, "requirements": [{"item": "yolyzu", "amount": 2}, {"item": "lewonium", "amount": 2}], "research": "yolyzu-conveyor", "category": "distribution"}

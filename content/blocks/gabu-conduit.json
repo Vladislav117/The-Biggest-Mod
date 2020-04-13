@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gabu conduit", "description": "...", "health": 36, "requirements": [{"item": "gabu", "amount": 16}, {"item": "byfyge", "amount": 5}, {"item": "wija", "amount": 5}], "liquidCapacity": 2, "liquidPressure": 10, "research": "gabu-factory", "category": "liquid"}

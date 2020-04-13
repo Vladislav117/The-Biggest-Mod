@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tixanu solar panel", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "tixanu", "amount": 15}, {"item": "sewazo", "amount": 19}, {"item": "civonium", "amount": 4}], "research": "tixanu-factory", "powerProduction": 1.6485010437845622, "category": "power"}

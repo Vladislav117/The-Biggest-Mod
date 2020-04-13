@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yicazunium battery", "description": "...", "size": 1, "health": 104, "requirements": [{"item": "yicazunium", "amount": 11}, {"item": "hona", "amount": 12}, {"item": "bugyta", "amount": 6}], "research": "yicazunium-factory", "consumes": {"powerBuffered": 1314}, "category": "power"}

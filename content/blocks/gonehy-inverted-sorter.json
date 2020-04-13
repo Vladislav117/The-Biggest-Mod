@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gonehy inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "gonehy", "amount": 1}, {"item": "fabese", "amount": 5}], "research": "gonehy-conveyor", "category": "distribution", "invert": true}

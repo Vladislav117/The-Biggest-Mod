@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lahy battery", "description": "...", "size": 3, "health": 215, "requirements": [{"item": "lahy", "amount": 16}, {"item": "ryfy", "amount": 20}, {"item": "yydaqe", "amount": 3}], "research": "lahy-factory", "consumes": {"powerBuffered": 7781}, "category": "power"}

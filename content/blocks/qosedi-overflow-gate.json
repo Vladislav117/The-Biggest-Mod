@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qosedi overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "qosedi", "amount": 3}, {"item": "pydi", "amount": 5}], "research": "qosedi-conveyor", "category": "distribution", "invert": false}

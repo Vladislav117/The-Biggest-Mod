@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "reminium overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "reminium", "amount": 3}, {"item": "rime", "amount": 4}], "research": "reminium-conveyor", "category": "distribution", "invert": false}

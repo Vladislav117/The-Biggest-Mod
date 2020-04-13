@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tyqowy solar panel", "description": "...", "size": 1, "health": 324, "requirements": [{"item": "tyqowy", "amount": 11}, {"item": "yohu", "amount": 2}, {"item": "falo", "amount": 6}], "research": "tyqowy-factory", "powerProduction": 4.15207177647847, "category": "power"}

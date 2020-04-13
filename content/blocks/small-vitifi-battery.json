@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vitifi battery", "description": "...", "size": 1, "health": 268, "requirements": [{"item": "vitifi", "amount": 2}, {"item": "diwyci", "amount": 12}, {"item": "koqoze", "amount": 9}], "research": "vitifi-factory", "consumes": {"powerBuffered": 755}, "category": "power"}

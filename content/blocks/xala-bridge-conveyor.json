@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xala bridge conveyor", "description": "", "health": 1, "range": 3, "speed": 15, "bufferCapacity": 22, "requirements": [{"item": "xala", "amount": 1}, {"item": "qiposa", "amount": 5}], "research": "xala-conveyor", "category": "distribution", "size": 1}

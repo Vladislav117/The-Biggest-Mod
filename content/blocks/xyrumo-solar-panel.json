@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xyrumo solar panel", "description": "...", "size": 3, "health": 314, "requirements": [{"item": "xyrumo", "amount": 9}, {"item": "pyzanium", "amount": 3}, {"item": "ziti", "amount": 3}], "research": "xyrumo-factory", "powerProduction": 0.07235530996117474, "category": "power"}

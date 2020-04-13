@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "layyzynium sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "layyzynium", "amount": 1}, {"item": "kiredi", "amount": 3}], "research": "layyzynium-conveyor", "category": "distribution", "invert": false}

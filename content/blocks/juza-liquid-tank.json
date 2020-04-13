@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "juza liquid tank", "description": "...", "health": 261, "size": 3, "requirements": [{"item": "juza", "amount": 8}, {"item": "yisi", "amount": 17}, {"item": "dunysy", "amount": 6}], "research": "juza-conduit", "category": "liquid", "liquidCapacity": 113952, "hasLiquids": true}

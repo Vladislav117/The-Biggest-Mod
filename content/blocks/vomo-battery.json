@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vomo battery", "description": "...", "size": 3, "health": 275, "requirements": [{"item": "vomo", "amount": 17}, {"item": "gywu", "amount": 1}, {"item": "cizi", "amount": 5}], "research": "vomo-factory", "consumes": {"powerBuffered": 9627}, "category": "power"}

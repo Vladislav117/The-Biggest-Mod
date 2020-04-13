@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lyzecinium solar panel", "description": "...", "size": 3, "health": 279, "requirements": [{"item": "lyzecinium", "amount": 15}, {"item": "nuko", "amount": 13}, {"item": "nitonium", "amount": 1}], "research": "lyzecinium-factory", "powerProduction": 1.0357229892149267, "category": "power"}

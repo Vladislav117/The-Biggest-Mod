@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yuby conduit", "description": "...", "health": 100, "requirements": [{"item": "yuby", "amount": 12}, {"item": "kyna", "amount": 20}, {"item": "tufi", "amount": 1}], "liquidCapacity": 45, "liquidPressure": 3, "research": "yuby-factory", "category": "liquid"}

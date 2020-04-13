@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "goli overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "goli", "amount": 1}, {"item": "nimyla", "amount": 3}], "research": "goli-conveyor", "category": "distribution", "invert": false}

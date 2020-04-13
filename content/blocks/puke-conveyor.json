@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "puke conveyor", "description": "...", "health": 131, "requirements": [{"item": "puke", "amount": 1}, {"item": "rebugunium", "amount": 6}], "speed": 0.15132250451605023, "research": "puke-factory", "category": "distribution"}

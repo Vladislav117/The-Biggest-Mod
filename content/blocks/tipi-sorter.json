@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tipi sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "tipi", "amount": 3}, {"item": "wutigo", "amount": 1}], "research": "tipi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jumonium solar panel", "description": "...", "size": 3, "health": 261, "requirements": [{"item": "jumonium", "amount": 13}, {"item": "tiwyna", "amount": 5}, {"item": "lyru", "amount": 10}], "research": "jumonium-factory", "powerProduction": 5.074716502359708, "category": "power"}

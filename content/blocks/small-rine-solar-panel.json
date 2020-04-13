@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rine solar panel", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "rine", "amount": 4}, {"item": "layyzynium", "amount": 16}, {"item": "dyme", "amount": 6}], "research": "rine-factory", "powerProduction": 0.63064344342623, "category": "power"}

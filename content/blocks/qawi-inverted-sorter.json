@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qawi inverted sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "qawi", "amount": 5}, {"item": "sugamynium", "amount": 4}], "research": "qawi-conveyor", "category": "distribution", "invert": true}

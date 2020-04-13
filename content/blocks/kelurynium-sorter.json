@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kelurynium sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "kelurynium", "amount": 5}, {"item": "vevudinium", "amount": 1}], "research": "kelurynium-conveyor", "category": "distribution", "invert": false}

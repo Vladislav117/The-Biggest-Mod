@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qolone drill", "description": "...", "size": 4, "health": 235, "tier": 2, "drillTime": 2, "consumes": {"power": 18}, "requirements": [{"item": "qolone", "amount": 5}, {"item": "soqa", "amount": 13}, {"item": "jawo", "amount": 9}], "research": "qolone-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sugamynium inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "sugamynium", "amount": 4}, {"item": "duqu", "amount": 5}], "research": "sugamynium-conveyor", "category": "distribution", "invert": true}

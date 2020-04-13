@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cuwenium junction", "description": "...", "health": 2, "speed": 4, "capacity": 2, "size": 1, "requirements": [{"item": "cuwenium", "amount": 5}, {"item": "siwi", "amount": 3}], "research": "cuwenium-conveyor", "category": "distribution"}

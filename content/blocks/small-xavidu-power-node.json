@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xavidu power node", "description": "...", "size": 1, "health": 253, "requirements": [{"item": "xavidu", "amount": 9}, {"item": "nuzivo", "amount": 8}, {"item": "yymujy", "amount": 6}], "research": "xavidu-factory", "maxNodes": 28, "laserRange": 10, "category": "power"}

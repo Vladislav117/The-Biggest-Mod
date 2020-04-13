@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mucige inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "mucige", "amount": 2}, {"item": "heda", "amount": 5}], "research": "mucige-conveyor", "category": "distribution", "invert": true}

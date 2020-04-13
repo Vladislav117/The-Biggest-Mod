@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sidibu solar panel", "description": "...", "size": 3, "health": 102, "requirements": [{"item": "sidibu", "amount": 19}, {"item": "pynebi", "amount": 4}, {"item": "nazananium", "amount": 9}], "research": "sidibu-factory", "powerProduction": 5.2876316675534065, "category": "power"}

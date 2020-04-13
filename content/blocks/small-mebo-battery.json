@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mebo battery", "description": "...", "size": 1, "health": 310, "requirements": [{"item": "mebo", "amount": 7}, {"item": "sudu", "amount": 7}, {"item": "milu", "amount": 9}], "research": "mebo-factory", "consumes": {"powerBuffered": 2181}, "category": "power"}

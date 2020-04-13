@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "temyfu liquid tank", "description": "...", "health": 126, "size": 3, "requirements": [{"item": "temyfu", "amount": 7}, {"item": "wutigo", "amount": 11}, {"item": "myvava", "amount": 5}], "research": "temyfu-conduit", "category": "liquid", "liquidCapacity": 5550, "hasLiquids": true}

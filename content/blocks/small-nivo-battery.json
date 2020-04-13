@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nivo battery", "description": "...", "size": 1, "health": 382, "requirements": [{"item": "nivo", "amount": 16}, {"item": "sebobe", "amount": 3}, {"item": "wafe", "amount": 6}], "research": "nivo-factory", "consumes": {"powerBuffered": 2146}, "category": "power"}

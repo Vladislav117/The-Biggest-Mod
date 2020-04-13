@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "soma conduit", "description": "...", "health": 124, "requirements": [{"item": "soma", "amount": 19}, {"item": "ceyi", "amount": 11}, {"item": "ciqi", "amount": 8}], "liquidCapacity": 28, "liquidPressure": 3, "research": "soma-factory", "category": "liquid"}

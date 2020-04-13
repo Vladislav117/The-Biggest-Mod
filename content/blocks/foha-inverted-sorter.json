@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "foha inverted sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "foha", "amount": 5}, {"item": "xecy", "amount": 3}], "research": "foha-conveyor", "category": "distribution", "invert": true}

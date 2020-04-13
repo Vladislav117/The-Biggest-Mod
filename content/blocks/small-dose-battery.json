@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dose battery", "description": "...", "size": 1, "health": 370, "requirements": [{"item": "dose", "amount": 17}, {"item": "foli", "amount": 9}, {"item": "fypizy", "amount": 2}], "research": "dose-factory", "consumes": {"powerBuffered": 1538}, "category": "power"}

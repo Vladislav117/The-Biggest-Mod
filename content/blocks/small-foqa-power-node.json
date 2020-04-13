@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small foqa power node", "description": "...", "size": 1, "health": 109, "requirements": [{"item": "foqa", "amount": 7}, {"item": "saqe", "amount": 15}, {"item": "fenu", "amount": 1}], "research": "foqa-factory", "maxNodes": 9, "laserRange": 3, "category": "power"}

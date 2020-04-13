@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "budo power node", "description": "...", "size": 2, "health": 317, "requirements": [{"item": "budo", "amount": 20}, {"item": "tumine", "amount": 18}, {"item": "bupe", "amount": 8}], "research": "budo-factory", "maxNodes": 58, "laserRange": 28, "category": "power"}

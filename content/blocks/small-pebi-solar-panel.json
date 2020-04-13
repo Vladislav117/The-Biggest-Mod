@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pebi solar panel", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "pebi", "amount": 4}, {"item": "xeco", "amount": 8}, {"item": "sytafe", "amount": 1}], "research": "pebi-factory", "powerProduction": 0.5204849001874601, "category": "power"}

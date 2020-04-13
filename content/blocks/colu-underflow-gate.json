@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "colu underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "colu", "amount": 1}, {"item": "biqa", "amount": 1}], "research": "colu-conveyor", "category": "distribution", "invert": false}

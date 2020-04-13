@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "soda sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "soda", "amount": 1}, {"item": "jarovu", "amount": 5}], "research": "soda-conveyor", "category": "distribution", "invert": false}

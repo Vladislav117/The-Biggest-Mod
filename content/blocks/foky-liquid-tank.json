@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "foky liquid tank", "description": "...", "health": 385, "size": 3, "requirements": [{"item": "foky", "amount": 13}, {"item": "jyzywy", "amount": 13}, {"item": "yito", "amount": 1}], "research": "foky-conduit", "category": "liquid", "liquidCapacity": 33335, "hasLiquids": true}

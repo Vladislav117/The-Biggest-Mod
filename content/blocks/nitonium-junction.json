@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nitonium junction", "description": "...", "health": 8, "speed": 19, "capacity": 15, "size": 1, "requirements": [{"item": "nitonium", "amount": 3}, {"item": "dywo", "amount": 2}], "research": "nitonium-conveyor", "category": "distribution"}

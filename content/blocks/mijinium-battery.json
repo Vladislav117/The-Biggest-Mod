@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mijinium battery", "description": "...", "size": 3, "health": 116, "requirements": [{"item": "mijinium", "amount": 4}, {"item": "nataki", "amount": 2}, {"item": "dipy", "amount": 10}], "research": "mijinium-factory", "consumes": {"powerBuffered": 5181}, "category": "power"}

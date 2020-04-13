@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "hocona overdrive projector", "description": "...", "health": 92, "consumes": {"power": 3.0, "item": "hocona"}, "size": 2, "requirements": [{"item": "hocona", "amount": 3}, {"item": "hozanium", "amount": 13}, {"item": "nuno", "amount": 8}], "research": "hocona-factory", "category": "effect"}

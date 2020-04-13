@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nuyo conduit", "description": "...", "health": 131, "requirements": [{"item": "nuyo", "amount": 20}, {"item": "wicy", "amount": 4}, {"item": "zigy", "amount": 7}], "liquidCapacity": 25, "liquidPressure": 1, "research": "nuyo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyganium liquid tank", "description": "...", "health": 311, "size": 3, "requirements": [{"item": "zyganium", "amount": 17}, {"item": "fana", "amount": 7}, {"item": "xayenium", "amount": 4}], "research": "zyganium-conduit", "category": "liquid", "liquidCapacity": 53823, "hasLiquids": true}

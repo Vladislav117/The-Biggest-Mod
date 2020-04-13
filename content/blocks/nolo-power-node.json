@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nolo power node", "description": "...", "size": 2, "health": 256, "requirements": [{"item": "nolo", "amount": 17}, {"item": "hyfeho", "amount": 17}, {"item": "tydy", "amount": 4}], "research": "nolo-factory", "maxNodes": 40, "laserRange": 8, "category": "power"}

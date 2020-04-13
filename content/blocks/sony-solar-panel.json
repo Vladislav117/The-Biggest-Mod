@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sony solar panel", "description": "...", "size": 3, "health": 258, "requirements": [{"item": "sony", "amount": 4}, {"item": "cysobe", "amount": 14}, {"item": "wozo", "amount": 3}], "research": "sony-factory", "powerProduction": 3.0488518254059156, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "foho junction", "description": "...", "health": 20, "speed": 5, "capacity": 15, "size": 1, "requirements": [{"item": "foho", "amount": 4}, {"item": "nitonium", "amount": 4}], "research": "foho-conveyor", "category": "distribution"}

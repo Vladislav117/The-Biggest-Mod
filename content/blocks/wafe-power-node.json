@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wafe power node", "description": "...", "size": 2, "health": 60, "requirements": [{"item": "wafe", "amount": 2}, {"item": "hogazanium", "amount": 11}, {"item": "kilu", "amount": 9}], "research": "wafe-factory", "maxNodes": 19, "laserRange": 27, "category": "power"}

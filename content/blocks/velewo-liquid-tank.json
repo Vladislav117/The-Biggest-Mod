@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "velewo liquid tank", "description": "...", "health": 498, "size": 3, "requirements": [{"item": "velewo", "amount": 8}, {"item": "byhonium", "amount": 6}, {"item": "hufema", "amount": 3}], "research": "velewo-conduit", "category": "liquid", "liquidCapacity": 45904, "hasLiquids": true}

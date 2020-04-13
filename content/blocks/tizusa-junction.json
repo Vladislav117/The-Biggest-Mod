@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tizusa junction", "description": "...", "health": 32, "speed": 11, "capacity": 8, "size": 1, "requirements": [{"item": "tizusa", "amount": 1}, {"item": "taja", "amount": 5}], "research": "tizusa-conveyor", "category": "distribution"}

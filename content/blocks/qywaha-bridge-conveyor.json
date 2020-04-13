@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qywaha bridge conveyor", "description": "", "health": 39, "range": 3, "speed": 19, "bufferCapacity": 15, "requirements": [{"item": "qywaha", "amount": 2}, {"item": "yisi", "amount": 2}], "research": "qywaha-conveyor", "category": "distribution", "size": 1}

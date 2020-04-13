@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zyzuha solar panel", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "zyzuha", "amount": 12}, {"item": "dyji", "amount": 14}, {"item": "zonufu", "amount": 8}], "research": "zyzuha-factory", "powerProduction": 2.8632460011603493, "category": "power"}

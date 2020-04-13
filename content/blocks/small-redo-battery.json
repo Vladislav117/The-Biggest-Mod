@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small redo battery", "description": "...", "size": 1, "health": 121, "requirements": [{"item": "redo", "amount": 20}, {"item": "monobu", "amount": 12}, {"item": "ciqi", "amount": 10}], "research": "redo-factory", "consumes": {"powerBuffered": 1517}, "category": "power"}

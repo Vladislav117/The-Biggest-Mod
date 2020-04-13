@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "josixu bridge conveyor", "description": "", "health": 28, "range": 16, "speed": 19, "bufferCapacity": 21, "requirements": [{"item": "josixu", "amount": 2}, {"item": "lavysunium", "amount": 2}], "research": "josixu-conveyor", "category": "distribution", "size": 1}

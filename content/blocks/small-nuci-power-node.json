@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nuci power node", "description": "...", "size": 1, "health": 270, "requirements": [{"item": "nuci", "amount": 18}, {"item": "qyhi", "amount": 3}, {"item": "sylyxy", "amount": 10}], "research": "nuci-factory", "maxNodes": 18, "laserRange": 10, "category": "power"}

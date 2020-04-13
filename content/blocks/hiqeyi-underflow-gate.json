@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hiqeyi underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "hiqeyi", "amount": 4}, {"item": "fyfe", "amount": 5}], "research": "hiqeyi-conveyor", "category": "distribution", "invert": false}

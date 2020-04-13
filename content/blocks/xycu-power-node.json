@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xycu power node", "description": "...", "size": 2, "health": 521, "requirements": [{"item": "xycu", "amount": 10}, {"item": "yifi", "amount": 20}, {"item": "payo", "amount": 3}], "research": "xycu-factory", "maxNodes": 37, "laserRange": 11, "category": "power"}

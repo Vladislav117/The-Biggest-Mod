@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kupele drill", "description": "...", "size": 4, "health": 120, "tier": 1, "drillTime": 3, "consumes": {"power": 8}, "requirements": [{"item": "kupele", "amount": 7}, {"item": "jatyjenium", "amount": 12}, {"item": "zadajo", "amount": 7}], "research": "kupele-factory", "category": "production"}

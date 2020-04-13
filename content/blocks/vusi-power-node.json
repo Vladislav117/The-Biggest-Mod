@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vusi power node", "description": "...", "size": 2, "health": 467, "requirements": [{"item": "vusi", "amount": 17}, {"item": "typi", "amount": 16}, {"item": "miqomy", "amount": 2}], "research": "vusi-factory", "maxNodes": 42, "laserRange": 22, "category": "power"}

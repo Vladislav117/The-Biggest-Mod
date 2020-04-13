@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nivefu sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "nivefu", "amount": 1}, {"item": "yify", "amount": 2}], "research": "nivefu-conveyor", "category": "distribution", "invert": false}

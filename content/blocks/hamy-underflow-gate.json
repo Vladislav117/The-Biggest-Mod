@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hamy underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "hamy", "amount": 4}, {"item": "qiga", "amount": 3}], "research": "hamy-conveyor", "category": "distribution", "invert": false}

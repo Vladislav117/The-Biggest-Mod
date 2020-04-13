@@ -1,0 +1,1 @@
+{"type": "battery", "name": "refoty battery", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "refoty", "amount": 20}, {"item": "macixy", "amount": 12}, {"item": "beweya", "amount": 7}], "research": "refoty-factory", "consumes": {"powerBuffered": 5601}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small toma power node", "description": "...", "size": 1, "health": 124, "requirements": [{"item": "toma", "amount": 12}, {"item": "yebyte", "amount": 14}, {"item": "bogovy", "amount": 9}], "research": "toma-factory", "maxNodes": 30, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kuye battery", "description": "...", "size": 3, "health": 103, "requirements": [{"item": "kuye", "amount": 17}, {"item": "vuvy", "amount": 12}, {"item": "wapo", "amount": 7}], "research": "kuye-factory", "consumes": {"powerBuffered": 8351}, "category": "power"}

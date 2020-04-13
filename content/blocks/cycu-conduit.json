@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cycu conduit", "description": "...", "health": 189, "requirements": [{"item": "cycu", "amount": 4}, {"item": "duqu", "amount": 2}, {"item": "nepysi", "amount": 3}], "liquidCapacity": 49, "liquidPressure": 0, "research": "cycu-factory", "category": "liquid"}

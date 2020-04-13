@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rijago conduit", "description": "...", "health": 56, "requirements": [{"item": "rijago", "amount": 2}, {"item": "yyvenium", "amount": 11}, {"item": "zygebynium", "amount": 6}], "liquidCapacity": 39, "liquidPressure": 5, "research": "rijago-factory", "category": "liquid"}

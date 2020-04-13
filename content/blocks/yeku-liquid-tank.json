@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yeku liquid tank", "description": "...", "health": 223, "size": 3, "requirements": [{"item": "yeku", "amount": 9}, {"item": "kelurynium", "amount": 6}, {"item": "xeye", "amount": 5}], "research": "yeku-conduit", "category": "liquid", "liquidCapacity": 56228, "hasLiquids": true}

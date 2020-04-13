@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "padi underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "padi", "amount": 3}, {"item": "qiposa", "amount": 5}], "research": "padi-conveyor", "category": "distribution", "invert": false}

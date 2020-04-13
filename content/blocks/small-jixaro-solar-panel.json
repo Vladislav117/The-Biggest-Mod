@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jixaro solar panel", "description": "...", "size": 1, "health": 152, "requirements": [{"item": "jixaro", "amount": 2}, {"item": "dyda", "amount": 4}, {"item": "weka", "amount": 7}], "research": "jixaro-factory", "powerProduction": 0.17157079045986942, "category": "power"}

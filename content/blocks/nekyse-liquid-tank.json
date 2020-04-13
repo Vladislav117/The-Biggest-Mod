@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nekyse liquid tank", "description": "...", "health": 530, "size": 3, "requirements": [{"item": "nekyse", "amount": 1}, {"item": "xuqi", "amount": 17}, {"item": "lovy", "amount": 8}], "research": "nekyse-conduit", "category": "liquid", "liquidCapacity": 12853, "hasLiquids": true}

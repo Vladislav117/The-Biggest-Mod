@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dexasa inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "dexasa", "amount": 3}, {"item": "mife", "amount": 4}], "research": "dexasa-conveyor", "category": "distribution", "invert": true}

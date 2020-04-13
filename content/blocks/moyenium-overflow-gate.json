@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "moyenium overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "moyenium", "amount": 4}, {"item": "heso", "amount": 2}], "research": "moyenium-conveyor", "category": "distribution", "invert": false}

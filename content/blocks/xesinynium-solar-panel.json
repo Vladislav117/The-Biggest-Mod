@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xesinynium solar panel", "description": "...", "size": 3, "health": 40, "requirements": [{"item": "xesinynium", "amount": 5}, {"item": "wywelu", "amount": 18}, {"item": "cawawo", "amount": 4}], "research": "xesinynium-factory", "powerProduction": 0.40778731470744906, "category": "power"}

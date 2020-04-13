@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyma liquid tank", "description": "...", "health": 292, "size": 3, "requirements": [{"item": "kyma", "amount": 15}, {"item": "bawy", "amount": 6}, {"item": "lyva", "amount": 4}], "research": "kyma-conduit", "category": "liquid", "liquidCapacity": 88253, "hasLiquids": true}

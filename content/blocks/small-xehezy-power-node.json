@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xehezy power node", "description": "...", "size": 1, "health": 381, "requirements": [{"item": "xehezy", "amount": 3}, {"item": "qadoyenium", "amount": 6}, {"item": "humynium", "amount": 10}], "research": "xehezy-factory", "maxNodes": 19, "laserRange": 4, "category": "power"}

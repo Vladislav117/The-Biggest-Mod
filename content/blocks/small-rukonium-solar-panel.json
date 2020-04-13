@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rukonium solar panel", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "rukonium", "amount": 7}, {"item": "rateju", "amount": 9}, {"item": "nayevynium", "amount": 4}], "research": "rukonium-factory", "powerProduction": 3.644785426732156, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tunonu bridge conveyor", "description": "", "health": 39, "range": 8, "speed": 11, "bufferCapacity": 17, "requirements": [{"item": "tunonu", "amount": 2}, {"item": "yalaka", "amount": 2}], "research": "tunonu-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zotonium solar panel", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "zotonium", "amount": 13}, {"item": "gizomanium", "amount": 12}, {"item": "zuwydy", "amount": 1}], "research": "zotonium-factory", "powerProduction": 0.021044237612272552, "category": "power"}

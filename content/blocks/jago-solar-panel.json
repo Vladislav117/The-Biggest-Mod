@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jago solar panel", "description": "...", "size": 3, "health": 350, "requirements": [{"item": "jago", "amount": 6}, {"item": "vyvuqy", "amount": 9}, {"item": "luzinium", "amount": 7}], "research": "jago-factory", "powerProduction": 0.008914528732669694, "category": "power"}

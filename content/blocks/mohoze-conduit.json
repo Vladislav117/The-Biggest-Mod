@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mohoze conduit", "description": "...", "health": 171, "requirements": [{"item": "mohoze", "amount": 2}, {"item": "jumonium", "amount": 12}, {"item": "mebo", "amount": 7}], "liquidCapacity": 16, "liquidPressure": 7, "research": "mohoze-factory", "category": "liquid"}

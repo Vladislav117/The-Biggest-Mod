@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xuvogi junction", "description": "...", "health": 44, "speed": 18, "capacity": 1, "size": 1, "requirements": [{"item": "xuvogi", "amount": 5}, {"item": "goriwi", "amount": 2}], "research": "xuvogi-conveyor", "category": "distribution"}

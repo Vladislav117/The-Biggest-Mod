@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vafa solar panel", "description": "...", "size": 1, "health": 184, "requirements": [{"item": "vafa", "amount": 7}, {"item": "cazewy", "amount": 11}, {"item": "hagi", "amount": 2}], "research": "vafa-factory", "powerProduction": 8.933064785368297, "category": "power"}

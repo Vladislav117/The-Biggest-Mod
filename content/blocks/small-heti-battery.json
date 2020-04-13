@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small heti battery", "description": "...", "size": 1, "health": 129, "requirements": [{"item": "heti", "amount": 19}, {"item": "hyxunium", "amount": 13}, {"item": "pyxoxanium", "amount": 8}], "research": "heti-factory", "consumes": {"powerBuffered": 2303}, "category": "power"}

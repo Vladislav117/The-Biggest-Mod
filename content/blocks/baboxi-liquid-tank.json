@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "baboxi liquid tank", "description": "...", "health": 137, "size": 3, "requirements": [{"item": "baboxi", "amount": 13}, {"item": "yuwu", "amount": 19}, {"item": "hyryhinium", "amount": 6}], "research": "baboxi-conduit", "category": "liquid", "liquidCapacity": 1581, "hasLiquids": true}

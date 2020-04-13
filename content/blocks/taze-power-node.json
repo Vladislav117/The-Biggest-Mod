@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "taze power node", "description": "...", "size": 2, "health": 111, "requirements": [{"item": "taze", "amount": 5}, {"item": "nuso", "amount": 20}, {"item": "dogequ", "amount": 1}], "research": "taze-factory", "maxNodes": 49, "laserRange": 5, "category": "power"}

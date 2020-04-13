@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kuye power node", "description": "...", "size": 2, "health": 640, "requirements": [{"item": "kuye", "amount": 14}, {"item": "wecoci", "amount": 14}, {"item": "fexaja", "amount": 8}], "research": "kuye-factory", "maxNodes": 48, "laserRange": 26, "category": "power"}

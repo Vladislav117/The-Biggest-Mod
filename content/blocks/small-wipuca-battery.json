@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wipuca battery", "description": "...", "size": 1, "health": 126, "requirements": [{"item": "wipuca", "amount": 5}, {"item": "gafedonium", "amount": 16}, {"item": "bopu", "amount": 6}], "research": "wipuca-factory", "consumes": {"powerBuffered": 2084}, "category": "power"}

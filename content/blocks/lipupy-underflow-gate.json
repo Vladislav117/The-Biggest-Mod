@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lipupy underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "lipupy", "amount": 5}, {"item": "rylyki", "amount": 5}], "research": "lipupy-conveyor", "category": "distribution", "invert": false}

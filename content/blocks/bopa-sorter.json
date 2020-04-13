@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bopa sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "bopa", "amount": 5}, {"item": "xapu", "amount": 3}], "research": "bopa-conveyor", "category": "distribution", "invert": false}

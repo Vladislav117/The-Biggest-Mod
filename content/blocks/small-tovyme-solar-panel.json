@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tovyme solar panel", "description": "...", "size": 1, "health": 94, "requirements": [{"item": "tovyme", "amount": 16}, {"item": "yejicunium", "amount": 14}, {"item": "leyoqo", "amount": 9}], "research": "tovyme-factory", "powerProduction": 0.2894960841578513, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "piqori bridge conveyor", "description": "", "health": 35, "range": 18, "speed": 2, "bufferCapacity": 13, "requirements": [{"item": "piqori", "amount": 3}, {"item": "waha", "amount": 5}], "research": "piqori-conveyor", "category": "distribution", "size": 1}

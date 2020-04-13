@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qaxi solar panel", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "qaxi", "amount": 8}, {"item": "kerizu", "amount": 19}, {"item": "citygo", "amount": 9}], "research": "qaxi-factory", "powerProduction": 0.06878306265981621, "category": "power"}

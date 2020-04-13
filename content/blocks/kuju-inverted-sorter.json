@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kuju inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "kuju", "amount": 5}, {"item": "tyjexanium", "amount": 5}], "research": "kuju-conveyor", "category": "distribution", "invert": true}

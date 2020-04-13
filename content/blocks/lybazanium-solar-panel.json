@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lybazanium solar panel", "description": "...", "size": 3, "health": 34, "requirements": [{"item": "lybazanium", "amount": 9}, {"item": "jyluba", "amount": 16}, {"item": "qixu", "amount": 6}], "research": "lybazanium-factory", "powerProduction": 8.157471857618232, "category": "power"}

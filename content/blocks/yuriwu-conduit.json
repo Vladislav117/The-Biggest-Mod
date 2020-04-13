@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yuriwu conduit", "description": "...", "health": 147, "requirements": [{"item": "yuriwu", "amount": 5}, {"item": "yebyte", "amount": 1}, {"item": "wicapy", "amount": 8}], "liquidCapacity": 42, "liquidPressure": 2, "research": "yuriwu-factory", "category": "liquid"}

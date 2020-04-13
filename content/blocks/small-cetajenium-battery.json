@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cetajenium battery", "description": "...", "size": 1, "health": 138, "requirements": [{"item": "cetajenium", "amount": 3}, {"item": "kima", "amount": 12}, {"item": "vego", "amount": 8}], "research": "cetajenium-factory", "consumes": {"powerBuffered": 1800}, "category": "power"}

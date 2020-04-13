@@ -1,0 +1,1 @@
+{"type": "battery", "name": "voky battery", "description": "...", "size": 3, "health": 20, "requirements": [{"item": "voky", "amount": 12}, {"item": "dipewanium", "amount": 20}, {"item": "zocumo", "amount": 8}], "research": "voky-factory", "consumes": {"powerBuffered": 5279}, "category": "power"}

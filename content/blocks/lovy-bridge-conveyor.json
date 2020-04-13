@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lovy bridge conveyor", "description": "", "health": 10, "range": 17, "speed": 5, "bufferCapacity": 20, "requirements": [{"item": "lovy", "amount": 3}, {"item": "pyzemu", "amount": 3}], "research": "lovy-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yanu junction", "description": "...", "health": 30, "speed": 17, "capacity": 8, "size": 1, "requirements": [{"item": "yanu", "amount": 2}, {"item": "gozefynium", "amount": 4}], "research": "yanu-conveyor", "category": "distribution"}

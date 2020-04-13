@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yidude solar panel", "description": "...", "size": 3, "health": 269, "requirements": [{"item": "yidude", "amount": 12}, {"item": "cyqanium", "amount": 14}, {"item": "kaye", "amount": 10}], "research": "yidude-factory", "powerProduction": 0.3091120700995215, "category": "power"}

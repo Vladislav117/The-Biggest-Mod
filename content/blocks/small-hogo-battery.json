@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hogo battery", "description": "...", "size": 1, "health": 157, "requirements": [{"item": "hogo", "amount": 13}, {"item": "yucy", "amount": 11}, {"item": "pupe", "amount": 2}], "research": "hogo-factory", "consumes": {"powerBuffered": 750}, "category": "power"}

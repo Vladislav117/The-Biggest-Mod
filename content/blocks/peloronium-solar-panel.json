@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "peloronium solar panel", "description": "...", "size": 3, "health": 50, "requirements": [{"item": "peloronium", "amount": 15}, {"item": "naku", "amount": 18}, {"item": "sofowo", "amount": 7}], "research": "peloronium-factory", "powerProduction": 0.15007742374571703, "category": "power"}

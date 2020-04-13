@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "giqiju sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "giqiju", "amount": 1}, {"item": "puhu", "amount": 3}], "research": "giqiju-conveyor", "category": "distribution", "invert": false}

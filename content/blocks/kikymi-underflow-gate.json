@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kikymi underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "kikymi", "amount": 1}, {"item": "demu", "amount": 2}], "research": "kikymi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cywa battery", "description": "...", "size": 3, "health": 201, "requirements": [{"item": "cywa", "amount": 14}, {"item": "hebohy", "amount": 14}, {"item": "huxonium", "amount": 10}], "research": "cywa-factory", "consumes": {"powerBuffered": 5240}, "category": "power"}

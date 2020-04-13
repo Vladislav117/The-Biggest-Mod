@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nelose conduit", "description": "...", "health": 149, "requirements": [{"item": "nelose", "amount": 20}, {"item": "bawy", "amount": 10}, {"item": "tivo", "amount": 10}], "liquidCapacity": 7, "liquidPressure": 0, "research": "nelose-factory", "category": "liquid"}

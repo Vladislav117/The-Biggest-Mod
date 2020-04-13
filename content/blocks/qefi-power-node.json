@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qefi power node", "description": "...", "size": 2, "health": 345, "requirements": [{"item": "qefi", "amount": 14}, {"item": "kiqe", "amount": 4}, {"item": "noxoqanium", "amount": 5}], "research": "qefi-factory", "maxNodes": 21, "laserRange": 19, "category": "power"}

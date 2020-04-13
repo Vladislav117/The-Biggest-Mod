@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yajawa battery", "description": "...", "size": 3, "health": 78, "requirements": [{"item": "yajawa", "amount": 7}, {"item": "nifego", "amount": 15}, {"item": "tomufa", "amount": 6}], "research": "yajawa-factory", "consumes": {"powerBuffered": 8844}, "category": "power"}

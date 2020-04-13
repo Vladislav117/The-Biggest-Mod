@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "bulile force projector", "description": "...", "health": 180, "size": 3, "consumes": {"power": 5.0, "item": "bulile"}, "requirements": [{"item": "bulile", "amount": 16}, {"item": "sofowo", "amount": 13}, {"item": "wajese", "amount": 2}], "research": "bulile-factory", "category": "effect"}

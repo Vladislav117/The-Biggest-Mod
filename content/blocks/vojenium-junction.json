@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vojenium junction", "description": "...", "health": 7, "speed": 3, "capacity": 16, "size": 1, "requirements": [{"item": "vojenium", "amount": 5}, {"item": "jayi", "amount": 5}], "research": "vojenium-conveyor", "category": "distribution"}

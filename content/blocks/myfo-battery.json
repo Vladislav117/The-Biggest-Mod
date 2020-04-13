@@ -1,0 +1,1 @@
+{"type": "battery", "name": "myfo battery", "description": "...", "size": 3, "health": 342, "requirements": [{"item": "myfo", "amount": 19}, {"item": "cozaxo", "amount": 17}, {"item": "vuzoha", "amount": 7}], "research": "myfo-factory", "consumes": {"powerBuffered": 5447}, "category": "power"}

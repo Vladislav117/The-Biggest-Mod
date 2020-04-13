@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "terepy conveyor", "description": "...", "health": 200, "requirements": [{"item": "terepy", "amount": 8}, {"item": "vakaco", "amount": 1}], "speed": 0.25522503183821554, "research": "terepy-factory", "category": "distribution"}

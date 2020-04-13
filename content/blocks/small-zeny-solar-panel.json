@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zeny solar panel", "description": "...", "size": 1, "health": 24, "requirements": [{"item": "zeny", "amount": 9}, {"item": "walinium", "amount": 18}, {"item": "koyixa", "amount": 2}], "research": "zeny-factory", "powerProduction": 1.5185750178347275, "category": "power"}

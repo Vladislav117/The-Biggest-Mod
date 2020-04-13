@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "raqy inverted sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "raqy", "amount": 1}, {"item": "metadu", "amount": 4}], "research": "raqy-conveyor", "category": "distribution", "invert": true}

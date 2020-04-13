@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rihonium liquid tank", "description": "...", "health": 223, "size": 3, "requirements": [{"item": "rihonium", "amount": 17}, {"item": "huxo", "amount": 16}, {"item": "tere", "amount": 3}], "research": "rihonium-conduit", "category": "liquid", "liquidCapacity": 10361, "hasLiquids": true}

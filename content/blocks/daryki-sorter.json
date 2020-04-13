@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "daryki sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "daryki", "amount": 3}, {"item": "vuciby", "amount": 1}], "research": "daryki-conveyor", "category": "distribution", "invert": false}

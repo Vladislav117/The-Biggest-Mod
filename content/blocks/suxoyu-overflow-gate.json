@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "suxoyu overflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "suxoyu", "amount": 4}, {"item": "xylidinium", "amount": 1}], "research": "suxoyu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qode solar panel", "description": "...", "size": 1, "health": 137, "requirements": [{"item": "qode", "amount": 18}, {"item": "fika", "amount": 18}, {"item": "nydinium", "amount": 8}], "research": "qode-factory", "powerProduction": 2.613845818795288, "category": "power"}

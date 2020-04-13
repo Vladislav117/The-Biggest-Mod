@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rufi battery", "description": "...", "size": 1, "health": 146, "requirements": [{"item": "rufi", "amount": 11}, {"item": "qovy", "amount": 11}, {"item": "sato", "amount": 9}], "research": "rufi-factory", "consumes": {"powerBuffered": 2013}, "category": "power"}

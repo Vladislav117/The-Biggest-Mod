@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "liyu liquid tank", "description": "...", "health": 280, "size": 3, "requirements": [{"item": "liyu", "amount": 3}, {"item": "rita", "amount": 20}, {"item": "rapenium", "amount": 3}], "research": "liyu-conduit", "category": "liquid", "liquidCapacity": 108882, "hasLiquids": true}

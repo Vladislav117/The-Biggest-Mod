@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kilenium conduit", "description": "...", "health": 170, "requirements": [{"item": "kilenium", "amount": 10}, {"item": "jyya", "amount": 1}, {"item": "nulinium", "amount": 4}], "liquidCapacity": 3, "liquidPressure": 4, "research": "kilenium-factory", "category": "liquid"}

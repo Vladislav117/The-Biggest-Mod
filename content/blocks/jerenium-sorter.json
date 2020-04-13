@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jerenium sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "jerenium", "amount": 2}, {"item": "qeka", "amount": 5}], "research": "jerenium-conveyor", "category": "distribution", "invert": false}

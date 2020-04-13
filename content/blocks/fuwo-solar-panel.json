@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fuwo solar panel", "description": "...", "size": 3, "health": 49, "requirements": [{"item": "fuwo", "amount": 9}, {"item": "socyhi", "amount": 3}, {"item": "dycimi", "amount": 8}], "research": "fuwo-factory", "powerProduction": 0.19303123536842745, "category": "power"}

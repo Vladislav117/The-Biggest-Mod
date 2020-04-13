@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "ninyfe force projector", "description": "...", "health": 140, "size": 3, "consumes": {"power": 5.0, "item": "ninyfe"}, "requirements": [{"item": "ninyfe", "amount": 7}, {"item": "noxoginium", "amount": 10}, {"item": "codaxe", "amount": 9}], "research": "ninyfe-factory", "category": "effect"}

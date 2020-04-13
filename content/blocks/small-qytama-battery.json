@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qytama battery", "description": "...", "size": 1, "health": 96, "requirements": [{"item": "qytama", "amount": 4}, {"item": "tybunium", "amount": 20}, {"item": "rupiwunium", "amount": 9}], "research": "qytama-factory", "consumes": {"powerBuffered": 1248}, "category": "power"}

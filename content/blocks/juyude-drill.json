@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "juyude drill", "description": "...", "size": 3, "health": 413, "tier": 1, "drillTime": 16, "consumes": {"power": 1}, "requirements": [{"item": "juyude", "amount": 6}, {"item": "labonium", "amount": 6}, {"item": "tate", "amount": 8}], "research": "juyude-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gumuto liquid router", "description": "...", "size": 1, "health": 97, "requirements": [{"item": "gumuto", "amount": 16}, {"item": "teda", "amount": 19}, {"item": "vogeco", "amount": 2}], "research": "gumuto-conduit", "liquidCapacity": 10, "category": "liquid"}

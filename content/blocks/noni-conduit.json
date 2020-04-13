@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "noni conduit", "description": "...", "health": 26, "requirements": [{"item": "noni", "amount": 8}, {"item": "tayi", "amount": 10}, {"item": "tove", "amount": 9}], "liquidCapacity": 11, "liquidPressure": 0, "research": "noni-factory", "category": "liquid"}

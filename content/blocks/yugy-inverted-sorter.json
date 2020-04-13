@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yugy inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "yugy", "amount": 5}, {"item": "dyco", "amount": 2}], "research": "yugy-conveyor", "category": "distribution", "invert": true}

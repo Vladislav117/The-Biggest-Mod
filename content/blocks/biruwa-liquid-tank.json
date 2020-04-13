@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "biruwa liquid tank", "description": "...", "health": 286, "size": 3, "requirements": [{"item": "biruwa", "amount": 19}, {"item": "nisynu", "amount": 17}, {"item": "nyvu", "amount": 9}], "research": "biruwa-conduit", "category": "liquid", "liquidCapacity": 109575, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fodu liquid tank", "description": "...", "health": 269, "size": 3, "requirements": [{"item": "fodu", "amount": 9}, {"item": "cobi", "amount": 6}, {"item": "fukapinium", "amount": 2}], "research": "fodu-conduit", "category": "liquid", "liquidCapacity": 18797, "hasLiquids": true}

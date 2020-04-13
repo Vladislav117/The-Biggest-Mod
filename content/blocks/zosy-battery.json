@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zosy battery", "description": "...", "size": 3, "health": 293, "requirements": [{"item": "zosy", "amount": 13}, {"item": "vohiyynium", "amount": 20}, {"item": "sebobe", "amount": 8}], "research": "zosy-factory", "consumes": {"powerBuffered": 6398}, "category": "power"}

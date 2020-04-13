@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "seyo conduit", "description": "...", "health": 90, "requirements": [{"item": "seyo", "amount": 16}, {"item": "wylobo", "amount": 13}, {"item": "gypupe", "amount": 5}], "liquidCapacity": 50, "liquidPressure": 0, "research": "seyo-factory", "category": "liquid"}

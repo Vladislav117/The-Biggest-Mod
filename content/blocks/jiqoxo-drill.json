@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jiqoxo drill", "description": "...", "size": 2, "health": 387, "tier": 1, "drillTime": 3, "consumes": {"power": 12}, "requirements": [{"item": "jiqoxo", "amount": 20}, {"item": "xurenium", "amount": 5}, {"item": "kygarynium", "amount": 3}], "research": "jiqoxo-factory", "category": "production"}

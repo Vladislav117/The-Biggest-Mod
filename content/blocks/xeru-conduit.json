@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xeru conduit", "description": "...", "health": 37, "requirements": [{"item": "xeru", "amount": 20}, {"item": "xuserynium", "amount": 11}, {"item": "paqupy", "amount": 6}], "liquidCapacity": 31, "liquidPressure": 3, "research": "xeru-factory", "category": "liquid"}

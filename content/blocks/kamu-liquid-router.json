@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kamu liquid router", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "kamu", "amount": 7}, {"item": "gebi", "amount": 8}, {"item": "kynesi", "amount": 2}], "research": "kamu-conduit", "liquidCapacity": 10, "category": "liquid"}

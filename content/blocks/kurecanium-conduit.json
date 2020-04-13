@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kurecanium conduit", "description": "...", "health": 92, "requirements": [{"item": "kurecanium", "amount": 13}, {"item": "titanium", "amount": 9}, {"item": "fogodo", "amount": 10}], "liquidCapacity": 28, "liquidPressure": 8, "research": "kurecanium-factory", "category": "liquid"}

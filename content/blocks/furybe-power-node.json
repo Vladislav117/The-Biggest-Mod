@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "furybe power node", "description": "...", "size": 2, "health": 639, "requirements": [{"item": "furybe", "amount": 6}, {"item": "vaso", "amount": 12}, {"item": "wozego", "amount": 1}], "research": "furybe-factory", "maxNodes": 55, "laserRange": 19, "category": "power"}

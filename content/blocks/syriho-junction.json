@@ -1,0 +1,1 @@
+{"type": "junction", "name": "syriho junction", "description": "...", "health": 26, "speed": 12, "capacity": 3, "size": 1, "requirements": [{"item": "syriho", "amount": 3}, {"item": "qigine", "amount": 4}], "research": "syriho-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "julu liquid router", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "julu", "amount": 1}, {"item": "wypy", "amount": 11}, {"item": "tehepy", "amount": 9}], "research": "julu-conduit", "liquidCapacity": 10, "category": "liquid"}

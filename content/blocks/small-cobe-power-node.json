@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cobe power node", "description": "...", "size": 1, "health": 341, "requirements": [{"item": "cobe", "amount": 12}, {"item": "vapu", "amount": 7}, {"item": "webebu", "amount": 4}], "research": "cobe-factory", "maxNodes": 24, "laserRange": 3, "category": "power"}

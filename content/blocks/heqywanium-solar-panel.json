@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "heqywanium solar panel", "description": "...", "size": 3, "health": 341, "requirements": [{"item": "heqywanium", "amount": 3}, {"item": "metaglass", "amount": 15}, {"item": "vewavu", "amount": 8}], "research": "heqywanium-factory", "powerProduction": 0.19099525194868866, "category": "power"}

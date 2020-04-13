@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yuwu power node", "description": "...", "size": 1, "health": 269, "requirements": [{"item": "yuwu", "amount": 12}, {"item": "nejunium", "amount": 6}, {"item": "luvaji", "amount": 4}], "research": "yuwu-factory", "maxNodes": 10, "laserRange": 15, "category": "power"}

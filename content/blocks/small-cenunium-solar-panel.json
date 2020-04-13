@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cenunium solar panel", "description": "...", "size": 1, "health": 284, "requirements": [{"item": "cenunium", "amount": 16}, {"item": "nexojo", "amount": 2}, {"item": "ruwucynium", "amount": 4}], "research": "cenunium-factory", "powerProduction": 0.24699893596550443, "category": "power"}

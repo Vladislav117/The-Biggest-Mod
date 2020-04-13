@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ruxa overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "ruxa", "amount": 2}, {"item": "xedorinium", "amount": 1}], "research": "ruxa-conveyor", "category": "distribution", "invert": false}

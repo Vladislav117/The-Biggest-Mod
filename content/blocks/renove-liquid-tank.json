@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "renove liquid tank", "description": "...", "health": 575, "size": 3, "requirements": [{"item": "renove", "amount": 13}, {"item": "lane", "amount": 14}, {"item": "hedi", "amount": 2}], "research": "renove-conduit", "category": "liquid", "liquidCapacity": 100742, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cuda overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "cuda", "amount": 1}, {"item": "tezila", "amount": 1}], "research": "cuda-conveyor", "category": "distribution", "invert": false}

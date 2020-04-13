@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cigifi solar panel", "description": "...", "size": 3, "health": 198, "requirements": [{"item": "cigifi", "amount": 9}, {"item": "kosonium", "amount": 20}, {"item": "hetyjo", "amount": 2}], "research": "cigifi-factory", "powerProduction": 3.3645456220966974, "category": "power"}

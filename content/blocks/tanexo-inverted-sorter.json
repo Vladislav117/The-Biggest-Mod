@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tanexo inverted sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "tanexo", "amount": 2}, {"item": "zufo", "amount": 4}], "research": "tanexo-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tozenium power node", "description": "...", "size": 2, "health": 745, "requirements": [{"item": "tozenium", "amount": 1}, {"item": "ciwiwa", "amount": 7}, {"item": "nifego", "amount": 9}], "research": "tozenium-factory", "maxNodes": 39, "laserRange": 13, "category": "power"}

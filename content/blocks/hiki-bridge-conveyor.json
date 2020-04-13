@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hiki bridge conveyor", "description": "", "health": 38, "range": 3, "speed": 11, "bufferCapacity": 20, "requirements": [{"item": "hiki", "amount": 4}, {"item": "gotomy", "amount": 1}], "research": "hiki-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "tefaco force projector", "description": "...", "health": 206, "size": 3, "consumes": {"power": 5.0, "item": "tefaco"}, "requirements": [{"item": "tefaco", "amount": 6}, {"item": "byja", "amount": 3}, {"item": "yebyte", "amount": 3}], "research": "tefaco-factory", "category": "effect"}

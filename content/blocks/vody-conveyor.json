@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "vody conveyor", "description": "...", "health": 171, "requirements": [{"item": "vody", "amount": 5}, {"item": "hofaju", "amount": 9}], "speed": 0.029278973491752514, "research": "vody-factory", "category": "distribution"}

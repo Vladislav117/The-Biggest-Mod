@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cuda solar panel", "description": "...", "size": 1, "health": 347, "requirements": [{"item": "cuda", "amount": 11}, {"item": "yepy", "amount": 10}, {"item": "xylu", "amount": 5}], "research": "cuda-factory", "powerProduction": 8.436231875437766, "category": "power"}

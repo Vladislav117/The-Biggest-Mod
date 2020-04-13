@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lyvewenium power node", "description": "...", "size": 2, "health": 772, "requirements": [{"item": "lyvewenium", "amount": 12}, {"item": "kobocunium", "amount": 6}, {"item": "sacigi", "amount": 2}], "research": "lyvewenium-factory", "maxNodes": 27, "laserRange": 29, "category": "power"}

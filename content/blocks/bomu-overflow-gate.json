@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bomu overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "bomu", "amount": 5}, {"item": "riyo", "amount": 5}], "research": "bomu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "joky battery", "description": "...", "size": 3, "health": 194, "requirements": [{"item": "joky", "amount": 5}, {"item": "xikogo", "amount": 14}, {"item": "cixe", "amount": 8}], "research": "joky-factory", "consumes": {"powerBuffered": 7420}, "category": "power"}

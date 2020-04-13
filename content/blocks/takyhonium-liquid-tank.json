@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "takyhonium liquid tank", "description": "...", "health": 187, "size": 3, "requirements": [{"item": "takyhonium", "amount": 6}, {"item": "hiki", "amount": 7}, {"item": "vosixe", "amount": 7}], "research": "takyhonium-conduit", "category": "liquid", "liquidCapacity": 12299, "hasLiquids": true}

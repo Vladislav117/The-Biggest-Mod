@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small suxy power node", "description": "...", "size": 1, "health": 317, "requirements": [{"item": "suxy", "amount": 13}, {"item": "nuniyi", "amount": 11}, {"item": "kyronium", "amount": 4}], "research": "suxy-factory", "maxNodes": 12, "laserRange": 8, "category": "power"}

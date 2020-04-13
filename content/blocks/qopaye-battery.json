@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qopaye battery", "description": "...", "size": 3, "health": 40, "requirements": [{"item": "qopaye", "amount": 15}, {"item": "vywy", "amount": 11}, {"item": "cafe", "amount": 8}], "research": "qopaye-factory", "consumes": {"powerBuffered": 502}, "category": "power"}

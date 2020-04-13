@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pyjorenium solar panel", "description": "...", "size": 1, "health": 382, "requirements": [{"item": "pyjorenium", "amount": 5}, {"item": "xejo", "amount": 13}, {"item": "zemyca", "amount": 2}], "research": "pyjorenium-factory", "powerProduction": 0.3554625679577013, "category": "power"}

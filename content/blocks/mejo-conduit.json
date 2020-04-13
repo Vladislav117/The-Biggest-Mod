@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mejo conduit", "description": "...", "health": 117, "requirements": [{"item": "mejo", "amount": 2}, {"item": "caqohanium", "amount": 1}, {"item": "zagy", "amount": 4}], "liquidCapacity": 35, "liquidPressure": 5, "research": "mejo-factory", "category": "liquid"}

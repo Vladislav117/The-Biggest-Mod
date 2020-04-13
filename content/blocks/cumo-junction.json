@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cumo junction", "description": "...", "health": 21, "speed": 2, "capacity": 9, "size": 1, "requirements": [{"item": "cumo", "amount": 1}, {"item": "sylote", "amount": 5}], "research": "cumo-conveyor", "category": "distribution"}

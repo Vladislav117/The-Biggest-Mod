@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "meti underflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "meti", "amount": 1}, {"item": "noriwe", "amount": 4}], "research": "meti-conveyor", "category": "distribution", "invert": false}

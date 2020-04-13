@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "muza inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "muza", "amount": 2}, {"item": "lymy", "amount": 3}], "research": "muza-conveyor", "category": "distribution", "invert": true}

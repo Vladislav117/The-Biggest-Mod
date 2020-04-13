@@ -1,0 +1,1 @@
+{"type": "battery", "name": "paba battery", "description": "...", "size": 3, "health": 197, "requirements": [{"item": "paba", "amount": 17}, {"item": "qaho", "amount": 17}, {"item": "naxihe", "amount": 3}], "research": "paba-factory", "consumes": {"powerBuffered": 7818}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "syro battery", "description": "...", "size": 3, "health": 137, "requirements": [{"item": "syro", "amount": 5}, {"item": "qepisu", "amount": 9}, {"item": "fyyu", "amount": 1}], "research": "syro-factory", "consumes": {"powerBuffered": 2699}, "category": "power"}

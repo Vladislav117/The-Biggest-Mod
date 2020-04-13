@@ -1,0 +1,1 @@
+{"type": "battery", "name": "daziha battery", "description": "...", "size": 3, "health": 96, "requirements": [{"item": "daziha", "amount": 3}, {"item": "kelyqi", "amount": 7}, {"item": "muhura", "amount": 6}], "research": "daziha-factory", "consumes": {"powerBuffered": 6416}, "category": "power"}

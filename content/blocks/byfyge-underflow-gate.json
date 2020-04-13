@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "byfyge underflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "byfyge", "amount": 4}, {"item": "gurikinium", "amount": 1}], "research": "byfyge-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wafy power node", "description": "...", "size": 2, "health": 618, "requirements": [{"item": "wafy", "amount": 14}, {"item": "vekile", "amount": 13}, {"item": "mixy", "amount": 10}], "research": "wafy-factory", "maxNodes": 13, "laserRange": 16, "category": "power"}

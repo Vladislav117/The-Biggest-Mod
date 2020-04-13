@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wimu liquid tank", "description": "...", "health": 224, "size": 3, "requirements": [{"item": "wimu", "amount": 6}, {"item": "xomaja", "amount": 10}, {"item": "heti", "amount": 8}], "research": "wimu-conduit", "category": "liquid", "liquidCapacity": 79875, "hasLiquids": true}

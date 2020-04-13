@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yudesinium junction", "description": "...", "health": 33, "speed": 18, "capacity": 8, "size": 1, "requirements": [{"item": "yudesinium", "amount": 1}, {"item": "yesolonium", "amount": 4}], "research": "yudesinium-conveyor", "category": "distribution"}

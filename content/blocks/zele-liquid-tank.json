@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zele liquid tank", "description": "...", "health": 574, "size": 3, "requirements": [{"item": "zele", "amount": 14}, {"item": "ridu", "amount": 5}, {"item": "thorium", "amount": 5}], "research": "zele-conduit", "category": "liquid", "liquidCapacity": 59479, "hasLiquids": true}

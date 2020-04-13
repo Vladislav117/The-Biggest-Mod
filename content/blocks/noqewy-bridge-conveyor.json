@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "noqewy bridge conveyor", "description": "", "health": 28, "range": 17, "speed": 14, "bufferCapacity": 18, "requirements": [{"item": "noqewy", "amount": 1}, {"item": "cymaca", "amount": 4}], "research": "noqewy-conveyor", "category": "distribution", "size": 1}

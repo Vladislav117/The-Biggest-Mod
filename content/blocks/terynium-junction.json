@@ -1,0 +1,1 @@
+{"type": "junction", "name": "terynium junction", "description": "...", "health": 44, "speed": 6, "capacity": 6, "size": 1, "requirements": [{"item": "terynium", "amount": 2}, {"item": "jago", "amount": 1}], "research": "terynium-conveyor", "category": "distribution"}

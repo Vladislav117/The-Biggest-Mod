@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fyze solar panel", "description": "...", "size": 3, "health": 242, "requirements": [{"item": "fyze", "amount": 17}, {"item": "cetonium", "amount": 18}, {"item": "daco", "amount": 9}], "research": "fyze-factory", "powerProduction": 1.2150289313146319, "category": "power"}

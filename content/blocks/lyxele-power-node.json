@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lyxele power node", "description": "...", "size": 2, "health": 204, "requirements": [{"item": "lyxele", "amount": 15}, {"item": "cysobe", "amount": 8}, {"item": "lyru", "amount": 6}], "research": "lyxele-factory", "maxNodes": 50, "laserRange": 14, "category": "power"}

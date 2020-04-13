@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cosi battery", "description": "...", "size": 1, "health": 325, "requirements": [{"item": "cosi", "amount": 3}, {"item": "wicy", "amount": 1}, {"item": "tuzy", "amount": 10}], "research": "cosi-factory", "consumes": {"powerBuffered": 1518}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nezajynium drill", "description": "...", "size": 3, "health": 450, "tier": 2, "drillTime": 17, "consumes": {"power": 17}, "requirements": [{"item": "nezajynium", "amount": 11}, {"item": "tyqylo", "amount": 15}, {"item": "rijehynium", "amount": 6}], "research": "nezajynium-factory", "category": "production"}

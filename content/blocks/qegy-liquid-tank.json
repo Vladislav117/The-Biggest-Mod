@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qegy liquid tank", "description": "...", "health": 556, "size": 3, "requirements": [{"item": "qegy", "amount": 20}, {"item": "xini", "amount": 4}, {"item": "luzinium", "amount": 3}], "research": "qegy-conduit", "category": "liquid", "liquidCapacity": 95192, "hasLiquids": true}

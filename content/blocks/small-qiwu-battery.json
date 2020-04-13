@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qiwu battery", "description": "...", "size": 1, "health": 73, "requirements": [{"item": "qiwu", "amount": 7}, {"item": "nexojo", "amount": 8}, {"item": "myra", "amount": 2}], "research": "qiwu-factory", "consumes": {"powerBuffered": 1453}, "category": "power"}

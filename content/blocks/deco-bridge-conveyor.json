@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "deco bridge conveyor", "description": "", "health": 48, "range": 1, "speed": 20, "bufferCapacity": 14, "requirements": [{"item": "deco", "amount": 5}, {"item": "temu", "amount": 1}], "research": "deco-conveyor", "category": "distribution", "size": 1}

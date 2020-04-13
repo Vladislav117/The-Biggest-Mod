@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "jyryze force projector", "description": "...", "health": 162, "size": 3, "consumes": {"power": 5.0, "item": "jyryze"}, "requirements": [{"item": "jyryze", "amount": 19}, {"item": "jozu", "amount": 15}, {"item": "lipupy", "amount": 4}], "research": "jyryze-factory", "category": "effect"}

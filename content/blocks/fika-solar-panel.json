@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fika solar panel", "description": "...", "size": 3, "health": 111, "requirements": [{"item": "fika", "amount": 9}, {"item": "reqoxu", "amount": 6}, {"item": "xekota", "amount": 3}], "research": "fika-factory", "powerProduction": 1.439390640345425, "category": "power"}

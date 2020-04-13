@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sinawenium inverted sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "sinawenium", "amount": 4}, {"item": "makajo", "amount": 4}], "research": "sinawenium-conveyor", "category": "distribution", "invert": true}

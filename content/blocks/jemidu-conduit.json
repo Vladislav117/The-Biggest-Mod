@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jemidu conduit", "description": "...", "health": 21, "requirements": [{"item": "jemidu", "amount": 14}, {"item": "macurenium", "amount": 19}, {"item": "hyna", "amount": 9}], "liquidCapacity": 5, "liquidPressure": 4, "research": "jemidu-factory", "category": "liquid"}

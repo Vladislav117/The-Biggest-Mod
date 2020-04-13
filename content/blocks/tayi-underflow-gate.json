@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tayi underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "tayi", "amount": 4}, {"item": "kojavi", "amount": 4}], "research": "tayi-conveyor", "category": "distribution", "invert": false}

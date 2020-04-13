@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small feyyqe battery", "description": "...", "size": 1, "health": 108, "requirements": [{"item": "feyyqe", "amount": 7}, {"item": "nifego", "amount": 17}, {"item": "cyyenium", "amount": 8}], "research": "feyyqe-factory", "consumes": {"powerBuffered": 929}, "category": "power"}

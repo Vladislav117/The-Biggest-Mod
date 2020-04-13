@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sara power node", "description": "...", "size": 1, "health": 348, "requirements": [{"item": "sara", "amount": 5}, {"item": "cohifa", "amount": 18}, {"item": "zayuku", "amount": 2}], "research": "sara-factory", "maxNodes": 15, "laserRange": 7, "category": "power"}

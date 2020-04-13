@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mawanium liquid tank", "description": "...", "health": 386, "size": 3, "requirements": [{"item": "mawanium", "amount": 9}, {"item": "basomi", "amount": 10}, {"item": "lead", "amount": 1}], "research": "mawanium-conduit", "category": "liquid", "liquidCapacity": 67583, "hasLiquids": true}

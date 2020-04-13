@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bulanium conduit", "description": "...", "health": 63, "requirements": [{"item": "bulanium", "amount": 18}, {"item": "pyzemu", "amount": 15}, {"item": "kiza", "amount": 3}], "liquidCapacity": 20, "liquidPressure": 10, "research": "bulanium-factory", "category": "liquid"}

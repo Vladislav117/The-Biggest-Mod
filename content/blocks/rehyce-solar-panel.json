@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rehyce solar panel", "description": "...", "size": 3, "health": 163, "requirements": [{"item": "rehyce", "amount": 4}, {"item": "mijynium", "amount": 1}, {"item": "sore", "amount": 7}], "research": "rehyce-factory", "powerProduction": 10.310134582066983, "category": "power"}

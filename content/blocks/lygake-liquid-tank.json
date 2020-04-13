@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lygake liquid tank", "description": "...", "health": 236, "size": 3, "requirements": [{"item": "lygake", "amount": 3}, {"item": "buhoci", "amount": 14}, {"item": "gyduyi", "amount": 1}], "research": "lygake-conduit", "category": "liquid", "liquidCapacity": 55186, "hasLiquids": true}

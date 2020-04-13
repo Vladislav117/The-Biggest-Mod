@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rohivonium sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "rohivonium", "amount": 3}, {"item": "litilenium", "amount": 4}], "research": "rohivonium-conveyor", "category": "distribution", "invert": false}

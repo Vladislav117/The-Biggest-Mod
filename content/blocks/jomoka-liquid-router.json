@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jomoka liquid router", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "jomoka", "amount": 14}, {"item": "vewavu", "amount": 15}, {"item": "giho", "amount": 6}], "research": "jomoka-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lyna battery", "description": "...", "size": 3, "health": 249, "requirements": [{"item": "lyna", "amount": 4}, {"item": "fuposy", "amount": 12}, {"item": "jinu", "amount": 7}], "research": "lyna-factory", "consumes": {"powerBuffered": 7756}, "category": "power"}

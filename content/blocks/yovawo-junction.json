@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yovawo junction", "description": "...", "health": 20, "speed": 1, "capacity": 16, "size": 1, "requirements": [{"item": "yovawo", "amount": 1}, {"item": "qopyxo", "amount": 2}], "research": "yovawo-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yudesinium solar panel", "description": "...", "size": 3, "health": 145, "requirements": [{"item": "yudesinium", "amount": 1}, {"item": "zihy", "amount": 3}, {"item": "sexinium", "amount": 9}], "research": "yudesinium-factory", "powerProduction": 0.9566554446961345, "category": "power"}

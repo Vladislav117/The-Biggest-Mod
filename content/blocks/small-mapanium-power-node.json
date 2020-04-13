@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mapanium power node", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "mapanium", "amount": 14}, {"item": "qubironium", "amount": 16}, {"item": "gineta", "amount": 2}], "research": "mapanium-factory", "maxNodes": 9, "laserRange": 24, "category": "power"}

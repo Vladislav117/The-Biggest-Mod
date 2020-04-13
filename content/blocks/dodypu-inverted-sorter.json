@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dodypu inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "dodypu", "amount": 3}, {"item": "syxija", "amount": 1}], "research": "dodypu-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rohonium liquid tank", "description": "...", "health": 258, "size": 3, "requirements": [{"item": "rohonium", "amount": 12}, {"item": "jihu", "amount": 12}, {"item": "soguve", "amount": 8}], "research": "rohonium-conduit", "category": "liquid", "liquidCapacity": 17846, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small velany battery", "description": "...", "size": 1, "health": 84, "requirements": [{"item": "velany", "amount": 19}, {"item": "yejeqinium", "amount": 5}, {"item": "dezi", "amount": 1}], "research": "velany-factory", "consumes": {"powerBuffered": 378}, "category": "power"}

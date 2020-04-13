@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pemi solar panel", "description": "...", "size": 3, "health": 85, "requirements": [{"item": "pemi", "amount": 3}, {"item": "hihuly", "amount": 14}, {"item": "xeco", "amount": 8}], "research": "pemi-factory", "powerProduction": 0.07845381269984986, "category": "power"}

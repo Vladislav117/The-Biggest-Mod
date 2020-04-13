@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "mafapu force projector", "description": "...", "health": 167, "size": 3, "consumes": {"power": 5.0, "item": "mafapu"}, "requirements": [{"item": "mafapu", "amount": 2}, {"item": "syqi", "amount": 15}, {"item": "safe", "amount": 9}], "research": "mafapu-factory", "category": "effect"}

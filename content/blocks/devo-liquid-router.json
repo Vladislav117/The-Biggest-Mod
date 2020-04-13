@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "devo liquid router", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "devo", "amount": 2}, {"item": "duhexi", "amount": 12}, {"item": "wupera", "amount": 6}], "research": "devo-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mizu power node", "description": "...", "size": 2, "health": 75, "requirements": [{"item": "mizu", "amount": 18}, {"item": "cixe", "amount": 6}, {"item": "fuyoja", "amount": 8}], "research": "mizu-factory", "maxNodes": 35, "laserRange": 18, "category": "power"}

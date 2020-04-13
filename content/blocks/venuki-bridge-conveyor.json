@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "venuki bridge conveyor", "description": "", "health": 6, "range": 12, "speed": 1, "bufferCapacity": 11, "requirements": [{"item": "venuki", "amount": 2}, {"item": "ceyuwy", "amount": 4}], "research": "venuki-conveyor", "category": "distribution", "size": 1}

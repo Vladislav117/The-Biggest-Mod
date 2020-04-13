@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bitaba bridge conveyor", "description": "", "health": 31, "range": 4, "speed": 3, "bufferCapacity": 14, "requirements": [{"item": "bitaba", "amount": 1}, {"item": "yeci", "amount": 4}], "research": "bitaba-conveyor", "category": "distribution", "size": 1}

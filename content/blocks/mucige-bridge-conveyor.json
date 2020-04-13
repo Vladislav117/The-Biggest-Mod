@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mucige bridge conveyor", "description": "", "health": 37, "range": 2, "speed": 7, "bufferCapacity": 16, "requirements": [{"item": "mucige", "amount": 3}, {"item": "dyzeky", "amount": 1}], "research": "mucige-conveyor", "category": "distribution", "size": 1}

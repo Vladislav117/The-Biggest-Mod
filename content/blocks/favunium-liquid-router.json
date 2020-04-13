@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "favunium liquid router", "description": "...", "size": 1, "health": 24, "requirements": [{"item": "favunium", "amount": 3}, {"item": "yidugonium", "amount": 5}, {"item": "hysobe", "amount": 6}], "research": "favunium-conduit", "liquidCapacity": 10, "category": "liquid"}

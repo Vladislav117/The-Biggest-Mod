@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ryma power node", "description": "...", "size": 2, "health": 153, "requirements": [{"item": "ryma", "amount": 16}, {"item": "fuda", "amount": 20}, {"item": "nejunium", "amount": 5}], "research": "ryma-factory", "maxNodes": 51, "laserRange": 14, "category": "power"}

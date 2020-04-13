@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zeqiyy drill", "description": "...", "size": 4, "health": 155, "tier": 3, "drillTime": 5, "consumes": {"power": 18}, "requirements": [{"item": "zeqiyy", "amount": 6}, {"item": "yezaku", "amount": 19}, {"item": "qekaye", "amount": 10}], "research": "zeqiyy-factory", "category": "production"}

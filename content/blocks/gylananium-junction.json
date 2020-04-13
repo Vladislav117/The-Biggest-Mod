@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gylananium junction", "description": "...", "health": 38, "speed": 12, "capacity": 5, "size": 1, "requirements": [{"item": "gylananium", "amount": 2}, {"item": "yuze", "amount": 2}], "research": "gylananium-conveyor", "category": "distribution"}

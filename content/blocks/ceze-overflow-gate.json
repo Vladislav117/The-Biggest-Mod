@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ceze overflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "ceze", "amount": 1}, {"item": "tamuna", "amount": 4}], "research": "ceze-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hojanium battery", "description": "...", "size": 1, "health": 18, "requirements": [{"item": "hojanium", "amount": 14}, {"item": "zegili", "amount": 17}, {"item": "jasuly", "amount": 6}], "research": "hojanium-factory", "consumes": {"powerBuffered": 1439}, "category": "power"}

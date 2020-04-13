@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kepa conduit", "description": "...", "health": 65, "requirements": [{"item": "kepa", "amount": 16}, {"item": "qodanunium", "amount": 8}, {"item": "zaba", "amount": 8}], "liquidCapacity": 48, "liquidPressure": 2, "research": "kepa-factory", "category": "liquid"}

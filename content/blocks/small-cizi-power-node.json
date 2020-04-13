@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cizi power node", "description": "...", "size": 1, "health": 183, "requirements": [{"item": "cizi", "amount": 5}, {"item": "ragoku", "amount": 20}, {"item": "vadoda", "amount": 3}], "research": "cizi-factory", "maxNodes": 30, "laserRange": 19, "category": "power"}

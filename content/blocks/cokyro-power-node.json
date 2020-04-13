@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cokyro power node", "description": "...", "size": 2, "health": 116, "requirements": [{"item": "cokyro", "amount": 18}, {"item": "xicopo", "amount": 20}, {"item": "vedapa", "amount": 10}], "research": "cokyro-factory", "maxNodes": 31, "laserRange": 22, "category": "power"}

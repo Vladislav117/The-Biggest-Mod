@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "duto liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "duto", "amount": 8}, {"item": "duhexi", "amount": 17}, {"item": "xynice", "amount": 10}], "research": "duto-conduit", "liquidCapacity": 10, "category": "liquid"}

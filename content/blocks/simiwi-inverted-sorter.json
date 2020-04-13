@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "simiwi inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "simiwi", "amount": 4}, {"item": "sipynium", "amount": 2}], "research": "simiwi-conveyor", "category": "distribution", "invert": true}

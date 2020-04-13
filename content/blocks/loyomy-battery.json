@@ -1,0 +1,1 @@
+{"type": "battery", "name": "loyomy battery", "description": "...", "size": 3, "health": 174, "requirements": [{"item": "loyomy", "amount": 14}, {"item": "pufu", "amount": 8}, {"item": "neda", "amount": 4}], "research": "loyomy-factory", "consumes": {"powerBuffered": 2847}, "category": "power"}

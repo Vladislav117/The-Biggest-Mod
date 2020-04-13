@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "puho power node", "description": "...", "size": 2, "health": 345, "requirements": [{"item": "puho", "amount": 15}, {"item": "dymu", "amount": 19}, {"item": "hycyyi", "amount": 8}], "research": "puho-factory", "maxNodes": 43, "laserRange": 7, "category": "power"}

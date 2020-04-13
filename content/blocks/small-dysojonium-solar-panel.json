@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dysojonium solar panel", "description": "...", "size": 1, "health": 138, "requirements": [{"item": "dysojonium", "amount": 13}, {"item": "tygoqa", "amount": 14}, {"item": "qiseho", "amount": 7}], "research": "dysojonium-factory", "powerProduction": 0.255305998730266, "category": "power"}

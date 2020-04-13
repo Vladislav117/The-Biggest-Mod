@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zareba liquid tank", "description": "...", "health": 150, "size": 3, "requirements": [{"item": "zareba", "amount": 16}, {"item": "zycinium", "amount": 20}, {"item": "rypy", "amount": 7}], "research": "zareba-conduit", "category": "liquid", "liquidCapacity": 26877, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "byqo liquid tank", "description": "...", "health": 665, "size": 3, "requirements": [{"item": "byqo", "amount": 19}, {"item": "yuvynium", "amount": 2}, {"item": "gyhecu", "amount": 9}], "research": "byqo-conduit", "category": "liquid", "liquidCapacity": 77756, "hasLiquids": true}

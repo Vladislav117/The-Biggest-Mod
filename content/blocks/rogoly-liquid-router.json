@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "rogoly liquid router", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "rogoly", "amount": 10}, {"item": "vivunium", "amount": 14}, {"item": "tifi", "amount": 4}], "research": "rogoly-conduit", "liquidCapacity": 10, "category": "liquid"}

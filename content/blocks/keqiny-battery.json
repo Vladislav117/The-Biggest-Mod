@@ -1,0 +1,1 @@
+{"type": "battery", "name": "keqiny battery", "description": "...", "size": 3, "health": 302, "requirements": [{"item": "keqiny", "amount": 14}, {"item": "guliyu", "amount": 3}, {"item": "juwyso", "amount": 6}], "research": "keqiny-factory", "consumes": {"powerBuffered": 6221}, "category": "power"}

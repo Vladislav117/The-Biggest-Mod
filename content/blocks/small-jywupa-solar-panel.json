@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jywupa solar panel", "description": "...", "size": 1, "health": 131, "requirements": [{"item": "jywupa", "amount": 3}, {"item": "lead", "amount": 9}, {"item": "titanium", "amount": 10}], "research": "jywupa-factory", "powerProduction": 0.005008393925298536, "category": "power"}

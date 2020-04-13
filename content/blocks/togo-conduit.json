@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "togo conduit", "description": "...", "health": 51, "requirements": [{"item": "togo", "amount": 15}, {"item": "fazame", "amount": 11}, {"item": "yytiye", "amount": 4}], "liquidCapacity": 9, "liquidPressure": 3, "research": "togo-factory", "category": "liquid"}

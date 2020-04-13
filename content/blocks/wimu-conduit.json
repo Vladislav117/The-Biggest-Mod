@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wimu conduit", "description": "...", "health": 141, "requirements": [{"item": "wimu", "amount": 15}, {"item": "yeyy", "amount": 12}, {"item": "dyzinium", "amount": 7}], "liquidCapacity": 15, "liquidPressure": 9, "research": "wimu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "piqo solar panel", "description": "...", "size": 3, "health": 283, "requirements": [{"item": "piqo", "amount": 18}, {"item": "vuponium", "amount": 20}, {"item": "bajenium", "amount": 9}], "research": "piqo-factory", "powerProduction": 2.3483502390387145, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qofepa junction", "description": "...", "health": 26, "speed": 10, "capacity": 8, "size": 1, "requirements": [{"item": "qofepa", "amount": 5}, {"item": "baqelu", "amount": 4}], "research": "qofepa-conveyor", "category": "distribution"}

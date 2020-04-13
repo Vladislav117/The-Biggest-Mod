@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mubu liquid router", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "mubu", "amount": 1}, {"item": "nudo", "amount": 18}, {"item": "wazo", "amount": 4}], "research": "mubu-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bayice inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "bayice", "amount": 4}, {"item": "tegizunium", "amount": 3}], "research": "bayice-conveyor", "category": "distribution", "invert": true}

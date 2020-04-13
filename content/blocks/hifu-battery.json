@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hifu battery", "description": "...", "size": 3, "health": 366, "requirements": [{"item": "hifu", "amount": 6}, {"item": "cizi", "amount": 5}, {"item": "seyo", "amount": 1}], "research": "hifu-factory", "consumes": {"powerBuffered": 8078}, "category": "power"}

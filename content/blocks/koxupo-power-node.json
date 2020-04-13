@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "koxupo power node", "description": "...", "size": 2, "health": 137, "requirements": [{"item": "koxupo", "amount": 8}, {"item": "syqy", "amount": 11}, {"item": "zeyo", "amount": 5}], "research": "koxupo-factory", "maxNodes": 31, "laserRange": 21, "category": "power"}

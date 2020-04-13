@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kesyginium junction", "description": "...", "health": 42, "speed": 6, "capacity": 2, "size": 1, "requirements": [{"item": "kesyginium", "amount": 3}, {"item": "bapu", "amount": 1}], "research": "kesyginium-conveyor", "category": "distribution"}

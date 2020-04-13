@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pizi liquid router", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "pizi", "amount": 6}, {"item": "jewa", "amount": 12}, {"item": "gagyya", "amount": 4}], "research": "pizi-conduit", "liquidCapacity": 10, "category": "liquid"}

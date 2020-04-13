@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fucyra drill", "description": "...", "size": 2, "health": 122, "tier": 3, "drillTime": 3, "consumes": {"power": 11}, "requirements": [{"item": "fucyra", "amount": 6}, {"item": "dyguzu", "amount": 13}, {"item": "harugenium", "amount": 7}], "research": "fucyra-factory", "category": "production"}

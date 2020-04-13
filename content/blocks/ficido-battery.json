@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ficido battery", "description": "...", "size": 3, "health": 326, "requirements": [{"item": "ficido", "amount": 2}, {"item": "pyga", "amount": 11}, {"item": "tove", "amount": 1}], "research": "ficido-factory", "consumes": {"powerBuffered": 8345}, "category": "power"}

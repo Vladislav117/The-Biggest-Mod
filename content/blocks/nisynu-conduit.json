@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nisynu conduit", "description": "...", "health": 70, "requirements": [{"item": "nisynu", "amount": 9}, {"item": "movenium", "amount": 13}, {"item": "tivu", "amount": 1}], "liquidCapacity": 3, "liquidPressure": 1, "research": "nisynu-factory", "category": "liquid"}

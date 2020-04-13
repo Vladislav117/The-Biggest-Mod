@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pemi power node", "description": "...", "size": 2, "health": 636, "requirements": [{"item": "pemi", "amount": 14}, {"item": "mityya", "amount": 9}, {"item": "jeyanium", "amount": 8}], "research": "pemi-factory", "maxNodes": 44, "laserRange": 18, "category": "power"}

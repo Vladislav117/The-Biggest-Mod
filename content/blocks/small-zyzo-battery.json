@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zyzo battery", "description": "...", "size": 1, "health": 283, "requirements": [{"item": "zyzo", "amount": 8}, {"item": "mowu", "amount": 3}, {"item": "reno", "amount": 10}], "research": "zyzo-factory", "consumes": {"powerBuffered": 2034}, "category": "power"}

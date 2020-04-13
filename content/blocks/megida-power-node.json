@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "megida power node", "description": "...", "size": 2, "health": 405, "requirements": [{"item": "megida", "amount": 15}, {"item": "guvoja", "amount": 18}, {"item": "sukanium", "amount": 5}], "research": "megida-factory", "maxNodes": 51, "laserRange": 13, "category": "power"}

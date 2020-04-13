@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jaga underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "jaga", "amount": 4}, {"item": "peze", "amount": 5}], "research": "jaga-conveyor", "category": "distribution", "invert": false}

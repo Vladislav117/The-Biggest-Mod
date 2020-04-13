@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sycexi drill", "description": "...", "size": 2, "health": 393, "tier": 1, "drillTime": 14, "consumes": {"power": 5}, "requirements": [{"item": "sycexi", "amount": 10}, {"item": "tozenium", "amount": 2}, {"item": "lolu", "amount": 7}], "research": "sycexi-factory", "category": "production"}

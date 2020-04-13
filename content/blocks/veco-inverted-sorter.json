@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "veco inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "veco", "amount": 2}, {"item": "pypy", "amount": 3}], "research": "veco-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gave bridge conveyor", "description": "", "health": 25, "range": 2, "speed": 5, "bufferCapacity": 11, "requirements": [{"item": "gave", "amount": 5}, {"item": "nuzivo", "amount": 5}], "research": "gave-conveyor", "category": "distribution", "size": 1}

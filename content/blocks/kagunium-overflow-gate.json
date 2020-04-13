@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kagunium overflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "kagunium", "amount": 1}, {"item": "yedyte", "amount": 4}], "research": "kagunium-conveyor", "category": "distribution", "invert": false}

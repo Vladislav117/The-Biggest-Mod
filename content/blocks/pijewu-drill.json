@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pijewu drill", "description": "...", "size": 2, "health": 375, "tier": 4, "drillTime": 19, "consumes": {"power": 17}, "requirements": [{"item": "pijewu", "amount": 9}, {"item": "hagunium", "amount": 7}, {"item": "lynaly", "amount": 2}], "research": "pijewu-factory", "category": "production"}

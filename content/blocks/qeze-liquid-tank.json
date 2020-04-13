@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qeze liquid tank", "description": "...", "health": 538, "size": 3, "requirements": [{"item": "qeze", "amount": 15}, {"item": "bylo", "amount": 11}, {"item": "zocumo", "amount": 2}], "research": "qeze-conduit", "category": "liquid", "liquidCapacity": 47483, "hasLiquids": true}

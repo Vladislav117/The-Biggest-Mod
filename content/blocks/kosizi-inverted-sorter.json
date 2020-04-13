@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kosizi inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "kosizi", "amount": 1}, {"item": "thorium", "amount": 5}], "research": "kosizi-conveyor", "category": "distribution", "invert": true}

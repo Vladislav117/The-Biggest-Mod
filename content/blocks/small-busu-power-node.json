@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small busu power node", "description": "...", "size": 1, "health": 257, "requirements": [{"item": "busu", "amount": 11}, {"item": "qyfyqunium", "amount": 7}, {"item": "wivo", "amount": 6}], "research": "busu-factory", "maxNodes": 6, "laserRange": 22, "category": "power"}

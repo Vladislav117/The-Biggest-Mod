@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xaji overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "xaji", "amount": 3}, {"item": "latycu", "amount": 1}], "research": "xaji-conveyor", "category": "distribution", "invert": false}

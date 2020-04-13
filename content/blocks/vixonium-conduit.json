@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vixonium conduit", "description": "...", "health": 31, "requirements": [{"item": "vixonium", "amount": 12}, {"item": "xyduda", "amount": 3}, {"item": "sajoje", "amount": 7}], "liquidCapacity": 47, "liquidPressure": 9, "research": "vixonium-factory", "category": "liquid"}

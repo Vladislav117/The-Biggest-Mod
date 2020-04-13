@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nisowi liquid tank", "description": "...", "health": 216, "size": 3, "requirements": [{"item": "nisowi", "amount": 13}, {"item": "pydudanium", "amount": 14}, {"item": "jigame", "amount": 5}], "research": "nisowi-conduit", "category": "liquid", "liquidCapacity": 96418, "hasLiquids": true}

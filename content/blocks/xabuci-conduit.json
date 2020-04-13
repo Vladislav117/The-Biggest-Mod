@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xabuci conduit", "description": "...", "health": 70, "requirements": [{"item": "xabuci", "amount": 1}, {"item": "xyge", "amount": 3}, {"item": "zeqonium", "amount": 3}], "liquidCapacity": 1, "liquidPressure": 9, "research": "xabuci-factory", "category": "liquid"}

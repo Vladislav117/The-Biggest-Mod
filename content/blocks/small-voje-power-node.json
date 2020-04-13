@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small voje power node", "description": "...", "size": 1, "health": 13, "requirements": [{"item": "voje", "amount": 3}, {"item": "soki", "amount": 13}, {"item": "yipobe", "amount": 9}], "research": "voje-factory", "maxNodes": 16, "laserRange": 18, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sahylu power node", "description": "...", "size": 1, "health": 103, "requirements": [{"item": "sahylu", "amount": 11}, {"item": "wicowi", "amount": 8}, {"item": "teyonium", "amount": 5}], "research": "sahylu-factory", "maxNodes": 20, "laserRange": 9, "category": "power"}

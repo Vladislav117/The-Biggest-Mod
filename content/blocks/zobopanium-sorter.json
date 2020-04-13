@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zobopanium sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "zobopanium", "amount": 2}, {"item": "zeyeqi", "amount": 2}], "research": "zobopanium-conveyor", "category": "distribution", "invert": false}

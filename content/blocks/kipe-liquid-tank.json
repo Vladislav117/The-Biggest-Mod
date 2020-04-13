@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kipe liquid tank", "description": "...", "health": 395, "size": 3, "requirements": [{"item": "kipe", "amount": 11}, {"item": "vacoce", "amount": 19}, {"item": "pemo", "amount": 8}], "research": "kipe-conduit", "category": "liquid", "liquidCapacity": 60927, "hasLiquids": true}

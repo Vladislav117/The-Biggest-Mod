@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bacone battery", "description": "...", "size": 3, "health": 254, "requirements": [{"item": "bacone", "amount": 3}, {"item": "xeye", "amount": 2}, {"item": "lipo", "amount": 3}], "research": "bacone-factory", "consumes": {"powerBuffered": 5523}, "category": "power"}

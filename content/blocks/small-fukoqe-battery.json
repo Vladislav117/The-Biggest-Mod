@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fukoqe battery", "description": "...", "size": 1, "health": 261, "requirements": [{"item": "fukoqe", "amount": 18}, {"item": "hurula", "amount": 12}, {"item": "dyzeky", "amount": 2}], "research": "fukoqe-factory", "consumes": {"powerBuffered": 810}, "category": "power"}

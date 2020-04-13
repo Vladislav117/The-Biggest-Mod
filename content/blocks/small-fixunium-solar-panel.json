@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fixunium solar panel", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "fixunium", "amount": 2}, {"item": "wahape", "amount": 1}, {"item": "lowocanium", "amount": 8}], "research": "fixunium-factory", "powerProduction": 1.4082036383885366, "category": "power"}

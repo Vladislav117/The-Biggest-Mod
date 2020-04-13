@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zilobynium solar panel", "description": "...", "size": 1, "health": 178, "requirements": [{"item": "zilobynium", "amount": 13}, {"item": "xymaxu", "amount": 15}, {"item": "dani", "amount": 10}], "research": "zilobynium-factory", "powerProduction": 8.742061593590178, "category": "power"}

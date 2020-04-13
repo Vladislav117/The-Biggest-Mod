@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wuvyci overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "wuvyci", "amount": 1}, {"item": "syteja", "amount": 2}], "research": "wuvyci-conveyor", "category": "distribution", "invert": false}

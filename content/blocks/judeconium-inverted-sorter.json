@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "judeconium inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "judeconium", "amount": 3}, {"item": "cuxenium", "amount": 4}], "research": "judeconium-conveyor", "category": "distribution", "invert": true}

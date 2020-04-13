@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cowuse liquid tank", "description": "...", "health": 531, "size": 3, "requirements": [{"item": "cowuse", "amount": 14}, {"item": "sylinium", "amount": 4}, {"item": "pukalunium", "amount": 5}], "research": "cowuse-conduit", "category": "liquid", "liquidCapacity": 84315, "hasLiquids": true}

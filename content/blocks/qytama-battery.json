@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qytama battery", "description": "...", "size": 3, "health": 60, "requirements": [{"item": "qytama", "amount": 8}, {"item": "wuga", "amount": 14}, {"item": "mebu", "amount": 8}], "research": "qytama-factory", "consumes": {"powerBuffered": 6589}, "category": "power"}

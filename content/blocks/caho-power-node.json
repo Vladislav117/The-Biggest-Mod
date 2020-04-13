@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "caho power node", "description": "...", "size": 2, "health": 658, "requirements": [{"item": "caho", "amount": 8}, {"item": "jikesi", "amount": 14}, {"item": "sugamynium", "amount": 2}], "research": "caho-factory", "maxNodes": 44, "laserRange": 29, "category": "power"}

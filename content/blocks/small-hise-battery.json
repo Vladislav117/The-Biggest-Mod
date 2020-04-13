@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hise battery", "description": "...", "size": 1, "health": 388, "requirements": [{"item": "hise", "amount": 7}, {"item": "lelybe", "amount": 1}, {"item": "lyva", "amount": 6}], "research": "hise-factory", "consumes": {"powerBuffered": 1545}, "category": "power"}

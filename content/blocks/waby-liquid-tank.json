@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "waby liquid tank", "description": "...", "health": 405, "size": 3, "requirements": [{"item": "waby", "amount": 3}, {"item": "mavitu", "amount": 15}, {"item": "zuvuze", "amount": 5}], "research": "waby-conduit", "category": "liquid", "liquidCapacity": 48242, "hasLiquids": true}

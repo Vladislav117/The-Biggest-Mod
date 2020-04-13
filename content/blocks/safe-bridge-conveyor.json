@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "safe bridge conveyor", "description": "", "health": 2, "range": 4, "speed": 13, "bufferCapacity": 21, "requirements": [{"item": "safe", "amount": 5}, {"item": "dugypa", "amount": 1}], "research": "safe-conveyor", "category": "distribution", "size": 1}

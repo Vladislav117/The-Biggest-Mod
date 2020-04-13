@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "puli liquid router", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "puli", "amount": 3}, {"item": "rymojanium", "amount": 12}, {"item": "betesa", "amount": 7}], "research": "puli-conduit", "liquidCapacity": 10, "category": "liquid"}

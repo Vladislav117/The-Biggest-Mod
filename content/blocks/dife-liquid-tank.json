@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dife liquid tank", "description": "...", "health": 238, "size": 3, "requirements": [{"item": "dife", "amount": 8}, {"item": "zazuji", "amount": 17}, {"item": "foqa", "amount": 10}], "research": "dife-conduit", "category": "liquid", "liquidCapacity": 60430, "hasLiquids": true}

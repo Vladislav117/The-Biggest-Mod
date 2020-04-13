@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sisinium battery", "description": "...", "size": 3, "health": 254, "requirements": [{"item": "sisinium", "amount": 8}, {"item": "devo", "amount": 3}, {"item": "sute", "amount": 7}], "research": "sisinium-factory", "consumes": {"powerBuffered": 9717}, "category": "power"}

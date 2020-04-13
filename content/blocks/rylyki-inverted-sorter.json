@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rylyki inverted sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "rylyki", "amount": 5}, {"item": "tozenium", "amount": 1}], "research": "rylyki-conveyor", "category": "distribution", "invert": true}

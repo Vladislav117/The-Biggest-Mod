@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zyqita underflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "zyqita", "amount": 5}, {"item": "lynulo", "amount": 5}], "research": "zyqita-conveyor", "category": "distribution", "invert": false}

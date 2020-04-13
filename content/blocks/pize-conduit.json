@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pize conduit", "description": "...", "health": 182, "requirements": [{"item": "pize", "amount": 7}, {"item": "lora", "amount": 10}, {"item": "fypizy", "amount": 2}], "liquidCapacity": 22, "liquidPressure": 9, "research": "pize-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "buri bridge conveyor", "description": "", "health": 1, "range": 9, "speed": 14, "bufferCapacity": 14, "requirements": [{"item": "buri", "amount": 5}, {"item": "qedy", "amount": 2}], "research": "buri-conveyor", "category": "distribution", "size": 1}

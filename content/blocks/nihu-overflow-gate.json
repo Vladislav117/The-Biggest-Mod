@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nihu overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "nihu", "amount": 4}, {"item": "pypy", "amount": 4}], "research": "nihu-conveyor", "category": "distribution", "invert": false}

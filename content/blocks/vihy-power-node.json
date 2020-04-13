@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vihy power node", "description": "...", "size": 2, "health": 11, "requirements": [{"item": "vihy", "amount": 16}, {"item": "sybo", "amount": 6}, {"item": "dafa", "amount": 4}], "research": "vihy-factory", "maxNodes": 51, "laserRange": 13, "category": "power"}

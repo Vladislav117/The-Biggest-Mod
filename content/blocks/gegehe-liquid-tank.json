@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gegehe liquid tank", "description": "...", "health": 239, "size": 3, "requirements": [{"item": "gegehe", "amount": 11}, {"item": "jarovu", "amount": 16}, {"item": "wofu", "amount": 7}], "research": "gegehe-conduit", "category": "liquid", "liquidCapacity": 58195, "hasLiquids": true}

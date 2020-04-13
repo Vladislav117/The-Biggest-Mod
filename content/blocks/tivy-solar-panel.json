@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tivy solar panel", "description": "...", "size": 3, "health": 340, "requirements": [{"item": "tivy", "amount": 14}, {"item": "myyu", "amount": 6}, {"item": "fyfe", "amount": 7}], "research": "tivy-factory", "powerProduction": 1.7143312185760933, "category": "power"}

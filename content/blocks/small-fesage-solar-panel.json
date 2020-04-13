@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fesage solar panel", "description": "...", "size": 1, "health": 216, "requirements": [{"item": "fesage", "amount": 3}, {"item": "furazinium", "amount": 10}, {"item": "fezudanium", "amount": 7}], "research": "fesage-factory", "powerProduction": 0.46867473813648997, "category": "power"}

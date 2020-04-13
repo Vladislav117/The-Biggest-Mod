@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "yisyqu overdrive projector", "description": "...", "health": 60, "consumes": {"power": 3.0, "item": "yisyqu"}, "size": 2, "requirements": [{"item": "yisyqu", "amount": 14}, {"item": "gotomy", "amount": 8}, {"item": "pyce", "amount": 7}], "research": "yisyqu-factory", "category": "effect"}

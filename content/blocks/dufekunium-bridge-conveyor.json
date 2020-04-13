@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dufekunium bridge conveyor", "description": "", "health": 16, "range": 11, "speed": 10, "bufferCapacity": 9, "requirements": [{"item": "dufekunium", "amount": 2}, {"item": "wabaru", "amount": 3}], "research": "dufekunium-conveyor", "category": "distribution", "size": 1}

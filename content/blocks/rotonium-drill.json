@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "rotonium drill", "description": "...", "size": 2, "health": 276, "tier": 1, "drillTime": 10, "consumes": {"power": 17}, "requirements": [{"item": "rotonium", "amount": 5}, {"item": "devube", "amount": 8}, {"item": "qadoyenium", "amount": 3}], "research": "rotonium-factory", "category": "production"}

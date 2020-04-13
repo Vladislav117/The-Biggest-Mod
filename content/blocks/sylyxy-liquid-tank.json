@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sylyxy liquid tank", "description": "...", "health": 280, "size": 3, "requirements": [{"item": "sylyxy", "amount": 19}, {"item": "hymonium", "amount": 12}, {"item": "kubi", "amount": 5}], "research": "sylyxy-conduit", "category": "liquid", "liquidCapacity": 108850, "hasLiquids": true}

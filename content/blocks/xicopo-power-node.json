@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xicopo power node", "description": "...", "size": 2, "health": 459, "requirements": [{"item": "xicopo", "amount": 7}, {"item": "tibu", "amount": 2}, {"item": "nytina", "amount": 9}], "research": "xicopo-factory", "maxNodes": 13, "laserRange": 21, "category": "power"}

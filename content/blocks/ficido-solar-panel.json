@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ficido solar panel", "description": "...", "size": 3, "health": 313, "requirements": [{"item": "ficido", "amount": 7}, {"item": "lodowo", "amount": 15}, {"item": "sukafe", "amount": 4}], "research": "ficido-factory", "powerProduction": 2.4980955463784444, "category": "power"}

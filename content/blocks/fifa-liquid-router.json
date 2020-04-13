@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fifa liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "fifa", "amount": 15}, {"item": "doluka", "amount": 7}, {"item": "zeca", "amount": 3}], "research": "fifa-conduit", "liquidCapacity": 10, "category": "liquid"}

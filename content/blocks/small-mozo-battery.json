@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mozo battery", "description": "...", "size": 1, "health": 276, "requirements": [{"item": "mozo", "amount": 18}, {"item": "xyru", "amount": 18}, {"item": "puzanium", "amount": 5}], "research": "mozo-factory", "consumes": {"powerBuffered": 255}, "category": "power"}

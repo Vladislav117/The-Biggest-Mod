@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vypo battery", "description": "...", "size": 3, "health": 17, "requirements": [{"item": "vypo", "amount": 14}, {"item": "fykemi", "amount": 7}, {"item": "cozaxo", "amount": 4}], "research": "vypo-factory", "consumes": {"powerBuffered": 6912}, "category": "power"}

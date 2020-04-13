@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "dyjami force projector", "description": "...", "health": 172, "size": 3, "consumes": {"power": 5.0, "item": "dyjami"}, "requirements": [{"item": "dyjami", "amount": 15}, {"item": "xikexi", "amount": 5}, {"item": "vabenium", "amount": 8}], "research": "dyjami-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nuno solar panel", "description": "...", "size": 1, "health": 342, "requirements": [{"item": "nuno", "amount": 19}, {"item": "gyzuju", "amount": 2}, {"item": "nytu", "amount": 10}], "research": "nuno-factory", "powerProduction": 0.5303592056265076, "category": "power"}

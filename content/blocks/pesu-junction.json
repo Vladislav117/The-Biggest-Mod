@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pesu junction", "description": "...", "health": 36, "speed": 13, "capacity": 4, "size": 1, "requirements": [{"item": "pesu", "amount": 4}, {"item": "ciwy", "amount": 4}], "research": "pesu-conveyor", "category": "distribution"}

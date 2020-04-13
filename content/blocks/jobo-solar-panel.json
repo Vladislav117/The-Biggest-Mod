@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jobo solar panel", "description": "...", "size": 3, "health": 74, "requirements": [{"item": "jobo", "amount": 17}, {"item": "cexulu", "amount": 13}, {"item": "birynium", "amount": 1}], "research": "jobo-factory", "powerProduction": 1.471459870297892, "category": "power"}

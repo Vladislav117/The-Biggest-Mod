@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wore liquid tank", "description": "...", "health": 592, "size": 3, "requirements": [{"item": "wore", "amount": 8}, {"item": "vuxi", "amount": 8}, {"item": "lyra", "amount": 5}], "research": "wore-conduit", "category": "liquid", "liquidCapacity": 54751, "hasLiquids": true}

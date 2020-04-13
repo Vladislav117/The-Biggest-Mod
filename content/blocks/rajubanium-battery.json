@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rajubanium battery", "description": "...", "size": 3, "health": 224, "requirements": [{"item": "rajubanium", "amount": 8}, {"item": "pyto", "amount": 13}, {"item": "fyfoni", "amount": 8}], "research": "rajubanium-factory", "consumes": {"powerBuffered": 2325}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yofopy overflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "yofopy", "amount": 1}, {"item": "yezaku", "amount": 4}], "research": "yofopy-conveyor", "category": "distribution", "invert": false}

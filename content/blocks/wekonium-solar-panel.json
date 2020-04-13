@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wekonium solar panel", "description": "...", "size": 3, "health": 352, "requirements": [{"item": "wekonium", "amount": 20}, {"item": "lexo", "amount": 4}, {"item": "qicinium", "amount": 4}], "research": "wekonium-factory", "powerProduction": 2.0373130435554825, "category": "power"}

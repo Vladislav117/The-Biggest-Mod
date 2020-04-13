@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small juwynium solar panel", "description": "...", "size": 1, "health": 208, "requirements": [{"item": "juwynium", "amount": 19}, {"item": "zityyanium", "amount": 9}, {"item": "nuko", "amount": 9}], "research": "juwynium-factory", "powerProduction": 8.612629812487773, "category": "power"}

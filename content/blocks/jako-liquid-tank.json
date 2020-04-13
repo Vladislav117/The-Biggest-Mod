@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jako liquid tank", "description": "...", "health": 224, "size": 3, "requirements": [{"item": "jako", "amount": 16}, {"item": "faba", "amount": 19}, {"item": "jaryqanium", "amount": 8}], "research": "jako-conduit", "category": "liquid", "liquidCapacity": 3972, "hasLiquids": true}

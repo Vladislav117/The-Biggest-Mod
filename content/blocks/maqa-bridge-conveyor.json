@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "maqa bridge conveyor", "description": "", "health": 9, "range": 20, "speed": 2, "bufferCapacity": 13, "requirements": [{"item": "maqa", "amount": 5}, {"item": "ryzote", "amount": 4}], "research": "maqa-conveyor", "category": "distribution", "size": 1}

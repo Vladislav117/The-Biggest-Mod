@@ -1,0 +1,1 @@
+{"type": "junction", "name": "koxe junction", "description": "...", "health": 7, "speed": 16, "capacity": 9, "size": 1, "requirements": [{"item": "koxe", "amount": 5}, {"item": "piyovy", "amount": 1}], "research": "koxe-conveyor", "category": "distribution"}

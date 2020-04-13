@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ciwy liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "ciwy", "amount": 13}, {"item": "zowenium", "amount": 7}, {"item": "pujaka", "amount": 5}], "research": "ciwy-conduit", "liquidCapacity": 10, "category": "liquid"}

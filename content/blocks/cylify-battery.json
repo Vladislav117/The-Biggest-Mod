@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cylify battery", "description": "...", "size": 3, "health": 269, "requirements": [{"item": "cylify", "amount": 2}, {"item": "wyxonium", "amount": 4}, {"item": "xikogo", "amount": 4}], "research": "cylify-factory", "consumes": {"powerBuffered": 7223}, "category": "power"}

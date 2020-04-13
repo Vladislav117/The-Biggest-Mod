@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wumepi liquid router", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "wumepi", "amount": 4}, {"item": "zufi", "amount": 15}, {"item": "degesy", "amount": 7}], "research": "wumepi-conduit", "liquidCapacity": 10, "category": "liquid"}

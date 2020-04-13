@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dofy liquid tank", "description": "...", "health": 289, "size": 3, "requirements": [{"item": "dofy", "amount": 5}, {"item": "cyyo", "amount": 16}, {"item": "kosonium", "amount": 4}], "research": "dofy-conduit", "category": "liquid", "liquidCapacity": 12754, "hasLiquids": true}

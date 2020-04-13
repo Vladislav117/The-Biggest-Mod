@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qycozi bridge conveyor", "description": "", "health": 10, "range": 14, "speed": 20, "bufferCapacity": 4, "requirements": [{"item": "qycozi", "amount": 3}, {"item": "pikoqi", "amount": 5}], "research": "qycozi-conveyor", "category": "distribution", "size": 1}

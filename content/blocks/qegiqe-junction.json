@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qegiqe junction", "description": "...", "health": 18, "speed": 9, "capacity": 16, "size": 1, "requirements": [{"item": "qegiqe", "amount": 1}, {"item": "ceyi", "amount": 3}], "research": "qegiqe-conveyor", "category": "distribution"}

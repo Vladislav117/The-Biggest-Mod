@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "heti conduit", "description": "...", "health": 39, "requirements": [{"item": "heti", "amount": 16}, {"item": "qujunium", "amount": 17}, {"item": "myci", "amount": 8}], "liquidCapacity": 21, "liquidPressure": 8, "research": "heti-factory", "category": "liquid"}

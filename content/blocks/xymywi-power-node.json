@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xymywi power node", "description": "...", "size": 2, "health": 609, "requirements": [{"item": "xymywi", "amount": 5}, {"item": "miwu", "amount": 3}, {"item": "nipapu", "amount": 9}], "research": "xymywi-factory", "maxNodes": 52, "laserRange": 15, "category": "power"}

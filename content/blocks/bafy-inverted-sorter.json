@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bafy inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "bafy", "amount": 4}, {"item": "mumujy", "amount": 5}], "research": "bafy-conveyor", "category": "distribution", "invert": true}

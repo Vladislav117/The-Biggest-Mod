@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lopelu underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "lopelu", "amount": 2}, {"item": "dikygonium", "amount": 5}], "research": "lopelu-conveyor", "category": "distribution", "invert": false}

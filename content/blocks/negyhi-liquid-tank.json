@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "negyhi liquid tank", "description": "...", "health": 532, "size": 3, "requirements": [{"item": "negyhi", "amount": 3}, {"item": "kedy", "amount": 19}, {"item": "nifonium", "amount": 10}], "research": "negyhi-conduit", "category": "liquid", "liquidCapacity": 109841, "hasLiquids": true}

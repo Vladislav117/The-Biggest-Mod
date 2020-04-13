@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "kikanium conveyor", "description": "...", "health": 34, "requirements": [{"item": "kikanium", "amount": 3}, {"item": "kobocunium", "amount": 10}], "speed": 0.3516980426809261, "research": "kikanium-factory", "category": "distribution"}

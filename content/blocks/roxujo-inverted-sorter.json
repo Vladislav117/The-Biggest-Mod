@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "roxujo inverted sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "roxujo", "amount": 3}, {"item": "zuvy", "amount": 4}], "research": "roxujo-conveyor", "category": "distribution", "invert": true}

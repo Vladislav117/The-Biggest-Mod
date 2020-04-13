@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jehyty overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "jehyty", "amount": 1}, {"item": "rohivonium", "amount": 1}], "research": "jehyty-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kyculo liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "kyculo", "amount": 1}, {"item": "rysi", "amount": 4}, {"item": "mixy", "amount": 7}], "research": "kyculo-conduit", "liquidCapacity": 10, "category": "liquid"}

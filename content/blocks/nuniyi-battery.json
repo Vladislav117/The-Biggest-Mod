@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nuniyi battery", "description": "...", "size": 3, "health": 344, "requirements": [{"item": "nuniyi", "amount": 6}, {"item": "dabi", "amount": 14}, {"item": "beyasonium", "amount": 6}], "research": "nuniyi-factory", "consumes": {"powerBuffered": 2548}, "category": "power"}

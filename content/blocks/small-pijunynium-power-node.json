@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pijunynium power node", "description": "...", "size": 1, "health": 292, "requirements": [{"item": "pijunynium", "amount": 11}, {"item": "pigydinium", "amount": 20}, {"item": "hyfeho", "amount": 7}], "research": "pijunynium-factory", "maxNodes": 27, "laserRange": 22, "category": "power"}

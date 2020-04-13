@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lisaca liquid tank", "description": "...", "health": 378, "size": 3, "requirements": [{"item": "lisaca", "amount": 9}, {"item": "haqu", "amount": 7}, {"item": "gineta", "amount": 4}], "research": "lisaca-conduit", "category": "liquid", "liquidCapacity": 115266, "hasLiquids": true}

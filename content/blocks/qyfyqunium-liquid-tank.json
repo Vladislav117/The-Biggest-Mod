@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qyfyqunium liquid tank", "description": "...", "health": 159, "size": 3, "requirements": [{"item": "qyfyqunium", "amount": 5}, {"item": "yatymo", "amount": 15}, {"item": "tuzy", "amount": 2}], "research": "qyfyqunium-conduit", "category": "liquid", "liquidCapacity": 5448, "hasLiquids": true}

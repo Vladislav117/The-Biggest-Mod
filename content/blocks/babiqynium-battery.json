@@ -1,0 +1,1 @@
+{"type": "battery", "name": "babiqynium battery", "description": "...", "size": 3, "health": 102, "requirements": [{"item": "babiqynium", "amount": 19}, {"item": "zele", "amount": 18}, {"item": "ragoku", "amount": 2}], "research": "babiqynium-factory", "consumes": {"powerBuffered": 9898}, "category": "power"}

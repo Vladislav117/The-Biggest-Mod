@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vadunium underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "vadunium", "amount": 1}, {"item": "nidujo", "amount": 1}], "research": "vadunium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nigynium power node", "description": "...", "size": 2, "health": 497, "requirements": [{"item": "nigynium", "amount": 16}, {"item": "letohy", "amount": 17}, {"item": "lywu", "amount": 5}], "research": "nigynium-factory", "maxNodes": 26, "laserRange": 22, "category": "power"}

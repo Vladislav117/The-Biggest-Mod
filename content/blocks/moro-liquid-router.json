@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "moro liquid router", "description": "...", "size": 1, "health": 15, "requirements": [{"item": "moro", "amount": 10}, {"item": "nuso", "amount": 10}, {"item": "joky", "amount": 1}], "research": "moro-conduit", "liquidCapacity": 10, "category": "liquid"}

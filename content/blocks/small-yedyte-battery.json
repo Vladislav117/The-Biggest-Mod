@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yedyte battery", "description": "...", "size": 1, "health": 226, "requirements": [{"item": "yedyte", "amount": 7}, {"item": "siqefo", "amount": 10}, {"item": "rukycu", "amount": 6}], "research": "yedyte-factory", "consumes": {"powerBuffered": 2432}, "category": "power"}

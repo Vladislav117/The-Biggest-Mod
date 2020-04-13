@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hyse battery", "description": "...", "size": 3, "health": 361, "requirements": [{"item": "hyse", "amount": 13}, {"item": "difyyi", "amount": 18}, {"item": "dywusunium", "amount": 6}], "research": "hyse-factory", "consumes": {"powerBuffered": 3946}, "category": "power"}

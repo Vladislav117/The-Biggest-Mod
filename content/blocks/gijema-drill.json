@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gijema drill", "description": "...", "size": 2, "health": 430, "tier": 1, "drillTime": 1, "consumes": {"power": 11}, "requirements": [{"item": "gijema", "amount": 9}, {"item": "dowa", "amount": 19}, {"item": "vosixe", "amount": 9}], "research": "gijema-factory", "category": "production"}

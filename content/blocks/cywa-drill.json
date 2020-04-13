@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "cywa drill", "description": "...", "size": 3, "health": 146, "tier": 4, "drillTime": 5, "consumes": {"power": 10}, "requirements": [{"item": "cywa", "amount": 19}, {"item": "cudy", "amount": 12}, {"item": "howu", "amount": 1}], "research": "cywa-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ciremo battery", "description": "...", "size": 3, "health": 318, "requirements": [{"item": "ciremo", "amount": 20}, {"item": "mygo", "amount": 4}, {"item": "sexinium", "amount": 4}], "research": "ciremo-factory", "consumes": {"powerBuffered": 7204}, "category": "power"}

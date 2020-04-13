@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wifu power node", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "wifu", "amount": 18}, {"item": "mowu", "amount": 18}, {"item": "nazananium", "amount": 9}], "research": "wifu-factory", "maxNodes": 13, "laserRange": 3, "category": "power"}

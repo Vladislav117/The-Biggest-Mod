@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tasynium conduit", "description": "...", "health": 107, "requirements": [{"item": "tasynium", "amount": 8}, {"item": "mygi", "amount": 5}, {"item": "vanuhenium", "amount": 10}], "liquidCapacity": 28, "liquidPressure": 7, "research": "tasynium-factory", "category": "liquid"}

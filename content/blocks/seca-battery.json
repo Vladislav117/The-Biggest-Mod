@@ -1,0 +1,1 @@
+{"type": "battery", "name": "seca battery", "description": "...", "size": 3, "health": 218, "requirements": [{"item": "seca", "amount": 2}, {"item": "qylino", "amount": 6}, {"item": "thorium", "amount": 7}], "research": "seca-factory", "consumes": {"powerBuffered": 3947}, "category": "power"}

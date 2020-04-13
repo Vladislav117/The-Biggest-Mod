@@ -1,0 +1,1 @@
+{"type": "junction", "name": "saxa junction", "description": "...", "health": 18, "speed": 8, "capacity": 19, "size": 1, "requirements": [{"item": "saxa", "amount": 4}, {"item": "cokigo", "amount": 4}], "research": "saxa-conveyor", "category": "distribution"}

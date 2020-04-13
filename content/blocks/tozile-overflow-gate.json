@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tozile overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "tozile", "amount": 3}, {"item": "yojagu", "amount": 2}], "research": "tozile-conveyor", "category": "distribution", "invert": false}

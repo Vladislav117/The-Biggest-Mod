@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cogy underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "cogy", "amount": 2}, {"item": "cixe", "amount": 1}], "research": "cogy-conveyor", "category": "distribution", "invert": false}

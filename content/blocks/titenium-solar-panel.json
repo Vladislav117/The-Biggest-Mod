@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "titenium solar panel", "description": "...", "size": 3, "health": 283, "requirements": [{"item": "titenium", "amount": 19}, {"item": "dimysynium", "amount": 20}, {"item": "zilida", "amount": 2}], "research": "titenium-factory", "powerProduction": 0.01470435625683202, "category": "power"}

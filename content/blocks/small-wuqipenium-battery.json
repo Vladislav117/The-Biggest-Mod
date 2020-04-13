@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wuqipenium battery", "description": "...", "size": 1, "health": 225, "requirements": [{"item": "wuqipenium", "amount": 1}, {"item": "syso", "amount": 11}, {"item": "byre", "amount": 5}], "research": "wuqipenium-factory", "consumes": {"powerBuffered": 2978}, "category": "power"}

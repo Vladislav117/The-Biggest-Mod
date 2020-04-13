@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dala bridge conveyor", "description": "", "health": 34, "range": 14, "speed": 16, "bufferCapacity": 9, "requirements": [{"item": "dala", "amount": 4}, {"item": "rahonium", "amount": 3}], "research": "dala-conveyor", "category": "distribution", "size": 1}

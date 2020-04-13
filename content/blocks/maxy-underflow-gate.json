@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "maxy underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "maxy", "amount": 2}, {"item": "cari", "amount": 1}], "research": "maxy-conveyor", "category": "distribution", "invert": false}

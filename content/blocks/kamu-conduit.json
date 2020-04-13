@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kamu conduit", "description": "...", "health": 63, "requirements": [{"item": "kamu", "amount": 19}, {"item": "cazewy", "amount": 17}, {"item": "sute", "amount": 10}], "liquidCapacity": 35, "liquidPressure": 7, "research": "kamu-factory", "category": "liquid"}

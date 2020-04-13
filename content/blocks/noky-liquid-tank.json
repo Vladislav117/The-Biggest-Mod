@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "noky liquid tank", "description": "...", "health": 444, "size": 3, "requirements": [{"item": "noky", "amount": 10}, {"item": "pato", "amount": 8}, {"item": "gyzuju", "amount": 6}], "research": "noky-conduit", "category": "liquid", "liquidCapacity": 68068, "hasLiquids": true}

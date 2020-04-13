@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yyva liquid tank", "description": "...", "health": 284, "size": 3, "requirements": [{"item": "yyva", "amount": 2}, {"item": "mapanium", "amount": 5}, {"item": "padopu", "amount": 1}], "research": "yyva-conduit", "category": "liquid", "liquidCapacity": 37301, "hasLiquids": true}

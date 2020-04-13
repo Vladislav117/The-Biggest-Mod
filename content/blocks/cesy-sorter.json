@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cesy sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "cesy", "amount": 2}, {"item": "wicapy", "amount": 2}], "research": "cesy-conveyor", "category": "distribution", "invert": false}

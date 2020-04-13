@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xafeku underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "xafeku", "amount": 4}, {"item": "weweco", "amount": 5}], "research": "xafeku-conveyor", "category": "distribution", "invert": false}

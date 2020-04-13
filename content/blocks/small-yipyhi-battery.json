@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yipyhi battery", "description": "...", "size": 1, "health": 93, "requirements": [{"item": "yipyhi", "amount": 10}, {"item": "ciba", "amount": 12}, {"item": "covaco", "amount": 7}], "research": "yipyhi-factory", "consumes": {"powerBuffered": 541}, "category": "power"}

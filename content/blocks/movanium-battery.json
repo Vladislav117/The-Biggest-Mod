@@ -1,0 +1,1 @@
+{"type": "battery", "name": "movanium battery", "description": "...", "size": 3, "health": 351, "requirements": [{"item": "movanium", "amount": 14}, {"item": "tuxu", "amount": 15}, {"item": "titanium", "amount": 7}], "research": "movanium-factory", "consumes": {"powerBuffered": 2370}, "category": "power"}

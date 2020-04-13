@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cenunium battery", "description": "...", "size": 3, "health": 291, "requirements": [{"item": "cenunium", "amount": 15}, {"item": "vosixe", "amount": 10}, {"item": "teyipu", "amount": 2}], "research": "cenunium-factory", "consumes": {"powerBuffered": 2400}, "category": "power"}

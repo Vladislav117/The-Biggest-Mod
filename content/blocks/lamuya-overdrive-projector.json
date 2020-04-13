@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "lamuya overdrive projector", "description": "...", "health": 118, "consumes": {"power": 3.0, "item": "lamuya"}, "size": 2, "requirements": [{"item": "lamuya", "amount": 3}, {"item": "mufosinium", "amount": 17}, {"item": "tyzonium", "amount": 2}], "research": "lamuya-factory", "category": "effect"}

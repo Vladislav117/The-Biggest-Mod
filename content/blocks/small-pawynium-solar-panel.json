@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pawynium solar panel", "description": "...", "size": 1, "health": 166, "requirements": [{"item": "pawynium", "amount": 14}, {"item": "ledome", "amount": 3}, {"item": "qedene", "amount": 2}], "research": "pawynium-factory", "powerProduction": 1.2901487082366987, "category": "power"}

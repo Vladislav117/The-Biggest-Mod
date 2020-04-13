@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "poyaye power node", "description": "...", "size": 2, "health": 112, "requirements": [{"item": "poyaye", "amount": 7}, {"item": "mebu", "amount": 7}, {"item": "xadyyo", "amount": 4}], "research": "poyaye-factory", "maxNodes": 49, "laserRange": 28, "category": "power"}

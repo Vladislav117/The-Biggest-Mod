@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bayice solar panel", "description": "...", "size": 1, "health": 223, "requirements": [{"item": "bayice", "amount": 10}, {"item": "tobu", "amount": 13}, {"item": "civu", "amount": 1}], "research": "bayice-factory", "powerProduction": 2.9997974025690266, "category": "power"}

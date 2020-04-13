@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pusu battery", "description": "...", "size": 3, "health": 282, "requirements": [{"item": "pusu", "amount": 19}, {"item": "byre", "amount": 1}, {"item": "togygi", "amount": 6}], "research": "pusu-factory", "consumes": {"powerBuffered": 712}, "category": "power"}

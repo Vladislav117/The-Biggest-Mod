@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qenu solar panel", "description": "...", "size": 3, "health": 290, "requirements": [{"item": "qenu", "amount": 1}, {"item": "ziwo", "amount": 12}, {"item": "balyvo", "amount": 6}], "research": "qenu-factory", "powerProduction": 1.0183536744657116, "category": "power"}

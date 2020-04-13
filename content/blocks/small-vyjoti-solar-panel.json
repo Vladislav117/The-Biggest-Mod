@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vyjoti solar panel", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "vyjoti", "amount": 20}, {"item": "zuwydy", "amount": 12}, {"item": "cydeyy", "amount": 5}], "research": "vyjoti-factory", "powerProduction": 1.1711868837845876, "category": "power"}

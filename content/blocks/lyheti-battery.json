@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lyheti battery", "description": "...", "size": 3, "health": 80, "requirements": [{"item": "lyheti", "amount": 17}, {"item": "faqymu", "amount": 19}, {"item": "giho", "amount": 4}], "research": "lyheti-factory", "consumes": {"powerBuffered": 7498}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vanuhenium conduit", "description": "...", "health": 95, "requirements": [{"item": "vanuhenium", "amount": 10}, {"item": "kawo", "amount": 7}, {"item": "rale", "amount": 7}], "liquidCapacity": 35, "liquidPressure": 1, "research": "vanuhenium-factory", "category": "liquid"}

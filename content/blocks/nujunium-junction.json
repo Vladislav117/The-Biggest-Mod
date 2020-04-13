@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nujunium junction", "description": "...", "health": 14, "speed": 14, "capacity": 16, "size": 1, "requirements": [{"item": "nujunium", "amount": 1}, {"item": "qepusenium", "amount": 2}], "research": "nujunium-conveyor", "category": "distribution"}

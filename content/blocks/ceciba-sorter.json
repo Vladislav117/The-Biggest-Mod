@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ceciba sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "ceciba", "amount": 2}, {"item": "bajenium", "amount": 2}], "research": "ceciba-conveyor", "category": "distribution", "invert": false}

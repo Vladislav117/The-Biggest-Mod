@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tykuka inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "tykuka", "amount": 3}, {"item": "qupu", "amount": 5}], "research": "tykuka-conveyor", "category": "distribution", "invert": true}

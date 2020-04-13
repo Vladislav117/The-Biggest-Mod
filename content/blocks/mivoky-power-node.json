@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mivoky power node", "description": "...", "size": 2, "health": 354, "requirements": [{"item": "mivoky", "amount": 19}, {"item": "vojenium", "amount": 6}, {"item": "zuzequ", "amount": 6}], "research": "mivoky-factory", "maxNodes": 39, "laserRange": 10, "category": "power"}

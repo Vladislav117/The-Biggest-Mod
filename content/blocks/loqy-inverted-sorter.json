@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "loqy inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "loqy", "amount": 2}, {"item": "lumasunium", "amount": 1}], "research": "loqy-conveyor", "category": "distribution", "invert": true}

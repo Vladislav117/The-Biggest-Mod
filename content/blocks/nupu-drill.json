@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nupu drill", "description": "...", "size": 4, "health": 148, "tier": 3, "drillTime": 17, "consumes": {"power": 2}, "requirements": [{"item": "nupu", "amount": 4}, {"item": "qubyra", "amount": 19}, {"item": "zazuti", "amount": 10}], "research": "nupu-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "netito liquid router", "description": "...", "size": 1, "health": 21, "requirements": [{"item": "netito", "amount": 10}, {"item": "havipi", "amount": 20}, {"item": "vevudinium", "amount": 4}], "research": "netito-conduit", "liquidCapacity": 10, "category": "liquid"}

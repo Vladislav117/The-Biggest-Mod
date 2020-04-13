@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dituna overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "dituna", "amount": 2}, {"item": "zyqita", "amount": 2}], "research": "dituna-conveyor", "category": "distribution", "invert": false}

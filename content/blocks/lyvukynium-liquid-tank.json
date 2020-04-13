@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lyvukynium liquid tank", "description": "...", "health": 581, "size": 3, "requirements": [{"item": "lyvukynium", "amount": 11}, {"item": "mehenium", "amount": 12}, {"item": "cydofunium", "amount": 9}], "research": "lyvukynium-conduit", "category": "liquid", "liquidCapacity": 80952, "hasLiquids": true}

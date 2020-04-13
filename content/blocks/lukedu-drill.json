@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lukedu drill", "description": "...", "size": 2, "health": 139, "tier": 1, "drillTime": 3, "consumes": {"power": 19}, "requirements": [{"item": "lukedu", "amount": 2}, {"item": "gizely", "amount": 7}, {"item": "yebyte", "amount": 10}], "research": "lukedu-factory", "category": "production"}

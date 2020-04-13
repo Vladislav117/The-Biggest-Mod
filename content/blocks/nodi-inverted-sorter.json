@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nodi inverted sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "nodi", "amount": 1}, {"item": "paboya", "amount": 1}], "research": "nodi-conveyor", "category": "distribution", "invert": true}

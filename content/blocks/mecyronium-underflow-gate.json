@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mecyronium underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "mecyronium", "amount": 1}, {"item": "wekami", "amount": 2}], "research": "mecyronium-conveyor", "category": "distribution", "invert": false}

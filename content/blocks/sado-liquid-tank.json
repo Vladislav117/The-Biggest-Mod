@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sado liquid tank", "description": "...", "health": 586, "size": 3, "requirements": [{"item": "sado", "amount": 7}, {"item": "vodynium", "amount": 5}, {"item": "semy", "amount": 8}], "research": "sado-conduit", "category": "liquid", "liquidCapacity": 44538, "hasLiquids": true}

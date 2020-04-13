@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vuru conduit", "description": "...", "health": 44, "requirements": [{"item": "vuru", "amount": 5}, {"item": "delo", "amount": 4}, {"item": "seyobo", "amount": 2}], "liquidCapacity": 22, "liquidPressure": 6, "research": "vuru-factory", "category": "liquid"}

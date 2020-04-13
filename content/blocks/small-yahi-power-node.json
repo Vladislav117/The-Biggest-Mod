@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yahi power node", "description": "...", "size": 1, "health": 105, "requirements": [{"item": "yahi", "amount": 17}, {"item": "gunery", "amount": 3}, {"item": "heho", "amount": 6}], "research": "yahi-factory", "maxNodes": 3, "laserRange": 11, "category": "power"}

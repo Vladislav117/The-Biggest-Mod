@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dijo power node", "description": "...", "size": 1, "health": 308, "requirements": [{"item": "dijo", "amount": 8}, {"item": "yatymo", "amount": 18}, {"item": "zexi", "amount": 9}], "research": "dijo-factory", "maxNodes": 6, "laserRange": 24, "category": "power"}

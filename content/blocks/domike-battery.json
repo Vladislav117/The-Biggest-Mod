@@ -1,0 +1,1 @@
+{"type": "battery", "name": "domike battery", "description": "...", "size": 3, "health": 68, "requirements": [{"item": "domike", "amount": 20}, {"item": "waha", "amount": 8}, {"item": "viwimynium", "amount": 1}], "research": "domike-factory", "consumes": {"powerBuffered": 1783}, "category": "power"}

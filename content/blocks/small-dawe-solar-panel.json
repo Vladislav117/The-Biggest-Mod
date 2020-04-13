@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dawe solar panel", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "dawe", "amount": 20}, {"item": "mawanium", "amount": 17}, {"item": "kyte", "amount": 10}], "research": "dawe-factory", "powerProduction": 1.9311742518751278, "category": "power"}

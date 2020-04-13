@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xesinynium junction", "description": "...", "health": 7, "speed": 12, "capacity": 8, "size": 1, "requirements": [{"item": "xesinynium", "amount": 5}, {"item": "zokiry", "amount": 4}], "research": "xesinynium-conveyor", "category": "distribution"}

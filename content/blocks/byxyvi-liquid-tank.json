@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "byxyvi liquid tank", "description": "...", "health": 417, "size": 3, "requirements": [{"item": "byxyvi", "amount": 5}, {"item": "bomynium", "amount": 17}, {"item": "taja", "amount": 9}], "research": "byxyvi-conduit", "category": "liquid", "liquidCapacity": 47109, "hasLiquids": true}

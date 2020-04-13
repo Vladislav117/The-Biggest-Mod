@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small huwafy solar panel", "description": "...", "size": 1, "health": 171, "requirements": [{"item": "huwafy", "amount": 20}, {"item": "xeru", "amount": 10}, {"item": "pyce", "amount": 10}], "research": "huwafy-factory", "powerProduction": 1.282612029154134, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "laxu force projector", "description": "...", "health": 225, "size": 3, "consumes": {"power": 5.0, "item": "laxu"}, "requirements": [{"item": "laxu", "amount": 5}, {"item": "laxu", "amount": 11}, {"item": "lewanium", "amount": 7}], "research": "laxu-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xotomu junction", "description": "...", "health": 39, "speed": 16, "capacity": 12, "size": 1, "requirements": [{"item": "xotomu", "amount": 1}, {"item": "fygonium", "amount": 2}], "research": "xotomu-conveyor", "category": "distribution"}

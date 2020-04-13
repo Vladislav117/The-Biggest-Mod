@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mubu power node", "description": "...", "size": 2, "health": 387, "requirements": [{"item": "mubu", "amount": 7}, {"item": "giha", "amount": 5}, {"item": "panuwe", "amount": 1}], "research": "mubu-factory", "maxNodes": 12, "laserRange": 8, "category": "power"}

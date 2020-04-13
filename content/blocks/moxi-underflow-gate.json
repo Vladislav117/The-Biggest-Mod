@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "moxi underflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "moxi", "amount": 5}, {"item": "yepy", "amount": 4}], "research": "moxi-conveyor", "category": "distribution", "invert": false}

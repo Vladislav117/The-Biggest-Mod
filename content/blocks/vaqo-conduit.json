@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vaqo conduit", "description": "...", "health": 36, "requirements": [{"item": "vaqo", "amount": 5}, {"item": "dyzo", "amount": 20}, {"item": "yaxuda", "amount": 8}], "liquidCapacity": 42, "liquidPressure": 2, "research": "vaqo-factory", "category": "liquid"}

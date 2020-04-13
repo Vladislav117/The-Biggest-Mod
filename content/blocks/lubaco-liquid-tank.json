@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lubaco liquid tank", "description": "...", "health": 231, "size": 3, "requirements": [{"item": "lubaco", "amount": 3}, {"item": "waje", "amount": 9}, {"item": "fytuve", "amount": 8}], "research": "lubaco-conduit", "category": "liquid", "liquidCapacity": 8507, "hasLiquids": true}

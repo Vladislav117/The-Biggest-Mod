@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tygoqa solar panel", "description": "...", "size": 1, "health": 217, "requirements": [{"item": "tygoqa", "amount": 3}, {"item": "sebobe", "amount": 3}, {"item": "vevati", "amount": 9}], "research": "tygoqa-factory", "powerProduction": 0.12808556504687518, "category": "power"}

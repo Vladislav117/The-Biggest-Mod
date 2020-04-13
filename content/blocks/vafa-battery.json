@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vafa battery", "description": "...", "size": 3, "health": 325, "requirements": [{"item": "vafa", "amount": 11}, {"item": "toma", "amount": 8}, {"item": "cozaxo", "amount": 10}], "research": "vafa-factory", "consumes": {"powerBuffered": 2501}, "category": "power"}

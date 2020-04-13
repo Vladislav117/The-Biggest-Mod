@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yyyyge inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "yyyyge", "amount": 4}, {"item": "cyta", "amount": 1}], "research": "yyyyge-conveyor", "category": "distribution", "invert": true}

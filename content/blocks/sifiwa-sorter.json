@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sifiwa sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "sifiwa", "amount": 3}, {"item": "zywave", "amount": 1}], "research": "sifiwa-conveyor", "category": "distribution", "invert": false}

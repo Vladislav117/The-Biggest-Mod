@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vocopy solar panel", "description": "...", "size": 1, "health": 276, "requirements": [{"item": "vocopy", "amount": 11}, {"item": "wulu", "amount": 12}, {"item": "giha", "amount": 7}], "research": "vocopy-factory", "powerProduction": 0.0027896640808845173, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fizy solar panel", "description": "...", "size": 3, "health": 127, "requirements": [{"item": "fizy", "amount": 9}, {"item": "surge-alloy", "amount": 15}, {"item": "zyqita", "amount": 5}], "research": "fizy-factory", "powerProduction": 1.5845053992463076, "category": "power"}

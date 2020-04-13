@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "peso inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "peso", "amount": 1}, {"item": "xuzy", "amount": 3}], "research": "peso-conveyor", "category": "distribution", "invert": true}

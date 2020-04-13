@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small byru solar panel", "description": "...", "size": 1, "health": 190, "requirements": [{"item": "byru", "amount": 3}, {"item": "kefy", "amount": 16}, {"item": "qypusa", "amount": 4}], "research": "byru-factory", "powerProduction": 1.2276846819338558, "category": "power"}

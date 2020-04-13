@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sahylu solar panel", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "sahylu", "amount": 19}, {"item": "yigonenium", "amount": 17}, {"item": "dipyfonium", "amount": 3}], "research": "sahylu-factory", "powerProduction": 3.794429808498509, "category": "power"}

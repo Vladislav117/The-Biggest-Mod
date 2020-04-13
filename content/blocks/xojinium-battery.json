@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xojinium battery", "description": "...", "size": 3, "health": 268, "requirements": [{"item": "xojinium", "amount": 8}, {"item": "zatire", "amount": 10}, {"item": "qepusenium", "amount": 6}], "research": "xojinium-factory", "consumes": {"powerBuffered": 9839}, "category": "power"}

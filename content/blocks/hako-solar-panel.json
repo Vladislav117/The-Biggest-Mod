@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hako solar panel", "description": "...", "size": 3, "health": 109, "requirements": [{"item": "hako", "amount": 15}, {"item": "wylobo", "amount": 5}, {"item": "wiqe", "amount": 10}], "research": "hako-factory", "powerProduction": 0.04316872731912544, "category": "power"}

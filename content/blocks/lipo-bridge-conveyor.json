@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lipo bridge conveyor", "description": "", "health": 12, "range": 19, "speed": 11, "bufferCapacity": 19, "requirements": [{"item": "lipo", "amount": 1}, {"item": "ceciba", "amount": 2}], "research": "lipo-conveyor", "category": "distribution", "size": 1}

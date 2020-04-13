@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pocunium solar panel", "description": "...", "size": 1, "health": 354, "requirements": [{"item": "pocunium", "amount": 10}, {"item": "yukoni", "amount": 19}, {"item": "makonium", "amount": 9}], "research": "pocunium-factory", "powerProduction": 2.1620535997781847, "category": "power"}

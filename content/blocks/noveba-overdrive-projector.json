@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "noveba overdrive projector", "description": "...", "health": 50, "consumes": {"power": 3.0, "item": "noveba"}, "size": 2, "requirements": [{"item": "noveba", "amount": 10}, {"item": "puzybo", "amount": 5}, {"item": "dowoca", "amount": 4}], "research": "noveba-factory", "category": "effect"}

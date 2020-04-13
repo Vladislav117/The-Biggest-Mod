@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small holanynium solar panel", "description": "...", "size": 1, "health": 194, "requirements": [{"item": "holanynium", "amount": 8}, {"item": "cymaca", "amount": 17}, {"item": "maqapy", "amount": 2}], "research": "holanynium-factory", "powerProduction": 0.7487888636571082, "category": "power"}

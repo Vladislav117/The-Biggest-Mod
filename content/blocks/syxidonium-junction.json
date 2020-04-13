@@ -1,0 +1,1 @@
+{"type": "junction", "name": "syxidonium junction", "description": "...", "health": 28, "speed": 6, "capacity": 9, "size": 1, "requirements": [{"item": "syxidonium", "amount": 5}, {"item": "surge-alloy", "amount": 4}], "research": "syxidonium-conveyor", "category": "distribution"}

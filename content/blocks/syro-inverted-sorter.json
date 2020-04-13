@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "syro inverted sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "syro", "amount": 2}, {"item": "leriki", "amount": 1}], "research": "syro-conveyor", "category": "distribution", "invert": true}

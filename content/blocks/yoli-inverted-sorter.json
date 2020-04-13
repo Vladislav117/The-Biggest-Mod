@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yoli inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "yoli", "amount": 2}, {"item": "nuno", "amount": 4}], "research": "yoli-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xozime solar panel", "description": "...", "size": 3, "health": 297, "requirements": [{"item": "xozime", "amount": 12}, {"item": "vema", "amount": 4}, {"item": "fygunium", "amount": 10}], "research": "xozime-factory", "powerProduction": 3.979556206719231, "category": "power"}

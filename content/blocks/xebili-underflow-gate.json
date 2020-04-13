@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xebili underflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "xebili", "amount": 5}, {"item": "wigyre", "amount": 5}], "research": "xebili-conveyor", "category": "distribution", "invert": false}

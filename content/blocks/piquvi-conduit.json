@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "piquvi conduit", "description": "...", "health": 151, "requirements": [{"item": "piquvi", "amount": 18}, {"item": "siwi", "amount": 13}, {"item": "merule", "amount": 5}], "liquidCapacity": 36, "liquidPressure": 6, "research": "piquvi-factory", "category": "liquid"}

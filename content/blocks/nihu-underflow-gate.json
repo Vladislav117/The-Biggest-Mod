@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nihu underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "nihu", "amount": 3}, {"item": "jalenium", "amount": 3}], "research": "nihu-conveyor", "category": "distribution", "invert": false}

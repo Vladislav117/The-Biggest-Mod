@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pegonium liquid tank", "description": "...", "health": 126, "size": 3, "requirements": [{"item": "pegonium", "amount": 11}, {"item": "bulile", "amount": 6}, {"item": "bopu", "amount": 6}], "research": "pegonium-conduit", "category": "liquid", "liquidCapacity": 81181, "hasLiquids": true}

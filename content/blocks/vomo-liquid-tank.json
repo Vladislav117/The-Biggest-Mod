@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vomo liquid tank", "description": "...", "health": 661, "size": 3, "requirements": [{"item": "vomo", "amount": 11}, {"item": "goxylo", "amount": 12}, {"item": "lifuvinium", "amount": 7}], "research": "vomo-conduit", "category": "liquid", "liquidCapacity": 57944, "hasLiquids": true}

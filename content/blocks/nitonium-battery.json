@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nitonium battery", "description": "...", "size": 3, "health": 237, "requirements": [{"item": "nitonium", "amount": 3}, {"item": "hyxy", "amount": 11}, {"item": "zityyanium", "amount": 9}], "research": "nitonium-factory", "consumes": {"powerBuffered": 899}, "category": "power"}

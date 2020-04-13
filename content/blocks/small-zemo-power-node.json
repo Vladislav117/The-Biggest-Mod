@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zemo power node", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "zemo", "amount": 6}, {"item": "xymaxu", "amount": 18}, {"item": "sihi", "amount": 1}], "research": "zemo-factory", "maxNodes": 6, "laserRange": 4, "category": "power"}

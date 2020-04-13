@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "doxuri power node", "description": "...", "size": 2, "health": 370, "requirements": [{"item": "doxuri", "amount": 12}, {"item": "joxona", "amount": 14}, {"item": "jeqidynium", "amount": 4}], "research": "doxuri-factory", "maxNodes": 29, "laserRange": 5, "category": "power"}

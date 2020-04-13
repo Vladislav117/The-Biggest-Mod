@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dipi liquid tank", "description": "...", "health": 311, "size": 3, "requirements": [{"item": "dipi", "amount": 10}, {"item": "refoty", "amount": 6}, {"item": "menode", "amount": 10}], "research": "dipi-conduit", "category": "liquid", "liquidCapacity": 22278, "hasLiquids": true}

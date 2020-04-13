@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vevati liquid tank", "description": "...", "health": 162, "size": 3, "requirements": [{"item": "vevati", "amount": 19}, {"item": "joqopy", "amount": 12}, {"item": "nimawo", "amount": 7}], "research": "vevati-conduit", "category": "liquid", "liquidCapacity": 114907, "hasLiquids": true}

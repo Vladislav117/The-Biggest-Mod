@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hunu battery", "description": "...", "size": 3, "health": 399, "requirements": [{"item": "hunu", "amount": 16}, {"item": "fanaka", "amount": 2}, {"item": "byqi", "amount": 4}], "research": "hunu-factory", "consumes": {"powerBuffered": 2814}, "category": "power"}

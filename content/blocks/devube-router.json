@@ -1,0 +1,1 @@
+{"type": "router", "name": "devube router", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "devube", "amount": 6}], "research": "devube-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yeby solar panel", "description": "...", "size": 3, "health": 106, "requirements": [{"item": "yeby", "amount": 19}, {"item": "rogoly", "amount": 6}, {"item": "wybenium", "amount": 7}], "research": "yeby-factory", "powerProduction": 0.5658427790759957, "category": "power"}

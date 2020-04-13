@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sylumo liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "sylumo", "amount": 10}, {"item": "rymojanium", "amount": 20}, {"item": "phase-fabric", "amount": 9}], "research": "sylumo-conduit", "liquidCapacity": 10, "category": "liquid"}

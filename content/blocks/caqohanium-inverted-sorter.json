@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "caqohanium inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "caqohanium", "amount": 4}, {"item": "zyhebe", "amount": 1}], "research": "caqohanium-conveyor", "category": "distribution", "invert": true}

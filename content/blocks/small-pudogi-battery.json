@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pudogi battery", "description": "...", "size": 1, "health": 205, "requirements": [{"item": "pudogi", "amount": 2}, {"item": "monu", "amount": 19}, {"item": "bogovy", "amount": 7}], "research": "pudogi-factory", "consumes": {"powerBuffered": 1880}, "category": "power"}

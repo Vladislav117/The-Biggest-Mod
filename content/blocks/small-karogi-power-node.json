@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small karogi power node", "description": "...", "size": 1, "health": 166, "requirements": [{"item": "karogi", "amount": 10}, {"item": "nataki", "amount": 19}, {"item": "pocunium", "amount": 7}], "research": "karogi-factory", "maxNodes": 20, "laserRange": 5, "category": "power"}

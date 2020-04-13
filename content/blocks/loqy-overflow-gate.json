@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "loqy overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "loqy", "amount": 4}, {"item": "pubado", "amount": 1}], "research": "loqy-conveyor", "category": "distribution", "invert": false}

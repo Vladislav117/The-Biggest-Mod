@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kado conduit", "description": "...", "health": 86, "requirements": [{"item": "kado", "amount": 10}, {"item": "neda", "amount": 20}, {"item": "syqyki", "amount": 10}], "liquidCapacity": 36, "liquidPressure": 2, "research": "kado-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hisa battery", "description": "...", "size": 3, "health": 244, "requirements": [{"item": "hisa", "amount": 6}, {"item": "gayika", "amount": 11}, {"item": "vywy", "amount": 4}], "research": "hisa-factory", "consumes": {"powerBuffered": 2095}, "category": "power"}

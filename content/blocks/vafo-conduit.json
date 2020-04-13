@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vafo conduit", "description": "...", "health": 128, "requirements": [{"item": "vafo", "amount": 4}, {"item": "mityya", "amount": 6}, {"item": "focatu", "amount": 2}], "liquidCapacity": 36, "liquidPressure": 1, "research": "vafo-factory", "category": "liquid"}

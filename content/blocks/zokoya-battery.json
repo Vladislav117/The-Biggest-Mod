@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zokoya battery", "description": "...", "size": 3, "health": 30, "requirements": [{"item": "zokoya", "amount": 5}, {"item": "mabyra", "amount": 18}, {"item": "kecufi", "amount": 6}], "research": "zokoya-factory", "consumes": {"powerBuffered": 1888}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wigyre sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "wigyre", "amount": 4}, {"item": "silicon", "amount": 2}], "research": "wigyre-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gevewu battery", "description": "...", "size": 3, "health": 158, "requirements": [{"item": "gevewu", "amount": 3}, {"item": "yafo", "amount": 15}, {"item": "desadu", "amount": 9}], "research": "gevewu-factory", "consumes": {"powerBuffered": 8170}, "category": "power"}

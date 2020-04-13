@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "foriso solar panel", "description": "...", "size": 3, "health": 44, "requirements": [{"item": "foriso", "amount": 18}, {"item": "xeru", "amount": 2}, {"item": "jeqenium", "amount": 4}], "research": "foriso-factory", "powerProduction": 0.7970073197276777, "category": "power"}

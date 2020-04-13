@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "logybi conduit", "description": "...", "health": 22, "requirements": [{"item": "logybi", "amount": 5}, {"item": "wiyeda", "amount": 9}, {"item": "feqy", "amount": 3}], "liquidCapacity": 25, "liquidPressure": 4, "research": "logybi-factory", "category": "liquid"}

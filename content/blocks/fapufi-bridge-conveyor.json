@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fapufi bridge conveyor", "description": "", "health": 29, "range": 8, "speed": 2, "bufferCapacity": 3, "requirements": [{"item": "fapufi", "amount": 3}, {"item": "diwyci", "amount": 2}], "research": "fapufi-conveyor", "category": "distribution", "size": 1}

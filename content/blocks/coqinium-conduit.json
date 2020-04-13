@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "coqinium conduit", "description": "...", "health": 75, "requirements": [{"item": "coqinium", "amount": 16}, {"item": "viqamo", "amount": 1}, {"item": "puli", "amount": 7}], "liquidCapacity": 15, "liquidPressure": 0, "research": "coqinium-factory", "category": "liquid"}

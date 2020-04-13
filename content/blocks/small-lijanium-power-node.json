@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lijanium power node", "description": "...", "size": 1, "health": 387, "requirements": [{"item": "lijanium", "amount": 6}, {"item": "myxo", "amount": 6}, {"item": "rehyce", "amount": 7}], "research": "lijanium-factory", "maxNodes": 30, "laserRange": 12, "category": "power"}

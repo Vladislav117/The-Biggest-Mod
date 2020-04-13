@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yytiro liquid router", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "yytiro", "amount": 15}, {"item": "pojesu", "amount": 12}, {"item": "muremi", "amount": 8}], "research": "yytiro-conduit", "liquidCapacity": 10, "category": "liquid"}

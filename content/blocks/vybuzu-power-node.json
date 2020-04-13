@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vybuzu power node", "description": "...", "size": 2, "health": 342, "requirements": [{"item": "vybuzu", "amount": 9}, {"item": "xuricy", "amount": 17}, {"item": "hoguze", "amount": 2}], "research": "vybuzu-factory", "maxNodes": 33, "laserRange": 27, "category": "power"}

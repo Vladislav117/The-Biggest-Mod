@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mywoju junction", "description": "...", "health": 27, "speed": 4, "capacity": 12, "size": 1, "requirements": [{"item": "mywoju", "amount": 5}, {"item": "byre", "amount": 1}], "research": "mywoju-conveyor", "category": "distribution"}

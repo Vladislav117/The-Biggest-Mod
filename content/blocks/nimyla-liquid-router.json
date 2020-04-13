@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nimyla liquid router", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "nimyla", "amount": 18}, {"item": "jinu", "amount": 12}, {"item": "lane", "amount": 6}], "research": "nimyla-conduit", "liquidCapacity": 10, "category": "liquid"}

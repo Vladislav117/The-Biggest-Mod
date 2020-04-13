@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "valetynium conduit", "description": "...", "health": 120, "requirements": [{"item": "valetynium", "amount": 13}, {"item": "cigifi", "amount": 12}, {"item": "mucige", "amount": 9}], "liquidCapacity": 22, "liquidPressure": 9, "research": "valetynium-factory", "category": "liquid"}

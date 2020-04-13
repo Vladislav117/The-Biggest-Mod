@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yobany battery", "description": "...", "size": 3, "health": 191, "requirements": [{"item": "yobany", "amount": 17}, {"item": "yeyabi", "amount": 11}, {"item": "gacy", "amount": 3}], "research": "yobany-factory", "consumes": {"powerBuffered": 3040}, "category": "power"}

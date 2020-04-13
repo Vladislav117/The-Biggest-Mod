@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mylenium conduit", "description": "...", "health": 20, "requirements": [{"item": "mylenium", "amount": 11}, {"item": "qyhi", "amount": 1}, {"item": "fahi", "amount": 7}], "liquidCapacity": 1, "liquidPressure": 7, "research": "mylenium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yozucunium underflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "yozucunium", "amount": 1}, {"item": "sadani", "amount": 4}], "research": "yozucunium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "byveta liquid tank", "description": "...", "health": 333, "size": 3, "requirements": [{"item": "byveta", "amount": 15}, {"item": "ciqi", "amount": 16}, {"item": "ryte", "amount": 4}], "research": "byveta-conduit", "category": "liquid", "liquidCapacity": 95271, "hasLiquids": true}

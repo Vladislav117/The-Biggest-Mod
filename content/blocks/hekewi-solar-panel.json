@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hekewi solar panel", "description": "...", "size": 3, "health": 254, "requirements": [{"item": "hekewi", "amount": 19}, {"item": "jyzywonium", "amount": 5}, {"item": "pufere", "amount": 4}], "research": "hekewi-factory", "powerProduction": 0.8151907540981798, "category": "power"}

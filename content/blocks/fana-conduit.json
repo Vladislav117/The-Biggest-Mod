@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fana conduit", "description": "...", "health": 21, "requirements": [{"item": "fana", "amount": 16}, {"item": "byro", "amount": 10}, {"item": "sihycu", "amount": 10}], "liquidCapacity": 45, "liquidPressure": 0, "research": "fana-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yonegi solar panel", "description": "...", "size": 1, "health": 214, "requirements": [{"item": "yonegi", "amount": 13}, {"item": "hyqyno", "amount": 12}, {"item": "kiredi", "amount": 5}], "research": "yonegi-factory", "powerProduction": 7.182276011804959, "category": "power"}

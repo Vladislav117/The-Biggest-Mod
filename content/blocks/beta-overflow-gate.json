@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "beta overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "beta", "amount": 4}, {"item": "cazefu", "amount": 5}], "research": "beta-conveyor", "category": "distribution", "invert": false}

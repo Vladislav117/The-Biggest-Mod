@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "karogi power node", "description": "...", "size": 2, "health": 236, "requirements": [{"item": "karogi", "amount": 8}, {"item": "howu", "amount": 6}, {"item": "dobe", "amount": 6}], "research": "karogi-factory", "maxNodes": 50, "laserRange": 27, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "temaso power node", "description": "...", "size": 2, "health": 689, "requirements": [{"item": "temaso", "amount": 5}, {"item": "qeyanium", "amount": 8}, {"item": "jobobu", "amount": 2}], "research": "temaso-factory", "maxNodes": 31, "laserRange": 21, "category": "power"}

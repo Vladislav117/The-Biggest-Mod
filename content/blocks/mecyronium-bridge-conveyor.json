@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mecyronium bridge conveyor", "description": "", "health": 2, "range": 20, "speed": 17, "bufferCapacity": 17, "requirements": [{"item": "mecyronium", "amount": 1}, {"item": "qetyginium", "amount": 1}], "research": "mecyronium-conveyor", "category": "distribution", "size": 1}

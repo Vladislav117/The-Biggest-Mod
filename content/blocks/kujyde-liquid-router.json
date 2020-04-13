@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kujyde liquid router", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "kujyde", "amount": 4}, {"item": "hebohy", "amount": 16}, {"item": "lurenium", "amount": 1}], "research": "kujyde-conduit", "liquidCapacity": 10, "category": "liquid"}

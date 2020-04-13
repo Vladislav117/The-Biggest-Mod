@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "cypi conveyor", "description": "...", "health": 234, "requirements": [{"item": "cypi", "amount": 3}, {"item": "holy", "amount": 1}], "speed": 0.36898071730681237, "research": "cypi-factory", "category": "distribution"}

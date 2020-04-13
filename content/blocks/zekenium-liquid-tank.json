@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zekenium liquid tank", "description": "...", "health": 539, "size": 3, "requirements": [{"item": "zekenium", "amount": 17}, {"item": "bukiqenium", "amount": 6}, {"item": "tegizunium", "amount": 6}], "research": "zekenium-conduit", "category": "liquid", "liquidCapacity": 84304, "hasLiquids": true}

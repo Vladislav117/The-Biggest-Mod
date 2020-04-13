@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fole overflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "fole", "amount": 3}, {"item": "luyo", "amount": 2}], "research": "fole-conveyor", "category": "distribution", "invert": false}

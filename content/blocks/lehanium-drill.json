@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lehanium drill", "description": "...", "size": 2, "health": 241, "tier": 4, "drillTime": 6, "consumes": {"power": 13}, "requirements": [{"item": "lehanium", "amount": 15}, {"item": "ryho", "amount": 8}, {"item": "wiyeda", "amount": 6}], "research": "lehanium-factory", "category": "production"}

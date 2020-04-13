@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bezomo solar panel", "description": "...", "size": 3, "health": 110, "requirements": [{"item": "bezomo", "amount": 16}, {"item": "zihy", "amount": 2}, {"item": "yybinium", "amount": 8}], "research": "bezomo-factory", "powerProduction": 0.9725584817812155, "category": "power"}

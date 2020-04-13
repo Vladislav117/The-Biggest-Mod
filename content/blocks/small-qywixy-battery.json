@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qywixy battery", "description": "...", "size": 1, "health": 107, "requirements": [{"item": "qywixy", "amount": 15}, {"item": "vikasynium", "amount": 3}, {"item": "vosixe", "amount": 6}], "research": "qywixy-factory", "consumes": {"powerBuffered": 2771}, "category": "power"}

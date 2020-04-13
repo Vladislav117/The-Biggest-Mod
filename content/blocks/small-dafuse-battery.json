@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dafuse battery", "description": "...", "size": 1, "health": 148, "requirements": [{"item": "dafuse", "amount": 1}, {"item": "gorurenium", "amount": 7}, {"item": "pyki", "amount": 8}], "research": "dafuse-factory", "consumes": {"powerBuffered": 1069}, "category": "power"}

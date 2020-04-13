@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xumi liquid router", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "xumi", "amount": 17}, {"item": "syso", "amount": 17}, {"item": "saze", "amount": 2}], "research": "xumi-conduit", "liquidCapacity": 10, "category": "liquid"}

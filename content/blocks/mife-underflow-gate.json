@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mife underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "mife", "amount": 1}, {"item": "ryte", "amount": 4}], "research": "mife-conveyor", "category": "distribution", "invert": false}

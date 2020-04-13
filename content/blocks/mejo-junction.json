@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mejo junction", "description": "...", "health": 38, "speed": 19, "capacity": 13, "size": 1, "requirements": [{"item": "mejo", "amount": 5}, {"item": "hemumonium", "amount": 5}], "research": "mejo-conveyor", "category": "distribution"}

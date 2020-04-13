@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gozefynium bridge conveyor", "description": "", "health": 23, "range": 3, "speed": 3, "bufferCapacity": 16, "requirements": [{"item": "gozefynium", "amount": 5}, {"item": "titanium", "amount": 5}], "research": "gozefynium-conveyor", "category": "distribution", "size": 1}

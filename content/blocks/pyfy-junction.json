@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pyfy junction", "description": "...", "health": 40, "speed": 10, "capacity": 13, "size": 1, "requirements": [{"item": "pyfy", "amount": 1}, {"item": "fapufi", "amount": 1}], "research": "pyfy-conveyor", "category": "distribution"}

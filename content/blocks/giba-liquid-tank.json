@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "giba liquid tank", "description": "...", "health": 216, "size": 3, "requirements": [{"item": "giba", "amount": 4}, {"item": "yadyju", "amount": 3}, {"item": "qepyvonium", "amount": 8}], "research": "giba-conduit", "category": "liquid", "liquidCapacity": 18232, "hasLiquids": true}

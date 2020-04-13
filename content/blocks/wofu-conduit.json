@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wofu conduit", "description": "...", "health": 90, "requirements": [{"item": "wofu", "amount": 9}, {"item": "baqilo", "amount": 3}, {"item": "rizope", "amount": 9}], "liquidCapacity": 47, "liquidPressure": 4, "research": "wofu-factory", "category": "liquid"}

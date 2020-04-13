@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vysu underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "vysu", "amount": 3}, {"item": "povewo", "amount": 2}], "research": "vysu-conveyor", "category": "distribution", "invert": false}

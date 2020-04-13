@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xevanium bridge conveyor", "description": "", "health": 4, "range": 1, "speed": 20, "bufferCapacity": 4, "requirements": [{"item": "xevanium", "amount": 4}, {"item": "lyxele", "amount": 4}], "research": "xevanium-conveyor", "category": "distribution", "size": 1}

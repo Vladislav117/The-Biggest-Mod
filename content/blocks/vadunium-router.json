@@ -1,0 +1,1 @@
+{"type": "router", "name": "vadunium router", "description": "...", "health": 123, "size": 1, "requirements": [{"item": "vadunium", "amount": 1}], "research": "vadunium-conveyor", "category": "distribution"}

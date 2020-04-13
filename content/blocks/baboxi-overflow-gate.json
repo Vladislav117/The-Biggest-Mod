@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "baboxi overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "baboxi", "amount": 5}, {"item": "zefu", "amount": 2}], "research": "baboxi-conveyor", "category": "distribution", "invert": false}

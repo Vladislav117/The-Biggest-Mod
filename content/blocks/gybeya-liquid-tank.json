@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gybeya liquid tank", "description": "...", "health": 601, "size": 3, "requirements": [{"item": "gybeya", "amount": 1}, {"item": "tyjexanium", "amount": 13}, {"item": "vypeha", "amount": 1}], "research": "gybeya-conduit", "category": "liquid", "liquidCapacity": 42622, "hasLiquids": true}

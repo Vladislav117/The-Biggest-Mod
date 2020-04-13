@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bufywy junction", "description": "...", "health": 1, "speed": 6, "capacity": 16, "size": 1, "requirements": [{"item": "bufywy", "amount": 1}, {"item": "dowoca", "amount": 4}], "research": "bufywy-conveyor", "category": "distribution"}

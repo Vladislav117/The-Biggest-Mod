@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "joluxinium liquid tank", "description": "...", "health": 626, "size": 3, "requirements": [{"item": "joluxinium", "amount": 17}, {"item": "cupedi", "amount": 17}, {"item": "ruryjynium", "amount": 7}], "research": "joluxinium-conduit", "category": "liquid", "liquidCapacity": 47487, "hasLiquids": true}

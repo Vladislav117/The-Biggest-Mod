@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fise liquid tank", "description": "...", "health": 431, "size": 3, "requirements": [{"item": "fise", "amount": 17}, {"item": "ceny", "amount": 20}, {"item": "zada", "amount": 10}], "research": "fise-conduit", "category": "liquid", "liquidCapacity": 52161, "hasLiquids": true}

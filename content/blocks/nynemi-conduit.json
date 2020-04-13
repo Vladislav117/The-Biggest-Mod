@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nynemi conduit", "description": "...", "health": 177, "requirements": [{"item": "nynemi", "amount": 5}, {"item": "mava", "amount": 8}, {"item": "lehanium", "amount": 2}], "liquidCapacity": 40, "liquidPressure": 5, "research": "nynemi-factory", "category": "liquid"}

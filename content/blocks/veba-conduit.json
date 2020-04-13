@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "veba conduit", "description": "...", "health": 127, "requirements": [{"item": "veba", "amount": 15}, {"item": "yepi", "amount": 20}, {"item": "sybo", "amount": 1}], "liquidCapacity": 48, "liquidPressure": 6, "research": "veba-factory", "category": "liquid"}

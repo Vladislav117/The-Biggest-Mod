@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nivo overflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "nivo", "amount": 3}, {"item": "meke", "amount": 4}], "research": "nivo-conveyor", "category": "distribution", "invert": false}

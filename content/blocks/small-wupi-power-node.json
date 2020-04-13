@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wupi power node", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "wupi", "amount": 14}, {"item": "jozu", "amount": 3}, {"item": "siyunynium", "amount": 1}], "research": "wupi-factory", "maxNodes": 21, "laserRange": 17, "category": "power"}

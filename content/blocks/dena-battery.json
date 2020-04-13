@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dena battery", "description": "...", "size": 3, "health": 169, "requirements": [{"item": "dena", "amount": 15}, {"item": "wequnium", "amount": 20}, {"item": "kule", "amount": 1}], "research": "dena-factory", "consumes": {"powerBuffered": 3767}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gizomanium drill", "description": "...", "size": 3, "health": 268, "tier": 3, "drillTime": 19, "consumes": {"power": 1}, "requirements": [{"item": "gizomanium", "amount": 12}, {"item": "surge-alloy", "amount": 20}, {"item": "kubi", "amount": 2}], "research": "gizomanium-factory", "category": "production"}

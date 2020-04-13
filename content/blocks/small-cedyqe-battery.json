@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cedyqe battery", "description": "...", "size": 1, "health": 275, "requirements": [{"item": "cedyqe", "amount": 4}, {"item": "hiqeyi", "amount": 6}, {"item": "mika", "amount": 5}], "research": "cedyqe-factory", "consumes": {"powerBuffered": 1355}, "category": "power"}

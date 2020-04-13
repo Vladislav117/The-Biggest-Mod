@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small liqunium solar panel", "description": "...", "size": 1, "health": 149, "requirements": [{"item": "liqunium", "amount": 14}, {"item": "dabi", "amount": 18}, {"item": "yajawa", "amount": 2}], "research": "liqunium-factory", "powerProduction": 2.8858755071678845, "category": "power"}

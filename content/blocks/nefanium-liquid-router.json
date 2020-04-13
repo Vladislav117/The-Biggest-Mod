@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nefanium liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "nefanium", "amount": 9}, {"item": "solumo", "amount": 16}, {"item": "laqunium", "amount": 8}], "research": "nefanium-conduit", "liquidCapacity": 10, "category": "liquid"}

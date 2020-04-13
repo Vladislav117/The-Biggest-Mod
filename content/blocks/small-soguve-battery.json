@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small soguve battery", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "soguve", "amount": 8}, {"item": "myyave", "amount": 1}, {"item": "xyfynium", "amount": 7}], "research": "soguve-factory", "consumes": {"powerBuffered": 1033}, "category": "power"}

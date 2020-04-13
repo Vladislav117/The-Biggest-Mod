@@ -1,0 +1,1 @@
+{"type": "router", "name": "juba router", "description": "...", "health": 100, "size": 1, "requirements": [{"item": "juba", "amount": 6}], "research": "juba-conveyor", "category": "distribution"}

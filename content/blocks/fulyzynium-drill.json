@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fulyzynium drill", "description": "...", "size": 3, "health": 399, "tier": 2, "drillTime": 6, "consumes": {"power": 18}, "requirements": [{"item": "fulyzynium", "amount": 18}, {"item": "naku", "amount": 9}, {"item": "yexowy", "amount": 5}], "research": "fulyzynium-factory", "category": "production"}

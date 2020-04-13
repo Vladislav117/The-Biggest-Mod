@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nidujo liquid tank", "description": "...", "health": 356, "size": 3, "requirements": [{"item": "nidujo", "amount": 7}, {"item": "gizomanium", "amount": 10}, {"item": "juyy", "amount": 10}], "research": "nidujo-conduit", "category": "liquid", "liquidCapacity": 117269, "hasLiquids": true}

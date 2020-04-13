@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zynopi conduit", "description": "...", "health": 84, "requirements": [{"item": "zynopi", "amount": 10}, {"item": "quvojo", "amount": 12}, {"item": "byja", "amount": 10}], "liquidCapacity": 44, "liquidPressure": 3, "research": "zynopi-factory", "category": "liquid"}

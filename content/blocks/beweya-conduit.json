@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "beweya conduit", "description": "...", "health": 149, "requirements": [{"item": "beweya", "amount": 20}, {"item": "ridivinium", "amount": 15}, {"item": "hubezo", "amount": 2}], "liquidCapacity": 26, "liquidPressure": 6, "research": "beweya-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lulomu power node", "description": "...", "size": 2, "health": 570, "requirements": [{"item": "lulomu", "amount": 10}, {"item": "nulyfo", "amount": 3}, {"item": "sewazo", "amount": 6}], "research": "lulomu-factory", "maxNodes": 23, "laserRange": 25, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "heke solar panel", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "heke", "amount": 1}, {"item": "pize", "amount": 10}, {"item": "vaxa", "amount": 1}], "research": "heke-factory", "powerProduction": 0.05084043066763254, "category": "power"}

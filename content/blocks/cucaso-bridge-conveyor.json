@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cucaso bridge conveyor", "description": "", "health": 9, "range": 6, "speed": 10, "bufferCapacity": 13, "requirements": [{"item": "cucaso", "amount": 2}, {"item": "hogyse", "amount": 2}], "research": "cucaso-conveyor", "category": "distribution", "size": 1}

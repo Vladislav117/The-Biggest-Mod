@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "joky solar panel", "description": "...", "size": 3, "health": 24, "requirements": [{"item": "joky", "amount": 13}, {"item": "nuko", "amount": 9}, {"item": "pele", "amount": 2}], "research": "joky-factory", "powerProduction": 4.412603453485408, "category": "power"}

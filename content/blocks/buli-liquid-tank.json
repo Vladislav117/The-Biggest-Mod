@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "buli liquid tank", "description": "...", "health": 552, "size": 3, "requirements": [{"item": "buli", "amount": 13}, {"item": "joqopy", "amount": 9}, {"item": "zokoya", "amount": 2}], "research": "buli-conduit", "category": "liquid", "liquidCapacity": 81326, "hasLiquids": true}

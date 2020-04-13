@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small neni solar panel", "description": "...", "size": 1, "health": 167, "requirements": [{"item": "neni", "amount": 10}, {"item": "zoxi", "amount": 4}, {"item": "sukafe", "amount": 5}], "research": "neni-factory", "powerProduction": 0.8690407917999382, "category": "power"}

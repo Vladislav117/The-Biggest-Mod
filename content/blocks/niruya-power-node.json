@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "niruya power node", "description": "...", "size": 2, "health": 143, "requirements": [{"item": "niruya", "amount": 6}, {"item": "besu", "amount": 14}, {"item": "kuyome", "amount": 8}], "research": "niruya-factory", "maxNodes": 10, "laserRange": 29, "category": "power"}

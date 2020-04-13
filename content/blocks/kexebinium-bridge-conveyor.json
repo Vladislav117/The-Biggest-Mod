@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kexebinium bridge conveyor", "description": "", "health": 3, "range": 16, "speed": 6, "bufferCapacity": 25, "requirements": [{"item": "kexebinium", "amount": 4}, {"item": "wypu", "amount": 1}], "research": "kexebinium-conveyor", "category": "distribution", "size": 1}

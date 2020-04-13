@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kosyqa power node", "description": "...", "size": 1, "health": 216, "requirements": [{"item": "kosyqa", "amount": 3}, {"item": "roxila", "amount": 8}, {"item": "buru", "amount": 8}], "research": "kosyqa-factory", "maxNodes": 9, "laserRange": 21, "category": "power"}

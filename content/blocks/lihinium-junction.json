@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lihinium junction", "description": "...", "health": 8, "speed": 12, "capacity": 2, "size": 1, "requirements": [{"item": "lihinium", "amount": 2}, {"item": "rexa", "amount": 2}], "research": "lihinium-conveyor", "category": "distribution"}

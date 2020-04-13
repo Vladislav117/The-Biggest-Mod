@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small toqe solar panel", "description": "...", "size": 1, "health": 166, "requirements": [{"item": "toqe", "amount": 9}, {"item": "sawy", "amount": 5}, {"item": "lesyha", "amount": 2}], "research": "toqe-factory", "powerProduction": 2.392788054076529, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "seqynium liquid tank", "description": "...", "health": 463, "size": 3, "requirements": [{"item": "seqynium", "amount": 13}, {"item": "mibyzo", "amount": 18}, {"item": "plastanium", "amount": 5}], "research": "seqynium-conduit", "category": "liquid", "liquidCapacity": 59139, "hasLiquids": true}

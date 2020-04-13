@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hiwenium battery", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "hiwenium", "amount": 6}, {"item": "qerobu", "amount": 14}, {"item": "furazinium", "amount": 2}], "research": "hiwenium-factory", "consumes": {"powerBuffered": 2028}, "category": "power"}

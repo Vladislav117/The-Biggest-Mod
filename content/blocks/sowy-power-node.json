@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sowy power node", "description": "...", "size": 2, "health": 223, "requirements": [{"item": "sowy", "amount": 14}, {"item": "nyvexo", "amount": 13}, {"item": "qesinium", "amount": 7}], "research": "sowy-factory", "maxNodes": 44, "laserRange": 21, "category": "power"}

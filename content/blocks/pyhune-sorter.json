@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pyhune sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "pyhune", "amount": 3}, {"item": "tebebe", "amount": 4}], "research": "pyhune-conveyor", "category": "distribution", "invert": false}

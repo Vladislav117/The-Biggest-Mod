@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ziwo junction", "description": "...", "health": 29, "speed": 14, "capacity": 1, "size": 1, "requirements": [{"item": "ziwo", "amount": 2}, {"item": "gogajy", "amount": 1}], "research": "ziwo-conveyor", "category": "distribution"}

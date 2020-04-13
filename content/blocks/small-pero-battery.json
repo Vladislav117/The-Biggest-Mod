@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pero battery", "description": "...", "size": 1, "health": 194, "requirements": [{"item": "pero", "amount": 8}, {"item": "jeqidynium", "amount": 19}, {"item": "zokacu", "amount": 1}], "research": "pero-factory", "consumes": {"powerBuffered": 2256}, "category": "power"}

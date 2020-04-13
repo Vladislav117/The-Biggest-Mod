@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hakenium inverted sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "hakenium", "amount": 4}, {"item": "yexowy", "amount": 5}], "research": "hakenium-conveyor", "category": "distribution", "invert": true}

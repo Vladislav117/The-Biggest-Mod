@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small goku power node", "description": "...", "size": 1, "health": 288, "requirements": [{"item": "goku", "amount": 10}, {"item": "maqe", "amount": 9}, {"item": "gineta", "amount": 9}], "research": "goku-factory", "maxNodes": 3, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ranoxinium underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "ranoxinium", "amount": 4}, {"item": "fevy", "amount": 1}], "research": "ranoxinium-conveyor", "category": "distribution", "invert": false}

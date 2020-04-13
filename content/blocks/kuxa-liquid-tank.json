@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kuxa liquid tank", "description": "...", "health": 524, "size": 3, "requirements": [{"item": "kuxa", "amount": 13}, {"item": "siveyu", "amount": 15}, {"item": "goxylo", "amount": 3}], "research": "kuxa-conduit", "category": "liquid", "liquidCapacity": 74187, "hasLiquids": true}

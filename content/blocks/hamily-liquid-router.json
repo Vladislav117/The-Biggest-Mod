@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hamily liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "hamily", "amount": 8}, {"item": "giho", "amount": 9}, {"item": "sarijynium", "amount": 7}], "research": "hamily-conduit", "liquidCapacity": 10, "category": "liquid"}

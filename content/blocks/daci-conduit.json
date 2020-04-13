@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "daci conduit", "description": "...", "health": 166, "requirements": [{"item": "daci", "amount": 18}, {"item": "gakipy", "amount": 16}, {"item": "dokanium", "amount": 9}], "liquidCapacity": 20, "liquidPressure": 10, "research": "daci-factory", "category": "liquid"}

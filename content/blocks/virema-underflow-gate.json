@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "virema underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "virema", "amount": 4}, {"item": "mefymanium", "amount": 3}], "research": "virema-conveyor", "category": "distribution", "invert": false}

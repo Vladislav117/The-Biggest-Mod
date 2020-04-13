@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "syhisonium power node", "description": "...", "size": 2, "health": 759, "requirements": [{"item": "syhisonium", "amount": 17}, {"item": "qayy", "amount": 16}, {"item": "nenu", "amount": 7}], "research": "syhisonium-factory", "maxNodes": 59, "laserRange": 8, "category": "power"}

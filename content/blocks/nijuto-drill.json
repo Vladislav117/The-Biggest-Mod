@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nijuto drill", "description": "...", "size": 2, "health": 432, "tier": 1, "drillTime": 1, "consumes": {"power": 5}, "requirements": [{"item": "nijuto", "amount": 4}, {"item": "duqu", "amount": 8}, {"item": "gymypa", "amount": 4}], "research": "nijuto-factory", "category": "production"}

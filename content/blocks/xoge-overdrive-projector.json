@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "xoge overdrive projector", "description": "...", "health": 81, "consumes": {"power": 3.0, "item": "xoge"}, "size": 2, "requirements": [{"item": "xoge", "amount": 12}, {"item": "yebyte", "amount": 6}, {"item": "ryhi", "amount": 8}], "research": "xoge-factory", "category": "effect"}

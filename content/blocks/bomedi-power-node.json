@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bomedi power node", "description": "...", "size": 2, "health": 422, "requirements": [{"item": "bomedi", "amount": 1}, {"item": "forebu", "amount": 4}, {"item": "tybunium", "amount": 2}], "research": "bomedi-factory", "maxNodes": 29, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dekaga sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "dekaga", "amount": 1}, {"item": "tewo", "amount": 4}], "research": "dekaga-conveyor", "category": "distribution", "invert": false}

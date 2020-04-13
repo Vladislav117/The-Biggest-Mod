@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fevawinium junction", "description": "...", "health": 28, "speed": 20, "capacity": 2, "size": 1, "requirements": [{"item": "fevawinium", "amount": 1}, {"item": "jepumi", "amount": 3}], "research": "fevawinium-conveyor", "category": "distribution"}

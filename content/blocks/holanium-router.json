@@ -1,0 +1,1 @@
+{"type": "router", "name": "holanium router", "description": "...", "health": 123, "size": 1, "requirements": [{"item": "holanium", "amount": 8}], "research": "holanium-conveyor", "category": "distribution"}

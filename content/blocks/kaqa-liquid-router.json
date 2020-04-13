@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kaqa liquid router", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "kaqa", "amount": 20}, {"item": "locu", "amount": 15}, {"item": "dejoqonium", "amount": 9}], "research": "kaqa-conduit", "liquidCapacity": 10, "category": "liquid"}

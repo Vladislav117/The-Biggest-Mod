@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tuxu power node", "description": "...", "size": 1, "health": 24, "requirements": [{"item": "tuxu", "amount": 16}, {"item": "xeye", "amount": 3}, {"item": "bajenium", "amount": 5}], "research": "tuxu-factory", "maxNodes": 24, "laserRange": 10, "category": "power"}

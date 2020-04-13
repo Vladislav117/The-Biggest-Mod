@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dere solar panel", "description": "...", "size": 3, "health": 331, "requirements": [{"item": "dere", "amount": 12}, {"item": "kilu", "amount": 7}, {"item": "gobenium", "amount": 9}], "research": "dere-factory", "powerProduction": 1.1915442700239032, "category": "power"}

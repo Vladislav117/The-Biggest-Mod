@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yage inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "yage", "amount": 4}, {"item": "torufonium", "amount": 3}], "research": "yage-conveyor", "category": "distribution", "invert": true}

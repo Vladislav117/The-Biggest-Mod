@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qihy conduit", "description": "...", "health": 24, "requirements": [{"item": "qihy", "amount": 3}, {"item": "dyde", "amount": 2}, {"item": "xywoty", "amount": 8}], "liquidCapacity": 20, "liquidPressure": 8, "research": "qihy-factory", "category": "liquid"}

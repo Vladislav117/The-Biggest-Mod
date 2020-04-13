@@ -1,0 +1,1 @@
+{"type": "junction", "name": "siveyu junction", "description": "...", "health": 35, "speed": 14, "capacity": 8, "size": 1, "requirements": [{"item": "siveyu", "amount": 3}, {"item": "tere", "amount": 3}], "research": "siveyu-conveyor", "category": "distribution"}

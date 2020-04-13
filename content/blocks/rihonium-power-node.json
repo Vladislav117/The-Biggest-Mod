@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rihonium power node", "description": "...", "size": 2, "health": 184, "requirements": [{"item": "rihonium", "amount": 2}, {"item": "laduhu", "amount": 19}, {"item": "tasynium", "amount": 3}], "research": "rihonium-factory", "maxNodes": 41, "laserRange": 16, "category": "power"}

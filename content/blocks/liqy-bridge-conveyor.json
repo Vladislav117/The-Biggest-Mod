@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "liqy bridge conveyor", "description": "", "health": 40, "range": 14, "speed": 1, "bufferCapacity": 15, "requirements": [{"item": "liqy", "amount": 5}, {"item": "zivo", "amount": 1}], "research": "liqy-conveyor", "category": "distribution", "size": 1}

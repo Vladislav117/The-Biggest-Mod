@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jako solar panel", "description": "...", "size": 3, "health": 323, "requirements": [{"item": "jako", "amount": 1}, {"item": "tuxalu", "amount": 17}, {"item": "yuyafi", "amount": 6}], "research": "jako-factory", "powerProduction": 0.6597879073041312, "category": "power"}

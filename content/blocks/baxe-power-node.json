@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "baxe power node", "description": "...", "size": 2, "health": 765, "requirements": [{"item": "baxe", "amount": 16}, {"item": "yijotu", "amount": 6}, {"item": "quxyqe", "amount": 3}], "research": "baxe-factory", "maxNodes": 20, "laserRange": 20, "category": "power"}

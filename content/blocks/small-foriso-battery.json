@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small foriso battery", "description": "...", "size": 1, "health": 131, "requirements": [{"item": "foriso", "amount": 13}, {"item": "vubedi", "amount": 16}, {"item": "lyzy", "amount": 9}], "research": "foriso-factory", "consumes": {"powerBuffered": 893}, "category": "power"}

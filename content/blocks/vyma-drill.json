@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vyma drill", "description": "...", "size": 2, "health": 303, "tier": 3, "drillTime": 2, "consumes": {"power": 9}, "requirements": [{"item": "vyma", "amount": 8}, {"item": "tufo", "amount": 7}, {"item": "qiseho", "amount": 3}], "research": "vyma-factory", "category": "production"}

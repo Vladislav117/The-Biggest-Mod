@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "boyanium overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "boyanium", "amount": 1}, {"item": "woro", "amount": 4}], "research": "boyanium-conveyor", "category": "distribution", "invert": false}

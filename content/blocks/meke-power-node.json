@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "meke power node", "description": "...", "size": 2, "health": 424, "requirements": [{"item": "meke", "amount": 2}, {"item": "cezany", "amount": 20}, {"item": "zafuqo", "amount": 5}], "research": "meke-factory", "maxNodes": 21, "laserRange": 29, "category": "power"}

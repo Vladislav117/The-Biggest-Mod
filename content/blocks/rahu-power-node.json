@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rahu power node", "description": "...", "size": 2, "health": 707, "requirements": [{"item": "rahu", "amount": 16}, {"item": "waha", "amount": 17}, {"item": "sokima", "amount": 10}], "research": "rahu-factory", "maxNodes": 56, "laserRange": 22, "category": "power"}

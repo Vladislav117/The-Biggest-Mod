@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xusunium power node", "description": "...", "size": 2, "health": 145, "requirements": [{"item": "xusunium", "amount": 16}, {"item": "pyvunium", "amount": 12}, {"item": "nimy", "amount": 10}], "research": "xusunium-factory", "maxNodes": 46, "laserRange": 24, "category": "power"}

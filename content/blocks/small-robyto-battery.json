@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small robyto battery", "description": "...", "size": 1, "health": 351, "requirements": [{"item": "robyto", "amount": 19}, {"item": "yopepa", "amount": 8}, {"item": "heda", "amount": 2}], "research": "robyto-factory", "consumes": {"powerBuffered": 925}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fifyru inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "fifyru", "amount": 5}, {"item": "nunanunium", "amount": 1}], "research": "fifyru-conveyor", "category": "distribution", "invert": true}

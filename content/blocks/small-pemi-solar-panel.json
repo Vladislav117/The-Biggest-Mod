@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pemi solar panel", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "pemi", "amount": 8}, {"item": "tyzonium", "amount": 10}, {"item": "fexenium", "amount": 7}], "research": "pemi-factory", "powerProduction": 1.4495527432147077, "category": "power"}

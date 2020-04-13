@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wolanium battery", "description": "...", "size": 1, "health": 329, "requirements": [{"item": "wolanium", "amount": 3}, {"item": "nejesu", "amount": 18}, {"item": "kyka", "amount": 4}], "research": "wolanium-factory", "consumes": {"powerBuffered": 1436}, "category": "power"}

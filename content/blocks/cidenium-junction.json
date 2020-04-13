@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cidenium junction", "description": "...", "health": 22, "speed": 6, "capacity": 3, "size": 1, "requirements": [{"item": "cidenium", "amount": 2}, {"item": "lahowe", "amount": 2}], "research": "cidenium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tole power node", "description": "...", "size": 2, "health": 606, "requirements": [{"item": "tole", "amount": 4}, {"item": "gyty", "amount": 10}, {"item": "yuxonium", "amount": 10}], "research": "tole-factory", "maxNodes": 25, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yubyqi drill", "description": "...", "size": 3, "health": 341, "tier": 4, "drillTime": 1, "consumes": {"power": 8}, "requirements": [{"item": "yubyqi", "amount": 16}, {"item": "tabi", "amount": 6}, {"item": "copper", "amount": 1}], "research": "yubyqi-factory", "category": "production"}

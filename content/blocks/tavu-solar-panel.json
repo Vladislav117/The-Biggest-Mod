@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tavu solar panel", "description": "...", "size": 3, "health": 215, "requirements": [{"item": "tavu", "amount": 4}, {"item": "kyna", "amount": 13}, {"item": "fytuve", "amount": 3}], "research": "tavu-factory", "powerProduction": 3.354120287598158, "category": "power"}

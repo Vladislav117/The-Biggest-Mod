@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small falynium solar panel", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "falynium", "amount": 15}, {"item": "ruginium", "amount": 5}, {"item": "diwyci", "amount": 9}], "research": "falynium-factory", "powerProduction": 1.643848118492119, "category": "power"}

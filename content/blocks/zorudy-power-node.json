@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zorudy power node", "description": "...", "size": 2, "health": 677, "requirements": [{"item": "zorudy", "amount": 8}, {"item": "caxoni", "amount": 11}, {"item": "ryho", "amount": 4}], "research": "zorudy-factory", "maxNodes": 54, "laserRange": 26, "category": "power"}

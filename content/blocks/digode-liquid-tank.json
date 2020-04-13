@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "digode liquid tank", "description": "...", "health": 556, "size": 3, "requirements": [{"item": "digode", "amount": 6}, {"item": "byre", "amount": 12}, {"item": "luly", "amount": 9}], "research": "digode-conduit", "category": "liquid", "liquidCapacity": 7008, "hasLiquids": true}

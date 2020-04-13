@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vovu power node", "description": "...", "size": 2, "health": 614, "requirements": [{"item": "vovu", "amount": 3}, {"item": "xayenium", "amount": 9}, {"item": "kiqeganium", "amount": 10}], "research": "vovu-factory", "maxNodes": 60, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nixigunium battery", "description": "...", "size": 3, "health": 39, "requirements": [{"item": "nixigunium", "amount": 4}, {"item": "kipyzonium", "amount": 3}, {"item": "duhexi", "amount": 9}], "research": "nixigunium-factory", "consumes": {"powerBuffered": 8061}, "category": "power"}

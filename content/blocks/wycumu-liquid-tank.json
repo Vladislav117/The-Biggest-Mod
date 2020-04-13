@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wycumu liquid tank", "description": "...", "health": 624, "size": 3, "requirements": [{"item": "wycumu", "amount": 16}, {"item": "capa", "amount": 6}, {"item": "pemi", "amount": 7}], "research": "wycumu-conduit", "category": "liquid", "liquidCapacity": 83858, "hasLiquids": true}

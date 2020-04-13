@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vyma battery", "description": "...", "size": 3, "health": 106, "requirements": [{"item": "vyma", "amount": 3}, {"item": "muremi", "amount": 2}, {"item": "zatire", "amount": 8}], "research": "vyma-factory", "consumes": {"powerBuffered": 1728}, "category": "power"}

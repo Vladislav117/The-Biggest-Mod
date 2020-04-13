@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cyfipy junction", "description": "...", "health": 6, "speed": 16, "capacity": 8, "size": 1, "requirements": [{"item": "cyfipy", "amount": 1}, {"item": "hitiva", "amount": 1}], "research": "cyfipy-conveyor", "category": "distribution"}

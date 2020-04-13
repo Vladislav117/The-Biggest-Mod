@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pyvohe overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "pyvohe", "amount": 5}, {"item": "fikexonium", "amount": 3}], "research": "pyvohe-conveyor", "category": "distribution", "invert": false}

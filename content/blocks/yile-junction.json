@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yile junction", "description": "...", "health": 14, "speed": 15, "capacity": 10, "size": 1, "requirements": [{"item": "yile", "amount": 5}, {"item": "suzu", "amount": 3}], "research": "yile-conveyor", "category": "distribution"}

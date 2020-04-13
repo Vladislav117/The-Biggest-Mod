@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cyru junction", "description": "...", "health": 36, "speed": 13, "capacity": 9, "size": 1, "requirements": [{"item": "cyru", "amount": 1}, {"item": "tupo", "amount": 1}], "research": "cyru-conveyor", "category": "distribution"}

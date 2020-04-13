@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "puty liquid tank", "description": "...", "health": 465, "size": 3, "requirements": [{"item": "puty", "amount": 20}, {"item": "qypaty", "amount": 6}, {"item": "poviye", "amount": 7}], "research": "puty-conduit", "category": "liquid", "liquidCapacity": 114565, "hasLiquids": true}

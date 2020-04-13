@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zycuri battery", "description": "...", "size": 3, "health": 128, "requirements": [{"item": "zycuri", "amount": 20}, {"item": "tewo", "amount": 3}, {"item": "qekaye", "amount": 2}], "research": "zycuri-factory", "consumes": {"powerBuffered": 8164}, "category": "power"}

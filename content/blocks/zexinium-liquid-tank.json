@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zexinium liquid tank", "description": "...", "health": 432, "size": 3, "requirements": [{"item": "zexinium", "amount": 8}, {"item": "lyra", "amount": 11}, {"item": "dara", "amount": 7}], "research": "zexinium-conduit", "category": "liquid", "liquidCapacity": 21908, "hasLiquids": true}

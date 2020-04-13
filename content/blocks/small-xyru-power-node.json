@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xyru power node", "description": "...", "size": 1, "health": 244, "requirements": [{"item": "xyru", "amount": 1}, {"item": "sumu", "amount": 12}, {"item": "jigame", "amount": 4}], "research": "xyru-factory", "maxNodes": 28, "laserRange": 19, "category": "power"}

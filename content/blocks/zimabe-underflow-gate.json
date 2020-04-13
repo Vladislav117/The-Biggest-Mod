@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zimabe underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "zimabe", "amount": 3}, {"item": "wizacy", "amount": 2}], "research": "zimabe-conveyor", "category": "distribution", "invert": false}

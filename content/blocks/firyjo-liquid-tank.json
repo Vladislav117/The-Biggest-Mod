@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "firyjo liquid tank", "description": "...", "health": 233, "size": 3, "requirements": [{"item": "firyjo", "amount": 2}, {"item": "lahy", "amount": 16}, {"item": "vezaya", "amount": 5}], "research": "firyjo-conduit", "category": "liquid", "liquidCapacity": 111882, "hasLiquids": true}

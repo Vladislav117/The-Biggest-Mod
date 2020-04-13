@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rahu conduit", "description": "...", "health": 71, "requirements": [{"item": "rahu", "amount": 7}, {"item": "sohe", "amount": 5}, {"item": "bakiyy", "amount": 9}], "liquidCapacity": 30, "liquidPressure": 7, "research": "rahu-factory", "category": "liquid"}

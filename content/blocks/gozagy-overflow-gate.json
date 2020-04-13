@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gozagy overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "gozagy", "amount": 3}, {"item": "fifa", "amount": 1}], "research": "gozagy-conveyor", "category": "distribution", "invert": false}

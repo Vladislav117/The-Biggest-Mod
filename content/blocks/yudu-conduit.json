@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yudu conduit", "description": "...", "health": 171, "requirements": [{"item": "yudu", "amount": 8}, {"item": "ranu", "amount": 2}, {"item": "fizy", "amount": 6}], "liquidCapacity": 28, "liquidPressure": 10, "research": "yudu-factory", "category": "liquid"}

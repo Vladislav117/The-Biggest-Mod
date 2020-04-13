@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "hyko conveyor", "description": "...", "health": 240, "requirements": [{"item": "hyko", "amount": 5}, {"item": "boqi", "amount": 5}], "speed": 0.4542462400195911, "research": "hyko-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lelybe solar panel", "description": "...", "size": 3, "health": 187, "requirements": [{"item": "lelybe", "amount": 18}, {"item": "femoconium", "amount": 8}, {"item": "zuvy", "amount": 3}], "research": "lelybe-factory", "powerProduction": 1.8607943497959791, "category": "power"}

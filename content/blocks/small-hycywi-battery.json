@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hycywi battery", "description": "...", "size": 1, "health": 303, "requirements": [{"item": "hycywi", "amount": 9}, {"item": "dowynium", "amount": 5}, {"item": "kefy", "amount": 8}], "research": "hycywi-factory", "consumes": {"powerBuffered": 2355}, "category": "power"}

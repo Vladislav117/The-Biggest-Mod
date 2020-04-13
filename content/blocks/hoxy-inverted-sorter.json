@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hoxy inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "hoxy", "amount": 1}, {"item": "wavoli", "amount": 5}], "research": "hoxy-conveyor", "category": "distribution", "invert": true}

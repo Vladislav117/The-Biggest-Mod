@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kylype conduit", "description": "...", "health": 33, "requirements": [{"item": "kylype", "amount": 13}, {"item": "cafy", "amount": 10}, {"item": "ruginium", "amount": 6}], "liquidCapacity": 20, "liquidPressure": 0, "research": "kylype-factory", "category": "liquid"}

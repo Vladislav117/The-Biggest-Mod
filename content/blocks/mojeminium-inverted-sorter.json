@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mojeminium inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "mojeminium", "amount": 3}, {"item": "vywice", "amount": 4}], "research": "mojeminium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yudafa liquid tank", "description": "...", "health": 387, "size": 3, "requirements": [{"item": "yudafa", "amount": 3}, {"item": "zyzofo", "amount": 13}, {"item": "tujy", "amount": 7}], "research": "yudafa-conduit", "category": "liquid", "liquidCapacity": 118081, "hasLiquids": true}

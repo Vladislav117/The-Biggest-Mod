@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zuwonium underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "zuwonium", "amount": 1}, {"item": "nipi", "amount": 2}], "research": "zuwonium-conveyor", "category": "distribution", "invert": false}

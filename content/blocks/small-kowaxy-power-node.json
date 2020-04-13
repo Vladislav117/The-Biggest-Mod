@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kowaxy power node", "description": "...", "size": 1, "health": 383, "requirements": [{"item": "kowaxy", "amount": 11}, {"item": "leyyde", "amount": 9}, {"item": "kikana", "amount": 6}], "research": "kowaxy-factory", "maxNodes": 7, "laserRange": 11, "category": "power"}

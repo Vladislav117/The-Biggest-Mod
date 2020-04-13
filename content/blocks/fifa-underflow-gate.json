@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fifa underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "fifa", "amount": 1}, {"item": "nafamy", "amount": 3}], "research": "fifa-conveyor", "category": "distribution", "invert": false}

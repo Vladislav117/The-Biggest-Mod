@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rovy solar panel", "description": "...", "size": 3, "health": 31, "requirements": [{"item": "rovy", "amount": 15}, {"item": "vytanium", "amount": 3}, {"item": "lyqa", "amount": 6}], "research": "rovy-factory", "powerProduction": 0.08867380839493133, "category": "power"}

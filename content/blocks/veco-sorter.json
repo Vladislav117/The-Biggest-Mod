@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "veco sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "veco", "amount": 3}, {"item": "hihunium", "amount": 2}], "research": "veco-conveyor", "category": "distribution", "invert": false}

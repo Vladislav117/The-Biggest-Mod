@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zuhisu power node", "description": "...", "size": 2, "health": 785, "requirements": [{"item": "zuhisu", "amount": 20}, {"item": "dase", "amount": 15}, {"item": "qeraxu", "amount": 1}], "research": "zuhisu-factory", "maxNodes": 41, "laserRange": 20, "category": "power"}

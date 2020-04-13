@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pemo underflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "pemo", "amount": 3}, {"item": "wiba", "amount": 4}], "research": "pemo-conveyor", "category": "distribution", "invert": false}

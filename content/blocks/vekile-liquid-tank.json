@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vekile liquid tank", "description": "...", "health": 344, "size": 3, "requirements": [{"item": "vekile", "amount": 18}, {"item": "zemyca", "amount": 10}, {"item": "fise", "amount": 10}], "research": "vekile-conduit", "category": "liquid", "liquidCapacity": 90167, "hasLiquids": true}

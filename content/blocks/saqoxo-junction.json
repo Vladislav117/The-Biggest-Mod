@@ -1,0 +1,1 @@
+{"type": "junction", "name": "saqoxo junction", "description": "...", "health": 2, "speed": 9, "capacity": 20, "size": 1, "requirements": [{"item": "saqoxo", "amount": 3}, {"item": "dituna", "amount": 5}], "research": "saqoxo-conveyor", "category": "distribution"}

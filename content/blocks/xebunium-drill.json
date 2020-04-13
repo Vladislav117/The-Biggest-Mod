@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xebunium drill", "description": "...", "size": 4, "health": 395, "tier": 4, "drillTime": 8, "consumes": {"power": 1}, "requirements": [{"item": "xebunium", "amount": 20}, {"item": "xuxyvo", "amount": 6}, {"item": "qoviganium", "amount": 10}], "research": "xebunium-factory", "category": "production"}

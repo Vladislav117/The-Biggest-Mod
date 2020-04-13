@@ -1,0 +1,1 @@
+{"type": "battery", "name": "difu battery", "description": "...", "size": 3, "health": 339, "requirements": [{"item": "difu", "amount": 4}, {"item": "pawynium", "amount": 1}, {"item": "padopu", "amount": 9}], "research": "difu-factory", "consumes": {"powerBuffered": 3558}, "category": "power"}

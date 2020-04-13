@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wezu liquid router", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "wezu", "amount": 16}, {"item": "gyhecu", "amount": 10}, {"item": "cuwe", "amount": 1}], "research": "wezu-conduit", "liquidCapacity": 10, "category": "liquid"}

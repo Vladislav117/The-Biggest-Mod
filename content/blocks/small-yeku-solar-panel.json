@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yeku solar panel", "description": "...", "size": 1, "health": 332, "requirements": [{"item": "yeku", "amount": 8}, {"item": "vunijy", "amount": 19}, {"item": "viwymynium", "amount": 6}], "research": "yeku-factory", "powerProduction": 0.4561077812144081, "category": "power"}

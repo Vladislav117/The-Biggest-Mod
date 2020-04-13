@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "taci power node", "description": "...", "size": 2, "health": 599, "requirements": [{"item": "taci", "amount": 15}, {"item": "kaqyla", "amount": 16}, {"item": "mozy", "amount": 1}], "research": "taci-factory", "maxNodes": 21, "laserRange": 27, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zokoya liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "zokoya", "amount": 10}, {"item": "cavyjo", "amount": 10}, {"item": "rocihy", "amount": 10}], "research": "zokoya-conduit", "liquidCapacity": 10, "category": "liquid"}

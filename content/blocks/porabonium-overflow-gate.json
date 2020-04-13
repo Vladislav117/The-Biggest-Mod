@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "porabonium overflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "porabonium", "amount": 4}, {"item": "qasoji", "amount": 4}], "research": "porabonium-conveyor", "category": "distribution", "invert": false}

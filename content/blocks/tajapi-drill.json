@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tajapi drill", "description": "...", "size": 3, "health": 132, "tier": 2, "drillTime": 15, "consumes": {"power": 10}, "requirements": [{"item": "tajapi", "amount": 17}, {"item": "fasaze", "amount": 13}, {"item": "nixigunium", "amount": 8}], "research": "tajapi-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small leju battery", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "leju", "amount": 16}, {"item": "jeyanium", "amount": 6}, {"item": "kivuzi", "amount": 1}], "research": "leju-factory", "consumes": {"powerBuffered": 2925}, "category": "power"}

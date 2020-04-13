@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hohisi battery", "description": "...", "size": 3, "health": 373, "requirements": [{"item": "hohisi", "amount": 4}, {"item": "hyxunium", "amount": 13}, {"item": "nehudo", "amount": 1}], "research": "hohisi-factory", "consumes": {"powerBuffered": 4740}, "category": "power"}

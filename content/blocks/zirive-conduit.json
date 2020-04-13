@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zirive conduit", "description": "...", "health": 107, "requirements": [{"item": "zirive", "amount": 10}, {"item": "qive", "amount": 13}, {"item": "syxy", "amount": 10}], "liquidCapacity": 46, "liquidPressure": 1, "research": "zirive-factory", "category": "liquid"}

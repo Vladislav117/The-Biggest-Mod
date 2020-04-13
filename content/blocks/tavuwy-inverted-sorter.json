@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tavuwy inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "tavuwy", "amount": 4}, {"item": "ruzagi", "amount": 5}], "research": "tavuwy-conveyor", "category": "distribution", "invert": true}

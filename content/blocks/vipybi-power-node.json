@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vipybi power node", "description": "...", "size": 2, "health": 40, "requirements": [{"item": "vipybi", "amount": 13}, {"item": "bawy", "amount": 8}, {"item": "dukyfe", "amount": 5}], "research": "vipybi-factory", "maxNodes": 15, "laserRange": 13, "category": "power"}

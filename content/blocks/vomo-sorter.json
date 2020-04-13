@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vomo sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "vomo", "amount": 5}, {"item": "sacy", "amount": 2}], "research": "vomo-conveyor", "category": "distribution", "invert": false}

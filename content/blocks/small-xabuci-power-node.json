@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xabuci power node", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "xabuci", "amount": 2}, {"item": "wizisa", "amount": 4}, {"item": "hyru", "amount": 9}], "research": "xabuci-factory", "maxNodes": 21, "laserRange": 19, "category": "power"}

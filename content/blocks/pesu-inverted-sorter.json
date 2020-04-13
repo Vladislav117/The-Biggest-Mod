@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pesu inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "pesu", "amount": 1}, {"item": "kykegi", "amount": 5}], "research": "pesu-conveyor", "category": "distribution", "invert": true}

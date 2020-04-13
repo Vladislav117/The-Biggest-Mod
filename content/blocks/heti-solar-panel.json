@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "heti solar panel", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "heti", "amount": 2}, {"item": "yeby", "amount": 7}, {"item": "jucinium", "amount": 6}], "research": "heti-factory", "powerProduction": 0.8293726454018711, "category": "power"}

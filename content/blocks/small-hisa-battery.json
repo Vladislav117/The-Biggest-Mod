@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hisa battery", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "hisa", "amount": 2}, {"item": "xyza", "amount": 8}, {"item": "kijyzi", "amount": 7}], "research": "hisa-factory", "consumes": {"powerBuffered": 2137}, "category": "power"}

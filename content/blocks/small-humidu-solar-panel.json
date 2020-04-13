@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small humidu solar panel", "description": "...", "size": 1, "health": 322, "requirements": [{"item": "humidu", "amount": 19}, {"item": "titenium", "amount": 20}, {"item": "cedonium", "amount": 6}], "research": "humidu-factory", "powerProduction": 4.348977361297871, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "byficy junction", "description": "...", "health": 3, "speed": 4, "capacity": 10, "size": 1, "requirements": [{"item": "byficy", "amount": 4}, {"item": "wiyuho", "amount": 1}], "research": "byficy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gozagy battery", "description": "...", "size": 3, "health": 306, "requirements": [{"item": "gozagy", "amount": 4}, {"item": "xegu", "amount": 15}, {"item": "nejunium", "amount": 3}], "research": "gozagy-factory", "consumes": {"powerBuffered": 2263}, "category": "power"}

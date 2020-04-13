@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sumura power node", "description": "...", "size": 1, "health": 377, "requirements": [{"item": "sumura", "amount": 5}, {"item": "quvojo", "amount": 17}, {"item": "rexa", "amount": 10}], "research": "sumura-factory", "maxNodes": 20, "laserRange": 23, "category": "power"}

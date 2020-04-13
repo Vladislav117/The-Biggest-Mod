@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pijewu liquid tank", "description": "...", "health": 151, "size": 3, "requirements": [{"item": "pijewu", "amount": 16}, {"item": "wuronium", "amount": 10}, {"item": "ridu", "amount": 2}], "research": "pijewu-conduit", "category": "liquid", "liquidCapacity": 58033, "hasLiquids": true}

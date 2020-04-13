@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pyto solar panel", "description": "...", "size": 1, "health": 118, "requirements": [{"item": "pyto", "amount": 20}, {"item": "jywupa", "amount": 14}, {"item": "hymonium", "amount": 10}], "research": "pyto-factory", "powerProduction": 3.3435063009515797, "category": "power"}

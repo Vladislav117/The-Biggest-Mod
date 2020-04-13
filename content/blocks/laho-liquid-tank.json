@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "laho liquid tank", "description": "...", "health": 642, "size": 3, "requirements": [{"item": "laho", "amount": 14}, {"item": "feyyqe", "amount": 12}, {"item": "byfa", "amount": 3}], "research": "laho-conduit", "category": "liquid", "liquidCapacity": 72331, "hasLiquids": true}

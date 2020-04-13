@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small julu solar panel", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "julu", "amount": 7}, {"item": "suminium", "amount": 20}, {"item": "xipyvu", "amount": 10}], "research": "julu-factory", "powerProduction": 0.6005226264188326, "category": "power"}

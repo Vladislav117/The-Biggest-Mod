@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small koku power node", "description": "...", "size": 1, "health": 214, "requirements": [{"item": "koku", "amount": 2}, {"item": "syjije", "amount": 12}, {"item": "cibu", "amount": 7}], "research": "koku-factory", "maxNodes": 28, "laserRange": 15, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fici liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "fici", "amount": 14}, {"item": "feyyqe", "amount": 17}, {"item": "vezafa", "amount": 4}], "research": "fici-conduit", "liquidCapacity": 10, "category": "liquid"}

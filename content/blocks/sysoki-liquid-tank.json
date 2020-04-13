@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sysoki liquid tank", "description": "...", "health": 303, "size": 3, "requirements": [{"item": "sysoki", "amount": 17}, {"item": "bopu", "amount": 4}, {"item": "pebi", "amount": 1}], "research": "sysoki-conduit", "category": "liquid", "liquidCapacity": 47352, "hasLiquids": true}

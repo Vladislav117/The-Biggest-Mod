@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "garoqanium power node", "description": "...", "size": 2, "health": 472, "requirements": [{"item": "garoqanium", "amount": 7}, {"item": "bube", "amount": 6}, {"item": "yupo", "amount": 9}], "research": "garoqanium-factory", "maxNodes": 22, "laserRange": 5, "category": "power"}

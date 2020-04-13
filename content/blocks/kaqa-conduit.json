@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kaqa conduit", "description": "...", "health": 194, "requirements": [{"item": "kaqa", "amount": 10}, {"item": "mygo", "amount": 20}, {"item": "xonanium", "amount": 1}], "liquidCapacity": 43, "liquidPressure": 9, "research": "kaqa-factory", "category": "liquid"}

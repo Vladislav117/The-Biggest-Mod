@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jawo liquid tank", "description": "...", "health": 324, "size": 3, "requirements": [{"item": "jawo", "amount": 11}, {"item": "vemame", "amount": 8}, {"item": "xuricy", "amount": 4}], "research": "jawo-conduit", "category": "liquid", "liquidCapacity": 54250, "hasLiquids": true}

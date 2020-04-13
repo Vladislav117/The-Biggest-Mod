@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qupy liquid tank", "description": "...", "health": 285, "size": 3, "requirements": [{"item": "qupy", "amount": 7}, {"item": "kufupinium", "amount": 4}, {"item": "jigosy", "amount": 5}], "research": "qupy-conduit", "category": "liquid", "liquidCapacity": 36071, "hasLiquids": true}

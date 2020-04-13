@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pazanium overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "pazanium", "amount": 5}, {"item": "taja", "amount": 5}], "research": "pazanium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small daziha power node", "description": "...", "size": 1, "health": 328, "requirements": [{"item": "daziha", "amount": 16}, {"item": "bemu", "amount": 3}, {"item": "xami", "amount": 7}], "research": "daziha-factory", "maxNodes": 14, "laserRange": 19, "category": "power"}

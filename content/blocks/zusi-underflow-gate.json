@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zusi underflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "zusi", "amount": 5}, {"item": "xurenium", "amount": 1}], "research": "zusi-conveyor", "category": "distribution", "invert": false}

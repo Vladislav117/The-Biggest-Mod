@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kipybi underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "kipybi", "amount": 3}, {"item": "gurikinium", "amount": 3}], "research": "kipybi-conveyor", "category": "distribution", "invert": false}

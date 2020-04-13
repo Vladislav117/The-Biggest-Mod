@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nypoky underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "nypoky", "amount": 5}, {"item": "vodo", "amount": 4}], "research": "nypoky-conveyor", "category": "distribution", "invert": false}

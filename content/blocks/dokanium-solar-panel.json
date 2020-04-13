@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dokanium solar panel", "description": "...", "size": 3, "health": 101, "requirements": [{"item": "dokanium", "amount": 7}, {"item": "nyvexo", "amount": 13}, {"item": "hywinium", "amount": 4}], "research": "dokanium-factory", "powerProduction": 0.10125327191899866, "category": "power"}

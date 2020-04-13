@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jyluba inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "jyluba", "amount": 4}, {"item": "mehenium", "amount": 2}], "research": "jyluba-conveyor", "category": "distribution", "invert": true}

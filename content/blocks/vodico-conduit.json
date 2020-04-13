@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vodico conduit", "description": "...", "health": 136, "requirements": [{"item": "vodico", "amount": 13}, {"item": "gypunium", "amount": 8}, {"item": "seca", "amount": 7}], "liquidCapacity": 24, "liquidPressure": 3, "research": "vodico-factory", "category": "liquid"}

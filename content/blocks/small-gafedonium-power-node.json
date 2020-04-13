@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gafedonium power node", "description": "...", "size": 1, "health": 380, "requirements": [{"item": "gafedonium", "amount": 1}, {"item": "qywowi", "amount": 5}, {"item": "vuganium", "amount": 1}], "research": "gafedonium-factory", "maxNodes": 27, "laserRange": 3, "category": "power"}

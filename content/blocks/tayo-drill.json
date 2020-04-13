@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tayo drill", "description": "...", "size": 2, "health": 165, "tier": 4, "drillTime": 7, "consumes": {"power": 15}, "requirements": [{"item": "tayo", "amount": 7}, {"item": "qiga", "amount": 13}, {"item": "rabu", "amount": 8}], "research": "tayo-factory", "category": "production"}

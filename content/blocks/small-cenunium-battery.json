@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cenunium battery", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "cenunium", "amount": 12}, {"item": "nimy", "amount": 6}, {"item": "fikyyy", "amount": 5}], "research": "cenunium-factory", "consumes": {"powerBuffered": 284}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sixo junction", "description": "...", "health": 46, "speed": 12, "capacity": 7, "size": 1, "requirements": [{"item": "sixo", "amount": 5}, {"item": "zoxi", "amount": 2}], "research": "sixo-conveyor", "category": "distribution"}

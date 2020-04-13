@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fyte solar panel", "description": "...", "size": 3, "health": 171, "requirements": [{"item": "fyte", "amount": 12}, {"item": "foho", "amount": 18}, {"item": "lidori", "amount": 3}], "research": "fyte-factory", "powerProduction": 1.633322734732119, "category": "power"}

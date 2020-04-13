@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mava battery", "description": "...", "size": 1, "health": 248, "requirements": [{"item": "mava", "amount": 7}, {"item": "wuho", "amount": 13}, {"item": "sedowe", "amount": 9}], "research": "mava-factory", "consumes": {"powerBuffered": 1615}, "category": "power"}

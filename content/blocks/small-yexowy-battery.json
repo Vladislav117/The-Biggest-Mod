@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yexowy battery", "description": "...", "size": 1, "health": 300, "requirements": [{"item": "yexowy", "amount": 13}, {"item": "hedi", "amount": 13}, {"item": "muti", "amount": 5}], "research": "yexowy-factory", "consumes": {"powerBuffered": 207}, "category": "power"}

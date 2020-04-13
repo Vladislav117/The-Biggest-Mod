@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nedybu solar panel", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "nedybu", "amount": 7}, {"item": "jacala", "amount": 15}, {"item": "kuwunium", "amount": 7}], "research": "nedybu-factory", "powerProduction": 1.003023303115222, "category": "power"}

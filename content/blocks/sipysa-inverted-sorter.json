@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sipysa inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "sipysa", "amount": 4}, {"item": "tygunium", "amount": 1}], "research": "sipysa-conveyor", "category": "distribution", "invert": true}

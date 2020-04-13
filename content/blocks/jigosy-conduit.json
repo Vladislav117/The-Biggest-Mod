@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jigosy conduit", "description": "...", "health": 44, "requirements": [{"item": "jigosy", "amount": 4}, {"item": "litilenium", "amount": 15}, {"item": "ceyi", "amount": 5}], "liquidCapacity": 5, "liquidPressure": 10, "research": "jigosy-factory", "category": "liquid"}

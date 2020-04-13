@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jiyomonium solar panel", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "jiyomonium", "amount": 16}, {"item": "yytiye", "amount": 6}, {"item": "maku", "amount": 2}], "research": "jiyomonium-factory", "powerProduction": 0.150356183207723, "category": "power"}

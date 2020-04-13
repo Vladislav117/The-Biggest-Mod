@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "guhile inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "guhile", "amount": 4}, {"item": "subece", "amount": 4}], "research": "guhile-conveyor", "category": "distribution", "invert": true}

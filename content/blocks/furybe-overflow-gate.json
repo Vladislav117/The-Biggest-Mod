@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "furybe overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "furybe", "amount": 4}, {"item": "cyxazi", "amount": 1}], "research": "furybe-conveyor", "category": "distribution", "invert": false}

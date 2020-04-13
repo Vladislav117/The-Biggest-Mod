@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yedunium solar panel", "description": "...", "size": 3, "health": 195, "requirements": [{"item": "yedunium", "amount": 3}, {"item": "xekota", "amount": 8}, {"item": "gozefynium", "amount": 4}], "research": "yedunium-factory", "powerProduction": 1.0162631792967143, "category": "power"}

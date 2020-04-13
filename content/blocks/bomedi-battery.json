@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bomedi battery", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "bomedi", "amount": 14}, {"item": "qixu", "amount": 8}, {"item": "tanaxi", "amount": 7}], "research": "bomedi-factory", "consumes": {"powerBuffered": 1417}, "category": "power"}

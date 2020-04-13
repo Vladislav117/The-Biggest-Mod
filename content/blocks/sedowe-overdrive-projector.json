@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "sedowe overdrive projector", "description": "...", "health": 85, "consumes": {"power": 3.0, "item": "sedowe"}, "size": 2, "requirements": [{"item": "sedowe", "amount": 7}, {"item": "biye", "amount": 16}, {"item": "ryjo", "amount": 9}], "research": "sedowe-factory", "category": "effect"}

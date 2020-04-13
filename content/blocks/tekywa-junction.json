@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tekywa junction", "description": "...", "health": 2, "speed": 1, "capacity": 7, "size": 1, "requirements": [{"item": "tekywa", "amount": 1}, {"item": "pazanium", "amount": 3}], "research": "tekywa-conveyor", "category": "distribution"}

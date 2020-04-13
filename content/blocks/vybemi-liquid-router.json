@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vybemi liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "vybemi", "amount": 8}, {"item": "birynium", "amount": 17}, {"item": "xilyra", "amount": 1}], "research": "vybemi-conduit", "liquidCapacity": 10, "category": "liquid"}

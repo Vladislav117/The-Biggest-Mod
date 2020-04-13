@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "boni solar panel", "description": "...", "size": 3, "health": 117, "requirements": [{"item": "boni", "amount": 17}, {"item": "wyku", "amount": 5}, {"item": "seqyyi", "amount": 5}], "research": "boni-factory", "powerProduction": 1.2381861400002354, "category": "power"}

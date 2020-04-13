@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jihanium underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "jihanium", "amount": 3}, {"item": "kuyome", "amount": 1}], "research": "jihanium-conveyor", "category": "distribution", "invert": false}

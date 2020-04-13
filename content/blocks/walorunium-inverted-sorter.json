@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "walorunium inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "walorunium", "amount": 2}, {"item": "dekyzu", "amount": 3}], "research": "walorunium-conveyor", "category": "distribution", "invert": true}

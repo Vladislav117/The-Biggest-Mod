@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qaranium power node", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "qaranium", "amount": 15}, {"item": "xaryqo", "amount": 19}, {"item": "kohi", "amount": 5}], "research": "qaranium-factory", "maxNodes": 24, "laserRange": 3, "category": "power"}

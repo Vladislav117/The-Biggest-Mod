@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "safusu power node", "description": "...", "size": 2, "health": 342, "requirements": [{"item": "safusu", "amount": 18}, {"item": "cuvanium", "amount": 4}, {"item": "boyanium", "amount": 2}], "research": "safusu-factory", "maxNodes": 19, "laserRange": 23, "category": "power"}

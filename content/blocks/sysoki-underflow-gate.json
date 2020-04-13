@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sysoki underflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "sysoki", "amount": 4}, {"item": "nidenium", "amount": 3}], "research": "sysoki-conveyor", "category": "distribution", "invert": false}

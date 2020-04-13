@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wafy power node", "description": "...", "size": 1, "health": 170, "requirements": [{"item": "wafy", "amount": 19}, {"item": "qyfyqunium", "amount": 3}, {"item": "selinium", "amount": 2}], "research": "wafy-factory", "maxNodes": 29, "laserRange": 20, "category": "power"}

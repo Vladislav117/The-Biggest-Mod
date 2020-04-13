@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yuvynium conduit", "description": "...", "health": 125, "requirements": [{"item": "yuvynium", "amount": 17}, {"item": "migube", "amount": 17}, {"item": "furazinium", "amount": 7}], "liquidCapacity": 12, "liquidPressure": 5, "research": "yuvynium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fikexonium bridge conveyor", "description": "", "health": 21, "range": 11, "speed": 18, "bufferCapacity": 17, "requirements": [{"item": "fikexonium", "amount": 1}, {"item": "nepysi", "amount": 3}], "research": "fikexonium-conveyor", "category": "distribution", "size": 1}

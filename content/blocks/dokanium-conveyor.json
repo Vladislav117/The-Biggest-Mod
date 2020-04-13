@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "dokanium conveyor", "description": "...", "health": 224, "requirements": [{"item": "dokanium", "amount": 8}, {"item": "fupymi", "amount": 7}], "speed": 0.3831828605225702, "research": "dokanium-factory", "category": "distribution"}

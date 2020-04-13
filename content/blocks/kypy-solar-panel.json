@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kypy solar panel", "description": "...", "size": 3, "health": 282, "requirements": [{"item": "kypy", "amount": 6}, {"item": "dezy", "amount": 5}, {"item": "cezany", "amount": 2}], "research": "kypy-factory", "powerProduction": 0.4314454889604585, "category": "power"}

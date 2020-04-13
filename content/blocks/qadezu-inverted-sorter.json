@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qadezu inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "qadezu", "amount": 1}, {"item": "ciqi", "amount": 2}], "research": "qadezu-conveyor", "category": "distribution", "invert": true}

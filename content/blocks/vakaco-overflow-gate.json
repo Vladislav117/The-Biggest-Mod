@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vakaco overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "vakaco", "amount": 4}, {"item": "vudaxy", "amount": 4}], "research": "vakaco-conveyor", "category": "distribution", "invert": false}

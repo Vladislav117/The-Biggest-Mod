@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yimi liquid tank", "description": "...", "health": 490, "size": 3, "requirements": [{"item": "yimi", "amount": 5}, {"item": "puqege", "amount": 5}, {"item": "cebaba", "amount": 1}], "research": "yimi-conduit", "category": "liquid", "liquidCapacity": 76208, "hasLiquids": true}

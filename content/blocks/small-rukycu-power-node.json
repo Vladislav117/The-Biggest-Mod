@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rukycu power node", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "rukycu", "amount": 14}, {"item": "copper", "amount": 20}, {"item": "plastanium", "amount": 8}], "research": "rukycu-factory", "maxNodes": 13, "laserRange": 15, "category": "power"}

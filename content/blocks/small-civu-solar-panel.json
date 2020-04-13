@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small civu solar panel", "description": "...", "size": 1, "health": 303, "requirements": [{"item": "civu", "amount": 14}, {"item": "wabaru", "amount": 2}, {"item": "hezinium", "amount": 2}], "research": "civu-factory", "powerProduction": 0.7818918840419707, "category": "power"}

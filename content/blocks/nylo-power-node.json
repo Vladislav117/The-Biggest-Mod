@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nylo power node", "description": "...", "size": 2, "health": 796, "requirements": [{"item": "nylo", "amount": 1}, {"item": "rahasunium", "amount": 15}, {"item": "wywonium", "amount": 9}], "research": "nylo-factory", "maxNodes": 55, "laserRange": 15, "category": "power"}

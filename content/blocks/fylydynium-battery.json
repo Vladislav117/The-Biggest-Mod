@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fylydynium battery", "description": "...", "size": 3, "health": 222, "requirements": [{"item": "fylydynium", "amount": 18}, {"item": "yifity", "amount": 7}, {"item": "rumigonium", "amount": 3}], "research": "fylydynium-factory", "consumes": {"powerBuffered": 1632}, "category": "power"}

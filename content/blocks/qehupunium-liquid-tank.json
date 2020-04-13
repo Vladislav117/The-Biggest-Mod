@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qehupunium liquid tank", "description": "...", "health": 525, "size": 3, "requirements": [{"item": "qehupunium", "amount": 14}, {"item": "faferu", "amount": 6}, {"item": "deco", "amount": 10}], "research": "qehupunium-conduit", "category": "liquid", "liquidCapacity": 47314, "hasLiquids": true}

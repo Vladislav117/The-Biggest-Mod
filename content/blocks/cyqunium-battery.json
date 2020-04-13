@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cyqunium battery", "description": "...", "size": 3, "health": 390, "requirements": [{"item": "cyqunium", "amount": 15}, {"item": "yodo", "amount": 1}, {"item": "latycu", "amount": 5}], "research": "cyqunium-factory", "consumes": {"powerBuffered": 2714}, "category": "power"}

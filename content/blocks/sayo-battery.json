@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sayo battery", "description": "...", "size": 3, "health": 329, "requirements": [{"item": "sayo", "amount": 14}, {"item": "mymysynium", "amount": 3}, {"item": "garyda", "amount": 8}], "research": "sayo-factory", "consumes": {"powerBuffered": 7587}, "category": "power"}

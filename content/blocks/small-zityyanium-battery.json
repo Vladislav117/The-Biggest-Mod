@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zityyanium battery", "description": "...", "size": 1, "health": 94, "requirements": [{"item": "zityyanium", "amount": 6}, {"item": "seca", "amount": 20}, {"item": "nayevynium", "amount": 6}], "research": "zityyanium-factory", "consumes": {"powerBuffered": 1132}, "category": "power"}

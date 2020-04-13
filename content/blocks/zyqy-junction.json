@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zyqy junction", "description": "...", "health": 48, "speed": 7, "capacity": 18, "size": 1, "requirements": [{"item": "zyqy", "amount": 1}, {"item": "riyo", "amount": 5}], "research": "zyqy-conveyor", "category": "distribution"}

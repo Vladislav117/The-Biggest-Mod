@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zily liquid tank", "description": "...", "health": 222, "size": 3, "requirements": [{"item": "zily", "amount": 16}, {"item": "qiyatonium", "amount": 6}, {"item": "nisowi", "amount": 10}], "research": "zily-conduit", "category": "liquid", "liquidCapacity": 6639, "hasLiquids": true}

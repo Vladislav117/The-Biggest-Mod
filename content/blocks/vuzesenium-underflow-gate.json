@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vuzesenium underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "vuzesenium", "amount": 5}, {"item": "qacu", "amount": 2}], "research": "vuzesenium-conveyor", "category": "distribution", "invert": false}

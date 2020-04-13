@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wofu power node", "description": "...", "size": 2, "health": 508, "requirements": [{"item": "wofu", "amount": 15}, {"item": "hobunium", "amount": 3}, {"item": "vawybo", "amount": 3}], "research": "wofu-factory", "maxNodes": 49, "laserRange": 7, "category": "power"}

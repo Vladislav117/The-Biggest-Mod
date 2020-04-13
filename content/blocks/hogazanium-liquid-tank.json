@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hogazanium liquid tank", "description": "...", "health": 510, "size": 3, "requirements": [{"item": "hogazanium", "amount": 16}, {"item": "movanium", "amount": 8}, {"item": "xedorinium", "amount": 3}], "research": "hogazanium-conduit", "category": "liquid", "liquidCapacity": 113090, "hasLiquids": true}

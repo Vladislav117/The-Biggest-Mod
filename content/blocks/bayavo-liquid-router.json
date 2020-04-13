@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bayavo liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "bayavo", "amount": 1}, {"item": "cuvino", "amount": 15}, {"item": "fobige", "amount": 4}], "research": "bayavo-conduit", "liquidCapacity": 10, "category": "liquid"}

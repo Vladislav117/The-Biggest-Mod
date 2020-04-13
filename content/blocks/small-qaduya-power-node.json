@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qaduya power node", "description": "...", "size": 1, "health": 221, "requirements": [{"item": "qaduya", "amount": 6}, {"item": "wupoxy", "amount": 1}, {"item": "xylidinium", "amount": 7}], "research": "qaduya-factory", "maxNodes": 30, "laserRange": 14, "category": "power"}

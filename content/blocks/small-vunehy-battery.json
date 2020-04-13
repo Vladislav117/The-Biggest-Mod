@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vunehy battery", "description": "...", "size": 1, "health": 221, "requirements": [{"item": "vunehy", "amount": 15}, {"item": "seca", "amount": 6}, {"item": "puwasy", "amount": 8}], "research": "vunehy-factory", "consumes": {"powerBuffered": 1601}, "category": "power"}

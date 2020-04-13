@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yoleqy power node", "description": "...", "size": 2, "health": 637, "requirements": [{"item": "yoleqy", "amount": 9}, {"item": "lynulo", "amount": 14}, {"item": "hexa", "amount": 7}], "research": "yoleqy-factory", "maxNodes": 10, "laserRange": 10, "category": "power"}

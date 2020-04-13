@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "paky liquid tank", "description": "...", "health": 179, "size": 3, "requirements": [{"item": "paky", "amount": 17}, {"item": "ryho", "amount": 18}, {"item": "qylino", "amount": 5}], "research": "paky-conduit", "category": "liquid", "liquidCapacity": 44827, "hasLiquids": true}

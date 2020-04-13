@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hijaju junction", "description": "...", "health": 28, "speed": 19, "capacity": 12, "size": 1, "requirements": [{"item": "hijaju", "amount": 3}, {"item": "tefipi", "amount": 3}], "research": "hijaju-conveyor", "category": "distribution"}

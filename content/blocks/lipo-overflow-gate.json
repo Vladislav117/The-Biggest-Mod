@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lipo overflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "lipo", "amount": 1}, {"item": "genane", "amount": 5}], "research": "lipo-conveyor", "category": "distribution", "invert": false}

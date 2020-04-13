@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cojonium underflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "cojonium", "amount": 2}, {"item": "rajubanium", "amount": 3}], "research": "cojonium-conveyor", "category": "distribution", "invert": false}

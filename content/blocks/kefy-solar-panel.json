@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kefy solar panel", "description": "...", "size": 3, "health": 348, "requirements": [{"item": "kefy", "amount": 20}, {"item": "nimy", "amount": 4}, {"item": "titanium", "amount": 7}], "research": "kefy-factory", "powerProduction": 4.072588406680131, "category": "power"}

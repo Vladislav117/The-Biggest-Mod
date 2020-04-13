@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nulyfo liquid router", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "nulyfo", "amount": 16}, {"item": "qari", "amount": 8}, {"item": "beronium", "amount": 4}], "research": "nulyfo-conduit", "liquidCapacity": 10, "category": "liquid"}

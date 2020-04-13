@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "temaso underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "temaso", "amount": 5}, {"item": "kovewinium", "amount": 4}], "research": "temaso-conveyor", "category": "distribution", "invert": false}

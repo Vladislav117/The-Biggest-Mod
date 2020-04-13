@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "byficy overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "byficy", "amount": 5}, {"item": "mimuce", "amount": 1}], "research": "byficy-conveyor", "category": "distribution", "invert": false}

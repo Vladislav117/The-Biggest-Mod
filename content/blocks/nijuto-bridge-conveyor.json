@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nijuto bridge conveyor", "description": "", "health": 44, "range": 7, "speed": 12, "bufferCapacity": 15, "requirements": [{"item": "nijuto", "amount": 4}, {"item": "fyfe", "amount": 1}], "research": "nijuto-conveyor", "category": "distribution", "size": 1}

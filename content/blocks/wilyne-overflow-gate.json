@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wilyne overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "wilyne", "amount": 1}, {"item": "fakuzo", "amount": 1}], "research": "wilyne-conveyor", "category": "distribution", "invert": false}

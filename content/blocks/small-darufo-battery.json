@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small darufo battery", "description": "...", "size": 1, "health": 210, "requirements": [{"item": "darufo", "amount": 18}, {"item": "cyqanium", "amount": 17}, {"item": "geco", "amount": 8}], "research": "darufo-factory", "consumes": {"powerBuffered": 1205}, "category": "power"}

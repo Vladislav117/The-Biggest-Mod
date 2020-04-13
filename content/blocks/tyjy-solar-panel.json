@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tyjy solar panel", "description": "...", "size": 3, "health": 61, "requirements": [{"item": "tyjy", "amount": 11}, {"item": "gecoma", "amount": 9}, {"item": "puzihanium", "amount": 1}], "research": "tyjy-factory", "powerProduction": 0.03307983129451498, "category": "power"}

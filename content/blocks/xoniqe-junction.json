@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xoniqe junction", "description": "...", "health": 43, "speed": 14, "capacity": 5, "size": 1, "requirements": [{"item": "xoniqe", "amount": 1}, {"item": "feby", "amount": 2}], "research": "xoniqe-conveyor", "category": "distribution"}

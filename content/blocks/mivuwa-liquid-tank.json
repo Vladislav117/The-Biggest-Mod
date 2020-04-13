@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mivuwa liquid tank", "description": "...", "health": 552, "size": 3, "requirements": [{"item": "mivuwa", "amount": 11}, {"item": "dejoqonium", "amount": 15}, {"item": "nehudo", "amount": 9}], "research": "mivuwa-conduit", "category": "liquid", "liquidCapacity": 39350, "hasLiquids": true}

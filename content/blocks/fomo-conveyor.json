@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "fomo conveyor", "description": "...", "health": 123, "requirements": [{"item": "fomo", "amount": 3}, {"item": "qano", "amount": 6}], "speed": 0.1902452218308336, "research": "fomo-factory", "category": "distribution"}

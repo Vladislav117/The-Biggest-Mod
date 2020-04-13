@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vety battery", "description": "...", "size": 3, "health": 99, "requirements": [{"item": "vety", "amount": 16}, {"item": "guliyu", "amount": 20}, {"item": "qobu", "amount": 5}], "research": "vety-factory", "consumes": {"powerBuffered": 3432}, "category": "power"}

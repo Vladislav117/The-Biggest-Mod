@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fulanium battery", "description": "...", "size": 3, "health": 198, "requirements": [{"item": "fulanium", "amount": 8}, {"item": "yudesinium", "amount": 9}, {"item": "teyipu", "amount": 5}], "research": "fulanium-factory", "consumes": {"powerBuffered": 4562}, "category": "power"}

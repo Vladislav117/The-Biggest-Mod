@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "buji solar panel", "description": "...", "size": 3, "health": 120, "requirements": [{"item": "buji", "amount": 12}, {"item": "hyru", "amount": 13}, {"item": "dyma", "amount": 10}], "research": "buji-factory", "powerProduction": 2.4098307131324943, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yito battery", "description": "...", "size": 1, "health": 46, "requirements": [{"item": "yito", "amount": 9}, {"item": "zufo", "amount": 15}, {"item": "zese", "amount": 4}], "research": "yito-factory", "consumes": {"powerBuffered": 522}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pinuzu solar panel", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "pinuzu", "amount": 19}, {"item": "zycinium", "amount": 1}, {"item": "qiye", "amount": 6}], "research": "pinuzu-factory", "powerProduction": 4.178063187553329, "category": "power"}

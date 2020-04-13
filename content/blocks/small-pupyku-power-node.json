@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pupyku power node", "description": "...", "size": 1, "health": 146, "requirements": [{"item": "pupyku", "amount": 14}, {"item": "nuzivo", "amount": 20}, {"item": "reyezy", "amount": 7}], "research": "pupyku-factory", "maxNodes": 9, "laserRange": 24, "category": "power"}

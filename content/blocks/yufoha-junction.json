@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yufoha junction", "description": "...", "health": 30, "speed": 13, "capacity": 11, "size": 1, "requirements": [{"item": "yufoha", "amount": 3}, {"item": "nopi", "amount": 2}], "research": "yufoha-conveyor", "category": "distribution"}

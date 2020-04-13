@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xujo junction", "description": "...", "health": 39, "speed": 10, "capacity": 19, "size": 1, "requirements": [{"item": "xujo", "amount": 4}, {"item": "tuzy", "amount": 3}], "research": "xujo-conveyor", "category": "distribution"}

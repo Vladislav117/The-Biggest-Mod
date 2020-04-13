@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "faba conveyor", "description": "...", "health": 306, "requirements": [{"item": "faba", "amount": 1}, {"item": "biqa", "amount": 9}], "speed": 0.22450477771662863, "research": "faba-factory", "category": "distribution"}

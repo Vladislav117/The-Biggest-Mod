@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rigoyo solar panel", "description": "...", "size": 3, "health": 18, "requirements": [{"item": "rigoyo", "amount": 7}, {"item": "ruginium", "amount": 7}, {"item": "meke", "amount": 5}], "research": "rigoyo-factory", "powerProduction": 0.5780774006543934, "category": "power"}

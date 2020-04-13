@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nyci overflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "nyci", "amount": 1}, {"item": "fete", "amount": 4}], "research": "nyci-conveyor", "category": "distribution", "invert": false}

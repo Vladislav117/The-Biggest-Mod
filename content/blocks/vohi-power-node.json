@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vohi power node", "description": "...", "size": 2, "health": 303, "requirements": [{"item": "vohi", "amount": 5}, {"item": "wadiyonium", "amount": 16}, {"item": "socyhi", "amount": 10}], "research": "vohi-factory", "maxNodes": 59, "laserRange": 13, "category": "power"}

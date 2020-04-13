@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fole drill", "description": "...", "size": 3, "health": 142, "tier": 3, "drillTime": 2, "consumes": {"power": 5}, "requirements": [{"item": "fole", "amount": 4}, {"item": "pymu", "amount": 6}, {"item": "kima", "amount": 8}], "research": "fole-factory", "category": "production"}

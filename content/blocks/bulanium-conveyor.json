@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "bulanium conveyor", "description": "...", "health": 308, "requirements": [{"item": "bulanium", "amount": 1}, {"item": "sobu", "amount": 1}], "speed": 0.42780011626514286, "research": "bulanium-factory", "category": "distribution"}

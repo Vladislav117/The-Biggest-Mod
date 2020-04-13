@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "byrejenium power node", "description": "...", "size": 2, "health": 380, "requirements": [{"item": "byrejenium", "amount": 15}, {"item": "lidori", "amount": 18}, {"item": "baje", "amount": 10}], "research": "byrejenium-factory", "maxNodes": 39, "laserRange": 11, "category": "power"}

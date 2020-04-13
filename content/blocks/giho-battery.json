@@ -1,0 +1,1 @@
+{"type": "battery", "name": "giho battery", "description": "...", "size": 3, "health": 136, "requirements": [{"item": "giho", "amount": 7}, {"item": "nayevynium", "amount": 10}, {"item": "zivo", "amount": 4}], "research": "giho-factory", "consumes": {"powerBuffered": 1754}, "category": "power"}

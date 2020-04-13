@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "logy sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "logy", "amount": 2}, {"item": "gypunium", "amount": 5}], "research": "logy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sirila conduit", "description": "...", "health": 72, "requirements": [{"item": "sirila", "amount": 9}, {"item": "patyco", "amount": 9}, {"item": "nygemonium", "amount": 3}], "liquidCapacity": 39, "liquidPressure": 1, "research": "sirila-factory", "category": "liquid"}

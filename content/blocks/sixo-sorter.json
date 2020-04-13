@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sixo sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "sixo", "amount": 3}, {"item": "gacy", "amount": 3}], "research": "sixo-conveyor", "category": "distribution", "invert": false}

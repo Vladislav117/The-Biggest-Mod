@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qubyra underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "qubyra", "amount": 3}, {"item": "cavuyi", "amount": 5}], "research": "qubyra-conveyor", "category": "distribution", "invert": false}

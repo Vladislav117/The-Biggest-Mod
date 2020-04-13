@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yihyxi power node", "description": "...", "size": 2, "health": 620, "requirements": [{"item": "yihyxi", "amount": 20}, {"item": "byre", "amount": 11}, {"item": "cihihenium", "amount": 7}], "research": "yihyxi-factory", "maxNodes": 23, "laserRange": 21, "category": "power"}

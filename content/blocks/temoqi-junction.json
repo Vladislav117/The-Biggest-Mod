@@ -1,0 +1,1 @@
+{"type": "junction", "name": "temoqi junction", "description": "...", "health": 4, "speed": 12, "capacity": 6, "size": 1, "requirements": [{"item": "temoqi", "amount": 5}, {"item": "moyenium", "amount": 2}], "research": "temoqi-conveyor", "category": "distribution"}

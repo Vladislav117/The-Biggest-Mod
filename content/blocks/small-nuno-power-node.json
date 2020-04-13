@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nuno power node", "description": "...", "size": 1, "health": 301, "requirements": [{"item": "nuno", "amount": 11}, {"item": "xadunium", "amount": 20}, {"item": "labila", "amount": 5}], "research": "nuno-factory", "maxNodes": 25, "laserRange": 4, "category": "power"}

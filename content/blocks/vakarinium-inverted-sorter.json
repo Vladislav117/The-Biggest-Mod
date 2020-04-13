@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vakarinium inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "vakarinium", "amount": 5}, {"item": "daqy", "amount": 5}], "research": "vakarinium-conveyor", "category": "distribution", "invert": true}

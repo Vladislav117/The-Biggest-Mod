@@ -1,0 +1,1 @@
+{"type": "router", "name": "yila router", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "yila", "amount": 2}], "research": "yila-conveyor", "category": "distribution"}

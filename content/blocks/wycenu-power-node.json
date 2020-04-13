@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wycenu power node", "description": "...", "size": 2, "health": 477, "requirements": [{"item": "wycenu", "amount": 11}, {"item": "wesyko", "amount": 20}, {"item": "weca", "amount": 4}], "research": "wycenu-factory", "maxNodes": 55, "laserRange": 16, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kituhinium inverted sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "kituhinium", "amount": 2}, {"item": "zayuku", "amount": 2}], "research": "kituhinium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bise inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "bise", "amount": 2}, {"item": "tugo", "amount": 1}], "research": "bise-conveyor", "category": "distribution", "invert": true}

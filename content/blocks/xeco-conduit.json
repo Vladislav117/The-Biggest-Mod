@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xeco conduit", "description": "...", "health": 70, "requirements": [{"item": "xeco", "amount": 10}, {"item": "cafe", "amount": 20}, {"item": "lyra", "amount": 5}], "liquidCapacity": 45, "liquidPressure": 6, "research": "xeco-factory", "category": "liquid"}

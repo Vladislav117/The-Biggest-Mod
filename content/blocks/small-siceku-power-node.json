@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small siceku power node", "description": "...", "size": 1, "health": 88, "requirements": [{"item": "siceku", "amount": 19}, {"item": "hymonium", "amount": 7}, {"item": "haqu", "amount": 7}], "research": "siceku-factory", "maxNodes": 27, "laserRange": 6, "category": "power"}

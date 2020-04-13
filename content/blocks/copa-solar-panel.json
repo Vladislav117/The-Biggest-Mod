@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "copa solar panel", "description": "...", "size": 3, "health": 390, "requirements": [{"item": "copa", "amount": 17}, {"item": "huxonium", "amount": 16}, {"item": "zoxi", "amount": 8}], "research": "copa-factory", "powerProduction": 5.838177930802927, "category": "power"}

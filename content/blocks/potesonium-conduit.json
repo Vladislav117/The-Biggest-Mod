@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "potesonium conduit", "description": "...", "health": 136, "requirements": [{"item": "potesonium", "amount": 10}, {"item": "lead", "amount": 5}, {"item": "cyma", "amount": 6}], "liquidCapacity": 38, "liquidPressure": 5, "research": "potesonium-factory", "category": "liquid"}

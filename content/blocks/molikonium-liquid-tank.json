@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "molikonium liquid tank", "description": "...", "health": 620, "size": 3, "requirements": [{"item": "molikonium", "amount": 12}, {"item": "fegy", "amount": 11}, {"item": "sekycynium", "amount": 8}], "research": "molikonium-conduit", "category": "liquid", "liquidCapacity": 44017, "hasLiquids": true}

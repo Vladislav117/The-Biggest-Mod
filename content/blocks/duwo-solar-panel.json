@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "duwo solar panel", "description": "...", "size": 3, "health": 244, "requirements": [{"item": "duwo", "amount": 3}, {"item": "fizunium", "amount": 17}, {"item": "bofe", "amount": 6}], "research": "duwo-factory", "powerProduction": 0.021281239331329534, "category": "power"}

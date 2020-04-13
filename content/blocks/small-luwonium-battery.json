@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small luwonium battery", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "luwonium", "amount": 10}, {"item": "xuxugy", "amount": 4}, {"item": "lyjenium", "amount": 4}], "research": "luwonium-factory", "consumes": {"powerBuffered": 2951}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fumena conduit", "description": "...", "health": 134, "requirements": [{"item": "fumena", "amount": 11}, {"item": "hoxy", "amount": 6}, {"item": "qady", "amount": 2}], "liquidCapacity": 3, "liquidPressure": 10, "research": "fumena-factory", "category": "liquid"}

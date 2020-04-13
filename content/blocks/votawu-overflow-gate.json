@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "votawu overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "votawu", "amount": 2}, {"item": "boseho", "amount": 4}], "research": "votawu-conveyor", "category": "distribution", "invert": false}

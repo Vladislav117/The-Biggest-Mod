@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bily solar panel", "description": "...", "size": 3, "health": 313, "requirements": [{"item": "bily", "amount": 3}, {"item": "diqa", "amount": 3}, {"item": "wace", "amount": 3}], "research": "bily-factory", "powerProduction": 2.9247702289072643, "category": "power"}

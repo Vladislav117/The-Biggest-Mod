@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cucaso liquid router", "description": "...", "size": 1, "health": 84, "requirements": [{"item": "cucaso", "amount": 2}, {"item": "zufo", "amount": 2}, {"item": "laxu", "amount": 9}], "research": "cucaso-conduit", "liquidCapacity": 10, "category": "liquid"}

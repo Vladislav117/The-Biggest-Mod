@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "povygy underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "povygy", "amount": 4}, {"item": "seleme", "amount": 4}], "research": "povygy-conveyor", "category": "distribution", "invert": false}

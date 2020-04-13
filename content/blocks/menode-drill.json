@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "menode drill", "description": "...", "size": 3, "health": 215, "tier": 1, "drillTime": 19, "consumes": {"power": 20}, "requirements": [{"item": "menode", "amount": 20}, {"item": "qedene", "amount": 5}, {"item": "kecufi", "amount": 9}], "research": "menode-factory", "category": "production"}

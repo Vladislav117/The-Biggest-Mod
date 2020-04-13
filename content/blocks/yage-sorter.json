@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yage sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "yage", "amount": 3}, {"item": "hitori", "amount": 1}], "research": "yage-conveyor", "category": "distribution", "invert": false}

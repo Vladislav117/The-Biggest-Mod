@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nyyihy battery", "description": "...", "size": 1, "health": 107, "requirements": [{"item": "nyyihy", "amount": 14}, {"item": "dyguzu", "amount": 15}, {"item": "horyve", "amount": 9}], "research": "nyyihy-factory", "consumes": {"powerBuffered": 905}, "category": "power"}

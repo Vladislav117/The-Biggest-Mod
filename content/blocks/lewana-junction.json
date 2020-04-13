@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lewana junction", "description": "...", "health": 5, "speed": 5, "capacity": 1, "size": 1, "requirements": [{"item": "lewana", "amount": 3}, {"item": "cifo", "amount": 2}], "research": "lewana-conveyor", "category": "distribution"}

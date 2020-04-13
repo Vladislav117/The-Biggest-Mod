@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kojavi liquid tank", "description": "...", "health": 464, "size": 3, "requirements": [{"item": "kojavi", "amount": 18}, {"item": "vevati", "amount": 4}, {"item": "hofa", "amount": 4}], "research": "kojavi-conduit", "category": "liquid", "liquidCapacity": 10601, "hasLiquids": true}

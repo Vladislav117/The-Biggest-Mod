@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sidibu solar panel", "description": "...", "size": 1, "health": 250, "requirements": [{"item": "sidibu", "amount": 9}, {"item": "cone", "amount": 6}, {"item": "zezivonium", "amount": 4}], "research": "sidibu-factory", "powerProduction": 2.4868321975430985, "category": "power"}

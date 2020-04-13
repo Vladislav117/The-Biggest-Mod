@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tenuty underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "tenuty", "amount": 2}, {"item": "dysojonium", "amount": 4}], "research": "tenuty-conveyor", "category": "distribution", "invert": false}

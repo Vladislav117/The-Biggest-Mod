@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vere power node", "description": "...", "size": 2, "health": 197, "requirements": [{"item": "vere", "amount": 1}, {"item": "zyhove", "amount": 20}, {"item": "heti", "amount": 10}], "research": "vere-factory", "maxNodes": 26, "laserRange": 25, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "numuwanium solar panel", "description": "...", "size": 3, "health": 67, "requirements": [{"item": "numuwanium", "amount": 16}, {"item": "cafy", "amount": 3}, {"item": "sice", "amount": 6}], "research": "numuwanium-factory", "powerProduction": 8.221956393859134, "category": "power"}

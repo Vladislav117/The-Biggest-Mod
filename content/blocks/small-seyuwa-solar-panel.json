@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small seyuwa solar panel", "description": "...", "size": 1, "health": 152, "requirements": [{"item": "seyuwa", "amount": 14}, {"item": "ryte", "amount": 16}, {"item": "sytafe", "amount": 7}], "research": "seyuwa-factory", "powerProduction": 0.3926950856439707, "category": "power"}

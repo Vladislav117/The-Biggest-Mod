@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "terixe liquid router", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "terixe", "amount": 16}, {"item": "wekami", "amount": 10}, {"item": "gylananium", "amount": 4}], "research": "terixe-conduit", "liquidCapacity": 10, "category": "liquid"}

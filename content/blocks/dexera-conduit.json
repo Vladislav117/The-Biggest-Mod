@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dexera conduit", "description": "...", "health": 112, "requirements": [{"item": "dexera", "amount": 18}, {"item": "giyiya", "amount": 20}, {"item": "cuhyrunium", "amount": 8}], "liquidCapacity": 35, "liquidPressure": 0, "research": "dexera-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "rigoyo liquid router", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "rigoyo", "amount": 18}, {"item": "hocona", "amount": 1}, {"item": "musebo", "amount": 10}], "research": "rigoyo-conduit", "liquidCapacity": 10, "category": "liquid"}

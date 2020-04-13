@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jepi battery", "description": "...", "size": 1, "health": 297, "requirements": [{"item": "jepi", "amount": 4}, {"item": "ribuge", "amount": 17}, {"item": "tyjy", "amount": 6}], "research": "jepi-factory", "consumes": {"powerBuffered": 2520}, "category": "power"}

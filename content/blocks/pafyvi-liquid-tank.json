@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pafyvi liquid tank", "description": "...", "health": 152, "size": 3, "requirements": [{"item": "pafyvi", "amount": 9}, {"item": "koty", "amount": 14}, {"item": "fesage", "amount": 5}], "research": "pafyvi-conduit", "category": "liquid", "liquidCapacity": 93248, "hasLiquids": true}

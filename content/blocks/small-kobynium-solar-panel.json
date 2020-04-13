@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kobynium solar panel", "description": "...", "size": 1, "health": 172, "requirements": [{"item": "kobynium", "amount": 20}, {"item": "porafa", "amount": 6}, {"item": "myjeke", "amount": 10}], "research": "kobynium-factory", "powerProduction": 3.757785971625245, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "puzi solar panel", "description": "...", "size": 3, "health": 161, "requirements": [{"item": "puzi", "amount": 17}, {"item": "wuronium", "amount": 16}, {"item": "hona", "amount": 1}], "research": "puzi-factory", "powerProduction": 0.3433816806833995, "category": "power"}

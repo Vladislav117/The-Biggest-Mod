@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wynune junction", "description": "...", "health": 8, "speed": 17, "capacity": 17, "size": 1, "requirements": [{"item": "wynune", "amount": 2}, {"item": "nolo", "amount": 5}], "research": "wynune-conveyor", "category": "distribution"}

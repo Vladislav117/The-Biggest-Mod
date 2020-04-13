@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wutigo battery", "description": "...", "size": 3, "health": 280, "requirements": [{"item": "wutigo", "amount": 20}, {"item": "ceyuwy", "amount": 14}, {"item": "titanium", "amount": 6}], "research": "wutigo-factory", "consumes": {"powerBuffered": 4283}, "category": "power"}

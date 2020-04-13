@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mywoju liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "mywoju", "amount": 12}, {"item": "gahe", "amount": 8}, {"item": "cenu", "amount": 8}], "research": "mywoju-conduit", "liquidCapacity": 10, "category": "liquid"}

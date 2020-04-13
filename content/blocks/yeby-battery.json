@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yeby battery", "description": "...", "size": 3, "health": 382, "requirements": [{"item": "yeby", "amount": 19}, {"item": "secuqunium", "amount": 17}, {"item": "wigyre", "amount": 1}], "research": "yeby-factory", "consumes": {"powerBuffered": 6713}, "category": "power"}

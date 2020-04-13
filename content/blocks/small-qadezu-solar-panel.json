@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qadezu solar panel", "description": "...", "size": 1, "health": 381, "requirements": [{"item": "qadezu", "amount": 18}, {"item": "bomynium", "amount": 8}, {"item": "titenium", "amount": 9}], "research": "qadezu-factory", "powerProduction": 1.6515929182035445, "category": "power"}

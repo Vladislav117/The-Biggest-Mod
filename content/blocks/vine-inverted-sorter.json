@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vine inverted sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "vine", "amount": 2}, {"item": "tewo", "amount": 4}], "research": "vine-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fezo overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "fezo", "amount": 5}, {"item": "kuyome", "amount": 5}], "research": "fezo-conveyor", "category": "distribution", "invert": false}

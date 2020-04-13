@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small porafa solar panel", "description": "...", "size": 1, "health": 199, "requirements": [{"item": "porafa", "amount": 11}, {"item": "kuju", "amount": 18}, {"item": "sibewe", "amount": 3}], "research": "porafa-factory", "powerProduction": 1.9279636229563184, "category": "power"}

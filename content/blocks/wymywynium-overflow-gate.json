@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wymywynium overflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "wymywynium", "amount": 2}, {"item": "hezy", "amount": 2}], "research": "wymywynium-conveyor", "category": "distribution", "invert": false}

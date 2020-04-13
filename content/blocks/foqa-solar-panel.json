@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "foqa solar panel", "description": "...", "size": 3, "health": 144, "requirements": [{"item": "foqa", "amount": 16}, {"item": "leyyde", "amount": 1}, {"item": "zofeya", "amount": 7}], "research": "foqa-factory", "powerProduction": 0.058203774151042637, "category": "power"}

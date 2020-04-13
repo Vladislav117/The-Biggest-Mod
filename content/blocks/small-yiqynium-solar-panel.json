@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yiqynium solar panel", "description": "...", "size": 1, "health": 319, "requirements": [{"item": "yiqynium", "amount": 18}, {"item": "lopelu", "amount": 1}, {"item": "yemihonium", "amount": 7}], "research": "yiqynium-factory", "powerProduction": 5.626999266478497, "category": "power"}

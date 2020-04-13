@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rimi bridge conveyor", "description": "", "health": 49, "range": 9, "speed": 13, "bufferCapacity": 8, "requirements": [{"item": "rimi", "amount": 3}, {"item": "hozanium", "amount": 4}], "research": "rimi-conveyor", "category": "distribution", "size": 1}

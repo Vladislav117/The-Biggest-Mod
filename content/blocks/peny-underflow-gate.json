@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "peny underflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "peny", "amount": 1}, {"item": "rebifo", "amount": 5}], "research": "peny-conveyor", "category": "distribution", "invert": false}

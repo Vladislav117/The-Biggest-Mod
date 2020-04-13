@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zemyca power node", "description": "...", "size": 2, "health": 12, "requirements": [{"item": "zemyca", "amount": 11}, {"item": "zoxi", "amount": 16}, {"item": "medide", "amount": 6}], "research": "zemyca-factory", "maxNodes": 32, "laserRange": 6, "category": "power"}

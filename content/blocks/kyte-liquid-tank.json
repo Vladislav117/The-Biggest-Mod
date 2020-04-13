@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyte liquid tank", "description": "...", "health": 639, "size": 3, "requirements": [{"item": "kyte", "amount": 12}, {"item": "phase-fabric", "amount": 14}, {"item": "metaglass", "amount": 5}], "research": "kyte-conduit", "category": "liquid", "liquidCapacity": 107755, "hasLiquids": true}

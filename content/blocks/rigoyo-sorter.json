@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rigoyo sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "rigoyo", "amount": 2}, {"item": "pominium", "amount": 2}], "research": "rigoyo-conveyor", "category": "distribution", "invert": false}

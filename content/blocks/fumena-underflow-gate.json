@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fumena underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "fumena", "amount": 1}, {"item": "xizejinium", "amount": 3}], "research": "fumena-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fidiho battery", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "fidiho", "amount": 10}, {"item": "vosenium", "amount": 4}, {"item": "nilara", "amount": 6}], "research": "fidiho-factory", "consumes": {"powerBuffered": 2123}, "category": "power"}

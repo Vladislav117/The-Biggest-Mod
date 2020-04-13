@@ -1,0 +1,1 @@
+{"type": "junction", "name": "noconium junction", "description": "...", "health": 40, "speed": 3, "capacity": 4, "size": 1, "requirements": [{"item": "noconium", "amount": 2}, {"item": "qokygi", "amount": 5}], "research": "noconium-conveyor", "category": "distribution"}

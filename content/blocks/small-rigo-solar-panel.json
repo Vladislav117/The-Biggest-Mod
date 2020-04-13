@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rigo solar panel", "description": "...", "size": 1, "health": 112, "requirements": [{"item": "rigo", "amount": 7}, {"item": "locu", "amount": 16}, {"item": "nihy", "amount": 5}], "research": "rigo-factory", "powerProduction": 4.235367687854444, "category": "power"}

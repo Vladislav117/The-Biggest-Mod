@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "saqoxo inverted sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "saqoxo", "amount": 1}, {"item": "pudoki", "amount": 5}], "research": "saqoxo-conveyor", "category": "distribution", "invert": true}

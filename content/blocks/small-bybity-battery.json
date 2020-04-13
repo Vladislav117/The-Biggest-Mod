@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bybity battery", "description": "...", "size": 1, "health": 205, "requirements": [{"item": "bybity", "amount": 17}, {"item": "mefymanium", "amount": 10}, {"item": "daqy", "amount": 4}], "research": "bybity-factory", "consumes": {"powerBuffered": 2608}, "category": "power"}

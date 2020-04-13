@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "keze underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "keze", "amount": 2}, {"item": "qasysi", "amount": 3}], "research": "keze-conveyor", "category": "distribution", "invert": false}

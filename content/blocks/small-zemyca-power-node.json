@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zemyca power node", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "zemyca", "amount": 17}, {"item": "sewazo", "amount": 2}, {"item": "kanuya", "amount": 10}], "research": "zemyca-factory", "maxNodes": 24, "laserRange": 12, "category": "power"}

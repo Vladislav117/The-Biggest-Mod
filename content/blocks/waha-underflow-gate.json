@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "waha underflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "waha", "amount": 3}, {"item": "hytitenium", "amount": 3}], "research": "waha-conveyor", "category": "distribution", "invert": false}

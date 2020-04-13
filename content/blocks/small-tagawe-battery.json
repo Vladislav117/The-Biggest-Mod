@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tagawe battery", "description": "...", "size": 1, "health": 327, "requirements": [{"item": "tagawe", "amount": 12}, {"item": "pufere", "amount": 14}, {"item": "koyiwi", "amount": 8}], "research": "tagawe-factory", "consumes": {"powerBuffered": 2610}, "category": "power"}

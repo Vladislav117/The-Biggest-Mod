@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zacu bridge conveyor", "description": "", "health": 10, "range": 11, "speed": 6, "bufferCapacity": 5, "requirements": [{"item": "zacu", "amount": 3}, {"item": "vole", "amount": 4}], "research": "zacu-conveyor", "category": "distribution", "size": 1}

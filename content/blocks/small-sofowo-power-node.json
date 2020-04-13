@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sofowo power node", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "sofowo", "amount": 8}, {"item": "kani", "amount": 3}, {"item": "cudo", "amount": 1}], "research": "sofowo-factory", "maxNodes": 28, "laserRange": 20, "category": "power"}

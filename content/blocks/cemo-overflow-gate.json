@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cemo overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "cemo", "amount": 2}, {"item": "finu", "amount": 3}], "research": "cemo-conveyor", "category": "distribution", "invert": false}

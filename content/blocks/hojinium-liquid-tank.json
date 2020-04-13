@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hojinium liquid tank", "description": "...", "health": 422, "size": 3, "requirements": [{"item": "hojinium", "amount": 7}, {"item": "hyzafenium", "amount": 6}, {"item": "xudujy", "amount": 5}], "research": "hojinium-conduit", "category": "liquid", "liquidCapacity": 85300, "hasLiquids": true}

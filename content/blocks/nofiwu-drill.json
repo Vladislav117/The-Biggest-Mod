@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nofiwu drill", "description": "...", "size": 2, "health": 139, "tier": 1, "drillTime": 9, "consumes": {"power": 15}, "requirements": [{"item": "nofiwu", "amount": 4}, {"item": "daye", "amount": 13}, {"item": "netonium", "amount": 9}], "research": "nofiwu-factory", "category": "production"}

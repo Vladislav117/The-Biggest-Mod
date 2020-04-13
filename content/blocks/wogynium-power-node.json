@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wogynium power node", "description": "...", "size": 2, "health": 100, "requirements": [{"item": "wogynium", "amount": 3}, {"item": "seda", "amount": 13}, {"item": "kiva", "amount": 4}], "research": "wogynium-factory", "maxNodes": 36, "laserRange": 12, "category": "power"}

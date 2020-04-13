@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lumasunium power node", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "lumasunium", "amount": 8}, {"item": "qerobu", "amount": 8}, {"item": "qiti", "amount": 6}], "research": "lumasunium-factory", "maxNodes": 14, "laserRange": 13, "category": "power"}

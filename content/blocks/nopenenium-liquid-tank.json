@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nopenenium liquid tank", "description": "...", "health": 507, "size": 3, "requirements": [{"item": "nopenenium", "amount": 6}, {"item": "hybobenium", "amount": 16}, {"item": "qiga", "amount": 5}], "research": "nopenenium-conduit", "category": "liquid", "liquidCapacity": 19186, "hasLiquids": true}

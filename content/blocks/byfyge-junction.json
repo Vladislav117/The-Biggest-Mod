@@ -1,0 +1,1 @@
+{"type": "junction", "name": "byfyge junction", "description": "...", "health": 33, "speed": 3, "capacity": 13, "size": 1, "requirements": [{"item": "byfyge", "amount": 5}, {"item": "waqo", "amount": 2}], "research": "byfyge-conveyor", "category": "distribution"}

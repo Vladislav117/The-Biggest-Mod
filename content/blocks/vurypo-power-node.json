@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vurypo power node", "description": "...", "size": 2, "health": 572, "requirements": [{"item": "vurypo", "amount": 20}, {"item": "tuxu", "amount": 11}, {"item": "vunijy", "amount": 5}], "research": "vurypo-factory", "maxNodes": 16, "laserRange": 13, "category": "power"}

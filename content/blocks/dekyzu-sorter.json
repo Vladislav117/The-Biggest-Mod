@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dekyzu sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "dekyzu", "amount": 5}, {"item": "kudanium", "amount": 3}], "research": "dekyzu-conveyor", "category": "distribution", "invert": false}

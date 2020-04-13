@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gepyna liquid tank", "description": "...", "health": 258, "size": 3, "requirements": [{"item": "gepyna", "amount": 18}, {"item": "lodowo", "amount": 19}, {"item": "yype", "amount": 9}], "research": "gepyna-conduit", "category": "liquid", "liquidCapacity": 29520, "hasLiquids": true}

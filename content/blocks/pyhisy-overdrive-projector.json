@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "pyhisy overdrive projector", "description": "...", "health": 56, "consumes": {"power": 3.0, "item": "pyhisy"}, "size": 2, "requirements": [{"item": "pyhisy", "amount": 14}, {"item": "bukiqenium", "amount": 19}, {"item": "sesico", "amount": 7}], "research": "pyhisy-factory", "category": "effect"}

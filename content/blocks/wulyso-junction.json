@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wulyso junction", "description": "...", "health": 31, "speed": 10, "capacity": 16, "size": 1, "requirements": [{"item": "wulyso", "amount": 2}, {"item": "silicon", "amount": 5}], "research": "wulyso-conveyor", "category": "distribution"}

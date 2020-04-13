@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "reno overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "reno", "amount": 2}, {"item": "yojagu", "amount": 1}], "research": "reno-conveyor", "category": "distribution", "invert": false}

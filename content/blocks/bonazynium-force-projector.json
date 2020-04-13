@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "bonazynium force projector", "description": "...", "health": 228, "size": 3, "consumes": {"power": 5.0, "item": "bonazynium"}, "requirements": [{"item": "bonazynium", "amount": 4}, {"item": "kuku", "amount": 15}, {"item": "sexinium", "amount": 6}], "research": "bonazynium-factory", "category": "effect"}

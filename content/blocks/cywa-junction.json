@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cywa junction", "description": "...", "health": 39, "speed": 18, "capacity": 15, "size": 1, "requirements": [{"item": "cywa", "amount": 4}, {"item": "fimynium", "amount": 5}], "research": "cywa-conveyor", "category": "distribution"}

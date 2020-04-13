@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kokyya liquid tank", "description": "...", "health": 635, "size": 3, "requirements": [{"item": "kokyya", "amount": 6}, {"item": "kipybi", "amount": 18}, {"item": "heso", "amount": 9}], "research": "kokyya-conduit", "category": "liquid", "liquidCapacity": 16535, "hasLiquids": true}

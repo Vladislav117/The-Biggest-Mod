@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lihinium solar panel", "description": "...", "size": 3, "health": 30, "requirements": [{"item": "lihinium", "amount": 12}, {"item": "yyti", "amount": 2}, {"item": "sipynium", "amount": 7}], "research": "lihinium-factory", "powerProduction": 4.581299171699995, "category": "power"}

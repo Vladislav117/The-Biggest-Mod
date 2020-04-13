@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mada conduit", "description": "...", "health": 195, "requirements": [{"item": "mada", "amount": 13}, {"item": "kovi", "amount": 1}, {"item": "copo", "amount": 10}], "liquidCapacity": 21, "liquidPressure": 8, "research": "mada-factory", "category": "liquid"}

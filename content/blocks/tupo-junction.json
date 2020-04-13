@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tupo junction", "description": "...", "health": 48, "speed": 13, "capacity": 11, "size": 1, "requirements": [{"item": "tupo", "amount": 2}, {"item": "joky", "amount": 5}], "research": "tupo-conveyor", "category": "distribution"}

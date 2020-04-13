@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kyna junction", "description": "...", "health": 21, "speed": 2, "capacity": 10, "size": 1, "requirements": [{"item": "kyna", "amount": 1}, {"item": "wavoli", "amount": 3}], "research": "kyna-conveyor", "category": "distribution"}

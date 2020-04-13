@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kokyya power node", "description": "...", "size": 2, "health": 318, "requirements": [{"item": "kokyya", "amount": 4}, {"item": "codaxe", "amount": 18}, {"item": "heruru", "amount": 1}], "research": "kokyya-factory", "maxNodes": 52, "laserRange": 19, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "viqamo underflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "viqamo", "amount": 2}, {"item": "metaglass", "amount": 2}], "research": "viqamo-conveyor", "category": "distribution", "invert": false}

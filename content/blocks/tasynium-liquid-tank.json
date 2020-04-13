@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tasynium liquid tank", "description": "...", "health": 510, "size": 3, "requirements": [{"item": "tasynium", "amount": 1}, {"item": "bohexi", "amount": 1}, {"item": "migube", "amount": 1}], "research": "tasynium-conduit", "category": "liquid", "liquidCapacity": 35720, "hasLiquids": true}

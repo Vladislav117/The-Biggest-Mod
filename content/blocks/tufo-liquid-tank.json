@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tufo liquid tank", "description": "...", "health": 484, "size": 3, "requirements": [{"item": "tufo", "amount": 9}, {"item": "wizacy", "amount": 20}, {"item": "veqyro", "amount": 4}], "research": "tufo-conduit", "category": "liquid", "liquidCapacity": 49599, "hasLiquids": true}

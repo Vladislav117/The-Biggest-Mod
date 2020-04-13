@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rysi power node", "description": "...", "size": 1, "health": 212, "requirements": [{"item": "rysi", "amount": 9}, {"item": "heruru", "amount": 16}, {"item": "vego", "amount": 5}], "research": "rysi-factory", "maxNodes": 24, "laserRange": 25, "category": "power"}

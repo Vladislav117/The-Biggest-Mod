@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hohisi liquid tank", "description": "...", "health": 277, "size": 3, "requirements": [{"item": "hohisi", "amount": 8}, {"item": "neno", "amount": 9}, {"item": "liqy", "amount": 6}], "research": "hohisi-conduit", "category": "liquid", "liquidCapacity": 86428, "hasLiquids": true}

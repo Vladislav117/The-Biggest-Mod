@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zelanium battery", "description": "...", "size": 3, "health": 134, "requirements": [{"item": "zelanium", "amount": 20}, {"item": "nehudo", "amount": 10}, {"item": "vuzoha", "amount": 7}], "research": "zelanium-factory", "consumes": {"powerBuffered": 1548}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cusefanium solar panel", "description": "...", "size": 3, "health": 188, "requirements": [{"item": "cusefanium", "amount": 2}, {"item": "myyu", "amount": 2}, {"item": "meranium", "amount": 2}], "research": "cusefanium-factory", "powerProduction": 0.7215744155011549, "category": "power"}

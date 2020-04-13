@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "soni liquid router", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "soni", "amount": 5}, {"item": "civonium", "amount": 6}, {"item": "heboqo", "amount": 9}], "research": "soni-conduit", "liquidCapacity": 10, "category": "liquid"}

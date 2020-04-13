@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mujenium conduit", "description": "...", "health": 166, "requirements": [{"item": "mujenium", "amount": 2}, {"item": "bapi", "amount": 8}, {"item": "vykypanium", "amount": 6}], "liquidCapacity": 39, "liquidPressure": 1, "research": "mujenium-factory", "category": "liquid"}

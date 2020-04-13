@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gada power node", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "gada", "amount": 17}, {"item": "xyge", "amount": 16}, {"item": "jywupa", "amount": 4}], "research": "gada-factory", "maxNodes": 4, "laserRange": 20, "category": "power"}

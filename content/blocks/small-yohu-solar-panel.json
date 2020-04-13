@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yohu solar panel", "description": "...", "size": 1, "health": 336, "requirements": [{"item": "yohu", "amount": 5}, {"item": "faqymu", "amount": 3}, {"item": "fezudanium", "amount": 10}], "research": "yohu-factory", "powerProduction": 0.4246908940140758, "category": "power"}

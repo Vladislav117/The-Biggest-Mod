@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "suvi liquid tank", "description": "...", "health": 546, "size": 3, "requirements": [{"item": "suvi", "amount": 9}, {"item": "sexinium", "amount": 3}, {"item": "liqy", "amount": 7}], "research": "suvi-conduit", "category": "liquid", "liquidCapacity": 117225, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "toku solar panel", "description": "...", "size": 3, "health": 307, "requirements": [{"item": "toku", "amount": 15}, {"item": "pemo", "amount": 14}, {"item": "rehyce", "amount": 2}], "research": "toku-factory", "powerProduction": 0.002980472108937233, "category": "power"}

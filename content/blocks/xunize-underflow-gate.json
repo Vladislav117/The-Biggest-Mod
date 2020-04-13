@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xunize underflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "xunize", "amount": 1}, {"item": "maqe", "amount": 3}], "research": "xunize-conveyor", "category": "distribution", "invert": false}

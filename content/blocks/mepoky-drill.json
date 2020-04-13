@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mepoky drill", "description": "...", "size": 2, "health": 397, "tier": 4, "drillTime": 9, "consumes": {"power": 4}, "requirements": [{"item": "mepoky", "amount": 18}, {"item": "xapu", "amount": 19}, {"item": "becugi", "amount": 4}], "research": "mepoky-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tomanium overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "tomanium", "amount": 3}, {"item": "yimo", "amount": 1}], "research": "tomanium-conveyor", "category": "distribution", "invert": false}

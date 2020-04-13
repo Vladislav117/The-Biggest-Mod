@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hikuda sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "hikuda", "amount": 4}, {"item": "pyfa", "amount": 2}], "research": "hikuda-conveyor", "category": "distribution", "invert": false}

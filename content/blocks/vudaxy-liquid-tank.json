@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vudaxy liquid tank", "description": "...", "health": 667, "size": 3, "requirements": [{"item": "vudaxy", "amount": 18}, {"item": "xikogo", "amount": 10}, {"item": "jyzywy", "amount": 4}], "research": "vudaxy-conduit", "category": "liquid", "liquidCapacity": 112540, "hasLiquids": true}

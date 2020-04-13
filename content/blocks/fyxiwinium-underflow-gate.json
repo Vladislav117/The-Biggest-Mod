@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fyxiwinium underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "fyxiwinium", "amount": 5}, {"item": "jahunium", "amount": 4}], "research": "fyxiwinium-conveyor", "category": "distribution", "invert": false}

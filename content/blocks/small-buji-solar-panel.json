@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small buji solar panel", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "buji", "amount": 9}, {"item": "lilonium", "amount": 9}, {"item": "gyporu", "amount": 9}], "research": "buji-factory", "powerProduction": 13.074710824171527, "category": "power"}

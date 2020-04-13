@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qodanunium liquid tank", "description": "...", "health": 150, "size": 3, "requirements": [{"item": "qodanunium", "amount": 19}, {"item": "marici", "amount": 6}, {"item": "gina", "amount": 6}], "research": "qodanunium-conduit", "category": "liquid", "liquidCapacity": 52881, "hasLiquids": true}

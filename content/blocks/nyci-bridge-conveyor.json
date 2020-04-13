@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nyci bridge conveyor", "description": "", "health": 48, "range": 10, "speed": 20, "bufferCapacity": 15, "requirements": [{"item": "nyci", "amount": 5}, {"item": "hujenium", "amount": 4}], "research": "nyci-conveyor", "category": "distribution", "size": 1}

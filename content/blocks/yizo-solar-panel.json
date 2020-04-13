@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yizo solar panel", "description": "...", "size": 3, "health": 97, "requirements": [{"item": "yizo", "amount": 8}, {"item": "pedy", "amount": 7}, {"item": "nymyginium", "amount": 10}], "research": "yizo-factory", "powerProduction": 0.8270819565670319, "category": "power"}

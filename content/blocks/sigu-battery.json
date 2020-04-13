@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sigu battery", "description": "...", "size": 3, "health": 140, "requirements": [{"item": "sigu", "amount": 17}, {"item": "caxoni", "amount": 10}, {"item": "mavitu", "amount": 4}], "research": "sigu-factory", "consumes": {"powerBuffered": 7917}, "category": "power"}

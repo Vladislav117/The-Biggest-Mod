@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bocu power node", "description": "...", "size": 2, "health": 640, "requirements": [{"item": "bocu", "amount": 1}, {"item": "kelyqi", "amount": 11}, {"item": "wabaru", "amount": 9}], "research": "bocu-factory", "maxNodes": 24, "laserRange": 9, "category": "power"}

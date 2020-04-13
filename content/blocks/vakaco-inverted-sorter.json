@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vakaco inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "vakaco", "amount": 2}, {"item": "jylovo", "amount": 5}], "research": "vakaco-conveyor", "category": "distribution", "invert": true}

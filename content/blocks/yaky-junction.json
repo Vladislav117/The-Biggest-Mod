@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yaky junction", "description": "...", "health": 49, "speed": 19, "capacity": 14, "size": 1, "requirements": [{"item": "yaky", "amount": 5}, {"item": "hobunium", "amount": 3}], "research": "yaky-conveyor", "category": "distribution"}

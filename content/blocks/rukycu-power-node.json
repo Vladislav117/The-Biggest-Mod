@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rukycu power node", "description": "...", "size": 2, "health": 416, "requirements": [{"item": "rukycu", "amount": 10}, {"item": "seyuwa", "amount": 8}, {"item": "qyha", "amount": 3}], "research": "rukycu-factory", "maxNodes": 56, "laserRange": 19, "category": "power"}

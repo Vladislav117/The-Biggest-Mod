@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "soko conduit", "description": "...", "health": 24, "requirements": [{"item": "soko", "amount": 17}, {"item": "vocazu", "amount": 6}, {"item": "gytegy", "amount": 6}], "liquidCapacity": 35, "liquidPressure": 3, "research": "soko-factory", "category": "liquid"}

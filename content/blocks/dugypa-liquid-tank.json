@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dugypa liquid tank", "description": "...", "health": 121, "size": 3, "requirements": [{"item": "dugypa", "amount": 15}, {"item": "xeye", "amount": 19}, {"item": "nuci", "amount": 5}], "research": "dugypa-conduit", "category": "liquid", "liquidCapacity": 56955, "hasLiquids": true}

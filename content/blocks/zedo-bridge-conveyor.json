@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zedo bridge conveyor", "description": "", "health": 19, "range": 5, "speed": 13, "bufferCapacity": 18, "requirements": [{"item": "zedo", "amount": 2}, {"item": "motaty", "amount": 5}], "research": "zedo-conveyor", "category": "distribution", "size": 1}

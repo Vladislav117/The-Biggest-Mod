@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small birynium battery", "description": "...", "size": 1, "health": 388, "requirements": [{"item": "birynium", "amount": 4}, {"item": "bywazy", "amount": 5}, {"item": "viqamo", "amount": 7}], "research": "birynium-factory", "consumes": {"powerBuffered": 1493}, "category": "power"}

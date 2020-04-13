@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xodali battery", "description": "...", "size": 3, "health": 246, "requirements": [{"item": "xodali", "amount": 14}, {"item": "yeku", "amount": 3}, {"item": "kexaja", "amount": 1}], "research": "xodali-factory", "consumes": {"powerBuffered": 3753}, "category": "power"}

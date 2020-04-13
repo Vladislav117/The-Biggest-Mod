@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "daryki inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "daryki", "amount": 2}, {"item": "birynium", "amount": 3}], "research": "daryki-conveyor", "category": "distribution", "invert": true}

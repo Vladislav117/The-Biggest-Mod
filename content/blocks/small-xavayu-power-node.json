@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xavayu power node", "description": "...", "size": 1, "health": 274, "requirements": [{"item": "xavayu", "amount": 18}, {"item": "holy", "amount": 15}, {"item": "peloronium", "amount": 6}], "research": "xavayu-factory", "maxNodes": 7, "laserRange": 25, "category": "power"}

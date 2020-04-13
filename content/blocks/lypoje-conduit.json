@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lypoje conduit", "description": "...", "health": 21, "requirements": [{"item": "lypoje", "amount": 20}, {"item": "nujunium", "amount": 13}, {"item": "gagyby", "amount": 1}], "liquidCapacity": 3, "liquidPressure": 1, "research": "lypoje-factory", "category": "liquid"}

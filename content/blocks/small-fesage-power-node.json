@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fesage power node", "description": "...", "size": 1, "health": 140, "requirements": [{"item": "fesage", "amount": 17}, {"item": "niyi", "amount": 18}, {"item": "zypiqi", "amount": 3}], "research": "fesage-factory", "maxNodes": 10, "laserRange": 14, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "beweya liquid tank", "description": "...", "health": 610, "size": 3, "requirements": [{"item": "beweya", "amount": 12}, {"item": "fypanium", "amount": 2}, {"item": "ryni", "amount": 6}], "research": "beweya-conduit", "category": "liquid", "liquidCapacity": 73798, "hasLiquids": true}

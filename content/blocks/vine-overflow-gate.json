@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vine overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "vine", "amount": 4}, {"item": "jetu", "amount": 4}], "research": "vine-conveyor", "category": "distribution", "invert": false}

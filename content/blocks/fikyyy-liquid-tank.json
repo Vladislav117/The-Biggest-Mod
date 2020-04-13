@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fikyyy liquid tank", "description": "...", "health": 488, "size": 3, "requirements": [{"item": "fikyyy", "amount": 8}, {"item": "jazozu", "amount": 13}, {"item": "laso", "amount": 7}], "research": "fikyyy-conduit", "category": "liquid", "liquidCapacity": 62091, "hasLiquids": true}

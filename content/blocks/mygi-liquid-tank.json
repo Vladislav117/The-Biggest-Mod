@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mygi liquid tank", "description": "...", "health": 411, "size": 3, "requirements": [{"item": "mygi", "amount": 11}, {"item": "gahunium", "amount": 15}, {"item": "kyna", "amount": 2}], "research": "mygi-conduit", "category": "liquid", "liquidCapacity": 55848, "hasLiquids": true}

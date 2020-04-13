@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hivesy conduit", "description": "...", "health": 80, "requirements": [{"item": "hivesy", "amount": 7}, {"item": "nayevynium", "amount": 4}, {"item": "hymonium", "amount": 9}], "liquidCapacity": 20, "liquidPressure": 2, "research": "hivesy-factory", "category": "liquid"}

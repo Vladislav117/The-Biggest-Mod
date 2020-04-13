@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zaxe liquid tank", "description": "...", "health": 250, "size": 3, "requirements": [{"item": "zaxe", "amount": 9}, {"item": "xala", "amount": 11}, {"item": "kaniyy", "amount": 3}], "research": "zaxe-conduit", "category": "liquid", "liquidCapacity": 2157, "hasLiquids": true}

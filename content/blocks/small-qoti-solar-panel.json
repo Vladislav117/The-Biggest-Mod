@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qoti solar panel", "description": "...", "size": 1, "health": 274, "requirements": [{"item": "qoti", "amount": 1}, {"item": "tizusa", "amount": 13}, {"item": "zyrufu", "amount": 6}], "research": "qoti-factory", "powerProduction": 5.89411016686703, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "xesu liquid router", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "xesu", "amount": 8}, {"item": "vesy", "amount": 12}, {"item": "lucohi", "amount": 5}], "research": "xesu-conduit", "liquidCapacity": 10, "category": "liquid"}

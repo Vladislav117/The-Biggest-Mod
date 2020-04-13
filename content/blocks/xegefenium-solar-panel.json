@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xegefenium solar panel", "description": "...", "size": 3, "health": 299, "requirements": [{"item": "xegefenium", "amount": 2}, {"item": "ninyfe", "amount": 15}, {"item": "meke", "amount": 2}], "research": "xegefenium-factory", "powerProduction": 10.214762734810847, "category": "power"}

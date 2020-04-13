@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jydi liquid tank", "description": "...", "health": 341, "size": 3, "requirements": [{"item": "jydi", "amount": 12}, {"item": "vuxi", "amount": 8}, {"item": "zore", "amount": 6}], "research": "jydi-conduit", "category": "liquid", "liquidCapacity": 56196, "hasLiquids": true}

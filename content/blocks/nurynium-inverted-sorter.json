@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nurynium inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "nurynium", "amount": 4}, {"item": "nytina", "amount": 2}], "research": "nurynium-conveyor", "category": "distribution", "invert": true}

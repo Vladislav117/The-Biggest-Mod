@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "syso solar panel", "description": "...", "size": 3, "health": 253, "requirements": [{"item": "syso", "amount": 8}, {"item": "zivoginium", "amount": 5}, {"item": "mofapu", "amount": 2}], "research": "syso-factory", "powerProduction": 0.07861927949166533, "category": "power"}

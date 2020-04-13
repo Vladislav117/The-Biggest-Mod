@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kowaxy liquid router", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "kowaxy", "amount": 4}, {"item": "qatu", "amount": 11}, {"item": "wimu", "amount": 2}], "research": "kowaxy-conduit", "liquidCapacity": 10, "category": "liquid"}

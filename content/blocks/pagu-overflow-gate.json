@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pagu overflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "pagu", "amount": 1}, {"item": "lead", "amount": 3}], "research": "pagu-conveyor", "category": "distribution", "invert": false}

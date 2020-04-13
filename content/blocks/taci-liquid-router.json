@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "taci liquid router", "description": "...", "size": 1, "health": 31, "requirements": [{"item": "taci", "amount": 7}, {"item": "cozuja", "amount": 8}, {"item": "yuvynium", "amount": 1}], "research": "taci-conduit", "liquidCapacity": 10, "category": "liquid"}

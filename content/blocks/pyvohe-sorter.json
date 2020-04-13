@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pyvohe sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "pyvohe", "amount": 3}, {"item": "leriki", "amount": 4}], "research": "pyvohe-conveyor", "category": "distribution", "invert": false}

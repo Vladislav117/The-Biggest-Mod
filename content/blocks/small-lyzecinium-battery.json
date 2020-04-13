@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lyzecinium battery", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "lyzecinium", "amount": 9}, {"item": "caxoni", "amount": 6}, {"item": "wicy", "amount": 6}], "research": "lyzecinium-factory", "consumes": {"powerBuffered": 1323}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pahy conduit", "description": "...", "health": 137, "requirements": [{"item": "pahy", "amount": 15}, {"item": "tobaye", "amount": 13}, {"item": "pyzemu", "amount": 2}], "liquidCapacity": 5, "liquidPressure": 8, "research": "pahy-factory", "category": "liquid"}

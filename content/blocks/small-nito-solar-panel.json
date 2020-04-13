@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nito solar panel", "description": "...", "size": 1, "health": 193, "requirements": [{"item": "nito", "amount": 15}, {"item": "byficy", "amount": 16}, {"item": "pinuzu", "amount": 2}], "research": "nito-factory", "powerProduction": 1.0632080848270347, "category": "power"}

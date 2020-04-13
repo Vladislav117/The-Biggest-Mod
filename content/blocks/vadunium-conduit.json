@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vadunium conduit", "description": "...", "health": 140, "requirements": [{"item": "vadunium", "amount": 13}, {"item": "yyga", "amount": 8}, {"item": "saze", "amount": 9}], "liquidCapacity": 5, "liquidPressure": 3, "research": "vadunium-factory", "category": "liquid"}

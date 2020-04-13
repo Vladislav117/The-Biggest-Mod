@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ruwecu overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "ruwecu", "amount": 1}, {"item": "dojynium", "amount": 5}], "research": "ruwecu-conveyor", "category": "distribution", "invert": false}

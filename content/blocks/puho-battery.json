@@ -1,0 +1,1 @@
+{"type": "battery", "name": "puho battery", "description": "...", "size": 3, "health": 85, "requirements": [{"item": "puho", "amount": 4}, {"item": "siwobanium", "amount": 7}, {"item": "zywave", "amount": 9}], "research": "puho-factory", "consumes": {"powerBuffered": 4583}, "category": "power"}

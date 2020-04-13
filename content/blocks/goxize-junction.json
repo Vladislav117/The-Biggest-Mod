@@ -1,0 +1,1 @@
+{"type": "junction", "name": "goxize junction", "description": "...", "health": 6, "speed": 7, "capacity": 12, "size": 1, "requirements": [{"item": "goxize", "amount": 3}, {"item": "lobu", "amount": 2}], "research": "goxize-conveyor", "category": "distribution"}

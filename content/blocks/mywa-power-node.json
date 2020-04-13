@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mywa power node", "description": "...", "size": 2, "health": 789, "requirements": [{"item": "mywa", "amount": 7}, {"item": "numuwanium", "amount": 10}, {"item": "tiyexenium", "amount": 6}], "research": "mywa-factory", "maxNodes": 26, "laserRange": 28, "category": "power"}

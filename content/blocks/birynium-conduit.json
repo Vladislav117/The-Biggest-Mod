@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "birynium conduit", "description": "...", "health": 174, "requirements": [{"item": "birynium", "amount": 10}, {"item": "dyzo", "amount": 1}, {"item": "gurikinium", "amount": 2}], "liquidCapacity": 31, "liquidPressure": 4, "research": "birynium-factory", "category": "liquid"}

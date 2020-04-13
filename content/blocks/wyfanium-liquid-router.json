@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wyfanium liquid router", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "wyfanium", "amount": 13}, {"item": "tufi", "amount": 3}, {"item": "rysi", "amount": 7}], "research": "wyfanium-conduit", "liquidCapacity": 10, "category": "liquid"}

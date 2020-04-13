@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gunery overflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "gunery", "amount": 2}, {"item": "dipyfonium", "amount": 1}], "research": "gunery-conveyor", "category": "distribution", "invert": false}

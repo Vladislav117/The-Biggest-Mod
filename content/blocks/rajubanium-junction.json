@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rajubanium junction", "description": "...", "health": 44, "speed": 20, "capacity": 18, "size": 1, "requirements": [{"item": "rajubanium", "amount": 1}, {"item": "nunanunium", "amount": 5}], "research": "rajubanium-conveyor", "category": "distribution"}

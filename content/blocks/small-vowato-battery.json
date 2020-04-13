@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vowato battery", "description": "...", "size": 1, "health": 216, "requirements": [{"item": "vowato", "amount": 12}, {"item": "pykeby", "amount": 4}, {"item": "gokiyi", "amount": 10}], "research": "vowato-factory", "consumes": {"powerBuffered": 565}, "category": "power"}

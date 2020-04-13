@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dora sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "dora", "amount": 5}, {"item": "qulape", "amount": 2}], "research": "dora-conveyor", "category": "distribution", "invert": false}

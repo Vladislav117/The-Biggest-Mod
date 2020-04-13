@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vupofy sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "vupofy", "amount": 4}, {"item": "movanium", "amount": 1}], "research": "vupofy-conveyor", "category": "distribution", "invert": false}

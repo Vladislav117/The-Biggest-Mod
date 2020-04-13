@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gedo liquid tank", "description": "...", "health": 527, "size": 3, "requirements": [{"item": "gedo", "amount": 12}, {"item": "xafeku", "amount": 18}, {"item": "masa", "amount": 1}], "research": "gedo-conduit", "category": "liquid", "liquidCapacity": 52444, "hasLiquids": true}

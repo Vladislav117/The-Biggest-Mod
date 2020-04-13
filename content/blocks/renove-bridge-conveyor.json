@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "renove bridge conveyor", "description": "", "health": 32, "range": 1, "speed": 10, "bufferCapacity": 11, "requirements": [{"item": "renove", "amount": 4}, {"item": "bome", "amount": 2}], "research": "renove-conveyor", "category": "distribution", "size": 1}

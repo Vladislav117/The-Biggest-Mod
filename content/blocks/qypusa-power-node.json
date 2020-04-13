@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qypusa power node", "description": "...", "size": 2, "health": 257, "requirements": [{"item": "qypusa", "amount": 7}, {"item": "rixyqu", "amount": 9}, {"item": "gywu", "amount": 6}], "research": "qypusa-factory", "maxNodes": 34, "laserRange": 9, "category": "power"}

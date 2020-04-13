@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "feby solar panel", "description": "...", "size": 3, "health": 119, "requirements": [{"item": "feby", "amount": 17}, {"item": "nynoyu", "amount": 14}, {"item": "bapi", "amount": 6}], "research": "feby-factory", "powerProduction": 0.09122449175926095, "category": "power"}

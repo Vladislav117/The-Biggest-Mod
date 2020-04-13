@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vesycynium solar panel", "description": "...", "size": 3, "health": 142, "requirements": [{"item": "vesycynium", "amount": 1}, {"item": "wace", "amount": 5}, {"item": "pydudanium", "amount": 9}], "research": "vesycynium-factory", "powerProduction": 0.24137792438696204, "category": "power"}

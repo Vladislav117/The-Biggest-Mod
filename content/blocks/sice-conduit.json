@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sice conduit", "description": "...", "health": 179, "requirements": [{"item": "sice", "amount": 2}, {"item": "yesolonium", "amount": 3}, {"item": "vohiyynium", "amount": 6}], "liquidCapacity": 12, "liquidPressure": 1, "research": "sice-factory", "category": "liquid"}

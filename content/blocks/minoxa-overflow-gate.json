@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "minoxa overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "minoxa", "amount": 1}, {"item": "rateju", "amount": 2}], "research": "minoxa-conveyor", "category": "distribution", "invert": false}

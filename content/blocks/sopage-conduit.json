@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sopage conduit", "description": "...", "health": 120, "requirements": [{"item": "sopage", "amount": 8}, {"item": "kituhinium", "amount": 4}, {"item": "ryte", "amount": 1}], "liquidCapacity": 50, "liquidPressure": 1, "research": "sopage-factory", "category": "liquid"}

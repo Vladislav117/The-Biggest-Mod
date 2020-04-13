@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ciqu battery", "description": "...", "size": 3, "health": 169, "requirements": [{"item": "ciqu", "amount": 20}, {"item": "lebu", "amount": 6}, {"item": "milosi", "amount": 1}], "research": "ciqu-factory", "consumes": {"powerBuffered": 2711}, "category": "power"}

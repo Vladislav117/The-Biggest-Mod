@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "domike solar panel", "description": "...", "size": 3, "health": 247, "requirements": [{"item": "domike", "amount": 16}, {"item": "bapu", "amount": 14}, {"item": "noconium", "amount": 10}], "research": "domike-factory", "powerProduction": 0.10699301298166318, "category": "power"}

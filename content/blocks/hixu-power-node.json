@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hixu power node", "description": "...", "size": 2, "health": 732, "requirements": [{"item": "hixu", "amount": 3}, {"item": "cudo", "amount": 3}, {"item": "qudeya", "amount": 8}], "research": "hixu-factory", "maxNodes": 50, "laserRange": 20, "category": "power"}

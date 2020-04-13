@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "julu liquid tank", "description": "...", "health": 428, "size": 3, "requirements": [{"item": "julu", "amount": 4}, {"item": "yojagu", "amount": 11}, {"item": "qoseji", "amount": 6}], "research": "julu-conduit", "category": "liquid", "liquidCapacity": 112161, "hasLiquids": true}

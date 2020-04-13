@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cafe power node", "description": "...", "size": 1, "health": 208, "requirements": [{"item": "cafe", "amount": 8}, {"item": "qepyvonium", "amount": 11}, {"item": "qudeya", "amount": 10}], "research": "cafe-factory", "maxNodes": 15, "laserRange": 16, "category": "power"}

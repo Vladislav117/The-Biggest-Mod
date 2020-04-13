@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rapuvo solar panel", "description": "...", "size": 1, "health": 241, "requirements": [{"item": "rapuvo", "amount": 4}, {"item": "cejuru", "amount": 19}, {"item": "havano", "amount": 8}], "research": "rapuvo-factory", "powerProduction": 1.0227992476317456, "category": "power"}

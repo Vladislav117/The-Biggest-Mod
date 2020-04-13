@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yaky liquid router", "description": "...", "size": 1, "health": 88, "requirements": [{"item": "yaky", "amount": 3}, {"item": "kaye", "amount": 1}, {"item": "kide", "amount": 9}], "research": "yaky-conduit", "liquidCapacity": 10, "category": "liquid"}

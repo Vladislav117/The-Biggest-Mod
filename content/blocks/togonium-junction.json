@@ -1,0 +1,1 @@
+{"type": "junction", "name": "togonium junction", "description": "...", "health": 11, "speed": 18, "capacity": 11, "size": 1, "requirements": [{"item": "togonium", "amount": 2}, {"item": "fesixa", "amount": 5}], "research": "togonium-conveyor", "category": "distribution"}

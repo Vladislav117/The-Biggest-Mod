@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "guda drill", "description": "...", "size": 2, "health": 423, "tier": 2, "drillTime": 4, "consumes": {"power": 7}, "requirements": [{"item": "guda", "amount": 3}, {"item": "zumyze", "amount": 9}, {"item": "nudo", "amount": 6}], "research": "guda-factory", "category": "production"}

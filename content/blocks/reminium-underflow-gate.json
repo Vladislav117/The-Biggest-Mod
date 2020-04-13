@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "reminium underflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "reminium", "amount": 2}, {"item": "judu", "amount": 1}], "research": "reminium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wisipu solar panel", "description": "...", "size": 3, "health": 297, "requirements": [{"item": "wisipu", "amount": 8}, {"item": "yejeqinium", "amount": 7}, {"item": "vywene", "amount": 4}], "research": "wisipu-factory", "powerProduction": 1.940159046679161, "category": "power"}

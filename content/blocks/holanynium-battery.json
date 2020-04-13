@@ -1,0 +1,1 @@
+{"type": "battery", "name": "holanynium battery", "description": "...", "size": 3, "health": 204, "requirements": [{"item": "holanynium", "amount": 10}, {"item": "jetu", "amount": 15}, {"item": "yify", "amount": 2}], "research": "holanynium-factory", "consumes": {"powerBuffered": 8154}, "category": "power"}

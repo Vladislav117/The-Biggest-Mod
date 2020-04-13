@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dezi solar panel", "description": "...", "size": 3, "health": 165, "requirements": [{"item": "dezi", "amount": 20}, {"item": "reqoxu", "amount": 6}, {"item": "bexa", "amount": 5}], "research": "dezi-factory", "powerProduction": 0.020750230992923276, "category": "power"}

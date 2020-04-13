@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fywynium junction", "description": "...", "health": 20, "speed": 16, "capacity": 14, "size": 1, "requirements": [{"item": "fywynium", "amount": 5}, {"item": "vapa", "amount": 4}], "research": "fywynium-conveyor", "category": "distribution"}

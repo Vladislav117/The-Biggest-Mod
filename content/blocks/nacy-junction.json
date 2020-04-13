@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nacy junction", "description": "...", "health": 37, "speed": 10, "capacity": 5, "size": 1, "requirements": [{"item": "nacy", "amount": 1}, {"item": "viwunium", "amount": 4}], "research": "nacy-conveyor", "category": "distribution"}

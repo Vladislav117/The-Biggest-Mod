@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vezo drill", "description": "...", "size": 4, "health": 354, "tier": 2, "drillTime": 11, "consumes": {"power": 5}, "requirements": [{"item": "vezo", "amount": 19}, {"item": "qiqole", "amount": 17}, {"item": "zili", "amount": 1}], "research": "vezo-factory", "category": "production"}

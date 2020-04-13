@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mijinium power node", "description": "...", "size": 1, "health": 336, "requirements": [{"item": "mijinium", "amount": 5}, {"item": "byfa", "amount": 4}, {"item": "jobobu", "amount": 10}], "research": "mijinium-factory", "maxNodes": 7, "laserRange": 18, "category": "power"}

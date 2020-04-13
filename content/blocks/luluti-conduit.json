@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "luluti conduit", "description": "...", "health": 120, "requirements": [{"item": "luluti", "amount": 13}, {"item": "metadu", "amount": 12}, {"item": "jygowu", "amount": 7}], "liquidCapacity": 49, "liquidPressure": 2, "research": "luluti-factory", "category": "liquid"}

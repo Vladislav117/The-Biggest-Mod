@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lyzy battery", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "lyzy", "amount": 16}, {"item": "melula", "amount": 4}, {"item": "fusaji", "amount": 1}], "research": "lyzy-factory", "consumes": {"powerBuffered": 792}, "category": "power"}

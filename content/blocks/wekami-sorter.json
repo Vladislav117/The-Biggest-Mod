@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wekami sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "wekami", "amount": 4}, {"item": "gonu", "amount": 4}], "research": "wekami-conveyor", "category": "distribution", "invert": false}

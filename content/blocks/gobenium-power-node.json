@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gobenium power node", "description": "...", "size": 2, "health": 721, "requirements": [{"item": "gobenium", "amount": 18}, {"item": "wana", "amount": 15}, {"item": "kipybi", "amount": 5}], "research": "gobenium-factory", "maxNodes": 17, "laserRange": 15, "category": "power"}

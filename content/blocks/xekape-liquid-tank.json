@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xekape liquid tank", "description": "...", "health": 305, "size": 3, "requirements": [{"item": "xekape", "amount": 15}, {"item": "nifonium", "amount": 19}, {"item": "dyqasy", "amount": 3}], "research": "xekape-conduit", "category": "liquid", "liquidCapacity": 48388, "hasLiquids": true}

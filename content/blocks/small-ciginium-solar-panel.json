@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ciginium solar panel", "description": "...", "size": 1, "health": 295, "requirements": [{"item": "ciginium", "amount": 12}, {"item": "dymu", "amount": 16}, {"item": "wujifi", "amount": 7}], "research": "ciginium-factory", "powerProduction": 1.1334747914548493, "category": "power"}

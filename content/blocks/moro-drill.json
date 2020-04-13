@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "moro drill", "description": "...", "size": 4, "health": 420, "tier": 3, "drillTime": 15, "consumes": {"power": 15}, "requirements": [{"item": "moro", "amount": 5}, {"item": "gyhecu", "amount": 1}, {"item": "deqohu", "amount": 7}], "research": "moro-factory", "category": "production"}

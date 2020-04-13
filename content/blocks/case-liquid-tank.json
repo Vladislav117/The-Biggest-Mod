@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "case liquid tank", "description": "...", "health": 485, "size": 3, "requirements": [{"item": "case", "amount": 3}, {"item": "nirenium", "amount": 12}, {"item": "fasaze", "amount": 1}], "research": "case-conduit", "category": "liquid", "liquidCapacity": 81657, "hasLiquids": true}

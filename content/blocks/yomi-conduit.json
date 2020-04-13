@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yomi conduit", "description": "...", "health": 84, "requirements": [{"item": "yomi", "amount": 16}, {"item": "paso", "amount": 14}, {"item": "pijebu", "amount": 2}], "liquidCapacity": 7, "liquidPressure": 3, "research": "yomi-factory", "category": "liquid"}

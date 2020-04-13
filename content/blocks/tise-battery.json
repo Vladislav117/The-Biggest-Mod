@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tise battery", "description": "...", "size": 3, "health": 222, "requirements": [{"item": "tise", "amount": 19}, {"item": "kecufi", "amount": 5}, {"item": "qano", "amount": 5}], "research": "tise-factory", "consumes": {"powerBuffered": 2082}, "category": "power"}

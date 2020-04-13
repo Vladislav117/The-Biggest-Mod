@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "heke conduit", "description": "...", "health": 40, "requirements": [{"item": "heke", "amount": 12}, {"item": "hixu", "amount": 8}, {"item": "nybinium", "amount": 7}], "liquidCapacity": 3, "liquidPressure": 8, "research": "heke-factory", "category": "liquid"}

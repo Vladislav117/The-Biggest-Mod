@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "neda underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "neda", "amount": 1}, {"item": "fexenium", "amount": 5}], "research": "neda-conveyor", "category": "distribution", "invert": false}

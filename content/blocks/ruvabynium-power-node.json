@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ruvabynium power node", "description": "...", "size": 2, "health": 793, "requirements": [{"item": "ruvabynium", "amount": 15}, {"item": "bocu", "amount": 12}, {"item": "lovy", "amount": 10}], "research": "ruvabynium-factory", "maxNodes": 17, "laserRange": 21, "category": "power"}

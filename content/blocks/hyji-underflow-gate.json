@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hyji underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "hyji", "amount": 5}, {"item": "faba", "amount": 2}], "research": "hyji-conveyor", "category": "distribution", "invert": false}

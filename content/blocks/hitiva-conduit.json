@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hitiva conduit", "description": "...", "health": 33, "requirements": [{"item": "hitiva", "amount": 13}, {"item": "vurypo", "amount": 15}, {"item": "widydo", "amount": 6}], "liquidCapacity": 11, "liquidPressure": 1, "research": "hitiva-factory", "category": "liquid"}

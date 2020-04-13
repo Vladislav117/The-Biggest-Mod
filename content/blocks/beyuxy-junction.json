@@ -1,0 +1,1 @@
+{"type": "junction", "name": "beyuxy junction", "description": "...", "health": 34, "speed": 14, "capacity": 5, "size": 1, "requirements": [{"item": "beyuxy", "amount": 3}, {"item": "rakuhy", "amount": 5}], "research": "beyuxy-conveyor", "category": "distribution"}

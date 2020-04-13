@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tujaxe solar panel", "description": "...", "size": 1, "health": 348, "requirements": [{"item": "tujaxe", "amount": 7}, {"item": "cusefanium", "amount": 9}, {"item": "qiquli", "amount": 7}], "research": "tujaxe-factory", "powerProduction": 3.3392850941488383, "category": "power"}

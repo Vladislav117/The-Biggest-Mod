@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "yycoqe force projector", "description": "...", "health": 122, "size": 3, "consumes": {"power": 5.0, "item": "yycoqe"}, "requirements": [{"item": "yycoqe", "amount": 11}, {"item": "fure", "amount": 4}, {"item": "rajubanium", "amount": 7}], "research": "yycoqe-factory", "category": "effect"}

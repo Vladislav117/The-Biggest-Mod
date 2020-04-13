@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "refoty force projector", "description": "...", "health": 138, "size": 3, "consumes": {"power": 5.0, "item": "refoty"}, "requirements": [{"item": "refoty", "amount": 17}, {"item": "vewavu", "amount": 2}, {"item": "povewo", "amount": 7}], "research": "refoty-factory", "category": "effect"}

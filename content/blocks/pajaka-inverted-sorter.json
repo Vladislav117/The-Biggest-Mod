@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pajaka inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "pajaka", "amount": 2}, {"item": "soki", "amount": 1}], "research": "pajaka-conveyor", "category": "distribution", "invert": true}

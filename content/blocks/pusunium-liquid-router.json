@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pusunium liquid router", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "pusunium", "amount": 9}, {"item": "bahemi", "amount": 11}, {"item": "cobigu", "amount": 5}], "research": "pusunium-conduit", "liquidCapacity": 10, "category": "liquid"}

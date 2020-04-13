@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vyji bridge conveyor", "description": "", "health": 14, "range": 13, "speed": 17, "bufferCapacity": 12, "requirements": [{"item": "vyji", "amount": 4}, {"item": "qera", "amount": 1}], "research": "vyji-conveyor", "category": "distribution", "size": 1}

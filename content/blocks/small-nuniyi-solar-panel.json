@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nuniyi solar panel", "description": "...", "size": 1, "health": 324, "requirements": [{"item": "nuniyi", "amount": 18}, {"item": "wynune", "amount": 20}, {"item": "wynune", "amount": 5}], "research": "nuniyi-factory", "powerProduction": 3.1310063009320452, "category": "power"}

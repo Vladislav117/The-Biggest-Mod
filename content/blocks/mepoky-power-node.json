@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mepoky power node", "description": "...", "size": 2, "health": 79, "requirements": [{"item": "mepoky", "amount": 10}, {"item": "pikoqi", "amount": 15}, {"item": "kecufi", "amount": 10}], "research": "mepoky-factory", "maxNodes": 51, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vyjoti solar panel", "description": "...", "size": 3, "health": 221, "requirements": [{"item": "vyjoti", "amount": 5}, {"item": "zivo", "amount": 7}, {"item": "wiba", "amount": 8}], "research": "vyjoti-factory", "powerProduction": 0.01084957567278559, "category": "power"}

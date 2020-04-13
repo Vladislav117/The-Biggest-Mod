@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small temoqi power node", "description": "...", "size": 1, "health": 359, "requirements": [{"item": "temoqi", "amount": 7}, {"item": "lygynium", "amount": 11}, {"item": "xafeku", "amount": 10}], "research": "temoqi-factory", "maxNodes": 28, "laserRange": 12, "category": "power"}

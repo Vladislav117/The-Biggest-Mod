@@ -1,0 +1,1 @@
+{"type": "battery", "name": "notinium battery", "description": "...", "size": 3, "health": 247, "requirements": [{"item": "notinium", "amount": 6}, {"item": "zeqonium", "amount": 13}, {"item": "xevanium", "amount": 10}], "research": "notinium-factory", "consumes": {"powerBuffered": 6634}, "category": "power"}

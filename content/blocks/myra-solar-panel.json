@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "myra solar panel", "description": "...", "size": 3, "health": 248, "requirements": [{"item": "myra", "amount": 19}, {"item": "cuwa", "amount": 3}, {"item": "surenium", "amount": 8}], "research": "myra-factory", "powerProduction": 0.5749477381409198, "category": "power"}

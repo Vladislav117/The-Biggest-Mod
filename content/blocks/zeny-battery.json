@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zeny battery", "description": "...", "size": 3, "health": 281, "requirements": [{"item": "zeny", "amount": 4}, {"item": "joxi", "amount": 5}, {"item": "gahunium", "amount": 10}], "research": "zeny-factory", "consumes": {"powerBuffered": 5784}, "category": "power"}

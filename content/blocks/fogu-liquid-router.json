@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fogu liquid router", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "fogu", "amount": 7}, {"item": "jede", "amount": 12}, {"item": "baly", "amount": 9}], "research": "fogu-conduit", "liquidCapacity": 10, "category": "liquid"}

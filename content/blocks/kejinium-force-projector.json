@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "kejinium force projector", "description": "...", "health": 166, "size": 3, "consumes": {"power": 5.0, "item": "kejinium"}, "requirements": [{"item": "kejinium", "amount": 9}, {"item": "cozuja", "amount": 11}, {"item": "yesolonium", "amount": 10}], "research": "kejinium-factory", "category": "effect"}

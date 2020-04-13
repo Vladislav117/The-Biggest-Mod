@@ -1,0 +1,1 @@
+{"type": "battery", "name": "latycu battery", "description": "...", "size": 3, "health": 18, "requirements": [{"item": "latycu", "amount": 18}, {"item": "pubado", "amount": 20}, {"item": "geke", "amount": 4}], "research": "latycu-factory", "consumes": {"powerBuffered": 7863}, "category": "power"}

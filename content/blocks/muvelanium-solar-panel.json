@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "muvelanium solar panel", "description": "...", "size": 3, "health": 30, "requirements": [{"item": "muvelanium", "amount": 16}, {"item": "fyponium", "amount": 20}, {"item": "poxy", "amount": 6}], "research": "muvelanium-factory", "powerProduction": 0.9513176847553142, "category": "power"}

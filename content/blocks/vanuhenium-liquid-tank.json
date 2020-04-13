@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vanuhenium liquid tank", "description": "...", "health": 639, "size": 3, "requirements": [{"item": "vanuhenium", "amount": 8}, {"item": "wywa", "amount": 17}, {"item": "docinium", "amount": 5}], "research": "vanuhenium-conduit", "category": "liquid", "liquidCapacity": 63422, "hasLiquids": true}

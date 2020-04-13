@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nyci underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "nyci", "amount": 2}, {"item": "vufinium", "amount": 1}], "research": "nyci-conveyor", "category": "distribution", "invert": false}

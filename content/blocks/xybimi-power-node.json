@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xybimi power node", "description": "...", "size": 2, "health": 522, "requirements": [{"item": "xybimi", "amount": 17}, {"item": "vygu", "amount": 6}, {"item": "solumo", "amount": 9}], "research": "xybimi-factory", "maxNodes": 14, "laserRange": 17, "category": "power"}

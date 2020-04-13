@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fifa sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "fifa", "amount": 5}, {"item": "life", "amount": 1}], "research": "fifa-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vypo solar panel", "description": "...", "size": 1, "health": 302, "requirements": [{"item": "vypo", "amount": 5}, {"item": "jaki", "amount": 3}, {"item": "cukoby", "amount": 9}], "research": "vypo-factory", "powerProduction": 0.7698046090630541, "category": "power"}

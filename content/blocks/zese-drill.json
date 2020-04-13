@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zese drill", "description": "...", "size": 3, "health": 252, "tier": 1, "drillTime": 4, "consumes": {"power": 15}, "requirements": [{"item": "zese", "amount": 19}, {"item": "fuda", "amount": 20}, {"item": "colu", "amount": 10}], "research": "zese-factory", "category": "production"}

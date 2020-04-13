@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mono conduit", "description": "...", "health": 173, "requirements": [{"item": "mono", "amount": 11}, {"item": "hoxy", "amount": 6}, {"item": "gujybo", "amount": 7}], "liquidCapacity": 20, "liquidPressure": 0, "research": "mono-factory", "category": "liquid"}

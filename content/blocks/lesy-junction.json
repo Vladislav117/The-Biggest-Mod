@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lesy junction", "description": "...", "health": 17, "speed": 11, "capacity": 20, "size": 1, "requirements": [{"item": "lesy", "amount": 4}, {"item": "bayavo", "amount": 4}], "research": "lesy-conveyor", "category": "distribution"}

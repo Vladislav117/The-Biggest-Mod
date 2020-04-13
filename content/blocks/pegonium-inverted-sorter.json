@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pegonium inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "pegonium", "amount": 3}, {"item": "pegycy", "amount": 5}], "research": "pegonium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vowato power node", "description": "...", "size": 2, "health": 459, "requirements": [{"item": "vowato", "amount": 6}, {"item": "yyqenu", "amount": 5}, {"item": "cizi", "amount": 4}], "research": "vowato-factory", "maxNodes": 55, "laserRange": 12, "category": "power"}

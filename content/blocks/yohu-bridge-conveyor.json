@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yohu bridge conveyor", "description": "", "health": 9, "range": 5, "speed": 11, "bufferCapacity": 3, "requirements": [{"item": "yohu", "amount": 1}, {"item": "byxo", "amount": 2}], "research": "yohu-conveyor", "category": "distribution", "size": 1}

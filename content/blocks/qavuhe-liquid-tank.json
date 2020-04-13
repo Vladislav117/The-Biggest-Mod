@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qavuhe liquid tank", "description": "...", "health": 524, "size": 3, "requirements": [{"item": "qavuhe", "amount": 17}, {"item": "jygery", "amount": 18}, {"item": "winyjo", "amount": 9}], "research": "qavuhe-conduit", "category": "liquid", "liquidCapacity": 119501, "hasLiquids": true}

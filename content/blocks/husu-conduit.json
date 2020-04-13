@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "husu conduit", "description": "...", "health": 160, "requirements": [{"item": "husu", "amount": 1}, {"item": "vize", "amount": 13}, {"item": "cozaxo", "amount": 9}], "liquidCapacity": 33, "liquidPressure": 1, "research": "husu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jihu conduit", "description": "...", "health": 172, "requirements": [{"item": "jihu", "amount": 6}, {"item": "muti", "amount": 18}, {"item": "zokacu", "amount": 5}], "liquidCapacity": 20, "liquidPressure": 5, "research": "jihu-factory", "category": "liquid"}

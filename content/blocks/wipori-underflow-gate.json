@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wipori underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "wipori", "amount": 3}, {"item": "mofary", "amount": 1}], "research": "wipori-conveyor", "category": "distribution", "invert": false}

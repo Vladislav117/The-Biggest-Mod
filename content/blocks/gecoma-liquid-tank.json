@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gecoma liquid tank", "description": "...", "health": 369, "size": 3, "requirements": [{"item": "gecoma", "amount": 15}, {"item": "feqy", "amount": 7}, {"item": "wapo", "amount": 9}], "research": "gecoma-conduit", "category": "liquid", "liquidCapacity": 90557, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zagy junction", "description": "...", "health": 18, "speed": 20, "capacity": 6, "size": 1, "requirements": [{"item": "zagy", "amount": 5}, {"item": "kubi", "amount": 5}], "research": "zagy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "tajapi conveyor", "description": "...", "health": 300, "requirements": [{"item": "tajapi", "amount": 7}, {"item": "heke", "amount": 2}], "speed": 0.12252686380722055, "research": "tajapi-factory", "category": "distribution"}

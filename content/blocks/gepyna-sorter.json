@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gepyna sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "gepyna", "amount": 4}, {"item": "pucy", "amount": 5}], "research": "gepyna-conveyor", "category": "distribution", "invert": false}

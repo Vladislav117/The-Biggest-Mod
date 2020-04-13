@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gafy solar panel", "description": "...", "size": 1, "health": 354, "requirements": [{"item": "gafy", "amount": 14}, {"item": "xecy", "amount": 5}, {"item": "ryhenium", "amount": 7}], "research": "gafy-factory", "powerProduction": 1.204476845685578, "category": "power"}

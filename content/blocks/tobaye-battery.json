@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tobaye battery", "description": "...", "size": 3, "health": 313, "requirements": [{"item": "tobaye", "amount": 16}, {"item": "donuba", "amount": 5}, {"item": "hukebi", "amount": 10}], "research": "tobaye-factory", "consumes": {"powerBuffered": 6096}, "category": "power"}

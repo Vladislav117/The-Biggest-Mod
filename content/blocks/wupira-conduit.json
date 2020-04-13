@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wupira conduit", "description": "...", "health": 156, "requirements": [{"item": "wupira", "amount": 12}, {"item": "ruteqa", "amount": 9}, {"item": "ninu", "amount": 4}], "liquidCapacity": 6, "liquidPressure": 4, "research": "wupira-factory", "category": "liquid"}

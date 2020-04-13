@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pufere conduit", "description": "...", "health": 133, "requirements": [{"item": "pufere", "amount": 4}, {"item": "kegiqi", "amount": 10}, {"item": "kosonium", "amount": 1}], "liquidCapacity": 29, "liquidPressure": 6, "research": "pufere-factory", "category": "liquid"}

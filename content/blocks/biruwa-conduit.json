@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "biruwa conduit", "description": "...", "health": 24, "requirements": [{"item": "biruwa", "amount": 19}, {"item": "weju", "amount": 4}, {"item": "kyna", "amount": 7}], "liquidCapacity": 8, "liquidPressure": 4, "research": "biruwa-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tydy liquid tank", "description": "...", "health": 240, "size": 3, "requirements": [{"item": "tydy", "amount": 20}, {"item": "xevenium", "amount": 7}, {"item": "zawyjy", "amount": 8}], "research": "tydy-conduit", "category": "liquid", "liquidCapacity": 40098, "hasLiquids": true}

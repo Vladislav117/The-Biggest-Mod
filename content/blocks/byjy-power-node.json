@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "byjy power node", "description": "...", "size": 2, "health": 554, "requirements": [{"item": "byjy", "amount": 12}, {"item": "kykegi", "amount": 9}, {"item": "yuze", "amount": 9}], "research": "byjy-factory", "maxNodes": 60, "laserRange": 25, "category": "power"}

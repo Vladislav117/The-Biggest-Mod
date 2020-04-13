@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mecyronium liquid tank", "description": "...", "health": 315, "size": 3, "requirements": [{"item": "mecyronium", "amount": 16}, {"item": "wapo", "amount": 10}, {"item": "fyhahu", "amount": 10}], "research": "mecyronium-conduit", "category": "liquid", "liquidCapacity": 47297, "hasLiquids": true}

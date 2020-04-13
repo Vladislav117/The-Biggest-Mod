@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xucyfy inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "xucyfy", "amount": 5}, {"item": "niso", "amount": 1}], "research": "xucyfy-conveyor", "category": "distribution", "invert": true}

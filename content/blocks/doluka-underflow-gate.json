@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "doluka underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "doluka", "amount": 4}, {"item": "cudy", "amount": 3}], "research": "doluka-conveyor", "category": "distribution", "invert": false}

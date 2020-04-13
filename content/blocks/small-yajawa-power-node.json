@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yajawa power node", "description": "...", "size": 1, "health": 371, "requirements": [{"item": "yajawa", "amount": 16}, {"item": "dycimi", "amount": 3}, {"item": "qygi", "amount": 2}], "research": "yajawa-factory", "maxNodes": 23, "laserRange": 15, "category": "power"}

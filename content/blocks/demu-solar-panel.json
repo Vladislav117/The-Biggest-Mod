@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "demu solar panel", "description": "...", "size": 3, "health": 21, "requirements": [{"item": "demu", "amount": 10}, {"item": "vayera", "amount": 2}, {"item": "paba", "amount": 3}], "research": "demu-factory", "powerProduction": 0.5204209172258394, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yicazunium power node", "description": "...", "size": 2, "health": 607, "requirements": [{"item": "yicazunium", "amount": 20}, {"item": "teyipu", "amount": 18}, {"item": "zyru", "amount": 1}], "research": "yicazunium-factory", "maxNodes": 42, "laserRange": 10, "category": "power"}

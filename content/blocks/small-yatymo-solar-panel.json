@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yatymo solar panel", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "yatymo", "amount": 6}, {"item": "bapu", "amount": 1}, {"item": "xynice", "amount": 1}], "research": "yatymo-factory", "powerProduction": 2.64509913640111, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "gavepy liquid router", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "gavepy", "amount": 4}, {"item": "dara", "amount": 15}, {"item": "nuzivo", "amount": 5}], "research": "gavepy-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ziruzo underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "ziruzo", "amount": 2}, {"item": "haqu", "amount": 4}], "research": "ziruzo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dywu conduit", "description": "...", "health": 64, "requirements": [{"item": "dywu", "amount": 16}, {"item": "yuzeninium", "amount": 3}, {"item": "lybutinium", "amount": 1}], "liquidCapacity": 17, "liquidPressure": 5, "research": "dywu-factory", "category": "liquid"}

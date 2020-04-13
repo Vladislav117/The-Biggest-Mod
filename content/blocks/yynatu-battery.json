@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yynatu battery", "description": "...", "size": 3, "health": 150, "requirements": [{"item": "yynatu", "amount": 9}, {"item": "lovy", "amount": 16}, {"item": "vypeha", "amount": 6}], "research": "yynatu-factory", "consumes": {"powerBuffered": 3125}, "category": "power"}

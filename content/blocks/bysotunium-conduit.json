@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bysotunium conduit", "description": "...", "health": 32, "requirements": [{"item": "bysotunium", "amount": 10}, {"item": "negyhi", "amount": 3}, {"item": "tumo", "amount": 9}], "liquidCapacity": 26, "liquidPressure": 4, "research": "bysotunium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "weju solar panel", "description": "...", "size": 3, "health": 15, "requirements": [{"item": "weju", "amount": 6}, {"item": "pyzemu", "amount": 8}, {"item": "cybuby", "amount": 3}], "research": "weju-factory", "powerProduction": 0.42980181735299783, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lumasunium battery", "description": "...", "size": 1, "health": 156, "requirements": [{"item": "lumasunium", "amount": 15}, {"item": "jeqidynium", "amount": 20}, {"item": "direme", "amount": 10}], "research": "lumasunium-factory", "consumes": {"powerBuffered": 1039}, "category": "power"}

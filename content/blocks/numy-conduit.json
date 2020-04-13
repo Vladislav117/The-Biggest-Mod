@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "numy conduit", "description": "...", "health": 192, "requirements": [{"item": "numy", "amount": 2}, {"item": "tavu", "amount": 11}, {"item": "yyga", "amount": 4}], "liquidCapacity": 25, "liquidPressure": 0, "research": "numy-factory", "category": "liquid"}

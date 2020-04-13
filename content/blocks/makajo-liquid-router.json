@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "makajo liquid router", "description": "...", "size": 1, "health": 69, "requirements": [{"item": "makajo", "amount": 20}, {"item": "wana", "amount": 15}, {"item": "yanawa", "amount": 8}], "research": "makajo-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gogajy solar panel", "description": "...", "size": 1, "health": 222, "requirements": [{"item": "gogajy", "amount": 20}, {"item": "heqywanium", "amount": 8}, {"item": "graphite", "amount": 2}], "research": "gogajy-factory", "powerProduction": 2.9649764261323037, "category": "power"}

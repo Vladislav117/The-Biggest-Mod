@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mywoju power node", "description": "...", "size": 2, "health": 756, "requirements": [{"item": "mywoju", "amount": 14}, {"item": "rudu", "amount": 16}, {"item": "suta", "amount": 2}], "research": "mywoju-factory", "maxNodes": 54, "laserRange": 16, "category": "power"}

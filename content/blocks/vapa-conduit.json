@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vapa conduit", "description": "...", "health": 51, "requirements": [{"item": "vapa", "amount": 10}, {"item": "bywazy", "amount": 14}, {"item": "jylovo", "amount": 2}], "liquidCapacity": 16, "liquidPressure": 3, "research": "vapa-factory", "category": "liquid"}

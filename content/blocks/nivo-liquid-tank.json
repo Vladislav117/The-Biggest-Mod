@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nivo liquid tank", "description": "...", "health": 210, "size": 3, "requirements": [{"item": "nivo", "amount": 8}, {"item": "woze", "amount": 13}, {"item": "yyludunium", "amount": 4}], "research": "nivo-conduit", "category": "liquid", "liquidCapacity": 114281, "hasLiquids": true}

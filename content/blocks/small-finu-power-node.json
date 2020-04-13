@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small finu power node", "description": "...", "size": 1, "health": 155, "requirements": [{"item": "finu", "amount": 8}, {"item": "sihynium", "amount": 6}, {"item": "wace", "amount": 1}], "research": "finu-factory", "maxNodes": 24, "laserRange": 6, "category": "power"}

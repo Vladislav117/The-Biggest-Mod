@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "samy bridge conveyor", "description": "", "health": 11, "range": 8, "speed": 18, "bufferCapacity": 22, "requirements": [{"item": "samy", "amount": 4}, {"item": "ravexi", "amount": 1}], "research": "samy-conveyor", "category": "distribution", "size": 1}

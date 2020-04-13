@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gawo overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "gawo", "amount": 4}, {"item": "seda", "amount": 5}], "research": "gawo-conveyor", "category": "distribution", "invert": false}

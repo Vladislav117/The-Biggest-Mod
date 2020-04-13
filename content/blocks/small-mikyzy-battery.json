@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mikyzy battery", "description": "...", "size": 1, "health": 157, "requirements": [{"item": "mikyzy", "amount": 14}, {"item": "xuserynium", "amount": 3}, {"item": "jinu", "amount": 1}], "research": "mikyzy-factory", "consumes": {"powerBuffered": 1062}, "category": "power"}

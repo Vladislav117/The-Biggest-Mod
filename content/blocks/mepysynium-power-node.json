@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mepysynium power node", "description": "...", "size": 2, "health": 488, "requirements": [{"item": "mepysynium", "amount": 10}, {"item": "xycaqunium", "amount": 16}, {"item": "vosixe", "amount": 10}], "research": "mepysynium-factory", "maxNodes": 38, "laserRange": 24, "category": "power"}

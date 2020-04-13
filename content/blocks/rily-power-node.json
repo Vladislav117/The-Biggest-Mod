@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rily power node", "description": "...", "size": 2, "health": 123, "requirements": [{"item": "rily", "amount": 15}, {"item": "fehi", "amount": 15}, {"item": "ruginium", "amount": 5}], "research": "rily-factory", "maxNodes": 17, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xigi sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "xigi", "amount": 1}, {"item": "zaba", "amount": 1}], "research": "xigi-conveyor", "category": "distribution", "invert": false}

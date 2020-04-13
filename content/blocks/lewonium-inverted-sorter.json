@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lewonium inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "lewonium", "amount": 2}, {"item": "dyjami", "amount": 5}], "research": "lewonium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "veza overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "veza", "amount": 5}, {"item": "kepo", "amount": 2}], "research": "veza-conveyor", "category": "distribution", "invert": false}

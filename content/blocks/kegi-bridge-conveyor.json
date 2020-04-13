@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kegi bridge conveyor", "description": "", "health": 33, "range": 15, "speed": 8, "bufferCapacity": 20, "requirements": [{"item": "kegi", "amount": 4}, {"item": "pyga", "amount": 2}], "research": "kegi-conveyor", "category": "distribution", "size": 1}

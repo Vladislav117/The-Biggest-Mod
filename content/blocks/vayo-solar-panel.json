@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vayo solar panel", "description": "...", "size": 3, "health": 318, "requirements": [{"item": "vayo", "amount": 10}, {"item": "nujunium", "amount": 12}, {"item": "carani", "amount": 9}], "research": "vayo-factory", "powerProduction": 2.2120973092237652, "category": "power"}

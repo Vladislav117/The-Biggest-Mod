@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dagepanium overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "dagepanium", "amount": 2}, {"item": "graphite", "amount": 3}], "research": "dagepanium-conveyor", "category": "distribution", "invert": false}

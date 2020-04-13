@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xadyyo overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "xadyyo", "amount": 4}, {"item": "vodynium", "amount": 2}], "research": "xadyyo-conveyor", "category": "distribution", "invert": false}

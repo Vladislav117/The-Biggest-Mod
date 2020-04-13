@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rebanium battery", "description": "...", "size": 1, "health": 177, "requirements": [{"item": "rebanium", "amount": 8}, {"item": "felizenium", "amount": 2}, {"item": "magu", "amount": 10}], "research": "rebanium-factory", "consumes": {"powerBuffered": 1121}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cemunium solar panel", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "cemunium", "amount": 9}, {"item": "migy", "amount": 3}, {"item": "gavepy", "amount": 7}], "research": "cemunium-factory", "powerProduction": 1.7602633146971174, "category": "power"}

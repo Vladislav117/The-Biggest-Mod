@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rypy conduit", "description": "...", "health": 57, "requirements": [{"item": "rypy", "amount": 3}, {"item": "tobu", "amount": 16}, {"item": "woze", "amount": 10}], "liquidCapacity": 13, "liquidPressure": 4, "research": "rypy-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yeby conduit", "description": "...", "health": 104, "requirements": [{"item": "yeby", "amount": 2}, {"item": "zegili", "amount": 6}, {"item": "giha", "amount": 9}], "liquidCapacity": 13, "liquidPressure": 0, "research": "yeby-factory", "category": "liquid"}

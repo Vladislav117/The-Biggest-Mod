@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qowa conduit", "description": "...", "health": 154, "requirements": [{"item": "qowa", "amount": 7}, {"item": "dijo", "amount": 3}, {"item": "vaxa", "amount": 9}], "liquidCapacity": 16, "liquidPressure": 8, "research": "qowa-factory", "category": "liquid"}

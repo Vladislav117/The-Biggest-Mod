@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qaranium conduit", "description": "...", "health": 102, "requirements": [{"item": "qaranium", "amount": 6}, {"item": "gusavunium", "amount": 17}, {"item": "bomu", "amount": 4}], "liquidCapacity": 1, "liquidPressure": 3, "research": "qaranium-factory", "category": "liquid"}

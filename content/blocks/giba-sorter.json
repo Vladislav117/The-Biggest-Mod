@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "giba sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "giba", "amount": 1}, {"item": "difyyi", "amount": 5}], "research": "giba-conveyor", "category": "distribution", "invert": false}

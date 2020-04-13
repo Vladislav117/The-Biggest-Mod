@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "peso conduit", "description": "...", "health": 50, "requirements": [{"item": "peso", "amount": 12}, {"item": "goti", "amount": 4}, {"item": "kagopy", "amount": 6}], "liquidCapacity": 5, "liquidPressure": 8, "research": "peso-factory", "category": "liquid"}

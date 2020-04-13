@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "feqy inverted sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "feqy", "amount": 3}, {"item": "zypiqi", "amount": 3}], "research": "feqy-conveyor", "category": "distribution", "invert": true}

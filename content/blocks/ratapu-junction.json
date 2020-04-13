@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ratapu junction", "description": "...", "health": 29, "speed": 1, "capacity": 7, "size": 1, "requirements": [{"item": "ratapu", "amount": 5}, {"item": "xoquge", "amount": 1}], "research": "ratapu-conveyor", "category": "distribution"}

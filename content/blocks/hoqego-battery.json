@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hoqego battery", "description": "...", "size": 3, "health": 325, "requirements": [{"item": "hoqego", "amount": 20}, {"item": "hysobe", "amount": 18}, {"item": "xorele", "amount": 1}], "research": "hoqego-factory", "consumes": {"powerBuffered": 2590}, "category": "power"}

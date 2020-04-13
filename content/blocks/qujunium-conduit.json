@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qujunium conduit", "description": "...", "health": 145, "requirements": [{"item": "qujunium", "amount": 19}, {"item": "sukedu", "amount": 13}, {"item": "tiwyna", "amount": 8}], "liquidCapacity": 49, "liquidPressure": 2, "research": "qujunium-factory", "category": "liquid"}

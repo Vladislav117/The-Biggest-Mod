@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qopaye solar panel", "description": "...", "size": 3, "health": 175, "requirements": [{"item": "qopaye", "amount": 12}, {"item": "doya", "amount": 17}, {"item": "keqiny", "amount": 6}], "research": "qopaye-factory", "powerProduction": 0.636681559023921, "category": "power"}

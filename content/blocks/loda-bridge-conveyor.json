@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "loda bridge conveyor", "description": "", "health": 10, "range": 13, "speed": 7, "bufferCapacity": 15, "requirements": [{"item": "loda", "amount": 1}, {"item": "xavidu", "amount": 2}], "research": "loda-conveyor", "category": "distribution", "size": 1}

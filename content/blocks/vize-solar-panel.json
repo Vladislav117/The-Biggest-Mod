@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vize solar panel", "description": "...", "size": 3, "health": 307, "requirements": [{"item": "vize", "amount": 20}, {"item": "vywy", "amount": 9}, {"item": "rabe", "amount": 3}], "research": "vize-factory", "powerProduction": 2.806340845444661, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lufe solar panel", "description": "...", "size": 3, "health": 280, "requirements": [{"item": "lufe", "amount": 8}, {"item": "jumonium", "amount": 5}, {"item": "heqywanium", "amount": 2}], "research": "lufe-factory", "powerProduction": 8.384567440603718, "category": "power"}

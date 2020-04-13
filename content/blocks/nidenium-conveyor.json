@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "nidenium conveyor", "description": "...", "health": 250, "requirements": [{"item": "nidenium", "amount": 1}, {"item": "liqohy", "amount": 1}], "speed": 0.41206970268999477, "research": "nidenium-factory", "category": "distribution"}

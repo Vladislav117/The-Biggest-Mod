@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "medeno liquid tank", "description": "...", "health": 126, "size": 3, "requirements": [{"item": "medeno", "amount": 17}, {"item": "poquko", "amount": 12}, {"item": "waqo", "amount": 5}], "research": "medeno-conduit", "category": "liquid", "liquidCapacity": 42704, "hasLiquids": true}

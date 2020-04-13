@@ -1,0 +1,1 @@
+{"type": "junction", "name": "soni junction", "description": "...", "health": 26, "speed": 17, "capacity": 7, "size": 1, "requirements": [{"item": "soni", "amount": 2}, {"item": "puzanium", "amount": 5}], "research": "soni-conveyor", "category": "distribution"}

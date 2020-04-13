@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hakenium power node", "description": "...", "size": 2, "health": 432, "requirements": [{"item": "hakenium", "amount": 15}, {"item": "haqu", "amount": 14}, {"item": "sylyxy", "amount": 3}], "research": "hakenium-factory", "maxNodes": 14, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "buqi liquid tank", "description": "...", "health": 438, "size": 3, "requirements": [{"item": "buqi", "amount": 5}, {"item": "qiwise", "amount": 17}, {"item": "fayenium", "amount": 6}], "research": "buqi-conduit", "category": "liquid", "liquidCapacity": 4219, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "viva battery", "description": "...", "size": 3, "health": 257, "requirements": [{"item": "viva", "amount": 6}, {"item": "qyfyqunium", "amount": 19}, {"item": "xycaqunium", "amount": 8}], "research": "viva-factory", "consumes": {"powerBuffered": 1690}, "category": "power"}

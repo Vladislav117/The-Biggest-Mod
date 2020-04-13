@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xopy overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "xopy", "amount": 5}, {"item": "jarugenium", "amount": 5}], "research": "xopy-conveyor", "category": "distribution", "invert": false}

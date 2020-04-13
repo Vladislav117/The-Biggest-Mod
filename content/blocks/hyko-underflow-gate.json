@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hyko underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "hyko", "amount": 3}, {"item": "tiwyna", "amount": 5}], "research": "hyko-conveyor", "category": "distribution", "invert": false}

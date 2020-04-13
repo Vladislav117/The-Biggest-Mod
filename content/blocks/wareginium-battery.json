@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wareginium battery", "description": "...", "size": 3, "health": 228, "requirements": [{"item": "wareginium", "amount": 5}, {"item": "nihy", "amount": 17}, {"item": "zawyjy", "amount": 9}], "research": "wareginium-factory", "consumes": {"powerBuffered": 8583}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yomema liquid tank", "description": "...", "health": 463, "size": 3, "requirements": [{"item": "yomema", "amount": 4}, {"item": "hagunium", "amount": 12}, {"item": "yejeqinium", "amount": 4}], "research": "yomema-conduit", "category": "liquid", "liquidCapacity": 102241, "hasLiquids": true}

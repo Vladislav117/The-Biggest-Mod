@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wezu liquid tank", "description": "...", "health": 435, "size": 3, "requirements": [{"item": "wezu", "amount": 13}, {"item": "koyiwi", "amount": 8}, {"item": "nufaye", "amount": 7}], "research": "wezu-conduit", "category": "liquid", "liquidCapacity": 8049, "hasLiquids": true}

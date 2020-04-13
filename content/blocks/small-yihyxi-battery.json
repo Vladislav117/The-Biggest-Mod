@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yihyxi battery", "description": "...", "size": 1, "health": 330, "requirements": [{"item": "yihyxi", "amount": 5}, {"item": "jofisi", "amount": 9}, {"item": "jywupa", "amount": 4}], "research": "yihyxi-factory", "consumes": {"powerBuffered": 1432}, "category": "power"}

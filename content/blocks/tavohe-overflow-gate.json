@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tavohe overflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "tavohe", "amount": 2}, {"item": "jigobanium", "amount": 3}], "research": "tavohe-conveyor", "category": "distribution", "invert": false}

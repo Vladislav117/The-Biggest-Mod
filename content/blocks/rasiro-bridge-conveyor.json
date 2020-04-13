@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rasiro bridge conveyor", "description": "", "health": 6, "range": 14, "speed": 11, "bufferCapacity": 7, "requirements": [{"item": "rasiro", "amount": 1}, {"item": "suxoyu", "amount": 2}], "research": "rasiro-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wekonium junction", "description": "...", "health": 22, "speed": 20, "capacity": 6, "size": 1, "requirements": [{"item": "wekonium", "amount": 2}, {"item": "pazy", "amount": 4}], "research": "wekonium-conveyor", "category": "distribution"}

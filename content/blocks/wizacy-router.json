@@ -1,0 +1,1 @@
+{"type": "router", "name": "wizacy router", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "wizacy", "amount": 3}], "research": "wizacy-conveyor", "category": "distribution"}

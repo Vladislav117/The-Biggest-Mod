@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gurikinium solar panel", "description": "...", "size": 3, "health": 281, "requirements": [{"item": "gurikinium", "amount": 17}, {"item": "fogodo", "amount": 18}, {"item": "xikogo", "amount": 4}], "research": "gurikinium-factory", "powerProduction": 0.8055427997838701, "category": "power"}

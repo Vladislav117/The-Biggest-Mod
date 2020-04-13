@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vunehy power node", "description": "...", "size": 2, "health": 608, "requirements": [{"item": "vunehy", "amount": 14}, {"item": "fohebi", "amount": 2}, {"item": "bafo", "amount": 1}], "research": "vunehy-factory", "maxNodes": 43, "laserRange": 16, "category": "power"}

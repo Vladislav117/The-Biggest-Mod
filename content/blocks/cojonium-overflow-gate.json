@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cojonium overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "cojonium", "amount": 1}, {"item": "loceli", "amount": 2}], "research": "cojonium-conveyor", "category": "distribution", "invert": false}

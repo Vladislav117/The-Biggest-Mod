@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xywege inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "xywege", "amount": 3}, {"item": "nulyfo", "amount": 4}], "research": "xywege-conveyor", "category": "distribution", "invert": true}

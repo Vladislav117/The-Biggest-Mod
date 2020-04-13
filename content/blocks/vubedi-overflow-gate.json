@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vubedi overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "vubedi", "amount": 1}, {"item": "yojagu", "amount": 3}], "research": "vubedi-conveyor", "category": "distribution", "invert": false}

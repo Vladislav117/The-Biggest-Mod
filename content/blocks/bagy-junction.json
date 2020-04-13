@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bagy junction", "description": "...", "health": 26, "speed": 9, "capacity": 17, "size": 1, "requirements": [{"item": "bagy", "amount": 3}, {"item": "lovy", "amount": 5}], "research": "bagy-conveyor", "category": "distribution"}

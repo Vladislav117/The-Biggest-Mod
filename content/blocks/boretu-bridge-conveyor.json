@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "boretu bridge conveyor", "description": "", "health": 28, "range": 7, "speed": 17, "bufferCapacity": 11, "requirements": [{"item": "boretu", "amount": 2}, {"item": "qyhi", "amount": 3}], "research": "boretu-conveyor", "category": "distribution", "size": 1}

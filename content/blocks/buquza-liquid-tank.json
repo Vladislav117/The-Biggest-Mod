@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "buquza liquid tank", "description": "...", "health": 576, "size": 3, "requirements": [{"item": "buquza", "amount": 18}, {"item": "raqo", "amount": 5}, {"item": "xexumi", "amount": 1}], "research": "buquza-conduit", "category": "liquid", "liquidCapacity": 14346, "hasLiquids": true}

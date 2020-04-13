@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ravexi power node", "description": "...", "size": 2, "health": 550, "requirements": [{"item": "ravexi", "amount": 15}, {"item": "kudanium", "amount": 16}, {"item": "sytafe", "amount": 10}], "research": "ravexi-factory", "maxNodes": 34, "laserRange": 18, "category": "power"}

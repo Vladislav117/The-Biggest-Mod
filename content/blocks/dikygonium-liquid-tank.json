@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dikygonium liquid tank", "description": "...", "health": 299, "size": 3, "requirements": [{"item": "dikygonium", "amount": 4}, {"item": "xepiqi", "amount": 15}, {"item": "kaqa", "amount": 9}], "research": "dikygonium-conduit", "category": "liquid", "liquidCapacity": 86399, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wadiyonium solar panel", "description": "...", "size": 3, "health": 92, "requirements": [{"item": "wadiyonium", "amount": 2}, {"item": "lavysunium", "amount": 14}, {"item": "higy", "amount": 5}], "research": "wadiyonium-factory", "powerProduction": 13.968418662927965, "category": "power"}

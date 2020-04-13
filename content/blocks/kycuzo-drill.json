@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kycuzo drill", "description": "...", "size": 2, "health": 363, "tier": 2, "drillTime": 9, "consumes": {"power": 6}, "requirements": [{"item": "kycuzo", "amount": 19}, {"item": "huci", "amount": 9}, {"item": "cydofunium", "amount": 2}], "research": "kycuzo-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "myxo liquid router", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "myxo", "amount": 7}, {"item": "wicy", "amount": 5}, {"item": "vakarinium", "amount": 4}], "research": "myxo-conduit", "liquidCapacity": 10, "category": "liquid"}

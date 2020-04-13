@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jede junction", "description": "...", "health": 4, "speed": 14, "capacity": 18, "size": 1, "requirements": [{"item": "jede", "amount": 5}, {"item": "zoju", "amount": 5}], "research": "jede-conveyor", "category": "distribution"}

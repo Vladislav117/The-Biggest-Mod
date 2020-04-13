@@ -1,0 +1,1 @@
+{"type": "battery", "name": "huxydi battery", "description": "...", "size": 3, "health": 302, "requirements": [{"item": "huxydi", "amount": 2}, {"item": "kica", "amount": 15}, {"item": "ryma", "amount": 4}], "research": "huxydi-factory", "consumes": {"powerBuffered": 2085}, "category": "power"}

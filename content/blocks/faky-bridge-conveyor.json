@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "faky bridge conveyor", "description": "", "health": 22, "range": 7, "speed": 5, "bufferCapacity": 16, "requirements": [{"item": "faky", "amount": 3}, {"item": "metaglass", "amount": 1}], "research": "faky-conveyor", "category": "distribution", "size": 1}

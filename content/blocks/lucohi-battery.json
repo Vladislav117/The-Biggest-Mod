@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lucohi battery", "description": "...", "size": 3, "health": 313, "requirements": [{"item": "lucohi", "amount": 12}, {"item": "xega", "amount": 3}, {"item": "sytafe", "amount": 9}], "research": "lucohi-factory", "consumes": {"powerBuffered": 2793}, "category": "power"}

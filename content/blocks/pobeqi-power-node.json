@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pobeqi power node", "description": "...", "size": 2, "health": 438, "requirements": [{"item": "pobeqi", "amount": 1}, {"item": "mapanium", "amount": 9}, {"item": "zivoginium", "amount": 7}], "research": "pobeqi-factory", "maxNodes": 59, "laserRange": 19, "category": "power"}

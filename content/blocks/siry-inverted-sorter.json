@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "siry inverted sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "siry", "amount": 4}, {"item": "pymu", "amount": 2}], "research": "siry-conveyor", "category": "distribution", "invert": true}

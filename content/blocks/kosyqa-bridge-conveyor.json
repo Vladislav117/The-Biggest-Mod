@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kosyqa bridge conveyor", "description": "", "health": 41, "range": 9, "speed": 2, "bufferCapacity": 23, "requirements": [{"item": "kosyqa", "amount": 3}, {"item": "lebu", "amount": 4}], "research": "kosyqa-conveyor", "category": "distribution", "size": 1}

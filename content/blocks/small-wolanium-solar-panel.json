@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wolanium solar panel", "description": "...", "size": 1, "health": 265, "requirements": [{"item": "wolanium", "amount": 3}, {"item": "ximy", "amount": 11}, {"item": "locycanium", "amount": 3}], "research": "wolanium-factory", "powerProduction": 1.877374308964484, "category": "power"}

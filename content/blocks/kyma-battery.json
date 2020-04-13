@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kyma battery", "description": "...", "size": 3, "health": 103, "requirements": [{"item": "kyma", "amount": 13}, {"item": "tuma", "amount": 14}, {"item": "fysubi", "amount": 4}], "research": "kyma-factory", "consumes": {"powerBuffered": 658}, "category": "power"}

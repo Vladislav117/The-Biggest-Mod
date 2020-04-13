@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "typi inverted sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "typi", "amount": 2}, {"item": "fuda", "amount": 4}], "research": "typi-conveyor", "category": "distribution", "invert": true}

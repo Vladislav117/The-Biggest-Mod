@@ -1,0 +1,1 @@
+{"type": "junction", "name": "diqa junction", "description": "...", "health": 36, "speed": 1, "capacity": 17, "size": 1, "requirements": [{"item": "diqa", "amount": 1}, {"item": "myxo", "amount": 4}], "research": "diqa-conveyor", "category": "distribution"}

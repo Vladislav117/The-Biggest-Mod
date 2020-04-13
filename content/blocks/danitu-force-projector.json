@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "danitu force projector", "description": "...", "health": 109, "size": 3, "consumes": {"power": 5.0, "item": "danitu"}, "requirements": [{"item": "danitu", "amount": 17}, {"item": "jetu", "amount": 5}, {"item": "ceri", "amount": 8}], "research": "danitu-factory", "category": "effect"}

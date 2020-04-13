@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vocazu power node", "description": "...", "size": 1, "health": 135, "requirements": [{"item": "vocazu", "amount": 3}, {"item": "jyxexi", "amount": 6}, {"item": "tise", "amount": 8}], "research": "vocazu-factory", "maxNodes": 18, "laserRange": 10, "category": "power"}

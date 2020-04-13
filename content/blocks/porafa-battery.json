@@ -1,0 +1,1 @@
+{"type": "battery", "name": "porafa battery", "description": "...", "size": 3, "health": 385, "requirements": [{"item": "porafa", "amount": 17}, {"item": "motaty", "amount": 20}, {"item": "holy", "amount": 4}], "research": "porafa-factory", "consumes": {"powerBuffered": 8670}, "category": "power"}

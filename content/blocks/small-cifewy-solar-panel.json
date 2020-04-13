@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cifewy solar panel", "description": "...", "size": 1, "health": 227, "requirements": [{"item": "cifewy", "amount": 17}, {"item": "pacezu", "amount": 4}, {"item": "diwyci", "amount": 10}], "research": "cifewy-factory", "powerProduction": 1.3206200127652366, "category": "power"}

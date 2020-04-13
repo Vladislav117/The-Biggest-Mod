@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gimy liquid tank", "description": "...", "health": 622, "size": 3, "requirements": [{"item": "gimy", "amount": 11}, {"item": "yifity", "amount": 5}, {"item": "vosixe", "amount": 7}], "research": "gimy-conduit", "category": "liquid", "liquidCapacity": 34675, "hasLiquids": true}

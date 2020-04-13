@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xykyto liquid tank", "description": "...", "health": 198, "size": 3, "requirements": [{"item": "xykyto", "amount": 16}, {"item": "qebu", "amount": 19}, {"item": "nixony", "amount": 5}], "research": "xykyto-conduit", "category": "liquid", "liquidCapacity": 11606, "hasLiquids": true}

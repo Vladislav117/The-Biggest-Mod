@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hejezu drill", "description": "...", "size": 3, "health": 430, "tier": 4, "drillTime": 14, "consumes": {"power": 4}, "requirements": [{"item": "hejezu", "amount": 20}, {"item": "ryheco", "amount": 4}, {"item": "nymopu", "amount": 9}], "research": "hejezu-factory", "category": "production"}

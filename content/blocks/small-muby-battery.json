@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small muby battery", "description": "...", "size": 1, "health": 192, "requirements": [{"item": "muby", "amount": 14}, {"item": "nayevynium", "amount": 2}, {"item": "wavoli", "amount": 1}], "research": "muby-factory", "consumes": {"powerBuffered": 546}, "category": "power"}

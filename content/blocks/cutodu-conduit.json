@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cutodu conduit", "description": "...", "health": 114, "requirements": [{"item": "cutodu", "amount": 2}, {"item": "higy", "amount": 19}, {"item": "nano", "amount": 10}], "liquidCapacity": 44, "liquidPressure": 6, "research": "cutodu-factory", "category": "liquid"}

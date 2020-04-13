@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sivaqi solar panel", "description": "...", "size": 3, "health": 87, "requirements": [{"item": "sivaqi", "amount": 18}, {"item": "jyluba", "amount": 14}, {"item": "kudohi", "amount": 4}], "research": "sivaqi-factory", "powerProduction": 1.27648845001349, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "lihinium overdrive projector", "description": "...", "health": 74, "consumes": {"power": 3.0, "item": "lihinium"}, "size": 2, "requirements": [{"item": "lihinium", "amount": 1}, {"item": "luly", "amount": 8}, {"item": "hicy", "amount": 7}], "research": "lihinium-factory", "category": "effect"}

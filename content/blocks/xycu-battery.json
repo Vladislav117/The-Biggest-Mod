@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xycu battery", "description": "...", "size": 3, "health": 19, "requirements": [{"item": "xycu", "amount": 9}, {"item": "gafedonium", "amount": 13}, {"item": "wawu", "amount": 7}], "research": "xycu-factory", "consumes": {"powerBuffered": 1280}, "category": "power"}

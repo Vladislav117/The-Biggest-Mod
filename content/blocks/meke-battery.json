@@ -1,0 +1,1 @@
+{"type": "battery", "name": "meke battery", "description": "...", "size": 3, "health": 37, "requirements": [{"item": "meke", "amount": 1}, {"item": "pehy", "amount": 15}, {"item": "ropa", "amount": 1}], "research": "meke-factory", "consumes": {"powerBuffered": 9683}, "category": "power"}

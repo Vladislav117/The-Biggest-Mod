@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rukonium conduit", "description": "...", "health": 27, "requirements": [{"item": "rukonium", "amount": 5}, {"item": "ciqi", "amount": 10}, {"item": "denu", "amount": 1}], "liquidCapacity": 21, "liquidPressure": 4, "research": "rukonium-factory", "category": "liquid"}

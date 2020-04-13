@@ -1,0 +1,1 @@
+{"type": "junction", "name": "koli junction", "description": "...", "health": 33, "speed": 17, "capacity": 14, "size": 1, "requirements": [{"item": "koli", "amount": 3}, {"item": "nitonium", "amount": 2}], "research": "koli-conveyor", "category": "distribution"}

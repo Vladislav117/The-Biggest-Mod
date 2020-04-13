@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "delo liquid router", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "delo", "amount": 9}, {"item": "minu", "amount": 1}, {"item": "bamubu", "amount": 10}], "research": "delo-conduit", "liquidCapacity": 10, "category": "liquid"}

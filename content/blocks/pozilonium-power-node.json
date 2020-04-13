@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pozilonium power node", "description": "...", "size": 2, "health": 765, "requirements": [{"item": "pozilonium", "amount": 16}, {"item": "pymu", "amount": 8}, {"item": "xemynium", "amount": 4}], "research": "pozilonium-factory", "maxNodes": 11, "laserRange": 6, "category": "power"}

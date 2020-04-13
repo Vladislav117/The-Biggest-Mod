@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vuyenium power node", "description": "...", "size": 2, "health": 711, "requirements": [{"item": "vuyenium", "amount": 9}, {"item": "jyzywonium", "amount": 12}, {"item": "lavi", "amount": 5}], "research": "vuyenium-factory", "maxNodes": 41, "laserRange": 15, "category": "power"}

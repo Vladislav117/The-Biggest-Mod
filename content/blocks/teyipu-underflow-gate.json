@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "teyipu underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "teyipu", "amount": 3}, {"item": "gyty", "amount": 1}], "research": "teyipu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "darunium battery", "description": "...", "size": 3, "health": 88, "requirements": [{"item": "darunium", "amount": 6}, {"item": "zaba", "amount": 9}, {"item": "cuyoko", "amount": 10}], "research": "darunium-factory", "consumes": {"powerBuffered": 558}, "category": "power"}

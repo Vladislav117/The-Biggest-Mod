@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qiwise battery", "description": "...", "size": 3, "health": 377, "requirements": [{"item": "qiwise", "amount": 8}, {"item": "sedowe", "amount": 12}, {"item": "tobu", "amount": 2}], "research": "qiwise-factory", "consumes": {"powerBuffered": 4060}, "category": "power"}

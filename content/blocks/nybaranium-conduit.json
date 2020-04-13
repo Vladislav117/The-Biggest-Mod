@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nybaranium conduit", "description": "...", "health": 114, "requirements": [{"item": "nybaranium", "amount": 12}, {"item": "reyezy", "amount": 15}, {"item": "qovy", "amount": 1}], "liquidCapacity": 48, "liquidPressure": 3, "research": "nybaranium-factory", "category": "liquid"}

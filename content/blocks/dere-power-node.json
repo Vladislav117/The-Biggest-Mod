@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dere power node", "description": "...", "size": 2, "health": 72, "requirements": [{"item": "dere", "amount": 19}, {"item": "kycuzo", "amount": 2}, {"item": "xesu", "amount": 4}], "research": "dere-factory", "maxNodes": 60, "laserRange": 18, "category": "power"}

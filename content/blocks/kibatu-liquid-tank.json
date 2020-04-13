@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kibatu liquid tank", "description": "...", "health": 595, "size": 3, "requirements": [{"item": "kibatu", "amount": 11}, {"item": "cawawo", "amount": 8}, {"item": "bobowe", "amount": 4}], "research": "kibatu-conduit", "category": "liquid", "liquidCapacity": 105776, "hasLiquids": true}

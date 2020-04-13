@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sato solar panel", "description": "...", "size": 3, "health": 111, "requirements": [{"item": "sato", "amount": 3}, {"item": "juwyso", "amount": 3}, {"item": "kanuya", "amount": 8}], "research": "sato-factory", "powerProduction": 1.073615363861702, "category": "power"}

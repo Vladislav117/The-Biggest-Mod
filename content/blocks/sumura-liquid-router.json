@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sumura liquid router", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "sumura", "amount": 20}, {"item": "fusaji", "amount": 13}, {"item": "reboka", "amount": 6}], "research": "sumura-conduit", "liquidCapacity": 10, "category": "liquid"}

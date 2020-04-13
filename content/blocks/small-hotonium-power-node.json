@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hotonium power node", "description": "...", "size": 1, "health": 304, "requirements": [{"item": "hotonium", "amount": 16}, {"item": "garyda", "amount": 8}, {"item": "reyyma", "amount": 6}], "research": "hotonium-factory", "maxNodes": 17, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mece battery", "description": "...", "size": 1, "health": 147, "requirements": [{"item": "mece", "amount": 10}, {"item": "rowi", "amount": 8}, {"item": "kyya", "amount": 1}], "research": "mece-factory", "consumes": {"powerBuffered": 2705}, "category": "power"}

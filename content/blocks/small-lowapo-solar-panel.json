@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lowapo solar panel", "description": "...", "size": 1, "health": 337, "requirements": [{"item": "lowapo", "amount": 6}, {"item": "yowiminium", "amount": 11}, {"item": "jomoka", "amount": 2}], "research": "lowapo-factory", "powerProduction": 0.7398183053235216, "category": "power"}

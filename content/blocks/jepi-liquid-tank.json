@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jepi liquid tank", "description": "...", "health": 515, "size": 3, "requirements": [{"item": "jepi", "amount": 4}, {"item": "yezaku", "amount": 14}, {"item": "limo", "amount": 8}], "research": "jepi-conduit", "category": "liquid", "liquidCapacity": 92316, "hasLiquids": true}

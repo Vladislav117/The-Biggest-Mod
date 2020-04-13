@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wycumu bridge conveyor", "description": "", "health": 6, "range": 1, "speed": 5, "bufferCapacity": 16, "requirements": [{"item": "wycumu", "amount": 5}, {"item": "rohivonium", "amount": 2}], "research": "wycumu-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hamenium solar panel", "description": "...", "size": 3, "health": 250, "requirements": [{"item": "hamenium", "amount": 4}, {"item": "cebaba", "amount": 2}, {"item": "xehuxy", "amount": 8}], "research": "hamenium-factory", "powerProduction": 0.9048376580860272, "category": "power"}

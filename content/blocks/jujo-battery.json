@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jujo battery", "description": "...", "size": 3, "health": 135, "requirements": [{"item": "jujo", "amount": 15}, {"item": "mumujy", "amount": 3}, {"item": "vyly", "amount": 6}], "research": "jujo-factory", "consumes": {"powerBuffered": 4384}, "category": "power"}

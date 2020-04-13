@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vuxynium liquid tank", "description": "...", "health": 625, "size": 3, "requirements": [{"item": "vuxynium", "amount": 18}, {"item": "furybe", "amount": 18}, {"item": "wapalu", "amount": 7}], "research": "vuxynium-conduit", "category": "liquid", "liquidCapacity": 27448, "hasLiquids": true}

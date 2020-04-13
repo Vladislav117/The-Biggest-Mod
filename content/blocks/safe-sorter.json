@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "safe sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "safe", "amount": 5}, {"item": "gogajy", "amount": 1}], "research": "safe-conveyor", "category": "distribution", "invert": false}

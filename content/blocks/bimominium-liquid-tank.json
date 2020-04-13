@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bimominium liquid tank", "description": "...", "health": 368, "size": 3, "requirements": [{"item": "bimominium", "amount": 10}, {"item": "megida", "amount": 9}, {"item": "semy", "amount": 6}], "research": "bimominium-conduit", "category": "liquid", "liquidCapacity": 88510, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "budefu power node", "description": "...", "size": 2, "health": 618, "requirements": [{"item": "budefu", "amount": 2}, {"item": "hitiva", "amount": 10}, {"item": "cezizunium", "amount": 1}], "research": "budefu-factory", "maxNodes": 42, "laserRange": 28, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qoly battery", "description": "...", "size": 1, "health": 399, "requirements": [{"item": "qoly", "amount": 4}, {"item": "zoju", "amount": 4}, {"item": "luly", "amount": 6}], "research": "qoly-factory", "consumes": {"powerBuffered": 2866}, "category": "power"}

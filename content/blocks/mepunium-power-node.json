@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mepunium power node", "description": "...", "size": 2, "health": 61, "requirements": [{"item": "mepunium", "amount": 6}, {"item": "fyfoni", "amount": 15}, {"item": "ruvudo", "amount": 3}], "research": "mepunium-factory", "maxNodes": 13, "laserRange": 23, "category": "power"}

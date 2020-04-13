@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "savi power node", "description": "...", "size": 2, "health": 443, "requirements": [{"item": "savi", "amount": 6}, {"item": "yidugonium", "amount": 15}, {"item": "vawa", "amount": 3}], "research": "savi-factory", "maxNodes": 40, "laserRange": 21, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dono solar panel", "description": "...", "size": 1, "health": 362, "requirements": [{"item": "dono", "amount": 2}, {"item": "memu", "amount": 10}, {"item": "samivi", "amount": 7}], "research": "dono-factory", "powerProduction": 1.2136571658987338, "category": "power"}

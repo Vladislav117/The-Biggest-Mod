@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lixake bridge conveyor", "description": "", "health": 46, "range": 14, "speed": 20, "bufferCapacity": 7, "requirements": [{"item": "lixake", "amount": 1}, {"item": "cebaba", "amount": 2}], "research": "lixake-conveyor", "category": "distribution", "size": 1}

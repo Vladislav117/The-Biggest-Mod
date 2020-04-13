@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "byqi solar panel", "description": "...", "size": 3, "health": 391, "requirements": [{"item": "byqi", "amount": 14}, {"item": "hogazanium", "amount": 3}, {"item": "neloto", "amount": 1}], "research": "byqi-factory", "powerProduction": 0.9907837566497645, "category": "power"}

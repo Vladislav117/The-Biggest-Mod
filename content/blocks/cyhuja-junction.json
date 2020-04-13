@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cyhuja junction", "description": "...", "health": 33, "speed": 8, "capacity": 17, "size": 1, "requirements": [{"item": "cyhuja", "amount": 2}, {"item": "kayody", "amount": 1}], "research": "cyhuja-conveyor", "category": "distribution"}

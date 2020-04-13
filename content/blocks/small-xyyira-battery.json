@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xyyira battery", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "xyyira", "amount": 16}, {"item": "tuzy", "amount": 20}, {"item": "xemynium", "amount": 1}], "research": "xyyira-factory", "consumes": {"powerBuffered": 1739}, "category": "power"}

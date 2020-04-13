@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sepo power node", "description": "...", "size": 1, "health": 287, "requirements": [{"item": "sepo", "amount": 3}, {"item": "xedorinium", "amount": 4}, {"item": "nyvexo", "amount": 2}], "research": "sepo-factory", "maxNodes": 13, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yuyafi liquid tank", "description": "...", "health": 662, "size": 3, "requirements": [{"item": "yuyafi", "amount": 17}, {"item": "loqa", "amount": 14}, {"item": "neno", "amount": 7}], "research": "yuyafi-conduit", "category": "liquid", "liquidCapacity": 33420, "hasLiquids": true}

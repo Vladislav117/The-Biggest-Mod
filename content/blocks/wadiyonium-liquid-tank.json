@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wadiyonium liquid tank", "description": "...", "health": 302, "size": 3, "requirements": [{"item": "wadiyonium", "amount": 7}, {"item": "cenunium", "amount": 20}, {"item": "moqa", "amount": 9}], "research": "wadiyonium-conduit", "category": "liquid", "liquidCapacity": 110806, "hasLiquids": true}

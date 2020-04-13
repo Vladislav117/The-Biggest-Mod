@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sija liquid tank", "description": "...", "health": 533, "size": 3, "requirements": [{"item": "sija", "amount": 16}, {"item": "nowahy", "amount": 15}, {"item": "lewoxy", "amount": 7}], "research": "sija-conduit", "category": "liquid", "liquidCapacity": 36875, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kanuya junction", "description": "...", "health": 48, "speed": 19, "capacity": 5, "size": 1, "requirements": [{"item": "kanuya", "amount": 4}, {"item": "vosamo", "amount": 1}], "research": "kanuya-conveyor", "category": "distribution"}

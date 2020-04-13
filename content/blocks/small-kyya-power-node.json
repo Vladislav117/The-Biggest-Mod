@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kyya power node", "description": "...", "size": 1, "health": 308, "requirements": [{"item": "kyya", "amount": 11}, {"item": "locycanium", "amount": 16}, {"item": "xicyru", "amount": 4}], "research": "kyya-factory", "maxNodes": 7, "laserRange": 15, "category": "power"}

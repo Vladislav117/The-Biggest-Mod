@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wedu power node", "description": "...", "size": 2, "health": 637, "requirements": [{"item": "wedu", "amount": 17}, {"item": "mesa", "amount": 6}, {"item": "ganu", "amount": 8}], "research": "wedu-factory", "maxNodes": 58, "laserRange": 14, "category": "power"}

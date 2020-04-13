@@ -1,0 +1,1 @@
+{"type": "junction", "name": "quwyyonium junction", "description": "...", "health": 36, "speed": 14, "capacity": 13, "size": 1, "requirements": [{"item": "quwyyonium", "amount": 2}, {"item": "firyjo", "amount": 4}], "research": "quwyyonium-conveyor", "category": "distribution"}

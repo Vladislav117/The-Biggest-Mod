@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bulanium liquid tank", "description": "...", "health": 419, "size": 3, "requirements": [{"item": "bulanium", "amount": 7}, {"item": "titanium", "amount": 15}, {"item": "graphite", "amount": 4}], "research": "bulanium-conduit", "category": "liquid", "liquidCapacity": 108941, "hasLiquids": true}

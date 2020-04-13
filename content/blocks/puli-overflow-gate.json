@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "puli overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "puli", "amount": 3}, {"item": "zoyyqynium", "amount": 5}], "research": "puli-conveyor", "category": "distribution", "invert": false}

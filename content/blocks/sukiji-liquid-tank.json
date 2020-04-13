@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sukiji liquid tank", "description": "...", "health": 258, "size": 3, "requirements": [{"item": "sukiji", "amount": 9}, {"item": "dyqasy", "amount": 9}, {"item": "lyzecinium", "amount": 9}], "research": "sukiji-conduit", "category": "liquid", "liquidCapacity": 95174, "hasLiquids": true}

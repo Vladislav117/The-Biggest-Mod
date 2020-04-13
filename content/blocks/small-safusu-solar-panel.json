@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small safusu solar panel", "description": "...", "size": 1, "health": 360, "requirements": [{"item": "safusu", "amount": 13}, {"item": "zibe", "amount": 9}, {"item": "vyfycinium", "amount": 1}], "research": "safusu-factory", "powerProduction": 0.607133496592267, "category": "power"}

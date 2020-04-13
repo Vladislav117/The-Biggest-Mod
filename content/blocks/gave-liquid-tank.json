@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gave liquid tank", "description": "...", "health": 478, "size": 3, "requirements": [{"item": "gave", "amount": 2}, {"item": "wafe", "amount": 6}, {"item": "qovy", "amount": 5}], "research": "gave-conduit", "category": "liquid", "liquidCapacity": 32515, "hasLiquids": true}

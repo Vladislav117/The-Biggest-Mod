@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "nopi force projector", "description": "...", "health": 250, "size": 3, "consumes": {"power": 5.0, "item": "nopi"}, "requirements": [{"item": "nopi", "amount": 14}, {"item": "weli", "amount": 20}, {"item": "majo", "amount": 2}], "research": "nopi-factory", "category": "effect"}

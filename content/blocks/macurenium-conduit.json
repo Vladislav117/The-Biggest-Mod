@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "macurenium conduit", "description": "...", "health": 124, "requirements": [{"item": "macurenium", "amount": 12}, {"item": "cupedi", "amount": 15}, {"item": "heruru", "amount": 4}], "liquidCapacity": 16, "liquidPressure": 8, "research": "macurenium-factory", "category": "liquid"}

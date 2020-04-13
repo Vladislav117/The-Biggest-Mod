@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fenu liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "fenu", "amount": 11}, {"item": "bilynium", "amount": 4}, {"item": "fasi", "amount": 1}], "research": "fenu-conduit", "liquidCapacity": 10, "category": "liquid"}

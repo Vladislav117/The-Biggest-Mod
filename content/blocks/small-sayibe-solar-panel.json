@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sayibe solar panel", "description": "...", "size": 1, "health": 384, "requirements": [{"item": "sayibe", "amount": 7}, {"item": "wylanium", "amount": 10}, {"item": "kywowa", "amount": 10}], "research": "sayibe-factory", "powerProduction": 0.6579805847932929, "category": "power"}

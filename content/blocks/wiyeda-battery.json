@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wiyeda battery", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "wiyeda", "amount": 15}, {"item": "zityyanium", "amount": 16}, {"item": "wugyjinium", "amount": 3}], "research": "wiyeda-factory", "consumes": {"powerBuffered": 9859}, "category": "power"}

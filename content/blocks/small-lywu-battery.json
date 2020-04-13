@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lywu battery", "description": "...", "size": 1, "health": 351, "requirements": [{"item": "lywu", "amount": 14}, {"item": "melula", "amount": 10}, {"item": "jikanium", "amount": 1}], "research": "lywu-factory", "consumes": {"powerBuffered": 1582}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small woce solar panel", "description": "...", "size": 1, "health": 377, "requirements": [{"item": "woce", "amount": 16}, {"item": "vywy", "amount": 10}, {"item": "xuzy", "amount": 8}], "research": "woce-factory", "powerProduction": 0.18462475233306716, "category": "power"}

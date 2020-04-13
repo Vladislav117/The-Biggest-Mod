@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mohoze liquid tank", "description": "...", "health": 488, "size": 3, "requirements": [{"item": "mohoze", "amount": 11}, {"item": "bihifenium", "amount": 19}, {"item": "maku", "amount": 5}], "research": "mohoze-conduit", "category": "liquid", "liquidCapacity": 60578, "hasLiquids": true}

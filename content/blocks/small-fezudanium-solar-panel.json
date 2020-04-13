@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fezudanium solar panel", "description": "...", "size": 1, "health": 277, "requirements": [{"item": "fezudanium", "amount": 19}, {"item": "rysi", "amount": 14}, {"item": "baguyu", "amount": 6}], "research": "fezudanium-factory", "powerProduction": 1.3099856478656264, "category": "power"}

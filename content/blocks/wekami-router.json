@@ -1,0 +1,1 @@
+{"type": "router", "name": "wekami router", "description": "...", "health": 85, "size": 1, "requirements": [{"item": "wekami", "amount": 4}], "research": "wekami-conveyor", "category": "distribution"}

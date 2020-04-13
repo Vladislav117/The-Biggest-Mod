@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ganu junction", "description": "...", "health": 25, "speed": 8, "capacity": 18, "size": 1, "requirements": [{"item": "ganu", "amount": 2}, {"item": "sokima", "amount": 4}], "research": "ganu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small foqa battery", "description": "...", "size": 1, "health": 166, "requirements": [{"item": "foqa", "amount": 8}, {"item": "puho", "amount": 6}, {"item": "geguqi", "amount": 2}], "research": "foqa-factory", "consumes": {"powerBuffered": 2098}, "category": "power"}

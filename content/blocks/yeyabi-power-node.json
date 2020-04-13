@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yeyabi power node", "description": "...", "size": 2, "health": 139, "requirements": [{"item": "yeyabi", "amount": 20}, {"item": "dego", "amount": 11}, {"item": "xofa", "amount": 7}], "research": "yeyabi-factory", "maxNodes": 41, "laserRange": 27, "category": "power"}

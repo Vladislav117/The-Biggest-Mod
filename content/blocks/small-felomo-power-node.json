@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small felomo power node", "description": "...", "size": 1, "health": 136, "requirements": [{"item": "felomo", "amount": 17}, {"item": "sufeca", "amount": 7}, {"item": "lome", "amount": 7}], "research": "felomo-factory", "maxNodes": 3, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "foze solar panel", "description": "...", "size": 3, "health": 142, "requirements": [{"item": "foze", "amount": 20}, {"item": "xuricy", "amount": 7}, {"item": "hobo", "amount": 9}], "research": "foze-factory", "powerProduction": 0.0409514231755822, "category": "power"}

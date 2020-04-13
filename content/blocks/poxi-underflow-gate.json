@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "poxi underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "poxi", "amount": 3}, {"item": "zofiqo", "amount": 1}], "research": "poxi-conveyor", "category": "distribution", "invert": false}

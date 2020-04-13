@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "gofyfy overdrive projector", "description": "...", "health": 64, "consumes": {"power": 3.0, "item": "gofyfy"}, "size": 2, "requirements": [{"item": "gofyfy", "amount": 5}, {"item": "xaneya", "amount": 4}, {"item": "kide", "amount": 10}], "research": "gofyfy-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xekota bridge conveyor", "description": "", "health": 40, "range": 16, "speed": 16, "bufferCapacity": 14, "requirements": [{"item": "xekota", "amount": 4}, {"item": "kilu", "amount": 1}], "research": "xekota-conveyor", "category": "distribution", "size": 1}

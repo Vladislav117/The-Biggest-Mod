@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mece battery", "description": "...", "size": 3, "health": 131, "requirements": [{"item": "mece", "amount": 20}, {"item": "tivu", "amount": 11}, {"item": "byqi", "amount": 2}], "research": "mece-factory", "consumes": {"powerBuffered": 7763}, "category": "power"}

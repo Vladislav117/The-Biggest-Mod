@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wusupy underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "wusupy", "amount": 5}, {"item": "kexebinium", "amount": 4}], "research": "wusupy-conveyor", "category": "distribution", "invert": false}

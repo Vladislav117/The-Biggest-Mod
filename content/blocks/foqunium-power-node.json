@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "foqunium power node", "description": "...", "size": 2, "health": 78, "requirements": [{"item": "foqunium", "amount": 16}, {"item": "roqeki", "amount": 12}, {"item": "jeqidynium", "amount": 8}], "research": "foqunium-factory", "maxNodes": 48, "laserRange": 14, "category": "power"}

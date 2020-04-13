@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kowonium power node", "description": "...", "size": 1, "health": 312, "requirements": [{"item": "kowonium", "amount": 18}, {"item": "fyhahu", "amount": 12}, {"item": "minoxa", "amount": 10}], "research": "kowonium-factory", "maxNodes": 10, "laserRange": 12, "category": "power"}

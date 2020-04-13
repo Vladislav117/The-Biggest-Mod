@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kyjyxo junction", "description": "...", "health": 6, "speed": 5, "capacity": 8, "size": 1, "requirements": [{"item": "kyjyxo", "amount": 1}, {"item": "diro", "amount": 5}], "research": "kyjyxo-conveyor", "category": "distribution"}

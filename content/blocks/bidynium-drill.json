@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bidynium drill", "description": "...", "size": 4, "health": 363, "tier": 2, "drillTime": 20, "consumes": {"power": 2}, "requirements": [{"item": "bidynium", "amount": 15}, {"item": "labonium", "amount": 17}, {"item": "famo", "amount": 4}], "research": "bidynium-factory", "category": "production"}

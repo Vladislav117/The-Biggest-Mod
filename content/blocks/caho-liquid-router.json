@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "caho liquid router", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "caho", "amount": 3}, {"item": "docinium", "amount": 3}, {"item": "zadajo", "amount": 6}], "research": "caho-conduit", "liquidCapacity": 10, "category": "liquid"}

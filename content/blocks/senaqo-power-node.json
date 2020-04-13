@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "senaqo power node", "description": "...", "size": 2, "health": 569, "requirements": [{"item": "senaqo", "amount": 2}, {"item": "socyhi", "amount": 7}, {"item": "nayevynium", "amount": 2}], "research": "senaqo-factory", "maxNodes": 27, "laserRange": 14, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small denu power node", "description": "...", "size": 1, "health": 115, "requirements": [{"item": "denu", "amount": 20}, {"item": "vygu", "amount": 4}, {"item": "jewa", "amount": 10}], "research": "denu-factory", "maxNodes": 7, "laserRange": 22, "category": "power"}

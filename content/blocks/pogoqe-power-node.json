@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pogoqe power node", "description": "...", "size": 2, "health": 471, "requirements": [{"item": "pogoqe", "amount": 20}, {"item": "gyty", "amount": 3}, {"item": "wekami", "amount": 9}], "research": "pogoqe-factory", "maxNodes": 21, "laserRange": 10, "category": "power"}

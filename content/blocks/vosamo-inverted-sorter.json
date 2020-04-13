@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vosamo inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "vosamo", "amount": 4}, {"item": "siqefo", "amount": 2}], "research": "vosamo-conveyor", "category": "distribution", "invert": true}

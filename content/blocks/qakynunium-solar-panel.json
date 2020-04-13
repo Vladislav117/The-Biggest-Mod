@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qakynunium solar panel", "description": "...", "size": 3, "health": 371, "requirements": [{"item": "qakynunium", "amount": 16}, {"item": "jatyjenium", "amount": 8}, {"item": "hofa", "amount": 9}], "research": "qakynunium-factory", "powerProduction": 0.8525831016080915, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "suta overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "suta", "amount": 3}, {"item": "qeyanium", "amount": 5}], "research": "suta-conveyor", "category": "distribution", "invert": false}

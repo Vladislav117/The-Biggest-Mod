@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tefexe junction", "description": "...", "health": 24, "speed": 19, "capacity": 9, "size": 1, "requirements": [{"item": "tefexe", "amount": 4}, {"item": "zowy", "amount": 1}], "research": "tefexe-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qotile liquid tank", "description": "...", "health": 351, "size": 3, "requirements": [{"item": "qotile", "amount": 1}, {"item": "ryloxi", "amount": 4}, {"item": "sefy", "amount": 10}], "research": "qotile-conduit", "category": "liquid", "liquidCapacity": 47458, "hasLiquids": true}

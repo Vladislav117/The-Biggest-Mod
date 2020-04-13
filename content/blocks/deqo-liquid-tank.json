@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "deqo liquid tank", "description": "...", "health": 173, "size": 3, "requirements": [{"item": "deqo", "amount": 5}, {"item": "kyqu", "amount": 10}, {"item": "tefipi", "amount": 4}], "research": "deqo-conduit", "category": "liquid", "liquidCapacity": 54558, "hasLiquids": true}

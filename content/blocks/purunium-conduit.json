@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "purunium conduit", "description": "...", "health": 112, "requirements": [{"item": "purunium", "amount": 10}, {"item": "cedonium", "amount": 13}, {"item": "sovuqu", "amount": 7}], "liquidCapacity": 44, "liquidPressure": 2, "research": "purunium-factory", "category": "liquid"}

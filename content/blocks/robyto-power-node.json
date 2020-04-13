@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "robyto power node", "description": "...", "size": 2, "health": 488, "requirements": [{"item": "robyto", "amount": 12}, {"item": "zivoginium", "amount": 18}, {"item": "dyzeky", "amount": 1}], "research": "robyto-factory", "maxNodes": 44, "laserRange": 17, "category": "power"}

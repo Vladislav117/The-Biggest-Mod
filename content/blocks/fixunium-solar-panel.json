@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fixunium solar panel", "description": "...", "size": 3, "health": 134, "requirements": [{"item": "fixunium", "amount": 1}, {"item": "zivoginium", "amount": 20}, {"item": "jaweki", "amount": 9}], "research": "fixunium-factory", "powerProduction": 1.7228976521320676, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small riyo battery", "description": "...", "size": 1, "health": 144, "requirements": [{"item": "riyo", "amount": 8}, {"item": "nytu", "amount": 20}, {"item": "dekeko", "amount": 1}], "research": "riyo-factory", "consumes": {"powerBuffered": 532}, "category": "power"}

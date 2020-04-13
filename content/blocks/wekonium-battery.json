@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wekonium battery", "description": "...", "size": 3, "health": 181, "requirements": [{"item": "wekonium", "amount": 20}, {"item": "zore", "amount": 9}, {"item": "loqa", "amount": 4}], "research": "wekonium-factory", "consumes": {"powerBuffered": 1857}, "category": "power"}

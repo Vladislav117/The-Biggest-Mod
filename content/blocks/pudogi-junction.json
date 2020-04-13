@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pudogi junction", "description": "...", "health": 23, "speed": 10, "capacity": 1, "size": 1, "requirements": [{"item": "pudogi", "amount": 5}, {"item": "vabenium", "amount": 2}], "research": "pudogi-conveyor", "category": "distribution"}

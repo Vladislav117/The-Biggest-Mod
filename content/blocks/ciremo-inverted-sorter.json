@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ciremo inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "ciremo", "amount": 1}, {"item": "xuzy", "amount": 2}], "research": "ciremo-conveyor", "category": "distribution", "invert": true}

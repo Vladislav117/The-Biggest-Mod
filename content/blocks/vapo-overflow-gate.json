@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vapo overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "vapo", "amount": 1}, {"item": "kufi", "amount": 5}], "research": "vapo-conveyor", "category": "distribution", "invert": false}

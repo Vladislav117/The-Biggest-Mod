@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lazynu inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "lazynu", "amount": 1}, {"item": "rose", "amount": 2}], "research": "lazynu-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small siceku battery", "description": "...", "size": 1, "health": 276, "requirements": [{"item": "siceku", "amount": 9}, {"item": "nayevynium", "amount": 14}, {"item": "tybegi", "amount": 4}], "research": "siceku-factory", "consumes": {"powerBuffered": 1352}, "category": "power"}

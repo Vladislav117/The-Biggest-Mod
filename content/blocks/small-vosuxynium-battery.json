@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vosuxynium battery", "description": "...", "size": 1, "health": 311, "requirements": [{"item": "vosuxynium", "amount": 8}, {"item": "tudinium", "amount": 12}, {"item": "jane", "amount": 6}], "research": "vosuxynium-factory", "consumes": {"powerBuffered": 2514}, "category": "power"}

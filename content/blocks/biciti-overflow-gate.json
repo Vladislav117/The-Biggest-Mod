@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "biciti overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "biciti", "amount": 2}, {"item": "tivu", "amount": 5}], "research": "biciti-conveyor", "category": "distribution", "invert": false}

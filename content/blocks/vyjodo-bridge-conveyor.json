@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vyjodo bridge conveyor", "description": "", "health": 26, "range": 19, "speed": 18, "bufferCapacity": 15, "requirements": [{"item": "vyjodo", "amount": 5}, {"item": "yuno", "amount": 3}], "research": "vyjodo-conveyor", "category": "distribution", "size": 1}

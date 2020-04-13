@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zimabe inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "zimabe", "amount": 2}, {"item": "gina", "amount": 2}], "research": "zimabe-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tidonium liquid router", "description": "...", "size": 1, "health": 98, "requirements": [{"item": "tidonium", "amount": 14}, {"item": "zufi", "amount": 19}, {"item": "myly", "amount": 1}], "research": "tidonium-conduit", "liquidCapacity": 10, "category": "liquid"}

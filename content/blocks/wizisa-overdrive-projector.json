@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "wizisa overdrive projector", "description": "...", "health": 86, "consumes": {"power": 3.0, "item": "wizisa"}, "size": 2, "requirements": [{"item": "wizisa", "amount": 14}, {"item": "miluze", "amount": 17}, {"item": "xemynium", "amount": 2}], "research": "wizisa-factory", "category": "effect"}

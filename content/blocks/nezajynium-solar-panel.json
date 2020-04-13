@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nezajynium solar panel", "description": "...", "size": 3, "health": 148, "requirements": [{"item": "nezajynium", "amount": 19}, {"item": "tegizunium", "amount": 17}, {"item": "wygy", "amount": 7}], "research": "nezajynium-factory", "powerProduction": 0.24292111053708204, "category": "power"}

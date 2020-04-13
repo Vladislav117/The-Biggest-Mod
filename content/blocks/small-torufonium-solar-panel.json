@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small torufonium solar panel", "description": "...", "size": 1, "health": 212, "requirements": [{"item": "torufonium", "amount": 3}, {"item": "geka", "amount": 5}, {"item": "turode", "amount": 8}], "research": "torufonium-factory", "powerProduction": 0.8626468425886432, "category": "power"}

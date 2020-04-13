@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yuduse power node", "description": "...", "size": 1, "health": 113, "requirements": [{"item": "yuduse", "amount": 16}, {"item": "xydy", "amount": 2}, {"item": "pawusy", "amount": 9}], "research": "yuduse-factory", "maxNodes": 18, "laserRange": 25, "category": "power"}

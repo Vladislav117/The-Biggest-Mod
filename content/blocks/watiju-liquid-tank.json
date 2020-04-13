@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "watiju liquid tank", "description": "...", "health": 577, "size": 3, "requirements": [{"item": "watiju", "amount": 1}, {"item": "tedi", "amount": 4}, {"item": "nehudo", "amount": 5}], "research": "watiju-conduit", "category": "liquid", "liquidCapacity": 70769, "hasLiquids": true}

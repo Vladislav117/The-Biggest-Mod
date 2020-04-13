@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pijebu power node", "description": "...", "size": 2, "health": 456, "requirements": [{"item": "pijebu", "amount": 18}, {"item": "sidu", "amount": 1}, {"item": "jiyomonium", "amount": 6}], "research": "pijebu-factory", "maxNodes": 35, "laserRange": 25, "category": "power"}

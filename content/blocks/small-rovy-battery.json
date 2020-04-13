@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rovy battery", "description": "...", "size": 1, "health": 263, "requirements": [{"item": "rovy", "amount": 10}, {"item": "tuxu", "amount": 2}, {"item": "noriwe", "amount": 9}], "research": "rovy-factory", "consumes": {"powerBuffered": 1761}, "category": "power"}

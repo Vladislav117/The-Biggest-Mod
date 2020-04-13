@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zemyca battery", "description": "...", "size": 3, "health": 67, "requirements": [{"item": "zemyca", "amount": 13}, {"item": "pikoqi", "amount": 9}, {"item": "vayera", "amount": 3}], "research": "zemyca-factory", "consumes": {"powerBuffered": 5622}, "category": "power"}

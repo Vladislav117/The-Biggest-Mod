@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "taxanium inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "taxanium", "amount": 5}, {"item": "lalubo", "amount": 1}], "research": "taxanium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "joqopy drill", "description": "...", "size": 2, "health": 171, "tier": 4, "drillTime": 20, "consumes": {"power": 17}, "requirements": [{"item": "joqopy", "amount": 19}, {"item": "yisyqu", "amount": 3}, {"item": "tatavo", "amount": 2}], "research": "joqopy-factory", "category": "production"}

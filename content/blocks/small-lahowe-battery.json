@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lahowe battery", "description": "...", "size": 1, "health": 260, "requirements": [{"item": "lahowe", "amount": 9}, {"item": "yuqy", "amount": 18}, {"item": "nuso", "amount": 9}], "research": "lahowe-factory", "consumes": {"powerBuffered": 2183}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xobasonium solar panel", "description": "...", "size": 1, "health": 166, "requirements": [{"item": "xobasonium", "amount": 2}, {"item": "vocazu", "amount": 11}, {"item": "muhura", "amount": 6}], "research": "xobasonium-factory", "powerProduction": 1.1453157792901962, "category": "power"}

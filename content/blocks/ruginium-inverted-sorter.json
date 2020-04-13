@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ruginium inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "ruginium", "amount": 3}, {"item": "tatavo", "amount": 4}], "research": "ruginium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qady battery", "description": "...", "size": 1, "health": 363, "requirements": [{"item": "qady", "amount": 7}, {"item": "rehyce", "amount": 14}, {"item": "juwyso", "amount": 7}], "research": "qady-factory", "consumes": {"powerBuffered": 1978}, "category": "power"}

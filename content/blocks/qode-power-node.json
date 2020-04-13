@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qode power node", "description": "...", "size": 2, "health": 365, "requirements": [{"item": "qode", "amount": 7}, {"item": "reqynu", "amount": 12}, {"item": "vodynium", "amount": 4}], "research": "qode-factory", "maxNodes": 34, "laserRange": 12, "category": "power"}

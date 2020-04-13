@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fasi solar panel", "description": "...", "size": 3, "health": 222, "requirements": [{"item": "fasi", "amount": 6}, {"item": "guwinium", "amount": 4}, {"item": "movanium", "amount": 1}], "research": "fasi-factory", "powerProduction": 0.7125238005814009, "category": "power"}

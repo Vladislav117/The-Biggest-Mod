@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vunijy overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "vunijy", "amount": 2}, {"item": "vove", "amount": 4}], "research": "vunijy-conveyor", "category": "distribution", "invert": false}

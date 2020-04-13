@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hybobenium inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "hybobenium", "amount": 5}, {"item": "fyfoni", "amount": 5}], "research": "hybobenium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gumuto liquid tank", "description": "...", "health": 368, "size": 3, "requirements": [{"item": "gumuto", "amount": 3}, {"item": "byqymo", "amount": 2}, {"item": "yoleqy", "amount": 2}], "research": "gumuto-conduit", "category": "liquid", "liquidCapacity": 114111, "hasLiquids": true}

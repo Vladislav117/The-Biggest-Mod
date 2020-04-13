@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nago inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "nago", "amount": 4}, {"item": "pino", "amount": 2}], "research": "nago-conveyor", "category": "distribution", "invert": true}

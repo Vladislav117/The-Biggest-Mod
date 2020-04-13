@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pegonium conduit", "description": "...", "health": 165, "requirements": [{"item": "pegonium", "amount": 7}, {"item": "tizusa", "amount": 18}, {"item": "vuhu", "amount": 9}], "liquidCapacity": 49, "liquidPressure": 9, "research": "pegonium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xami junction", "description": "...", "health": 24, "speed": 17, "capacity": 10, "size": 1, "requirements": [{"item": "xami", "amount": 4}, {"item": "rytysynium", "amount": 4}], "research": "xami-conveyor", "category": "distribution"}

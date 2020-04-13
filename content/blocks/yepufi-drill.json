@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yepufi drill", "description": "...", "size": 4, "health": 337, "tier": 3, "drillTime": 19, "consumes": {"power": 3}, "requirements": [{"item": "yepufi", "amount": 17}, {"item": "xywoty", "amount": 5}, {"item": "xivi", "amount": 8}], "research": "yepufi-factory", "category": "production"}

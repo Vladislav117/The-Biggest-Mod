@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "maty bridge conveyor", "description": "", "health": 49, "range": 20, "speed": 10, "bufferCapacity": 19, "requirements": [{"item": "maty", "amount": 5}, {"item": "kupanium", "amount": 4}], "research": "maty-conveyor", "category": "distribution", "size": 1}

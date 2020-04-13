@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tavupi overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "tavupi", "amount": 1}, {"item": "zymi", "amount": 2}], "research": "tavupi-conveyor", "category": "distribution", "invert": false}

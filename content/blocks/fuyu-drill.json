@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fuyu drill", "description": "...", "size": 2, "health": 413, "tier": 3, "drillTime": 3, "consumes": {"power": 4}, "requirements": [{"item": "fuyu", "amount": 10}, {"item": "pibu", "amount": 10}, {"item": "najy", "amount": 9}], "research": "fuyu-factory", "category": "production"}

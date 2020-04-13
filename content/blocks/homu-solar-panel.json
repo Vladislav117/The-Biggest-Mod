@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "homu solar panel", "description": "...", "size": 3, "health": 169, "requirements": [{"item": "homu", "amount": 17}, {"item": "nefuxa", "amount": 2}, {"item": "togygi", "amount": 9}], "research": "homu-factory", "powerProduction": 0.1366733812820618, "category": "power"}

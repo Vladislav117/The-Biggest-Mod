@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pugi power node", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "pugi", "amount": 19}, {"item": "rebifo", "amount": 17}, {"item": "zacaki", "amount": 2}], "research": "pugi-factory", "maxNodes": 28, "laserRange": 10, "category": "power"}

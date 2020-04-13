@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "lymy overdrive projector", "description": "...", "health": 106, "consumes": {"power": 3.0, "item": "lymy"}, "size": 2, "requirements": [{"item": "lymy", "amount": 20}, {"item": "xuxugy", "amount": 14}, {"item": "jatyjenium", "amount": 3}], "research": "lymy-factory", "category": "effect"}

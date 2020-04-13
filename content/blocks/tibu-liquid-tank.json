@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tibu liquid tank", "description": "...", "health": 578, "size": 3, "requirements": [{"item": "tibu", "amount": 15}, {"item": "jasuly", "amount": 2}, {"item": "cify", "amount": 4}], "research": "tibu-conduit", "category": "liquid", "liquidCapacity": 18955, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "neronium solar panel", "description": "...", "size": 3, "health": 210, "requirements": [{"item": "neronium", "amount": 18}, {"item": "xyyira", "amount": 10}, {"item": "bedi", "amount": 2}], "research": "neronium-factory", "powerProduction": 1.9158177727465031, "category": "power"}

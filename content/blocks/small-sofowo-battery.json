@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sofowo battery", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "sofowo", "amount": 6}, {"item": "dagepanium", "amount": 9}, {"item": "cujyda", "amount": 5}], "research": "sofowo-factory", "consumes": {"powerBuffered": 2355}, "category": "power"}

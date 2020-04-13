@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qukeso solar panel", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "qukeso", "amount": 11}, {"item": "widydo", "amount": 5}, {"item": "dune", "amount": 6}], "research": "qukeso-factory", "powerProduction": 4.390849608899726, "category": "power"}

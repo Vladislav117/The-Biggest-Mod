@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yake power node", "description": "...", "size": 1, "health": 384, "requirements": [{"item": "yake", "amount": 11}, {"item": "vadoda", "amount": 18}, {"item": "yypefa", "amount": 9}], "research": "yake-factory", "maxNodes": 20, "laserRange": 6, "category": "power"}

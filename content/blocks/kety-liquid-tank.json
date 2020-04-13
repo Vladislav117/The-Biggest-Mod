@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kety liquid tank", "description": "...", "health": 195, "size": 3, "requirements": [{"item": "kety", "amount": 17}, {"item": "yytiye", "amount": 7}, {"item": "qokenium", "amount": 4}], "research": "kety-conduit", "category": "liquid", "liquidCapacity": 64177, "hasLiquids": true}

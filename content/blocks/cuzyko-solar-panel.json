@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cuzyko solar panel", "description": "...", "size": 3, "health": 126, "requirements": [{"item": "cuzyko", "amount": 7}, {"item": "xyyira", "amount": 14}, {"item": "yirere", "amount": 6}], "research": "cuzyko-factory", "powerProduction": 3.4755240869983255, "category": "power"}

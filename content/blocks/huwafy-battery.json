@@ -1,0 +1,1 @@
+{"type": "battery", "name": "huwafy battery", "description": "...", "size": 3, "health": 385, "requirements": [{"item": "huwafy", "amount": 5}, {"item": "sahylu", "amount": 6}, {"item": "wywonium", "amount": 1}], "research": "huwafy-factory", "consumes": {"powerBuffered": 9585}, "category": "power"}

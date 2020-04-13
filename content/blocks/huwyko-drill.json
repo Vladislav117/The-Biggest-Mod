@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "huwyko drill", "description": "...", "size": 2, "health": 375, "tier": 4, "drillTime": 11, "consumes": {"power": 4}, "requirements": [{"item": "huwyko", "amount": 20}, {"item": "tufi", "amount": 10}, {"item": "wajese", "amount": 6}], "research": "huwyko-factory", "category": "production"}

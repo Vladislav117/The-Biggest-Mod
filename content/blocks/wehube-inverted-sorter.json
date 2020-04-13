@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wehube inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "wehube", "amount": 1}, {"item": "syxidonium", "amount": 5}], "research": "wehube-conveyor", "category": "distribution", "invert": true}

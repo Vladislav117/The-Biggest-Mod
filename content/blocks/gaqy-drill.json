@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gaqy drill", "description": "...", "size": 4, "health": 188, "tier": 1, "drillTime": 3, "consumes": {"power": 7}, "requirements": [{"item": "gaqy", "amount": 20}, {"item": "hutave", "amount": 3}, {"item": "zucy", "amount": 5}], "research": "gaqy-factory", "category": "production"}

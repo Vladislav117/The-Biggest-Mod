@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qodanunium sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "qodanunium", "amount": 3}, {"item": "mapi", "amount": 5}], "research": "qodanunium-conveyor", "category": "distribution", "invert": false}

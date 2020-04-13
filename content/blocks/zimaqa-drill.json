@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zimaqa drill", "description": "...", "size": 2, "health": 100, "tier": 2, "drillTime": 4, "consumes": {"power": 14}, "requirements": [{"item": "zimaqa", "amount": 2}, {"item": "buquza", "amount": 11}, {"item": "qojinium", "amount": 6}], "research": "zimaqa-factory", "category": "production"}

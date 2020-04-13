@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "zywave conveyor", "description": "...", "health": 224, "requirements": [{"item": "zywave", "amount": 10}, {"item": "joqopy", "amount": 8}], "speed": 0.02459674072100798, "research": "zywave-factory", "category": "distribution"}

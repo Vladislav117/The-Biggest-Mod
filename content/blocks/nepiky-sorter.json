@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nepiky sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "nepiky", "amount": 1}, {"item": "wyme", "amount": 5}], "research": "nepiky-conveyor", "category": "distribution", "invert": false}

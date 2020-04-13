@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "peny overflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "peny", "amount": 4}, {"item": "taxanium", "amount": 5}], "research": "peny-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kuju solar panel", "description": "...", "size": 3, "health": 373, "requirements": [{"item": "kuju", "amount": 8}, {"item": "kudanium", "amount": 18}, {"item": "bufywy", "amount": 3}], "research": "kuju-factory", "powerProduction": 0.851731814161182, "category": "power"}

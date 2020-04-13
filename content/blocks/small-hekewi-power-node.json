@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hekewi power node", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "hekewi", "amount": 18}, {"item": "leqe", "amount": 16}, {"item": "tozuza", "amount": 8}], "research": "hekewi-factory", "maxNodes": 4, "laserRange": 16, "category": "power"}

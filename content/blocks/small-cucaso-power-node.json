@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cucaso power node", "description": "...", "size": 1, "health": 392, "requirements": [{"item": "cucaso", "amount": 17}, {"item": "nuzivo", "amount": 7}, {"item": "sekele", "amount": 6}], "research": "cucaso-factory", "maxNodes": 5, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dewe junction", "description": "...", "health": 16, "speed": 20, "capacity": 17, "size": 1, "requirements": [{"item": "dewe", "amount": 2}, {"item": "qicu", "amount": 1}], "research": "dewe-conveyor", "category": "distribution"}

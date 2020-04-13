@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "deco inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "deco", "amount": 4}, {"item": "lemoqa", "amount": 4}], "research": "deco-conveyor", "category": "distribution", "invert": true}

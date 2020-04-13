@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sylupa liquid tank", "description": "...", "health": 242, "size": 3, "requirements": [{"item": "sylupa", "amount": 20}, {"item": "kojavi", "amount": 18}, {"item": "kojavi", "amount": 8}], "research": "sylupa-conduit", "category": "liquid", "liquidCapacity": 13846, "hasLiquids": true}

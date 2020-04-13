@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sylunium underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "sylunium", "amount": 3}, {"item": "dicaku", "amount": 2}], "research": "sylunium-conveyor", "category": "distribution", "invert": false}

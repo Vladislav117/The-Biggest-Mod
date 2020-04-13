@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "soda conduit", "description": "...", "health": 128, "requirements": [{"item": "soda", "amount": 18}, {"item": "bibizo", "amount": 19}, {"item": "julu", "amount": 8}], "liquidCapacity": 17, "liquidPressure": 0, "research": "soda-factory", "category": "liquid"}

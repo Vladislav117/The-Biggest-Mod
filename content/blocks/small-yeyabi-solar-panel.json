@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yeyabi solar panel", "description": "...", "size": 1, "health": 322, "requirements": [{"item": "yeyabi", "amount": 4}, {"item": "numy", "amount": 20}, {"item": "xuri", "amount": 6}], "research": "yeyabi-factory", "powerProduction": 10.803375593480482, "category": "power"}

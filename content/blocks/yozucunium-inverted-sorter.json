@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yozucunium inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "yozucunium", "amount": 4}, {"item": "seyobo", "amount": 4}], "research": "yozucunium-conveyor", "category": "distribution", "invert": true}

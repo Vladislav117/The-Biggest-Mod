@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyfe liquid tank", "description": "...", "health": 607, "size": 3, "requirements": [{"item": "fyfe", "amount": 14}, {"item": "qokenium", "amount": 10}, {"item": "xoquge", "amount": 1}], "research": "fyfe-conduit", "category": "liquid", "liquidCapacity": 91369, "hasLiquids": true}

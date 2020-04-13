@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sorory power node", "description": "...", "size": 2, "health": 82, "requirements": [{"item": "sorory", "amount": 19}, {"item": "wino", "amount": 9}, {"item": "jehonium", "amount": 10}], "research": "sorory-factory", "maxNodes": 55, "laserRange": 20, "category": "power"}

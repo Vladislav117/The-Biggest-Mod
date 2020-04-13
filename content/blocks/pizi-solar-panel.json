@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pizi solar panel", "description": "...", "size": 3, "health": 263, "requirements": [{"item": "pizi", "amount": 5}, {"item": "tefipi", "amount": 7}, {"item": "cokigo", "amount": 5}], "research": "pizi-factory", "powerProduction": 0.28178149901819144, "category": "power"}

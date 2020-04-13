@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small paqujy battery", "description": "...", "size": 1, "health": 339, "requirements": [{"item": "paqujy", "amount": 4}, {"item": "koju", "amount": 17}, {"item": "dysenium", "amount": 7}], "research": "paqujy-factory", "consumes": {"powerBuffered": 2307}, "category": "power"}

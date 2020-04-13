@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qasoji battery", "description": "...", "size": 3, "health": 41, "requirements": [{"item": "qasoji", "amount": 14}, {"item": "nipapu", "amount": 18}, {"item": "yinuze", "amount": 6}], "research": "qasoji-factory", "consumes": {"powerBuffered": 355}, "category": "power"}

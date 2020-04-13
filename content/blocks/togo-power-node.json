@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "togo power node", "description": "...", "size": 2, "health": 156, "requirements": [{"item": "togo", "amount": 4}, {"item": "vuyi", "amount": 12}, {"item": "kupu", "amount": 9}], "research": "togo-factory", "maxNodes": 14, "laserRange": 20, "category": "power"}

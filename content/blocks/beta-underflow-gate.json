@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "beta underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "beta", "amount": 3}, {"item": "lewanium", "amount": 3}], "research": "beta-conveyor", "category": "distribution", "invert": false}

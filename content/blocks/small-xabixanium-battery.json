@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xabixanium battery", "description": "...", "size": 1, "health": 109, "requirements": [{"item": "xabixanium", "amount": 4}, {"item": "ziti", "amount": 2}, {"item": "xikexi", "amount": 7}], "research": "xabixanium-factory", "consumes": {"powerBuffered": 2946}, "category": "power"}

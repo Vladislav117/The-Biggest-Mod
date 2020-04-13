@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jafu solar panel", "description": "...", "size": 3, "health": 87, "requirements": [{"item": "jafu", "amount": 8}, {"item": "hijaju", "amount": 12}, {"item": "kowonium", "amount": 5}], "research": "jafu-factory", "powerProduction": 0.31636650533816313, "category": "power"}

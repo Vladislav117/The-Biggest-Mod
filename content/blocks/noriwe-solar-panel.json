@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "noriwe solar panel", "description": "...", "size": 3, "health": 110, "requirements": [{"item": "noriwe", "amount": 18}, {"item": "qyxyci", "amount": 1}, {"item": "pymamu", "amount": 6}], "research": "noriwe-factory", "powerProduction": 0.07839180291561114, "category": "power"}

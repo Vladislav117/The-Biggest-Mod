@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wilyne bridge conveyor", "description": "", "health": 2, "range": 9, "speed": 8, "bufferCapacity": 3, "requirements": [{"item": "wilyne", "amount": 3}, {"item": "yanu", "amount": 4}], "research": "wilyne-conveyor", "category": "distribution", "size": 1}

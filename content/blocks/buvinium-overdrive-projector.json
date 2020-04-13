@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "buvinium overdrive projector", "description": "...", "health": 120, "consumes": {"power": 3.0, "item": "buvinium"}, "size": 2, "requirements": [{"item": "buvinium", "amount": 4}, {"item": "pusu", "amount": 16}, {"item": "gino", "amount": 8}], "research": "buvinium-factory", "category": "effect"}

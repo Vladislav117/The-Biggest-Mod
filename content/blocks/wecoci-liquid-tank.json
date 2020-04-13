@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wecoci liquid tank", "description": "...", "health": 200, "size": 3, "requirements": [{"item": "wecoci", "amount": 20}, {"item": "baranium", "amount": 3}, {"item": "fusi", "amount": 3}], "research": "wecoci-conduit", "category": "liquid", "liquidCapacity": 104912, "hasLiquids": true}

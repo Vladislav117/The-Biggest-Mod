@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nahixi overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "nahixi", "amount": 1}, {"item": "xumi", "amount": 3}], "research": "nahixi-conveyor", "category": "distribution", "invert": false}

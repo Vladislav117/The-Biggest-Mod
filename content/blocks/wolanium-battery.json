@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wolanium battery", "description": "...", "size": 3, "health": 353, "requirements": [{"item": "wolanium", "amount": 12}, {"item": "tatupo", "amount": 17}, {"item": "pihybo", "amount": 7}], "research": "wolanium-factory", "consumes": {"powerBuffered": 8626}, "category": "power"}

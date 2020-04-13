@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small soyanium battery", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "soyanium", "amount": 12}, {"item": "kohi", "amount": 14}, {"item": "hasu", "amount": 5}], "research": "soyanium-factory", "consumes": {"powerBuffered": 884}, "category": "power"}

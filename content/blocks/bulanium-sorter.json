@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bulanium sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "bulanium", "amount": 2}, {"item": "qyhi", "amount": 5}], "research": "bulanium-conveyor", "category": "distribution", "invert": false}

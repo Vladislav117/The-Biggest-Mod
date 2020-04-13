@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nigamy solar panel", "description": "...", "size": 3, "health": 227, "requirements": [{"item": "nigamy", "amount": 19}, {"item": "hidifynium", "amount": 3}, {"item": "sevo", "amount": 2}], "research": "nigamy-factory", "powerProduction": 0.8816819627618553, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "dyme drill", "description": "...", "size": 2, "health": 134, "tier": 4, "drillTime": 13, "consumes": {"power": 2}, "requirements": [{"item": "dyme", "amount": 2}, {"item": "jumonium", "amount": 19}, {"item": "nunanunium", "amount": 10}], "research": "dyme-factory", "category": "production"}

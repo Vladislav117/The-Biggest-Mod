@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bayice overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "bayice", "amount": 5}, {"item": "wuho", "amount": 1}], "research": "bayice-conveyor", "category": "distribution", "invert": false}

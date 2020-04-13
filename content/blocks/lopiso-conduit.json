@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lopiso conduit", "description": "...", "health": 124, "requirements": [{"item": "lopiso", "amount": 2}, {"item": "bibe", "amount": 9}, {"item": "furymu", "amount": 8}], "liquidCapacity": 47, "liquidPressure": 10, "research": "lopiso-factory", "category": "liquid"}

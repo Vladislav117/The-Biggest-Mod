@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qoqygi battery", "description": "...", "size": 1, "health": 323, "requirements": [{"item": "qoqygi", "amount": 13}, {"item": "fote", "amount": 1}, {"item": "ledugo", "amount": 1}], "research": "qoqygi-factory", "consumes": {"powerBuffered": 897}, "category": "power"}

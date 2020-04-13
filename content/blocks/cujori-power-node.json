@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cujori power node", "description": "...", "size": 2, "health": 57, "requirements": [{"item": "cujori", "amount": 3}, {"item": "wesyko", "amount": 18}, {"item": "qaho", "amount": 3}], "research": "cujori-factory", "maxNodes": 44, "laserRange": 28, "category": "power"}

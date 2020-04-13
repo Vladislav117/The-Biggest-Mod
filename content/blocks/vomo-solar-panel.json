@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vomo solar panel", "description": "...", "size": 3, "health": 77, "requirements": [{"item": "vomo", "amount": 3}, {"item": "bugyta", "amount": 12}, {"item": "waxonium", "amount": 5}], "research": "vomo-factory", "powerProduction": 0.039244829688665224, "category": "power"}

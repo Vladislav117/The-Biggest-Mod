@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vapo solar panel", "description": "...", "size": 1, "health": 238, "requirements": [{"item": "vapo", "amount": 20}, {"item": "forebu", "amount": 1}, {"item": "cazefu", "amount": 6}], "research": "vapo-factory", "powerProduction": 5.1916962601821695, "category": "power"}

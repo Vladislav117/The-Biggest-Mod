@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fodeby power node", "description": "...", "size": 1, "health": 112, "requirements": [{"item": "fodeby", "amount": 10}, {"item": "qigine", "amount": 8}, {"item": "tudinium", "amount": 5}], "research": "fodeby-factory", "maxNodes": 27, "laserRange": 16, "category": "power"}

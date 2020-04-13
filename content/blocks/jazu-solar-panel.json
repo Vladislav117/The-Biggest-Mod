@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jazu solar panel", "description": "...", "size": 3, "health": 134, "requirements": [{"item": "jazu", "amount": 14}, {"item": "wuqosenium", "amount": 3}, {"item": "jycepynium", "amount": 9}], "research": "jazu-factory", "powerProduction": 4.184998517391646, "category": "power"}

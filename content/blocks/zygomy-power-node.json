@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zygomy power node", "description": "...", "size": 2, "health": 290, "requirements": [{"item": "zygomy", "amount": 10}, {"item": "suta", "amount": 16}, {"item": "lisaca", "amount": 4}], "research": "zygomy-factory", "maxNodes": 48, "laserRange": 29, "category": "power"}

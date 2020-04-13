@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kytynium liquid tank", "description": "...", "health": 647, "size": 3, "requirements": [{"item": "kytynium", "amount": 6}, {"item": "dina", "amount": 2}, {"item": "sibutu", "amount": 9}], "research": "kytynium-conduit", "category": "liquid", "liquidCapacity": 104589, "hasLiquids": true}

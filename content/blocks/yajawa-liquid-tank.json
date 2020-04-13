@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yajawa liquid tank", "description": "...", "health": 396, "size": 3, "requirements": [{"item": "yajawa", "amount": 3}, {"item": "qepusenium", "amount": 6}, {"item": "ruteqa", "amount": 4}], "research": "yajawa-conduit", "category": "liquid", "liquidCapacity": 93023, "hasLiquids": true}

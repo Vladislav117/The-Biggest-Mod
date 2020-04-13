@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pygilenium power node", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "pygilenium", "amount": 2}, {"item": "tolo", "amount": 7}, {"item": "wojenium", "amount": 10}], "research": "pygilenium-factory", "maxNodes": 12, "laserRange": 8, "category": "power"}

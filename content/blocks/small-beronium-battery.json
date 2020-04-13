@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small beronium battery", "description": "...", "size": 1, "health": 124, "requirements": [{"item": "beronium", "amount": 2}, {"item": "juwyso", "amount": 19}, {"item": "jaweki", "amount": 7}], "research": "beronium-factory", "consumes": {"powerBuffered": 864}, "category": "power"}

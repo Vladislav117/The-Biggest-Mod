@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ryloxi solar panel", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "ryloxi", "amount": 7}, {"item": "vyma", "amount": 19}, {"item": "tygoqa", "amount": 4}], "research": "ryloxi-factory", "powerProduction": 3.7294467424804605, "category": "power"}

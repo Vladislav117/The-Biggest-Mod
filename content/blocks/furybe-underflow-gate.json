@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "furybe underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "furybe", "amount": 3}, {"item": "wabi", "amount": 1}], "research": "furybe-conveyor", "category": "distribution", "invert": false}

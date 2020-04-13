@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kelurynium solar panel", "description": "...", "size": 1, "health": 353, "requirements": [{"item": "kelurynium", "amount": 4}, {"item": "suminium", "amount": 11}, {"item": "hurula", "amount": 3}], "research": "kelurynium-factory", "powerProduction": 0.9445293819059459, "category": "power"}

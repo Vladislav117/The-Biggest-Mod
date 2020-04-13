@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lokybe overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "lokybe", "amount": 1}, {"item": "metaglass", "amount": 1}], "research": "lokybe-conveyor", "category": "distribution", "invert": false}

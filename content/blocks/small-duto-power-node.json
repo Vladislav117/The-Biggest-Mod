@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small duto power node", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "duto", "amount": 10}, {"item": "myhuzi", "amount": 4}, {"item": "pele", "amount": 8}], "research": "duto-factory", "maxNodes": 11, "laserRange": 22, "category": "power"}

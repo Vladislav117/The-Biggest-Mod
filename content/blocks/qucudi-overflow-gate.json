@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qucudi overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "qucudi", "amount": 5}, {"item": "repa", "amount": 3}], "research": "qucudi-conveyor", "category": "distribution", "invert": false}

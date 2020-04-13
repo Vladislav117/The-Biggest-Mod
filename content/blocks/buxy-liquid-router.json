@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "buxy liquid router", "description": "...", "size": 1, "health": 69, "requirements": [{"item": "buxy", "amount": 20}, {"item": "jypanium", "amount": 15}, {"item": "hyryhinium", "amount": 10}], "research": "buxy-conduit", "liquidCapacity": 10, "category": "liquid"}

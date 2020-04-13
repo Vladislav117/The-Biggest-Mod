@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "buqyti drill", "description": "...", "size": 3, "health": 123, "tier": 4, "drillTime": 1, "consumes": {"power": 6}, "requirements": [{"item": "buqyti", "amount": 9}, {"item": "kuwy", "amount": 2}, {"item": "qehynium", "amount": 2}], "research": "buqyti-factory", "category": "production"}

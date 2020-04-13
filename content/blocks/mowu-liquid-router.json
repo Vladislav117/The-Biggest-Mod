@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mowu liquid router", "description": "...", "size": 1, "health": 75, "requirements": [{"item": "mowu", "amount": 18}, {"item": "bawy", "amount": 16}, {"item": "quda", "amount": 9}], "research": "mowu-conduit", "liquidCapacity": 10, "category": "liquid"}

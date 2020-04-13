@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nimi bridge conveyor", "description": "", "health": 13, "range": 11, "speed": 20, "bufferCapacity": 25, "requirements": [{"item": "nimi", "amount": 5}, {"item": "yeku", "amount": 5}], "research": "nimi-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mafihy battery", "description": "...", "size": 3, "health": 140, "requirements": [{"item": "mafihy", "amount": 11}, {"item": "zatire", "amount": 6}, {"item": "laxu", "amount": 1}], "research": "mafihy-factory", "consumes": {"powerBuffered": 1463}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "taci underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "taci", "amount": 5}, {"item": "saqe", "amount": 1}], "research": "taci-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kesyginium conduit", "description": "...", "health": 169, "requirements": [{"item": "kesyginium", "amount": 2}, {"item": "dagepanium", "amount": 12}, {"item": "xoruba", "amount": 2}], "liquidCapacity": 32, "liquidPressure": 5, "research": "kesyginium-factory", "category": "liquid"}

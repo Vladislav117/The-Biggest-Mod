@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yisyqu junction", "description": "...", "health": 10, "speed": 13, "capacity": 18, "size": 1, "requirements": [{"item": "yisyqu", "amount": 4}, {"item": "lora", "amount": 3}], "research": "yisyqu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gemoco power node", "description": "...", "size": 1, "health": 244, "requirements": [{"item": "gemoco", "amount": 2}, {"item": "cysobe", "amount": 16}, {"item": "pyhisy", "amount": 5}], "research": "gemoco-factory", "maxNodes": 21, "laserRange": 15, "category": "power"}

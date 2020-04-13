@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zuwonium power node", "description": "...", "size": 2, "health": 247, "requirements": [{"item": "zuwonium", "amount": 7}, {"item": "nazyfa", "amount": 16}, {"item": "byveta", "amount": 7}], "research": "zuwonium-factory", "maxNodes": 20, "laserRange": 28, "category": "power"}

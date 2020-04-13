@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xyza junction", "description": "...", "health": 8, "speed": 16, "capacity": 16, "size": 1, "requirements": [{"item": "xyza", "amount": 2}, {"item": "zexinium", "amount": 3}], "research": "xyza-conveyor", "category": "distribution"}

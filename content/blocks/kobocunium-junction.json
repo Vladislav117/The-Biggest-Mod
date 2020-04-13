@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kobocunium junction", "description": "...", "health": 4, "speed": 10, "capacity": 16, "size": 1, "requirements": [{"item": "kobocunium", "amount": 3}, {"item": "sywuze", "amount": 1}], "research": "kobocunium-conveyor", "category": "distribution"}

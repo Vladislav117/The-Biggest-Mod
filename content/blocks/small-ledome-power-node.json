@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ledome power node", "description": "...", "size": 1, "health": 320, "requirements": [{"item": "ledome", "amount": 12}, {"item": "wylobo", "amount": 13}, {"item": "phase-fabric", "amount": 9}], "research": "ledome-factory", "maxNodes": 22, "laserRange": 7, "category": "power"}

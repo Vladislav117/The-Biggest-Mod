@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xaya conduit", "description": "...", "health": 179, "requirements": [{"item": "xaya", "amount": 20}, {"item": "nufa", "amount": 17}, {"item": "tedi", "amount": 4}], "liquidCapacity": 35, "liquidPressure": 1, "research": "xaya-factory", "category": "liquid"}

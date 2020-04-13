@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "roky liquid tank", "description": "...", "health": 258, "size": 3, "requirements": [{"item": "roky", "amount": 4}, {"item": "huxe", "amount": 3}, {"item": "rine", "amount": 7}], "research": "roky-conduit", "category": "liquid", "liquidCapacity": 47983, "hasLiquids": true}

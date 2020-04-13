@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "noxe solar panel", "description": "...", "size": 3, "health": 144, "requirements": [{"item": "noxe", "amount": 14}, {"item": "cecuvinium", "amount": 15}, {"item": "nimy", "amount": 9}], "research": "noxe-factory", "powerProduction": 0.7336221386415929, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "juyude junction", "description": "...", "health": 49, "speed": 1, "capacity": 15, "size": 1, "requirements": [{"item": "juyude", "amount": 1}, {"item": "jogi", "amount": 2}], "research": "juyude-conveyor", "category": "distribution"}

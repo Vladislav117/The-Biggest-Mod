@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wugyjinium battery", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "wugyjinium", "amount": 20}, {"item": "ryzyzi", "amount": 8}, {"item": "tomufa", "amount": 6}], "research": "wugyjinium-factory", "consumes": {"powerBuffered": 2488}, "category": "power"}

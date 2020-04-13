@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small betuto power node", "description": "...", "size": 1, "health": 314, "requirements": [{"item": "betuto", "amount": 19}, {"item": "yuqu", "amount": 16}, {"item": "wano", "amount": 4}], "research": "betuto-factory", "maxNodes": 24, "laserRange": 5, "category": "power"}

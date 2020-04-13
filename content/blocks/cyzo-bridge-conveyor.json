@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cyzo bridge conveyor", "description": "", "health": 19, "range": 20, "speed": 14, "bufferCapacity": 25, "requirements": [{"item": "cyzo", "amount": 5}, {"item": "yojagu", "amount": 3}], "research": "cyzo-conveyor", "category": "distribution", "size": 1}

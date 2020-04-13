@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zocela conduit", "description": "...", "health": 49, "requirements": [{"item": "zocela", "amount": 1}, {"item": "sapymanium", "amount": 9}, {"item": "zube", "amount": 8}], "liquidCapacity": 13, "liquidPressure": 0, "research": "zocela-factory", "category": "liquid"}

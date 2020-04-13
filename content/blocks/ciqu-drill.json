@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "ciqu drill", "description": "...", "size": 4, "health": 240, "tier": 3, "drillTime": 6, "consumes": {"power": 20}, "requirements": [{"item": "ciqu", "amount": 16}, {"item": "duvadi", "amount": 2}, {"item": "tanexo", "amount": 6}], "research": "ciqu-factory", "category": "production"}

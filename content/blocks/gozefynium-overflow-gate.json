@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gozefynium overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "gozefynium", "amount": 4}, {"item": "vuciby", "amount": 2}], "research": "gozefynium-conveyor", "category": "distribution", "invert": false}

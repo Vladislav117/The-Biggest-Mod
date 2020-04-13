@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nogosy battery", "description": "...", "size": 3, "health": 290, "requirements": [{"item": "nogosy", "amount": 7}, {"item": "puye", "amount": 17}, {"item": "logy", "amount": 7}], "research": "nogosy-factory", "consumes": {"powerBuffered": 3338}, "category": "power"}

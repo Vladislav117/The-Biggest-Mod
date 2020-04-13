@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yewininium solar panel", "description": "...", "size": 1, "health": 170, "requirements": [{"item": "yewininium", "amount": 2}, {"item": "myxo", "amount": 6}, {"item": "xynice", "amount": 3}], "research": "yewininium-factory", "powerProduction": 0.2800991148672364, "category": "power"}

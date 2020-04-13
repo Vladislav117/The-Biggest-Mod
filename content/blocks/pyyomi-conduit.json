@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pyyomi conduit", "description": "...", "health": 194, "requirements": [{"item": "pyyomi", "amount": 4}, {"item": "zuvy", "amount": 10}, {"item": "xyka", "amount": 6}], "liquidCapacity": 7, "liquidPressure": 2, "research": "pyyomi-factory", "category": "liquid"}

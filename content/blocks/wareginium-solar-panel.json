@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wareginium solar panel", "description": "...", "size": 3, "health": 28, "requirements": [{"item": "wareginium", "amount": 14}, {"item": "sumu", "amount": 12}, {"item": "hiwe", "amount": 5}], "research": "wareginium-factory", "powerProduction": 2.195305057197329, "category": "power"}

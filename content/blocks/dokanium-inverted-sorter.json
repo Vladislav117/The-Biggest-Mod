@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dokanium inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "dokanium", "amount": 3}, {"item": "sebobe", "amount": 1}], "research": "dokanium-conveyor", "category": "distribution", "invert": true}

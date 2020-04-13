@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kuqi conduit", "description": "...", "health": 94, "requirements": [{"item": "kuqi", "amount": 16}, {"item": "nazyfa", "amount": 8}, {"item": "kixy", "amount": 4}], "liquidCapacity": 31, "liquidPressure": 3, "research": "kuqi-factory", "category": "liquid"}

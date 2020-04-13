@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "loyomy underflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "loyomy", "amount": 3}, {"item": "zalirenium", "amount": 4}], "research": "loyomy-conveyor", "category": "distribution", "invert": false}

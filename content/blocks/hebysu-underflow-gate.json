@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hebysu underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "hebysu", "amount": 1}, {"item": "vuganium", "amount": 2}], "research": "hebysu-conveyor", "category": "distribution", "invert": false}

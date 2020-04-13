@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nimi power node", "description": "...", "size": 2, "health": 639, "requirements": [{"item": "nimi", "amount": 10}, {"item": "gyzuqo", "amount": 16}, {"item": "tebi", "amount": 2}], "research": "nimi-factory", "maxNodes": 18, "laserRange": 13, "category": "power"}

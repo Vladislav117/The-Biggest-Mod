@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "kylype drill", "description": "...", "size": 2, "health": 427, "tier": 2, "drillTime": 16, "consumes": {"power": 20}, "requirements": [{"item": "kylype", "amount": 12}, {"item": "litilenium", "amount": 10}, {"item": "riniqi", "amount": 6}], "research": "kylype-factory", "category": "production"}

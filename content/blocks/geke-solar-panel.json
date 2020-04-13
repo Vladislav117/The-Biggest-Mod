@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "geke solar panel", "description": "...", "size": 3, "health": 342, "requirements": [{"item": "geke", "amount": 17}, {"item": "wasu", "amount": 8}, {"item": "togygi", "amount": 1}], "research": "geke-factory", "powerProduction": 0.03280238534841012, "category": "power"}

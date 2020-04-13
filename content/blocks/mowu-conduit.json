@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mowu conduit", "description": "...", "health": 75, "requirements": [{"item": "mowu", "amount": 16}, {"item": "lynaly", "amount": 14}, {"item": "duly", "amount": 10}], "liquidCapacity": 21, "liquidPressure": 10, "research": "mowu-factory", "category": "liquid"}

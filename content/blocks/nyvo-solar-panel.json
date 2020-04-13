@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nyvo solar panel", "description": "...", "size": 3, "health": 207, "requirements": [{"item": "nyvo", "amount": 4}, {"item": "vodaxa", "amount": 11}, {"item": "laho", "amount": 7}], "research": "nyvo-factory", "powerProduction": 1.3867760033478596, "category": "power"}

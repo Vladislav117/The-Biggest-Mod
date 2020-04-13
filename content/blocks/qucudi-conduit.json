@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qucudi conduit", "description": "...", "health": 157, "requirements": [{"item": "qucudi", "amount": 5}, {"item": "digode", "amount": 15}, {"item": "tuxalu", "amount": 7}], "liquidCapacity": 49, "liquidPressure": 7, "research": "qucudi-factory", "category": "liquid"}

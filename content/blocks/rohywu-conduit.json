@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rohywu conduit", "description": "...", "health": 40, "requirements": [{"item": "rohywu", "amount": 13}, {"item": "lyqa", "amount": 10}, {"item": "gado", "amount": 10}], "liquidCapacity": 20, "liquidPressure": 2, "research": "rohywu-factory", "category": "liquid"}

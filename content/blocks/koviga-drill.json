@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "koviga drill", "description": "...", "size": 2, "health": 383, "tier": 3, "drillTime": 10, "consumes": {"power": 19}, "requirements": [{"item": "koviga", "amount": 18}, {"item": "yyqenu", "amount": 11}, {"item": "kite", "amount": 2}], "research": "koviga-factory", "category": "production"}

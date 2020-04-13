@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bony liquid tank", "description": "...", "health": 626, "size": 3, "requirements": [{"item": "bony", "amount": 5}, {"item": "jazozu", "amount": 19}, {"item": "cevu", "amount": 9}], "research": "bony-conduit", "category": "liquid", "liquidCapacity": 18663, "hasLiquids": true}

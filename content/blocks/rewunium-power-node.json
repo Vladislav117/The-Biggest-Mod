@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rewunium power node", "description": "...", "size": 2, "health": 257, "requirements": [{"item": "rewunium", "amount": 4}, {"item": "wiraby", "amount": 4}, {"item": "fulyzynium", "amount": 9}], "research": "rewunium-factory", "maxNodes": 46, "laserRange": 18, "category": "power"}

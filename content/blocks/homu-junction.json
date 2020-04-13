@@ -1,0 +1,1 @@
+{"type": "junction", "name": "homu junction", "description": "...", "health": 36, "speed": 18, "capacity": 8, "size": 1, "requirements": [{"item": "homu", "amount": 5}, {"item": "siga", "amount": 2}], "research": "homu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nogosy liquid tank", "description": "...", "health": 311, "size": 3, "requirements": [{"item": "nogosy", "amount": 19}, {"item": "teyigu", "amount": 19}, {"item": "phase-fabric", "amount": 10}], "research": "nogosy-conduit", "category": "liquid", "liquidCapacity": 109310, "hasLiquids": true}

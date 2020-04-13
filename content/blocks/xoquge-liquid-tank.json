@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xoquge liquid tank", "description": "...", "health": 260, "size": 3, "requirements": [{"item": "xoquge", "amount": 17}, {"item": "yocoke", "amount": 15}, {"item": "xikogo", "amount": 6}], "research": "xoquge-conduit", "category": "liquid", "liquidCapacity": 91493, "hasLiquids": true}

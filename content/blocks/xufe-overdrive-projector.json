@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "xufe overdrive projector", "description": "...", "health": 88, "consumes": {"power": 3.0, "item": "xufe"}, "size": 2, "requirements": [{"item": "xufe", "amount": 8}, {"item": "finu", "amount": 8}, {"item": "vypo", "amount": 4}], "research": "xufe-factory", "category": "effect"}

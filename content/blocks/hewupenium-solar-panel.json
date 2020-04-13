@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hewupenium solar panel", "description": "...", "size": 3, "health": 343, "requirements": [{"item": "hewupenium", "amount": 19}, {"item": "ryfo", "amount": 10}, {"item": "zilanium", "amount": 1}], "research": "hewupenium-factory", "powerProduction": 6.270882295937405, "category": "power"}

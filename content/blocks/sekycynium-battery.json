@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sekycynium battery", "description": "...", "size": 3, "health": 363, "requirements": [{"item": "sekycynium", "amount": 15}, {"item": "rakuhy", "amount": 8}, {"item": "kyma", "amount": 6}], "research": "sekycynium-factory", "consumes": {"powerBuffered": 4142}, "category": "power"}

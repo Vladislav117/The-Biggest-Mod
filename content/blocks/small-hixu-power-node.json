@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hixu power node", "description": "...", "size": 1, "health": 373, "requirements": [{"item": "hixu", "amount": 10}, {"item": "gydarynium", "amount": 1}, {"item": "sacigi", "amount": 8}], "research": "hixu-factory", "maxNodes": 30, "laserRange": 21, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qopaye drill", "description": "...", "size": 2, "health": 116, "tier": 3, "drillTime": 1, "consumes": {"power": 3}, "requirements": [{"item": "qopaye", "amount": 20}, {"item": "graphite", "amount": 16}, {"item": "cavuyi", "amount": 8}], "research": "qopaye-factory", "category": "production"}

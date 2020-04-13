@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bytu inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "bytu", "amount": 1}, {"item": "zazuji", "amount": 2}], "research": "bytu-conveyor", "category": "distribution", "invert": true}

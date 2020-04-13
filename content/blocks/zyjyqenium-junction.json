@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zyjyqenium junction", "description": "...", "health": 42, "speed": 3, "capacity": 1, "size": 1, "requirements": [{"item": "zyjyqenium", "amount": 5}, {"item": "jede", "amount": 4}], "research": "zyjyqenium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jeyanium liquid router", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "jeyanium", "amount": 5}, {"item": "miyoqu", "amount": 11}, {"item": "fuyoja", "amount": 10}], "research": "jeyanium-conduit", "liquidCapacity": 10, "category": "liquid"}

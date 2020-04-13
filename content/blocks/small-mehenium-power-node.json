@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mehenium power node", "description": "...", "size": 1, "health": 310, "requirements": [{"item": "mehenium", "amount": 14}, {"item": "yipobe", "amount": 20}, {"item": "gotomy", "amount": 9}], "research": "mehenium-factory", "maxNodes": 18, "laserRange": 10, "category": "power"}

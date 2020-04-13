@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "nenu drill", "description": "...", "size": 2, "health": 346, "tier": 2, "drillTime": 16, "consumes": {"power": 15}, "requirements": [{"item": "nenu", "amount": 12}, {"item": "dyma", "amount": 16}, {"item": "fasaze", "amount": 1}], "research": "nenu-factory", "category": "production"}

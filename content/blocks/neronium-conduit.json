@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "neronium conduit", "description": "...", "health": 140, "requirements": [{"item": "neronium", "amount": 4}, {"item": "ruzagi", "amount": 9}, {"item": "faba", "amount": 1}], "liquidCapacity": 23, "liquidPressure": 5, "research": "neronium-factory", "category": "liquid"}

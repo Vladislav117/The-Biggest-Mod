@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "buri sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "buri", "amount": 1}, {"item": "laqunium", "amount": 5}], "research": "buri-conveyor", "category": "distribution", "invert": false}

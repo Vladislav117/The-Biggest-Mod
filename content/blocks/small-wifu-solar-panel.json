@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wifu solar panel", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "wifu", "amount": 16}, {"item": "hybobenium", "amount": 20}, {"item": "vacoce", "amount": 4}], "research": "wifu-factory", "powerProduction": 2.8480867568243124, "category": "power"}

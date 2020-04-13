@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gafedonium battery", "description": "...", "size": 1, "health": 377, "requirements": [{"item": "gafedonium", "amount": 10}, {"item": "vewavu", "amount": 3}, {"item": "kixo", "amount": 8}], "research": "gafedonium-factory", "consumes": {"powerBuffered": 1554}, "category": "power"}

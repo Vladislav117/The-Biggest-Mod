@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zemyjy junction", "description": "...", "health": 23, "speed": 18, "capacity": 15, "size": 1, "requirements": [{"item": "zemyjy", "amount": 1}, {"item": "zaqe", "amount": 5}], "research": "zemyjy-conveyor", "category": "distribution"}

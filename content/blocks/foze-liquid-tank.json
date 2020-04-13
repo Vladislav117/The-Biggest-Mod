@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "foze liquid tank", "description": "...", "health": 422, "size": 3, "requirements": [{"item": "foze", "amount": 3}, {"item": "zivo", "amount": 20}, {"item": "menugonium", "amount": 8}], "research": "foze-conduit", "category": "liquid", "liquidCapacity": 11835, "hasLiquids": true}

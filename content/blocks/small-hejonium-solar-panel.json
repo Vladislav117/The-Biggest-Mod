@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hejonium solar panel", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "hejonium", "amount": 14}, {"item": "faky", "amount": 2}, {"item": "xapa", "amount": 2}], "research": "hejonium-factory", "powerProduction": 4.746151501772922, "category": "power"}

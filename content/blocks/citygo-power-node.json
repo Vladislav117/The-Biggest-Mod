@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "citygo power node", "description": "...", "size": 2, "health": 344, "requirements": [{"item": "citygo", "amount": 6}, {"item": "gahe", "amount": 16}, {"item": "hygili", "amount": 5}], "research": "citygo-factory", "maxNodes": 26, "laserRange": 18, "category": "power"}

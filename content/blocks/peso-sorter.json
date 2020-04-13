@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "peso sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "peso", "amount": 1}, {"item": "qoki", "amount": 1}], "research": "peso-conveyor", "category": "distribution", "invert": false}

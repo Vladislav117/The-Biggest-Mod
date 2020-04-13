@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "solumo conduit", "description": "...", "health": 142, "requirements": [{"item": "solumo", "amount": 4}, {"item": "wywile", "amount": 12}, {"item": "zygebynium", "amount": 4}], "liquidCapacity": 22, "liquidPressure": 0, "research": "solumo-factory", "category": "liquid"}

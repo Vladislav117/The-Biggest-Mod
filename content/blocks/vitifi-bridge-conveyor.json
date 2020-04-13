@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vitifi bridge conveyor", "description": "", "health": 43, "range": 3, "speed": 19, "bufferCapacity": 12, "requirements": [{"item": "vitifi", "amount": 3}, {"item": "neloto", "amount": 3}], "research": "vitifi-conveyor", "category": "distribution", "size": 1}

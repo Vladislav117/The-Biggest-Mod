@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "vykynium conveyor", "description": "...", "health": 45, "requirements": [{"item": "vykynium", "amount": 3}, {"item": "ryzote", "amount": 7}], "speed": 0.14022943435233248, "research": "vykynium-factory", "category": "distribution"}

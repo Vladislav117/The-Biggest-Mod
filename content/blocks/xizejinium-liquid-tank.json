@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xizejinium liquid tank", "description": "...", "health": 498, "size": 3, "requirements": [{"item": "xizejinium", "amount": 13}, {"item": "takyhonium", "amount": 9}, {"item": "qowepa", "amount": 3}], "research": "xizejinium-conduit", "category": "liquid", "liquidCapacity": 22320, "hasLiquids": true}

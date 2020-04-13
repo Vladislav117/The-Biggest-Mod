@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nudo battery", "description": "...", "size": 3, "health": 287, "requirements": [{"item": "nudo", "amount": 8}, {"item": "wace", "amount": 4}, {"item": "yuqy", "amount": 6}], "research": "nudo-factory", "consumes": {"powerBuffered": 1604}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wyqu junction", "description": "...", "health": 26, "speed": 12, "capacity": 7, "size": 1, "requirements": [{"item": "wyqu", "amount": 5}, {"item": "lugepa", "amount": 2}], "research": "wyqu-conveyor", "category": "distribution"}

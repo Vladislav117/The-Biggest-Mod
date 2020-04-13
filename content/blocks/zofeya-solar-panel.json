@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zofeya solar panel", "description": "...", "size": 3, "health": 69, "requirements": [{"item": "zofeya", "amount": 18}, {"item": "yeli", "amount": 14}, {"item": "jerywo", "amount": 8}], "research": "zofeya-factory", "powerProduction": 0.0060492658196098885, "category": "power"}

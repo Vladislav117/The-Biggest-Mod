@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "teya conduit", "description": "...", "health": 180, "requirements": [{"item": "teya", "amount": 18}, {"item": "dimumi", "amount": 9}, {"item": "cetonium", "amount": 2}], "liquidCapacity": 4, "liquidPressure": 7, "research": "teya-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "muby battery", "description": "...", "size": 3, "health": 272, "requirements": [{"item": "muby", "amount": 13}, {"item": "tezila", "amount": 13}, {"item": "viqamo", "amount": 9}], "research": "muby-factory", "consumes": {"powerBuffered": 5052}, "category": "power"}

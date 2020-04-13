@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jyya bridge conveyor", "description": "", "health": 12, "range": 7, "speed": 2, "bufferCapacity": 8, "requirements": [{"item": "jyya", "amount": 5}, {"item": "kewawa", "amount": 5}], "research": "jyya-conveyor", "category": "distribution", "size": 1}

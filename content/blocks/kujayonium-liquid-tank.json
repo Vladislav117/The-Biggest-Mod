@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kujayonium liquid tank", "description": "...", "health": 284, "size": 3, "requirements": [{"item": "kujayonium", "amount": 3}, {"item": "peze", "amount": 1}, {"item": "vyfyci", "amount": 3}], "research": "kujayonium-conduit", "category": "liquid", "liquidCapacity": 79485, "hasLiquids": true}

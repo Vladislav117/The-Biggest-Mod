@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gorurenium power node", "description": "...", "size": 1, "health": 121, "requirements": [{"item": "gorurenium", "amount": 8}, {"item": "byqi", "amount": 14}, {"item": "sigu", "amount": 1}], "research": "gorurenium-factory", "maxNodes": 13, "laserRange": 16, "category": "power"}

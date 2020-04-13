@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hyxy sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "hyxy", "amount": 5}, {"item": "pele", "amount": 1}], "research": "hyxy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tabi liquid tank", "description": "...", "health": 482, "size": 3, "requirements": [{"item": "tabi", "amount": 13}, {"item": "wuqosenium", "amount": 8}, {"item": "lebo", "amount": 8}], "research": "tabi-conduit", "category": "liquid", "liquidCapacity": 91998, "hasLiquids": true}

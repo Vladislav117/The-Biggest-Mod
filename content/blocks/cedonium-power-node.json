@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cedonium power node", "description": "...", "size": 2, "health": 126, "requirements": [{"item": "cedonium", "amount": 14}, {"item": "xyko", "amount": 2}, {"item": "heso", "amount": 4}], "research": "cedonium-factory", "maxNodes": 58, "laserRange": 22, "category": "power"}

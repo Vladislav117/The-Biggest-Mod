@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lyvewenium liquid tank", "description": "...", "health": 609, "size": 3, "requirements": [{"item": "lyvewenium", "amount": 12}, {"item": "lynaly", "amount": 7}, {"item": "najy", "amount": 10}], "research": "lyvewenium-conduit", "category": "liquid", "liquidCapacity": 24658, "hasLiquids": true}

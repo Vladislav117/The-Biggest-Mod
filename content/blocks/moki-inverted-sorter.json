@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "moki inverted sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "moki", "amount": 5}, {"item": "vupofy", "amount": 1}], "research": "moki-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kipiyenium junction", "description": "...", "health": 2, "speed": 20, "capacity": 12, "size": 1, "requirements": [{"item": "kipiyenium", "amount": 1}, {"item": "vyqosi", "amount": 2}], "research": "kipiyenium-conveyor", "category": "distribution"}

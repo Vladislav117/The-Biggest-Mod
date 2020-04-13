@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yidako solar panel", "description": "...", "size": 3, "health": 202, "requirements": [{"item": "yidako", "amount": 6}, {"item": "nixigunium", "amount": 10}, {"item": "xujo", "amount": 7}], "research": "yidako-factory", "powerProduction": 0.1286887763617473, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "roca conduit", "description": "...", "health": 60, "requirements": [{"item": "roca", "amount": 9}, {"item": "xasahu", "amount": 15}, {"item": "mijinium", "amount": 4}], "liquidCapacity": 9, "liquidPressure": 1, "research": "roca-factory", "category": "liquid"}

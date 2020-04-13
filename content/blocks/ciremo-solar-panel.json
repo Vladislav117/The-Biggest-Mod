@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ciremo solar panel", "description": "...", "size": 3, "health": 84, "requirements": [{"item": "ciremo", "amount": 17}, {"item": "gunery", "amount": 15}, {"item": "nimi", "amount": 6}], "research": "ciremo-factory", "powerProduction": 0.9962684859320783, "category": "power"}

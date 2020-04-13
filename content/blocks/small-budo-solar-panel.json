@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small budo solar panel", "description": "...", "size": 1, "health": 173, "requirements": [{"item": "budo", "amount": 14}, {"item": "heke", "amount": 13}, {"item": "zygebynium", "amount": 10}], "research": "budo-factory", "powerProduction": 0.452083096189981, "category": "power"}

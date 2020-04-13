@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nimynium liquid router", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "nimynium", "amount": 18}, {"item": "holy", "amount": 20}, {"item": "neminium", "amount": 2}], "research": "nimynium-conduit", "liquidCapacity": 10, "category": "liquid"}

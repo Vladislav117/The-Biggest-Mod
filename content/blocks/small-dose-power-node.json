@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dose power node", "description": "...", "size": 1, "health": 148, "requirements": [{"item": "dose", "amount": 15}, {"item": "wahape", "amount": 12}, {"item": "cupyvu", "amount": 4}], "research": "dose-factory", "maxNodes": 8, "laserRange": 22, "category": "power"}

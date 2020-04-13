@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small minuna battery", "description": "...", "size": 1, "health": 276, "requirements": [{"item": "minuna", "amount": 6}, {"item": "cevu", "amount": 13}, {"item": "qyryyunium", "amount": 9}], "research": "minuna-factory", "consumes": {"powerBuffered": 1752}, "category": "power"}

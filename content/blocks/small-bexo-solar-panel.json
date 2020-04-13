@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bexo solar panel", "description": "...", "size": 1, "health": 389, "requirements": [{"item": "bexo", "amount": 14}, {"item": "fuda", "amount": 18}, {"item": "tabo", "amount": 5}], "research": "bexo-factory", "powerProduction": 0.18601744622289298, "category": "power"}

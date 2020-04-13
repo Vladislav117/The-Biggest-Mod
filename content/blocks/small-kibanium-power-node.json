@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kibanium power node", "description": "...", "size": 1, "health": 163, "requirements": [{"item": "kibanium", "amount": 4}, {"item": "jiry", "amount": 12}, {"item": "dywo", "amount": 7}], "research": "kibanium-factory", "maxNodes": 4, "laserRange": 5, "category": "power"}

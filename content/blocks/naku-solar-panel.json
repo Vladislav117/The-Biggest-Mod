@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "naku solar panel", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "naku", "amount": 13}, {"item": "lynulo", "amount": 14}, {"item": "coqinium", "amount": 4}], "research": "naku-factory", "powerProduction": 1.2350313061258582, "category": "power"}

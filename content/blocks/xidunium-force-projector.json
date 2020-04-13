@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "xidunium force projector", "description": "...", "health": 176, "size": 3, "consumes": {"power": 5.0, "item": "xidunium"}, "requirements": [{"item": "xidunium", "amount": 16}, {"item": "vate", "amount": 9}, {"item": "lebo", "amount": 4}], "research": "xidunium-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "baguyu battery", "description": "...", "size": 3, "health": 93, "requirements": [{"item": "baguyu", "amount": 18}, {"item": "qepyvonium", "amount": 9}, {"item": "qudy", "amount": 9}], "research": "baguyu-factory", "consumes": {"powerBuffered": 5404}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nivifu junction", "description": "...", "health": 11, "speed": 17, "capacity": 13, "size": 1, "requirements": [{"item": "nivifu", "amount": 5}, {"item": "xycaqunium", "amount": 2}], "research": "nivifu-conveyor", "category": "distribution"}

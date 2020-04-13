@@ -1,0 +1,1 @@
+{"type": "junction", "name": "weziho junction", "description": "...", "health": 2, "speed": 1, "capacity": 19, "size": 1, "requirements": [{"item": "weziho", "amount": 5}, {"item": "takyhonium", "amount": 2}], "research": "weziho-conveyor", "category": "distribution"}

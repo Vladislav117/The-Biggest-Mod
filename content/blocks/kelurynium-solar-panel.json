@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kelurynium solar panel", "description": "...", "size": 3, "health": 359, "requirements": [{"item": "kelurynium", "amount": 20}, {"item": "jylovo", "amount": 19}, {"item": "migube", "amount": 3}], "research": "kelurynium-factory", "powerProduction": 1.0717864010966682, "category": "power"}

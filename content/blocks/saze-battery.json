@@ -1,0 +1,1 @@
+{"type": "battery", "name": "saze battery", "description": "...", "size": 3, "health": 170, "requirements": [{"item": "saze", "amount": 3}, {"item": "zilida", "amount": 10}, {"item": "reqoxu", "amount": 7}], "research": "saze-factory", "consumes": {"powerBuffered": 2406}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qizi solar panel", "description": "...", "size": 1, "health": 283, "requirements": [{"item": "qizi", "amount": 14}, {"item": "bomu", "amount": 6}, {"item": "qiloka", "amount": 9}], "research": "qizi-factory", "powerProduction": 0.5382006988550501, "category": "power"}

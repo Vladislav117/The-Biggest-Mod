@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "limiza inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "limiza", "amount": 4}, {"item": "tivy", "amount": 4}], "research": "limiza-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yypefa junction", "description": "...", "health": 43, "speed": 20, "capacity": 11, "size": 1, "requirements": [{"item": "yypefa", "amount": 5}, {"item": "taja", "amount": 4}], "research": "yypefa-conveyor", "category": "distribution"}

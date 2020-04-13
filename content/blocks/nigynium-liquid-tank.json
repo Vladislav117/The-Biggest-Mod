@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nigynium liquid tank", "description": "...", "health": 356, "size": 3, "requirements": [{"item": "nigynium", "amount": 7}, {"item": "vigyqinium", "amount": 5}, {"item": "dukyfe", "amount": 2}], "research": "nigynium-conduit", "category": "liquid", "liquidCapacity": 10297, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kupanium inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "kupanium", "amount": 2}, {"item": "yuhy", "amount": 4}], "research": "kupanium-conveyor", "category": "distribution", "invert": true}

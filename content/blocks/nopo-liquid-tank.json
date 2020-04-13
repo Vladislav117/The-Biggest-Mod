@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nopo liquid tank", "description": "...", "health": 160, "size": 3, "requirements": [{"item": "nopo", "amount": 3}, {"item": "tiyajo", "amount": 11}, {"item": "tivepa", "amount": 4}], "research": "nopo-conduit", "category": "liquid", "liquidCapacity": 78703, "hasLiquids": true}

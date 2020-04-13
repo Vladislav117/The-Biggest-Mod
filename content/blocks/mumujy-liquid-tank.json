@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mumujy liquid tank", "description": "...", "health": 620, "size": 3, "requirements": [{"item": "mumujy", "amount": 18}, {"item": "wypu", "amount": 8}, {"item": "risusy", "amount": 2}], "research": "mumujy-conduit", "category": "liquid", "liquidCapacity": 9836, "hasLiquids": true}

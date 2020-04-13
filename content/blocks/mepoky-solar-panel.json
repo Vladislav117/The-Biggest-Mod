@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mepoky solar panel", "description": "...", "size": 3, "health": 287, "requirements": [{"item": "mepoky", "amount": 4}, {"item": "tugi", "amount": 4}, {"item": "pero", "amount": 1}], "research": "mepoky-factory", "powerProduction": 3.028172461775555, "category": "power"}

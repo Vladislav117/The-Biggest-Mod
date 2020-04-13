@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "guliyu sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "guliyu", "amount": 2}, {"item": "yebyte", "amount": 5}], "research": "guliyu-conveyor", "category": "distribution", "invert": false}

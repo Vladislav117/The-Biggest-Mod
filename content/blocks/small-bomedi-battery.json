@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bomedi battery", "description": "...", "size": 1, "health": 316, "requirements": [{"item": "bomedi", "amount": 1}, {"item": "lymo", "amount": 1}, {"item": "xicopo", "amount": 10}], "research": "bomedi-factory", "consumes": {"powerBuffered": 2076}, "category": "power"}

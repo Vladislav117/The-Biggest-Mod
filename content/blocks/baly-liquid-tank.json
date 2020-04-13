@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "baly liquid tank", "description": "...", "health": 534, "size": 3, "requirements": [{"item": "baly", "amount": 17}, {"item": "rale", "amount": 8}, {"item": "qixu", "amount": 1}], "research": "baly-conduit", "category": "liquid", "liquidCapacity": 100845, "hasLiquids": true}

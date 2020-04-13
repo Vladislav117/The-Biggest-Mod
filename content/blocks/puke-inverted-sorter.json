@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "puke inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "puke", "amount": 1}, {"item": "terepy", "amount": 2}], "research": "puke-conveyor", "category": "distribution", "invert": true}

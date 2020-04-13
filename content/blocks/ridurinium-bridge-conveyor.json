@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ridurinium bridge conveyor", "description": "", "health": 49, "range": 7, "speed": 3, "bufferCapacity": 22, "requirements": [{"item": "ridurinium", "amount": 1}, {"item": "hujy", "amount": 5}], "research": "ridurinium-conveyor", "category": "distribution", "size": 1}

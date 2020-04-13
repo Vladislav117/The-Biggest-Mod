@@ -1,0 +1,1 @@
+{"type": "junction", "name": "puwasy junction", "description": "...", "health": 24, "speed": 11, "capacity": 18, "size": 1, "requirements": [{"item": "puwasy", "amount": 3}, {"item": "kype", "amount": 1}], "research": "puwasy-conveyor", "category": "distribution"}

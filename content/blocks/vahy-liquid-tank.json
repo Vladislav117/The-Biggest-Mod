@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vahy liquid tank", "description": "...", "health": 308, "size": 3, "requirements": [{"item": "vahy", "amount": 1}, {"item": "boqi", "amount": 19}, {"item": "nifego", "amount": 4}], "research": "vahy-conduit", "category": "liquid", "liquidCapacity": 112727, "hasLiquids": true}

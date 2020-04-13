@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pugi battery", "description": "...", "size": 1, "health": 393, "requirements": [{"item": "pugi", "amount": 5}, {"item": "vulu", "amount": 8}, {"item": "baquyo", "amount": 4}], "research": "pugi-factory", "consumes": {"powerBuffered": 2021}, "category": "power"}

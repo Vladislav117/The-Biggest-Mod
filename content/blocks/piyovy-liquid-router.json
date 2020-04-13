@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "piyovy liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "piyovy", "amount": 13}, {"item": "docyya", "amount": 13}, {"item": "goku", "amount": 7}], "research": "piyovy-conduit", "liquidCapacity": 10, "category": "liquid"}

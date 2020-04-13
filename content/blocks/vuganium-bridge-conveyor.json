@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vuganium bridge conveyor", "description": "", "health": 50, "range": 16, "speed": 12, "bufferCapacity": 17, "requirements": [{"item": "vuganium", "amount": 1}, {"item": "vodynium", "amount": 4}], "research": "vuganium-conveyor", "category": "distribution", "size": 1}

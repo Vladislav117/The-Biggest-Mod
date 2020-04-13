@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pafyvi underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "pafyvi", "amount": 1}, {"item": "guha", "amount": 1}], "research": "pafyvi-conveyor", "category": "distribution", "invert": false}

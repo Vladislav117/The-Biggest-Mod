@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vabenium battery", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "vabenium", "amount": 7}, {"item": "nyli", "amount": 17}, {"item": "nogosy", "amount": 10}], "research": "vabenium-factory", "consumes": {"powerBuffered": 1730}, "category": "power"}

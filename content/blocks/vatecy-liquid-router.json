@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vatecy liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "vatecy", "amount": 6}, {"item": "lygynium", "amount": 6}, {"item": "zuvy", "amount": 4}], "research": "vatecy-conduit", "liquidCapacity": 10, "category": "liquid"}

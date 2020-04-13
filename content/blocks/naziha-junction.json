@@ -1,0 +1,1 @@
+{"type": "junction", "name": "naziha junction", "description": "...", "health": 17, "speed": 9, "capacity": 6, "size": 1, "requirements": [{"item": "naziha", "amount": 3}, {"item": "sukedu", "amount": 2}], "research": "naziha-conveyor", "category": "distribution"}

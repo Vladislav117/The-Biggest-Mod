@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yuqu liquid router", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "yuqu", "amount": 3}, {"item": "cysobe", "amount": 18}, {"item": "dabi", "amount": 1}], "research": "yuqu-conduit", "liquidCapacity": 10, "category": "liquid"}

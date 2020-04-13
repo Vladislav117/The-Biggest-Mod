@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lygynium solar panel", "description": "...", "size": 1, "health": 245, "requirements": [{"item": "lygynium", "amount": 18}, {"item": "jycepynium", "amount": 7}, {"item": "pohyva", "amount": 7}], "research": "lygynium-factory", "powerProduction": 2.2176047794730076, "category": "power"}

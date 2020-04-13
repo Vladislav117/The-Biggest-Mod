@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yinuze drill", "description": "...", "size": 2, "health": 292, "tier": 2, "drillTime": 16, "consumes": {"power": 8}, "requirements": [{"item": "yinuze", "amount": 19}, {"item": "wyri", "amount": 10}, {"item": "laso", "amount": 4}], "research": "yinuze-factory", "category": "production"}

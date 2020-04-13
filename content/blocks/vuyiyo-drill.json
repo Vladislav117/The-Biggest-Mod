@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vuyiyo drill", "description": "...", "size": 2, "health": 383, "tier": 3, "drillTime": 3, "consumes": {"power": 17}, "requirements": [{"item": "vuyiyo", "amount": 6}, {"item": "rapenium", "amount": 19}, {"item": "reno", "amount": 7}], "research": "vuyiyo-factory", "category": "production"}

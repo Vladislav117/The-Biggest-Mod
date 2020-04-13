@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yajawa battery", "description": "...", "size": 1, "health": 151, "requirements": [{"item": "yajawa", "amount": 1}, {"item": "jayi", "amount": 10}, {"item": "lyceca", "amount": 5}], "research": "yajawa-factory", "consumes": {"powerBuffered": 2671}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "risi liquid tank", "description": "...", "health": 492, "size": 3, "requirements": [{"item": "risi", "amount": 8}, {"item": "nulinium", "amount": 15}, {"item": "nora", "amount": 9}], "research": "risi-conduit", "category": "liquid", "liquidCapacity": 40627, "hasLiquids": true}

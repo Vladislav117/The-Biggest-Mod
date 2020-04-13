@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small julu battery", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "julu", "amount": 16}, {"item": "zele", "amount": 7}, {"item": "cetobu", "amount": 10}], "research": "julu-factory", "consumes": {"powerBuffered": 410}, "category": "power"}

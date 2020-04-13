@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "holepinium liquid tank", "description": "...", "health": 657, "size": 3, "requirements": [{"item": "holepinium", "amount": 10}, {"item": "zyqita", "amount": 1}, {"item": "cokyqo", "amount": 3}], "research": "holepinium-conduit", "category": "liquid", "liquidCapacity": 60283, "hasLiquids": true}

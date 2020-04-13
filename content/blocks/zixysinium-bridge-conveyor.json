@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zixysinium bridge conveyor", "description": "", "health": 49, "range": 16, "speed": 15, "bufferCapacity": 8, "requirements": [{"item": "zixysinium", "amount": 1}, {"item": "wuronium", "amount": 2}], "research": "zixysinium-conveyor", "category": "distribution", "size": 1}

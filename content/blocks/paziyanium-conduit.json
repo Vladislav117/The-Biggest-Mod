@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "paziyanium conduit", "description": "...", "health": 151, "requirements": [{"item": "paziyanium", "amount": 19}, {"item": "duvi", "amount": 3}, {"item": "yyle", "amount": 3}], "liquidCapacity": 30, "liquidPressure": 7, "research": "paziyanium-factory", "category": "liquid"}

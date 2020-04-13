@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pyzoqo liquid router", "description": "...", "size": 1, "health": 40, "requirements": [{"item": "pyzoqo", "amount": 8}, {"item": "nacefa", "amount": 20}, {"item": "kibanium", "amount": 4}], "research": "pyzoqo-conduit", "liquidCapacity": 10, "category": "liquid"}

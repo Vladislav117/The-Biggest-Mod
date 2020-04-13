@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dala junction", "description": "...", "health": 14, "speed": 14, "capacity": 15, "size": 1, "requirements": [{"item": "dala", "amount": 1}, {"item": "turuky", "amount": 5}], "research": "dala-conveyor", "category": "distribution"}

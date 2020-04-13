@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyyotinium liquid tank", "description": "...", "health": 374, "size": 3, "requirements": [{"item": "kyyotinium", "amount": 8}, {"item": "yiru", "amount": 10}, {"item": "dipy", "amount": 4}], "research": "kyyotinium-conduit", "category": "liquid", "liquidCapacity": 63303, "hasLiquids": true}

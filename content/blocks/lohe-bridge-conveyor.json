@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lohe bridge conveyor", "description": "", "health": 16, "range": 13, "speed": 14, "bufferCapacity": 14, "requirements": [{"item": "lohe", "amount": 1}, {"item": "ryho", "amount": 4}], "research": "lohe-conveyor", "category": "distribution", "size": 1}

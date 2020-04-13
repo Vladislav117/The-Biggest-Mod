@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small miyaxanium solar panel", "description": "...", "size": 1, "health": 54, "requirements": [{"item": "miyaxanium", "amount": 16}, {"item": "sidu", "amount": 4}, {"item": "qigybynium", "amount": 1}], "research": "miyaxanium-factory", "powerProduction": 0.8469779505697421, "category": "power"}

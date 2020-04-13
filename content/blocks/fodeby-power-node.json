@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fodeby power node", "description": "...", "size": 2, "health": 102, "requirements": [{"item": "fodeby", "amount": 7}, {"item": "yofonium", "amount": 10}, {"item": "safe", "amount": 7}], "research": "fodeby-factory", "maxNodes": 35, "laserRange": 16, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zyhebe solar panel", "description": "...", "size": 3, "health": 391, "requirements": [{"item": "zyhebe", "amount": 2}, {"item": "mufosinium", "amount": 16}, {"item": "cyqunium", "amount": 9}], "research": "zyhebe-factory", "powerProduction": 0.00116599881378469, "category": "power"}

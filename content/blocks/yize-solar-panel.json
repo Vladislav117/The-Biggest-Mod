@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yize solar panel", "description": "...", "size": 3, "health": 393, "requirements": [{"item": "yize", "amount": 14}, {"item": "jilunium", "amount": 15}, {"item": "tomufa", "amount": 5}], "research": "yize-factory", "powerProduction": 0.12687501411925448, "category": "power"}

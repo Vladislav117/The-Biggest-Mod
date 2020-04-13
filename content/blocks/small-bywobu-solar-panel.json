@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bywobu solar panel", "description": "...", "size": 1, "health": 208, "requirements": [{"item": "bywobu", "amount": 11}, {"item": "wana", "amount": 5}, {"item": "hyryhinium", "amount": 4}], "research": "bywobu-factory", "powerProduction": 1.0484605148896644, "category": "power"}

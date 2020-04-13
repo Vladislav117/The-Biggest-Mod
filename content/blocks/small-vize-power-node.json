@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vize power node", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "vize", "amount": 14}, {"item": "nufuponium", "amount": 2}, {"item": "duginium", "amount": 8}], "research": "vize-factory", "maxNodes": 11, "laserRange": 9, "category": "power"}

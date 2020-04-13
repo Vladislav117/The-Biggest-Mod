@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small toku power node", "description": "...", "size": 1, "health": 215, "requirements": [{"item": "toku", "amount": 2}, {"item": "nimawo", "amount": 16}, {"item": "lypoje", "amount": 5}], "research": "toku-factory", "maxNodes": 16, "laserRange": 14, "category": "power"}

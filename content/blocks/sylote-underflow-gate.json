@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sylote underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "sylote", "amount": 5}, {"item": "vuru", "amount": 2}], "research": "sylote-conveyor", "category": "distribution", "invert": false}

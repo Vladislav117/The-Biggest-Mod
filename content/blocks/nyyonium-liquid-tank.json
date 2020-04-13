@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nyyonium liquid tank", "description": "...", "health": 144, "size": 3, "requirements": [{"item": "nyyonium", "amount": 19}, {"item": "dyqasy", "amount": 9}, {"item": "yocoke", "amount": 10}], "research": "nyyonium-conduit", "category": "liquid", "liquidCapacity": 43259, "hasLiquids": true}

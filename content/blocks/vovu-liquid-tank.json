@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vovu liquid tank", "description": "...", "health": 638, "size": 3, "requirements": [{"item": "vovu", "amount": 8}, {"item": "seyuwa", "amount": 16}, {"item": "cyqunium", "amount": 7}], "research": "vovu-conduit", "category": "liquid", "liquidCapacity": 88007, "hasLiquids": true}

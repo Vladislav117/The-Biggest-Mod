@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gone battery", "description": "...", "size": 1, "health": 305, "requirements": [{"item": "gone", "amount": 6}, {"item": "rale", "amount": 18}, {"item": "qicu", "amount": 6}], "research": "gone-factory", "consumes": {"powerBuffered": 1590}, "category": "power"}

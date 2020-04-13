@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tagawe overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "tagawe", "amount": 4}, {"item": "cudy", "amount": 2}], "research": "tagawe-conveyor", "category": "distribution", "invert": false}

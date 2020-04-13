@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tosuzy liquid tank", "description": "...", "health": 486, "size": 3, "requirements": [{"item": "tosuzy", "amount": 16}, {"item": "kaqa", "amount": 4}, {"item": "fopo", "amount": 5}], "research": "tosuzy-conduit", "category": "liquid", "liquidCapacity": 76852, "hasLiquids": true}

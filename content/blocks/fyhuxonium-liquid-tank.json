@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fyhuxonium liquid tank", "description": "...", "health": 652, "size": 3, "requirements": [{"item": "fyhuxonium", "amount": 20}, {"item": "gupyfi", "amount": 6}, {"item": "kosonium", "amount": 10}], "research": "fyhuxonium-conduit", "category": "liquid", "liquidCapacity": 96550, "hasLiquids": true}

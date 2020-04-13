@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xyrumo battery", "description": "...", "size": 3, "health": 239, "requirements": [{"item": "xyrumo", "amount": 10}, {"item": "xiga", "amount": 3}, {"item": "linu", "amount": 10}], "research": "xyrumo-factory", "consumes": {"powerBuffered": 7591}, "category": "power"}

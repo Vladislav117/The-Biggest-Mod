@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyronium liquid tank", "description": "...", "health": 532, "size": 3, "requirements": [{"item": "kyronium", "amount": 7}, {"item": "gula", "amount": 5}, {"item": "lalubo", "amount": 1}], "research": "kyronium-conduit", "category": "liquid", "liquidCapacity": 49249, "hasLiquids": true}

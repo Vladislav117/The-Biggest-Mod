@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tanaxi battery", "description": "...", "size": 3, "health": 115, "requirements": [{"item": "tanaxi", "amount": 18}, {"item": "huqiby", "amount": 5}, {"item": "mucige", "amount": 4}], "research": "tanaxi-factory", "consumes": {"powerBuffered": 4594}, "category": "power"}

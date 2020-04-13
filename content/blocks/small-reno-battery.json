@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small reno battery", "description": "...", "size": 1, "health": 263, "requirements": [{"item": "reno", "amount": 14}, {"item": "wicy", "amount": 17}, {"item": "lufe", "amount": 8}], "research": "reno-factory", "consumes": {"powerBuffered": 1077}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mimyva battery", "description": "...", "size": 3, "health": 95, "requirements": [{"item": "mimyva", "amount": 1}, {"item": "tiwyna", "amount": 5}, {"item": "cepi", "amount": 7}], "research": "mimyva-factory", "consumes": {"powerBuffered": 1422}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hezinium liquid tank", "description": "...", "health": 320, "size": 3, "requirements": [{"item": "hezinium", "amount": 14}, {"item": "zekaru", "amount": 7}, {"item": "reju", "amount": 10}], "research": "hezinium-conduit", "category": "liquid", "liquidCapacity": 100420, "hasLiquids": true}

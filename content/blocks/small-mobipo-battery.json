@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mobipo battery", "description": "...", "size": 1, "health": 222, "requirements": [{"item": "mobipo", "amount": 9}, {"item": "pezale", "amount": 8}, {"item": "yyno", "amount": 8}], "research": "mobipo-factory", "consumes": {"powerBuffered": 2797}, "category": "power"}

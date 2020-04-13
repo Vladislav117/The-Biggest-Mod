@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nacefa conduit", "description": "...", "health": 68, "requirements": [{"item": "nacefa", "amount": 13}, {"item": "fumena", "amount": 2}, {"item": "pydudanium", "amount": 10}], "liquidCapacity": 32, "liquidPressure": 3, "research": "nacefa-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cidenium inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "cidenium", "amount": 3}, {"item": "jyzywy", "amount": 1}], "research": "cidenium-conveyor", "category": "distribution", "invert": true}

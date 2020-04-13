@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vecifu conduit", "description": "...", "health": 80, "requirements": [{"item": "vecifu", "amount": 10}, {"item": "dose", "amount": 12}, {"item": "huwydy", "amount": 6}], "liquidCapacity": 9, "liquidPressure": 2, "research": "vecifu-factory", "category": "liquid"}

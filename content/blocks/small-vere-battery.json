@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vere battery", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "vere", "amount": 2}, {"item": "siwyqo", "amount": 1}, {"item": "qera", "amount": 5}], "research": "vere-factory", "consumes": {"powerBuffered": 740}, "category": "power"}

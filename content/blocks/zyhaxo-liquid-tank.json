@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyhaxo liquid tank", "description": "...", "health": 417, "size": 3, "requirements": [{"item": "zyhaxo", "amount": 2}, {"item": "xybi", "amount": 10}, {"item": "zugoni", "amount": 3}], "research": "zyhaxo-conduit", "category": "liquid", "liquidCapacity": 115762, "hasLiquids": true}

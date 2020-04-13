@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "joqopy liquid tank", "description": "...", "health": 307, "size": 3, "requirements": [{"item": "joqopy", "amount": 16}, {"item": "padopu", "amount": 3}, {"item": "xinodunium", "amount": 5}], "research": "joqopy-conduit", "category": "liquid", "liquidCapacity": 113141, "hasLiquids": true}

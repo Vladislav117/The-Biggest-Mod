@@ -1,0 +1,1 @@
+{"type": "battery", "name": "giyu battery", "description": "...", "size": 3, "health": 77, "requirements": [{"item": "giyu", "amount": 17}, {"item": "cuwehy", "amount": 8}, {"item": "yijotu", "amount": 2}], "research": "giyu-factory", "consumes": {"powerBuffered": 4779}, "category": "power"}

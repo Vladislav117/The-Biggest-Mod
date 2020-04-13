@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dawe conduit", "description": "...", "health": 140, "requirements": [{"item": "dawe", "amount": 17}, {"item": "qayanium", "amount": 8}, {"item": "xekocanium", "amount": 3}], "liquidCapacity": 44, "liquidPressure": 7, "research": "dawe-factory", "category": "liquid"}

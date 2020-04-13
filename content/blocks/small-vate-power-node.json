@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vate power node", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "vate", "amount": 15}, {"item": "hofa", "amount": 17}, {"item": "muremi", "amount": 9}], "research": "vate-factory", "maxNodes": 3, "laserRange": 18, "category": "power"}

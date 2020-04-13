@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "datijenium bridge conveyor", "description": "", "health": 37, "range": 4, "speed": 6, "bufferCapacity": 9, "requirements": [{"item": "datijenium", "amount": 5}, {"item": "tozuza", "amount": 2}], "research": "datijenium-conveyor", "category": "distribution", "size": 1}

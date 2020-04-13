@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "simiwi overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "simiwi", "amount": 2}, {"item": "qyryyunium", "amount": 4}], "research": "simiwi-conveyor", "category": "distribution", "invert": false}

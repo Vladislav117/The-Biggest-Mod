@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "befe liquid tank", "description": "...", "health": 425, "size": 3, "requirements": [{"item": "befe", "amount": 13}, {"item": "depy", "amount": 19}, {"item": "vyma", "amount": 6}], "research": "befe-conduit", "category": "liquid", "liquidCapacity": 106275, "hasLiquids": true}

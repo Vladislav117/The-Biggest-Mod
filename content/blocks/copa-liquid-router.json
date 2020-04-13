@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "copa liquid router", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "copa", "amount": 10}, {"item": "yisupe", "amount": 13}, {"item": "yeyunonium", "amount": 10}], "research": "copa-conduit", "liquidCapacity": 10, "category": "liquid"}

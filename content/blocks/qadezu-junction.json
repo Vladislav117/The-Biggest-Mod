@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qadezu junction", "description": "...", "health": 31, "speed": 8, "capacity": 19, "size": 1, "requirements": [{"item": "qadezu", "amount": 3}, {"item": "zocela", "amount": 5}], "research": "qadezu-conveyor", "category": "distribution"}

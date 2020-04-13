@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kasaxe inverted sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "kasaxe", "amount": 2}, {"item": "jihi", "amount": 1}], "research": "kasaxe-conveyor", "category": "distribution", "invert": true}

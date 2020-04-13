@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lubaco solar panel", "description": "...", "size": 3, "health": 81, "requirements": [{"item": "lubaco", "amount": 1}, {"item": "jayycu", "amount": 19}, {"item": "vykuzo", "amount": 10}], "research": "lubaco-factory", "powerProduction": 0.6048405964858047, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wisipu power node", "description": "...", "size": 2, "health": 112, "requirements": [{"item": "wisipu", "amount": 17}, {"item": "nyboye", "amount": 6}, {"item": "runohy", "amount": 9}], "research": "wisipu-factory", "maxNodes": 43, "laserRange": 26, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pami drill", "description": "...", "size": 2, "health": 258, "tier": 4, "drillTime": 17, "consumes": {"power": 8}, "requirements": [{"item": "pami", "amount": 7}, {"item": "hysobe", "amount": 7}, {"item": "gyporu", "amount": 4}], "research": "pami-factory", "category": "production"}

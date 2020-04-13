@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qaranium liquid router", "description": "...", "size": 1, "health": 77, "requirements": [{"item": "qaranium", "amount": 1}, {"item": "syxidonium", "amount": 3}, {"item": "zokiry", "amount": 3}], "research": "qaranium-conduit", "liquidCapacity": 10, "category": "liquid"}

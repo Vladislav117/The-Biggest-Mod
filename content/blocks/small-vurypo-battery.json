@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vurypo battery", "description": "...", "size": 1, "health": 33, "requirements": [{"item": "vurypo", "amount": 4}, {"item": "ragoku", "amount": 9}, {"item": "yepy", "amount": 2}], "research": "vurypo-factory", "consumes": {"powerBuffered": 2836}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wehube bridge conveyor", "description": "", "health": 12, "range": 19, "speed": 19, "bufferCapacity": 9, "requirements": [{"item": "wehube", "amount": 4}, {"item": "wimu", "amount": 3}], "research": "wehube-conveyor", "category": "distribution", "size": 1}

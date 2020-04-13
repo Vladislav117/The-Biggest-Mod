@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mytati battery", "description": "...", "size": 1, "health": 379, "requirements": [{"item": "mytati", "amount": 1}, {"item": "ranoxinium", "amount": 18}, {"item": "biqa", "amount": 9}], "research": "mytati-factory", "consumes": {"powerBuffered": 1654}, "category": "power"}

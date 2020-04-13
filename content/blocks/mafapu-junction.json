@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mafapu junction", "description": "...", "health": 43, "speed": 2, "capacity": 7, "size": 1, "requirements": [{"item": "mafapu", "amount": 5}, {"item": "dyme", "amount": 1}], "research": "mafapu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "byqi underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "byqi", "amount": 2}, {"item": "jazy", "amount": 4}], "research": "byqi-conveyor", "category": "distribution", "invert": false}

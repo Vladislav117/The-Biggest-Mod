@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wipori sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "wipori", "amount": 4}, {"item": "fikikanium", "amount": 1}], "research": "wipori-conveyor", "category": "distribution", "invert": false}

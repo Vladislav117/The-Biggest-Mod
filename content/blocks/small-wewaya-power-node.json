@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wewaya power node", "description": "...", "size": 1, "health": 295, "requirements": [{"item": "wewaya", "amount": 20}, {"item": "qypusa", "amount": 17}, {"item": "syyyvo", "amount": 7}], "research": "wewaya-factory", "maxNodes": 8, "laserRange": 20, "category": "power"}

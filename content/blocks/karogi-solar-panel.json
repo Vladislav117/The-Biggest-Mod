@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "karogi solar panel", "description": "...", "size": 3, "health": 218, "requirements": [{"item": "karogi", "amount": 14}, {"item": "jahuxynium", "amount": 3}, {"item": "feguga", "amount": 4}], "research": "karogi-factory", "powerProduction": 2.012182726556409, "category": "power"}

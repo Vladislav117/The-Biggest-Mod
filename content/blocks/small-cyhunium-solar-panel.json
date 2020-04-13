@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cyhunium solar panel", "description": "...", "size": 1, "health": 330, "requirements": [{"item": "cyhunium", "amount": 5}, {"item": "jexanium", "amount": 20}, {"item": "weruqa", "amount": 7}], "research": "cyhunium-factory", "powerProduction": 6.022532630951458, "category": "power"}

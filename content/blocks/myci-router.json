@@ -1,0 +1,1 @@
+{"type": "router", "name": "myci router", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "myci", "amount": 6}], "research": "myci-conveyor", "category": "distribution"}

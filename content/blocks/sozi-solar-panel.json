@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sozi solar panel", "description": "...", "size": 3, "health": 351, "requirements": [{"item": "sozi", "amount": 1}, {"item": "tufi", "amount": 10}, {"item": "wypu", "amount": 1}], "research": "sozi-factory", "powerProduction": 4.280861732251466, "category": "power"}

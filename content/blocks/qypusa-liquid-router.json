@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qypusa liquid router", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "qypusa", "amount": 14}, {"item": "vekile", "amount": 10}, {"item": "kide", "amount": 5}], "research": "qypusa-conduit", "liquidCapacity": 10, "category": "liquid"}

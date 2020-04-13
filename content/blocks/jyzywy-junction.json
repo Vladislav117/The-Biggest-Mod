@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jyzywy junction", "description": "...", "health": 45, "speed": 8, "capacity": 11, "size": 1, "requirements": [{"item": "jyzywy", "amount": 1}, {"item": "kanuya", "amount": 4}], "research": "jyzywy-conveyor", "category": "distribution"}

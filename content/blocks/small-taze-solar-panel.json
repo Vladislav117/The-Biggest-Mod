@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small taze solar panel", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "taze", "amount": 9}, {"item": "qudeya", "amount": 8}, {"item": "codaxe", "amount": 9}], "research": "taze-factory", "powerProduction": 0.012432871396184274, "category": "power"}

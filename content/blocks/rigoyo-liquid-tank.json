@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rigoyo liquid tank", "description": "...", "health": 299, "size": 3, "requirements": [{"item": "rigoyo", "amount": 1}, {"item": "rukycu", "amount": 20}, {"item": "macixy", "amount": 3}], "research": "rigoyo-conduit", "category": "liquid", "liquidCapacity": 20966, "hasLiquids": true}

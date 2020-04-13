@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bipanium power node", "description": "...", "size": 2, "health": 636, "requirements": [{"item": "bipanium", "amount": 8}, {"item": "rakuhy", "amount": 17}, {"item": "keze", "amount": 7}], "research": "bipanium-factory", "maxNodes": 13, "laserRange": 14, "category": "power"}

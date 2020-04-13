@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "pepu force projector", "description": "...", "health": 159, "size": 3, "consumes": {"power": 5.0, "item": "pepu"}, "requirements": [{"item": "pepu", "amount": 15}, {"item": "viwiwinium", "amount": 2}, {"item": "yuqy", "amount": 2}], "research": "pepu-factory", "category": "effect"}

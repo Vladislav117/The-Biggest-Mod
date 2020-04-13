@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mijinium conduit", "description": "...", "health": 46, "requirements": [{"item": "mijinium", "amount": 12}, {"item": "pyci", "amount": 14}, {"item": "liryfa", "amount": 8}], "liquidCapacity": 13, "liquidPressure": 1, "research": "mijinium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lypynium liquid tank", "description": "...", "health": 534, "size": 3, "requirements": [{"item": "lypynium", "amount": 15}, {"item": "vyqosi", "amount": 11}, {"item": "yicenium", "amount": 4}], "research": "lypynium-conduit", "category": "liquid", "liquidCapacity": 18818, "hasLiquids": true}

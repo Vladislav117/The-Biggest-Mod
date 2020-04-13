@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lyxa power node", "description": "...", "size": 1, "health": 366, "requirements": [{"item": "lyxa", "amount": 7}, {"item": "rawywa", "amount": 2}, {"item": "muqonium", "amount": 7}], "research": "lyxa-factory", "maxNodes": 19, "laserRange": 22, "category": "power"}

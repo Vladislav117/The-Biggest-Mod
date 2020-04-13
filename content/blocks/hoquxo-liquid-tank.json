@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hoquxo liquid tank", "description": "...", "health": 549, "size": 3, "requirements": [{"item": "hoquxo", "amount": 12}, {"item": "mytati", "amount": 17}, {"item": "nuci", "amount": 9}], "research": "hoquxo-conduit", "category": "liquid", "liquidCapacity": 33134, "hasLiquids": true}

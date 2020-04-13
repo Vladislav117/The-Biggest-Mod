@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "koli inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "koli", "amount": 4}, {"item": "paba", "amount": 1}], "research": "koli-conveyor", "category": "distribution", "invert": true}

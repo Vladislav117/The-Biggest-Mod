@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small giyafynium battery", "description": "...", "size": 1, "health": 214, "requirements": [{"item": "giyafynium", "amount": 2}, {"item": "jijoyu", "amount": 7}, {"item": "wevaze", "amount": 9}], "research": "giyafynium-factory", "consumes": {"powerBuffered": 2503}, "category": "power"}

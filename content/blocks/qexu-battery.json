@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qexu battery", "description": "...", "size": 3, "health": 159, "requirements": [{"item": "qexu", "amount": 10}, {"item": "vesi", "amount": 7}, {"item": "gyyy", "amount": 7}], "research": "qexu-factory", "consumes": {"powerBuffered": 2508}, "category": "power"}

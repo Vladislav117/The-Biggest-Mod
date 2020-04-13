@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "puma conduit", "description": "...", "health": 74, "requirements": [{"item": "puma", "amount": 20}, {"item": "genane", "amount": 14}, {"item": "zyzofo", "amount": 3}], "liquidCapacity": 35, "liquidPressure": 6, "research": "puma-factory", "category": "liquid"}

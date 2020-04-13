@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cesy underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "cesy", "amount": 1}, {"item": "vyma", "amount": 4}], "research": "cesy-conveyor", "category": "distribution", "invert": false}

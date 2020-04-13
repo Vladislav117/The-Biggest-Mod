@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qoly power node", "description": "...", "size": 1, "health": 167, "requirements": [{"item": "qoly", "amount": 17}, {"item": "zoyinium", "amount": 11}, {"item": "yynuqu", "amount": 4}], "research": "qoly-factory", "maxNodes": 29, "laserRange": 16, "category": "power"}

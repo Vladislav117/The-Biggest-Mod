@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "puke sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "puke", "amount": 2}, {"item": "jarugenium", "amount": 5}], "research": "puke-conveyor", "category": "distribution", "invert": false}

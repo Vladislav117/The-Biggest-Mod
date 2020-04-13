@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "difyyi power node", "description": "...", "size": 2, "health": 487, "requirements": [{"item": "difyyi", "amount": 10}, {"item": "qaty", "amount": 15}, {"item": "ryfo", "amount": 4}], "research": "difyyi-factory", "maxNodes": 50, "laserRange": 11, "category": "power"}

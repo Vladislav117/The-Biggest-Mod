@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tybunium junction", "description": "...", "health": 8, "speed": 14, "capacity": 11, "size": 1, "requirements": [{"item": "tybunium", "amount": 2}, {"item": "nido", "amount": 2}], "research": "tybunium-conveyor", "category": "distribution"}

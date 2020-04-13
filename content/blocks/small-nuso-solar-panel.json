@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nuso solar panel", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "nuso", "amount": 8}, {"item": "rymojanium", "amount": 14}, {"item": "haqu", "amount": 1}], "research": "nuso-factory", "powerProduction": 0.9783796989205654, "category": "power"}

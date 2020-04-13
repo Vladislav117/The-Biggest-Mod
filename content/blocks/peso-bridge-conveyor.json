@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "peso bridge conveyor", "description": "", "health": 37, "range": 8, "speed": 20, "bufferCapacity": 19, "requirements": [{"item": "peso", "amount": 2}, {"item": "mavitu", "amount": 2}], "research": "peso-conveyor", "category": "distribution", "size": 1}

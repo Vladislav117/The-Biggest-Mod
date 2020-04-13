@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "daryki underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "daryki", "amount": 5}, {"item": "fifyru", "amount": 1}], "research": "daryki-conveyor", "category": "distribution", "invert": false}

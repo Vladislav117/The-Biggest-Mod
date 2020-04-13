@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gagyya solar panel", "description": "...", "size": 3, "health": 21, "requirements": [{"item": "gagyya", "amount": 10}, {"item": "kefy", "amount": 2}, {"item": "holipu", "amount": 1}], "research": "gagyya-factory", "powerProduction": 0.1505826783546715, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "potesonium liquid router", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "potesonium", "amount": 10}, {"item": "sysone", "amount": 4}, {"item": "kani", "amount": 10}], "research": "potesonium-conduit", "liquidCapacity": 10, "category": "liquid"}

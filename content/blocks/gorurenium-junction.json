@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gorurenium junction", "description": "...", "health": 20, "speed": 18, "capacity": 6, "size": 1, "requirements": [{"item": "gorurenium", "amount": 2}, {"item": "gizomanium", "amount": 1}], "research": "gorurenium-conveyor", "category": "distribution"}

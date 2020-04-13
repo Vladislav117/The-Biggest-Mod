@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nimi underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "nimi", "amount": 4}, {"item": "zoyyqynium", "amount": 4}], "research": "nimi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qypusa solar panel", "description": "...", "size": 1, "health": 109, "requirements": [{"item": "qypusa", "amount": 15}, {"item": "pomagu", "amount": 8}, {"item": "kohi", "amount": 8}], "research": "qypusa-factory", "powerProduction": 7.430010053532466, "category": "power"}

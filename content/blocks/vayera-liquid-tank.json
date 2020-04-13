@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vayera liquid tank", "description": "...", "health": 464, "size": 3, "requirements": [{"item": "vayera", "amount": 20}, {"item": "gyhecu", "amount": 16}, {"item": "yexowy", "amount": 7}], "research": "vayera-conduit", "category": "liquid", "liquidCapacity": 81055, "hasLiquids": true}

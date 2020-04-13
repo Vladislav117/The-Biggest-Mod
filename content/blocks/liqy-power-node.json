@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "liqy power node", "description": "...", "size": 2, "health": 533, "requirements": [{"item": "liqy", "amount": 1}, {"item": "potesonium", "amount": 8}, {"item": "xutire", "amount": 8}], "research": "liqy-factory", "maxNodes": 19, "laserRange": 7, "category": "power"}

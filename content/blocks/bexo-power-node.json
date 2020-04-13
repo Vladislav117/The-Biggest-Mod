@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bexo power node", "description": "...", "size": 2, "health": 73, "requirements": [{"item": "bexo", "amount": 11}, {"item": "sore", "amount": 13}, {"item": "feqy", "amount": 4}], "research": "bexo-factory", "maxNodes": 10, "laserRange": 21, "category": "power"}

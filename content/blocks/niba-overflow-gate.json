@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "niba overflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "niba", "amount": 5}, {"item": "hexa", "amount": 5}], "research": "niba-conveyor", "category": "distribution", "invert": false}

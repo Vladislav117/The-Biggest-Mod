@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small padi solar panel", "description": "...", "size": 1, "health": 18, "requirements": [{"item": "padi", "amount": 1}, {"item": "leloyi", "amount": 7}, {"item": "sato", "amount": 9}], "research": "padi-factory", "powerProduction": 0.26489824463961126, "category": "power"}

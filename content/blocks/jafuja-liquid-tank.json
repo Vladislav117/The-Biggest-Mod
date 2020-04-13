@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jafuja liquid tank", "description": "...", "health": 244, "size": 3, "requirements": [{"item": "jafuja", "amount": 17}, {"item": "hihuly", "amount": 8}, {"item": "yynatu", "amount": 10}], "research": "jafuja-conduit", "category": "liquid", "liquidCapacity": 79184, "hasLiquids": true}

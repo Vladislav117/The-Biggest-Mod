@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "buji power node", "description": "...", "size": 2, "health": 703, "requirements": [{"item": "buji", "amount": 4}, {"item": "qowepa", "amount": 14}, {"item": "diforinium", "amount": 2}], "research": "buji-factory", "maxNodes": 18, "laserRange": 24, "category": "power"}

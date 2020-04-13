@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wozo power node", "description": "...", "size": 2, "health": 413, "requirements": [{"item": "wozo", "amount": 17}, {"item": "lovy", "amount": 5}, {"item": "hewupenium", "amount": 1}], "research": "wozo-factory", "maxNodes": 44, "laserRange": 9, "category": "power"}

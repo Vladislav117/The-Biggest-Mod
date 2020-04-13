@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mife junction", "description": "...", "health": 27, "speed": 18, "capacity": 8, "size": 1, "requirements": [{"item": "mife", "amount": 2}, {"item": "fizunium", "amount": 5}], "research": "mife-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vedapa sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "vedapa", "amount": 4}, {"item": "coqinium", "amount": 2}], "research": "vedapa-conveyor", "category": "distribution", "invert": false}

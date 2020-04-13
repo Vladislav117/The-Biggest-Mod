@@ -1,0 +1,1 @@
+{"type": "junction", "name": "myruhy junction", "description": "...", "health": 18, "speed": 2, "capacity": 19, "size": 1, "requirements": [{"item": "myruhy", "amount": 5}, {"item": "noriwe", "amount": 4}], "research": "myruhy-conveyor", "category": "distribution"}

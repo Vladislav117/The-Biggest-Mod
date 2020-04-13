@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fito bridge conveyor", "description": "", "health": 49, "range": 3, "speed": 19, "bufferCapacity": 17, "requirements": [{"item": "fito", "amount": 3}, {"item": "dyjami", "amount": 3}], "research": "fito-conveyor", "category": "distribution", "size": 1}

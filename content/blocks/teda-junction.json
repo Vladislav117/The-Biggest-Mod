@@ -1,0 +1,1 @@
+{"type": "junction", "name": "teda junction", "description": "...", "health": 9, "speed": 14, "capacity": 19, "size": 1, "requirements": [{"item": "teda", "amount": 5}, {"item": "hyru", "amount": 4}], "research": "teda-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small duly solar panel", "description": "...", "size": 1, "health": 186, "requirements": [{"item": "duly", "amount": 20}, {"item": "lyvewenium", "amount": 5}, {"item": "qayanium", "amount": 9}], "research": "duly-factory", "powerProduction": 9.819508434789872, "category": "power"}

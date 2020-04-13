@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fure liquid router", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "fure", "amount": 5}, {"item": "myfo", "amount": 17}, {"item": "huniji", "amount": 4}], "research": "fure-conduit", "liquidCapacity": 10, "category": "liquid"}

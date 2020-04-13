@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yahyxo drill", "description": "...", "size": 2, "health": 307, "tier": 2, "drillTime": 2, "consumes": {"power": 13}, "requirements": [{"item": "yahyxo", "amount": 17}, {"item": "kejinium", "amount": 11}, {"item": "vykynium", "amount": 6}], "research": "yahyxo-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wutigo power node", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "wutigo", "amount": 8}, {"item": "kubi", "amount": 1}, {"item": "nehudo", "amount": 2}], "research": "wutigo-factory", "maxNodes": 18, "laserRange": 4, "category": "power"}

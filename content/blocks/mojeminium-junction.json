@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mojeminium junction", "description": "...", "health": 39, "speed": 7, "capacity": 20, "size": 1, "requirements": [{"item": "mojeminium", "amount": 1}, {"item": "mejoly", "amount": 4}], "research": "mojeminium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qudy junction", "description": "...", "health": 41, "speed": 9, "capacity": 2, "size": 1, "requirements": [{"item": "qudy", "amount": 3}, {"item": "cymaca", "amount": 4}], "research": "qudy-conveyor", "category": "distribution"}

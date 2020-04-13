@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small liryfa solar panel", "description": "...", "size": 1, "health": 320, "requirements": [{"item": "liryfa", "amount": 15}, {"item": "joqopy", "amount": 12}, {"item": "qysacy", "amount": 8}], "research": "liryfa-factory", "powerProduction": 0.993322460093314, "category": "power"}

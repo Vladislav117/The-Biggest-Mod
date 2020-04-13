@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hakenium battery", "description": "...", "size": 1, "health": 206, "requirements": [{"item": "hakenium", "amount": 10}, {"item": "venuki", "amount": 5}, {"item": "hedi", "amount": 1}], "research": "hakenium-factory", "consumes": {"powerBuffered": 1096}, "category": "power"}

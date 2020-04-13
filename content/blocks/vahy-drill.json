@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vahy drill", "description": "...", "size": 2, "health": 409, "tier": 1, "drillTime": 15, "consumes": {"power": 15}, "requirements": [{"item": "vahy", "amount": 4}, {"item": "qigine", "amount": 2}, {"item": "fusyle", "amount": 6}], "research": "vahy-factory", "category": "production"}

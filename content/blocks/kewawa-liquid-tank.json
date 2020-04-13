@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kewawa liquid tank", "description": "...", "health": 481, "size": 3, "requirements": [{"item": "kewawa", "amount": 17}, {"item": "cozuja", "amount": 10}, {"item": "lavi", "amount": 5}], "research": "kewawa-conduit", "category": "liquid", "liquidCapacity": 78943, "hasLiquids": true}

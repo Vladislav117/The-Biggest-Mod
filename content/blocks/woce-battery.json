@@ -1,0 +1,1 @@
+{"type": "battery", "name": "woce battery", "description": "...", "size": 3, "health": 272, "requirements": [{"item": "woce", "amount": 6}, {"item": "fevy", "amount": 1}, {"item": "hufema", "amount": 3}], "research": "woce-factory", "consumes": {"powerBuffered": 4685}, "category": "power"}

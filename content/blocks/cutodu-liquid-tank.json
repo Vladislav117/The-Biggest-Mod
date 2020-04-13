@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cutodu liquid tank", "description": "...", "health": 624, "size": 3, "requirements": [{"item": "cutodu", "amount": 15}, {"item": "hegyzi", "amount": 3}, {"item": "pazanium", "amount": 3}], "research": "cutodu-conduit", "category": "liquid", "liquidCapacity": 42890, "hasLiquids": true}

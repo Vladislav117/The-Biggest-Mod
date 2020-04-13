@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qysavunium conduit", "description": "...", "health": 95, "requirements": [{"item": "qysavunium", "amount": 9}, {"item": "peze", "amount": 17}, {"item": "wulyso", "amount": 10}], "liquidCapacity": 49, "liquidPressure": 0, "research": "qysavunium-factory", "category": "liquid"}

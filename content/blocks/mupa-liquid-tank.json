@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mupa liquid tank", "description": "...", "health": 191, "size": 3, "requirements": [{"item": "mupa", "amount": 3}, {"item": "wygy", "amount": 9}, {"item": "lead", "amount": 6}], "research": "mupa-conduit", "category": "liquid", "liquidCapacity": 36760, "hasLiquids": true}

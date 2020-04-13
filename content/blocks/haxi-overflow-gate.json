@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "haxi overflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "haxi", "amount": 5}, {"item": "liba", "amount": 1}], "research": "haxi-conveyor", "category": "distribution", "invert": false}

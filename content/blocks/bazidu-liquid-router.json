@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "bazidu liquid router", "description": "...", "size": 1, "health": 52, "requirements": [{"item": "bazidu", "amount": 9}, {"item": "tohi", "amount": 5}, {"item": "hywinium", "amount": 5}], "research": "bazidu-conduit", "liquidCapacity": 10, "category": "liquid"}

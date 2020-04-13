@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mubu power node", "description": "...", "size": 1, "health": 207, "requirements": [{"item": "mubu", "amount": 17}, {"item": "fajygi", "amount": 5}, {"item": "yilynium", "amount": 9}], "research": "mubu-factory", "maxNodes": 26, "laserRange": 5, "category": "power"}

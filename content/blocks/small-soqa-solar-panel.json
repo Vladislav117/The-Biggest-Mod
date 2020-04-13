@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small soqa solar panel", "description": "...", "size": 1, "health": 326, "requirements": [{"item": "soqa", "amount": 19}, {"item": "butuhi", "amount": 14}, {"item": "tufi", "amount": 9}], "research": "soqa-factory", "powerProduction": 0.877266446840923, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "medeno liquid router", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "medeno", "amount": 15}, {"item": "ryzote", "amount": 12}, {"item": "sytafe", "amount": 9}], "research": "medeno-conduit", "liquidCapacity": 10, "category": "liquid"}

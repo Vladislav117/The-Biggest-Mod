@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fyto liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "fyto", "amount": 5}, {"item": "zogeno", "amount": 1}, {"item": "cyyikynium", "amount": 5}], "research": "fyto-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lymo junction", "description": "...", "health": 32, "speed": 4, "capacity": 15, "size": 1, "requirements": [{"item": "lymo", "amount": 1}, {"item": "cupedi", "amount": 2}], "research": "lymo-conveyor", "category": "distribution"}

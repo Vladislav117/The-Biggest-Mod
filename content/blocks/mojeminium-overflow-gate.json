@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mojeminium overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "mojeminium", "amount": 2}, {"item": "xice", "amount": 2}], "research": "mojeminium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "loho liquid router", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "loho", "amount": 13}, {"item": "hyxinium", "amount": 17}, {"item": "qaduya", "amount": 7}], "research": "loho-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "miwu overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "miwu", "amount": 2}, {"item": "plastanium", "amount": 4}], "research": "miwu-conveyor", "category": "distribution", "invert": false}

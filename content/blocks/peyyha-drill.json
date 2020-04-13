@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "peyyha drill", "description": "...", "size": 2, "health": 120, "tier": 3, "drillTime": 10, "consumes": {"power": 14}, "requirements": [{"item": "peyyha", "amount": 11}, {"item": "kefy", "amount": 4}, {"item": "rebugunium", "amount": 5}], "research": "peyyha-factory", "category": "production"}

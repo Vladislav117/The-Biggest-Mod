@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "kedymi conveyor", "description": "...", "health": 24, "requirements": [{"item": "kedymi", "amount": 1}, {"item": "mymynium", "amount": 1}], "speed": 0.08695246482725211, "research": "kedymi-factory", "category": "distribution"}

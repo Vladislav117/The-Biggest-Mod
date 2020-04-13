@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "baranium liquid router", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "baranium", "amount": 4}, {"item": "hyru", "amount": 4}, {"item": "ravyku", "amount": 9}], "research": "baranium-conduit", "liquidCapacity": 10, "category": "liquid"}

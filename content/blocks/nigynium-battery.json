@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nigynium battery", "description": "...", "size": 3, "health": 194, "requirements": [{"item": "nigynium", "amount": 14}, {"item": "pavanium", "amount": 20}, {"item": "kuku", "amount": 7}], "research": "nigynium-factory", "consumes": {"powerBuffered": 6063}, "category": "power"}

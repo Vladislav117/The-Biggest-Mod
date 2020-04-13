@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fica battery", "description": "...", "size": 1, "health": 318, "requirements": [{"item": "fica", "amount": 17}, {"item": "lyra", "amount": 13}, {"item": "ryfo", "amount": 7}], "research": "fica-factory", "consumes": {"powerBuffered": 1148}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "syteja liquid router", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "syteja", "amount": 7}, {"item": "syxidonium", "amount": 13}, {"item": "titanium", "amount": 6}], "research": "syteja-conduit", "liquidCapacity": 10, "category": "liquid"}

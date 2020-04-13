@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "syve solar panel", "description": "...", "size": 3, "health": 261, "requirements": [{"item": "syve", "amount": 14}, {"item": "yofonium", "amount": 3}, {"item": "lypoje", "amount": 1}], "research": "syve-factory", "powerProduction": 0.30153073808996816, "category": "power"}

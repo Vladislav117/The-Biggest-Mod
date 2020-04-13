@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vemohy drill", "description": "...", "size": 2, "health": 285, "tier": 3, "drillTime": 13, "consumes": {"power": 13}, "requirements": [{"item": "vemohy", "amount": 8}, {"item": "dipewanium", "amount": 14}, {"item": "fizycinium", "amount": 10}], "research": "vemohy-factory", "category": "production"}

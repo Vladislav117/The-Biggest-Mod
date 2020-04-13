@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mopyqu inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "mopyqu", "amount": 1}, {"item": "gusiro", "amount": 5}], "research": "mopyqu-conveyor", "category": "distribution", "invert": true}

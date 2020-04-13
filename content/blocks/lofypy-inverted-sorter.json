@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lofypy inverted sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "lofypy", "amount": 1}, {"item": "beronium", "amount": 4}], "research": "lofypy-conveyor", "category": "distribution", "invert": true}

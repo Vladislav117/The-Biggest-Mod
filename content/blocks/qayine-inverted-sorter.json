@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qayine inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "qayine", "amount": 5}, {"item": "byro", "amount": 4}], "research": "qayine-conveyor", "category": "distribution", "invert": true}

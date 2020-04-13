@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zibe battery", "description": "...", "size": 3, "health": 175, "requirements": [{"item": "zibe", "amount": 11}, {"item": "pije", "amount": 4}, {"item": "zoyinium", "amount": 1}], "research": "zibe-factory", "consumes": {"powerBuffered": 331}, "category": "power"}

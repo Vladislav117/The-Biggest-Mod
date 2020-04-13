@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bifaqunium power node", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "bifaqunium", "amount": 15}, {"item": "myhaxu", "amount": 15}, {"item": "mewy", "amount": 4}], "research": "bifaqunium-factory", "maxNodes": 5, "laserRange": 23, "category": "power"}

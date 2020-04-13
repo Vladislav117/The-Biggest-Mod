@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wosofe battery", "description": "...", "size": 3, "health": 112, "requirements": [{"item": "wosofe", "amount": 20}, {"item": "bexo", "amount": 1}, {"item": "luzini", "amount": 2}], "research": "wosofe-factory", "consumes": {"powerBuffered": 8099}, "category": "power"}

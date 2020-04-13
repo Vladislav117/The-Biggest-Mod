@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xaxe solar panel", "description": "...", "size": 1, "health": 169, "requirements": [{"item": "xaxe", "amount": 9}, {"item": "fimi", "amount": 10}, {"item": "gecoma", "amount": 7}], "research": "xaxe-factory", "powerProduction": 5.327849022490547, "category": "power"}

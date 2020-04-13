@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qoqi inverted sorter", "description": ",...", "health": 14, "size": 1, "requirements": [{"item": "qoqi", "amount": 5}, {"item": "rajubanium", "amount": 2}], "research": "qoqi-conveyor", "category": "distribution", "invert": true}

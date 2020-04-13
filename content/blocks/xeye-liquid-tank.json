@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xeye liquid tank", "description": "...", "health": 632, "size": 3, "requirements": [{"item": "xeye", "amount": 12}, {"item": "kavequ", "amount": 2}, {"item": "titanium", "amount": 8}], "research": "xeye-conduit", "category": "liquid", "liquidCapacity": 55366, "hasLiquids": true}

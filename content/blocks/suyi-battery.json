@@ -1,0 +1,1 @@
+{"type": "battery", "name": "suyi battery", "description": "...", "size": 3, "health": 372, "requirements": [{"item": "suyi", "amount": 12}, {"item": "yyga", "amount": 5}, {"item": "cafy", "amount": 6}], "research": "suyi-factory", "consumes": {"powerBuffered": 4668}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xini battery", "description": "...", "size": 3, "health": 227, "requirements": [{"item": "xini", "amount": 5}, {"item": "kecufi", "amount": 3}, {"item": "dyju", "amount": 5}], "research": "xini-factory", "consumes": {"powerBuffered": 8654}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bopu underflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "bopu", "amount": 4}, {"item": "zuwydy", "amount": 1}], "research": "bopu-conveyor", "category": "distribution", "invert": false}

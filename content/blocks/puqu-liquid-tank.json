@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "puqu liquid tank", "description": "...", "health": 594, "size": 3, "requirements": [{"item": "puqu", "amount": 11}, {"item": "mygyyy", "amount": 7}, {"item": "wymywynium", "amount": 4}], "research": "puqu-conduit", "category": "liquid", "liquidCapacity": 49980, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qanisu power node", "description": "...", "size": 1, "health": 165, "requirements": [{"item": "qanisu", "amount": 18}, {"item": "syxy", "amount": 12}, {"item": "xojinium", "amount": 1}], "research": "qanisu-factory", "maxNodes": 10, "laserRange": 4, "category": "power"}

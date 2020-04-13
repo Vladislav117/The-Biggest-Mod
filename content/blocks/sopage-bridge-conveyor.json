@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sopage bridge conveyor", "description": "", "health": 6, "range": 20, "speed": 19, "bufferCapacity": 12, "requirements": [{"item": "sopage", "amount": 1}, {"item": "latycu", "amount": 3}], "research": "sopage-conveyor", "category": "distribution", "size": 1}

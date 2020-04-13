@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kimicy overflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "kimicy", "amount": 1}, {"item": "qepisu", "amount": 1}], "research": "kimicy-conveyor", "category": "distribution", "invert": false}

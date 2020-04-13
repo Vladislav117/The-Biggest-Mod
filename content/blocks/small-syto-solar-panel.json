@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small syto solar panel", "description": "...", "size": 1, "health": 119, "requirements": [{"item": "syto", "amount": 5}, {"item": "cyqanium", "amount": 15}, {"item": "fabora", "amount": 2}], "research": "syto-factory", "powerProduction": 0.38712667848263244, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vize battery", "description": "...", "size": 3, "health": 241, "requirements": [{"item": "vize", "amount": 7}, {"item": "nigaya", "amount": 14}, {"item": "hagunium", "amount": 1}], "research": "vize-factory", "consumes": {"powerBuffered": 5495}, "category": "power"}

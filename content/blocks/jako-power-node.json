@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jako power node", "description": "...", "size": 2, "health": 627, "requirements": [{"item": "jako", "amount": 5}, {"item": "tykyfo", "amount": 17}, {"item": "buji", "amount": 7}], "research": "jako-factory", "maxNodes": 42, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bitaba battery", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "bitaba", "amount": 9}, {"item": "lelybe", "amount": 12}, {"item": "fyvuyy", "amount": 5}], "research": "bitaba-factory", "consumes": {"powerBuffered": 1232}, "category": "power"}

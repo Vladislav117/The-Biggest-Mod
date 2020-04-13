@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yake battery", "description": "...", "size": 3, "health": 234, "requirements": [{"item": "yake", "amount": 12}, {"item": "pudoki", "amount": 16}, {"item": "dyma", "amount": 7}], "research": "yake-factory", "consumes": {"powerBuffered": 7347}, "category": "power"}

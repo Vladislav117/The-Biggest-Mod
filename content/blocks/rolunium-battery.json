@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rolunium battery", "description": "...", "size": 3, "health": 34, "requirements": [{"item": "rolunium", "amount": 15}, {"item": "nuxy", "amount": 6}, {"item": "yeli", "amount": 1}], "research": "rolunium-factory", "consumes": {"powerBuffered": 4691}, "category": "power"}

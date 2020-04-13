@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pehy junction", "description": "...", "health": 7, "speed": 14, "capacity": 9, "size": 1, "requirements": [{"item": "pehy", "amount": 3}, {"item": "vapoqanium", "amount": 3}], "research": "pehy-conveyor", "category": "distribution"}

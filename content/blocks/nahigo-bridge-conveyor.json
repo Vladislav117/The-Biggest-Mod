@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nahigo bridge conveyor", "description": "", "health": 28, "range": 14, "speed": 7, "bufferCapacity": 15, "requirements": [{"item": "nahigo", "amount": 2}, {"item": "ryve", "amount": 2}], "research": "nahigo-conveyor", "category": "distribution", "size": 1}

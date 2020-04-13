@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "laqu liquid tank", "description": "...", "health": 490, "size": 3, "requirements": [{"item": "laqu", "amount": 14}, {"item": "yikynium", "amount": 9}, {"item": "dicaku", "amount": 6}], "research": "laqu-conduit", "category": "liquid", "liquidCapacity": 57505, "hasLiquids": true}

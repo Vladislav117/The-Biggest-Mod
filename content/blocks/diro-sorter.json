@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "diro sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "diro", "amount": 1}, {"item": "faqymu", "amount": 2}], "research": "diro-conveyor", "category": "distribution", "invert": false}

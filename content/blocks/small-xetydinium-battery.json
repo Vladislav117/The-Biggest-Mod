@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xetydinium battery", "description": "...", "size": 1, "health": 305, "requirements": [{"item": "xetydinium", "amount": 10}, {"item": "fiyuju", "amount": 1}, {"item": "yybo", "amount": 8}], "research": "xetydinium-factory", "consumes": {"powerBuffered": 2337}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dyzo bridge conveyor", "description": "", "health": 33, "range": 13, "speed": 20, "bufferCapacity": 6, "requirements": [{"item": "dyzo", "amount": 5}, {"item": "rymojanium", "amount": 1}], "research": "dyzo-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zaqenium power node", "description": "...", "size": 2, "health": 187, "requirements": [{"item": "zaqenium", "amount": 3}, {"item": "lemoqa", "amount": 10}, {"item": "kupu", "amount": 5}], "research": "zaqenium-factory", "maxNodes": 24, "laserRange": 7, "category": "power"}

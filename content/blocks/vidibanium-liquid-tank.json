@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vidibanium liquid tank", "description": "...", "health": 453, "size": 3, "requirements": [{"item": "vidibanium", "amount": 14}, {"item": "yidude", "amount": 15}, {"item": "kejowynium", "amount": 4}], "research": "vidibanium-conduit", "category": "liquid", "liquidCapacity": 62300, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kawo solar panel", "description": "...", "size": 3, "health": 399, "requirements": [{"item": "kawo", "amount": 1}, {"item": "kaniyy", "amount": 9}, {"item": "byhonium", "amount": 10}], "research": "kawo-factory", "powerProduction": 0.2197523947574817, "category": "power"}

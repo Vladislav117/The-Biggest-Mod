@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gafy power node", "description": "...", "size": 2, "health": 793, "requirements": [{"item": "gafy", "amount": 9}, {"item": "sugamynium", "amount": 9}, {"item": "gahe", "amount": 4}], "research": "gafy-factory", "maxNodes": 32, "laserRange": 25, "category": "power"}

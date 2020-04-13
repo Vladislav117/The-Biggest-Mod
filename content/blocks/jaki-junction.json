@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jaki junction", "description": "...", "health": 33, "speed": 10, "capacity": 10, "size": 1, "requirements": [{"item": "jaki", "amount": 4}, {"item": "naronium", "amount": 1}], "research": "jaki-conveyor", "category": "distribution"}

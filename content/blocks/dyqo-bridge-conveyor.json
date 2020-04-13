@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dyqo bridge conveyor", "description": "", "health": 24, "range": 3, "speed": 8, "bufferCapacity": 5, "requirements": [{"item": "dyqo", "amount": 4}, {"item": "yijotu", "amount": 4}], "research": "dyqo-conveyor", "category": "distribution", "size": 1}

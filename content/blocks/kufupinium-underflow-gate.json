@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kufupinium underflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "kufupinium", "amount": 2}, {"item": "kuyome", "amount": 4}], "research": "kufupinium-conveyor", "category": "distribution", "invert": false}

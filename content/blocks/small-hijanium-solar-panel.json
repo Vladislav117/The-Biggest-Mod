@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hijanium solar panel", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "hijanium", "amount": 7}, {"item": "qejaba", "amount": 2}, {"item": "wuqipenium", "amount": 10}], "research": "hijanium-factory", "powerProduction": 0.06203128817269789, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xuhefonium power node", "description": "...", "size": 1, "health": 111, "requirements": [{"item": "xuhefonium", "amount": 15}, {"item": "meceya", "amount": 12}, {"item": "voqaya", "amount": 4}], "research": "xuhefonium-factory", "maxNodes": 2, "laserRange": 9, "category": "power"}

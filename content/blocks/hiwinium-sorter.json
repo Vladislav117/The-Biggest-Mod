@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hiwinium sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "hiwinium", "amount": 1}, {"item": "voje", "amount": 1}], "research": "hiwinium-conveyor", "category": "distribution", "invert": false}

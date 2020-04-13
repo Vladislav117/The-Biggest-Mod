@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kiyuta bridge conveyor", "description": "", "health": 27, "range": 13, "speed": 16, "bufferCapacity": 18, "requirements": [{"item": "kiyuta", "amount": 2}, {"item": "zuhele", "amount": 4}], "research": "kiyuta-conveyor", "category": "distribution", "size": 1}

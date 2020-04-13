@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yonegi power node", "description": "...", "size": 1, "health": 329, "requirements": [{"item": "yonegi", "amount": 7}, {"item": "rehodunium", "amount": 2}, {"item": "juyy", "amount": 10}], "research": "yonegi-factory", "maxNodes": 19, "laserRange": 4, "category": "power"}

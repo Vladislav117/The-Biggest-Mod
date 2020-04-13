@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xilula junction", "description": "...", "health": 5, "speed": 4, "capacity": 17, "size": 1, "requirements": [{"item": "xilula", "amount": 3}, {"item": "zodo", "amount": 1}], "research": "xilula-conveyor", "category": "distribution"}

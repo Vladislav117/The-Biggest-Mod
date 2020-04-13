@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jihu liquid tank", "description": "...", "health": 512, "size": 3, "requirements": [{"item": "jihu", "amount": 19}, {"item": "boqi", "amount": 11}, {"item": "hurula", "amount": 5}], "research": "jihu-conduit", "category": "liquid", "liquidCapacity": 36128, "hasLiquids": true}

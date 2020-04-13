@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gozagy liquid tank", "description": "...", "health": 574, "size": 3, "requirements": [{"item": "gozagy", "amount": 12}, {"item": "vecifu", "amount": 2}, {"item": "raru", "amount": 9}], "research": "gozagy-conduit", "category": "liquid", "liquidCapacity": 82287, "hasLiquids": true}

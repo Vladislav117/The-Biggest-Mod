@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zida battery", "description": "...", "size": 3, "health": 386, "requirements": [{"item": "zida", "amount": 3}, {"item": "sivaqi", "amount": 8}, {"item": "fapufi", "amount": 9}], "research": "zida-factory", "consumes": {"powerBuffered": 9869}, "category": "power"}

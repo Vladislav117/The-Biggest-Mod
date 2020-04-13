@@ -1,0 +1,1 @@
+{"type": "junction", "name": "piyelu junction", "description": "...", "health": 13, "speed": 18, "capacity": 2, "size": 1, "requirements": [{"item": "piyelu", "amount": 4}, {"item": "yahi", "amount": 1}], "research": "piyelu-conveyor", "category": "distribution"}

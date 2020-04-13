@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yake power node", "description": "...", "size": 2, "health": 405, "requirements": [{"item": "yake", "amount": 9}, {"item": "hexu", "amount": 13}, {"item": "nybinium", "amount": 3}], "research": "yake-factory", "maxNodes": 45, "laserRange": 21, "category": "power"}

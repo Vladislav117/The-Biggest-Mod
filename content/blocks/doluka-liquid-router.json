@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "doluka liquid router", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "doluka", "amount": 9}, {"item": "reximo", "amount": 12}, {"item": "wiba", "amount": 8}], "research": "doluka-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "baguyu overflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "baguyu", "amount": 5}, {"item": "yytiye", "amount": 5}], "research": "baguyu-conveyor", "category": "distribution", "invert": false}

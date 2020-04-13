@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qaduya battery", "description": "...", "size": 3, "health": 309, "requirements": [{"item": "qaduya", "amount": 4}, {"item": "gizely", "amount": 13}, {"item": "cozaxo", "amount": 10}], "research": "qaduya-factory", "consumes": {"powerBuffered": 8952}, "category": "power"}

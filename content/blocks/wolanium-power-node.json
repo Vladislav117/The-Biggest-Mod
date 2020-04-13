@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wolanium power node", "description": "...", "size": 2, "health": 344, "requirements": [{"item": "wolanium", "amount": 14}, {"item": "qaho", "amount": 11}, {"item": "semy", "amount": 7}], "research": "wolanium-factory", "maxNodes": 19, "laserRange": 20, "category": "power"}

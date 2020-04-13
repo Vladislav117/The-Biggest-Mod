@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "logy liquid tank", "description": "...", "health": 340, "size": 3, "requirements": [{"item": "logy", "amount": 14}, {"item": "mivuwa", "amount": 17}, {"item": "pikoqi", "amount": 5}], "research": "logy-conduit", "category": "liquid", "liquidCapacity": 50866, "hasLiquids": true}

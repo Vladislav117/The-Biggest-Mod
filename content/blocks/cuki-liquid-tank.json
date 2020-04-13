@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuki liquid tank", "description": "...", "health": 290, "size": 3, "requirements": [{"item": "cuki", "amount": 19}, {"item": "wamu", "amount": 1}, {"item": "wuvu", "amount": 3}], "research": "cuki-conduit", "category": "liquid", "liquidCapacity": 16971, "hasLiquids": true}

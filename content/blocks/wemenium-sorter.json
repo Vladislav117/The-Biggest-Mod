@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wemenium sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "wemenium", "amount": 2}, {"item": "nuso", "amount": 5}], "research": "wemenium-conveyor", "category": "distribution", "invert": false}

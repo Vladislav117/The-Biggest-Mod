@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rapenium battery", "description": "...", "size": 3, "health": 60, "requirements": [{"item": "rapenium", "amount": 19}, {"item": "lolu", "amount": 1}, {"item": "vyma", "amount": 6}], "research": "rapenium-factory", "consumes": {"powerBuffered": 5770}, "category": "power"}

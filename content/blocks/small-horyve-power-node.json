@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small horyve power node", "description": "...", "size": 1, "health": 291, "requirements": [{"item": "horyve", "amount": 10}, {"item": "hiwenium", "amount": 19}, {"item": "gymypa", "amount": 8}], "research": "horyve-factory", "maxNodes": 29, "laserRange": 24, "category": "power"}

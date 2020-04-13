@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "rehodunium drill", "description": "...", "size": 3, "health": 404, "tier": 2, "drillTime": 15, "consumes": {"power": 5}, "requirements": [{"item": "rehodunium", "amount": 14}, {"item": "felu", "amount": 8}, {"item": "reximo", "amount": 7}], "research": "rehodunium-factory", "category": "production"}

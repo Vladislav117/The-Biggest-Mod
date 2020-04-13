@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mafapu underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "mafapu", "amount": 2}, {"item": "halyqinium", "amount": 1}], "research": "mafapu-conveyor", "category": "distribution", "invert": false}

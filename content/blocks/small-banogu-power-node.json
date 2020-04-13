@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small banogu power node", "description": "...", "size": 1, "health": 149, "requirements": [{"item": "banogu", "amount": 9}, {"item": "pobeqi", "amount": 2}, {"item": "cydofunium", "amount": 3}], "research": "banogu-factory", "maxNodes": 18, "laserRange": 24, "category": "power"}

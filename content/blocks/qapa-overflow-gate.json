@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qapa overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "qapa", "amount": 1}, {"item": "tuma", "amount": 1}], "research": "qapa-conveyor", "category": "distribution", "invert": false}

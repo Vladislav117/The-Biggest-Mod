@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bebexu battery", "description": "...", "size": 3, "health": 117, "requirements": [{"item": "bebexu", "amount": 7}, {"item": "zygomy", "amount": 2}, {"item": "miry", "amount": 2}], "research": "bebexu-factory", "consumes": {"powerBuffered": 8355}, "category": "power"}

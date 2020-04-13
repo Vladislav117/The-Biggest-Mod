@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rigoyo power node", "description": "...", "size": 1, "health": 150, "requirements": [{"item": "rigoyo", "amount": 8}, {"item": "fuyoja", "amount": 14}, {"item": "xapa", "amount": 7}], "research": "rigoyo-factory", "maxNodes": 8, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hetyjo power node", "description": "...", "size": 1, "health": 128, "requirements": [{"item": "hetyjo", "amount": 7}, {"item": "faqymu", "amount": 18}, {"item": "hakenium", "amount": 6}], "research": "hetyjo-factory", "maxNodes": 28, "laserRange": 7, "category": "power"}

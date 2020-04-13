@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jevogi battery", "description": "...", "size": 3, "health": 275, "requirements": [{"item": "jevogi", "amount": 9}, {"item": "tiyexenium", "amount": 7}, {"item": "vapa", "amount": 3}], "research": "jevogi-factory", "consumes": {"powerBuffered": 482}, "category": "power"}

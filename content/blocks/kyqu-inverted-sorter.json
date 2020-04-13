@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kyqu inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "kyqu", "amount": 1}, {"item": "graphite", "amount": 4}], "research": "kyqu-conveyor", "category": "distribution", "invert": true}

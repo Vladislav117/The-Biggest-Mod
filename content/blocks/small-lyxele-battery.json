@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lyxele battery", "description": "...", "size": 1, "health": 325, "requirements": [{"item": "lyxele", "amount": 17}, {"item": "bopa", "amount": 7}, {"item": "zami", "amount": 2}], "research": "lyxele-factory", "consumes": {"powerBuffered": 1720}, "category": "power"}

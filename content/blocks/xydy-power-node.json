@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xydy power node", "description": "...", "size": 2, "health": 710, "requirements": [{"item": "xydy", "amount": 14}, {"item": "judu", "amount": 12}, {"item": "boqi", "amount": 7}], "research": "xydy-factory", "maxNodes": 19, "laserRange": 15, "category": "power"}

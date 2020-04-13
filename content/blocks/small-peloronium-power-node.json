@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small peloronium power node", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "peloronium", "amount": 15}, {"item": "gizomanium", "amount": 16}, {"item": "yeli", "amount": 10}], "research": "peloronium-factory", "maxNodes": 9, "laserRange": 8, "category": "power"}

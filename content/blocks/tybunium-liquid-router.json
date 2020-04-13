@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tybunium liquid router", "description": "...", "size": 1, "health": 82, "requirements": [{"item": "tybunium", "amount": 3}, {"item": "lynaly", "amount": 10}, {"item": "byro", "amount": 5}], "research": "tybunium-conduit", "liquidCapacity": 10, "category": "liquid"}

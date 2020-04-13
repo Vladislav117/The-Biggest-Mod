@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wyrali conduit", "description": "...", "health": 43, "requirements": [{"item": "wyrali", "amount": 17}, {"item": "bibe", "amount": 8}, {"item": "yoyoko", "amount": 1}], "liquidCapacity": 16, "liquidPressure": 0, "research": "wyrali-factory", "category": "liquid"}

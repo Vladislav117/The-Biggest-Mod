@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fysubi solar panel", "description": "...", "size": 1, "health": 344, "requirements": [{"item": "fysubi", "amount": 8}, {"item": "wajese", "amount": 4}, {"item": "ziwa", "amount": 10}], "research": "fysubi-factory", "powerProduction": 1.4599419495709371, "category": "power"}

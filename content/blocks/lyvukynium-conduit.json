@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lyvukynium conduit", "description": "...", "health": 125, "requirements": [{"item": "lyvukynium", "amount": 3}, {"item": "vomo", "amount": 10}, {"item": "yybinium", "amount": 3}], "liquidCapacity": 25, "liquidPressure": 3, "research": "lyvukynium-factory", "category": "liquid"}

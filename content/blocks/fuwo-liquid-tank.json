@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fuwo liquid tank", "description": "...", "health": 658, "size": 3, "requirements": [{"item": "fuwo", "amount": 10}, {"item": "zefu", "amount": 10}, {"item": "kupanium", "amount": 3}], "research": "fuwo-conduit", "category": "liquid", "liquidCapacity": 101943, "hasLiquids": true}

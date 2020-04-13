@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gihalu solar panel", "description": "...", "size": 1, "health": 137, "requirements": [{"item": "gihalu", "amount": 10}, {"item": "dekeko", "amount": 4}, {"item": "tebebe", "amount": 7}], "research": "gihalu-factory", "powerProduction": 3.319285556293295, "category": "power"}

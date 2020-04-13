@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "powidu bridge conveyor", "description": "", "health": 38, "range": 11, "speed": 6, "bufferCapacity": 6, "requirements": [{"item": "powidu", "amount": 4}, {"item": "zugoni", "amount": 2}], "research": "powidu-conveyor", "category": "distribution", "size": 1}

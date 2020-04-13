@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small peqo battery", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "peqo", "amount": 6}, {"item": "wohy", "amount": 7}, {"item": "fizunium", "amount": 1}], "research": "peqo-factory", "consumes": {"powerBuffered": 2158}, "category": "power"}

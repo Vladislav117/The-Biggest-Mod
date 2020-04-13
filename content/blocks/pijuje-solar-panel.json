@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pijuje solar panel", "description": "...", "size": 3, "health": 222, "requirements": [{"item": "pijuje", "amount": 14}, {"item": "hitori", "amount": 5}, {"item": "gozefynium", "amount": 3}], "research": "pijuje-factory", "powerProduction": 5.214688275435276, "category": "power"}

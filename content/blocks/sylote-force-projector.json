@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "sylote force projector", "description": "...", "health": 106, "size": 3, "consumes": {"power": 5.0, "item": "sylote"}, "requirements": [{"item": "sylote", "amount": 5}, {"item": "syjilanium", "amount": 10}, {"item": "ninu", "amount": 7}], "research": "sylote-factory", "category": "effect"}

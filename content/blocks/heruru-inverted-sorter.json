@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "heruru inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "heruru", "amount": 4}, {"item": "haqu", "amount": 5}], "research": "heruru-conveyor", "category": "distribution", "invert": true}

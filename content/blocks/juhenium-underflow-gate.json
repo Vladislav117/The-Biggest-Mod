@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "juhenium underflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "juhenium", "amount": 5}, {"item": "qotu", "amount": 2}], "research": "juhenium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "giyabinium liquid tank", "description": "...", "health": 427, "size": 3, "requirements": [{"item": "giyabinium", "amount": 3}, {"item": "zoju", "amount": 1}, {"item": "rapenium", "amount": 4}], "research": "giyabinium-conduit", "category": "liquid", "liquidCapacity": 22598, "hasLiquids": true}

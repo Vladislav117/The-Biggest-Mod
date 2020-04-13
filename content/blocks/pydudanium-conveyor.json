@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pydudanium conveyor", "description": "...", "health": 87, "requirements": [{"item": "pydudanium", "amount": 5}, {"item": "kejinium", "amount": 3}], "speed": 0.05465698959245685, "research": "pydudanium-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qypaty liquid tank", "description": "...", "health": 382, "size": 3, "requirements": [{"item": "qypaty", "amount": 14}, {"item": "jigu", "amount": 19}, {"item": "qulihe", "amount": 6}], "research": "qypaty-conduit", "category": "liquid", "liquidCapacity": 13836, "hasLiquids": true}

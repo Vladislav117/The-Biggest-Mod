@@ -1,0 +1,1 @@
+{"type": "junction", "name": "hufema junction", "description": "...", "health": 44, "speed": 11, "capacity": 15, "size": 1, "requirements": [{"item": "hufema", "amount": 3}, {"item": "zuzequ", "amount": 4}], "research": "hufema-conveyor", "category": "distribution"}

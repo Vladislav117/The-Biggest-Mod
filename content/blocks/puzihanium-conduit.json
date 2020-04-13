@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "puzihanium conduit", "description": "...", "health": 35, "requirements": [{"item": "puzihanium", "amount": 4}, {"item": "zuva", "amount": 15}, {"item": "birynium", "amount": 4}], "liquidCapacity": 22, "liquidPressure": 3, "research": "puzihanium-factory", "category": "liquid"}

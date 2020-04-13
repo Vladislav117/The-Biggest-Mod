@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kixo sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "kixo", "amount": 5}, {"item": "qubironium", "amount": 5}], "research": "kixo-conveyor", "category": "distribution", "invert": false}

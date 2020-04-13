@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qobenium solar panel", "description": "...", "size": 3, "health": 294, "requirements": [{"item": "qobenium", "amount": 7}, {"item": "qiyo", "amount": 6}, {"item": "bihifenium", "amount": 3}], "research": "qobenium-factory", "powerProduction": 4.971610504288587, "category": "power"}

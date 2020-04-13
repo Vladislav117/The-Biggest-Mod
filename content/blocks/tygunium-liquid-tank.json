@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tygunium liquid tank", "description": "...", "health": 165, "size": 3, "requirements": [{"item": "tygunium", "amount": 16}, {"item": "qudy", "amount": 19}, {"item": "metadu", "amount": 1}], "research": "tygunium-conduit", "category": "liquid", "liquidCapacity": 23915, "hasLiquids": true}

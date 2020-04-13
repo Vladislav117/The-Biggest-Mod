@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zosene inverted sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "zosene", "amount": 3}, {"item": "bafo", "amount": 1}], "research": "zosene-conveyor", "category": "distribution", "invert": true}

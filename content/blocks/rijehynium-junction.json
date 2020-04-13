@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rijehynium junction", "description": "...", "health": 11, "speed": 10, "capacity": 7, "size": 1, "requirements": [{"item": "rijehynium", "amount": 1}, {"item": "bugyta", "amount": 1}], "research": "rijehynium-conveyor", "category": "distribution"}

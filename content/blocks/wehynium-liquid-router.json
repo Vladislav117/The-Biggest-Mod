@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wehynium liquid router", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "wehynium", "amount": 19}, {"item": "viwimynium", "amount": 19}, {"item": "sewa", "amount": 6}], "research": "wehynium-conduit", "liquidCapacity": 10, "category": "liquid"}

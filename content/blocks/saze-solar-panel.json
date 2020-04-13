@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "saze solar panel", "description": "...", "size": 3, "health": 368, "requirements": [{"item": "saze", "amount": 10}, {"item": "nudequ", "amount": 17}, {"item": "zoyasi", "amount": 5}], "research": "saze-factory", "powerProduction": 0.19317624450410173, "category": "power"}

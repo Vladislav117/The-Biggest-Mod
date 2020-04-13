@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bosuvynium junction", "description": "...", "health": 36, "speed": 14, "capacity": 17, "size": 1, "requirements": [{"item": "bosuvynium", "amount": 4}, {"item": "sipynium", "amount": 2}], "research": "bosuvynium-conveyor", "category": "distribution"}

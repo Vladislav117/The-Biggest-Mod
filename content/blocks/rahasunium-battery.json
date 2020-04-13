@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rahasunium battery", "description": "...", "size": 3, "health": 367, "requirements": [{"item": "rahasunium", "amount": 20}, {"item": "cuse", "amount": 15}, {"item": "potesonium", "amount": 5}], "research": "rahasunium-factory", "consumes": {"powerBuffered": 5667}, "category": "power"}

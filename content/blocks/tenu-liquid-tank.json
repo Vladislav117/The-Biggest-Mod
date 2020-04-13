@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tenu liquid tank", "description": "...", "health": 301, "size": 3, "requirements": [{"item": "tenu", "amount": 6}, {"item": "wybenium", "amount": 7}, {"item": "cybuby", "amount": 1}], "research": "tenu-conduit", "category": "liquid", "liquidCapacity": 34113, "hasLiquids": true}

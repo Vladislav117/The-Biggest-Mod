@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vomo junction", "description": "...", "health": 23, "speed": 10, "capacity": 7, "size": 1, "requirements": [{"item": "vomo", "amount": 1}, {"item": "hamo", "amount": 1}], "research": "vomo-conveyor", "category": "distribution"}

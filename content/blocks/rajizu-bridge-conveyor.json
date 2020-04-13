@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rajizu bridge conveyor", "description": "", "health": 46, "range": 12, "speed": 9, "bufferCapacity": 13, "requirements": [{"item": "rajizu", "amount": 5}, {"item": "vyma", "amount": 2}], "research": "rajizu-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xozime battery", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "xozime", "amount": 20}, {"item": "fytuve", "amount": 9}, {"item": "zoyyqynium", "amount": 8}], "research": "xozime-factory", "consumes": {"powerBuffered": 2217}, "category": "power"}

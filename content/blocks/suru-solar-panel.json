@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "suru solar panel", "description": "...", "size": 3, "health": 107, "requirements": [{"item": "suru", "amount": 15}, {"item": "nidenium", "amount": 20}, {"item": "jovunium", "amount": 6}], "research": "suru-factory", "powerProduction": 3.408828201043919, "category": "power"}

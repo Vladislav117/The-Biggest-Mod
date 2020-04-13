@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dena conduit", "description": "...", "health": 153, "requirements": [{"item": "dena", "amount": 13}, {"item": "wediyu", "amount": 18}, {"item": "gigevonium", "amount": 3}], "liquidCapacity": 10, "liquidPressure": 5, "research": "dena-factory", "category": "liquid"}

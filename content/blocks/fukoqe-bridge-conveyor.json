@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fukoqe bridge conveyor", "description": "", "health": 15, "range": 18, "speed": 10, "bufferCapacity": 6, "requirements": [{"item": "fukoqe", "amount": 1}, {"item": "cuhynu", "amount": 5}], "research": "fukoqe-conveyor", "category": "distribution", "size": 1}

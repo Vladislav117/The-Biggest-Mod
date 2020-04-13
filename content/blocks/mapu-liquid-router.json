@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mapu liquid router", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "mapu", "amount": 9}, {"item": "hewunium", "amount": 14}, {"item": "luyo", "amount": 10}], "research": "mapu-conduit", "liquidCapacity": 10, "category": "liquid"}

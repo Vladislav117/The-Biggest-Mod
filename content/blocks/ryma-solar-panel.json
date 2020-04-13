@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ryma solar panel", "description": "...", "size": 3, "health": 323, "requirements": [{"item": "ryma", "amount": 15}, {"item": "luzinium", "amount": 13}, {"item": "rytysynium", "amount": 7}], "research": "ryma-factory", "powerProduction": 0.2564234573954577, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xove junction", "description": "...", "health": 38, "speed": 13, "capacity": 8, "size": 1, "requirements": [{"item": "xove", "amount": 3}, {"item": "nago", "amount": 2}], "research": "xove-conveyor", "category": "distribution"}

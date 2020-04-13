@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gemoco battery", "description": "...", "size": 1, "health": 362, "requirements": [{"item": "gemoco", "amount": 20}, {"item": "yewoxa", "amount": 2}, {"item": "dofy", "amount": 1}], "research": "gemoco-factory", "consumes": {"powerBuffered": 2287}, "category": "power"}

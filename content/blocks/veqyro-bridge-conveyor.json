@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "veqyro bridge conveyor", "description": "", "health": 19, "range": 3, "speed": 14, "bufferCapacity": 9, "requirements": [{"item": "veqyro", "amount": 3}, {"item": "xinodunium", "amount": 2}], "research": "veqyro-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hakenium bridge conveyor", "description": "", "health": 36, "range": 6, "speed": 12, "bufferCapacity": 4, "requirements": [{"item": "hakenium", "amount": 3}, {"item": "mepunium", "amount": 5}], "research": "hakenium-conveyor", "category": "distribution", "size": 1}

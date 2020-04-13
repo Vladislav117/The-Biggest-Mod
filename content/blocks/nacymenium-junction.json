@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nacymenium junction", "description": "...", "health": 23, "speed": 17, "capacity": 7, "size": 1, "requirements": [{"item": "nacymenium", "amount": 2}, {"item": "jone", "amount": 3}], "research": "nacymenium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yyze junction", "description": "...", "health": 27, "speed": 6, "capacity": 20, "size": 1, "requirements": [{"item": "yyze", "amount": 3}, {"item": "diro", "amount": 1}], "research": "yyze-conveyor", "category": "distribution"}

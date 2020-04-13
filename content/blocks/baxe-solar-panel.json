@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "baxe solar panel", "description": "...", "size": 3, "health": 171, "requirements": [{"item": "baxe", "amount": 3}, {"item": "bipanium", "amount": 12}, {"item": "wulyso", "amount": 9}], "research": "baxe-factory", "powerProduction": 1.11531118911111, "category": "power"}

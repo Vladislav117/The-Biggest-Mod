@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nynoyu liquid tank", "description": "...", "health": 563, "size": 3, "requirements": [{"item": "nynoyu", "amount": 8}, {"item": "lewanium", "amount": 12}, {"item": "fusyle", "amount": 10}], "research": "nynoyu-conduit", "category": "liquid", "liquidCapacity": 4473, "hasLiquids": true}

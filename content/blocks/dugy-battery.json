@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dugy battery", "description": "...", "size": 3, "health": 134, "requirements": [{"item": "dugy", "amount": 2}, {"item": "puwasy", "amount": 5}, {"item": "lumasunium", "amount": 1}], "research": "dugy-factory", "consumes": {"powerBuffered": 1726}, "category": "power"}

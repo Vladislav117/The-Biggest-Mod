@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small myfo battery", "description": "...", "size": 1, "health": 318, "requirements": [{"item": "myfo", "amount": 6}, {"item": "qayanium", "amount": 5}, {"item": "fuda", "amount": 1}], "research": "myfo-factory", "consumes": {"powerBuffered": 1197}, "category": "power"}

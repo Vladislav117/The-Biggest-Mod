@@ -1,0 +1,1 @@
+{"type": "junction", "name": "votawu junction", "description": "...", "health": 28, "speed": 18, "capacity": 20, "size": 1, "requirements": [{"item": "votawu", "amount": 3}, {"item": "naziha", "amount": 4}], "research": "votawu-conveyor", "category": "distribution"}

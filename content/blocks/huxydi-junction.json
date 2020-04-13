@@ -1,0 +1,1 @@
+{"type": "junction", "name": "huxydi junction", "description": "...", "health": 17, "speed": 9, "capacity": 12, "size": 1, "requirements": [{"item": "huxydi", "amount": 4}, {"item": "xegu", "amount": 4}], "research": "huxydi-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kovi sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "kovi", "amount": 5}, {"item": "copper", "amount": 2}], "research": "kovi-conveyor", "category": "distribution", "invert": false}

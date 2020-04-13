@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ziruzo battery", "description": "...", "size": 1, "health": 168, "requirements": [{"item": "ziruzo", "amount": 20}, {"item": "lotacu", "amount": 2}, {"item": "cyyy", "amount": 7}], "research": "ziruzo-factory", "consumes": {"powerBuffered": 1895}, "category": "power"}

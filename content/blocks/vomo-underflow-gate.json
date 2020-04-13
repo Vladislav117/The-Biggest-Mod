@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vomo underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "vomo", "amount": 4}, {"item": "nolo", "amount": 3}], "research": "vomo-conveyor", "category": "distribution", "invert": false}

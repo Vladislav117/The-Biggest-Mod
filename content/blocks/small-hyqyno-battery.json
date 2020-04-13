@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hyqyno battery", "description": "...", "size": 1, "health": 316, "requirements": [{"item": "hyqyno", "amount": 1}, {"item": "picika", "amount": 20}, {"item": "magu", "amount": 8}], "research": "hyqyno-factory", "consumes": {"powerBuffered": 1446}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hisa solar panel", "description": "...", "size": 3, "health": 137, "requirements": [{"item": "hisa", "amount": 12}, {"item": "hocode", "amount": 14}, {"item": "lome", "amount": 9}], "research": "hisa-factory", "powerProduction": 13.868064926142239, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jasuly drill", "description": "...", "size": 4, "health": 373, "tier": 3, "drillTime": 20, "consumes": {"power": 6}, "requirements": [{"item": "jasuly", "amount": 15}, {"item": "tozuza", "amount": 1}, {"item": "rukycu", "amount": 8}], "research": "jasuly-factory", "category": "production"}

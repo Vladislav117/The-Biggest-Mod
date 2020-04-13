@@ -1,0 +1,1 @@
+{"type": "battery", "name": "reno battery", "description": "...", "size": 3, "health": 265, "requirements": [{"item": "reno", "amount": 8}, {"item": "pumy", "amount": 12}, {"item": "zusi", "amount": 6}], "research": "reno-factory", "consumes": {"powerBuffered": 300}, "category": "power"}

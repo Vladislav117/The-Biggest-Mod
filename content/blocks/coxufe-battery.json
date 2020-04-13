@@ -1,0 +1,1 @@
+{"type": "battery", "name": "coxufe battery", "description": "...", "size": 3, "health": 240, "requirements": [{"item": "coxufe", "amount": 15}, {"item": "higy", "amount": 20}, {"item": "reqoxu", "amount": 3}], "research": "coxufe-factory", "consumes": {"powerBuffered": 6953}, "category": "power"}

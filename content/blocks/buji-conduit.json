@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "buji conduit", "description": "...", "health": 146, "requirements": [{"item": "buji", "amount": 8}, {"item": "vakoly", "amount": 8}, {"item": "mimuce", "amount": 9}], "liquidCapacity": 5, "liquidPressure": 10, "research": "buji-factory", "category": "liquid"}

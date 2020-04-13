@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kaqyla liquid tank", "description": "...", "health": 395, "size": 3, "requirements": [{"item": "kaqyla", "amount": 4}, {"item": "cygyya", "amount": 3}, {"item": "siwobanium", "amount": 1}], "research": "kaqyla-conduit", "category": "liquid", "liquidCapacity": 91295, "hasLiquids": true}

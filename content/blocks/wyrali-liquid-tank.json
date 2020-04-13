@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wyrali liquid tank", "description": "...", "health": 155, "size": 3, "requirements": [{"item": "wyrali", "amount": 5}, {"item": "jamidi", "amount": 7}, {"item": "vepipu", "amount": 2}], "research": "wyrali-conduit", "category": "liquid", "liquidCapacity": 96672, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cuxenium junction", "description": "...", "health": 40, "speed": 1, "capacity": 12, "size": 1, "requirements": [{"item": "cuxenium", "amount": 2}, {"item": "cyyenium", "amount": 4}], "research": "cuxenium-conveyor", "category": "distribution"}

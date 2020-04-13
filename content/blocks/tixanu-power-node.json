@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tixanu power node", "description": "...", "size": 2, "health": 119, "requirements": [{"item": "tixanu", "amount": 3}, {"item": "pylonium", "amount": 16}, {"item": "wozego", "amount": 8}], "research": "tixanu-factory", "maxNodes": 16, "laserRange": 23, "category": "power"}

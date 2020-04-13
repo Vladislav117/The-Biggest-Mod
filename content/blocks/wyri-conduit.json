@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wyri conduit", "description": "...", "health": 112, "requirements": [{"item": "wyri", "amount": 3}, {"item": "qipy", "amount": 17}, {"item": "pymu", "amount": 7}], "liquidCapacity": 39, "liquidPressure": 2, "research": "wyri-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tavu liquid tank", "description": "...", "health": 586, "size": 3, "requirements": [{"item": "tavu", "amount": 4}, {"item": "yuvynium", "amount": 18}, {"item": "yidugonium", "amount": 6}], "research": "tavu-conduit", "category": "liquid", "liquidCapacity": 27233, "hasLiquids": true}

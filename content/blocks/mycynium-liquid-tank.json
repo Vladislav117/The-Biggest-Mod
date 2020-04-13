@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mycynium liquid tank", "description": "...", "health": 189, "size": 3, "requirements": [{"item": "mycynium", "amount": 5}, {"item": "yayunium", "amount": 4}, {"item": "xyko", "amount": 9}], "research": "mycynium-conduit", "category": "liquid", "liquidCapacity": 13102, "hasLiquids": true}

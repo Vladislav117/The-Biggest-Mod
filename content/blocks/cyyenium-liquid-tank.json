@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cyyenium liquid tank", "description": "...", "health": 174, "size": 3, "requirements": [{"item": "cyyenium", "amount": 18}, {"item": "coqinium", "amount": 6}, {"item": "tuzy", "amount": 4}], "research": "cyyenium-conduit", "category": "liquid", "liquidCapacity": 10513, "hasLiquids": true}

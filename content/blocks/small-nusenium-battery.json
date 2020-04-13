@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nusenium battery", "description": "...", "size": 1, "health": 380, "requirements": [{"item": "nusenium", "amount": 2}, {"item": "loqa", "amount": 20}, {"item": "pivojunium", "amount": 9}], "research": "nusenium-factory", "consumes": {"powerBuffered": 1453}, "category": "power"}

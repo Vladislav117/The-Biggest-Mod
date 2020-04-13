@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "resenium power node", "description": "...", "size": 2, "health": 332, "requirements": [{"item": "resenium", "amount": 1}, {"item": "zexi", "amount": 5}, {"item": "guvoja", "amount": 3}], "research": "resenium-factory", "maxNodes": 46, "laserRange": 7, "category": "power"}

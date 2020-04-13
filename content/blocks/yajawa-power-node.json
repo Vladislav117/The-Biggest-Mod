@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yajawa power node", "description": "...", "size": 2, "health": 212, "requirements": [{"item": "yajawa", "amount": 17}, {"item": "cavuyi", "amount": 6}, {"item": "wasu", "amount": 9}], "research": "yajawa-factory", "maxNodes": 21, "laserRange": 23, "category": "power"}

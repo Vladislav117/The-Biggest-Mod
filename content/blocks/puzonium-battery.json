@@ -1,0 +1,1 @@
+{"type": "battery", "name": "puzonium battery", "description": "...", "size": 3, "health": 303, "requirements": [{"item": "puzonium", "amount": 9}, {"item": "fifyru", "amount": 8}, {"item": "puli", "amount": 5}], "research": "puzonium-factory", "consumes": {"powerBuffered": 630}, "category": "power"}

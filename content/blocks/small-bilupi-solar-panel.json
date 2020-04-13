@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small bilupi solar panel", "description": "...", "size": 1, "health": 88, "requirements": [{"item": "bilupi", "amount": 11}, {"item": "vybygynium", "amount": 4}, {"item": "togi", "amount": 4}], "research": "bilupi-factory", "powerProduction": 1.7582716870308392, "category": "power"}

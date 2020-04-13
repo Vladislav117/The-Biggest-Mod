@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "paba power node", "description": "...", "size": 2, "health": 416, "requirements": [{"item": "paba", "amount": 15}, {"item": "rymyfanium", "amount": 12}, {"item": "sewa", "amount": 10}], "research": "paba-factory", "maxNodes": 38, "laserRange": 13, "category": "power"}

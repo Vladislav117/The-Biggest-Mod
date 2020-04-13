@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "myjupi overdrive projector", "description": "...", "health": 69, "consumes": {"power": 3.0, "item": "myjupi"}, "size": 2, "requirements": [{"item": "myjupi", "amount": 13}, {"item": "tivepa", "amount": 14}, {"item": "yemy", "amount": 10}], "research": "myjupi-factory", "category": "effect"}

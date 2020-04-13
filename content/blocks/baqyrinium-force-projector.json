@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "baqyrinium force projector", "description": "...", "health": 171, "size": 3, "consumes": {"power": 5.0, "item": "baqyrinium"}, "requirements": [{"item": "baqyrinium", "amount": 2}, {"item": "kovi", "amount": 17}, {"item": "fote", "amount": 6}], "research": "baqyrinium-factory", "category": "effect"}

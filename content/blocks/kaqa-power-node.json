@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kaqa power node", "description": "...", "size": 2, "health": 706, "requirements": [{"item": "kaqa", "amount": 7}, {"item": "seyobo", "amount": 6}, {"item": "baquyo", "amount": 1}], "research": "kaqa-factory", "maxNodes": 57, "laserRange": 11, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sybo battery", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "sybo", "amount": 1}, {"item": "yadyju", "amount": 9}, {"item": "gokiyi", "amount": 5}], "research": "sybo-factory", "consumes": {"powerBuffered": 2326}, "category": "power"}

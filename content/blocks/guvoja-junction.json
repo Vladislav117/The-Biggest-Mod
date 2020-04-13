@@ -1,0 +1,1 @@
+{"type": "junction", "name": "guvoja junction", "description": "...", "health": 14, "speed": 11, "capacity": 13, "size": 1, "requirements": [{"item": "guvoja", "amount": 5}, {"item": "vakaco", "amount": 2}], "research": "guvoja-conveyor", "category": "distribution"}

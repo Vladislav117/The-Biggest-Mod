@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mewe junction", "description": "...", "health": 46, "speed": 16, "capacity": 20, "size": 1, "requirements": [{"item": "mewe", "amount": 5}, {"item": "yymujy", "amount": 1}], "research": "mewe-conveyor", "category": "distribution"}

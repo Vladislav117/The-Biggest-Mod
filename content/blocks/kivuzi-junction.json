@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kivuzi junction", "description": "...", "health": 45, "speed": 4, "capacity": 10, "size": 1, "requirements": [{"item": "kivuzi", "amount": 4}, {"item": "qipy", "amount": 1}], "research": "kivuzi-conveyor", "category": "distribution"}

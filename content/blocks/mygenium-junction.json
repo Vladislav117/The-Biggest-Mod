@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mygenium junction", "description": "...", "health": 36, "speed": 2, "capacity": 2, "size": 1, "requirements": [{"item": "mygenium", "amount": 2}, {"item": "cupedi", "amount": 3}], "research": "mygenium-conveyor", "category": "distribution"}

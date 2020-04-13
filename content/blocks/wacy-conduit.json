@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wacy conduit", "description": "...", "health": 150, "requirements": [{"item": "wacy", "amount": 16}, {"item": "qenu", "amount": 5}, {"item": "rateju", "amount": 1}], "liquidCapacity": 18, "liquidPressure": 10, "research": "wacy-factory", "category": "liquid"}

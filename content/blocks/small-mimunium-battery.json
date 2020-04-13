@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small mimunium battery", "description": "...", "size": 1, "health": 244, "requirements": [{"item": "mimunium", "amount": 12}, {"item": "bonazynium", "amount": 4}, {"item": "gorenium", "amount": 5}], "research": "mimunium-factory", "consumes": {"powerBuffered": 2021}, "category": "power"}

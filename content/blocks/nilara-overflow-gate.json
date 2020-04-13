@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nilara overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "nilara", "amount": 2}, {"item": "winyjo", "amount": 3}], "research": "nilara-conveyor", "category": "distribution", "invert": false}

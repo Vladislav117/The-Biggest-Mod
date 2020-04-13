@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qycozi underflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "qycozi", "amount": 3}, {"item": "covifinium", "amount": 5}], "research": "qycozi-conveyor", "category": "distribution", "invert": false}

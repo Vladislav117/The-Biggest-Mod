@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lubaco power node", "description": "...", "size": 1, "health": 285, "requirements": [{"item": "lubaco", "amount": 9}, {"item": "myyu", "amount": 19}, {"item": "hojinium", "amount": 7}], "research": "lubaco-factory", "maxNodes": 23, "laserRange": 19, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vyguxenium bridge conveyor", "description": "", "health": 46, "range": 3, "speed": 15, "bufferCapacity": 6, "requirements": [{"item": "vyguxenium", "amount": 2}, {"item": "zuqu", "amount": 2}], "research": "vyguxenium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "folewo liquid tank", "description": "...", "health": 670, "size": 3, "requirements": [{"item": "folewo", "amount": 16}, {"item": "waho", "amount": 5}, {"item": "xufonium", "amount": 8}], "research": "folewo-conduit", "category": "liquid", "liquidCapacity": 33633, "hasLiquids": true}

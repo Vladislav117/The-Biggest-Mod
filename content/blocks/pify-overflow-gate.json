@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pify overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "pify", "amount": 4}, {"item": "lejara", "amount": 5}], "research": "pify-conveyor", "category": "distribution", "invert": false}

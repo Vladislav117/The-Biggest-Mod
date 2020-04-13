@@ -1,0 +1,1 @@
+{"type": "battery", "name": "foqunium battery", "description": "...", "size": 3, "health": 269, "requirements": [{"item": "foqunium", "amount": 16}, {"item": "rajela", "amount": 9}, {"item": "wevo", "amount": 9}], "research": "foqunium-factory", "consumes": {"powerBuffered": 1257}, "category": "power"}

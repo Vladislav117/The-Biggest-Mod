@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "peny conduit", "description": "...", "health": 188, "requirements": [{"item": "peny", "amount": 7}, {"item": "rahu", "amount": 19}, {"item": "gahe", "amount": 3}], "liquidCapacity": 14, "liquidPressure": 3, "research": "peny-factory", "category": "liquid"}

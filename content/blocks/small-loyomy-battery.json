@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small loyomy battery", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "loyomy", "amount": 17}, {"item": "tomufa", "amount": 17}, {"item": "lowocanium", "amount": 5}], "research": "loyomy-factory", "consumes": {"powerBuffered": 1031}, "category": "power"}

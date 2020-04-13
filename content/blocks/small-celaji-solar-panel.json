@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small celaji solar panel", "description": "...", "size": 1, "health": 207, "requirements": [{"item": "celaji", "amount": 17}, {"item": "hotonium", "amount": 3}, {"item": "cinynium", "amount": 7}], "research": "celaji-factory", "powerProduction": 1.1912873908795911, "category": "power"}

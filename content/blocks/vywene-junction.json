@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vywene junction", "description": "...", "health": 21, "speed": 14, "capacity": 8, "size": 1, "requirements": [{"item": "vywene", "amount": 2}, {"item": "yaxuda", "amount": 5}], "research": "vywene-conveyor", "category": "distribution"}

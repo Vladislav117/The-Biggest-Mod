@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rypy liquid tank", "description": "...", "health": 239, "size": 3, "requirements": [{"item": "rypy", "amount": 1}, {"item": "raky", "amount": 15}, {"item": "qujunium", "amount": 10}], "research": "rypy-conduit", "category": "liquid", "liquidCapacity": 107200, "hasLiquids": true}

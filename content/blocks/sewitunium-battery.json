@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sewitunium battery", "description": "...", "size": 3, "health": 136, "requirements": [{"item": "sewitunium", "amount": 20}, {"item": "yixy", "amount": 12}, {"item": "yuwo", "amount": 6}], "research": "sewitunium-factory", "consumes": {"powerBuffered": 2712}, "category": "power"}

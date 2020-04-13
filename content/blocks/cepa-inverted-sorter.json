@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cepa inverted sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "cepa", "amount": 1}, {"item": "hiki", "amount": 2}], "research": "cepa-conveyor", "category": "distribution", "invert": true}

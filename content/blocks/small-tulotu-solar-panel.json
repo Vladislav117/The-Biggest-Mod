@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tulotu solar panel", "description": "...", "size": 1, "health": 394, "requirements": [{"item": "tulotu", "amount": 2}, {"item": "valetynium", "amount": 12}, {"item": "beqeyenium", "amount": 1}], "research": "tulotu-factory", "powerProduction": 3.5437304002024113, "category": "power"}

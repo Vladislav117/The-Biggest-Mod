@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vasu solar panel", "description": "...", "size": 3, "health": 40, "requirements": [{"item": "vasu", "amount": 14}, {"item": "buro", "amount": 18}, {"item": "makajo", "amount": 6}], "research": "vasu-factory", "powerProduction": 0.0329998726049391, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tehepy underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "tehepy", "amount": 4}, {"item": "wupoxy", "amount": 3}], "research": "tehepy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "hunaci overdrive projector", "description": "...", "health": 83, "consumes": {"power": 3.0, "item": "hunaci"}, "size": 2, "requirements": [{"item": "hunaci", "amount": 2}, {"item": "wemenium", "amount": 9}, {"item": "qexata", "amount": 10}], "research": "hunaci-factory", "category": "effect"}

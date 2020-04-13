@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qifu battery", "description": "...", "size": 3, "health": 347, "requirements": [{"item": "qifu", "amount": 19}, {"item": "suyode", "amount": 14}, {"item": "kofynium", "amount": 7}], "research": "qifu-factory", "consumes": {"powerBuffered": 5950}, "category": "power"}

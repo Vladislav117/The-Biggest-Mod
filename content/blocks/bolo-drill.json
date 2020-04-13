@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bolo drill", "description": "...", "size": 2, "health": 216, "tier": 3, "drillTime": 20, "consumes": {"power": 16}, "requirements": [{"item": "bolo", "amount": 12}, {"item": "cazewy", "amount": 11}, {"item": "kyka", "amount": 4}], "research": "bolo-factory", "category": "production"}

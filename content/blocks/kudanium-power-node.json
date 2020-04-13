@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kudanium power node", "description": "...", "size": 2, "health": 127, "requirements": [{"item": "kudanium", "amount": 8}, {"item": "rytysynium", "amount": 20}, {"item": "jepumi", "amount": 10}], "research": "kudanium-factory", "maxNodes": 12, "laserRange": 19, "category": "power"}

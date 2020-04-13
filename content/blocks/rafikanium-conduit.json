@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rafikanium conduit", "description": "...", "health": 30, "requirements": [{"item": "rafikanium", "amount": 16}, {"item": "pynebi", "amount": 8}, {"item": "bogovy", "amount": 8}], "liquidCapacity": 29, "liquidPressure": 3, "research": "rafikanium-factory", "category": "liquid"}

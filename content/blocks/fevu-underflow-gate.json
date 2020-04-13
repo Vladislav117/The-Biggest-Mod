@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fevu underflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "fevu", "amount": 3}, {"item": "numuwanium", "amount": 3}], "research": "fevu-conveyor", "category": "distribution", "invert": false}

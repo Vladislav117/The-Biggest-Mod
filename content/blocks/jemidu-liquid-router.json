@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jemidu liquid router", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "jemidu", "amount": 20}, {"item": "cavuyi", "amount": 3}, {"item": "mebu", "amount": 5}], "research": "jemidu-conduit", "liquidCapacity": 10, "category": "liquid"}

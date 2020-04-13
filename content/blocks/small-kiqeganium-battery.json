@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kiqeganium battery", "description": "...", "size": 1, "health": 394, "requirements": [{"item": "kiqeganium", "amount": 8}, {"item": "nifego", "amount": 3}, {"item": "wasu", "amount": 6}], "research": "kiqeganium-factory", "consumes": {"powerBuffered": 1095}, "category": "power"}

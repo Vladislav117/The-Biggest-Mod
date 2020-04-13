@@ -1,0 +1,1 @@
+{"type": "battery", "name": "duly battery", "description": "...", "size": 3, "health": 29, "requirements": [{"item": "duly", "amount": 15}, {"item": "vuciby", "amount": 19}, {"item": "cyma", "amount": 7}], "research": "duly-factory", "consumes": {"powerBuffered": 7963}, "category": "power"}

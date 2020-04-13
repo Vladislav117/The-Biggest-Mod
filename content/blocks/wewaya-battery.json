@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wewaya battery", "description": "...", "size": 3, "health": 348, "requirements": [{"item": "wewaya", "amount": 14}, {"item": "sekele", "amount": 8}, {"item": "lyzecinium", "amount": 5}], "research": "wewaya-factory", "consumes": {"powerBuffered": 8170}, "category": "power"}

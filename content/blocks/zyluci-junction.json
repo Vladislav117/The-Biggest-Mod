@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zyluci junction", "description": "...", "health": 21, "speed": 17, "capacity": 7, "size": 1, "requirements": [{"item": "zyluci", "amount": 1}, {"item": "byyu", "amount": 1}], "research": "zyluci-conveyor", "category": "distribution"}

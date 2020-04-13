@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qizi battery", "description": "...", "size": 1, "health": 269, "requirements": [{"item": "qizi", "amount": 10}, {"item": "xapu", "amount": 19}, {"item": "rajubanium", "amount": 3}], "research": "qizi-factory", "consumes": {"powerBuffered": 1684}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tewe bridge conveyor", "description": "", "health": 19, "range": 1, "speed": 4, "bufferCapacity": 18, "requirements": [{"item": "tewe", "amount": 4}, {"item": "beqeyenium", "amount": 4}], "research": "tewe-conveyor", "category": "distribution", "size": 1}

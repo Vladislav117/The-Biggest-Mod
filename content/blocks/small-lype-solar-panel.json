@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lype solar panel", "description": "...", "size": 1, "health": 303, "requirements": [{"item": "lype", "amount": 12}, {"item": "voya", "amount": 10}, {"item": "cyru", "amount": 4}], "research": "lype-factory", "powerProduction": 0.26859686204435584, "category": "power"}

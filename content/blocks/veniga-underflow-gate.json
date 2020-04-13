@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "veniga underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "veniga", "amount": 1}, {"item": "cokyro", "amount": 5}], "research": "veniga-conveyor", "category": "distribution", "invert": false}

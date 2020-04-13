@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kyzubo power node", "description": "...", "size": 2, "health": 361, "requirements": [{"item": "kyzubo", "amount": 9}, {"item": "qiyatonium", "amount": 14}, {"item": "heby", "amount": 1}], "research": "kyzubo-factory", "maxNodes": 42, "laserRange": 25, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "puzihanium drill", "description": "...", "size": 4, "health": 170, "tier": 2, "drillTime": 13, "consumes": {"power": 2}, "requirements": [{"item": "puzihanium", "amount": 4}, {"item": "yexe", "amount": 12}, {"item": "qimose", "amount": 7}], "research": "puzihanium-factory", "category": "production"}

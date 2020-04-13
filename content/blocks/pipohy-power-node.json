@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pipohy power node", "description": "...", "size": 2, "health": 17, "requirements": [{"item": "pipohy", "amount": 8}, {"item": "gybanium", "amount": 16}, {"item": "kanuya", "amount": 1}], "research": "pipohy-factory", "maxNodes": 48, "laserRange": 25, "category": "power"}

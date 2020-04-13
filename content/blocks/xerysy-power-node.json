@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xerysy power node", "description": "...", "size": 2, "health": 190, "requirements": [{"item": "xerysy", "amount": 5}, {"item": "sute", "amount": 17}, {"item": "wozyju", "amount": 8}], "research": "xerysy-factory", "maxNodes": 56, "laserRange": 20, "category": "power"}

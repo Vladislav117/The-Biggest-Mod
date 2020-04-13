@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "lyru overdrive projector", "description": "...", "health": 71, "consumes": {"power": 3.0, "item": "lyru"}, "size": 2, "requirements": [{"item": "lyru", "amount": 1}, {"item": "thorium", "amount": 2}, {"item": "graphite", "amount": 10}], "research": "lyru-factory", "category": "effect"}

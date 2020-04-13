@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qupu battery", "description": "...", "size": 3, "health": 131, "requirements": [{"item": "qupu", "amount": 5}, {"item": "kuwo", "amount": 9}, {"item": "rehodunium", "amount": 3}], "research": "qupu-factory", "consumes": {"powerBuffered": 8743}, "category": "power"}

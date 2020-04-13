@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lybutinium solar panel", "description": "...", "size": 3, "health": 56, "requirements": [{"item": "lybutinium", "amount": 12}, {"item": "hyfeho", "amount": 11}, {"item": "nyyonium", "amount": 9}], "research": "lybutinium-factory", "powerProduction": 0.09663205738778076, "category": "power"}

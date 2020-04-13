@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yigonenium solar panel", "description": "...", "size": 3, "health": 333, "requirements": [{"item": "yigonenium", "amount": 10}, {"item": "dicaku", "amount": 14}, {"item": "taja", "amount": 6}], "research": "yigonenium-factory", "powerProduction": 0.01705122461531154, "category": "power"}

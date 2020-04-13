@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ribugi liquid tank", "description": "...", "health": 359, "size": 3, "requirements": [{"item": "ribugi", "amount": 13}, {"item": "lumasunium", "amount": 13}, {"item": "pucinium", "amount": 7}], "research": "ribugi-conduit", "category": "liquid", "liquidCapacity": 33748, "hasLiquids": true}

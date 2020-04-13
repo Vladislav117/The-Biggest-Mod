@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xesu conduit", "description": "...", "health": 119, "requirements": [{"item": "xesu", "amount": 2}, {"item": "hysobe", "amount": 4}, {"item": "birynium", "amount": 1}], "liquidCapacity": 45, "liquidPressure": 1, "research": "xesu-factory", "category": "liquid"}

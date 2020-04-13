@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fykemi battery", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "fykemi", "amount": 3}, {"item": "zyru", "amount": 14}, {"item": "ceri", "amount": 2}], "research": "fykemi-factory", "consumes": {"powerBuffered": 1819}, "category": "power"}

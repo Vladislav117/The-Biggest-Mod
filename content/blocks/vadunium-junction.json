@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vadunium junction", "description": "...", "health": 11, "speed": 20, "capacity": 10, "size": 1, "requirements": [{"item": "vadunium", "amount": 5}, {"item": "jupygu", "amount": 1}], "research": "vadunium-conveyor", "category": "distribution"}

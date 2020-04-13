@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sohe junction", "description": "...", "health": 31, "speed": 7, "capacity": 16, "size": 1, "requirements": [{"item": "sohe", "amount": 2}, {"item": "yadyju", "amount": 4}], "research": "sohe-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zexuza power node", "description": "...", "size": 2, "health": 228, "requirements": [{"item": "zexuza", "amount": 9}, {"item": "kepusy", "amount": 3}, {"item": "kuwy", "amount": 10}], "research": "zexuza-factory", "maxNodes": 27, "laserRange": 16, "category": "power"}

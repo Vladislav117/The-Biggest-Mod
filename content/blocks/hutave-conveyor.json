@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "hutave conveyor", "description": "...", "health": 132, "requirements": [{"item": "hutave", "amount": 10}, {"item": "wehynium", "amount": 3}], "speed": 0.43047876449989286, "research": "hutave-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "liqy solar panel", "description": "...", "size": 3, "health": 54, "requirements": [{"item": "liqy", "amount": 7}, {"item": "ceqo", "amount": 18}, {"item": "kupu", "amount": 6}], "research": "liqy-factory", "powerProduction": 0.026844603509512316, "category": "power"}

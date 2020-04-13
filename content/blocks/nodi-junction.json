@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nodi junction", "description": "...", "health": 37, "speed": 9, "capacity": 15, "size": 1, "requirements": [{"item": "nodi", "amount": 4}, {"item": "yake", "amount": 2}], "research": "nodi-conveyor", "category": "distribution"}

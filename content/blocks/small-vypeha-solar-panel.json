@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vypeha solar panel", "description": "...", "size": 1, "health": 335, "requirements": [{"item": "vypeha", "amount": 16}, {"item": "kovi", "amount": 18}, {"item": "qevije", "amount": 6}], "research": "vypeha-factory", "powerProduction": 5.061863909157384, "category": "power"}

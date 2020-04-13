@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tymofa liquid tank", "description": "...", "health": 497, "size": 3, "requirements": [{"item": "tymofa", "amount": 19}, {"item": "cahi", "amount": 5}, {"item": "pijewu", "amount": 7}], "research": "tymofa-conduit", "category": "liquid", "liquidCapacity": 117440, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "macixy battery", "description": "...", "size": 3, "health": 118, "requirements": [{"item": "macixy", "amount": 1}, {"item": "milu", "amount": 7}, {"item": "wobuyu", "amount": 3}], "research": "macixy-factory", "consumes": {"powerBuffered": 2954}, "category": "power"}

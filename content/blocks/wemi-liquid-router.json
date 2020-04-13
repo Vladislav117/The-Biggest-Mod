@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wemi liquid router", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "wemi", "amount": 13}, {"item": "taxidy", "amount": 11}, {"item": "dejoqonium", "amount": 9}], "research": "wemi-conduit", "liquidCapacity": 10, "category": "liquid"}

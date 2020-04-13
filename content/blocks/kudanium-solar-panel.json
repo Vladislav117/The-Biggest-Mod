@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kudanium solar panel", "description": "...", "size": 3, "health": 240, "requirements": [{"item": "kudanium", "amount": 3}, {"item": "sokezy", "amount": 5}, {"item": "voje", "amount": 4}], "research": "kudanium-factory", "powerProduction": 0.36836006285788364, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "siceku power node", "description": "...", "size": 2, "health": 542, "requirements": [{"item": "siceku", "amount": 19}, {"item": "dukyfe", "amount": 16}, {"item": "nayevynium", "amount": 7}], "research": "siceku-factory", "maxNodes": 54, "laserRange": 27, "category": "power"}

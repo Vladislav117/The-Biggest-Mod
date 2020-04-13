@@ -1,0 +1,1 @@
+{"type": "battery", "name": "humynium battery", "description": "...", "size": 3, "health": 135, "requirements": [{"item": "humynium", "amount": 19}, {"item": "weba", "amount": 16}, {"item": "zuvuze", "amount": 4}], "research": "humynium-factory", "consumes": {"powerBuffered": 6550}, "category": "power"}

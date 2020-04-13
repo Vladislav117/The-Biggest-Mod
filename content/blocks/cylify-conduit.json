@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cylify conduit", "description": "...", "health": 34, "requirements": [{"item": "cylify", "amount": 10}, {"item": "teza", "amount": 12}, {"item": "turode", "amount": 1}], "liquidCapacity": 16, "liquidPressure": 6, "research": "cylify-factory", "category": "liquid"}

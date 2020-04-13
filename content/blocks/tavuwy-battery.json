@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tavuwy battery", "description": "...", "size": 3, "health": 170, "requirements": [{"item": "tavuwy", "amount": 4}, {"item": "reboka", "amount": 10}, {"item": "cucaso", "amount": 5}], "research": "tavuwy-factory", "consumes": {"powerBuffered": 709}, "category": "power"}

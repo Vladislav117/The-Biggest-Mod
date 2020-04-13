@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vike overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "vike", "amount": 4}, {"item": "tuhe", "amount": 1}], "research": "vike-conveyor", "category": "distribution", "invert": false}

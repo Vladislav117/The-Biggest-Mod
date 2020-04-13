@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gedo solar panel", "description": "...", "size": 3, "health": 291, "requirements": [{"item": "gedo", "amount": 16}, {"item": "qyyalo", "amount": 1}, {"item": "kyyuny", "amount": 1}], "research": "gedo-factory", "powerProduction": 7.156158923054395, "category": "power"}

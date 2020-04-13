@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lome liquid router", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "lome", "amount": 20}, {"item": "qiseho", "amount": 8}, {"item": "hudolo", "amount": 5}], "research": "lome-conduit", "liquidCapacity": 10, "category": "liquid"}

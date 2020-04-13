@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wupi bridge conveyor", "description": "", "health": 29, "range": 6, "speed": 7, "bufferCapacity": 14, "requirements": [{"item": "wupi", "amount": 4}, {"item": "ciba", "amount": 5}], "research": "wupi-conveyor", "category": "distribution", "size": 1}

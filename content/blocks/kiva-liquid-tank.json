@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kiva liquid tank", "description": "...", "health": 646, "size": 3, "requirements": [{"item": "kiva", "amount": 19}, {"item": "bopu", "amount": 7}, {"item": "miyafa", "amount": 5}], "research": "kiva-conduit", "category": "liquid", "liquidCapacity": 71694, "hasLiquids": true}

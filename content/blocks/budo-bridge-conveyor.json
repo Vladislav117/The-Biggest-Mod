@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "budo bridge conveyor", "description": "", "health": 9, "range": 7, "speed": 12, "bufferCapacity": 18, "requirements": [{"item": "budo", "amount": 1}, {"item": "qulihe", "amount": 1}], "research": "budo-conveyor", "category": "distribution", "size": 1}

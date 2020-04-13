@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qykebo junction", "description": "...", "health": 2, "speed": 5, "capacity": 14, "size": 1, "requirements": [{"item": "qykebo", "amount": 3}, {"item": "gurikinium", "amount": 4}], "research": "qykebo-conveyor", "category": "distribution"}

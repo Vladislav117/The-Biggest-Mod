@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zyqita inverted sorter", "description": ",...", "health": 27, "size": 1, "requirements": [{"item": "zyqita", "amount": 3}, {"item": "cozuja", "amount": 3}], "research": "zyqita-conveyor", "category": "distribution", "invert": true}

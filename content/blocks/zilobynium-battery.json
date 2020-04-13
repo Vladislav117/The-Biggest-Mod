@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zilobynium battery", "description": "...", "size": 3, "health": 330, "requirements": [{"item": "zilobynium", "amount": 17}, {"item": "zorudy", "amount": 15}, {"item": "puhide", "amount": 1}], "research": "zilobynium-factory", "consumes": {"powerBuffered": 6465}, "category": "power"}

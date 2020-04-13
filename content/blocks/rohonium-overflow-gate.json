@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rohonium overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "rohonium", "amount": 4}, {"item": "puzybo", "amount": 4}], "research": "rohonium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "quge underflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "quge", "amount": 2}, {"item": "byre", "amount": 1}], "research": "quge-conveyor", "category": "distribution", "invert": false}

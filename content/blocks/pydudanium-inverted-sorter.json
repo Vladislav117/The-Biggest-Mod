@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pydudanium inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "pydudanium", "amount": 1}, {"item": "hiwenium", "amount": 3}], "research": "pydudanium-conveyor", "category": "distribution", "invert": true}

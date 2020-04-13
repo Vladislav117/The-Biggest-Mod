@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nihalonium sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "nihalonium", "amount": 4}, {"item": "nywo", "amount": 2}], "research": "nihalonium-conveyor", "category": "distribution", "invert": false}

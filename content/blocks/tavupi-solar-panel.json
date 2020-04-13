@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tavupi solar panel", "description": "...", "size": 3, "health": 27, "requirements": [{"item": "tavupi", "amount": 3}, {"item": "famynium", "amount": 19}, {"item": "bilynium", "amount": 4}], "research": "tavupi-factory", "powerProduction": 0.12908061828203618, "category": "power"}

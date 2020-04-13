@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sewitunium power node", "description": "...", "size": 2, "health": 782, "requirements": [{"item": "sewitunium", "amount": 11}, {"item": "tyqi", "amount": 2}, {"item": "ryqaje", "amount": 5}], "research": "sewitunium-factory", "maxNodes": 40, "laserRange": 18, "category": "power"}

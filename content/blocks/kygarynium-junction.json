@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kygarynium junction", "description": "...", "health": 43, "speed": 9, "capacity": 10, "size": 1, "requirements": [{"item": "kygarynium", "amount": 5}, {"item": "ligyxe", "amount": 3}], "research": "kygarynium-conveyor", "category": "distribution"}

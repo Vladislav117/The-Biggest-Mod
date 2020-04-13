@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vomo solar panel", "description": "...", "size": 1, "health": 164, "requirements": [{"item": "vomo", "amount": 17}, {"item": "lahydo", "amount": 17}, {"item": "cetemy", "amount": 5}], "research": "vomo-factory", "powerProduction": 7.692818314214971, "category": "power"}

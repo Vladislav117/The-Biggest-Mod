@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xerysy power node", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "xerysy", "amount": 8}, {"item": "pino", "amount": 19}, {"item": "xijinium", "amount": 9}], "research": "xerysy-factory", "maxNodes": 4, "laserRange": 7, "category": "power"}

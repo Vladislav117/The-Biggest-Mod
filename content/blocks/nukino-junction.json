@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nukino junction", "description": "...", "health": 19, "speed": 16, "capacity": 9, "size": 1, "requirements": [{"item": "nukino", "amount": 5}, {"item": "noyayu", "amount": 2}], "research": "nukino-conveyor", "category": "distribution"}

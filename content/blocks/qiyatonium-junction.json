@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qiyatonium junction", "description": "...", "health": 16, "speed": 13, "capacity": 2, "size": 1, "requirements": [{"item": "qiyatonium", "amount": 5}, {"item": "fyfoni", "amount": 4}], "research": "qiyatonium-conveyor", "category": "distribution"}

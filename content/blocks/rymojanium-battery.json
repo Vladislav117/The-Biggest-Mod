@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rymojanium battery", "description": "...", "size": 3, "health": 88, "requirements": [{"item": "rymojanium", "amount": 18}, {"item": "bybity", "amount": 6}, {"item": "plastanium", "amount": 8}], "research": "rymojanium-factory", "consumes": {"powerBuffered": 580}, "category": "power"}

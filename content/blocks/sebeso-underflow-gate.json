@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sebeso underflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "sebeso", "amount": 2}, {"item": "rypenium", "amount": 3}], "research": "sebeso-conveyor", "category": "distribution", "invert": false}

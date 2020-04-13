@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xamoky liquid tank", "description": "...", "health": 361, "size": 3, "requirements": [{"item": "xamoky", "amount": 10}, {"item": "vabenium", "amount": 5}, {"item": "pijewu", "amount": 4}], "research": "xamoky-conduit", "category": "liquid", "liquidCapacity": 14312, "hasLiquids": true}

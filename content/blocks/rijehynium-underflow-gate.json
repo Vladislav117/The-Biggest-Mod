@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rijehynium underflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "rijehynium", "amount": 1}, {"item": "beqa", "amount": 5}], "research": "rijehynium-conveyor", "category": "distribution", "invert": false}

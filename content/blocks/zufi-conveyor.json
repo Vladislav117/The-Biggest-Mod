@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "zufi conveyor", "description": "...", "health": 114, "requirements": [{"item": "zufi", "amount": 10}, {"item": "rita", "amount": 7}], "speed": 0.0010430802135477646, "research": "zufi-factory", "category": "distribution"}

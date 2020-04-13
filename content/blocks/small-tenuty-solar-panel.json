@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tenuty solar panel", "description": "...", "size": 1, "health": 116, "requirements": [{"item": "tenuty", "amount": 20}, {"item": "ceze", "amount": 4}, {"item": "tanexo", "amount": 2}], "research": "tenuty-factory", "powerProduction": 0.494460879608996, "category": "power"}

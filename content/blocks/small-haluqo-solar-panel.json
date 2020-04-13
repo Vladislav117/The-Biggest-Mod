@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small haluqo solar panel", "description": "...", "size": 1, "health": 216, "requirements": [{"item": "haluqo", "amount": 5}, {"item": "liqunium", "amount": 6}, {"item": "qubyzi", "amount": 9}], "research": "haluqo-factory", "powerProduction": 6.688185203453201, "category": "power"}

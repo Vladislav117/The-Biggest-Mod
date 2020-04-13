@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vabenium solar panel", "description": "...", "size": 3, "health": 149, "requirements": [{"item": "vabenium", "amount": 16}, {"item": "jymi", "amount": 2}, {"item": "luvonium", "amount": 3}], "research": "vabenium-factory", "powerProduction": 0.02724635476065987, "category": "power"}

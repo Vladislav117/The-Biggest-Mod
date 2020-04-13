@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vyha battery", "description": "...", "size": 3, "health": 334, "requirements": [{"item": "vyha", "amount": 10}, {"item": "litilenium", "amount": 6}, {"item": "xofa", "amount": 8}], "research": "vyha-factory", "consumes": {"powerBuffered": 1400}, "category": "power"}

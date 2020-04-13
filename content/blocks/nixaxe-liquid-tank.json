@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nixaxe liquid tank", "description": "...", "health": 402, "size": 3, "requirements": [{"item": "nixaxe", "amount": 2}, {"item": "qytama", "amount": 17}, {"item": "colu", "amount": 6}], "research": "nixaxe-conduit", "category": "liquid", "liquidCapacity": 83293, "hasLiquids": true}

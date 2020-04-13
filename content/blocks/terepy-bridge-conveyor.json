@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "terepy bridge conveyor", "description": "", "health": 2, "range": 4, "speed": 18, "bufferCapacity": 7, "requirements": [{"item": "terepy", "amount": 2}, {"item": "pubado", "amount": 3}], "research": "terepy-conveyor", "category": "distribution", "size": 1}

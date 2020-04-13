@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gula conduit", "description": "...", "health": 27, "requirements": [{"item": "gula", "amount": 17}, {"item": "mizu", "amount": 18}, {"item": "mebu", "amount": 5}], "liquidCapacity": 10, "liquidPressure": 6, "research": "gula-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vulo liquid tank", "description": "...", "health": 576, "size": 3, "requirements": [{"item": "vulo", "amount": 19}, {"item": "ryho", "amount": 3}, {"item": "wiqunium", "amount": 9}], "research": "vulo-conduit", "category": "liquid", "liquidCapacity": 23706, "hasLiquids": true}

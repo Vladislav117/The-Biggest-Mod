@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tyqylo liquid router", "description": "...", "size": 1, "health": 60, "requirements": [{"item": "tyqylo", "amount": 5}, {"item": "qayanium", "amount": 15}, {"item": "dyme", "amount": 5}], "research": "tyqylo-conduit", "liquidCapacity": 10, "category": "liquid"}

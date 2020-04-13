@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qaho solar panel", "description": "...", "size": 1, "health": 324, "requirements": [{"item": "qaho", "amount": 7}, {"item": "kofynium", "amount": 8}, {"item": "cozuja", "amount": 4}], "research": "qaho-factory", "powerProduction": 5.1013693521575885, "category": "power"}

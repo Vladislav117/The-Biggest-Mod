@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tybunium inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "tybunium", "amount": 1}, {"item": "zazinium", "amount": 1}], "research": "tybunium-conveyor", "category": "distribution", "invert": true}

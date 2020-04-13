@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "voje power node", "description": "...", "size": 2, "health": 574, "requirements": [{"item": "voje", "amount": 2}, {"item": "nyyonium", "amount": 13}, {"item": "togygi", "amount": 4}], "research": "voje-factory", "maxNodes": 20, "laserRange": 10, "category": "power"}

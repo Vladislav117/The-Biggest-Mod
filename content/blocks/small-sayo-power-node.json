@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sayo power node", "description": "...", "size": 1, "health": 309, "requirements": [{"item": "sayo", "amount": 16}, {"item": "teyonium", "amount": 12}, {"item": "xuhenium", "amount": 2}], "research": "sayo-factory", "maxNodes": 29, "laserRange": 17, "category": "power"}

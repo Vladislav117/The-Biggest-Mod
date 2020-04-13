@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "donysenium liquid tank", "description": "...", "health": 373, "size": 3, "requirements": [{"item": "donysenium", "amount": 6}, {"item": "cucaso", "amount": 16}, {"item": "vosamo", "amount": 8}], "research": "donysenium-conduit", "category": "liquid", "liquidCapacity": 116745, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "deqonium conduit", "description": "...", "health": 46, "requirements": [{"item": "deqonium", "amount": 9}, {"item": "zyru", "amount": 1}, {"item": "nezexe", "amount": 9}], "liquidCapacity": 29, "liquidPressure": 2, "research": "deqonium-factory", "category": "liquid"}

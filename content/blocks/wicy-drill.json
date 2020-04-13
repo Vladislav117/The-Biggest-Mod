@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wicy drill", "description": "...", "size": 2, "health": 417, "tier": 2, "drillTime": 16, "consumes": {"power": 18}, "requirements": [{"item": "wicy", "amount": 11}, {"item": "plastanium", "amount": 6}, {"item": "gokiyi", "amount": 7}], "research": "wicy-factory", "category": "production"}

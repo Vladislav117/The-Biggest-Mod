@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cilinium conduit", "description": "...", "health": 130, "requirements": [{"item": "cilinium", "amount": 6}, {"item": "zexinium", "amount": 8}, {"item": "qedene", "amount": 9}], "liquidCapacity": 47, "liquidPressure": 3, "research": "cilinium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tosuzy drill", "description": "...", "size": 3, "health": 432, "tier": 3, "drillTime": 19, "consumes": {"power": 14}, "requirements": [{"item": "tosuzy", "amount": 2}, {"item": "nytina", "amount": 11}, {"item": "fygonium", "amount": 7}], "research": "tosuzy-factory", "category": "production"}

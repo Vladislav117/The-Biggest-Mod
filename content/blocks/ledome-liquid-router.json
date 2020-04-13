@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ledome liquid router", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "ledome", "amount": 11}, {"item": "jyyo", "amount": 16}, {"item": "bole", "amount": 9}], "research": "ledome-conduit", "liquidCapacity": 10, "category": "liquid"}

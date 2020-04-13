@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "pufu force projector", "description": "...", "health": 200, "size": 3, "consumes": {"power": 5.0, "item": "pufu"}, "requirements": [{"item": "pufu", "amount": 4}, {"item": "viwymynium", "amount": 19}, {"item": "zoqa", "amount": 9}], "research": "pufu-factory", "category": "effect"}

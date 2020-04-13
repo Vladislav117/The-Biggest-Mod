@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fixunium power node", "description": "...", "size": 1, "health": 198, "requirements": [{"item": "fixunium", "amount": 1}, {"item": "reqynu", "amount": 11}, {"item": "yoxyzo", "amount": 2}], "research": "fixunium-factory", "maxNodes": 29, "laserRange": 4, "category": "power"}

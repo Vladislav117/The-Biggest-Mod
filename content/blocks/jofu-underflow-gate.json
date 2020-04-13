@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jofu underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "jofu", "amount": 4}, {"item": "lyceca", "amount": 2}], "research": "jofu-conveyor", "category": "distribution", "invert": false}

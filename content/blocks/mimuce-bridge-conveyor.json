@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mimuce bridge conveyor", "description": "", "health": 5, "range": 16, "speed": 15, "bufferCapacity": 6, "requirements": [{"item": "mimuce", "amount": 2}, {"item": "pyxoxanium", "amount": 1}], "research": "mimuce-conveyor", "category": "distribution", "size": 1}

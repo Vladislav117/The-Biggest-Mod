@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xofa power node", "description": "...", "size": 2, "health": 764, "requirements": [{"item": "xofa", "amount": 6}, {"item": "vodynium", "amount": 14}, {"item": "tatavo", "amount": 7}], "research": "xofa-factory", "maxNodes": 59, "laserRange": 12, "category": "power"}

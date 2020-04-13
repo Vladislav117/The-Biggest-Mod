@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fakuzo battery", "description": "...", "size": 3, "health": 23, "requirements": [{"item": "fakuzo", "amount": 8}, {"item": "byxyvi", "amount": 9}, {"item": "lihinium", "amount": 6}], "research": "fakuzo-factory", "consumes": {"powerBuffered": 8390}, "category": "power"}

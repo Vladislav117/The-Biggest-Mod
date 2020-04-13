@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hypo solar panel", "description": "...", "size": 1, "health": 203, "requirements": [{"item": "hypo", "amount": 15}, {"item": "kyqu", "amount": 1}, {"item": "tove", "amount": 1}], "research": "hypo-factory", "powerProduction": 11.702499193677625, "category": "power"}

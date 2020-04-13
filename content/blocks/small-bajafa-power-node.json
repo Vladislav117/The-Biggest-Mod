@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bajafa power node", "description": "...", "size": 1, "health": 295, "requirements": [{"item": "bajafa", "amount": 18}, {"item": "niba", "amount": 2}, {"item": "ziti", "amount": 6}], "research": "bajafa-factory", "maxNodes": 14, "laserRange": 8, "category": "power"}

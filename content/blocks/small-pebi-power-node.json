@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pebi power node", "description": "...", "size": 1, "health": 361, "requirements": [{"item": "pebi", "amount": 16}, {"item": "leviye", "amount": 9}, {"item": "nuzivo", "amount": 1}], "research": "pebi-factory", "maxNodes": 25, "laserRange": 14, "category": "power"}

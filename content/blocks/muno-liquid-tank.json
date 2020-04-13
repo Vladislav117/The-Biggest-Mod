@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "muno liquid tank", "description": "...", "health": 133, "size": 3, "requirements": [{"item": "muno", "amount": 7}, {"item": "jeyanium", "amount": 4}, {"item": "masoxo", "amount": 2}], "research": "muno-conduit", "category": "liquid", "liquidCapacity": 55190, "hasLiquids": true}

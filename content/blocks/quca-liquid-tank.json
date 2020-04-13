@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "quca liquid tank", "description": "...", "health": 584, "size": 3, "requirements": [{"item": "quca", "amount": 9}, {"item": "docinium", "amount": 14}, {"item": "mebo", "amount": 6}], "research": "quca-conduit", "category": "liquid", "liquidCapacity": 5904, "hasLiquids": true}

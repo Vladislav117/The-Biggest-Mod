@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lewana solar panel", "description": "...", "size": 3, "health": 34, "requirements": [{"item": "lewana", "amount": 17}, {"item": "yipobe", "amount": 5}, {"item": "muqonium", "amount": 3}], "research": "lewana-factory", "powerProduction": 0.18622925791741432, "category": "power"}

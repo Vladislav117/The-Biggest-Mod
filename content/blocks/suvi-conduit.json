@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "suvi conduit", "description": "...", "health": 23, "requirements": [{"item": "suvi", "amount": 14}, {"item": "vulo", "amount": 5}, {"item": "ryqaje", "amount": 9}], "liquidCapacity": 16, "liquidPressure": 8, "research": "suvi-factory", "category": "liquid"}

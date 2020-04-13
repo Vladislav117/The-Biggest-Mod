@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "femoconium solar panel", "description": "...", "size": 3, "health": 291, "requirements": [{"item": "femoconium", "amount": 1}, {"item": "foji", "amount": 9}, {"item": "mijynium", "amount": 10}], "research": "femoconium-factory", "powerProduction": 1.9290100766092537, "category": "power"}

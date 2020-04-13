@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zuqo battery", "description": "...", "size": 3, "health": 17, "requirements": [{"item": "zuqo", "amount": 6}, {"item": "cozaxo", "amount": 6}, {"item": "vuxi", "amount": 8}], "research": "zuqo-factory", "consumes": {"powerBuffered": 4214}, "category": "power"}

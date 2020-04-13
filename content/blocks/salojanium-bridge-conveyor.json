@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "salojanium bridge conveyor", "description": "", "health": 24, "range": 16, "speed": 6, "bufferCapacity": 12, "requirements": [{"item": "salojanium", "amount": 1}, {"item": "wuvyci", "amount": 3}], "research": "salojanium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "miky power node", "description": "...", "size": 2, "health": 432, "requirements": [{"item": "miky", "amount": 3}, {"item": "hotonium", "amount": 4}, {"item": "yepufi", "amount": 2}], "research": "miky-factory", "maxNodes": 25, "laserRange": 15, "category": "power"}

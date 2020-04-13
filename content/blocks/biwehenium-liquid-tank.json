@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "biwehenium liquid tank", "description": "...", "health": 501, "size": 3, "requirements": [{"item": "biwehenium", "amount": 20}, {"item": "sezuke", "amount": 10}, {"item": "cuba", "amount": 8}], "research": "biwehenium-conduit", "category": "liquid", "liquidCapacity": 84667, "hasLiquids": true}

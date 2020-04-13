@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "homu liquid router", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "homu", "amount": 12}, {"item": "puzanium", "amount": 14}, {"item": "yeyunonium", "amount": 8}], "research": "homu-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "furazinium underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "furazinium", "amount": 2}, {"item": "jylovo", "amount": 4}], "research": "furazinium-conveyor", "category": "distribution", "invert": false}

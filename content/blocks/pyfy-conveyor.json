@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pyfy conveyor", "description": "...", "health": 219, "requirements": [{"item": "pyfy", "amount": 8}, {"item": "xovunium", "amount": 9}], "speed": 0.050020423279586834, "research": "pyfy-factory", "category": "distribution"}

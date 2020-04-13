@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mava battery", "description": "...", "size": 3, "health": 140, "requirements": [{"item": "mava", "amount": 14}, {"item": "vixuca", "amount": 16}, {"item": "besivi", "amount": 4}], "research": "mava-factory", "consumes": {"powerBuffered": 7438}, "category": "power"}

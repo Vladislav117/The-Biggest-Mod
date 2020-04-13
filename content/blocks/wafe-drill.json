@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wafe drill", "description": "...", "size": 3, "health": 245, "tier": 2, "drillTime": 12, "consumes": {"power": 4}, "requirements": [{"item": "wafe", "amount": 10}, {"item": "gyza", "amount": 15}, {"item": "keqiny", "amount": 1}], "research": "wafe-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fumena inverted sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "fumena", "amount": 5}, {"item": "jawo", "amount": 5}], "research": "fumena-conveyor", "category": "distribution", "invert": true}

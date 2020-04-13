@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zokiry solar panel", "description": "...", "size": 3, "health": 73, "requirements": [{"item": "zokiry", "amount": 13}, {"item": "bivucunium", "amount": 10}, {"item": "gagyya", "amount": 5}], "research": "zokiry-factory", "powerProduction": 0.8483122045641059, "category": "power"}

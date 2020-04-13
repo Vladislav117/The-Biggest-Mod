@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tyqylo power node", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "tyqylo", "amount": 18}, {"item": "mavi", "amount": 16}, {"item": "byre", "amount": 4}], "research": "tyqylo-factory", "maxNodes": 13, "laserRange": 8, "category": "power"}

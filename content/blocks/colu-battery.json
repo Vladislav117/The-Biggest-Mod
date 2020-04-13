@@ -1,0 +1,1 @@
+{"type": "battery", "name": "colu battery", "description": "...", "size": 3, "health": 390, "requirements": [{"item": "colu", "amount": 17}, {"item": "gineta", "amount": 9}, {"item": "tewo", "amount": 2}], "research": "colu-factory", "consumes": {"powerBuffered": 3964}, "category": "power"}

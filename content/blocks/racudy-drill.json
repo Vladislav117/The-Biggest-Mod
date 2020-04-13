@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "racudy drill", "description": "...", "size": 2, "health": 174, "tier": 2, "drillTime": 6, "consumes": {"power": 10}, "requirements": [{"item": "racudy", "amount": 8}, {"item": "vyji", "amount": 16}, {"item": "wyfanium", "amount": 10}], "research": "racudy-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "puye junction", "description": "...", "health": 35, "speed": 13, "capacity": 8, "size": 1, "requirements": [{"item": "puye", "amount": 1}, {"item": "tezila", "amount": 1}], "research": "puye-conveyor", "category": "distribution"}

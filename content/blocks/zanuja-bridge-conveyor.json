@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zanuja bridge conveyor", "description": "", "health": 14, "range": 7, "speed": 2, "bufferCapacity": 14, "requirements": [{"item": "zanuja", "amount": 2}, {"item": "yirere", "amount": 3}], "research": "zanuja-conveyor", "category": "distribution", "size": 1}

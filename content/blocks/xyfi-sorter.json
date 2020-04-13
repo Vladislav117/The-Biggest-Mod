@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xyfi sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "xyfi", "amount": 4}, {"item": "yofonium", "amount": 1}], "research": "xyfi-conveyor", "category": "distribution", "invert": false}

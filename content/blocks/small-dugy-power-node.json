@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small dugy power node", "description": "...", "size": 1, "health": 154, "requirements": [{"item": "dugy", "amount": 5}, {"item": "nudady", "amount": 15}, {"item": "cynehe", "amount": 10}], "research": "dugy-factory", "maxNodes": 24, "laserRange": 12, "category": "power"}

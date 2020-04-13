@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xyfi power node", "description": "...", "size": 2, "health": 28, "requirements": [{"item": "xyfi", "amount": 19}, {"item": "qupu", "amount": 16}, {"item": "foqe", "amount": 8}], "research": "xyfi-factory", "maxNodes": 53, "laserRange": 12, "category": "power"}

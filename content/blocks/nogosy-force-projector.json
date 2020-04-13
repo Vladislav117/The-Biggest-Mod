@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "nogosy force projector", "description": "...", "health": 115, "size": 3, "consumes": {"power": 5.0, "item": "nogosy"}, "requirements": [{"item": "nogosy", "amount": 10}, {"item": "rehyce", "amount": 15}, {"item": "kuxevy", "amount": 5}], "research": "nogosy-factory", "category": "effect"}

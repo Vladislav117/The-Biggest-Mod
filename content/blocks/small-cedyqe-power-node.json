@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cedyqe power node", "description": "...", "size": 1, "health": 70, "requirements": [{"item": "cedyqe", "amount": 5}, {"item": "pebi", "amount": 10}, {"item": "qoviganium", "amount": 9}], "research": "cedyqe-factory", "maxNodes": 13, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wemenium overflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "wemenium", "amount": 5}, {"item": "jatyjenium", "amount": 1}], "research": "wemenium-conveyor", "category": "distribution", "invert": false}

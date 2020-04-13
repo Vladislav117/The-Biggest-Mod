@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rovy solar panel", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "rovy", "amount": 8}, {"item": "codaxe", "amount": 15}, {"item": "ryte", "amount": 10}], "research": "rovy-factory", "powerProduction": 1.8983288411643, "category": "power"}

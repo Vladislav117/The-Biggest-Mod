@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nopo conduit", "description": "...", "health": 149, "requirements": [{"item": "nopo", "amount": 10}, {"item": "tire", "amount": 15}, {"item": "cepa", "amount": 10}], "liquidCapacity": 46, "liquidPressure": 7, "research": "nopo-factory", "category": "liquid"}

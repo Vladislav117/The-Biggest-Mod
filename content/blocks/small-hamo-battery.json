@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hamo battery", "description": "...", "size": 1, "health": 383, "requirements": [{"item": "hamo", "amount": 1}, {"item": "payo", "amount": 6}, {"item": "yytiro", "amount": 8}], "research": "hamo-factory", "consumes": {"powerBuffered": 2087}, "category": "power"}

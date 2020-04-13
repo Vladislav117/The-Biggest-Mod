@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "suxy power node", "description": "...", "size": 2, "health": 126, "requirements": [{"item": "suxy", "amount": 15}, {"item": "tagawe", "amount": 15}, {"item": "ryqaje", "amount": 6}], "research": "suxy-factory", "maxNodes": 17, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jazu solar panel", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "jazu", "amount": 11}, {"item": "venuki", "amount": 19}, {"item": "leyoqo", "amount": 6}], "research": "jazu-factory", "powerProduction": 3.7780007328290575, "category": "power"}

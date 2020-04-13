@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fito solar panel", "description": "...", "size": 3, "health": 312, "requirements": [{"item": "fito", "amount": 11}, {"item": "dutenium", "amount": 10}, {"item": "monobu", "amount": 9}], "research": "fito-factory", "powerProduction": 1.556155630862511, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xybimi battery", "description": "...", "size": 3, "health": 357, "requirements": [{"item": "xybimi", "amount": 2}, {"item": "lacu", "amount": 17}, {"item": "lymo", "amount": 9}], "research": "xybimi-factory", "consumes": {"powerBuffered": 7693}, "category": "power"}

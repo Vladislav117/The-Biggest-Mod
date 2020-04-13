@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hewy power node", "description": "...", "size": 2, "health": 278, "requirements": [{"item": "hewy", "amount": 8}, {"item": "geponium", "amount": 9}, {"item": "kyte", "amount": 3}], "research": "hewy-factory", "maxNodes": 58, "laserRange": 6, "category": "power"}

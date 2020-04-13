@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fika battery", "description": "...", "size": 3, "health": 285, "requirements": [{"item": "fika", "amount": 20}, {"item": "hedi", "amount": 12}, {"item": "xofa", "amount": 1}], "research": "fika-factory", "consumes": {"powerBuffered": 1161}, "category": "power"}

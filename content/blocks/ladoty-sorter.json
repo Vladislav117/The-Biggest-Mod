@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ladoty sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "ladoty", "amount": 4}, {"item": "faqymu", "amount": 4}], "research": "ladoty-conveyor", "category": "distribution", "invert": false}

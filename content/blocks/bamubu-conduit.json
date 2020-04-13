@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bamubu conduit", "description": "...", "health": 141, "requirements": [{"item": "bamubu", "amount": 12}, {"item": "bole", "amount": 4}, {"item": "mafihy", "amount": 3}], "liquidCapacity": 35, "liquidPressure": 4, "research": "bamubu-factory", "category": "liquid"}

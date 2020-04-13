@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yeti conduit", "description": "...", "health": 95, "requirements": [{"item": "yeti", "amount": 7}, {"item": "juqinium", "amount": 14}, {"item": "dyzo", "amount": 6}], "liquidCapacity": 28, "liquidPressure": 3, "research": "yeti-factory", "category": "liquid"}

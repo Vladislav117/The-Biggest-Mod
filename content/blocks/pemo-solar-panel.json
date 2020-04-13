@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pemo solar panel", "description": "...", "size": 3, "health": 388, "requirements": [{"item": "pemo", "amount": 6}, {"item": "jyluba", "amount": 14}, {"item": "liza", "amount": 10}], "research": "pemo-factory", "powerProduction": 0.006791796912433793, "category": "power"}

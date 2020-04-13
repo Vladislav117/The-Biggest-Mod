@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zucy bridge conveyor", "description": "", "health": 42, "range": 10, "speed": 16, "bufferCapacity": 10, "requirements": [{"item": "zucy", "amount": 5}, {"item": "kokidenium", "amount": 5}], "research": "zucy-conveyor", "category": "distribution", "size": 1}

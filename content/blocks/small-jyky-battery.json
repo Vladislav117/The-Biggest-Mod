@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jyky battery", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "jyky", "amount": 18}, {"item": "gimy", "amount": 5}, {"item": "dyhyzy", "amount": 2}], "research": "jyky-factory", "consumes": {"powerBuffered": 1446}, "category": "power"}

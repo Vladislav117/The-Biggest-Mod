@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qicu solar panel", "description": "...", "size": 3, "health": 117, "requirements": [{"item": "qicu", "amount": 7}, {"item": "puzihanium", "amount": 2}, {"item": "lora", "amount": 10}], "research": "qicu-factory", "powerProduction": 0.7682701323414091, "category": "power"}

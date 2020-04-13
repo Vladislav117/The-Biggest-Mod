@@ -1,0 +1,1 @@
+{"type": "junction", "name": "niba junction", "description": "...", "health": 5, "speed": 4, "capacity": 17, "size": 1, "requirements": [{"item": "niba", "amount": 2}, {"item": "diro", "amount": 4}], "research": "niba-conveyor", "category": "distribution"}

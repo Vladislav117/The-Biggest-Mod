@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cyhuja bridge conveyor", "description": "", "health": 21, "range": 3, "speed": 7, "bufferCapacity": 12, "requirements": [{"item": "cyhuja", "amount": 1}, {"item": "gokohunium", "amount": 3}], "research": "cyhuja-conveyor", "category": "distribution", "size": 1}

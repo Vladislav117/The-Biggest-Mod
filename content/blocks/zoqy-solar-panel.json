@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zoqy solar panel", "description": "...", "size": 3, "health": 58, "requirements": [{"item": "zoqy", "amount": 2}, {"item": "felu", "amount": 14}, {"item": "cedonium", "amount": 7}], "research": "zoqy-factory", "powerProduction": 0.8517228619648128, "category": "power"}

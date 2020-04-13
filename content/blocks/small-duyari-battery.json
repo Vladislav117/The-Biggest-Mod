@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small duyari battery", "description": "...", "size": 1, "health": 149, "requirements": [{"item": "duyari", "amount": 3}, {"item": "zele", "amount": 18}, {"item": "gufanium", "amount": 1}], "research": "duyari-factory", "consumes": {"powerBuffered": 345}, "category": "power"}

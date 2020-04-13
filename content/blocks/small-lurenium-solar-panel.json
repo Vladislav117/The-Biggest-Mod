@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lurenium solar panel", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "lurenium", "amount": 18}, {"item": "heke", "amount": 1}, {"item": "bafo", "amount": 10}], "research": "lurenium-factory", "powerProduction": 3.2818841578163074, "category": "power"}

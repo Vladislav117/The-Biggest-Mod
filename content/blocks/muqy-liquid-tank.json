@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "muqy liquid tank", "description": "...", "health": 239, "size": 3, "requirements": [{"item": "muqy", "amount": 15}, {"item": "jeqidynium", "amount": 17}, {"item": "ruginium", "amount": 5}], "research": "muqy-conduit", "category": "liquid", "liquidCapacity": 71274, "hasLiquids": true}

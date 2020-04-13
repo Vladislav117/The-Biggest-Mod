@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bymenium overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "bymenium", "amount": 2}, {"item": "pezale", "amount": 4}], "research": "bymenium-conveyor", "category": "distribution", "invert": false}

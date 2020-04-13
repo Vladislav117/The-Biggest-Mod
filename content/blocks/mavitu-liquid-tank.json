@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mavitu liquid tank", "description": "...", "health": 349, "size": 3, "requirements": [{"item": "mavitu", "amount": 2}, {"item": "qubironium", "amount": 3}, {"item": "kosonium", "amount": 2}], "research": "mavitu-conduit", "category": "liquid", "liquidCapacity": 1664, "hasLiquids": true}

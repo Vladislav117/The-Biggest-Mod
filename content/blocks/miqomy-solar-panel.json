@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "miqomy solar panel", "description": "...", "size": 3, "health": 330, "requirements": [{"item": "miqomy", "amount": 17}, {"item": "jeqenium", "amount": 14}, {"item": "viwymynium", "amount": 3}], "research": "miqomy-factory", "powerProduction": 0.8677298898972967, "category": "power"}

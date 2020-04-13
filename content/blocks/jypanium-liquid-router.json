@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jypanium liquid router", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "jypanium", "amount": 2}, {"item": "wama", "amount": 6}, {"item": "nipapu", "amount": 4}], "research": "jypanium-conduit", "liquidCapacity": 10, "category": "liquid"}

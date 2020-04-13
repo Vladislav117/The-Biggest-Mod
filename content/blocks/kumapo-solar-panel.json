@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kumapo solar panel", "description": "...", "size": 3, "health": 206, "requirements": [{"item": "kumapo", "amount": 18}, {"item": "gupohu", "amount": 9}, {"item": "bise", "amount": 10}], "research": "kumapo-factory", "powerProduction": 0.07008788197222761, "category": "power"}

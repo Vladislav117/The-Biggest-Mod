@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hekewi solar panel", "description": "...", "size": 1, "health": 368, "requirements": [{"item": "hekewi", "amount": 11}, {"item": "fesixa", "amount": 16}, {"item": "litilenium", "amount": 2}], "research": "hekewi-factory", "powerProduction": 9.493033482975209, "category": "power"}

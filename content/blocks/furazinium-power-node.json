@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "furazinium power node", "description": "...", "size": 2, "health": 693, "requirements": [{"item": "furazinium", "amount": 18}, {"item": "muby", "amount": 2}, {"item": "dejoqonium", "amount": 2}], "research": "furazinium-factory", "maxNodes": 37, "laserRange": 17, "category": "power"}

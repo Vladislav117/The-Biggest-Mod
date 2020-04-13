@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lawa power node", "description": "...", "size": 2, "health": 542, "requirements": [{"item": "lawa", "amount": 5}, {"item": "wano", "amount": 3}, {"item": "nigucy", "amount": 1}], "research": "lawa-factory", "maxNodes": 51, "laserRange": 23, "category": "power"}

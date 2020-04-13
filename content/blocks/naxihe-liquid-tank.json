@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "naxihe liquid tank", "description": "...", "health": 271, "size": 3, "requirements": [{"item": "naxihe", "amount": 20}, {"item": "cafe", "amount": 9}, {"item": "muby", "amount": 3}], "research": "naxihe-conduit", "category": "liquid", "liquidCapacity": 83672, "hasLiquids": true}

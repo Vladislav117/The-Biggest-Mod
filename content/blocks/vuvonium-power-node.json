@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vuvonium power node", "description": "...", "size": 2, "health": 632, "requirements": [{"item": "vuvonium", "amount": 9}, {"item": "noninium", "amount": 6}, {"item": "subece", "amount": 4}], "research": "vuvonium-factory", "maxNodes": 60, "laserRange": 23, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vezaya battery", "description": "...", "size": 1, "health": 297, "requirements": [{"item": "vezaya", "amount": 8}, {"item": "muby", "amount": 15}, {"item": "jogi", "amount": 6}], "research": "vezaya-factory", "consumes": {"powerBuffered": 1826}, "category": "power"}

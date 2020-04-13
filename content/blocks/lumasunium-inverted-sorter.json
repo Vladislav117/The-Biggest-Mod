@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lumasunium inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "lumasunium", "amount": 1}, {"item": "cuzyko", "amount": 5}], "research": "lumasunium-conveyor", "category": "distribution", "invert": true}

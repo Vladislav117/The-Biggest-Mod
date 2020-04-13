@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small labonium battery", "description": "...", "size": 1, "health": 146, "requirements": [{"item": "labonium", "amount": 16}, {"item": "kypewenium", "amount": 9}, {"item": "tibu", "amount": 7}], "research": "labonium-factory", "consumes": {"powerBuffered": 2201}, "category": "power"}

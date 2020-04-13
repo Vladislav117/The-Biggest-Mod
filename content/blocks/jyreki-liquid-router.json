@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jyreki liquid router", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "jyreki", "amount": 17}, {"item": "rakuhy", "amount": 2}, {"item": "zawyjy", "amount": 1}], "research": "jyreki-conduit", "liquidCapacity": 10, "category": "liquid"}

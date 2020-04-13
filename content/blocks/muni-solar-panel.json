@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "muni solar panel", "description": "...", "size": 3, "health": 202, "requirements": [{"item": "muni", "amount": 9}, {"item": "divi", "amount": 10}, {"item": "wekonium", "amount": 9}], "research": "muni-factory", "powerProduction": 2.238216675934378, "category": "power"}

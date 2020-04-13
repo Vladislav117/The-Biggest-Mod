@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "kudanium force projector", "description": "...", "health": 250, "size": 3, "consumes": {"power": 5.0, "item": "kudanium"}, "requirements": [{"item": "kudanium", "amount": 14}, {"item": "minu", "amount": 20}, {"item": "vove", "amount": 1}], "research": "kudanium-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bywobu power node", "description": "...", "size": 2, "health": 140, "requirements": [{"item": "bywobu", "amount": 18}, {"item": "nirenium", "amount": 19}, {"item": "rafikanium", "amount": 2}], "research": "bywobu-factory", "maxNodes": 19, "laserRange": 5, "category": "power"}

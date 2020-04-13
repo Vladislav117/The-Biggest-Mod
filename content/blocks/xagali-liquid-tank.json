@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xagali liquid tank", "description": "...", "health": 192, "size": 3, "requirements": [{"item": "xagali", "amount": 5}, {"item": "logybi", "amount": 14}, {"item": "gizycanium", "amount": 8}], "research": "xagali-conduit", "category": "liquid", "liquidCapacity": 112633, "hasLiquids": true}

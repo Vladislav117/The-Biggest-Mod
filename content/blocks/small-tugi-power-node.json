@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tugi power node", "description": "...", "size": 1, "health": 367, "requirements": [{"item": "tugi", "amount": 1}, {"item": "hytuki", "amount": 2}, {"item": "ziwo", "amount": 1}], "research": "tugi-factory", "maxNodes": 25, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lowe liquid tank", "description": "...", "health": 631, "size": 3, "requirements": [{"item": "lowe", "amount": 11}, {"item": "kopuzy", "amount": 9}, {"item": "towyti", "amount": 9}], "research": "lowe-conduit", "category": "liquid", "liquidCapacity": 47142, "hasLiquids": true}

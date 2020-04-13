@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xofa inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "xofa", "amount": 2}, {"item": "basomi", "amount": 2}], "research": "xofa-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kavenium battery", "description": "...", "size": 3, "health": 270, "requirements": [{"item": "kavenium", "amount": 17}, {"item": "qebu", "amount": 1}, {"item": "lymy", "amount": 1}], "research": "kavenium-factory", "consumes": {"powerBuffered": 1240}, "category": "power"}

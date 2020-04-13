@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "puma liquid tank", "description": "...", "health": 343, "size": 3, "requirements": [{"item": "puma", "amount": 8}, {"item": "jupiqynium", "amount": 17}, {"item": "vyfyci", "amount": 3}], "research": "puma-conduit", "category": "liquid", "liquidCapacity": 22305, "hasLiquids": true}

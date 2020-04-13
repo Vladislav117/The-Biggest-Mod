@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jago power node", "description": "...", "size": 2, "health": 17, "requirements": [{"item": "jago", "amount": 6}, {"item": "qoxida", "amount": 11}, {"item": "vayy", "amount": 4}], "research": "jago-factory", "maxNodes": 20, "laserRange": 10, "category": "power"}

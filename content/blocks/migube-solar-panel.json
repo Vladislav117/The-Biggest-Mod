@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "migube solar panel", "description": "...", "size": 3, "health": 377, "requirements": [{"item": "migube", "amount": 19}, {"item": "giho", "amount": 6}, {"item": "mapibi", "amount": 6}], "research": "migube-factory", "powerProduction": 1.7392814914922616, "category": "power"}

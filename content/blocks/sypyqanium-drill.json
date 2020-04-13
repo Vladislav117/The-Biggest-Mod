@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sypyqanium drill", "description": "...", "size": 3, "health": 450, "tier": 2, "drillTime": 19, "consumes": {"power": 6}, "requirements": [{"item": "sypyqanium", "amount": 17}, {"item": "fuyoja", "amount": 4}, {"item": "hudolo", "amount": 4}], "research": "sypyqanium-factory", "category": "production"}

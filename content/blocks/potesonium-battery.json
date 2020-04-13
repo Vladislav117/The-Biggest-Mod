@@ -1,0 +1,1 @@
+{"type": "battery", "name": "potesonium battery", "description": "...", "size": 3, "health": 82, "requirements": [{"item": "potesonium", "amount": 7}, {"item": "xyfynium", "amount": 19}, {"item": "depyya", "amount": 6}], "research": "potesonium-factory", "consumes": {"powerBuffered": 1496}, "category": "power"}

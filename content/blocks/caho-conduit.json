@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "caho conduit", "description": "...", "health": 195, "requirements": [{"item": "caho", "amount": 2}, {"item": "sapymanium", "amount": 10}, {"item": "cigifi", "amount": 3}], "liquidCapacity": 12, "liquidPressure": 0, "research": "caho-factory", "category": "liquid"}

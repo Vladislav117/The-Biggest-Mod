@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sayo battery", "description": "...", "size": 1, "health": 280, "requirements": [{"item": "sayo", "amount": 15}, {"item": "sexinium", "amount": 7}, {"item": "rudy", "amount": 1}], "research": "sayo-factory", "consumes": {"powerBuffered": 786}, "category": "power"}

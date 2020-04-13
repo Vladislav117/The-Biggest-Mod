@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zodyju liquid tank", "description": "...", "health": 308, "size": 3, "requirements": [{"item": "zodyju", "amount": 3}, {"item": "meyo", "amount": 8}, {"item": "mumujy", "amount": 10}], "research": "zodyju-conduit", "category": "liquid", "liquidCapacity": 12772, "hasLiquids": true}

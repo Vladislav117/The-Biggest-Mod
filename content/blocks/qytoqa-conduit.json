@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qytoqa conduit", "description": "...", "health": 65, "requirements": [{"item": "qytoqa", "amount": 4}, {"item": "tulotu", "amount": 8}, {"item": "zewe", "amount": 5}], "liquidCapacity": 5, "liquidPressure": 9, "research": "qytoqa-factory", "category": "liquid"}

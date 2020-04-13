@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tavu battery", "description": "...", "size": 1, "health": 364, "requirements": [{"item": "tavu", "amount": 20}, {"item": "roluny", "amount": 2}, {"item": "fino", "amount": 4}], "research": "tavu-factory", "consumes": {"powerBuffered": 1934}, "category": "power"}

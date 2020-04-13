@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "heruvu power node", "description": "...", "size": 2, "health": 590, "requirements": [{"item": "heruvu", "amount": 7}, {"item": "zese", "amount": 2}, {"item": "vohiyynium", "amount": 1}], "research": "heruvu-factory", "maxNodes": 31, "laserRange": 12, "category": "power"}

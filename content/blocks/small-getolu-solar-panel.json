@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small getolu solar panel", "description": "...", "size": 1, "health": 107, "requirements": [{"item": "getolu", "amount": 10}, {"item": "mohoki", "amount": 14}, {"item": "zobopanium", "amount": 5}], "research": "getolu-factory", "powerProduction": 1.1049777824729345, "category": "power"}

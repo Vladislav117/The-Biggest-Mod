@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vate solar panel", "description": "...", "size": 3, "health": 321, "requirements": [{"item": "vate", "amount": 8}, {"item": "qano", "amount": 9}, {"item": "ziwa", "amount": 3}], "research": "vate-factory", "powerProduction": 0.014094846630531841, "category": "power"}

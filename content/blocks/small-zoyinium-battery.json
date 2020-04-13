@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zoyinium battery", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "zoyinium", "amount": 11}, {"item": "rosiqe", "amount": 7}, {"item": "zazinium", "amount": 7}], "research": "zoyinium-factory", "consumes": {"powerBuffered": 2196}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rynaxa underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "rynaxa", "amount": 5}, {"item": "syqyki", "amount": 2}], "research": "rynaxa-conveyor", "category": "distribution", "invert": false}

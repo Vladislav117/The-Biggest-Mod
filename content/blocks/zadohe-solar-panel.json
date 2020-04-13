@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zadohe solar panel", "description": "...", "size": 3, "health": 246, "requirements": [{"item": "zadohe", "amount": 16}, {"item": "lubaco", "amount": 14}, {"item": "xebu", "amount": 8}], "research": "zadohe-factory", "powerProduction": 0.14648004082659377, "category": "power"}

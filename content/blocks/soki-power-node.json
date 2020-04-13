@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "soki power node", "description": "...", "size": 2, "health": 529, "requirements": [{"item": "soki", "amount": 20}, {"item": "cuhynenium", "amount": 16}, {"item": "sebypa", "amount": 1}], "research": "soki-factory", "maxNodes": 33, "laserRange": 22, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gohi solar panel", "description": "...", "size": 1, "health": 11, "requirements": [{"item": "gohi", "amount": 4}, {"item": "dowoca", "amount": 10}, {"item": "puri", "amount": 6}], "research": "gohi-factory", "powerProduction": 0.14251635426780032, "category": "power"}

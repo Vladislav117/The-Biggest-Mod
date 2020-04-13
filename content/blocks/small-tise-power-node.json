@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tise power node", "description": "...", "size": 1, "health": 28, "requirements": [{"item": "tise", "amount": 5}, {"item": "ryzyzi", "amount": 5}, {"item": "puye", "amount": 4}], "research": "tise-factory", "maxNodes": 25, "laserRange": 8, "category": "power"}

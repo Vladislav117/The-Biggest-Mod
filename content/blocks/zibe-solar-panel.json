@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zibe solar panel", "description": "...", "size": 3, "health": 151, "requirements": [{"item": "zibe", "amount": 18}, {"item": "xikogo", "amount": 8}, {"item": "boretu", "amount": 3}], "research": "zibe-factory", "powerProduction": 0.9238021563313842, "category": "power"}

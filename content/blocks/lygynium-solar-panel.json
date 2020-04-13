@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lygynium solar panel", "description": "...", "size": 3, "health": 27, "requirements": [{"item": "lygynium", "amount": 1}, {"item": "mebu", "amount": 5}, {"item": "rutylo", "amount": 8}], "research": "lygynium-factory", "powerProduction": 2.2910609434840734, "category": "power"}

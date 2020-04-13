@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "tuxalu conveyor", "description": "...", "health": 302, "requirements": [{"item": "tuxalu", "amount": 10}, {"item": "makonium", "amount": 8}], "speed": 0.06238634715991176, "research": "tuxalu-factory", "category": "distribution"}

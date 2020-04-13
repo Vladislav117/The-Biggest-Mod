@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qeze conduit", "description": "...", "health": 86, "requirements": [{"item": "qeze", "amount": 11}, {"item": "zogeno", "amount": 8}, {"item": "mimuce", "amount": 1}], "liquidCapacity": 8, "liquidPressure": 3, "research": "qeze-factory", "category": "liquid"}

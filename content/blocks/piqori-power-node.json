@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "piqori power node", "description": "...", "size": 2, "health": 275, "requirements": [{"item": "piqori", "amount": 12}, {"item": "kide", "amount": 15}, {"item": "kujodo", "amount": 3}], "research": "piqori-factory", "maxNodes": 18, "laserRange": 21, "category": "power"}

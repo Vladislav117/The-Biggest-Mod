@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zotonium solar panel", "description": "...", "size": 3, "health": 75, "requirements": [{"item": "zotonium", "amount": 3}, {"item": "gyporu", "amount": 7}, {"item": "goti", "amount": 7}], "research": "zotonium-factory", "powerProduction": 4.19550852893181, "category": "power"}

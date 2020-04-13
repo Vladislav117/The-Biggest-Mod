@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tyrinium battery", "description": "...", "size": 1, "health": 397, "requirements": [{"item": "tyrinium", "amount": 18}, {"item": "ryve", "amount": 4}, {"item": "dihomu", "amount": 7}], "research": "tyrinium-factory", "consumes": {"powerBuffered": 512}, "category": "power"}

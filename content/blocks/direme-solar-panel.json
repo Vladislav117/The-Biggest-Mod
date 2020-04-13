@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "direme solar panel", "description": "...", "size": 3, "health": 128, "requirements": [{"item": "direme", "amount": 12}, {"item": "zoyinium", "amount": 16}, {"item": "rehyce", "amount": 1}], "research": "direme-factory", "powerProduction": 0.37458063125089375, "category": "power"}

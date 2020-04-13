@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rivy liquid tank", "description": "...", "health": 586, "size": 3, "requirements": [{"item": "rivy", "amount": 19}, {"item": "wibasi", "amount": 19}, {"item": "xavinium", "amount": 4}], "research": "rivy-conduit", "category": "liquid", "liquidCapacity": 60280, "hasLiquids": true}

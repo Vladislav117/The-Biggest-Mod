@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xyyyzy battery", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "xyyyzy", "amount": 6}, {"item": "gahunium", "amount": 6}, {"item": "pyge", "amount": 9}], "research": "xyyyzy-factory", "consumes": {"powerBuffered": 2435}, "category": "power"}

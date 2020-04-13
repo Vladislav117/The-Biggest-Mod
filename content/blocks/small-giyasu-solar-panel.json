@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small giyasu solar panel", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "giyasu", "amount": 20}, {"item": "vaxenium", "amount": 17}, {"item": "pylonium", "amount": 1}], "research": "giyasu-factory", "powerProduction": 0.03464469173050837, "category": "power"}

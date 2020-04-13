@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fari battery", "description": "...", "size": 3, "health": 327, "requirements": [{"item": "fari", "amount": 5}, {"item": "qicuwe", "amount": 12}, {"item": "xybimi", "amount": 4}], "research": "fari-factory", "consumes": {"powerBuffered": 4191}, "category": "power"}

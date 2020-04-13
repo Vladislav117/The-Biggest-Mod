@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sirogi inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "sirogi", "amount": 5}, {"item": "weva", "amount": 5}], "research": "sirogi-conveyor", "category": "distribution", "invert": true}

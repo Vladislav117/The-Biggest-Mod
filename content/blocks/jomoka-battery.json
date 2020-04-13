@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jomoka battery", "description": "...", "size": 3, "health": 72, "requirements": [{"item": "jomoka", "amount": 13}, {"item": "nuko", "amount": 16}, {"item": "dyzeky", "amount": 5}], "research": "jomoka-factory", "consumes": {"powerBuffered": 2031}, "category": "power"}

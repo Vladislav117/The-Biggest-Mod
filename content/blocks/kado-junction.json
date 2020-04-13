@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kado junction", "description": "...", "health": 4, "speed": 9, "capacity": 12, "size": 1, "requirements": [{"item": "kado", "amount": 5}, {"item": "nydinium", "amount": 2}], "research": "kado-conveyor", "category": "distribution"}

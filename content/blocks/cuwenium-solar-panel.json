@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cuwenium solar panel", "description": "...", "size": 3, "health": 357, "requirements": [{"item": "cuwenium", "amount": 18}, {"item": "qidibe", "amount": 19}, {"item": "gasagu", "amount": 3}], "research": "cuwenium-factory", "powerProduction": 0.8327360916176711, "category": "power"}

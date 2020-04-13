@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nurynium sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "nurynium", "amount": 1}, {"item": "jytubinium", "amount": 1}], "research": "nurynium-conveyor", "category": "distribution", "invert": false}

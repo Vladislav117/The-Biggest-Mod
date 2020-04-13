@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cavimunium sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "cavimunium", "amount": 3}, {"item": "loha", "amount": 5}], "research": "cavimunium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lobojenium liquid router", "description": "...", "size": 1, "health": 13, "requirements": [{"item": "lobojenium", "amount": 16}, {"item": "qadoyenium", "amount": 12}, {"item": "luki", "amount": 1}], "research": "lobojenium-conduit", "liquidCapacity": 10, "category": "liquid"}

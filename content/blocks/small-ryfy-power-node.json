@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ryfy power node", "description": "...", "size": 1, "health": 311, "requirements": [{"item": "ryfy", "amount": 5}, {"item": "tohi", "amount": 17}, {"item": "zufi", "amount": 6}], "research": "ryfy-factory", "maxNodes": 19, "laserRange": 23, "category": "power"}

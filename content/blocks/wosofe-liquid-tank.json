@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wosofe liquid tank", "description": "...", "health": 205, "size": 3, "requirements": [{"item": "wosofe", "amount": 7}, {"item": "juvaci", "amount": 2}, {"item": "qysavunium", "amount": 3}], "research": "wosofe-conduit", "category": "liquid", "liquidCapacity": 13036, "hasLiquids": true}

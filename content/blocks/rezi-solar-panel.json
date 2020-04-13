@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rezi solar panel", "description": "...", "size": 3, "health": 389, "requirements": [{"item": "rezi", "amount": 11}, {"item": "lahy", "amount": 2}, {"item": "movanium", "amount": 8}], "research": "rezi-factory", "powerProduction": 0.643684570424475, "category": "power"}

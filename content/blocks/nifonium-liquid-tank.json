@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nifonium liquid tank", "description": "...", "health": 204, "size": 3, "requirements": [{"item": "nifonium", "amount": 6}, {"item": "kype", "amount": 12}, {"item": "yuly", "amount": 4}], "research": "nifonium-conduit", "category": "liquid", "liquidCapacity": 18589, "hasLiquids": true}

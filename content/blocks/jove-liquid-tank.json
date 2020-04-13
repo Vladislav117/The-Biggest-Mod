@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jove liquid tank", "description": "...", "health": 668, "size": 3, "requirements": [{"item": "jove", "amount": 16}, {"item": "qudy", "amount": 12}, {"item": "vomiyenium", "amount": 7}], "research": "jove-conduit", "category": "liquid", "liquidCapacity": 14739, "hasLiquids": true}

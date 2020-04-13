@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "joxi liquid tank", "description": "...", "health": 660, "size": 3, "requirements": [{"item": "joxi", "amount": 16}, {"item": "vyly", "amount": 11}, {"item": "zoyinium", "amount": 9}], "research": "joxi-conduit", "category": "liquid", "liquidCapacity": 97361, "hasLiquids": true}

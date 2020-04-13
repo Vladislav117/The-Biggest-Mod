@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "visuco conduit", "description": "...", "health": 53, "requirements": [{"item": "visuco", "amount": 15}, {"item": "kikytanium", "amount": 1}, {"item": "velyma", "amount": 3}], "liquidCapacity": 31, "liquidPressure": 6, "research": "visuco-factory", "category": "liquid"}

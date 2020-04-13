@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sigu liquid tank", "description": "...", "health": 268, "size": 3, "requirements": [{"item": "sigu", "amount": 18}, {"item": "losenium", "amount": 3}, {"item": "wana", "amount": 10}], "research": "sigu-conduit", "category": "liquid", "liquidCapacity": 66143, "hasLiquids": true}

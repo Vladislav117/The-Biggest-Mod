@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mylenium liquid tank", "description": "...", "health": 120, "size": 3, "requirements": [{"item": "mylenium", "amount": 11}, {"item": "cudo", "amount": 12}, {"item": "yalaka", "amount": 9}], "research": "mylenium-conduit", "category": "liquid", "liquidCapacity": 61231, "hasLiquids": true}

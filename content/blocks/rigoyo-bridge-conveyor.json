@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rigoyo bridge conveyor", "description": "", "health": 5, "range": 6, "speed": 6, "bufferCapacity": 9, "requirements": [{"item": "rigoyo", "amount": 5}, {"item": "ropa", "amount": 1}], "research": "rigoyo-conveyor", "category": "distribution", "size": 1}

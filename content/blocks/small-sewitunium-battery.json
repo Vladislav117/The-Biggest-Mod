@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sewitunium battery", "description": "...", "size": 1, "health": 168, "requirements": [{"item": "sewitunium", "amount": 18}, {"item": "zehonium", "amount": 20}, {"item": "vufinium", "amount": 4}], "research": "sewitunium-factory", "consumes": {"powerBuffered": 2605}, "category": "power"}

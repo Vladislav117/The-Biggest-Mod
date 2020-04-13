@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qexata liquid tank", "description": "...", "health": 244, "size": 3, "requirements": [{"item": "qexata", "amount": 10}, {"item": "suyi", "amount": 14}, {"item": "jytubinium", "amount": 9}], "research": "qexata-conduit", "category": "liquid", "liquidCapacity": 15896, "hasLiquids": true}

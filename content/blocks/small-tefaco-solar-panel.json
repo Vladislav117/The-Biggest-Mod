@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tefaco solar panel", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "tefaco", "amount": 8}, {"item": "titenium", "amount": 4}, {"item": "bofazy", "amount": 7}], "research": "tefaco-factory", "powerProduction": 5.14034365590732, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wepo conduit", "description": "...", "health": 71, "requirements": [{"item": "wepo", "amount": 12}, {"item": "kopyto", "amount": 16}, {"item": "xyka", "amount": 2}], "liquidCapacity": 27, "liquidPressure": 1, "research": "wepo-factory", "category": "liquid"}

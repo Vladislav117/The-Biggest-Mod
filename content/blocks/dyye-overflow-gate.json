@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dyye overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "dyye", "amount": 3}, {"item": "noxanium", "amount": 2}], "research": "dyye-conveyor", "category": "distribution", "invert": false}

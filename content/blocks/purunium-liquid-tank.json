@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "purunium liquid tank", "description": "...", "health": 606, "size": 3, "requirements": [{"item": "purunium", "amount": 8}, {"item": "winyjo", "amount": 8}, {"item": "jywupa", "amount": 4}], "research": "purunium-conduit", "category": "liquid", "liquidCapacity": 108451, "hasLiquids": true}

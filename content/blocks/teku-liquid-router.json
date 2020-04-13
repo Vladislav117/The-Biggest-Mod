@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "teku liquid router", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "teku", "amount": 16}, {"item": "cexulu", "amount": 16}, {"item": "zyluci", "amount": 5}], "research": "teku-conduit", "liquidCapacity": 10, "category": "liquid"}

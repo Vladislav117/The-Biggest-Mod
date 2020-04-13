@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "daci bridge conveyor", "description": "", "health": 33, "range": 17, "speed": 1, "bufferCapacity": 11, "requirements": [{"item": "daci", "amount": 4}, {"item": "leguny", "amount": 1}], "research": "daci-conveyor", "category": "distribution", "size": 1}

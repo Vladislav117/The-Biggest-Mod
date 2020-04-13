@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kyna overflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "kyna", "amount": 2}, {"item": "zija", "amount": 1}], "research": "kyna-conveyor", "category": "distribution", "invert": false}

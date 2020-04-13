@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "quje drill", "description": "...", "size": 3, "health": 298, "tier": 2, "drillTime": 18, "consumes": {"power": 18}, "requirements": [{"item": "quje", "amount": 9}, {"item": "vuvy", "amount": 7}, {"item": "dayumo", "amount": 5}], "research": "quje-factory", "category": "production"}

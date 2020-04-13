@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "weli conduit", "description": "...", "health": 192, "requirements": [{"item": "weli", "amount": 10}, {"item": "tavanium", "amount": 10}, {"item": "wyme", "amount": 7}], "liquidCapacity": 50, "liquidPressure": 4, "research": "weli-factory", "category": "liquid"}

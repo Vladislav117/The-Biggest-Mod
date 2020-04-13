@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zatire sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "zatire", "amount": 3}, {"item": "cupedi", "amount": 5}], "research": "zatire-conveyor", "category": "distribution", "invert": false}

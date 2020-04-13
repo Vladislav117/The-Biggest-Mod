@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hekika overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "hekika", "amount": 3}, {"item": "qivohe", "amount": 3}], "research": "hekika-conveyor", "category": "distribution", "invert": false}

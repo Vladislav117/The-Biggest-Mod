@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xinunium solar panel", "description": "...", "size": 1, "health": 297, "requirements": [{"item": "xinunium", "amount": 16}, {"item": "xaqi", "amount": 2}, {"item": "zosy", "amount": 4}], "research": "xinunium-factory", "powerProduction": 1.1274604323904993, "category": "power"}

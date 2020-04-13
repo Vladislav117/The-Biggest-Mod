@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "giza conduit", "description": "...", "health": 90, "requirements": [{"item": "giza", "amount": 7}, {"item": "sytu", "amount": 20}, {"item": "kaniyy", "amount": 3}], "liquidCapacity": 19, "liquidPressure": 1, "research": "giza-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lopiso liquid tank", "description": "...", "health": 520, "size": 3, "requirements": [{"item": "lopiso", "amount": 16}, {"item": "sary", "amount": 14}, {"item": "gakipy", "amount": 1}], "research": "lopiso-conduit", "category": "liquid", "liquidCapacity": 11928, "hasLiquids": true}

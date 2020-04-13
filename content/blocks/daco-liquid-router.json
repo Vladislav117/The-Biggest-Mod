@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "daco liquid router", "description": "...", "size": 1, "health": 46, "requirements": [{"item": "daco", "amount": 17}, {"item": "xyza", "amount": 1}, {"item": "kani", "amount": 2}], "research": "daco-conduit", "liquidCapacity": 10, "category": "liquid"}

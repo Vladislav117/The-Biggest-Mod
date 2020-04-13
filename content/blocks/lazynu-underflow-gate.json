@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lazynu underflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "lazynu", "amount": 4}, {"item": "hihunium", "amount": 1}], "research": "lazynu-conveyor", "category": "distribution", "invert": false}

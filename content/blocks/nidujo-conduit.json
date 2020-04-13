@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nidujo conduit", "description": "...", "health": 130, "requirements": [{"item": "nidujo", "amount": 13}, {"item": "fuposy", "amount": 17}, {"item": "copper", "amount": 9}], "liquidCapacity": 47, "liquidPressure": 10, "research": "nidujo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "suxoyu underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "suxoyu", "amount": 3}, {"item": "cetonium", "amount": 5}], "research": "suxoyu-conveyor", "category": "distribution", "invert": false}

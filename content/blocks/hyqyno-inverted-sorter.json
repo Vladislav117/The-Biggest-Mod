@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hyqyno inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "hyqyno", "amount": 4}, {"item": "holipu", "amount": 4}], "research": "hyqyno-conveyor", "category": "distribution", "invert": true}

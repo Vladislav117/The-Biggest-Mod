@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hejonium battery", "description": "...", "size": 1, "health": 368, "requirements": [{"item": "hejonium", "amount": 18}, {"item": "wylanium", "amount": 4}, {"item": "yisupe", "amount": 1}], "research": "hejonium-factory", "consumes": {"powerBuffered": 2975}, "category": "power"}

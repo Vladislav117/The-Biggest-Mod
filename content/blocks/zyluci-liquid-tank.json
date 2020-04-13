@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyluci liquid tank", "description": "...", "health": 505, "size": 3, "requirements": [{"item": "zyluci", "amount": 9}, {"item": "yuvynium", "amount": 2}, {"item": "tozenium", "amount": 10}], "research": "zyluci-conduit", "category": "liquid", "liquidCapacity": 73399, "hasLiquids": true}

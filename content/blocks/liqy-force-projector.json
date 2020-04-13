@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "liqy force projector", "description": "...", "health": 139, "size": 3, "consumes": {"power": 5.0, "item": "liqy"}, "requirements": [{"item": "liqy", "amount": 3}, {"item": "vurypo", "amount": 14}, {"item": "reyezy", "amount": 10}], "research": "liqy-factory", "category": "effect"}

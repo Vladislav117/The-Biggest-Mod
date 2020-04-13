@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wapo liquid tank", "description": "...", "health": 512, "size": 3, "requirements": [{"item": "wapo", "amount": 6}, {"item": "nuko", "amount": 7}, {"item": "yijotu", "amount": 8}], "research": "wapo-conduit", "category": "liquid", "liquidCapacity": 29741, "hasLiquids": true}

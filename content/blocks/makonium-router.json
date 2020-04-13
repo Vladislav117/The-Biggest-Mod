@@ -1,0 +1,1 @@
+{"type": "router", "name": "makonium router", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "makonium", "amount": 1}], "research": "makonium-conveyor", "category": "distribution"}

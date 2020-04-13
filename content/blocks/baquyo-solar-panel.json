@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "baquyo solar panel", "description": "...", "size": 3, "health": 135, "requirements": [{"item": "baquyo", "amount": 4}, {"item": "feqy", "amount": 7}, {"item": "hybobenium", "amount": 7}], "research": "baquyo-factory", "powerProduction": 0.9832657607404722, "category": "power"}

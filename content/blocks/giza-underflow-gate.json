@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "giza underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "giza", "amount": 1}, {"item": "lekekenium", "amount": 3}], "research": "giza-conveyor", "category": "distribution", "invert": false}

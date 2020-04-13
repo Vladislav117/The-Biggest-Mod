@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mynufu overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "mynufu", "amount": 2}, {"item": "garyda", "amount": 4}], "research": "mynufu-conveyor", "category": "distribution", "invert": false}

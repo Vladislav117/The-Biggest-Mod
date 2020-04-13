@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yohu power node", "description": "...", "size": 1, "health": 26, "requirements": [{"item": "yohu", "amount": 2}, {"item": "raso", "amount": 11}, {"item": "bayury", "amount": 7}], "research": "yohu-factory", "maxNodes": 28, "laserRange": 19, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hicewi underflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "hicewi", "amount": 2}, {"item": "bomedi", "amount": 5}], "research": "hicewi-conveyor", "category": "distribution", "invert": false}

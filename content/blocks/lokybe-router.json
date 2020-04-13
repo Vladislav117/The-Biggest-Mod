@@ -1,0 +1,1 @@
+{"type": "router", "name": "lokybe router", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "lokybe", "amount": 5}], "research": "lokybe-conveyor", "category": "distribution"}

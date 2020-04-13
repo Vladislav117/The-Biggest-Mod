@@ -1,0 +1,1 @@
+{"type": "junction", "name": "huky junction", "description": "...", "health": 22, "speed": 18, "capacity": 12, "size": 1, "requirements": [{"item": "huky", "amount": 1}, {"item": "depyya", "amount": 3}], "research": "huky-conveyor", "category": "distribution"}

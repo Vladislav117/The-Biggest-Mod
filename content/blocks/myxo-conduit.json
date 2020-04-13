@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "myxo conduit", "description": "...", "health": 178, "requirements": [{"item": "myxo", "amount": 7}, {"item": "pudoki", "amount": 2}, {"item": "puzonium", "amount": 3}], "liquidCapacity": 38, "liquidPressure": 10, "research": "myxo-factory", "category": "liquid"}

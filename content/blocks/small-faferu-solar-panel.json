@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small faferu solar panel", "description": "...", "size": 1, "health": 91, "requirements": [{"item": "faferu", "amount": 13}, {"item": "baboxi", "amount": 16}, {"item": "ciyo", "amount": 10}], "research": "faferu-factory", "powerProduction": 2.952059664061371, "category": "power"}

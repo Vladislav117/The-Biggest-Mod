@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yuvarynium conduit", "description": "...", "health": 75, "requirements": [{"item": "yuvarynium", "amount": 4}, {"item": "pero", "amount": 12}, {"item": "jone", "amount": 8}], "liquidCapacity": 14, "liquidPressure": 2, "research": "yuvarynium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "teyime bridge conveyor", "description": "", "health": 37, "range": 14, "speed": 7, "bufferCapacity": 11, "requirements": [{"item": "teyime", "amount": 5}, {"item": "zadajo", "amount": 2}], "research": "teyime-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "walorunium sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "walorunium", "amount": 1}, {"item": "mebo", "amount": 1}], "research": "walorunium-conveyor", "category": "distribution", "invert": false}

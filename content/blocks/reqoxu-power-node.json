@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "reqoxu power node", "description": "...", "size": 2, "health": 586, "requirements": [{"item": "reqoxu", "amount": 7}, {"item": "biny", "amount": 13}, {"item": "jayi", "amount": 3}], "research": "reqoxu-factory", "maxNodes": 16, "laserRange": 15, "category": "power"}

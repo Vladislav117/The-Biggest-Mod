@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small seqi solar panel", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "seqi", "amount": 19}, {"item": "zilanium", "amount": 9}, {"item": "jepeli", "amount": 8}], "research": "seqi-factory", "powerProduction": 4.20569016953523, "category": "power"}

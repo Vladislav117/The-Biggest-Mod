@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xynice battery", "description": "...", "size": 1, "health": 371, "requirements": [{"item": "xynice", "amount": 4}, {"item": "bywazy", "amount": 14}, {"item": "vego", "amount": 8}], "research": "xynice-factory", "consumes": {"powerBuffered": 1590}, "category": "power"}

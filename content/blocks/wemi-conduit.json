@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wemi conduit", "description": "...", "health": 109, "requirements": [{"item": "wemi", "amount": 14}, {"item": "vega", "amount": 19}, {"item": "miyaxanium", "amount": 6}], "liquidCapacity": 32, "liquidPressure": 5, "research": "wemi-factory", "category": "liquid"}

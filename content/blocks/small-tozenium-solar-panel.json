@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tozenium solar panel", "description": "...", "size": 1, "health": 77, "requirements": [{"item": "tozenium", "amount": 12}, {"item": "deqo", "amount": 18}, {"item": "genane", "amount": 7}], "research": "tozenium-factory", "powerProduction": 3.8202415951585165, "category": "power"}

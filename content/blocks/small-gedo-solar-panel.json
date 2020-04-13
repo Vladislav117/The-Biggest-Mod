@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gedo solar panel", "description": "...", "size": 1, "health": 395, "requirements": [{"item": "gedo", "amount": 2}, {"item": "jytubinium", "amount": 1}, {"item": "vanuhenium", "amount": 6}], "research": "gedo-factory", "powerProduction": 1.5910534657782596, "category": "power"}

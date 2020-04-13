@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yezaku battery", "description": "...", "size": 3, "health": 108, "requirements": [{"item": "yezaku", "amount": 1}, {"item": "pojesu", "amount": 5}, {"item": "rateju", "amount": 4}], "research": "yezaku-factory", "consumes": {"powerBuffered": 5755}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sipysa overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "sipysa", "amount": 3}, {"item": "ladoty", "amount": 3}], "research": "sipysa-conveyor", "category": "distribution", "invert": false}

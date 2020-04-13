@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jezo junction", "description": "...", "health": 29, "speed": 15, "capacity": 19, "size": 1, "requirements": [{"item": "jezo", "amount": 1}, {"item": "goqanium", "amount": 3}], "research": "jezo-conveyor", "category": "distribution"}

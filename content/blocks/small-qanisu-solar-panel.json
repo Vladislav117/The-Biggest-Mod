@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qanisu solar panel", "description": "...", "size": 1, "health": 259, "requirements": [{"item": "qanisu", "amount": 12}, {"item": "gokohunium", "amount": 1}, {"item": "baqyrinium", "amount": 2}], "research": "qanisu-factory", "powerProduction": 0.26913579832623225, "category": "power"}

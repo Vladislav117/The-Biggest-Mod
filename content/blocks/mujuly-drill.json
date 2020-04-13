@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mujuly drill", "description": "...", "size": 3, "health": 203, "tier": 2, "drillTime": 11, "consumes": {"power": 14}, "requirements": [{"item": "mujuly", "amount": 5}, {"item": "dakyse", "amount": 7}, {"item": "yodary", "amount": 10}], "research": "mujuly-factory", "category": "production"}

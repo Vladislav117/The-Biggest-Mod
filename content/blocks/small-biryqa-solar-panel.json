@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small biryqa solar panel", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "biryqa", "amount": 9}, {"item": "hiwinium", "amount": 14}, {"item": "witytu", "amount": 2}], "research": "biryqa-factory", "powerProduction": 0.5503330250168919, "category": "power"}

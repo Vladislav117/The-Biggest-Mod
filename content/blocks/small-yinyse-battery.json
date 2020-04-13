@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yinyse battery", "description": "...", "size": 1, "health": 159, "requirements": [{"item": "yinyse", "amount": 2}, {"item": "kyyuny", "amount": 17}, {"item": "taji", "amount": 8}], "research": "yinyse-factory", "consumes": {"powerBuffered": 1732}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nybaranium liquid tank", "description": "...", "health": 319, "size": 3, "requirements": [{"item": "nybaranium", "amount": 11}, {"item": "yamyri", "amount": 4}, {"item": "kavequ", "amount": 5}], "research": "nybaranium-conduit", "category": "liquid", "liquidCapacity": 15768, "hasLiquids": true}

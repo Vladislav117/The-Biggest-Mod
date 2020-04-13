@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wupi junction", "description": "...", "health": 29, "speed": 9, "capacity": 17, "size": 1, "requirements": [{"item": "wupi", "amount": 3}, {"item": "becugi", "amount": 1}], "research": "wupi-conveyor", "category": "distribution"}

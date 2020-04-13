@@ -1,0 +1,1 @@
+{"type": "battery", "name": "byjy battery", "description": "...", "size": 3, "health": 325, "requirements": [{"item": "byjy", "amount": 11}, {"item": "cemunium", "amount": 10}, {"item": "gigevonium", "amount": 3}], "research": "byjy-factory", "consumes": {"powerBuffered": 7996}, "category": "power"}

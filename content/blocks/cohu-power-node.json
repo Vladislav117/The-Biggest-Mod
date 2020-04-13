@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cohu power node", "description": "...", "size": 2, "health": 475, "requirements": [{"item": "cohu", "amount": 3}, {"item": "nayevynium", "amount": 20}, {"item": "donysenium", "amount": 4}], "research": "cohu-factory", "maxNodes": 55, "laserRange": 15, "category": "power"}

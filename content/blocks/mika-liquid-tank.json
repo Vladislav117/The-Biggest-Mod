@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mika liquid tank", "description": "...", "health": 537, "size": 3, "requirements": [{"item": "mika", "amount": 12}, {"item": "vodynium", "amount": 2}, {"item": "xodali", "amount": 8}], "research": "mika-conduit", "category": "liquid", "liquidCapacity": 89881, "hasLiquids": true}

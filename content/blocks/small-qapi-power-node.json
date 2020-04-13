@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qapi power node", "description": "...", "size": 1, "health": 333, "requirements": [{"item": "qapi", "amount": 9}, {"item": "siwobanium", "amount": 2}, {"item": "savi", "amount": 1}], "research": "qapi-factory", "maxNodes": 9, "laserRange": 24, "category": "power"}

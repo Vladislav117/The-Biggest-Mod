@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wita solar panel", "description": "...", "size": 1, "health": 250, "requirements": [{"item": "wita", "amount": 12}, {"item": "wita", "amount": 18}, {"item": "kyna", "amount": 5}], "research": "wita-factory", "powerProduction": 0.05960742590556288, "category": "power"}

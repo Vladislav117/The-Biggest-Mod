@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wano conduit", "description": "...", "health": 159, "requirements": [{"item": "wano", "amount": 2}, {"item": "lewanium", "amount": 10}, {"item": "qano", "amount": 9}], "liquidCapacity": 48, "liquidPressure": 10, "research": "wano-factory", "category": "liquid"}

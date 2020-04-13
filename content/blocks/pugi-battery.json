@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pugi battery", "description": "...", "size": 3, "health": 213, "requirements": [{"item": "pugi", "amount": 4}, {"item": "vakyxinium", "amount": 18}, {"item": "wivo", "amount": 10}], "research": "pugi-factory", "consumes": {"powerBuffered": 6196}, "category": "power"}

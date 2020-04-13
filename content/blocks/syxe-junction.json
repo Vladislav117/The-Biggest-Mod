@@ -1,0 +1,1 @@
+{"type": "junction", "name": "syxe junction", "description": "...", "health": 12, "speed": 6, "capacity": 14, "size": 1, "requirements": [{"item": "syxe", "amount": 3}, {"item": "tebebe", "amount": 1}], "research": "syxe-conveyor", "category": "distribution"}

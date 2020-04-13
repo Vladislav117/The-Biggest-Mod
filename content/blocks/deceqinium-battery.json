@@ -1,0 +1,1 @@
+{"type": "battery", "name": "deceqinium battery", "description": "...", "size": 3, "health": 66, "requirements": [{"item": "deceqinium", "amount": 17}, {"item": "rohivonium", "amount": 16}, {"item": "lynulo", "amount": 4}], "research": "deceqinium-factory", "consumes": {"powerBuffered": 9636}, "category": "power"}

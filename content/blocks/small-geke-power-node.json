@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small geke power node", "description": "...", "size": 1, "health": 348, "requirements": [{"item": "geke", "amount": 15}, {"item": "birynium", "amount": 19}, {"item": "zoyyqynium", "amount": 9}], "research": "geke-factory", "maxNodes": 14, "laserRange": 18, "category": "power"}

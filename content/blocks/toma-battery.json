@@ -1,0 +1,1 @@
+{"type": "battery", "name": "toma battery", "description": "...", "size": 3, "health": 229, "requirements": [{"item": "toma", "amount": 18}, {"item": "jogi", "amount": 7}, {"item": "zoqivanium", "amount": 1}], "research": "toma-factory", "consumes": {"powerBuffered": 331}, "category": "power"}

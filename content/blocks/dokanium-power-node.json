@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dokanium power node", "description": "...", "size": 2, "health": 527, "requirements": [{"item": "dokanium", "amount": 13}, {"item": "tobu", "amount": 16}, {"item": "butuhi", "amount": 4}], "research": "dokanium-factory", "maxNodes": 56, "laserRange": 20, "category": "power"}

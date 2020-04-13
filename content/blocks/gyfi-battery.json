@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gyfi battery", "description": "...", "size": 3, "health": 56, "requirements": [{"item": "gyfi", "amount": 7}, {"item": "byro", "amount": 2}, {"item": "nogu", "amount": 3}], "research": "gyfi-factory", "consumes": {"powerBuffered": 8360}, "category": "power"}

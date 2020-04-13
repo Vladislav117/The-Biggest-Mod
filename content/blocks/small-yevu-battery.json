@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yevu battery", "description": "...", "size": 1, "health": 359, "requirements": [{"item": "yevu", "amount": 13}, {"item": "hine", "amount": 1}, {"item": "pivojunium", "amount": 10}], "research": "yevu-factory", "consumes": {"powerBuffered": 1102}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small haniva solar panel", "description": "...", "size": 1, "health": 132, "requirements": [{"item": "haniva", "amount": 10}, {"item": "nijuto", "amount": 6}, {"item": "jeqenium", "amount": 5}], "research": "haniva-factory", "powerProduction": 5.2955006123656885, "category": "power"}

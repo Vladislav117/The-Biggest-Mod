@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "beku sorter", "description": ",...", "health": 38, "size": 1, "requirements": [{"item": "beku", "amount": 3}, {"item": "pufere", "amount": 5}], "research": "beku-conveyor", "category": "distribution", "invert": false}

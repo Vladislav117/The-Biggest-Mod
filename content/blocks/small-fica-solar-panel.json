@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fica solar panel", "description": "...", "size": 1, "health": 159, "requirements": [{"item": "fica", "amount": 15}, {"item": "jinu", "amount": 8}, {"item": "tezila", "amount": 5}], "research": "fica-factory", "powerProduction": 0.7093085657877997, "category": "power"}

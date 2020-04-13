@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "nigunium force projector", "description": "...", "health": 192, "size": 3, "consumes": {"power": 5.0, "item": "nigunium"}, "requirements": [{"item": "nigunium", "amount": 13}, {"item": "byja", "amount": 17}, {"item": "doxenium", "amount": 6}], "research": "nigunium-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fito junction", "description": "...", "health": 24, "speed": 15, "capacity": 18, "size": 1, "requirements": [{"item": "fito", "amount": 3}, {"item": "luluti", "amount": 4}], "research": "fito-conveyor", "category": "distribution"}

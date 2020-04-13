@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wiba underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "wiba", "amount": 4}, {"item": "vewavu", "amount": 2}], "research": "wiba-conveyor", "category": "distribution", "invert": false}

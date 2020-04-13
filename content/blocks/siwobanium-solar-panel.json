@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "siwobanium solar panel", "description": "...", "size": 3, "health": 260, "requirements": [{"item": "siwobanium", "amount": 11}, {"item": "gupyfi", "amount": 15}, {"item": "giha", "amount": 9}], "research": "siwobanium-factory", "powerProduction": 0.5390209378018953, "category": "power"}

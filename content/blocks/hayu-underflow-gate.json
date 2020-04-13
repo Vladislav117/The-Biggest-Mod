@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hayu underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "hayu", "amount": 3}, {"item": "typy", "amount": 3}], "research": "hayu-conveyor", "category": "distribution", "invert": false}

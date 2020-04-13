@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sewitunium solar panel", "description": "...", "size": 1, "health": 399, "requirements": [{"item": "sewitunium", "amount": 19}, {"item": "jihanium", "amount": 18}, {"item": "dyzinium", "amount": 9}], "research": "sewitunium-factory", "powerProduction": 0.07352963203270119, "category": "power"}

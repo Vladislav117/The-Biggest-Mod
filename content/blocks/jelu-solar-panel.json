@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jelu solar panel", "description": "...", "size": 3, "health": 297, "requirements": [{"item": "jelu", "amount": 15}, {"item": "cibu", "amount": 18}, {"item": "yyze", "amount": 7}], "research": "jelu-factory", "powerProduction": 2.7613023878790193, "category": "power"}

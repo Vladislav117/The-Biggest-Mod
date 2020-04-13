@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hagunium underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "hagunium", "amount": 4}, {"item": "graphite", "amount": 5}], "research": "hagunium-conveyor", "category": "distribution", "invert": false}

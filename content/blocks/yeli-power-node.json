@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yeli power node", "description": "...", "size": 2, "health": 88, "requirements": [{"item": "yeli", "amount": 1}, {"item": "coqinium", "amount": 9}, {"item": "velewo", "amount": 2}], "research": "yeli-factory", "maxNodes": 14, "laserRange": 19, "category": "power"}

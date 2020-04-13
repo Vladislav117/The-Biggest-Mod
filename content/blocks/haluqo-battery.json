@@ -1,0 +1,1 @@
+{"type": "battery", "name": "haluqo battery", "description": "...", "size": 3, "health": 399, "requirements": [{"item": "haluqo", "amount": 19}, {"item": "cepi", "amount": 18}, {"item": "milusunium", "amount": 6}], "research": "haluqo-factory", "consumes": {"powerBuffered": 5866}, "category": "power"}

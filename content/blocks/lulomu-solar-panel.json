@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lulomu solar panel", "description": "...", "size": 3, "health": 53, "requirements": [{"item": "lulomu", "amount": 10}, {"item": "beniyi", "amount": 9}, {"item": "zugoni", "amount": 6}], "research": "lulomu-factory", "powerProduction": 2.5273344312784145, "category": "power"}

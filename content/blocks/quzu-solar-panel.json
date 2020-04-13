@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "quzu solar panel", "description": "...", "size": 3, "health": 308, "requirements": [{"item": "quzu", "amount": 7}, {"item": "zoxa", "amount": 8}, {"item": "muse", "amount": 7}], "research": "quzu-factory", "powerProduction": 0.1654079216708605, "category": "power"}

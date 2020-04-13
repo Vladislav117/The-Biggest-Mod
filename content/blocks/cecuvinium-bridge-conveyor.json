@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cecuvinium bridge conveyor", "description": "", "health": 18, "range": 2, "speed": 2, "bufferCapacity": 21, "requirements": [{"item": "cecuvinium", "amount": 3}, {"item": "makajo", "amount": 1}], "research": "cecuvinium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rahu solar panel", "description": "...", "size": 1, "health": 84, "requirements": [{"item": "rahu", "amount": 5}, {"item": "nayayi", "amount": 8}, {"item": "bawy", "amount": 1}], "research": "rahu-factory", "powerProduction": 3.4142483994874815, "category": "power"}

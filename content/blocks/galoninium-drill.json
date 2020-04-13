@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "galoninium drill", "description": "...", "size": 2, "health": 162, "tier": 2, "drillTime": 20, "consumes": {"power": 16}, "requirements": [{"item": "galoninium", "amount": 9}, {"item": "jahezu", "amount": 14}, {"item": "mapo", "amount": 9}], "research": "galoninium-factory", "category": "production"}

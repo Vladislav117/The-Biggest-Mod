@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jahezu liquid tank", "description": "...", "health": 526, "size": 3, "requirements": [{"item": "jahezu", "amount": 9}, {"item": "goxize", "amount": 17}, {"item": "ziwa", "amount": 2}], "research": "jahezu-conduit", "category": "liquid", "liquidCapacity": 27609, "hasLiquids": true}

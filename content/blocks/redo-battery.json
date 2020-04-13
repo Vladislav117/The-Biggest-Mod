@@ -1,0 +1,1 @@
+{"type": "battery", "name": "redo battery", "description": "...", "size": 3, "health": 261, "requirements": [{"item": "redo", "amount": 16}, {"item": "vikasynium", "amount": 4}, {"item": "mygi", "amount": 5}], "research": "redo-factory", "consumes": {"powerBuffered": 8040}, "category": "power"}

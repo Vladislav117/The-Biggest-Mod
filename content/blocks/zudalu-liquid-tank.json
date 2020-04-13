@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zudalu liquid tank", "description": "...", "health": 478, "size": 3, "requirements": [{"item": "zudalu", "amount": 2}, {"item": "yemy", "amount": 17}, {"item": "vapo", "amount": 10}], "research": "zudalu-conduit", "category": "liquid", "liquidCapacity": 78497, "hasLiquids": true}

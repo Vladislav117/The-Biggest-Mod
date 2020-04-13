@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "fexaja force projector", "description": "...", "health": 244, "size": 3, "consumes": {"power": 5.0, "item": "fexaja"}, "requirements": [{"item": "fexaja", "amount": 17}, {"item": "jodezu", "amount": 17}, {"item": "cobunium", "amount": 5}], "research": "fexaja-factory", "category": "effect"}

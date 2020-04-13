@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yirere solar panel", "description": "...", "size": 3, "health": 89, "requirements": [{"item": "yirere", "amount": 16}, {"item": "sywuze", "amount": 10}, {"item": "heqywanium", "amount": 2}], "research": "yirere-factory", "powerProduction": 0.041777199456812714, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hudunium power node", "description": "...", "size": 2, "health": 688, "requirements": [{"item": "hudunium", "amount": 2}, {"item": "jisu", "amount": 7}, {"item": "xycowy", "amount": 2}], "research": "hudunium-factory", "maxNodes": 24, "laserRange": 19, "category": "power"}

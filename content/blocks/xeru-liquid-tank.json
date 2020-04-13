@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xeru liquid tank", "description": "...", "health": 531, "size": 3, "requirements": [{"item": "xeru", "amount": 4}, {"item": "xutire", "amount": 4}, {"item": "xovunium", "amount": 3}], "research": "xeru-conduit", "category": "liquid", "liquidCapacity": 66224, "hasLiquids": true}

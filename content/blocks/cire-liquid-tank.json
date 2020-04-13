@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cire liquid tank", "description": "...", "health": 505, "size": 3, "requirements": [{"item": "cire", "amount": 8}, {"item": "ridu", "amount": 11}, {"item": "biwehenium", "amount": 5}], "research": "cire-conduit", "category": "liquid", "liquidCapacity": 65441, "hasLiquids": true}

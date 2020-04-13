@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xetydinium power node", "description": "...", "size": 2, "health": 558, "requirements": [{"item": "xetydinium", "amount": 4}, {"item": "vurewe", "amount": 5}, {"item": "pebi", "amount": 8}], "research": "xetydinium-factory", "maxNodes": 18, "laserRange": 21, "category": "power"}

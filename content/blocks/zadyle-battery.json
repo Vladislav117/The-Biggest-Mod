@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zadyle battery", "description": "...", "size": 3, "health": 141, "requirements": [{"item": "zadyle", "amount": 9}, {"item": "monobu", "amount": 5}, {"item": "hiki", "amount": 6}], "research": "zadyle-factory", "consumes": {"powerBuffered": 7039}, "category": "power"}

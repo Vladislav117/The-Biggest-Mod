@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wyxonium sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "wyxonium", "amount": 1}, {"item": "gago", "amount": 2}], "research": "wyxonium-conveyor", "category": "distribution", "invert": false}

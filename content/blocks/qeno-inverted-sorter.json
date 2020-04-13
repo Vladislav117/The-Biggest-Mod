@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qeno inverted sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "qeno", "amount": 4}, {"item": "qalo", "amount": 2}], "research": "qeno-conveyor", "category": "distribution", "invert": true}

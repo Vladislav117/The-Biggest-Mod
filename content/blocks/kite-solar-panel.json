@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kite solar panel", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "kite", "amount": 17}, {"item": "kituhinium", "amount": 12}, {"item": "zopyxo", "amount": 6}], "research": "kite-factory", "powerProduction": 5.062574561622836, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qayine battery", "description": "...", "size": 3, "health": 34, "requirements": [{"item": "qayine", "amount": 8}, {"item": "myvava", "amount": 5}, {"item": "gohyce", "amount": 2}], "research": "qayine-factory", "consumes": {"powerBuffered": 5561}, "category": "power"}

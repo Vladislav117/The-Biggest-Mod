@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "capy underflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "capy", "amount": 3}, {"item": "symeca", "amount": 5}], "research": "capy-conveyor", "category": "distribution", "invert": false}

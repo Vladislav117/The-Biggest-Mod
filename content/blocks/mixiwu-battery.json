@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mixiwu battery", "description": "...", "size": 3, "health": 307, "requirements": [{"item": "mixiwu", "amount": 12}, {"item": "zawo", "amount": 12}, {"item": "reqynu", "amount": 4}], "research": "mixiwu-factory", "consumes": {"powerBuffered": 9563}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small befe battery", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "befe", "amount": 11}, {"item": "dagepanium", "amount": 1}, {"item": "wuxorunium", "amount": 9}], "research": "befe-factory", "consumes": {"powerBuffered": 2107}, "category": "power"}

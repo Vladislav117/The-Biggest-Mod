@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xepe power node", "description": "...", "size": 1, "health": 352, "requirements": [{"item": "xepe", "amount": 11}, {"item": "qiti", "amount": 18}, {"item": "cavuyi", "amount": 2}], "research": "xepe-factory", "maxNodes": 16, "laserRange": 5, "category": "power"}

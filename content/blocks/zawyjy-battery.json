@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zawyjy battery", "description": "...", "size": 3, "health": 151, "requirements": [{"item": "zawyjy", "amount": 12}, {"item": "gina", "amount": 15}, {"item": "geponium", "amount": 10}], "research": "zawyjy-factory", "consumes": {"powerBuffered": 5484}, "category": "power"}

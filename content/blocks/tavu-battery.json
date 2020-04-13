@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tavu battery", "description": "...", "size": 3, "health": 207, "requirements": [{"item": "tavu", "amount": 7}, {"item": "pohyva", "amount": 7}, {"item": "tijixi", "amount": 2}], "research": "tavu-factory", "consumes": {"powerBuffered": 9046}, "category": "power"}

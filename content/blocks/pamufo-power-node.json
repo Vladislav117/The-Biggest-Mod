@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pamufo power node", "description": "...", "size": 2, "health": 460, "requirements": [{"item": "pamufo", "amount": 11}, {"item": "jydo", "amount": 11}, {"item": "koqyyo", "amount": 8}], "research": "pamufo-factory", "maxNodes": 28, "laserRange": 25, "category": "power"}

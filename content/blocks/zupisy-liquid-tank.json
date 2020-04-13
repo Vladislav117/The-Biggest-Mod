@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zupisy liquid tank", "description": "...", "health": 646, "size": 3, "requirements": [{"item": "zupisy", "amount": 10}, {"item": "bube", "amount": 12}, {"item": "melula", "amount": 10}], "research": "zupisy-conduit", "category": "liquid", "liquidCapacity": 48621, "hasLiquids": true}

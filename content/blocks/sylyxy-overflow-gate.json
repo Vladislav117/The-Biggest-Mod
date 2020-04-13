@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sylyxy overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "sylyxy", "amount": 3}, {"item": "zivo", "amount": 4}], "research": "sylyxy-conveyor", "category": "distribution", "invert": false}

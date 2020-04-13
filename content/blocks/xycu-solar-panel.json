@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xycu solar panel", "description": "...", "size": 3, "health": 292, "requirements": [{"item": "xycu", "amount": 20}, {"item": "fixunium", "amount": 11}, {"item": "syso", "amount": 5}], "research": "xycu-factory", "powerProduction": 0.9308151286719692, "category": "power"}

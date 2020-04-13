@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sytu overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "sytu", "amount": 5}, {"item": "fupymi", "amount": 5}], "research": "sytu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "gecu conveyor", "description": "...", "health": 111, "requirements": [{"item": "gecu", "amount": 8}, {"item": "pypy", "amount": 7}], "speed": 0.3449796421610143, "research": "gecu-factory", "category": "distribution"}

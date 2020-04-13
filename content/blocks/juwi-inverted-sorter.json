@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "juwi inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "juwi", "amount": 3}, {"item": "xyvenium", "amount": 4}], "research": "juwi-conveyor", "category": "distribution", "invert": true}

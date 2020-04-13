@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gizycanium inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "gizycanium", "amount": 4}, {"item": "detadynium", "amount": 5}], "research": "gizycanium-conveyor", "category": "distribution", "invert": true}

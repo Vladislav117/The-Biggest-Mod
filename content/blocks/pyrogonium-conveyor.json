@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pyrogonium conveyor", "description": "...", "health": 199, "requirements": [{"item": "pyrogonium", "amount": 2}, {"item": "dase", "amount": 1}], "speed": 0.14020306922045306, "research": "pyrogonium-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zewu liquid tank", "description": "...", "health": 556, "size": 3, "requirements": [{"item": "zewu", "amount": 8}, {"item": "laso", "amount": 13}, {"item": "fiyuju", "amount": 7}], "research": "zewu-conduit", "category": "liquid", "liquidCapacity": 107203, "hasLiquids": true}

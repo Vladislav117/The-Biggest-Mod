@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jubu solar panel", "description": "...", "size": 1, "health": 383, "requirements": [{"item": "jubu", "amount": 5}, {"item": "kyyuny", "amount": 13}, {"item": "xopano", "amount": 1}], "research": "jubu-factory", "powerProduction": 0.5986199041659438, "category": "power"}

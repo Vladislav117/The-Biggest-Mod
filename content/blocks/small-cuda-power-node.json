@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cuda power node", "description": "...", "size": 1, "health": 166, "requirements": [{"item": "cuda", "amount": 9}, {"item": "beyo", "amount": 7}, {"item": "nitinium", "amount": 10}], "research": "cuda-factory", "maxNodes": 22, "laserRange": 11, "category": "power"}

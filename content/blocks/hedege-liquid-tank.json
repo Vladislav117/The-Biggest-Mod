@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hedege liquid tank", "description": "...", "health": 410, "size": 3, "requirements": [{"item": "hedege", "amount": 12}, {"item": "koyiwi", "amount": 10}, {"item": "rale", "amount": 1}], "research": "hedege-conduit", "category": "liquid", "liquidCapacity": 23127, "hasLiquids": true}

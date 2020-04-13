@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hytuki bridge conveyor", "description": "", "health": 1, "range": 2, "speed": 17, "bufferCapacity": 24, "requirements": [{"item": "hytuki", "amount": 4}, {"item": "gyty", "amount": 5}], "research": "hytuki-conveyor", "category": "distribution", "size": 1}

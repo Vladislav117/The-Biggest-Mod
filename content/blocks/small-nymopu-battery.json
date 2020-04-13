@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nymopu battery", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "nymopu", "amount": 19}, {"item": "gepe", "amount": 14}, {"item": "nymyginium", "amount": 10}], "research": "nymopu-factory", "consumes": {"powerBuffered": 2460}, "category": "power"}

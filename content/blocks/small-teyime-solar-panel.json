@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small teyime solar panel", "description": "...", "size": 1, "health": 376, "requirements": [{"item": "teyime", "amount": 14}, {"item": "nedihenium", "amount": 18}, {"item": "xeye", "amount": 5}], "research": "teyime-factory", "powerProduction": 9.335715333228361, "category": "power"}

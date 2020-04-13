@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nirogynium battery", "description": "...", "size": 1, "health": 156, "requirements": [{"item": "nirogynium", "amount": 5}, {"item": "cydofunium", "amount": 10}, {"item": "cobigu", "amount": 9}], "research": "nirogynium-factory", "consumes": {"powerBuffered": 2703}, "category": "power"}

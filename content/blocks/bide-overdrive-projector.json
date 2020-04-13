@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "bide overdrive projector", "description": "...", "health": 70, "consumes": {"power": 3.0, "item": "bide"}, "size": 2, "requirements": [{"item": "bide", "amount": 10}, {"item": "wequky", "amount": 15}, {"item": "baxy", "amount": 7}], "research": "bide-factory", "category": "effect"}

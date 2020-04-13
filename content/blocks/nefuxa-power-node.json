@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nefuxa power node", "description": "...", "size": 2, "health": 249, "requirements": [{"item": "nefuxa", "amount": 5}, {"item": "haniva", "amount": 17}, {"item": "muhi", "amount": 4}], "research": "nefuxa-factory", "maxNodes": 47, "laserRange": 21, "category": "power"}

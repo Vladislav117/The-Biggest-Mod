@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nerymi inverted sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "nerymi", "amount": 2}, {"item": "nypenium", "amount": 3}], "research": "nerymi-conveyor", "category": "distribution", "invert": true}

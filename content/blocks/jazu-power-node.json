@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jazu power node", "description": "...", "size": 2, "health": 743, "requirements": [{"item": "jazu", "amount": 19}, {"item": "byja", "amount": 16}, {"item": "bileyu", "amount": 4}], "research": "jazu-factory", "maxNodes": 26, "laserRange": 5, "category": "power"}

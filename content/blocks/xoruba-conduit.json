@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xoruba conduit", "description": "...", "health": 103, "requirements": [{"item": "xoruba", "amount": 15}, {"item": "cuhynenium", "amount": 10}, {"item": "voje", "amount": 5}], "liquidCapacity": 32, "liquidPressure": 0, "research": "xoruba-factory", "category": "liquid"}

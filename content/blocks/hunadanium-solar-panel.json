@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hunadanium solar panel", "description": "...", "size": 3, "health": 338, "requirements": [{"item": "hunadanium", "amount": 13}, {"item": "mavi", "amount": 20}, {"item": "lora", "amount": 10}], "research": "hunadanium-factory", "powerProduction": 1.919877067624753, "category": "power"}

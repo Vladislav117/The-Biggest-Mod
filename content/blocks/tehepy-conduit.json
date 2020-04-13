@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tehepy conduit", "description": "...", "health": 100, "requirements": [{"item": "tehepy", "amount": 17}, {"item": "yuly", "amount": 10}, {"item": "heso", "amount": 5}], "liquidCapacity": 8, "liquidPressure": 10, "research": "tehepy-factory", "category": "liquid"}

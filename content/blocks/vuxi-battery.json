@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vuxi battery", "description": "...", "size": 3, "health": 49, "requirements": [{"item": "vuxi", "amount": 17}, {"item": "toni", "amount": 16}, {"item": "vuzoha", "amount": 4}], "research": "vuxi-factory", "consumes": {"powerBuffered": 3422}, "category": "power"}

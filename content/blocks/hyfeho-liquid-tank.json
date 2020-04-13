@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hyfeho liquid tank", "description": "...", "health": 610, "size": 3, "requirements": [{"item": "hyfeho", "amount": 6}, {"item": "byfa", "amount": 3}, {"item": "qulape", "amount": 3}], "research": "hyfeho-conduit", "category": "liquid", "liquidCapacity": 81517, "hasLiquids": true}

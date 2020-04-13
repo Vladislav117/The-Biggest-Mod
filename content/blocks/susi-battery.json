@@ -1,0 +1,1 @@
+{"type": "battery", "name": "susi battery", "description": "...", "size": 3, "health": 330, "requirements": [{"item": "susi", "amount": 10}, {"item": "yicavu", "amount": 6}, {"item": "fuda", "amount": 1}], "research": "susi-factory", "consumes": {"powerBuffered": 918}, "category": "power"}

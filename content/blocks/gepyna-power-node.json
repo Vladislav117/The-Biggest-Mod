@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gepyna power node", "description": "...", "size": 2, "health": 768, "requirements": [{"item": "gepyna", "amount": 12}, {"item": "hozanium", "amount": 19}, {"item": "lafily", "amount": 10}], "research": "gepyna-factory", "maxNodes": 21, "laserRange": 19, "category": "power"}

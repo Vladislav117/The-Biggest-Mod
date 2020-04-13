@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hise solar panel", "description": "...", "size": 1, "health": 314, "requirements": [{"item": "hise", "amount": 19}, {"item": "vibi", "amount": 5}, {"item": "kokyya", "amount": 9}], "research": "hise-factory", "powerProduction": 2.060782780181617, "category": "power"}

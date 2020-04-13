@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kozysa power node", "description": "...", "size": 2, "health": 79, "requirements": [{"item": "kozysa", "amount": 13}, {"item": "toti", "amount": 19}, {"item": "lynulo", "amount": 8}], "research": "kozysa-factory", "maxNodes": 39, "laserRange": 28, "category": "power"}

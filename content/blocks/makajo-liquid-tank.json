@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "makajo liquid tank", "description": "...", "health": 665, "size": 3, "requirements": [{"item": "makajo", "amount": 6}, {"item": "yibufe", "amount": 6}, {"item": "lufe", "amount": 4}], "research": "makajo-conduit", "category": "liquid", "liquidCapacity": 114419, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "qodu conveyor", "description": "...", "health": 202, "requirements": [{"item": "qodu", "amount": 9}, {"item": "vekile", "amount": 2}], "speed": 0.40105712424062934, "research": "qodu-factory", "category": "distribution"}

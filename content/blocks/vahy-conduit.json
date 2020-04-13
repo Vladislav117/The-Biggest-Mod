@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vahy conduit", "description": "...", "health": 26, "requirements": [{"item": "vahy", "amount": 1}, {"item": "mepunium", "amount": 13}, {"item": "monu", "amount": 6}], "liquidCapacity": 17, "liquidPressure": 6, "research": "vahy-factory", "category": "liquid"}

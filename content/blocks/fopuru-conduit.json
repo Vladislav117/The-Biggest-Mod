@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fopuru conduit", "description": "...", "health": 123, "requirements": [{"item": "fopuru", "amount": 15}, {"item": "larina", "amount": 1}, {"item": "melula", "amount": 2}], "liquidCapacity": 42, "liquidPressure": 6, "research": "fopuru-factory", "category": "liquid"}

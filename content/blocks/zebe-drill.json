@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zebe drill", "description": "...", "size": 3, "health": 419, "tier": 3, "drillTime": 9, "consumes": {"power": 16}, "requirements": [{"item": "zebe", "amount": 1}, {"item": "juho", "amount": 7}, {"item": "nogosy", "amount": 3}], "research": "zebe-factory", "category": "production"}

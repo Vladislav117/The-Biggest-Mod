@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dyco liquid tank", "description": "...", "health": 416, "size": 3, "requirements": [{"item": "dyco", "amount": 6}, {"item": "lejara", "amount": 3}, {"item": "vipu", "amount": 6}], "research": "dyco-conduit", "category": "liquid", "liquidCapacity": 37670, "hasLiquids": true}

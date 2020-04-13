@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pufu bridge conveyor", "description": "", "health": 14, "range": 7, "speed": 20, "bufferCapacity": 25, "requirements": [{"item": "pufu", "amount": 2}, {"item": "rosiqe", "amount": 5}], "research": "pufu-conveyor", "category": "distribution", "size": 1}

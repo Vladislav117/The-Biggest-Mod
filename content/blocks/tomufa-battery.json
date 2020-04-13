@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tomufa battery", "description": "...", "size": 3, "health": 200, "requirements": [{"item": "tomufa", "amount": 15}, {"item": "sytafe", "amount": 19}, {"item": "hazi", "amount": 10}], "research": "tomufa-factory", "consumes": {"powerBuffered": 7124}, "category": "power"}

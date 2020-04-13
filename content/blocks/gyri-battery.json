@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gyri battery", "description": "...", "size": 3, "health": 374, "requirements": [{"item": "gyri", "amount": 12}, {"item": "yufava", "amount": 14}, {"item": "qojuhi", "amount": 7}], "research": "gyri-factory", "consumes": {"powerBuffered": 2567}, "category": "power"}

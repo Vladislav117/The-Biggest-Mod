@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tyvaty liquid tank", "description": "...", "health": 316, "size": 3, "requirements": [{"item": "tyvaty", "amount": 1}, {"item": "maqapy", "amount": 10}, {"item": "fusaji", "amount": 3}], "research": "tyvaty-conduit", "category": "liquid", "liquidCapacity": 93125, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qurehy underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "qurehy", "amount": 2}, {"item": "mapibi", "amount": 5}], "research": "qurehy-conveyor", "category": "distribution", "invert": false}

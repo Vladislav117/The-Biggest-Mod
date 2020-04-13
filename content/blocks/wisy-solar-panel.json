@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wisy solar panel", "description": "...", "size": 3, "health": 95, "requirements": [{"item": "wisy", "amount": 12}, {"item": "yuqy", "amount": 15}, {"item": "jiyomonium", "amount": 6}], "research": "wisy-factory", "powerProduction": 1.7083052288923686, "category": "power"}

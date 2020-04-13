@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "soyase liquid tank", "description": "...", "health": 444, "size": 3, "requirements": [{"item": "soyase", "amount": 4}, {"item": "hezinium", "amount": 7}, {"item": "yewininium", "amount": 8}], "research": "soyase-conduit", "category": "liquid", "liquidCapacity": 2248, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qera solar panel", "description": "...", "size": 1, "health": 292, "requirements": [{"item": "qera", "amount": 14}, {"item": "reyezy", "amount": 6}, {"item": "balyvo", "amount": 9}], "research": "qera-factory", "powerProduction": 2.717052008814162, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fawa overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "fawa", "amount": 1}, {"item": "birynium", "amount": 2}], "research": "fawa-conveyor", "category": "distribution", "invert": false}

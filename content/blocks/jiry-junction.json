@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jiry junction", "description": "...", "health": 45, "speed": 18, "capacity": 13, "size": 1, "requirements": [{"item": "jiry", "amount": 4}, {"item": "dewe", "amount": 4}], "research": "jiry-conveyor", "category": "distribution"}

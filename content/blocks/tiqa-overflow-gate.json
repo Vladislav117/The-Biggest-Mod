@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tiqa overflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "tiqa", "amount": 1}, {"item": "zareba", "amount": 1}], "research": "tiqa-conveyor", "category": "distribution", "invert": false}

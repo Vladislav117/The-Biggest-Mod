@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small sorory solar panel", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "sorory", "amount": 6}, {"item": "geka", "amount": 9}, {"item": "cuvino", "amount": 9}], "research": "sorory-factory", "powerProduction": 5.000127678118306, "category": "power"}

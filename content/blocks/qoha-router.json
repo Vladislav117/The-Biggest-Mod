@@ -1,0 +1,1 @@
+{"type": "router", "name": "qoha router", "description": "...", "health": 72, "size": 1, "requirements": [{"item": "qoha", "amount": 10}], "research": "qoha-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fegy conduit", "description": "...", "health": 72, "requirements": [{"item": "fegy", "amount": 8}, {"item": "jodezu", "amount": 19}, {"item": "tedi", "amount": 9}], "liquidCapacity": 23, "liquidPressure": 2, "research": "fegy-factory", "category": "liquid"}

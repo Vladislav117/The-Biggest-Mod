@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "bide bridge conveyor", "description": "", "health": 50, "range": 5, "speed": 20, "bufferCapacity": 3, "requirements": [{"item": "bide", "amount": 5}, {"item": "viqamo", "amount": 1}], "research": "bide-conveyor", "category": "distribution", "size": 1}

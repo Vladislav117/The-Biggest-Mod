@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hyko inverted sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "hyko", "amount": 1}, {"item": "vygu", "amount": 4}], "research": "hyko-conveyor", "category": "distribution", "invert": true}

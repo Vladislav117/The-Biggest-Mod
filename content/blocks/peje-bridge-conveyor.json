@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "peje bridge conveyor", "description": "", "health": 47, "range": 1, "speed": 6, "bufferCapacity": 5, "requirements": [{"item": "peje", "amount": 3}, {"item": "bupe", "amount": 5}], "research": "peje-conveyor", "category": "distribution", "size": 1}

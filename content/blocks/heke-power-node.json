@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "heke power node", "description": "...", "size": 2, "health": 688, "requirements": [{"item": "heke", "amount": 13}, {"item": "lyya", "amount": 7}, {"item": "locycanium", "amount": 9}], "research": "heke-factory", "maxNodes": 51, "laserRange": 19, "category": "power"}

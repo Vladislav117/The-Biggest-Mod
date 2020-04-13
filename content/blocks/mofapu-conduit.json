@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mofapu conduit", "description": "...", "health": 127, "requirements": [{"item": "mofapu", "amount": 16}, {"item": "sukanium", "amount": 5}, {"item": "sebypa", "amount": 9}], "liquidCapacity": 12, "liquidPressure": 6, "research": "mofapu-factory", "category": "liquid"}

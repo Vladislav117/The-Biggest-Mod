@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "piwoci sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "piwoci", "amount": 3}, {"item": "yupo", "amount": 4}], "research": "piwoci-conveyor", "category": "distribution", "invert": false}

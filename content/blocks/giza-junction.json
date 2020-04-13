@@ -1,0 +1,1 @@
+{"type": "junction", "name": "giza junction", "description": "...", "health": 31, "speed": 7, "capacity": 11, "size": 1, "requirements": [{"item": "giza", "amount": 1}, {"item": "bofe", "amount": 5}], "research": "giza-conveyor", "category": "distribution"}

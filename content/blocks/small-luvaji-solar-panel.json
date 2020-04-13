@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small luvaji solar panel", "description": "...", "size": 1, "health": 308, "requirements": [{"item": "luvaji", "amount": 13}, {"item": "harugenium", "amount": 3}, {"item": "vuzesenium", "amount": 2}], "research": "luvaji-factory", "powerProduction": 0.31095983813538425, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ruxyye solar panel", "description": "...", "size": 3, "health": 300, "requirements": [{"item": "ruxyye", "amount": 18}, {"item": "halyqinium", "amount": 5}, {"item": "seqyyi", "amount": 6}], "research": "ruxyye-factory", "powerProduction": 0.3815774489337684, "category": "power"}

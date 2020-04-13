@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mojo liquid tank", "description": "...", "health": 133, "size": 3, "requirements": [{"item": "mojo", "amount": 15}, {"item": "leriki", "amount": 5}, {"item": "zuhele", "amount": 3}], "research": "mojo-conduit", "category": "liquid", "liquidCapacity": 100605, "hasLiquids": true}

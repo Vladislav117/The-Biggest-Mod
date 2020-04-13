@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kuteme liquid tank", "description": "...", "health": 416, "size": 3, "requirements": [{"item": "kuteme", "amount": 9}, {"item": "hobo", "amount": 19}, {"item": "nejesu", "amount": 10}], "research": "kuteme-conduit", "category": "liquid", "liquidCapacity": 109310, "hasLiquids": true}

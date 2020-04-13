@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hocode power node", "description": "...", "size": 2, "health": 400, "requirements": [{"item": "hocode", "amount": 3}, {"item": "qykyzo", "amount": 2}, {"item": "xiga", "amount": 7}], "research": "hocode-factory", "maxNodes": 42, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mivoky inverted sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "mivoky", "amount": 2}, {"item": "tatavo", "amount": 1}], "research": "mivoky-conveyor", "category": "distribution", "invert": true}

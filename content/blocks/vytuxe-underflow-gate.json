@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vytuxe underflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "vytuxe", "amount": 4}, {"item": "mapibi", "amount": 4}], "research": "vytuxe-conveyor", "category": "distribution", "invert": false}

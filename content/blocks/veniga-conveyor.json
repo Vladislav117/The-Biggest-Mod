@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "veniga conveyor", "description": "...", "health": 75, "requirements": [{"item": "veniga", "amount": 5}, {"item": "hago", "amount": 7}], "speed": 0.17330865657631356, "research": "veniga-factory", "category": "distribution"}

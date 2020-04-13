@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ruxa junction", "description": "...", "health": 22, "speed": 14, "capacity": 5, "size": 1, "requirements": [{"item": "ruxa", "amount": 5}, {"item": "cyqunium", "amount": 3}], "research": "ruxa-conveyor", "category": "distribution"}

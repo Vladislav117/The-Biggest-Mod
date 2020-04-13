@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nihy power node", "description": "...", "size": 1, "health": 282, "requirements": [{"item": "nihy", "amount": 11}, {"item": "tezila", "amount": 3}, {"item": "ruji", "amount": 10}], "research": "nihy-factory", "maxNodes": 13, "laserRange": 16, "category": "power"}

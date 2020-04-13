@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zayuzi underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "zayuzi", "amount": 5}, {"item": "gide", "amount": 1}], "research": "zayuzi-conveyor", "category": "distribution", "invert": false}

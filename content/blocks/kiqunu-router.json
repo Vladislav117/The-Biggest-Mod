@@ -1,0 +1,1 @@
+{"type": "router", "name": "kiqunu router", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "kiqunu", "amount": 8}], "research": "kiqunu-conveyor", "category": "distribution"}

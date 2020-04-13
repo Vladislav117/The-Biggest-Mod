@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lewana battery", "description": "...", "size": 3, "health": 247, "requirements": [{"item": "lewana", "amount": 6}, {"item": "meru", "amount": 13}, {"item": "tatavo", "amount": 1}], "research": "lewana-factory", "consumes": {"powerBuffered": 9610}, "category": "power"}

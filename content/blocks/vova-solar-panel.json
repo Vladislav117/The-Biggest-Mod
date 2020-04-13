@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vova solar panel", "description": "...", "size": 3, "health": 150, "requirements": [{"item": "vova", "amount": 18}, {"item": "fajygi", "amount": 2}, {"item": "nidenium", "amount": 7}], "research": "vova-factory", "powerProduction": 8.178279898803721, "category": "power"}

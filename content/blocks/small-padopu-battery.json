@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small padopu battery", "description": "...", "size": 1, "health": 322, "requirements": [{"item": "padopu", "amount": 15}, {"item": "haqu", "amount": 20}, {"item": "motaty", "amount": 9}], "research": "padopu-factory", "consumes": {"powerBuffered": 1073}, "category": "power"}

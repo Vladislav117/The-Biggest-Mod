@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small secy solar panel", "description": "...", "size": 1, "health": 365, "requirements": [{"item": "secy", "amount": 19}, {"item": "xyyira", "amount": 6}, {"item": "syto", "amount": 6}], "research": "secy-factory", "powerProduction": 0.9266973377544225, "category": "power"}

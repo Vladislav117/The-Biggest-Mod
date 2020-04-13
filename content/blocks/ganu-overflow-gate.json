@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ganu overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "ganu", "amount": 5}, {"item": "viqamo", "amount": 5}], "research": "ganu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zori battery", "description": "...", "size": 3, "health": 243, "requirements": [{"item": "zori", "amount": 9}, {"item": "sipynium", "amount": 15}, {"item": "rymojanium", "amount": 4}], "research": "zori-factory", "consumes": {"powerBuffered": 3113}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cyyenium battery", "description": "...", "size": 1, "health": 112, "requirements": [{"item": "cyyenium", "amount": 8}, {"item": "nuso", "amount": 13}, {"item": "tatavo", "amount": 4}], "research": "cyyenium-factory", "consumes": {"powerBuffered": 2483}, "category": "power"}

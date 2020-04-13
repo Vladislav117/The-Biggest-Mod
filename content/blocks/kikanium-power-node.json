@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kikanium power node", "description": "...", "size": 2, "health": 792, "requirements": [{"item": "kikanium", "amount": 12}, {"item": "puzybo", "amount": 14}, {"item": "xyfynium", "amount": 7}], "research": "kikanium-factory", "maxNodes": 24, "laserRange": 19, "category": "power"}

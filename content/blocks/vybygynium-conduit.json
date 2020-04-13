@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vybygynium conduit", "description": "...", "health": 150, "requirements": [{"item": "vybygynium", "amount": 3}, {"item": "cudo", "amount": 7}, {"item": "wiba", "amount": 7}], "liquidCapacity": 1, "liquidPressure": 6, "research": "vybygynium-factory", "category": "liquid"}

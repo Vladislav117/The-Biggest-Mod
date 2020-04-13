@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cefi liquid tank", "description": "...", "health": 669, "size": 3, "requirements": [{"item": "cefi", "amount": 1}, {"item": "niyy", "amount": 15}, {"item": "cuwa", "amount": 5}], "research": "cefi-conduit", "category": "liquid", "liquidCapacity": 107888, "hasLiquids": true}

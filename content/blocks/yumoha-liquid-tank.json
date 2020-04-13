@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yumoha liquid tank", "description": "...", "health": 485, "size": 3, "requirements": [{"item": "yumoha", "amount": 6}, {"item": "xyru", "amount": 4}, {"item": "jusybynium", "amount": 9}], "research": "yumoha-conduit", "category": "liquid", "liquidCapacity": 2522, "hasLiquids": true}

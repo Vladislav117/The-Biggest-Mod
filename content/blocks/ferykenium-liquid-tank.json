@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ferykenium liquid tank", "description": "...", "health": 656, "size": 3, "requirements": [{"item": "ferykenium", "amount": 12}, {"item": "dutohu", "amount": 16}, {"item": "yebunonium", "amount": 6}], "research": "ferykenium-conduit", "category": "liquid", "liquidCapacity": 74340, "hasLiquids": true}

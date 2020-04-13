@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wabenium power node", "description": "...", "size": 1, "health": 372, "requirements": [{"item": "wabenium", "amount": 17}, {"item": "jawo", "amount": 18}, {"item": "gorenium", "amount": 10}], "research": "wabenium-factory", "maxNodes": 18, "laserRange": 15, "category": "power"}

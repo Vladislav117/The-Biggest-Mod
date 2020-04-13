@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "besu power node", "description": "...", "size": 2, "health": 506, "requirements": [{"item": "besu", "amount": 15}, {"item": "kyte", "amount": 13}, {"item": "pyto", "amount": 10}], "research": "besu-factory", "maxNodes": 26, "laserRange": 14, "category": "power"}

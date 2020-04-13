@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zemo conduit", "description": "...", "health": 127, "requirements": [{"item": "zemo", "amount": 20}, {"item": "dofy", "amount": 13}, {"item": "titenium", "amount": 6}], "liquidCapacity": 44, "liquidPressure": 2, "research": "zemo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xadunium liquid tank", "description": "...", "health": 443, "size": 3, "requirements": [{"item": "xadunium", "amount": 20}, {"item": "yebyte", "amount": 1}, {"item": "ceyuwy", "amount": 8}], "research": "xadunium-conduit", "category": "liquid", "liquidCapacity": 39525, "hasLiquids": true}

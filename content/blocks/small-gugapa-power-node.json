@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gugapa power node", "description": "...", "size": 1, "health": 125, "requirements": [{"item": "gugapa", "amount": 9}, {"item": "widydo", "amount": 8}, {"item": "ropiki", "amount": 8}], "research": "gugapa-factory", "maxNodes": 17, "laserRange": 18, "category": "power"}

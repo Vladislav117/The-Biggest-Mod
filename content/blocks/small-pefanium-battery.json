@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pefanium battery", "description": "...", "size": 1, "health": 169, "requirements": [{"item": "pefanium", "amount": 20}, {"item": "koty", "amount": 1}, {"item": "hotonium", "amount": 6}], "research": "pefanium-factory", "consumes": {"powerBuffered": 981}, "category": "power"}

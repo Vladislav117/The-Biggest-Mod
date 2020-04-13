@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "denu liquid tank", "description": "...", "health": 506, "size": 3, "requirements": [{"item": "denu", "amount": 12}, {"item": "rehyce", "amount": 4}, {"item": "xavinium", "amount": 1}], "research": "denu-conduit", "category": "liquid", "liquidCapacity": 26111, "hasLiquids": true}

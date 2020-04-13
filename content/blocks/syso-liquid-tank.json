@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "syso liquid tank", "description": "...", "health": 559, "size": 3, "requirements": [{"item": "syso", "amount": 9}, {"item": "jucinium", "amount": 3}, {"item": "symeca", "amount": 8}], "research": "syso-conduit", "category": "liquid", "liquidCapacity": 94717, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ryma liquid router", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "ryma", "amount": 17}, {"item": "wiba", "amount": 18}, {"item": "mido", "amount": 10}], "research": "ryma-conduit", "liquidCapacity": 10, "category": "liquid"}

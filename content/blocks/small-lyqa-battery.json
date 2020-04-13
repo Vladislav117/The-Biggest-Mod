@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lyqa battery", "description": "...", "size": 1, "health": 276, "requirements": [{"item": "lyqa", "amount": 12}, {"item": "forebu", "amount": 20}, {"item": "puwasy", "amount": 2}], "research": "lyqa-factory", "consumes": {"powerBuffered": 2422}, "category": "power"}

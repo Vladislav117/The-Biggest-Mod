@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small babiqynium battery", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "babiqynium", "amount": 6}, {"item": "hymafa", "amount": 13}, {"item": "cenu", "amount": 8}], "research": "babiqynium-factory", "consumes": {"powerBuffered": 1783}, "category": "power"}

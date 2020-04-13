@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "geqanium liquid tank", "description": "...", "health": 286, "size": 3, "requirements": [{"item": "geqanium", "amount": 5}, {"item": "qosedi", "amount": 12}, {"item": "devube", "amount": 8}], "research": "geqanium-conduit", "category": "liquid", "liquidCapacity": 99769, "hasLiquids": true}

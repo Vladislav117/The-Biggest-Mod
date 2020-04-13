@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nileru solar panel", "description": "...", "size": 1, "health": 227, "requirements": [{"item": "nileru", "amount": 13}, {"item": "hasoye", "amount": 11}, {"item": "numuwanium", "amount": 7}], "research": "nileru-factory", "powerProduction": 5.153052789102642, "category": "power"}

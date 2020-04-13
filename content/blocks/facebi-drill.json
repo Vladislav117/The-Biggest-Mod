@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "facebi drill", "description": "...", "size": 2, "health": 133, "tier": 2, "drillTime": 1, "consumes": {"power": 18}, "requirements": [{"item": "facebi", "amount": 5}, {"item": "pigydinium", "amount": 4}, {"item": "tayi", "amount": 3}], "research": "facebi-factory", "category": "production"}

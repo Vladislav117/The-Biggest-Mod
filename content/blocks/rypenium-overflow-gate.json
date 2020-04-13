@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rypenium overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "rypenium", "amount": 1}, {"item": "zele", "amount": 4}], "research": "rypenium-conveyor", "category": "distribution", "invert": false}

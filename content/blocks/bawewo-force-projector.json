@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "bawewo force projector", "description": "...", "health": 205, "size": 3, "consumes": {"power": 5.0, "item": "bawewo"}, "requirements": [{"item": "bawewo", "amount": 9}, {"item": "qyryyunium", "amount": 17}, {"item": "pyto", "amount": 9}], "research": "bawewo-factory", "category": "effect"}

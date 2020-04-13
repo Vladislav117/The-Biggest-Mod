@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "naxynium power node", "description": "...", "size": 2, "health": 467, "requirements": [{"item": "naxynium", "amount": 18}, {"item": "cebuqy", "amount": 1}, {"item": "yisi", "amount": 3}], "research": "naxynium-factory", "maxNodes": 44, "laserRange": 12, "category": "power"}

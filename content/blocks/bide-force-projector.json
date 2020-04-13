@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "bide force projector", "description": "...", "health": 142, "size": 3, "consumes": {"power": 5.0, "item": "bide"}, "requirements": [{"item": "bide", "amount": 16}, {"item": "kujodo", "amount": 17}, {"item": "tufo", "amount": 9}], "research": "bide-factory", "category": "effect"}

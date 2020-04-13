@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rehyce battery", "description": "...", "size": 1, "health": 102, "requirements": [{"item": "rehyce", "amount": 19}, {"item": "dejoqonium", "amount": 7}, {"item": "guliyu", "amount": 8}], "research": "rehyce-factory", "consumes": {"powerBuffered": 544}, "category": "power"}

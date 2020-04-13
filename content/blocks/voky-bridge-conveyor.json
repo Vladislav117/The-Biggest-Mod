@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "voky bridge conveyor", "description": "", "health": 15, "range": 1, "speed": 12, "bufferCapacity": 23, "requirements": [{"item": "voky", "amount": 4}, {"item": "yoqije", "amount": 1}], "research": "voky-conveyor", "category": "distribution", "size": 1}

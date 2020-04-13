@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gujybo battery", "description": "...", "size": 3, "health": 70, "requirements": [{"item": "gujybo", "amount": 12}, {"item": "tybegi", "amount": 16}, {"item": "yypefa", "amount": 8}], "research": "gujybo-factory", "consumes": {"powerBuffered": 9094}, "category": "power"}

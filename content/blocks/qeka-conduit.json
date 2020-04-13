@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qeka conduit", "description": "...", "health": 150, "requirements": [{"item": "qeka", "amount": 11}, {"item": "qyhi", "amount": 18}, {"item": "kurecanium", "amount": 9}], "liquidCapacity": 44, "liquidPressure": 1, "research": "qeka-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sipynium liquid tank", "description": "...", "health": 498, "size": 3, "requirements": [{"item": "sipynium", "amount": 18}, {"item": "jylovo", "amount": 17}, {"item": "gurikinium", "amount": 7}], "research": "sipynium-conduit", "category": "liquid", "liquidCapacity": 26531, "hasLiquids": true}

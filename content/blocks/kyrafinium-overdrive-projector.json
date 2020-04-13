@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "kyrafinium overdrive projector", "description": "...", "health": 110, "consumes": {"power": 3.0, "item": "kyrafinium"}, "size": 2, "requirements": [{"item": "kyrafinium", "amount": 8}, {"item": "vety", "amount": 8}, {"item": "lowocanium", "amount": 2}], "research": "kyrafinium-factory", "category": "effect"}

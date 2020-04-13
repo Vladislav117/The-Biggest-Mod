@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nogu power node", "description": "...", "size": 1, "health": 205, "requirements": [{"item": "nogu", "amount": 2}, {"item": "yesolonium", "amount": 1}, {"item": "butuhi", "amount": 9}], "research": "nogu-factory", "maxNodes": 6, "laserRange": 8, "category": "power"}

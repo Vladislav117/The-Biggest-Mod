@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hajybe battery", "description": "...", "size": 1, "health": 11, "requirements": [{"item": "hajybe", "amount": 16}, {"item": "yogocu", "amount": 15}, {"item": "tozokinium", "amount": 8}], "research": "hajybe-factory", "consumes": {"powerBuffered": 1907}, "category": "power"}

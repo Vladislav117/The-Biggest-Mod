@@ -1,0 +1,1 @@
+{"type": "junction", "name": "siyenium junction", "description": "...", "health": 47, "speed": 8, "capacity": 6, "size": 1, "requirements": [{"item": "siyenium", "amount": 1}, {"item": "qepusenium", "amount": 5}], "research": "siyenium-conveyor", "category": "distribution"}

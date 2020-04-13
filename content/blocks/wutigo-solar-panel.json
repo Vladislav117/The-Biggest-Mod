@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wutigo solar panel", "description": "...", "size": 3, "health": 232, "requirements": [{"item": "wutigo", "amount": 16}, {"item": "hedi", "amount": 13}, {"item": "vove", "amount": 3}], "research": "wutigo-factory", "powerProduction": 2.674348455775075, "category": "power"}

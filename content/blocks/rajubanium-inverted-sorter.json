@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rajubanium inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "rajubanium", "amount": 1}, {"item": "gineta", "amount": 2}], "research": "rajubanium-conveyor", "category": "distribution", "invert": true}

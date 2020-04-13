@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "syso overflow gate", "description": "...", "health": 12, "size": 1, "requirements": [{"item": "syso", "amount": 5}, {"item": "higy", "amount": 5}], "research": "syso-conveyor", "category": "distribution", "invert": false}

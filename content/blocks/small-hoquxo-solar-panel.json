@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hoquxo solar panel", "description": "...", "size": 1, "health": 126, "requirements": [{"item": "hoquxo", "amount": 8}, {"item": "jepumi", "amount": 6}, {"item": "xyka", "amount": 2}], "research": "hoquxo-factory", "powerProduction": 0.5953329713316374, "category": "power"}

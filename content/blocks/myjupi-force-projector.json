@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "myjupi force projector", "description": "...", "health": 154, "size": 3, "consumes": {"power": 5.0, "item": "myjupi"}, "requirements": [{"item": "myjupi", "amount": 11}, {"item": "vapofu", "amount": 20}, {"item": "mygyyy", "amount": 10}], "research": "myjupi-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xuhuxenium inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "xuhuxenium", "amount": 5}, {"item": "pudoki", "amount": 4}], "research": "xuhuxenium-conveyor", "category": "distribution", "invert": true}

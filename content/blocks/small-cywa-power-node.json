@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cywa power node", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "cywa", "amount": 7}, {"item": "jelu", "amount": 19}, {"item": "kasevu", "amount": 4}], "research": "cywa-factory", "maxNodes": 16, "laserRange": 22, "category": "power"}

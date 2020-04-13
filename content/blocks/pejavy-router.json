@@ -1,0 +1,1 @@
+{"type": "router", "name": "pejavy router", "description": "...", "health": 119, "size": 1, "requirements": [{"item": "pejavy", "amount": 10}], "research": "pejavy-conveyor", "category": "distribution"}

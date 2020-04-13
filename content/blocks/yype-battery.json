@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yype battery", "description": "...", "size": 3, "health": 246, "requirements": [{"item": "yype", "amount": 20}, {"item": "teku", "amount": 3}, {"item": "rymyfanium", "amount": 9}], "research": "yype-factory", "consumes": {"powerBuffered": 1024}, "category": "power"}

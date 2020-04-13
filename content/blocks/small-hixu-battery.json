@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hixu battery", "description": "...", "size": 1, "health": 369, "requirements": [{"item": "hixu", "amount": 19}, {"item": "bajenium", "amount": 12}, {"item": "jywupa", "amount": 2}], "research": "hixu-factory", "consumes": {"powerBuffered": 2026}, "category": "power"}

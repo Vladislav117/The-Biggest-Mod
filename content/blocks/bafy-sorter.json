@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bafy sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "bafy", "amount": 5}, {"item": "huwyko", "amount": 2}], "research": "bafy-conveyor", "category": "distribution", "invert": false}

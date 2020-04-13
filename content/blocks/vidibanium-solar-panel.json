@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vidibanium solar panel", "description": "...", "size": 3, "health": 119, "requirements": [{"item": "vidibanium", "amount": 11}, {"item": "hygamunium", "amount": 20}, {"item": "patyco", "amount": 5}], "research": "vidibanium-factory", "powerProduction": 0.6721156877653041, "category": "power"}

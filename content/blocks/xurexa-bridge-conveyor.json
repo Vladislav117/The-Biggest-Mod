@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xurexa bridge conveyor", "description": "", "health": 1, "range": 20, "speed": 10, "bufferCapacity": 18, "requirements": [{"item": "xurexa", "amount": 2}, {"item": "hylisa", "amount": 5}], "research": "xurexa-conveyor", "category": "distribution", "size": 1}

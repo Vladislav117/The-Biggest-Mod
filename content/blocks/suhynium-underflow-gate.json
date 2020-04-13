@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "suhynium underflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "suhynium", "amount": 4}, {"item": "kokemy", "amount": 4}], "research": "suhynium-conveyor", "category": "distribution", "invert": false}

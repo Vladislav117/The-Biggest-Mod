@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sycexi underflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "sycexi", "amount": 4}, {"item": "xapu", "amount": 5}], "research": "sycexi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sorory solar panel", "description": "...", "size": 3, "health": 45, "requirements": [{"item": "sorory", "amount": 9}, {"item": "gina", "amount": 1}, {"item": "hazi", "amount": 2}], "research": "sorory-factory", "powerProduction": 1.4045578593995645, "category": "power"}

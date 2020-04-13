@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuse liquid tank", "description": "...", "health": 187, "size": 3, "requirements": [{"item": "cuse", "amount": 6}, {"item": "najy", "amount": 8}, {"item": "favunium", "amount": 10}], "research": "cuse-conduit", "category": "liquid", "liquidCapacity": 8487, "hasLiquids": true}

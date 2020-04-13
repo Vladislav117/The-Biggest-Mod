@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gyty conduit", "description": "...", "health": 64, "requirements": [{"item": "gyty", "amount": 11}, {"item": "holy", "amount": 16}, {"item": "zyhyne", "amount": 8}], "liquidCapacity": 50, "liquidPressure": 4, "research": "gyty-factory", "category": "liquid"}

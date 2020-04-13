@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gasu power node", "description": "...", "size": 2, "health": 263, "requirements": [{"item": "gasu", "amount": 8}, {"item": "jywupa", "amount": 12}, {"item": "fino", "amount": 2}], "research": "gasu-factory", "maxNodes": 33, "laserRange": 5, "category": "power"}

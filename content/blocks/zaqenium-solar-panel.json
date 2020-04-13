@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zaqenium solar panel", "description": "...", "size": 3, "health": 160, "requirements": [{"item": "zaqenium", "amount": 5}, {"item": "vuxi", "amount": 4}, {"item": "mebu", "amount": 1}], "research": "zaqenium-factory", "powerProduction": 4.018224618500221, "category": "power"}

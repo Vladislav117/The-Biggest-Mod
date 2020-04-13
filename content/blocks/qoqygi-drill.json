@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qoqygi drill", "description": "...", "size": 2, "health": 406, "tier": 2, "drillTime": 17, "consumes": {"power": 8}, "requirements": [{"item": "qoqygi", "amount": 14}, {"item": "velany", "amount": 3}, {"item": "qiregynium", "amount": 1}], "research": "qoqygi-factory", "category": "production"}

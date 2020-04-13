@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ciqi solar panel", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "ciqi", "amount": 1}, {"item": "daqy", "amount": 14}, {"item": "gizomanium", "amount": 2}], "research": "ciqi-factory", "powerProduction": 0.10634571971369057, "category": "power"}

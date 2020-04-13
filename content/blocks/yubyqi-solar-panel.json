@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yubyqi solar panel", "description": "...", "size": 3, "health": 100, "requirements": [{"item": "yubyqi", "amount": 12}, {"item": "baguyu", "amount": 18}, {"item": "tyzonium", "amount": 3}], "research": "yubyqi-factory", "powerProduction": 2.865575194785479, "category": "power"}

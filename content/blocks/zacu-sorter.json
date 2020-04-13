@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zacu sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "zacu", "amount": 4}, {"item": "mynizo", "amount": 4}], "research": "zacu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xini power node", "description": "...", "size": 2, "health": 240, "requirements": [{"item": "xini", "amount": 14}, {"item": "dezi", "amount": 10}, {"item": "kepo", "amount": 3}], "research": "xini-factory", "maxNodes": 12, "laserRange": 17, "category": "power"}

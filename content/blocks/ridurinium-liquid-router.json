@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ridurinium liquid router", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "ridurinium", "amount": 13}, {"item": "baje", "amount": 7}, {"item": "gizycanium", "amount": 4}], "research": "ridurinium-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lavysunium underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "lavysunium", "amount": 4}, {"item": "zoju", "amount": 4}], "research": "lavysunium-conveyor", "category": "distribution", "invert": false}

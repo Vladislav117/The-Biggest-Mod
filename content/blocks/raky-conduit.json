@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "raky conduit", "description": "...", "health": 78, "requirements": [{"item": "raky", "amount": 7}, {"item": "zoyinium", "amount": 18}, {"item": "zuvy", "amount": 5}], "liquidCapacity": 36, "liquidPressure": 0, "research": "raky-factory", "category": "liquid"}

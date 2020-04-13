@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qanisu battery", "description": "...", "size": 3, "health": 167, "requirements": [{"item": "qanisu", "amount": 5}, {"item": "qyjysu", "amount": 12}, {"item": "faferu", "amount": 3}], "research": "qanisu-factory", "consumes": {"powerBuffered": 3659}, "category": "power"}

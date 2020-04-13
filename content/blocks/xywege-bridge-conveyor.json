@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xywege bridge conveyor", "description": "", "health": 47, "range": 12, "speed": 6, "bufferCapacity": 11, "requirements": [{"item": "xywege", "amount": 1}, {"item": "qoviganium", "amount": 5}], "research": "xywege-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "leju power node", "description": "...", "size": 2, "health": 714, "requirements": [{"item": "leju", "amount": 1}, {"item": "qicinium", "amount": 8}, {"item": "mava", "amount": 6}], "research": "leju-factory", "maxNodes": 20, "laserRange": 7, "category": "power"}

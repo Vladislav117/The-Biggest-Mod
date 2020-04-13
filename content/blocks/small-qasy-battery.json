@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qasy battery", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "qasy", "amount": 8}, {"item": "wuho", "amount": 18}, {"item": "kudohi", "amount": 4}], "research": "qasy-factory", "consumes": {"powerBuffered": 2404}, "category": "power"}

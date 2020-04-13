@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bejominium power node", "description": "...", "size": 2, "health": 701, "requirements": [{"item": "bejominium", "amount": 14}, {"item": "sekele", "amount": 8}, {"item": "colu", "amount": 5}], "research": "bejominium-factory", "maxNodes": 34, "laserRange": 27, "category": "power"}

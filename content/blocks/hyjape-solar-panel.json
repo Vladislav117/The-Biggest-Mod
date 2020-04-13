@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hyjape solar panel", "description": "...", "size": 3, "health": 146, "requirements": [{"item": "hyjape", "amount": 15}, {"item": "refoty", "amount": 4}, {"item": "tehepy", "amount": 3}], "research": "hyjape-factory", "powerProduction": 8.153030751944911, "category": "power"}

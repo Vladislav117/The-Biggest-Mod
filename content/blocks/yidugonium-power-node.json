@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yidugonium power node", "description": "...", "size": 2, "health": 781, "requirements": [{"item": "yidugonium", "amount": 12}, {"item": "nezexe", "amount": 15}, {"item": "tujy", "amount": 3}], "research": "yidugonium-factory", "maxNodes": 29, "laserRange": 15, "category": "power"}

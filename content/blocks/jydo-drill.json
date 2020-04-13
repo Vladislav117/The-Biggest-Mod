@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jydo drill", "description": "...", "size": 3, "health": 411, "tier": 4, "drillTime": 15, "consumes": {"power": 3}, "requirements": [{"item": "jydo", "amount": 4}, {"item": "poxy", "amount": 16}, {"item": "ryfo", "amount": 10}], "research": "jydo-factory", "category": "production"}

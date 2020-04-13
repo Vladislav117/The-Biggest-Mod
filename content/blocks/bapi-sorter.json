@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bapi sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "bapi", "amount": 1}, {"item": "puye", "amount": 2}], "research": "bapi-conveyor", "category": "distribution", "invert": false}

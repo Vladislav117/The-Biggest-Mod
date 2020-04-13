@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qaryzi conduit", "description": "...", "health": 195, "requirements": [{"item": "qaryzi", "amount": 1}, {"item": "sonydu", "amount": 1}, {"item": "qipy", "amount": 9}], "liquidCapacity": 12, "liquidPressure": 6, "research": "qaryzi-factory", "category": "liquid"}

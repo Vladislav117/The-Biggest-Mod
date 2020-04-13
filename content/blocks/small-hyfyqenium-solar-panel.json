@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hyfyqenium solar panel", "description": "...", "size": 1, "health": 254, "requirements": [{"item": "hyfyqenium", "amount": 15}, {"item": "qimu", "amount": 7}, {"item": "qukeso", "amount": 9}], "research": "hyfyqenium-factory", "powerProduction": 3.1228455038741343, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "rufi drill", "description": "...", "size": 4, "health": 309, "tier": 3, "drillTime": 2, "consumes": {"power": 1}, "requirements": [{"item": "rufi", "amount": 2}, {"item": "nivefu", "amount": 5}, {"item": "zenuwunium", "amount": 4}], "research": "rufi-factory", "category": "production"}

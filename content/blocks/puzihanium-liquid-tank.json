@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "puzihanium liquid tank", "description": "...", "health": 503, "size": 3, "requirements": [{"item": "puzihanium", "amount": 11}, {"item": "guwinium", "amount": 20}, {"item": "jofu", "amount": 8}], "research": "puzihanium-conduit", "category": "liquid", "liquidCapacity": 55689, "hasLiquids": true}

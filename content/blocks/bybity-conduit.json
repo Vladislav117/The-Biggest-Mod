@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bybity conduit", "description": "...", "health": 42, "requirements": [{"item": "bybity", "amount": 6}, {"item": "zuzequ", "amount": 4}, {"item": "ridu", "amount": 9}], "liquidCapacity": 32, "liquidPressure": 8, "research": "bybity-factory", "category": "liquid"}

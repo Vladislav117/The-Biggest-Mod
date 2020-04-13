@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bymenium power node", "description": "...", "size": 2, "health": 98, "requirements": [{"item": "bymenium", "amount": 18}, {"item": "hiki", "amount": 13}, {"item": "pepe", "amount": 2}], "research": "bymenium-factory", "maxNodes": 42, "laserRange": 9, "category": "power"}

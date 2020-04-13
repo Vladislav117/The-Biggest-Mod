@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qymanium junction", "description": "...", "health": 18, "speed": 10, "capacity": 5, "size": 1, "requirements": [{"item": "qymanium", "amount": 2}, {"item": "xebili", "amount": 2}], "research": "qymanium-conveyor", "category": "distribution"}

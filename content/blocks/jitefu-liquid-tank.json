@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jitefu liquid tank", "description": "...", "health": 269, "size": 3, "requirements": [{"item": "jitefu", "amount": 11}, {"item": "cedyqe", "amount": 19}, {"item": "ryma", "amount": 9}], "research": "jitefu-conduit", "category": "liquid", "liquidCapacity": 50904, "hasLiquids": true}

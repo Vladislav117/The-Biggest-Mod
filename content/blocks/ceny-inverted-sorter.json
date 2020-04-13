@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ceny inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "ceny", "amount": 1}, {"item": "zyqita", "amount": 2}], "research": "ceny-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yugu conduit", "description": "...", "health": 197, "requirements": [{"item": "yugu", "amount": 6}, {"item": "cixe", "amount": 6}, {"item": "wipori", "amount": 6}], "liquidCapacity": 8, "liquidPressure": 10, "research": "yugu-factory", "category": "liquid"}

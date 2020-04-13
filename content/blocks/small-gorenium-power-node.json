@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gorenium power node", "description": "...", "size": 1, "health": 110, "requirements": [{"item": "gorenium", "amount": 10}, {"item": "yirere", "amount": 19}, {"item": "neletanium", "amount": 10}], "research": "gorenium-factory", "maxNodes": 23, "laserRange": 20, "category": "power"}

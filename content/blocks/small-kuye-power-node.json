@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kuye power node", "description": "...", "size": 1, "health": 315, "requirements": [{"item": "kuye", "amount": 13}, {"item": "tedi", "amount": 13}, {"item": "wifu", "amount": 6}], "research": "kuye-factory", "maxNodes": 25, "laserRange": 18, "category": "power"}

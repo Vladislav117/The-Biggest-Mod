@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qicu liquid tank", "description": "...", "health": 329, "size": 3, "requirements": [{"item": "qicu", "amount": 20}, {"item": "pero", "amount": 2}, {"item": "judu", "amount": 7}], "research": "qicu-conduit", "category": "liquid", "liquidCapacity": 100778, "hasLiquids": true}

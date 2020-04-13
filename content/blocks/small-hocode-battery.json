@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hocode battery", "description": "...", "size": 1, "health": 307, "requirements": [{"item": "hocode", "amount": 7}, {"item": "wisy", "amount": 6}, {"item": "sysone", "amount": 8}], "research": "hocode-factory", "consumes": {"powerBuffered": 819}, "category": "power"}

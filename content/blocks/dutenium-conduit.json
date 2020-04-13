@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dutenium conduit", "description": "...", "health": 117, "requirements": [{"item": "dutenium", "amount": 16}, {"item": "zexi", "amount": 20}, {"item": "laso", "amount": 10}], "liquidCapacity": 50, "liquidPressure": 6, "research": "dutenium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tanaxi battery", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "tanaxi", "amount": 4}, {"item": "vodynium", "amount": 16}, {"item": "myyu", "amount": 6}], "research": "tanaxi-factory", "consumes": {"powerBuffered": 751}, "category": "power"}

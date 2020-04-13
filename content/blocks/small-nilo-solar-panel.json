@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nilo solar panel", "description": "...", "size": 1, "health": 380, "requirements": [{"item": "nilo", "amount": 19}, {"item": "neqose", "amount": 4}, {"item": "kyco", "amount": 7}], "research": "nilo-factory", "powerProduction": 2.8817102970198776, "category": "power"}

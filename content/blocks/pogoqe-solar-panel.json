@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pogoqe solar panel", "description": "...", "size": 3, "health": 386, "requirements": [{"item": "pogoqe", "amount": 13}, {"item": "vaso", "amount": 19}, {"item": "yypefa", "amount": 6}], "research": "pogoqe-factory", "powerProduction": 0.2852133491219934, "category": "power"}

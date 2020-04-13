@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "garuza overdrive projector", "description": "...", "health": 65, "consumes": {"power": 3.0, "item": "garuza"}, "size": 2, "requirements": [{"item": "garuza", "amount": 11}, {"item": "xuricy", "amount": 16}, {"item": "tysi", "amount": 9}], "research": "garuza-factory", "category": "effect"}

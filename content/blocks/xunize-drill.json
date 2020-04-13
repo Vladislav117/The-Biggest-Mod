@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xunize drill", "description": "...", "size": 2, "health": 215, "tier": 1, "drillTime": 18, "consumes": {"power": 1}, "requirements": [{"item": "xunize", "amount": 13}, {"item": "pehabu", "amount": 16}, {"item": "qyry", "amount": 5}], "research": "xunize-factory", "category": "production"}

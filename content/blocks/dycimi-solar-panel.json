@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dycimi solar panel", "description": "...", "size": 3, "health": 329, "requirements": [{"item": "dycimi", "amount": 8}, {"item": "xevenium", "amount": 13}, {"item": "nevyle", "amount": 6}], "research": "dycimi-factory", "powerProduction": 0.5104440390282045, "category": "power"}

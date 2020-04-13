@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small geke battery", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "geke", "amount": 8}, {"item": "vema", "amount": 16}, {"item": "ridu", "amount": 5}], "research": "geke-factory", "consumes": {"powerBuffered": 2055}, "category": "power"}

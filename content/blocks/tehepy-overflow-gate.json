@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tehepy overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "tehepy", "amount": 4}, {"item": "hogazanium", "amount": 2}], "research": "tehepy-conveyor", "category": "distribution", "invert": false}

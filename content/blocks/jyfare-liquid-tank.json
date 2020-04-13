@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jyfare liquid tank", "description": "...", "health": 626, "size": 3, "requirements": [{"item": "jyfare", "amount": 2}, {"item": "luvigu", "amount": 17}, {"item": "cifo", "amount": 1}], "research": "jyfare-conduit", "category": "liquid", "liquidCapacity": 16130, "hasLiquids": true}

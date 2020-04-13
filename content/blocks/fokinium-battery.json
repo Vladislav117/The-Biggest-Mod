@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fokinium battery", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "fokinium", "amount": 9}, {"item": "vesy", "amount": 13}, {"item": "yitu", "amount": 5}], "research": "fokinium-factory", "consumes": {"powerBuffered": 3853}, "category": "power"}

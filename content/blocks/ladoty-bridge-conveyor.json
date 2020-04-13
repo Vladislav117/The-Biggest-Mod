@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ladoty bridge conveyor", "description": "", "health": 25, "range": 6, "speed": 10, "bufferCapacity": 25, "requirements": [{"item": "ladoty", "amount": 4}, {"item": "reyyma", "amount": 3}], "research": "ladoty-conveyor", "category": "distribution", "size": 1}

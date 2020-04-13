@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yyqynium liquid tank", "description": "...", "health": 436, "size": 3, "requirements": [{"item": "yyqynium", "amount": 19}, {"item": "leyyde", "amount": 20}, {"item": "cokyro", "amount": 1}], "research": "yyqynium-conduit", "category": "liquid", "liquidCapacity": 5275, "hasLiquids": true}

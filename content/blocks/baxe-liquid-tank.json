@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "baxe liquid tank", "description": "...", "health": 504, "size": 3, "requirements": [{"item": "baxe", "amount": 5}, {"item": "cogy", "amount": 14}, {"item": "samivi", "amount": 4}], "research": "baxe-conduit", "category": "liquid", "liquidCapacity": 12743, "hasLiquids": true}

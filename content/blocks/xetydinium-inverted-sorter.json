@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xetydinium inverted sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "xetydinium", "amount": 3}, {"item": "nukino", "amount": 4}], "research": "xetydinium-conveyor", "category": "distribution", "invert": true}

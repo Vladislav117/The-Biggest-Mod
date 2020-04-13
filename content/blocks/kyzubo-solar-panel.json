@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kyzubo solar panel", "description": "...", "size": 3, "health": 337, "requirements": [{"item": "kyzubo", "amount": 10}, {"item": "wyra", "amount": 11}, {"item": "cosi", "amount": 5}], "research": "kyzubo-factory", "powerProduction": 0.2513702970825199, "category": "power"}

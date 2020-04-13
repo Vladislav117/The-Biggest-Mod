@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "riyi liquid tank", "description": "...", "health": 406, "size": 3, "requirements": [{"item": "riyi", "amount": 8}, {"item": "mijynium", "amount": 14}, {"item": "locu", "amount": 8}], "research": "riyi-conduit", "category": "liquid", "liquidCapacity": 11175, "hasLiquids": true}

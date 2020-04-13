@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kuwo junction", "description": "...", "health": 34, "speed": 3, "capacity": 9, "size": 1, "requirements": [{"item": "kuwo", "amount": 1}, {"item": "nota", "amount": 1}], "research": "kuwo-conveyor", "category": "distribution"}

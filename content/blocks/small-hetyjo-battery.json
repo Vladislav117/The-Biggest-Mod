@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hetyjo battery", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "hetyjo", "amount": 9}, {"item": "naku", "amount": 8}, {"item": "kudanium", "amount": 7}], "research": "hetyjo-factory", "consumes": {"powerBuffered": 2216}, "category": "power"}

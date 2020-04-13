@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "niyy liquid tank", "description": "...", "health": 188, "size": 3, "requirements": [{"item": "niyy", "amount": 15}, {"item": "kipyzonium", "amount": 2}, {"item": "sacigi", "amount": 9}], "research": "niyy-conduit", "category": "liquid", "liquidCapacity": 49177, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rafe battery", "description": "...", "size": 3, "health": 368, "requirements": [{"item": "rafe", "amount": 16}, {"item": "xymywi", "amount": 6}, {"item": "qiti", "amount": 2}], "research": "rafe-factory", "consumes": {"powerBuffered": 9879}, "category": "power"}

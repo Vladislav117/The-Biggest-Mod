@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mapoya underflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "mapoya", "amount": 1}, {"item": "loqa", "amount": 4}], "research": "mapoya-conveyor", "category": "distribution", "invert": false}

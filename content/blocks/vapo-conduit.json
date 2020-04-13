@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vapo conduit", "description": "...", "health": 194, "requirements": [{"item": "vapo", "amount": 11}, {"item": "vojenium", "amount": 6}, {"item": "dipewanium", "amount": 1}], "liquidCapacity": 43, "liquidPressure": 6, "research": "vapo-factory", "category": "liquid"}

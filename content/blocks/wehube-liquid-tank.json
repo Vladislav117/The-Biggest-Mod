@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wehube liquid tank", "description": "...", "health": 634, "size": 3, "requirements": [{"item": "wehube", "amount": 18}, {"item": "kufuvunium", "amount": 7}, {"item": "fanaka", "amount": 10}], "research": "wehube-conduit", "category": "liquid", "liquidCapacity": 7517, "hasLiquids": true}

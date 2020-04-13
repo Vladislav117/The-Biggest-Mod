@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "timy liquid tank", "description": "...", "health": 151, "size": 3, "requirements": [{"item": "timy", "amount": 20}, {"item": "yatu", "amount": 7}, {"item": "vunehy", "amount": 7}], "research": "timy-conduit", "category": "liquid", "liquidCapacity": 9820, "hasLiquids": true}

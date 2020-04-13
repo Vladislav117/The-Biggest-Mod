@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "feby power node", "description": "...", "size": 2, "health": 289, "requirements": [{"item": "feby", "amount": 13}, {"item": "fobinium", "amount": 10}, {"item": "butyce", "amount": 4}], "research": "feby-factory", "maxNodes": 51, "laserRange": 21, "category": "power"}

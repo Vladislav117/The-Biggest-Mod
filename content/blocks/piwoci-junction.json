@@ -1,0 +1,1 @@
+{"type": "junction", "name": "piwoci junction", "description": "...", "health": 12, "speed": 7, "capacity": 16, "size": 1, "requirements": [{"item": "piwoci", "amount": 2}, {"item": "hyla", "amount": 2}], "research": "piwoci-conveyor", "category": "distribution"}

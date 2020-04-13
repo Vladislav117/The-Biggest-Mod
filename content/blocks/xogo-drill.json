@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xogo drill", "description": "...", "size": 2, "health": 195, "tier": 4, "drillTime": 1, "consumes": {"power": 3}, "requirements": [{"item": "xogo", "amount": 16}, {"item": "qodanunium", "amount": 11}, {"item": "beyy", "amount": 1}], "research": "xogo-factory", "category": "production"}

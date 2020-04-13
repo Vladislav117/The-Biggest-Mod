@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sokima overflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "sokima", "amount": 4}, {"item": "vedapa", "amount": 2}], "research": "sokima-conveyor", "category": "distribution", "invert": false}

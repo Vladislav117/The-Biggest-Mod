@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ziwa liquid tank", "description": "...", "health": 381, "size": 3, "requirements": [{"item": "ziwa", "amount": 16}, {"item": "kubi", "amount": 4}, {"item": "yydy", "amount": 1}], "research": "ziwa-conduit", "category": "liquid", "liquidCapacity": 107527, "hasLiquids": true}

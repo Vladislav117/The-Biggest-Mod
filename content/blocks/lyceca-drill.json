@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lyceca drill", "description": "...", "size": 2, "health": 242, "tier": 2, "drillTime": 3, "consumes": {"power": 11}, "requirements": [{"item": "lyceca", "amount": 17}, {"item": "siqefo", "amount": 6}, {"item": "titanium", "amount": 10}], "research": "lyceca-factory", "category": "production"}

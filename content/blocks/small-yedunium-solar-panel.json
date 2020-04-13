@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yedunium solar panel", "description": "...", "size": 1, "health": 190, "requirements": [{"item": "yedunium", "amount": 12}, {"item": "sipynium", "amount": 17}, {"item": "cucaso", "amount": 1}], "research": "yedunium-factory", "powerProduction": 1.4211902685952624, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "myzu solar panel", "description": "...", "size": 3, "health": 78, "requirements": [{"item": "myzu", "amount": 12}, {"item": "lasige", "amount": 15}, {"item": "wety", "amount": 4}], "research": "myzu-factory", "powerProduction": 3.1469126633428615, "category": "power"}

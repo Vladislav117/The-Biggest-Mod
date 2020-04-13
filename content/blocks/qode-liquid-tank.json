@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qode liquid tank", "description": "...", "health": 357, "size": 3, "requirements": [{"item": "qode", "amount": 19}, {"item": "rufi", "amount": 14}, {"item": "vana", "amount": 6}], "research": "qode-conduit", "category": "liquid", "liquidCapacity": 113240, "hasLiquids": true}

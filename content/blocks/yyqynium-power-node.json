@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yyqynium power node", "description": "...", "size": 2, "health": 614, "requirements": [{"item": "yyqynium", "amount": 18}, {"item": "wiqa", "amount": 10}, {"item": "xekape", "amount": 8}], "research": "yyqynium-factory", "maxNodes": 60, "laserRange": 12, "category": "power"}

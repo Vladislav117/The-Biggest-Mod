@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "roluny solar panel", "description": "...", "size": 3, "health": 235, "requirements": [{"item": "roluny", "amount": 18}, {"item": "julynium", "amount": 11}, {"item": "hedi", "amount": 2}], "research": "roluny-factory", "powerProduction": 0.44296269329381305, "category": "power"}

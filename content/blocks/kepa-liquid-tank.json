@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kepa liquid tank", "description": "...", "health": 470, "size": 3, "requirements": [{"item": "kepa", "amount": 14}, {"item": "lisy", "amount": 17}, {"item": "waka", "amount": 9}], "research": "kepa-conduit", "category": "liquid", "liquidCapacity": 21515, "hasLiquids": true}

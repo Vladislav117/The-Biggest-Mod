@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fure conduit", "description": "...", "health": 101, "requirements": [{"item": "fure", "amount": 10}, {"item": "kufi", "amount": 10}, {"item": "ravyku", "amount": 8}], "liquidCapacity": 46, "liquidPressure": 5, "research": "fure-factory", "category": "liquid"}

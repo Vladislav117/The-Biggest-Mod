@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cire overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "cire", "amount": 2}, {"item": "yuze", "amount": 1}], "research": "cire-conveyor", "category": "distribution", "invert": false}

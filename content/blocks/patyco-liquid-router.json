@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "patyco liquid router", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "patyco", "amount": 19}, {"item": "tobu", "amount": 3}, {"item": "yedyte", "amount": 2}], "research": "patyco-conduit", "liquidCapacity": 10, "category": "liquid"}

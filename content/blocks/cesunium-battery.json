@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cesunium battery", "description": "...", "size": 3, "health": 155, "requirements": [{"item": "cesunium", "amount": 2}, {"item": "bihu", "amount": 14}, {"item": "xicyru", "amount": 8}], "research": "cesunium-factory", "consumes": {"powerBuffered": 6354}, "category": "power"}

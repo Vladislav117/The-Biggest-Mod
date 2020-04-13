@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fohebi battery", "description": "...", "size": 3, "health": 127, "requirements": [{"item": "fohebi", "amount": 17}, {"item": "kide", "amount": 6}, {"item": "xyzeja", "amount": 1}], "research": "fohebi-factory", "consumes": {"powerBuffered": 7194}, "category": "power"}

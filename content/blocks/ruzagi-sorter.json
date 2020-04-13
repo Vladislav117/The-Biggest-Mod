@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ruzagi sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "ruzagi", "amount": 5}, {"item": "nuso", "amount": 1}], "research": "ruzagi-conveyor", "category": "distribution", "invert": false}

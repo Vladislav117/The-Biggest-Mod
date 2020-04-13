@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gogajy junction", "description": "...", "health": 16, "speed": 14, "capacity": 16, "size": 1, "requirements": [{"item": "gogajy", "amount": 4}, {"item": "ruteqa", "amount": 5}], "research": "gogajy-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jarovu sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "jarovu", "amount": 2}, {"item": "nawyli", "amount": 3}], "research": "jarovu-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kegiqi conduit", "description": "...", "health": 101, "requirements": [{"item": "kegiqi", "amount": 16}, {"item": "kilu", "amount": 8}, {"item": "vove", "amount": 5}], "liquidCapacity": 36, "liquidPressure": 9, "research": "kegiqi-factory", "category": "liquid"}

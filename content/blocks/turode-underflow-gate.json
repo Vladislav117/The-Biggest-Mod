@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "turode underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "turode", "amount": 5}, {"item": "sice", "amount": 4}], "research": "turode-conveyor", "category": "distribution", "invert": false}

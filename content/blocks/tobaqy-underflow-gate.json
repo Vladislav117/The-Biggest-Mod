@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tobaqy underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "tobaqy", "amount": 4}, {"item": "luzinium", "amount": 2}], "research": "tobaqy-conveyor", "category": "distribution", "invert": false}

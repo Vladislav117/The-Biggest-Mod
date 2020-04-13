@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "renove force projector", "description": "...", "health": 143, "size": 3, "consumes": {"power": 5.0, "item": "renove"}, "requirements": [{"item": "renove", "amount": 4}, {"item": "faba", "amount": 18}, {"item": "riza", "amount": 9}], "research": "renove-factory", "category": "effect"}

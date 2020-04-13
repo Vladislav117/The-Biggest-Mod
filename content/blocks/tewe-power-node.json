@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tewe power node", "description": "...", "size": 2, "health": 373, "requirements": [{"item": "tewe", "amount": 6}, {"item": "zohura", "amount": 2}, {"item": "vunijy", "amount": 1}], "research": "tewe-factory", "maxNodes": 23, "laserRange": 6, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hixu solar panel", "description": "...", "size": 1, "health": 211, "requirements": [{"item": "hixu", "amount": 9}, {"item": "duqu", "amount": 6}, {"item": "lyceca", "amount": 10}], "research": "hixu-factory", "powerProduction": 3.0380828196084058, "category": "power"}

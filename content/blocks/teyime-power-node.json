@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "teyime power node", "description": "...", "size": 2, "health": 41, "requirements": [{"item": "teyime", "amount": 19}, {"item": "nido", "amount": 7}, {"item": "yuby", "amount": 2}], "research": "teyime-factory", "maxNodes": 12, "laserRange": 24, "category": "power"}

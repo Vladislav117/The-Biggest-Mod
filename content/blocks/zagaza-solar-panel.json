@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zagaza solar panel", "description": "...", "size": 3, "health": 321, "requirements": [{"item": "zagaza", "amount": 6}, {"item": "vevo", "amount": 20}, {"item": "pyhisy", "amount": 7}], "research": "zagaza-factory", "powerProduction": 0.17539129590459115, "category": "power"}

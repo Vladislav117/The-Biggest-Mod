@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qavuhe battery", "description": "...", "size": 3, "health": 303, "requirements": [{"item": "qavuhe", "amount": 18}, {"item": "yovasi", "amount": 7}, {"item": "garyda", "amount": 9}], "research": "qavuhe-factory", "consumes": {"powerBuffered": 7323}, "category": "power"}

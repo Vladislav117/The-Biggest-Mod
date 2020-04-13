@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zade liquid tank", "description": "...", "health": 281, "size": 3, "requirements": [{"item": "zade", "amount": 14}, {"item": "nuniyi", "amount": 16}, {"item": "fypanium", "amount": 7}], "research": "zade-conduit", "category": "liquid", "liquidCapacity": 34224, "hasLiquids": true}

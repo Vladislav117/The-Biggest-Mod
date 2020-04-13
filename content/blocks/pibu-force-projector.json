@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "pibu force projector", "description": "...", "health": 153, "size": 3, "consumes": {"power": 5.0, "item": "pibu"}, "requirements": [{"item": "pibu", "amount": 7}, {"item": "vemame", "amount": 10}, {"item": "selinium", "amount": 10}], "research": "pibu-factory", "category": "effect"}

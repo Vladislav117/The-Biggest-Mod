@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "reyy power node", "description": "...", "size": 2, "health": 513, "requirements": [{"item": "reyy", "amount": 6}, {"item": "medide", "amount": 14}, {"item": "kawo", "amount": 5}], "research": "reyy-factory", "maxNodes": 10, "laserRange": 14, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qaya solar panel", "description": "...", "size": 3, "health": 160, "requirements": [{"item": "qaya", "amount": 1}, {"item": "cady", "amount": 10}, {"item": "cenunium", "amount": 6}], "research": "qaya-factory", "powerProduction": 0.06451946298290814, "category": "power"}

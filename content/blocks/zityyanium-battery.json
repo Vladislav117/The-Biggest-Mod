@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zityyanium battery", "description": "...", "size": 3, "health": 20, "requirements": [{"item": "zityyanium", "amount": 18}, {"item": "cavuyi", "amount": 11}, {"item": "bywazy", "amount": 3}], "research": "zityyanium-factory", "consumes": {"powerBuffered": 251}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "give junction", "description": "...", "health": 6, "speed": 6, "capacity": 5, "size": 1, "requirements": [{"item": "give", "amount": 5}, {"item": "vuguqy", "amount": 2}], "research": "give-conveyor", "category": "distribution"}

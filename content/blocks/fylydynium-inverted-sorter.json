@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fylydynium inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "fylydynium", "amount": 4}, {"item": "kyji", "amount": 5}], "research": "fylydynium-conveyor", "category": "distribution", "invert": true}

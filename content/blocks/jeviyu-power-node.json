@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jeviyu power node", "description": "...", "size": 2, "health": 33, "requirements": [{"item": "jeviyu", "amount": 8}, {"item": "menibonium", "amount": 19}, {"item": "huro", "amount": 1}], "research": "jeviyu-factory", "maxNodes": 16, "laserRange": 6, "category": "power"}

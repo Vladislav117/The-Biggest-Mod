@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fajygi battery", "description": "...", "size": 1, "health": 199, "requirements": [{"item": "fajygi", "amount": 18}, {"item": "tynipu", "amount": 17}, {"item": "fyfy", "amount": 10}], "research": "fajygi-factory", "consumes": {"powerBuffered": 1831}, "category": "power"}

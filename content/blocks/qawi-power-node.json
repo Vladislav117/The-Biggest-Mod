@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qawi power node", "description": "...", "size": 2, "health": 465, "requirements": [{"item": "qawi", "amount": 12}, {"item": "nikoru", "amount": 11}, {"item": "ziwa", "amount": 7}], "research": "qawi-factory", "maxNodes": 55, "laserRange": 14, "category": "power"}

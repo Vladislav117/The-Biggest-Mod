@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vuponium junction", "description": "...", "health": 12, "speed": 20, "capacity": 3, "size": 1, "requirements": [{"item": "vuponium", "amount": 5}, {"item": "xodali", "amount": 4}], "research": "vuponium-conveyor", "category": "distribution"}

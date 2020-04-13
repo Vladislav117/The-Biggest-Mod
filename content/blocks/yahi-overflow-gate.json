@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yahi overflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "yahi", "amount": 4}, {"item": "yeli", "amount": 4}], "research": "yahi-conveyor", "category": "distribution", "invert": false}

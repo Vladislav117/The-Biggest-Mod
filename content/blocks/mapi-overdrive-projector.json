@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "mapi overdrive projector", "description": "...", "health": 114, "consumes": {"power": 3.0, "item": "mapi"}, "size": 2, "requirements": [{"item": "mapi", "amount": 8}, {"item": "qyhi", "amount": 5}, {"item": "duto", "amount": 2}], "research": "mapi-factory", "category": "effect"}

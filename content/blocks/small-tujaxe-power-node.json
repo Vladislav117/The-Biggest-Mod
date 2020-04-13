@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tujaxe power node", "description": "...", "size": 1, "health": 326, "requirements": [{"item": "tujaxe", "amount": 10}, {"item": "cexulu", "amount": 2}, {"item": "hocona", "amount": 1}], "research": "tujaxe-factory", "maxNodes": 30, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "balyvo sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "balyvo", "amount": 1}, {"item": "terepy", "amount": 4}], "research": "balyvo-conveyor", "category": "distribution", "invert": false}

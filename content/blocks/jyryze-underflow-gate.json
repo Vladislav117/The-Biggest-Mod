@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jyryze underflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "jyryze", "amount": 4}, {"item": "xuhuxenium", "amount": 3}], "research": "jyryze-conveyor", "category": "distribution", "invert": false}

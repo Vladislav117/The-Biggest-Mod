@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "myzu conduit", "description": "...", "health": 84, "requirements": [{"item": "myzu", "amount": 7}, {"item": "faruna", "amount": 5}, {"item": "poxy", "amount": 10}], "liquidCapacity": 2, "liquidPressure": 0, "research": "myzu-factory", "category": "liquid"}

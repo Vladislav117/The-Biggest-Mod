@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lekekenium liquid tank", "description": "...", "health": 592, "size": 3, "requirements": [{"item": "lekekenium", "amount": 9}, {"item": "qawy", "amount": 8}, {"item": "cexulu", "amount": 9}], "research": "lekekenium-conduit", "category": "liquid", "liquidCapacity": 102846, "hasLiquids": true}

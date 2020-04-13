@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hiba power node", "description": "...", "size": 2, "health": 325, "requirements": [{"item": "hiba", "amount": 4}, {"item": "zeyeqi", "amount": 16}, {"item": "holanynium", "amount": 10}], "research": "hiba-factory", "maxNodes": 32, "laserRange": 15, "category": "power"}

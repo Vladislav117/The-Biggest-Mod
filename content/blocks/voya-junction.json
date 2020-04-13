@@ -1,0 +1,1 @@
+{"type": "junction", "name": "voya junction", "description": "...", "health": 27, "speed": 14, "capacity": 6, "size": 1, "requirements": [{"item": "voya", "amount": 2}, {"item": "hugevinium", "amount": 2}], "research": "voya-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nuniyi power node", "description": "...", "size": 1, "health": 391, "requirements": [{"item": "nuniyi", "amount": 5}, {"item": "bito", "amount": 3}, {"item": "raso", "amount": 7}], "research": "nuniyi-factory", "maxNodes": 29, "laserRange": 23, "category": "power"}

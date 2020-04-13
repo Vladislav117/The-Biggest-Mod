@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "molikonium liquid router", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "molikonium", "amount": 10}, {"item": "neloto", "amount": 12}, {"item": "kosonium", "amount": 4}], "research": "molikonium-conduit", "liquidCapacity": 10, "category": "liquid"}

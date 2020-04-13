@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tixanu solar panel", "description": "...", "size": 1, "health": 373, "requirements": [{"item": "tixanu", "amount": 11}, {"item": "ryloxi", "amount": 9}, {"item": "wisi", "amount": 5}], "research": "tixanu-factory", "powerProduction": 5.555686698339226, "category": "power"}

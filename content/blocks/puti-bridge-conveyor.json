@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "puti bridge conveyor", "description": "", "health": 15, "range": 2, "speed": 3, "bufferCapacity": 6, "requirements": [{"item": "puti", "amount": 4}, {"item": "kexebinium", "amount": 1}], "research": "puti-conveyor", "category": "distribution", "size": 1}

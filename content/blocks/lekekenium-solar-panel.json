@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lekekenium solar panel", "description": "...", "size": 3, "health": 311, "requirements": [{"item": "lekekenium", "amount": 2}, {"item": "gozefynium", "amount": 5}, {"item": "gydycu", "amount": 5}], "research": "lekekenium-factory", "powerProduction": 0.4284014330544856, "category": "power"}

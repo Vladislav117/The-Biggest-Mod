@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rusiqy overflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "rusiqy", "amount": 1}, {"item": "repetu", "amount": 4}], "research": "rusiqy-conveyor", "category": "distribution", "invert": false}

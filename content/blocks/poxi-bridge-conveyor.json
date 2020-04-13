@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "poxi bridge conveyor", "description": "", "health": 7, "range": 7, "speed": 15, "bufferCapacity": 21, "requirements": [{"item": "poxi", "amount": 4}, {"item": "qewo", "amount": 4}], "research": "poxi-conveyor", "category": "distribution", "size": 1}

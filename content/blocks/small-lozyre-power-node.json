@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lozyre power node", "description": "...", "size": 1, "health": 345, "requirements": [{"item": "lozyre", "amount": 17}, {"item": "vapova", "amount": 8}, {"item": "zugoni", "amount": 6}], "research": "lozyre-factory", "maxNodes": 28, "laserRange": 4, "category": "power"}

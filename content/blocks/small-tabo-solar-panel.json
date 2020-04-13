@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tabo solar panel", "description": "...", "size": 1, "health": 240, "requirements": [{"item": "tabo", "amount": 8}, {"item": "milosi", "amount": 13}, {"item": "fohebi", "amount": 10}], "research": "tabo-factory", "powerProduction": 3.4743419598699905, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fuho inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "fuho", "amount": 1}, {"item": "holy", "amount": 2}], "research": "fuho-conveyor", "category": "distribution", "invert": true}

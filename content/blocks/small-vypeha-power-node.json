@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vypeha power node", "description": "...", "size": 1, "health": 46, "requirements": [{"item": "vypeha", "amount": 18}, {"item": "daryki", "amount": 1}, {"item": "tupo", "amount": 9}], "research": "vypeha-factory", "maxNodes": 26, "laserRange": 12, "category": "power"}

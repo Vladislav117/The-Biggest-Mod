@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fumena overflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "fumena", "amount": 4}, {"item": "huxo", "amount": 4}], "research": "fumena-conveyor", "category": "distribution", "invert": false}

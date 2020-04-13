@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kozysa liquid tank", "description": "...", "health": 547, "size": 3, "requirements": [{"item": "kozysa", "amount": 12}, {"item": "mififi", "amount": 8}, {"item": "sibewe", "amount": 7}], "research": "kozysa-conduit", "category": "liquid", "liquidCapacity": 108293, "hasLiquids": true}

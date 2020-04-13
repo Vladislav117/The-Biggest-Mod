@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kegi sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "kegi", "amount": 3}, {"item": "kewawa", "amount": 5}], "research": "kegi-conveyor", "category": "distribution", "invert": false}

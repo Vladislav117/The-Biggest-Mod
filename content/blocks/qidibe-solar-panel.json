@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qidibe solar panel", "description": "...", "size": 3, "health": 67, "requirements": [{"item": "qidibe", "amount": 17}, {"item": "cyyenium", "amount": 3}, {"item": "jeqenium", "amount": 3}], "research": "qidibe-factory", "powerProduction": 2.534426991435771, "category": "power"}

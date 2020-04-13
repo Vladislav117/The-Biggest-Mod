@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mironium overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "mironium", "amount": 1}, {"item": "hite", "amount": 3}], "research": "mironium-conveyor", "category": "distribution", "invert": false}

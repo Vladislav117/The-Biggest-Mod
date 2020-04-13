@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "foze bridge conveyor", "description": "", "health": 34, "range": 10, "speed": 19, "bufferCapacity": 9, "requirements": [{"item": "foze", "amount": 4}, {"item": "vesy", "amount": 4}], "research": "foze-conveyor", "category": "distribution", "size": 1}

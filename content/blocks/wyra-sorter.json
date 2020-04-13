@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wyra sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "wyra", "amount": 1}, {"item": "hobo", "amount": 2}], "research": "wyra-conveyor", "category": "distribution", "invert": false}

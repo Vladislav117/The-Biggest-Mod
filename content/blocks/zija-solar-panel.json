@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zija solar panel", "description": "...", "size": 3, "health": 35, "requirements": [{"item": "zija", "amount": 19}, {"item": "sacigi", "amount": 4}, {"item": "daqy", "amount": 4}], "research": "zija-factory", "powerProduction": 0.8549921014103511, "category": "power"}

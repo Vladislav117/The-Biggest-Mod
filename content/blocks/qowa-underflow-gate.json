@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qowa underflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "qowa", "amount": 2}, {"item": "nyvo", "amount": 3}], "research": "qowa-conveyor", "category": "distribution", "invert": false}

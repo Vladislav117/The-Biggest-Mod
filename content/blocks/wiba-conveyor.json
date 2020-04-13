@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "wiba conveyor", "description": "...", "health": 45, "requirements": [{"item": "wiba", "amount": 5}, {"item": "surge-alloy", "amount": 10}], "speed": 0.45724079195373946, "research": "wiba-factory", "category": "distribution"}

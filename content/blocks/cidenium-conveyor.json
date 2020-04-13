@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "cidenium conveyor", "description": "...", "health": 165, "requirements": [{"item": "cidenium", "amount": 8}, {"item": "rizu", "amount": 3}], "speed": 0.3846782696913482, "research": "cidenium-factory", "category": "distribution"}

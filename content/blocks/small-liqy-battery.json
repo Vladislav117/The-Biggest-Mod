@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small liqy battery", "description": "...", "size": 1, "health": 363, "requirements": [{"item": "liqy", "amount": 9}, {"item": "cigifi", "amount": 12}, {"item": "yuly", "amount": 8}], "research": "liqy-factory", "consumes": {"powerBuffered": 505}, "category": "power"}

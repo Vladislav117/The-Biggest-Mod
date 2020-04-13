@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kozysa battery", "description": "...", "size": 3, "health": 304, "requirements": [{"item": "kozysa", "amount": 1}, {"item": "fomo", "amount": 9}, {"item": "wisipu", "amount": 6}], "research": "kozysa-factory", "consumes": {"powerBuffered": 9849}, "category": "power"}

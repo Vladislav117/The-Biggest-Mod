@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xofa overflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "xofa", "amount": 4}, {"item": "heso", "amount": 3}], "research": "xofa-conveyor", "category": "distribution", "invert": false}

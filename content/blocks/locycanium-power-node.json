@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "locycanium power node", "description": "...", "size": 2, "health": 671, "requirements": [{"item": "locycanium", "amount": 20}, {"item": "duqu", "amount": 7}, {"item": "ruvudo", "amount": 8}], "research": "locycanium-factory", "maxNodes": 29, "laserRange": 21, "category": "power"}

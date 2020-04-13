@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nuwu liquid tank", "description": "...", "health": 225, "size": 3, "requirements": [{"item": "nuwu", "amount": 7}, {"item": "xyxevynium", "amount": 17}, {"item": "tugu", "amount": 2}], "research": "nuwu-conduit", "category": "liquid", "liquidCapacity": 74873, "hasLiquids": true}

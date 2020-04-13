@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "tovyme liquid router", "description": "...", "size": 1, "health": 100, "requirements": [{"item": "tovyme", "amount": 12}, {"item": "tyjexanium", "amount": 1}, {"item": "wivo", "amount": 6}], "research": "tovyme-conduit", "liquidCapacity": 10, "category": "liquid"}

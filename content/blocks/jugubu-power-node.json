@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jugubu power node", "description": "...", "size": 2, "health": 382, "requirements": [{"item": "jugubu", "amount": 18}, {"item": "xorele", "amount": 6}, {"item": "fikunium", "amount": 10}], "research": "jugubu-factory", "maxNodes": 12, "laserRange": 17, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lewonium battery", "description": "...", "size": 3, "health": 152, "requirements": [{"item": "lewonium", "amount": 9}, {"item": "yexowy", "amount": 5}, {"item": "mylenium", "amount": 6}], "research": "lewonium-factory", "consumes": {"powerBuffered": 2340}, "category": "power"}

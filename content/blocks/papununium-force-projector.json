@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "papununium force projector", "description": "...", "health": 161, "size": 3, "consumes": {"power": 5.0, "item": "papununium"}, "requirements": [{"item": "papununium", "amount": 8}, {"item": "mynizo", "amount": 11}, {"item": "nilara", "amount": 5}], "research": "papununium-factory", "category": "effect"}

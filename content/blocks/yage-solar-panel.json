@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yage solar panel", "description": "...", "size": 3, "health": 121, "requirements": [{"item": "yage", "amount": 13}, {"item": "kurecanium", "amount": 10}, {"item": "rohonium", "amount": 4}], "research": "yage-factory", "powerProduction": 3.341582366839129, "category": "power"}

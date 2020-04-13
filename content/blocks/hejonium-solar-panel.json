@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hejonium solar panel", "description": "...", "size": 3, "health": 181, "requirements": [{"item": "hejonium", "amount": 11}, {"item": "rudy", "amount": 15}, {"item": "mivoky", "amount": 7}], "research": "hejonium-factory", "powerProduction": 7.014701505681534, "category": "power"}

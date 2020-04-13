@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qobenium battery", "description": "...", "size": 3, "health": 121, "requirements": [{"item": "qobenium", "amount": 6}, {"item": "jucinium", "amount": 14}, {"item": "juho", "amount": 10}], "research": "qobenium-factory", "consumes": {"powerBuffered": 1411}, "category": "power"}

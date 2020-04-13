@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small holanynium battery", "description": "...", "size": 1, "health": 337, "requirements": [{"item": "holanynium", "amount": 1}, {"item": "sozu", "amount": 15}, {"item": "tatavo", "amount": 10}], "research": "holanynium-factory", "consumes": {"powerBuffered": 2551}, "category": "power"}

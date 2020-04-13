@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zityyanium solar panel", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "zityyanium", "amount": 8}, {"item": "wavoli", "amount": 4}, {"item": "gurikinium", "amount": 2}], "research": "zityyanium-factory", "powerProduction": 1.253485108549325, "category": "power"}

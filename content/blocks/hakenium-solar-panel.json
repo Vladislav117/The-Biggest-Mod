@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hakenium solar panel", "description": "...", "size": 3, "health": 290, "requirements": [{"item": "hakenium", "amount": 14}, {"item": "titanium", "amount": 4}, {"item": "monu", "amount": 10}], "research": "hakenium-factory", "powerProduction": 0.6197219463377763, "category": "power"}

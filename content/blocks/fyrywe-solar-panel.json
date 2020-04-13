@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fyrywe solar panel", "description": "...", "size": 3, "health": 48, "requirements": [{"item": "fyrywe", "amount": 18}, {"item": "tiyajo", "amount": 18}, {"item": "fybaze", "amount": 7}], "research": "fyrywe-factory", "powerProduction": 2.1056726462357984, "category": "power"}

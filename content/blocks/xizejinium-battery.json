@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xizejinium battery", "description": "...", "size": 3, "health": 240, "requirements": [{"item": "xizejinium", "amount": 12}, {"item": "zufo", "amount": 1}, {"item": "lowocanium", "amount": 9}], "research": "xizejinium-factory", "consumes": {"powerBuffered": 359}, "category": "power"}

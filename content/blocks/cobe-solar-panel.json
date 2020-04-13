@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cobe solar panel", "description": "...", "size": 3, "health": 315, "requirements": [{"item": "cobe", "amount": 3}, {"item": "zocela", "amount": 15}, {"item": "cusunium", "amount": 7}], "research": "cobe-factory", "powerProduction": 0.08489005758954772, "category": "power"}

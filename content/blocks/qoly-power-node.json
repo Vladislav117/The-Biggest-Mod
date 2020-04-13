@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "qoly power node", "description": "...", "size": 2, "health": 54, "requirements": [{"item": "qoly", "amount": 14}, {"item": "tebi", "amount": 6}, {"item": "mibyzo", "amount": 4}], "research": "qoly-factory", "maxNodes": 14, "laserRange": 25, "category": "power"}

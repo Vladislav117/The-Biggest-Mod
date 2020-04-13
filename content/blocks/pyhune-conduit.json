@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pyhune conduit", "description": "...", "health": 64, "requirements": [{"item": "pyhune", "amount": 12}, {"item": "viqamo", "amount": 1}, {"item": "yyyoqy", "amount": 9}], "liquidCapacity": 6, "liquidPressure": 0, "research": "pyhune-factory", "category": "liquid"}

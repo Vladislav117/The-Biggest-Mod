@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "velewo conduit", "description": "...", "health": 146, "requirements": [{"item": "velewo", "amount": 7}, {"item": "plastanium", "amount": 20}, {"item": "sywuze", "amount": 6}], "liquidCapacity": 2, "liquidPressure": 0, "research": "velewo-factory", "category": "liquid"}

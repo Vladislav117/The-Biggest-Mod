@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vevo underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "vevo", "amount": 1}, {"item": "togonium", "amount": 2}], "research": "vevo-conveyor", "category": "distribution", "invert": false}

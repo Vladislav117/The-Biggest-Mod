@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xeponium liquid tank", "description": "...", "health": 237, "size": 3, "requirements": [{"item": "xeponium", "amount": 1}, {"item": "velyma", "amount": 3}, {"item": "nifego", "amount": 5}], "research": "xeponium-conduit", "category": "liquid", "liquidCapacity": 87037, "hasLiquids": true}

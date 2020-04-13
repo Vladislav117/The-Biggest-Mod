@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yewininium power node", "description": "...", "size": 2, "health": 306, "requirements": [{"item": "yewininium", "amount": 18}, {"item": "hysobe", "amount": 14}, {"item": "yajawa", "amount": 6}], "research": "yewininium-factory", "maxNodes": 29, "laserRange": 15, "category": "power"}

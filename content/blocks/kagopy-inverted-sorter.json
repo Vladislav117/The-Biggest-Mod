@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kagopy inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "kagopy", "amount": 4}, {"item": "wulyso", "amount": 1}], "research": "kagopy-conveyor", "category": "distribution", "invert": true}

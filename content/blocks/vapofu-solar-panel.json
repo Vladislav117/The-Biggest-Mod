@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vapofu solar panel", "description": "...", "size": 3, "health": 64, "requirements": [{"item": "vapofu", "amount": 13}, {"item": "cyyikynium", "amount": 10}, {"item": "fypanium", "amount": 6}], "research": "vapofu-factory", "powerProduction": 0.5928811113942014, "category": "power"}

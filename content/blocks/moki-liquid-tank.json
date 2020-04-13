@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "moki liquid tank", "description": "...", "health": 552, "size": 3, "requirements": [{"item": "moki", "amount": 17}, {"item": "wutigo", "amount": 4}, {"item": "lyheti", "amount": 6}], "research": "moki-conduit", "category": "liquid", "liquidCapacity": 24355, "hasLiquids": true}

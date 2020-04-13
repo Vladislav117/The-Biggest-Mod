@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lamopi overflow gate", "description": "...", "health": 32, "size": 1, "requirements": [{"item": "lamopi", "amount": 5}, {"item": "luweninium", "amount": 4}], "research": "lamopi-conveyor", "category": "distribution", "invert": false}

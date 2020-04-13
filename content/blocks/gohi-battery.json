@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gohi battery", "description": "...", "size": 3, "health": 69, "requirements": [{"item": "gohi", "amount": 6}, {"item": "sara", "amount": 14}, {"item": "xurenium", "amount": 6}], "research": "gohi-factory", "consumes": {"powerBuffered": 3279}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nuno power node", "description": "...", "size": 2, "health": 489, "requirements": [{"item": "nuno", "amount": 15}, {"item": "zufo", "amount": 5}, {"item": "vego", "amount": 6}], "research": "nuno-factory", "maxNodes": 26, "laserRange": 6, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "seqi battery", "description": "...", "size": 3, "health": 347, "requirements": [{"item": "seqi", "amount": 8}, {"item": "viwunium", "amount": 18}, {"item": "qijy", "amount": 6}], "research": "seqi-factory", "consumes": {"powerBuffered": 792}, "category": "power"}

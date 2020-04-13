@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wewuyi junction", "description": "...", "health": 39, "speed": 17, "capacity": 12, "size": 1, "requirements": [{"item": "wewuyi", "amount": 4}, {"item": "yape", "amount": 4}], "research": "wewuyi-conveyor", "category": "distribution"}

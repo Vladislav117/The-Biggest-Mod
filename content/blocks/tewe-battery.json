@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tewe battery", "description": "...", "size": 3, "health": 245, "requirements": [{"item": "tewe", "amount": 15}, {"item": "kabovonium", "amount": 3}, {"item": "mabifunium", "amount": 7}], "research": "tewe-factory", "consumes": {"powerBuffered": 2760}, "category": "power"}

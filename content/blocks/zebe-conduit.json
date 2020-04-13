@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zebe conduit", "description": "...", "health": 155, "requirements": [{"item": "zebe", "amount": 6}, {"item": "dewe", "amount": 10}, {"item": "jeve", "amount": 1}], "liquidCapacity": 25, "liquidPressure": 10, "research": "zebe-factory", "category": "liquid"}

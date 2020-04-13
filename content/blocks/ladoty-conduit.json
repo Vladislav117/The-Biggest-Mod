@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ladoty conduit", "description": "...", "health": 70, "requirements": [{"item": "ladoty", "amount": 10}, {"item": "kixo", "amount": 15}, {"item": "balinu", "amount": 4}], "liquidCapacity": 14, "liquidPressure": 0, "research": "ladoty-factory", "category": "liquid"}

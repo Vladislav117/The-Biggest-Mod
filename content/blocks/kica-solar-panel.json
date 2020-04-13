@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kica solar panel", "description": "...", "size": 3, "health": 85, "requirements": [{"item": "kica", "amount": 2}, {"item": "dyzo", "amount": 7}, {"item": "basomi", "amount": 9}], "research": "kica-factory", "powerProduction": 2.5304242807887314, "category": "power"}

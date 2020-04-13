@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hisa power node", "description": "...", "size": 2, "health": 525, "requirements": [{"item": "hisa", "amount": 1}, {"item": "cucaso", "amount": 8}, {"item": "wovazo", "amount": 6}], "research": "hisa-factory", "maxNodes": 45, "laserRange": 7, "category": "power"}

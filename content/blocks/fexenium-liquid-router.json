@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "fexenium liquid router", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "fexenium", "amount": 5}, {"item": "vojenium", "amount": 3}, {"item": "dihomu", "amount": 9}], "research": "fexenium-conduit", "liquidCapacity": 10, "category": "liquid"}

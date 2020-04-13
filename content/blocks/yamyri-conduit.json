@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yamyri conduit", "description": "...", "health": 45, "requirements": [{"item": "yamyri", "amount": 14}, {"item": "dyzo", "amount": 19}, {"item": "velewo", "amount": 6}], "liquidCapacity": 2, "liquidPressure": 3, "research": "yamyri-factory", "category": "liquid"}

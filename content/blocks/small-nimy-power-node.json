@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nimy power node", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "nimy", "amount": 5}, {"item": "kavequ", "amount": 9}, {"item": "xeye", "amount": 1}], "research": "nimy-factory", "maxNodes": 3, "laserRange": 23, "category": "power"}

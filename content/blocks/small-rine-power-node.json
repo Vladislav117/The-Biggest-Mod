@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rine power node", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "rine", "amount": 15}, {"item": "mebu", "amount": 20}, {"item": "lynulo", "amount": 2}], "research": "rine-factory", "maxNodes": 21, "laserRange": 15, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "docinium liquid tank", "description": "...", "health": 242, "size": 3, "requirements": [{"item": "docinium", "amount": 16}, {"item": "sice", "amount": 10}, {"item": "sysone", "amount": 3}], "research": "docinium-conduit", "category": "liquid", "liquidCapacity": 89183, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vayo power node", "description": "...", "size": 1, "health": 158, "requirements": [{"item": "vayo", "amount": 19}, {"item": "lead", "amount": 16}, {"item": "virema", "amount": 5}], "research": "vayo-factory", "maxNodes": 15, "laserRange": 15, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "juge sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "juge", "amount": 3}, {"item": "mapi", "amount": 2}], "research": "juge-conveyor", "category": "distribution", "invert": false}

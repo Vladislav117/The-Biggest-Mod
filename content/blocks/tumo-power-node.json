@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tumo power node", "description": "...", "size": 2, "health": 117, "requirements": [{"item": "tumo", "amount": 14}, {"item": "loyomy", "amount": 8}, {"item": "cigifi", "amount": 6}], "research": "tumo-factory", "maxNodes": 30, "laserRange": 19, "category": "power"}

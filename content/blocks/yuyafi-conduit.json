@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yuyafi conduit", "description": "...", "health": 189, "requirements": [{"item": "yuyafi", "amount": 14}, {"item": "yudesinium", "amount": 15}, {"item": "ryni", "amount": 5}], "liquidCapacity": 32, "liquidPressure": 10, "research": "yuyafi-factory", "category": "liquid"}

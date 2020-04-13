@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hytuki inverted sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "hytuki", "amount": 3}, {"item": "laranium", "amount": 3}], "research": "hytuki-conveyor", "category": "distribution", "invert": true}

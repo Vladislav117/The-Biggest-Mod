@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mujuly overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "mujuly", "amount": 1}, {"item": "roro", "amount": 5}], "research": "mujuly-conveyor", "category": "distribution", "invert": false}

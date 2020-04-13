@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qari liquid tank", "description": "...", "health": 469, "size": 3, "requirements": [{"item": "qari", "amount": 15}, {"item": "vadoda", "amount": 13}, {"item": "silicon", "amount": 4}], "research": "qari-conduit", "category": "liquid", "liquidCapacity": 87640, "hasLiquids": true}

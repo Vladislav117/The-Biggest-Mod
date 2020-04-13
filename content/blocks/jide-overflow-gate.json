@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "jide overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "jide", "amount": 2}, {"item": "pymamu", "amount": 5}], "research": "jide-conveyor", "category": "distribution", "invert": false}

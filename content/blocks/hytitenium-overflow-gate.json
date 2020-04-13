@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hytitenium overflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "hytitenium", "amount": 4}, {"item": "najy", "amount": 5}], "research": "hytitenium-conveyor", "category": "distribution", "invert": false}

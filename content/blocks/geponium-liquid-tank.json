@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "geponium liquid tank", "description": "...", "health": 635, "size": 3, "requirements": [{"item": "geponium", "amount": 7}, {"item": "teyigu", "amount": 13}, {"item": "suminium", "amount": 6}], "research": "geponium-conduit", "category": "liquid", "liquidCapacity": 111146, "hasLiquids": true}

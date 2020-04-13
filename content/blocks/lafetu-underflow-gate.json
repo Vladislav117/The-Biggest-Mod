@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lafetu underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "lafetu", "amount": 1}, {"item": "nimy", "amount": 3}], "research": "lafetu-conveyor", "category": "distribution", "invert": false}

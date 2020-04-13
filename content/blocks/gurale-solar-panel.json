@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gurale solar panel", "description": "...", "size": 3, "health": 239, "requirements": [{"item": "gurale", "amount": 19}, {"item": "tymy", "amount": 7}, {"item": "myli", "amount": 1}], "research": "gurale-factory", "powerProduction": 1.11111584364008, "category": "power"}

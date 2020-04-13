@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nikoru liquid tank", "description": "...", "health": 220, "size": 3, "requirements": [{"item": "nikoru", "amount": 5}, {"item": "jodezu", "amount": 2}, {"item": "ryhi", "amount": 6}], "research": "nikoru-conduit", "category": "liquid", "liquidCapacity": 94227, "hasLiquids": true}

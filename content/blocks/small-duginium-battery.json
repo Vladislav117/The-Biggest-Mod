@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small duginium battery", "description": "...", "size": 1, "health": 236, "requirements": [{"item": "duginium", "amount": 14}, {"item": "dimysynium", "amount": 5}, {"item": "woyu", "amount": 2}], "research": "duginium-factory", "consumes": {"powerBuffered": 2088}, "category": "power"}

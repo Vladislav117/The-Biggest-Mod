@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "piny liquid tank", "description": "...", "health": 652, "size": 3, "requirements": [{"item": "piny", "amount": 17}, {"item": "naxihe", "amount": 11}, {"item": "kipybi", "amount": 4}], "research": "piny-conduit", "category": "liquid", "liquidCapacity": 52383, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zenuwunium power node", "description": "...", "size": 1, "health": 390, "requirements": [{"item": "zenuwunium", "amount": 11}, {"item": "cosi", "amount": 11}, {"item": "yebyte", "amount": 5}], "research": "zenuwunium-factory", "maxNodes": 12, "laserRange": 24, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vuka power node", "description": "...", "size": 2, "health": 72, "requirements": [{"item": "vuka", "amount": 7}, {"item": "yape", "amount": 17}, {"item": "fykemi", "amount": 9}], "research": "vuka-factory", "maxNodes": 49, "laserRange": 30, "category": "power"}

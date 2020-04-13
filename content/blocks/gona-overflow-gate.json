@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gona overflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "gona", "amount": 4}, {"item": "qiri", "amount": 4}], "research": "gona-conveyor", "category": "distribution", "invert": false}

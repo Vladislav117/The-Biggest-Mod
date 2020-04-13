@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "buhoci conduit", "description": "...", "health": 65, "requirements": [{"item": "buhoci", "amount": 12}, {"item": "vapoqanium", "amount": 3}, {"item": "wapo", "amount": 10}], "liquidCapacity": 8, "liquidPressure": 9, "research": "buhoci-factory", "category": "liquid"}

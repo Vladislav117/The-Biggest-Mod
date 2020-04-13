@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jehonium conduit", "description": "...", "health": 70, "requirements": [{"item": "jehonium", "amount": 17}, {"item": "wuqosenium", "amount": 3}, {"item": "vykofa", "amount": 8}], "liquidCapacity": 35, "liquidPressure": 10, "research": "jehonium-factory", "category": "liquid"}

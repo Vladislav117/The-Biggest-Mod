@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pehy bridge conveyor", "description": "", "health": 28, "range": 4, "speed": 20, "bufferCapacity": 12, "requirements": [{"item": "pehy", "amount": 1}, {"item": "jazu", "amount": 5}], "research": "pehy-conveyor", "category": "distribution", "size": 1}

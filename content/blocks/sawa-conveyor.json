@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "sawa conveyor", "description": "...", "health": 190, "requirements": [{"item": "sawa", "amount": 1}, {"item": "qegynium", "amount": 7}], "speed": 0.09903247243770302, "research": "sawa-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hojanium conduit", "description": "...", "health": 30, "requirements": [{"item": "hojanium", "amount": 9}, {"item": "huro", "amount": 14}, {"item": "boqi", "amount": 8}], "liquidCapacity": 23, "liquidPressure": 2, "research": "hojanium-factory", "category": "liquid"}

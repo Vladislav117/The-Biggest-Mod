@@ -1,0 +1,1 @@
+{"type": "battery", "name": "neloto battery", "description": "...", "size": 3, "health": 39, "requirements": [{"item": "neloto", "amount": 16}, {"item": "qubyra", "amount": 12}, {"item": "vakyxinium", "amount": 2}], "research": "neloto-factory", "consumes": {"powerBuffered": 9304}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rudy power node", "description": "...", "size": 1, "health": 45, "requirements": [{"item": "rudy", "amount": 1}, {"item": "lisaca", "amount": 7}, {"item": "muby", "amount": 8}], "research": "rudy-factory", "maxNodes": 8, "laserRange": 18, "category": "power"}

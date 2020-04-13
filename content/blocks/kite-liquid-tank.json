@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kite liquid tank", "description": "...", "health": 602, "size": 3, "requirements": [{"item": "kite", "amount": 3}, {"item": "xebili", "amount": 4}, {"item": "cuso", "amount": 2}], "research": "kite-conduit", "category": "liquid", "liquidCapacity": 36403, "hasLiquids": true}

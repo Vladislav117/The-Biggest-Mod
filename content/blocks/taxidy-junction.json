@@ -1,0 +1,1 @@
+{"type": "junction", "name": "taxidy junction", "description": "...", "health": 17, "speed": 3, "capacity": 18, "size": 1, "requirements": [{"item": "taxidy", "amount": 5}, {"item": "mapanium", "amount": 1}], "research": "taxidy-conveyor", "category": "distribution"}

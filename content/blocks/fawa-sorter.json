@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fawa sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "fawa", "amount": 5}, {"item": "bobu", "amount": 3}], "research": "fawa-conveyor", "category": "distribution", "invert": false}

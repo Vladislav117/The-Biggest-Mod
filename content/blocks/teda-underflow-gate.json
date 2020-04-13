@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "teda underflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "teda", "amount": 1}, {"item": "sepo", "amount": 5}], "research": "teda-conveyor", "category": "distribution", "invert": false}

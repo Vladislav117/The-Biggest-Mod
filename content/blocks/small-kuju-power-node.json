@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kuju power node", "description": "...", "size": 1, "health": 229, "requirements": [{"item": "kuju", "amount": 16}, {"item": "yoxyzo", "amount": 13}, {"item": "dipewanium", "amount": 4}], "research": "kuju-factory", "maxNodes": 27, "laserRange": 23, "category": "power"}

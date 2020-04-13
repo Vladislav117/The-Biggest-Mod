@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sihi bridge conveyor", "description": "", "health": 5, "range": 19, "speed": 20, "bufferCapacity": 6, "requirements": [{"item": "sihi", "amount": 5}, {"item": "ziwo", "amount": 5}], "research": "sihi-conveyor", "category": "distribution", "size": 1}

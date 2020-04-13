@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "tufo conveyor", "description": "...", "health": 225, "requirements": [{"item": "tufo", "amount": 1}, {"item": "syjilanium", "amount": 10}], "speed": 0.34039355426565604, "research": "tufo-factory", "category": "distribution"}

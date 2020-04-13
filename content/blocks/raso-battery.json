@@ -1,0 +1,1 @@
+{"type": "battery", "name": "raso battery", "description": "...", "size": 3, "health": 170, "requirements": [{"item": "raso", "amount": 12}, {"item": "povazu", "amount": 2}, {"item": "hoqade", "amount": 5}], "research": "raso-factory", "consumes": {"powerBuffered": 5867}, "category": "power"}

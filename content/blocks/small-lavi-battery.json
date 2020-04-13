@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lavi battery", "description": "...", "size": 1, "health": 363, "requirements": [{"item": "lavi", "amount": 11}, {"item": "qykebo", "amount": 3}, {"item": "halyqinium", "amount": 2}], "research": "lavi-factory", "consumes": {"powerBuffered": 2877}, "category": "power"}

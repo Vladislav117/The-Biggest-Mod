@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vedapa inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "vedapa", "amount": 3}, {"item": "zityyanium", "amount": 1}], "research": "vedapa-conveyor", "category": "distribution", "invert": true}

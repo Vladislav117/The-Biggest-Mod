@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fuqyty power node", "description": "...", "size": 1, "health": 220, "requirements": [{"item": "fuqyty", "amount": 19}, {"item": "nulyfo", "amount": 5}, {"item": "pufere", "amount": 9}], "research": "fuqyty-factory", "maxNodes": 14, "laserRange": 24, "category": "power"}

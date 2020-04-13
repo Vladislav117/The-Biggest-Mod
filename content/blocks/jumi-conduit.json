@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jumi conduit", "description": "...", "health": 111, "requirements": [{"item": "jumi", "amount": 20}, {"item": "qulape", "amount": 1}, {"item": "dase", "amount": 4}], "liquidCapacity": 26, "liquidPressure": 8, "research": "jumi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "favyyo liquid tank", "description": "...", "health": 151, "size": 3, "requirements": [{"item": "favyyo", "amount": 4}, {"item": "hozivi", "amount": 4}, {"item": "yype", "amount": 10}], "research": "favyyo-conduit", "category": "liquid", "liquidCapacity": 56068, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hikana bridge conveyor", "description": "", "health": 22, "range": 7, "speed": 16, "bufferCapacity": 20, "requirements": [{"item": "hikana", "amount": 2}, {"item": "nunanunium", "amount": 2}], "research": "hikana-conveyor", "category": "distribution", "size": 1}

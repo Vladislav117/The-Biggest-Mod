@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vawybo liquid tank", "description": "...", "health": 646, "size": 3, "requirements": [{"item": "vawybo", "amount": 17}, {"item": "jeqidynium", "amount": 16}, {"item": "qywowi", "amount": 4}], "research": "vawybo-conduit", "category": "liquid", "liquidCapacity": 57115, "hasLiquids": true}

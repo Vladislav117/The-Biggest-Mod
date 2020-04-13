@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yize power node", "description": "...", "size": 2, "health": 162, "requirements": [{"item": "yize", "amount": 17}, {"item": "cupedi", "amount": 14}, {"item": "cuvino", "amount": 10}], "research": "yize-factory", "maxNodes": 13, "laserRange": 22, "category": "power"}

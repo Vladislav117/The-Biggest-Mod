@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fici conduit", "description": "...", "health": 114, "requirements": [{"item": "fici", "amount": 2}, {"item": "raky", "amount": 4}, {"item": "vakyxinium", "amount": 2}], "liquidCapacity": 6, "liquidPressure": 4, "research": "fici-factory", "category": "liquid"}

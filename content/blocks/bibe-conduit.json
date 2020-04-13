@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bibe conduit", "description": "...", "health": 51, "requirements": [{"item": "bibe", "amount": 1}, {"item": "zumi", "amount": 4}, {"item": "yowiminium", "amount": 6}], "liquidCapacity": 31, "liquidPressure": 10, "research": "bibe-factory", "category": "liquid"}

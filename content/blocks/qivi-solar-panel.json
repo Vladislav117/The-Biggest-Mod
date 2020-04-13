@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qivi solar panel", "description": "...", "size": 3, "health": 241, "requirements": [{"item": "qivi", "amount": 12}, {"item": "qobu", "amount": 5}, {"item": "gahy", "amount": 6}], "research": "qivi-factory", "powerProduction": 0.41115943071238625, "category": "power"}

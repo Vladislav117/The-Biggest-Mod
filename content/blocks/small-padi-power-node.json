@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small padi power node", "description": "...", "size": 1, "health": 115, "requirements": [{"item": "padi", "amount": 7}, {"item": "xyco", "amount": 4}, {"item": "rehyce", "amount": 6}], "research": "padi-factory", "maxNodes": 28, "laserRange": 25, "category": "power"}

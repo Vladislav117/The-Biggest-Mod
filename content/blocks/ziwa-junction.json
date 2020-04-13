@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ziwa junction", "description": "...", "health": 48, "speed": 5, "capacity": 1, "size": 1, "requirements": [{"item": "ziwa", "amount": 5}, {"item": "vevudinium", "amount": 3}], "research": "ziwa-conveyor", "category": "distribution"}

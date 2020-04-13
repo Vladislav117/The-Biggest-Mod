@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nivefu junction", "description": "...", "health": 39, "speed": 11, "capacity": 7, "size": 1, "requirements": [{"item": "nivefu", "amount": 5}, {"item": "gizomanium", "amount": 1}], "research": "nivefu-conveyor", "category": "distribution"}

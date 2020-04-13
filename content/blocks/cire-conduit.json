@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cire conduit", "description": "...", "health": 22, "requirements": [{"item": "cire", "amount": 1}, {"item": "qodanunium", "amount": 4}, {"item": "kure", "amount": 4}], "liquidCapacity": 16, "liquidPressure": 3, "research": "cire-factory", "category": "liquid"}

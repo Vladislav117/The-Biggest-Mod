@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zeca conduit", "description": "...", "health": 176, "requirements": [{"item": "zeca", "amount": 10}, {"item": "halyqinium", "amount": 17}, {"item": "baqyrinium", "amount": 2}], "liquidCapacity": 43, "liquidPressure": 8, "research": "zeca-factory", "category": "liquid"}

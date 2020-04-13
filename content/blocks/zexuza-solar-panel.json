@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zexuza solar panel", "description": "...", "size": 3, "health": 120, "requirements": [{"item": "zexuza", "amount": 15}, {"item": "wixyti", "amount": 17}, {"item": "jazipynium", "amount": 4}], "research": "zexuza-factory", "powerProduction": 2.7240766766523157, "category": "power"}

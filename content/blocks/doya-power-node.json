@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "doya power node", "description": "...", "size": 2, "health": 292, "requirements": [{"item": "doya", "amount": 9}, {"item": "cinynium", "amount": 3}, {"item": "vevi", "amount": 4}], "research": "doya-factory", "maxNodes": 52, "laserRange": 9, "category": "power"}

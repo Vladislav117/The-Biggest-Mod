@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "carani drill", "description": "...", "size": 2, "health": 318, "tier": 1, "drillTime": 10, "consumes": {"power": 2}, "requirements": [{"item": "carani", "amount": 14}, {"item": "rine", "amount": 13}, {"item": "vewavu", "amount": 7}], "research": "carani-factory", "category": "production"}

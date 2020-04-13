@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vilyco liquid tank", "description": "...", "health": 389, "size": 3, "requirements": [{"item": "vilyco", "amount": 19}, {"item": "neloto", "amount": 17}, {"item": "yyqenu", "amount": 10}], "research": "vilyco-conduit", "category": "liquid", "liquidCapacity": 48589, "hasLiquids": true}

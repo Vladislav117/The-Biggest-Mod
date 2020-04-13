@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qupy underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "qupy", "amount": 1}, {"item": "wety", "amount": 4}], "research": "qupy-conveyor", "category": "distribution", "invert": false}

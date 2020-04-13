@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pamo overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "pamo", "amount": 3}, {"item": "yizu", "amount": 5}], "research": "pamo-conveyor", "category": "distribution", "invert": false}

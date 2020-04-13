@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "furiva drill", "description": "...", "size": 3, "health": 363, "tier": 1, "drillTime": 4, "consumes": {"power": 13}, "requirements": [{"item": "furiva", "amount": 3}, {"item": "peyyha", "amount": 9}, {"item": "qebu", "amount": 1}], "research": "furiva-factory", "category": "production"}

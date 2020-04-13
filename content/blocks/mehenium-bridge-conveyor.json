@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mehenium bridge conveyor", "description": "", "health": 23, "range": 2, "speed": 11, "bufferCapacity": 6, "requirements": [{"item": "mehenium", "amount": 3}, {"item": "venuki", "amount": 5}], "research": "mehenium-conveyor", "category": "distribution", "size": 1}

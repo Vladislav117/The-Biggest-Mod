@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zowanium bridge conveyor", "description": "", "health": 37, "range": 1, "speed": 17, "bufferCapacity": 8, "requirements": [{"item": "zowanium", "amount": 4}, {"item": "mebo", "amount": 5}], "research": "zowanium-conveyor", "category": "distribution", "size": 1}

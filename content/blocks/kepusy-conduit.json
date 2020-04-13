@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kepusy conduit", "description": "...", "health": 32, "requirements": [{"item": "kepusy", "amount": 20}, {"item": "kurecanium", "amount": 5}, {"item": "sokima", "amount": 7}], "liquidCapacity": 8, "liquidPressure": 0, "research": "kepusy-factory", "category": "liquid"}

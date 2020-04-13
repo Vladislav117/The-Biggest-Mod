@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "leqe power node", "description": "...", "size": 2, "health": 227, "requirements": [{"item": "leqe", "amount": 4}, {"item": "jywupa", "amount": 6}, {"item": "vesy", "amount": 10}], "research": "leqe-factory", "maxNodes": 45, "laserRange": 11, "category": "power"}

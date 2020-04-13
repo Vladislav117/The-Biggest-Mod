@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "botynium liquid tank", "description": "...", "health": 661, "size": 3, "requirements": [{"item": "botynium", "amount": 9}, {"item": "vuzesenium", "amount": 14}, {"item": "vipu", "amount": 7}], "research": "botynium-conduit", "category": "liquid", "liquidCapacity": 117631, "hasLiquids": true}

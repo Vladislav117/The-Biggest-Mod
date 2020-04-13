@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "piqurynium underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "piqurynium", "amount": 1}, {"item": "vewywi", "amount": 1}], "research": "piqurynium-conveyor", "category": "distribution", "invert": false}

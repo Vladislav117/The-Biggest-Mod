@@ -1,0 +1,1 @@
+{"type": "router", "name": "lymo router", "description": "...", "health": 140, "size": 1, "requirements": [{"item": "lymo", "amount": 8}], "research": "lymo-conveyor", "category": "distribution"}

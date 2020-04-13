@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fixe liquid tank", "description": "...", "health": 372, "size": 3, "requirements": [{"item": "fixe", "amount": 19}, {"item": "mife", "amount": 19}, {"item": "leriki", "amount": 2}], "research": "fixe-conduit", "category": "liquid", "liquidCapacity": 83469, "hasLiquids": true}

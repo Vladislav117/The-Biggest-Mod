@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xihu liquid tank", "description": "...", "health": 639, "size": 3, "requirements": [{"item": "xihu", "amount": 4}, {"item": "qoti", "amount": 7}, {"item": "kyfe", "amount": 3}], "research": "xihu-conduit", "category": "liquid", "liquidCapacity": 35099, "hasLiquids": true}

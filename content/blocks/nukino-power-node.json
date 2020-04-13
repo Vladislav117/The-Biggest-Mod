@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nukino power node", "description": "...", "size": 2, "health": 574, "requirements": [{"item": "nukino", "amount": 4}, {"item": "bybity", "amount": 3}, {"item": "muyimy", "amount": 4}], "research": "nukino-factory", "maxNodes": 41, "laserRange": 13, "category": "power"}

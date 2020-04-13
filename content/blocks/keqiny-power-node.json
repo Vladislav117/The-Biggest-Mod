@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "keqiny power node", "description": "...", "size": 2, "health": 302, "requirements": [{"item": "keqiny", "amount": 1}, {"item": "pylonium", "amount": 14}, {"item": "mynufu", "amount": 1}], "research": "keqiny-factory", "maxNodes": 34, "laserRange": 13, "category": "power"}

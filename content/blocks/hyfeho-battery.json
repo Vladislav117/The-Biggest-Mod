@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hyfeho battery", "description": "...", "size": 3, "health": 210, "requirements": [{"item": "hyfeho", "amount": 18}, {"item": "xiga", "amount": 8}, {"item": "vudaxy", "amount": 6}], "research": "hyfeho-factory", "consumes": {"powerBuffered": 3593}, "category": "power"}

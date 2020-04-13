@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hufema liquid tank", "description": "...", "health": 623, "size": 3, "requirements": [{"item": "hufema", "amount": 9}, {"item": "kubi", "amount": 3}, {"item": "yalaka", "amount": 5}], "research": "hufema-conduit", "category": "liquid", "liquidCapacity": 8904, "hasLiquids": true}

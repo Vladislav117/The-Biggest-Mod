@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yoqowa liquid tank", "description": "...", "health": 470, "size": 3, "requirements": [{"item": "yoqowa", "amount": 20}, {"item": "ninenium", "amount": 10}, {"item": "wadiyonium", "amount": 9}], "research": "yoqowa-conduit", "category": "liquid", "liquidCapacity": 40255, "hasLiquids": true}

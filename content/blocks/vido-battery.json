@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vido battery", "description": "...", "size": 3, "health": 291, "requirements": [{"item": "vido", "amount": 1}, {"item": "pepu", "amount": 4}, {"item": "biye", "amount": 3}], "research": "vido-factory", "consumes": {"powerBuffered": 9101}, "category": "power"}

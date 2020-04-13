@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qeba liquid tank", "description": "...", "health": 365, "size": 3, "requirements": [{"item": "qeba", "amount": 6}, {"item": "pijewu", "amount": 5}, {"item": "piyovy", "amount": 8}], "research": "qeba-conduit", "category": "liquid", "liquidCapacity": 45540, "hasLiquids": true}

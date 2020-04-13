@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pipohy solar panel", "description": "...", "size": 3, "health": 56, "requirements": [{"item": "pipohy", "amount": 1}, {"item": "leviye", "amount": 4}, {"item": "xyvo", "amount": 2}], "research": "pipohy-factory", "powerProduction": 1.9211987206117456, "category": "power"}

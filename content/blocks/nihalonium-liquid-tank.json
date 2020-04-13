@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nihalonium liquid tank", "description": "...", "health": 584, "size": 3, "requirements": [{"item": "nihalonium", "amount": 18}, {"item": "yufava", "amount": 10}, {"item": "xymaxu", "amount": 8}], "research": "nihalonium-conduit", "category": "liquid", "liquidCapacity": 116964, "hasLiquids": true}

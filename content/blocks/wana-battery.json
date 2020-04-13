@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wana battery", "description": "...", "size": 3, "health": 104, "requirements": [{"item": "wana", "amount": 12}, {"item": "mehenium", "amount": 9}, {"item": "betesa", "amount": 10}], "research": "wana-factory", "consumes": {"powerBuffered": 9138}, "category": "power"}

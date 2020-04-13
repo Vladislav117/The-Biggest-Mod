@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tifese conduit", "description": "...", "health": 200, "requirements": [{"item": "tifese", "amount": 8}, {"item": "kiredi", "amount": 3}, {"item": "vuhu", "amount": 8}], "liquidCapacity": 2, "liquidPressure": 4, "research": "tifese-factory", "category": "liquid"}

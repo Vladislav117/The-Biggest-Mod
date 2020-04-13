@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hakenium solar panel", "description": "...", "size": 1, "health": 250, "requirements": [{"item": "hakenium", "amount": 17}, {"item": "guliyu", "amount": 10}, {"item": "plastanium", "amount": 3}], "research": "hakenium-factory", "powerProduction": 5.078377561916855, "category": "power"}

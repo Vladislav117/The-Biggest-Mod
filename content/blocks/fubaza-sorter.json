@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fubaza sorter", "description": ",...", "health": 45, "size": 1, "requirements": [{"item": "fubaza", "amount": 4}, {"item": "ficido", "amount": 2}], "research": "fubaza-conveyor", "category": "distribution", "invert": false}

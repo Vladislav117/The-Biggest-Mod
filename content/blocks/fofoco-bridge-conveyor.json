@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fofoco bridge conveyor", "description": "", "health": 37, "range": 11, "speed": 17, "bufferCapacity": 4, "requirements": [{"item": "fofoco", "amount": 2}, {"item": "kyna", "amount": 1}], "research": "fofoco-conveyor", "category": "distribution", "size": 1}

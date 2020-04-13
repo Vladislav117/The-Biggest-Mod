@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pamufo liquid router", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "pamufo", "amount": 12}, {"item": "cida", "amount": 13}, {"item": "vikasynium", "amount": 2}], "research": "pamufo-conduit", "liquidCapacity": 10, "category": "liquid"}

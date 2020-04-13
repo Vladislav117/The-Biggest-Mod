@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small laso solar panel", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "laso", "amount": 12}, {"item": "rajubanium", "amount": 6}, {"item": "juwyso", "amount": 2}], "research": "laso-factory", "powerProduction": 0.28436989928000195, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small nyvo power node", "description": "...", "size": 1, "health": 275, "requirements": [{"item": "nyvo", "amount": 8}, {"item": "risusy", "amount": 4}, {"item": "gacy", "amount": 3}], "research": "nyvo-factory", "maxNodes": 14, "laserRange": 7, "category": "power"}

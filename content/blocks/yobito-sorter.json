@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yobito sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "yobito", "amount": 4}, {"item": "jygery", "amount": 5}], "research": "yobito-conveyor", "category": "distribution", "invert": false}

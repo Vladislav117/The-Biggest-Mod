@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vuponium underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "vuponium", "amount": 3}, {"item": "niso", "amount": 2}], "research": "vuponium-conveyor", "category": "distribution", "invert": false}

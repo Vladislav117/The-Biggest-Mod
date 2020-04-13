@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nixykanium battery", "description": "...", "size": 3, "health": 212, "requirements": [{"item": "nixykanium", "amount": 15}, {"item": "kuku", "amount": 9}, {"item": "milu", "amount": 9}], "research": "nixykanium-factory", "consumes": {"powerBuffered": 5406}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "papununium overdrive projector", "description": "...", "health": 118, "consumes": {"power": 3.0, "item": "papununium"}, "size": 2, "requirements": [{"item": "papununium", "amount": 13}, {"item": "nuzivo", "amount": 16}, {"item": "lafetu", "amount": 9}], "research": "papununium-factory", "category": "effect"}

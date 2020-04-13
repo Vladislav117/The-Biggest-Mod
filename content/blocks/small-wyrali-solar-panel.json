@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wyrali solar panel", "description": "...", "size": 1, "health": 293, "requirements": [{"item": "wyrali", "amount": 12}, {"item": "kilenium", "amount": 3}, {"item": "cuso", "amount": 9}], "research": "wyrali-factory", "powerProduction": 1.0874333717109064, "category": "power"}

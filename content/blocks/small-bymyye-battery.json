@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bymyye battery", "description": "...", "size": 1, "health": 140, "requirements": [{"item": "bymyye", "amount": 1}, {"item": "lotacu", "amount": 9}, {"item": "dezi", "amount": 2}], "research": "bymyye-factory", "consumes": {"powerBuffered": 2887}, "category": "power"}

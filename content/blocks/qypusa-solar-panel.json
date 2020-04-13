@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qypusa solar panel", "description": "...", "size": 3, "health": 103, "requirements": [{"item": "qypusa", "amount": 19}, {"item": "tanexo", "amount": 3}, {"item": "ropa", "amount": 5}], "research": "qypusa-factory", "powerProduction": 1.2758554583545838, "category": "power"}

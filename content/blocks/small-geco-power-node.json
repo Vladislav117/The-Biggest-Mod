@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small geco power node", "description": "...", "size": 1, "health": 102, "requirements": [{"item": "geco", "amount": 11}, {"item": "picika", "amount": 9}, {"item": "vyly", "amount": 6}], "research": "geco-factory", "maxNodes": 4, "laserRange": 17, "category": "power"}

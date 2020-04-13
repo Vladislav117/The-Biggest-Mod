@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bajenium conduit", "description": "...", "health": 60, "requirements": [{"item": "bajenium", "amount": 12}, {"item": "silicon", "amount": 16}, {"item": "syteja", "amount": 4}], "liquidCapacity": 49, "liquidPressure": 5, "research": "bajenium-factory", "category": "liquid"}

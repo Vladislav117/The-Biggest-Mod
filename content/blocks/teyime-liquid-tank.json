@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "teyime liquid tank", "description": "...", "health": 202, "size": 3, "requirements": [{"item": "teyime", "amount": 2}, {"item": "yemo", "amount": 4}, {"item": "kyronium", "amount": 5}], "research": "teyime-conduit", "category": "liquid", "liquidCapacity": 5312, "hasLiquids": true}

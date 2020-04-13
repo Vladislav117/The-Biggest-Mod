@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kokonium liquid tank", "description": "...", "health": 291, "size": 3, "requirements": [{"item": "kokonium", "amount": 6}, {"item": "kiredi", "amount": 2}, {"item": "qeyanium", "amount": 3}], "research": "kokonium-conduit", "category": "liquid", "liquidCapacity": 92241, "hasLiquids": true}

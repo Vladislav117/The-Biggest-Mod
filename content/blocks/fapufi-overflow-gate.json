@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fapufi overflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "fapufi", "amount": 2}, {"item": "tusico", "amount": 2}], "research": "fapufi-conveyor", "category": "distribution", "invert": false}

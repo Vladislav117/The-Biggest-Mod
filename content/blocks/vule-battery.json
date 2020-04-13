@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vule battery", "description": "...", "size": 3, "health": 255, "requirements": [{"item": "vule", "amount": 9}, {"item": "bonazynium", "amount": 15}, {"item": "fydyvenium", "amount": 3}], "research": "vule-factory", "consumes": {"powerBuffered": 1747}, "category": "power"}

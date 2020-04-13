@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "noxanium bridge conveyor", "description": "", "health": 36, "range": 3, "speed": 20, "bufferCapacity": 22, "requirements": [{"item": "noxanium", "amount": 1}, {"item": "mymapi", "amount": 4}], "research": "noxanium-conveyor", "category": "distribution", "size": 1}

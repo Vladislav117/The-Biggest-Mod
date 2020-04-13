@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kite solar panel", "description": "...", "size": 1, "health": 265, "requirements": [{"item": "kite", "amount": 13}, {"item": "wawu", "amount": 3}, {"item": "make", "amount": 6}], "research": "kite-factory", "powerProduction": 0.06185545272945043, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vaso overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "vaso", "amount": 5}, {"item": "fezadunium", "amount": 4}], "research": "vaso-conveyor", "category": "distribution", "invert": false}

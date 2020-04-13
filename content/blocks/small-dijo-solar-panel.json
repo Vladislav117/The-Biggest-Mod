@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dijo solar panel", "description": "...", "size": 1, "health": 243, "requirements": [{"item": "dijo", "amount": 9}, {"item": "kuwunium", "amount": 6}, {"item": "vewavu", "amount": 6}], "research": "dijo-factory", "powerProduction": 2.4045809196517327, "category": "power"}

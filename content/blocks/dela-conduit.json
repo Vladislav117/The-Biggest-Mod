@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dela conduit", "description": "...", "health": 40, "requirements": [{"item": "dela", "amount": 4}, {"item": "jahezu", "amount": 19}, {"item": "hyru", "amount": 5}], "liquidCapacity": 30, "liquidPressure": 7, "research": "dela-factory", "category": "liquid"}

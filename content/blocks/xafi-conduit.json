@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xafi conduit", "description": "...", "health": 118, "requirements": [{"item": "xafi", "amount": 12}, {"item": "lewanium", "amount": 20}, {"item": "lapydy", "amount": 10}], "liquidCapacity": 7, "liquidPressure": 6, "research": "xafi-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kipiyenium battery", "description": "...", "size": 1, "health": 301, "requirements": [{"item": "kipiyenium", "amount": 15}, {"item": "zobu", "amount": 2}, {"item": "gayika", "amount": 1}], "research": "kipiyenium-factory", "consumes": {"powerBuffered": 2559}, "category": "power"}

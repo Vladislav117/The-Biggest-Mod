@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cefi battery", "description": "...", "size": 3, "health": 234, "requirements": [{"item": "cefi", "amount": 8}, {"item": "qetyginium", "amount": 3}, {"item": "bily", "amount": 10}], "research": "cefi-factory", "consumes": {"powerBuffered": 8377}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xilyra liquid tank", "description": "...", "health": 254, "size": 3, "requirements": [{"item": "xilyra", "amount": 13}, {"item": "roma", "amount": 8}, {"item": "peze", "amount": 4}], "research": "xilyra-conduit", "category": "liquid", "liquidCapacity": 30500, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "giyasu solar panel", "description": "...", "size": 3, "health": 289, "requirements": [{"item": "giyasu", "amount": 3}, {"item": "jozu", "amount": 9}, {"item": "yodary", "amount": 4}], "research": "giyasu-factory", "powerProduction": 1.9557029209129386, "category": "power"}

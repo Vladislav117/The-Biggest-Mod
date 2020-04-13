@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gylananium battery", "description": "...", "size": 1, "health": 341, "requirements": [{"item": "gylananium", "amount": 12}, {"item": "qodanunium", "amount": 12}, {"item": "hyvyje", "amount": 2}], "research": "gylananium-factory", "consumes": {"powerBuffered": 701}, "category": "power"}

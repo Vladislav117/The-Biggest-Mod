@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qoha solar panel", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "qoha", "amount": 18}, {"item": "sukafe", "amount": 1}, {"item": "bomynium", "amount": 8}], "research": "qoha-factory", "powerProduction": 0.3770767253450871, "category": "power"}

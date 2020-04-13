@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rymy junction", "description": "...", "health": 21, "speed": 17, "capacity": 17, "size": 1, "requirements": [{"item": "rymy", "amount": 5}, {"item": "siga", "amount": 4}], "research": "rymy-conveyor", "category": "distribution"}

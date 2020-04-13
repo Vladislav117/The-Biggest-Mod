@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ledome conduit", "description": "...", "health": 162, "requirements": [{"item": "ledome", "amount": 3}, {"item": "wuniso", "amount": 9}, {"item": "cuxenium", "amount": 2}], "liquidCapacity": 9, "liquidPressure": 5, "research": "ledome-factory", "category": "liquid"}

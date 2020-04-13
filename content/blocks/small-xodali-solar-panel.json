@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xodali solar panel", "description": "...", "size": 1, "health": 197, "requirements": [{"item": "xodali", "amount": 8}, {"item": "rahy", "amount": 3}, {"item": "pemo", "amount": 5}], "research": "xodali-factory", "powerProduction": 0.8761948582221771, "category": "power"}

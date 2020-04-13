@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wupi battery", "description": "...", "size": 3, "health": 376, "requirements": [{"item": "wupi", "amount": 18}, {"item": "zeha", "amount": 10}, {"item": "gavepy", "amount": 8}], "research": "wupi-factory", "consumes": {"powerBuffered": 901}, "category": "power"}

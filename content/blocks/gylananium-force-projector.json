@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "gylananium force projector", "description": "...", "health": 153, "size": 3, "consumes": {"power": 5.0, "item": "gylananium"}, "requirements": [{"item": "gylananium", "amount": 15}, {"item": "cavyjo", "amount": 14}, {"item": "tufo", "amount": 10}], "research": "gylananium-factory", "category": "effect"}

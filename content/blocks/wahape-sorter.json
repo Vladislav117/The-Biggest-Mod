@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wahape sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "wahape", "amount": 1}, {"item": "kype", "amount": 4}], "research": "wahape-conveyor", "category": "distribution", "invert": false}

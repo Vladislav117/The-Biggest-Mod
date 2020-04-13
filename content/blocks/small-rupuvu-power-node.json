@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rupuvu power node", "description": "...", "size": 1, "health": 320, "requirements": [{"item": "rupuvu", "amount": 13}, {"item": "tamuna", "amount": 13}, {"item": "mynufu", "amount": 2}], "research": "rupuvu-factory", "maxNodes": 24, "laserRange": 21, "category": "power"}

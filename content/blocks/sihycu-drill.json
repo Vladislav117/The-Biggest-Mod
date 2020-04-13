@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sihycu drill", "description": "...", "size": 4, "health": 190, "tier": 3, "drillTime": 9, "consumes": {"power": 13}, "requirements": [{"item": "sihycu", "amount": 5}, {"item": "lokybe", "amount": 6}, {"item": "jyzywy", "amount": 3}], "research": "sihycu-factory", "category": "production"}

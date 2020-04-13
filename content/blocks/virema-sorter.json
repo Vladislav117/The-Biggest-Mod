@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "virema sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "virema", "amount": 3}, {"item": "gifu", "amount": 4}], "research": "virema-conveyor", "category": "distribution", "invert": false}

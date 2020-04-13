@@ -1,0 +1,1 @@
+{"type": "junction", "name": "nigynium junction", "description": "...", "health": 19, "speed": 1, "capacity": 11, "size": 1, "requirements": [{"item": "nigynium", "amount": 3}, {"item": "qiloka", "amount": 1}], "research": "nigynium-conveyor", "category": "distribution"}

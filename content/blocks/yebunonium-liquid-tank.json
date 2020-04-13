@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yebunonium liquid tank", "description": "...", "health": 520, "size": 3, "requirements": [{"item": "yebunonium", "amount": 5}, {"item": "tenuty", "amount": 12}, {"item": "neronium", "amount": 9}], "research": "yebunonium-conduit", "category": "liquid", "liquidCapacity": 4521, "hasLiquids": true}

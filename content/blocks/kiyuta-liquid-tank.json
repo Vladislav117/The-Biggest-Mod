@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kiyuta liquid tank", "description": "...", "health": 657, "size": 3, "requirements": [{"item": "kiyuta", "amount": 19}, {"item": "xapa", "amount": 1}, {"item": "tybegi", "amount": 6}], "research": "kiyuta-conduit", "category": "liquid", "liquidCapacity": 30439, "hasLiquids": true}

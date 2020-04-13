@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "naqade power node", "description": "...", "size": 2, "health": 293, "requirements": [{"item": "naqade", "amount": 18}, {"item": "cokigo", "amount": 16}, {"item": "terepy", "amount": 2}], "research": "naqade-factory", "maxNodes": 44, "laserRange": 25, "category": "power"}

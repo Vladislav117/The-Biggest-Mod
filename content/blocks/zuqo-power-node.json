@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zuqo power node", "description": "...", "size": 2, "health": 741, "requirements": [{"item": "zuqo", "amount": 19}, {"item": "lybazanium", "amount": 13}, {"item": "pyki", "amount": 7}], "research": "zuqo-factory", "maxNodes": 34, "laserRange": 29, "category": "power"}

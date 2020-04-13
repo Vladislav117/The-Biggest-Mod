@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fecime sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "fecime", "amount": 1}, {"item": "zyrufu", "amount": 5}], "research": "fecime-conveyor", "category": "distribution", "invert": false}

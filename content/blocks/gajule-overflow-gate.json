@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gajule overflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "gajule", "amount": 2}, {"item": "pyqynium", "amount": 3}], "research": "gajule-conveyor", "category": "distribution", "invert": false}

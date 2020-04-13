@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fecime underflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "fecime", "amount": 1}, {"item": "zireli", "amount": 1}], "research": "fecime-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wavoli liquid router", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "wavoli", "amount": 7}, {"item": "kubi", "amount": 8}, {"item": "sacigi", "amount": 10}], "research": "wavoli-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "darufo solar panel", "description": "...", "size": 3, "health": 185, "requirements": [{"item": "darufo", "amount": 7}, {"item": "pawusy", "amount": 8}, {"item": "letohy", "amount": 2}], "research": "darufo-factory", "powerProduction": 0.08822708468853338, "category": "power"}

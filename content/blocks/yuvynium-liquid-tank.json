@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yuvynium liquid tank", "description": "...", "health": 656, "size": 3, "requirements": [{"item": "yuvynium", "amount": 12}, {"item": "sylyxy", "amount": 2}, {"item": "mehenium", "amount": 4}], "research": "yuvynium-conduit", "category": "liquid", "liquidCapacity": 1726, "hasLiquids": true}

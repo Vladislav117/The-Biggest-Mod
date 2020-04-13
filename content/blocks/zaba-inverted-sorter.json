@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zaba inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "zaba", "amount": 3}, {"item": "kety", "amount": 3}], "research": "zaba-conveyor", "category": "distribution", "invert": true}

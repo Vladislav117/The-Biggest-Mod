@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fusaji solar panel", "description": "...", "size": 3, "health": 180, "requirements": [{"item": "fusaji", "amount": 8}, {"item": "sore", "amount": 16}, {"item": "jeqenium", "amount": 4}], "research": "fusaji-factory", "powerProduction": 0.0864522094434926, "category": "power"}

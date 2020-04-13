@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mido junction", "description": "...", "health": 50, "speed": 10, "capacity": 8, "size": 1, "requirements": [{"item": "mido", "amount": 3}, {"item": "zygebynium", "amount": 4}], "research": "mido-conveyor", "category": "distribution"}

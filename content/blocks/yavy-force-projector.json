@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "yavy force projector", "description": "...", "health": 167, "size": 3, "consumes": {"power": 5.0, "item": "yavy"}, "requirements": [{"item": "yavy", "amount": 16}, {"item": "nuhu", "amount": 4}, {"item": "qytama", "amount": 3}], "research": "yavy-factory", "category": "effect"}

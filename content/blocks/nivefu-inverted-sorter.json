@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nivefu inverted sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "nivefu", "amount": 4}, {"item": "qiqole", "amount": 5}], "research": "nivefu-conveyor", "category": "distribution", "invert": true}

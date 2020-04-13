@@ -1,0 +1,1 @@
+{"type": "battery", "name": "savi battery", "description": "...", "size": 3, "health": 128, "requirements": [{"item": "savi", "amount": 17}, {"item": "ruvudo", "amount": 7}, {"item": "cuso", "amount": 1}], "research": "savi-factory", "consumes": {"powerBuffered": 5088}, "category": "power"}

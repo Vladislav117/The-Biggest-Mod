@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dogequ liquid tank", "description": "...", "health": 481, "size": 3, "requirements": [{"item": "dogequ", "amount": 6}, {"item": "baqilo", "amount": 2}, {"item": "geke", "amount": 10}], "research": "dogequ-conduit", "category": "liquid", "liquidCapacity": 26863, "hasLiquids": true}

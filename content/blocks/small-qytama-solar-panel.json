@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qytama solar panel", "description": "...", "size": 1, "health": 246, "requirements": [{"item": "qytama", "amount": 15}, {"item": "tiqeti", "amount": 14}, {"item": "mote", "amount": 8}], "research": "qytama-factory", "powerProduction": 0.09399066801108756, "category": "power"}

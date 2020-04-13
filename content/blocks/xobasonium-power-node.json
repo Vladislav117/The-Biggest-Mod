@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xobasonium power node", "description": "...", "size": 2, "health": 665, "requirements": [{"item": "xobasonium", "amount": 7}, {"item": "lalenium", "amount": 1}, {"item": "mygyyy", "amount": 9}], "research": "xobasonium-factory", "maxNodes": 44, "laserRange": 23, "category": "power"}

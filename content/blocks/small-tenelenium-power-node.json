@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tenelenium power node", "description": "...", "size": 1, "health": 151, "requirements": [{"item": "tenelenium", "amount": 16}, {"item": "yobito", "amount": 7}, {"item": "yiqynium", "amount": 8}], "research": "tenelenium-factory", "maxNodes": 3, "laserRange": 19, "category": "power"}

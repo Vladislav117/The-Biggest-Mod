@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xoniqe underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "xoniqe", "amount": 4}, {"item": "nytina", "amount": 1}], "research": "xoniqe-conveyor", "category": "distribution", "invert": false}

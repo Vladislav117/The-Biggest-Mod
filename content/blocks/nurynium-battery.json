@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nurynium battery", "description": "...", "size": 3, "health": 210, "requirements": [{"item": "nurynium", "amount": 15}, {"item": "xoxu", "amount": 16}, {"item": "rymeyinium", "amount": 2}], "research": "nurynium-factory", "consumes": {"powerBuffered": 7257}, "category": "power"}

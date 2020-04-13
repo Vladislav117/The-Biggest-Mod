@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "dyzo underflow gate", "description": "...", "health": 42, "size": 1, "requirements": [{"item": "dyzo", "amount": 4}, {"item": "jomoka", "amount": 4}], "research": "dyzo-conveyor", "category": "distribution", "invert": false}

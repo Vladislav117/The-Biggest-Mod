@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pypy bridge conveyor", "description": "", "health": 9, "range": 20, "speed": 16, "bufferCapacity": 11, "requirements": [{"item": "pypy", "amount": 3}, {"item": "vema", "amount": 4}], "research": "pypy-conveyor", "category": "distribution", "size": 1}

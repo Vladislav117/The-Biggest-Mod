@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jijaka liquid tank", "description": "...", "health": 357, "size": 3, "requirements": [{"item": "jijaka", "amount": 12}, {"item": "ryte", "amount": 1}, {"item": "ruhuya", "amount": 10}], "research": "jijaka-conduit", "category": "liquid", "liquidCapacity": 50202, "hasLiquids": true}

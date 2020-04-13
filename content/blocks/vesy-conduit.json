@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vesy conduit", "description": "...", "health": 141, "requirements": [{"item": "vesy", "amount": 11}, {"item": "sexinium", "amount": 17}, {"item": "sice", "amount": 1}], "liquidCapacity": 6, "liquidPressure": 2, "research": "vesy-factory", "category": "liquid"}

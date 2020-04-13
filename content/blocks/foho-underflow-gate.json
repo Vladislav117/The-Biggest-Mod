@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "foho underflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "foho", "amount": 4}, {"item": "xoteyi", "amount": 4}], "research": "foho-conveyor", "category": "distribution", "invert": false}

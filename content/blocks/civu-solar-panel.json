@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "civu solar panel", "description": "...", "size": 3, "health": 377, "requirements": [{"item": "civu", "amount": 9}, {"item": "biqa", "amount": 8}, {"item": "vini", "amount": 3}], "research": "civu-factory", "powerProduction": 0.0920193288307437, "category": "power"}

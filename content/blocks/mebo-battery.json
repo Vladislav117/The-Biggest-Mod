@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mebo battery", "description": "...", "size": 3, "health": 70, "requirements": [{"item": "mebo", "amount": 2}, {"item": "yicejanium", "amount": 8}, {"item": "mefymanium", "amount": 3}], "research": "mebo-factory", "consumes": {"powerBuffered": 4183}, "category": "power"}

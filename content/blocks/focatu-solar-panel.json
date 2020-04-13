@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "focatu solar panel", "description": "...", "size": 3, "health": 336, "requirements": [{"item": "focatu", "amount": 6}, {"item": "pawasunium", "amount": 4}, {"item": "ceginy", "amount": 2}], "research": "focatu-factory", "powerProduction": 1.3521296895665817, "category": "power"}

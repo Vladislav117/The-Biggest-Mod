@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "guha sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "guha", "amount": 2}, {"item": "gado", "amount": 2}], "research": "guha-conveyor", "category": "distribution", "invert": false}

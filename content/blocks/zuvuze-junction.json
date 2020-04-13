@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zuvuze junction", "description": "...", "health": 33, "speed": 14, "capacity": 11, "size": 1, "requirements": [{"item": "zuvuze", "amount": 4}, {"item": "zymi", "amount": 4}], "research": "zuvuze-conveyor", "category": "distribution"}

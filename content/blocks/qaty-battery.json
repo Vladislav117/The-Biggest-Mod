@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qaty battery", "description": "...", "size": 3, "health": 316, "requirements": [{"item": "qaty", "amount": 7}, {"item": "rypenium", "amount": 20}, {"item": "sebobe", "amount": 8}], "research": "qaty-factory", "consumes": {"powerBuffered": 8560}, "category": "power"}

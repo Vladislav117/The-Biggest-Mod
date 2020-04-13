@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mikyzy solar panel", "description": "...", "size": 3, "health": 235, "requirements": [{"item": "mikyzy", "amount": 20}, {"item": "nirogynium", "amount": 13}, {"item": "cogy", "amount": 4}], "research": "mikyzy-factory", "powerProduction": 0.30586428462316123, "category": "power"}

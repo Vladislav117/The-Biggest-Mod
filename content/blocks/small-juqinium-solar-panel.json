@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small juqinium solar panel", "description": "...", "size": 1, "health": 272, "requirements": [{"item": "juqinium", "amount": 2}, {"item": "syfy", "amount": 8}, {"item": "tufi", "amount": 8}], "research": "juqinium-factory", "powerProduction": 1.3045271787658397, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kusyny liquid router", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "kusyny", "amount": 3}, {"item": "zefu", "amount": 1}, {"item": "byre", "amount": 8}], "research": "kusyny-conduit", "liquidCapacity": 10, "category": "liquid"}

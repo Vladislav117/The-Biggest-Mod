@@ -1,0 +1,1 @@
+{"type": "junction", "name": "rede junction", "description": "...", "health": 2, "speed": 9, "capacity": 3, "size": 1, "requirements": [{"item": "rede", "amount": 4}, {"item": "jugubu", "amount": 2}], "research": "rede-conveyor", "category": "distribution"}

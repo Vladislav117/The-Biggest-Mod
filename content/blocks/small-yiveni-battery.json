@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yiveni battery", "description": "...", "size": 1, "health": 157, "requirements": [{"item": "yiveni", "amount": 2}, {"item": "kovi", "amount": 10}, {"item": "gozefynium", "amount": 7}], "research": "yiveni-factory", "consumes": {"powerBuffered": 2496}, "category": "power"}

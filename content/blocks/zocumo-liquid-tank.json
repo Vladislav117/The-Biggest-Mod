@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zocumo liquid tank", "description": "...", "health": 308, "size": 3, "requirements": [{"item": "zocumo", "amount": 16}, {"item": "qeka", "amount": 14}, {"item": "dicaku", "amount": 1}], "research": "zocumo-conduit", "category": "liquid", "liquidCapacity": 27852, "hasLiquids": true}

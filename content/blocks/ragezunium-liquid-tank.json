@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ragezunium liquid tank", "description": "...", "health": 578, "size": 3, "requirements": [{"item": "ragezunium", "amount": 8}, {"item": "yicavu", "amount": 11}, {"item": "zogeno", "amount": 10}], "research": "ragezunium-conduit", "category": "liquid", "liquidCapacity": 69787, "hasLiquids": true}

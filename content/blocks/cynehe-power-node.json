@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cynehe power node", "description": "...", "size": 2, "health": 650, "requirements": [{"item": "cynehe", "amount": 3}, {"item": "hyru", "amount": 11}, {"item": "wadoka", "amount": 8}], "research": "cynehe-factory", "maxNodes": 56, "laserRange": 15, "category": "power"}

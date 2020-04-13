@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pukalunium sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "pukalunium", "amount": 4}, {"item": "gomola", "amount": 1}], "research": "pukalunium-conveyor", "category": "distribution", "invert": false}

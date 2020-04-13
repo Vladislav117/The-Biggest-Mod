@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "viwafy overflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "viwafy", "amount": 3}, {"item": "letipy", "amount": 1}], "research": "viwafy-conveyor", "category": "distribution", "invert": false}

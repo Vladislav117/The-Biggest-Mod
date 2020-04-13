@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pipohy battery", "description": "...", "size": 3, "health": 120, "requirements": [{"item": "pipohy", "amount": 1}, {"item": "velyma", "amount": 16}, {"item": "lipupy", "amount": 8}], "research": "pipohy-factory", "consumes": {"powerBuffered": 5010}, "category": "power"}

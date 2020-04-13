@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zija liquid tank", "description": "...", "health": 528, "size": 3, "requirements": [{"item": "zija", "amount": 6}, {"item": "migube", "amount": 11}, {"item": "muby", "amount": 9}], "research": "zija-conduit", "category": "liquid", "liquidCapacity": 112569, "hasLiquids": true}

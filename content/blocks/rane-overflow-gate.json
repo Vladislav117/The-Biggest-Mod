@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rane overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "rane", "amount": 5}, {"item": "vadunium", "amount": 4}], "research": "rane-conveyor", "category": "distribution", "invert": false}

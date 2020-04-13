@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zuwonium solar panel", "description": "...", "size": 1, "health": 304, "requirements": [{"item": "zuwonium", "amount": 12}, {"item": "fygonium", "amount": 3}, {"item": "qaho", "amount": 5}], "research": "zuwonium-factory", "powerProduction": 0.7768543729942113, "category": "power"}

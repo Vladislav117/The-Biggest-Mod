@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tegi liquid tank", "description": "...", "health": 515, "size": 3, "requirements": [{"item": "tegi", "amount": 18}, {"item": "gineta", "amount": 13}, {"item": "woze", "amount": 4}], "research": "tegi-conduit", "category": "liquid", "liquidCapacity": 75106, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tynipu liquid tank", "description": "...", "health": 447, "size": 3, "requirements": [{"item": "tynipu", "amount": 2}, {"item": "mivini", "amount": 7}, {"item": "wumuge", "amount": 6}], "research": "tynipu-conduit", "category": "liquid", "liquidCapacity": 52089, "hasLiquids": true}

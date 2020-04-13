@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qapa sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "qapa", "amount": 2}, {"item": "juhenium", "amount": 1}], "research": "qapa-conveyor", "category": "distribution", "invert": false}

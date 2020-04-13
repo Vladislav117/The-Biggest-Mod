@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xejo battery", "description": "...", "size": 3, "health": 95, "requirements": [{"item": "xejo", "amount": 17}, {"item": "kilu", "amount": 20}, {"item": "kurecanium", "amount": 9}], "research": "xejo-factory", "consumes": {"powerBuffered": 6361}, "category": "power"}

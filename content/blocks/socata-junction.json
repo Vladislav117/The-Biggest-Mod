@@ -1,0 +1,1 @@
+{"type": "junction", "name": "socata junction", "description": "...", "health": 34, "speed": 3, "capacity": 20, "size": 1, "requirements": [{"item": "socata", "amount": 3}, {"item": "haxi", "amount": 2}], "research": "socata-conveyor", "category": "distribution"}

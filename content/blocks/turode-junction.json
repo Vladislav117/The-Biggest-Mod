@@ -1,0 +1,1 @@
+{"type": "junction", "name": "turode junction", "description": "...", "health": 17, "speed": 5, "capacity": 11, "size": 1, "requirements": [{"item": "turode", "amount": 1}, {"item": "vipu", "amount": 2}], "research": "turode-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jomoka junction", "description": "...", "health": 32, "speed": 14, "capacity": 13, "size": 1, "requirements": [{"item": "jomoka", "amount": 5}, {"item": "tuxu", "amount": 5}], "research": "jomoka-conveyor", "category": "distribution"}

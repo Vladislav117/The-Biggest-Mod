@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fyponium solar panel", "description": "...", "size": 3, "health": 177, "requirements": [{"item": "fyponium", "amount": 3}, {"item": "lefelenium", "amount": 16}, {"item": "fogodo", "amount": 9}], "research": "fyponium-factory", "powerProduction": 0.8934014298499151, "category": "power"}

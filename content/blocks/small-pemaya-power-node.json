@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pemaya power node", "description": "...", "size": 1, "health": 116, "requirements": [{"item": "pemaya", "amount": 17}, {"item": "pibyxenium", "amount": 19}, {"item": "xydume", "amount": 6}], "research": "pemaya-factory", "maxNodes": 26, "laserRange": 7, "category": "power"}

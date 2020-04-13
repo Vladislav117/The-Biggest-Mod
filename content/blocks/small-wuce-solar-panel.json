@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wuce solar panel", "description": "...", "size": 1, "health": 361, "requirements": [{"item": "wuce", "amount": 19}, {"item": "zohura", "amount": 19}, {"item": "jepiti", "amount": 5}], "research": "wuce-factory", "powerProduction": 7.867576321891612, "category": "power"}

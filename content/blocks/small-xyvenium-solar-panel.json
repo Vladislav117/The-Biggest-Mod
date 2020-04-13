@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xyvenium solar panel", "description": "...", "size": 1, "health": 274, "requirements": [{"item": "xyvenium", "amount": 10}, {"item": "faqoyynium", "amount": 7}, {"item": "hysivi", "amount": 1}], "research": "xyvenium-factory", "powerProduction": 7.0465165967993455, "category": "power"}

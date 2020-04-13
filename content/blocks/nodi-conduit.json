@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nodi conduit", "description": "...", "health": 140, "requirements": [{"item": "nodi", "amount": 7}, {"item": "cafy", "amount": 2}, {"item": "dekeko", "amount": 6}], "liquidCapacity": 46, "liquidPressure": 1, "research": "nodi-factory", "category": "liquid"}

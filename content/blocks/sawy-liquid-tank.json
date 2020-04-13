@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sawy liquid tank", "description": "...", "health": 452, "size": 3, "requirements": [{"item": "sawy", "amount": 5}, {"item": "qari", "amount": 3}, {"item": "kelurynium", "amount": 8}], "research": "sawy-conduit", "category": "liquid", "liquidCapacity": 21717, "hasLiquids": true}

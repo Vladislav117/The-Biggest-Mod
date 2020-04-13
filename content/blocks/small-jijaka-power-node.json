@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jijaka power node", "description": "...", "size": 1, "health": 175, "requirements": [{"item": "jijaka", "amount": 10}, {"item": "yyja", "amount": 4}, {"item": "tymy", "amount": 2}], "research": "jijaka-factory", "maxNodes": 29, "laserRange": 4, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ryloxi bridge conveyor", "description": "", "health": 7, "range": 13, "speed": 8, "bufferCapacity": 6, "requirements": [{"item": "ryloxi", "amount": 5}, {"item": "qegynium", "amount": 1}], "research": "ryloxi-conveyor", "category": "distribution", "size": 1}

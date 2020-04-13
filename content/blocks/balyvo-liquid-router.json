@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "balyvo liquid router", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "balyvo", "amount": 1}, {"item": "yucy", "amount": 4}, {"item": "furazinium", "amount": 5}], "research": "balyvo-conduit", "liquidCapacity": 10, "category": "liquid"}

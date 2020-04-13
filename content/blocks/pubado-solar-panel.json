@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pubado solar panel", "description": "...", "size": 3, "health": 194, "requirements": [{"item": "pubado", "amount": 15}, {"item": "phase-fabric", "amount": 14}, {"item": "sytafe", "amount": 7}], "research": "pubado-factory", "powerProduction": 0.277085920312762, "category": "power"}

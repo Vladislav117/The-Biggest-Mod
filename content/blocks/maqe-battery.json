@@ -1,0 +1,1 @@
+{"type": "battery", "name": "maqe battery", "description": "...", "size": 3, "health": 177, "requirements": [{"item": "maqe", "amount": 16}, {"item": "ravyku", "amount": 20}, {"item": "zyqita", "amount": 1}], "research": "maqe-factory", "consumes": {"powerBuffered": 3677}, "category": "power"}

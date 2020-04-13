@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pupyku battery", "description": "...", "size": 1, "health": 133, "requirements": [{"item": "pupyku", "amount": 17}, {"item": "muti", "amount": 12}, {"item": "riro", "amount": 1}], "research": "pupyku-factory", "consumes": {"powerBuffered": 1865}, "category": "power"}

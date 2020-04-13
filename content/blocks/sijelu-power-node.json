@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sijelu power node", "description": "...", "size": 2, "health": 166, "requirements": [{"item": "sijelu", "amount": 17}, {"item": "rytysynium", "amount": 3}, {"item": "tanexo", "amount": 4}], "research": "sijelu-factory", "maxNodes": 48, "laserRange": 20, "category": "power"}

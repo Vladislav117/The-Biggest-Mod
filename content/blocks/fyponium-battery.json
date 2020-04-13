@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fyponium battery", "description": "...", "size": 3, "health": 26, "requirements": [{"item": "fyponium", "amount": 20}, {"item": "dela", "amount": 15}, {"item": "qeka", "amount": 10}], "research": "fyponium-factory", "consumes": {"powerBuffered": 4028}, "category": "power"}

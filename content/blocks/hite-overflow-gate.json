@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hite overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "hite", "amount": 2}, {"item": "yopepa", "amount": 4}], "research": "hite-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nylo liquid tank", "description": "...", "health": 191, "size": 3, "requirements": [{"item": "nylo", "amount": 20}, {"item": "xizejinium", "amount": 13}, {"item": "jygery", "amount": 4}], "research": "nylo-conduit", "category": "liquid", "liquidCapacity": 47241, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mozo solar panel", "description": "...", "size": 3, "health": 93, "requirements": [{"item": "mozo", "amount": 3}, {"item": "viwimynium", "amount": 13}, {"item": "garoqanium", "amount": 2}], "research": "mozo-factory", "powerProduction": 5.856656431812965, "category": "power"}

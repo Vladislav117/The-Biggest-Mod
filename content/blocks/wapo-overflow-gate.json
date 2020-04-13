@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wapo overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "wapo", "amount": 3}, {"item": "zityyanium", "amount": 5}], "research": "wapo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xeco liquid tank", "description": "...", "health": 250, "size": 3, "requirements": [{"item": "xeco", "amount": 3}, {"item": "kywowa", "amount": 18}, {"item": "kani", "amount": 6}], "research": "xeco-conduit", "category": "liquid", "liquidCapacity": 44077, "hasLiquids": true}

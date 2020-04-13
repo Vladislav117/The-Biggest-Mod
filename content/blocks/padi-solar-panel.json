@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "padi solar panel", "description": "...", "size": 3, "health": 289, "requirements": [{"item": "padi", "amount": 10}, {"item": "cuvino", "amount": 12}, {"item": "jaga", "amount": 8}], "research": "padi-factory", "powerProduction": 2.6257223186579197, "category": "power"}

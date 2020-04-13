@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tycomo battery", "description": "...", "size": 1, "health": 107, "requirements": [{"item": "tycomo", "amount": 7}, {"item": "muyimy", "amount": 16}, {"item": "begerynium", "amount": 2}], "research": "tycomo-factory", "consumes": {"powerBuffered": 2439}, "category": "power"}

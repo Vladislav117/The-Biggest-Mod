@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hogo battery", "description": "...", "size": 3, "health": 255, "requirements": [{"item": "hogo", "amount": 13}, {"item": "faqymu", "amount": 6}, {"item": "heqywanium", "amount": 7}], "research": "hogo-factory", "consumes": {"powerBuffered": 993}, "category": "power"}

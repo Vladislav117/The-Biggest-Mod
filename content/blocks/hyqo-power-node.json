@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hyqo power node", "description": "...", "size": 2, "health": 377, "requirements": [{"item": "hyqo", "amount": 16}, {"item": "repetu", "amount": 15}, {"item": "lype", "amount": 8}], "research": "hyqo-factory", "maxNodes": 14, "laserRange": 17, "category": "power"}

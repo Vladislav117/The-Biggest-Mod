@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "pemoqa drill", "description": "...", "size": 2, "health": 333, "tier": 4, "drillTime": 13, "consumes": {"power": 5}, "requirements": [{"item": "pemoqa", "amount": 2}, {"item": "neqa", "amount": 13}, {"item": "kelyqi", "amount": 7}], "research": "pemoqa-factory", "category": "production"}

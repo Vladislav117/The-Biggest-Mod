@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tudinium bridge conveyor", "description": "", "health": 43, "range": 5, "speed": 20, "bufferCapacity": 13, "requirements": [{"item": "tudinium", "amount": 4}, {"item": "ciwiwa", "amount": 3}], "research": "tudinium-conveyor", "category": "distribution", "size": 1}

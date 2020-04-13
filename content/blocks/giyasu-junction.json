@@ -1,0 +1,1 @@
+{"type": "junction", "name": "giyasu junction", "description": "...", "health": 6, "speed": 11, "capacity": 4, "size": 1, "requirements": [{"item": "giyasu", "amount": 3}, {"item": "lymo", "amount": 4}], "research": "giyasu-conveyor", "category": "distribution"}

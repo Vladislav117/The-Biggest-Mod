@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hetyjo liquid tank", "description": "...", "health": 274, "size": 3, "requirements": [{"item": "hetyjo", "amount": 14}, {"item": "yamyri", "amount": 2}, {"item": "zityyanium", "amount": 8}], "research": "hetyjo-conduit", "category": "liquid", "liquidCapacity": 14181, "hasLiquids": true}

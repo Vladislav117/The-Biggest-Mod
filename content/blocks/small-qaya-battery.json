@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qaya battery", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "qaya", "amount": 16}, {"item": "ryzote", "amount": 18}, {"item": "nimawo", "amount": 7}], "research": "qaya-factory", "consumes": {"powerBuffered": 1559}, "category": "power"}

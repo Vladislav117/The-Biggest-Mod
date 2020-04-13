@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qeba conduit", "description": "...", "health": 135, "requirements": [{"item": "qeba", "amount": 1}, {"item": "qepisu", "amount": 9}, {"item": "pucy", "amount": 3}], "liquidCapacity": 37, "liquidPressure": 5, "research": "qeba-factory", "category": "liquid"}

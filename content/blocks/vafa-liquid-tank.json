@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vafa liquid tank", "description": "...", "health": 628, "size": 3, "requirements": [{"item": "vafa", "amount": 10}, {"item": "xige", "amount": 10}, {"item": "tymy", "amount": 4}], "research": "vafa-conduit", "category": "liquid", "liquidCapacity": 96502, "hasLiquids": true}

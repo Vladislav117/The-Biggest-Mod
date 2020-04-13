@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vodehonium overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "vodehonium", "amount": 1}, {"item": "qykebo", "amount": 1}], "research": "vodehonium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "ninu solar panel", "description": "...", "size": 3, "health": 14, "requirements": [{"item": "ninu", "amount": 20}, {"item": "zoqa", "amount": 19}, {"item": "byja", "amount": 3}], "research": "ninu-factory", "powerProduction": 1.159207806500757, "category": "power"}

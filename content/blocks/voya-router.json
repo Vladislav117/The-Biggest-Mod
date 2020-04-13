@@ -1,0 +1,1 @@
+{"type": "router", "name": "voya router", "description": "...", "health": 125, "size": 1, "requirements": [{"item": "voya", "amount": 2}], "research": "voya-conveyor", "category": "distribution"}

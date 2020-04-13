@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pajaka junction", "description": "...", "health": 24, "speed": 6, "capacity": 7, "size": 1, "requirements": [{"item": "pajaka", "amount": 5}, {"item": "hybobenium", "amount": 5}], "research": "pajaka-conveyor", "category": "distribution"}

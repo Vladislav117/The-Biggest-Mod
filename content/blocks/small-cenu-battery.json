@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cenu battery", "description": "...", "size": 1, "health": 20, "requirements": [{"item": "cenu", "amount": 17}, {"item": "gupyfi", "amount": 2}, {"item": "kizywanium", "amount": 7}], "research": "cenu-factory", "consumes": {"powerBuffered": 2202}, "category": "power"}

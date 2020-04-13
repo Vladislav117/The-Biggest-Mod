@@ -1,0 +1,1 @@
+{"type": "junction", "name": "baboxi junction", "description": "...", "health": 24, "speed": 4, "capacity": 20, "size": 1, "requirements": [{"item": "baboxi", "amount": 3}, {"item": "lora", "amount": 4}], "research": "baboxi-conveyor", "category": "distribution"}

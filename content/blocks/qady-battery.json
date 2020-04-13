@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qady battery", "description": "...", "size": 3, "health": 236, "requirements": [{"item": "qady", "amount": 18}, {"item": "heqywanium", "amount": 3}, {"item": "mefymanium", "amount": 10}], "research": "qady-factory", "consumes": {"powerBuffered": 5449}, "category": "power"}

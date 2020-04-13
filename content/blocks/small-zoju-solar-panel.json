@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zoju solar panel", "description": "...", "size": 1, "health": 361, "requirements": [{"item": "zoju", "amount": 14}, {"item": "hyfeho", "amount": 18}, {"item": "faba", "amount": 8}], "research": "zoju-factory", "powerProduction": 4.398161215396025, "category": "power"}

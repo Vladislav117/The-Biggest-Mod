@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ninenium overflow gate", "description": "...", "health": 38, "size": 1, "requirements": [{"item": "ninenium", "amount": 5}, {"item": "minoxa", "amount": 1}], "research": "ninenium-conveyor", "category": "distribution", "invert": false}

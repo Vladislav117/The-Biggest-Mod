@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small faferu battery", "description": "...", "size": 1, "health": 52, "requirements": [{"item": "faferu", "amount": 4}, {"item": "sohusu", "amount": 2}, {"item": "bixehy", "amount": 6}], "research": "faferu-factory", "consumes": {"powerBuffered": 2264}, "category": "power"}

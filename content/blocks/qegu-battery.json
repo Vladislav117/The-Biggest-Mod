@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qegu battery", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "qegu", "amount": 15}, {"item": "goduji", "amount": 13}, {"item": "fezadunium", "amount": 3}], "research": "qegu-factory", "consumes": {"powerBuffered": 4599}, "category": "power"}

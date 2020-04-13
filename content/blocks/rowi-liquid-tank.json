@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rowi liquid tank", "description": "...", "health": 330, "size": 3, "requirements": [{"item": "rowi", "amount": 11}, {"item": "lyzecinium", "amount": 16}, {"item": "minoxa", "amount": 8}], "research": "rowi-conduit", "category": "liquid", "liquidCapacity": 59533, "hasLiquids": true}

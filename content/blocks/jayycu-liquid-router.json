@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "jayycu liquid router", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "jayycu", "amount": 10}, {"item": "tufo", "amount": 7}, {"item": "porafa", "amount": 7}], "research": "jayycu-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "duto junction", "description": "...", "health": 8, "speed": 10, "capacity": 12, "size": 1, "requirements": [{"item": "duto", "amount": 3}, {"item": "ceqo", "amount": 4}], "research": "duto-conveyor", "category": "distribution"}

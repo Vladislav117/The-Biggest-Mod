@@ -1,0 +1,1 @@
+{"type": "Vault", "name": "besu container", "description": "...", "health": 100, "itemCapacity": 10305, "size": 3, "requirements": [{"item": "besu", "amount": 43}], "research": "besu-factory", "category": "effect"}

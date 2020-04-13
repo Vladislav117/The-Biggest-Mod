@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qiposa liquid tank", "description": "...", "health": 287, "size": 3, "requirements": [{"item": "qiposa", "amount": 12}, {"item": "ceri", "amount": 8}, {"item": "jihu", "amount": 6}], "research": "qiposa-conduit", "category": "liquid", "liquidCapacity": 45037, "hasLiquids": true}

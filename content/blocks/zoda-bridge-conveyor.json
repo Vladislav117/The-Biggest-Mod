@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "zoda bridge conveyor", "description": "", "health": 12, "range": 20, "speed": 7, "bufferCapacity": 25, "requirements": [{"item": "zoda", "amount": 4}, {"item": "socyhi", "amount": 4}], "research": "zoda-conveyor", "category": "distribution", "size": 1}

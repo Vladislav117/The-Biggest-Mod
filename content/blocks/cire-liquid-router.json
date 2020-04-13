@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cire liquid router", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "cire", "amount": 13}, {"item": "tegizunium", "amount": 2}, {"item": "zuqo", "amount": 7}], "research": "cire-conduit", "liquidCapacity": 10, "category": "liquid"}

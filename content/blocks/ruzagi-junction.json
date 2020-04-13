@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ruzagi junction", "description": "...", "health": 19, "speed": 12, "capacity": 8, "size": 1, "requirements": [{"item": "ruzagi", "amount": 2}, {"item": "kubi", "amount": 5}], "research": "ruzagi-conveyor", "category": "distribution"}

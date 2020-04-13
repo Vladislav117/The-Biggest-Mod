@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fulasa solar panel", "description": "...", "size": 1, "health": 294, "requirements": [{"item": "fulasa", "amount": 18}, {"item": "wafe", "amount": 18}, {"item": "civu", "amount": 5}], "research": "fulasa-factory", "powerProduction": 0.6420380667467094, "category": "power"}

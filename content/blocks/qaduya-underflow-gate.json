@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qaduya underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "qaduya", "amount": 1}, {"item": "gyhecu", "amount": 4}], "research": "qaduya-conveyor", "category": "distribution", "invert": false}

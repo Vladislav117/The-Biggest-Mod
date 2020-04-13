@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kipybi junction", "description": "...", "health": 43, "speed": 10, "capacity": 20, "size": 1, "requirements": [{"item": "kipybi", "amount": 1}, {"item": "zyqita", "amount": 3}], "research": "kipybi-conveyor", "category": "distribution"}

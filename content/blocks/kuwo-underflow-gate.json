@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kuwo underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "kuwo", "amount": 5}, {"item": "leyoqo", "amount": 3}], "research": "kuwo-conveyor", "category": "distribution", "invert": false}

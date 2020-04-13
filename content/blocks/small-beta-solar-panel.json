@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small beta solar panel", "description": "...", "size": 1, "health": 114, "requirements": [{"item": "beta", "amount": 11}, {"item": "yedyte", "amount": 9}, {"item": "kusacynium", "amount": 8}], "research": "beta-factory", "powerProduction": 0.07938658966917571, "category": "power"}

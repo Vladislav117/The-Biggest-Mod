@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jixaro power node", "description": "...", "size": 1, "health": 97, "requirements": [{"item": "jixaro", "amount": 11}, {"item": "gimy", "amount": 12}, {"item": "caxoni", "amount": 4}], "research": "jixaro-factory", "maxNodes": 19, "laserRange": 14, "category": "power"}

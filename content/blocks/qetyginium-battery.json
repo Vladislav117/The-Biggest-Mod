@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qetyginium battery", "description": "...", "size": 3, "health": 374, "requirements": [{"item": "qetyginium", "amount": 14}, {"item": "rukycu", "amount": 8}, {"item": "rabe", "amount": 9}], "research": "qetyginium-factory", "consumes": {"powerBuffered": 230}, "category": "power"}

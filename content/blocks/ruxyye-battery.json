@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ruxyye battery", "description": "...", "size": 3, "health": 242, "requirements": [{"item": "ruxyye", "amount": 8}, {"item": "saleru", "amount": 11}, {"item": "syjo", "amount": 5}], "research": "ruxyye-factory", "consumes": {"powerBuffered": 3956}, "category": "power"}

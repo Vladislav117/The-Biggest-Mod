@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small boni battery", "description": "...", "size": 1, "health": 306, "requirements": [{"item": "boni", "amount": 6}, {"item": "kubi", "amount": 2}, {"item": "dugy", "amount": 10}], "research": "boni-factory", "consumes": {"powerBuffered": 718}, "category": "power"}

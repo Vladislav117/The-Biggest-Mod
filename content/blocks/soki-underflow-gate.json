@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "soki underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "soki", "amount": 2}, {"item": "bajenium", "amount": 2}], "research": "soki-conveyor", "category": "distribution", "invert": false}

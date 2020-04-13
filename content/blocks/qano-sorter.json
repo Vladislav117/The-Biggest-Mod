@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qano sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "qano", "amount": 1}, {"item": "kilu", "amount": 4}], "research": "qano-conveyor", "category": "distribution", "invert": false}

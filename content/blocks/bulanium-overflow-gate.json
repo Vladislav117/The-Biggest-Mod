@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bulanium overflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "bulanium", "amount": 1}, {"item": "wuniso", "amount": 2}], "research": "bulanium-conveyor", "category": "distribution", "invert": false}

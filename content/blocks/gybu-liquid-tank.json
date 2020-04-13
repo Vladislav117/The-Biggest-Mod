@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gybu liquid tank", "description": "...", "health": 241, "size": 3, "requirements": [{"item": "gybu", "amount": 19}, {"item": "walinium", "amount": 16}, {"item": "lucohi", "amount": 9}], "research": "gybu-conduit", "category": "liquid", "liquidCapacity": 112003, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuqi liquid tank", "description": "...", "health": 268, "size": 3, "requirements": [{"item": "cuqi", "amount": 20}, {"item": "fysubi", "amount": 6}, {"item": "meru", "amount": 3}], "research": "cuqi-conduit", "category": "liquid", "liquidCapacity": 45935, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "geka battery", "description": "...", "size": 3, "health": 54, "requirements": [{"item": "geka", "amount": 20}, {"item": "paboya", "amount": 20}, {"item": "mylenium", "amount": 9}], "research": "geka-factory", "consumes": {"powerBuffered": 7464}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cuwehy inverted sorter", "description": ",...", "health": 18, "size": 1, "requirements": [{"item": "cuwehy", "amount": 5}, {"item": "toni", "amount": 4}], "research": "cuwehy-conveyor", "category": "distribution", "invert": true}

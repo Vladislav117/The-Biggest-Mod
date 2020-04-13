@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small capa power node", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "capa", "amount": 7}, {"item": "gonu", "amount": 18}, {"item": "rukycu", "amount": 7}], "research": "capa-factory", "maxNodes": 9, "laserRange": 22, "category": "power"}

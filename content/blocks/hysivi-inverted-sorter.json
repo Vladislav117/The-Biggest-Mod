@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hysivi inverted sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "hysivi", "amount": 4}, {"item": "nytina", "amount": 4}], "research": "hysivi-conveyor", "category": "distribution", "invert": true}

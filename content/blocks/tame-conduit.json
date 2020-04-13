@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tame conduit", "description": "...", "health": 90, "requirements": [{"item": "tame", "amount": 19}, {"item": "powa", "amount": 13}, {"item": "zyfita", "amount": 8}], "liquidCapacity": 7, "liquidPressure": 4, "research": "tame-factory", "category": "liquid"}

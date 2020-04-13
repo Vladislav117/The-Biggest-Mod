@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bumaqa overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "bumaqa", "amount": 2}, {"item": "gizomanium", "amount": 5}], "research": "bumaqa-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cyyenium solar panel", "description": "...", "size": 3, "health": 230, "requirements": [{"item": "cyyenium", "amount": 13}, {"item": "yebyte", "amount": 10}, {"item": "viqamo", "amount": 2}], "research": "cyyenium-factory", "powerProduction": 1.1142704944756208, "category": "power"}

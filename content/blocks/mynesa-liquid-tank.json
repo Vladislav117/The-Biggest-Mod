@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mynesa liquid tank", "description": "...", "health": 246, "size": 3, "requirements": [{"item": "mynesa", "amount": 1}, {"item": "jepumi", "amount": 7}, {"item": "hugevinium", "amount": 2}], "research": "mynesa-conduit", "category": "liquid", "liquidCapacity": 104667, "hasLiquids": true}

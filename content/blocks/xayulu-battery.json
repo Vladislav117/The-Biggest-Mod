@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xayulu battery", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "xayulu", "amount": 5}, {"item": "xafi", "amount": 19}, {"item": "xala", "amount": 7}], "research": "xayulu-factory", "consumes": {"powerBuffered": 4507}, "category": "power"}

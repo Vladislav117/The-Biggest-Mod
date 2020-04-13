@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pyrynium conduit", "description": "...", "health": 168, "requirements": [{"item": "pyrynium", "amount": 14}, {"item": "qaxaqa", "amount": 5}, {"item": "hugevinium", "amount": 2}], "liquidCapacity": 32, "liquidPressure": 8, "research": "pyrynium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yicavu battery", "description": "...", "size": 3, "health": 146, "requirements": [{"item": "yicavu", "amount": 17}, {"item": "vurypo", "amount": 7}, {"item": "nufuponium", "amount": 5}], "research": "yicavu-factory", "consumes": {"powerBuffered": 575}, "category": "power"}

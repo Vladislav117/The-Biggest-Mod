@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "mynufu underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "mynufu", "amount": 2}, {"item": "duto", "amount": 3}], "research": "mynufu-conveyor", "category": "distribution", "invert": false}

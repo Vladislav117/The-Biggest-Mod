@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kupele conduit", "description": "...", "health": 96, "requirements": [{"item": "kupele", "amount": 1}, {"item": "yowoje", "amount": 6}, {"item": "lazynu", "amount": 1}], "liquidCapacity": 34, "liquidPressure": 9, "research": "kupele-factory", "category": "liquid"}

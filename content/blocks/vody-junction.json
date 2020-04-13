@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vody junction", "description": "...", "health": 11, "speed": 19, "capacity": 16, "size": 1, "requirements": [{"item": "vody", "amount": 2}, {"item": "titenium", "amount": 2}], "research": "vody-conveyor", "category": "distribution"}

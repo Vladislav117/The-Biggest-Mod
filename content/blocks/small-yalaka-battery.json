@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yalaka battery", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "yalaka", "amount": 5}, {"item": "bajenium", "amount": 16}, {"item": "xeye", "amount": 8}], "research": "yalaka-factory", "consumes": {"powerBuffered": 1789}, "category": "power"}

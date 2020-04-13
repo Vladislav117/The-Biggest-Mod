@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small giyafynium power node", "description": "...", "size": 1, "health": 330, "requirements": [{"item": "giyafynium", "amount": 9}, {"item": "dewe", "amount": 14}, {"item": "vekile", "amount": 4}], "research": "giyafynium-factory", "maxNodes": 5, "laserRange": 3, "category": "power"}

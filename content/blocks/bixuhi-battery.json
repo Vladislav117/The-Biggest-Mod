@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bixuhi battery", "description": "...", "size": 3, "health": 339, "requirements": [{"item": "bixuhi", "amount": 7}, {"item": "hyko", "amount": 14}, {"item": "zydu", "amount": 2}], "research": "bixuhi-factory", "consumes": {"powerBuffered": 8362}, "category": "power"}

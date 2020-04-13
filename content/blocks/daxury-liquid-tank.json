@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "daxury liquid tank", "description": "...", "health": 306, "size": 3, "requirements": [{"item": "daxury", "amount": 5}, {"item": "sytafe", "amount": 16}, {"item": "sayaminium", "amount": 5}], "research": "daxury-conduit", "category": "liquid", "liquidCapacity": 59086, "hasLiquids": true}

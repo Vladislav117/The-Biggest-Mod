@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mifi battery", "description": "...", "size": 3, "health": 111, "requirements": [{"item": "mifi", "amount": 5}, {"item": "luzini", "amount": 6}, {"item": "sosi", "amount": 7}], "research": "mifi-factory", "consumes": {"powerBuffered": 9135}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yanu liquid router", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "yanu", "amount": 19}, {"item": "jiyomonium", "amount": 9}, {"item": "yape", "amount": 10}], "research": "yanu-conduit", "liquidCapacity": 10, "category": "liquid"}

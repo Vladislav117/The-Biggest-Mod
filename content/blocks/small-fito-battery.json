@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small fito battery", "description": "...", "size": 1, "health": 46, "requirements": [{"item": "fito", "amount": 10}, {"item": "risusy", "amount": 20}, {"item": "zydu", "amount": 7}], "research": "fito-factory", "consumes": {"powerBuffered": 321}, "category": "power"}

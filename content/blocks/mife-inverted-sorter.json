@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mife inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "mife", "amount": 5}, {"item": "yexowy", "amount": 5}], "research": "mife-conveyor", "category": "distribution", "invert": true}

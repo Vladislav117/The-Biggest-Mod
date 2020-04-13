@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rigiro sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "rigiro", "amount": 3}, {"item": "zeqonium", "amount": 5}], "research": "rigiro-conveyor", "category": "distribution", "invert": false}

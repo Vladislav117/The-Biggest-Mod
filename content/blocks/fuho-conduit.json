@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fuho conduit", "description": "...", "health": 64, "requirements": [{"item": "fuho", "amount": 1}, {"item": "huwydy", "amount": 9}, {"item": "qylino", "amount": 8}], "liquidCapacity": 32, "liquidPressure": 7, "research": "fuho-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lixake overflow gate", "description": "...", "health": 49, "size": 1, "requirements": [{"item": "lixake", "amount": 3}, {"item": "rybiho", "amount": 5}], "research": "lixake-conveyor", "category": "distribution", "invert": false}

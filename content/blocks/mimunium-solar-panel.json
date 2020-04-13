@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mimunium solar panel", "description": "...", "size": 3, "health": 74, "requirements": [{"item": "mimunium", "amount": 20}, {"item": "pala", "amount": 16}, {"item": "nora", "amount": 6}], "research": "mimunium-factory", "powerProduction": 0.9044448573181276, "category": "power"}

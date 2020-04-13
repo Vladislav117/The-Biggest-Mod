@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bezomo liquid tank", "description": "...", "health": 122, "size": 3, "requirements": [{"item": "bezomo", "amount": 9}, {"item": "xype", "amount": 3}, {"item": "rexo", "amount": 8}], "research": "bezomo-conduit", "category": "liquid", "liquidCapacity": 91976, "hasLiquids": true}

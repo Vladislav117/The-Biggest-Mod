@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "paboya liquid tank", "description": "...", "health": 210, "size": 3, "requirements": [{"item": "paboya", "amount": 12}, {"item": "qeraxu", "amount": 3}, {"item": "xyza", "amount": 1}], "research": "paboya-conduit", "category": "liquid", "liquidCapacity": 63457, "hasLiquids": true}

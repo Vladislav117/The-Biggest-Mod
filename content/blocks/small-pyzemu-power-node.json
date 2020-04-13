@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small pyzemu power node", "description": "...", "size": 1, "health": 18, "requirements": [{"item": "pyzemu", "amount": 19}, {"item": "genane", "amount": 5}, {"item": "yytiye", "amount": 2}], "research": "pyzemu-factory", "maxNodes": 25, "laserRange": 22, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ryzote underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "ryzote", "amount": 1}, {"item": "biye", "amount": 2}], "research": "ryzote-conveyor", "category": "distribution", "invert": false}

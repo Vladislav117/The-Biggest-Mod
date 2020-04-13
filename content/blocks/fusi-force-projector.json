@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "fusi force projector", "description": "...", "health": 183, "size": 3, "consumes": {"power": 5.0, "item": "fusi"}, "requirements": [{"item": "fusi", "amount": 19}, {"item": "bywazy", "amount": 18}, {"item": "menugonium", "amount": 10}], "research": "fusi-factory", "category": "effect"}

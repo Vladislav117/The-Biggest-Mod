@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dyde bridge conveyor", "description": "", "health": 3, "range": 2, "speed": 10, "bufferCapacity": 2, "requirements": [{"item": "dyde", "amount": 4}, {"item": "lepe", "amount": 2}], "research": "dyde-conveyor", "category": "distribution", "size": 1}

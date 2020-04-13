@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wivo battery", "description": "...", "size": 3, "health": 103, "requirements": [{"item": "wivo", "amount": 12}, {"item": "logy", "amount": 4}, {"item": "kica", "amount": 4}], "research": "wivo-factory", "consumes": {"powerBuffered": 1591}, "category": "power"}

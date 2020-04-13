@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small huxonium battery", "description": "...", "size": 1, "health": 312, "requirements": [{"item": "huxonium", "amount": 6}, {"item": "zytukenium", "amount": 20}, {"item": "wana", "amount": 3}], "research": "huxonium-factory", "consumes": {"powerBuffered": 1104}, "category": "power"}

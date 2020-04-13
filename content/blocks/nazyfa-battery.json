@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nazyfa battery", "description": "...", "size": 3, "health": 13, "requirements": [{"item": "nazyfa", "amount": 13}, {"item": "sepo", "amount": 12}, {"item": "sibewe", "amount": 8}], "research": "nazyfa-factory", "consumes": {"powerBuffered": 375}, "category": "power"}

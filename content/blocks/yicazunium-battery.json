@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yicazunium battery", "description": "...", "size": 3, "health": 397, "requirements": [{"item": "yicazunium", "amount": 6}, {"item": "boqi", "amount": 5}, {"item": "jovojy", "amount": 2}], "research": "yicazunium-factory", "consumes": {"powerBuffered": 6867}, "category": "power"}

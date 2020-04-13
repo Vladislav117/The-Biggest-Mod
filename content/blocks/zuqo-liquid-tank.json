@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zuqo liquid tank", "description": "...", "health": 251, "size": 3, "requirements": [{"item": "zuqo", "amount": 4}, {"item": "bileyu", "amount": 1}, {"item": "yunu", "amount": 6}], "research": "zuqo-conduit", "category": "liquid", "liquidCapacity": 26704, "hasLiquids": true}

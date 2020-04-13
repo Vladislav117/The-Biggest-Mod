@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small diha solar panel", "description": "...", "size": 1, "health": 285, "requirements": [{"item": "diha", "amount": 6}, {"item": "jejypu", "amount": 19}, {"item": "bobowe", "amount": 10}], "research": "diha-factory", "powerProduction": 1.977726676406845, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vaso bridge conveyor", "description": "", "health": 6, "range": 15, "speed": 6, "bufferCapacity": 18, "requirements": [{"item": "vaso", "amount": 1}, {"item": "hocode", "amount": 5}], "research": "vaso-conveyor", "category": "distribution", "size": 1}

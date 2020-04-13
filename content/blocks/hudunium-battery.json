@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hudunium battery", "description": "...", "size": 3, "health": 248, "requirements": [{"item": "hudunium", "amount": 8}, {"item": "dayumo", "amount": 16}, {"item": "coqinium", "amount": 3}], "research": "hudunium-factory", "consumes": {"powerBuffered": 2710}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xedorinium underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "xedorinium", "amount": 2}, {"item": "gonu", "amount": 3}], "research": "xedorinium-conveyor", "category": "distribution", "invert": false}

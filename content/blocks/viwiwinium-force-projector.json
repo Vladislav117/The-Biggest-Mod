@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "viwiwinium force projector", "description": "...", "health": 100, "size": 3, "consumes": {"power": 5.0, "item": "viwiwinium"}, "requirements": [{"item": "viwiwinium", "amount": 14}, {"item": "kery", "amount": 7}, {"item": "typi", "amount": 9}], "research": "viwiwinium-factory", "category": "effect"}

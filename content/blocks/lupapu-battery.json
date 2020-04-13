@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lupapu battery", "description": "...", "size": 3, "health": 174, "requirements": [{"item": "lupapu", "amount": 1}, {"item": "vipybi", "amount": 4}, {"item": "zeqonium", "amount": 6}], "research": "lupapu-factory", "consumes": {"powerBuffered": 9081}, "category": "power"}

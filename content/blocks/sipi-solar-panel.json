@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sipi solar panel", "description": "...", "size": 3, "health": 78, "requirements": [{"item": "sipi", "amount": 5}, {"item": "mywa", "amount": 14}, {"item": "jyzywonium", "amount": 2}], "research": "sipi-factory", "powerProduction": 0.04543151612342467, "category": "power"}

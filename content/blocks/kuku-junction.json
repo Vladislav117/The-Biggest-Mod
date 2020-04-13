@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kuku junction", "description": "...", "health": 9, "speed": 16, "capacity": 5, "size": 1, "requirements": [{"item": "kuku", "amount": 4}, {"item": "jaweki", "amount": 3}], "research": "kuku-conveyor", "category": "distribution"}

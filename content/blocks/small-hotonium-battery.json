@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hotonium battery", "description": "...", "size": 1, "health": 255, "requirements": [{"item": "hotonium", "amount": 17}, {"item": "tedi", "amount": 7}, {"item": "zija", "amount": 7}], "research": "hotonium-factory", "consumes": {"powerBuffered": 1192}, "category": "power"}

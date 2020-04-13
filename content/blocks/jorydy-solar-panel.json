@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jorydy solar panel", "description": "...", "size": 3, "health": 252, "requirements": [{"item": "jorydy", "amount": 1}, {"item": "yamyri", "amount": 15}, {"item": "hibire", "amount": 7}], "research": "jorydy-factory", "powerProduction": 2.9455750101142772, "category": "power"}

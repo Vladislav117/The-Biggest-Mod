@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ridu inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "ridu", "amount": 2}, {"item": "graphite", "amount": 3}], "research": "ridu-conveyor", "category": "distribution", "invert": true}

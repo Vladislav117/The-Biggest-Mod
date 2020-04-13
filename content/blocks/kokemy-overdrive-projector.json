@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "kokemy overdrive projector", "description": "...", "health": 115, "consumes": {"power": 3.0, "item": "kokemy"}, "size": 2, "requirements": [{"item": "kokemy", "amount": 10}, {"item": "bajenium", "amount": 7}, {"item": "busu", "amount": 5}], "research": "kokemy-factory", "category": "effect"}

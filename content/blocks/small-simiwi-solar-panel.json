@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small simiwi solar panel", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "simiwi", "amount": 5}, {"item": "lyfydy", "amount": 12}, {"item": "paky", "amount": 10}], "research": "simiwi-factory", "powerProduction": 1.9562953335830788, "category": "power"}

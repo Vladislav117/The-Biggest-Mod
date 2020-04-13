@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ruginium junction", "description": "...", "health": 14, "speed": 12, "capacity": 15, "size": 1, "requirements": [{"item": "ruginium", "amount": 4}, {"item": "jihanium", "amount": 1}], "research": "ruginium-conveyor", "category": "distribution"}

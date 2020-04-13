@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "poxa power node", "description": "...", "size": 2, "health": 421, "requirements": [{"item": "poxa", "amount": 16}, {"item": "zehonium", "amount": 12}, {"item": "dugi", "amount": 4}], "research": "poxa-factory", "maxNodes": 42, "laserRange": 30, "category": "power"}

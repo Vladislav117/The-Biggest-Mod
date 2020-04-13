@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "baquyo power node", "description": "...", "size": 2, "health": 110, "requirements": [{"item": "baquyo", "amount": 1}, {"item": "laso", "amount": 19}, {"item": "vuzoha", "amount": 1}], "research": "baquyo-factory", "maxNodes": 36, "laserRange": 5, "category": "power"}

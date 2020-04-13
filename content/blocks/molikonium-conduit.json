@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "molikonium conduit", "description": "...", "health": 60, "requirements": [{"item": "molikonium", "amount": 6}, {"item": "peno", "amount": 3}, {"item": "wediyu", "amount": 7}], "liquidCapacity": 17, "liquidPressure": 6, "research": "molikonium-factory", "category": "liquid"}

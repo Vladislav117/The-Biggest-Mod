@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lybazi liquid tank", "description": "...", "health": 380, "size": 3, "requirements": [{"item": "lybazi", "amount": 3}, {"item": "wekami", "amount": 20}, {"item": "qipy", "amount": 7}], "research": "lybazi-conduit", "category": "liquid", "liquidCapacity": 9014, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zori junction", "description": "...", "health": 15, "speed": 18, "capacity": 15, "size": 1, "requirements": [{"item": "zori", "amount": 4}, {"item": "wutigo", "amount": 5}], "research": "zori-conveyor", "category": "distribution"}

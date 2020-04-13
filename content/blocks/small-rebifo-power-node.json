@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rebifo power node", "description": "...", "size": 1, "health": 285, "requirements": [{"item": "rebifo", "amount": 18}, {"item": "jeyanium", "amount": 18}, {"item": "geguqi", "amount": 7}], "research": "rebifo-factory", "maxNodes": 2, "laserRange": 13, "category": "power"}

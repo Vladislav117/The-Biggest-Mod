@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qoxida power node", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "qoxida", "amount": 20}, {"item": "gyporu", "amount": 3}, {"item": "kofynium", "amount": 5}], "research": "qoxida-factory", "maxNodes": 27, "laserRange": 14, "category": "power"}

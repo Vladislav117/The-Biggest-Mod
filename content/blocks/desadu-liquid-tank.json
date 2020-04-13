@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "desadu liquid tank", "description": "...", "health": 204, "size": 3, "requirements": [{"item": "desadu", "amount": 2}, {"item": "cafe", "amount": 1}, {"item": "suvi", "amount": 3}], "research": "desadu-conduit", "category": "liquid", "liquidCapacity": 79461, "hasLiquids": true}

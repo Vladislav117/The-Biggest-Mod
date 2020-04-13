@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xala battery", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "xala", "amount": 10}, {"item": "pibu", "amount": 13}, {"item": "tixanu", "amount": 1}], "research": "xala-factory", "consumes": {"powerBuffered": 3752}, "category": "power"}

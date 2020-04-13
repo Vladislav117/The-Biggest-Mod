@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qapi drill", "description": "...", "size": 2, "health": 223, "tier": 1, "drillTime": 6, "consumes": {"power": 12}, "requirements": [{"item": "qapi", "amount": 15}, {"item": "lesoni", "amount": 14}, {"item": "feyyqe", "amount": 3}], "research": "qapi-factory", "category": "production"}

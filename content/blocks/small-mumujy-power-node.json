@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mumujy power node", "description": "...", "size": 1, "health": 242, "requirements": [{"item": "mumujy", "amount": 14}, {"item": "hihunium", "amount": 2}, {"item": "jihanium", "amount": 6}], "research": "mumujy-factory", "maxNodes": 24, "laserRange": 5, "category": "power"}

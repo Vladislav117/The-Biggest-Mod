@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small lycyqe solar panel", "description": "...", "size": 1, "health": 59, "requirements": [{"item": "lycyqe", "amount": 10}, {"item": "qokenium", "amount": 15}, {"item": "garyda", "amount": 8}], "research": "lycyqe-factory", "powerProduction": 0.5417509578923287, "category": "power"}

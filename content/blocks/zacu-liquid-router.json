@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zacu liquid router", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "zacu", "amount": 7}, {"item": "dohiye", "amount": 11}, {"item": "befunium", "amount": 8}], "research": "zacu-conduit", "liquidCapacity": 10, "category": "liquid"}

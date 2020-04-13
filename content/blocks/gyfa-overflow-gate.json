@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gyfa overflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "gyfa", "amount": 1}, {"item": "mibyzo", "amount": 2}], "research": "gyfa-conveyor", "category": "distribution", "invert": false}

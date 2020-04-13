@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hytitenium battery", "description": "...", "size": 1, "health": 316, "requirements": [{"item": "hytitenium", "amount": 5}, {"item": "menugonium", "amount": 1}, {"item": "fexenium", "amount": 8}], "research": "hytitenium-factory", "consumes": {"powerBuffered": 1296}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zadi junction", "description": "...", "health": 37, "speed": 5, "capacity": 12, "size": 1, "requirements": [{"item": "zadi", "amount": 5}, {"item": "koyiwi", "amount": 4}], "research": "zadi-conveyor", "category": "distribution"}

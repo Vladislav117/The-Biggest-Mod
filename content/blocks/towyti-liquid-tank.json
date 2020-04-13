@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "towyti liquid tank", "description": "...", "health": 406, "size": 3, "requirements": [{"item": "towyti", "amount": 7}, {"item": "jicefu", "amount": 15}, {"item": "beniyi", "amount": 6}], "research": "towyti-conduit", "category": "liquid", "liquidCapacity": 17472, "hasLiquids": true}

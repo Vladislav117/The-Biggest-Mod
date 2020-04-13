@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wabenium battery", "description": "...", "size": 1, "health": 265, "requirements": [{"item": "wabenium", "amount": 18}, {"item": "gola", "amount": 11}, {"item": "koci", "amount": 8}], "research": "wabenium-factory", "consumes": {"powerBuffered": 873}, "category": "power"}

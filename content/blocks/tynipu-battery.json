@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tynipu battery", "description": "...", "size": 3, "health": 198, "requirements": [{"item": "tynipu", "amount": 1}, {"item": "zyhyne", "amount": 1}, {"item": "rajela", "amount": 10}], "research": "tynipu-factory", "consumes": {"powerBuffered": 3196}, "category": "power"}

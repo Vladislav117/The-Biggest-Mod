@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "zawo conveyor", "description": "...", "health": 150, "requirements": [{"item": "zawo", "amount": 5}, {"item": "syre", "amount": 7}], "speed": 0.3416606944403072, "research": "zawo-factory", "category": "distribution"}

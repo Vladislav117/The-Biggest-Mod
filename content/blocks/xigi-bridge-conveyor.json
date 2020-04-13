@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xigi bridge conveyor", "description": "", "health": 21, "range": 15, "speed": 17, "bufferCapacity": 17, "requirements": [{"item": "xigi", "amount": 2}, {"item": "rilo", "amount": 5}], "research": "xigi-conveyor", "category": "distribution", "size": 1}

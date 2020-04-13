@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "soguve overdrive projector", "description": "...", "health": 86, "consumes": {"power": 3.0, "item": "soguve"}, "size": 2, "requirements": [{"item": "soguve", "amount": 6}, {"item": "covifinium", "amount": 14}, {"item": "xozime", "amount": 6}], "research": "soguve-factory", "category": "effect"}

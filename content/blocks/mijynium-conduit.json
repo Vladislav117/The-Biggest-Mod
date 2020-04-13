@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "mijynium conduit", "description": "...", "health": 200, "requirements": [{"item": "mijynium", "amount": 16}, {"item": "nimy", "amount": 5}, {"item": "tuzy", "amount": 8}], "liquidCapacity": 33, "liquidPressure": 2, "research": "mijynium-factory", "category": "liquid"}

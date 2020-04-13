@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "duvi conduit", "description": "...", "health": 29, "requirements": [{"item": "duvi", "amount": 16}, {"item": "mygi", "amount": 8}, {"item": "dyjami", "amount": 4}], "liquidCapacity": 45, "liquidPressure": 5, "research": "duvi-factory", "category": "liquid"}

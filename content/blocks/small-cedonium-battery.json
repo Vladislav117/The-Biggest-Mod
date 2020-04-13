@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small cedonium battery", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "cedonium", "amount": 13}, {"item": "vewavu", "amount": 18}, {"item": "cuda", "amount": 10}], "research": "cedonium-factory", "consumes": {"powerBuffered": 2101}, "category": "power"}

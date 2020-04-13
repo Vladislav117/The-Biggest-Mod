@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "dycimi overdrive projector", "description": "...", "health": 78, "consumes": {"power": 3.0, "item": "dycimi"}, "size": 2, "requirements": [{"item": "dycimi", "amount": 8}, {"item": "seyuwa", "amount": 19}, {"item": "thorium", "amount": 5}], "research": "dycimi-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "loda overflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "loda", "amount": 3}, {"item": "cavuyi", "amount": 4}], "research": "loda-conveyor", "category": "distribution", "invert": false}

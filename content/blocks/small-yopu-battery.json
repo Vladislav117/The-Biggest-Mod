@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yopu battery", "description": "...", "size": 1, "health": 154, "requirements": [{"item": "yopu", "amount": 7}, {"item": "nygemonium", "amount": 19}, {"item": "kyyotinium", "amount": 9}], "research": "yopu-factory", "consumes": {"powerBuffered": 2302}, "category": "power"}

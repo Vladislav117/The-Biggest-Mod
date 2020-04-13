@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qegy battery", "description": "...", "size": 1, "health": 216, "requirements": [{"item": "qegy", "amount": 14}, {"item": "kytuzynium", "amount": 18}, {"item": "qesinium", "amount": 8}], "research": "qegy-factory", "consumes": {"powerBuffered": 2637}, "category": "power"}

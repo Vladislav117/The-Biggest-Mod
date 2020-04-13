@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wicy conduit", "description": "...", "health": 45, "requirements": [{"item": "wicy", "amount": 2}, {"item": "vuhu", "amount": 16}, {"item": "xevenium", "amount": 8}], "liquidCapacity": 27, "liquidPressure": 7, "research": "wicy-factory", "category": "liquid"}

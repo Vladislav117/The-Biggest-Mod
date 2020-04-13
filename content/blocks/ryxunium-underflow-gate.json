@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ryxunium underflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "ryxunium", "amount": 2}, {"item": "jihanium", "amount": 5}], "research": "ryxunium-conveyor", "category": "distribution", "invert": false}

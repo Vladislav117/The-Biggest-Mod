@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nodi underflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "nodi", "amount": 2}, {"item": "pojesu", "amount": 2}], "research": "nodi-conveyor", "category": "distribution", "invert": false}

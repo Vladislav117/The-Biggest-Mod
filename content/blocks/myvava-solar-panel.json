@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "myvava solar panel", "description": "...", "size": 3, "health": 341, "requirements": [{"item": "myvava", "amount": 18}, {"item": "togi", "amount": 6}, {"item": "norydo", "amount": 1}], "research": "myvava-factory", "powerProduction": 0.1559732123199813, "category": "power"}

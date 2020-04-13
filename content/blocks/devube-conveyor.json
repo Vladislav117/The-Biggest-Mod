@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "devube conveyor", "description": "...", "health": 24, "requirements": [{"item": "devube", "amount": 9}, {"item": "xejo", "amount": 4}], "speed": 0.2246305760883318, "research": "devube-factory", "category": "distribution"}

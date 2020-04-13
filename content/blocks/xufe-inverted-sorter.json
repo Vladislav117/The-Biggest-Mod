@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xufe inverted sorter", "description": ",...", "health": 48, "size": 1, "requirements": [{"item": "xufe", "amount": 1}, {"item": "luki", "amount": 1}], "research": "xufe-conveyor", "category": "distribution", "invert": true}

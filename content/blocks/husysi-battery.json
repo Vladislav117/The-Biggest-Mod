@@ -1,0 +1,1 @@
+{"type": "battery", "name": "husysi battery", "description": "...", "size": 3, "health": 367, "requirements": [{"item": "husysi", "amount": 5}, {"item": "getolu", "amount": 10}, {"item": "leviye", "amount": 6}], "research": "husysi-factory", "consumes": {"powerBuffered": 8376}, "category": "power"}

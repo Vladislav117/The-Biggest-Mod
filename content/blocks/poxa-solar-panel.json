@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "poxa solar panel", "description": "...", "size": 3, "health": 326, "requirements": [{"item": "poxa", "amount": 11}, {"item": "doluka", "amount": 16}, {"item": "kacose", "amount": 1}], "research": "poxa-factory", "powerProduction": 1.618662925778153, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kego solar panel", "description": "...", "size": 1, "health": 213, "requirements": [{"item": "kego", "amount": 9}, {"item": "riwunium", "amount": 14}, {"item": "wifu", "amount": 8}], "research": "kego-factory", "powerProduction": 0.9431941024079912, "category": "power"}

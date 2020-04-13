@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gado battery", "description": "...", "size": 3, "health": 330, "requirements": [{"item": "gado", "amount": 16}, {"item": "hugevinium", "amount": 11}, {"item": "locu", "amount": 9}], "research": "gado-factory", "consumes": {"powerBuffered": 9424}, "category": "power"}

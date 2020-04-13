@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "mifynium conveyor", "description": "...", "health": 30, "requirements": [{"item": "mifynium", "amount": 4}, {"item": "harugenium", "amount": 10}], "speed": 0.29586278132327276, "research": "mifynium-factory", "category": "distribution"}

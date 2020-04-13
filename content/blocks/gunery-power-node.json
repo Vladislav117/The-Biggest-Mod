@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gunery power node", "description": "...", "size": 2, "health": 111, "requirements": [{"item": "gunery", "amount": 14}, {"item": "lowocanium", "amount": 10}, {"item": "fepiva", "amount": 1}], "research": "gunery-factory", "maxNodes": 29, "laserRange": 12, "category": "power"}

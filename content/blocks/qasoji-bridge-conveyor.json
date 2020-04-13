@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qasoji bridge conveyor", "description": "", "health": 2, "range": 15, "speed": 10, "bufferCapacity": 25, "requirements": [{"item": "qasoji", "amount": 1}, {"item": "xilo", "amount": 1}], "research": "qasoji-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lumo conduit", "description": "...", "health": 32, "requirements": [{"item": "lumo", "amount": 4}, {"item": "pije", "amount": 16}, {"item": "gahunium", "amount": 5}], "liquidCapacity": 4, "liquidPressure": 10, "research": "lumo-factory", "category": "liquid"}

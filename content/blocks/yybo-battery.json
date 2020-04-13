@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yybo battery", "description": "...", "size": 3, "health": 117, "requirements": [{"item": "yybo", "amount": 11}, {"item": "wycumu", "amount": 7}, {"item": "neloto", "amount": 8}], "research": "yybo-factory", "consumes": {"powerBuffered": 7642}, "category": "power"}

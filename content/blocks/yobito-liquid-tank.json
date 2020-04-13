@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yobito liquid tank", "description": "...", "health": 635, "size": 3, "requirements": [{"item": "yobito", "amount": 3}, {"item": "gydexy", "amount": 20}, {"item": "zufo", "amount": 4}], "research": "yobito-conduit", "category": "liquid", "liquidCapacity": 7774, "hasLiquids": true}

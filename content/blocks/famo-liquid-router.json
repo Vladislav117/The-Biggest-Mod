@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "famo liquid router", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "famo", "amount": 2}, {"item": "tavu", "amount": 10}, {"item": "xojinium", "amount": 4}], "research": "famo-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sohe inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "sohe", "amount": 1}, {"item": "wareginium", "amount": 4}], "research": "sohe-conveyor", "category": "distribution", "invert": true}

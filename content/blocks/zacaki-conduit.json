@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zacaki conduit", "description": "...", "health": 46, "requirements": [{"item": "zacaki", "amount": 10}, {"item": "yafenium", "amount": 6}, {"item": "qepyvonium", "amount": 6}], "liquidCapacity": 21, "liquidPressure": 4, "research": "zacaki-factory", "category": "liquid"}

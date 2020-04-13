@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lewana overflow gate", "description": "...", "health": 8, "size": 1, "requirements": [{"item": "lewana", "amount": 3}, {"item": "zocumo", "amount": 1}], "research": "lewana-conveyor", "category": "distribution", "invert": false}

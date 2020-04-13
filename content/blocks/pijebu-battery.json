@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pijebu battery", "description": "...", "size": 3, "health": 160, "requirements": [{"item": "pijebu", "amount": 11}, {"item": "wiba", "amount": 19}, {"item": "fyvuyy", "amount": 2}], "research": "pijebu-factory", "consumes": {"powerBuffered": 1356}, "category": "power"}

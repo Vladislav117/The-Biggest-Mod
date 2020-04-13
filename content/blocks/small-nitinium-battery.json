@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nitinium battery", "description": "...", "size": 1, "health": 127, "requirements": [{"item": "nitinium", "amount": 6}, {"item": "joqopy", "amount": 11}, {"item": "fulyzynium", "amount": 8}], "research": "nitinium-factory", "consumes": {"powerBuffered": 1587}, "category": "power"}

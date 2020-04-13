@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zymaginium inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "zymaginium", "amount": 3}, {"item": "gapihe", "amount": 3}], "research": "zymaginium-conveyor", "category": "distribution", "invert": true}

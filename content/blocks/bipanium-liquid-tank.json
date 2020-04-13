@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bipanium liquid tank", "description": "...", "health": 653, "size": 3, "requirements": [{"item": "bipanium", "amount": 8}, {"item": "qyry", "amount": 15}, {"item": "mylenium", "amount": 2}], "research": "bipanium-conduit", "category": "liquid", "liquidCapacity": 76569, "hasLiquids": true}

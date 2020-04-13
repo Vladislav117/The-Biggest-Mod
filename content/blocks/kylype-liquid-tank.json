@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kylype liquid tank", "description": "...", "health": 385, "size": 3, "requirements": [{"item": "kylype", "amount": 11}, {"item": "yuno", "amount": 16}, {"item": "lidinium", "amount": 5}], "research": "kylype-conduit", "category": "liquid", "liquidCapacity": 29141, "hasLiquids": true}

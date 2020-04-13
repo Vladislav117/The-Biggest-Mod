@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yusona power node", "description": "...", "size": 2, "health": 334, "requirements": [{"item": "yusona", "amount": 15}, {"item": "kipybi", "amount": 13}, {"item": "xyxevynium", "amount": 5}], "research": "yusona-factory", "maxNodes": 57, "laserRange": 18, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mygaso battery", "description": "...", "size": 3, "health": 123, "requirements": [{"item": "mygaso", "amount": 13}, {"item": "cedonium", "amount": 18}, {"item": "yydaqe", "amount": 7}], "research": "mygaso-factory", "consumes": {"powerBuffered": 5222}, "category": "power"}

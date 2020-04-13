@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zuqo power node", "description": "...", "size": 1, "health": 39, "requirements": [{"item": "zuqo", "amount": 12}, {"item": "gunery", "amount": 3}, {"item": "nekyse", "amount": 10}], "research": "zuqo-factory", "maxNodes": 29, "laserRange": 13, "category": "power"}

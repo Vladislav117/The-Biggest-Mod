@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "baqilo power node", "description": "...", "size": 2, "health": 692, "requirements": [{"item": "baqilo", "amount": 19}, {"item": "xexumi", "amount": 14}, {"item": "hetyjo", "amount": 10}], "research": "baqilo-factory", "maxNodes": 58, "laserRange": 17, "category": "power"}

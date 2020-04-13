@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lido battery", "description": "...", "size": 3, "health": 218, "requirements": [{"item": "lido", "amount": 20}, {"item": "nofezi", "amount": 3}, {"item": "jepinium", "amount": 6}], "research": "lido-factory", "consumes": {"powerBuffered": 4842}, "category": "power"}

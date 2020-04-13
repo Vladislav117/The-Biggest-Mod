@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lyseju liquid tank", "description": "...", "health": 542, "size": 3, "requirements": [{"item": "lyseju", "amount": 18}, {"item": "wuna", "amount": 2}, {"item": "puti", "amount": 2}], "research": "lyseju-conduit", "category": "liquid", "liquidCapacity": 113938, "hasLiquids": true}

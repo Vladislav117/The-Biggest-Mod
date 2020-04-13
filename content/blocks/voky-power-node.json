@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "voky power node", "description": "...", "size": 2, "health": 718, "requirements": [{"item": "voky", "amount": 3}, {"item": "wino", "amount": 15}, {"item": "zycinium", "amount": 8}], "research": "voky-factory", "maxNodes": 12, "laserRange": 12, "category": "power"}

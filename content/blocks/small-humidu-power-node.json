@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small humidu power node", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "humidu", "amount": 16}, {"item": "gupyfi", "amount": 10}, {"item": "coqinium", "amount": 10}], "research": "humidu-factory", "maxNodes": 25, "laserRange": 15, "category": "power"}

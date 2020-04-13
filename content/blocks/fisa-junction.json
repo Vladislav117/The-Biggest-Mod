@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fisa junction", "description": "...", "health": 21, "speed": 9, "capacity": 5, "size": 1, "requirements": [{"item": "fisa", "amount": 4}, {"item": "tatavo", "amount": 2}], "research": "fisa-conveyor", "category": "distribution"}

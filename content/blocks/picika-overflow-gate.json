@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "picika overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "picika", "amount": 5}, {"item": "nezexe", "amount": 2}], "research": "picika-conveyor", "category": "distribution", "invert": false}

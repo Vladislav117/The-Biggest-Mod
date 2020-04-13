@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zikeve power node", "description": "...", "size": 1, "health": 309, "requirements": [{"item": "zikeve", "amount": 5}, {"item": "nyma", "amount": 12}, {"item": "giho", "amount": 7}], "research": "zikeve-factory", "maxNodes": 27, "laserRange": 20, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bocu battery", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "bocu", "amount": 10}, {"item": "simiwi", "amount": 14}, {"item": "lifuke", "amount": 1}], "research": "bocu-factory", "consumes": {"powerBuffered": 1312}, "category": "power"}

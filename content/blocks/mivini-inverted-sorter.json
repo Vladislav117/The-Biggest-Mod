@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mivini inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "mivini", "amount": 2}, {"item": "mabyra", "amount": 1}], "research": "mivini-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mifynium liquid router", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "mifynium", "amount": 9}, {"item": "cigifi", "amount": 12}, {"item": "nido", "amount": 4}], "research": "mifynium-conduit", "liquidCapacity": 10, "category": "liquid"}

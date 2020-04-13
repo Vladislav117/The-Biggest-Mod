@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "vurewe overdrive projector", "description": "...", "health": 115, "consumes": {"power": 3.0, "item": "vurewe"}, "size": 2, "requirements": [{"item": "vurewe", "amount": 12}, {"item": "qyyalo", "amount": 20}, {"item": "nenu", "amount": 4}], "research": "vurewe-factory", "category": "effect"}

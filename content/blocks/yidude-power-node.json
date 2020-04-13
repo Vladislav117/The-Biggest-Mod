@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yidude power node", "description": "...", "size": 2, "health": 281, "requirements": [{"item": "yidude", "amount": 7}, {"item": "felizenium", "amount": 17}, {"item": "dimysynium", "amount": 2}], "research": "yidude-factory", "maxNodes": 58, "laserRange": 18, "category": "power"}

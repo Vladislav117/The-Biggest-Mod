@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cecuvinium battery", "description": "...", "size": 3, "health": 257, "requirements": [{"item": "cecuvinium", "amount": 3}, {"item": "dezi", "amount": 10}, {"item": "kute", "amount": 8}], "research": "cecuvinium-factory", "consumes": {"powerBuffered": 808}, "category": "power"}

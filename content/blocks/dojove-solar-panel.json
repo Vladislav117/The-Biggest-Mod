@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dojove solar panel", "description": "...", "size": 3, "health": 399, "requirements": [{"item": "dojove", "amount": 6}, {"item": "qepusenium", "amount": 20}, {"item": "surenium", "amount": 7}], "research": "dojove-factory", "powerProduction": 0.5870742714361218, "category": "power"}

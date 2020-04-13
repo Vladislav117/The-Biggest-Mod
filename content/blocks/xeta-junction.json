@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xeta junction", "description": "...", "health": 4, "speed": 20, "capacity": 6, "size": 1, "requirements": [{"item": "xeta", "amount": 1}, {"item": "jyzywy", "amount": 5}], "research": "xeta-conveyor", "category": "distribution"}

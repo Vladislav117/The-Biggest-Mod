@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hozenium battery", "description": "...", "size": 3, "health": 381, "requirements": [{"item": "hozenium", "amount": 11}, {"item": "qyhoqa", "amount": 16}, {"item": "zyqita", "amount": 2}], "research": "hozenium-factory", "consumes": {"powerBuffered": 3524}, "category": "power"}

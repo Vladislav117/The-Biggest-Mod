@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mafapu liquid router", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "mafapu", "amount": 14}, {"item": "potesonium", "amount": 6}, {"item": "vyfyci", "amount": 7}], "research": "mafapu-conduit", "liquidCapacity": 10, "category": "liquid"}

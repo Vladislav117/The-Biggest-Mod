@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gakipy underflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "gakipy", "amount": 4}, {"item": "coqinium", "amount": 5}], "research": "gakipy-conveyor", "category": "distribution", "invert": false}

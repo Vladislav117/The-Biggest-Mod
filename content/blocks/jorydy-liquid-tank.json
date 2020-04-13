@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jorydy liquid tank", "description": "...", "health": 419, "size": 3, "requirements": [{"item": "jorydy", "amount": 2}, {"item": "zuwabo", "amount": 8}, {"item": "fecufy", "amount": 3}], "research": "jorydy-conduit", "category": "liquid", "liquidCapacity": 11299, "hasLiquids": true}

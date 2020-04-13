@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zome conduit", "description": "...", "health": 60, "requirements": [{"item": "zome", "amount": 14}, {"item": "zadohe", "amount": 9}, {"item": "giqonium", "amount": 2}], "liquidCapacity": 12, "liquidPressure": 3, "research": "zome-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "timy solar panel", "description": "...", "size": 3, "health": 214, "requirements": [{"item": "timy", "amount": 18}, {"item": "devube", "amount": 13}, {"item": "qucudi", "amount": 2}], "research": "timy-factory", "powerProduction": 0.7068702577879842, "category": "power"}

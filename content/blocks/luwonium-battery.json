@@ -1,0 +1,1 @@
+{"type": "battery", "name": "luwonium battery", "description": "...", "size": 3, "health": 10, "requirements": [{"item": "luwonium", "amount": 13}, {"item": "tisanium", "amount": 13}, {"item": "dyde", "amount": 1}], "research": "luwonium-factory", "consumes": {"powerBuffered": 5115}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jijaka solar panel", "description": "...", "size": 3, "health": 308, "requirements": [{"item": "jijaka", "amount": 9}, {"item": "xaya", "amount": 1}, {"item": "nano", "amount": 2}], "research": "jijaka-factory", "powerProduction": 0.12047698880609536, "category": "power"}

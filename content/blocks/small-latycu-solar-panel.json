@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small latycu solar panel", "description": "...", "size": 1, "health": 364, "requirements": [{"item": "latycu", "amount": 7}, {"item": "pufere", "amount": 5}, {"item": "kovi", "amount": 6}], "research": "latycu-factory", "powerProduction": 1.322722698938044, "category": "power"}

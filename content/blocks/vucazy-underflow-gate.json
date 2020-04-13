@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vucazy underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "vucazy", "amount": 4}, {"item": "ropa", "amount": 1}], "research": "vucazy-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small viva solar panel", "description": "...", "size": 1, "health": 66, "requirements": [{"item": "viva", "amount": 19}, {"item": "pyzemu", "amount": 5}, {"item": "yocenium", "amount": 9}], "research": "viva-factory", "powerProduction": 4.059411337265437, "category": "power"}

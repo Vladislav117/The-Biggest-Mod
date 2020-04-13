@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kyxiwi power node", "description": "...", "size": 2, "health": 279, "requirements": [{"item": "kyxiwi", "amount": 3}, {"item": "zytukenium", "amount": 15}, {"item": "zoqivanium", "amount": 3}], "research": "kyxiwi-factory", "maxNodes": 49, "laserRange": 12, "category": "power"}

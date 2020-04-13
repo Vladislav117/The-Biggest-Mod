@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "siga conduit", "description": "...", "health": 114, "requirements": [{"item": "siga", "amount": 13}, {"item": "dojove", "amount": 1}, {"item": "wuronium", "amount": 4}], "liquidCapacity": 46, "liquidPressure": 3, "research": "siga-factory", "category": "liquid"}

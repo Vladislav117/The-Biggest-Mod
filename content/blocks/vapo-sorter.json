@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vapo sorter", "description": ",...", "health": 21, "size": 1, "requirements": [{"item": "vapo", "amount": 4}, {"item": "heqywanium", "amount": 5}], "research": "vapo-conveyor", "category": "distribution", "invert": false}

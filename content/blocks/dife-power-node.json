@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dife power node", "description": "...", "size": 2, "health": 463, "requirements": [{"item": "dife", "amount": 8}, {"item": "xaji", "amount": 12}, {"item": "foqunium", "amount": 10}], "research": "dife-factory", "maxNodes": 43, "laserRange": 16, "category": "power"}

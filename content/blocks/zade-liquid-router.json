@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zade liquid router", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "zade", "amount": 18}, {"item": "nusenium", "amount": 11}, {"item": "zufi", "amount": 2}], "research": "zade-conduit", "liquidCapacity": 10, "category": "liquid"}

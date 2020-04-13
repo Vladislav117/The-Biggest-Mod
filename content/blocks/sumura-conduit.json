@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sumura conduit", "description": "...", "health": 96, "requirements": [{"item": "sumura", "amount": 17}, {"item": "zuhele", "amount": 12}, {"item": "leloyi", "amount": 9}], "liquidCapacity": 45, "liquidPressure": 10, "research": "sumura-factory", "category": "liquid"}

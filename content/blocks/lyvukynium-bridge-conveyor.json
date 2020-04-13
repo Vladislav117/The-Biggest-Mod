@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lyvukynium bridge conveyor", "description": "", "health": 34, "range": 2, "speed": 16, "bufferCapacity": 3, "requirements": [{"item": "lyvukynium", "amount": 3}, {"item": "pikoqi", "amount": 1}], "research": "lyvukynium-conveyor", "category": "distribution", "size": 1}

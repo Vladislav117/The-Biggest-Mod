@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kovu liquid tank", "description": "...", "health": 372, "size": 3, "requirements": [{"item": "kovu", "amount": 2}, {"item": "muqonium", "amount": 14}, {"item": "rahy", "amount": 3}], "research": "kovu-conduit", "category": "liquid", "liquidCapacity": 97070, "hasLiquids": true}

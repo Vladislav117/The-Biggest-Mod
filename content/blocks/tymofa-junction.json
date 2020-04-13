@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tymofa junction", "description": "...", "health": 20, "speed": 16, "capacity": 18, "size": 1, "requirements": [{"item": "tymofa", "amount": 2}, {"item": "sojile", "amount": 3}], "research": "tymofa-conveyor", "category": "distribution"}

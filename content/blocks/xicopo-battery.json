@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xicopo battery", "description": "...", "size": 3, "health": 188, "requirements": [{"item": "xicopo", "amount": 12}, {"item": "lifuvinium", "amount": 13}, {"item": "beqeyenium", "amount": 10}], "research": "xicopo-factory", "consumes": {"powerBuffered": 9952}, "category": "power"}

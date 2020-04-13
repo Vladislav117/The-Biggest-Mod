@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pagopy power node", "description": "...", "size": 2, "health": 563, "requirements": [{"item": "pagopy", "amount": 10}, {"item": "nudady", "amount": 8}, {"item": "gihalu", "amount": 10}], "research": "pagopy-factory", "maxNodes": 33, "laserRange": 29, "category": "power"}

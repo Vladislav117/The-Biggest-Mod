@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "buyogenium conduit", "description": "...", "health": 80, "requirements": [{"item": "buyogenium", "amount": 10}, {"item": "raqo", "amount": 11}, {"item": "kiyavu", "amount": 5}], "liquidCapacity": 10, "liquidPressure": 3, "research": "buyogenium-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sukanium battery", "description": "...", "size": 3, "health": 187, "requirements": [{"item": "sukanium", "amount": 9}, {"item": "nunanunium", "amount": 17}, {"item": "gytegy", "amount": 1}], "research": "sukanium-factory", "consumes": {"powerBuffered": 4555}, "category": "power"}

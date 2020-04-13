@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dygi liquid tank", "description": "...", "health": 267, "size": 3, "requirements": [{"item": "dygi", "amount": 8}, {"item": "ketanium", "amount": 3}, {"item": "riniqi", "amount": 5}], "research": "dygi-conduit", "category": "liquid", "liquidCapacity": 77183, "hasLiquids": true}

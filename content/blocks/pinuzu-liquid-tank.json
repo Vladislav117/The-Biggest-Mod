@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pinuzu liquid tank", "description": "...", "health": 291, "size": 3, "requirements": [{"item": "pinuzu", "amount": 14}, {"item": "ryti", "amount": 11}, {"item": "jejypu", "amount": 9}], "research": "pinuzu-conduit", "category": "liquid", "liquidCapacity": 52576, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qivoha liquid router", "description": "...", "size": 1, "health": 74, "requirements": [{"item": "qivoha", "amount": 1}, {"item": "zosi", "amount": 20}, {"item": "jumonium", "amount": 8}], "research": "qivoha-conduit", "liquidCapacity": 10, "category": "liquid"}

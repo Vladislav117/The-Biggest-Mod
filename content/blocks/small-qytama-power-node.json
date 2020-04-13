@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qytama power node", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "qytama", "amount": 19}, {"item": "rovaqa", "amount": 8}, {"item": "nyyonium", "amount": 7}], "research": "qytama-factory", "maxNodes": 27, "laserRange": 13, "category": "power"}

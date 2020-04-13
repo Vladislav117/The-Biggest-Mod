@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wana solar panel", "description": "...", "size": 1, "health": 163, "requirements": [{"item": "wana", "amount": 18}, {"item": "bexa", "amount": 3}, {"item": "gyporu", "amount": 10}], "research": "wana-factory", "powerProduction": 4.814369799965595, "category": "power"}

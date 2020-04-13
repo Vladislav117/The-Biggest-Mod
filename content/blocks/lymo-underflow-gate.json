@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lymo underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "lymo", "amount": 4}, {"item": "tujy", "amount": 3}], "research": "lymo-conveyor", "category": "distribution", "invert": false}

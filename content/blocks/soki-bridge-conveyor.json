@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "soki bridge conveyor", "description": "", "health": 27, "range": 15, "speed": 20, "bufferCapacity": 13, "requirements": [{"item": "soki", "amount": 4}, {"item": "fahi", "amount": 2}], "research": "soki-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rufi power node", "description": "...", "size": 1, "health": 342, "requirements": [{"item": "rufi", "amount": 2}, {"item": "noqewy", "amount": 5}, {"item": "xyko", "amount": 10}], "research": "rufi-factory", "maxNodes": 17, "laserRange": 11, "category": "power"}

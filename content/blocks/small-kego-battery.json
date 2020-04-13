@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kego battery", "description": "...", "size": 1, "health": 337, "requirements": [{"item": "kego", "amount": 18}, {"item": "pily", "amount": 2}, {"item": "bigi", "amount": 4}], "research": "kego-factory", "consumes": {"powerBuffered": 2395}, "category": "power"}

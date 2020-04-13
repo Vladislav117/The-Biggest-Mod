@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "raqo power node", "description": "...", "size": 2, "health": 71, "requirements": [{"item": "raqo", "amount": 10}, {"item": "ridu", "amount": 13}, {"item": "butuhi", "amount": 7}], "research": "raqo-factory", "maxNodes": 38, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vypeha inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "vypeha", "amount": 1}, {"item": "wiba", "amount": 1}], "research": "vypeha-conveyor", "category": "distribution", "invert": true}

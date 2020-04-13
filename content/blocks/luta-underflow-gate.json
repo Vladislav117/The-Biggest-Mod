@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "luta underflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "luta", "amount": 5}, {"item": "tyvaty", "amount": 1}], "research": "luta-conveyor", "category": "distribution", "invert": false}

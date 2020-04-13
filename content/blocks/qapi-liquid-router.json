@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qapi liquid router", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "qapi", "amount": 5}, {"item": "gakapa", "amount": 19}, {"item": "sore", "amount": 10}], "research": "qapi-conduit", "liquidCapacity": 10, "category": "liquid"}

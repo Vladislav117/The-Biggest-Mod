@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "locu conveyor", "description": "...", "health": 335, "requirements": [{"item": "locu", "amount": 7}, {"item": "nuko", "amount": 1}], "speed": 0.12891242528981428, "research": "locu-factory", "category": "distribution"}

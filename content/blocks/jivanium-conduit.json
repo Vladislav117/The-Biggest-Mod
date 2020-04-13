@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jivanium conduit", "description": "...", "health": 162, "requirements": [{"item": "jivanium", "amount": 16}, {"item": "bivucunium", "amount": 16}, {"item": "mapibi", "amount": 4}], "liquidCapacity": 50, "liquidPressure": 4, "research": "jivanium-factory", "category": "liquid"}

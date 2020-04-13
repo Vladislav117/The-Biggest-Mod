@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jyzy liquid tank", "description": "...", "health": 539, "size": 3, "requirements": [{"item": "jyzy", "amount": 5}, {"item": "byro", "amount": 15}, {"item": "bajenium", "amount": 2}], "research": "jyzy-conduit", "category": "liquid", "liquidCapacity": 14011, "hasLiquids": true}

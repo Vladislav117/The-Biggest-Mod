@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pypy conveyor", "description": "...", "health": 134, "requirements": [{"item": "pypy", "amount": 6}, {"item": "dugi", "amount": 4}], "speed": 0.3479632623391479, "research": "pypy-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bisy liquid tank", "description": "...", "health": 633, "size": 3, "requirements": [{"item": "bisy", "amount": 6}, {"item": "zoyasi", "amount": 9}, {"item": "vema", "amount": 4}], "research": "bisy-conduit", "category": "liquid", "liquidCapacity": 79899, "hasLiquids": true}

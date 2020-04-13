@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sifiwa junction", "description": "...", "health": 16, "speed": 17, "capacity": 12, "size": 1, "requirements": [{"item": "sifiwa", "amount": 3}, {"item": "zatire", "amount": 4}], "research": "sifiwa-conveyor", "category": "distribution"}

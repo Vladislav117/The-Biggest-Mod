@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xilu battery", "description": "...", "size": 1, "health": 140, "requirements": [{"item": "xilu", "amount": 7}, {"item": "yeyunonium", "amount": 6}, {"item": "metaglass", "amount": 10}], "research": "xilu-factory", "consumes": {"powerBuffered": 2865}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vusy liquid tank", "description": "...", "health": 125, "size": 3, "requirements": [{"item": "vusy", "amount": 8}, {"item": "tuzy", "amount": 11}, {"item": "nagu", "amount": 7}], "research": "vusy-conduit", "category": "liquid", "liquidCapacity": 108130, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small riyypu solar panel", "description": "...", "size": 1, "health": 165, "requirements": [{"item": "riyypu", "amount": 11}, {"item": "piwu", "amount": 7}, {"item": "kudyxe", "amount": 1}], "research": "riyypu-factory", "powerProduction": 1.4848967794543035, "category": "power"}

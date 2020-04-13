@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xinunium battery", "description": "...", "size": 3, "health": 132, "requirements": [{"item": "xinunium", "amount": 15}, {"item": "reju", "amount": 5}, {"item": "vaso", "amount": 5}], "research": "xinunium-factory", "consumes": {"powerBuffered": 9164}, "category": "power"}

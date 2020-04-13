@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jupygu power node", "description": "...", "size": 2, "health": 74, "requirements": [{"item": "jupygu", "amount": 2}, {"item": "xexumi", "amount": 5}, {"item": "movanium", "amount": 6}], "research": "jupygu-factory", "maxNodes": 38, "laserRange": 25, "category": "power"}

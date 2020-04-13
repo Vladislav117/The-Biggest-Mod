@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nitonium bridge conveyor", "description": "", "health": 4, "range": 12, "speed": 15, "bufferCapacity": 14, "requirements": [{"item": "nitonium", "amount": 4}, {"item": "dugi", "amount": 5}], "research": "nitonium-conveyor", "category": "distribution", "size": 1}

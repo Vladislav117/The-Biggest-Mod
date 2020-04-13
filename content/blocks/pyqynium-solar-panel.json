@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pyqynium solar panel", "description": "...", "size": 3, "health": 371, "requirements": [{"item": "pyqynium", "amount": 12}, {"item": "vema", "amount": 19}, {"item": "qudy", "amount": 9}], "research": "pyqynium-factory", "powerProduction": 1.0722622005808233, "category": "power"}

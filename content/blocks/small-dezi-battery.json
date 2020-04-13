@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dezi battery", "description": "...", "size": 1, "health": 127, "requirements": [{"item": "dezi", "amount": 13}, {"item": "pomagu", "amount": 9}, {"item": "byqymo", "amount": 8}], "research": "dezi-factory", "consumes": {"powerBuffered": 1980}, "category": "power"}

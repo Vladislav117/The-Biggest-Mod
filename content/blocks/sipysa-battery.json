@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sipysa battery", "description": "...", "size": 3, "health": 314, "requirements": [{"item": "sipysa", "amount": 14}, {"item": "wuce", "amount": 3}, {"item": "qoxu", "amount": 4}], "research": "sipysa-factory", "consumes": {"powerBuffered": 9649}, "category": "power"}

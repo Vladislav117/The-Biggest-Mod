@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "bide conveyor", "description": "...", "health": 225, "requirements": [{"item": "bide", "amount": 7}, {"item": "qyry", "amount": 2}], "speed": 0.06536000842239731, "research": "bide-factory", "category": "distribution"}

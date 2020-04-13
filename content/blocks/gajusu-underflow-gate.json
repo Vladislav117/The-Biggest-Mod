@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gajusu underflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "gajusu", "amount": 5}, {"item": "nupafu", "amount": 5}], "research": "gajusu-conveyor", "category": "distribution", "invert": false}

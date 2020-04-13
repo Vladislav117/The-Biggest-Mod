@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tyki battery", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "tyki", "amount": 19}, {"item": "woyu", "amount": 11}, {"item": "dimysynium", "amount": 7}], "research": "tyki-factory", "consumes": {"powerBuffered": 2782}, "category": "power"}

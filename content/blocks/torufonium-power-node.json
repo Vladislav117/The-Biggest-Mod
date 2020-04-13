@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "torufonium power node", "description": "...", "size": 2, "health": 208, "requirements": [{"item": "torufonium", "amount": 2}, {"item": "secybo", "amount": 20}, {"item": "minoxa", "amount": 7}], "research": "torufonium-factory", "maxNodes": 21, "laserRange": 30, "category": "power"}

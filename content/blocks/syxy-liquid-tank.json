@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "syxy liquid tank", "description": "...", "health": 637, "size": 3, "requirements": [{"item": "syxy", "amount": 15}, {"item": "cuso", "amount": 2}, {"item": "nifego", "amount": 2}], "research": "syxy-conduit", "category": "liquid", "liquidCapacity": 18619, "hasLiquids": true}

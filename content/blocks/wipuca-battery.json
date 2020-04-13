@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wipuca battery", "description": "...", "size": 3, "health": 279, "requirements": [{"item": "wipuca", "amount": 15}, {"item": "rupuvu", "amount": 14}, {"item": "vycici", "amount": 5}], "research": "wipuca-factory", "consumes": {"powerBuffered": 5832}, "category": "power"}

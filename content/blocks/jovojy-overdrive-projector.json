@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "jovojy overdrive projector", "description": "...", "health": 62, "consumes": {"power": 3.0, "item": "jovojy"}, "size": 2, "requirements": [{"item": "jovojy", "amount": 17}, {"item": "madosy", "amount": 5}, {"item": "cetemy", "amount": 3}], "research": "jovojy-factory", "category": "effect"}

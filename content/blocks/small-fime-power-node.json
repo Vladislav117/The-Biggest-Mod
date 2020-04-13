@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fime power node", "description": "...", "size": 1, "health": 375, "requirements": [{"item": "fime", "amount": 7}, {"item": "ligyxe", "amount": 14}, {"item": "kovi", "amount": 1}], "research": "fime-factory", "maxNodes": 6, "laserRange": 12, "category": "power"}

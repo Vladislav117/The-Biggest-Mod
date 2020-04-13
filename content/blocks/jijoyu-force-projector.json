@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "jijoyu force projector", "description": "...", "health": 135, "size": 3, "consumes": {"power": 5.0, "item": "jijoyu"}, "requirements": [{"item": "jijoyu", "amount": 18}, {"item": "samivi", "amount": 8}, {"item": "mozy", "amount": 8}], "research": "jijoyu-factory", "category": "effect"}

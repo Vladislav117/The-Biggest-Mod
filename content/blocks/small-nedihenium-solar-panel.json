@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nedihenium solar panel", "description": "...", "size": 1, "health": 297, "requirements": [{"item": "nedihenium", "amount": 12}, {"item": "qoha", "amount": 12}, {"item": "mabyra", "amount": 8}], "research": "nedihenium-factory", "powerProduction": 2.717702107856332, "category": "power"}

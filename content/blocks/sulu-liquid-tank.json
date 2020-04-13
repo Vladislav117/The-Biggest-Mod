@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sulu liquid tank", "description": "...", "health": 157, "size": 3, "requirements": [{"item": "sulu", "amount": 3}, {"item": "vesy", "amount": 11}, {"item": "ridu", "amount": 10}], "research": "sulu-conduit", "category": "liquid", "liquidCapacity": 34374, "hasLiquids": true}

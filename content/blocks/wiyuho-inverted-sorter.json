@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wiyuho inverted sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "wiyuho", "amount": 5}, {"item": "jiyomonium", "amount": 2}], "research": "wiyuho-conveyor", "category": "distribution", "invert": true}

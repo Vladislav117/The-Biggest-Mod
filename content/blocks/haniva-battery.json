@@ -1,0 +1,1 @@
+{"type": "battery", "name": "haniva battery", "description": "...", "size": 3, "health": 114, "requirements": [{"item": "haniva", "amount": 2}, {"item": "yamyri", "amount": 9}, {"item": "dugypa", "amount": 5}], "research": "haniva-factory", "consumes": {"powerBuffered": 6747}, "category": "power"}

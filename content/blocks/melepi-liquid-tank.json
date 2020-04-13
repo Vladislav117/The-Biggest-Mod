@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "melepi liquid tank", "description": "...", "health": 476, "size": 3, "requirements": [{"item": "melepi", "amount": 8}, {"item": "miqomy", "amount": 15}, {"item": "yidugonium", "amount": 3}], "research": "melepi-conduit", "category": "liquid", "liquidCapacity": 100279, "hasLiquids": true}

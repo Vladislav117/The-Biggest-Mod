@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tuse bridge conveyor", "description": "", "health": 36, "range": 11, "speed": 11, "bufferCapacity": 6, "requirements": [{"item": "tuse", "amount": 2}, {"item": "nazyfa", "amount": 3}], "research": "tuse-conveyor", "category": "distribution", "size": 1}

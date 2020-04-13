@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kawo liquid tank", "description": "...", "health": 579, "size": 3, "requirements": [{"item": "kawo", "amount": 19}, {"item": "wobuyu", "amount": 16}, {"item": "nuci", "amount": 4}], "research": "kawo-conduit", "category": "liquid", "liquidCapacity": 100496, "hasLiquids": true}

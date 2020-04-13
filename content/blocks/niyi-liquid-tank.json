@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "niyi liquid tank", "description": "...", "health": 405, "size": 3, "requirements": [{"item": "niyi", "amount": 12}, {"item": "qerobu", "amount": 10}, {"item": "giha", "amount": 5}], "research": "niyi-conduit", "category": "liquid", "liquidCapacity": 106110, "hasLiquids": true}

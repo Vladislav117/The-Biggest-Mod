@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kycuzo liquid tank", "description": "...", "health": 494, "size": 3, "requirements": [{"item": "kycuzo", "amount": 20}, {"item": "muhi", "amount": 18}, {"item": "tiyexenium", "amount": 3}], "research": "kycuzo-conduit", "category": "liquid", "liquidCapacity": 97393, "hasLiquids": true}

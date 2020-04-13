@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vipybi liquid tank", "description": "...", "health": 414, "size": 3, "requirements": [{"item": "vipybi", "amount": 19}, {"item": "dyzinium", "amount": 10}, {"item": "peyyha", "amount": 6}], "research": "vipybi-conduit", "category": "liquid", "liquidCapacity": 60693, "hasLiquids": true}

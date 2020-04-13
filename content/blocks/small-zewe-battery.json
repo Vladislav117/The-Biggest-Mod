@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zewe battery", "description": "...", "size": 1, "health": 81, "requirements": [{"item": "zewe", "amount": 17}, {"item": "kixy", "amount": 3}, {"item": "dyme", "amount": 3}], "research": "zewe-factory", "consumes": {"powerBuffered": 2013}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gekuna junction", "description": "...", "health": 33, "speed": 11, "capacity": 4, "size": 1, "requirements": [{"item": "gekuna", "amount": 1}, {"item": "donunium", "amount": 3}], "research": "gekuna-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zeyo inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "zeyo", "amount": 2}, {"item": "caxoni", "amount": 1}], "research": "zeyo-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "dyri power node", "description": "...", "size": 2, "health": 245, "requirements": [{"item": "dyri", "amount": 5}, {"item": "zoqa", "amount": 11}, {"item": "jyryze", "amount": 7}], "research": "dyri-factory", "maxNodes": 23, "laserRange": 9, "category": "power"}

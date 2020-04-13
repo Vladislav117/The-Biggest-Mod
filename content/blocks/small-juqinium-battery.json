@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small juqinium battery", "description": "...", "size": 1, "health": 155, "requirements": [{"item": "juqinium", "amount": 4}, {"item": "vuhu", "amount": 1}, {"item": "ruzeru", "amount": 8}], "research": "juqinium-factory", "consumes": {"powerBuffered": 2142}, "category": "power"}

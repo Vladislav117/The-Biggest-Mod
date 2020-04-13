@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vypufe overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "vypufe", "amount": 3}, {"item": "zypiqi", "amount": 2}], "research": "vypufe-conveyor", "category": "distribution", "invert": false}

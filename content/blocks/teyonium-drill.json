@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "teyonium drill", "description": "...", "size": 2, "health": 215, "tier": 2, "drillTime": 10, "consumes": {"power": 2}, "requirements": [{"item": "teyonium", "amount": 11}, {"item": "pojesu", "amount": 3}, {"item": "pyqynium", "amount": 10}], "research": "teyonium-factory", "category": "production"}

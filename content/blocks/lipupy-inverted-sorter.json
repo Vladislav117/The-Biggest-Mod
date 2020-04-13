@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lipupy inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "lipupy", "amount": 4}, {"item": "vohiyynium", "amount": 4}], "research": "lipupy-conveyor", "category": "distribution", "invert": true}

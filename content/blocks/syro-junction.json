@@ -1,0 +1,1 @@
+{"type": "junction", "name": "syro junction", "description": "...", "health": 7, "speed": 10, "capacity": 10, "size": 1, "requirements": [{"item": "syro", "amount": 3}, {"item": "rine", "amount": 1}], "research": "syro-conveyor", "category": "distribution"}

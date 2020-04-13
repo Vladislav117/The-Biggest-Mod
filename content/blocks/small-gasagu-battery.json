@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gasagu battery", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "gasagu", "amount": 10}, {"item": "fixunium", "amount": 17}, {"item": "teda", "amount": 4}], "research": "gasagu-factory", "consumes": {"powerBuffered": 1720}, "category": "power"}

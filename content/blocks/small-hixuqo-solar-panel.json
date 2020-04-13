@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hixuqo solar panel", "description": "...", "size": 1, "health": 222, "requirements": [{"item": "hixuqo", "amount": 10}, {"item": "fizy", "amount": 8}, {"item": "zahaqa", "amount": 5}], "research": "hixuqo-factory", "powerProduction": 6.814091175076139, "category": "power"}

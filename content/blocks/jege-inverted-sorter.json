@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "jege inverted sorter", "description": ",...", "health": 50, "size": 1, "requirements": [{"item": "jege", "amount": 5}, {"item": "siwemy", "amount": 1}], "research": "jege-conveyor", "category": "distribution", "invert": true}

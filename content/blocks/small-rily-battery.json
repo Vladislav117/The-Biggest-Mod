@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rily battery", "description": "...", "size": 1, "health": 374, "requirements": [{"item": "rily", "amount": 5}, {"item": "laqunium", "amount": 4}, {"item": "pyvohe", "amount": 1}], "research": "rily-factory", "consumes": {"powerBuffered": 2102}, "category": "power"}

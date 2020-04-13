@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "gagyya power node", "description": "...", "size": 2, "health": 646, "requirements": [{"item": "gagyya", "amount": 11}, {"item": "woze", "amount": 6}, {"item": "gizomanium", "amount": 3}], "research": "gagyya-factory", "maxNodes": 35, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sygami battery", "description": "...", "size": 3, "health": 301, "requirements": [{"item": "sygami", "amount": 10}, {"item": "ciwiwa", "amount": 18}, {"item": "weca", "amount": 9}], "research": "sygami-factory", "consumes": {"powerBuffered": 5599}, "category": "power"}

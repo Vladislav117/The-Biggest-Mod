@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small teyipu power node", "description": "...", "size": 1, "health": 303, "requirements": [{"item": "teyipu", "amount": 5}, {"item": "hitiva", "amount": 13}, {"item": "surge-alloy", "amount": 2}], "research": "teyipu-factory", "maxNodes": 4, "laserRange": 10, "category": "power"}

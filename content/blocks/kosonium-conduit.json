@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kosonium conduit", "description": "...", "health": 70, "requirements": [{"item": "kosonium", "amount": 6}, {"item": "bajenium", "amount": 14}, {"item": "xavinium", "amount": 6}], "liquidCapacity": 28, "liquidPressure": 7, "research": "kosonium-factory", "category": "liquid"}

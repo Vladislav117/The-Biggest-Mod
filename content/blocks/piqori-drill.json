@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "piqori drill", "description": "...", "size": 2, "health": 216, "tier": 1, "drillTime": 12, "consumes": {"power": 10}, "requirements": [{"item": "piqori", "amount": 17}, {"item": "fepiva", "amount": 20}, {"item": "qepusenium", "amount": 7}], "research": "piqori-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "doluka liquid tank", "description": "...", "health": 160, "size": 3, "requirements": [{"item": "doluka", "amount": 12}, {"item": "lead", "amount": 6}, {"item": "vahy", "amount": 6}], "research": "doluka-conduit", "category": "liquid", "liquidCapacity": 36017, "hasLiquids": true}

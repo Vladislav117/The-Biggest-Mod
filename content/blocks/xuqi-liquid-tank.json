@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xuqi liquid tank", "description": "...", "health": 513, "size": 3, "requirements": [{"item": "xuqi", "amount": 20}, {"item": "baly", "amount": 11}, {"item": "rehodunium", "amount": 5}], "research": "xuqi-conduit", "category": "liquid", "liquidCapacity": 96686, "hasLiquids": true}

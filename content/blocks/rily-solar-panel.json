@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rily solar panel", "description": "...", "size": 3, "health": 122, "requirements": [{"item": "rily", "amount": 3}, {"item": "wygy", "amount": 12}, {"item": "rodi", "amount": 5}], "research": "rily-factory", "powerProduction": 3.0624986154242855, "category": "power"}

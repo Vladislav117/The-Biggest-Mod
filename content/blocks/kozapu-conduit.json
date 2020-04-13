@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kozapu conduit", "description": "...", "health": 112, "requirements": [{"item": "kozapu", "amount": 13}, {"item": "jatyjenium", "amount": 4}, {"item": "hagi", "amount": 9}], "liquidCapacity": 3, "liquidPressure": 10, "research": "kozapu-factory", "category": "liquid"}

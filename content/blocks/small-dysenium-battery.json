@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small dysenium battery", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "dysenium", "amount": 7}, {"item": "sebypa", "amount": 8}, {"item": "geke", "amount": 3}], "research": "dysenium-factory", "consumes": {"powerBuffered": 1194}, "category": "power"}

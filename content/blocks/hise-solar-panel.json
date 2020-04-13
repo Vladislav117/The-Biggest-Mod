@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hise solar panel", "description": "...", "size": 3, "health": 99, "requirements": [{"item": "hise", "amount": 5}, {"item": "nynoyu", "amount": 2}, {"item": "qykyzo", "amount": 9}], "research": "hise-factory", "powerProduction": 1.0939803195711566, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qireru battery", "description": "...", "size": 3, "health": 95, "requirements": [{"item": "qireru", "amount": 19}, {"item": "mavitu", "amount": 19}, {"item": "reqoxu", "amount": 9}], "research": "qireru-factory", "consumes": {"powerBuffered": 1551}, "category": "power"}

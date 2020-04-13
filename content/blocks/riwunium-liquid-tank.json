@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "riwunium liquid tank", "description": "...", "health": 174, "size": 3, "requirements": [{"item": "riwunium", "amount": 17}, {"item": "cejy", "amount": 9}, {"item": "qokygi", "amount": 1}], "research": "riwunium-conduit", "category": "liquid", "liquidCapacity": 27890, "hasLiquids": true}

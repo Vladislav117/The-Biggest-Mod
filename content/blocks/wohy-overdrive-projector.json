@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "wohy overdrive projector", "description": "...", "health": 81, "consumes": {"power": 3.0, "item": "wohy"}, "size": 2, "requirements": [{"item": "wohy", "amount": 9}, {"item": "syteja", "amount": 17}, {"item": "tedi", "amount": 9}], "research": "wohy-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vove conduit", "description": "...", "health": 80, "requirements": [{"item": "vove", "amount": 7}, {"item": "wavoli", "amount": 7}, {"item": "muby", "amount": 10}], "liquidCapacity": 47, "liquidPressure": 0, "research": "vove-factory", "category": "liquid"}

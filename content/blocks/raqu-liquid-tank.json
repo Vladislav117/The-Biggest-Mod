@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "raqu liquid tank", "description": "...", "health": 497, "size": 3, "requirements": [{"item": "raqu", "amount": 6}, {"item": "yyludunium", "amount": 19}, {"item": "nidenium", "amount": 8}], "research": "raqu-conduit", "category": "liquid", "liquidCapacity": 4998, "hasLiquids": true}

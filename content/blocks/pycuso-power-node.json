@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pycuso power node", "description": "...", "size": 2, "health": 562, "requirements": [{"item": "pycuso", "amount": 15}, {"item": "zety", "amount": 16}, {"item": "nitinium", "amount": 7}], "research": "pycuso-factory", "maxNodes": 52, "laserRange": 9, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yahi junction", "description": "...", "health": 8, "speed": 17, "capacity": 18, "size": 1, "requirements": [{"item": "yahi", "amount": 4}, {"item": "hiwenium", "amount": 2}], "research": "yahi-conveyor", "category": "distribution"}

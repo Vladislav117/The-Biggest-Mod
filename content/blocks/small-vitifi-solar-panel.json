@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small vitifi solar panel", "description": "...", "size": 1, "health": 119, "requirements": [{"item": "vitifi", "amount": 17}, {"item": "jyly", "amount": 6}, {"item": "ladoty", "amount": 9}], "research": "vitifi-factory", "powerProduction": 4.533095928951831, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hociku power node", "description": "...", "size": 2, "health": 544, "requirements": [{"item": "hociku", "amount": 2}, {"item": "hogazanium", "amount": 10}, {"item": "tasusynium", "amount": 5}], "research": "hociku-factory", "maxNodes": 44, "laserRange": 6, "category": "power"}

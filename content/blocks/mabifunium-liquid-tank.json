@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mabifunium liquid tank", "description": "...", "health": 555, "size": 3, "requirements": [{"item": "mabifunium", "amount": 5}, {"item": "pyce", "amount": 2}, {"item": "rixyqu", "amount": 8}], "research": "mabifunium-conduit", "category": "liquid", "liquidCapacity": 4224, "hasLiquids": true}

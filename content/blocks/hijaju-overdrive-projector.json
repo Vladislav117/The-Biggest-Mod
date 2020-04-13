@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "hijaju overdrive projector", "description": "...", "health": 103, "consumes": {"power": 3.0, "item": "hijaju"}, "size": 2, "requirements": [{"item": "hijaju", "amount": 6}, {"item": "yyko", "amount": 8}, {"item": "monu", "amount": 2}], "research": "hijaju-factory", "category": "effect"}

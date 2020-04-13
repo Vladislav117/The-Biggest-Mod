@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tavohe conduit", "description": "...", "health": 56, "requirements": [{"item": "tavohe", "amount": 19}, {"item": "ryzote", "amount": 8}, {"item": "waby", "amount": 9}], "liquidCapacity": 38, "liquidPressure": 5, "research": "tavohe-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pyrafanium conveyor", "description": "...", "health": 231, "requirements": [{"item": "pyrafanium", "amount": 2}, {"item": "laduhu", "amount": 7}], "speed": 0.08744473070700248, "research": "pyrafanium-factory", "category": "distribution"}

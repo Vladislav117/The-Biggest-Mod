@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "peloronium power node", "description": "...", "size": 2, "health": 168, "requirements": [{"item": "peloronium", "amount": 10}, {"item": "kaniyy", "amount": 14}, {"item": "qelyqe", "amount": 6}], "research": "peloronium-factory", "maxNodes": 54, "laserRange": 14, "category": "power"}

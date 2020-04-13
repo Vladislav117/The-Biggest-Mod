@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tayi sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "tayi", "amount": 3}, {"item": "numuwanium", "amount": 3}], "research": "tayi-conveyor", "category": "distribution", "invert": false}

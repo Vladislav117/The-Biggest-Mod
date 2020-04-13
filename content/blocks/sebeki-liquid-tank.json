@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sebeki liquid tank", "description": "...", "health": 377, "size": 3, "requirements": [{"item": "sebeki", "amount": 7}, {"item": "purunium", "amount": 13}, {"item": "fizunium", "amount": 1}], "research": "sebeki-conduit", "category": "liquid", "liquidCapacity": 85073, "hasLiquids": true}

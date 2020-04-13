@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "huwafy power node", "description": "...", "size": 2, "health": 725, "requirements": [{"item": "huwafy", "amount": 5}, {"item": "zazuji", "amount": 2}, {"item": "jerenium", "amount": 9}], "research": "huwafy-factory", "maxNodes": 34, "laserRange": 9, "category": "power"}

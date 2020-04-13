@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cyhunium power node", "description": "...", "size": 2, "health": 416, "requirements": [{"item": "cyhunium", "amount": 4}, {"item": "rabu", "amount": 1}, {"item": "nepiky", "amount": 2}], "research": "cyhunium-factory", "maxNodes": 23, "laserRange": 17, "category": "power"}

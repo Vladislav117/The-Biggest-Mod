@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tovyme liquid tank", "description": "...", "health": 233, "size": 3, "requirements": [{"item": "tovyme", "amount": 8}, {"item": "lelybe", "amount": 13}, {"item": "tufo", "amount": 3}], "research": "tovyme-conduit", "category": "liquid", "liquidCapacity": 32586, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yusona overflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "yusona", "amount": 2}, {"item": "geyico", "amount": 2}], "research": "yusona-conveyor", "category": "distribution", "invert": false}

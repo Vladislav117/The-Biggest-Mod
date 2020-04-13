@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mapanium solar panel", "description": "...", "size": 1, "health": 359, "requirements": [{"item": "mapanium", "amount": 3}, {"item": "nufuponium", "amount": 20}, {"item": "yudesinium", "amount": 7}], "research": "mapanium-factory", "powerProduction": 2.5806007177866013, "category": "power"}

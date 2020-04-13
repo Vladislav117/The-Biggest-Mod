@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small betuto battery", "description": "...", "size": 1, "health": 41, "requirements": [{"item": "betuto", "amount": 16}, {"item": "siru", "amount": 19}, {"item": "kikanium", "amount": 8}], "research": "betuto-factory", "consumes": {"powerBuffered": 2906}, "category": "power"}

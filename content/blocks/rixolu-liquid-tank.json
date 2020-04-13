@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rixolu liquid tank", "description": "...", "health": 178, "size": 3, "requirements": [{"item": "rixolu", "amount": 3}, {"item": "jinu", "amount": 13}, {"item": "samivi", "amount": 7}], "research": "rixolu-conduit", "category": "liquid", "liquidCapacity": 47914, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "hivesy bridge conveyor", "description": "", "health": 20, "range": 1, "speed": 20, "bufferCapacity": 19, "requirements": [{"item": "hivesy", "amount": 4}, {"item": "depyya", "amount": 2}], "research": "hivesy-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small hayu power node", "description": "...", "size": 1, "health": 308, "requirements": [{"item": "hayu", "amount": 2}, {"item": "gyza", "amount": 4}, {"item": "nivo", "amount": 5}], "research": "hayu-factory", "maxNodes": 14, "laserRange": 3, "category": "power"}

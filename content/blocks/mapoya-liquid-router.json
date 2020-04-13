@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "mapoya liquid router", "description": "...", "size": 1, "health": 79, "requirements": [{"item": "mapoya", "amount": 11}, {"item": "xeza", "amount": 1}, {"item": "tisi", "amount": 8}], "research": "mapoya-conduit", "liquidCapacity": 10, "category": "liquid"}

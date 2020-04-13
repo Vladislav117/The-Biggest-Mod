@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tozenium solar panel", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "tozenium", "amount": 9}, {"item": "biqa", "amount": 10}, {"item": "rateju", "amount": 7}], "research": "tozenium-factory", "powerProduction": 0.16196083442961698, "category": "power"}

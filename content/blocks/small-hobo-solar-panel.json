@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hobo solar panel", "description": "...", "size": 1, "health": 289, "requirements": [{"item": "hobo", "amount": 9}, {"item": "laho", "amount": 10}, {"item": "manihe", "amount": 5}], "research": "hobo-factory", "powerProduction": 0.5670002444719525, "category": "power"}

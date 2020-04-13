@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pyzemu conduit", "description": "...", "health": 116, "requirements": [{"item": "pyzemu", "amount": 4}, {"item": "zityyanium", "amount": 11}, {"item": "gihalu", "amount": 6}], "liquidCapacity": 24, "liquidPressure": 8, "research": "pyzemu-factory", "category": "liquid"}

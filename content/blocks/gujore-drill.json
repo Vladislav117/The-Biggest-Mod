@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gujore drill", "description": "...", "size": 3, "health": 378, "tier": 2, "drillTime": 6, "consumes": {"power": 14}, "requirements": [{"item": "gujore", "amount": 19}, {"item": "besivi", "amount": 11}, {"item": "bony", "amount": 9}], "research": "gujore-factory", "category": "production"}

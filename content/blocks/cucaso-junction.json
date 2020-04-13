@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cucaso junction", "description": "...", "health": 11, "speed": 7, "capacity": 6, "size": 1, "requirements": [{"item": "cucaso", "amount": 4}, {"item": "yocoke", "amount": 4}], "research": "cucaso-conveyor", "category": "distribution"}

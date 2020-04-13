@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "naxynium solar panel", "description": "...", "size": 3, "health": 300, "requirements": [{"item": "naxynium", "amount": 17}, {"item": "luzini", "amount": 12}, {"item": "gusode", "amount": 5}], "research": "naxynium-factory", "powerProduction": 7.324701654085691, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small boretu battery", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "boretu", "amount": 18}, {"item": "heqywanium", "amount": 2}, {"item": "mumu", "amount": 1}], "research": "boretu-factory", "consumes": {"powerBuffered": 2514}, "category": "power"}

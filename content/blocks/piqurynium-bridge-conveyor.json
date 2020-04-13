@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "piqurynium bridge conveyor", "description": "", "health": 23, "range": 13, "speed": 13, "bufferCapacity": 3, "requirements": [{"item": "piqurynium", "amount": 1}, {"item": "pokebonium", "amount": 5}], "research": "piqurynium-conveyor", "category": "distribution", "size": 1}

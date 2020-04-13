@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xilu power node", "description": "...", "size": 2, "health": 295, "requirements": [{"item": "xilu", "amount": 8}, {"item": "panuwe", "amount": 10}, {"item": "joqopy", "amount": 2}], "research": "xilu-factory", "maxNodes": 22, "laserRange": 17, "category": "power"}

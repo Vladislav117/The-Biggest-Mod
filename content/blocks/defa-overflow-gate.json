@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "defa overflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "defa", "amount": 5}, {"item": "xivi", "amount": 5}], "research": "defa-conveyor", "category": "distribution", "invert": false}

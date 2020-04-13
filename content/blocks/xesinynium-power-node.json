@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xesinynium power node", "description": "...", "size": 2, "health": 290, "requirements": [{"item": "xesinynium", "amount": 5}, {"item": "tayi", "amount": 9}, {"item": "wediyu", "amount": 10}], "research": "xesinynium-factory", "maxNodes": 42, "laserRange": 13, "category": "power"}

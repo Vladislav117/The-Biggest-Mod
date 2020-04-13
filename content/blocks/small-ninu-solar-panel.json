@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small ninu solar panel", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "ninu", "amount": 19}, {"item": "siyake", "amount": 14}, {"item": "dagepanium", "amount": 10}], "research": "ninu-factory", "powerProduction": 0.684976215871808, "category": "power"}

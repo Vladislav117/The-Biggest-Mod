@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "taqe bridge conveyor", "description": "", "health": 47, "range": 6, "speed": 11, "bufferCapacity": 6, "requirements": [{"item": "taqe", "amount": 4}, {"item": "sohusu", "amount": 2}], "research": "taqe-conveyor", "category": "distribution", "size": 1}

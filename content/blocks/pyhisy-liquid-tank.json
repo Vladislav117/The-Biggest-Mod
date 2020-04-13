@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "pyhisy liquid tank", "description": "...", "health": 228, "size": 3, "requirements": [{"item": "pyhisy", "amount": 3}, {"item": "peloronium", "amount": 8}, {"item": "yydaqe", "amount": 4}], "research": "pyhisy-conduit", "category": "liquid", "liquidCapacity": 7085, "hasLiquids": true}

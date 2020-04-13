@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cywiwa solar panel", "description": "...", "size": 3, "health": 206, "requirements": [{"item": "cywiwa", "amount": 3}, {"item": "sytu", "amount": 10}, {"item": "tetivy", "amount": 1}], "research": "cywiwa-factory", "powerProduction": 16.26110148687392, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lafetu bridge conveyor", "description": "", "health": 12, "range": 19, "speed": 9, "bufferCapacity": 3, "requirements": [{"item": "lafetu", "amount": 3}, {"item": "yupo", "amount": 4}], "research": "lafetu-conveyor", "category": "distribution", "size": 1}

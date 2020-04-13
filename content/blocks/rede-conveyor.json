@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "rede conveyor", "description": "...", "health": 95, "requirements": [{"item": "rede", "amount": 1}, {"item": "pode", "amount": 7}], "speed": 0.385377880593232, "research": "rede-factory", "category": "distribution"}

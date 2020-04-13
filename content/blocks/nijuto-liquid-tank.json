@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nijuto liquid tank", "description": "...", "health": 336, "size": 3, "requirements": [{"item": "nijuto", "amount": 6}, {"item": "kiredi", "amount": 6}, {"item": "byhonium", "amount": 1}], "research": "nijuto-conduit", "category": "liquid", "liquidCapacity": 85978, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nesi solar panel", "description": "...", "size": 1, "health": 84, "requirements": [{"item": "nesi", "amount": 19}, {"item": "cuxenium", "amount": 9}, {"item": "qiwypa", "amount": 5}], "research": "nesi-factory", "powerProduction": 3.5822028994246886, "category": "power"}

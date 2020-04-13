@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vule drill", "description": "...", "size": 3, "health": 195, "tier": 3, "drillTime": 6, "consumes": {"power": 9}, "requirements": [{"item": "vule", "amount": 16}, {"item": "lafybe", "amount": 2}, {"item": "yaky", "amount": 8}], "research": "vule-factory", "category": "production"}

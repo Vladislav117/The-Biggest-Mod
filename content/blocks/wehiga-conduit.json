@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wehiga conduit", "description": "...", "health": 79, "requirements": [{"item": "wehiga", "amount": 4}, {"item": "weziho", "amount": 5}, {"item": "geco", "amount": 7}], "liquidCapacity": 5, "liquidPressure": 7, "research": "wehiga-factory", "category": "liquid"}

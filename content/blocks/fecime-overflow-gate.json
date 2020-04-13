@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fecime overflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "fecime", "amount": 5}, {"item": "pymamu", "amount": 1}], "research": "fecime-conveyor", "category": "distribution", "invert": false}

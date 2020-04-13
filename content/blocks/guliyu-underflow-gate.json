@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "guliyu underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "guliyu", "amount": 1}, {"item": "yexowy", "amount": 2}], "research": "guliyu-conveyor", "category": "distribution", "invert": false}

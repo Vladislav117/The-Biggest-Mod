@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "noconium bridge conveyor", "description": "", "health": 27, "range": 12, "speed": 7, "bufferCapacity": 25, "requirements": [{"item": "noconium", "amount": 5}, {"item": "qyha", "amount": 4}], "research": "noconium-conveyor", "category": "distribution", "size": 1}

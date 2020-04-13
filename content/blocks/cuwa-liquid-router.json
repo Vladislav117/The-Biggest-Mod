@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cuwa liquid router", "description": "...", "size": 1, "health": 25, "requirements": [{"item": "cuwa", "amount": 7}, {"item": "sarijynium", "amount": 13}, {"item": "fezadunium", "amount": 5}], "research": "cuwa-conduit", "liquidCapacity": 10, "category": "liquid"}

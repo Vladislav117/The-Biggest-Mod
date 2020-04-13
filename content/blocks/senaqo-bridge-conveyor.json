@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "senaqo bridge conveyor", "description": "", "health": 28, "range": 16, "speed": 16, "bufferCapacity": 8, "requirements": [{"item": "senaqo", "amount": 4}, {"item": "milosi", "amount": 1}], "research": "senaqo-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gizely sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "gizely", "amount": 5}, {"item": "piqori", "amount": 3}], "research": "gizely-conveyor", "category": "distribution", "invert": false}

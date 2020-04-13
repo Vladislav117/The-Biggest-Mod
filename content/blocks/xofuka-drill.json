@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xofuka drill", "description": "...", "size": 4, "health": 165, "tier": 1, "drillTime": 16, "consumes": {"power": 19}, "requirements": [{"item": "xofuka", "amount": 2}, {"item": "julu", "amount": 2}, {"item": "lywe", "amount": 10}], "research": "xofuka-factory", "category": "production"}

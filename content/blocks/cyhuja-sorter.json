@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cyhuja sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "cyhuja", "amount": 3}, {"item": "cupo", "amount": 1}], "research": "cyhuja-conveyor", "category": "distribution", "invert": false}

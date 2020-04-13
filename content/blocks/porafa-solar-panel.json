@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "porafa solar panel", "description": "...", "size": 3, "health": 383, "requirements": [{"item": "porafa", "amount": 17}, {"item": "cyyenium", "amount": 16}, {"item": "sukedu", "amount": 2}], "research": "porafa-factory", "powerProduction": 6.279348264196295, "category": "power"}

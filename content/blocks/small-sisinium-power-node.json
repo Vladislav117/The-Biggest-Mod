@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sisinium power node", "description": "...", "size": 1, "health": 277, "requirements": [{"item": "sisinium", "amount": 7}, {"item": "yiqynium", "amount": 3}, {"item": "cysobe", "amount": 1}], "research": "sisinium-factory", "maxNodes": 30, "laserRange": 15, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zowanium underflow gate", "description": "...", "health": 26, "size": 1, "requirements": [{"item": "zowanium", "amount": 4}, {"item": "soqa", "amount": 5}], "research": "zowanium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small gotomy solar panel", "description": "...", "size": 1, "health": 180, "requirements": [{"item": "gotomy", "amount": 13}, {"item": "xeye", "amount": 9}, {"item": "wabaru", "amount": 7}], "research": "gotomy-factory", "powerProduction": 4.399449481229104, "category": "power"}

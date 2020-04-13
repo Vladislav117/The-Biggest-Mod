@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qoviganium bridge conveyor", "description": "", "health": 44, "range": 3, "speed": 9, "bufferCapacity": 2, "requirements": [{"item": "qoviganium", "amount": 3}, {"item": "virema", "amount": 3}], "research": "qoviganium-conveyor", "category": "distribution", "size": 1}

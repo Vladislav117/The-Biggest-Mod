@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dipewanium inverted sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "dipewanium", "amount": 2}, {"item": "fezadunium", "amount": 1}], "research": "dipewanium-conveyor", "category": "distribution", "invert": true}

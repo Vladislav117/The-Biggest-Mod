@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rivezo battery", "description": "...", "size": 3, "health": 73, "requirements": [{"item": "rivezo", "amount": 16}, {"item": "mido", "amount": 7}, {"item": "marynium", "amount": 5}], "research": "rivezo-factory", "consumes": {"powerBuffered": 2145}, "category": "power"}

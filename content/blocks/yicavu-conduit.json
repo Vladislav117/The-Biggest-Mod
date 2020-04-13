@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yicavu conduit", "description": "...", "health": 186, "requirements": [{"item": "yicavu", "amount": 5}, {"item": "graphite", "amount": 10}, {"item": "tusico", "amount": 2}], "liquidCapacity": 11, "liquidPressure": 9, "research": "yicavu-factory", "category": "liquid"}

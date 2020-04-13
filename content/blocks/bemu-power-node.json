@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bemu power node", "description": "...", "size": 2, "health": 672, "requirements": [{"item": "bemu", "amount": 9}, {"item": "rivy", "amount": 18}, {"item": "poviye", "amount": 10}], "research": "bemu-factory", "maxNodes": 20, "laserRange": 22, "category": "power"}

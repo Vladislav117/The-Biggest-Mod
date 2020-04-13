@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small papo solar panel", "description": "...", "size": 1, "health": 340, "requirements": [{"item": "papo", "amount": 13}, {"item": "bopu", "amount": 16}, {"item": "qowepa", "amount": 4}], "research": "papo-factory", "powerProduction": 1.0948296542130715, "category": "power"}

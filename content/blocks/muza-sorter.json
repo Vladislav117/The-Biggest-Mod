@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "muza sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "muza", "amount": 3}, {"item": "xuyi", "amount": 4}], "research": "muza-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "wycenu junction", "description": "...", "health": 33, "speed": 14, "capacity": 1, "size": 1, "requirements": [{"item": "wycenu", "amount": 4}, {"item": "miwaye", "amount": 1}], "research": "wycenu-conveyor", "category": "distribution"}

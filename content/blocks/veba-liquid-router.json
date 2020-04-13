@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "veba liquid router", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "veba", "amount": 18}, {"item": "yyko", "amount": 10}, {"item": "jejypu", "amount": 8}], "research": "veba-conduit", "liquidCapacity": 10, "category": "liquid"}

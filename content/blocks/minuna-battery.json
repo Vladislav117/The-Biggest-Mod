@@ -1,0 +1,1 @@
+{"type": "battery", "name": "minuna battery", "description": "...", "size": 3, "health": 304, "requirements": [{"item": "minuna", "amount": 9}, {"item": "zatire", "amount": 3}, {"item": "tivu", "amount": 5}], "research": "minuna-factory", "consumes": {"powerBuffered": 5347}, "category": "power"}

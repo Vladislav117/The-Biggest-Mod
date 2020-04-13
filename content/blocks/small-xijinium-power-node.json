@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xijinium power node", "description": "...", "size": 1, "health": 121, "requirements": [{"item": "xijinium", "amount": 16}, {"item": "lype", "amount": 20}, {"item": "yaxuda", "amount": 9}], "research": "xijinium-factory", "maxNodes": 25, "laserRange": 20, "category": "power"}

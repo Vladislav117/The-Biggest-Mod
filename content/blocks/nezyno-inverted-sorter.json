@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nezyno inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "nezyno", "amount": 5}, {"item": "fica", "amount": 4}], "research": "nezyno-conveyor", "category": "distribution", "invert": true}

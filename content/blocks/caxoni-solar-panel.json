@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "caxoni solar panel", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "caxoni", "amount": 15}, {"item": "zuzequ", "amount": 2}, {"item": "rosiqe", "amount": 8}], "research": "caxoni-factory", "powerProduction": 3.043307392380625, "category": "power"}

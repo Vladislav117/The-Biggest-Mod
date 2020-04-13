@@ -1,0 +1,1 @@
+{"type": "junction", "name": "buvizi junction", "description": "...", "health": 2, "speed": 16, "capacity": 15, "size": 1, "requirements": [{"item": "buvizi", "amount": 4}, {"item": "mote", "amount": 5}], "research": "buvizi-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small lurenium battery", "description": "...", "size": 1, "health": 352, "requirements": [{"item": "lurenium", "amount": 12}, {"item": "qepyvonium", "amount": 7}, {"item": "biqy", "amount": 10}], "research": "lurenium-factory", "consumes": {"powerBuffered": 1139}, "category": "power"}

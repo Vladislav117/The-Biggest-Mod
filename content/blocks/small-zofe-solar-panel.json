@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zofe solar panel", "description": "...", "size": 1, "health": 242, "requirements": [{"item": "zofe", "amount": 10}, {"item": "yobito", "amount": 15}, {"item": "rewunium", "amount": 7}], "research": "zofe-factory", "powerProduction": 3.940645478175174, "category": "power"}

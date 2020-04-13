@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fahi liquid tank", "description": "...", "health": 256, "size": 3, "requirements": [{"item": "fahi", "amount": 13}, {"item": "sore", "amount": 2}, {"item": "kyte", "amount": 9}], "research": "fahi-conduit", "category": "liquid", "liquidCapacity": 73520, "hasLiquids": true}

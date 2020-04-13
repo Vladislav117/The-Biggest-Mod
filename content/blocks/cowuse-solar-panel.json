@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cowuse solar panel", "description": "...", "size": 3, "health": 40, "requirements": [{"item": "cowuse", "amount": 3}, {"item": "gavepy", "amount": 15}, {"item": "jymi", "amount": 1}], "research": "cowuse-factory", "powerProduction": 0.009277304210941667, "category": "power"}

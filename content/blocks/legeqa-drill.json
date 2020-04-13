@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "legeqa drill", "description": "...", "size": 4, "health": 298, "tier": 1, "drillTime": 9, "consumes": {"power": 4}, "requirements": [{"item": "legeqa", "amount": 5}, {"item": "hozanium", "amount": 4}, {"item": "zeyeqi", "amount": 6}], "research": "legeqa-factory", "category": "production"}

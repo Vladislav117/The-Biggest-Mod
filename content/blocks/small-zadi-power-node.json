@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zadi power node", "description": "...", "size": 1, "health": 146, "requirements": [{"item": "zadi", "amount": 9}, {"item": "vytuxe", "amount": 19}, {"item": "wicy", "amount": 1}], "research": "zadi-factory", "maxNodes": 4, "laserRange": 13, "category": "power"}

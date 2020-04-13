@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sofowo power node", "description": "...", "size": 2, "health": 100, "requirements": [{"item": "sofowo", "amount": 19}, {"item": "xavinium", "amount": 18}, {"item": "yalaka", "amount": 10}], "research": "sofowo-factory", "maxNodes": 32, "laserRange": 13, "category": "power"}

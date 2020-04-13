@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mywa solar panel", "description": "...", "size": 1, "health": 181, "requirements": [{"item": "mywa", "amount": 20}, {"item": "wekami", "amount": 16}, {"item": "kuza", "amount": 6}], "research": "mywa-factory", "powerProduction": 0.8463953731316033, "category": "power"}

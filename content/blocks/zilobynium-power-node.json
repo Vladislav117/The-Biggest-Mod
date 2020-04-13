@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zilobynium power node", "description": "...", "size": 2, "health": 295, "requirements": [{"item": "zilobynium", "amount": 20}, {"item": "tebebe", "amount": 11}, {"item": "xaceti", "amount": 2}], "research": "zilobynium-factory", "maxNodes": 59, "laserRange": 28, "category": "power"}

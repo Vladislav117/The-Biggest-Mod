@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zofe solar panel", "description": "...", "size": 3, "health": 224, "requirements": [{"item": "zofe", "amount": 15}, {"item": "zozo", "amount": 19}, {"item": "sulu", "amount": 9}], "research": "zofe-factory", "powerProduction": 0.3134332047091392, "category": "power"}

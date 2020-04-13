@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small nuhixonium solar panel", "description": "...", "size": 1, "health": 108, "requirements": [{"item": "nuhixonium", "amount": 2}, {"item": "locu", "amount": 19}, {"item": "jiyomonium", "amount": 5}], "research": "nuhixonium-factory", "powerProduction": 2.9816728418807217, "category": "power"}

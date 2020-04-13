@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small heruvu battery", "description": "...", "size": 1, "health": 345, "requirements": [{"item": "heruvu", "amount": 3}, {"item": "kelurynium", "amount": 7}, {"item": "jayi", "amount": 4}], "research": "heruvu-factory", "consumes": {"powerBuffered": 2781}, "category": "power"}

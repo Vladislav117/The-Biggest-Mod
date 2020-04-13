@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vybemi conduit", "description": "...", "health": 199, "requirements": [{"item": "vybemi", "amount": 18}, {"item": "zajenium", "amount": 8}, {"item": "yidako", "amount": 7}], "liquidCapacity": 23, "liquidPressure": 10, "research": "vybemi-factory", "category": "liquid"}

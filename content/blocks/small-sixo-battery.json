@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sixo battery", "description": "...", "size": 1, "health": 300, "requirements": [{"item": "sixo", "amount": 15}, {"item": "qoseji", "amount": 2}, {"item": "cigifi", "amount": 6}], "research": "sixo-factory", "consumes": {"powerBuffered": 2429}, "category": "power"}

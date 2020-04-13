@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "cetobu power node", "description": "...", "size": 2, "health": 478, "requirements": [{"item": "cetobu", "amount": 6}, {"item": "neno", "amount": 9}, {"item": "ryfo", "amount": 7}], "research": "cetobu-factory", "maxNodes": 36, "laserRange": 6, "category": "power"}

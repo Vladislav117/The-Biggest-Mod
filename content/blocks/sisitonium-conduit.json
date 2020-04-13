@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sisitonium conduit", "description": "...", "health": 148, "requirements": [{"item": "sisitonium", "amount": 20}, {"item": "heti", "amount": 10}, {"item": "biqa", "amount": 6}], "liquidCapacity": 49, "liquidPressure": 4, "research": "sisitonium-factory", "category": "liquid"}

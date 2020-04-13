@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sanely conduit", "description": "...", "health": 20, "requirements": [{"item": "sanely", "amount": 5}, {"item": "sara", "amount": 18}, {"item": "mylenium", "amount": 4}], "liquidCapacity": 16, "liquidPressure": 8, "research": "sanely-factory", "category": "liquid"}

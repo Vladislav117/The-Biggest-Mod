@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small riyo solar panel", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "riyo", "amount": 6}, {"item": "laho", "amount": 19}, {"item": "potesonium", "amount": 10}], "research": "riyo-factory", "powerProduction": 0.18970619800825386, "category": "power"}

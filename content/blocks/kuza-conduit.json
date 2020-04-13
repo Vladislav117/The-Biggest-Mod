@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kuza conduit", "description": "...", "health": 59, "requirements": [{"item": "kuza", "amount": 13}, {"item": "vosixe", "amount": 16}, {"item": "ruteqa", "amount": 10}], "liquidCapacity": 28, "liquidPressure": 6, "research": "kuza-factory", "category": "liquid"}

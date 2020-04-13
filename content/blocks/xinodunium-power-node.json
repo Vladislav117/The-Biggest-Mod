@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xinodunium power node", "description": "...", "size": 2, "health": 229, "requirements": [{"item": "xinodunium", "amount": 7}, {"item": "yalaka", "amount": 19}, {"item": "yupo", "amount": 9}], "research": "xinodunium-factory", "maxNodes": 56, "laserRange": 23, "category": "power"}

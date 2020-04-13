@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jygu drill", "description": "...", "size": 2, "health": 145, "tier": 2, "drillTime": 8, "consumes": {"power": 17}, "requirements": [{"item": "jygu", "amount": 14}, {"item": "cyfipy", "amount": 9}, {"item": "bapi", "amount": 8}], "research": "jygu-factory", "category": "production"}

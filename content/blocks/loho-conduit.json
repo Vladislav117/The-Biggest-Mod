@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "loho conduit", "description": "...", "health": 51, "requirements": [{"item": "loho", "amount": 10}, {"item": "kejinium", "amount": 6}, {"item": "fejenium", "amount": 6}], "liquidCapacity": 1, "liquidPressure": 9, "research": "loho-factory", "category": "liquid"}

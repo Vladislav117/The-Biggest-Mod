@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sebutu power node", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "sebutu", "amount": 11}, {"item": "payo", "amount": 12}, {"item": "togo", "amount": 9}], "research": "sebutu-factory", "maxNodes": 11, "laserRange": 12, "category": "power"}

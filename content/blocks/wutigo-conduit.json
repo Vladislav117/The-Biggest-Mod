@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wutigo conduit", "description": "...", "health": 146, "requirements": [{"item": "wutigo", "amount": 16}, {"item": "gotomy", "amount": 15}, {"item": "syteja", "amount": 9}], "liquidCapacity": 28, "liquidPressure": 3, "research": "wutigo-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "puziqo solar panel", "description": "...", "size": 3, "health": 236, "requirements": [{"item": "puziqo", "amount": 11}, {"item": "beronium", "amount": 5}, {"item": "jiyifynium", "amount": 5}], "research": "puziqo-factory", "powerProduction": 1.10690965074854, "category": "power"}

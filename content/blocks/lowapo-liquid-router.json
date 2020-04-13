@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lowapo liquid router", "description": "...", "size": 1, "health": 78, "requirements": [{"item": "lowapo", "amount": 15}, {"item": "cuxenium", "amount": 15}, {"item": "lora", "amount": 10}], "research": "lowapo-conduit", "liquidCapacity": 10, "category": "liquid"}

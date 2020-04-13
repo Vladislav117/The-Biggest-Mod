@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "qowa liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "qowa", "amount": 5}, {"item": "yebyte", "amount": 1}, {"item": "yuduse", "amount": 6}], "research": "qowa-conduit", "liquidCapacity": 10, "category": "liquid"}

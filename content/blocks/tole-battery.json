@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tole battery", "description": "...", "size": 3, "health": 10, "requirements": [{"item": "tole", "amount": 5}, {"item": "hiqeyi", "amount": 19}, {"item": "yeri", "amount": 6}], "research": "tole-factory", "consumes": {"powerBuffered": 504}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sipysa power node", "description": "...", "size": 2, "health": 123, "requirements": [{"item": "sipysa", "amount": 9}, {"item": "gegehe", "amount": 15}, {"item": "raseke", "amount": 1}], "research": "sipysa-factory", "maxNodes": 31, "laserRange": 29, "category": "power"}

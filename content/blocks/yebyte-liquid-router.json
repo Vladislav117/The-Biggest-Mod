@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yebyte liquid router", "description": "...", "size": 1, "health": 68, "requirements": [{"item": "yebyte", "amount": 5}, {"item": "xype", "amount": 12}, {"item": "kilu", "amount": 5}], "research": "yebyte-conduit", "liquidCapacity": 10, "category": "liquid"}

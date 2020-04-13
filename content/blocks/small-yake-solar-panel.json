@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yake solar panel", "description": "...", "size": 1, "health": 217, "requirements": [{"item": "yake", "amount": 6}, {"item": "qiri", "amount": 14}, {"item": "capa", "amount": 10}], "research": "yake-factory", "powerProduction": 12.562734437987247, "category": "power"}

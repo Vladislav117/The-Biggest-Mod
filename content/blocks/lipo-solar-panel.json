@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lipo solar panel", "description": "...", "size": 3, "health": 341, "requirements": [{"item": "lipo", "amount": 2}, {"item": "laxu", "amount": 5}, {"item": "giha", "amount": 7}], "research": "lipo-factory", "powerProduction": 4.402115730083757, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cenu solar panel", "description": "...", "size": 3, "health": 357, "requirements": [{"item": "cenu", "amount": 10}, {"item": "muno", "amount": 20}, {"item": "cyqanium", "amount": 9}], "research": "cenu-factory", "powerProduction": 0.006710369579050991, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "sygizo force projector", "description": "...", "health": 106, "size": 3, "consumes": {"power": 5.0, "item": "sygizo"}, "requirements": [{"item": "sygizo", "amount": 20}, {"item": "pyzemu", "amount": 17}, {"item": "beqeyenium", "amount": 9}], "research": "sygizo-factory", "category": "effect"}

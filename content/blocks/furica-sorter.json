@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "furica sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "furica", "amount": 1}, {"item": "loyomy", "amount": 1}], "research": "furica-conveyor", "category": "distribution", "invert": false}

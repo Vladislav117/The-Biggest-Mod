@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sirogi underflow gate", "description": "...", "health": 23, "size": 1, "requirements": [{"item": "sirogi", "amount": 4}, {"item": "fytuve", "amount": 1}], "research": "sirogi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "naku power node", "description": "...", "size": 2, "health": 147, "requirements": [{"item": "naku", "amount": 18}, {"item": "jywupa", "amount": 14}, {"item": "huxo", "amount": 6}], "research": "naku-factory", "maxNodes": 48, "laserRange": 27, "category": "power"}

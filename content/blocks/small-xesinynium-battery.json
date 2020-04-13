@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xesinynium battery", "description": "...", "size": 1, "health": 227, "requirements": [{"item": "xesinynium", "amount": 10}, {"item": "piyelu", "amount": 16}, {"item": "vuganium", "amount": 4}], "research": "xesinynium-factory", "consumes": {"powerBuffered": 1392}, "category": "power"}

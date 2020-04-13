@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small wana battery", "description": "...", "size": 1, "health": 210, "requirements": [{"item": "wana", "amount": 9}, {"item": "zuwydy", "amount": 14}, {"item": "rosiqe", "amount": 4}], "research": "wana-factory", "consumes": {"powerBuffered": 1857}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vezafa liquid tank", "description": "...", "health": 373, "size": 3, "requirements": [{"item": "vezafa", "amount": 1}, {"item": "turuky", "amount": 17}, {"item": "logybi", "amount": 8}], "research": "vezafa-conduit", "category": "liquid", "liquidCapacity": 48974, "hasLiquids": true}

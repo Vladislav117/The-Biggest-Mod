@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "bibu power node", "description": "...", "size": 2, "health": 63, "requirements": [{"item": "bibu", "amount": 7}, {"item": "fikunium", "amount": 5}, {"item": "zepoqo", "amount": 9}], "research": "bibu-factory", "maxNodes": 16, "laserRange": 26, "category": "power"}

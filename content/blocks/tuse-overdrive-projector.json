@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "tuse overdrive projector", "description": "...", "health": 103, "consumes": {"power": 3.0, "item": "tuse"}, "size": 2, "requirements": [{"item": "tuse", "amount": 13}, {"item": "dojynium", "amount": 2}, {"item": "taze", "amount": 3}], "research": "tuse-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jako battery", "description": "...", "size": 3, "health": 277, "requirements": [{"item": "jako", "amount": 20}, {"item": "qimu", "amount": 11}, {"item": "pafyvi", "amount": 4}], "research": "jako-factory", "consumes": {"powerBuffered": 3268}, "category": "power"}

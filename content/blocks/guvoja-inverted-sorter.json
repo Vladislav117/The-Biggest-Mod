@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "guvoja inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "guvoja", "amount": 5}, {"item": "niyi", "amount": 3}], "research": "guvoja-conveyor", "category": "distribution", "invert": true}

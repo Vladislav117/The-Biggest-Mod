@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "ruxa bridge conveyor", "description": "", "health": 5, "range": 3, "speed": 14, "bufferCapacity": 11, "requirements": [{"item": "ruxa", "amount": 1}, {"item": "wicy", "amount": 2}], "research": "ruxa-conveyor", "category": "distribution", "size": 1}

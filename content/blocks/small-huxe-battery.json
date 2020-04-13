@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small huxe battery", "description": "...", "size": 1, "health": 375, "requirements": [{"item": "huxe", "amount": 18}, {"item": "reju", "amount": 20}, {"item": "roja", "amount": 4}], "research": "huxe-factory", "consumes": {"powerBuffered": 2285}, "category": "power"}

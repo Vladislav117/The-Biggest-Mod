@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mavitu junction", "description": "...", "health": 6, "speed": 11, "capacity": 8, "size": 1, "requirements": [{"item": "mavitu", "amount": 2}, {"item": "niyi", "amount": 4}], "research": "mavitu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "foriso overflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "foriso", "amount": 1}, {"item": "temi", "amount": 4}], "research": "foriso-conveyor", "category": "distribution", "invert": false}

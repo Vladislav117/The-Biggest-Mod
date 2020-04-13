@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gyporu overflow gate", "description": "...", "health": 27, "size": 1, "requirements": [{"item": "gyporu", "amount": 1}, {"item": "rysi", "amount": 4}], "research": "gyporu-conveyor", "category": "distribution", "invert": false}

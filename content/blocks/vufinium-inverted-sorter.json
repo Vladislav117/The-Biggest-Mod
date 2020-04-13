@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vufinium inverted sorter", "description": ",...", "health": 6, "size": 1, "requirements": [{"item": "vufinium", "amount": 2}, {"item": "hitiva", "amount": 4}], "research": "vufinium-conveyor", "category": "distribution", "invert": true}

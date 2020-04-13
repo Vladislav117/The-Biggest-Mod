@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fuma conduit", "description": "...", "health": 62, "requirements": [{"item": "fuma", "amount": 3}, {"item": "susi", "amount": 15}, {"item": "vodehonium", "amount": 7}], "liquidCapacity": 1, "liquidPressure": 9, "research": "fuma-factory", "category": "liquid"}

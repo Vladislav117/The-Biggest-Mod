@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yukoni power node", "description": "...", "size": 2, "health": 682, "requirements": [{"item": "yukoni", "amount": 12}, {"item": "mebu", "amount": 7}, {"item": "divi", "amount": 8}], "research": "yukoni-factory", "maxNodes": 20, "laserRange": 17, "category": "power"}

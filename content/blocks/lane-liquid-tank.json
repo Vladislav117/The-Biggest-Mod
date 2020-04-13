@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lane liquid tank", "description": "...", "health": 574, "size": 3, "requirements": [{"item": "lane", "amount": 14}, {"item": "syriho", "amount": 16}, {"item": "jodezu", "amount": 3}], "research": "lane-conduit", "category": "liquid", "liquidCapacity": 36040, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "hicewi inverted sorter", "description": ",...", "health": 39, "size": 1, "requirements": [{"item": "hicewi", "amount": 3}, {"item": "bufywy", "amount": 5}], "research": "hicewi-conveyor", "category": "distribution", "invert": true}

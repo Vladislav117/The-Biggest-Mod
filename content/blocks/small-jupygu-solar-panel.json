@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jupygu solar panel", "description": "...", "size": 1, "health": 284, "requirements": [{"item": "jupygu", "amount": 4}, {"item": "yufava", "amount": 3}, {"item": "beronium", "amount": 7}], "research": "jupygu-factory", "powerProduction": 2.2168887675475712, "category": "power"}

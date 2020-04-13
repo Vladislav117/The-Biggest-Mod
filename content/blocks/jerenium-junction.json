@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jerenium junction", "description": "...", "health": 28, "speed": 7, "capacity": 12, "size": 1, "requirements": [{"item": "jerenium", "amount": 4}, {"item": "dugypa", "amount": 4}], "research": "jerenium-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "xycu conduit", "description": "...", "health": 22, "requirements": [{"item": "xycu", "amount": 5}, {"item": "jisu", "amount": 19}, {"item": "qadoyenium", "amount": 8}], "liquidCapacity": 7, "liquidPressure": 0, "research": "xycu-factory", "category": "liquid"}

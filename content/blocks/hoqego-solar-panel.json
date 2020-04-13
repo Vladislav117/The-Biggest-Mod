@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hoqego solar panel", "description": "...", "size": 3, "health": 378, "requirements": [{"item": "hoqego", "amount": 1}, {"item": "taja", "amount": 16}, {"item": "loqa", "amount": 1}], "research": "hoqego-factory", "powerProduction": 1.1797150290033398, "category": "power"}

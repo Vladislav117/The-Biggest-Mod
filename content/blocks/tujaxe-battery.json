@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tujaxe battery", "description": "...", "size": 3, "health": 136, "requirements": [{"item": "tujaxe", "amount": 20}, {"item": "yyko", "amount": 6}, {"item": "mohoki", "amount": 3}], "research": "tujaxe-factory", "consumes": {"powerBuffered": 9249}, "category": "power"}

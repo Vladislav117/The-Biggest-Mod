@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hati liquid tank", "description": "...", "health": 372, "size": 3, "requirements": [{"item": "hati", "amount": 18}, {"item": "kowonium", "amount": 9}, {"item": "vyvuqy", "amount": 1}], "research": "hati-conduit", "category": "liquid", "liquidCapacity": 95785, "hasLiquids": true}

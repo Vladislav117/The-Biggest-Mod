@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wequnium bridge conveyor", "description": "", "health": 45, "range": 18, "speed": 20, "bufferCapacity": 1, "requirements": [{"item": "wequnium", "amount": 2}, {"item": "vevati", "amount": 3}], "research": "wequnium-conveyor", "category": "distribution", "size": 1}

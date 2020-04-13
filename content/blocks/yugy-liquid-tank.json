@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yugy liquid tank", "description": "...", "health": 193, "size": 3, "requirements": [{"item": "yugy", "amount": 5}, {"item": "ruqype", "amount": 2}, {"item": "gonu", "amount": 4}], "research": "yugy-conduit", "category": "liquid", "liquidCapacity": 5639, "hasLiquids": true}

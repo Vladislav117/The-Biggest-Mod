@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yufoha liquid tank", "description": "...", "health": 622, "size": 3, "requirements": [{"item": "yufoha", "amount": 18}, {"item": "bafy", "amount": 10}, {"item": "turuky", "amount": 7}], "research": "yufoha-conduit", "category": "liquid", "liquidCapacity": 58433, "hasLiquids": true}

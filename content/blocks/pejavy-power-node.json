@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pejavy power node", "description": "...", "size": 2, "health": 676, "requirements": [{"item": "pejavy", "amount": 10}, {"item": "hagi", "amount": 3}, {"item": "cazewy", "amount": 2}], "research": "pejavy-factory", "maxNodes": 11, "laserRange": 14, "category": "power"}

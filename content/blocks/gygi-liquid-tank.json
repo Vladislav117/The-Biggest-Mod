@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gygi liquid tank", "description": "...", "health": 131, "size": 3, "requirements": [{"item": "gygi", "amount": 11}, {"item": "gakipy", "amount": 9}, {"item": "nifonium", "amount": 7}], "research": "gygi-conduit", "category": "liquid", "liquidCapacity": 58289, "hasLiquids": true}

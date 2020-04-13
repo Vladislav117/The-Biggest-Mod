@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sebeso junction", "description": "...", "health": 11, "speed": 2, "capacity": 4, "size": 1, "requirements": [{"item": "sebeso", "amount": 2}, {"item": "siwobanium", "amount": 4}], "research": "sebeso-conveyor", "category": "distribution"}

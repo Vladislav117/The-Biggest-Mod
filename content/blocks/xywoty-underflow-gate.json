@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xywoty underflow gate", "description": "...", "health": 47, "size": 1, "requirements": [{"item": "xywoty", "amount": 3}, {"item": "vapo", "amount": 4}], "research": "xywoty-conveyor", "category": "distribution", "invert": false}

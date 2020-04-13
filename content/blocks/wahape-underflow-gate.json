@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wahape underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "wahape", "amount": 2}, {"item": "gyfa", "amount": 4}], "research": "wahape-conveyor", "category": "distribution", "invert": false}

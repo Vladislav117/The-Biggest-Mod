@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kijyzi power node", "description": "...", "size": 2, "health": 215, "requirements": [{"item": "kijyzi", "amount": 16}, {"item": "suzu", "amount": 20}, {"item": "qoly", "amount": 9}], "research": "kijyzi-factory", "maxNodes": 33, "laserRange": 6, "category": "power"}

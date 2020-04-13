@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yahyxo power node", "description": "...", "size": 2, "health": 300, "requirements": [{"item": "yahyxo", "amount": 1}, {"item": "rega", "amount": 18}, {"item": "lyzecinium", "amount": 4}], "research": "yahyxo-factory", "maxNodes": 26, "laserRange": 30, "category": "power"}

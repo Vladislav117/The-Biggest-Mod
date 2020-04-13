@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zoqa liquid tank", "description": "...", "health": 554, "size": 3, "requirements": [{"item": "zoqa", "amount": 1}, {"item": "niyi", "amount": 2}, {"item": "rehyce", "amount": 4}], "research": "zoqa-conduit", "category": "liquid", "liquidCapacity": 46918, "hasLiquids": true}

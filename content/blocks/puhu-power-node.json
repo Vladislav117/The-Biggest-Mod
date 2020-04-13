@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "puhu power node", "description": "...", "size": 2, "health": 420, "requirements": [{"item": "puhu", "amount": 8}, {"item": "wacy", "amount": 4}, {"item": "sybo", "amount": 10}], "research": "puhu-factory", "maxNodes": 20, "laserRange": 8, "category": "power"}

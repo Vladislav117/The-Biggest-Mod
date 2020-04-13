@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kegi overflow gate", "description": "...", "health": 37, "size": 1, "requirements": [{"item": "kegi", "amount": 2}, {"item": "tijixi", "amount": 2}], "research": "kegi-conveyor", "category": "distribution", "invert": false}

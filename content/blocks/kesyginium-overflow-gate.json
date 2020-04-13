@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kesyginium overflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "kesyginium", "amount": 3}, {"item": "mote", "amount": 5}], "research": "kesyginium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "mygenium power node", "description": "...", "size": 2, "health": 674, "requirements": [{"item": "mygenium", "amount": 3}, {"item": "xodofu", "amount": 20}, {"item": "donysenium", "amount": 6}], "research": "mygenium-factory", "maxNodes": 27, "laserRange": 13, "category": "power"}

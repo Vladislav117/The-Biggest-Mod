@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wehynium battery", "description": "...", "size": 3, "health": 318, "requirements": [{"item": "wehynium", "amount": 12}, {"item": "bofazy", "amount": 4}, {"item": "lydoze", "amount": 3}], "research": "wehynium-factory", "consumes": {"powerBuffered": 381}, "category": "power"}

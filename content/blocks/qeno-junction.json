@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qeno junction", "description": "...", "health": 28, "speed": 14, "capacity": 10, "size": 1, "requirements": [{"item": "qeno", "amount": 5}, {"item": "wadiyonium", "amount": 4}], "research": "qeno-conveyor", "category": "distribution"}

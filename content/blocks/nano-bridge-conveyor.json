@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nano bridge conveyor", "description": "", "health": 7, "range": 15, "speed": 9, "bufferCapacity": 5, "requirements": [{"item": "nano", "amount": 1}, {"item": "raky", "amount": 5}], "research": "nano-conveyor", "category": "distribution", "size": 1}

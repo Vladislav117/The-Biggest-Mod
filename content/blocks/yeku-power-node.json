@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yeku power node", "description": "...", "size": 2, "health": 529, "requirements": [{"item": "yeku", "amount": 15}, {"item": "manihe", "amount": 16}, {"item": "kyna", "amount": 8}], "research": "yeku-factory", "maxNodes": 28, "laserRange": 9, "category": "power"}

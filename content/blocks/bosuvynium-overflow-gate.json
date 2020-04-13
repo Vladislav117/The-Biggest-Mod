@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bosuvynium overflow gate", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "bosuvynium", "amount": 4}, {"item": "nuci", "amount": 2}], "research": "bosuvynium-conveyor", "category": "distribution", "invert": false}

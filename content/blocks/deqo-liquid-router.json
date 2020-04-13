@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "deqo liquid router", "description": "...", "size": 1, "health": 73, "requirements": [{"item": "deqo", "amount": 13}, {"item": "baqilo", "amount": 4}, {"item": "rine", "amount": 10}], "research": "deqo-conduit", "liquidCapacity": 10, "category": "liquid"}

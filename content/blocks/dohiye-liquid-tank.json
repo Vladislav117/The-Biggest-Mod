@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dohiye liquid tank", "description": "...", "health": 330, "size": 3, "requirements": [{"item": "dohiye", "amount": 12}, {"item": "wiyeda", "amount": 1}, {"item": "makonium", "amount": 10}], "research": "dohiye-conduit", "category": "liquid", "liquidCapacity": 96701, "hasLiquids": true}

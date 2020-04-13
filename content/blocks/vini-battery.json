@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vini battery", "description": "...", "size": 3, "health": 296, "requirements": [{"item": "vini", "amount": 19}, {"item": "lepe", "amount": 1}, {"item": "zogeno", "amount": 5}], "research": "vini-factory", "consumes": {"powerBuffered": 6750}, "category": "power"}

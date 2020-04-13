@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "lybazanium drill", "description": "...", "size": 2, "health": 133, "tier": 1, "drillTime": 9, "consumes": {"power": 5}, "requirements": [{"item": "lybazanium", "amount": 13}, {"item": "vakyxinium", "amount": 2}, {"item": "yicavu", "amount": 3}], "research": "lybazanium-factory", "category": "production"}

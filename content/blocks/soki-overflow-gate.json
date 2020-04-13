@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "soki overflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "soki", "amount": 5}, {"item": "hivesy", "amount": 1}], "research": "soki-conveyor", "category": "distribution", "invert": false}

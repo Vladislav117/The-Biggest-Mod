@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small heke battery", "description": "...", "size": 1, "health": 255, "requirements": [{"item": "heke", "amount": 15}, {"item": "vayy", "amount": 12}, {"item": "bayavo", "amount": 2}], "research": "heke-factory", "consumes": {"powerBuffered": 2738}, "category": "power"}

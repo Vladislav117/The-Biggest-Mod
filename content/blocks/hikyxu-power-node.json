@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hikyxu power node", "description": "...", "size": 2, "health": 81, "requirements": [{"item": "hikyxu", "amount": 15}, {"item": "zube", "amount": 18}, {"item": "pykeby", "amount": 9}], "research": "hikyxu-factory", "maxNodes": 40, "laserRange": 6, "category": "power"}

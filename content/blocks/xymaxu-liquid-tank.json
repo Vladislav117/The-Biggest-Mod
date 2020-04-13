@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xymaxu liquid tank", "description": "...", "health": 143, "size": 3, "requirements": [{"item": "xymaxu", "amount": 4}, {"item": "poyaye", "amount": 12}, {"item": "nabu", "amount": 7}], "research": "xymaxu-conduit", "category": "liquid", "liquidCapacity": 37858, "hasLiquids": true}

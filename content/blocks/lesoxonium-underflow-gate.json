@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lesoxonium underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "lesoxonium", "amount": 5}, {"item": "cyta", "amount": 3}], "research": "lesoxonium-conveyor", "category": "distribution", "invert": false}

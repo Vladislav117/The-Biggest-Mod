@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rulynium power node", "description": "...", "size": 2, "health": 287, "requirements": [{"item": "rulynium", "amount": 3}, {"item": "yepufi", "amount": 6}, {"item": "xinunium", "amount": 3}], "research": "rulynium-factory", "maxNodes": 45, "laserRange": 15, "category": "power"}

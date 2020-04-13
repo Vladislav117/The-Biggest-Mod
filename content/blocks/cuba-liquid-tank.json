@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cuba liquid tank", "description": "...", "health": 184, "size": 3, "requirements": [{"item": "cuba", "amount": 2}, {"item": "nujunium", "amount": 17}, {"item": "hetuxo", "amount": 7}], "research": "cuba-conduit", "category": "liquid", "liquidCapacity": 40901, "hasLiquids": true}

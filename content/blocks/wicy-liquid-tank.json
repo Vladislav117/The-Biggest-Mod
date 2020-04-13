@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wicy liquid tank", "description": "...", "health": 373, "size": 3, "requirements": [{"item": "wicy", "amount": 14}, {"item": "mawanium", "amount": 1}, {"item": "sice", "amount": 7}], "research": "wicy-conduit", "category": "liquid", "liquidCapacity": 113716, "hasLiquids": true}

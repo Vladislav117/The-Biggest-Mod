@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lyzecinium bridge conveyor", "description": "", "health": 3, "range": 3, "speed": 17, "bufferCapacity": 19, "requirements": [{"item": "lyzecinium", "amount": 5}, {"item": "vudaxy", "amount": 4}], "research": "lyzecinium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jide junction", "description": "...", "health": 36, "speed": 14, "capacity": 20, "size": 1, "requirements": [{"item": "jide", "amount": 3}, {"item": "mika", "amount": 1}], "research": "jide-conveyor", "category": "distribution"}

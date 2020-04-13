@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "fulyzynium overdrive projector", "description": "...", "health": 77, "consumes": {"power": 3.0, "item": "fulyzynium"}, "size": 2, "requirements": [{"item": "fulyzynium", "amount": 12}, {"item": "niqy", "amount": 12}, {"item": "pele", "amount": 9}], "research": "fulyzynium-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "yevu solar panel", "description": "...", "size": 3, "health": 400, "requirements": [{"item": "yevu", "amount": 7}, {"item": "bomiry", "amount": 15}, {"item": "haqu", "amount": 1}], "research": "yevu-factory", "powerProduction": 5.264892563237194, "category": "power"}

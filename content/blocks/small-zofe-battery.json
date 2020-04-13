@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small zofe battery", "description": "...", "size": 1, "health": 134, "requirements": [{"item": "zofe", "amount": 12}, {"item": "gapy", "amount": 20}, {"item": "vatupy", "amount": 5}], "research": "zofe-factory", "consumes": {"powerBuffered": 367}, "category": "power"}

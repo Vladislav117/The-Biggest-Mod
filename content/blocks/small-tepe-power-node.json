@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tepe power node", "description": "...", "size": 1, "health": 348, "requirements": [{"item": "tepe", "amount": 16}, {"item": "jumozo", "amount": 18}, {"item": "jago", "amount": 4}], "research": "tepe-factory", "maxNodes": 16, "laserRange": 25, "category": "power"}

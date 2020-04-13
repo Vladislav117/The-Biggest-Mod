@@ -1,0 +1,1 @@
+{"type": "battery", "name": "marici battery", "description": "...", "size": 3, "health": 51, "requirements": [{"item": "marici", "amount": 9}, {"item": "vevudinium", "amount": 1}, {"item": "rajubanium", "amount": 3}], "research": "marici-factory", "consumes": {"powerBuffered": 4738}, "category": "power"}

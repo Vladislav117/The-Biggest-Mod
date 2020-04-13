@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vego liquid router", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "vego", "amount": 2}, {"item": "yupo", "amount": 8}, {"item": "mefymanium", "amount": 8}], "research": "vego-conduit", "liquidCapacity": 10, "category": "liquid"}

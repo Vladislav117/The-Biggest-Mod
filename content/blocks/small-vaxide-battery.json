@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vaxide battery", "description": "...", "size": 1, "health": 387, "requirements": [{"item": "vaxide", "amount": 17}, {"item": "wace", "amount": 2}, {"item": "fysubi", "amount": 7}], "research": "vaxide-factory", "consumes": {"powerBuffered": 2966}, "category": "power"}

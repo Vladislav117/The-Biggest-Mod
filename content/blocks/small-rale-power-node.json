@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small rale power node", "description": "...", "size": 1, "health": 341, "requirements": [{"item": "rale", "amount": 13}, {"item": "nuzivo", "amount": 5}, {"item": "yoqy", "amount": 2}], "research": "rale-factory", "maxNodes": 26, "laserRange": 14, "category": "power"}

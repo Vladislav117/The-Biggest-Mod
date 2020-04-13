@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pafyvi solar panel", "description": "...", "size": 3, "health": 88, "requirements": [{"item": "pafyvi", "amount": 11}, {"item": "dalire", "amount": 20}, {"item": "jaki", "amount": 6}], "research": "pafyvi-factory", "powerProduction": 0.08371343329934042, "category": "power"}

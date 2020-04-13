@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qive conduit", "description": "...", "health": 26, "requirements": [{"item": "qive", "amount": 5}, {"item": "sukedu", "amount": 13}, {"item": "mebo", "amount": 6}], "liquidCapacity": 5, "liquidPressure": 10, "research": "qive-factory", "category": "liquid"}

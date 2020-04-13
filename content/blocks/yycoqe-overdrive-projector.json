@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "yycoqe overdrive projector", "description": "...", "health": 109, "consumes": {"power": 3.0, "item": "yycoqe"}, "size": 2, "requirements": [{"item": "yycoqe", "amount": 15}, {"item": "xuserynium", "amount": 14}, {"item": "rega", "amount": 7}], "research": "yycoqe-factory", "category": "effect"}

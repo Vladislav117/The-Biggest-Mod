@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xyvenium solar panel", "description": "...", "size": 3, "health": 347, "requirements": [{"item": "xyvenium", "amount": 20}, {"item": "liba", "amount": 2}, {"item": "tikonium", "amount": 10}], "research": "xyvenium-factory", "powerProduction": 5.313537115393282, "category": "power"}

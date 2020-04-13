@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tewe inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "tewe", "amount": 5}, {"item": "rihonium", "amount": 4}], "research": "tewe-conveyor", "category": "distribution", "invert": true}

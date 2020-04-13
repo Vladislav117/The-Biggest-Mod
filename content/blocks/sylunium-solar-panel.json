@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sylunium solar panel", "description": "...", "size": 3, "health": 99, "requirements": [{"item": "sylunium", "amount": 7}, {"item": "lexo", "amount": 9}, {"item": "qexata", "amount": 6}], "research": "sylunium-factory", "powerProduction": 1.3220231738633184, "category": "power"}

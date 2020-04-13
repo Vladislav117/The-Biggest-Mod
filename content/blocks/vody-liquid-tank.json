@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vody liquid tank", "description": "...", "health": 152, "size": 3, "requirements": [{"item": "vody", "amount": 5}, {"item": "fysubi", "amount": 15}, {"item": "fesixa", "amount": 1}], "research": "vody-conduit", "category": "liquid", "liquidCapacity": 42032, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wiyuho power node", "description": "...", "size": 1, "health": 169, "requirements": [{"item": "wiyuho", "amount": 10}, {"item": "weva", "amount": 6}, {"item": "gogajy", "amount": 6}], "research": "wiyuho-factory", "maxNodes": 29, "laserRange": 5, "category": "power"}

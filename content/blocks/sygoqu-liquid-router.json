@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "sygoqu liquid router", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "sygoqu", "amount": 4}, {"item": "sokezy", "amount": 12}, {"item": "mehenium", "amount": 7}], "research": "sygoqu-conduit", "liquidCapacity": 10, "category": "liquid"}

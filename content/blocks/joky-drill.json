@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "joky drill", "description": "...", "size": 3, "health": 326, "tier": 4, "drillTime": 2, "consumes": {"power": 10}, "requirements": [{"item": "joky", "amount": 16}, {"item": "wavoli", "amount": 19}, {"item": "lead", "amount": 7}], "research": "joky-factory", "category": "production"}

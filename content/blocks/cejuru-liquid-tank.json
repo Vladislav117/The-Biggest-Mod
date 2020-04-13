@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cejuru liquid tank", "description": "...", "health": 135, "size": 3, "requirements": [{"item": "cejuru", "amount": 3}, {"item": "cidenium", "amount": 12}, {"item": "vayixo", "amount": 1}], "research": "cejuru-conduit", "category": "liquid", "liquidCapacity": 108086, "hasLiquids": true}

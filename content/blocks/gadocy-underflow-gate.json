@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gadocy underflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "gadocy", "amount": 5}, {"item": "kozivo", "amount": 4}], "research": "gadocy-conveyor", "category": "distribution", "invert": false}

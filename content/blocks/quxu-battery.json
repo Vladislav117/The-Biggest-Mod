@@ -1,0 +1,1 @@
+{"type": "battery", "name": "quxu battery", "description": "...", "size": 3, "health": 39, "requirements": [{"item": "quxu", "amount": 5}, {"item": "kimicy", "amount": 8}, {"item": "yohu", "amount": 8}], "research": "quxu-factory", "consumes": {"powerBuffered": 9818}, "category": "power"}

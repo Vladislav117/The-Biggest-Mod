@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bitaba sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "bitaba", "amount": 2}, {"item": "hyryhinium", "amount": 4}], "research": "bitaba-conveyor", "category": "distribution", "invert": false}

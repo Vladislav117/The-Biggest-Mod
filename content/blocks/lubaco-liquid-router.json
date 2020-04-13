@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "lubaco liquid router", "description": "...", "size": 1, "health": 99, "requirements": [{"item": "lubaco", "amount": 13}, {"item": "zaqe", "amount": 3}, {"item": "hotonium", "amount": 5}], "research": "lubaco-conduit", "liquidCapacity": 10, "category": "liquid"}

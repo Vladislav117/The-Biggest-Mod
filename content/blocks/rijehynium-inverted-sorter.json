@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rijehynium inverted sorter", "description": ",...", "health": 24, "size": 1, "requirements": [{"item": "rijehynium", "amount": 1}, {"item": "cemo", "amount": 2}], "research": "rijehynium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zyluci battery", "description": "...", "size": 3, "health": 305, "requirements": [{"item": "zyluci", "amount": 9}, {"item": "gypupe", "amount": 4}, {"item": "nimy", "amount": 4}], "research": "zyluci-factory", "consumes": {"powerBuffered": 6164}, "category": "power"}

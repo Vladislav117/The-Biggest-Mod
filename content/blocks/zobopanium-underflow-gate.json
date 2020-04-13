@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zobopanium underflow gate", "description": "...", "health": 1, "size": 1, "requirements": [{"item": "zobopanium", "amount": 5}, {"item": "zeyeqi", "amount": 1}], "research": "zobopanium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vule battery", "description": "...", "size": 1, "health": 178, "requirements": [{"item": "vule", "amount": 3}, {"item": "qywowi", "amount": 9}, {"item": "gino", "amount": 6}], "research": "vule-factory", "consumes": {"powerBuffered": 2602}, "category": "power"}

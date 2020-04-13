@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small lawa power node", "description": "...", "size": 1, "health": 267, "requirements": [{"item": "lawa", "amount": 6}, {"item": "jumy", "amount": 19}, {"item": "fyfy", "amount": 1}], "research": "lawa-factory", "maxNodes": 21, "laserRange": 18, "category": "power"}

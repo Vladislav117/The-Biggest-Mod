@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sowy bridge conveyor", "description": "", "health": 50, "range": 11, "speed": 18, "bufferCapacity": 1, "requirements": [{"item": "sowy", "amount": 3}, {"item": "dayumo", "amount": 4}], "research": "sowy-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small guda solar panel", "description": "...", "size": 1, "health": 249, "requirements": [{"item": "guda", "amount": 7}, {"item": "koyixa", "amount": 7}, {"item": "semy", "amount": 6}], "research": "guda-factory", "powerProduction": 0.029376734568895155, "category": "power"}

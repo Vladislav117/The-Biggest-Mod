@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zada solar panel", "description": "...", "size": 3, "health": 120, "requirements": [{"item": "zada", "amount": 4}, {"item": "ceqo", "amount": 5}, {"item": "lynaly", "amount": 5}], "research": "zada-factory", "powerProduction": 0.3312505555596977, "category": "power"}

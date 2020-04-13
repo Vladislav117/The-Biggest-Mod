@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small casodenium battery", "description": "...", "size": 1, "health": 143, "requirements": [{"item": "casodenium", "amount": 11}, {"item": "depyya", "amount": 19}, {"item": "pymamu", "amount": 6}], "research": "casodenium-factory", "consumes": {"powerBuffered": 2264}, "category": "power"}

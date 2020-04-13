@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small baxe battery", "description": "...", "size": 1, "health": 14, "requirements": [{"item": "baxe", "amount": 7}, {"item": "relaqo", "amount": 16}, {"item": "pylonium", "amount": 7}], "research": "baxe-factory", "consumes": {"powerBuffered": 2172}, "category": "power"}

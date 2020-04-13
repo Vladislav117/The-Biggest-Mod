@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rivy conduit", "description": "...", "health": 175, "requirements": [{"item": "rivy", "amount": 17}, {"item": "doya", "amount": 11}, {"item": "haxi", "amount": 2}], "liquidCapacity": 49, "liquidPressure": 7, "research": "rivy-factory", "category": "liquid"}

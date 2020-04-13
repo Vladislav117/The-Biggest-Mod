@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qodeqe liquid tank", "description": "...", "health": 238, "size": 3, "requirements": [{"item": "qodeqe", "amount": 20}, {"item": "fyqy", "amount": 9}, {"item": "xapa", "amount": 1}], "research": "qodeqe-conduit", "category": "liquid", "liquidCapacity": 35952, "hasLiquids": true}

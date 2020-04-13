@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lido junction", "description": "...", "health": 21, "speed": 16, "capacity": 6, "size": 1, "requirements": [{"item": "lido", "amount": 2}, {"item": "hati", "amount": 2}], "research": "lido-conveyor", "category": "distribution"}

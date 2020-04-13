@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tedu inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "tedu", "amount": 5}, {"item": "jaju", "amount": 5}], "research": "tedu-conveyor", "category": "distribution", "invert": true}

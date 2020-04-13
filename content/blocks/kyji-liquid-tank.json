@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kyji liquid tank", "description": "...", "health": 614, "size": 3, "requirements": [{"item": "kyji", "amount": 3}, {"item": "xujo", "amount": 11}, {"item": "cukoby", "amount": 2}], "research": "kyji-conduit", "category": "liquid", "liquidCapacity": 103225, "hasLiquids": true}

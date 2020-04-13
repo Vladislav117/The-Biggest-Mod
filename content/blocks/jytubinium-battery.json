@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jytubinium battery", "description": "...", "size": 3, "health": 369, "requirements": [{"item": "jytubinium", "amount": 20}, {"item": "xavinium", "amount": 1}, {"item": "heqywanium", "amount": 10}], "research": "jytubinium-factory", "consumes": {"powerBuffered": 6820}, "category": "power"}

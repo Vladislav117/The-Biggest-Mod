@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hyjape overflow gate", "description": "...", "health": 7, "size": 1, "requirements": [{"item": "hyjape", "amount": 2}, {"item": "wupera", "amount": 2}], "research": "hyjape-conveyor", "category": "distribution", "invert": false}

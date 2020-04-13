@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sysoki power node", "description": "...", "size": 2, "health": 381, "requirements": [{"item": "sysoki", "amount": 5}, {"item": "gahe", "amount": 15}, {"item": "weziho", "amount": 7}], "research": "sysoki-factory", "maxNodes": 56, "laserRange": 28, "category": "power"}

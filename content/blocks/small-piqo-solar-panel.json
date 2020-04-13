@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small piqo solar panel", "description": "...", "size": 1, "health": 244, "requirements": [{"item": "piqo", "amount": 19}, {"item": "huyijo", "amount": 12}, {"item": "zele", "amount": 7}], "research": "piqo-factory", "powerProduction": 0.044836357800304885, "category": "power"}

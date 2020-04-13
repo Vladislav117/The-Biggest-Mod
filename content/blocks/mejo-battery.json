@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mejo battery", "description": "...", "size": 3, "health": 331, "requirements": [{"item": "mejo", "amount": 9}, {"item": "walorunium", "amount": 18}, {"item": "zetizy", "amount": 7}], "research": "mejo-factory", "consumes": {"powerBuffered": 9569}, "category": "power"}

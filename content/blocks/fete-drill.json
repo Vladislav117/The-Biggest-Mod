@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fete drill", "description": "...", "size": 2, "health": 331, "tier": 3, "drillTime": 4, "consumes": {"power": 20}, "requirements": [{"item": "fete", "amount": 1}, {"item": "nulinium", "amount": 17}, {"item": "gagyby", "amount": 2}], "research": "fete-factory", "category": "production"}

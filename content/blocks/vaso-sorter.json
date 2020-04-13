@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vaso sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "vaso", "amount": 5}, {"item": "gozefynium", "amount": 4}], "research": "vaso-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "seca conduit", "description": "...", "health": 78, "requirements": [{"item": "seca", "amount": 2}, {"item": "haqu", "amount": 19}, {"item": "dejoqonium", "amount": 9}], "liquidCapacity": 7, "liquidPressure": 8, "research": "seca-factory", "category": "liquid"}

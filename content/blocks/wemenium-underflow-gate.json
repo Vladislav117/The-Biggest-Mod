@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wemenium underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "wemenium", "amount": 4}, {"item": "hixu", "amount": 3}], "research": "wemenium-conveyor", "category": "distribution", "invert": false}

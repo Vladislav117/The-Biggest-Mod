@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vivunium bridge conveyor", "description": "", "health": 26, "range": 4, "speed": 13, "bufferCapacity": 18, "requirements": [{"item": "vivunium", "amount": 3}, {"item": "wozego", "amount": 5}], "research": "vivunium-conveyor", "category": "distribution", "size": 1}

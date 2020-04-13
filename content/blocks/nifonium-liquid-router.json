@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "nifonium liquid router", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "nifonium", "amount": 15}, {"item": "nuzivo", "amount": 6}, {"item": "wyra", "amount": 9}], "research": "nifonium-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tykuka liquid tank", "description": "...", "health": 171, "size": 3, "requirements": [{"item": "tykuka", "amount": 7}, {"item": "wequky", "amount": 7}, {"item": "muho", "amount": 9}], "research": "tykuka-conduit", "category": "liquid", "liquidCapacity": 64448, "hasLiquids": true}

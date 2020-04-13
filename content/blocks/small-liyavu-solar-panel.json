@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small liyavu solar panel", "description": "...", "size": 1, "health": 368, "requirements": [{"item": "liyavu", "amount": 5}, {"item": "befunium", "amount": 10}, {"item": "wyxonium", "amount": 5}], "research": "liyavu-factory", "powerProduction": 0.08883097928771977, "category": "power"}

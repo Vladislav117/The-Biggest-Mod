@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "netalu bridge conveyor", "description": "", "health": 37, "range": 1, "speed": 4, "bufferCapacity": 6, "requirements": [{"item": "netalu", "amount": 2}, {"item": "hyju", "amount": 2}], "research": "netalu-conveyor", "category": "distribution", "size": 1}

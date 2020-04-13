@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wediyu battery", "description": "...", "size": 3, "health": 336, "requirements": [{"item": "wediyu", "amount": 17}, {"item": "qery", "amount": 2}, {"item": "luzinium", "amount": 2}], "research": "wediyu-factory", "consumes": {"powerBuffered": 3205}, "category": "power"}

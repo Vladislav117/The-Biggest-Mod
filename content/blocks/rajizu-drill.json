@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "rajizu drill", "description": "...", "size": 2, "health": 436, "tier": 2, "drillTime": 17, "consumes": {"power": 7}, "requirements": [{"item": "rajizu", "amount": 2}, {"item": "cydofunium", "amount": 9}, {"item": "fusaji", "amount": 10}], "research": "rajizu-factory", "category": "production"}

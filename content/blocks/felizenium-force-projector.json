@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "felizenium force projector", "description": "...", "health": 191, "size": 3, "consumes": {"power": 5.0, "item": "felizenium"}, "requirements": [{"item": "felizenium", "amount": 3}, {"item": "bomiry", "amount": 9}, {"item": "zoda", "amount": 1}], "research": "felizenium-factory", "category": "effect"}

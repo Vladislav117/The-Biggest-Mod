@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wirifu battery", "description": "...", "size": 3, "health": 45, "requirements": [{"item": "wirifu", "amount": 2}, {"item": "pigagunium", "amount": 19}, {"item": "doge", "amount": 1}], "research": "wirifu-factory", "consumes": {"powerBuffered": 7657}, "category": "power"}

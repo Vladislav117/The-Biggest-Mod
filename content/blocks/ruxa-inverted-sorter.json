@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ruxa inverted sorter", "description": ",...", "health": 40, "size": 1, "requirements": [{"item": "ruxa", "amount": 2}, {"item": "qesinium", "amount": 5}], "research": "ruxa-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "niho liquid tank", "description": "...", "health": 396, "size": 3, "requirements": [{"item": "niho", "amount": 2}, {"item": "pedy", "amount": 16}, {"item": "cuha", "amount": 4}], "research": "niho-conduit", "category": "liquid", "liquidCapacity": 5726, "hasLiquids": true}

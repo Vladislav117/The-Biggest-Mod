@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pagu conduit", "description": "...", "health": 196, "requirements": [{"item": "pagu", "amount": 16}, {"item": "qobenium", "amount": 1}, {"item": "vesi", "amount": 9}], "liquidCapacity": 33, "liquidPressure": 8, "research": "pagu-factory", "category": "liquid"}

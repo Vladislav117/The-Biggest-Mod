@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "kixo solar panel", "description": "...", "size": 3, "health": 297, "requirements": [{"item": "kixo", "amount": 1}, {"item": "qiregynium", "amount": 13}, {"item": "zexinium", "amount": 6}], "research": "kixo-factory", "powerProduction": 0.03979521298395472, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xoqini liquid tank", "description": "...", "health": 468, "size": 3, "requirements": [{"item": "xoqini", "amount": 15}, {"item": "musonium", "amount": 16}, {"item": "ribugi", "amount": 3}], "research": "xoqini-conduit", "category": "liquid", "liquidCapacity": 52058, "hasLiquids": true}

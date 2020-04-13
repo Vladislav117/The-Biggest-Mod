@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dyziqanium liquid tank", "description": "...", "health": 607, "size": 3, "requirements": [{"item": "dyziqanium", "amount": 20}, {"item": "cetemy", "amount": 13}, {"item": "tomaby", "amount": 2}], "research": "dyziqanium-conduit", "category": "liquid", "liquidCapacity": 21885, "hasLiquids": true}

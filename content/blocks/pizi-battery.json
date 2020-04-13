@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pizi battery", "description": "...", "size": 3, "health": 179, "requirements": [{"item": "pizi", "amount": 20}, {"item": "xuhenium", "amount": 15}, {"item": "wavoli", "amount": 6}], "research": "pizi-factory", "consumes": {"powerBuffered": 6954}, "category": "power"}

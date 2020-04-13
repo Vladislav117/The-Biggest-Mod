@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mahyby liquid tank", "description": "...", "health": 439, "size": 3, "requirements": [{"item": "mahyby", "amount": 4}, {"item": "papununium", "amount": 12}, {"item": "diyajy", "amount": 2}], "research": "mahyby-conduit", "category": "liquid", "liquidCapacity": 18216, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fakuzo conduit", "description": "...", "health": 106, "requirements": [{"item": "fakuzo", "amount": 19}, {"item": "koty", "amount": 3}, {"item": "koty", "amount": 7}], "liquidCapacity": 7, "liquidPressure": 3, "research": "fakuzo-factory", "category": "liquid"}

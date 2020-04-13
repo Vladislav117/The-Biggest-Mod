@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "kipiyenium overdrive projector", "description": "...", "health": 102, "consumes": {"power": 3.0, "item": "kipiyenium"}, "size": 2, "requirements": [{"item": "kipiyenium", "amount": 19}, {"item": "jayycu", "amount": 8}, {"item": "layyzynium", "amount": 1}], "research": "kipiyenium-factory", "category": "effect"}

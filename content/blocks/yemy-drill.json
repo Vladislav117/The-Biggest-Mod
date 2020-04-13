@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yemy drill", "description": "...", "size": 2, "health": 312, "tier": 1, "drillTime": 10, "consumes": {"power": 5}, "requirements": [{"item": "yemy", "amount": 6}, {"item": "voya", "amount": 11}, {"item": "cokyqo", "amount": 6}], "research": "yemy-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jevogi liquid tank", "description": "...", "health": 369, "size": 3, "requirements": [{"item": "jevogi", "amount": 10}, {"item": "gujybo", "amount": 14}, {"item": "xeco", "amount": 6}], "research": "jevogi-conduit", "category": "liquid", "liquidCapacity": 57327, "hasLiquids": true}

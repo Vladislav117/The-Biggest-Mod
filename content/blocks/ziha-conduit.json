@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ziha conduit", "description": "...", "health": 105, "requirements": [{"item": "ziha", "amount": 7}, {"item": "rocihy", "amount": 2}, {"item": "gado", "amount": 6}], "liquidCapacity": 16, "liquidPressure": 1, "research": "ziha-factory", "category": "liquid"}

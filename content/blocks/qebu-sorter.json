@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qebu sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "qebu", "amount": 5}, {"item": "syxidonium", "amount": 4}], "research": "qebu-conveyor", "category": "distribution", "invert": false}

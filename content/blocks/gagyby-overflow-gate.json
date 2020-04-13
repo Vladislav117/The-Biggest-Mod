@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gagyby overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "gagyby", "amount": 2}, {"item": "wyku", "amount": 1}], "research": "gagyby-conveyor", "category": "distribution", "invert": false}

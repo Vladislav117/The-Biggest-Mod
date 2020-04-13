@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "daziha inverted sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "daziha", "amount": 2}, {"item": "rozy", "amount": 2}], "research": "daziha-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wafy liquid tank", "description": "...", "health": 670, "size": 3, "requirements": [{"item": "wafy", "amount": 19}, {"item": "gokiyi", "amount": 20}, {"item": "devube", "amount": 9}], "research": "wafy-conduit", "category": "liquid", "liquidCapacity": 75431, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qiwu power node", "description": "...", "size": 1, "health": 374, "requirements": [{"item": "qiwu", "amount": 10}, {"item": "ryfy", "amount": 15}, {"item": "nigucy", "amount": 10}], "research": "qiwu-factory", "maxNodes": 30, "laserRange": 8, "category": "power"}

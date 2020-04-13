@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "luluti power node", "description": "...", "size": 2, "health": 315, "requirements": [{"item": "luluti", "amount": 15}, {"item": "xovunium", "amount": 15}, {"item": "xepiqi", "amount": 6}], "research": "luluti-factory", "maxNodes": 56, "laserRange": 13, "category": "power"}

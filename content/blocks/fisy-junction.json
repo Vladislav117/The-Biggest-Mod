@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fisy junction", "description": "...", "health": 39, "speed": 2, "capacity": 5, "size": 1, "requirements": [{"item": "fisy", "amount": 4}, {"item": "bawewo", "amount": 1}], "research": "fisy-conveyor", "category": "distribution"}

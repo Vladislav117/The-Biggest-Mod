@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fejenium overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "fejenium", "amount": 2}, {"item": "jydo", "amount": 1}], "research": "fejenium-conveyor", "category": "distribution", "invert": false}

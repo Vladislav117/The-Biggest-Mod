@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "veza conveyor", "description": "...", "health": 160, "requirements": [{"item": "veza", "amount": 1}, {"item": "tabo", "amount": 6}], "speed": 0.31505178820183005, "research": "veza-factory", "category": "distribution"}

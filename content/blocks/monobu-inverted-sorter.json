@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "monobu inverted sorter", "description": ",...", "health": 22, "size": 1, "requirements": [{"item": "monobu", "amount": 2}, {"item": "xujo", "amount": 1}], "research": "monobu-conveyor", "category": "distribution", "invert": true}

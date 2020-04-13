@@ -1,0 +1,1 @@
+{"type": "battery", "name": "heqywanium battery", "description": "...", "size": 3, "health": 34, "requirements": [{"item": "heqywanium", "amount": 12}, {"item": "lyru", "amount": 13}, {"item": "lyru", "amount": 7}], "research": "heqywanium-factory", "consumes": {"powerBuffered": 2623}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qimy conduit", "description": "...", "health": 153, "requirements": [{"item": "qimy", "amount": 17}, {"item": "dutenium", "amount": 1}, {"item": "yyba", "amount": 5}], "liquidCapacity": 15, "liquidPressure": 8, "research": "qimy-factory", "category": "liquid"}

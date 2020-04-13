@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "paky conduit", "description": "...", "health": 58, "requirements": [{"item": "paky", "amount": 4}, {"item": "qudeya", "amount": 4}, {"item": "xavinium", "amount": 10}], "liquidCapacity": 1, "liquidPressure": 4, "research": "paky-factory", "category": "liquid"}

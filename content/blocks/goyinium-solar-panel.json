@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "goyinium solar panel", "description": "...", "size": 3, "health": 22, "requirements": [{"item": "goyinium", "amount": 9}, {"item": "nuko", "amount": 14}, {"item": "syxy", "amount": 6}], "research": "goyinium-factory", "powerProduction": 1.0160594423832798, "category": "power"}

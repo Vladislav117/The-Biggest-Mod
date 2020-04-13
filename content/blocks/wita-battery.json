@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wita battery", "description": "...", "size": 3, "health": 345, "requirements": [{"item": "wita", "amount": 18}, {"item": "tozokinium", "amount": 13}, {"item": "dekeko", "amount": 7}], "research": "wita-factory", "consumes": {"powerBuffered": 3171}, "category": "power"}

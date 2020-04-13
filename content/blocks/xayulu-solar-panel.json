@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "xayulu solar panel", "description": "...", "size": 3, "health": 273, "requirements": [{"item": "xayulu", "amount": 8}, {"item": "beweya", "amount": 13}, {"item": "maku", "amount": 10}], "research": "xayulu-factory", "powerProduction": 0.963768350195006, "category": "power"}

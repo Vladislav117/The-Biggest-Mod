@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "sebypa drill", "description": "...", "size": 4, "health": 186, "tier": 2, "drillTime": 18, "consumes": {"power": 15}, "requirements": [{"item": "sebypa", "amount": 7}, {"item": "kyte", "amount": 2}, {"item": "ceqo", "amount": 2}], "research": "sebypa-factory", "category": "production"}

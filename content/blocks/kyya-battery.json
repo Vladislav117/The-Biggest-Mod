@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kyya battery", "description": "...", "size": 3, "health": 364, "requirements": [{"item": "kyya", "amount": 6}, {"item": "cyyenium", "amount": 5}, {"item": "byja", "amount": 10}], "research": "kyya-factory", "consumes": {"powerBuffered": 1112}, "category": "power"}

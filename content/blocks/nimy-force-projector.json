@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "nimy force projector", "description": "...", "health": 195, "size": 3, "consumes": {"power": 5.0, "item": "nimy"}, "requirements": [{"item": "nimy", "amount": 10}, {"item": "dyzo", "amount": 15}, {"item": "heruru", "amount": 9}], "research": "nimy-factory", "category": "effect"}

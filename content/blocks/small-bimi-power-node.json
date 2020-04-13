@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bimi power node", "description": "...", "size": 1, "health": 105, "requirements": [{"item": "bimi", "amount": 18}, {"item": "wabaru", "amount": 1}, {"item": "fogodo", "amount": 1}], "research": "bimi-factory", "maxNodes": 4, "laserRange": 17, "category": "power"}

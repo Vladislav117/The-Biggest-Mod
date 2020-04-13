@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gawo underflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "gawo", "amount": 2}, {"item": "giyabinium", "amount": 2}], "research": "gawo-conveyor", "category": "distribution", "invert": false}

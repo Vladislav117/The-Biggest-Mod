@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "goto overdrive projector", "description": "...", "health": 60, "consumes": {"power": 3.0, "item": "goto"}, "size": 2, "requirements": [{"item": "goto", "amount": 8}, {"item": "qeyanium", "amount": 1}, {"item": "xywoty", "amount": 9}], "research": "goto-factory", "category": "effect"}

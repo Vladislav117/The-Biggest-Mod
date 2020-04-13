@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zehonium liquid tank", "description": "...", "health": 573, "size": 3, "requirements": [{"item": "zehonium", "amount": 12}, {"item": "kelurynium", "amount": 14}, {"item": "lahowe", "amount": 8}], "research": "zehonium-conduit", "category": "liquid", "liquidCapacity": 24803, "hasLiquids": true}

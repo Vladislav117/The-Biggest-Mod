@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jaxi battery", "description": "...", "size": 3, "health": 237, "requirements": [{"item": "jaxi", "amount": 10}, {"item": "doge", "amount": 1}, {"item": "luyoyinium", "amount": 9}], "research": "jaxi-factory", "consumes": {"powerBuffered": 4463}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "naziha liquid tank", "description": "...", "health": 646, "size": 3, "requirements": [{"item": "naziha", "amount": 9}, {"item": "penabi", "amount": 4}, {"item": "dyco", "amount": 6}], "research": "naziha-conduit", "category": "liquid", "liquidCapacity": 57247, "hasLiquids": true}

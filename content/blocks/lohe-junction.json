@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lohe junction", "description": "...", "health": 6, "speed": 9, "capacity": 11, "size": 1, "requirements": [{"item": "lohe", "amount": 1}, {"item": "jalenium", "amount": 4}], "research": "lohe-conveyor", "category": "distribution"}

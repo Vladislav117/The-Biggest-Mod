@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "noveba force projector", "description": "...", "health": 215, "size": 3, "consumes": {"power": 5.0, "item": "noveba"}, "requirements": [{"item": "noveba", "amount": 13}, {"item": "hagunium", "amount": 17}, {"item": "mygi", "amount": 4}], "research": "noveba-factory", "category": "effect"}

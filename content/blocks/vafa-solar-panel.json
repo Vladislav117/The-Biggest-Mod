@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vafa solar panel", "description": "...", "size": 3, "health": 297, "requirements": [{"item": "vafa", "amount": 17}, {"item": "boko", "amount": 8}, {"item": "byja", "amount": 2}], "research": "vafa-factory", "powerProduction": 6.01310763945151, "category": "power"}

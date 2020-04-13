@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tove junction", "description": "...", "health": 13, "speed": 14, "capacity": 2, "size": 1, "requirements": [{"item": "tove", "amount": 3}, {"item": "cynehe", "amount": 4}], "research": "tove-conveyor", "category": "distribution"}

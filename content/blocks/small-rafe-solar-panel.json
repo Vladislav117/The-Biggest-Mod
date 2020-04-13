@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rafe solar panel", "description": "...", "size": 1, "health": 258, "requirements": [{"item": "rafe", "amount": 11}, {"item": "fahi", "amount": 15}, {"item": "sato", "amount": 8}], "research": "rafe-factory", "powerProduction": 1.48271134334555, "category": "power"}

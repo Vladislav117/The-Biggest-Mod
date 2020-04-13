@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qaty conduit", "description": "...", "health": 98, "requirements": [{"item": "qaty", "amount": 18}, {"item": "dugi", "amount": 2}, {"item": "gunery", "amount": 9}], "liquidCapacity": 15, "liquidPressure": 1, "research": "qaty-factory", "category": "liquid"}

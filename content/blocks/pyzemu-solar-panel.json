@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pyzemu solar panel", "description": "...", "size": 3, "health": 279, "requirements": [{"item": "pyzemu", "amount": 2}, {"item": "yyti", "amount": 8}, {"item": "yixo", "amount": 10}], "research": "pyzemu-factory", "powerProduction": 2.6266616623445693, "category": "power"}

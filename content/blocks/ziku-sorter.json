@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "ziku sorter", "description": ",...", "health": 23, "size": 1, "requirements": [{"item": "ziku", "amount": 3}, {"item": "qusepu", "amount": 3}], "research": "ziku-conveyor", "category": "distribution", "invert": false}

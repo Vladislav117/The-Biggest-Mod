@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "roteca power node", "description": "...", "size": 2, "health": 50, "requirements": [{"item": "roteca", "amount": 8}, {"item": "nyma", "amount": 1}, {"item": "seleme", "amount": 1}], "research": "roteca-factory", "maxNodes": 14, "laserRange": 16, "category": "power"}

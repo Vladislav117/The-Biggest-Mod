@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "rega liquid router", "description": "...", "size": 1, "health": 17, "requirements": [{"item": "rega", "amount": 8}, {"item": "qiseho", "amount": 5}, {"item": "caho", "amount": 2}], "research": "rega-conduit", "liquidCapacity": 10, "category": "liquid"}

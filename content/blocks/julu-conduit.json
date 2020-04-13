@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "julu conduit", "description": "...", "health": 113, "requirements": [{"item": "julu", "amount": 5}, {"item": "byyu", "amount": 9}, {"item": "hofi", "amount": 6}], "liquidCapacity": 10, "liquidPressure": 0, "research": "julu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gypunium battery", "description": "...", "size": 1, "health": 19, "requirements": [{"item": "gypunium", "amount": 12}, {"item": "kyte", "amount": 20}, {"item": "hedi", "amount": 2}], "research": "gypunium-factory", "consumes": {"powerBuffered": 584}, "category": "power"}

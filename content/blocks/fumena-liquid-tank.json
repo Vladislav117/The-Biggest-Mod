@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fumena liquid tank", "description": "...", "health": 245, "size": 3, "requirements": [{"item": "fumena", "amount": 7}, {"item": "kecufi", "amount": 18}, {"item": "mutevi", "amount": 2}], "research": "fumena-conduit", "category": "liquid", "liquidCapacity": 65294, "hasLiquids": true}

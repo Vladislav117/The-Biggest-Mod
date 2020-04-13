@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small duly battery", "description": "...", "size": 1, "health": 384, "requirements": [{"item": "duly", "amount": 11}, {"item": "danitu", "amount": 2}, {"item": "julynium", "amount": 9}], "research": "duly-factory", "consumes": {"powerBuffered": 1221}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "myvava liquid tank", "description": "...", "health": 639, "size": 3, "requirements": [{"item": "myvava", "amount": 20}, {"item": "qycu", "amount": 12}, {"item": "zixysinium", "amount": 9}], "research": "myvava-conduit", "category": "liquid", "liquidCapacity": 85582, "hasLiquids": true}

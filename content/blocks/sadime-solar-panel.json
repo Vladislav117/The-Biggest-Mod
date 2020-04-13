@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sadime solar panel", "description": "...", "size": 3, "health": 27, "requirements": [{"item": "sadime", "amount": 10}, {"item": "tozenium", "amount": 5}, {"item": "qulape", "amount": 9}], "research": "sadime-factory", "powerProduction": 0.7447261501017703, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small veru power node", "description": "...", "size": 1, "health": 13, "requirements": [{"item": "veru", "amount": 5}, {"item": "fabese", "amount": 20}, {"item": "vega", "amount": 9}], "research": "veru-factory", "maxNodes": 13, "laserRange": 9, "category": "power"}

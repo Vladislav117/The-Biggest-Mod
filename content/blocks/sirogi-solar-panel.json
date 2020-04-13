@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sirogi solar panel", "description": "...", "size": 3, "health": 311, "requirements": [{"item": "sirogi", "amount": 14}, {"item": "yibufe", "amount": 1}, {"item": "jayi", "amount": 8}], "research": "sirogi-factory", "powerProduction": 0.04618160247735923, "category": "power"}

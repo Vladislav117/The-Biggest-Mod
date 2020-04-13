@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vusy conduit", "description": "...", "health": 102, "requirements": [{"item": "vusy", "amount": 11}, {"item": "vodo", "amount": 18}, {"item": "jicefu", "amount": 2}], "liquidCapacity": 35, "liquidPressure": 3, "research": "vusy-factory", "category": "liquid"}

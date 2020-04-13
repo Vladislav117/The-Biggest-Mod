@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vodico bridge conveyor", "description": "", "health": 44, "range": 13, "speed": 9, "bufferCapacity": 20, "requirements": [{"item": "vodico", "amount": 2}, {"item": "xutire", "amount": 5}], "research": "vodico-conveyor", "category": "distribution", "size": 1}

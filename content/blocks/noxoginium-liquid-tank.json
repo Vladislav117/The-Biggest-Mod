@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "noxoginium liquid tank", "description": "...", "health": 251, "size": 3, "requirements": [{"item": "noxoginium", "amount": 20}, {"item": "wylanium", "amount": 1}, {"item": "sekycynium", "amount": 9}], "research": "noxoginium-conduit", "category": "liquid", "liquidCapacity": 5529, "hasLiquids": true}

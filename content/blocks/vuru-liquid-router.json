@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vuru liquid router", "description": "...", "size": 1, "health": 23, "requirements": [{"item": "vuru", "amount": 18}, {"item": "pemi", "amount": 5}, {"item": "jydo", "amount": 5}], "research": "vuru-conduit", "liquidCapacity": 10, "category": "liquid"}

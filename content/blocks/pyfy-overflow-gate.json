@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "pyfy overflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "pyfy", "amount": 4}, {"item": "xuzy", "amount": 3}], "research": "pyfy-conveyor", "category": "distribution", "invert": false}

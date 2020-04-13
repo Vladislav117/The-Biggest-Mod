@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "baqilo inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "baqilo", "amount": 5}, {"item": "qiregynium", "amount": 3}], "research": "baqilo-conveyor", "category": "distribution", "invert": true}

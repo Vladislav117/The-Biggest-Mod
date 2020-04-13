@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rebanium solar panel", "description": "...", "size": 1, "health": 34, "requirements": [{"item": "rebanium", "amount": 10}, {"item": "rafe", "amount": 14}, {"item": "fifoxo", "amount": 10}], "research": "rebanium-factory", "powerProduction": 4.193366161218437, "category": "power"}

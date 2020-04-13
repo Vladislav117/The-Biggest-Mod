@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qiyo drill", "description": "...", "size": 4, "health": 376, "tier": 4, "drillTime": 19, "consumes": {"power": 1}, "requirements": [{"item": "qiyo", "amount": 20}, {"item": "cyxibe", "amount": 16}, {"item": "mygyyy", "amount": 5}], "research": "qiyo-factory", "category": "production"}

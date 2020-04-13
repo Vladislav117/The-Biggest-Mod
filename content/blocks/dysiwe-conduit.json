@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dysiwe conduit", "description": "...", "health": 53, "requirements": [{"item": "dysiwe", "amount": 18}, {"item": "ruvudo", "amount": 11}, {"item": "cafe", "amount": 2}], "liquidCapacity": 40, "liquidPressure": 8, "research": "dysiwe-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "kedixe conduit", "description": "...", "health": 21, "requirements": [{"item": "kedixe", "amount": 6}, {"item": "gino", "amount": 18}, {"item": "dugi", "amount": 1}], "liquidCapacity": 4, "liquidPressure": 0, "research": "kedixe-factory", "category": "liquid"}

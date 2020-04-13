@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pyyomi battery", "description": "...", "size": 3, "health": 272, "requirements": [{"item": "pyyomi", "amount": 5}, {"item": "ligyxe", "amount": 5}, {"item": "mapa", "amount": 2}], "research": "pyyomi-factory", "consumes": {"powerBuffered": 2042}, "category": "power"}

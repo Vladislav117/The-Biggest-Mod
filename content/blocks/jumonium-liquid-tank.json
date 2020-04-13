@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jumonium liquid tank", "description": "...", "health": 414, "size": 3, "requirements": [{"item": "jumonium", "amount": 4}, {"item": "copper", "amount": 7}, {"item": "kurecanium", "amount": 9}], "research": "jumonium-conduit", "category": "liquid", "liquidCapacity": 63923, "hasLiquids": true}

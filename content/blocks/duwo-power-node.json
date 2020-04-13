@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "duwo power node", "description": "...", "size": 2, "health": 517, "requirements": [{"item": "duwo", "amount": 16}, {"item": "fusyle", "amount": 17}, {"item": "nunanunium", "amount": 1}], "research": "duwo-factory", "maxNodes": 37, "laserRange": 13, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lozyre battery", "description": "...", "size": 3, "health": 20, "requirements": [{"item": "lozyre", "amount": 20}, {"item": "bedy", "amount": 19}, {"item": "vulo", "amount": 8}], "research": "lozyre-factory", "consumes": {"powerBuffered": 4684}, "category": "power"}

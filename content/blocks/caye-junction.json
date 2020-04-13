@@ -1,0 +1,1 @@
+{"type": "junction", "name": "caye junction", "description": "...", "health": 16, "speed": 7, "capacity": 5, "size": 1, "requirements": [{"item": "caye", "amount": 2}, {"item": "cecuvinium", "amount": 5}], "research": "caye-conveyor", "category": "distribution"}

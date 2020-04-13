@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zade conduit", "description": "...", "health": 116, "requirements": [{"item": "zade", "amount": 10}, {"item": "rateju", "amount": 15}, {"item": "doya", "amount": 1}], "liquidCapacity": 41, "liquidPressure": 2, "research": "zade-factory", "category": "liquid"}

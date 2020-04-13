@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zekaru conduit", "description": "...", "health": 133, "requirements": [{"item": "zekaru", "amount": 3}, {"item": "betesa", "amount": 12}, {"item": "copper", "amount": 6}], "liquidCapacity": 26, "liquidPressure": 7, "research": "zekaru-factory", "category": "liquid"}

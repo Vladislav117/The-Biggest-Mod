@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sozi power node", "description": "...", "size": 2, "health": 485, "requirements": [{"item": "sozi", "amount": 9}, {"item": "qubyzi", "amount": 18}, {"item": "webebu", "amount": 2}], "research": "sozi-factory", "maxNodes": 33, "laserRange": 8, "category": "power"}

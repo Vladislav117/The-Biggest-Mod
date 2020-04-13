@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qytoqa liquid tank", "description": "...", "health": 423, "size": 3, "requirements": [{"item": "qytoqa", "amount": 11}, {"item": "lory", "amount": 11}, {"item": "bofazy", "amount": 6}], "research": "qytoqa-conduit", "category": "liquid", "liquidCapacity": 103916, "hasLiquids": true}

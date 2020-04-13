@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ryve battery", "description": "...", "size": 3, "health": 40, "requirements": [{"item": "ryve", "amount": 14}, {"item": "kuku", "amount": 9}, {"item": "vyly", "amount": 7}], "research": "ryve-factory", "consumes": {"powerBuffered": 8848}, "category": "power"}

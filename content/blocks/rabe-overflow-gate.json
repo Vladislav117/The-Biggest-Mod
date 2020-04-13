@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rabe overflow gate", "description": "...", "health": 15, "size": 1, "requirements": [{"item": "rabe", "amount": 4}, {"item": "xeye", "amount": 4}], "research": "rabe-conveyor", "category": "distribution", "invert": false}

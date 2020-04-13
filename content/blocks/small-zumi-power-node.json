@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zumi power node", "description": "...", "size": 1, "health": 94, "requirements": [{"item": "zumi", "amount": 2}, {"item": "vupofy", "amount": 11}, {"item": "metadu", "amount": 2}], "research": "zumi-factory", "maxNodes": 20, "laserRange": 10, "category": "power"}

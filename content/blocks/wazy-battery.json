@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wazy battery", "description": "...", "size": 3, "health": 221, "requirements": [{"item": "wazy", "amount": 4}, {"item": "sylyxy", "amount": 19}, {"item": "wozyju", "amount": 3}], "research": "wazy-factory", "consumes": {"powerBuffered": 6453}, "category": "power"}

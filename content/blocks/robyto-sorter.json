@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "robyto sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "robyto", "amount": 4}, {"item": "bore", "amount": 2}], "research": "robyto-conveyor", "category": "distribution", "invert": false}

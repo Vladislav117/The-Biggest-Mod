@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cenu underflow gate", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "cenu", "amount": 1}, {"item": "geka", "amount": 5}], "research": "cenu-conveyor", "category": "distribution", "invert": false}

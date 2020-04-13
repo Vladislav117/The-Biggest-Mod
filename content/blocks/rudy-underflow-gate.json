@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rudy underflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "rudy", "amount": 4}, {"item": "kokonium", "amount": 2}], "research": "rudy-conveyor", "category": "distribution", "invert": false}

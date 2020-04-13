@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qegynium liquid tank", "description": "...", "health": 285, "size": 3, "requirements": [{"item": "qegynium", "amount": 15}, {"item": "xepiqi", "amount": 13}, {"item": "teyipu", "amount": 3}], "research": "qegynium-conduit", "category": "liquid", "liquidCapacity": 25233, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vucazy inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "vucazy", "amount": 3}, {"item": "piqymunium", "amount": 1}], "research": "vucazy-conveyor", "category": "distribution", "invert": true}

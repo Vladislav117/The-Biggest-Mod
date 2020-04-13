@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pala conduit", "description": "...", "health": 41, "requirements": [{"item": "pala", "amount": 14}, {"item": "bebexu", "amount": 1}, {"item": "yobabynium", "amount": 10}], "liquidCapacity": 19, "liquidPressure": 3, "research": "pala-factory", "category": "liquid"}

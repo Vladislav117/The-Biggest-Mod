@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "byfyge overdrive projector", "description": "...", "health": 50, "consumes": {"power": 3.0, "item": "byfyge"}, "size": 2, "requirements": [{"item": "byfyge", "amount": 16}, {"item": "musebo", "amount": 3}, {"item": "jepumi", "amount": 4}], "research": "byfyge-factory", "category": "effect"}

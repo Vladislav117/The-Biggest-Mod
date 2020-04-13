@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "holipu power node", "description": "...", "size": 2, "health": 256, "requirements": [{"item": "holipu", "amount": 13}, {"item": "xapu", "amount": 19}, {"item": "wuqosenium", "amount": 2}], "research": "holipu-factory", "maxNodes": 19, "laserRange": 13, "category": "power"}

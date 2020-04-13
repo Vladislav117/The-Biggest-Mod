@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "fahi conduit", "description": "...", "health": 108, "requirements": [{"item": "fahi", "amount": 19}, {"item": "bajenium", "amount": 18}, {"item": "yunu", "amount": 6}], "liquidCapacity": 8, "liquidPressure": 6, "research": "fahi-factory", "category": "liquid"}

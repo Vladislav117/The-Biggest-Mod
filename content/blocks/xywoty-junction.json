@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xywoty junction", "description": "...", "health": 22, "speed": 16, "capacity": 9, "size": 1, "requirements": [{"item": "xywoty", "amount": 1}, {"item": "resenium", "amount": 5}], "research": "xywoty-conveyor", "category": "distribution"}

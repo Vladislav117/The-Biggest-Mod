@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sufeca power node", "description": "...", "size": 2, "health": 395, "requirements": [{"item": "sufeca", "amount": 13}, {"item": "nido", "amount": 20}, {"item": "nifego", "amount": 1}], "research": "sufeca-factory", "maxNodes": 57, "laserRange": 30, "category": "power"}

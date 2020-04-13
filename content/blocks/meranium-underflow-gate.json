@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "meranium underflow gate", "description": "...", "health": 21, "size": 1, "requirements": [{"item": "meranium", "amount": 1}, {"item": "bobu", "amount": 3}], "research": "meranium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "baqyrinium overflow gate", "description": "...", "health": 5, "size": 1, "requirements": [{"item": "baqyrinium", "amount": 4}, {"item": "neda", "amount": 2}], "research": "baqyrinium-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "heruru drill", "description": "...", "size": 2, "health": 253, "tier": 4, "drillTime": 11, "consumes": {"power": 17}, "requirements": [{"item": "heruru", "amount": 2}, {"item": "fogodo", "amount": 14}, {"item": "bybity", "amount": 7}], "research": "heruru-factory", "category": "production"}

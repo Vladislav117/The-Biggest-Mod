@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jywupa battery", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "jywupa", "amount": 19}, {"item": "metaglass", "amount": 14}, {"item": "surge-alloy", "amount": 3}], "research": "jywupa-factory", "consumes": {"powerBuffered": 2653}, "category": "power"}

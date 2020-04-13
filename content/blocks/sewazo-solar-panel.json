@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sewazo solar panel", "description": "...", "size": 3, "health": 204, "requirements": [{"item": "sewazo", "amount": 16}, {"item": "minu", "amount": 7}, {"item": "jiyomonium", "amount": 1}], "research": "sewazo-factory", "powerProduction": 6.301074537678612, "category": "power"}

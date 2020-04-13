@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fime solar panel", "description": "...", "size": 3, "health": 330, "requirements": [{"item": "fime", "amount": 11}, {"item": "diqa", "amount": 10}, {"item": "wozyju", "amount": 9}], "research": "fime-factory", "powerProduction": 5.56966462171001, "category": "power"}

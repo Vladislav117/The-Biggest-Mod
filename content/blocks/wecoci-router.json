@@ -1,0 +1,1 @@
+{"type": "router", "name": "wecoci router", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "wecoci", "amount": 6}], "research": "wecoci-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "taqe conduit", "description": "...", "health": 108, "requirements": [{"item": "taqe", "amount": 14}, {"item": "qedydy", "amount": 5}, {"item": "hiqasynium", "amount": 10}], "liquidCapacity": 24, "liquidPressure": 5, "research": "taqe-factory", "category": "liquid"}

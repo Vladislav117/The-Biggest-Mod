@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyremi liquid tank", "description": "...", "health": 408, "size": 3, "requirements": [{"item": "zyremi", "amount": 14}, {"item": "zokoya", "amount": 20}, {"item": "fuyoja", "amount": 3}], "research": "zyremi-conduit", "category": "liquid", "liquidCapacity": 87512, "hasLiquids": true}

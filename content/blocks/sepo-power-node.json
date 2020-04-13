@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sepo power node", "description": "...", "size": 2, "health": 77, "requirements": [{"item": "sepo", "amount": 12}, {"item": "vadoda", "amount": 19}, {"item": "kobocunium", "amount": 7}], "research": "sepo-factory", "maxNodes": 53, "laserRange": 8, "category": "power"}

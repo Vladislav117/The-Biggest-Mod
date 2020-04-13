@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cefi power node", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "cefi", "amount": 15}, {"item": "life", "amount": 15}, {"item": "wycenu", "amount": 4}], "research": "cefi-factory", "maxNodes": 25, "laserRange": 11, "category": "power"}

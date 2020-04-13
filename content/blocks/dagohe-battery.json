@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dagohe battery", "description": "...", "size": 3, "health": 298, "requirements": [{"item": "dagohe", "amount": 16}, {"item": "gusavunium", "amount": 6}, {"item": "goxize", "amount": 8}], "research": "dagohe-factory", "consumes": {"powerBuffered": 1011}, "category": "power"}

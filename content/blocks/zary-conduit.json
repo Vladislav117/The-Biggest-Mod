@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zary conduit", "description": "...", "health": 165, "requirements": [{"item": "zary", "amount": 2}, {"item": "nufuponium", "amount": 11}, {"item": "guvoja", "amount": 8}], "liquidCapacity": 35, "liquidPressure": 5, "research": "zary-factory", "category": "liquid"}

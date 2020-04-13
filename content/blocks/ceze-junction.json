@@ -1,0 +1,1 @@
+{"type": "junction", "name": "ceze junction", "description": "...", "health": 32, "speed": 1, "capacity": 15, "size": 1, "requirements": [{"item": "ceze", "amount": 3}, {"item": "ruteqa", "amount": 1}], "research": "ceze-conveyor", "category": "distribution"}

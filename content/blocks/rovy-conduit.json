@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "rovy conduit", "description": "...", "health": 70, "requirements": [{"item": "rovy", "amount": 18}, {"item": "mygo", "amount": 18}, {"item": "bepoxu", "amount": 2}], "liquidCapacity": 40, "liquidPressure": 6, "research": "rovy-factory", "category": "liquid"}

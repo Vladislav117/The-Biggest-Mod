@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vyde solar panel", "description": "...", "size": 3, "health": 79, "requirements": [{"item": "vyde", "amount": 20}, {"item": "nilo", "amount": 6}, {"item": "difu", "amount": 6}], "research": "vyde-factory", "powerProduction": 0.09517597926633906, "category": "power"}

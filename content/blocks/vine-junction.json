@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vine junction", "description": "...", "health": 47, "speed": 2, "capacity": 2, "size": 1, "requirements": [{"item": "vine", "amount": 3}, {"item": "zuwabo", "amount": 3}], "research": "vine-conveyor", "category": "distribution"}

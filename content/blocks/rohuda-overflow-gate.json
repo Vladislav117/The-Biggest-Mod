@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rohuda overflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "rohuda", "amount": 4}, {"item": "mavitu", "amount": 4}], "research": "rohuda-conveyor", "category": "distribution", "invert": false}

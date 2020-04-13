@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gajusu bridge conveyor", "description": "", "health": 42, "range": 2, "speed": 7, "bufferCapacity": 13, "requirements": [{"item": "gajusu", "amount": 5}, {"item": "deke", "amount": 3}], "research": "gajusu-conveyor", "category": "distribution", "size": 1}

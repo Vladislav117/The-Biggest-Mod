@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cizenium battery", "description": "...", "size": 3, "health": 78, "requirements": [{"item": "cizenium", "amount": 18}, {"item": "kofynium", "amount": 17}, {"item": "ticija", "amount": 5}], "research": "cizenium-factory", "consumes": {"powerBuffered": 2651}, "category": "power"}

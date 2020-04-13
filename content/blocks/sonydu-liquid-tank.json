@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sonydu liquid tank", "description": "...", "health": 187, "size": 3, "requirements": [{"item": "sonydu", "amount": 11}, {"item": "yovasi", "amount": 15}, {"item": "tabo", "amount": 5}], "research": "sonydu-conduit", "category": "liquid", "liquidCapacity": 68771, "hasLiquids": true}

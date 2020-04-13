@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small rily solar panel", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "rily", "amount": 10}, {"item": "gado", "amount": 11}, {"item": "pekixa", "amount": 4}], "research": "rily-factory", "powerProduction": 0.7501118979159056, "category": "power"}

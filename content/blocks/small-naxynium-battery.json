@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small naxynium battery", "description": "...", "size": 1, "health": 307, "requirements": [{"item": "naxynium", "amount": 16}, {"item": "rega", "amount": 13}, {"item": "winynium", "amount": 2}], "research": "naxynium-factory", "consumes": {"powerBuffered": 2630}, "category": "power"}

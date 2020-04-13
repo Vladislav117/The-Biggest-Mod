@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kute junction", "description": "...", "health": 2, "speed": 8, "capacity": 12, "size": 1, "requirements": [{"item": "kute", "amount": 1}, {"item": "lora", "amount": 1}], "research": "kute-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vana power node", "description": "...", "size": 2, "health": 314, "requirements": [{"item": "vana", "amount": 9}, {"item": "paba", "amount": 17}, {"item": "jaga", "amount": 3}], "research": "vana-factory", "maxNodes": 27, "laserRange": 12, "category": "power"}

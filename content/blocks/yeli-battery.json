@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yeli battery", "description": "...", "size": 3, "health": 305, "requirements": [{"item": "yeli", "amount": 2}, {"item": "wace", "amount": 18}, {"item": "yaxuda", "amount": 10}], "research": "yeli-factory", "consumes": {"powerBuffered": 3048}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bexo overflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "bexo", "amount": 1}, {"item": "kety", "amount": 2}], "research": "bexo-conveyor", "category": "distribution", "invert": false}

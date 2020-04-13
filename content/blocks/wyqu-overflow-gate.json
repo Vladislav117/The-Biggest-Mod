@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wyqu overflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "wyqu", "amount": 1}, {"item": "qotu", "amount": 2}], "research": "wyqu-conveyor", "category": "distribution", "invert": false}

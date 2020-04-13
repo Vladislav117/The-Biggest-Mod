@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small muni battery", "description": "...", "size": 1, "health": 57, "requirements": [{"item": "muni", "amount": 14}, {"item": "tydeja", "amount": 13}, {"item": "zetizy", "amount": 3}], "research": "muni-factory", "consumes": {"powerBuffered": 1329}, "category": "power"}

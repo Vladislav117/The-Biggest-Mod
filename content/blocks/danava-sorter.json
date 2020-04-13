@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "danava sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "danava", "amount": 5}, {"item": "qiyatonium", "amount": 5}], "research": "danava-conveyor", "category": "distribution", "invert": false}

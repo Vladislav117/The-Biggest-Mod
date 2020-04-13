@@ -1,0 +1,1 @@
+{"type": "battery", "name": "daxury battery", "description": "...", "size": 3, "health": 354, "requirements": [{"item": "daxury", "amount": 8}, {"item": "xutire", "amount": 18}, {"item": "qaxaqa", "amount": 3}], "research": "daxury-factory", "consumes": {"powerBuffered": 1588}, "category": "power"}

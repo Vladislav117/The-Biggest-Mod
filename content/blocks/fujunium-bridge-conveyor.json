@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "fujunium bridge conveyor", "description": "", "health": 5, "range": 19, "speed": 16, "bufferCapacity": 8, "requirements": [{"item": "fujunium", "amount": 4}, {"item": "zapu", "amount": 4}], "research": "fujunium-conveyor", "category": "distribution", "size": 1}

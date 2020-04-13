@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "piyovy liquid tank", "description": "...", "health": 121, "size": 3, "requirements": [{"item": "piyovy", "amount": 17}, {"item": "qoly", "amount": 2}, {"item": "ranoxinium", "amount": 7}], "research": "piyovy-conduit", "category": "liquid", "liquidCapacity": 52837, "hasLiquids": true}

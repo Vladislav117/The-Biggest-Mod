@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qupy overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "qupy", "amount": 3}, {"item": "yyle", "amount": 4}], "research": "qupy-conveyor", "category": "distribution", "invert": false}

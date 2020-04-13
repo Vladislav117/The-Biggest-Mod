@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "garuza conduit", "description": "...", "health": 189, "requirements": [{"item": "garuza", "amount": 19}, {"item": "gizomanium", "amount": 11}, {"item": "hicoxo", "amount": 10}], "liquidCapacity": 30, "liquidPressure": 3, "research": "garuza-factory", "category": "liquid"}

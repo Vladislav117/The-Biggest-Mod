@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "hibire liquid router", "description": "...", "size": 1, "health": 48, "requirements": [{"item": "hibire", "amount": 18}, {"item": "kelanium", "amount": 10}, {"item": "mava", "amount": 5}], "research": "hibire-conduit", "liquidCapacity": 10, "category": "liquid"}

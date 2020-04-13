@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kimicy junction", "description": "...", "health": 1, "speed": 1, "capacity": 4, "size": 1, "requirements": [{"item": "kimicy", "amount": 2}, {"item": "nezenium", "amount": 3}], "research": "kimicy-conveyor", "category": "distribution"}

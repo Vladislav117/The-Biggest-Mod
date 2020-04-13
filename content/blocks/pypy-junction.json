@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pypy junction", "description": "...", "health": 50, "speed": 15, "capacity": 3, "size": 1, "requirements": [{"item": "pypy", "amount": 2}, {"item": "dugi", "amount": 4}], "research": "pypy-conveyor", "category": "distribution"}

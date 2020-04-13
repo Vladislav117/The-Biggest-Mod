@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yisi liquid tank", "description": "...", "health": 264, "size": 3, "requirements": [{"item": "yisi", "amount": 20}, {"item": "biny", "amount": 3}, {"item": "toqozy", "amount": 7}], "research": "yisi-conduit", "category": "liquid", "liquidCapacity": 83536, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sozi battery", "description": "...", "size": 3, "health": 106, "requirements": [{"item": "sozi", "amount": 11}, {"item": "gufanium", "amount": 7}, {"item": "huro", "amount": 1}], "research": "sozi-factory", "consumes": {"powerBuffered": 5900}, "category": "power"}

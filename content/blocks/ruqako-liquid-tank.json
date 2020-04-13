@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ruqako liquid tank", "description": "...", "health": 442, "size": 3, "requirements": [{"item": "ruqako", "amount": 1}, {"item": "wiyeda", "amount": 15}, {"item": "labila", "amount": 1}], "research": "ruqako-conduit", "category": "liquid", "liquidCapacity": 59404, "hasLiquids": true}

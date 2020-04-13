@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tagawe battery", "description": "...", "size": 3, "health": 383, "requirements": [{"item": "tagawe", "amount": 17}, {"item": "naku", "amount": 17}, {"item": "diqa", "amount": 8}], "research": "tagawe-factory", "consumes": {"powerBuffered": 8822}, "category": "power"}

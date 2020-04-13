@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "rybiho underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "rybiho", "amount": 2}, {"item": "sawy", "amount": 1}], "research": "rybiho-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "duginium battery", "description": "...", "size": 3, "health": 346, "requirements": [{"item": "duginium", "amount": 2}, {"item": "lexo", "amount": 16}, {"item": "ryhi", "amount": 5}], "research": "duginium-factory", "consumes": {"powerBuffered": 2760}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sufeca battery", "description": "...", "size": 3, "health": 275, "requirements": [{"item": "sufeca", "amount": 9}, {"item": "geco", "amount": 2}, {"item": "magu", "amount": 7}], "research": "sufeca-factory", "consumes": {"powerBuffered": 8416}, "category": "power"}

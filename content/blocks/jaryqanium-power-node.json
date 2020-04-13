@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jaryqanium power node", "description": "...", "size": 2, "health": 250, "requirements": [{"item": "jaryqanium", "amount": 9}, {"item": "kovu", "amount": 9}, {"item": "zupisy", "amount": 6}], "research": "jaryqanium-factory", "maxNodes": 16, "laserRange": 17, "category": "power"}

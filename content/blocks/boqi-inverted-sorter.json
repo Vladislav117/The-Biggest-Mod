@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "boqi inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "boqi", "amount": 3}, {"item": "zija", "amount": 2}], "research": "boqi-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xunize liquid tank", "description": "...", "health": 208, "size": 3, "requirements": [{"item": "xunize", "amount": 8}, {"item": "kusyny", "amount": 16}, {"item": "zade", "amount": 1}], "research": "xunize-conduit", "category": "liquid", "liquidCapacity": 106104, "hasLiquids": true}

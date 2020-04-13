@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "kuwo conveyor", "description": "...", "health": 65, "requirements": [{"item": "kuwo", "amount": 5}, {"item": "joqopy", "amount": 4}], "speed": 0.38364416228668674, "research": "kuwo-factory", "category": "distribution"}

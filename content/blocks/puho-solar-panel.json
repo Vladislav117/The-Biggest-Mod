@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "puho solar panel", "description": "...", "size": 3, "health": 254, "requirements": [{"item": "puho", "amount": 7}, {"item": "viwiwinium", "amount": 1}, {"item": "tagawe", "amount": 3}], "research": "puho-factory", "powerProduction": 0.03208236620264782, "category": "power"}

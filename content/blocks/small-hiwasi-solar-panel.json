@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hiwasi solar panel", "description": "...", "size": 1, "health": 398, "requirements": [{"item": "hiwasi", "amount": 9}, {"item": "ryho", "amount": 13}, {"item": "qivohe", "amount": 8}], "research": "hiwasi-factory", "powerProduction": 2.451068465125553, "category": "power"}

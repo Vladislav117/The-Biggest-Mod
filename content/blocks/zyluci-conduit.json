@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zyluci conduit", "description": "...", "health": 110, "requirements": [{"item": "zyluci", "amount": 8}, {"item": "qovy", "amount": 6}, {"item": "tewo", "amount": 3}], "liquidCapacity": 8, "liquidPressure": 5, "research": "zyluci-factory", "category": "liquid"}

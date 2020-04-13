@@ -1,0 +1,1 @@
+{"type": "battery", "name": "nymopu battery", "description": "...", "size": 3, "health": 333, "requirements": [{"item": "nymopu", "amount": 3}, {"item": "fevu", "amount": 6}, {"item": "maqe", "amount": 7}], "research": "nymopu-factory", "consumes": {"powerBuffered": 2997}, "category": "power"}

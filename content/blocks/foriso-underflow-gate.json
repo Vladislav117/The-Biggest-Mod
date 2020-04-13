@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "foriso underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "foriso", "amount": 1}, {"item": "hezinium", "amount": 5}], "research": "foriso-conveyor", "category": "distribution", "invert": false}

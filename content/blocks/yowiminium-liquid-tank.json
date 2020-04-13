@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yowiminium liquid tank", "description": "...", "health": 629, "size": 3, "requirements": [{"item": "yowiminium", "amount": 19}, {"item": "motaty", "amount": 10}, {"item": "dyzo", "amount": 5}], "research": "yowiminium-conduit", "category": "liquid", "liquidCapacity": 30896, "hasLiquids": true}

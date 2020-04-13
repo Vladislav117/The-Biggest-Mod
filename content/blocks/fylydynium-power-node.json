@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fylydynium power node", "description": "...", "size": 2, "health": 28, "requirements": [{"item": "fylydynium", "amount": 5}, {"item": "xuvogi", "amount": 11}, {"item": "qeze", "amount": 4}], "research": "fylydynium-factory", "maxNodes": 32, "laserRange": 8, "category": "power"}

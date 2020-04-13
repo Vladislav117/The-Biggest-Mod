@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "hobunium conveyor", "description": "...", "health": 330, "requirements": [{"item": "hobunium", "amount": 10}, {"item": "dywusunium", "amount": 1}], "speed": 0.021339063104614198, "research": "hobunium-factory", "category": "distribution"}

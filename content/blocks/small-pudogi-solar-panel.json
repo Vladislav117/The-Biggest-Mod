@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pudogi solar panel", "description": "...", "size": 1, "health": 183, "requirements": [{"item": "pudogi", "amount": 17}, {"item": "jyluba", "amount": 18}, {"item": "soki", "amount": 8}], "research": "pudogi-factory", "powerProduction": 0.34814430163172105, "category": "power"}

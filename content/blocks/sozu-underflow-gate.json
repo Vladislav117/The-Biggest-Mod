@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sozu underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "sozu", "amount": 4}, {"item": "qefa", "amount": 1}], "research": "sozu-conveyor", "category": "distribution", "invert": false}

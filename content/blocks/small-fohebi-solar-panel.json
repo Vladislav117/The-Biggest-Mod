@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small fohebi solar panel", "description": "...", "size": 1, "health": 199, "requirements": [{"item": "fohebi", "amount": 5}, {"item": "jubuxa", "amount": 9}, {"item": "yunu", "amount": 5}], "research": "fohebi-factory", "powerProduction": 3.355417785931098, "category": "power"}

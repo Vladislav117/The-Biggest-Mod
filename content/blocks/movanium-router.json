@@ -1,0 +1,1 @@
+{"type": "router", "name": "movanium router", "description": "...", "health": 75, "size": 1, "requirements": [{"item": "movanium", "amount": 3}], "research": "movanium-conveyor", "category": "distribution"}

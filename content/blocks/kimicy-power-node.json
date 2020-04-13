@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kimicy power node", "description": "...", "size": 2, "health": 643, "requirements": [{"item": "kimicy", "amount": 9}, {"item": "nihu", "amount": 14}, {"item": "zetizy", "amount": 4}], "research": "kimicy-factory", "maxNodes": 51, "laserRange": 24, "category": "power"}

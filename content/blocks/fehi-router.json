@@ -1,0 +1,1 @@
+{"type": "router", "name": "fehi router", "description": "...", "health": 140, "size": 1, "requirements": [{"item": "fehi", "amount": 10}], "research": "fehi-conveyor", "category": "distribution"}

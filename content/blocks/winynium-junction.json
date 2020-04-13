@@ -1,0 +1,1 @@
+{"type": "junction", "name": "winynium junction", "description": "...", "health": 16, "speed": 11, "capacity": 10, "size": 1, "requirements": [{"item": "winynium", "amount": 5}, {"item": "zalirenium", "amount": 4}], "research": "winynium-conveyor", "category": "distribution"}

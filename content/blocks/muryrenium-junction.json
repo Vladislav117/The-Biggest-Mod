@@ -1,0 +1,1 @@
+{"type": "junction", "name": "muryrenium junction", "description": "...", "health": 37, "speed": 15, "capacity": 10, "size": 1, "requirements": [{"item": "muryrenium", "amount": 1}, {"item": "graphite", "amount": 3}], "research": "muryrenium-conveyor", "category": "distribution"}

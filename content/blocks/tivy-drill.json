@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "tivy drill", "description": "...", "size": 2, "health": 271, "tier": 3, "drillTime": 9, "consumes": {"power": 11}, "requirements": [{"item": "tivy", "amount": 14}, {"item": "byhonium", "amount": 15}, {"item": "fulyzynium", "amount": 8}], "research": "tivy-factory", "category": "production"}

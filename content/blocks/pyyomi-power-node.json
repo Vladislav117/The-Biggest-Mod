@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "pyyomi power node", "description": "...", "size": 2, "health": 613, "requirements": [{"item": "pyyomi", "amount": 2}, {"item": "tigocenium", "amount": 19}, {"item": "nigunium", "amount": 10}], "research": "pyyomi-factory", "maxNodes": 40, "laserRange": 23, "category": "power"}

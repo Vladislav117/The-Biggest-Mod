@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cydi liquid router", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "cydi", "amount": 7}, {"item": "niyi", "amount": 1}, {"item": "hexu", "amount": 3}], "research": "cydi-conduit", "liquidCapacity": 10, "category": "liquid"}

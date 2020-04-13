@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "soyase conduit", "description": "...", "health": 143, "requirements": [{"item": "soyase", "amount": 9}, {"item": "vudaxy", "amount": 12}, {"item": "liqohy", "amount": 7}], "liquidCapacity": 12, "liquidPressure": 1, "research": "soyase-factory", "category": "liquid"}

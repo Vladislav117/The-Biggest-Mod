@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "niruya solar panel", "description": "...", "size": 3, "health": 41, "requirements": [{"item": "niruya", "amount": 7}, {"item": "sihynium", "amount": 18}, {"item": "seyi", "amount": 2}], "research": "niruya-factory", "powerProduction": 0.8555417181322813, "category": "power"}

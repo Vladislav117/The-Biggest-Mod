@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zebe battery", "description": "...", "size": 3, "health": 276, "requirements": [{"item": "zebe", "amount": 11}, {"item": "yudesinium", "amount": 16}, {"item": "lesy", "amount": 9}], "research": "zebe-factory", "consumes": {"powerBuffered": 8379}, "category": "power"}

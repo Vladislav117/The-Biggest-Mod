@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yazu liquid router", "description": "...", "size": 1, "health": 10, "requirements": [{"item": "yazu", "amount": 3}, {"item": "heso", "amount": 5}, {"item": "kexaja", "amount": 9}], "research": "yazu-conduit", "liquidCapacity": 10, "category": "liquid"}

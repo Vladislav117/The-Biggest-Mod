@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wejabo power node", "description": "...", "size": 1, "health": 112, "requirements": [{"item": "wejabo", "amount": 3}, {"item": "hixe", "amount": 18}, {"item": "xuricy", "amount": 8}], "research": "wejabo-factory", "maxNodes": 29, "laserRange": 3, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fokinium solar panel", "description": "...", "size": 3, "health": 377, "requirements": [{"item": "fokinium", "amount": 17}, {"item": "cady", "amount": 17}, {"item": "qoti", "amount": 10}], "research": "fokinium-factory", "powerProduction": 2.8521062701811966, "category": "power"}

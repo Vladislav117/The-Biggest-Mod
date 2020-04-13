@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fexenium overflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "fexenium", "amount": 3}, {"item": "kyte", "amount": 5}], "research": "fexenium-conveyor", "category": "distribution", "invert": false}

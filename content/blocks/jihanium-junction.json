@@ -1,0 +1,1 @@
+{"type": "junction", "name": "jihanium junction", "description": "...", "health": 30, "speed": 5, "capacity": 15, "size": 1, "requirements": [{"item": "jihanium", "amount": 3}, {"item": "mymysynium", "amount": 5}], "research": "jihanium-conveyor", "category": "distribution"}

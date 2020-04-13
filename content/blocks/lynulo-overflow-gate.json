@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lynulo overflow gate", "description": "...", "health": 3, "size": 1, "requirements": [{"item": "lynulo", "amount": 5}, {"item": "bywazy", "amount": 4}], "research": "lynulo-conveyor", "category": "distribution", "invert": false}

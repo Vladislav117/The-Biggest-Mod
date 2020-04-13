@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dyyufo inverted sorter", "description": ",...", "health": 10, "size": 1, "requirements": [{"item": "dyyufo", "amount": 4}, {"item": "wuxorunium", "amount": 4}], "research": "dyyufo-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yucy power node", "description": "...", "size": 1, "health": 37, "requirements": [{"item": "yucy", "amount": 10}, {"item": "xikogo", "amount": 10}, {"item": "niqy", "amount": 5}], "research": "yucy-factory", "maxNodes": 12, "laserRange": 10, "category": "power"}

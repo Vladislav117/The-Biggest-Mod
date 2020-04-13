@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "darufo power node", "description": "...", "size": 2, "health": 285, "requirements": [{"item": "darufo", "amount": 10}, {"item": "fuyanium", "amount": 1}, {"item": "sojile", "amount": 8}], "research": "darufo-factory", "maxNodes": 27, "laserRange": 20, "category": "power"}

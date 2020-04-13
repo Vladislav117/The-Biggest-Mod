@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "viva power node", "description": "...", "size": 2, "health": 66, "requirements": [{"item": "viva", "amount": 15}, {"item": "muti", "amount": 17}, {"item": "norydo", "amount": 10}], "research": "viva-factory", "maxNodes": 54, "laserRange": 11, "category": "power"}

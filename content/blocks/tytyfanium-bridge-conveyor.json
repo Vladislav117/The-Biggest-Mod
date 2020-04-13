@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tytyfanium bridge conveyor", "description": "", "health": 14, "range": 10, "speed": 13, "bufferCapacity": 15, "requirements": [{"item": "tytyfanium", "amount": 4}, {"item": "bemu", "amount": 4}], "research": "tytyfanium-conveyor", "category": "distribution", "size": 1}

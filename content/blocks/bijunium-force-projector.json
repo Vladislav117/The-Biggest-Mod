@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "bijunium force projector", "description": "...", "health": 201, "size": 3, "consumes": {"power": 5.0, "item": "bijunium"}, "requirements": [{"item": "bijunium", "amount": 16}, {"item": "yogocu", "amount": 16}, {"item": "cyzufi", "amount": 4}], "research": "bijunium-factory", "category": "effect"}

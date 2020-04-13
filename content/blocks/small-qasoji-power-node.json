@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small qasoji power node", "description": "...", "size": 1, "health": 72, "requirements": [{"item": "qasoji", "amount": 1}, {"item": "fusyle", "amount": 7}, {"item": "sebypa", "amount": 7}], "research": "qasoji-factory", "maxNodes": 30, "laserRange": 16, "category": "power"}

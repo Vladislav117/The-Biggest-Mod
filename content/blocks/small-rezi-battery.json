@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rezi battery", "description": "...", "size": 1, "health": 311, "requirements": [{"item": "rezi", "amount": 11}, {"item": "jumy", "amount": 15}, {"item": "xuryvy", "amount": 9}], "research": "rezi-factory", "consumes": {"powerBuffered": 818}, "category": "power"}

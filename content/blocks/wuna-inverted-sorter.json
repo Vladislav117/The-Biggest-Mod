@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wuna inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "wuna", "amount": 3}, {"item": "qiloka", "amount": 1}], "research": "wuna-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cemo liquid tank", "description": "...", "health": 220, "size": 3, "requirements": [{"item": "cemo", "amount": 1}, {"item": "ziruzo", "amount": 15}, {"item": "xenira", "amount": 9}], "research": "cemo-conduit", "category": "liquid", "liquidCapacity": 17661, "hasLiquids": true}

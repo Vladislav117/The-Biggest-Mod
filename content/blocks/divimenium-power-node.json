@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "divimenium power node", "description": "...", "size": 2, "health": 670, "requirements": [{"item": "divimenium", "amount": 10}, {"item": "zyqita", "amount": 2}, {"item": "qiyatonium", "amount": 7}], "research": "divimenium-factory", "maxNodes": 13, "laserRange": 16, "category": "power"}

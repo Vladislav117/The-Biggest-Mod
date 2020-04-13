@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small gada battery", "description": "...", "size": 1, "health": 213, "requirements": [{"item": "gada", "amount": 9}, {"item": "gyfa", "amount": 18}, {"item": "yyjuhy", "amount": 2}], "research": "gada-factory", "consumes": {"powerBuffered": 2127}, "category": "power"}

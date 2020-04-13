@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "belaro solar panel", "description": "...", "size": 3, "health": 104, "requirements": [{"item": "belaro", "amount": 5}, {"item": "viqi", "amount": 15}, {"item": "byqo", "amount": 6}], "research": "belaro-factory", "powerProduction": 1.0677706012424177, "category": "power"}

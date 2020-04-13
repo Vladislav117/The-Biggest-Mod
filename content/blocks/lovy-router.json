@@ -1,0 +1,1 @@
+{"type": "router", "name": "lovy router", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "lovy", "amount": 2}], "research": "lovy-conveyor", "category": "distribution"}

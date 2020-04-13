@@ -1,0 +1,1 @@
+{"type": "battery", "name": "pyce battery", "description": "...", "size": 3, "health": 183, "requirements": [{"item": "pyce", "amount": 12}, {"item": "syxidonium", "amount": 15}, {"item": "yupo", "amount": 6}], "research": "pyce-factory", "consumes": {"powerBuffered": 401}, "category": "power"}

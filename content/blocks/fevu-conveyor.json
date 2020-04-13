@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "fevu conveyor", "description": "...", "health": 60, "requirements": [{"item": "fevu", "amount": 10}, {"item": "moki", "amount": 10}], "speed": 0.4819378779140615, "research": "fevu-factory", "category": "distribution"}

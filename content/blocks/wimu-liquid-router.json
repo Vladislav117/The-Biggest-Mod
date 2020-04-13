@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wimu liquid router", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "wimu", "amount": 8}, {"item": "puzihanium", "amount": 11}, {"item": "nitonium", "amount": 1}], "research": "wimu-conduit", "liquidCapacity": 10, "category": "liquid"}

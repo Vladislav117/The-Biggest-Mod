@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "naku sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "naku", "amount": 5}, {"item": "nevyle", "amount": 5}], "research": "naku-conveyor", "category": "distribution", "invert": false}

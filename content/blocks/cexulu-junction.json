@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cexulu junction", "description": "...", "health": 30, "speed": 16, "capacity": 15, "size": 1, "requirements": [{"item": "cexulu", "amount": 4}, {"item": "nifenium", "amount": 1}], "research": "cexulu-conveyor", "category": "distribution"}

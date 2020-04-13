@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "toku power node", "description": "...", "size": 2, "health": 195, "requirements": [{"item": "toku", "amount": 13}, {"item": "hudolo", "amount": 1}, {"item": "wypu", "amount": 3}], "research": "toku-factory", "maxNodes": 25, "laserRange": 5, "category": "power"}

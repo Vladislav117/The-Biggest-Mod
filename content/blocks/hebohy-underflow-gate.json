@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hebohy underflow gate", "description": "...", "health": 25, "size": 1, "requirements": [{"item": "hebohy", "amount": 4}, {"item": "menugonium", "amount": 5}], "research": "hebohy-conveyor", "category": "distribution", "invert": false}

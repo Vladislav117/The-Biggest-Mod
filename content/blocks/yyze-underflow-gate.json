@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yyze underflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "yyze", "amount": 5}, {"item": "qupu", "amount": 3}], "research": "yyze-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vyjodo overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "vyjodo", "amount": 4}, {"item": "harugenium", "amount": 2}], "research": "vyjodo-conveyor", "category": "distribution", "invert": false}

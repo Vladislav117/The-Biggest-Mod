@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "baguyu power node", "description": "...", "size": 2, "health": 442, "requirements": [{"item": "baguyu", "amount": 16}, {"item": "jetu", "amount": 6}, {"item": "yuly", "amount": 4}], "research": "baguyu-factory", "maxNodes": 20, "laserRange": 12, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "jonaqu conduit", "description": "...", "health": 107, "requirements": [{"item": "jonaqu", "amount": 12}, {"item": "hotonium", "amount": 20}, {"item": "fuda", "amount": 4}], "liquidCapacity": 15, "liquidPressure": 7, "research": "jonaqu-factory", "category": "liquid"}

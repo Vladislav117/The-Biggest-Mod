@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hycanium conduit", "description": "...", "health": 32, "requirements": [{"item": "hycanium", "amount": 14}, {"item": "gylananium", "amount": 4}, {"item": "ziti", "amount": 7}], "liquidCapacity": 46, "liquidPressure": 5, "research": "hycanium-factory", "category": "liquid"}

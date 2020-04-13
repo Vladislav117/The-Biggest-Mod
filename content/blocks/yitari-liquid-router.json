@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yitari liquid router", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "yitari", "amount": 4}, {"item": "qova", "amount": 4}, {"item": "kipybi", "amount": 10}], "research": "yitari-conduit", "liquidCapacity": 10, "category": "liquid"}

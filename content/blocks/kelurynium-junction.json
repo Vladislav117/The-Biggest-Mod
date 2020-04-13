@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kelurynium junction", "description": "...", "health": 4, "speed": 12, "capacity": 4, "size": 1, "requirements": [{"item": "kelurynium", "amount": 1}, {"item": "lufe", "amount": 4}], "research": "kelurynium-conveyor", "category": "distribution"}

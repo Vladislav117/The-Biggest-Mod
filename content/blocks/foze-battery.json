@@ -1,0 +1,1 @@
+{"type": "battery", "name": "foze battery", "description": "...", "size": 3, "health": 192, "requirements": [{"item": "foze", "amount": 16}, {"item": "vigyqinium", "amount": 16}, {"item": "yypedonium", "amount": 10}], "research": "foze-factory", "consumes": {"powerBuffered": 253}, "category": "power"}

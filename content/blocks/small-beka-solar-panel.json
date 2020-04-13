@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small beka solar panel", "description": "...", "size": 1, "health": 185, "requirements": [{"item": "beka", "amount": 13}, {"item": "hikyxu", "amount": 10}, {"item": "dakoyi", "amount": 8}], "research": "beka-factory", "powerProduction": 0.4895483649366324, "category": "power"}

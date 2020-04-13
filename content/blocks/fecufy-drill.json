@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fecufy drill", "description": "...", "size": 3, "health": 316, "tier": 2, "drillTime": 1, "consumes": {"power": 2}, "requirements": [{"item": "fecufy", "amount": 19}, {"item": "vykuzo", "amount": 4}, {"item": "rutiri", "amount": 3}], "research": "fecufy-factory", "category": "production"}

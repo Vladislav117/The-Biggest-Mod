@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fyziro sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "fyziro", "amount": 4}, {"item": "mibyzo", "amount": 5}], "research": "fyziro-conveyor", "category": "distribution", "invert": false}

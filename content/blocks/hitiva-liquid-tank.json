@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hitiva liquid tank", "description": "...", "health": 358, "size": 3, "requirements": [{"item": "hitiva", "amount": 3}, {"item": "fupymi", "amount": 6}, {"item": "fasi", "amount": 4}], "research": "hitiva-conduit", "category": "liquid", "liquidCapacity": 15294, "hasLiquids": true}

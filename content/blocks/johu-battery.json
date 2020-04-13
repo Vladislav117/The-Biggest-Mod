@@ -1,0 +1,1 @@
+{"type": "battery", "name": "johu battery", "description": "...", "size": 3, "health": 389, "requirements": [{"item": "johu", "amount": 5}, {"item": "jawa", "amount": 5}, {"item": "kure", "amount": 8}], "research": "johu-factory", "consumes": {"powerBuffered": 5860}, "category": "power"}

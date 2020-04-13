@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kide solar panel", "description": "...", "size": 1, "health": 160, "requirements": [{"item": "kide", "amount": 19}, {"item": "gymypa", "amount": 19}, {"item": "giho", "amount": 1}], "research": "kide-factory", "powerProduction": 7.427646407751175, "category": "power"}

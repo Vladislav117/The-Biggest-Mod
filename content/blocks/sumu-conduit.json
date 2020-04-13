@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "sumu conduit", "description": "...", "health": 170, "requirements": [{"item": "sumu", "amount": 6}, {"item": "lejara", "amount": 17}, {"item": "tatavo", "amount": 7}], "liquidCapacity": 33, "liquidPressure": 0, "research": "sumu-factory", "category": "liquid"}

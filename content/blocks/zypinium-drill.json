@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zypinium drill", "description": "...", "size": 4, "health": 427, "tier": 3, "drillTime": 14, "consumes": {"power": 3}, "requirements": [{"item": "zypinium", "amount": 7}, {"item": "wiyuho", "amount": 19}, {"item": "yuyicenium", "amount": 1}], "research": "zypinium-factory", "category": "production"}

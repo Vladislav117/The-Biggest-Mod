@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nilo power node", "description": "...", "size": 2, "health": 359, "requirements": [{"item": "nilo", "amount": 4}, {"item": "xayugynium", "amount": 4}, {"item": "sobu", "amount": 2}], "research": "nilo-factory", "maxNodes": 60, "laserRange": 19, "category": "power"}

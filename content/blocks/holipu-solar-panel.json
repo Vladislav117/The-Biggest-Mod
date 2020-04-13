@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "holipu solar panel", "description": "...", "size": 3, "health": 370, "requirements": [{"item": "holipu", "amount": 20}, {"item": "winyjo", "amount": 9}, {"item": "nayevynium", "amount": 10}], "research": "holipu-factory", "powerProduction": 4.0819233028935615, "category": "power"}

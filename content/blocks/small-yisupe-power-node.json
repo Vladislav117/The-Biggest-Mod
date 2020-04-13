@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yisupe power node", "description": "...", "size": 1, "health": 175, "requirements": [{"item": "yisupe", "amount": 5}, {"item": "hiwenium", "amount": 16}, {"item": "kipybi", "amount": 7}], "research": "yisupe-factory", "maxNodes": 14, "laserRange": 7, "category": "power"}

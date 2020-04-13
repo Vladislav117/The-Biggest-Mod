@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yufoha bridge conveyor", "description": "", "health": 39, "range": 11, "speed": 7, "bufferCapacity": 11, "requirements": [{"item": "yufoha", "amount": 1}, {"item": "naxynium", "amount": 4}], "research": "yufoha-conveyor", "category": "distribution", "size": 1}

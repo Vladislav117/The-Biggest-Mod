@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small dywusunium solar panel", "description": "...", "size": 1, "health": 388, "requirements": [{"item": "dywusunium", "amount": 20}, {"item": "bopu", "amount": 19}, {"item": "qygi", "amount": 9}], "research": "dywusunium-factory", "powerProduction": 3.2133799191340917, "category": "power"}

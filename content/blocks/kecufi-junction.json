@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kecufi junction", "description": "...", "health": 22, "speed": 15, "capacity": 4, "size": 1, "requirements": [{"item": "kecufi", "amount": 3}, {"item": "sywuze", "amount": 1}], "research": "kecufi-conveyor", "category": "distribution"}

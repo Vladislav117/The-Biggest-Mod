@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nogosy solar panel", "description": "...", "size": 3, "health": 134, "requirements": [{"item": "nogosy", "amount": 7}, {"item": "wupera", "amount": 6}, {"item": "vayixo", "amount": 2}], "research": "nogosy-factory", "powerProduction": 2.0439795195037354, "category": "power"}

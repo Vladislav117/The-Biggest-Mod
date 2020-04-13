@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "vuzi bridge conveyor", "description": "", "health": 18, "range": 20, "speed": 5, "bufferCapacity": 4, "requirements": [{"item": "vuzi", "amount": 2}, {"item": "rybu", "amount": 4}], "research": "vuzi-conveyor", "category": "distribution", "size": 1}

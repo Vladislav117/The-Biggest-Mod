@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small hunadanium battery", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "hunadanium", "amount": 14}, {"item": "hufema", "amount": 3}, {"item": "devo", "amount": 8}], "research": "hunadanium-factory", "consumes": {"powerBuffered": 1282}, "category": "power"}

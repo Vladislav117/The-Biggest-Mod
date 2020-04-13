@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hycanium battery", "description": "...", "size": 3, "health": 159, "requirements": [{"item": "hycanium", "amount": 6}, {"item": "bahemi", "amount": 16}, {"item": "nota", "amount": 1}], "research": "hycanium-factory", "consumes": {"powerBuffered": 7630}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xavinium power node", "description": "...", "size": 2, "health": 94, "requirements": [{"item": "xavinium", "amount": 4}, {"item": "kurecanium", "amount": 17}, {"item": "metaglass", "amount": 8}], "research": "xavinium-factory", "maxNodes": 59, "laserRange": 29, "category": "power"}

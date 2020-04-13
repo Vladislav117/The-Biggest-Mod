@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "zumi conveyor", "description": "...", "health": 45, "requirements": [{"item": "zumi", "amount": 1}, {"item": "docinium", "amount": 10}], "speed": 0.43492518404903063, "research": "zumi-factory", "category": "distribution"}

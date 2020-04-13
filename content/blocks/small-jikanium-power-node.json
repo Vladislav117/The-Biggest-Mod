@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small jikanium power node", "description": "...", "size": 1, "health": 225, "requirements": [{"item": "jikanium", "amount": 20}, {"item": "bole", "amount": 8}, {"item": "xegu", "amount": 2}], "research": "jikanium-factory", "maxNodes": 9, "laserRange": 17, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nazi liquid tank", "description": "...", "health": 455, "size": 3, "requirements": [{"item": "nazi", "amount": 5}, {"item": "yeti", "amount": 18}, {"item": "sedowe", "amount": 5}], "research": "nazi-conduit", "category": "liquid", "liquidCapacity": 58799, "hasLiquids": true}

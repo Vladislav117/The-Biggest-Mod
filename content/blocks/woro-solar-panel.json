@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "woro solar panel", "description": "...", "size": 3, "health": 16, "requirements": [{"item": "woro", "amount": 8}, {"item": "juqaqi", "amount": 10}, {"item": "nuno", "amount": 10}], "research": "woro-factory", "powerProduction": 2.52924547101088, "category": "power"}

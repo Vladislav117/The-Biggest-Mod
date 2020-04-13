@@ -1,0 +1,1 @@
+{"type": "junction", "name": "kurecanium junction", "description": "...", "health": 27, "speed": 2, "capacity": 8, "size": 1, "requirements": [{"item": "kurecanium", "amount": 4}, {"item": "zuzequ", "amount": 4}], "research": "kurecanium-conveyor", "category": "distribution"}

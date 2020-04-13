@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yuhy sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "yuhy", "amount": 2}, {"item": "hozanium", "amount": 4}], "research": "yuhy-conveyor", "category": "distribution", "invert": false}

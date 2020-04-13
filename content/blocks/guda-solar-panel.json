@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "guda solar panel", "description": "...", "size": 3, "health": 128, "requirements": [{"item": "guda", "amount": 12}, {"item": "kufuvunium", "amount": 12}, {"item": "kipe", "amount": 6}], "research": "guda-factory", "powerProduction": 5.8690282942518746, "category": "power"}

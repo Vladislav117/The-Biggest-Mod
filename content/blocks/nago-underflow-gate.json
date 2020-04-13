@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nago underflow gate", "description": "...", "health": 28, "size": 1, "requirements": [{"item": "nago", "amount": 5}, {"item": "guliyu", "amount": 4}], "research": "nago-conveyor", "category": "distribution", "invert": false}

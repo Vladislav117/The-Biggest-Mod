@@ -1,0 +1,1 @@
+{"type": "battery", "name": "quzu battery", "description": "...", "size": 3, "health": 14, "requirements": [{"item": "quzu", "amount": 4}, {"item": "mupe", "amount": 20}, {"item": "xega", "amount": 5}], "research": "quzu-factory", "consumes": {"powerBuffered": 9733}, "category": "power"}

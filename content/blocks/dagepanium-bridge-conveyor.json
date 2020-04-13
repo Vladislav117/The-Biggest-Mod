@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dagepanium bridge conveyor", "description": "", "health": 22, "range": 12, "speed": 13, "bufferCapacity": 13, "requirements": [{"item": "dagepanium", "amount": 1}, {"item": "gotomy", "amount": 3}], "research": "dagepanium-conveyor", "category": "distribution", "size": 1}

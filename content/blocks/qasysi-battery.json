@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qasysi battery", "description": "...", "size": 3, "health": 129, "requirements": [{"item": "qasysi", "amount": 15}, {"item": "zese", "amount": 3}, {"item": "labila", "amount": 2}], "research": "qasysi-factory", "consumes": {"powerBuffered": 8518}, "category": "power"}

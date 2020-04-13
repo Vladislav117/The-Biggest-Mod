@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small soki battery", "description": "...", "size": 1, "health": 298, "requirements": [{"item": "soki", "amount": 17}, {"item": "dagepanium", "amount": 2}, {"item": "qubyra", "amount": 10}], "research": "soki-factory", "consumes": {"powerBuffered": 2370}, "category": "power"}

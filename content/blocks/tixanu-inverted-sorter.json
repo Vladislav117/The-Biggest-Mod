@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tixanu inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "tixanu", "amount": 5}, {"item": "gacy", "amount": 1}], "research": "tixanu-conveyor", "category": "distribution", "invert": true}

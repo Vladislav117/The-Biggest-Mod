@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yoqi inverted sorter", "description": ",...", "health": 33, "size": 1, "requirements": [{"item": "yoqi", "amount": 5}, {"item": "civonium", "amount": 5}], "research": "yoqi-conveyor", "category": "distribution", "invert": true}

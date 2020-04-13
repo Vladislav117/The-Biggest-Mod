@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wipuca power node", "description": "...", "size": 2, "health": 711, "requirements": [{"item": "wipuca", "amount": 5}, {"item": "sute", "amount": 17}, {"item": "gylasa", "amount": 7}], "research": "wipuca-factory", "maxNodes": 17, "laserRange": 27, "category": "power"}

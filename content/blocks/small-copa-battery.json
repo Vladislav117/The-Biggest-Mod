@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small copa battery", "description": "...", "size": 1, "health": 283, "requirements": [{"item": "copa", "amount": 9}, {"item": "hewunium", "amount": 2}, {"item": "cyma", "amount": 10}], "research": "copa-factory", "consumes": {"powerBuffered": 450}, "category": "power"}

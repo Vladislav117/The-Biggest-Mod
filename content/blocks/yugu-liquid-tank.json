@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yugu liquid tank", "description": "...", "health": 223, "size": 3, "requirements": [{"item": "yugu", "amount": 5}, {"item": "gohyce", "amount": 16}, {"item": "buyogenium", "amount": 3}], "research": "yugu-conduit", "category": "liquid", "liquidCapacity": 16928, "hasLiquids": true}

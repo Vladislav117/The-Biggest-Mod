@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yidako battery", "description": "...", "size": 3, "health": 308, "requirements": [{"item": "yidako", "amount": 19}, {"item": "xydume", "amount": 20}, {"item": "vybygynium", "amount": 7}], "research": "yidako-factory", "consumes": {"powerBuffered": 7724}, "category": "power"}

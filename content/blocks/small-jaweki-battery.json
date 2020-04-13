@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jaweki battery", "description": "...", "size": 1, "health": 208, "requirements": [{"item": "jaweki", "amount": 3}, {"item": "maku", "amount": 2}, {"item": "vewavu", "amount": 3}], "research": "jaweki-factory", "consumes": {"powerBuffered": 1008}, "category": "power"}

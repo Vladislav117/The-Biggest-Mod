@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "siry underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "siry", "amount": 1}, {"item": "vulo", "amount": 3}], "research": "siry-conveyor", "category": "distribution", "invert": false}

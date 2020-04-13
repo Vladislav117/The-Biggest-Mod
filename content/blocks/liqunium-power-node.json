@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "liqunium power node", "description": "...", "size": 2, "health": 563, "requirements": [{"item": "liqunium", "amount": 9}, {"item": "zalirenium", "amount": 16}, {"item": "zoyinium", "amount": 5}], "research": "liqunium-factory", "maxNodes": 49, "laserRange": 29, "category": "power"}

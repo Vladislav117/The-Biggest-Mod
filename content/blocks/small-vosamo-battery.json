@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small vosamo battery", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "vosamo", "amount": 17}, {"item": "gonu", "amount": 5}, {"item": "jiyomonium", "amount": 5}], "research": "vosamo-factory", "consumes": {"powerBuffered": 658}, "category": "power"}

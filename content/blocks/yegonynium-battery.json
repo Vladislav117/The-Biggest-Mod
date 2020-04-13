@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yegonynium battery", "description": "...", "size": 3, "health": 231, "requirements": [{"item": "yegonynium", "amount": 16}, {"item": "fawa", "amount": 11}, {"item": "zapu", "amount": 6}], "research": "yegonynium-factory", "consumes": {"powerBuffered": 7816}, "category": "power"}

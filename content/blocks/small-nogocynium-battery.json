@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nogocynium battery", "description": "...", "size": 1, "health": 51, "requirements": [{"item": "nogocynium", "amount": 2}, {"item": "vojenium", "amount": 12}, {"item": "dowa", "amount": 10}], "research": "nogocynium-factory", "consumes": {"powerBuffered": 2024}, "category": "power"}

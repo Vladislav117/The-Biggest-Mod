@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "vule liquid tank", "description": "...", "health": 225, "size": 3, "requirements": [{"item": "vule", "amount": 11}, {"item": "loda", "amount": 5}, {"item": "bufywy", "amount": 2}], "research": "vule-conduit", "category": "liquid", "liquidCapacity": 96640, "hasLiquids": true}

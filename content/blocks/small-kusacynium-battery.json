@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kusacynium battery", "description": "...", "size": 1, "health": 307, "requirements": [{"item": "kusacynium", "amount": 10}, {"item": "teneyy", "amount": 1}, {"item": "ruzagi", "amount": 5}], "research": "kusacynium-factory", "consumes": {"powerBuffered": 1263}, "category": "power"}

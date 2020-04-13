@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "civu liquid tank", "description": "...", "health": 646, "size": 3, "requirements": [{"item": "civu", "amount": 1}, {"item": "cevu", "amount": 9}, {"item": "xydy", "amount": 6}], "research": "civu-conduit", "category": "liquid", "liquidCapacity": 113785, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "wafe solar panel", "description": "...", "size": 3, "health": 107, "requirements": [{"item": "wafe", "amount": 5}, {"item": "reqoxu", "amount": 20}, {"item": "ziti", "amount": 2}], "research": "wafe-factory", "powerProduction": 0.12459739023610182, "category": "power"}

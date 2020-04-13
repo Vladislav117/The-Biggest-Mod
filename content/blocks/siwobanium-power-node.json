@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "siwobanium power node", "description": "...", "size": 2, "health": 430, "requirements": [{"item": "siwobanium", "amount": 4}, {"item": "masoxo", "amount": 16}, {"item": "qoseve", "amount": 7}], "research": "siwobanium-factory", "maxNodes": 21, "laserRange": 16, "category": "power"}

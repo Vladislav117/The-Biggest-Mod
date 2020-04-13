@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kosizi battery", "description": "...", "size": 1, "health": 202, "requirements": [{"item": "kosizi", "amount": 14}, {"item": "gyzuqo", "amount": 11}, {"item": "pydudanium", "amount": 6}], "research": "kosizi-factory", "consumes": {"powerBuffered": 1164}, "category": "power"}

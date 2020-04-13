@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "yemihonium liquid router", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "yemihonium", "amount": 12}, {"item": "kofynium", "amount": 10}, {"item": "pezale", "amount": 2}], "research": "yemihonium-conduit", "liquidCapacity": 10, "category": "liquid"}

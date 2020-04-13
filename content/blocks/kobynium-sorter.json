@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kobynium sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "kobynium", "amount": 1}, {"item": "mupa", "amount": 1}], "research": "kobynium-conveyor", "category": "distribution", "invert": false}

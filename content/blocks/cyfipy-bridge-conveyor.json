@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cyfipy bridge conveyor", "description": "", "health": 6, "range": 11, "speed": 13, "bufferCapacity": 13, "requirements": [{"item": "cyfipy", "amount": 2}, {"item": "kygarynium", "amount": 2}], "research": "cyfipy-conveyor", "category": "distribution", "size": 1}

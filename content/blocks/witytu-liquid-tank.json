@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "witytu liquid tank", "description": "...", "health": 367, "size": 3, "requirements": [{"item": "witytu", "amount": 1}, {"item": "xudujy", "amount": 11}, {"item": "gidu", "amount": 4}], "research": "witytu-conduit", "category": "liquid", "liquidCapacity": 95842, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "guqyza battery", "description": "...", "size": 3, "health": 99, "requirements": [{"item": "guqyza", "amount": 5}, {"item": "mosenium", "amount": 8}, {"item": "zoda", "amount": 7}], "research": "guqyza-factory", "consumes": {"powerBuffered": 1369}, "category": "power"}

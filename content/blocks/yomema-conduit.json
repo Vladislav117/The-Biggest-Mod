@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "yomema conduit", "description": "...", "health": 185, "requirements": [{"item": "yomema", "amount": 1}, {"item": "nufuponium", "amount": 12}, {"item": "lufe", "amount": 5}], "liquidCapacity": 11, "liquidPressure": 0, "research": "yomema-factory", "category": "liquid"}

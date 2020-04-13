@@ -1,0 +1,1 @@
+{"type": "battery", "name": "myxo battery", "description": "...", "size": 3, "health": 378, "requirements": [{"item": "myxo", "amount": 11}, {"item": "qeconium", "amount": 2}, {"item": "ryhi", "amount": 10}], "research": "myxo-factory", "consumes": {"powerBuffered": 1174}, "category": "power"}

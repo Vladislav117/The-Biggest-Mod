@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small famo solar panel", "description": "...", "size": 1, "health": 105, "requirements": [{"item": "famo", "amount": 18}, {"item": "fahi", "amount": 3}, {"item": "doluka", "amount": 10}], "research": "famo-factory", "powerProduction": 0.98581061621001, "category": "power"}

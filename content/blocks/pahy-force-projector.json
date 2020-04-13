@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "pahy force projector", "description": "...", "health": 238, "size": 3, "consumes": {"power": 5.0, "item": "pahy"}, "requirements": [{"item": "pahy", "amount": 20}, {"item": "yimigunium", "amount": 19}, {"item": "vahy", "amount": 8}], "research": "pahy-factory", "category": "effect"}

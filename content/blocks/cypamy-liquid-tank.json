@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cypamy liquid tank", "description": "...", "health": 173, "size": 3, "requirements": [{"item": "cypamy", "amount": 20}, {"item": "laho", "amount": 7}, {"item": "masoxo", "amount": 2}], "research": "cypamy-conduit", "category": "liquid", "liquidCapacity": 25906, "hasLiquids": true}

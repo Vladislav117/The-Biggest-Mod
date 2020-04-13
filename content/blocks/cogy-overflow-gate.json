@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cogy overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "cogy", "amount": 3}, {"item": "mihuranium", "amount": 2}], "research": "cogy-conveyor", "category": "distribution", "invert": false}

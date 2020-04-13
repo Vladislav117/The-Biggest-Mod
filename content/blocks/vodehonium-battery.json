@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vodehonium battery", "description": "...", "size": 3, "health": 347, "requirements": [{"item": "vodehonium", "amount": 5}, {"item": "nunanunium", "amount": 13}, {"item": "kegegynium", "amount": 10}], "research": "vodehonium-factory", "consumes": {"powerBuffered": 6507}, "category": "power"}

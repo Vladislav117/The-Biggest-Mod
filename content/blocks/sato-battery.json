@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sato battery", "description": "...", "size": 3, "health": 300, "requirements": [{"item": "sato", "amount": 17}, {"item": "zoyyqynium", "amount": 5}, {"item": "qudeya", "amount": 10}], "research": "sato-factory", "consumes": {"powerBuffered": 1933}, "category": "power"}

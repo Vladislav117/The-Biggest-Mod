@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xexumi battery", "description": "...", "size": 1, "health": 246, "requirements": [{"item": "xexumi", "amount": 20}, {"item": "vakyxinium", "amount": 20}, {"item": "puye", "amount": 5}], "research": "xexumi-factory", "consumes": {"powerBuffered": 445}, "category": "power"}

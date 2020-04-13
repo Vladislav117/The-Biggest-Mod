@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "koyixa liquid tank", "description": "...", "health": 204, "size": 3, "requirements": [{"item": "koyixa", "amount": 16}, {"item": "zegili", "amount": 11}, {"item": "lucohi", "amount": 4}], "research": "koyixa-conduit", "category": "liquid", "liquidCapacity": 15568, "hasLiquids": true}

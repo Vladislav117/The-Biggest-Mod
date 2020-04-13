@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zufy conduit", "description": "...", "health": 141, "requirements": [{"item": "zufy", "amount": 3}, {"item": "nydinenium", "amount": 7}, {"item": "kura", "amount": 1}], "liquidCapacity": 15, "liquidPressure": 1, "research": "zufy-factory", "category": "liquid"}

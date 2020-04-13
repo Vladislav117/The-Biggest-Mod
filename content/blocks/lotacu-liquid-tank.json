@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lotacu liquid tank", "description": "...", "health": 532, "size": 3, "requirements": [{"item": "lotacu", "amount": 16}, {"item": "gakipy", "amount": 12}, {"item": "qiregynium", "amount": 4}], "research": "lotacu-conduit", "category": "liquid", "liquidCapacity": 88152, "hasLiquids": true}

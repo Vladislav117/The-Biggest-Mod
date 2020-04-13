@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zuva liquid tank", "description": "...", "health": 476, "size": 3, "requirements": [{"item": "zuva", "amount": 1}, {"item": "muby", "amount": 17}, {"item": "xuze", "amount": 9}], "research": "zuva-conduit", "category": "liquid", "liquidCapacity": 45461, "hasLiquids": true}

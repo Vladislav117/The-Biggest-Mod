@@ -1,0 +1,1 @@
+{"type": "battery", "name": "direme battery", "description": "...", "size": 3, "health": 138, "requirements": [{"item": "direme", "amount": 5}, {"item": "riro", "amount": 9}, {"item": "xuryvy", "amount": 9}], "research": "direme-factory", "consumes": {"powerBuffered": 7320}, "category": "power"}

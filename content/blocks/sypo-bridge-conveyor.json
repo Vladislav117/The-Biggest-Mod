@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "sypo bridge conveyor", "description": "", "health": 33, "range": 11, "speed": 14, "bufferCapacity": 18, "requirements": [{"item": "sypo", "amount": 5}, {"item": "wyvuyenium", "amount": 4}], "research": "sypo-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qusy liquid tank", "description": "...", "health": 580, "size": 3, "requirements": [{"item": "qusy", "amount": 6}, {"item": "siqefo", "amount": 5}, {"item": "hayy", "amount": 1}], "research": "qusy-conduit", "category": "liquid", "liquidCapacity": 22949, "hasLiquids": true}

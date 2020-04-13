@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "geja conveyor", "description": "...", "health": 256, "requirements": [{"item": "geja", "amount": 2}, {"item": "zoyasi", "amount": 3}], "speed": 0.28087585476017474, "research": "geja-factory", "category": "distribution"}

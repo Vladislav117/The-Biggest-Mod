@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "julu power node", "description": "...", "size": 2, "health": 409, "requirements": [{"item": "julu", "amount": 20}, {"item": "vanuhenium", "amount": 3}, {"item": "covikinium", "amount": 10}], "research": "julu-factory", "maxNodes": 23, "laserRange": 22, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tuqe solar panel", "description": "...", "size": 3, "health": 170, "requirements": [{"item": "tuqe", "amount": 9}, {"item": "kilu", "amount": 16}, {"item": "lynaly", "amount": 3}], "research": "tuqe-factory", "powerProduction": 0.7706023171876472, "category": "power"}

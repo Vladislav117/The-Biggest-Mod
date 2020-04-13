@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "biciti sorter", "description": ",...", "health": 7, "size": 1, "requirements": [{"item": "biciti", "amount": 2}, {"item": "qobu", "amount": 2}], "research": "biciti-conveyor", "category": "distribution", "invert": false}

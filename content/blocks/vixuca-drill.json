@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "vixuca drill", "description": "...", "size": 2, "health": 385, "tier": 4, "drillTime": 9, "consumes": {"power": 19}, "requirements": [{"item": "vixuca", "amount": 16}, {"item": "puli", "amount": 12}, {"item": "vepuge", "amount": 1}], "research": "vixuca-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "ragoku liquid router", "description": "...", "size": 1, "health": 87, "requirements": [{"item": "ragoku", "amount": 17}, {"item": "joqopy", "amount": 11}, {"item": "zufo", "amount": 5}], "research": "ragoku-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "wosuxenium liquid tank", "description": "...", "health": 508, "size": 3, "requirements": [{"item": "wosuxenium", "amount": 19}, {"item": "balinu", "amount": 13}, {"item": "doya", "amount": 1}], "research": "wosuxenium-conduit", "category": "liquid", "liquidCapacity": 8023, "hasLiquids": true}

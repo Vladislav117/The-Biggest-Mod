@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xuryvy liquid tank", "description": "...", "health": 358, "size": 3, "requirements": [{"item": "xuryvy", "amount": 9}, {"item": "gydarynium", "amount": 12}, {"item": "miqomy", "amount": 10}], "research": "xuryvy-conduit", "category": "liquid", "liquidCapacity": 41218, "hasLiquids": true}

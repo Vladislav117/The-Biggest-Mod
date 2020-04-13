@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "byfa drill", "description": "...", "size": 3, "health": 193, "tier": 4, "drillTime": 10, "consumes": {"power": 20}, "requirements": [{"item": "byfa", "amount": 6}, {"item": "heruru", "amount": 12}, {"item": "lyru", "amount": 10}], "research": "byfa-factory", "category": "production"}

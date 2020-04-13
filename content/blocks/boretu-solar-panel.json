@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "boretu solar panel", "description": "...", "size": 3, "health": 399, "requirements": [{"item": "boretu", "amount": 5}, {"item": "byhonium", "amount": 10}, {"item": "seca", "amount": 10}], "research": "boretu-factory", "powerProduction": 0.8892747209358974, "category": "power"}

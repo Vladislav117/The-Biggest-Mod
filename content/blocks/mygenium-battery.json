@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mygenium battery", "description": "...", "size": 3, "health": 109, "requirements": [{"item": "mygenium", "amount": 16}, {"item": "jeqidynium", "amount": 12}, {"item": "duqu", "amount": 2}], "research": "mygenium-factory", "consumes": {"powerBuffered": 2957}, "category": "power"}

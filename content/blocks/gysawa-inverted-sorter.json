@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "gysawa inverted sorter", "description": ",...", "health": 29, "size": 1, "requirements": [{"item": "gysawa", "amount": 1}, {"item": "kide", "amount": 5}], "research": "gysawa-conveyor", "category": "distribution", "invert": true}

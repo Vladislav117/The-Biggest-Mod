@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "duyari liquid router", "description": "...", "size": 1, "health": 42, "requirements": [{"item": "duyari", "amount": 12}, {"item": "marici", "amount": 18}, {"item": "dituna", "amount": 2}], "research": "duyari-conduit", "liquidCapacity": 10, "category": "liquid"}

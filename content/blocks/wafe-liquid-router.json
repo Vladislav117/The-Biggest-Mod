@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "wafe liquid router", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "wafe", "amount": 6}, {"item": "fybaze", "amount": 14}, {"item": "cuzyko", "amount": 1}], "research": "wafe-conduit", "liquidCapacity": 10, "category": "liquid"}

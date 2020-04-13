@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xurenium battery", "description": "...", "size": 1, "health": 297, "requirements": [{"item": "xurenium", "amount": 18}, {"item": "mijynium", "amount": 13}, {"item": "gupyfi", "amount": 10}], "research": "xurenium-factory", "consumes": {"powerBuffered": 530}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zewe liquid tank", "description": "...", "health": 216, "size": 3, "requirements": [{"item": "zewe", "amount": 7}, {"item": "xymywi", "amount": 13}, {"item": "diwi", "amount": 1}], "research": "zewe-conduit", "category": "liquid", "liquidCapacity": 81308, "hasLiquids": true}

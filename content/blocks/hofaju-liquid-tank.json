@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "hofaju liquid tank", "description": "...", "health": 315, "size": 3, "requirements": [{"item": "hofaju", "amount": 19}, {"item": "tyqi", "amount": 3}, {"item": "yyba", "amount": 4}], "research": "hofaju-conduit", "category": "liquid", "liquidCapacity": 9014, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "civonium inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "civonium", "amount": 4}, {"item": "rizope", "amount": 2}], "research": "civonium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bely battery", "description": "...", "size": 1, "health": 199, "requirements": [{"item": "bely", "amount": 11}, {"item": "tiwyna", "amount": 6}, {"item": "hexu", "amount": 1}], "research": "bely-factory", "consumes": {"powerBuffered": 2677}, "category": "power"}

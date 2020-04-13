@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zucanium inverted sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "zucanium", "amount": 1}, {"item": "nejesu", "amount": 4}], "research": "zucanium-conveyor", "category": "distribution", "invert": true}

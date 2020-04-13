@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tenelenium power node", "description": "...", "size": 2, "health": 486, "requirements": [{"item": "tenelenium", "amount": 14}, {"item": "kamo", "amount": 8}, {"item": "dekaga", "amount": 10}], "research": "tenelenium-factory", "maxNodes": 23, "laserRange": 25, "category": "power"}

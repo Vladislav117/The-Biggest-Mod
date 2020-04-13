@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pyki conduit", "description": "...", "health": 80, "requirements": [{"item": "pyki", "amount": 4}, {"item": "sedowe", "amount": 5}, {"item": "fezo", "amount": 8}], "liquidCapacity": 17, "liquidPressure": 1, "research": "pyki-factory", "category": "liquid"}

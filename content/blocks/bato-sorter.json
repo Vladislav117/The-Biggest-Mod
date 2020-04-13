@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bato sorter", "description": ",...", "health": 32, "size": 1, "requirements": [{"item": "bato", "amount": 2}, {"item": "kuwy", "amount": 4}], "research": "bato-conveyor", "category": "distribution", "invert": false}

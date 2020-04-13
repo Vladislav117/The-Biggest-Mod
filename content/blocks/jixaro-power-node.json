@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jixaro power node", "description": "...", "size": 2, "health": 648, "requirements": [{"item": "jixaro", "amount": 13}, {"item": "cyta", "amount": 9}, {"item": "vywene", "amount": 9}], "research": "jixaro-factory", "maxNodes": 30, "laserRange": 8, "category": "power"}

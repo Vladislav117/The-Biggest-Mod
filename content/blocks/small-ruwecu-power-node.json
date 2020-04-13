@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ruwecu power node", "description": "...", "size": 1, "health": 363, "requirements": [{"item": "ruwecu", "amount": 10}, {"item": "diwi", "amount": 12}, {"item": "kyjyxo", "amount": 6}], "research": "ruwecu-factory", "maxNodes": 13, "laserRange": 6, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tame liquid tank", "description": "...", "health": 306, "size": 3, "requirements": [{"item": "tame", "amount": 3}, {"item": "pagopy", "amount": 11}, {"item": "vyfebo", "amount": 6}], "research": "tame-conduit", "category": "liquid", "liquidCapacity": 17213, "hasLiquids": true}

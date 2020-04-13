@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "winynium underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "winynium", "amount": 4}, {"item": "bomiry", "amount": 4}], "research": "winynium-conveyor", "category": "distribution", "invert": false}

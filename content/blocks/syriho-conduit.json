@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "syriho conduit", "description": "...", "health": 102, "requirements": [{"item": "syriho", "amount": 12}, {"item": "womanium", "amount": 3}, {"item": "gifonium", "amount": 6}], "liquidCapacity": 32, "liquidPressure": 7, "research": "syriho-factory", "category": "liquid"}

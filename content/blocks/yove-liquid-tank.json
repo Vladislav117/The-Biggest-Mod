@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yove liquid tank", "description": "...", "health": 357, "size": 3, "requirements": [{"item": "yove", "amount": 8}, {"item": "famo", "amount": 9}, {"item": "vyqosi", "amount": 4}], "research": "yove-conduit", "category": "liquid", "liquidCapacity": 71216, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "lejy underflow gate", "description": "...", "health": 6, "size": 1, "requirements": [{"item": "lejy", "amount": 4}, {"item": "jawa", "amount": 2}], "research": "lejy-conveyor", "category": "distribution", "invert": false}

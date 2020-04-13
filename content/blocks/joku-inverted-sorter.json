@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "joku inverted sorter", "description": ",...", "health": 35, "size": 1, "requirements": [{"item": "joku", "amount": 5}, {"item": "qiregynium", "amount": 2}], "research": "joku-conveyor", "category": "distribution", "invert": true}

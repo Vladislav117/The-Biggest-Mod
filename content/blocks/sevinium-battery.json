@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sevinium battery", "description": "...", "size": 3, "health": 261, "requirements": [{"item": "sevinium", "amount": 7}, {"item": "tenozo", "amount": 5}, {"item": "voqa", "amount": 10}], "research": "sevinium-factory", "consumes": {"powerBuffered": 1021}, "category": "power"}

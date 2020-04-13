@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gebi battery", "description": "...", "size": 3, "health": 233, "requirements": [{"item": "gebi", "amount": 1}, {"item": "jafu", "amount": 7}, {"item": "weju", "amount": 6}], "research": "gebi-factory", "consumes": {"powerBuffered": 4352}, "category": "power"}

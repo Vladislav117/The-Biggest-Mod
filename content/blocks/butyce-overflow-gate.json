@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "butyce overflow gate", "description": "...", "health": 22, "size": 1, "requirements": [{"item": "butyce", "amount": 1}, {"item": "resenium", "amount": 4}], "research": "butyce-conveyor", "category": "distribution", "invert": false}

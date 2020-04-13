@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kuju liquid router", "description": "...", "size": 1, "health": 12, "requirements": [{"item": "kuju", "amount": 13}, {"item": "pozilonium", "amount": 17}, {"item": "juvaci", "amount": 7}], "research": "kuju-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "titenium power node", "description": "...", "size": 2, "health": 780, "requirements": [{"item": "titenium", "amount": 10}, {"item": "xicyru", "amount": 16}, {"item": "qive", "amount": 1}], "research": "titenium-factory", "maxNodes": 56, "laserRange": 25, "category": "power"}

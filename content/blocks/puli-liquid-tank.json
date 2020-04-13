@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "puli liquid tank", "description": "...", "health": 633, "size": 3, "requirements": [{"item": "puli", "amount": 9}, {"item": "muby", "amount": 19}, {"item": "ryte", "amount": 1}], "research": "puli-conduit", "category": "liquid", "liquidCapacity": 96846, "hasLiquids": true}

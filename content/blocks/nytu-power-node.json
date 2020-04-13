@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nytu power node", "description": "...", "size": 2, "health": 391, "requirements": [{"item": "nytu", "amount": 8}, {"item": "mygo", "amount": 15}, {"item": "gokiyi", "amount": 5}], "research": "nytu-factory", "maxNodes": 27, "laserRange": 25, "category": "power"}

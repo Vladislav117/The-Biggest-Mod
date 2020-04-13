@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small tijixi solar panel", "description": "...", "size": 1, "health": 261, "requirements": [{"item": "tijixi", "amount": 18}, {"item": "niqy", "amount": 15}, {"item": "rine", "amount": 5}], "research": "tijixi-factory", "powerProduction": 5.007019755421922, "category": "power"}

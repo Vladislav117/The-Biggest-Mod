@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bibizo liquid tank", "description": "...", "health": 584, "size": 3, "requirements": [{"item": "bibizo", "amount": 18}, {"item": "jaki", "amount": 5}, {"item": "vubedi", "amount": 2}], "research": "bibizo-conduit", "category": "liquid", "liquidCapacity": 27519, "hasLiquids": true}

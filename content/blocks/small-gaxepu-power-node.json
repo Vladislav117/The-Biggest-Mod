@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small gaxepu power node", "description": "...", "size": 1, "health": 373, "requirements": [{"item": "gaxepu", "amount": 11}, {"item": "morila", "amount": 19}, {"item": "vyma", "amount": 5}], "research": "gaxepu-factory", "maxNodes": 21, "laserRange": 16, "category": "power"}

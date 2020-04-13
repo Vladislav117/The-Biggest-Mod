@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fofoco junction", "description": "...", "health": 36, "speed": 11, "capacity": 1, "size": 1, "requirements": [{"item": "fofoco", "amount": 4}, {"item": "hedi", "amount": 1}], "research": "fofoco-conveyor", "category": "distribution"}

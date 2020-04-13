@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "mupe drill", "description": "...", "size": 2, "health": 240, "tier": 4, "drillTime": 3, "consumes": {"power": 7}, "requirements": [{"item": "mupe", "amount": 3}, {"item": "dyde", "amount": 2}, {"item": "qubyzi", "amount": 5}], "research": "mupe-factory", "category": "production"}

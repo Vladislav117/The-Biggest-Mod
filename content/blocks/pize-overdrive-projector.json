@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "pize overdrive projector", "description": "...", "health": 73, "consumes": {"power": 3.0, "item": "pize"}, "size": 2, "requirements": [{"item": "pize", "amount": 19}, {"item": "kovi", "amount": 10}, {"item": "qudy", "amount": 4}], "research": "pize-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "teyonium liquid tank", "description": "...", "health": 548, "size": 3, "requirements": [{"item": "teyonium", "amount": 4}, {"item": "cixe", "amount": 2}, {"item": "geponium", "amount": 10}], "research": "teyonium-conduit", "category": "liquid", "liquidCapacity": 34607, "hasLiquids": true}

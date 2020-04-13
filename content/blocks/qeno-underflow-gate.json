@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qeno underflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "qeno", "amount": 3}, {"item": "vuzesenium", "amount": 3}], "research": "qeno-conveyor", "category": "distribution", "invert": false}

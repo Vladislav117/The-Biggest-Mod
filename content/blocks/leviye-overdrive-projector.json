@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "leviye overdrive projector", "description": "...", "health": 110, "consumes": {"power": 3.0, "item": "leviye"}, "size": 2, "requirements": [{"item": "leviye", "amount": 12}, {"item": "bube", "amount": 1}, {"item": "hewy", "amount": 8}], "research": "leviye-factory", "category": "effect"}

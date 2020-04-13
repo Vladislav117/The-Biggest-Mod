@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hotonium overflow gate", "description": "...", "health": 20, "size": 1, "requirements": [{"item": "hotonium", "amount": 1}, {"item": "nifonium", "amount": 4}], "research": "hotonium-conveyor", "category": "distribution", "invert": false}

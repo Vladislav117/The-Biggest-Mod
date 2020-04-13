@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fevu liquid tank", "description": "...", "health": 638, "size": 3, "requirements": [{"item": "fevu", "amount": 16}, {"item": "vywy", "amount": 17}, {"item": "maqapy", "amount": 10}], "research": "fevu-conduit", "category": "liquid", "liquidCapacity": 16415, "hasLiquids": true}

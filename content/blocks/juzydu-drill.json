@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "juzydu drill", "description": "...", "size": 3, "health": 443, "tier": 4, "drillTime": 10, "consumes": {"power": 18}, "requirements": [{"item": "juzydu", "amount": 12}, {"item": "qodanunium", "amount": 19}, {"item": "giyiya", "amount": 10}], "research": "juzydu-factory", "category": "production"}

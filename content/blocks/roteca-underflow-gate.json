@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "roteca underflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "roteca", "amount": 2}, {"item": "rale", "amount": 4}], "research": "roteca-conveyor", "category": "distribution", "invert": false}

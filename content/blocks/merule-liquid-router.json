@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "merule liquid router", "description": "...", "size": 1, "health": 47, "requirements": [{"item": "merule", "amount": 8}, {"item": "dase", "amount": 1}, {"item": "zazinium", "amount": 4}], "research": "merule-conduit", "liquidCapacity": 10, "category": "liquid"}

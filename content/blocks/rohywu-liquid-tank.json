@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rohywu liquid tank", "description": "...", "health": 328, "size": 3, "requirements": [{"item": "rohywu", "amount": 3}, {"item": "pemaya", "amount": 2}, {"item": "hiyyga", "amount": 3}], "research": "rohywu-conduit", "category": "liquid", "liquidCapacity": 23442, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tuyo underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "tuyo", "amount": 5}, {"item": "goriwi", "amount": 3}], "research": "tuyo-conveyor", "category": "distribution", "invert": false}

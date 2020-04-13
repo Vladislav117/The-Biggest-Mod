@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nowahy liquid tank", "description": "...", "health": 352, "size": 3, "requirements": [{"item": "nowahy", "amount": 15}, {"item": "tikonium", "amount": 19}, {"item": "yyvenium", "amount": 9}], "research": "nowahy-conduit", "category": "liquid", "liquidCapacity": 47841, "hasLiquids": true}

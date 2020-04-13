@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small mejo solar panel", "description": "...", "size": 1, "health": 309, "requirements": [{"item": "mejo", "amount": 3}, {"item": "leviye", "amount": 4}, {"item": "nogi", "amount": 9}], "research": "mejo-factory", "powerProduction": 6.287942104144422, "category": "power"}

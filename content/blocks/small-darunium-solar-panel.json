@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small darunium solar panel", "description": "...", "size": 1, "health": 390, "requirements": [{"item": "darunium", "amount": 12}, {"item": "case", "amount": 13}, {"item": "sahylu", "amount": 5}], "research": "darunium-factory", "powerProduction": 0.274807814861332, "category": "power"}

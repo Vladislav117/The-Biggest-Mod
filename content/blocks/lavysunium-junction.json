@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lavysunium junction", "description": "...", "health": 20, "speed": 19, "capacity": 17, "size": 1, "requirements": [{"item": "lavysunium", "amount": 2}, {"item": "xucyfy", "amount": 5}], "research": "lavysunium-conveyor", "category": "distribution"}

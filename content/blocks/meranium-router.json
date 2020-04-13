@@ -1,0 +1,1 @@
+{"type": "router", "name": "meranium router", "description": "...", "health": 200, "size": 1, "requirements": [{"item": "meranium", "amount": 2}], "research": "meranium-conveyor", "category": "distribution"}

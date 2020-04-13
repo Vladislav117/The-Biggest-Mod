@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qysavunium solar panel", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "qysavunium", "amount": 14}, {"item": "puli", "amount": 3}, {"item": "haqu", "amount": 7}], "research": "qysavunium-factory", "powerProduction": 0.17974218658005678, "category": "power"}

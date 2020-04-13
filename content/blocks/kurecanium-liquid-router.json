@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "kurecanium liquid router", "description": "...", "size": 1, "health": 73, "requirements": [{"item": "kurecanium", "amount": 16}, {"item": "syxidonium", "amount": 11}, {"item": "metaglass", "amount": 2}], "research": "kurecanium-conduit", "liquidCapacity": 10, "category": "liquid"}

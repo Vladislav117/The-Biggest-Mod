@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "poya conduit", "description": "...", "health": 81, "requirements": [{"item": "poya", "amount": 2}, {"item": "qyzapa", "amount": 16}, {"item": "rosiqe", "amount": 9}], "liquidCapacity": 25, "liquidPressure": 2, "research": "poya-factory", "category": "liquid"}

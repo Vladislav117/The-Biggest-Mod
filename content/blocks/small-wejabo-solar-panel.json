@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wejabo solar panel", "description": "...", "size": 1, "health": 56, "requirements": [{"item": "wejabo", "amount": 20}, {"item": "pihybo", "amount": 5}, {"item": "foky", "amount": 5}], "research": "wejabo-factory", "powerProduction": 0.8657786181835161, "category": "power"}

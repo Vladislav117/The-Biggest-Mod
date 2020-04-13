@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ryhi power node", "description": "...", "size": 2, "health": 279, "requirements": [{"item": "ryhi", "amount": 8}, {"item": "lisaca", "amount": 19}, {"item": "puli", "amount": 9}], "research": "ryhi-factory", "maxNodes": 24, "laserRange": 7, "category": "power"}

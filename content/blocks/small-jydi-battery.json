@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jydi battery", "description": "...", "size": 1, "health": 227, "requirements": [{"item": "jydi", "amount": 11}, {"item": "beyuxy", "amount": 13}, {"item": "rudy", "amount": 1}], "research": "jydi-factory", "consumes": {"powerBuffered": 2242}, "category": "power"}

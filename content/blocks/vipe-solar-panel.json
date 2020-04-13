@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vipe solar panel", "description": "...", "size": 3, "health": 134, "requirements": [{"item": "vipe", "amount": 12}, {"item": "huyaxo", "amount": 11}, {"item": "cevu", "amount": 5}], "research": "vipe-factory", "powerProduction": 2.8955400348224467, "category": "power"}

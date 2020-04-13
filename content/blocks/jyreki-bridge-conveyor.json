@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jyreki bridge conveyor", "description": "", "health": 19, "range": 8, "speed": 7, "bufferCapacity": 16, "requirements": [{"item": "jyreki", "amount": 5}, {"item": "vabeda", "amount": 4}], "research": "jyreki-conveyor", "category": "distribution", "size": 1}

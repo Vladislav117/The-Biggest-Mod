@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vepuge power node", "description": "...", "size": 1, "health": 44, "requirements": [{"item": "vepuge", "amount": 15}, {"item": "leloyi", "amount": 9}, {"item": "pohyva", "amount": 10}], "research": "vepuge-factory", "maxNodes": 13, "laserRange": 25, "category": "power"}

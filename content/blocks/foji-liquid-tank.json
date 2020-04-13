@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "foji liquid tank", "description": "...", "health": 150, "size": 3, "requirements": [{"item": "foji", "amount": 9}, {"item": "faqymu", "amount": 20}, {"item": "sywuze", "amount": 3}], "research": "foji-conduit", "category": "liquid", "liquidCapacity": 48962, "hasLiquids": true}

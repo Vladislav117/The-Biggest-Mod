@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "citygo solar panel", "description": "...", "size": 3, "health": 349, "requirements": [{"item": "citygo", "amount": 19}, {"item": "besu", "amount": 10}, {"item": "mesa", "amount": 5}], "research": "citygo-factory", "powerProduction": 0.768331069186915, "category": "power"}

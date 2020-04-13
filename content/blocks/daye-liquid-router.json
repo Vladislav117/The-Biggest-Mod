@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "daye liquid router", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "daye", "amount": 13}, {"item": "vapo", "amount": 15}, {"item": "qari", "amount": 10}], "research": "daye-conduit", "liquidCapacity": 10, "category": "liquid"}

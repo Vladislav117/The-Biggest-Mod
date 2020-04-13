@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "hyru conduit", "description": "...", "health": 97, "requirements": [{"item": "hyru", "amount": 12}, {"item": "juwyso", "amount": 13}, {"item": "yebyte", "amount": 6}], "liquidCapacity": 30, "liquidPressure": 10, "research": "hyru-factory", "category": "liquid"}

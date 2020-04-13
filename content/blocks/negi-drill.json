@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "negi drill", "description": "...", "size": 2, "health": 226, "tier": 4, "drillTime": 10, "consumes": {"power": 3}, "requirements": [{"item": "negi", "amount": 6}, {"item": "padi", "amount": 10}, {"item": "laqunium", "amount": 3}], "research": "negi-factory", "category": "production"}

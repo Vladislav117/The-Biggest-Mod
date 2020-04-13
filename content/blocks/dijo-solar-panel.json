@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dijo solar panel", "description": "...", "size": 3, "health": 232, "requirements": [{"item": "dijo", "amount": 2}, {"item": "bisifu", "amount": 12}, {"item": "yeli", "amount": 5}], "research": "dijo-factory", "powerProduction": 0.6354735064268937, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "renove inverted sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "renove", "amount": 5}, {"item": "kawo", "amount": 1}], "research": "renove-conveyor", "category": "distribution", "invert": true}

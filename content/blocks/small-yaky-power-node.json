@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small yaky power node", "description": "...", "size": 1, "health": 86, "requirements": [{"item": "yaky", "amount": 9}, {"item": "masa", "amount": 14}, {"item": "marici", "amount": 10}], "research": "yaky-factory", "maxNodes": 21, "laserRange": 11, "category": "power"}

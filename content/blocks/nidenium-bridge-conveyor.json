@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nidenium bridge conveyor", "description": "", "health": 49, "range": 5, "speed": 12, "bufferCapacity": 14, "requirements": [{"item": "nidenium", "amount": 3}, {"item": "raru", "amount": 2}], "research": "nidenium-conveyor", "category": "distribution", "size": 1}

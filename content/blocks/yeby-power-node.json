@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yeby power node", "description": "...", "size": 2, "health": 418, "requirements": [{"item": "yeby", "amount": 14}, {"item": "hozanium", "amount": 1}, {"item": "nyli", "amount": 2}], "research": "yeby-factory", "maxNodes": 57, "laserRange": 30, "category": "power"}

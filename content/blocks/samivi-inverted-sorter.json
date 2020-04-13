@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "samivi inverted sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "samivi", "amount": 3}, {"item": "huci", "amount": 3}], "research": "samivi-conveyor", "category": "distribution", "invert": true}

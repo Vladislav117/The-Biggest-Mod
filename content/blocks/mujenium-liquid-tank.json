@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mujenium liquid tank", "description": "...", "health": 657, "size": 3, "requirements": [{"item": "mujenium", "amount": 8}, {"item": "deriye", "amount": 8}, {"item": "widydo", "amount": 5}], "research": "mujenium-conduit", "category": "liquid", "liquidCapacity": 73168, "hasLiquids": true}

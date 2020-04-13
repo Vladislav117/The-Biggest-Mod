@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "jumonium drill", "description": "...", "size": 4, "health": 369, "tier": 2, "drillTime": 11, "consumes": {"power": 10}, "requirements": [{"item": "jumonium", "amount": 19}, {"item": "dejoqonium", "amount": 19}, {"item": "wavoli", "amount": 7}], "research": "jumonium-factory", "category": "production"}

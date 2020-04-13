@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gifu liquid tank", "description": "...", "health": 424, "size": 3, "requirements": [{"item": "gifu", "amount": 4}, {"item": "pivojunium", "amount": 3}, {"item": "zoda", "amount": 5}], "research": "gifu-conduit", "category": "liquid", "liquidCapacity": 48665, "hasLiquids": true}

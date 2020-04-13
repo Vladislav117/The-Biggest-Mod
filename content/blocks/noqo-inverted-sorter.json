@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "noqo inverted sorter", "description": ",...", "health": 13, "size": 1, "requirements": [{"item": "noqo", "amount": 1}, {"item": "kyfoqi", "amount": 3}], "research": "noqo-conveyor", "category": "distribution", "invert": true}

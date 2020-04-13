@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nofy solar panel", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "nofy", "amount": 6}, {"item": "puzihanium", "amount": 2}, {"item": "celaji", "amount": 5}], "research": "nofy-factory", "powerProduction": 3.058331186966603, "category": "power"}

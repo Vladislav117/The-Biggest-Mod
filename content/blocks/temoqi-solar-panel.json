@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "temoqi solar panel", "description": "...", "size": 3, "health": 265, "requirements": [{"item": "temoqi", "amount": 6}, {"item": "peno", "amount": 4}, {"item": "yavyra", "amount": 10}], "research": "temoqi-factory", "powerProduction": 0.9386061337979882, "category": "power"}

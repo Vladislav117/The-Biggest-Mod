@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bukiqenium inverted sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "bukiqenium", "amount": 1}, {"item": "mafihy", "amount": 2}], "research": "bukiqenium-conveyor", "category": "distribution", "invert": true}

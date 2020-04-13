@@ -1,0 +1,1 @@
+{"type": "battery", "name": "cyhunium battery", "description": "...", "size": 3, "health": 70, "requirements": [{"item": "cyhunium", "amount": 2}, {"item": "pyyecu", "amount": 16}, {"item": "fybaze", "amount": 8}], "research": "cyhunium-factory", "consumes": {"powerBuffered": 9225}, "category": "power"}

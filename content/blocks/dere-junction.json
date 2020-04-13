@@ -1,0 +1,1 @@
+{"type": "junction", "name": "dere junction", "description": "...", "health": 31, "speed": 11, "capacity": 11, "size": 1, "requirements": [{"item": "dere", "amount": 4}, {"item": "hasifa", "amount": 5}], "research": "dere-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small loja power node", "description": "...", "size": 1, "health": 183, "requirements": [{"item": "loja", "amount": 5}, {"item": "wekami", "amount": 5}, {"item": "milusunium", "amount": 1}], "research": "loja-factory", "maxNodes": 13, "laserRange": 24, "category": "power"}

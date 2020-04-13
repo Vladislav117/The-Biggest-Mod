@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zyja junction", "description": "...", "health": 21, "speed": 18, "capacity": 6, "size": 1, "requirements": [{"item": "zyja", "amount": 1}, {"item": "yobito", "amount": 5}], "research": "zyja-conveyor", "category": "distribution"}

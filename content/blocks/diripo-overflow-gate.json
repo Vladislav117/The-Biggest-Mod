@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "diripo overflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "diripo", "amount": 4}, {"item": "yydy", "amount": 2}], "research": "diripo-conveyor", "category": "distribution", "invert": false}

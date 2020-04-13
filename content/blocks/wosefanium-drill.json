@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "wosefanium drill", "description": "...", "size": 2, "health": 131, "tier": 4, "drillTime": 17, "consumes": {"power": 18}, "requirements": [{"item": "wosefanium", "amount": 5}, {"item": "wycumu", "amount": 1}, {"item": "quxyqe", "amount": 5}], "research": "wosefanium-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "keqiny solar panel", "description": "...", "size": 3, "health": 199, "requirements": [{"item": "keqiny", "amount": 9}, {"item": "zazuti", "amount": 4}, {"item": "kyqu", "amount": 9}], "research": "keqiny-factory", "powerProduction": 0.20472897128385004, "category": "power"}

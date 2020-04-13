@@ -1,0 +1,1 @@
+{"type": "junction", "name": "yohu junction", "description": "...", "health": 46, "speed": 1, "capacity": 5, "size": 1, "requirements": [{"item": "yohu", "amount": 2}, {"item": "ciqu", "amount": 4}], "research": "yohu-conveyor", "category": "distribution"}

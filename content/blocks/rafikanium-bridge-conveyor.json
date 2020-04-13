@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rafikanium bridge conveyor", "description": "", "health": 38, "range": 6, "speed": 12, "bufferCapacity": 24, "requirements": [{"item": "rafikanium", "amount": 5}, {"item": "qiqe", "amount": 3}], "research": "rafikanium-conveyor", "category": "distribution", "size": 1}

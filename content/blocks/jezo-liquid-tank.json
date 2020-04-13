@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jezo liquid tank", "description": "...", "health": 482, "size": 3, "requirements": [{"item": "jezo", "amount": 16}, {"item": "wama", "amount": 2}, {"item": "capa", "amount": 4}], "research": "jezo-conduit", "category": "liquid", "liquidCapacity": 38119, "hasLiquids": true}

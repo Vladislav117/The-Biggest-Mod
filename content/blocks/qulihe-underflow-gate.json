@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qulihe underflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "qulihe", "amount": 2}, {"item": "dipy", "amount": 4}], "research": "qulihe-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "yudopa underflow gate", "description": "...", "health": 33, "size": 1, "requirements": [{"item": "yudopa", "amount": 3}, {"item": "bywazy", "amount": 3}], "research": "yudopa-conveyor", "category": "distribution", "invert": false}

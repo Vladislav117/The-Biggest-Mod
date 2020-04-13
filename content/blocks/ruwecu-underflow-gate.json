@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "ruwecu underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "ruwecu", "amount": 1}, {"item": "nayu", "amount": 5}], "research": "ruwecu-conveyor", "category": "distribution", "invert": false}

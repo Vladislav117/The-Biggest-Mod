@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kyji battery", "description": "...", "size": 1, "health": 130, "requirements": [{"item": "kyji", "amount": 17}, {"item": "widydo", "amount": 6}, {"item": "labila", "amount": 10}], "research": "kyji-factory", "consumes": {"powerBuffered": 1349}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yejicunium drill", "description": "...", "size": 4, "health": 339, "tier": 2, "drillTime": 7, "consumes": {"power": 19}, "requirements": [{"item": "yejicunium", "amount": 9}, {"item": "qeka", "amount": 19}, {"item": "neda", "amount": 9}], "research": "yejicunium-factory", "category": "production"}

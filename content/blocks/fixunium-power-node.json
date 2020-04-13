@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fixunium power node", "description": "...", "size": 2, "health": 198, "requirements": [{"item": "fixunium", "amount": 8}, {"item": "sukafe", "amount": 15}, {"item": "rajubanium", "amount": 9}], "research": "fixunium-factory", "maxNodes": 57, "laserRange": 8, "category": "power"}

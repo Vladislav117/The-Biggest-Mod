@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qylino liquid tank", "description": "...", "health": 428, "size": 3, "requirements": [{"item": "qylino", "amount": 12}, {"item": "kavequ", "amount": 12}, {"item": "kyte", "amount": 6}], "research": "qylino-conduit", "category": "liquid", "liquidCapacity": 33824, "hasLiquids": true}

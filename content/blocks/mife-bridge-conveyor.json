@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "mife bridge conveyor", "description": "", "health": 35, "range": 4, "speed": 3, "bufferCapacity": 10, "requirements": [{"item": "mife", "amount": 4}, {"item": "moro", "amount": 3}], "research": "mife-conveyor", "category": "distribution", "size": 1}

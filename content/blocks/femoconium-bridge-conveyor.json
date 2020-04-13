@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "femoconium bridge conveyor", "description": "", "health": 28, "range": 7, "speed": 9, "bufferCapacity": 19, "requirements": [{"item": "femoconium", "amount": 2}, {"item": "boko", "amount": 1}], "research": "femoconium-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "myfo liquid tank", "description": "...", "health": 296, "size": 3, "requirements": [{"item": "myfo", "amount": 5}, {"item": "sumu", "amount": 18}, {"item": "gypunium", "amount": 3}], "research": "myfo-conduit", "category": "liquid", "liquidCapacity": 58761, "hasLiquids": true}

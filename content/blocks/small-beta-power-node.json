@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small beta power node", "description": "...", "size": 1, "health": 85, "requirements": [{"item": "beta", "amount": 4}, {"item": "nyryfenium", "amount": 9}, {"item": "buco", "amount": 6}], "research": "beta-factory", "maxNodes": 13, "laserRange": 13, "category": "power"}

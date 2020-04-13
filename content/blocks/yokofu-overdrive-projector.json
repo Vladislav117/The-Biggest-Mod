@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "yokofu overdrive projector", "description": "...", "health": 120, "consumes": {"power": 3.0, "item": "yokofu"}, "size": 2, "requirements": [{"item": "yokofu", "amount": 8}, {"item": "zexa", "amount": 20}, {"item": "daye", "amount": 10}], "research": "yokofu-factory", "category": "effect"}

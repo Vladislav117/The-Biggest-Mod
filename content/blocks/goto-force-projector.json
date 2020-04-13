@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "goto force projector", "description": "...", "health": 117, "size": 3, "consumes": {"power": 5.0, "item": "goto"}, "requirements": [{"item": "goto", "amount": 1}, {"item": "tuxalu", "amount": 3}, {"item": "viwymynium", "amount": 5}], "research": "goto-factory", "category": "effect"}

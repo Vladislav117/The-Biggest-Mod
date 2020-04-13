@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sisinium liquid tank", "description": "...", "health": 146, "size": 3, "requirements": [{"item": "sisinium", "amount": 12}, {"item": "goyinium", "amount": 17}, {"item": "sice", "amount": 10}], "research": "sisinium-conduit", "category": "liquid", "liquidCapacity": 27670, "hasLiquids": true}

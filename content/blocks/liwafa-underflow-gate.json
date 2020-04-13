@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "liwafa underflow gate", "description": "...", "health": 18, "size": 1, "requirements": [{"item": "liwafa", "amount": 2}, {"item": "guvoja", "amount": 1}], "research": "liwafa-conveyor", "category": "distribution", "invert": false}

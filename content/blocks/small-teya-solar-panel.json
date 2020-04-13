@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small teya solar panel", "description": "...", "size": 1, "health": 135, "requirements": [{"item": "teya", "amount": 4}, {"item": "sayibe", "amount": 7}, {"item": "divi", "amount": 5}], "research": "teya-factory", "powerProduction": 6.953146138843958, "category": "power"}

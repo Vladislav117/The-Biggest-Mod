@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dituna bridge conveyor", "description": "", "health": 6, "range": 5, "speed": 19, "bufferCapacity": 22, "requirements": [{"item": "dituna", "amount": 5}, {"item": "vuciby", "amount": 3}], "research": "dituna-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "famuqunium junction", "description": "...", "health": 20, "speed": 11, "capacity": 15, "size": 1, "requirements": [{"item": "famuqunium", "amount": 2}, {"item": "vycici", "amount": 5}], "research": "famuqunium-conveyor", "category": "distribution"}

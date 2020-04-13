@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ninu power node", "description": "...", "size": 2, "health": 20, "requirements": [{"item": "ninu", "amount": 19}, {"item": "goqanium", "amount": 17}, {"item": "jakate", "amount": 4}], "research": "ninu-factory", "maxNodes": 47, "laserRange": 26, "category": "power"}

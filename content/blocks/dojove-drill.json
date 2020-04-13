@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "dojove drill", "description": "...", "size": 2, "health": 237, "tier": 1, "drillTime": 11, "consumes": {"power": 9}, "requirements": [{"item": "dojove", "amount": 2}, {"item": "kyna", "amount": 14}, {"item": "vawa", "amount": 7}], "research": "dojove-factory", "category": "production"}

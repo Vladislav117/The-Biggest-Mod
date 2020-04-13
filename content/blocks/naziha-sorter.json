@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "naziha sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "naziha", "amount": 4}, {"item": "luwetu", "amount": 4}], "research": "naziha-conveyor", "category": "distribution", "invert": false}

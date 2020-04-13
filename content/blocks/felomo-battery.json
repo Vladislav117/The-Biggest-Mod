@@ -1,0 +1,1 @@
+{"type": "battery", "name": "felomo battery", "description": "...", "size": 3, "health": 204, "requirements": [{"item": "felomo", "amount": 17}, {"item": "cudy", "amount": 2}, {"item": "gafedonium", "amount": 1}], "research": "felomo-factory", "consumes": {"powerBuffered": 7513}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qodeqe battery", "description": "...", "size": 1, "health": 395, "requirements": [{"item": "qodeqe", "amount": 6}, {"item": "roqeki", "amount": 16}, {"item": "daryki", "amount": 2}], "research": "qodeqe-factory", "consumes": {"powerBuffered": 791}, "category": "power"}

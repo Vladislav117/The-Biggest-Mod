@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small nazyfa battery", "description": "...", "size": 1, "health": 253, "requirements": [{"item": "nazyfa", "amount": 16}, {"item": "fofoco", "amount": 15}, {"item": "xoquge", "amount": 7}], "research": "nazyfa-factory", "consumes": {"powerBuffered": 1234}, "category": "power"}

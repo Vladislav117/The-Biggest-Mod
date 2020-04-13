@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bavivo conduit", "description": "...", "health": 111, "requirements": [{"item": "bavivo", "amount": 1}, {"item": "ceyi", "amount": 18}, {"item": "hohisi", "amount": 6}], "liquidCapacity": 25, "liquidPressure": 5, "research": "bavivo-factory", "category": "liquid"}

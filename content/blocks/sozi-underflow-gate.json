@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "sozi underflow gate", "description": "...", "health": 2, "size": 1, "requirements": [{"item": "sozi", "amount": 3}, {"item": "ziha", "amount": 2}], "research": "sozi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kiqe battery", "description": "...", "size": 1, "health": 195, "requirements": [{"item": "kiqe", "amount": 5}, {"item": "kuwo", "amount": 6}, {"item": "zexi", "amount": 5}], "research": "kiqe-factory", "consumes": {"powerBuffered": 533}, "category": "power"}

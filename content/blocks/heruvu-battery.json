@@ -1,0 +1,1 @@
+{"type": "battery", "name": "heruvu battery", "description": "...", "size": 3, "health": 263, "requirements": [{"item": "heruvu", "amount": 15}, {"item": "tufo", "amount": 2}, {"item": "mowygu", "amount": 5}], "research": "heruvu-factory", "consumes": {"powerBuffered": 7946}, "category": "power"}

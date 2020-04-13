@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "serenium liquid tank", "description": "...", "health": 645, "size": 3, "requirements": [{"item": "serenium", "amount": 8}, {"item": "nodi", "amount": 16}, {"item": "covikinium", "amount": 9}], "research": "serenium-conduit", "category": "liquid", "liquidCapacity": 72916, "hasLiquids": true}

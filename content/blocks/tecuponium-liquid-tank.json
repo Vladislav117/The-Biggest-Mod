@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tecuponium liquid tank", "description": "...", "health": 358, "size": 3, "requirements": [{"item": "tecuponium", "amount": 2}, {"item": "bibaro", "amount": 17}, {"item": "cyheki", "amount": 10}], "research": "tecuponium-conduit", "category": "liquid", "liquidCapacity": 68181, "hasLiquids": true}

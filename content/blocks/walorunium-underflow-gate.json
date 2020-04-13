@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "walorunium underflow gate", "description": "...", "health": 31, "size": 1, "requirements": [{"item": "walorunium", "amount": 1}, {"item": "luzinium", "amount": 5}], "research": "walorunium-conveyor", "category": "distribution", "invert": false}

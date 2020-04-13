@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vevo junction", "description": "...", "health": 1, "speed": 3, "capacity": 6, "size": 1, "requirements": [{"item": "vevo", "amount": 3}, {"item": "howu", "amount": 1}], "research": "vevo-conveyor", "category": "distribution"}

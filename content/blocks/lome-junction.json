@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lome junction", "description": "...", "health": 45, "speed": 4, "capacity": 8, "size": 1, "requirements": [{"item": "lome", "amount": 1}, {"item": "biqa", "amount": 4}], "research": "lome-conveyor", "category": "distribution"}

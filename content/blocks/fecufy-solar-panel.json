@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "fecufy solar panel", "description": "...", "size": 3, "health": 90, "requirements": [{"item": "fecufy", "amount": 11}, {"item": "xemynium", "amount": 8}, {"item": "baly", "amount": 4}], "research": "fecufy-factory", "powerProduction": 0.7690053895919771, "category": "power"}

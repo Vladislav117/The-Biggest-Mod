@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "panuwe conduit", "description": "...", "health": 38, "requirements": [{"item": "panuwe", "amount": 2}, {"item": "wybenium", "amount": 7}, {"item": "musebo", "amount": 6}], "liquidCapacity": 16, "liquidPressure": 8, "research": "panuwe-factory", "category": "liquid"}

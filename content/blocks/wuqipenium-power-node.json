@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wuqipenium power node", "description": "...", "size": 2, "health": 688, "requirements": [{"item": "wuqipenium", "amount": 15}, {"item": "qusy", "amount": 2}, {"item": "yedyte", "amount": 7}], "research": "wuqipenium-factory", "maxNodes": 33, "laserRange": 13, "category": "power"}

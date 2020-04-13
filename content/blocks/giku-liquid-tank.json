@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "giku liquid tank", "description": "...", "health": 371, "size": 3, "requirements": [{"item": "giku", "amount": 4}, {"item": "diqa", "amount": 14}, {"item": "wuce", "amount": 2}], "research": "giku-conduit", "category": "liquid", "liquidCapacity": 72614, "hasLiquids": true}

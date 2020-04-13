@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small toqo battery", "description": "...", "size": 1, "health": 172, "requirements": [{"item": "toqo", "amount": 10}, {"item": "fure", "amount": 10}, {"item": "macurenium", "amount": 5}], "research": "toqo-factory", "consumes": {"powerBuffered": 2653}, "category": "power"}

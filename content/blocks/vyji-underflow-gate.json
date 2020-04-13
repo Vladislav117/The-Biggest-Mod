@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "vyji underflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "vyji", "amount": 4}, {"item": "qysavunium", "amount": 1}], "research": "vyji-conveyor", "category": "distribution", "invert": false}

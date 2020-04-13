@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kerizu battery", "description": "...", "size": 3, "health": 16, "requirements": [{"item": "kerizu", "amount": 6}, {"item": "jeziri", "amount": 5}, {"item": "gaxunium", "amount": 6}], "research": "kerizu-factory", "consumes": {"powerBuffered": 5469}, "category": "power"}

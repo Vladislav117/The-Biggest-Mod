@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "rypenium sorter", "description": ",...", "health": 16, "size": 1, "requirements": [{"item": "rypenium", "amount": 1}, {"item": "gyfeca", "amount": 5}], "research": "rypenium-conveyor", "category": "distribution", "invert": false}

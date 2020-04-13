@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cywynium inverted sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "cywynium", "amount": 4}, {"item": "sidu", "amount": 5}], "research": "cywynium-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zexa solar panel", "description": "...", "size": 1, "health": 337, "requirements": [{"item": "zexa", "amount": 6}, {"item": "dunesy", "amount": 8}, {"item": "vevudinium", "amount": 9}], "research": "zexa-factory", "powerProduction": 3.8762339818636518, "category": "power"}

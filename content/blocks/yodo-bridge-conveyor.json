@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yodo bridge conveyor", "description": "", "health": 6, "range": 16, "speed": 14, "bufferCapacity": 6, "requirements": [{"item": "yodo", "amount": 1}, {"item": "wekami", "amount": 4}], "research": "yodo-conveyor", "category": "distribution", "size": 1}

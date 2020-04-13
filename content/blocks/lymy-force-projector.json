@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "lymy force projector", "description": "...", "health": 234, "size": 3, "consumes": {"power": 5.0, "item": "lymy"}, "requirements": [{"item": "lymy", "amount": 19}, {"item": "wybenium", "amount": 6}, {"item": "mygyyy", "amount": 9}], "research": "lymy-factory", "category": "effect"}

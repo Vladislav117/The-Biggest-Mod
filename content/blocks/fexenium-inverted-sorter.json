@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fexenium inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "fexenium", "amount": 3}, {"item": "takyhonium", "amount": 2}], "research": "fexenium-conveyor", "category": "distribution", "invert": true}

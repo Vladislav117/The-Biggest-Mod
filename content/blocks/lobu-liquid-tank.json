@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lobu liquid tank", "description": "...", "health": 645, "size": 3, "requirements": [{"item": "lobu", "amount": 1}, {"item": "vevati", "amount": 12}, {"item": "sukafe", "amount": 9}], "research": "lobu-conduit", "category": "liquid", "liquidCapacity": 4707, "hasLiquids": true}

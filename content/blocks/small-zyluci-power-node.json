@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small zyluci power node", "description": "...", "size": 1, "health": 337, "requirements": [{"item": "zyluci", "amount": 3}, {"item": "xizejinium", "amount": 20}, {"item": "lilyro", "amount": 5}], "research": "zyluci-factory", "maxNodes": 5, "laserRange": 5, "category": "power"}

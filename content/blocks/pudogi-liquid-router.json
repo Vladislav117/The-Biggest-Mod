@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "pudogi liquid router", "description": "...", "size": 1, "health": 65, "requirements": [{"item": "pudogi", "amount": 5}, {"item": "qekaye", "amount": 11}, {"item": "nimi", "amount": 4}], "research": "pudogi-conduit", "liquidCapacity": 10, "category": "liquid"}

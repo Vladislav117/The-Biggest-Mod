@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "syxu power node", "description": "...", "size": 2, "health": 457, "requirements": [{"item": "syxu", "amount": 16}, {"item": "kokidenium", "amount": 11}, {"item": "qivohe", "amount": 5}], "research": "syxu-factory", "maxNodes": 28, "laserRange": 23, "category": "power"}

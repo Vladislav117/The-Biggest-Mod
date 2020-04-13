@@ -1,0 +1,1 @@
+{"type": "battery", "name": "suru battery", "description": "...", "size": 3, "health": 149, "requirements": [{"item": "suru", "amount": 20}, {"item": "qusepu", "amount": 9}, {"item": "gujore", "amount": 7}], "research": "suru-factory", "consumes": {"powerBuffered": 2227}, "category": "power"}

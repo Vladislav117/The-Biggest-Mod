@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "veru solar panel", "description": "...", "size": 3, "health": 266, "requirements": [{"item": "veru", "amount": 11}, {"item": "xivi", "amount": 7}, {"item": "rateju", "amount": 9}], "research": "veru-factory", "powerProduction": 0.03561242848018625, "category": "power"}

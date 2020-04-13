@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zywave underflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "zywave", "amount": 3}, {"item": "siqefo", "amount": 2}], "research": "zywave-conveyor", "category": "distribution", "invert": false}

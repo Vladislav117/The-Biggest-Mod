@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small wupira solar panel", "description": "...", "size": 1, "health": 274, "requirements": [{"item": "wupira", "amount": 6}, {"item": "subece", "amount": 7}, {"item": "puyysonium", "amount": 10}], "research": "wupira-factory", "powerProduction": 0.7359410783390399, "category": "power"}

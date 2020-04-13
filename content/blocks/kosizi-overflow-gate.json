@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kosizi overflow gate", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "kosizi", "amount": 4}, {"item": "monu", "amount": 2}], "research": "kosizi-conveyor", "category": "distribution", "invert": false}

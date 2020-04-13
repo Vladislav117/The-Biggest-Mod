@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zeyo liquid tank", "description": "...", "health": 294, "size": 3, "requirements": [{"item": "zeyo", "amount": 6}, {"item": "qayy", "amount": 6}, {"item": "kavequ", "amount": 5}], "research": "zeyo-conduit", "category": "liquid", "liquidCapacity": 50878, "hasLiquids": true}

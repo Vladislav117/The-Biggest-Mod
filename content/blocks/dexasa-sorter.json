@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dexasa sorter", "description": ",...", "health": 31, "size": 1, "requirements": [{"item": "dexasa", "amount": 5}, {"item": "zaginium", "amount": 3}], "research": "dexasa-conveyor", "category": "distribution", "invert": false}

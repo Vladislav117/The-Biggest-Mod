@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zyhyne solar panel", "description": "...", "size": 3, "health": 18, "requirements": [{"item": "zyhyne", "amount": 10}, {"item": "sibewe", "amount": 7}, {"item": "mehenium", "amount": 9}], "research": "zyhyne-factory", "powerProduction": 1.3020036482826092, "category": "power"}

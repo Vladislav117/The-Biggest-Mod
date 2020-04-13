@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "ceny conveyor", "description": "...", "health": 284, "requirements": [{"item": "ceny", "amount": 10}, {"item": "pylonium", "amount": 6}], "speed": 0.03874092092770692, "research": "ceny-factory", "category": "distribution"}

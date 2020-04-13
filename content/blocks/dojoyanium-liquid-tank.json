@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "dojoyanium liquid tank", "description": "...", "health": 357, "size": 3, "requirements": [{"item": "dojoyanium", "amount": 10}, {"item": "dunysy", "amount": 15}, {"item": "haluqo", "amount": 10}], "research": "dojoyanium-conduit", "category": "liquid", "liquidCapacity": 109908, "hasLiquids": true}

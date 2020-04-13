@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small sipysa battery", "description": "...", "size": 1, "health": 214, "requirements": [{"item": "sipysa", "amount": 15}, {"item": "jejypu", "amount": 6}, {"item": "cyqanium", "amount": 2}], "research": "sipysa-factory", "consumes": {"powerBuffered": 1279}, "category": "power"}

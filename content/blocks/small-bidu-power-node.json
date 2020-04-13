@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small bidu power node", "description": "...", "size": 1, "health": 113, "requirements": [{"item": "bidu", "amount": 10}, {"item": "roqeki", "amount": 5}, {"item": "bayice", "amount": 8}], "research": "bidu-factory", "maxNodes": 4, "laserRange": 5, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zemyca solar panel", "description": "...", "size": 3, "health": 112, "requirements": [{"item": "zemyca", "amount": 8}, {"item": "fizy", "amount": 3}, {"item": "zekaru", "amount": 9}], "research": "zemyca-factory", "powerProduction": 0.5976346192918187, "category": "power"}

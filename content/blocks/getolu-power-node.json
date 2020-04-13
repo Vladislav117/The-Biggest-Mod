@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "getolu power node", "description": "...", "size": 2, "health": 253, "requirements": [{"item": "getolu", "amount": 5}, {"item": "cuha", "amount": 16}, {"item": "jayaye", "amount": 10}], "research": "getolu-factory", "maxNodes": 20, "laserRange": 9, "category": "power"}

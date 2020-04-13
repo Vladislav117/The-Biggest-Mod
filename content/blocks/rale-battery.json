@@ -1,0 +1,1 @@
+{"type": "battery", "name": "rale battery", "description": "...", "size": 3, "health": 252, "requirements": [{"item": "rale", "amount": 1}, {"item": "sugamynium", "amount": 13}, {"item": "qelyqe", "amount": 9}], "research": "rale-factory", "consumes": {"powerBuffered": 4169}, "category": "power"}

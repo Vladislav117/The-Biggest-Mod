@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "yowa drill", "description": "...", "size": 3, "health": 386, "tier": 2, "drillTime": 15, "consumes": {"power": 6}, "requirements": [{"item": "yowa", "amount": 12}, {"item": "vewavu", "amount": 10}, {"item": "pobeqi", "amount": 1}], "research": "yowa-factory", "category": "production"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "pefanium solar panel", "description": "...", "size": 3, "health": 23, "requirements": [{"item": "pefanium", "amount": 2}, {"item": "kivuzi", "amount": 20}, {"item": "minu", "amount": 5}], "research": "pefanium-factory", "powerProduction": 3.2909947314038948, "category": "power"}

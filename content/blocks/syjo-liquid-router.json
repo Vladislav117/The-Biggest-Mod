@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "syjo liquid router", "description": "...", "size": 1, "health": 88, "requirements": [{"item": "syjo", "amount": 11}, {"item": "fopo", "amount": 13}, {"item": "boko", "amount": 4}], "research": "syjo-conduit", "liquidCapacity": 10, "category": "liquid"}

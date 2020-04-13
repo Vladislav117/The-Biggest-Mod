@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small naconium power node", "description": "...", "size": 1, "health": 259, "requirements": [{"item": "naconium", "amount": 16}, {"item": "nevyle", "amount": 5}, {"item": "nybaranium", "amount": 9}], "research": "naconium-factory", "maxNodes": 13, "laserRange": 8, "category": "power"}

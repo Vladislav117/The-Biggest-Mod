@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "qoha force projector", "description": "...", "health": 132, "size": 3, "consumes": {"power": 5.0, "item": "qoha"}, "requirements": [{"item": "qoha", "amount": 20}, {"item": "wehube", "amount": 5}, {"item": "dugy", "amount": 7}], "research": "qoha-factory", "category": "effect"}

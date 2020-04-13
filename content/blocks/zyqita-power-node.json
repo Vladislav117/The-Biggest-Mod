@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zyqita power node", "description": "...", "size": 2, "health": 740, "requirements": [{"item": "zyqita", "amount": 6}, {"item": "vewavu", "amount": 17}, {"item": "syjilanium", "amount": 9}], "research": "zyqita-factory", "maxNodes": 53, "laserRange": 8, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "zilanium inverted sorter", "description": ",...", "health": 1, "size": 1, "requirements": [{"item": "zilanium", "amount": 1}, {"item": "rumo", "amount": 3}], "research": "zilanium-conveyor", "category": "distribution", "invert": true}

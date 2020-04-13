@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lesycunium liquid tank", "description": "...", "health": 215, "size": 3, "requirements": [{"item": "lesycunium", "amount": 20}, {"item": "niyy", "amount": 4}, {"item": "jeqidynium", "amount": 6}], "research": "lesycunium-conduit", "category": "liquid", "liquidCapacity": 67501, "hasLiquids": true}

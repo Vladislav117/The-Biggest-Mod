@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qefa solar panel", "description": "...", "size": 1, "health": 53, "requirements": [{"item": "qefa", "amount": 18}, {"item": "yebyte", "amount": 6}, {"item": "waka", "amount": 5}], "research": "qefa-factory", "powerProduction": 0.9210148854479946, "category": "power"}

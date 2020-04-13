@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lidinium inverted sorter", "description": ",...", "health": 17, "size": 1, "requirements": [{"item": "lidinium", "amount": 5}, {"item": "makajo", "amount": 1}], "research": "lidinium-conveyor", "category": "distribution", "invert": true}

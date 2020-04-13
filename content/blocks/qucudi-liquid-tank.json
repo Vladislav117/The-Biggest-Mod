@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qucudi liquid tank", "description": "...", "health": 512, "size": 3, "requirements": [{"item": "qucudi", "amount": 10}, {"item": "hexuqe", "amount": 15}, {"item": "qowovo", "amount": 5}], "research": "qucudi-conduit", "category": "liquid", "liquidCapacity": 117898, "hasLiquids": true}

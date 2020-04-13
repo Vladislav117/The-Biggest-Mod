@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "vubedi inverted sorter", "description": ",...", "health": 49, "size": 1, "requirements": [{"item": "vubedi", "amount": 4}, {"item": "wywa", "amount": 5}], "research": "vubedi-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "cecy liquid tank", "description": "...", "health": 383, "size": 3, "requirements": [{"item": "cecy", "amount": 3}, {"item": "banogu", "amount": 4}, {"item": "wikeyinium", "amount": 5}], "research": "cecy-conduit", "category": "liquid", "liquidCapacity": 104519, "hasLiquids": true}

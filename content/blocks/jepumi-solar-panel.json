@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "jepumi solar panel", "description": "...", "size": 3, "health": 305, "requirements": [{"item": "jepumi", "amount": 1}, {"item": "kyweru", "amount": 18}, {"item": "furazinium", "amount": 9}], "research": "jepumi-factory", "powerProduction": 4.253762970727904, "category": "power"}

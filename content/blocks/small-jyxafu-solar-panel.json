@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jyxafu solar panel", "description": "...", "size": 1, "health": 381, "requirements": [{"item": "jyxafu", "amount": 8}, {"item": "gapy", "amount": 14}, {"item": "paky", "amount": 8}], "research": "jyxafu-factory", "powerProduction": 3.9570233815354343, "category": "power"}

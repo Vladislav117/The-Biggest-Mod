@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "rezi power node", "description": "...", "size": 2, "health": 90, "requirements": [{"item": "rezi", "amount": 16}, {"item": "hypotinium", "amount": 10}, {"item": "nimy", "amount": 5}], "research": "rezi-factory", "maxNodes": 33, "laserRange": 5, "category": "power"}

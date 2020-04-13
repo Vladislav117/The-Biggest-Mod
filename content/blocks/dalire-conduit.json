@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dalire conduit", "description": "...", "health": 195, "requirements": [{"item": "dalire", "amount": 16}, {"item": "tewo", "amount": 14}, {"item": "nihy", "amount": 3}], "liquidCapacity": 20, "liquidPressure": 2, "research": "dalire-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hyqyno solar panel", "description": "...", "size": 1, "health": 178, "requirements": [{"item": "hyqyno", "amount": 9}, {"item": "maku", "amount": 12}, {"item": "muby", "amount": 4}], "research": "hyqyno-factory", "powerProduction": 3.3987727810021386, "category": "power"}

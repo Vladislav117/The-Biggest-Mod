@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pero bridge conveyor", "description": "", "health": 30, "range": 20, "speed": 18, "bufferCapacity": 7, "requirements": [{"item": "pero", "amount": 3}, {"item": "ragoku", "amount": 5}], "research": "pero-conveyor", "category": "distribution", "size": 1}

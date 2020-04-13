@@ -1,0 +1,1 @@
+{"type": "battery", "name": "mohoze battery", "description": "...", "size": 3, "health": 176, "requirements": [{"item": "mohoze", "amount": 13}, {"item": "holipu", "amount": 1}, {"item": "cyzofanium", "amount": 10}], "research": "mohoze-factory", "consumes": {"powerBuffered": 4217}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "gifu conduit", "description": "...", "health": 180, "requirements": [{"item": "gifu", "amount": 14}, {"item": "kawo", "amount": 3}, {"item": "ciwiwa", "amount": 8}], "liquidCapacity": 28, "liquidPressure": 1, "research": "gifu-factory", "category": "liquid"}

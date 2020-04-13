@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yewininium battery", "description": "...", "size": 3, "health": 87, "requirements": [{"item": "yewininium", "amount": 20}, {"item": "wiyuho", "amount": 3}, {"item": "qasysi", "amount": 1}], "research": "yewininium-factory", "consumes": {"powerBuffered": 4451}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "cuda solar panel", "description": "...", "size": 3, "health": 198, "requirements": [{"item": "cuda", "amount": 1}, {"item": "zagy", "amount": 20}, {"item": "yoty", "amount": 9}], "research": "cuda-factory", "powerProduction": 0.6470014884388667, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "woze power node", "description": "...", "size": 2, "health": 467, "requirements": [{"item": "woze", "amount": 13}, {"item": "vodico", "amount": 4}, {"item": "muti", "amount": 7}], "research": "woze-factory", "maxNodes": 22, "laserRange": 24, "category": "power"}

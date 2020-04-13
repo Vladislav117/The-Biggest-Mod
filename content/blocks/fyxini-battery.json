@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fyxini battery", "description": "...", "size": 3, "health": 62, "requirements": [{"item": "fyxini", "amount": 8}, {"item": "qubyzi", "amount": 17}, {"item": "tujy", "amount": 9}], "research": "fyxini-factory", "consumes": {"powerBuffered": 8839}, "category": "power"}

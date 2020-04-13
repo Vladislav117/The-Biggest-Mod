@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xaji battery", "description": "...", "size": 1, "health": 134, "requirements": [{"item": "xaji", "amount": 12}, {"item": "nuhixonium", "amount": 19}, {"item": "jyxexi", "amount": 10}], "research": "xaji-factory", "consumes": {"powerBuffered": 329}, "category": "power"}

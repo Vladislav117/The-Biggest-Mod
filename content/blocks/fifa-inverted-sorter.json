@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "fifa inverted sorter", "description": ",...", "health": 43, "size": 1, "requirements": [{"item": "fifa", "amount": 3}, {"item": "ravexi", "amount": 2}], "research": "fifa-conveyor", "category": "distribution", "invert": true}

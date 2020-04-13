@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "negi sorter", "description": ",...", "health": 47, "size": 1, "requirements": [{"item": "negi", "amount": 2}, {"item": "mifi", "amount": 3}], "research": "negi-conveyor", "category": "distribution", "invert": false}

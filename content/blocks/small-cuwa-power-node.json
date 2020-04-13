@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cuwa power node", "description": "...", "size": 1, "health": 21, "requirements": [{"item": "cuwa", "amount": 14}, {"item": "yyga", "amount": 19}, {"item": "wupera", "amount": 1}], "research": "cuwa-factory", "maxNodes": 7, "laserRange": 4, "category": "power"}

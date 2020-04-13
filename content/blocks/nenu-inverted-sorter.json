@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nenu inverted sorter", "description": ",...", "health": 2, "size": 1, "requirements": [{"item": "nenu", "amount": 2}, {"item": "qiqole", "amount": 1}], "research": "nenu-conveyor", "category": "distribution", "invert": true}

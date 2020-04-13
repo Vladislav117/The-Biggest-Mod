@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sice liquid tank", "description": "...", "health": 220, "size": 3, "requirements": [{"item": "sice", "amount": 20}, {"item": "nuko", "amount": 2}, {"item": "jetu", "amount": 6}], "research": "sice-conduit", "category": "liquid", "liquidCapacity": 41511, "hasLiquids": true}

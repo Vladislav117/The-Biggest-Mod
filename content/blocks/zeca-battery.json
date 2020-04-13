@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zeca battery", "description": "...", "size": 3, "health": 72, "requirements": [{"item": "zeca", "amount": 6}, {"item": "dipewanium", "amount": 6}, {"item": "yomema", "amount": 5}], "research": "zeca-factory", "consumes": {"powerBuffered": 6005}, "category": "power"}

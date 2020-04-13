@@ -1,0 +1,1 @@
+{"type": "junction", "name": "zemo junction", "description": "...", "health": 25, "speed": 4, "capacity": 2, "size": 1, "requirements": [{"item": "zemo", "amount": 3}, {"item": "rupy", "amount": 2}], "research": "zemo-conveyor", "category": "distribution"}

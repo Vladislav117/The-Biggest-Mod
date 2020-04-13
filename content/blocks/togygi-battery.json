@@ -1,0 +1,1 @@
+{"type": "battery", "name": "togygi battery", "description": "...", "size": 3, "health": 362, "requirements": [{"item": "togygi", "amount": 8}, {"item": "genane", "amount": 14}, {"item": "wace", "amount": 2}], "research": "togygi-factory", "consumes": {"powerBuffered": 5453}, "category": "power"}

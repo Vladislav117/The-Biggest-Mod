@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cihihenium junction", "description": "...", "health": 36, "speed": 18, "capacity": 15, "size": 1, "requirements": [{"item": "cihihenium", "amount": 5}, {"item": "cyjonium", "amount": 5}], "research": "cihihenium-conveyor", "category": "distribution"}

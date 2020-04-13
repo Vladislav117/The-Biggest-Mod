@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bedi liquid tank", "description": "...", "health": 598, "size": 3, "requirements": [{"item": "bedi", "amount": 2}, {"item": "fikunium", "amount": 17}, {"item": "hyxy", "amount": 2}], "research": "bedi-conduit", "category": "liquid", "liquidCapacity": 69387, "hasLiquids": true}

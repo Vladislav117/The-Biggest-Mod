@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zereka conduit", "description": "...", "health": 190, "requirements": [{"item": "zereka", "amount": 10}, {"item": "vodico", "amount": 19}, {"item": "xutire", "amount": 8}], "liquidCapacity": 28, "liquidPressure": 5, "research": "zereka-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "fivejo liquid tank", "description": "...", "health": 561, "size": 3, "requirements": [{"item": "fivejo", "amount": 2}, {"item": "resi", "amount": 4}, {"item": "geciha", "amount": 9}], "research": "fivejo-conduit", "category": "liquid", "liquidCapacity": 83031, "hasLiquids": true}

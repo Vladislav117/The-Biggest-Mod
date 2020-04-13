@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "pukalunium conduit", "description": "...", "health": 139, "requirements": [{"item": "pukalunium", "amount": 16}, {"item": "zityyanium", "amount": 14}, {"item": "qiregynium", "amount": 1}], "liquidCapacity": 23, "liquidPressure": 4, "research": "pukalunium-factory", "category": "liquid"}

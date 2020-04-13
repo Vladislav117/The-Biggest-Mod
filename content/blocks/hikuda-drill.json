@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hikuda drill", "description": "...", "size": 2, "health": 139, "tier": 2, "drillTime": 4, "consumes": {"power": 20}, "requirements": [{"item": "hikuda", "amount": 9}, {"item": "sekele", "amount": 5}, {"item": "syxidonium", "amount": 4}], "research": "hikuda-factory", "category": "production"}

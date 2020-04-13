@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "johu conduit", "description": "...", "health": 57, "requirements": [{"item": "johu", "amount": 6}, {"item": "rose", "amount": 8}, {"item": "tiqi", "amount": 3}], "liquidCapacity": 43, "liquidPressure": 7, "research": "johu-factory", "category": "liquid"}

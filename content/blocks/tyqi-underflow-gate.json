@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tyqi underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "tyqi", "amount": 2}, {"item": "kagopy", "amount": 3}], "research": "tyqi-conveyor", "category": "distribution", "invert": false}

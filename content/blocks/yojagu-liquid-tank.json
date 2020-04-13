@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yojagu liquid tank", "description": "...", "health": 408, "size": 3, "requirements": [{"item": "yojagu", "amount": 15}, {"item": "sidu", "amount": 9}, {"item": "qipy", "amount": 6}], "research": "yojagu-conduit", "category": "liquid", "liquidCapacity": 60971, "hasLiquids": true}

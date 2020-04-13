@@ -1,0 +1,1 @@
+{"type": "battery", "name": "dife battery", "description": "...", "size": 3, "health": 110, "requirements": [{"item": "dife", "amount": 12}, {"item": "tasanium", "amount": 18}, {"item": "cafazu", "amount": 3}], "research": "dife-factory", "consumes": {"powerBuffered": 9652}, "category": "power"}

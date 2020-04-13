@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "vayera conduit", "description": "...", "health": 25, "requirements": [{"item": "vayera", "amount": 4}, {"item": "puli", "amount": 14}, {"item": "xuhenium", "amount": 5}], "liquidCapacity": 3, "liquidPressure": 0, "research": "vayera-factory", "category": "liquid"}

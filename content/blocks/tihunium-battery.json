@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tihunium battery", "description": "...", "size": 3, "health": 293, "requirements": [{"item": "tihunium", "amount": 9}, {"item": "yicejanium", "amount": 15}, {"item": "jumozo", "amount": 6}], "research": "tihunium-factory", "consumes": {"powerBuffered": 8881}, "category": "power"}

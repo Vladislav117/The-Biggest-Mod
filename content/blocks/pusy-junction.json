@@ -1,0 +1,1 @@
+{"type": "junction", "name": "pusy junction", "description": "...", "health": 10, "speed": 4, "capacity": 10, "size": 1, "requirements": [{"item": "pusy", "amount": 2}, {"item": "hudolo", "amount": 5}], "research": "pusy-conveyor", "category": "distribution"}

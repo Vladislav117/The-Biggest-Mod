@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tumo battery", "description": "...", "size": 1, "health": 317, "requirements": [{"item": "tumo", "amount": 1}, {"item": "nihu", "amount": 8}, {"item": "yomi", "amount": 6}], "research": "tumo-factory", "consumes": {"powerBuffered": 947}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tekywa underflow gate", "description": "...", "health": 13, "size": 1, "requirements": [{"item": "tekywa", "amount": 3}, {"item": "yupo", "amount": 2}], "research": "tekywa-conveyor", "category": "distribution", "invert": false}

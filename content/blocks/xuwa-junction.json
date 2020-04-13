@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xuwa junction", "description": "...", "health": 41, "speed": 2, "capacity": 16, "size": 1, "requirements": [{"item": "xuwa", "amount": 1}, {"item": "gafy", "amount": 1}], "research": "xuwa-conveyor", "category": "distribution"}

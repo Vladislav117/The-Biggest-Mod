@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lyra conduit", "description": "...", "health": 78, "requirements": [{"item": "lyra", "amount": 12}, {"item": "labila", "amount": 17}, {"item": "reju", "amount": 8}], "liquidCapacity": 34, "liquidPressure": 4, "research": "lyra-factory", "category": "liquid"}

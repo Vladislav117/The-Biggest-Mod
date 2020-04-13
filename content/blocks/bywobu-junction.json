@@ -1,0 +1,1 @@
+{"type": "junction", "name": "bywobu junction", "description": "...", "health": 41, "speed": 4, "capacity": 16, "size": 1, "requirements": [{"item": "bywobu", "amount": 2}, {"item": "fici", "amount": 5}], "research": "bywobu-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "puxyci battery", "description": "...", "size": 3, "health": 61, "requirements": [{"item": "puxyci", "amount": 14}, {"item": "gula", "amount": 19}, {"item": "zyhyne", "amount": 4}], "research": "puxyci-factory", "consumes": {"powerBuffered": 1776}, "category": "power"}

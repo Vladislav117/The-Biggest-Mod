@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small pyyomi battery", "description": "...", "size": 1, "health": 341, "requirements": [{"item": "pyyomi", "amount": 6}, {"item": "mohoze", "amount": 1}, {"item": "miwu", "amount": 5}], "research": "pyyomi-factory", "consumes": {"powerBuffered": 1216}, "category": "power"}

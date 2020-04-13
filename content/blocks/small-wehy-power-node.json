@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wehy power node", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "wehy", "amount": 11}, {"item": "vamoginium", "amount": 8}, {"item": "felu", "amount": 10}], "research": "wehy-factory", "maxNodes": 19, "laserRange": 19, "category": "power"}

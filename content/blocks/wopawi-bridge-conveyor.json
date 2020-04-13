@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "wopawi bridge conveyor", "description": "", "health": 1, "range": 14, "speed": 14, "bufferCapacity": 20, "requirements": [{"item": "wopawi", "amount": 3}, {"item": "zupisy", "amount": 4}], "research": "wopawi-conveyor", "category": "distribution", "size": 1}

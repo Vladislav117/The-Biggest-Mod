@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xyvenium battery", "description": "...", "size": 1, "health": 128, "requirements": [{"item": "xyvenium", "amount": 18}, {"item": "cuse", "amount": 13}, {"item": "vykynium", "amount": 9}], "research": "xyvenium-factory", "consumes": {"powerBuffered": 2661}, "category": "power"}

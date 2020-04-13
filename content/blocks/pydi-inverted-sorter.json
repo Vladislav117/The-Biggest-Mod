@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pydi inverted sorter", "description": ",...", "health": 25, "size": 1, "requirements": [{"item": "pydi", "amount": 4}, {"item": "lewanium", "amount": 4}], "research": "pydi-conveyor", "category": "distribution", "invert": true}

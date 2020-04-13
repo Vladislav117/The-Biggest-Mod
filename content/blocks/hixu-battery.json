@@ -1,0 +1,1 @@
+{"type": "battery", "name": "hixu battery", "description": "...", "size": 3, "health": 341, "requirements": [{"item": "hixu", "amount": 5}, {"item": "xedorinium", "amount": 9}, {"item": "yuly", "amount": 10}], "research": "hixu-factory", "consumes": {"powerBuffered": 795}, "category": "power"}

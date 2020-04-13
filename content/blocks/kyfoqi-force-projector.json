@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "kyfoqi force projector", "description": "...", "health": 235, "size": 3, "consumes": {"power": 5.0, "item": "kyfoqi"}, "requirements": [{"item": "kyfoqi", "amount": 14}, {"item": "mohoze", "amount": 12}, {"item": "gayywe", "amount": 1}], "research": "kyfoqi-factory", "category": "effect"}

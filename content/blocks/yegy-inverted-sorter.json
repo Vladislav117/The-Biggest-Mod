@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yegy inverted sorter", "description": ",...", "health": 46, "size": 1, "requirements": [{"item": "yegy", "amount": 4}, {"item": "vufinium", "amount": 5}], "research": "yegy-conveyor", "category": "distribution", "invert": true}

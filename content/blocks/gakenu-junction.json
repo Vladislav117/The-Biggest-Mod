@@ -1,0 +1,1 @@
+{"type": "junction", "name": "gakenu junction", "description": "...", "health": 14, "speed": 5, "capacity": 11, "size": 1, "requirements": [{"item": "gakenu", "amount": 2}, {"item": "covikinium", "amount": 1}], "research": "gakenu-conveyor", "category": "distribution"}

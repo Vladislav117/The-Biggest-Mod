@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "zeva underflow gate", "description": "...", "health": 14, "size": 1, "requirements": [{"item": "zeva", "amount": 1}, {"item": "gykenium", "amount": 3}], "research": "zeva-conveyor", "category": "distribution", "invert": false}

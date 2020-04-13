@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "wopawi inverted sorter", "description": ",...", "health": 34, "size": 1, "requirements": [{"item": "wopawi", "amount": 4}, {"item": "xyka", "amount": 3}], "research": "wopawi-conveyor", "category": "distribution", "invert": true}

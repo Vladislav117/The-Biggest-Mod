@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "myfo liquid router", "description": "...", "size": 1, "health": 32, "requirements": [{"item": "myfo", "amount": 11}, {"item": "fogodo", "amount": 13}, {"item": "cobunium", "amount": 6}], "research": "myfo-conduit", "liquidCapacity": 10, "category": "liquid"}

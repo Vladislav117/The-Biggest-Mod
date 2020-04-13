@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cyhunium liquid router", "description": "...", "size": 1, "health": 64, "requirements": [{"item": "cyhunium", "amount": 3}, {"item": "budefu", "amount": 16}, {"item": "gave", "amount": 5}], "research": "cyhunium-conduit", "liquidCapacity": 10, "category": "liquid"}

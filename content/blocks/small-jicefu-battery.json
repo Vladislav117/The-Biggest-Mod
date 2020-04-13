@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jicefu battery", "description": "...", "size": 1, "health": 190, "requirements": [{"item": "jicefu", "amount": 3}, {"item": "wasebanium", "amount": 4}, {"item": "kurecanium", "amount": 6}], "research": "jicefu-factory", "consumes": {"powerBuffered": 1899}, "category": "power"}

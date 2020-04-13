@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small fito power node", "description": "...", "size": 1, "health": 24, "requirements": [{"item": "fito", "amount": 3}, {"item": "cozuja", "amount": 15}, {"item": "nufuponium", "amount": 5}], "research": "fito-factory", "maxNodes": 17, "laserRange": 20, "category": "power"}

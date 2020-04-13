@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyja liquid tank", "description": "...", "health": 196, "size": 3, "requirements": [{"item": "zyja", "amount": 9}, {"item": "tatavo", "amount": 3}, {"item": "gobaxu", "amount": 7}], "research": "zyja-conduit", "category": "liquid", "liquidCapacity": 66206, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "byhonium liquid tank", "description": "...", "health": 155, "size": 3, "requirements": [{"item": "byhonium", "amount": 4}, {"item": "yupo", "amount": 5}, {"item": "ridu", "amount": 8}], "research": "byhonium-conduit", "category": "liquid", "liquidCapacity": 107903, "hasLiquids": true}

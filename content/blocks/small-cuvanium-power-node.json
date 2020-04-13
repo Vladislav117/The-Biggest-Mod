@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small cuvanium power node", "description": "...", "size": 1, "health": 335, "requirements": [{"item": "cuvanium", "amount": 20}, {"item": "dysojonium", "amount": 1}, {"item": "zofiqo", "amount": 4}], "research": "cuvanium-factory", "maxNodes": 10, "laserRange": 9, "category": "power"}

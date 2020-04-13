@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "lupapu solar panel", "description": "...", "size": 3, "health": 294, "requirements": [{"item": "lupapu", "amount": 13}, {"item": "fenu", "amount": 13}, {"item": "vipoja", "amount": 9}], "research": "lupapu-factory", "powerProduction": 0.6338658571395249, "category": "power"}

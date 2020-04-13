@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "higy conduit", "description": "...", "health": 36, "requirements": [{"item": "higy", "amount": 8}, {"item": "ryte", "amount": 5}, {"item": "viqamo", "amount": 8}], "liquidCapacity": 35, "liquidPressure": 10, "research": "higy-factory", "category": "liquid"}

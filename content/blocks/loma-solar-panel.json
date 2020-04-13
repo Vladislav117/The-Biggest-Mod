@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "loma solar panel", "description": "...", "size": 3, "health": 224, "requirements": [{"item": "loma", "amount": 19}, {"item": "xilyra", "amount": 3}, {"item": "jane", "amount": 9}], "research": "loma-factory", "powerProduction": 0.6686770375600823, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gase liquid tank", "description": "...", "health": 381, "size": 3, "requirements": [{"item": "gase", "amount": 15}, {"item": "fokinium", "amount": 12}, {"item": "higucu", "amount": 7}], "research": "gase-conduit", "category": "liquid", "liquidCapacity": 111648, "hasLiquids": true}

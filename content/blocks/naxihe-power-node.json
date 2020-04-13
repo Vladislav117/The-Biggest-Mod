@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "naxihe power node", "description": "...", "size": 2, "health": 94, "requirements": [{"item": "naxihe", "amount": 11}, {"item": "najy", "amount": 9}, {"item": "xemynium", "amount": 9}], "research": "naxihe-factory", "maxNodes": 20, "laserRange": 25, "category": "power"}

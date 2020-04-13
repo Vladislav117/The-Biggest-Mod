@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "saciwy liquid router", "description": "...", "size": 1, "health": 55, "requirements": [{"item": "saciwy", "amount": 18}, {"item": "qubironium", "amount": 12}, {"item": "werexo", "amount": 10}], "research": "saciwy-conduit", "liquidCapacity": 10, "category": "liquid"}

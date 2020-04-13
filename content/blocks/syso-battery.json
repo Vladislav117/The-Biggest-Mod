@@ -1,0 +1,1 @@
+{"type": "battery", "name": "syso battery", "description": "...", "size": 3, "health": 22, "requirements": [{"item": "syso", "amount": 14}, {"item": "lilyro", "amount": 12}, {"item": "tivy", "amount": 1}], "research": "syso-factory", "consumes": {"powerBuffered": 7550}, "category": "power"}

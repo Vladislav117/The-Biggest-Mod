@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "difu solar panel", "description": "...", "size": 3, "health": 25, "requirements": [{"item": "difu", "amount": 1}, {"item": "pyhune", "amount": 9}, {"item": "niso", "amount": 4}], "research": "difu-factory", "powerProduction": 0.09537846553686564, "category": "power"}

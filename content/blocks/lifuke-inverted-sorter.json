@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "lifuke inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "lifuke", "amount": 3}, {"item": "yyko", "amount": 2}], "research": "lifuke-conveyor", "category": "distribution", "invert": true}

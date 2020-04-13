@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "gywu drill", "description": "...", "size": 2, "health": 384, "tier": 2, "drillTime": 12, "consumes": {"power": 4}, "requirements": [{"item": "gywu", "amount": 8}, {"item": "kavequ", "amount": 14}, {"item": "milosi", "amount": 10}], "research": "gywu-factory", "category": "production"}

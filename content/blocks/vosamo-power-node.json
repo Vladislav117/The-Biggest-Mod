@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vosamo power node", "description": "...", "size": 2, "health": 784, "requirements": [{"item": "vosamo", "amount": 17}, {"item": "hivesy", "amount": 7}, {"item": "sore", "amount": 8}], "research": "vosamo-factory", "maxNodes": 20, "laserRange": 15, "category": "power"}

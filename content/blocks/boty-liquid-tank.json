@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "boty liquid tank", "description": "...", "health": 122, "size": 3, "requirements": [{"item": "boty", "amount": 10}, {"item": "qimose", "amount": 5}, {"item": "surenium", "amount": 9}], "research": "boty-conduit", "category": "liquid", "liquidCapacity": 42024, "hasLiquids": true}

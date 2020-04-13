@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "moxi liquid tank", "description": "...", "health": 131, "size": 3, "requirements": [{"item": "moxi", "amount": 18}, {"item": "kiranium", "amount": 2}, {"item": "qycu", "amount": 2}], "research": "moxi-conduit", "category": "liquid", "liquidCapacity": 76075, "hasLiquids": true}

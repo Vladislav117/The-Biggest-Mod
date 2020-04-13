@@ -1,0 +1,1 @@
+{"type": "battery", "name": "tijixi battery", "description": "...", "size": 3, "health": 312, "requirements": [{"item": "tijixi", "amount": 5}, {"item": "yypedonium", "amount": 2}, {"item": "qujunium", "amount": 9}], "research": "tijixi-factory", "consumes": {"powerBuffered": 7530}, "category": "power"}

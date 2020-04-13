@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "bytu sorter", "description": ",...", "health": 9, "size": 1, "requirements": [{"item": "bytu", "amount": 3}, {"item": "maya", "amount": 2}], "research": "bytu-conveyor", "category": "distribution", "invert": false}

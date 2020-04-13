@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "yyku liquid tank", "description": "...", "health": 275, "size": 3, "requirements": [{"item": "yyku", "amount": 16}, {"item": "tedi", "amount": 15}, {"item": "zadajo", "amount": 7}], "research": "yyku-conduit", "category": "liquid", "liquidCapacity": 36718, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "sygami solar panel", "description": "...", "size": 3, "health": 53, "requirements": [{"item": "sygami", "amount": 2}, {"item": "weka", "amount": 14}, {"item": "buji", "amount": 7}], "research": "sygami-factory", "powerProduction": 1.1519263094369954, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small jihi solar panel", "description": "...", "size": 1, "health": 227, "requirements": [{"item": "jihi", "amount": 15}, {"item": "lora", "amount": 17}, {"item": "kejinium", "amount": 4}], "research": "jihi-factory", "powerProduction": 3.2492522600917746, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small teya battery", "description": "...", "size": 1, "health": 304, "requirements": [{"item": "teya", "amount": 1}, {"item": "yyjuhy", "amount": 20}, {"item": "bexo", "amount": 4}], "research": "teya-factory", "consumes": {"powerBuffered": 2872}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "qobenium drill", "description": "...", "size": 2, "health": 290, "tier": 1, "drillTime": 3, "consumes": {"power": 19}, "requirements": [{"item": "qobenium", "amount": 13}, {"item": "rypenium", "amount": 16}, {"item": "kery", "amount": 9}], "research": "qobenium-factory", "category": "production"}

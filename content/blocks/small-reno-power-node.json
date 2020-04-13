@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small reno power node", "description": "...", "size": 1, "health": 36, "requirements": [{"item": "reno", "amount": 5}, {"item": "nimynium", "amount": 4}, {"item": "wycenu", "amount": 4}], "research": "reno-factory", "maxNodes": 21, "laserRange": 25, "category": "power"}

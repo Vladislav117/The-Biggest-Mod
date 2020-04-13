@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zalirenium battery", "description": "...", "size": 3, "health": 211, "requirements": [{"item": "zalirenium", "amount": 20}, {"item": "yucy", "amount": 10}, {"item": "woyu", "amount": 5}], "research": "zalirenium-factory", "consumes": {"powerBuffered": 7944}, "category": "power"}

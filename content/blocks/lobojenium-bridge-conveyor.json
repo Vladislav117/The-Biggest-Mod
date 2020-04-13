@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lobojenium bridge conveyor", "description": "", "health": 14, "range": 3, "speed": 4, "bufferCapacity": 11, "requirements": [{"item": "lobojenium", "amount": 1}, {"item": "makonium", "amount": 4}], "research": "lobojenium-conveyor", "category": "distribution", "size": 1}

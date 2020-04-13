@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gybi liquid tank", "description": "...", "health": 231, "size": 3, "requirements": [{"item": "gybi", "amount": 15}, {"item": "rigiro", "amount": 14}, {"item": "hoqego", "amount": 9}], "research": "gybi-conduit", "category": "liquid", "liquidCapacity": 13286, "hasLiquids": true}

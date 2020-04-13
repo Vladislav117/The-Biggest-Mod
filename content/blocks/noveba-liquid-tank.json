@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "noveba liquid tank", "description": "...", "health": 573, "size": 3, "requirements": [{"item": "noveba", "amount": 18}, {"item": "fofoco", "amount": 5}, {"item": "kiza", "amount": 9}], "research": "noveba-conduit", "category": "liquid", "liquidCapacity": 74109, "hasLiquids": true}

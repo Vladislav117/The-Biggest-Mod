@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vapo battery", "description": "...", "size": 3, "health": 326, "requirements": [{"item": "vapo", "amount": 18}, {"item": "tebebe", "amount": 18}, {"item": "qoki", "amount": 7}], "research": "vapo-factory", "consumes": {"powerBuffered": 3626}, "category": "power"}

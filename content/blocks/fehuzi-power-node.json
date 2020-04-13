@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fehuzi power node", "description": "...", "size": 2, "health": 228, "requirements": [{"item": "fehuzi", "amount": 3}, {"item": "qoly", "amount": 7}, {"item": "lavysunium", "amount": 4}], "research": "fehuzi-factory", "maxNodes": 19, "laserRange": 28, "category": "power"}

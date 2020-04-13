@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zoyinium solar panel", "description": "...", "size": 1, "health": 49, "requirements": [{"item": "zoyinium", "amount": 5}, {"item": "horyve", "amount": 3}, {"item": "vodico", "amount": 4}], "research": "zoyinium-factory", "powerProduction": 7.0181117708629035, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kekipa solar panel", "description": "...", "size": 1, "health": 76, "requirements": [{"item": "kekipa", "amount": 10}, {"item": "sytafe", "amount": 18}, {"item": "zymaginium", "amount": 7}], "research": "kekipa-factory", "powerProduction": 3.176335368509049, "category": "power"}

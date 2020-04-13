@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small culy battery", "description": "...", "size": 1, "health": 102, "requirements": [{"item": "culy", "amount": 14}, {"item": "tymy", "amount": 16}, {"item": "deqohu", "amount": 1}], "research": "culy-factory", "consumes": {"powerBuffered": 2301}, "category": "power"}

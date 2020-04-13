@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small kobynium battery", "description": "...", "size": 1, "health": 286, "requirements": [{"item": "kobynium", "amount": 1}, {"item": "vypeha", "amount": 12}, {"item": "fapufi", "amount": 3}], "research": "kobynium-factory", "consumes": {"powerBuffered": 2361}, "category": "power"}

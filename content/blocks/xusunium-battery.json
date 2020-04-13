@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xusunium battery", "description": "...", "size": 3, "health": 39, "requirements": [{"item": "xusunium", "amount": 1}, {"item": "jogi", "amount": 1}, {"item": "mepunium", "amount": 1}], "research": "xusunium-factory", "consumes": {"powerBuffered": 6830}, "category": "power"}

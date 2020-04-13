@@ -1,0 +1,1 @@
+{"type": "battery", "name": "femoconium battery", "description": "...", "size": 3, "health": 369, "requirements": [{"item": "femoconium", "amount": 6}, {"item": "juvaci", "amount": 10}, {"item": "jazy", "amount": 1}], "research": "femoconium-factory", "consumes": {"powerBuffered": 2362}, "category": "power"}

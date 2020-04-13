@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "kesyginium liquid tank", "description": "...", "health": 136, "size": 3, "requirements": [{"item": "kesyginium", "amount": 18}, {"item": "moro", "amount": 4}, {"item": "qubironium", "amount": 4}], "research": "kesyginium-conduit", "category": "liquid", "liquidCapacity": 50071, "hasLiquids": true}

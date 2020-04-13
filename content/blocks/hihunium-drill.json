@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "hihunium drill", "description": "...", "size": 3, "health": 404, "tier": 3, "drillTime": 2, "consumes": {"power": 11}, "requirements": [{"item": "hihunium", "amount": 13}, {"item": "pele", "amount": 9}, {"item": "nuko", "amount": 7}], "research": "hihunium-factory", "category": "production"}

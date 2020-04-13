@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "pepu overdrive projector", "description": "...", "health": 76, "consumes": {"power": 3.0, "item": "pepu"}, "size": 2, "requirements": [{"item": "pepu", "amount": 19}, {"item": "mififi", "amount": 5}, {"item": "xoruba", "amount": 1}], "research": "pepu-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "syfy battery", "description": "...", "size": 3, "health": 26, "requirements": [{"item": "syfy", "amount": 15}, {"item": "pedy", "amount": 18}, {"item": "bufywy", "amount": 9}], "research": "syfy-factory", "consumes": {"powerBuffered": 4423}, "category": "power"}

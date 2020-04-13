@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "migube bridge conveyor", "description": "", "health": 45, "range": 15, "speed": 10, "bufferCapacity": 17, "requirements": [{"item": "migube", "amount": 4}, {"item": "kubi", "amount": 3}], "research": "migube-conveyor", "category": "distribution", "size": 1}

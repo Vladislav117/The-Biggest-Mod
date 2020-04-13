@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sixo inverted sorter", "description": ",...", "health": 37, "size": 1, "requirements": [{"item": "sixo", "amount": 4}, {"item": "wobuyu", "amount": 2}], "research": "sixo-conveyor", "category": "distribution", "invert": true}

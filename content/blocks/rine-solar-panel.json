@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rine solar panel", "description": "...", "size": 3, "health": 297, "requirements": [{"item": "rine", "amount": 8}, {"item": "thorium", "amount": 17}, {"item": "milosi", "amount": 10}], "research": "rine-factory", "powerProduction": 5.340206156861211, "category": "power"}

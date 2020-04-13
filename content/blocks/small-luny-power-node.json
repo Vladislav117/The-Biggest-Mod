@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small luny power node", "description": "...", "size": 1, "health": 50, "requirements": [{"item": "luny", "amount": 9}, {"item": "nywo", "amount": 6}, {"item": "leqe", "amount": 8}], "research": "luny-factory", "maxNodes": 16, "laserRange": 25, "category": "power"}

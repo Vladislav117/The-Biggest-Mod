@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vaxide solar panel", "description": "...", "size": 3, "health": 272, "requirements": [{"item": "vaxide", "amount": 4}, {"item": "mumu", "amount": 19}, {"item": "wypu", "amount": 8}], "research": "vaxide-factory", "powerProduction": 1.002742529358749, "category": "power"}

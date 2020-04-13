@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small noveba battery", "description": "...", "size": 1, "health": 371, "requirements": [{"item": "noveba", "amount": 4}, {"item": "qevije", "amount": 7}, {"item": "hite", "amount": 7}], "research": "noveba-factory", "consumes": {"powerBuffered": 1776}, "category": "power"}

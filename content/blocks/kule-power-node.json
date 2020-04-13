@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "kule power node", "description": "...", "size": 2, "health": 41, "requirements": [{"item": "kule", "amount": 13}, {"item": "jaki", "amount": 3}, {"item": "nuhixonium", "amount": 7}], "research": "kule-factory", "maxNodes": 29, "laserRange": 9, "category": "power"}

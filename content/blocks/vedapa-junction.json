@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vedapa junction", "description": "...", "health": 45, "speed": 10, "capacity": 11, "size": 1, "requirements": [{"item": "vedapa", "amount": 2}, {"item": "bybity", "amount": 5}], "research": "vedapa-conveyor", "category": "distribution"}

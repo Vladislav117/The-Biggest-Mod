@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "duginium sorter", "description": ",...", "health": 4, "size": 1, "requirements": [{"item": "duginium", "amount": 5}, {"item": "tamuna", "amount": 1}], "research": "duginium-conveyor", "category": "distribution", "invert": false}

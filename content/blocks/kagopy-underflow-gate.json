@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kagopy underflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "kagopy", "amount": 3}, {"item": "tobu", "amount": 1}], "research": "kagopy-conveyor", "category": "distribution", "invert": false}

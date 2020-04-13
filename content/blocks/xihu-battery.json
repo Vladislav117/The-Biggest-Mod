@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xihu battery", "description": "...", "size": 3, "health": 97, "requirements": [{"item": "xihu", "amount": 14}, {"item": "medide", "amount": 18}, {"item": "wiraby", "amount": 8}], "research": "xihu-factory", "consumes": {"powerBuffered": 6441}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nukino liquid tank", "description": "...", "health": 132, "size": 3, "requirements": [{"item": "nukino", "amount": 7}, {"item": "sesico", "amount": 19}, {"item": "seca", "amount": 6}], "research": "nukino-conduit", "category": "liquid", "liquidCapacity": 56259, "hasLiquids": true}

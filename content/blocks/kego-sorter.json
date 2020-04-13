@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kego sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "kego", "amount": 3}, {"item": "dysenium", "amount": 2}], "research": "kego-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "vykynium power node", "description": "...", "size": 2, "health": 489, "requirements": [{"item": "vykynium", "amount": 3}, {"item": "lepe", "amount": 10}, {"item": "riro", "amount": 4}], "research": "vykynium-factory", "maxNodes": 58, "laserRange": 19, "category": "power"}

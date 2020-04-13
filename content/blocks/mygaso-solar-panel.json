@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mygaso solar panel", "description": "...", "size": 3, "health": 26, "requirements": [{"item": "mygaso", "amount": 10}, {"item": "pijebu", "amount": 19}, {"item": "movenium", "amount": 1}], "research": "mygaso-factory", "powerProduction": 3.116283472032126, "category": "power"}

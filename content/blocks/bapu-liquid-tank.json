@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bapu liquid tank", "description": "...", "health": 248, "size": 3, "requirements": [{"item": "bapu", "amount": 7}, {"item": "biciti", "amount": 17}, {"item": "yyko", "amount": 10}], "research": "bapu-conduit", "category": "liquid", "liquidCapacity": 44850, "hasLiquids": true}

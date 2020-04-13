@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sukedu liquid tank", "description": "...", "health": 521, "size": 3, "requirements": [{"item": "sukedu", "amount": 6}, {"item": "qokenium", "amount": 4}, {"item": "mumu", "amount": 2}], "research": "sukedu-conduit", "category": "liquid", "liquidCapacity": 65081, "hasLiquids": true}

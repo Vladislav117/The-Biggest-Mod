@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gona bridge conveyor", "description": "", "health": 17, "range": 18, "speed": 12, "bufferCapacity": 24, "requirements": [{"item": "gona", "amount": 4}, {"item": "gyduyi", "amount": 2}], "research": "gona-conveyor", "category": "distribution", "size": 1}

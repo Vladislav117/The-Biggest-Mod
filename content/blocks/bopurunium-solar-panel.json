@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "bopurunium solar panel", "description": "...", "size": 3, "health": 334, "requirements": [{"item": "bopurunium", "amount": 16}, {"item": "biye", "amount": 14}, {"item": "riyo", "amount": 6}], "research": "bopurunium-factory", "powerProduction": 0.4324333294649559, "category": "power"}

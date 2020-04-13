@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vivunium junction", "description": "...", "health": 37, "speed": 5, "capacity": 3, "size": 1, "requirements": [{"item": "vivunium", "amount": 5}, {"item": "sacigi", "amount": 2}], "research": "vivunium-conveyor", "category": "distribution"}

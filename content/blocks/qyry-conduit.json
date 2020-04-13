@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "qyry conduit", "description": "...", "health": 151, "requirements": [{"item": "qyry", "amount": 7}, {"item": "yesolonium", "amount": 10}, {"item": "hybobenium", "amount": 8}], "liquidCapacity": 39, "liquidPressure": 8, "research": "qyry-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small husysi power node", "description": "...", "size": 1, "health": 394, "requirements": [{"item": "husysi", "amount": 4}, {"item": "cusefanium", "amount": 6}, {"item": "kymu", "amount": 7}], "research": "husysi-factory", "maxNodes": 20, "laserRange": 16, "category": "power"}

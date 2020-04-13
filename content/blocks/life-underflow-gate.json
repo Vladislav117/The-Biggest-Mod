@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "life underflow gate", "description": "...", "health": 30, "size": 1, "requirements": [{"item": "life", "amount": 5}, {"item": "yape", "amount": 4}], "research": "life-conveyor", "category": "distribution", "invert": false}

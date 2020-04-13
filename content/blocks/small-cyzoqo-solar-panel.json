@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cyzoqo solar panel", "description": "...", "size": 1, "health": 183, "requirements": [{"item": "cyzoqo", "amount": 13}, {"item": "togygi", "amount": 12}, {"item": "mumu", "amount": 8}], "research": "cyzoqo-factory", "powerProduction": 0.7245627159463981, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yito inverted sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "yito", "amount": 3}, {"item": "laxu", "amount": 4}], "research": "yito-conveyor", "category": "distribution", "invert": true}

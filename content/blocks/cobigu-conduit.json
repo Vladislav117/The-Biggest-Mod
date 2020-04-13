@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cobigu conduit", "description": "...", "health": 121, "requirements": [{"item": "cobigu", "amount": 4}, {"item": "jupygu", "amount": 16}, {"item": "mavitu", "amount": 6}], "liquidCapacity": 3, "liquidPressure": 2, "research": "cobigu-factory", "category": "liquid"}

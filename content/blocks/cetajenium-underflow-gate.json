@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "cetajenium underflow gate", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "cetajenium", "amount": 2}, {"item": "kedixe", "amount": 4}], "research": "cetajenium-conveyor", "category": "distribution", "invert": false}

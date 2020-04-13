@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "suta sorter", "description": ",...", "health": 3, "size": 1, "requirements": [{"item": "suta", "amount": 2}, {"item": "kofynium", "amount": 4}], "research": "suta-conveyor", "category": "distribution", "invert": false}

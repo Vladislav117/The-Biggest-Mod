@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "riwi liquid tank", "description": "...", "health": 417, "size": 3, "requirements": [{"item": "riwi", "amount": 10}, {"item": "tudinium", "amount": 8}, {"item": "zoxi", "amount": 3}], "research": "riwi-conduit", "category": "liquid", "liquidCapacity": 109437, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small wiyeda power node", "description": "...", "size": 1, "health": 61, "requirements": [{"item": "wiyeda", "amount": 16}, {"item": "cozuja", "amount": 11}, {"item": "qoseve", "amount": 8}], "research": "wiyeda-factory", "maxNodes": 5, "laserRange": 14, "category": "power"}

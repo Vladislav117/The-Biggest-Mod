@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "byfyly bridge conveyor", "description": "", "health": 39, "range": 7, "speed": 11, "bufferCapacity": 5, "requirements": [{"item": "byfyly", "amount": 5}, {"item": "dodyvo", "amount": 1}], "research": "byfyly-conveyor", "category": "distribution", "size": 1}

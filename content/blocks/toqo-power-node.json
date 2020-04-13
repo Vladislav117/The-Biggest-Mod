@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "toqo power node", "description": "...", "size": 2, "health": 461, "requirements": [{"item": "toqo", "amount": 4}, {"item": "cujyda", "amount": 1}, {"item": "vove", "amount": 9}], "research": "toqo-factory", "maxNodes": 19, "laserRange": 6, "category": "power"}

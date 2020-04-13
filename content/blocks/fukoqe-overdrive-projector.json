@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "fukoqe overdrive projector", "description": "...", "health": 61, "consumes": {"power": 3.0, "item": "fukoqe"}, "size": 2, "requirements": [{"item": "fukoqe", "amount": 10}, {"item": "nazyfa", "amount": 7}, {"item": "vomo", "amount": 4}], "research": "fukoqe-factory", "category": "effect"}

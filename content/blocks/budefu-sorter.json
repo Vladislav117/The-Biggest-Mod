@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "budefu sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "budefu", "amount": 4}, {"item": "vipu", "amount": 4}], "research": "budefu-conveyor", "category": "distribution", "invert": false}

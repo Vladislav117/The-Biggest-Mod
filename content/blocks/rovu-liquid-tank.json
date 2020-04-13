@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "rovu liquid tank", "description": "...", "health": 294, "size": 3, "requirements": [{"item": "rovu", "amount": 3}, {"item": "kite", "amount": 2}, {"item": "qimose", "amount": 6}], "research": "rovu-conduit", "category": "liquid", "liquidCapacity": 30724, "hasLiquids": true}

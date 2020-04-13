@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xizejinium battery", "description": "...", "size": 1, "health": 395, "requirements": [{"item": "xizejinium", "amount": 17}, {"item": "cudo", "amount": 14}, {"item": "zyqita", "amount": 2}], "research": "xizejinium-factory", "consumes": {"powerBuffered": 1200}, "category": "power"}

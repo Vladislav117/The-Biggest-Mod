@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "tiyajo inverted sorter", "description": ",...", "health": 41, "size": 1, "requirements": [{"item": "tiyajo", "amount": 1}, {"item": "mivoky", "amount": 5}], "research": "tiyajo-conveyor", "category": "distribution", "invert": true}

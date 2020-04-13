@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zyganium power node", "description": "...", "size": 2, "health": 25, "requirements": [{"item": "zyganium", "amount": 4}, {"item": "hexuqe", "amount": 5}, {"item": "xadunium", "amount": 5}], "research": "zyganium-factory", "maxNodes": 13, "laserRange": 5, "category": "power"}

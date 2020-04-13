@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "cuki liquid router", "description": "...", "size": 1, "health": 38, "requirements": [{"item": "cuki", "amount": 17}, {"item": "musonium", "amount": 15}, {"item": "ryzote", "amount": 7}], "research": "cuki-conduit", "liquidCapacity": 10, "category": "liquid"}

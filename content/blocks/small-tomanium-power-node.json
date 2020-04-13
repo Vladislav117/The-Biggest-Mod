@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small tomanium power node", "description": "...", "size": 1, "health": 175, "requirements": [{"item": "tomanium", "amount": 16}, {"item": "gidu", "amount": 9}, {"item": "xinodunium", "amount": 10}], "research": "tomanium-factory", "maxNodes": 27, "laserRange": 6, "category": "power"}

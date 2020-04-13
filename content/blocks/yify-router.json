@@ -1,0 +1,1 @@
+{"type": "router", "name": "yify router", "description": "...", "health": 36, "size": 1, "requirements": [{"item": "yify", "amount": 3}], "research": "yify-conveyor", "category": "distribution"}

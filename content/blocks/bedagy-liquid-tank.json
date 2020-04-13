@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "bedagy liquid tank", "description": "...", "health": 488, "size": 3, "requirements": [{"item": "bedagy", "amount": 1}, {"item": "kipybi", "amount": 3}, {"item": "nyvu", "amount": 2}], "research": "bedagy-conduit", "category": "liquid", "liquidCapacity": 103132, "hasLiquids": true}

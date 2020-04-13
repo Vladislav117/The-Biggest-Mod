@@ -1,0 +1,1 @@
+{"type": "junction", "name": "quzu junction", "description": "...", "health": 43, "speed": 5, "capacity": 14, "size": 1, "requirements": [{"item": "quzu", "amount": 3}, {"item": "boty", "amount": 5}], "research": "quzu-conveyor", "category": "distribution"}

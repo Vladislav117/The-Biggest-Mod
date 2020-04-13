@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "wafa overflow gate", "description": "...", "health": 35, "size": 1, "requirements": [{"item": "wafa", "amount": 5}, {"item": "yydy", "amount": 1}], "research": "wafa-conveyor", "category": "distribution", "invert": false}

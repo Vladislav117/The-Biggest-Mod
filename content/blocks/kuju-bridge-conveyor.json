@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "kuju bridge conveyor", "description": "", "health": 22, "range": 9, "speed": 11, "bufferCapacity": 7, "requirements": [{"item": "kuju", "amount": 2}, {"item": "dyzaxi", "amount": 3}], "research": "kuju-conveyor", "category": "distribution", "size": 1}

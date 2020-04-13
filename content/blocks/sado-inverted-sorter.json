@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "sado inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "sado", "amount": 2}, {"item": "lyvukynium", "amount": 2}], "research": "sado-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "yilynium power node", "description": "...", "size": 2, "health": 727, "requirements": [{"item": "yilynium", "amount": 6}, {"item": "fizy", "amount": 11}, {"item": "myhaxu", "amount": 3}], "research": "yilynium-factory", "maxNodes": 36, "laserRange": 13, "category": "power"}

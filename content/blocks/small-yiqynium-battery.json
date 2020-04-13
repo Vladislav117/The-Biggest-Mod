@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yiqynium battery", "description": "...", "size": 1, "health": 395, "requirements": [{"item": "yiqynium", "amount": 18}, {"item": "pyqaso", "amount": 17}, {"item": "pyjorenium", "amount": 8}], "research": "yiqynium-factory", "consumes": {"powerBuffered": 1877}, "category": "power"}

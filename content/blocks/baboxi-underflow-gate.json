@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "baboxi underflow gate", "description": "...", "health": 46, "size": 1, "requirements": [{"item": "baboxi", "amount": 4}, {"item": "waka", "amount": 1}], "research": "baboxi-conveyor", "category": "distribution", "invert": false}

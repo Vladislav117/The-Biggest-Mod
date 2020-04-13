@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tavuwy junction", "description": "...", "health": 31, "speed": 3, "capacity": 1, "size": 1, "requirements": [{"item": "tavuwy", "amount": 4}, {"item": "kebyge", "amount": 5}], "research": "tavuwy-conveyor", "category": "distribution"}

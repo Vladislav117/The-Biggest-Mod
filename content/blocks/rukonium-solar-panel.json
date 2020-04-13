@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "rukonium solar panel", "description": "...", "size": 3, "health": 18, "requirements": [{"item": "rukonium", "amount": 4}, {"item": "padopu", "amount": 4}, {"item": "kyte", "amount": 2}], "research": "rukonium-factory", "powerProduction": 2.655825745985825, "category": "power"}

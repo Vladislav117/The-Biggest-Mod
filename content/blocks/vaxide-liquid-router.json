@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vaxide liquid router", "description": "...", "size": 1, "health": 90, "requirements": [{"item": "vaxide", "amount": 10}, {"item": "kipiyenium", "amount": 19}, {"item": "pijito", "amount": 9}], "research": "vaxide-conduit", "liquidCapacity": 10, "category": "liquid"}

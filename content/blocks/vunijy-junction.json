@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vunijy junction", "description": "...", "health": 42, "speed": 8, "capacity": 11, "size": 1, "requirements": [{"item": "vunijy", "amount": 4}, {"item": "naku", "amount": 1}], "research": "vunijy-conveyor", "category": "distribution"}

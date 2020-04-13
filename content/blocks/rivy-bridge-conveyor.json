@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "rivy bridge conveyor", "description": "", "health": 42, "range": 1, "speed": 13, "bufferCapacity": 11, "requirements": [{"item": "rivy", "amount": 4}, {"item": "gyzuqo", "amount": 1}], "research": "rivy-conveyor", "category": "distribution", "size": 1}

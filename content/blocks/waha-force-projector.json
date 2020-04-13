@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "waha force projector", "description": "...", "health": 156, "size": 3, "consumes": {"power": 5.0, "item": "waha"}, "requirements": [{"item": "waha", "amount": 9}, {"item": "bixehy", "amount": 10}, {"item": "biye", "amount": 2}], "research": "waha-factory", "category": "effect"}

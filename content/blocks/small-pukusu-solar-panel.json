@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pukusu solar panel", "description": "...", "size": 1, "health": 102, "requirements": [{"item": "pukusu", "amount": 9}, {"item": "minuna", "amount": 15}, {"item": "muyimy", "amount": 2}], "research": "pukusu-factory", "powerProduction": 0.04021958397606689, "category": "power"}

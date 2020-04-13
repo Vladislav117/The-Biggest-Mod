@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "porafa liquid tank", "description": "...", "health": 437, "size": 3, "requirements": [{"item": "porafa", "amount": 8}, {"item": "dejoqonium", "amount": 12}, {"item": "ligyxe", "amount": 4}], "research": "porafa-conduit", "category": "liquid", "liquidCapacity": 5086, "hasLiquids": true}

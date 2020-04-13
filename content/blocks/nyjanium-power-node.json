@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nyjanium power node", "description": "...", "size": 2, "health": 219, "requirements": [{"item": "nyjanium", "amount": 13}, {"item": "gyfa", "amount": 15}, {"item": "xasahu", "amount": 5}], "research": "nyjanium-factory", "maxNodes": 34, "laserRange": 30, "category": "power"}

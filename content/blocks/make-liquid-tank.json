@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "make liquid tank", "description": "...", "health": 170, "size": 3, "requirements": [{"item": "make", "amount": 2}, {"item": "zosy", "amount": 18}, {"item": "kipybi", "amount": 4}], "research": "make-conduit", "category": "liquid", "liquidCapacity": 2814, "hasLiquids": true}

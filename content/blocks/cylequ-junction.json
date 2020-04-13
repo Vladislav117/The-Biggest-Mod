@@ -1,0 +1,1 @@
+{"type": "junction", "name": "cylequ junction", "description": "...", "health": 8, "speed": 18, "capacity": 12, "size": 1, "requirements": [{"item": "cylequ", "amount": 1}, {"item": "zefapynium", "amount": 5}], "research": "cylequ-conveyor", "category": "distribution"}

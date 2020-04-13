@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "cifewy bridge conveyor", "description": "", "health": 49, "range": 20, "speed": 7, "bufferCapacity": 6, "requirements": [{"item": "cifewy", "amount": 2}, {"item": "kixihinium", "amount": 2}], "research": "cifewy-conveyor", "category": "distribution", "size": 1}

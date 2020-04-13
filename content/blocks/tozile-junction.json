@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tozile junction", "description": "...", "health": 47, "speed": 4, "capacity": 7, "size": 1, "requirements": [{"item": "tozile", "amount": 2}, {"item": "limibu", "amount": 2}], "research": "tozile-conveyor", "category": "distribution"}

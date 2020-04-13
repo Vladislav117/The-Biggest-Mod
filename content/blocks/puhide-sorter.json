@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "puhide sorter", "description": ",...", "health": 20, "size": 1, "requirements": [{"item": "puhide", "amount": 3}, {"item": "duqu", "amount": 1}], "research": "puhide-conveyor", "category": "distribution", "invert": false}

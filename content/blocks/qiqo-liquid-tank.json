@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "qiqo liquid tank", "description": "...", "health": 516, "size": 3, "requirements": [{"item": "qiqo", "amount": 16}, {"item": "tomufa", "amount": 8}, {"item": "soki", "amount": 2}], "research": "qiqo-conduit", "category": "liquid", "liquidCapacity": 21480, "hasLiquids": true}

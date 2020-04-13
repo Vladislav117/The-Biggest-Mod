@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "holanium sorter", "description": ",...", "health": 42, "size": 1, "requirements": [{"item": "holanium", "amount": 4}, {"item": "ruteqa", "amount": 4}], "research": "holanium-conveyor", "category": "distribution", "invert": false}

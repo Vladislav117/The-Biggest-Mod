@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small kokidenium power node", "description": "...", "size": 1, "health": 128, "requirements": [{"item": "kokidenium", "amount": 16}, {"item": "riniqi", "amount": 17}, {"item": "jicefu", "amount": 10}], "research": "kokidenium-factory", "maxNodes": 11, "laserRange": 13, "category": "power"}

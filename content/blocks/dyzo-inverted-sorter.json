@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "dyzo inverted sorter", "description": ",...", "health": 30, "size": 1, "requirements": [{"item": "dyzo", "amount": 4}, {"item": "wavoli", "amount": 1}], "research": "dyzo-conveyor", "category": "distribution", "invert": true}

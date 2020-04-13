@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "musonium inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "musonium", "amount": 5}, {"item": "vadunium", "amount": 3}], "research": "musonium-conveyor", "category": "distribution", "invert": true}

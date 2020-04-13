@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "mubu inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "mubu", "amount": 5}, {"item": "tovyme", "amount": 3}], "research": "mubu-conveyor", "category": "distribution", "invert": true}

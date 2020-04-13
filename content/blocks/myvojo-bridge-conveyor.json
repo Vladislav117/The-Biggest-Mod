@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "myvojo bridge conveyor", "description": "", "health": 44, "range": 10, "speed": 7, "bufferCapacity": 22, "requirements": [{"item": "myvojo", "amount": 5}, {"item": "lefelenium", "amount": 4}], "research": "myvojo-conveyor", "category": "distribution", "size": 1}

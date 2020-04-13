@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "togygi overflow gate", "description": "...", "health": 50, "size": 1, "requirements": [{"item": "togygi", "amount": 5}, {"item": "movanium", "amount": 1}], "research": "togygi-conveyor", "category": "distribution", "invert": false}

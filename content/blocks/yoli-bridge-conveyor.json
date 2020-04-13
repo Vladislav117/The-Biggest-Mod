@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "yoli bridge conveyor", "description": "", "health": 10, "range": 16, "speed": 14, "bufferCapacity": 21, "requirements": [{"item": "yoli", "amount": 5}, {"item": "yijotu", "amount": 3}], "research": "yoli-conveyor", "category": "distribution", "size": 1}

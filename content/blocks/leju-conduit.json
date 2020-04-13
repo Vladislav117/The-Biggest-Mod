@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "leju conduit", "description": "...", "health": 160, "requirements": [{"item": "leju", "amount": 2}, {"item": "lyva", "amount": 2}, {"item": "xonanium", "amount": 2}], "liquidCapacity": 16, "liquidPressure": 7, "research": "leju-factory", "category": "liquid"}

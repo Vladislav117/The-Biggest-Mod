@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "bovu drill", "description": "...", "size": 3, "health": 450, "tier": 2, "drillTime": 13, "consumes": {"power": 3}, "requirements": [{"item": "bovu", "amount": 2}, {"item": "ryzote", "amount": 6}, {"item": "veza", "amount": 4}], "research": "bovu-factory", "category": "production"}

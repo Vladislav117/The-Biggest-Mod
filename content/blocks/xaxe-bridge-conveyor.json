@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "xaxe bridge conveyor", "description": "", "health": 5, "range": 18, "speed": 3, "bufferCapacity": 7, "requirements": [{"item": "xaxe", "amount": 5}, {"item": "reqoxu", "amount": 4}], "research": "xaxe-conveyor", "category": "distribution", "size": 1}

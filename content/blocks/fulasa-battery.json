@@ -1,0 +1,1 @@
+{"type": "battery", "name": "fulasa battery", "description": "...", "size": 3, "health": 379, "requirements": [{"item": "fulasa", "amount": 9}, {"item": "sozi", "amount": 5}, {"item": "diforinium", "amount": 9}], "research": "fulasa-factory", "consumes": {"powerBuffered": 6441}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "dowa solar panel", "description": "...", "size": 3, "health": 130, "requirements": [{"item": "dowa", "amount": 6}, {"item": "heqywanium", "amount": 16}, {"item": "sibewe", "amount": 8}], "research": "dowa-factory", "powerProduction": 0.009279771774049858, "category": "power"}

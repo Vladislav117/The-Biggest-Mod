@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "hicoxo underflow gate", "description": "...", "health": 45, "size": 1, "requirements": [{"item": "hicoxo", "amount": 4}, {"item": "zaqenium", "amount": 5}], "research": "hicoxo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sadime power node", "description": "...", "size": 2, "health": 377, "requirements": [{"item": "sadime", "amount": 12}, {"item": "vakyxinium", "amount": 20}, {"item": "fici", "amount": 8}], "research": "sadime-factory", "maxNodes": 58, "laserRange": 8, "category": "power"}

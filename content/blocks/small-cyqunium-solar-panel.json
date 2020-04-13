@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cyqunium solar panel", "description": "...", "size": 1, "health": 89, "requirements": [{"item": "cyqunium", "amount": 18}, {"item": "qowepa", "amount": 5}, {"item": "zityyanium", "amount": 4}], "research": "cyqunium-factory", "powerProduction": 0.6656682437808141, "category": "power"}

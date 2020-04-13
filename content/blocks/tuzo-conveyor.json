@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "tuzo conveyor", "description": "...", "health": 70, "requirements": [{"item": "tuzo", "amount": 1}, {"item": "syyyvo", "amount": 5}], "speed": 0.42041092735935426, "research": "tuzo-factory", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "bomedi conduit", "description": "...", "health": 179, "requirements": [{"item": "bomedi", "amount": 8}, {"item": "sibuju", "amount": 1}, {"item": "fevu", "amount": 9}], "liquidCapacity": 33, "liquidPressure": 6, "research": "bomedi-factory", "category": "liquid"}

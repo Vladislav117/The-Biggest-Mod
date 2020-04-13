@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small xyneyynium power node", "description": "...", "size": 1, "health": 279, "requirements": [{"item": "xyneyynium", "amount": 1}, {"item": "lyzy", "amount": 8}, {"item": "xekape", "amount": 7}], "research": "xyneyynium-factory", "maxNodes": 5, "laserRange": 14, "category": "power"}

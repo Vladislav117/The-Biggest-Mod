@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "gobenium solar panel", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "gobenium", "amount": 13}, {"item": "suminium", "amount": 11}, {"item": "tiwyna", "amount": 5}], "research": "gobenium-factory", "powerProduction": 1.5933935535220172, "category": "power"}

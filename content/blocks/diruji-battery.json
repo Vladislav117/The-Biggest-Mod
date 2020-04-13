@@ -1,0 +1,1 @@
+{"type": "battery", "name": "diruji battery", "description": "...", "size": 3, "health": 392, "requirements": [{"item": "diruji", "amount": 1}, {"item": "xomaja", "amount": 19}, {"item": "hetyjo", "amount": 3}], "research": "diruji-factory", "consumes": {"powerBuffered": 9053}, "category": "power"}

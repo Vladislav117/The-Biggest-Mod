@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small xusunium battery", "description": "...", "size": 1, "health": 348, "requirements": [{"item": "xusunium", "amount": 18}, {"item": "yamyri", "amount": 14}, {"item": "tebi", "amount": 5}], "research": "xusunium-factory", "consumes": {"powerBuffered": 537}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "gunery underflow gate", "description": "...", "health": 9, "size": 1, "requirements": [{"item": "gunery", "amount": 3}, {"item": "tuma", "amount": 3}], "research": "gunery-conveyor", "category": "distribution", "invert": false}

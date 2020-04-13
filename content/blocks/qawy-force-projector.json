@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "qawy force projector", "description": "...", "health": 122, "size": 3, "consumes": {"power": 5.0, "item": "qawy"}, "requirements": [{"item": "qawy", "amount": 12}, {"item": "gypunium", "amount": 19}, {"item": "waxonium", "amount": 4}], "research": "qawy-factory", "category": "effect"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small pijito solar panel", "description": "...", "size": 1, "health": 221, "requirements": [{"item": "pijito", "amount": 4}, {"item": "vusy", "amount": 5}, {"item": "horyve", "amount": 3}], "research": "pijito-factory", "powerProduction": 0.18728190438739456, "category": "power"}

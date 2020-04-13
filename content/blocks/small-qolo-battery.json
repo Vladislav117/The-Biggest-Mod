@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qolo battery", "description": "...", "size": 1, "health": 340, "requirements": [{"item": "qolo", "amount": 11}, {"item": "zuxygo", "amount": 1}, {"item": "hozivi", "amount": 9}], "research": "qolo-factory", "consumes": {"powerBuffered": 901}, "category": "power"}

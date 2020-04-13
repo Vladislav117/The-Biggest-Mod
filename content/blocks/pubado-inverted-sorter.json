@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "pubado inverted sorter", "description": ",...", "health": 11, "size": 1, "requirements": [{"item": "pubado", "amount": 1}, {"item": "tujy", "amount": 4}], "research": "pubado-conveyor", "category": "distribution", "invert": true}

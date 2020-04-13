@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vyde power node", "description": "...", "size": 1, "health": 71, "requirements": [{"item": "vyde", "amount": 7}, {"item": "tyno", "amount": 8}, {"item": "yisi", "amount": 1}], "research": "vyde-factory", "maxNodes": 4, "laserRange": 15, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small feby solar panel", "description": "...", "size": 1, "health": 43, "requirements": [{"item": "feby", "amount": 2}, {"item": "tibu", "amount": 2}, {"item": "xylidinium", "amount": 2}], "research": "feby-factory", "powerProduction": 0.8087918751783582, "category": "power"}

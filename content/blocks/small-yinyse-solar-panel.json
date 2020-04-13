@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small yinyse solar panel", "description": "...", "size": 1, "health": 92, "requirements": [{"item": "yinyse", "amount": 6}, {"item": "geyico", "amount": 12}, {"item": "morila", "amount": 3}], "research": "yinyse-factory", "powerProduction": 2.888360643704623, "category": "power"}

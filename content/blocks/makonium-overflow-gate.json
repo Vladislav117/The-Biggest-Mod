@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "makonium overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "makonium", "amount": 5}, {"item": "peze", "amount": 1}], "research": "makonium-conveyor", "category": "distribution", "invert": false}

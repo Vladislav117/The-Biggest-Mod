@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "copo liquid tank", "description": "...", "health": 439, "size": 3, "requirements": [{"item": "copo", "amount": 10}, {"item": "citygo", "amount": 15}, {"item": "yama", "amount": 6}], "research": "copo-conduit", "category": "liquid", "liquidCapacity": 107912, "hasLiquids": true}

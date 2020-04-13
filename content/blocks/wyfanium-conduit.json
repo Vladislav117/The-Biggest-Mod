@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wyfanium conduit", "description": "...", "health": 129, "requirements": [{"item": "wyfanium", "amount": 10}, {"item": "qudeya", "amount": 15}, {"item": "xovunium", "amount": 9}], "liquidCapacity": 40, "liquidPressure": 4, "research": "wyfanium-factory", "category": "liquid"}

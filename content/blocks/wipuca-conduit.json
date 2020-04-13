@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "wipuca conduit", "description": "...", "health": 50, "requirements": [{"item": "wipuca", "amount": 7}, {"item": "wupixonium", "amount": 3}, {"item": "darunium", "amount": 7}], "liquidCapacity": 35, "liquidPressure": 2, "research": "wipuca-factory", "category": "liquid"}

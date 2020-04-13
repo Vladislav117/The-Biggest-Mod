@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "qypaty bridge conveyor", "description": "", "health": 38, "range": 5, "speed": 15, "bufferCapacity": 22, "requirements": [{"item": "qypaty", "amount": 2}, {"item": "juwomi", "amount": 2}], "research": "qypaty-conveyor", "category": "distribution", "size": 1}

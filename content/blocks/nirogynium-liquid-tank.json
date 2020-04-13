@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nirogynium liquid tank", "description": "...", "health": 364, "size": 3, "requirements": [{"item": "nirogynium", "amount": 10}, {"item": "vyvuqy", "amount": 1}, {"item": "syxidonium", "amount": 6}], "research": "nirogynium-conduit", "category": "liquid", "liquidCapacity": 5631, "hasLiquids": true}

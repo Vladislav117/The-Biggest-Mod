@@ -1,0 +1,1 @@
+{"type": "battery", "name": "gotomy battery", "description": "...", "size": 3, "health": 210, "requirements": [{"item": "gotomy", "amount": 12}, {"item": "qerobu", "amount": 20}, {"item": "dyzo", "amount": 1}], "research": "gotomy-factory", "consumes": {"powerBuffered": 2810}, "category": "power"}

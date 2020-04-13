@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "nejunium solar panel", "description": "...", "size": 3, "health": 345, "requirements": [{"item": "nejunium", "amount": 15}, {"item": "zawyjy", "amount": 19}, {"item": "plastanium", "amount": 9}], "research": "nejunium-factory", "powerProduction": 1.012151758833953, "category": "power"}

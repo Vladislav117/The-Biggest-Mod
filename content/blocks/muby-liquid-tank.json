@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "muby liquid tank", "description": "...", "health": 409, "size": 3, "requirements": [{"item": "muby", "amount": 3}, {"item": "metaglass", "amount": 20}, {"item": "tiwyna", "amount": 10}], "research": "muby-conduit", "category": "liquid", "liquidCapacity": 56448, "hasLiquids": true}

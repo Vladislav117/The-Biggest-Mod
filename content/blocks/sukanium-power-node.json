@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "sukanium power node", "description": "...", "size": 2, "health": 152, "requirements": [{"item": "sukanium", "amount": 11}, {"item": "viqamo", "amount": 17}, {"item": "cyyenium", "amount": 6}], "research": "sukanium-factory", "maxNodes": 28, "laserRange": 15, "category": "power"}

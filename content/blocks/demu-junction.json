@@ -1,0 +1,1 @@
+{"type": "junction", "name": "demu junction", "description": "...", "health": 8, "speed": 6, "capacity": 1, "size": 1, "requirements": [{"item": "demu", "amount": 1}, {"item": "gokiyi", "amount": 4}], "research": "demu-conveyor", "category": "distribution"}

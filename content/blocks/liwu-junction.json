@@ -1,0 +1,1 @@
+{"type": "junction", "name": "liwu junction", "description": "...", "health": 21, "speed": 10, "capacity": 2, "size": 1, "requirements": [{"item": "liwu", "amount": 2}, {"item": "bopurunium", "amount": 5}], "research": "liwu-conveyor", "category": "distribution"}

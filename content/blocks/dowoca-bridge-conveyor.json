@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "dowoca bridge conveyor", "description": "", "health": 12, "range": 13, "speed": 3, "bufferCapacity": 1, "requirements": [{"item": "dowoca", "amount": 4}, {"item": "besu", "amount": 5}], "research": "dowoca-conveyor", "category": "distribution", "size": 1}

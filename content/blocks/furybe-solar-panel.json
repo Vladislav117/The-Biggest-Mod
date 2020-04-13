@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "furybe solar panel", "description": "...", "size": 3, "health": 150, "requirements": [{"item": "furybe", "amount": 18}, {"item": "tifi", "amount": 11}, {"item": "jumy", "amount": 9}], "research": "furybe-factory", "powerProduction": 6.004397793510265, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small syxu battery", "description": "...", "size": 1, "health": 22, "requirements": [{"item": "syxu", "amount": 1}, {"item": "qudeya", "amount": 6}, {"item": "byxo", "amount": 9}], "research": "syxu-factory", "consumes": {"powerBuffered": 2637}, "category": "power"}

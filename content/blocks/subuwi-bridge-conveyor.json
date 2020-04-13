@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "subuwi bridge conveyor", "description": "", "health": 44, "range": 18, "speed": 1, "bufferCapacity": 8, "requirements": [{"item": "subuwi", "amount": 4}, {"item": "sigu", "amount": 5}], "research": "subuwi-conveyor", "category": "distribution", "size": 1}

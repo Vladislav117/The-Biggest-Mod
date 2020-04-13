@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "tobu conduit", "description": "...", "health": 123, "requirements": [{"item": "tobu", "amount": 13}, {"item": "sofowo", "amount": 12}, {"item": "mivuwa", "amount": 6}], "liquidCapacity": 29, "liquidPressure": 5, "research": "tobu-factory", "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xurexa underflow gate", "description": "...", "health": 44, "size": 1, "requirements": [{"item": "xurexa", "amount": 1}, {"item": "nekyse", "amount": 5}], "research": "xurexa-conveyor", "category": "distribution", "invert": false}

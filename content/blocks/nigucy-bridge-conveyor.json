@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nigucy bridge conveyor", "description": "", "health": 18, "range": 9, "speed": 9, "bufferCapacity": 13, "requirements": [{"item": "nigucy", "amount": 3}, {"item": "hyfeho", "amount": 2}], "research": "nigucy-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "tatavo liquid tank", "description": "...", "health": 435, "size": 3, "requirements": [{"item": "tatavo", "amount": 5}, {"item": "hymonium", "amount": 18}, {"item": "lejara", "amount": 1}], "research": "tatavo-conduit", "category": "liquid", "liquidCapacity": 116071, "hasLiquids": true}

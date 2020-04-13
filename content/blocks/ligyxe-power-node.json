@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "ligyxe power node", "description": "...", "size": 2, "health": 113, "requirements": [{"item": "ligyxe", "amount": 3}, {"item": "xiga", "amount": 15}, {"item": "vakyxinium", "amount": 4}], "research": "ligyxe-factory", "maxNodes": 18, "laserRange": 15, "category": "power"}

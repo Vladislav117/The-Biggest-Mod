@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small sinawenium power node", "description": "...", "size": 1, "health": 213, "requirements": [{"item": "sinawenium", "amount": 2}, {"item": "menugonium", "amount": 4}, {"item": "tobu", "amount": 8}], "research": "sinawenium-factory", "maxNodes": 3, "laserRange": 12, "category": "power"}

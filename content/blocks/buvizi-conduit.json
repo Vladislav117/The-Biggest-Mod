@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "buvizi conduit", "description": "...", "health": 89, "requirements": [{"item": "buvizi", "amount": 5}, {"item": "qavuhe", "amount": 12}, {"item": "totiji", "amount": 8}], "liquidCapacity": 31, "liquidPressure": 9, "research": "buvizi-factory", "category": "liquid"}

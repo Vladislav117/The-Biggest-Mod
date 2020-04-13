@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "fipa overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "fipa", "amount": 1}, {"item": "bukiqenium", "amount": 5}], "research": "fipa-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "vulo liquid router", "description": "...", "size": 1, "health": 62, "requirements": [{"item": "vulo", "amount": 5}, {"item": "momosa", "amount": 15}, {"item": "vojenium", "amount": 9}], "research": "vulo-conduit", "liquidCapacity": 10, "category": "liquid"}

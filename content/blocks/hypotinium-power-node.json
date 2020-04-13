@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hypotinium power node", "description": "...", "size": 2, "health": 483, "requirements": [{"item": "hypotinium", "amount": 1}, {"item": "phase-fabric", "amount": 13}, {"item": "locu", "amount": 7}], "research": "hypotinium-factory", "maxNodes": 40, "laserRange": 23, "category": "power"}

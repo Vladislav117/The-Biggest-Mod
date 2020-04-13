@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "cyrase inverted sorter", "description": ",...", "health": 5, "size": 1, "requirements": [{"item": "cyrase", "amount": 2}, {"item": "viwahe", "amount": 4}], "research": "cyrase-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nyzubonium sorter", "description": ",...", "health": 44, "size": 1, "requirements": [{"item": "nyzubonium", "amount": 2}, {"item": "qigine", "amount": 5}], "research": "nyzubonium-conveyor", "category": "distribution", "invert": false}

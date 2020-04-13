@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "popa power node", "description": "...", "size": 2, "health": 103, "requirements": [{"item": "popa", "amount": 20}, {"item": "cyqanium", "amount": 14}, {"item": "myfo", "amount": 6}], "research": "popa-factory", "maxNodes": 10, "laserRange": 10, "category": "power"}

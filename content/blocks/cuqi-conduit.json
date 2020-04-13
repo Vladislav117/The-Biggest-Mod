@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cuqi conduit", "description": "...", "health": 22, "requirements": [{"item": "cuqi", "amount": 12}, {"item": "bixuhi", "amount": 3}, {"item": "cavyjo", "amount": 10}], "liquidCapacity": 35, "liquidPressure": 6, "research": "cuqi-factory", "category": "liquid"}

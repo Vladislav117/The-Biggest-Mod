@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nepiky underflow gate", "description": "...", "health": 34, "size": 1, "requirements": [{"item": "nepiky", "amount": 4}, {"item": "jucinium", "amount": 2}], "research": "nepiky-conveyor", "category": "distribution", "invert": false}

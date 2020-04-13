@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tymofa bridge conveyor", "description": "", "health": 18, "range": 15, "speed": 4, "bufferCapacity": 16, "requirements": [{"item": "tymofa", "amount": 2}, {"item": "dyjitonium", "amount": 1}], "research": "tymofa-conveyor", "category": "distribution", "size": 1}

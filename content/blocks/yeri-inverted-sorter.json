@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "yeri inverted sorter", "description": ",...", "health": 26, "size": 1, "requirements": [{"item": "yeri", "amount": 2}, {"item": "yuqu", "amount": 3}], "research": "yeri-conveyor", "category": "distribution", "invert": true}

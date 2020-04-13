@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sihi liquid tank", "description": "...", "health": 319, "size": 3, "requirements": [{"item": "sihi", "amount": 1}, {"item": "vyyuhu", "amount": 9}, {"item": "mozy", "amount": 5}], "research": "sihi-conduit", "category": "liquid", "liquidCapacity": 116499, "hasLiquids": true}

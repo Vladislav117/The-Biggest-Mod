@@ -1,0 +1,1 @@
+{"type": "battery", "name": "zaya battery", "description": "...", "size": 3, "health": 324, "requirements": [{"item": "zaya", "amount": 10}, {"item": "zogeno", "amount": 9}, {"item": "zeny", "amount": 8}], "research": "zaya-factory", "consumes": {"powerBuffered": 8289}, "category": "power"}

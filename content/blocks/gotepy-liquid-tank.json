@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gotepy liquid tank", "description": "...", "health": 219, "size": 3, "requirements": [{"item": "gotepy", "amount": 10}, {"item": "kure", "amount": 3}, {"item": "xyvenium", "amount": 8}], "research": "gotepy-conduit", "category": "liquid", "liquidCapacity": 27568, "hasLiquids": true}

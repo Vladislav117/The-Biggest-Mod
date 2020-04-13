@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small yyyyge battery", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "yyyyge", "amount": 16}, {"item": "vycici", "amount": 2}, {"item": "xujo", "amount": 6}], "research": "yyyyge-factory", "consumes": {"powerBuffered": 2473}, "category": "power"}

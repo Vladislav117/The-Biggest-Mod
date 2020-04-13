@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small torufonium battery", "description": "...", "size": 1, "health": 243, "requirements": [{"item": "torufonium", "amount": 9}, {"item": "pegonium", "amount": 4}, {"item": "jonaqu", "amount": 1}], "research": "torufonium-factory", "consumes": {"powerBuffered": 2048}, "category": "power"}

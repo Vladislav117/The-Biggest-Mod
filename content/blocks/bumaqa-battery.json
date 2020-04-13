@@ -1,0 +1,1 @@
+{"type": "battery", "name": "bumaqa battery", "description": "...", "size": 3, "health": 257, "requirements": [{"item": "bumaqa", "amount": 5}, {"item": "qacu", "amount": 16}, {"item": "typi", "amount": 9}], "research": "bumaqa-factory", "consumes": {"powerBuffered": 7913}, "category": "power"}

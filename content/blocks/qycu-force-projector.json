@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "qycu force projector", "description": "...", "health": 112, "size": 3, "consumes": {"power": 5.0, "item": "qycu"}, "requirements": [{"item": "qycu", "amount": 15}, {"item": "nyli", "amount": 19}, {"item": "wapalu", "amount": 3}], "research": "qycu-factory", "category": "effect"}

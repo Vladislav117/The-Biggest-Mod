@@ -1,0 +1,1 @@
+{"type": "junction", "name": "tavanium junction", "description": "...", "health": 36, "speed": 11, "capacity": 3, "size": 1, "requirements": [{"item": "tavanium", "amount": 1}, {"item": "ryzote", "amount": 5}], "research": "tavanium-conveyor", "category": "distribution"}

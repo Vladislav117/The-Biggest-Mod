@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wewaya power node", "description": "...", "size": 2, "health": 663, "requirements": [{"item": "wewaya", "amount": 11}, {"item": "nuve", "amount": 4}, {"item": "dipewanium", "amount": 10}], "research": "wewaya-factory", "maxNodes": 57, "laserRange": 11, "category": "power"}

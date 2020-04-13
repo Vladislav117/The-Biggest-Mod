@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nejunium liquid tank", "description": "...", "health": 386, "size": 3, "requirements": [{"item": "nejunium", "amount": 17}, {"item": "civonium", "amount": 8}, {"item": "bohexi", "amount": 4}], "research": "nejunium-conduit", "category": "liquid", "liquidCapacity": 25518, "hasLiquids": true}

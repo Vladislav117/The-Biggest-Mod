@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "tuzo power node", "description": "...", "size": 2, "health": 103, "requirements": [{"item": "tuzo", "amount": 12}, {"item": "yowiminium", "amount": 17}, {"item": "xicyru", "amount": 2}], "research": "tuzo-factory", "maxNodes": 21, "laserRange": 11, "category": "power"}

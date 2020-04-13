@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "huwyko liquid tank", "description": "...", "health": 170, "size": 3, "requirements": [{"item": "huwyko", "amount": 9}, {"item": "gonu", "amount": 12}, {"item": "hugive", "amount": 9}], "research": "huwyko-conduit", "category": "liquid", "liquidCapacity": 17757, "hasLiquids": true}

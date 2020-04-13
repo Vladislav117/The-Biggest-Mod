@@ -1,0 +1,1 @@
+{"type": "battery", "name": "poxa battery", "description": "...", "size": 3, "health": 295, "requirements": [{"item": "poxa", "amount": 20}, {"item": "meve", "amount": 13}, {"item": "ryve", "amount": 5}], "research": "poxa-factory", "consumes": {"powerBuffered": 1428}, "category": "power"}

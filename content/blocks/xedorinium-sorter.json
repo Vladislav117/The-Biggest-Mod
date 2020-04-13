@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "xedorinium sorter", "description": ",...", "health": 15, "size": 1, "requirements": [{"item": "xedorinium", "amount": 5}, {"item": "jiyomonium", "amount": 1}], "research": "xedorinium-conveyor", "category": "distribution", "invert": false}

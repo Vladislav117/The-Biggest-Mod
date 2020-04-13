@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kuqyki solar panel", "description": "...", "size": 1, "health": 58, "requirements": [{"item": "kuqyki", "amount": 18}, {"item": "qera", "amount": 14}, {"item": "lisaca", "amount": 4}], "research": "kuqyki-factory", "powerProduction": 0.1686049476262148, "category": "power"}

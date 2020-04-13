@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ciyo liquid tank", "description": "...", "health": 315, "size": 3, "requirements": [{"item": "ciyo", "amount": 13}, {"item": "ravynium", "amount": 17}, {"item": "lyceca", "amount": 9}], "research": "ciyo-conduit", "category": "liquid", "liquidCapacity": 96736, "hasLiquids": true}

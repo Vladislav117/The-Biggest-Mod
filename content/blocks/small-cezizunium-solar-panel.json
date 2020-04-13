@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small cezizunium solar panel", "description": "...", "size": 1, "health": 228, "requirements": [{"item": "cezizunium", "amount": 10}, {"item": "vykofa", "amount": 20}, {"item": "seceho", "amount": 7}], "research": "cezizunium-factory", "powerProduction": 2.4742388454665942, "category": "power"}

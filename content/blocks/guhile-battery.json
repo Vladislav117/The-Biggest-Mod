@@ -1,0 +1,1 @@
+{"type": "battery", "name": "guhile battery", "description": "...", "size": 3, "health": 77, "requirements": [{"item": "guhile", "amount": 6}, {"item": "byzure", "amount": 2}, {"item": "birynium", "amount": 8}], "research": "guhile-factory", "consumes": {"powerBuffered": 2291}, "category": "power"}

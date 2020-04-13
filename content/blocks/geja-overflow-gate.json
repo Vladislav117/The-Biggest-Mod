@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "geja overflow gate", "description": "...", "health": 39, "size": 1, "requirements": [{"item": "geja", "amount": 3}, {"item": "fuqyty", "amount": 3}], "research": "geja-conveyor", "category": "distribution", "invert": false}

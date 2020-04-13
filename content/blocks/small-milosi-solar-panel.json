@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small milosi solar panel", "description": "...", "size": 1, "health": 162, "requirements": [{"item": "milosi", "amount": 20}, {"item": "koty", "amount": 7}, {"item": "byzure", "amount": 5}], "research": "milosi-factory", "powerProduction": 5.560364955822702, "category": "power"}

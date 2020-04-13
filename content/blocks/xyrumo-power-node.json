@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "xyrumo power node", "description": "...", "size": 2, "health": 212, "requirements": [{"item": "xyrumo", "amount": 1}, {"item": "fajygi", "amount": 19}, {"item": "sisitonium", "amount": 3}], "research": "xyrumo-factory", "maxNodes": 13, "laserRange": 13, "category": "power"}

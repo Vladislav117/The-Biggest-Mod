@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xehy junction", "description": "...", "health": 19, "speed": 5, "capacity": 14, "size": 1, "requirements": [{"item": "xehy", "amount": 5}, {"item": "wuqipenium", "amount": 2}], "research": "xehy-conveyor", "category": "distribution"}

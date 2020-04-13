@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "zimunium conduit", "description": "...", "health": 104, "requirements": [{"item": "zimunium", "amount": 18}, {"item": "hyzafenium", "amount": 6}, {"item": "yemihonium", "amount": 3}], "liquidCapacity": 8, "liquidPressure": 7, "research": "zimunium-factory", "category": "liquid"}

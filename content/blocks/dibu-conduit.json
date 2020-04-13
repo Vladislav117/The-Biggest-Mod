@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "dibu conduit", "description": "...", "health": 26, "requirements": [{"item": "dibu", "amount": 1}, {"item": "zygomy", "amount": 16}, {"item": "surenium", "amount": 2}], "liquidCapacity": 47, "liquidPressure": 9, "research": "dibu-factory", "category": "liquid"}

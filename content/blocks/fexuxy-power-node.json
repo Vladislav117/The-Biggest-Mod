@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fexuxy power node", "description": "...", "size": 2, "health": 281, "requirements": [{"item": "fexuxy", "amount": 11}, {"item": "loqy", "amount": 8}, {"item": "meze", "amount": 7}], "research": "fexuxy-factory", "maxNodes": 11, "laserRange": 24, "category": "power"}

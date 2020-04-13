@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small rupuvu battery", "description": "...", "size": 1, "health": 314, "requirements": [{"item": "rupuvu", "amount": 14}, {"item": "fobige", "amount": 16}, {"item": "kozypi", "amount": 1}], "research": "rupuvu-factory", "consumes": {"powerBuffered": 1251}, "category": "power"}

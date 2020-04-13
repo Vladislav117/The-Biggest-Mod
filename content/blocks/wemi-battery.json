@@ -1,0 +1,1 @@
+{"type": "battery", "name": "wemi battery", "description": "...", "size": 3, "health": 81, "requirements": [{"item": "wemi", "amount": 4}, {"item": "wizacy", "amount": 10}, {"item": "fodyby", "amount": 10}], "research": "wemi-factory", "consumes": {"powerBuffered": 6374}, "category": "power"}

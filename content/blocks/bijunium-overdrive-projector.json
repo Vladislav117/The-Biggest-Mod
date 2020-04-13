@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "bijunium overdrive projector", "description": "...", "health": 101, "consumes": {"power": 3.0, "item": "bijunium"}, "size": 2, "requirements": [{"item": "bijunium", "amount": 20}, {"item": "xybi", "amount": 6}, {"item": "cuwe", "amount": 7}], "research": "bijunium-factory", "category": "effect"}

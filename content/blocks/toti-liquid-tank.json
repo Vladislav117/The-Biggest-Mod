@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "toti liquid tank", "description": "...", "health": 627, "size": 3, "requirements": [{"item": "toti", "amount": 4}, {"item": "pize", "amount": 15}, {"item": "dyde", "amount": 3}], "research": "toti-conduit", "category": "liquid", "liquidCapacity": 28377, "hasLiquids": true}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small niyoxi power node", "description": "...", "size": 1, "health": 80, "requirements": [{"item": "niyoxi", "amount": 14}, {"item": "vaxide", "amount": 18}, {"item": "qykyzo", "amount": 8}], "research": "niyoxi-factory", "maxNodes": 14, "laserRange": 4, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "voya sorter", "description": ",...", "health": 12, "size": 1, "requirements": [{"item": "voya", "amount": 3}, {"item": "ryzyzi", "amount": 5}], "research": "voya-conveyor", "category": "distribution", "invert": false}

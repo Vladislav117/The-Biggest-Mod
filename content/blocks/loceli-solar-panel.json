@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "loceli solar panel", "description": "...", "size": 3, "health": 269, "requirements": [{"item": "loceli", "amount": 12}, {"item": "hiqe", "amount": 20}, {"item": "gaqite", "amount": 9}], "research": "loceli-factory", "powerProduction": 0.0025831447752815676, "category": "power"}

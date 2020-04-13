@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "xylidinium drill", "description": "...", "size": 2, "health": 110, "tier": 2, "drillTime": 17, "consumes": {"power": 3}, "requirements": [{"item": "xylidinium", "amount": 11}, {"item": "fyfoni", "amount": 9}, {"item": "xejo", "amount": 2}], "research": "xylidinium-factory", "category": "production"}

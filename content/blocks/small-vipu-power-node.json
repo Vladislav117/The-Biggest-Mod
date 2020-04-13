@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small vipu power node", "description": "...", "size": 1, "health": 290, "requirements": [{"item": "vipu", "amount": 7}, {"item": "qady", "amount": 6}, {"item": "hixu", "amount": 4}], "research": "vipu-factory", "maxNodes": 6, "laserRange": 8, "category": "power"}

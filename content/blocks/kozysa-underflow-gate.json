@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kozysa underflow gate", "description": "...", "health": 48, "size": 1, "requirements": [{"item": "kozysa", "amount": 3}, {"item": "ragezunium", "amount": 3}], "research": "kozysa-conveyor", "category": "distribution", "invert": false}

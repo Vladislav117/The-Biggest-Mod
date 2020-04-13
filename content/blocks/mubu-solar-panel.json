@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "mubu solar panel", "description": "...", "size": 3, "health": 206, "requirements": [{"item": "mubu", "amount": 5}, {"item": "locycanium", "amount": 19}, {"item": "kedy", "amount": 3}], "research": "mubu-factory", "powerProduction": 6.12441293681856, "category": "power"}

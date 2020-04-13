@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hoqade solar panel", "description": "...", "size": 3, "health": 231, "requirements": [{"item": "hoqade", "amount": 2}, {"item": "jywupa", "amount": 19}, {"item": "silicon", "amount": 3}], "research": "hoqade-factory", "powerProduction": 1.66934424912353, "category": "power"}

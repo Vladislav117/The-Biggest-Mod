@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small qatu solar panel", "description": "...", "size": 1, "health": 84, "requirements": [{"item": "qatu", "amount": 2}, {"item": "xami", "amount": 6}, {"item": "minuna", "amount": 8}], "research": "qatu-factory", "powerProduction": 6.594148860423308, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small bacone battery", "description": "...", "size": 1, "health": 134, "requirements": [{"item": "bacone", "amount": 18}, {"item": "zuwydy", "amount": 13}, {"item": "zywave", "amount": 9}], "research": "bacone-factory", "consumes": {"powerBuffered": 2693}, "category": "power"}

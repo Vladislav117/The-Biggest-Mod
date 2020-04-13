@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "moye liquid tank", "description": "...", "health": 605, "size": 3, "requirements": [{"item": "moye", "amount": 6}, {"item": "pize", "amount": 2}, {"item": "yypunium", "amount": 6}], "research": "moye-conduit", "category": "liquid", "liquidCapacity": 24122, "hasLiquids": true}

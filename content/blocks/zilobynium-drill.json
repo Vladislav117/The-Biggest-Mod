@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "zilobynium drill", "description": "...", "size": 3, "health": 221, "tier": 1, "drillTime": 5, "consumes": {"power": 1}, "requirements": [{"item": "zilobynium", "amount": 5}, {"item": "solumo", "amount": 20}, {"item": "wabi", "amount": 2}], "research": "zilobynium-factory", "category": "production"}

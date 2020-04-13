@@ -1,0 +1,1 @@
+{"type": "battery", "name": "vosamo battery", "description": "...", "size": 3, "health": 350, "requirements": [{"item": "vosamo", "amount": 3}, {"item": "syteja", "amount": 9}, {"item": "puli", "amount": 3}], "research": "vosamo-factory", "consumes": {"powerBuffered": 6137}, "category": "power"}

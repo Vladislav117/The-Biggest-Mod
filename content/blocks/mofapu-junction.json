@@ -1,0 +1,1 @@
+{"type": "junction", "name": "mofapu junction", "description": "...", "health": 46, "speed": 9, "capacity": 7, "size": 1, "requirements": [{"item": "mofapu", "amount": 3}, {"item": "zygomy", "amount": 2}], "research": "mofapu-conveyor", "category": "distribution"}

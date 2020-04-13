@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "pezuxonium bridge conveyor", "description": "", "health": 7, "range": 14, "speed": 6, "bufferCapacity": 20, "requirements": [{"item": "pezuxonium", "amount": 3}, {"item": "zyru", "amount": 4}], "research": "pezuxonium-conveyor", "category": "distribution", "size": 1}

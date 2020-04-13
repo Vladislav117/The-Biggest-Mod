@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "tajyku underflow gate", "description": "...", "health": 11, "size": 1, "requirements": [{"item": "tajyku", "amount": 5}, {"item": "qukeso", "amount": 1}], "research": "tajyku-conveyor", "category": "distribution", "invert": false}

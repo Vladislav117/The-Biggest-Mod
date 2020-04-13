@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lipo liquid tank", "description": "...", "health": 205, "size": 3, "requirements": [{"item": "lipo", "amount": 9}, {"item": "xexumi", "amount": 5}, {"item": "ruteqa", "amount": 8}], "research": "lipo-conduit", "category": "liquid", "liquidCapacity": 53516, "hasLiquids": true}

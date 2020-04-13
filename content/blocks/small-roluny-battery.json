@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small roluny battery", "description": "...", "size": 1, "health": 313, "requirements": [{"item": "roluny", "amount": 13}, {"item": "pavanium", "amount": 7}, {"item": "ryzyzi", "amount": 4}], "research": "roluny-factory", "consumes": {"powerBuffered": 2580}, "category": "power"}

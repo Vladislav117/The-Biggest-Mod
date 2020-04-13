@@ -1,0 +1,1 @@
+{"type": "battery", "name": "juqerunium battery", "description": "...", "size": 3, "health": 317, "requirements": [{"item": "juqerunium", "amount": 4}, {"item": "cone", "amount": 1}, {"item": "rudy", "amount": 4}], "research": "juqerunium-factory", "consumes": {"powerBuffered": 2009}, "category": "power"}

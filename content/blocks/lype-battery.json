@@ -1,0 +1,1 @@
+{"type": "battery", "name": "lype battery", "description": "...", "size": 3, "health": 150, "requirements": [{"item": "lype", "amount": 1}, {"item": "lowapo", "amount": 13}, {"item": "juwyso", "amount": 10}], "research": "lype-factory", "consumes": {"powerBuffered": 3072}, "category": "power"}

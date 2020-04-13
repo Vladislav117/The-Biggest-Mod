@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jida bridge conveyor", "description": "", "health": 36, "range": 13, "speed": 13, "bufferCapacity": 4, "requirements": [{"item": "jida", "amount": 2}, {"item": "fukoqe", "amount": 2}], "research": "jida-conveyor", "category": "distribution", "size": 1}

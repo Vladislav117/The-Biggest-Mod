@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "kecufi underflow gate", "description": "...", "health": 4, "size": 1, "requirements": [{"item": "kecufi", "amount": 1}, {"item": "tuxu", "amount": 2}], "research": "kecufi-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small zagy solar panel", "description": "...", "size": 1, "health": 250, "requirements": [{"item": "zagy", "amount": 4}, {"item": "vivunium", "amount": 7}, {"item": "dalire", "amount": 9}], "research": "zagy-factory", "powerProduction": 5.463201126286316, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "tuyo bridge conveyor", "description": "", "health": 25, "range": 4, "speed": 13, "bufferCapacity": 25, "requirements": [{"item": "tuyo", "amount": 2}, {"item": "lepe", "amount": 2}], "research": "tuyo-conveyor", "category": "distribution", "size": 1}

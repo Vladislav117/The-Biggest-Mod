@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "bitaba overflow gate", "description": "...", "health": 29, "size": 1, "requirements": [{"item": "bitaba", "amount": 5}, {"item": "nidenium", "amount": 2}], "research": "bitaba-conveyor", "category": "distribution", "invert": false}

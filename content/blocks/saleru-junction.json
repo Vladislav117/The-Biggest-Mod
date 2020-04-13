@@ -1,0 +1,1 @@
+{"type": "junction", "name": "saleru junction", "description": "...", "health": 14, "speed": 6, "capacity": 7, "size": 1, "requirements": [{"item": "saleru", "amount": 1}, {"item": "kofynium", "amount": 1}], "research": "saleru-conveyor", "category": "distribution"}

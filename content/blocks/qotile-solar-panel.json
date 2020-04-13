@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "qotile solar panel", "description": "...", "size": 3, "health": 126, "requirements": [{"item": "qotile", "amount": 16}, {"item": "fokinium", "amount": 8}, {"item": "coqinium", "amount": 9}], "research": "qotile-factory", "powerProduction": 3.391998900850806, "category": "power"}

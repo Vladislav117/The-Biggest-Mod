@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "lyna power node", "description": "...", "size": 2, "health": 12, "requirements": [{"item": "lyna", "amount": 16}, {"item": "yoqy", "amount": 16}, {"item": "puwasy", "amount": 1}], "research": "lyna-factory", "maxNodes": 59, "laserRange": 10, "category": "power"}

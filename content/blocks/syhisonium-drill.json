@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "syhisonium drill", "description": "...", "size": 2, "health": 432, "tier": 2, "drillTime": 17, "consumes": {"power": 11}, "requirements": [{"item": "syhisonium", "amount": 4}, {"item": "bulanium", "amount": 19}, {"item": "cosizi", "amount": 2}], "research": "syhisonium-factory", "category": "production"}

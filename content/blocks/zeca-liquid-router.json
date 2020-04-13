@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zeca liquid router", "description": "...", "size": 1, "health": 52, "requirements": [{"item": "zeca", "amount": 3}, {"item": "yafo", "amount": 13}, {"item": "hogazanium", "amount": 7}], "research": "zeca-conduit", "liquidCapacity": 10, "category": "liquid"}

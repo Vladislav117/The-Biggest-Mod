@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "felomo power node", "description": "...", "size": 2, "health": 515, "requirements": [{"item": "felomo", "amount": 6}, {"item": "ziha", "amount": 20}, {"item": "ceyi", "amount": 10}], "research": "felomo-factory", "maxNodes": 21, "laserRange": 11, "category": "power"}

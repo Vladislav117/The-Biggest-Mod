@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zefu liquid router", "description": "...", "size": 1, "health": 16, "requirements": [{"item": "zefu", "amount": 11}, {"item": "vezaya", "amount": 11}, {"item": "jomoka", "amount": 9}], "research": "zefu-conduit", "liquidCapacity": 10, "category": "liquid"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kikana battery", "description": "...", "size": 3, "health": 347, "requirements": [{"item": "kikana", "amount": 6}, {"item": "yoxyzo", "amount": 17}, {"item": "nyvexo", "amount": 6}], "research": "kikana-factory", "consumes": {"powerBuffered": 6850}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jelu battery", "description": "...", "size": 3, "health": 160, "requirements": [{"item": "jelu", "amount": 9}, {"item": "locycanium", "amount": 7}, {"item": "doya", "amount": 5}], "research": "jelu-factory", "consumes": {"powerBuffered": 7707}, "category": "power"}

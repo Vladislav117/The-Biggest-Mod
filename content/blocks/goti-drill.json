@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "goti drill", "description": "...", "size": 4, "health": 124, "tier": 2, "drillTime": 13, "consumes": {"power": 6}, "requirements": [{"item": "goti", "amount": 15}, {"item": "nevyle", "amount": 4}, {"item": "mumu", "amount": 10}], "research": "goti-factory", "category": "production"}

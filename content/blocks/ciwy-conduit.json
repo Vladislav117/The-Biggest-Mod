@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "ciwy conduit", "description": "...", "health": 95, "requirements": [{"item": "ciwy", "amount": 6}, {"item": "qano", "amount": 18}, {"item": "kosonium", "amount": 7}], "liquidCapacity": 36, "liquidPressure": 9, "research": "ciwy-factory", "category": "liquid"}

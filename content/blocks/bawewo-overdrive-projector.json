@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "bawewo overdrive projector", "description": "...", "health": 88, "consumes": {"power": 3.0, "item": "bawewo"}, "size": 2, "requirements": [{"item": "bawewo", "amount": 14}, {"item": "tise", "amount": 13}, {"item": "waqo", "amount": 3}], "research": "bawewo-factory", "category": "effect"}

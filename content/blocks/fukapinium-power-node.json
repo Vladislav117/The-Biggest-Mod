@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "fukapinium power node", "description": "...", "size": 2, "health": 768, "requirements": [{"item": "fukapinium", "amount": 1}, {"item": "zazuji", "amount": 16}, {"item": "direme", "amount": 10}], "research": "fukapinium-factory", "maxNodes": 53, "laserRange": 7, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "duvadi liquid tank", "description": "...", "health": 204, "size": 3, "requirements": [{"item": "duvadi", "amount": 4}, {"item": "lora", "amount": 3}, {"item": "pomagu", "amount": 8}], "research": "duvadi-conduit", "category": "liquid", "liquidCapacity": 49924, "hasLiquids": true}

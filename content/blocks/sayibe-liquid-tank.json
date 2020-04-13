@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "sayibe liquid tank", "description": "...", "health": 307, "size": 3, "requirements": [{"item": "sayibe", "amount": 5}, {"item": "duqu", "amount": 19}, {"item": "cavuyi", "amount": 6}], "research": "sayibe-conduit", "category": "liquid", "liquidCapacity": 35503, "hasLiquids": true}

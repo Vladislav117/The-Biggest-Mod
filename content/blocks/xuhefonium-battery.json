@@ -1,0 +1,1 @@
+{"type": "battery", "name": "xuhefonium battery", "description": "...", "size": 3, "health": 208, "requirements": [{"item": "xuhefonium", "amount": 11}, {"item": "vixuca", "amount": 2}, {"item": "qaya", "amount": 8}], "research": "xuhefonium-factory", "consumes": {"powerBuffered": 5170}, "category": "power"}

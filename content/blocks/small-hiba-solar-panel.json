@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small hiba solar panel", "description": "...", "size": 1, "health": 229, "requirements": [{"item": "hiba", "amount": 1}, {"item": "fejenium", "amount": 8}, {"item": "hukebi", "amount": 6}], "research": "hiba-factory", "powerProduction": 5.210855182110156, "category": "power"}

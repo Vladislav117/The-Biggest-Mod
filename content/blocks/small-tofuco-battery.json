@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small tofuco battery", "description": "...", "size": 1, "health": 27, "requirements": [{"item": "tofuco", "amount": 9}, {"item": "ridivinium", "amount": 16}, {"item": "xyru", "amount": 2}], "research": "tofuco-factory", "consumes": {"powerBuffered": 1284}, "category": "power"}

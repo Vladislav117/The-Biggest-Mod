@@ -1,0 +1,1 @@
+{"type": "battery", "name": "yilynium battery", "description": "...", "size": 3, "health": 55, "requirements": [{"item": "yilynium", "amount": 12}, {"item": "fahu", "amount": 20}, {"item": "zemy", "amount": 7}], "research": "yilynium-factory", "consumes": {"powerBuffered": 6983}, "category": "power"}

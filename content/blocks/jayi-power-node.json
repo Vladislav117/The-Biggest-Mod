@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "jayi power node", "description": "...", "size": 2, "health": 460, "requirements": [{"item": "jayi", "amount": 17}, {"item": "pyto", "amount": 18}, {"item": "furazinium", "amount": 3}], "research": "jayi-factory", "maxNodes": 52, "laserRange": 20, "category": "power"}

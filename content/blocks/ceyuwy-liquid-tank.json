@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "ceyuwy liquid tank", "description": "...", "health": 597, "size": 3, "requirements": [{"item": "ceyuwy", "amount": 19}, {"item": "sore", "amount": 11}, {"item": "tuxu", "amount": 4}], "research": "ceyuwy-conduit", "category": "liquid", "liquidCapacity": 5980, "hasLiquids": true}

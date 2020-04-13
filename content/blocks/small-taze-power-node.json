@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small taze power node", "description": "...", "size": 1, "health": 328, "requirements": [{"item": "taze", "amount": 8}, {"item": "lidori", "amount": 10}, {"item": "qigine", "amount": 5}], "research": "taze-factory", "maxNodes": 3, "laserRange": 6, "category": "power"}

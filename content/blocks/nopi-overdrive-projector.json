@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "nopi overdrive projector", "description": "...", "health": 119, "consumes": {"power": 3.0, "item": "nopi"}, "size": 2, "requirements": [{"item": "nopi", "amount": 20}, {"item": "wahyte", "amount": 12}, {"item": "kike", "amount": 2}], "research": "nopi-factory", "category": "effect"}

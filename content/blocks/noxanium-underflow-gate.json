@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "noxanium underflow gate", "description": "...", "health": 24, "size": 1, "requirements": [{"item": "noxanium", "amount": 1}, {"item": "piqori", "amount": 2}], "research": "noxanium-conveyor", "category": "distribution", "invert": false}

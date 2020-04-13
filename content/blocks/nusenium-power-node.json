@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "nusenium power node", "description": "...", "size": 2, "health": 440, "requirements": [{"item": "nusenium", "amount": 20}, {"item": "myfo", "amount": 15}, {"item": "holipu", "amount": 1}], "research": "nusenium-factory", "maxNodes": 11, "laserRange": 8, "category": "power"}

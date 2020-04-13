@@ -1,0 +1,1 @@
+{"type": "junction", "name": "vamoginium junction", "description": "...", "health": 32, "speed": 16, "capacity": 17, "size": 1, "requirements": [{"item": "vamoginium", "amount": 3}, {"item": "lybazanium", "amount": 1}], "research": "vamoginium-conveyor", "category": "distribution"}

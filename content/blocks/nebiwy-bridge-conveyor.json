@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "nebiwy bridge conveyor", "description": "", "health": 40, "range": 7, "speed": 4, "bufferCapacity": 6, "requirements": [{"item": "nebiwy", "amount": 2}, {"item": "mase", "amount": 5}], "research": "nebiwy-conveyor", "category": "distribution", "size": 1}

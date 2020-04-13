@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small ruvabynium power node", "description": "...", "size": 1, "health": 213, "requirements": [{"item": "ruvabynium", "amount": 1}, {"item": "gola", "amount": 18}, {"item": "fogodo", "amount": 7}], "research": "ruvabynium-factory", "maxNodes": 9, "laserRange": 23, "category": "power"}

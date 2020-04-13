@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "fypanium drill", "description": "...", "size": 2, "health": 140, "tier": 4, "drillTime": 7, "consumes": {"power": 1}, "requirements": [{"item": "fypanium", "amount": 8}, {"item": "hyru", "amount": 7}, {"item": "hotonium", "amount": 3}], "research": "fypanium-factory", "category": "production"}

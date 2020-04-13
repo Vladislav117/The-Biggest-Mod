@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "gayi liquid tank", "description": "...", "health": 364, "size": 3, "requirements": [{"item": "gayi", "amount": 10}, {"item": "toti", "amount": 3}, {"item": "nirenium", "amount": 5}], "research": "gayi-conduit", "category": "liquid", "liquidCapacity": 70621, "hasLiquids": true}

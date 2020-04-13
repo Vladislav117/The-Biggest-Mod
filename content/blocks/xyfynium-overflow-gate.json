@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "xyfynium overflow gate", "description": "...", "health": 43, "size": 1, "requirements": [{"item": "xyfynium", "amount": 2}, {"item": "lora", "amount": 5}], "research": "xyfynium-conveyor", "category": "distribution", "invert": false}

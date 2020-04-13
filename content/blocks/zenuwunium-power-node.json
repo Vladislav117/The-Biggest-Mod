@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zenuwunium power node", "description": "...", "size": 2, "health": 667, "requirements": [{"item": "zenuwunium", "amount": 17}, {"item": "mumu", "amount": 20}, {"item": "bacone", "amount": 10}], "research": "zenuwunium-factory", "maxNodes": 11, "laserRange": 30, "category": "power"}

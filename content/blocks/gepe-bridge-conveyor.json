@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gepe bridge conveyor", "description": "", "health": 6, "range": 7, "speed": 20, "bufferCapacity": 12, "requirements": [{"item": "gepe", "amount": 5}, {"item": "qobu", "amount": 5}], "research": "gepe-conveyor", "category": "distribution", "size": 1}

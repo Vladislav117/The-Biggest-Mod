@@ -1,0 +1,1 @@
+{"type": "junction", "name": "lyty junction", "description": "...", "health": 31, "speed": 1, "capacity": 9, "size": 1, "requirements": [{"item": "lyty", "amount": 3}, {"item": "milosi", "amount": 4}], "research": "lyty-conveyor", "category": "distribution"}

@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "nylo conduit", "description": "...", "health": 108, "requirements": [{"item": "nylo", "amount": 18}, {"item": "fery", "amount": 18}, {"item": "woyyni", "amount": 1}], "liquidCapacity": 5, "liquidPressure": 6, "research": "nylo-factory", "category": "liquid"}

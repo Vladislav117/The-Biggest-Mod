@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "voqaya liquid tank", "description": "...", "health": 560, "size": 3, "requirements": [{"item": "voqaya", "amount": 12}, {"item": "tyjy", "amount": 2}, {"item": "gada", "amount": 7}], "research": "voqaya-conduit", "category": "liquid", "liquidCapacity": 56362, "hasLiquids": true}

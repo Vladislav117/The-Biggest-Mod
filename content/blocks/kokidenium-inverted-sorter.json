@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "kokidenium inverted sorter", "description": ",...", "health": 8, "size": 1, "requirements": [{"item": "kokidenium", "amount": 4}, {"item": "sylumo", "amount": 1}], "research": "kokidenium-conveyor", "category": "distribution", "invert": true}

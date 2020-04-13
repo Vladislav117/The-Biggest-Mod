@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "lafily bridge conveyor", "description": "", "health": 42, "range": 16, "speed": 11, "bufferCapacity": 10, "requirements": [{"item": "lafily", "amount": 4}, {"item": "kylype", "amount": 3}], "research": "lafily-conveyor", "category": "distribution", "size": 1}

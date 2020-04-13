@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "hogo solar panel", "description": "...", "size": 3, "health": 396, "requirements": [{"item": "hogo", "amount": 17}, {"item": "rizu", "amount": 13}, {"item": "yirere", "amount": 2}], "research": "hogo-factory", "powerProduction": 2.2555460167695873, "category": "power"}

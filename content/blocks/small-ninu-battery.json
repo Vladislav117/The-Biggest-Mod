@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small ninu battery", "description": "...", "size": 1, "health": 95, "requirements": [{"item": "ninu", "amount": 8}, {"item": "winyjo", "amount": 13}, {"item": "lyzecinium", "amount": 9}], "research": "ninu-factory", "consumes": {"powerBuffered": 1599}, "category": "power"}

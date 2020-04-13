@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "vysuga solar panel", "description": "...", "size": 3, "health": 152, "requirements": [{"item": "vysuga", "amount": 6}, {"item": "lify", "amount": 13}, {"item": "dyzaxi", "amount": 6}], "research": "vysuga-factory", "powerProduction": 0.8490002644826742, "category": "power"}

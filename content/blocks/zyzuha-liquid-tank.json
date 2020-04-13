@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "zyzuha liquid tank", "description": "...", "health": 306, "size": 3, "requirements": [{"item": "zyzuha", "amount": 20}, {"item": "zikeve", "amount": 20}, {"item": "bise", "amount": 6}], "research": "zyzuha-conduit", "category": "liquid", "liquidCapacity": 113924, "hasLiquids": true}

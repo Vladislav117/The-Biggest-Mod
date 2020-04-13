@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small qyha battery", "description": "...", "size": 1, "health": 83, "requirements": [{"item": "qyha", "amount": 6}, {"item": "wavoli", "amount": 8}, {"item": "puye", "amount": 1}], "research": "qyha-factory", "consumes": {"powerBuffered": 582}, "category": "power"}

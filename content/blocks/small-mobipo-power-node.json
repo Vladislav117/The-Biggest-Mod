@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small mobipo power node", "description": "...", "size": 1, "health": 231, "requirements": [{"item": "mobipo", "amount": 12}, {"item": "macixy", "amount": 8}, {"item": "gyfy", "amount": 1}], "research": "mobipo-factory", "maxNodes": 10, "laserRange": 8, "category": "power"}

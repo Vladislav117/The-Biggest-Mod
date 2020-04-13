@@ -1,0 +1,1 @@
+{"type": "Drill", "itemCapacity": 10, "name": "niqo drill", "description": "...", "size": 4, "health": 208, "tier": 2, "drillTime": 16, "consumes": {"power": 17}, "requirements": [{"item": "niqo", "amount": 20}, {"item": "tixanu", "amount": 7}, {"item": "yixa", "amount": 8}], "research": "niqo-factory", "category": "production"}

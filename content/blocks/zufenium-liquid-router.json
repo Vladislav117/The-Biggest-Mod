@@ -1,0 +1,1 @@
+{"type": "LiquidRouter", "name": "zufenium liquid router", "description": "...", "size": 1, "health": 67, "requirements": [{"item": "zufenium", "amount": 16}, {"item": "jucinium", "amount": 1}, {"item": "pawusy", "amount": 5}], "research": "zufenium-conduit", "liquidCapacity": 10, "category": "liquid"}

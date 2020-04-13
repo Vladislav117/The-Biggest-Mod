@@ -1,0 +1,1 @@
+{"type": "junction", "name": "qatu junction", "description": "...", "health": 6, "speed": 19, "capacity": 5, "size": 1, "requirements": [{"item": "qatu", "amount": 3}, {"item": "fizy", "amount": 5}], "research": "qatu-conveyor", "category": "distribution"}

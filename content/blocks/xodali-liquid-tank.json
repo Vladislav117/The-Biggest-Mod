@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "xodali liquid tank", "description": "...", "health": 146, "size": 3, "requirements": [{"item": "xodali", "amount": 18}, {"item": "garoqanium", "amount": 5}, {"item": "gygi", "amount": 7}], "research": "xodali-conduit", "category": "liquid", "liquidCapacity": 76121, "hasLiquids": true}

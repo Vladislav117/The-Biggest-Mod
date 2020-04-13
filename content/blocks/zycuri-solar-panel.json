@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "zycuri solar panel", "description": "...", "size": 3, "health": 271, "requirements": [{"item": "zycuri", "amount": 8}, {"item": "jodezu", "amount": 10}, {"item": "ziti", "amount": 5}], "research": "zycuri-factory", "powerProduction": 0.12688570702893898, "category": "power"}

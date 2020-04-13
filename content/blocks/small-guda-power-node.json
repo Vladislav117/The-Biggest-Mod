@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "Small guda power node", "description": "...", "size": 1, "health": 146, "requirements": [{"item": "guda", "amount": 8}, {"item": "hasu", "amount": 8}, {"item": "lunido", "amount": 1}], "research": "guda-factory", "maxNodes": 11, "laserRange": 3, "category": "power"}

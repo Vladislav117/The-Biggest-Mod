@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "hycywi power node", "description": "...", "size": 2, "health": 414, "requirements": [{"item": "hycywi", "amount": 17}, {"item": "jafa", "amount": 12}, {"item": "cisiwa", "amount": 6}], "research": "hycywi-factory", "maxNodes": 50, "laserRange": 12, "category": "power"}

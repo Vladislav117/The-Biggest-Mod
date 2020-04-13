@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "cetobu conduit", "description": "...", "health": 45, "requirements": [{"item": "cetobu", "amount": 2}, {"item": "qykyzo", "amount": 16}, {"item": "fyfoni", "amount": 2}], "liquidCapacity": 38, "liquidPressure": 5, "research": "cetobu-factory", "category": "liquid"}

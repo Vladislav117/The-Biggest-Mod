@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "myruhy inverted sorter", "description": ",...", "health": 36, "size": 1, "requirements": [{"item": "myruhy", "amount": 4}, {"item": "nupafu", "amount": 2}], "research": "myruhy-conveyor", "category": "distribution", "invert": true}

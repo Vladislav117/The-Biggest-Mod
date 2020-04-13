@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "xodali force projector", "description": "...", "health": 121, "size": 3, "consumes": {"power": 5.0, "item": "xodali"}, "requirements": [{"item": "xodali", "amount": 11}, {"item": "myxo", "amount": 12}, {"item": "hitiva", "amount": 9}], "research": "xodali-factory", "category": "effect"}

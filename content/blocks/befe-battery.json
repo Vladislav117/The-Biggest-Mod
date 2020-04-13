@@ -1,0 +1,1 @@
+{"type": "battery", "name": "befe battery", "description": "...", "size": 3, "health": 329, "requirements": [{"item": "befe", "amount": 12}, {"item": "mapo", "amount": 12}, {"item": "deru", "amount": 10}], "research": "befe-factory", "consumes": {"powerBuffered": 657}, "category": "power"}

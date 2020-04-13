@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "nogofe liquid tank", "description": "...", "health": 248, "size": 3, "requirements": [{"item": "nogofe", "amount": 16}, {"item": "havipi", "amount": 15}, {"item": "bipanium", "amount": 6}], "research": "nogofe-conduit", "category": "liquid", "liquidCapacity": 4496, "hasLiquids": true}

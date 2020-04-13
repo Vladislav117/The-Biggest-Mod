@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "yewoxa force projector", "description": "...", "health": 152, "size": 3, "consumes": {"power": 5.0, "item": "yewoxa"}, "requirements": [{"item": "yewoxa", "amount": 17}, {"item": "wozego", "amount": 17}, {"item": "pizi", "amount": 3}], "research": "yewoxa-factory", "category": "effect"}

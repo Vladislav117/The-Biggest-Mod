@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "humynium power node", "description": "...", "size": 2, "health": 97, "requirements": [{"item": "humynium", "amount": 16}, {"item": "neletanium", "amount": 6}, {"item": "zadyle", "amount": 8}], "research": "humynium-factory", "maxNodes": 58, "laserRange": 5, "category": "power"}

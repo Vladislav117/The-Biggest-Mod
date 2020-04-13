@@ -1,0 +1,1 @@
+{"type": "junction", "name": "fyhi junction", "description": "...", "health": 13, "speed": 15, "capacity": 15, "size": 1, "requirements": [{"item": "fyhi", "amount": 2}, {"item": "sede", "amount": 4}], "research": "fyhi-conveyor", "category": "distribution"}

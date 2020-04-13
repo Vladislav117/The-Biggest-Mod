@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xavidu solar panel", "description": "...", "size": 1, "health": 138, "requirements": [{"item": "xavidu", "amount": 10}, {"item": "sokezy", "amount": 5}, {"item": "zivo", "amount": 1}], "research": "xavidu-factory", "powerProduction": 3.8511421564023416, "category": "power"}

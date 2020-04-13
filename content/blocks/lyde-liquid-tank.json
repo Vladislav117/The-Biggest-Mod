@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "lyde liquid tank", "description": "...", "health": 333, "size": 3, "requirements": [{"item": "lyde", "amount": 2}, {"item": "xaji", "amount": 16}, {"item": "zohobe", "amount": 6}], "research": "lyde-conduit", "category": "liquid", "liquidCapacity": 20153, "hasLiquids": true}

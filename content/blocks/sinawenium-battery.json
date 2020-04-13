@@ -1,0 +1,1 @@
+{"type": "battery", "name": "sinawenium battery", "description": "...", "size": 3, "health": 20, "requirements": [{"item": "sinawenium", "amount": 7}, {"item": "tugi", "amount": 19}, {"item": "ziwa", "amount": 4}], "research": "sinawenium-factory", "consumes": {"powerBuffered": 7354}, "category": "power"}

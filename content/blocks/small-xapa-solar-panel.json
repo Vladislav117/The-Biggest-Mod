@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small xapa solar panel", "description": "...", "size": 1, "health": 214, "requirements": [{"item": "xapa", "amount": 16}, {"item": "vesy", "amount": 1}, {"item": "kide", "amount": 6}], "research": "xapa-factory", "powerProduction": 2.880039274088089, "category": "power"}

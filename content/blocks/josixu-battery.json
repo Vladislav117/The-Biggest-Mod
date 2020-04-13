@@ -1,0 +1,1 @@
+{"type": "battery", "name": "josixu battery", "description": "...", "size": 3, "health": 371, "requirements": [{"item": "josixu", "amount": 7}, {"item": "rucoxenium", "amount": 19}, {"item": "gepe", "amount": 4}], "research": "josixu-factory", "consumes": {"powerBuffered": 4025}, "category": "power"}

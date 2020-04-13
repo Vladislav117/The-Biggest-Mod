@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small poyawonium solar panel", "description": "...", "size": 1, "health": 343, "requirements": [{"item": "poyawonium", "amount": 5}, {"item": "bixela", "amount": 13}, {"item": "gefabi", "amount": 9}], "research": "poyawonium-factory", "powerProduction": 1.4742192080326673, "category": "power"}

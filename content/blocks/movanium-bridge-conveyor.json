@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "movanium bridge conveyor", "description": "", "health": 11, "range": 6, "speed": 13, "bufferCapacity": 3, "requirements": [{"item": "movanium", "amount": 1}, {"item": "phase-fabric", "amount": 4}], "research": "movanium-conveyor", "category": "distribution", "size": 1}

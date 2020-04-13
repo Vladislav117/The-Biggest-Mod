@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "gepyna bridge conveyor", "description": "", "health": 40, "range": 9, "speed": 20, "bufferCapacity": 15, "requirements": [{"item": "gepyna", "amount": 1}, {"item": "sofowo", "amount": 2}], "research": "gepyna-conveyor", "category": "distribution", "size": 1}

@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "wazy power node", "description": "...", "size": 2, "health": 544, "requirements": [{"item": "wazy", "amount": 13}, {"item": "hexa", "amount": 14}, {"item": "yemihonium", "amount": 5}], "research": "wazy-factory", "maxNodes": 59, "laserRange": 25, "category": "power"}

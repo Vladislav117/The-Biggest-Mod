@@ -1,0 +1,1 @@
+{"type": "ForceProjector", "name": "cypi force projector", "description": "...", "health": 198, "size": 3, "consumes": {"power": 5.0, "item": "cypi"}, "requirements": [{"item": "cypi", "amount": 15}, {"item": "kimicy", "amount": 5}, {"item": "mibunium", "amount": 10}], "research": "cypi-factory", "category": "effect"}

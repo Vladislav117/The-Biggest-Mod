@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "taxidy bridge conveyor", "description": "", "health": 18, "range": 6, "speed": 12, "bufferCapacity": 17, "requirements": [{"item": "taxidy", "amount": 1}, {"item": "cosi", "amount": 1}], "research": "taxidy-conveyor", "category": "distribution", "size": 1}

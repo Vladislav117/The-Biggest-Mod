@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "qiyo overflow gate", "description": "...", "health": 41, "size": 1, "requirements": [{"item": "qiyo", "amount": 3}, {"item": "sokima", "amount": 2}], "research": "qiyo-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "ciqi battery", "description": "...", "size": 3, "health": 191, "requirements": [{"item": "ciqi", "amount": 2}, {"item": "vodico", "amount": 15}, {"item": "siqefo", "amount": 5}], "research": "ciqi-factory", "consumes": {"powerBuffered": 6553}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small syyyvo solar panel", "description": "...", "size": 1, "health": 229, "requirements": [{"item": "syyyvo", "amount": 14}, {"item": "bomiry", "amount": 14}, {"item": "jycepynium", "amount": 10}], "research": "syyyvo-factory", "powerProduction": 0.5339988671729584, "category": "power"}

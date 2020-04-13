@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kobynium battery", "description": "...", "size": 3, "health": 355, "requirements": [{"item": "kobynium", "amount": 7}, {"item": "minoca", "amount": 13}, {"item": "buji", "amount": 9}], "research": "kobynium-factory", "consumes": {"powerBuffered": 9999}, "category": "power"}

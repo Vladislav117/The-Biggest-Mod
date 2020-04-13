@@ -1,0 +1,1 @@
+{"type": "Conduit", "name": "lobojenium conduit", "description": "...", "health": 25, "requirements": [{"item": "lobojenium", "amount": 12}, {"item": "migy", "amount": 16}, {"item": "wemenium", "amount": 1}], "liquidCapacity": 26, "liquidPressure": 8, "research": "lobojenium-factory", "category": "liquid"}

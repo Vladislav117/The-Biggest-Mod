@@ -1,0 +1,1 @@
+{"type": "OverflowGate", "name": "nilara underflow gate", "description": "...", "health": 17, "size": 1, "requirements": [{"item": "nilara", "amount": 3}, {"item": "zaqenium", "amount": 2}], "research": "nilara-conveyor", "category": "distribution", "invert": false}

@@ -1,0 +1,1 @@
+{"type": "battery", "name": "qapi battery", "description": "...", "size": 3, "health": 64, "requirements": [{"item": "qapi", "amount": 19}, {"item": "qaryzi", "amount": 12}, {"item": "lybazi", "amount": 3}], "research": "qapi-factory", "consumes": {"powerBuffered": 3484}, "category": "power"}

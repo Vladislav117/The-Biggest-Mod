@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "jygowu liquid tank", "description": "...", "health": 640, "size": 3, "requirements": [{"item": "jygowu", "amount": 3}, {"item": "xyyira", "amount": 3}, {"item": "rebugunium", "amount": 7}], "research": "jygowu-conduit", "category": "liquid", "liquidCapacity": 110930, "hasLiquids": true}

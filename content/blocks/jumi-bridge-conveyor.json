@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "jumi bridge conveyor", "description": "", "health": 42, "range": 3, "speed": 18, "bufferCapacity": 15, "requirements": [{"item": "jumi", "amount": 2}, {"item": "lymy", "amount": 5}], "research": "jumi-conveyor", "category": "distribution", "size": 1}

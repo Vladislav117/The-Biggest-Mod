@@ -1,0 +1,1 @@
+{"type": "junction", "name": "sudu junction", "description": "...", "health": 21, "speed": 18, "capacity": 15, "size": 1, "requirements": [{"item": "sudu", "amount": 4}, {"item": "xylidinium", "amount": 4}], "research": "sudu-conveyor", "category": "distribution"}

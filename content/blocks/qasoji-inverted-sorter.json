@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "qasoji inverted sorter", "description": ",...", "health": 28, "size": 1, "requirements": [{"item": "qasoji", "amount": 2}, {"item": "hasu", "amount": 5}], "research": "qasoji-conveyor", "category": "distribution", "invert": true}

@@ -1,0 +1,1 @@
+{"type": "OverdriveProjector", "name": "kyfoqi overdrive projector", "description": "...", "health": 113, "consumes": {"power": 3.0, "item": "kyfoqi"}, "size": 2, "requirements": [{"item": "kyfoqi", "amount": 1}, {"item": "nyjanium", "amount": 5}, {"item": "qetyginium", "amount": 10}], "research": "kyfoqi-factory", "category": "effect"}

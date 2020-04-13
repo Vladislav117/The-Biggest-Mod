@@ -1,0 +1,1 @@
+{"type": "PowerNode", "name": "zonufu power node", "description": "...", "size": 2, "health": 127, "requirements": [{"item": "zonufu", "amount": 16}, {"item": "rymeyinium", "amount": 11}, {"item": "gihalu", "amount": 7}], "research": "zonufu-factory", "maxNodes": 11, "laserRange": 27, "category": "power"}

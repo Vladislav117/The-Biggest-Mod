@@ -1,0 +1,1 @@
+{"type": "Conveyor", "name": "pymu conveyor", "description": "...", "health": 314, "requirements": [{"item": "pymu", "amount": 2}, {"item": "vywene", "amount": 9}], "speed": 0.01900347676634445, "research": "pymu-factory", "category": "distribution"}

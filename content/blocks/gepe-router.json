@@ -1,0 +1,1 @@
+{"type": "router", "name": "gepe router", "description": "...", "health": 16, "size": 1, "requirements": [{"item": "gepe", "amount": 10}], "research": "gepe-conveyor", "category": "distribution"}

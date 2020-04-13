@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "tole solar panel", "description": "...", "size": 3, "health": 137, "requirements": [{"item": "tole", "amount": 16}, {"item": "paba", "amount": 4}, {"item": "riniqi", "amount": 6}], "research": "tole-factory", "powerProduction": 0.4430512963602712, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "Small kegiqi solar panel", "description": "...", "size": 1, "health": 268, "requirements": [{"item": "kegiqi", "amount": 4}, {"item": "faqymu", "amount": 2}, {"item": "jumonium", "amount": 1}], "research": "kegiqi-factory", "powerProduction": 3.0842248502636855, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "sorter", "name": "nyvexo inverted sorter", "description": ",...", "health": 19, "size": 1, "requirements": [{"item": "nyvexo", "amount": 1}, {"item": "wana", "amount": 4}], "research": "nyvexo-conveyor", "category": "distribution", "invert": true}

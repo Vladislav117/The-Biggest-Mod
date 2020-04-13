@@ -1,0 +1,1 @@
+{"type": "BufferedItemBridge", "name": "daryki bridge conveyor", "description": "", "health": 6, "range": 9, "speed": 2, "bufferCapacity": 5, "requirements": [{"item": "daryki", "amount": 5}, {"item": "xutire", "amount": 5}], "research": "daryki-conveyor", "category": "distribution", "size": 1}

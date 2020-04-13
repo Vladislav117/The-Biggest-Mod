@@ -1,0 +1,1 @@
+{"type": "LiquidTank", "name": "mewy liquid tank", "description": "...", "health": 419, "size": 3, "requirements": [{"item": "mewy", "amount": 7}, {"item": "sacy", "amount": 15}, {"item": "cizi", "amount": 8}], "research": "mewy-conduit", "category": "liquid", "liquidCapacity": 77742, "hasLiquids": true}

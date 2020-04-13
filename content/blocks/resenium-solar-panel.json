@@ -1,0 +1,1 @@
+{"type": "SolarGenerator", "name": "resenium solar panel", "description": "...", "size": 3, "health": 251, "requirements": [{"item": "resenium", "amount": 4}, {"item": "kixihinium", "amount": 19}, {"item": "yajawa", "amount": 8}], "research": "resenium-factory", "powerProduction": 0.11333925765393639, "category": "power"}

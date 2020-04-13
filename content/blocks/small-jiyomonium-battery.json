@@ -1,0 +1,1 @@
+{"type": "battery", "name": "Small jiyomonium battery", "description": "...", "size": 1, "health": 136, "requirements": [{"item": "jiyomonium", "amount": 11}, {"item": "jywupa", "amount": 20}, {"item": "migube", "amount": 4}], "research": "jiyomonium-factory", "consumes": {"powerBuffered": 1560}, "category": "power"}

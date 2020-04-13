@@ -1,0 +1,1 @@
+{"type": "battery", "name": "kyxiwi battery", "description": "...", "size": 3, "health": 10, "requirements": [{"item": "kyxiwi", "amount": 8}, {"item": "fizy", "amount": 9}, {"item": "jywupa", "amount": 5}], "research": "kyxiwi-factory", "consumes": {"powerBuffered": 1476}, "category": "power"}

@@ -1,0 +1,1 @@
+{"type": "junction", "name": "xybimi junction", "description": "...", "health": 6, "speed": 17, "capacity": 19, "size": 1, "requirements": [{"item": "xybimi", "amount": 2}, {"item": "gizely", "amount": 4}], "research": "xybimi-conveyor", "category": "distribution"}

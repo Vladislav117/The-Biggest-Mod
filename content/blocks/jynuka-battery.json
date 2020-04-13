@@ -1,0 +1,1 @@
+{"type": "battery", "name": "jynuka battery", "description": "...", "size": 3, "health": 175, "requirements": [{"item": "jynuka", "amount": 14}, {"item": "padopu", "amount": 6}, {"item": "fyqexo", "amount": 2}], "research": "jynuka-factory", "consumes": {"powerBuffered": 2790}, "category": "power"}
