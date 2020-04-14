@@ -10,4 +10,8 @@ This mod was created using the engine, which I wrote in python. Soon I will post
 You must wait before the game starts. (*It took about 20 minutes on normal PC*)
 ----
 <br>
-I think the phone will not launch this mod.
+I think the phone will not launch this mod.<br>
+Contacts:<br>
+mail: siluetkysta@gmail.com<br>
+VK: vk.com/iamvladislavm<br>
+Discord: Vladislav117#2538<br>
