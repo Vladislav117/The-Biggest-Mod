@@ -14,3 +14,5 @@ Contacts:<br>
 mail: siluetkysta@gmail.com<br>
 VK: vk.com/iamvladislavm<br>
 Discord: Vladislav117#2538<br>
+
+117. Okay?
